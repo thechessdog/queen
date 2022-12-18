@@ -1,0 +1,26 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Haenisch, Uwe"]
+[Black "Juhnke, Karl"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "52322b79"]
+[Epoch "Queen"]
+[WhiteID "4629302"]
+[WhiteCountry "GER"]
+[BlackID "4602978"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. Bd2
+O-O 9. O-O Nd4 10. Nh4 Rb8 11. Rc1 b6 12. Qe1 Qd7 13. Ne2 d5 14. Nxd4 Bxd4+ 15.
+Be3 dxe4 16. dxe4 Bxb2 17. Rd1 Qa4 18. c3 Ba6 19. f5 Bxf1 20. Qxf1 Rbd8 21.
+Rxd8 Rxd8 22. fxe6 fxe6 23. Qf6 Qd1+ 24. Bf1 Rf8 25. Qxe6+ Rf7 26. Bf4 Bxc3 27.
+Kg2 Qd4 28. Bc4 Qf6 29. Qd7 Kg7 30. Nf3 Ng8 31. Qd3 Ba1 32. Bxf7 Qxf7 33. Qb1
+Bf6 34. e5 Be7 35. Qb2 Qd5 36. Qd2 Qxd2+ 37. Nxd2 Kf7 38. Kf3 Ke6 39. Ke4 Bf8
+40. Nf3 h6 41. h4 Ne7 42. Ne1 Nd5 43. Bd2 h5 44. a3 a6 45. Nf3 Be7 46. Ne1 b5
+47. Nf3 Nb6 48. Bc3 Nc4 49. Ne1 Nb6 50. Nd3 Nd5 51. Bd2 c4 52. Ne1 Bxa3 53. Nf3
+Ne7 54. Nd4+ Kd7 55. e6+ Ke8 56. Nc2 Bd6 57. Bf4 Bxf4 58. Kxf4 c3 0-1

@@ -1,0 +1,21 @@
+[Event "Aarhus-D"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Kroll, Ove"]
+[Black "Kristensen, Jorgen Juul"]
+[Result "1-0"]
+[ECO "A26"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "e91ded1b"]
+[Epoch "Queen"]
+[BlackID "1401122"]
+[BlackCountry "DEN"]
+[WhiteID "1400215"]
+[WhiteCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Nge7 7. Nf3 O-O 8. O-O
+exf4 9. Bxf4 Nf5 10. Qd2 Re8 11. Nd5 Ncd4 12. e4 Nxf3+ 13. Rxf3 Nd4 14. Rf2 Ne6
+15. Bh6 Bd4 16. Be3 Bg7 17. Raf1 f5 18. exf5 gxf5 19. Rxf5 Rf8 20. Rxf8+ Nxf8
+21. Bg5 Qd7 22. Nf6+ Bxf6 23. Bxf6 c6 24. Bc3 Ng6 25. Be4 1-0

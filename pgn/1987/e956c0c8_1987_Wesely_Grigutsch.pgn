@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wesely"]
+[Black "Grigutsch"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "e956c0c8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+a6 9. Nxd4 Nc6 10. Ngf3 f6 11. Nxc6 bxc6 12. Bb2 Bb7 13. Bd3 f5 14. c4 Ne7
+15. c5 O-O 16. Nd4 Qd7 17. Qh5 Ng6 18. O-O Rf7 19. g4 Nxf4 20. Rxf4 Bxe5
+21. gxf5 exf5 22. Bxf5 1-0
+

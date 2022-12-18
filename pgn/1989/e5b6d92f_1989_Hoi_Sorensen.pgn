@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Sorensen, Jan"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "e5b6d92f"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. e3 Bg7 5. Nc3 O-O 6. Be2 cxd4 7. exd4 d5 8. h3
+b6 9. O-O Bb7 10. Ne5 Nbd7 11. Bf4 Rc8 12. Bf3 Nxe5 13. dxe5 Nd7 14. Bxd5 Bxd5
+15. Qxd5 Rc5 16. Qe4 Nxe5 17. Rad1 Qc8 18. Nd5 Qe6 19. Bxe5 Bxe5 20. Rfe1 Bf6
+21. Qf3 Qc6 22. Rxe7 Kg7 23. Rc7 Qe6 24. Rxc5 bxc5 25. Qxf6+ Qxf6 26. Nxf6 Kxf6
+27. Rd7 a5 28. Ra7 Rd8 29. Rxa5 Rd1+ 30. Kh2 Rd2 31. Rb5 Rxf2 32. a4 Ke6 33. a5
+Rc2 34. a6 1-0

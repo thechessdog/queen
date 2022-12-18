@@ -1,0 +1,20 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lobstein"]
+[Black "Juglard, E."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "d244f1ca"]
+[Epoch "Queen"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. dxc5 Bxc5 7. Bd3 Nc6
+8. Bf4 a6 9. O-O Qc7 10. Qe2 Nd4 11. Nxd4 Bxd4 12. Rfe1 b5 13. Qg4 g6 14.
+Qg3 Bb7 15. a4 Bxc3 16. bxc3 bxa4 17. Rxa4 Qxc3 18. Rea1 Qc6 19. Qh4 h5 20.
+Bd2 Qc7 21. Bb4 Nxe5 22. Bb5+ Bc6 23. Rxa6 Rxa6 24. Rxa6 Bxb5 25. Ra8+ Kd7
+26. Ra7 Qxa7 27. Qe7+ Kc6 28. Qxa7 Nd7 29. Ba5 Rc8 30. c3 f5 31. h3 e5 32.
+g4 hxg4 33. hxg4 fxg4 34. Qe3 Kd6 35. Qg5 1-0
+

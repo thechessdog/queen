@@ -1,0 +1,22 @@
+[Event "Biel-JMT"]
+[Site "Biel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "db693106"]
+[Epoch "Queen"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+[WhiteID "736112"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 12. h3 Ne5 13. Nf3 g4 14. Nxe5 Rxe5 15.
+Bf4 Re8 16. Bxg4 Bxg4 17. hxg4 Nxe4 18. Nxe4 Rxe4 19. Qf3 Rb4 20. Qg3 Rxb2 21.
+Bxd6 c4 22. Rad1 Rc8 23. Be5 c3 24. Bxg7 Kxg7 25. g5 Kg8 26. Qe5 Rd2 27. Rxd2
+cxd2 28. Qd4 Qxg5 29. f4 Qg6 30. Rd1 Rc1 31. d6 Rxd1+ 32. Kf2 Rf1+ 0-1

@@ -1,0 +1,19 @@
+[Event "Pohja"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nowak, Ignacy"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "b7570a86"]
+[Epoch "Queen"]
+[WhiteID "1100157"]
+[BlackID "500020"]
+[WhiteCountry "POL"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. Nc3 d5 7. cxd5 cxd5 8. Ne5
+e6 9. e3 Nfd7 10. Nd3 Nc6 11. O-O b6 12. b3 Ba6 13. Ba3 Re8 14. Rc1 Rc8 15. Re1
+Bf8 16. Bxf8 Nxf8 17. Bf1 Re7 18. Qd2 1/2-1/2

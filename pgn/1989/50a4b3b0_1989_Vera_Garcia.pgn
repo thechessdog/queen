@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Garcia, Gildardo"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "50a4b3b0"]
+[Epoch "Queen"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteID "3500055"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Bb5+ Nc6 9. O-O O-O 10. Be3 Bg4 11. dxc5 1/2-1/2

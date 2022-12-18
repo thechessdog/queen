@@ -1,0 +1,17 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vucenovic, Dragomir"]
+[Black "Ruefenacht, Matthias"]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[HashCode "4818e8ed"]
+[Epoch "Queen"]
+[WhiteID "1300393"]
+[WhiteCountry "SUI"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O g6 5. c4 Bg7 6. Nc3 e5 7. e3 d6 8. d4 O-O
+9. dxc5 dxc5 10. Nd5 Ne7 11. e4 Nxe4 12. Nxe5 Nxd5 13. Nxf7 Kxf7 14. Bxe4 Nf6
+15. Qf3 Kg8 16. Bxb7 Bxb7 17. Qxb7 Qd7 18. Qg2 Ng4 19. Bf4 Bd4 0-1

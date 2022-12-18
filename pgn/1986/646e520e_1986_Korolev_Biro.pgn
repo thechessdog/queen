@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Korolev, A."]
+[Black "Biro, S."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "646e520e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Bg4 11. h3 Bh5 12. Bc2 Be7 13. Re1 Bg6 14. Nf1
+Qd7 15. Ng3 Rd8 16. Nd4 Nxd4 17. cxd4 Ne6 18. Nf5 c5 19. Be3 O-O 20. Rc1
+Rc8 21. dxc5 Bxc5 22. Bxc5 Rxc5 23. Nd6 Qc6 24. Bb3 d4 25. Qd2 d3 26. f4
+Nd4 27. Rxc5 Qxc5 28. Kh2 Nxb3 29. axb3 f6 30. f5 Bh5 31. Qxd3 fxe5 32. b4
+Qxb4 33. Qd5+ Bf7 34. Qxe5 Qb3 35. Re4 Qd5 36. Qe7 a5 37. Rg4 b4 38. Ne4
+Qd8 39. Qe5 1-0
+

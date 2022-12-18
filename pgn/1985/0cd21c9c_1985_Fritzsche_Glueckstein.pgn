@@ -1,0 +1,16 @@
+[Event "Magdeburg"]
+[Site "Magdeburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fritzsche"]
+[Black "Glueckstein"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "0cd21c9c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. O-O O-O
+8. Nc3 d6 9. b3 a5 10. Bb2 Re8 11. Qd2 Bg4 12. Nd4 Bxe2 13. Nxc6 Nf3+ 0-1
+

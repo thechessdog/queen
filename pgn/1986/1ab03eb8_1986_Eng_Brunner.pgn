@@ -1,0 +1,19 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Eng, Holger, Dr."]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "1ab03eb8"]
+[Epoch "Queen"]
+[WhiteID "4602072"]
+[WhiteCountry "GER"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Qc2 c5 8. dxc5
+Bxc5 9. Bg5 Qc8 10. Rc1 h6 11. Nxd5 hxg5 12. b4 Bxd5 13. bxc5 Qxc5 14. Qa4+ 1-0

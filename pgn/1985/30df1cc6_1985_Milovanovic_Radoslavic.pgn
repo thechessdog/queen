@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Milovanovic"]
+[Black "Radoslavic"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "30df1cc6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8.
+O-O exf4 9. gxf4 O-O 10. f5 Bd4+ 11. Kh1 Bxc3 12. bxc3 f6 13. Bh6 Rf7 14.
+d4 Kh8 15. Ng5 fxg5 16. fxg6 Rf4 17. Bxg5 Bg4 18. Qd2 Rxf1+ 19. Rxf1 hxg6
+20. Qf4 Bh5 21. Qf7 1-0
+

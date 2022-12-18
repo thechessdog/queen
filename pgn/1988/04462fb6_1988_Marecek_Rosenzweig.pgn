@@ -1,0 +1,20 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marecek"]
+[Black "Rosenzweig"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "04462fb6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Nc6 7. Be2 Bg7
+8. O-O O-O 9. Nb3 Be6 10. f4 Qc8 11. Kh1 Bg4 12. Bg1 Rb8 13. a4 b6 14. Nb5
+Be6 15. Nd2 a6 16. Nd4 Nxd4 17. Bxd4 Ng4 18. Nf3 Bxd4 19. Qxd4 b5 20. axb5
+axb5 21. Nd2 Nf6 22. c3 Rd8 23. Ra7 d5 24. e5 Ne4 25. Nf3 b4 26. cxb4 Qc2
+27. Bd3 Qb3 28. b5 Ra8 29. b6 Rab8 30. b7 Bd7 31. Ba6 Bc6 32. Re1 Rd7 33.
+e6 fxe6 34. Ne5 Rc7 35. Nxc6 Rxc6 36. Ra8 1-0
+

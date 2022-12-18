@@ -1,0 +1,16 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Soldner, H."]
+[Black "Letulevich, J."]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Neo-orthodox variation, 7.Bxf6"]
+[HashCode "3abe1bd2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Nc3 h6 7. Bxf6 Bxf6 8.
+Qd2 b6 9. O-O-O Bb7 0-1
+

@@ -1,0 +1,25 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Excell 68000"]
+[Black "Plymate 5 5"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "a01cf2df"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O O-O 10. Be2 h6 11. Bh4 Re8 12. g3 Bd7 13. e5 dxe5 14. fxe5
+Nh7 15. Rhf1 Bxh4 16. Qxf7+ Kh8 17. gxh4 Qxe5 18. Rg1 Qf6 19. Rgf1 Qxf7 20.
+Rxf7 Nf6 21. Rg1 Rg8 22. Re7 Nd5 23. Nxd5 exd5 24. Bd3 Nc6 25. Rxd7 Nxd4
+26. Rg6 Rge8 27. Rgxg7 Re1+ 28. Kd2 Nf3+ 29. Kc3 Rc8+ 30. Kb4 Nd4 31. Rh7+
+Kg8 32. Rdg7+ Kf8 33. Rxb7 Kg8 34. c3 Nc6+ 35. Ka3 Ne5 36. Rbg7+ Kf8 37.
+Ra7 Kg8 38. Bxa6 Ra8 39. Rxa8+ Kxh7 40. Rd8 Rd1 41. b3 Rd2 42. Bb5 Ng6 43.
+Rd7+ Kh8 44. h5 Nf4 45. Rf7 Nxh5 46. h3 Ng3 47. Rf3 Ne4 48. b4 Kg7 49. Bc6
+Rh2 50. Bxd5 Ng5 51. Rg3 Rf2 52. h4 Rd2 53. c4 Kg6 54. hxg5 hxg5 55. b5 Kf5
+56. b6 Rh2 57. Rb3 Rh8 58. Kb4 Rb8 59. b7 Ke5 60. Kc5 g4 61. Ra3 Kf4 62.
+Ra8 Rxb7 63. Bxb7 Ke5 64. Rg8 1-0
+

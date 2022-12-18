@@ -1,0 +1,24 @@
+[Event "Regionalliga NordN"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lorenz, Sascha"]
+[Black "Jantzen, Hans Joerg"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "949ff11f"]
+[Epoch "Queen"]
+[WhiteID "4602137"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O a6 5. Bxc6 bxc6 6. Re1 Ne7 7. e5 Ng6 8. b3
+Be7 9. Ba3 O-O 10. d4 cxd4 11. Qxd4 f6 12. Bxe7 Qxe7 13. Nbd2 fxe5 14. Nxe5
+Nxe5 15. Qxe5 d6 16. Qe4 Bd7 17. Rad1 Rae8 18. Nf3 g6 19. c4 d5 20. Qe3 Bc8 21.
+Ne5 Bb7 22. Qb6 Rc8 23. h3 Qc7 24. Qc5 Rfe8 25. Ng4 Qg7 26. Qd6 Rcd8 27. Qf4
+Rf8 28. Qe3 Rde8 29. Qb6 e5 30. cxd5 cxd5 31. Rxe5 Rxe5 32. Nxe5 Qxe5 33. Qxb7
+Rd8 34. Qxa6 d4 35. Qd3 Kg7 36. b4 Qd5 37. a3 h5 38. b5 Qc5 39. Rb1 Qb6 40. Rc1
+Qa5 41. h4 Rd6 42. g3 Kh7 43. Rc5 Qe1+ 44. Kg2 Qe7 45. Rxh5+ Kg7 46. Rc5 Qb7+
+47. Kg1 Qe7 48. Rc6 Rxc6 49. bxc6 Qd6 50. Kh2 Qxc6 51. Qxd4+ Kg8 52. Qa7 Qf6
+53. Qa8+ Kh7 54. Kg2 g5 55. hxg5 Qxg5 56. a4 1-0

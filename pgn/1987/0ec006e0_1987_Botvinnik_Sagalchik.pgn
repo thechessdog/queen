@@ -1,0 +1,21 @@
+[Event "Minsk-B"]
+[Site "Minsk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Botvinnik, Ilia"]
+[Black "Sagalchik, Gennadij"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "0ec006e0"]
+[Epoch "Queen"]
+[WhiteID "2804832"]
+[WhiteCountry "ISR"]
+[BlackID "2007916"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Nxd4 c5 8.
+Nde2 Qxd1+ 9. Nxd1 Be6 10. Bf4 O-O-O 11. Ne3 c4 12. Bg3 Bf7 13. Rd1 Rxd1+ 14.
+Kxd1 Bc5 15. Nf5 g6 16. Nfd4 c3 17. bxc3 Ne7 18. Nb3 Ba3 19. Bf4 Rd8+ 20. Ke1
+Re8 21. f3 f5 22. exf5 Bc4 23. Be5 0-1

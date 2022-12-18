@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mittag"]
+[Black "Schuld"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "7c3097e4"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2
+Be6 8. Bb3 Bxb3 9. axb3 Qe6 10. Bf4 a6 11. O-O-O Qxe2 12. Nxe2 g5 13. Bxb8
+Rxb8 14. Ng3 Kd7 15. Nf5 h5 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Mortensen, Erling"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "14257e2b"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. Be3 Nf6 8. O-O
+Be7 9. f4 Qc7 10. a4 O-O 11. Kh1 Re8 12. Bd3 Bd7 13. Qf3 b6 14. Rae1 Nb4 15. g4
+g6 16. f5 gxf5 17. g5 Ng4 18. exf5 Ne5 19. Qh5 Nbxd3 20. cxd3 exf5 21. Nxf5
+Bxf5 22. Rxf5 Bf8 23. Ne4 Bg7 24. Rg1 Kh8 25. Nf6 Bxf6 26. gxf6 Qc6+ 27. Rg2
+Ng6 28. Qh6 Qc1+ 29. Bxc1 Re1+ 30. Rg1 1-0

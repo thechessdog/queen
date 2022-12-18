@@ -1,0 +1,22 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Mortensen, Erling"]
+[Black "Schmidt, Kristen"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "ae5a0e02"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "1400436"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8.
+Qc2 Nc6 9. Bd3 Nf6 10. O-O O-O 11. Rd1 Be7 12. a3 g6 13. Bc4 Nd5 14. Bh6 Re8
+15. Rac1 Nxc3 16. Qxc3 Bf6 17. Qe3 Ne7 18. Bg5 Nf5 19. Qf4 Bxg5 20. Nxg5 Qd6
+21. Qe5 Rd8 22. Ne4 Qxe5 23. dxe5 Rd4 24. Nf6+ Kg7 25. Bd3 Rd8 26. Bxf5 Rxd1+
+27. Rxd1 gxf5 28. Rd8 b6 29. Ne8+ 1-0

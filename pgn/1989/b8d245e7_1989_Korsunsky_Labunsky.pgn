@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Korsunsky, Rostisla"]
+[Black "Labunsky, D."]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "b8d245e7"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. Nxd5 Qxd5
+8. O-O Bg7 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6 12. Nxc6 Bxc6 13. Bxc6 Qxc6
+14. Rc1 Qe6 15. Rxc5 Qxa2 16. Rb5 b6 17. Qa1 Qe6 18. Qa6 Rfc8 19. Qb7 Rcb8
+20. Qa6 Rc8 21. Ra1 Qc6 22. Rb4 Qc2 23. Rc1 1-0
+

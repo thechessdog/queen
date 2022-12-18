@@ -1,0 +1,17 @@
+[Event "Magistrale"]
+[Site "Magistrale"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pantaleoni, L."]
+[Black "Gnirk, H."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "de3f8a3c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. c4 Ngf6
+8. Ng3 Be7 9. O-O O-O 10. Ne5 Nxe5 11. dxe5 Nd7 12. Qe2 Nxe5 13. Bxh7+ Kxh7
+14. Qxe5 Bd6 15. Qh5+ Kg8 16. Rd1 Bb4 17. Rxd8 1-0
+

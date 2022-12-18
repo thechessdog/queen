@@ -1,0 +1,24 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1986.01.01"]
+[Round "2"]
+[White "Etmans, Maarten"]
+[Black "Bor, Willem"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "33941e32"]
+[Epoch "Queen"]
+[WhiteID "1001345"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd3
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxf6
+gxf6 15. Be2 Bc5 16. Bh5+ Ke7 17. Qg3 Bd7 18. Qg7+ Kd6 19. Ne4+ Kc7 20. Rb3
+Qa5+ 21. Ke2 Rhg8 22. Rb7+ Kxb7 23. Qxd7+ Kb6 24. Rb1+ Bb4 25. c3 Qb5+ 26. Ke3
+a5 27. cxb4 axb4 28. Qd2 Rgd8 29. Qxb4 Rd3+ 30. Kf2 Rxa2+ 31. Be2 Qxb4 32.
+Rxb4+ Kc7 33. Nxf6 Rd4 34. Rb3 c5 35. Nxh7 c4 36. Re3 Kd6 37. g3 e4 38. Ng5 Kd5
+39. h4 Rd3 40. h5 Rxe3 41. Kxe3 Ra3+ 42. Kf4 c3 43. Bd1 e5+ 44. Kf5 e3 45. Nf3
+e2 46. Bc2 Ra1 47. h6 Rf1 48. Be4+ Kd6 49. h7 Rh1 50. Nh4 e1=Q 51. h8=Q Qf2+
+52. Bf3 Qxf3+ 53. Nxf3 Rxh8 54. Ne1 Rh1 0-1

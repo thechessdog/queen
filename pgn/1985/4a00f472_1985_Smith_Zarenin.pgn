@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Smith, PWH."]
+[Black "Zarenin, AV."]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "4a00f472"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. O-O h6 6. Nxe4 d5 7. Bd3 dxe4
+8. Bxe4 Bd6 9. Re1 O-O 10. b3 Nb4 11. Bb2 f5 12. Bd3 e4 13. Bc4+ Kh7 14.
+Ne5 Qe8 15. f4 b5 16. Bf1 Nd5 17. g3 Bc5+ 18. Kh1 Bb7 19. Bg2 Nf6 20. d4
+Bd6 21. c4 bxc4 22. bxc4 Rb8 23. Rb1 g5 24. d5 gxf4 25. gxf4 Rg8 26. Bd4
+Rxg2 27. Kxg2 Nh5 28. Qd2 c5 29. Ba1 Ba6 30. Rxb8 Bxb8 31. Rb1 Bd6 32. Kh1
+Qa4 33. Nf7 Bxf4 34. Qb2 Qe8 35. Rg1 Qf8 36. Nd8 Bc8 37. Ne6 Bxe6 38. dxe6
+Bg5 39. Qb7+ Be7 40. Qd5 Bg5 41. Rf1 Kg6 42. e7 Bxe7 43. Qe6+ Kg5 44. Be5
+e3 45. Rg1+ Kh4 46. Rg8 e2 47. Bg3+ Kh3 48. Rxf8 Bxf8 49. Qxf5# 1-0
+

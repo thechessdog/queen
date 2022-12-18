@@ -1,0 +1,18 @@
+[Event "corr WT/M/GT"]
+[Site "corr WT/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Steinert, Christian"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "3413036d"]
+[Epoch "Queen"]
+[WhiteID "4696697"]
+[BlackID "503495"]
+[WhiteCountry "GER"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. O-O c6 6. Ba4 d6 0-1

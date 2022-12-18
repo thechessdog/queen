@@ -1,0 +1,33 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Prandstetter, Eduard"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "2f073d07"]
+[Epoch "Queen"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. Qc2 c5 7. dxc5 bxc5 8. e3
+Nc6 9. Rd1 O-O 10. Be2 d6 11. O-O Qb8 12. Rd2 h6 13. Bh4 Rd8 14. Rfd1 a6 15. h3
+Qc7 16. Bg3 Rd7 17. Ne1 Rad8 18. Bf3 Nb4 19. Qb1 Bxf3 20. Nxf3 Qb7 21. e4 Nc6
+22. Qd3 Qb4 23. b3 Ne5 24. Bxe5 dxe5 25. Qc2 Rxd2 26. Rxd2 Rxd2 27. Qxd2 Qb7
+28. Qd3 Nd7 29. Na4 Qc7 30. Ne1 Nb8 31. Qe3 Qd6 32. Nd3 Nd7 33. g3 Bg5 34. f4
+Bf6 35. Kg2 exf4 36. gxf4 Bd4 37. e5 Qc7 38. Qe4 Qa5 39. Kf3 Nf8 40. Ke2 Qc7
+41. b4 Nd7 42. Qa8+ Kh7 43. bxc5 Nxc5 44. Naxc5 Bxc5 45. Qxa6 Bd4 46. Qb5 Qa7
+47. a4 Qa8 48. c5 Qg2+ 49. Kd1 Be3 50. Qb4 g6 51. Qc3 Qc6 52. a5 Qa4+ 53. Ke2
+Bd4 54. Qb4 Qc2+ 55. Qd2 Qc4 56. Qb4 Qc2+ 57. Qd2 Qc4 58. Qc1 Qa2+ 59. Kf3 Qd5+
+60. Kg3 Qb3 61. Qf1 Bxc5 62. Qf3 Ba7 63. h4 h5 64. Ne1 Qb4 65. Qe2 Qxa5 66. Nf3
+Qc3 67. Qd2 Qc5 68. Ne1 Kg7 69. Nf3 Bb6 70. Qb2 Qe3 71. Qc2 Bd8 72. Qg2 Be7 73.
+Qh1 Qd3 74. Qg2 Bc5 75. Qd2 Qf5 76. Nh2 Qe4 77. Qd1 Qe3+ 78. Qf3 Qg1+ 79. Qg2
+Bf2+ 80. Kf3 Qxg2+ 81. Kxg2 Bxh4 82. Nf3 Be7 83. Nd2 Kf8 84. Ne4 Ke8 85. Kf3
+Kd7 86. Nf2 Kc6 87. Ke4 Kc5 88. Nd3+ Kc4 89. Ne1 Kc3 90. Nf3 h4 91. Ng1 Kd2 92.
+Kf3 Kd3 93. Nh3 Kd4 94. Nf2 g5 95. Ng4 gxf4 96. Kxf4 Bf8 97. Kg5 Bg7 98. Kxh4
+Bxe5 99. Nh6 f5 100. Kg5 f4 101. Kg4 Ke3 0-1

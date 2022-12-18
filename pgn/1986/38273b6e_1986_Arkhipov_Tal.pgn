@@ -1,0 +1,17 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Arkhipov, Sergey"]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "38273b6e"]
+[Epoch "Queen"]
+[WhiteID "4101146"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. Nd2 Bf5 5. e3 c6 6. Bd3 Qa5 7. Nf3 Nxd2 8.
+Qxd2 Qxd2+ 9. Kxd2 1/2-1/2

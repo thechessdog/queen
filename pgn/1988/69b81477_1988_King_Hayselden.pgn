@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "King"]
+[Black "Hayselden"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "69b81477"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 c5 6. Qa4+ Bd7 7. Qxc4 Qb6
+8. O-O Bb5 9. dxc5 Bxc5 10. Qc2 Nc6 11. Nc3 Nb4 12. Qb3 Bc6 13. Na4 Bxa4
+14. Qxa4+ Nc6 15. Ne5 Nd5 16. Bd2 f6 17. Nxc6 bxc6 18. e4 Ne7 19. Bc3 h5
+20. Rad1 h4 21. e5 hxg3 22. hxg3 fxe5 23. Bxe5 Nd5 24. Qg4 O-O-O 25. Qxe6+
+Kb7 26. Bxd5 cxd5 27. Qf7+ Ka6 28. Bc7 Qh6 29. Kg2 Qh2+ 30. Kf3 Rdf8 0-1
+

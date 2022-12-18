@@ -1,0 +1,22 @@
+[Event "Bhilwara"]
+[Site "New Delhi"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tilak, Sharad S"]
+[Black "Ravi, Lanka"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "0f1539b5"]
+[Epoch "Queen"]
+[WhiteID "5000165"]
+[WhiteCountry "IND"]
+[BlackID "5000084"]
+[BlackCountry "IND"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. Bg5 Be7 8. c5
+O-O 9. Bb5 Ne4 10. Bxe7 Nxe7 11. Rc1 b6 12. Bd3 f5 13. b4 a5 14. a3 axb4 15.
+axb4 bxc5 16. dxc5 Nc6 17. b5 Nb4 18. Ne2 Qe7 19. c6 Nxd3+ 20. Qxd3 Qb4+ 21.
+Nd2 Ra2 22. Rb1 Qa5 23. O-O Nxd2 24. Nc3 Nxb1 25. Nxa2 Nd2 26. Rd1 Ne4 27. Qe2
+e5 28. f3 Qb6+ 29. Kf1 Be6 0-1

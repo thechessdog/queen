@@ -1,0 +1,19 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mathe, Gaspar"]
+[Black "Le Blancq, Simon"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b0be8e94"]
+[Epoch "Queen"]
+[WhiteID "700240"]
+[WhiteCountry "HUN"]
+[BlackCountry "ZWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 Nge7 9. Bd6 O-O 10. Bc4 b6 11. Nbd2 Na5 12. Bd3 Nb7 13. Ba3 d6 14. Nb3 Nc5
+15. Nbxd4 Bb7 16. Re1 Nc6 17. Nb3 Nxd3 18. Qxd3 Ne5 19. Nxe5 dxe5 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Basin, Leonid"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "fddd17cc"]
+[Epoch "Queen"]
+[WhiteID "806404"]
+[BlackID "4102070"]
+[WhiteCountry "MNC"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. Nf3 Ne7 5. Qd3 c5 6. a3 Bxc3+ 7. Qxc3 cxd4 8.
+Nxd4 O-O 9. g3 e5 10. Nc2 Nbc6 11. Bg2 d4 12. Qf3 a5 13. a4 Bf5 14. e4 dxe3 15.
+Nxe3 Bd3 16. Qd1 e4 17. Bd2 Nd4 18. Bc3 Nec6 19. h4 Ne5 20. f4 exf3 21. Bf1 f2+
+22. Kxf2 Qf6+ 23. Kg1 Ndf3+ 24. Kg2 Be4 25. Kh3 Qe6+ 26. g4 Nxg4 27. Nxg4 h5
+28. Kg3 Qxg4+ 29. Kf2 Qf4 0-1

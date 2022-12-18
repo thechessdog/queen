@@ -1,0 +1,19 @@
+[Event "Pohja"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Danielsen"]
+[Black "Ludvigsen, Frode"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "d3b76084"]
+[Epoch "Queen"]
+[BlackID "1500228"]
+[BlackCountry "NOR"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Ne4 7. Bxe7 Qxe7 8.
+Qc2 Nxc3 9. bxc3 c6 10. Bd3 h6 11. Ne5 Nd7 12. f4 Nxe5 13. fxe5 f6 14. O-O fxe5
+15. Bh7+ Kh8 16. Rxf8+ Qxf8 17. Rf1 Qe8 18. Bg6 Qd8 19. Rf7 b6 20. Qf2 Ba6 21.
+Rxg7 Qg5 1-0

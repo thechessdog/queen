@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schaffer"]
+[Black "Krutzsch"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "c4d9303c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8.
+exd5 Nxd5 9. Bg2 Bb4 10. Bd2 Bxc3 11. bxc3 O-O 12. c4 Nb6 13. Bb4 Re8 14.
+c5 Nd5 15. Bd2 e5 16. Ne2 Nc6 17. Rb1 e4 18. c4 Nf6 19. O-O Qe7 0-1
+

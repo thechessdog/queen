@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Shabalov, Alexander"]
+[Black "Supatashvili, Khvicha"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Spielmann variation"]
+[HashCode "388de4ef"]
+[Epoch "Queen"]
+[WhiteID "2008572"]
+[BlackID "13600664"]
+[WhiteCountry "USA"]
+[BlackCountry "GEO"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 O-O 7. Bd3 f5 8. g4 c5
+9. gxf5 cxd4 10. f6 Bxf6 11. exf6 Nxf6 12. Nce2 e5 13. f3 Qb6 14. c3 Qxb2 15.
+cxd4 Nc6 16. Qb1 Nb4 17. Nc1 Nxd3+ 18. Nxd3 Qg2 19. dxe5 Qxh1 20. Ke2 Qg2+ 21.
+Ke3 d4+ 22. Kxd4 Rd8+ 23. Kc3 Bf5 24. Ne1 Rac8+ 25. Kb3 Be6+ 0-1

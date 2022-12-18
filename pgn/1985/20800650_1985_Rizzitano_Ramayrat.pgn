@@ -1,0 +1,19 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rizzitano, James"]
+[Black "Ramayrat"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "20800650"]
+[Epoch "Queen"]
+[WhiteID "2000806"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. cxd4 Nc6 6. Nf3 d6 7. Bc4 Nb6 8. Bb5
+dxe5 9. Nxe5 Bd7 10. Bxc6 Bxc6 11. Nxc6 bxc6 12. Nc3 e6 13. Qg4 Be7 14. Qxg7
+Bf6 15. Qg3 Qxd4 16. O-O Nd5 17. Be3 Qb4 18. Nxd5 cxd5 19. Rac1 Qe4 20. Bc5 Be5
+21. Qg5 1-0

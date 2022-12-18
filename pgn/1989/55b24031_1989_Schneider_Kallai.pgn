@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Kallai, Gabor"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "55b24031"]
+[Epoch "Queen"]
+[BlackID "700282"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. c4 e6 2. Nf3 d5 3. d4 dxc4 4. Qa4+ Nd7 5. Qxc4 a6 6. a4 Ngf6 7. g3 b5 8. Qc6
+Rb8 9. axb5 1/2-1/2

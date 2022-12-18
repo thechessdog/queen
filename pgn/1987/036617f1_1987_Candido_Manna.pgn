@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Candido"]
+[Black "Manna"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "036617f1"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Nc5 e5 6. Nxb7 Qe7 7. Na5
+exd4+ 8. Be2 Qb4+ 9. Bd2 Qxb2 10. Bd3 Bxd3 11. cxd3 Bb4 12. Nf3 Bxd2+ 13.
+Nxd2 Qb4 14. Qg4 Ne7 1-0
+

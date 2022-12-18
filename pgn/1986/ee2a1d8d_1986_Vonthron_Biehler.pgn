@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vonthron, Horst"]
+[Black "Biehler, Thomas"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[HashCode "ee2a1d8d"]
+[Epoch "Queen"]
+[WhiteID "4600495"]
+[BlackID "4607082"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. Bc4 Be6 7. Qf3 c6 8. Nc3
+Bg7 9. Bd2 O-O 10. O-O-O Nd7 11. Rhe1 Nc7 12. Bxe6 Nxe5 13. dxe5 Nxe6 14. Qh3
+Qd4 15. f3 Rfd8 16. Re4 Qf2 17. Re2 Qc5 18. f4 b5 19. Re4 b4 20. Na4 Qd5 21.
+Rxb4 Qxa2 22. Qa3 Qd5 23. g3 Nd4 24. Nc3 Qg2 25. Rb7 c5 26. Rxe7 Bf8 27. Rc7
+Ne6 28. Qa5 Nxc7 29. Qxc7 a5 30. Be1 Rxd1+ 31. Kxd1 a4 32. Nb5 Qf3+ 33. Kd2
+Qd5+ 34. Kc3 Rd8 0-1

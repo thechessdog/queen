@@ -1,0 +1,22 @@
+[Event "Pan American"]
+[Site "Pan American"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Chow, Richard"]
+[Black "McCarthy, John"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "23e6e020"]
+[Epoch "Queen"]
+[WhiteID "2001624"]
+[WhiteCountry "USA"]
+[BlackID "2001977"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. g4 g5 11. Nh5 Nxh5 12. gxh5 c6 13. Qf3 Rf8 14. e4 dxe4
+15. Qxe4 f5 16. Qe5 f4 17. Rg1 Qd7 18. Rxg5 Qh3+ 19. Kg1 Nd7 20. Qe4 O-O-O 21.
+Qxc6+ Kb8 22. Rg7 Qxh5 23. Bxf4+ Rxf4 24. Nb5 Rg4+ 25. Kh1 Qxb5 26. Qxb5 Rxg7
+27. Rc1 Bd6 28. a4 Rg6 29. f3 Bf4 30. Rc6 Rg5 31. Qe2 Rdg8 32. Qe1 Rg2 0-1

@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sokolin, L."]
+[Black "Varlamov, Viachesla"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "fd6a6a43"]
+[Epoch "Queen"]
+
+1. d4 g6 2. e4 c6 3. Nc3 Bg7 4. Nf3 d6 5. Bc4 b5 6. Bb3 b4 7. Ne2 Nf6 8. e5
+Nd5 9. Nf4 Nxf4 10. Bxf4 d5 11. O-O Nd7 12. Qd2 Qb6 13. a3 bxa3 14. Rxa3
+Nf8 15. c4 Be6 16. Rc1 Nd7 17. Ng5 O-O 18. Ba4 Rac8 19. Nxe6 fxe6 20. cxd5
+exd5 21. Rg3 e6 22. h4 Rf7 23. h5 Nf8 24. hxg6 Nxg6 25. Be3 Rb7 26. Bc2
+Qxb2 27. Qd1 Rf7 28. Bxg6 hxg6 29. Rxg6 Rcf8 30. Qg4 Kh7 31. Rg5 Re8 32.
+Rxg7+ 1-0
+

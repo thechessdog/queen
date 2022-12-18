@@ -1,0 +1,17 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ilincic, Zlatko"]
+[Black "Meduna, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d1de7333"]
+[Epoch "Queen"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3 Qc7
+8. Nf3 Bg4 9. Qb3 e6 10. Ne5 Bd6 11. Nxg4 Nxg4 12. h3 Nf6 13. O-O 1/2-1/2

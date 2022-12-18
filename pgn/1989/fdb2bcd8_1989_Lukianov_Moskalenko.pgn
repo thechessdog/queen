@@ -1,0 +1,18 @@
+[Event "Leningrad-chT"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lukianov, I."]
+[Black "Moskalenko, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "fdb2bcd8"]
+[Epoch "Queen"]
+[BlackID "14100100"]
+[BlackCountry "ESP"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Nc6 5. Bg2 Nf6 6. Ngf3 Be7 7. O-O b6 8. Re1
+Bb7 9. c3 Qc7 10. Qe2 h6 11. Nf1 dxe4 12. dxe4 Rd8 13. Bf4 Qc8 14. Rad1 O-O 15.
+Bc1 Rxd1 16. Rxd1 Rd8 17. Rxd8+ Qxd8 18. N1d2 Nd7 19. Bf1 Qc7 1/2-1/2

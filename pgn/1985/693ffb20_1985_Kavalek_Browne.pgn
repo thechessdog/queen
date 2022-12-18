@@ -1,0 +1,18 @@
+[Event "Estes Park ch-USA"]
+[Site "Estes Park ch-USA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kavalek, Lubomir"]
+[Black "Browne, Walter S"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "693ffb20"]
+[Epoch "Queen"]
+[WhiteID "2000121"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 d5 6. c3 Nbd7 7. Bd3 O-O 8. O-O
+b6 9. Qc2 h6 10. Bh4 Bb7 11. Rae1 Qc7 12. Bg3 Bd6 13. Bxd6 Qxd6 14. e4 1/2-1/2

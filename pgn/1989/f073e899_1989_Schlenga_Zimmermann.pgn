@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schlenga, Klaus"]
+[Black "Zimmermann, Ralf"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "f073e899"]
+[Epoch "Queen"]
+[BlackID "4683196"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. a3 Nxd2 7. Nxd2 Bf8
+8. Nf3 Qe7 9. Bf4 h6 10. h4 g6 11. e3 Bg7 12. Qd5 b6 13. Bd3 Bb7 14. Be4 O-O-O
+15. O-O-O Rhe8 16. Bg3 f5 17. exf6 Qxf6 18. Be5 Rxe5 19. Nxe5 Na5 20. Qb5 Bxe4
+21. Nxd7 Qf5 22. Nc5 Qxc5 23. Rxd8+ Kxd8 24. Rd1+ Ke7 25. Qd7+ Kf6 26. g4 Nb3#
+0-1

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Badzharani, I."]
+[Black "Rybintsev"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "75aed7a9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8.
+Nf5 g6 9. g5 gxf5 10. exf5 d5 11. Qf3 d4 12. O-O-O Nbd7 13. gxf6 dxc3 14.
+Bc4 Qxf6 15. Rhg1 h6 16. Qh5 Bc5 17. Bxc5 Nxc5 18. Bxf7+ Ke7 19. Bg6 cxb2+
+20. Kb1 Bd7 21. Qf3 Bc6 22. Qc3 b6 23. Rge1 e4 24. Qxf6+ Kxf6 25. Rd6+ Ke5
+26. Rxc6 Rhc8 27. Rxb6 Rab8 28. Rxb2 Na4 29. Rb3 Nc3+ 30. Kb2 a5 1-0
+

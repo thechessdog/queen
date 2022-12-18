@@ -1,0 +1,19 @@
+[Event "corr Axelson mem"]
+[Site "corr Axelson mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bang"]
+[Black "Engel"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "6c793116"]
+[Epoch "Queen"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. O-O e5
+8. d3 Be7 9. Nd2 Bd7 10. Nc4 f6 11. f4 b6 12. Ne3 Rc8 13. Ned5 Nxd5 14.
+Nxd5 O-O 15. fxe5 Nxe5 16. Bf4 Nc6 17. Rc1 Be6 18. e4 Bd6 19. Be3 Nd4 20.
+b4 Bxd5 21. exd5 Re8 22. Be4 Qe7 23. Re1 Qf8 24. Bxd4 cxd4 25. Rxc8 Rxc8
+26. Qh5 g6 27. Bxg6 hxg6 28. Qxg6+ Qg7 29. Qf5 Rd8 30. Re4 1-0
+

@@ -1,0 +1,23 @@
+[Event "Regionalliga NordN"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Homuth, Wolfgang"]
+[Black "Peters, Carsten"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "58c4f294"]
+[Epoch "Queen"]
+[WhiteID "4646673"]
+[WhiteCountry "GER"]
+[BlackID "4604512"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Be7 10. Bh3 O-O 11. Kf1 Na5 12. Ne2 f6 13. Kg2 Rf7 14. b3 Nf8 15.
+Bd2 Bd7 16. f5 exf5 17. Nf4 Bd8 18. Nxd5 Qb5 19. Nc3 Qd3 20. Kf2 f4 21. Qf1
+Qxf1+ 22. Bxf1 fxg3+ 23. Kxg3 fxe5 24. Nxe5 Bc7 25. Bf4 g5 26. Bd2 Ng6 27. Re1
+Kg7 28. Bd3 Bc6 29. Rhg1 Rf3+ 30. Kg4 Nxe5+ 31. Rxe5 Bxe5 32. Be2 Bxd4 33. Bxf3
+Bxg1 0-1

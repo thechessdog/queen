@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kaliwoda, I."]
+[Black "Pospiech, J."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "c8791a41"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qa5 8.
+Bd2 O-O 9. Bd3 f5 10. exf6 Rxf6 11. Qh5 g6 12. Qh4 Rf7 13. dxc5 Qxc5 14.
+Nf3 Nbc6 15. Ng5 Rg7 16. O-O e5 17. c4 Nf5 18. Qh3 dxc4 19. Ne4 Qd4 20. Bc3
+Qd8 21. Bxc4+ Kh8 22. g4 Nfd4 23. f4 b5 24. Bd3 Bb7 25. fxe5 Nxe5 26. Qe3
+Ndc6 27. Ng5 Qd5 28. Be4 Qd6 29. Nf7+ Nxf7 30. Rxf7 1-0
+

@@ -1,0 +1,20 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Barsov, A."]
+[Black "Kuzmin, G."]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "3ff75815"]
+[Epoch "Queen"]
+[BlackID "4132041"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 h6 6. Bh4 d5 7. e3 c5 8. Rc1
+cxd4 9. Nxd4 e5 10. Nf3 d4 11. exd4 exd4 12. Qxd4 Qe7+ 13. Be2 Re8 14. O-O Nc6
+15. Qf4 Bxc3 16. bxc3 Qxe2 17. Rce1 Re4 18. Qc1 Qxf3 19. gxf3 Rxh4 20. Re3 Rxc4
+21. Rd1 Rc5 22. f4 Bf5 23. Qa3 b6 24. Qa4 Rc8 25. Rd6 Nd5 26. Re1 Nxc3 27. Qa6
+Nb5 28. Rd2 0-1

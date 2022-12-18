@@ -1,0 +1,23 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Krings, Christoph"]
+[Black "Konieczka, Frank"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "c1b5e0d4"]
+[Epoch "Queen"]
+[WhiteID "4685776"]
+[WhiteCountry "GER"]
+[BlackID "4607104"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Nf3 Be7 5. Bg2 O-O 6. O-O b6 7. Nc3 Bb7 8. Ne5
+Nbd7 9. Qa4 c6 10. Nxc6 Bxc6 11. Qxc6 Rc8 12. Qa4 Rxc4 13. Qxa7 Qc8 14. Bf4 Qc6
+15. Rac1 b5 16. a4 bxa4 17. e4 a3 18. exd5 exd5 19. Nxd5 Nxd5 20. Bxd5 Qxd5 21.
+Rxc4 Qxc4 22. Qxd7 axb2 23. Qb7 Bb4 24. Qe4 Bc3 25. Rd1 Qb3 26. Rb1 Qb5 27. d5
+Re8 28. Qc2 Bf6 29. d6 g6 30. Rd1 Qf5 31. Qxf5 gxf5 32. Kg2 Rb8 33. Rb1 Rb7 34.
+Kf3 Ra7 35. Ke3 Ra1 36. Be5 Bxe5 37. d7 Ra8 0-1

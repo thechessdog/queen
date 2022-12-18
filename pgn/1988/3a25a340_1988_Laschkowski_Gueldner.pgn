@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Laschkowski, H."]
+[Black "Gueldner, J."]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "3a25a340"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. Be3 Be6 10. h3 Na5 11. Nxa5 Qxa5 12. Bd3 a6 13. Ne2 d5 14. f3
+dxe4 15. fxe4 Rfd8 16. Ng3 Rac8 17. Qf3 Bc5 18. Bxc5 Rxc5 19. Kh2 Qc7 20.
+Rf2 h6 21. Raf1 Nh7 22. Qh5 Ra5 23. a3 Rc5 24. Kh1 Rf8 25. Nf5 Bxf5 26.
+Rxf5 Ng5 27. h4 Ne6 28. g3 Nd4 29. R5f2 Nxc2 30. Bxc2 Rxc2 31. Rxc2 Qxc2
+32. Qxe5 Qc6 1/2-1/2
+

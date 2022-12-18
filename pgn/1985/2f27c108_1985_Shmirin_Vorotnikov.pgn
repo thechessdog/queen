@@ -1,0 +1,29 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Shmirin, Arkadi"]
+[Black "Vorotnikov, Vladislav V"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "2f27c108"]
+[Epoch "Queen"]
+[BlackID "4103009"]
+[BlackCountry "RUS"]
+
+1. Nf3 d6 2. d4 Bg4 3. e4 Nf6 4. Nc3 e6 5. Be2 Be7 6. O-O O-O 7. Be3 c6 8. h3
+Bh5 9. Nd2 Bxe2 10. Qxe2 d5 11. e5 Nfd7 12. f4 c5 13. dxc5 Nxc5 14. Nf3 Nc6 15.
+Rad1 Qb6 16. Na4 Qa6 17. Qxa6 Nxa6 18. Nc3 Nab4 19. Rf2 Na5 20. Nd4 Nc4 21. Bc1
+Rac8 22. a3 Nc6 23. Nce2 Bc5 24. Kh1 b5 25. Rf3 Nxd4 26. Nxd4 a6 27. Rc3 Nb6
+28. Nb3 Bf2 29. Rxc8 Rxc8 30. Rd2 Bh4 31. Nd4 Na4 32. Kh2 Nc5 33. g3 Bd8 34.
+Re2 Bb6 35. c3 h5 36. Be3 Ne4 37. Nc2 Bxe3 38. Rxe3 a5 39. Kg2 Kf8 40. Re2 Rc4
+41. Ne3 Rc6 42. Nc2 Rc4 43. Ne3 Ra4 44. Kf3 g5 45. f5 Nc5 46. fxe6 fxe6 47. Nc2
+Nb3 48. Re1 Kf7 49. Ke3 h4 50. g4 Rf4 51. Ke2 Ke7 52. Ke3 Kd7 53. Re2 Rf1 54.
+Re1 Rf4 55. Re2 Rc4 56. Nd4 Nxd4 57. cxd4 b4 58. Kd3 b3 59. Rf2 Ke7 60. Re2 a4
+61. Rf2 Rc1 62. Kd2 Rh1 63. Rf3 Rh2+ 64. Kc3 Rc2+ 65. Kb4 Rc4+ 66. Kb5 Rxd4 67.
+Re3 Kd7 68. Rc3 Re4 69. Rd3 Kc7 70. Rc3+ Kb7 71. Rf3 Rf4 72. Rc3 Re4 73. Rf3
+Rxe5 74. Kxa4 Re1 75. Kb5 d4 76. Rxb3 Rc1 77. a4 e5 78. Rd3 Rc2 79. b4 Rc3 80.
+Rd1 d3 81. a5 e4 82. a6+ Ka7 83. Rf1 d2 84. Rf7+ Kb8 85. Kb6 Rc6+ 86. Kxc6 d1=Q
+87. b5 Qc2+ 0-1

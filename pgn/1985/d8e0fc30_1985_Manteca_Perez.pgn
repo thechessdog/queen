@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Manteca"]
+[Black "Perez Millan"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "d8e0fc30"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. O-O O-O 9. Nbd2 Bg4 10. Nc4 Bc7 11. Bxc6 bxc6 12. Qd3 Qd5 13. Nfe5 g5
+14. h4 h6 15. hxg5 hxg5 16. Bxf4 Bxe5 17. Nxe5 Bh5 18. Bxg5 Ng4 19. Rf5
+Nxe5 20. Rxe5 Qd7 21. Bf6 Bg6 22. Rg5 1-0
+

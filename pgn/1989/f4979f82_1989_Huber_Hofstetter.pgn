@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Huber, Herbert"]
+[Black "Hofstetter, Hans Joachim"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "f4979f82"]
+[Epoch "Queen"]
+[WhiteID "24628506"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Ba5 9. cxd5 exd5 10. Ne2 c4 11. Bc2 Bc7 12. h3 b5 13. Nc3 Rb8 14. e4 dxe4 15.
+Nxe4 h6 16. Nxf6+ Qxf6 17. Be3 Bf5 18. Rc1 Rbd8 19. Qe2 Rfe8 20. Rfd1 a6 21. a4
+Bxc2 22. Rxc2 Nb4 23. Rcd2 Nd5 24. Rc2 Nf4 25. Qf1 Nxh3+ 26. gxh3 Qxf3 27. Rc3
+Rd6 28. Bf4 0-1

@@ -1,0 +1,18 @@
+[Event "corr Mammoth"]
+[Site "corr Mammoth"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Torning"]
+[Black "Frost"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "f32169bb"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 f6 7. Bb5 cxd4 8.
+exf6 Nxf6 9. cxd4 Bd6 10. Nc3 O-O 11. O-O Qc7 12. Bd3 Ng4 13. Bxh7+ Kh8 14.
+Bc2 Bxh2+ 15. Kh1 Rac8 16. Ng5 Rxf2 17. Nf7+ Kg8 18. Nh6+ Kh8 19. Nxg4
+Rxf1+ 20. Qxf1 Nxd4 21. Bg6 Bg3 22. Qd1 Qd8 23. Nf6 1-0
+

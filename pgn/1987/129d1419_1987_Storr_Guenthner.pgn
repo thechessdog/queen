@@ -1,0 +1,19 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.??.??"]
+[Round "1"]
+[White "Storr"]
+[Black "Guenthner, Oliver"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "129d1419"]
+[Epoch "Queen"]
+[BlackID "4602960"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Bf4 Nc6 7. Nf3 O-O 8.
+e3 d5 9. Rd1 Qa5 10. a3 Ne4 11. Rc1 Nxc3 12. Qxc3 Qxc3+ 13. Rxc3 d4 14. exd4
+Nxd4 15. Nxd4 Bxd4 16. Rc2 e5 17. Bc1 Bf5 18. Rd2 Rac8 19. Kd1 Be6 20. b3 b5
+21. Bd3 Rfd8 22. cxb5 Bc3 0-1

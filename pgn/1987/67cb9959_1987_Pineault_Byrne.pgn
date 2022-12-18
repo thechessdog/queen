@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pineault, D."]
+[Black "Byrne, M."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "67cb9959"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. Bb3 a6 10. Rg1 Qc7 11. g4 Nd7 12. g5 Nc5 13. Rg3 g6 14. h4
+Nxb3 15. axb3 Re8 16. h5 d5 17. O-O-O Qa5 18. Kb1 e5 19. hxg6 fxg6 20. Nf5
+Bxf5 21. Rxd5 Qc7 22. exf5 gxf5 23. Qh5 f4 24. Bb6 Qxb6 25. g6 1-0
+

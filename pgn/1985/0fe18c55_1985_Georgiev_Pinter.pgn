@@ -1,0 +1,19 @@
+[Event "Praag zt"]
+[Site "Praag zt"]
+[Date "1985.02.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Pinter, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "0fe18c55"]
+[Epoch "Queen"]
+[BlackID "700045"]
+[WhiteCountry "BGR"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. b3 e6 7. Bb2 Be7 8. Qd2
+b5 9. f3 O-O 10. a4 b4 11. Nd1 a5 12. Ne3 Bb7 13. Rd1 d5 14. e5 Nfd7 15. f4 Nc5
+16. Bd3 Nc6 17. O-O 1/2-1/2

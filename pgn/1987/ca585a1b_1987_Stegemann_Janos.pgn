@@ -1,0 +1,26 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stegemann, U."]
+[Black "Janos, J."]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "ca585a1b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. O-O a6 6. Bxc6 dxc6 7. d3 Nf6 8.
+Be3 Nd7 9. Qc2 O-O 10. Nbd2 e5 11. Nb3 Qe7 12. Rae1 a5 13. Nfd2 b6 14. f4
+exf4 15. Bxf4 Ba6 16. Nf3 c4 17. Nc1 cxd3 18. Nxd3 Nc5 19. c4 Nxd3 20. Qxd3
+Qc5+ 21. Be3 Qxc4 22. Qb1 c5 23. Rf2 Rfe8 24. e5 Ra7 25. Bg5 Qd3 26. Qc1
+Bc8 27. Bf6 Be6 28. Rd1 Qb5 29. Ng5 Rd7 30. Rxd7 Qxd7 31. Rd2 Qc7 32. Ne4
+c4 33. Rd4 b5 34. Qe3 b4 35. Bxg7 Kxg7 36. Nf6 Rh8 37. Nh5+ gxh5 38. Qg5+
+Kf8 39. Rd8+ Qxd8 40. Qxd8+ Kg7 41. Qxa5 Rb8 42. Kf2 h4 43. Ke3 h6 44. h3
+Rb7 45. Kd2 Rd7+ 46. Kc1 b3 47. a4 Rd4 48. Qb6 Re4 49. a5 Re2 50. a6 Rc2+
+51. Kb1 Rd2 52. Kc1 Rc2+ 53. Kb1 Re2 54. Kc1 c3 55. bxc3 b2+ 56. Kd1 Rxg2
+57. a7 Bd5 58. e6 fxe6 59. a8=Q Bxa8 60. Qd4+ Kg6 61. Qd3+ Kh5 62. Qb5+ Bd5
+63. Qe8+ Kg5 64. Qe7+ Kf5 65. Qf7+ Ke4 66. Qh7+ Kf3 67. Qd3+ Kf4 68. Qd4+
+Kg3 0-1
+

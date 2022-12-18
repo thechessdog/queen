@@ -1,0 +1,18 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Willey"]
+[Black "Bryan"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Anderssen (Paulsen, Suhle) counter-attack"]
+[HashCode "04c13b10"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4 7. b4 Bb6 8.
+Qb3 Bxf3 9. Bxf7+ Kf8 10. gxf3 Qh4 11. Bxg8 Rxg8 12. cxd4 Nxd4 13. Qd3 Re8
+14. Nc3 g5 15. Ne2 Nxe2+ 16. Qxe2 g4 17. Kh1 Qf6 18. fxg4 Bd4 19. Rb1 Qg6
+20. f3 Ke7 21. Qc4 Bb6 0-1
+

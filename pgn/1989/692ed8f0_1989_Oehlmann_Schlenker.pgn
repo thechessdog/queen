@@ -1,0 +1,17 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Oehlmann, D."]
+[Black "Schlenker, Rainer"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "692ed8f0"]
+[Epoch "Queen"]
+[BlackID "4605837"]
+[BlackCountry "GER"]
+
+1. g3 Nc6 2. d4 e5 3. d5 Nce7 4. c4 Ng6 5. Bg2 Bc5 6. Nf3 d6 7. O-O a6 8. Nc3
+f5 9. b4 Ba7 10. e3 Nf6 11. Bb2 O-O 12. Rc1 f4 13. exf4 exf4 14. Ng5 Ng4 15.
+Ne6 Bxe6 16. dxe6 Nxf2 17. Rxf2 fxg3 0-1

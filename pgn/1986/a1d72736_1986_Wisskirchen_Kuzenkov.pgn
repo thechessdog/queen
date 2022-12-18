@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wisskirchen, W."]
+[Black "Kuzenkov, A."]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "a1d72736"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
+8. Nf3 exd5 9. e3 O-O 10. Bd3 Be6 11. O-O Nd7 12. Qe2 b6 13. Rac1 c5 14.
+dxc5 bxc5 15. Rfd1 Qa5 16. Bb1 Nb6 17. Nd2 Rfc8 18. a3 Na4 19. Nxa4 Qxa4
+20. Nf3 Rab8 21. Rd2 Qb3 0-1
+

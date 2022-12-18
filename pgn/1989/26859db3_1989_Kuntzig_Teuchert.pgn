@@ -1,0 +1,16 @@
+[Event "RLNS 8990"]
+[Site "RLNS 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuntzig, Wilfried"]
+[Black "Teuchert, Bernd"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "26859db3"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. a4 Bg7 6. Qd2 h6 7. Bf4 g5 8. Bg3 Nh5
+9. Be2 Nxg3 10. hxg3 Qa5 11. Ra3 Nd7 12. f4 Nb6 13. Qd3 Be6 14. Nf3 Bc4 15. Qe3
+Bxe2 16. Qxe2 g4 17. Nd2 1/2-1/2

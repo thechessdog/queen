@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bruhs"]
+[Black "Grewe"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "dec87a86"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. g3 Qc7 7. Bg2 Nf6 8.
+O-O d6 9. Re1 Bd7 10. Nxc6 bxc6 11. Na4 e5 12. c4 Be7 13. c5 h6 14. Nb6 Rb8
+15. cxd6 Bxd6 16. Nxd7 Kxd7 17. Qd3 Rb6 18. b3 g5 19. Be3 c5 20. Rac1 Ke7
+21. Rc4 a5 22. Rec1 Rc6 23. f3 Nd7 24. Bh3 Rc8 25. Kg2 Qa7 26. Bf5 R8c7 27.
+h4 f6 28. Qd5 Nf8 29. Qg8 Kd8 30. Rd1 Ke7 31. Qg7+ Ke8 32. Qxf6 Qa6 33.
+Qxh6 Be7 34. Qh5+ Ng6 35. Bxg5 a4 36. Bxg6+ Rxg6 37. Qh8+ Kf7 38. Bxe7 Rxe7
+39. Rd8 axb3 40. Qf8+ Ke6 41. Qf5# 1-0
+

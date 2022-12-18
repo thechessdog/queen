@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Keller, S."]
+[Black "Lie, S."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "62899681"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. Bd3 Qh4+ 10. g3 Qe7 11. Nf3 O-O 12. O-O Nb6 13. Kg2 Na6 14. a3
+Re8 15. f5 Bd7 16. Ng5 Bf6 17. h4 Kg7 18. Qd2 Rh8 19. e5 dxe5 20. Nge4 Bxf5
+21. Qh6+ Kg8 22. Nxf6+ Qxf6 23. Rxf5 Qd6 24. Bg5 Nd7 25. Raf1 1-0
+

@@ -1,0 +1,21 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lacroix, Serge"]
+[Black "Hebert, Jean"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "d69897fa"]
+[Epoch "Queen"]
+[WhiteID "2605643"]
+[WhiteCountry "CAN"]
+[BlackID "2600048"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 a6 4. a4 e6 5. Nc3 exd5 6. cxd5 d6 7. e4 g6 8. Nf3 Bg4
+9. Qb3 Bxf3 10. Qxb7 Bxg2 11. Bxg2 Nbd7 12. O-O Be7 13. f4 O-O 14. e5 Nh5 15.
+Ne4 dxe5 16. d6 Bh4 17. fxe5 Nxe5 18. Qd5 Ng4 19. Ra3 Nhf6 20. Nxf6+ Bxf6 21.
+Qxa8 Bd4+ 22. Kh1 Qh4 23. Qxf8+ Kxf8 24. h3 Nf2+ 25. Rxf2 Qxf2 26. Bh6+ Ke8 27.
+Ra1 Be5 28. Bc6+ Kd8 29. Bf8 Qh2# 0-1

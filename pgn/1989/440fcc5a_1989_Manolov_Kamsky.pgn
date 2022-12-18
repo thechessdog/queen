@@ -1,0 +1,19 @@
+[Event "Val Thorens op2"]
+[Site "Val Thorens"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Manolov, Ivan"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "440fcc5a"]
+[Epoch "Queen"]
+[BlackID "2000024"]
+[BlackCountry "USA"]
+[WhiteID "2900505"]
+[WhiteCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 1-0

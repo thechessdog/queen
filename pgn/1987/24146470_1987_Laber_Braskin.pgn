@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Laber, S."]
+[Black "Braskin, I."]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "24146470"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 h6 5. Qc2 b6 6. e4 Bxc3+ 7. bxc3 d6
+8. Bd3 Nc6 9. O-O O-O 10. h3 e5 11. Bd2 a5 12. d5 Ne7 13. Nh4 Nh5 14. Nf5
+Nf4 15. Bxf4 exf4 16. Nd4 1/2-1/2
+

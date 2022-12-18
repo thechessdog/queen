@@ -1,0 +1,19 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Matlak, Marek"]
+[Black "Petersen, HJ."]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "80f6cc94"]
+[Epoch "Queen"]
+[WhiteID "1100122"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 c6 5. e3 b6 6. Bd3 Be7 7. O-O O-O 8. e4
+dxc4 9. Bxc4 Ba6 10. Qe2 Qc8 11. Bg5 Re8 12. Rac1 Bxc4 13. Qxc4 Qa6 14. Qb3 Qb7
+15. e5 Nd5 16. Ne4 f6 17. exf6 Bxf6 18. Bxf6 gxf6 19. Nd6 Qe7 20. Nxe8 Qxe8 21.
+Rfe1 1-0

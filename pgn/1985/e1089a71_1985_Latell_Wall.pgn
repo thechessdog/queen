@@ -1,0 +1,17 @@
+[Event "Palo Alto,CA"]
+[Site "Palo Alto,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Latell, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "e1089a71"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nc3 Nf6 5. Bb5+ Nc6 6. Qf3 e6 7. Nge2 Bb4 8.
+O-O O-O 9. Bxc6 bxc6 10. a3 Ba5 11. b4 Bc7 12. b5 Qd6 13. Bf4 Qd7 14. bxc6 Qxc6
+15. Bxc7 Qxc7 16. a4 Ba6 17. Rab1 Bxe2 18. Qxe2 Qxc3 0-1

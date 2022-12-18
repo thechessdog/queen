@@ -1,0 +1,19 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Delibasic, Gavrilo"]
+[Black "Machulsky, Anatoly D"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "286f943a"]
+[Epoch "Queen"]
+[WhiteID "912131"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Bg5 e6 7. Qd2 b5 8. Bd3
+Be7 9. f4 Bb7 10. Qe2 h6 11. Bh4 Nxe4 12. Bxe7 Nxc3 13. bxc3 Qxe7 14. O-O Nd7
+15. Be4 Bxe4 16. Qxe4 O-O 17. f5 Nf6 18. Qh4 e5 19. Nf3 Rac8 20. g4 Rxc3 21. g5
+hxg5 22. Nxg5 Rc4 0-1

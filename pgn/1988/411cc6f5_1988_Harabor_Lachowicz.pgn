@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Lachowicz, Ryszard"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "411cc6f5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Nd5 Nc6 13. Bd2 a5 14. c3 bxc3
+15. Bxc3 1-0
+

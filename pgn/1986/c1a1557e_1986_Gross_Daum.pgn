@@ -1,0 +1,22 @@
+[Event "Kirchheim-Kettig"]
+[Site "Kirchheim-Kettig"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gross, L."]
+[Black "Daum"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c1a1557e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bf4 Na6 10. e3 Ne8 11. Be2 f5 12. h4 Nac7 13. a4 b6 14. Qd2 Ba6
+15. Rb1 Qd7 16. h5 Rb8 17. hxg6 hxg6 18. Bg5 Nf6 19. f3 Bxc4 20. Bxc4 a6
+21. Be2 b5 22. axb5 axb5 23. b4 c4 24. Bh6 Rbe8 25. Bxg7 Qxg7 26. Kf2 Re5
+27. f4 Rxd5 28. Qc2 Re8 29. Nxd5 Ncxd5 30. Rh3 Ne4+ 31. Kf1 Nec3 32. Re1
+Rxe3 33. Qd2 Rxh3 34. gxh3 Qh6 35. Kg1 Qxh3 36. Bf1 Qg3+ 37. Kh1 Qxf4 38.
+Qb2 Qh4+ 39. Kg2 Qxe1 40. Qa3 Ne3+ 41. Kf3 Qxf1+ 42. Kxe3 Qd3+ 43. Kf4 Nd5+
+44. Kg5 Qxa3 0-1
+

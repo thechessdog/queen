@@ -1,0 +1,21 @@
+[Event "Tirnavia"]
+[Site "Trnava"]
+[Date "1985.01.01"]
+[Round "11"]
+[White "Hausner, Ivan"]
+[Black "Spassov, Liuben"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "2fa78e70"]
+[Epoch "Queen"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+[BlackID "2900220"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Qc8 12. Be3 Nbd7 13. Nbd2 Bd5 14. Qc2 c5 15.
+dxc5 Bxc5 16. Bxc5 Qxc5 17. Rfc1 Qxc2 18. Rxc2 Rfc8 19. Rac1 Nb6 20. Ne5 Rxc2
+21. Rxc2 1/2-1/2

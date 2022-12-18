@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stepanov, O."]
+[Black "Colucci, P."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "ac5c6f82"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2
+e6 8. O-O Bd6 9. Bf4 Qc7 10. Bxd6 Qxd6 11. Bd3 Bxd3 12. Qxd3 Nd7 13. Qg3
+Qxg3 0-1
+

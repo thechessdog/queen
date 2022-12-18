@@ -1,0 +1,19 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kotronias, Vasilios"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "9b967c86"]
+[Epoch "Queen"]
+[WhiteID "5900212"]
+[WhiteCountry "GRE"]
+[BlackID "1000055"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8.
+Qd1 Nf6 9. Nc3 h6 10. a3 O-O 1/2-1/2

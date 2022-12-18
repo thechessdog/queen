@@ -1,0 +1,24 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pavlovic, Milos"]
+[Black "Ruf, Matthias"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "72b7686c"]
+[Epoch "Queen"]
+[WhiteID "900389"]
+[WhiteCountry "SRB"]
+[BlackID "4600541"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. h4 a5
+9. a3 a4 10. Ne2 Ndb8 11. g3 Bd7 12. Bh3 Na5 13. f5 exf5 14. Nf4 Nb3 15. Rb1
+Be6 16. Be3 cxd4 17. cxd4 Nc6 18. h5 Be7 19. Qd3 g5 20. hxg6 hxg6 21. Kf2 Kd7
+22. Bg2 Rxh1 23. Rxh1 Nba5 24. Nd2 Qxb2 25. Nxd5 Rd8 26. Nxe7 Nxe7 27. Rb1 Bc4
+28. Qxf5+ Nxf5 29. Rxb2 Ke8 30. Bxb7 Nxe3 31. Kxe3 Rb8 32. Bc6+ Nxc6 33. Rxb8+
+Nxb8 34. Nxc4 Na6 35. Nb6 Nc7 36. Ke4 Nb5 37. Nc4 Nc3+ 38. Kd3 Nd5 39. Nb2 Nb6
+40. Kc3 f5 41. Kb4 g5 42. Kc5 1-0

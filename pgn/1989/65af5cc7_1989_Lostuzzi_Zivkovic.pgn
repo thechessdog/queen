@@ -1,0 +1,21 @@
+[Event "Caorle op"]
+[Site "Caorle"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Lostuzzi, Manlio"]
+[Black "Zivkovic, Rajko"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "65af5cc7"]
+[Epoch "Queen"]
+[BlackID "915971"]
+[BlackCountry "SRB"]
+[WhiteID "802441"]
+[WhiteCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Nc6 8. dxc5
+Nxe5 9. Nd4 Nc6 10. Bb5 Qd7 11. f4 h6 12. Qe2 Nge7 13. O-O-O O-O-O 14. f5 exf5
+15. Bf4 fxg4 16. Nxd5 Nxd5 17. Nxc6 Nxf4 18. Qe5 Qxd1+ 19. Rxd1 Rxd1+ 20. Kxd1
+bxc6 21. Qe8+ 1-0

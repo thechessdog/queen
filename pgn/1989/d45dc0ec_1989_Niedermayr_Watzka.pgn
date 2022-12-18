@@ -1,0 +1,20 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Niedermayr, Horst"]
+[Black "Watzka, Horst"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "d45dc0ec"]
+[Epoch "Queen"]
+[WhiteID "1601423"]
+[BlackID "1600311"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. h3 a6 7. Bf1 e5 8. c3
+Be7 9. d4 cxd4 10. cxd4 O-O 11. Nc3 Rc8 12. Be3 Re8 13. Rc1 exd4 14. Nxd4 Ne5
+15. Nf3 Bc6 1/2-1/2

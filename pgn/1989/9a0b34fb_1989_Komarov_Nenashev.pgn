@@ -1,0 +1,17 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Komarov, Dimitri"]
+[Black "Graf, Alexander (Nenashev)"]
+[Result "1/2-1/2"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "9a0b34fb"]
+[Epoch "Queen"]
+[BlackID "4680804"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+cxd4 9. Nxd4 Nxd5 10. Bxe7 Nxe7 11. Be2 Nf6 12. O-O Bd7 13. Rfd1 1/2-1/2

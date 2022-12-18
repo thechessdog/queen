@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Minkova, DA."]
+[Black "Tuominen, H."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "85a12e78"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5
+8. Bd3 O-O 9. O-O Nc6 10. Re1 Bf6 11. Be4 Nde7 12. Be3 Nb4 13. Qb3 Nbd5 14.
+Nxd5 Nxd5 15. Bxd5 Qxd5 16. Qxd5 exd5 17. Bf4 Be6 18. Rac1 Rac8 19. Bg5
+Bxg5 20. Nxg5 Bf5 21. Nf3 f6 22. Rc5 Be4 23. Rec1 Rxc5 24. Rxc5 b6 25. Rc3
+Bxf3 26. gxf3 Re8 27. Kf1 Kf7 28. Rc6 Re6 29. Rc8 Re7 30. Rc6 Rd7 31. Kg2
+Kg6 32. f4 Kf5 33. Kf3 g5 34. fxg5 fxg5 35. h3 h5 36. Rc8 Kg6 1/2-1/2
+

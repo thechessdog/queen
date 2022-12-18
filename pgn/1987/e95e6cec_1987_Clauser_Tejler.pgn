@@ -1,0 +1,15 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Clauser"]
+[Black "Tejler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e95e6cec"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Nxe4 Nc6 5. d5 Nb4 6. Bb5+ c6 7. dxc6
+Nxc2+ 8. Qxc2 1-0
+

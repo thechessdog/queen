@@ -1,0 +1,27 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Turunen, Erkki O"]
+[Black "Raaste, Eero J."]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "1e69ce45"]
+[Epoch "Queen"]
+[BlackID "500097"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8.
+Nf3 cxd4 9. Bd3 Nbc6 10. O-O-O Ng6 11. Rde1 Qa5 12. Qxa5 Nxa5 13. g3 Nc6 14.
+Nbxd4 Nb4 15. Kd2 Nxd3 16. cxd3 Bd7 17. h4 h5 18. Ng5 Rfe8 19. f4 Ne7 20. Rhg1
+g6 21. Ngf3 Kg7 22. Rc1 Rac8 23. Rxc8 Rxc8 24. Rc1 Rxc1 25. Kxc1 Ng8 26. Kd2
+Kf8 27. Kc3 Ke7 28. Nd2 Nh6 29. N2b3 Kd8 30. Nc5 Kc7 31. b4 Be8 32. Ncb3 Ng4
+33. Kd2 Ba4 34. Nc1 Nh6 35. Nce2 Bd7 36. Nc3 Kb6 37. Ke2 Ng4 38. a3 Be8 39. Nd1
+Bd7 40. Ne3 Nh6 41. Kd2 Ba4 42. Kc3 Bd7 43. f5 gxf5 44. Ne2 f6 45. exf6 Kc6 46.
+Nf4 e5 47. Nfxd5 Kd6 48. Ne7 Ke6 49. N7xf5 Nf7 50. Ng7+ Kxf6 51. Nxh5+ Kg6 52.
+Nd5 Be6 53. Nhf6 Nd6 54. g4 Nb5+ 55. Kd2 Nxa3 56. g5 Nb5 57. Ke3 Nd6 58. Ne7+
+Kf7 59. Nfd5 Bxd5 60. Nxd5 Nf5+ 61. Ke4 Nxh4 62. Kxe5 Nf3+ 63. Kf5 Nd4+ 64. Ke4
+Ne6 65. Kf5 Nd4+ 66. Ke4 Ne6 67. Kf5 Nd4+ 68. Ke5 Nf3+ 69. Kd6 Kg6 70. Ne7+
+Kxg5 71. Kc5 Kf4 72. d4 b6+ 73. Kc4 a5 74. b5 Ke4 75. d5 Ne5+ 1/2-1/2

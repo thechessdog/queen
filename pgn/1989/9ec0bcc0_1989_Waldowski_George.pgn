@@ -1,0 +1,25 @@
+[Event "Maryland"]
+[Site "Maryland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Waldowski, P."]
+[Black "George"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "9ec0bcc0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 e6 7. Nc3 Bb4
+8. Bd3 Nf6 9. O-O Qd8 10. Bg5 Be7 11. Rc1 O-O 12. a3 h6 13. Be3 Ng4 14. Bb1
+Nxe3 15. fxe3 f5 16. Qc2 Bd7 17. g4 Bg5 18. Rce1 Rc8 19. gxf5 Rxf5 20. Qg2
+Bh4 21. Bxf5 Bxe1 22. Bxe6+ Bxe6 23. Nxe1 Bc4 24. Rf4 Ne7 25. Qd2 Ng6 26.
+Rg4 Ne5 27. Rg2 Nf7 28. e4 Qb6 29. Kh1 Rd8 30. d5 Qf6 31. Qf2 Bf1 32. Qxa7
+Bxg2+ 33. Kxg2 Nd6 34. Qf2 Qe7 35. Qe2 Qg5+ 36. Kh1 Re8 37. Nf3 Qh5 38. e5
+Nf5 39. Kg1 Qg4+ 40. Qg2 Qf4 41. Ne2 Qc4 42. Nc3 Ne3 43. Qe2 Qxe2 44. Nxe2
+Nxd5 45. Kf2 Kf7 46. Ned4 Nf4 47. Ke3 Ne6 48. Nb5 b6 49. Nd6+ Kf8 50. Nxe8
+Kxe8 51. b4 Kd7 52. Ke4 Ke7 53. a4 Nd8 54. Nd4 h5 55. Kf5 h4 56. a5 bxa5
+57. bxa5 Kd7 58. Kg6 Kc7 59. Kxg7 Nb7 60. a6 Nc5 61. Nb5+ Kb6 62. a7 Kb7
+63. Kf7 Nd3 64. e6 Ne5+ 65. Kf6 Ng4+ 66. Kg5 Nxh2 67. e7 Nf3+ 68. Kf4 1-0
+

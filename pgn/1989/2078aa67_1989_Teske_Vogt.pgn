@@ -1,0 +1,18 @@
+[Event "Zittau"]
+[Site "Zittau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Teske, Henrik"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "2078aa67"]
+[Epoch "Queen"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Qh4+ 4. g3 fxg3 5. hxg3 Qf6 6. Nc3 Qxf3 7. Nxf3 c6
+8. Bc4 d6 9. d4 Be7 10. Ng5 Nh6 11. Bf4 f6 12. Ne6 Bxe6 13. Bxe6 Nf7 14. Bc8
+Nd8 15. Bf5 h6 16. O-O-O Nd7 17. Bg6+ Nf7 18. e5 dxe5 19. dxe5 1/2-1/2

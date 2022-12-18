@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van de Ven"]
+[Black "Breukers"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[HashCode "2f2cd1e7"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. g3 Bb4 7. Bd2 Be6
+8. Bg2 Be7 9. O-O O-O 10. Nxd5 Bxd5 11. Bc3 Bf6 12. e3 Qd7 13. Qc2 Rad8 14.
+Rfd1 Be6 15. d4 exd4 16. Nxd4 Nxd4 17. Bxd4 Bxd4 18. Rxd4 Qc8 19. Qa4 Rxd4
+20. Qxd4 a6 21. Qb4 b6 1/2-1/2
+

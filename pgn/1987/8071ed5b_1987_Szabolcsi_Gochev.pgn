@@ -1,0 +1,23 @@
+[Event "HUN-ch op"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szabolcsi, Janos"]
+[Black "Gochev, Mladen"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "8071ed5b"]
+[Epoch "Queen"]
+[WhiteID "701270"]
+[WhiteCountry "HUN"]
+[BlackID "2900718"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Nh5 10. e3 a6 11. a4 Bf5 12. Bd3 Bxd3 13. Qxd3 Nxg3 14. hxg3 Bg7 15.
+Qf5 Qd7 16. Ne4 Ke7 17. g4 Qxf5 18. gxf5 Nd7 19. a5 b5 20. axb6 Nxb6 21. Ke2
+Bxb2 22. Rab1 Na4 23. Nfd2 Rab8 24. Nc4 Rb4 25. Kd3 Bg7 26. Ncxd6 Nb2+ 27. Kc2
+Be5 28. f6+ Kf8 29. f4 gxf4 30. exf4 Bxd6 31. Nxd6 Rg8 32. Rhg1 Na4 33. g4 Rg6
+34. g5 hxg5 35. fxg5 a5 36. Rge1 1-0

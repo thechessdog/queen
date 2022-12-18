@@ -1,0 +1,22 @@
+[Event "ESP-ch"]
+[Site "Spain"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Fernandez Garcia, Jose Luis"]
+[Black "Sanchez Guirado, Francisco"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2907cefc"]
+[Epoch "Queen"]
+[BlackID "2200511"]
+[BlackCountry "ESP"]
+[WhiteID "2200023"]
+[WhiteCountry "ESP"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3 Qc7
+8. Nf3 Bg4 9. h3 Bxf3 10. Qxf3 e6 11. O-O Be7 12. Bf4 Bd6 13. Qg3 Bxf4 14. Qxg7
+O-O-O 15. Qxf6 h5 16. Rfe1 Rh6 17. Qh4 Rg8 18. Re4 Bd6 19. Re3 Rhg6 20. Bf1 f5
+21. Qxh5 Bf4 22. Rd3 Qg7 23. Qf3 Bb8 24. Re1 Qc7 25. Re5 Qb6 26. Re2 Qc7 27. g3
+Qh7 28. Bg2 1-0

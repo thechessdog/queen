@@ -1,0 +1,22 @@
+[Event "Hessen-ch qual-D"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Rechel, Bernd"]
+[Black "Heinelt, Manfred"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "00209a35"]
+[Epoch "Queen"]
+[BlackID "4656695"]
+[BlackCountry "GER"]
+[WhiteID "4601483"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Bxb5+ axb5 11. exf6 Qe5+ 12. Qe2 Qxg5 13. Ndxb5 Na6 14.
+Ne4 Qe5 15. fxg7 Bxg7 16. Nbd6+ Ke7 17. O-O f5 18. Rad1 h5 19. Qe3 Kf8 20. Qg5
+Kg8 21. Ne8 Rh6 22. N4f6+ Qxf6 23. Nxf6+ Rxf6 24. Rd8+ Kf7 25. Qxh5+ Rg6 26.
+Rfd1 Nc5 27. Qf3 1-0

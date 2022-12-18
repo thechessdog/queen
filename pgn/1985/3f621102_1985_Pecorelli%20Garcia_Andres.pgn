@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Pecorelli Garcia, Humberto"]
+[Black "Andres, Miguel"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "3f621102"]
+[Epoch "Queen"]
+[WhiteID "3500233"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 d6 8.
+O-O O-O 9. e4 e5 10. d5 Nb8 11. Qc2 c6 12. Rac1 cxd5 13. cxd5 Na6 14. a3 Bd7
+15. b4 Rfc8 16. Qb2 Qd8 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Qxc1 1/2-1/2

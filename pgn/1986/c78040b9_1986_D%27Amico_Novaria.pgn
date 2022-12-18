@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "D'Amico"]
+[Black "Novaria"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "c78040b9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 Bb4+ 4. Nc3 h6 5. Bh4 c5 6. a3 Bxc3+ 7. bxc3 g5
+8. Bg3 Ne4 9. Bxb8 Rxb8 10. d5 Qf6 11. Qc2 Qxf2+ 12. Kd1 Qxf1# 0-1
+

@@ -1,0 +1,22 @@
+[Event "Aabybro"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Kekki, Petri"]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "5cd6f7f9"]
+[Epoch "Queen"]
+[BlackID "500348"]
+[BlackCountry "FIN"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. Qa4+ Nc6 6. Ne5 Nxc3 7. bxc3 Bd7
+8. Nxd7 Qxd7 9. Rb1 b6 10. g3 Na5 11. Qxd7+ Kxd7 12. Bg2 Rc8 13. d3 Bg7 14. Bd2
+Rhd8 15. e3 e6 16. Ke2 c6 17. c4 Nb7 18. Rhc1 Kc7 19. a4 Rd7 20. c5 bxc5 21. a5
+Kd6 22. Rc4 e5 23. Bh3 f5 24. g4 g5 25. gxf5 Bf6 26. a6 Nd8 27. Bc1 Kc7 28. Ba3
+Rb8 29. Rxb8 Kxb8 30. Bxc5 Ka8 31. Bg4 1-0

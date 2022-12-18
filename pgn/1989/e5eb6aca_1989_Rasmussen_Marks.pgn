@@ -1,0 +1,17 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rasmussen, E."]
+[Black "Marks, I."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "e5eb6aca"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Nc3 Bf5 6. Bc4 Bxe5 7. dxe5
+Qxd1+ 8. Nxd1 Nc6 9. Bf4 Nge7 10. Ne3 Ng6 11. Bh6 gxh6 12. Nxf5 Nb4 13.
+O-O-O Rd8 14. Rde1 Nf4 15. Rxe4 Nfd5 16. Rd1 Nb6 17. Rxd8+ Kxd8 18. Bxf7
+1-0
+

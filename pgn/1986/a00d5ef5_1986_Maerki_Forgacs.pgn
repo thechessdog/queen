@@ -1,0 +1,20 @@
+[Event "Geneva"]
+[Site "Geneva"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Maerki"]
+[Black "Forgacs"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "a00d5ef5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nxf6+ gxf6 13. c4 Bb7 14.
+cxb5 Bxe4 15. Qa4 f5 16. bxa6+ Kf8 17. f3 Bc6 18. Qb4 Rg8 19. O-O-O d5 20.
+Kb1 Rb8 21. Qc5 Qb6 22. Qxb6 Rxb6 23. f4 f6 24. g3 Kf7 25. Be2 Rd8 26. fxe5
+fxe5 27. Nc4 dxc4 28. Rxd8 Bxh1 29. Bxc4+ Kg7 30. a7 Be4+ 31. Bd3 Bxd3+ 32.
+Rxd3 e4 33. Ra3 1-0
+

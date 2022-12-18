@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Leiber, B."]
+[Black "Andersen, K."]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "bde0843c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 Ne4 6. Qd3 Qa5 7. Qxe4 Bxc3+
+8. Bd2 Bxd2+ 9. Nxd2 O-O 10. dxc5 Na6 11. Bg2 Rb8 12. Qc2 Nxc5 13. O-O b5
+14. Rfd1 Bb7 15. e4 Rfc8 16. Rac1 Na4 17. Nb3 Qd8 18. c5 Qf6 19. Rxd7 Qxb2
+20. Qxb2 Nxb2 21. Na5 Ba8 22. c6 Re8 23. e5 Rbc8 24. Rc2 1-0
+

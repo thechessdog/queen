@@ -1,0 +1,18 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gual Pascual, Antonio"]
+[Black "Campos Moreno, Javi"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "52a0c49e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Bg5 Bb7 11. Rc1 Nbd7 12. Qe2 Bxc3 13. Rxc3 Qb8 14. Re3 Ng4
+15. Ne5 Nxe3 16. Nxd7 Qd6 17. Nf6+ gxf6 18. Bxf6 Rfc8 19. fxe3 Be4 20. Be5 Qe7
+21. Rf6 Rc6 22. Qg4+ Bg6 23. Qg5 Kf8 24. Qh6+ Ke8 25. Bb5 Qd7 26. Bxc6 Qxc6 27.
+h4 Qc2 28. Rf2 Qd1+ 29. Rf1 Qh5 30. Qf4 Rc8 31. d5 exd5 32. Bf6 Kf8 33. g4 1-0

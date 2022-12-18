@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sygulski, Artur"]
+[Black "Sznapik, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "971c5e8d"]
+[Epoch "Queen"]
+[WhiteID "1100521"]
+[WhiteCountry "POL"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 c6 7. O-O Qa5 8. d5
+cxd5 1/2-1/2

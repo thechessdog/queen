@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Albrecht"]
+[Black "Hobusch"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "4c934402"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. c5 Bg7 9. Bb5+ Bd7 10. cxd6 O-O 11. O-O Bxb5 12. Nxb5 a6 13. Nc3 Ne8 14.
+Qb4 Nxd6 15. Rd1 Rc8 16. Bf4 Rc4 17. Qb3 b5 18. a4 Bxc3 19. bxc3 Rxe4 20.
+Bxd6 exd6 21. axb5 axb5 22. Qxb5 Rfe8 23. g3 Qf6 24. Qb6 Qxc3 1/2-1/2
+

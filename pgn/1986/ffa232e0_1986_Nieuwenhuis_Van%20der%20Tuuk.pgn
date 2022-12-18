@@ -1,0 +1,23 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nieuwenhuis, Pieter"]
+[Black "Van der Tuuk, Jaap"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "ffa232e0"]
+[Epoch "Queen"]
+[WhiteID "1000748"]
+[WhiteCountry "NED"]
+[BlackID "1018868"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Nd2 Nxd2 12. Qxd2 Nd7 13. f3 Qe7 14. Bd3 O-O-O
+15. O-O f5 16. e4 f4 17. Bf2 e5 18. a4 a5 19. Rfb1 h5 20. Rb5 g4 21. c5 dxc5
+22. dxc5 g3 23. hxg3 fxg3 24. Be3 Qh4 25. cxb6 Nxb6 26. Qe2 Rxd3 27. Qxd3 Rd8
+28. Qe2 Bxe4 29. Rd1 Rxd1+ 30. Qxd1 Nc4 31. Qe2 Qh2+ 32. Kf1 Nxe3+ 33. Qxe3
+Qh1+ 34. Ke2 Qxg2+ 35. Ke1 Qh1+ 36. Kd2 Qh2+ 37. Qe2 Bxf3 0-1

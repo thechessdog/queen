@@ -1,0 +1,20 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "D'Amore, Carlo"]
+[Black "Skembris, Spyridon"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "22010fee"]
+[Epoch "Queen"]
+[WhiteID "800066"]
+[WhiteCountry "ITA"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. Re1 Nbc6 8. Nc3
+dxe4 9. dxe4 Bg4 10. Qxd8 Raxd8 11. h3 Bc8 12. Nd1 h6 13. b3 Be6 14. Ba3 Rfe8
+15. Ne3 Nd4 16. Rad1 Nec6 17. c3 1/2-1/2

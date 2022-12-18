@@ -1,0 +1,20 @@
+[Event "corr ch17-SU"]
+[Site "corr ch17-SU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zelinsky, Yuri"]
+[Black "Yarmolik, V."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "f41b05a4"]
+[Epoch "Queen"]
+[WhiteID "2804360"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Ne8 10. Qd2 f5 11. exf5 gxf5 12. Nge2 Nd7 13. O-O Ndf6 14. Bg5 f4 15.
+Kh1 Kh8 16. g3 fxg3 17. hxg3 Qd7 18. Kg1 Qf7 19. g4 Nc7 20. Rad1 b5 21. Nxb5
+Nxb5 22. Bxb5 e4 23. fxe4 Bxg4 24. Bd3 Rg8 25. Qf4 Raf8 26. Kf2 Nxe4+ 27. Bxe4
+Qe8 0-1

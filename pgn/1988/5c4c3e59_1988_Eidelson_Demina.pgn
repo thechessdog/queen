@@ -1,0 +1,26 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Eidelson, Rakhil"]
+[Black "Demina, Julia"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5c4c3e59"]
+[Epoch "Queen"]
+[WhiteID "13500210"]
+[BlackID "4105621"]
+[WhiteCountry "BLR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Nc6 8. a3
+Bxc3+ 9. Nxc3 O-O 10. Bb5 Ne4 11. Nxe4 dxe4 12. Bxc6 bxc6 13. O-O Ba6 14. Re1
+Bd3 15. Be3 f5 16. Qd2 Qf6 17. f4 Rfb8 18. b4 a5 19. Qc3 Rb5 20. bxa5 Rbxa5 21.
+Red1 h6 22. Rd2 Kh7 23. Rb2 Qf7 24. Rb6 Bb5 25. Bc1 Ra4 26. Bb2 Rc4 27. Qd2 Qd7
+28. Rc1 Rca4 29. h3 Rd8 30. Qe3 Qe7 31. Qf2 Rd5 32. Re1 Ra7 33. Re3 Qd8 34. Rb3
+Rxc5 35. dxc5 Qd1+ 36. Kh2 Qxb3 37. Qd4 Qd5 38. Qxd5 exd5 39. Kg3 e3 40. Kf3
+Re7 41. Be5 d4 42. a4 Bxa4 43. Rb1 Rd7 44. Bd6 Bb5 45. Ra1 Kg6 46. g4 Kf6 47.
+gxf5 Kxf5 48. h4 g6 49. Ra8 e2 50. Rf8+ Ke6 51. Kf2 d3 52. Ke1 Ra7 53. Be5 Ra2
+54. Bc3 Rc2 55. Bd2 Rb2 56. Re8+ Kf7 0-1

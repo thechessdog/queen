@@ -1,0 +1,20 @@
+[Event "Concord, CA"]
+[Site "Concord, CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Gonzales, Ramon"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "8c104e6a"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 f6 6. fxe5 fxe5 7. Bxc6+ bxc6 8.
+Nf3 Ba6 9. d3 Qe7 10. Nxe5 O-O-O 11. Nxc6 Qxe3+ 12. Qe2 Qxe2+ 13. Kxe2 Re8+ 14.
+Kd1 Nf6 15. h3 Kb7 16. Nd4 Be5 17. b4 Bb5 18. a4 Bd7 19. Nd2 a5 20. b5 Nh5 21.
+N2b3 Ng3 22. Rg1 Rhf8 23. Nxa5+ Kb6 24. Nac6 Bxc6 25. bxc6 Rf2 26. a5+ Ka6 27.
+Rb1 Ne2 28. Nxe2 Bxb2 29. Ng3 Bc3 30. Rb3 Rxg2 31. Rf1 Bxa5 32. d4 Rf2 33. c3
+Rg2 34. Rf3 g6 35. Kc1 Re1# 0-1

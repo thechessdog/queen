@@ -1,0 +1,20 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Visser, Yge"]
+[Black "Langerak, D."]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "4c9d65ca"]
+[Epoch "Queen"]
+[WhiteID "1000578"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bc4 a6 13. h3 Rb8 14. a5 b5 15. axb6
+Nxb6 16. Ba2 Nb5 17. Bd2 Nd4 18. Be3 Nxf3+ 19. Qxf3 Nd7 20. Qe2 Re8 21. Bf2 Rb4
+22. Bc4 Nb6 23. Bxa6 Bxc3 24. bxc3 Rbxe4 25. Qd2 Bxa6 26. Rxa6 Nc4 27. Qc1 Qc8
+0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ballan, M."]
+[Black "Nilsson, Nils Specht"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "8d98ae7c"]
+[Epoch "Queen"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. O-O g4
+9. Ne1 Nf6 10. Nd2 Nh5 11. Nd3 Nxd4 12. Qe1 Nc2 0-1

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Jensen, Mads"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "4969c02a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e5 Qc7 7. Bb5+ Bd7 8.
+Bxd7+ Nxd7 9. Ne2 Rc8 10. Rb1 Nb6 11. Qd3 Ne7 12. Qb5+ Kf8 13. dxc5 Qxc5 14.
+Qxc5 Rxc5 15. Be3 Ra5 16. Bxb6 axb6 17. Rxb6 Rxa3 18. Rxb7 g6 19. Kd2 Nc6 20.
+f4 Na5 21. Rc7 Nc4+ 22. Kd3 g5 23. g3 Nb2+ 24. Ke3 Ra4 25. Nd4 Rc4 26. Rb7 Na4
+27. Nb5 Rg8 28. Nd6 gxf4+ 29. gxf4 Rxc3+ 30. Kd4 Rg2 31. Rxf7+ Kg8 32. Rd1
+Rcxc2 33. Rd3 Rc4+ 34. Nxc4 dxc4 35. Ra3 Kxf7 36. Rxa4 Rxh2 37. Rxc4 Kg6 38.
+Rc8 0-1

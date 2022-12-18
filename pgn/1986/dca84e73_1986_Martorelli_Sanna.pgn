@@ -1,0 +1,19 @@
+[Event "Italy ch"]
+[Site "Italy ch"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Sanna, Gianlazzaro"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "dca84e73"]
+[Epoch "Queen"]
+[BlackID "800112"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8. f4
+O-O 9. g4 exf4 10. Bxf4 Nd7 11. Qd2 Bh4+ 12. Bg3 Nde5 13. O-O-O Bxg3 14. hxg3
+Bxg4 15. Bxg4 Nxg4 16. Rh4 Nce5 17. Rdh1 h6 18. Nd4 Qf6 19. Nd5 Qf2 20. Ne7+
+Kh7 21. Rxh6+ gxh6 22. Rxh6+ Nxh6 23. Qxf2 Nc6 24. Ndxc6 bxc6 25. g4 1-0

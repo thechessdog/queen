@@ -1,0 +1,19 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Monaville, Guy"]
+[Black "Schwan, Wilhelm"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "84ee3afa"]
+[Epoch "Queen"]
+[WhiteID "203564"]
+[WhiteCountry "BEL"]
+
+1. d4 e6 2. e4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Ng4 8.
+Qe2 Nc6 9. c3 b6 10. O-O Bb7 11. Bf4 h6 12. Nc4 Nf6 13. Nfe5 Nxe5 14. Nxe5 a6
+15. Rae1 Bd6 16. Nxf7 Kxf7 17. Qxe6+ Kf8 18. Bg6 Bd5 19. Bxd6+ Qxd6 20. Qe8+
+Rxe8 21. Rxe8# 1-0

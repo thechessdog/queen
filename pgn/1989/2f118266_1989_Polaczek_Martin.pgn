@@ -1,0 +1,20 @@
+[Event "Haringey"]
+[Site "Londen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Polaczek, Richard"]
+[Black "Martin, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "2f118266"]
+[Epoch "Queen"]
+[WhiteID "200026"]
+[WhiteCountry "BEL"]
+[BlackID "400300"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 a6 5. a4 Bg4 6. Be2 Nc6 7. Be3 e5 8. dxe5
+dxe5 9. Nd5 Nf6 10. Bg5 Bxf3 11. Bxf3 h6 12. Nxf6+ Bxf6 13. Qxd8+ Bxd8 14. Be3
+Bg5 1/2-1/2

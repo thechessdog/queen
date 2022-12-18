@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arndt, R."]
+[Black "Florian, Jaromir"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "8caf36e5"]
+[Epoch "Queen"]
+[BlackCountry "CZE"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Bf5 14. d6 Qxb2 15.
+Nd5 Nc6 16. Nc7 Ngxe5 17. Nxe8 Nxf3+ 18. Bxf3 Rxe8 19. g4 Be5 20. Bg2 Be4 21.
+Qd2 Bd4+ 0-1

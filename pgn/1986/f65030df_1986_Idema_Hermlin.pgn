@@ -1,0 +1,22 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Idema"]
+[Black "Hermlin"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "f65030df"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. a3 Bd6 10. b4 Re8 11. Qb3 a5 12. b5 Ne4 13. a4 Nxc3 14. Qxc3
+Nd7 15. Ba3 Nf6 16. Rfc1 Ne4 17. Qb3 Qe7 18. Bxd6 cxd6 19. Rc2 Rec8 20.
+Rac1 Qd7 21. Kf1 Rxc2 22. Rxc2 Rc8 23. Ng1 Rxc2 24. Qxc2 Qc8 25. Ne2 Qxc2
+26. Bxc2 Nf6 27. f3 Kf8 28. g4 h6 29. h4 g5 30. Bf5 Ke7 31. Kg2 Ne8 32. Kg3
+Kf6 33. f4 Ng7 34. Bc2 Ne6 35. Bb3 Kg7 36. Kh3 gxf4 37. exf4 f5 38. gxf5
+Nc7 39. Ng3 Bc8 40. Kg4 Bd7 41. Nf1 Be8 42. Ne3 Bf7 43. Kg3 h5 44. f6+ Kxf6
+45. Bd1 Bg6 46. f5 Bxf5 47. Nxf5 Kxf5 48. Bxh5 Ke4 49. Bg4 1-0
+

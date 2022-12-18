@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Way, J."]
+[Black "Hutters, Tomas"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "47028303"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nge2 d6 6. Ng3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Nbd7 10. O-O a6 11. a4 Rb8 12. f4 Re8 13. Qc2 Qc7 14. Kh1 c4 15.
+a5 b5 16. axb6 Nxb6 17. Na4 Bd7 18. Nxb6 Qxb6 19. Qxc4 Bb5 20. Qc2 Rbc8 21. Qb3
+Nxe4 22. Nxe4 Rxe4 23. Bf3 Qf2 24. Qd1 Bxf1 25. Bxe4 Rc2 26. Bd2 Bxg2+ 27. Bxg2
+Rxd2 28. Qf1 Qh4 29. Rxa6 Bxb2 30. Ra8+ Kg7 31. Re8 Rf2 32. Qe1 Qxf4 33. Re4
+Qf6 34. h3 Rc2 35. Re2 Rc1 0-1

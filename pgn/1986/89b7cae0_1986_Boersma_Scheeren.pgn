@@ -1,0 +1,28 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Boersma, Paul"]
+[Black "Scheeren, Peter"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "89b7cae0"]
+[Epoch "Queen"]
+[BlackID "1000136"]
+[BlackCountry "NED"]
+[WhiteID "1000411"]
+[WhiteCountry "NED"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. d4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Bd2 Ne8 10. Rc1 f5 11. Ng5 Nf6 12. exf5 Nxf5 13. Bd3 Nd4 14. Ne2 Nf5 15.
+Qc2 Qe7 16. Rce1 Bd7 17. Ng3 Nxg3 18. hxg3 Bh6 19. Re2 Qg7 20. c5 Bxg5 21. Bxg5
+Rac8 22. Qb3 b6 23. cxd6 cxd6 24. Qa3 Bf5 25. Bb5 Rc5 26. Qb3 Rfc8 27. Be3 R5c7
+28. Ba6 Rd8 29. Rc1 Rxc1+ 30. Bxc1 Rd7 31. Bg5 Rc7 32. Qb4 Qf8 33. Qh4 Nxd5 34.
+Bc4 Be6 35. Rd2 Qf7 36. Bh6 Nf6 37. Bb3 Bxb3 38. axb3 d5 39. Qg5 Qe6 40. f3 d4
+41. Re2 Re7 42. Qh4 d3 43. Rd2 Rd7 44. Qb4 Qd6 45. Qc4+ Kh8 46. Kf1 Ng8 47. Be3
+Ne7 48. g4 Kg7 49. Bf2 Nc6 50. Qc3 Kf7 51. Bg3 Qd5 52. Kg1 Qc5+ 53. Kf1 Qxc3
+54. bxc3 e4 55. fxe4 Ke6 56. Kf2 Na5 57. Ke3 Nxb3 58. Rxd3 Rxd3+ 59. Kxd3 b5
+60. Bf2 a6 61. c4 bxc4+ 62. Kxc4 Na5+ 63. Kc5 Ke5 64. Be1 Nb7+ 65. Kc6 Nd8+ 66.
+Kd7 Nf7 67. Ke7 Nh6 68. g5 Ng4 69. Kf7 Kxe4 70. Kg7 Kf5 71. Bd2 Ke6 0-1

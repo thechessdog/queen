@@ -1,0 +1,22 @@
+[Event "Kehl BM"]
+[Site "Kehl BM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Villing, D."]
+[Black "Schuh, Hubert"]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "b674f6b2"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 e6 4. e3 c5 5. c3 Nc6 6. Nbd2 h6 7. Bh4 cxd4 8. exd4
+Be7 9. Bb5 O-O 10. Qe2 a6 11. Bxc6 bxc6 12. Ne5 Qb6 13. O-O c5 14. b4 cxd4 15.
+cxd4 Qxd4 16. Nc6 Qxh4 17. Nxe7+ Kh8 18. Nxc8 Rfxc8 19. f4 Rc2 20. Qd3 Rac8 21.
+Qxa6 Ng4 22. h3 Qg3 23. Qxc8+ Rxc8 24. hxg4 Qe3+ 25. Rf2 Rc2 26. Rd1 Rxa2 27.
+Kf1 Rb2 28. f5 e5 29. b5 e4 30. Nxe4 Rxb5 31. Re2 Qf4+ 32. Nf2 Kh7 33. Red2 Qe5
+34. Re2 Qc3 35. Red2 Qb3 36. Rd4 Kg8 37. R1d3 Qa2 38. Rd2 Qa8 39. Ke2 Qe8+ 40.
+Kf3 Rb3+ 41. R4d3 Qb5 42. Rxb3 Qxb3+ 43. Rd3 Qc4 44. Kg3 Kf8 45. Rf3 Ke7 46.
+Nd3 Kd6 47. Nf4 Ke5 48. Nd3+ Kd4 49. Nf2 Qc7+ 50. Kh3 Kc4 51. Nd3 d4 52. Nf4
+Qe5 53. Nd3 Qe2 54. Nf4 Qe4 55. Kh4 g5+ 56. fxg6 fxg6 57. Nh3 d3 58. Nf2 Qe1
+59. Kh3 d2 60. Rf6 g5 61. Rf3 d1=Q 62. Nxd1 Qh4# 0-1

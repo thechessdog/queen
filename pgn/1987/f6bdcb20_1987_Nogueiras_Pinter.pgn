@@ -1,0 +1,18 @@
+[Event "FIDE (36) 1987-1990"]
+[Site "Zagreb izt"]
+[Date "1987.08.01"]
+[Round "4"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Pinter, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "f6bdcb20"]
+[Epoch "Queen"]
+[BlackID "700045"]
+[BlackCountry "HUN"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+Qe7 9. h3 Re8 10. Bd2 dxc4 11. Bxc4 b5 12. Bd3 a5 1/2-1/2

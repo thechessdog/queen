@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Naumann, T."]
+[Black "Monteleone, A."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "0e4787eb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Ng5 O-O 10. f4 cxd4 11. fxe5 Nxe5 12. exd4 Nxd3 13. Qxd3 h6
+14. Rxf6 hxg5 15. Rf3 Re8 16. Bd2 f6 17. Raf1 f5 18. Re3 Rxe3 19. Qxe3 Bd7
+20. Rb1 b6 21. Qf3 f4 22. Qd5+ Kh7 23. h4 gxh4 24. Bxf4 Rc8 25. Re1 Bc6 26.
+Qh5+ Kg8 27. Bg5 Qf8 28. Qg4 Qf4 29. Bxf4 1-0
+

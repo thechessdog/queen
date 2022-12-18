@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schuler, Klaus"]
+[Black "Emmerich, Frank"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "5113a7e4"]
+[Epoch "Queen"]
+[WhiteID "4619153"]
+[WhiteCountry "GER"]
+[BlackID "1271269"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. e3 e5 5. Qb3 Bxf3 6. gxf3 exd4 7. cxd5 Nb4 8.
+e4 c6 9. a3 Qa5 10. Bd2 c5 11. Ra2 Qc7 12. axb4 cxb4 13. Bb5+ Kd8 14. Ke2 Nf6
+15. Bg5 Qe5 16. Bxf6+ gxf6 17. Nd2 f5 18. Qd3 Bg7 19. Rc1 Rg8 20. Nc4 Qxh2 21.
+d6 Bf6 22. e5 Qf4 23. exf6 Qxc1 24. Ne5 Rg1 25. Nxf7+ Kc8 26. Qc4+ Qxc4+ 27.
+Bxc4 Kd7 28. f4 h5 29. Ra5 a6 30. Re5 Rf8 31. Re7+ Kc6 32. d7 d3+ 33. Bxd3 Rgg8
+34. Bxf5 a5 35. Bh7 h4 36. Bxg8 h3 37. d8=Q Rxd8 38. Nxd8+ Kb5 39. Rh7 Ka4 40.
+b3+ Ka3 41. Rxh3 b5 42. f7 a4 43. f8=Q axb3 44. Rxb3+ Ka2 45. Qxb4 Ka1 46. Rb1#
+1-0

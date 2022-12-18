@@ -1,0 +1,21 @@
+[Event "corr EU-FSM"]
+[Site "corr EU-FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Marel, E."]
+[Black "Herschel, K."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5dee93c1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 bxc5 10. dxc5 e5 11. f4 Nc6 12. fxe5 Nxe5 13. Nd4 O-O 14. Be2
+Ne4 15. Bb2 Bh4+ 16. g3 Bg5 17. Nxe4 dxe4 18. Ne6 Bxe6 19. Bxe5 Qc8 20. Qc2
+Bh3 21. Bf4 Bxf4 22. gxf4 Qf5 23. Qc3 e3 24. Rg1 g6 25. Rg3 Rad8 26. Rxe3
+Bg4 27. Qe5 Qc8 28. Rd1 Rde8 29. Bxg4 Rxe5 30. Bxc8 Rxe3+ 31. Kd2 Re7 32.
+Ba6 Rd8+ 33. Bd3 Rd4 34. Rf1 Red7 35. Rf3 Rb7 36. f5 Kg7 37. f6+ Kh6 38.
+Ke2 Rh4 39. Kd2 Kg5 40. Kc3 Rc7 41. Bb5 h5 0-1
+

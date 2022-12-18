@@ -1,0 +1,21 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kuijpers, Frans"]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "3e3d2863"]
+[Epoch "Queen"]
+[BlackID "1000179"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 a6 10. h4 b5 11. Bxf6 gxf6 12. g4 b4 13. Ne2 Kh8 14. Ned4 Nxd4
+15. Nxd4 Bb7 16. Bd3 Rg8 17. f3 a5 18. Ne2 Qb6 19. Kb1 a4 20. Rhg1 d5 21. g5
+dxe4 22. fxe4 Qc5 23. Qf4 a3 24. gxf6 Bd6 25. Qh6 Qe5 26. Nc3 Qf4 27. Rg5 Rxg5
+28. e5 1-0

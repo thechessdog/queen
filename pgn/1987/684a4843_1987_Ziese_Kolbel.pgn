@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ziese"]
+[Black "Kolbel"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "684a4843"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Nxd5 11. Nc3 O-O 12. h3 Be6 13. a3 Re8 14.
+Ne4 h6 15. Bd2 Nf6 16. Bc3 Nxe4 17. Bxe4 Bd5 18. Bd3 Bf6 19. Ne5 Qd6 20. f4
+Bh4 21. Rf1 Be7 22. Bc2 Nxe5 23. fxe5 Qc6 24. Qd3 g6 25. Qg3 a5 26. Rae1
+Kh7 27. h4 h5 28. e6 Bxe6 29. Re5 f5 30. Rexf5 Bxf5 31. Rxf5 Qb6 32. Rb5
+Qd6 33. Rxh5+ Kg7 34. d5+ 1-0
+

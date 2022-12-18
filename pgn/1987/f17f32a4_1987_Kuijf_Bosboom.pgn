@@ -1,0 +1,23 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuijf, Hans"]
+[Black "Bosboom, Manuel"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "f17f32a4"]
+[Epoch "Queen"]
+[WhiteID "1001205"]
+[WhiteCountry "NED"]
+[BlackID "1000080"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. Qd3 g6 6. e4 dxe4 7. Nxe4 Bg7 8.
+Be2 Nxe4 9. Qxe4 Nf6 10. Qe3 Bf5 11. Bd3 Qa5+ 12. c3 h6 13. Bxf6 Bxf6 14. O-O
+Bxd3 15. Qxd3 O-O 16. Rfe1 Rad8 17. Qe3 h5 18. h3 Rd5 19. Nd2 Qd8 20. Ne4 Bg7
+21. f4 Rxd4 22. Kh1 Rd5 23. Qxa7 Qc7 24. Rf1 Bh6 25. Qe3 Rf5 26. Ng5 e5 27. h4
+exf4 28. Qe4 Bxg5 29. hxg5 Rd8 30. Rae1 Kg7 31. Rf2 Rxg5 32. Qxf4 Qxf4 33. Rxf4
+Rd2 34. Re7 Rgxg2 35. Rfxf7+ Kh6 36. b4 Rh2+ 37. Kg1 Rdg2+ 38. Kf1 Rxa2 39. Kg1
+Rag2+ 40. Kf1 Rc2 41. Kg1 h4 0-1

@@ -1,0 +1,19 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Schoen, Wolfram"]
+[Black "Clever, Gerd"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "68a8efce"]
+[Epoch "Queen"]
+[WhiteID "4600703"]
+[BlackID "4600606"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. cxd5 exd5 7. Bd3 c6 8. Qc2
+Nbd7 9. Nf3 Re8 10. O-O Nf8 1/2-1/2

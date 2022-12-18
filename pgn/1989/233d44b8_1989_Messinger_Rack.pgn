@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Messinger"]
+[Black "Rack, M."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cochrane gambit"]
+[HashCode "233d44b8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 c5 6. dxc5 Be6 7. e5 Ng4
+8. Qf3+ Kg8 9. exd6 Nc6 10. Nc3 Rc8 11. Qxg4 1-0
+

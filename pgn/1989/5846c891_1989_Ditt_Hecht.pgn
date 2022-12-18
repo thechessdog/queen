@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ditt, Egon"]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "5846c891"]
+[Epoch "Queen"]
+[WhiteID "4603400"]
+[BlackID "4600320"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. g3 e5 2. Bg2 Nf6 3. c4 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 Qxd5 7. Nc2 Qh5 8. h3
+Qg6 9. Nc3 Bd6 10. Ne3 O-O 11. d3 exd3 12. Qxd3 Qxd3 13. exd3 Nbd7 14. O-O Nb6
+15. a4 a5 16. Nc4 Nxc4 17. dxc4 Be6 18. b3 Be5 19. Bb2 Nd7 20. Rfe1 Bf6 21. Ra2
+Bf5 22. Ne4 Bxe4 23. Bxf6 Bxg2 0-1

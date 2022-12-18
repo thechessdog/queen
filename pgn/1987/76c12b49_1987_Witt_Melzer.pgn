@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Witt, WD."]
+[Black "Melzer, G."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "76c12b49"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Ne7 9. c3 Nf5 10. a4 Be7 11. Bd3 Nh4 12. O-O Ng6 13. f4 a6 14. Na3
+Nxf4 15. Bxf4 exf4 16. Rxf4 O-O 17. Nc4 Bd7 18. Bc2 Rc8 19. Qd3 g6 20. Qd4
+f5 21. Qb6 Bg5 22. Qxd6 Be7 23. Qe5 Bc5+ 24. Rd4 Re8 25. Qf4 Qf6 26. Bd3 b5
+27. Nd2 Qe5 28. Qxe5 Rxe5 29. Nb3 Bxd4+ 30. Nxd4 Rxd5 31. axb5 Bxb5 32. Bb1
+Rxd4 33. cxd4 Rc1+ 34. Kf2 Kf8 35. h3 Bd3 36. Bxd3 Rxa1 37. b4 Ke7 38. Bc4
+h6 39. h4 g5 40. hxg5 hxg5 41. Ke2 Ra3 42. Kd2 Kd6 43. Kc2 a5 44. bxa5 Rxa5
+45. Kd2 Ra4 46. Kd3 Ra3+ 47. Ke2 Rg3 48. Kf2 Rg4 49. Bd3 Rxd4 0-1
+

@@ -1,0 +1,16 @@
+[Event "corr Tch-AUS"]
+[Site "corr Tch-AUS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Selness"]
+[Black "Voss"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "59c2cb57"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 c4 6. Bxc4 bxc4 7. Qe2 d5 8.
+Nc3 Be6 9. Ng5 Nd4 10. Qd1 dxe4 11. Ncxe4 Bd5 12. c3 Nb5 13. f3 e6 0-1
+

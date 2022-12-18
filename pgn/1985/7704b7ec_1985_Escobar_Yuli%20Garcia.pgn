@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Escobar, Telmo"]
+[Black "Yuli Garcia, Robert"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "7704b7ec"]
+[Epoch "Queen"]
+[WhiteID "103020"]
+[WhiteCountry "ARG"]
+
+1. e4 c6 2. c4 e6 3. Nc3 c5 4. Nf3 Nc6 5. d4 cxd4 6. Nxd4 Qb6 7. Nb3 Nf6 8. Be3
+Qd8 9. Bd3 d5 10. exd5 exd5 11. Qe2 Be7 12. cxd5 Nxd5 13. Nxd5 Qxd5 14. O-O-O
+Qxg2 15. Rhg1 Qxh2 16. Nd4 Qc7 17. Nb5 Qe5 18. f4 Qb8 19. Rxg7 h5 20. Bc4 Bg4
+21. Qd3 Nd8 22. Rxg4 hxg4 23. Qd7+ Kf8 24. Nc7 Qc8 25. Qe8+ Kg7 26. Qxe7 1-0

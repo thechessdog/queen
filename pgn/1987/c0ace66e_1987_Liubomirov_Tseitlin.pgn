@@ -1,0 +1,22 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Liubomirov, D."]
+[Black "Tseitlin, Mikhail S"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "c0ace66e"]
+[Epoch "Queen"]
+[BlackCountry "BLR"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2 Bf5 7. Nf3 Qc7
+8. O-O Nd7 9. c4 O-O-O 10. d5 e5 11. Be3 Kb8 12. Nh4 Bg6 13. f4 cxd5 14. cxd5
+Bc5 15. Bxc5 Qxc5+ 16. Kh1 exf4 17. Rxf4 Rhe8 18. Nxg6 hxg6 19. Bf3 f5 20. Rc1
+Qe3 21. Rb4 Rc8 22. Rb1 Rc2 23. Rb3 Qf2 24. Qg1 Qxg1+ 25. Rxg1 Nc5 26. Rc3 Rxc3
+27. bxc3 Kc7 28. h3 Kd6 29. c4 Re3 30. Rc1 b6 31. Rc2 Nd3 32. Rd2 Ne5 33. Rc2
+Nxf3 34. gxf3 Rxf3 35. Kg2 Rd3 36. h4 Kc5 37. Kh2 a5 38. Kg2 a4 39. Kf2 Rh3 40.
+Rc1 Rxh4 41. Rd1 Kd6 42. Rc1 Re4 43. a3 g5 44. Kf3 Ke5 45. Rc2 g4+ 46. Kf2 f4
+47. c5 bxc5 48. Rxc5 Rd4 49. Ra5 Ke4 50. d6 g3+ 0-1

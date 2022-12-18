@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pesce"]
+[Black "Poplavsky"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "ba95250e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Nxc3 7. Qg4 Qxe7
+8. Qxg7 Qb4 9. Qxh8+ Kd7 10. Bd3 Qxb2 11. Rd1 Nxd1 12. Kxd1 Qxd4 13. Qxh7
+Qxe5 14. Qxf7+ Kc6 15. h4 b6 16. Kd2 Ba6 17. Nf3 Qd6 18. Re1 Qb4+ 19. c3
+Qb2+ 20. Bc2 Qxa2 21. Nd4+ Kb7 22. Nxe6 Qc4 23. Nd8+ Kc8 24. Bf5+ Nd7 25.
+Qxd7+ Kb8 26. Nc6+ Kb7 27. Na5+ bxa5 28. Rb1+ 1-0
+

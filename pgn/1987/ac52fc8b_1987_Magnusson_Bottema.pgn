@@ -1,0 +1,20 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Magnusson, Jorgen"]
+[Black "Bottema, Tom"]
+[Result "0-1"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "ac52fc8b"]
+[Epoch "Queen"]
+[WhiteID "1700880"]
+[WhiteCountry "SWE"]
+[BlackID "1004778"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 Bb4 4. Qb3 c5 5. g3 Nc6 6. Bg2 Na5 7. Qc2 Nxc4 8. b3
+Nd6 9. Na4 b5 10. a3 bxa4 11. axb4 axb3 12. Qxc5 Nde4 13. Qe3 a5 14. Qxb3 Rb8
+15. Rxa5 Qxa5 0-1

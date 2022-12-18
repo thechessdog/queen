@@ -1,0 +1,20 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dehmelt, Karl"]
+[Black "Stone, Raymond"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "a2f80274"]
+[Epoch "Queen"]
+[WhiteID "2001179"]
+[WhiteCountry "USA"]
+[BlackID "2600285"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Kh1 Be7 9. Nxc6 bxc6 10. f4 Bb7 11. e5 Nd5 12. Ne4 f5 13. Nd6+ Bxd6 14. exd6
+Qb6 15. c4 Nf6 16. b4 Ne4 17. c5 Qxb4 18. Be3 1-0

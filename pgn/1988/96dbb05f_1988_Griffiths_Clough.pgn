@@ -1,0 +1,21 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Griffiths"]
+[Black "Clough, P."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "96dbb05f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Bxf6 gxf6
+8. c5 Qd7 9. a3 Bf5 10. Bb5 Rg8 11. Nge2 Rxg2 12. Ng3 Bg4 13. Be2 Bxe2 14.
+Ncxe2 e5 15. Kf1 Qh3 16. Ng1 Rxg1+ 17. Kxg1 Nxd4 18. Qh5 Qxh5 19. Nxh5 Ke7
+20. Rd1 Bh6 21. Ng3 Ke6 22. b4 f5 23. Kf1 f4 24. Ne2 Nxe2 25. Kxe2 e4 26.
+f3 f5 27. b5 Rc8 28. Rc1 Bg7 29. c6 b6 30. c7 Bd4 31. Rc6+ Ke5 32. a4 Be3
+33. h4 d4 34. h5 d3+ 35. Kd1 Bc5 36. a5 Bd6 37. axb6 axb6 38. Rxb6 Rxc7 39.
+Ra6 e3 40. b6 Rc2 0-1
+

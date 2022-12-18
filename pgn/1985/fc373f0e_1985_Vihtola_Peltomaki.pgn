@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vihtola"]
+[Black "Peltomaki"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "fc373f0e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Rb8 7. Nf3 b5 8. O-O
+e6 9. Ne2 Nge7 10. c3 b4 11. Be3 O-O 12. Qc2 Qa5 13. Rfd1 Bd7 14. d4 bxc3
+15. bxc3 cxd4 16. cxd4 Rfc8 17. Qd2 Qa3 18. Rdb1 Na5 19. Rxb8 Rxb8 20. Qc1
+Qd3 21. Kf2 Rc8 22. Qd1 Qa6 23. Bf1 Nc4 24. Qd3 Qa5 25. Nd2 Nxe3 26. Kxe3
+Bb5 27. Nb3 Qb6 28. Qd2 f5 29. Bh3 e5 30. Rc1 exd4+ 31. Nexd4 Nc6 32. a4
+Bxa4 33. Qa2 Bb5 0-1
+

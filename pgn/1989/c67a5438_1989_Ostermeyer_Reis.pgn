@@ -1,0 +1,19 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ostermeyer, Peter, Dr."]
+[Black "Reis, Gerhard"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c67a5438"]
+[Epoch "Queen"]
+[WhiteID "4600355"]
+[WhiteCountry "GER"]
+[BlackID "4615883"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Bf5 11. Nh4 Qb6 12. Bxc6 bxc6 13. Na4 1-0

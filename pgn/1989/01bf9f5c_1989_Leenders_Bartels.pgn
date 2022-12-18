@@ -1,0 +1,20 @@
+[Event "Guernsey"]
+[Site "Guernsey"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Leenders, R."]
+[Black "Bartels, Hans"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "01bf9f5c"]
+[Epoch "Queen"]
+[BlackID "1000276"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 O-O 6. Qc2 c5 7. e3 Nc6 8. cxd5
+Nb4 9. Qb3 cxd4 10. d6 Qxd6 11. exd4 Nfd5 12. Bxe7 Qxe7 13. Be2 Nf4 14. O-O b6
+15. Rfe1 Bb7 16. Rad1 Rfd8 17. a3 Nxe2+ 18. Nxe2 Nd5 19. Ne5 Rac8 20. Ng3 Nf4
+21. f3 Qg5 22. Kh1 h5 23. Rd2 h4 24. Nf1 Rxd4 25. Qe3 Rxd2 26. Qxd2 Rd8 27. Qc2
+f6 28. Ng4 h3 0-1

@@ -1,0 +1,22 @@
+[Event "Vienna IBM op"]
+[Site "Vienna IBM op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Loeffler, Christoph"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "3dd2622f"]
+[Epoch "Queen"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+[WhiteID "1604287"]
+[WhiteCountry "AUT"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 Nxc3 5. dxc3 Qxd1+ 6. Kxd1 e5 7. e4 Bc5
+8. Bh3 Nd7 9. f3 a5 10. Ke2 Ke7 11. Be3 Bxe3 12. Kxe3 Nb6 13. b3 a4 14. Bxc8
+Rhxc8 15. Ne2 Ra6 16. c4 axb3 17. axb3 Rca8 18. Rxa6 Rxa6 19. Kd3 Ra2 20. Rb1
+Nd7 21. b4 Nb6 22. c5 Na4 23. Rb3 Kd7 24. f4 f6 25. Ke3 Kc6 26. Rd3 Rb2 27.
+fxe5 fxe5 28. Rd5 Rxe2+ 0-1

@@ -1,0 +1,20 @@
+[Event "RLP HM Landau"]
+[Site "RLP HM Landau"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Appel, Ralf"]
+[Black "Feibert, Fred"]
+[Result "1-0"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Blumenfeld variation"]
+[HashCode "50d4555f"]
+[Epoch "Queen"]
+[WhiteID "4600924"]
+[WhiteCountry "GER"]
+[BlackID "4610750"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Bb4+ 12. Bd2 Bxd2+ 13. Qxd2 axb5 14. exf6 Qxf6
+15. Bxb5 e5 16. O-O O-O 17. Rfe1 Nc5 18. Qb4 e4 19. Qxc5 1-0

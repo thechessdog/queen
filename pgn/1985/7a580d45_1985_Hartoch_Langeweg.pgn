@@ -1,0 +1,17 @@
+[Event "OHRA"]
+[Site "Amsterdam II"]
+[Date "1985.07.01"]
+[Round "1"]
+[White "Hartoch, Robert G"]
+[Black "Langeweg, Kick"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[Opening "Queen's pawn game, Rubinstein (Colle-Zukertort) variation"]
+[HashCode "7a580d45"]
+[Epoch "Queen"]
+[BlackID "1000160"]
+[WhiteCountry "NLD"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 d5 5. b3 Nc6 6. O-O Bd6 7. Bb2 O-O 8. Nbd2
+cxd4 9. exd4 Qb6 10. c4 dxc4 11. bxc4 Qd8 12. Ne5 1/2-1/2

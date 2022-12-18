@@ -1,0 +1,20 @@
+[Event "Helsinki SKF"]
+[Site "Helsinki SKF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tuomala, Tapio"]
+[Black "Koskinen, Veikko"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "07323b81"]
+[Epoch "Queen"]
+[WhiteID "501476"]
+[WhiteCountry "FIN"]
+[BlackID "503380"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2 e6 8.
+O-O h5 9. Re1 Bd6 10. Nf4 h4 11. d5 e5 12. Qf3 Bxc2 13. Nh5 Be7 14. Bg5 Nd7 15.
+d6 Bxd6 16. Nxf6+ 1-0

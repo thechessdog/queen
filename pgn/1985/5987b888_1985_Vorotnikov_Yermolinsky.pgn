@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Yermolinsky, Alex"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5987b888"]
+[Epoch "Queen"]
+[WhiteID "4103009"]
+[BlackID "2005492"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nbd7 5. Be3 g6 6. dxc5 dxc5 7. Na3 a6 8. Nc4
+b5 9. e5 Nh5 10. e6 fxe6 11. Nd2 Bg7 12. Ne4 Qc7 13. Nh3 O-O 14. a4 Ndf6 15.
+Nxf6+ Nxf6 16. axb5 Nd5 17. Bd2 Rb8 18. Bd3 c4 19. Be4 Rxb5 20. Ra2 Qb6 21. Qc1
+Bd7 22. Nf2 Rb8 23. Nd1 Bc6 24. Bh6 Bxh6 25. Qxh6 Nf6 26. Bxc6 Re5+ 27. Be4
+Nxe4 28. fxe4 Rxe4+ 29. Kd2 Rd8+ 30. Kc1 Re2 31. Kb1 Qd6 32. Ra3 Rd2 33. Ka2
+Rxd1 34. Rxd1 Qxd1 35. Qh4 Qe2 36. Qf4 e5 37. Qf3 Qxf3 38. gxf3 Rd2 39. Ra4
+Rxh2 40. Rxc4 h5 41. Rc6 Kf7 42. Rxa6 h4 43. c4 h3 44. Ra8 e4 45. fxe4 g5 0-1

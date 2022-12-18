@@ -1,0 +1,18 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Demiian"]
+[Black "Klaic"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "6919f370"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 g6 4. O-O Bg7 5. c4 d4 6. d3 Nc6 7. Na3 e5 8. Nc2
+Nge7 9. a3 Rb8 10. b4 cxb4 11. axb4 b5 12. Nd2 bxc4 13. Nxc4 f5 14. b5 Rxb5
+15. Ba3 O-O 16. Nd6 Rb8 17. Bxc6 Nxc6 18. Nxc8 Qxc8 19. Bxf8 Bxf8 20. Na3
+a5 21. Nc4 Bb4 22. Rb1 h5 23. Qa4 Qc7 24. Rfc1 1-0
+

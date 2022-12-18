@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moriceau, P."]
+[Black "Lembeye, M."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "7653f15b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d5 6. Bxd5 Nf6 7. Bb3 Bg4
+8. d3 Nh5 9. Bxf7+ Kxf7 10. Ne5+ Ke6 11. Qxg4+ Kxe5 12. Qxh5+ Qg5 13. Qf7
+Nc6 14. g3 1-0
+

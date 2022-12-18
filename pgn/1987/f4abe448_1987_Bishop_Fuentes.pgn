@@ -1,0 +1,18 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bishop, A."]
+[Black "Fuentes, V."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f4abe448"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 6. Bc4 Ne7 7. O-O Ng6
+8. Be3 Be7 9. Na4 Qc7 10. Nb6 O-O 11. Rc1 Nc6 12. Nxa8 Qa5 13. Nb6 d6 14.
+Nd2 Rd8 15. f4 Bf6 16. Nb3 Bxb2 17. Nxa5 Bxc1 18. Qxc1 Nxa5 19. Bxa6 bxa6
+20. Nxc8 1-0
+

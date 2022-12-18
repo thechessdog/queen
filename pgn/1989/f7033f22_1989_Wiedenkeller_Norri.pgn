@@ -1,0 +1,19 @@
+[Event "SWE-FIN"]
+[Site "Sweden"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Wiedenkeller, Michael"]
+[Black "Norri, Joose"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "f7033f22"]
+[Epoch "Queen"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+[BlackID "500160"]
+[BlackCountry "FIN"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. g3 Nc6 5. Be3 e5 6. dxe5 Nxe5 7. f4 Bg4 8. Be2
+Nc4 9. Bd4 Bxe2 10. Ngxe2 Nf6 11. Qd3 Nb6 12. O-O-O O-O 13. h3 Re8 14. g4 h5
+15. Rdg1 hxg4 16. hxg4 Nbd7 17. g5 Nh5 18. Bxg7 Kxg7 19. Qd4+ 1-0

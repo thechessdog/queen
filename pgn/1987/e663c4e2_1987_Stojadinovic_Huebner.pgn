@@ -1,0 +1,26 @@
+[Event "St Ingbert"]
+[Site "St Ingbert"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stojadinovic"]
+[Black "Huebner, Robert"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 12.d2d4"]
+[HashCode "e663c4e2"]
+[Epoch "Queen"]
+[BlackID "4600010"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Bg5 Qc7 14. Re1 Bxh2+
+15. Kh1 Bf4 16. Qh5 Bf5 17. Nd2 Bg6 18. Qg4 h6 19. Bxf4 Qxf4 20. Qxf4 Nxf4 21.
+Nf3 Nd3 22. Re2 Rfe8 23. Rd2 Kf8 24. Rad1 Nf4 25. Ne5 Be4 26. f3 Bd5 27. Nd7+
+Ke7 28. Nc5 Kd6 29. Kg1 a5 30. a3 Re7 31. Bc2 Rae8 32. Kf2 a4 33. Ne4+ Kc7 34.
+g3 Ne6 35. g4 Rf8 36. Ng3 g6 37. Re1 Rfe8 38. Rh1 Ng5 39. Rxh6 Bxf3 40. c4 Bxg4
+41. cxb5 cxb5 42. d5 Rd7 43. Rh4 f5 44. Rh6 Rd6 45. Bb1 Re5 46. Rc2+ Kd7 47.
+Ba2 f4 48. Nf1 Bf5 49. Rd2 Ne4+ 50. Kf3 Nxd2+ 51. Nxd2 g5 52. Rh8 Re3+ 53. Kf2
+Bg4 54. Rh7+ Kc8 55. Rh8+ Kb7 56. Rh7+ Kb6 57. Bc4 Kc5 58. Rc7+ Kd4 59. Bxb5
+Rxd5 60. Bc4 Rde5 61. Rd7+ Kc5 62. Rd8 Rh3 63. b4+ axb3 64. Bxb3 Re2+ 65. Kg1
+Rxd2 0-1

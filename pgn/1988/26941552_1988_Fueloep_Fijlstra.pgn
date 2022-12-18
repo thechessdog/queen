@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fueloep, P."]
+[Black "Fijlstra, E."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "26941552"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8.
+Nf3 Qa5 9. Bd2 Bd7 10. Be2 f6 11. exf6 gxf6 12. c4 Qc7 13. dxc5 dxc4 14.
+Bxc4 Ne5 15. Nxe5 Qxe5+ 16. Qe2 Qxa1+ 17. Qd1 Qxd1+ 18. Kxd1 Rc8 19. Re1
+Rxc5 20. Bxe6 Bxa4 0-1
+

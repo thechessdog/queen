@@ -1,0 +1,18 @@
+[Event "Cincinnati"]
+[Site "Cincinnati"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "Belov, L."]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "75383d17"]
+[Epoch "Queen"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 Nf6 4. e4 d6 5. f3 O-O 6. Bg5 Ne8 7. Qd2 f5 8. O-O-O
+c6 9. Nge2 Qc7 10. h4 Nf6 11. h5 Nxh5 12. exf5 e5 13. dxe5 Bxe5 14. g4 Ng3 15.
+Nxg3 Bxg3 16. f4 gxf5 17. Qe3 Bxf4 18. Bxf4 fxg4 19. Bxd6 Rf3 20. Qe8+ 1-0

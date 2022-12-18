@@ -1,0 +1,19 @@
+[Event "Richmond,VA izt"]
+[Site "Richmond,VA izt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mayer, Steven F."]
+[Black "Liebowitz, Errol"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Reti variation"]
+[HashCode "12d49e64"]
+[Epoch "Queen"]
+[BlackID "2003520"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 c5 5. cxd5 exd5 6. Bg2 Nc6 7. O-O Be7 8. Nc3
+O-O 9. dxc5 Bxc5 10. Na4 Be7 11. Be3 Be6 12. Bc5 Rc8 13. Rc1 Re8 14. h3 Ne4 15.
+Bxe7 Qxe7 16. Nd4 Nxd4 17. Qxd4 b5 18. Nc3 Rc4 19. Qd3 Rec8 1/2-1/2

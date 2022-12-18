@@ -1,0 +1,21 @@
+[Event "corr ch17-SU"]
+[Site "corr ch17-SU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kopilov"]
+[Black "Irmolik"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Kmoch variation"]
+[HashCode "59fe69da"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Ng5 Nh6 6. a4 Qf6 7. c3 Be7 8.
+O-O Nb6 9. Be2 a5 10. f4 exd4 11. cxd4 d5 12. e5 Qg6 13. Bh5 Qf5 14. Nxf7
+Nxf7 15. g4 Qd7 16. f5 Qc7 17. e6 Bxe6 18. fxe6 g6 19. exf7+ Kd7 20. Qe2
+Qd6 21. Bf4 Qe6 22. Qxe6+ Kxe6 23. Nd2 gxh5 24. Nb3 Rhf8 25. Rae1+ Kd7 26.
+Nc5+ Bxc5 27. dxc5 Rxf7 28. cxb6 hxg4 29. Bh6 Rxf1+ 30. Rxf1 Ke6 31. Rf8
+Rxf8 32. Bxf8 d4 33. b4 axb4 34. Bxb4 h5 35. a5 Kd7 36. Bc5 d3 37. Kf2 h4
+38. Ke3 h3 39. Kxd3 g3 40. Bg1 1-0
+

@@ -1,0 +1,16 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karker, N."]
+[Black "Niedermann, N."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "88bfa9e6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Qc7
+8. Ndb5 Qa5 9. O-O Qd8 10. Bf4 e5 11. Bg5 a6 12. Bxf6 gxf6 13. Qh5 1-0
+

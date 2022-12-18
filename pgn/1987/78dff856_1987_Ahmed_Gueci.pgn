@@ -1,0 +1,19 @@
+[Event "Mazara del Vallo"]
+[Site "Mazara del Vallo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ahmed"]
+[Black "Gueci, Riccardo"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "Zinnowitz variation"]
+[HashCode "78dff856"]
+[Epoch "Queen"]
+[BlackID "800848"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 d6 5. e4 O-O 6. Nf3 Nbd7 7. h3 c5 8. Rc1
+Qa5 9. Qd2 cxd4 10. Nxd4 Nxe4 11. Nxe4 Qxd2+ 12. Kxd2 Bxd4 13. Bxe7 Re8 14. Kd3
+Bxb2 15. Rb1 Rxe7 16. Rxb2 Nc5+ 17. Nxc5 dxc5 18. g4 f5 19. Be2 fxg4 20. hxg4
+Rf7 21. Ke3 b6 22. f4 Bb7 23. Rf1 Re8+ 24. Kd3 Rd7+ 25. Kc3 Re3+ 0-1

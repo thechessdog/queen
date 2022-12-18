@@ -1,0 +1,21 @@
+[Event "San Bernardino"]
+[Site "San Bernardino"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Polgar, Sofia"]
+[Black "Nowotny, Heinz"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "84b56929"]
+[Epoch "Queen"]
+[BlackID "1602470"]
+[BlackCountry "AUT"]
+[WhiteID "700231"]
+[WhiteCountry "HUN"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. f4 e6 5. Nf3 Bg7 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nd5 9. Ne4 f5 10. Bg5 Qd7 11. Nc5 Qf7 12. Qd2 a6 13. Bh6 O-O 14. Bc4 b6 15. Nd3
+Na5 16. Bxd5 exd5 17. b3 Nc6 18. O-O-O a5 19. Bxg7 Qxg7 20. Nf4 Ne7 21. Ng5 Qh6
+22. h4 Ra6 23. Qc3 c6 24. Qg3 Re8 25. h5 Qg7 26. hxg6 Nxg6 27. Rxh7 1-0

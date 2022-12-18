@@ -1,0 +1,20 @@
+[Event "RLN/N"]
+[Site "RLN/N"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Juergensen, M."]
+[Black "Becke, W."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "30b853b8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. Bf4 Nf6 13. d6 exd6
+14. O-O Nh5 15. Rad1 Qd7 16. a4 Rac8 17. h3 Nc4 18. Bh2 b6 19. d5 Rfe8 20.
+Nd4 Nf6 21. Ndb5 a6 22. Na3 Nxb2 23. Qxb2 Ne4 24. Nab1 Nxc3 25. Nxc3 Qc7
+26. Rb1 Bxc3 27. Qxb6 Be5 28. Bxe5 Rxe5 29. Rfd1 a5 30. Qxc7 Rxc7 31. Rb5
+Re2 1/2-1/2
+

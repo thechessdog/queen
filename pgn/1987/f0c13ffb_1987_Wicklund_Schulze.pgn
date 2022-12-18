@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wicklund Hansen"]
+[Black "Schulze, P."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "f0c13ffb"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. d4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. a3 d6 6. Qc2 Nc5 7. b4 Ne6 8.
+exd6 Bxd6 9. Bb2 O-O 10. e3 Re8 11. Bd3 h6 12. O-O Ng5 13. Nbd2 Nxf3+ 14.
+Nxf3 Bg4 15. Bh7+ Kh8 16. Be4 Bxf3 17. Bxf3 Ne5 18. Bxb7 Qh4 19. g3 Qh5 20.
+Bxa8 Rxa8 21. Bxe5 Bxe5 22. Rad1 Qf3 23. Rd5 Bf6 24. Rd7 Be5 25. Rfd1 g6
+26. Rd8+ Rxd8 27. Rxd8+ Kg7 28. c5 h5 29. Qc4 Qf6 30. Ra8 g5 31. Qe4 h4 32.
+gxh4 1-0
+

@@ -1,0 +1,27 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hawelko, Marek"]
+[Black "Nowak, Ignacy"]
+[Result "1-0"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "3bd3790d"]
+[Epoch "Queen"]
+[BlackID "1100157"]
+[BlackCountry "POL"]
+[WhiteID "1100203"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 Nbd7 6. Bg5 O-O 7. Nf3 h6 8. Be3
+e5 9. d5 Nc5 10. Nd2 a5 11. g4 c6 12. Be2 Bd7 13. f3 Rb8 14. Nb3 b6 15. Qd2
+cxd5 16. cxd5 Ne8 17. h4 Kh7 18. h5 g5 19. O-O Nc7 20. Rfb1 Bf6 21. Nc1 b5 22.
+Nd3 b4 23. Nd1 Nxd3 24. Bxd3 Nb5 25. a4 Nc7 26. Rc1 Qc8 27. b3 Qb7 28. Nb2 Bd8
+29. Nc4 Ne8 30. Rc2 Kg7 31. Rac1 f6 32. Qf2 Rf7 33. Ba7 Bb5 34. Be3 Bd7 35. Kg2
+Bc8 36. Nb2 Bd7 37. Nc4 Bc8 38. Nb6 Bxg4 39. fxg4 Bxb6 40. Bxb6 Qxb6 41. Qxb6
+Rxb6 42. Rc8 Re7 43. Bb5 Kf7 44. Bxe8+ Rxe8 45. Rxe8 Kxe8 46. Rc8+ Kf7 47. Rc7+
+Kf8 48. Rd7 Rb8 49. Rxd6 Rc8 50. Rxf6+ Ke7 51. Rxh6 Rc2+ 52. Kf1 Rc3 53. Rb6
+Rxb3 54. h6 Rh3 55. Ke2 Kf7 56. h7 Kg7 57. Rb7+ Kh8 58. d6 Rh2+ 59. Kd3 Rh3+
+60. Kd2 Rh2+ 61. Kc1 1-0

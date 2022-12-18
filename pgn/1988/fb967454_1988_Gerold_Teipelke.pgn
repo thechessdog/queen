@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gerold, G."]
+[Black "Teipelke, H."]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "fb967454"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O Bd7 10. h3 b5 11. a3 c4 12. Bc2 Na6 13. Ng3 Nc5 14. Be3 Qc7
+15. f4 Rac8 16. Bd4 a5 17. b4 cxb3 18. Bxb3 a4 19. Ba2 Ne8 20. Nge2 Kh8 21.
+Rc1 Qa5 22. e5 Bf5 23. g4 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rota"]
+[Black "Gagliardi"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "aa875cb7"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 a5 11. Bf4 a4 12. Qb5 Bd7 13. Qb4 Bg4 14.
+Bxg4 Nxg4 15. d6 e5 16. dxe5 Nxe5 17. O-O Nd3 18. Qe4 Nxf4 19. Qxf4 Re8 20.
+Rad1 Be5 21. Qb4 Re6 22. Nb5 Rc8 23. f4 Rc4 24. Qd2 Bg7 25. Rf3 Rce4 26.
+Nec3 Nc4 27. Qf2 Ne3 28. Rc1 Ng4 29. Qc5 Re1+ 30. Rxe1 Rxe1+ 31. Rf1 Qh4
+32. h3 Ne3 33. Rxe1 Qxe1+ 0-1
+

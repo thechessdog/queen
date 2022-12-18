@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Armas, Iulius"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "4d34f41c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Nc6 12. Nxc6 Qxc6 13. f3 O-O 14. Rfd1 Rd8
+15. Qf2 Bb7 16. Ne2 Nd7 17. c3 Ne5 18. Nd4 Qe8 19. Qe2 Rac8 20. a4 Nc4 21. Bf2
+g6 22. axb5 axb5 23. Ra7 Rc7 24. Rda1 e5 25. Nc2 Ra8 26. Nb4 Rxa7 27. Rxa7 Qc8
+28. Ba2 Ba8 29. b3 Rxa7 30. Bxa7 Na5 31. Bb6 Qxc3 32. Bxa5 d5 33. Qd3 Qe1+ 0-1

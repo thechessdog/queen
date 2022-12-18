@@ -1,0 +1,19 @@
+[Event "Banja Vrucica"]
+[Site "Banja Vrucica"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Muse, Mladen"]
+[Black "Filipovic, Branko"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "9ff436fc"]
+[Epoch "Queen"]
+[WhiteID "4600304"]
+[WhiteCountry "CRO"]
+[BlackID "14507951"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Qb6 7. Nxf6+ Qxf6
+8. c3 cxd4 9. cxd4 O-O 10. e3 d6 11. Be2 Nc6 1/2-1/2

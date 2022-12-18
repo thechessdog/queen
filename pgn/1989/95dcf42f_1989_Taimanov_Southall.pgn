@@ -1,0 +1,18 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Southall, Andy"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "95dcf42f"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 Nf6 4. d3 e3 5. Bxe3 Nc6 6. Nc3 e5 7. Nge4 Bb4 8.
+Bg5 d5 9. Nxf6+ gxf6 10. Qh5+ Ke7 11. Bd2 Be6 12. O-O-O Bxc3 13. Bxc3 d4 14.
+Bd2 a5 15. f4 Qd5 16. b3 a4 17. Kb2 axb3 18. axb3 Qc5 19. Ra1 Rxa1 20. Kxa1
+Qxc2 0-1

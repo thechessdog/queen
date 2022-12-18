@@ -1,0 +1,26 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sandkamp, Ralph"]
+[Black "Meduna, Eduard"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "39b071bb"]
+[Epoch "Queen"]
+[WhiteID "4608011"]
+[BlackID "300055"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. f3 e5 4. dxe5 Bc5 5. Bd3 Nd7 6. f4 dxe4 7. Bxe4 Nh6 8. Qe2
+O-O 9. Nf3 Re8 10. Nc3 Qb6 11. Rf1 Nf8 12. Bd3 Bf5 13. Ne4 Ne6 14. h3 Bxe4 15.
+Qxe4 f5 16. Qe2 Rad8 17. Bc4 Nf7 18. Bb3 Nd4 19. Nxd4 Rxd4 20. Bxf7+ Kxf7 21.
+Qh5+ Ke7 22. Qxf5 Qb4+ 23. c3 Re4+ 24. Kd1 Qc4 25. Qg5+ Kf8 26. Re1 Qd3+ 27.
+Bd2 Be3 28. Qf5+ Kg8 29. Rxe3 Rxe3 30. Qxd3 Rxd3 31. Ke2 Rd5 32. Be3 a6 33. Kf3
+Red8 34. Re1 Rd1 35. Re2 Rh1 36. Bc5 Kf7 37. Bd6 g6 38. Ke4 Ke6 39. g4 Rf1 40.
+Bc5 Rd7 41. Bf2 Rdd1 42. f5+ Kd7 43. Kf4 Rd3 44. h4 b5 45. Ke4 Rdd1 46. b4 Ke8
+47. e6 gxf5+ 48. gxf5 Ke7 49. h5 Rh1 50. Bc5+ Kf6 51. e7 Kf7 52. Kf3 Rdf1+ 53.
+Kg2 1-0

@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Conquest, Kaser"]
+[Black "Polgar, Susan"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "56d8018b"]
+[Epoch "Queen"]
+[BlackID "700088"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 e6 5. Nc3 Nf6 6. e4 exd5 7. e5 Nfd7 8. Bg5
+Be7 9. Bxe7 Qxe7 10. Nxd5 Qd8 11. Bxc4 Nc6 12. O-O O-O 13. Re1 Nb6 14. Nxb6
+axb6 15. h3 Qe7 16. Qc2 Be6 17. a3 h6 18. Rad1 Rfd8 19. Bxe6 Qxe6 20. Rd3 Rxd3
+21. Qxd3 Rd8 22. Qe4 b5 23. Kh2 c4 24. Qh4 Re8 25. Nd4 Qd5 26. Nf3 b4 27. Re3
+c3 28. bxc3 bxa3 29. Qa4 Qa5 30. Qxa5 Nxa5 31. Re4 b5 32. Re2 Nb3 33. Ra2 Ra8
+34. Kg3 Nc1 35. Ra1 Ne2+ 36. Kh2 Nxc3 37. Nd4 b4 38. f4 a2 39. f5 Rd8 40. Nb3
+Rd5 41. e6 fxe6 42. fxe6 Re5 43. Kg3 Rxe6 44. Kf3 Ra6 45. Ke3 Ra3 46. Nd2 b3
+47. Nc4 Ra8 48. Nb2 Na4 0-1

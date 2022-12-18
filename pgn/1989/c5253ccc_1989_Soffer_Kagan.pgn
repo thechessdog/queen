@@ -1,0 +1,27 @@
+[Event "Tel Aviv-B"]
+[Site "Tel Aviv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Soffer, Ram"]
+[Black "Kagan, Shimon"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "c5253ccc"]
+[Epoch "Queen"]
+[WhiteID "2800101"]
+[WhiteCountry "ISR"]
+[BlackID "2800284"]
+[BlackCountry "ISR"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nd7 5. O-O e5 6. Nc3 Ngf6 7. Re1 O-O 8. Bf1
+Re8 9. d5 a5 10. a3 Nc5 11. Rb1 Bd7 12. b4 axb4 13. axb4 Na4 14. Nxa4 Rxa4 15.
+c4 Qe7 16. Bd3 Rea8 17. Bc2 Ra2 18. Bb3 Ba4 19. Bb2 Qe8 20. Qd3 Bxb3 21. Qxb3
+Bh6 22. h3 Qa4 23. Qc3 b6 24. Nh2 c5 25. dxc6 Qxc6 26. Ng4 Nxg4 27. hxg4 Rc8
+28. Bc1 Bf8 29. c5 bxc5 30. b5 Qd7 31. g5 Rb8 32. Qd3 Ra5 33. b6 Qc6 34. Be3
+Rxb6 35. Rxb6 Qxb6 36. Rb1 Qc6 37. f3 Qa8 38. Rb6 Ra3 39. Rb3 Rxb3 40. Qxb3 Qa6
+41. Kf2 c4 42. Qb8 Qa2+ 43. Kg3 Qb3 44. Qa7 Qd3 45. Kf2 c3 46. Qc7 Qc2+ 47. Kg3
+Qb2 48. Qc8 Kg7 49. Qc7 c2 50. Qc8 d5 51. exd5 Ba3 52. Qc6 c1=Q 53. Qf6+ Kg8
+54. Bxc1 Qxc1 55. Qd8+ Bf8 56. d6 Qf4+ 57. Kh3 h5 58. d7 h4 59. Qxf8+ Kxf8 60.
+d8=Q+ Kg7 61. Qf6+ Qxf6 62. gxf6+ Kxf6 63. Kxh4 Kf5 64. Kg3 Kg5 65. Kf2 Kh4 66.
+g3+ Kh3 67. g4 e4 0-1

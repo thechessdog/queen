@@ -1,0 +1,23 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Autenrieth, Michael, Dr."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "0879a60f"]
+[Epoch "Queen"]
+[BlackID "4605039"]
+[BlackCountry "GER"]
+[WhiteID "4606965"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8. a4
+a5 9. h3 h6 10. Rd1 Qc7 11. dxe5 Nxe5 12. Bb3 Nxf3+ 13. Qxf3 Be6 14. Bxe6 fxe6
+15. Qg3 Kh7 16. Be3 e5 17. f3 Qd7 18. Rd2 Qe6 19. Rad1 Qc4 20. Rd3 Qe6 21. b3
+Rac8 22. Qe1 d5 23. exd5 cxd5 24. Nxd5 Nxd5 25. Rxd5 Rxc2 26. Qg3 Rf5 27. Qg4
+Re2 28. Rd7 Bg5 29. R1d6 Rxf3 30. Qxf3 Bxe3+ 31. Kf1 Qxd6 32. Rxd6 Rf2+ 33.
+Qxf2 Bxf2 34. Kxf2 1-0

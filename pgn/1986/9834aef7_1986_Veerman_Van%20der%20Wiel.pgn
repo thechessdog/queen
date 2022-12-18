@@ -1,0 +1,19 @@
+[Event "Utrecht thema"]
+[Site "Utrecht thema"]
+[Date "1986.01.01"]
+[Round "2"]
+[White "Veerman, Johan"]
+[Black "Van der Wiel, John T.H."]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "9834aef7"]
+[Epoch "Queen"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd3
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O Nbd7 12. Kh1 h6 13. e5 hxg5 14. exf6 gxf6
+15. fxg5 Ne5 16. Qe3 f5 17. Rb3 Qa5 18. Bf3 Nc4 19. Qd3 Qe5 20. h3 d5 21. Rbb1
+Bd6 22. Kg1 Rxh3 0-1

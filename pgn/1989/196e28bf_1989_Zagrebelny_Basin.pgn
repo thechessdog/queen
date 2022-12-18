@@ -1,0 +1,22 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zagrebelny, Sergey"]
+[Black "Basin, Leonid"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "196e28bf"]
+[Epoch "Queen"]
+[WhiteID "14200040"]
+[WhiteCountry "UZB"]
+[BlackID "4102070"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Nxd5 cxd5 13. Bh6 e6 14. h4 Rb8
+15. Bxg7 Kxg7 16. h5 Qf6 17. c3 g5 18. Qe3 Rb6 19. h6+ Kh8 20. Rd4 Bd7 21. Rh5
+Rg8 22. Rg4 e5 23. Rgxg5 Rxg5 24. Rxg5 Re6 25. Rh5 Qe7 26. Qxa7 Qd6 27. Qe3 Re7
+28. Rh4 f5 29. Qg5 Rf7 30. Rb4 1-0

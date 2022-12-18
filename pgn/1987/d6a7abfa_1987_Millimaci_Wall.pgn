@@ -1,0 +1,18 @@
+[Event "Sunnyvale,CA"]
+[Site "Sunnyvale,CA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Millimaci"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Lopez counter-gambit"]
+[HashCode "d6a7abfa"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. Nc3 Nf6 5. exf5 Bxf5 6. d4 d5 7. Nxd5 Nxd5 8.
+Ng5 Be7 9. dxe5 Bxg5 10. Bxd5 Bxc2 11. Qxc2 Qxd5 12. Bxg5 Qxg2 13. Qa4+ Nc6 14.
+O-O-O Qxg5+ 15. Kb1 O-O 16. Rhg1 Qf5+ 17. Ka1 Qxf2 18. Qb3+ Kh8 19. Qxb7 Rfb8
+0-1

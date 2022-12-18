@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Railo"]
+[Black "Eilu"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c3abe414"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. Nf3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 Nc6 7. a3 Be7 8.
+Bd3 d6 9. O-O dxe5 10. dxe5 Qc7 11. Qe2 O-O 12. Re1 f5 13. exf6 Bxf6 14.
+Qc2 g6 15. Bh6 Bg7 16. Bxg7 Qxg7 17. Nbd2 Bd7 18. Nb3 Rac8 19. Qd2 Nf4 20.
+Be4 Rcd8 21. Rab1 e5 22. Qe3 Bf5 23. Rbd1 Bxe4 24. Rxd8 Rxd8 25. Qxe4 Qf7
+26. Nc1 Qd5 1/2-1/2
+

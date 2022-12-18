@@ -1,0 +1,20 @@
+[Event "Bielsko Biala"]
+[Site "Bielsko Biala"]
+[Date "1988.01.01"]
+[Round "5"]
+[White "Bielczyk, Jacek"]
+[Black "Schulte, Oliver"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "73b123fd"]
+[Epoch "Queen"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackID "4600444"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8.
+Qh5 Nf6 9. Re1+ Be7 10. Qf3 O-O 11. h3 Bb4 12. Bd2 Bxd2 13. Nxd2 Re8 14. Qf4
+Bc6 15. Rxe8+ 1/2-1/2

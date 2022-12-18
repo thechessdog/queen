@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klatt, O."]
+[Black "Marczell, P."]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "6fd58b96"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 d4 3. g3 g6 4. Bg2 Bg7 5. O-O e5 6. d3 Ne7 7. b4 O-O 8.
+Nbd2 a5 9. b5 c5 10. bxc6 Nexc6 11. Ba3 Re8 12. Rb1 Na6 13. Qa4 Ncb4 14.
+Bxb4 axb4 15. Rfc1 Bd7 16. Qb3 Bf8 17. Ne4 Bc6 18. Rc2 Nc5 19. Nxc5 Bxc5
+20. Qb2 Ra3 21. Rd2 Qa5 22. Rc2 e4 23. Nxd4 Bxd4 24. Qxd4 exd3 25. exd3 b3
+26. Rxb3 Rxb3 27. axb3 Re1+ 28. Bf1 Qh5 29. Ra2 Rxf1+ 30. Kxf1 Qd1# 0-1
+

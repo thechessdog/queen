@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Abtahi, M."]
+[Black "Molinaroli, Martin"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "8504ad66"]
+[Epoch "Queen"]
+[BlackID "4606604"]
+[BlackCountry "GER"]
+
+1. d4 c6 2. c4 Nf6 3. Nc3 d5 4. e3 g6 5. Nf3 Bg7 6. b3 O-O 7. Bd3 Bf5 8. O-O
+Nbd7 9. Bb2 a6 10. Rc1 Qa5 11. Qd2 Bxd3 12. Qxd3 Rad8 13. cxd5 cxd5 14. Qd2 Rc8
+15. Ne5 e6 16. Nd3 Rc6 17. b4 Qc7 18. b5 Rc4 19. Ba3 Rc8 20. bxa6 bxa6 21. Nc5
+Nxc5 22. Bxc5 Nd7 23. Bb4 a5 24. Nb5 Qb6 25. Nd6 Rxc1 26. Nxc8 Rxf1+ 27. Kxf1
+Qxb4 0-1

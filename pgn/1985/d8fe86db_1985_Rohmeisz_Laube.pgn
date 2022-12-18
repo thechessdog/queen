@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rohmeisz"]
+[Black "Laube"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "d8fe86db"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5
+Qe7+ 8. Qe2 Bxc5 9. Ne5 Bd7 10. Nxd7 Kxd7 11. Nb3 Qxe2+ 12. Kxe2 Re8+ 13.
+Kf3 Bd6 14. Be3 a6 15. Bd3 Ne5+ 16. Ke2 g6 17. Kd2 Nc4+ 18. Bxc4 dxc4 19.
+Nd4 Nf6 20. c3 Ne4+ 21. Ke2 f5 22. g3 Re7 23. Rhe1 Rhe8 24. Kf1 h5 25. h4
+Nxg3+ 0-1
+

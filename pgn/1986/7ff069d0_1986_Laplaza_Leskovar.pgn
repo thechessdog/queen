@@ -1,0 +1,20 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Laplaza, Jorge"]
+[Black "Leskovar, Mario"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "7ff069d0"]
+[Epoch "Queen"]
+[BlackID "100617"]
+[BlackCountry "ARG"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. e5 Nge7 5. f4 Nf5 6. Nf3 h5 7. a3 b6 8. Bb5 Qd7
+9. Ne2 a5 10. Qd3 Bb7 11. Be3 Be7 12. Bf2 Kf8 13. Ng3 Nxg3 14. hxg3 g6 15. g4
+Kg7 16. gxh5 gxh5 17. Qc3 Bb4 18. axb4 axb4 19. Rxa8 Rxa8 20. Qe3 Ra1+ 21. Kd2
+Rxh1 22. f5 exf5 23. Qg5+ Kf8 24. Qh6+ Ke7 25. Qf6+ Ke8 26. Qh8+ Ke7 27. Be3
+Qc8 28. Qf6+ Ke8 29. Bxc6+ Bxc6 30. Qh8+ Kd7 31. e6+ fxe6 32. Ne5+ 1-0

@@ -1,0 +1,22 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1987.01.01"]
+[Round "6"]
+[White "Stimpel, Franz"]
+[Black "Titz, Heimo"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "144917f3"]
+[Epoch "Queen"]
+[BlackID "1601520"]
+[BlackCountry "AUT"]
+[WhiteID "4616499"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Nd2 Nxc3 10. bxc3 Bxc3 11. Rb1 d6 12. Qc2 Bxd2+ 13. Qxd2 Nd7 14. f3 Qe7
+15. Bd3 h5 16. h4 Rg8 17. Kf2 g4 18. e4 gxf3 19. gxf3 e5 20. Bc2 Qf6 21. dxe5
+dxe5 22. Qe3 O-O-O 23. Rb5 Rg6 24. Rh3 Rdg8 25. f4 Rxg3 26. Rxg3 Qxh4 27. Kg2
+Bxe4+ 0-1

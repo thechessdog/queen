@@ -1,0 +1,17 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dorsch"]
+[Black "Dumek"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2707291a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e5 5. Nf3 cxd4 6. cxd4 e4 7. Ne5 Nf6
+8. Bc4 Bb4+ 9. Nc3 Qa5 10. Bxf7+ Kf8 11. Qb3 Nc6 12. O-O Nxd4 13. Qc4 Qxe5
+14. f4 Qc5 0-1
+

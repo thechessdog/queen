@@ -1,0 +1,20 @@
+[Event "RLNS 8990"]
+[Site "RLNS 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Juergens, P."]
+[Black "Keck, J."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "43a9ba10"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nc6 4. e3 Bf5 5. Bxf6 exf6 6. Bd3 Be6 7. a3 Be7
+8. Qf3 Qd7 9. Nge2 f5 10. h4 O-O-O 11. Nf4 g6 12. Bb5 a6 13. Ba4 Bf6 14.
+Nd3 Qd6 15. O-O-O Na5 16. Nc5 b5 17. Bb3 Nxb3+ 18. cxb3 Be7 19. Kb1 Qb6 20.
+Nd3 f6 21. Rc1 Rd7 22. Na2 Kb8 23. Nab4 Bxb4 24. Nxb4 Rd6 25. Rc5 Rhd8 26.
+Rhc1 R8d7 27. Rc6 Qa5 28. Nxa6+ Kb7 29. b4 Rxc6 30. Rxc6 Qxa6 31. Rxa6 Kxa6
+32. Qe2 c6 33. Qc2 Kb6 34. Qc5+ Kb7 35. Qf8 Kc7 36. Qxf6 Kd6 37. b3 Rf7 38.
+Qe5+ Kd7 39. a4 bxa4 40. bxa4 Rf8 41. Kb2 1-0
+

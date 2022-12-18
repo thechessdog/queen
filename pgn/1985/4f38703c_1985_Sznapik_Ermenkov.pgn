@@ -1,0 +1,19 @@
+[Event "Prague zt"]
+[Site "Praag zt"]
+[Date "1985.02.01"]
+[Round "9"]
+[White "Sznapik, Aleksander"]
+[Black "Ermenkov, Evgenij"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "4f38703c"]
+[Epoch "Queen"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Be6
+8. Be2 g6 9. O-O Bg7 10. Bf4 1/2-1/2

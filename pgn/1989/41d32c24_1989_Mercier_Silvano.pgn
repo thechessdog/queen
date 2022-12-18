@@ -1,0 +1,19 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mercier, T."]
+[Black "Silvano"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "41d32c24"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qa5 9. Ne2 Ng6 10. O-O dxc3 11. h4 Nc6 12. f4 h5 13. Qg3 Nce7 14.
+Nd4 Bd7 15. Be3 Nf5 16. Nxf5 exf5 17. Qg5 Ne7 18. Qxg7 Rg8 19. Qh7 Be6 20.
+Rfb1 Bd7 21. Rxb7 d4 22. e6 Bxe6 23. Bb5+ Kf8 24. Qh6+ Rg7 25. Bxd4 f6 26.
+Bxf6 1-0
+

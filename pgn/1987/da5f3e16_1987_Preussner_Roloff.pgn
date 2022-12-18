@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Preussner"]
+[Black "Roloff"]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "da5f3e16"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nd5 Be7 6. Bc4 O-O 7. O-O d6
+8. Nxd4 Nxd4 9. Qxd4 Nxd5 10. Bxd5 Bf6 11. Qd3 a5 12. a4 c6 13. Bc4 Be6 14.
+Rd1 Re8 15. Bxe6 Rxe6 16. Be3 Qe8 17. Bd4 Bd8 18. Qg3 Rg6 19. Qd3 Bc7 20.
+c4 Qe7 21. Re1 Re8 22. Bc3 Bb6 23. g3 h5 24. e5 Qd8 25. exd6 Rxe1+ 26. Rxe1
+Rxd6 27. Re8+ Qxe8 28. Qxd6 Qe2 29. c5 Ba7 30. Qd4 Qg4 31. f4 h4 32. Kf2
+Kh7 33. Qe4+ Kh6 34. Bd4 Qh3 35. Kf3 hxg3 36. hxg3 Qh5+ 37. g4 Qh3+ 38. Kf2
+Qxg4 39. Qh1+ Kg6 40. Qe4+ f5 41. Qe5 Qh4+ 42. Kf1 Qf6 43. Qe3 Qf8 44. Qe6+
+Kh7 45. Qe3 Qf7 46. Qe5 Bb8 47. Qe3 Qh5 48. Be5 Bxe5 49. Qxe5 Qf3+ 50. Kg1
+Qe4 51. Qc7 Qb1+ 52. Kf2 Qxb2+ 53. Ke3 Qc3+ 54. Ke2 Qc4+ 55. Kf3 Qe4+ 56.
+Kg3 Qe3+ 57. Kg2 Qxc5 58. Qf7 Qd5+ 0-1
+

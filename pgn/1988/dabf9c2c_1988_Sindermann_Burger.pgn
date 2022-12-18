@@ -1,0 +1,22 @@
+[Event "corr BdF/JHZ"]
+[Site "corr BdF/JHZ"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sindermann, E."]
+[Black "Burger, H."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "dabf9c2c"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 c6 3. d4 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bf5 11. Rd1 a5 12. Bxf6 exf6 13. Nge2 g5 14.
+O-O Nc8 15. Ng3 Nd6 16. Nxf5 Nxf5 17. Be4 Nd6 18. Qc2 Nxe4 19. Qxe4 Qd7 20.
+g4 Rfe8 21. Qf3 Rad8 22. Rfe1 Kf8 23. Re4 Rxe4 24. Qxe4 b5 25. d6 Re8 26.
+Qf5 Qxd6 27. Nxb5 Qe6 28. Qxe6 fxe6 29. Rc1 f5 30. gxf5 exf5 31. Kf1 f4 32.
+Rc5 Bf6 33. f3 Kg7 34. a4 Kg6 35. Rc6 Re3 36. Rc3 Re6 37. Rd3 h5 38. d5 Re3
+39. Rxe3 fxe3 40. Nc3 Bd4 41. Ke2 Kf5 42. Nd1 Kf4 43. d6 Kf5 44. Nxe3+ Ke6
+45. Nc4 Bc5 46. Nxa5 1-0
+

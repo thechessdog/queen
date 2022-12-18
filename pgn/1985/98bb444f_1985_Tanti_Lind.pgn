@@ -1,0 +1,20 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tanti"]
+[Black "Lind"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "98bb444f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 Nf6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O a6 9. f4 Bd7 10. Nf3 Rc8 11. Kb1 h6 12. Bxf6 gxf6 13. f5 Ne5 14.
+fxe6 fxe6 15. Be2 Nc4 16. Qd4 b5 17. e5 dxe5 18. Qg4 Qc7 19. Ne4 Rf8 20. c3
+Ne3 21. Qg6+ Kd8 22. Rd3 Qb6 23. Qxh6 Nxg2 24. Rhd1 Rc7 25. Qxf8+ Bxf8 26.
+Nxf6 Ke7 27. Nxd7 Qf2 28. Nxf8 Kxf8 29. Nd4 Rf7 30. Nxe6+ Ke7 31. Rd7+ Kxe6
+32. R1d6+ Kf5 33. Rxf7+ 1-0
+

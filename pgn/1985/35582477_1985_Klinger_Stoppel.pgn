@@ -1,0 +1,19 @@
+[Event "Wolfsberg ch-Austria"]
+[Site "Wolfsberg ch-Austria"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klinger, Josef"]
+[Black "Stoppel, Franz"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "35582477"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[BlackID "1601288"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. g3 d5 2. Bg2 c6 3. b3 Bf5 4. Bb2 Nd7 5. Nf3 Ngf6 6. d3 h6 7. Nbd2 e6 8. O-O
+Bc5 9. c4 O-O 10. a3 a5 11. Bc3 Qe7 12. Qc1 e5 13. d4 exd4 14. Bxd4 dxc4 15.
+Nxc4 Qxe2 16. Ne3 1-0

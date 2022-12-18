@@ -1,0 +1,16 @@
+[Event "Quebec Open"]
+[Site "Quebec Open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dupuis, Olivier"]
+[Black "Desjardins, Ray"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "1d14fe52"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 e6 4. Bd3 Nbd7 5. Nf3 Be7 6. Nbd2 O-O 7. O-O b6
+8. b3 Bb7 9. Qe2 c5 10. Ne5 Ne4 11. f3 Nc3 12. Qf2 Nf6 13. Qh4 Kh8 14. Bg5
+g6 15. Nxg6+ Kg7 16. Qh6+ Kg8 17. Bxf6 hxg6 18. Qh8# 1-0
+

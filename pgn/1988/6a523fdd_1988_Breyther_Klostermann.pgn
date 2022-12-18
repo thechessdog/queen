@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Breyther, Ruediger"]
+[Black "Klostermann, Markus"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "6a523fdd"]
+[Epoch "Queen"]
+[WhiteID "4601211"]
+[BlackID "4604458"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Rd1 Nbd7 11. Bc2 b6 12. Nf3 Bb7 13. Bf4 Bf8 14. Ba4 Rc8 15.
+Bg5 Ng8 16. Ne5 dxe5 17. Bxd7+ Qxd7 18. Rxd7 Kxd7 19. Na4 Rc6 20. Rd1+ Bd6 21.
+Nxb6+ Rxb6 22. c5 Rc6 23. Rxd6+ Rxd6 24. cxd6 h6 25. Bh4 g5 26. Bg3 f6 27. Qh5
+Kxd6 28. Qe8 Rh7 29. Qxg8 Rc7 30. Qd8+ Rd7 31. Qxf6 Kc6 32. h3 Kb6 33. Qxe6+
+Bc6 34. Qxe5 h5 35. Qxg5 h4 36. Qe3+ Kb7 37. Qb3+ Bb5 38. Bf4 Rd3 39. Qb4 Rd1+
+40. Kh2 Ka8 41. Qf8+ Be8 42. Qxe8+ Rd8 43. Qxd8+ Ka7 44. Qb8# 1-0

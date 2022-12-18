@@ -1,0 +1,19 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Seirawan, Yasser"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "f5cddeb7"]
+[Epoch "Queen"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "2000032"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 Bc5 5. Bg2 O-O 6. O-O d6 7. d3 h6 8. a3 a5
+9. b3 Nd4 10. Bb2 1/2-1/2

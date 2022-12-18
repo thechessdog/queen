@@ -1,0 +1,25 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Huss, Andreas"]
+[Black "Martorelli, Antonio"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "913f75de"]
+[Epoch "Queen"]
+[WhiteID "1300180"]
+[BlackID "801399"]
+[WhiteCountry "SUI"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. d5 a5 8. O-O Na6
+9. Be3 Ng4 10. Bg5 f6 11. Bh4 h5 12. Ne1 Qe8 13. Nd3 g5 14. h3 gxh4 15. hxg4
+hxg4 16. Bxg4 f5 17. exf5 Bxf5 18. Bxf5 Rxf5 19. Qg4 Qf7 20. a3 Rf8 21. b4 axb4
+22. axb4 e4 23. Nxe4 Nxb4 24. Nxb4 Rf4 25. Qe2 Bxa1 26. Rxa1 Qg6 27. Re1 h3 28.
+g3 Rxf2 29. Qxf2 Rxf2 30. Kxf2 Kg7 31. Nd3 h2 32. Kg2 b5 33. Nf4 h1=Q+ 34. Kxh1
+Qh7+ 35. Kg1 bxc4 36. Nxd6 Qc2 37. Re7+ Kf6 38. Re6+ Kg7 39. Ne4 c3 40. Re7+
+Kh6 41. Re6+ Kg7 42. Re7+ Kh6 43. Nf2 Qb1+ 44. Kg2 c2 45. Ng4+ Kg5 46. Re5+
+Kxg4 47. Nh3 c1=Q 48. Nf2# 1-0

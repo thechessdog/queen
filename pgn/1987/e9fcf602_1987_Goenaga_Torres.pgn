@@ -1,0 +1,18 @@
+[Event "Maracaibo"]
+[Site "Maracaibo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Goenaga"]
+[Black "Torres"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "e9fcf602"]
+[Epoch "Queen"]
+
+1. d4 f5 2. Bg5 d5 3. e3 c6 4. c4 Qb6 5. Qc2 e6 6. Nc3 Be7 7. h4 Nf6 8.
+Bxf6 Bxf6 9. cxd5 e5 10. dxe5 Bxe5 11. Nf3 Bf6 12. Bc4 Qc5 13. Bb3 O-O 14.
+dxc6+ Kh8 15. cxb7 Bxb7 16. Ne2 Qe7 17. Kf1 Na6 18. Nf4 Rac8 19. Qxf5 Bxb2
+20. h5 Rc6 21. Nh4 Rh6 22. Nhg6+ hxg6 23. Nxg6+ Kh7 24. Nxf8+ Kh8 25. Qh7+
+Rxh7 26. Ng6# 1-0
+

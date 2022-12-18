@@ -1,0 +1,23 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Grinberg, Ricardo"]
+[Black "Rubinetti, Jorge"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "b8a8b447"]
+[Epoch "Queen"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+[WhiteID "100544"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Nb8 13. a4 Nbd7 14. b4 d5 15.
+dxe5 Nxe4 16. Nxe4 dxe4 17. Bxe4 Bxe4 18. Rxe4 Nxe5 19. Rd4 Nxf3+ 20. Qxf3 Re1+
+21. Kh2 Qb8 22. axb5 Rxc1 23. Rxc1 c5+ 24. Rf4 g5 25. g3 gxf4 26. gxf4 axb5 27.
+Rg1+ Bg7 28. Qg3 Qf8 29. f5 Kh8 30. bxc5 Ra3 31. Qc7 Bxc3 32. Rd1 Ra8 33. Rd3
+Rc8 34. Qd7 Qxc5 0-1

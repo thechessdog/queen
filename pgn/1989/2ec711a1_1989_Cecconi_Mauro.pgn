@@ -1,0 +1,17 @@
+[Event "Figline Valdarno"]
+[Site "Figline Valdarno"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cecconi, E."]
+[Black "Mauro, A."]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "2ec711a1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Be3 O-O
+8. Bb3 Ng4 9. O-O Nxe3 10. fxe3 Nc6 11. Nxc6 bxc6 12. Qf3 e6 13. Rad1 Be5
+14. g4 Ba6 15. Rf2 c5 16. Rfd2 Qa5 17. a4 c4 18. Ba2 Rab8 19. Bb1 Rxb2 0-1
+

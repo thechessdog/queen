@@ -1,0 +1,19 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "792ad9cd"]
+[Epoch "Queen"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 d6 8.
+O-O a5 9. e4 e5 10. d5 Nb8 11. b3 Bg4 12. a3 c5 13. h3 Bxf3 14. Bxf3 O-O 15.
+Bg2 g6 16. Qe2 Nfd7 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Antoszkiewicz"]
+[Black "Schirmer, Michael"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "d22c9701"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O 8.
+O-O h5 9. Qa4 Kb8 10. b3 Nh6 11. Bb2 Be7 12. Ne4 Bh3 13. Rad1 Bxg2 14. Kxg2 Qf5
+15. Ned2 h4 16. Nxh4 Bxh4 17. Nf3 Qe4 18. gxh4 Nf5 0-1

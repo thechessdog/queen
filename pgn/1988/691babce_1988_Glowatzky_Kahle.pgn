@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Glowatzky"]
+[Black "Kahle"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "691babce"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 g6
+8. Bf4 Bg7 9. Bxb8 Rxb8 10. Qa4+ Bd7 11. Qxa7 cxd4 12. cxd4 O-O 13. Qc5 Rc8
+14. Qb4 Bc6 15. Bd3 e5 16. d5 Bxd5 17. O-O Bc6 18. Rfd1 Qc7 19. Rac1 Qb8
+20. Bc4 h6 1/2-1/2
+

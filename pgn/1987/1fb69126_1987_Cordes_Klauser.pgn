@@ -1,0 +1,20 @@
+[Event "Nova-Park"]
+[Site "Nova-Park"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cordes, Hans-Joerg"]
+[Black "Klauser, Markus"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "1fb69126"]
+[Epoch "Queen"]
+[BlackID "1300334"]
+[BlackCountry "SUI"]
+[WhiteID "4602234"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 h6 6. Bh4 c5 7. e3 Qa5 8. Nd2
+cxd4 9. exd4 Bxc3 10. bxc3 Qxc3 11. Bxf6 gxf6 12. Qg4+ Kh7 13. Rb1 f5 14. Qf4
+Nc6 15. d5 Nd4 16. d6 Rg8 17. f3 e5 18. Qh4 e4 0-1

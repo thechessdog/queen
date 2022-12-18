@@ -1,0 +1,20 @@
+[Event "Noviki-A"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gurevich, Mikhail"]
+[Black "Horvath, Jozsef"]
+[Result "1-0"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "c6515b48"]
+[Epoch "Queen"]
+[WhiteID "200930"]
+[WhiteCountry "BEL"]
+[BlackID "700061"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. a3 Be7 6. Qc2 O-O 7. e4 dxe4 8.
+Nxe4 Nbd7 9. Nxf6+ Nxf6 10. Bd3 b6 11. Be3 Bb7 12. O-O-O Qc8 13. Rhe1 Re8 14.
+Ne5 c5 15. g4 cxd4 16. Bxd4 h6 17. h4 Rd8 18. g5 Rxd4 19. gxf6 Rxd3 20. fxe7
+Rxd1+ 21. Rxd1 Qe8 22. Rd7 Bc6 23. Rc7 Qb8 24. Rxc6 Qxe5 25. Qd3 1-0

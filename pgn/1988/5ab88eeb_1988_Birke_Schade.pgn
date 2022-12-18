@@ -1,0 +1,17 @@
+[Event "Bundeswehr-ch"]
+[Site "Stetten"]
+[Date "1988.??.??"]
+[Round "2"]
+[White "Birke, Matthias, Dr."]
+[Black "Schade, Gunnar"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "5ab88eeb"]
+[Epoch "Queen"]
+[WhiteID "4604687"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O e5 7. d4 Nbd7 8. e4
+c6 9. b3 Qb6 10. Re1 exd4 11. Nxd4 Re8 12. Be3 Nc5 13. h3 Nfxe4 14. Nxe4 Nxe4
+15. Ne6 Qa5 16. Nxg7 Bxh3 17. Nxe8 Bxg2 18. Kxg2 Rxe8 19. f3 Nf6 20. Bd4 1-0

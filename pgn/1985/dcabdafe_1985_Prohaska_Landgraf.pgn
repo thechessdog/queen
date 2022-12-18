@@ -1,0 +1,20 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Prohaska"]
+[Black "Landgraf"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "dcabdafe"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 d5 7. h3 Bxf3 8.
+Qxf3 dxe4 9. Nxe4 Nd7 10. Bc4 Ngf6 11. Ng5 O-O 12. O-O-O Qa5 13. g4 Qb4 14.
+Bb3 Nb6 15. h4 a5 16. a3 Qb5 17. h5 a4 18. Ba2 Nc4 19. Bxc4 Qxc4 20. f5 Ra5
+21. hxg6 hxg6 22. Qh3 Qa2 23. Ne4 Rd8 24. Nxf6+ exf6 25. Qh7+ Kf8 26. fxg6
+Rb5 27. gxf7 Kxf7 28. Qd3 Rxb2 29. Kd2 Qb3 30. Qc3 Re8 31. Qxb3+ axb3 32.
+Rb1 Rxb1 33. Rxb1 bxc2 34. Rxb7+ Kg6 35. a4 Rxe3 36. Kxc2 Re4 0-1
+

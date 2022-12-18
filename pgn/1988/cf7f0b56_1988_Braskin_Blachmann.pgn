@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Braskin"]
+[Black "Blachmann"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "cf7f0b56"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 c6 5. Bd3 Bd6 6. h3 h6 7. Nf3 Be6 8.
+O-O Nf6 9. Nh4 Ne4 10. Nf3 Nxc3 11. bxc3 Nd7 12. a4 O-O 13. Ba3 Bxa3 14.
+Rxa3 Qf6 15. Re1 Rfe8 16. Ne5 Nxe5 17. Rxe5 Bd7 18. Rxe8+ Rxe8 19. c4 Bf5
+20. cxd5 Qxd4 21. dxc6 bxc6 22. Qf3 Re1+ 23. Bf1 Bxc2 24. Rc3 Be4 25. Qg3
+Rxf1+ 0-1
+

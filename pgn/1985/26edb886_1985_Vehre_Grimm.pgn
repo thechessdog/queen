@@ -1,0 +1,17 @@
+[Event "Findlay,OH"]
+[Site "Findlay,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Grimm, John"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "26edb886"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bf5 9. c4 Nb4 10. cxd5 Nxd3 11. Qxd3 Qxd5 12. Nc3 Nxc3 13. Qxc3 Qd6 14. Bg5
+f6 15. Re3 O-O-O 16. Bh4 Rhe8 17. Qa5 Be6 18. Rc1 Bd5 19. Bg3 1-0

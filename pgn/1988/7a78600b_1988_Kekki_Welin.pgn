@@ -1,0 +1,20 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Kekki, Petri"]
+[Black "Welin, Thomas"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "7a78600b"]
+[Epoch "Queen"]
+[WhiteID "500348"]
+[WhiteCountry "FIN"]
+[BlackID "1700324"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 b6 7. Qf3 Nc6 8. e4
+cxd4 9. e5 Nxe5 10. Qxa8 Nc6 11. a4 O-O 12. Ba3 Ne8 13. Be7 Qxe7 14. Qxc8 dxc3
+15. c5 Qxc5 16. Qa6 c2 0-1

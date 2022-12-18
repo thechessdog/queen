@@ -1,0 +1,20 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Arbakov, Valentin"]
+[Black "Gazarek, Danko"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, 5.Rb1"]
+[HashCode "330e0b72"]
+[Epoch "Queen"]
+[BlackID "14500906"]
+[BlackCountry "CRO"]
+[WhiteCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 a5 6. a3 f5 7. e3 Nf6 8. Nge2
+O-O 9. d4 d6 10. b4 axb4 11. axb4 Ne7 12. Qb3 Kh8 13. O-O c6 14. Rd1 e4 15. d5
+cxd5 16. cxd5 g5 17. Nd4 Ng6 18. Ne6 Bxe6 19. dxe6 Qe7 20. Nb5 Rad8 21. Bb2 Ng4
+22. Bxg7+ Kxg7 23. Rbc1 Rc8 24. Rxc8 Rxc8 25. Nxd6 Rf8 26. Nxf5+ 1-0

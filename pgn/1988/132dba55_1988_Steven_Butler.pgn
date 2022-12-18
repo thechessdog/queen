@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Steven"]
+[Black "Butler"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "132dba55"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4
+Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Bxc2 12. Bg5 Qa5 13. Qd2 Bh7 14. Qe2
+Rc8 1-0
+

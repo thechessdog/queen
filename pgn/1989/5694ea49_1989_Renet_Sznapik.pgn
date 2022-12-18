@@ -1,0 +1,25 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Sznapik, Aleksander"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "5694ea49"]
+[Epoch "Queen"]
+[WhiteID "600040"]
+[WhiteCountry "FRA"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 b6 7. e5 Ng4 8. Bg1
+Bb7 9. Bc4 c5 10. e6 f5 11. Bd5 Nc6 12. Qd2 Nf6 13. Bxc6 Bxc6 14. O-O-O Bxf3
+15. gxf3 Qc8 16. Qe2 Qb7 17. Be3 Rac8 18. Kb1 a6 19. Qf2 Rc7 20. h4 Nh5 21. Ne2
+cxd4 22. Bxd4 Bxd4 23. Nxd4 b5 24. Qd2 Rc4 25. b3 Rc5 26. Rhg1 Rf6 27. Rg5 Qc8
+28. Rdg1 Kh8 29. Rxh5 gxh5 30. Rg5 Qe8 31. Qa5 h6 32. Rg1 Qc8 33. Kb2 Kh7 34.
+Qd2 Rg6 35. Rxg6 Kxg6 36. a3 Qf8 37. b4 Rc4 38. Kb3 Qf6 39. c3 Rxd4 40. cxd4
+Qxe6+ 41. d5 Qf6 42. Qg2+ Kh7 43. Qf2 Qa1 44. Qc2 Kg6 45. Qg2+ Kf7 46. Qf2 Qf6
+47. Qc2 Kf8 48. Qb2 Qxh4 49. Qh8+ Kf7 50. Qh7+ Ke8 51. Qh8+ 1/2-1/2

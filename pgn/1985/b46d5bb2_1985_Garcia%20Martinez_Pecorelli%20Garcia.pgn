@@ -1,0 +1,19 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Garcia Martinez, Silvino"]
+[Black "Pecorelli Garcia, Humberto"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "b46d5bb2"]
+[Epoch "Queen"]
+[WhiteID "3500179"]
+[BlackID "3500233"]
+[WhiteCountry "CUB"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 Qa5 10. Re1 exd4 11. Nxd4 Re8 12. Rb1 1/2-1/2

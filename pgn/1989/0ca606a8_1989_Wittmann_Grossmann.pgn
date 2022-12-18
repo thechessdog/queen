@@ -1,0 +1,25 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wittmann, Matthias"]
+[Black "Grossmann, Heinz"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "0ca606a8"]
+[Epoch "Queen"]
+[WhiteID "4693396"]
+[WhiteCountry "GER"]
+[BlackID "12949493"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. e3 b6 5. Bd3 d5 6. c3 O-O 7. Nbd2 Nbd7 8. h4
+Bb7 9. Qb1 Re8 10. Ne5 h6 11. Rh3 hxg5 12. hxg5 Ne4 13. Rh8+ Kxh8 14. Nxf7+ Kg8
+15. Nxd8 Raxd8 16. f4 Nxg5 17. fxg5 Bxg5 18. Nf3 Bxe3 19. Bh7+ Kh8 20. Bg6 Rf8
+21. Qd3 Bh6 22. Ke2 Rf6 23. Kd1 Rdf8 24. Kc2 c5 25. Re1 c4 26. Qe2 Rxg6 27. Nh4
+Rgf6 28. Qg4 Rf2+ 29. Kb1 R8f6 30. Qh5 Rf1 31. Qe2 Rxe1+ 32. Qxe1 e5 33. dxe5
+Nxe5 34. b3 Nd3 35. Qe8+ Kh7 36. Nf3 cxb3 37. axb3 Nc5 38. b4 Ne4 39. Ne5 Nd6
+40. Qe7 Bc8 41. Nf3 a5 42. bxa5 bxa5 43. Qd8 Bf5+ 44. Ka2 Be4 45. Ne5 a4 46.
+Nd7 Rf2+ 47. Ka1 Rf1+ 48. Ka2 Bb1+ 49. Ka3 Bc1+ 50. Kxa4 Bc2+ 51. Kb4 Rf4+ 0-1

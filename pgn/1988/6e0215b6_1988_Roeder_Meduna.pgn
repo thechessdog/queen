@@ -1,0 +1,24 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roeder, Frank"]
+[Black "Meduna, Eduard"]
+[Result "0-1"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "6e0215b6"]
+[Epoch "Queen"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+[WhiteID "4602161"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. c4 e5 3. d4 d6 4. Nc3 Nf6 5. Nf3 Nbd7 6. h3 g6 7. g3 Bg7 8. Bg2 O-O
+9. O-O exd4 10. Nxd4 Re8 11. Nc2 Qc7 12. Re1 a5 13. Bf4 Ne5 14. b3 Nh5 15. Bd2
+Nd3 16. Re3 Nc5 17. Rb1 Bd7 18. Qe2 Re7 19. Re1 Rae8 20. f4 f5 21. Qf2 fxe4 22.
+Nxe4 Nxe4 23. Rxe4 Rxe4 24. Bxe4 Bxh3 25. Bf3 Rxe1+ 26. Qxe1 Bf5 27. Ne3 Bd3
+28. Bxa5 Qe7 29. Kg2 Nf6 30. Nd5 Qf7 31. Nxf6+ Qxf6 32. Qe8+ Bf8 33. Bg4 Kg7
+34. Be6 Qb2+ 35. Kg1 Qc1+ 36. Kf2 Qf1+ 37. Ke3 Qe2+ 38. Kd4 c5+ 39. Kc3 Qc2#
+0-1

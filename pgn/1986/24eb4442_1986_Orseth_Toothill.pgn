@@ -1,0 +1,23 @@
+[Event "corr NBC-Volmac"]
+[Site "corr NBC-Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Orseth, Dag S"]
+[Black "Toothill, John"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "24eb4442"]
+[Epoch "Queen"]
+[WhiteID "1500384"]
+[BlackID "402311"]
+[WhiteCountry "NOR"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 e6 7. Nd2 Nc6 8. c3
+Bh6 9. Nc4 d5 10. Qh5 Qg5 11. Qxg5 Bxg5 12. Nf3 Be7 13. Ncd2 Rg8 14. Kf2 cxd4
+15. exd4 dxe4 16. Nxe4 b6 17. Bb5 Bd7 18. Rhe1 O-O-O 19. Rad1 Kc7 20. d5 exd5
+21. Rxd5 Bh3 22. Rxd8 Rxg2+ 23. Ke3 Nxd8 24. Bf1 Ne6 25. Bxg2 Bxg2 26. Nd4 Nxd4
+27. cxd4 f5 28. Nd2 Bg5+ 29. Kf2 Bd5 30. Re5 Bxa2 31. Nf3 Bc1 32. Re1 Bf4 33.
+Ra1 Bd5 34. Rxa7+ Bb7 35. Nxh4 Bxh2 36. Nxf5 Bf4 37. Ra3 h6 38. Rh3 Bc8 39.
+Rc3+ 1-0

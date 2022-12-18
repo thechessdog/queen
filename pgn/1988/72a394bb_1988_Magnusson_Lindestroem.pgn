@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Magnusson, G."]
+[Black "Lindestroem, T."]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "72a394bb"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. Bd3 f5 10. exf6 Qxf6 11. g3 cxd4 12. Nxd4 Nc6 13. Nxc6 bxc6
+14. O-O e5 15. fxe5 Qxe5 16. Rxf8+ Nxf8 17. Qf3 Bh3 18. Qf2 Re8 19. Qxa7
+Ne6 20. Qf2 Rf8 21. Re1 Qg5 22. Qe3 Qxe3+ 23. Rxe3 d4 24. Re5 dxc3 25. b3
+Nd4 26. Rh5 Bf5 0-1
+

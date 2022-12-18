@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hotting"]
+[Black "Jonker"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "46ce55b0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 O-O 8.
+a3 Ba5 9. b4 Bc7 10. Bg5 Bd7 11. Ng3 h6 12. Be3 Nc6 13. f4 Qe7 14. Be2 a6
+15. O-O Rfd8 16. b5 axb5 17. Qc2 b4 18. axb4 Nxb4 19. Qb3 Na6 20. Bxa6 bxa6
+21. Qb7 Rdc8 22. Rxa6 Rab8 23. Qa7 Ng4 24. Rf3 Qe8 25. Ra2 Ra8 26. Qb7 Rxa2
+27. Nxa2 Nxe3 28. Rxe3 Bxf4 29. Rf3 Rb8 30. Qa6 Rb1+ 31. Kf2 Bd2 32. Qa3
+Be1+ 33. Ke3 Ba4 0-1
+

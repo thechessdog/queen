@@ -1,0 +1,19 @@
+[Event "Eksjo wzt"]
+[Site "Eksjo wzt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Johansson, E."]
+[Black "Cramling, Pia"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "dbaca46d"]
+[Epoch "Queen"]
+[BlackID "1700030"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. Qc2 Ne5 12. f4 Neg4 13. Nf3 Nxe4 14. Nxe4 Bf5
+15. Bd3 c4 16. Nf6+ Qxf6 17. Bxf5 Qxf5 18. Qxc4 Rac8 19. Qb5 Re7 20. Rd1 Qc2
+21. Rf1 Re2 0-1

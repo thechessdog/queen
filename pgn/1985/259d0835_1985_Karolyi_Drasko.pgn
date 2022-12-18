@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Drasko, Milan"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Smyslov defence"]
+[HashCode "259d0835"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "900397"]
+[BlackCountry "MNE"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 g6 4. c4 c6 5. Nc3 Bg7 6. Bd3 O-O 7. O-O Bg4 8. cxd5
+Bxf3 9. Qxf3 cxd5 10. Bd2 Nc6 11. Qe2 e5 12. dxe5 Nxe5 13. Rfd1 Qe7 1/2-1/2

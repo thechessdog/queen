@@ -1,0 +1,17 @@
+[Event "Szeged"]
+[Site "Szeged"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bezdan, S."]
+[Black "Eberth, Zoltan"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "112c53c0"]
+[Epoch "Queen"]
+[BlackID "702668"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Qb6 7. O-O f6 8. exf6
+Nxf6 9. dxc5 Bxc5 10. Nbd2 O-O 11. Nb3 Bxf2+ 12. Rxf2 Ng4 13. Nbd4 Nxf2 0-1

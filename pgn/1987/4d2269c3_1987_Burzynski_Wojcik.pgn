@@ -1,0 +1,18 @@
+[Event "Chorzow"]
+[Site "Chorzow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Burzynski, K."]
+[Black "Wojcik, Z."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "4d2269c3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. Nc3 Bd6
+8. Re1 Qd7 9. d4 Qe7 10. dxe5 Bxe5 11. Qd3 Bxf3 12. Qxf3 O-O-O 13. Bf4 f6
+14. Rad1 Rxd1 15. Rxd1 g5 16. Bxe5 fxe5 17. Qf5+ Kb8 18. Rd7 Qf6 19. Rf7
+Qxf5 20. exf5 Nh6 21. Rf6 Ng8 22. Rf8+ 1-0
+

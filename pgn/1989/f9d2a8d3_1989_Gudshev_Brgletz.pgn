@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gudshev, M."]
+[Black "Brgletz, F."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "f9d2a8d3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 exd4
+8. Nxd4 Ne5 9. Bb3 c5 10. Nf5 Bxf5 11. exf5 Qd7 12. f4 Nc6 13. g4 Nd4 14.
+Qg2 Nxb3 15. axb3 Ne8 16. Nd5 Bd8 17. Bd2 h5 18. Bc3 hxg4 19. f6 Qf5 20.
+Ne7+ 1-0
+

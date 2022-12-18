@@ -1,0 +1,20 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zibret, L."]
+[Black "De Jong, Tom"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "3f6946f8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Bc4 e6 5. Nxc3 a6 6. Nf3 d6 7. a4 b6 8. Be3
+Nf6 9. Qe2 Bb7 10. Nd2 Nbd7 11. O-O Be7 12. Rad1 Qc7 13. f4 O-O 14. f5 d5 15.
+fxe6 fxe6 16. exd5 exd5 17. Bd3 Rae8 18. Nb3 Bd6 19. Qd2 Bxh2+ 20. Kh1 Nh5 21.
+Rxf8+ Rxf8 22. Ne2 Ne5 23. Nbd4 Bc8 24. Rc1 Qd6 25. Rxc8 Rxc8 26. Nf5 Qe6 27.
+Ned4 Qd7 28. Kxh2 Ng4+ 29. Kg1 Re8 30. Bg5 Qxa4 31. Be2 Qa1+ 32. Bd1 Qb1 33.
+Ne7+ Kh8 34. Ndf5 Qe4 35. Bf3 Qb1+ 36. Bd1 Ngf6 37. Bxf6 Nxf6 38. Kh2 Qe4 39.
+Qg5 0-1

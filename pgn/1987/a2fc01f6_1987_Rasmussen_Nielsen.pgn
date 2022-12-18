@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rasmussen, Jesper"]
+[Black "Nielsen, Poul Erik"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "a2fc01f6"]
+[Epoch "Queen"]
+[WhiteID "1410016"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bg5 Be7 6. Nbd2 O-O 7. c4 Re8 8.
+Be2 dxc4 9. O-O b5 10. Qc2 Nc6 11. Rad1 Nb4 12. Qb1 g6 13. Bxf6 Bxf6 14. Ne4
+Bg7 15. a3 Bf5 16. axb4 Rxe4 17. Qc2 Rxd4 18. Qc1 Rxd1 19. Rxd1 Qe7 20. Bf1
+Qxb4 21. Nd4 Bxd4 22. Rxd4 Qe7 23. h3 Rd8 24. Qd2 Rxd4 25. Qxd4 c5 26. Qd2 Qf6
+27. g4 Bd3 28. Bg2 b4 29. b3 Qd4 30. bxc4 Bxc4 31. Qe1 Be6 32. Qb1 b3 33. Bc6
+b2 0-1

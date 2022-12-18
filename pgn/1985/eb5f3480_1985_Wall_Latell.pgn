@@ -1,0 +1,17 @@
+[Event "Palo Alto,CA"]
+[Site "Palo Alto,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Latell, J."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "eb5f3480"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5 8.
+Nxd4 Bd7 9. f3 Nxd4 10. Qxd4 c5 11. Qe5+ Qe7 12. Bxd7+ Kxd7 13. Qxd5+ Kc8 14.
+Rxe4 Qd7 15. Nc3 1-0

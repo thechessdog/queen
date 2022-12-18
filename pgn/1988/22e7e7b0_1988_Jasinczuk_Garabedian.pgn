@@ -1,0 +1,18 @@
+[Event "Zoo-Issy"]
+[Site "Zoo-Issy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jasinczuk"]
+[Black "Garabedian"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "22e7e7b0"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 d4 3. g3 c5 4. b4 Qc7 5. Bg2 e5 6. O-O Nf6 7. b5 Bd6 8. d3
+O-O 9. a4 a6 10. Na3 Bf5 11. Nd2 Re8 12. Ne4 Nxe4 13. dxe4 Be6 14. Qd3 Qd7
+15. f4 f6 16. f5 Bf7 17. g4 axb5 18. axb5 Qd8 19. h4 Be7 20. Bd2 Nd7 21.
+Qg3 Nb6 22. Rac1 d3 23. exd3 Rxa3 24. Bc3 Rxc3 0-1
+

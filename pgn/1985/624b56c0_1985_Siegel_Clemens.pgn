@@ -1,0 +1,23 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Siegel, Georg"]
+[Black "Clemens, Christian, Dr."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "624b56c0"]
+[Epoch "Queen"]
+[WhiteID "4604237"]
+[WhiteCountry "GER"]
+[BlackID "4600673"]
+[BlackCountry "GER"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. Nc3 d6 7. d4 c6 8. d5 e5
+9. dxe6 Bxe6 10. Qd3 Na6 11. Bf4 Qa5 12. Ng5 Rfe8 13. Rfd1 Rad8 14. a3 Ng4 15.
+Nxe6 Rxe6 16. b4 Qb6 17. c5 Nxc5 18. Qc4 Qa6 19. b5 Qa5 20. Rac1 Bxc3 21. bxc6
+bxc6 22. Rxc3 Qa4 23. Qxa4 Nxa4 24. Rxc6 Rxe2 25. Bd5+ Kf8 26. Rc7 Nb6 27. Bf3
+Ra2 28. Bxg4 fxg4 29. Bh6+ Kg8 30. Rg7+ Kh8 31. Rxa7 Nc4 32. Rc7 Rc2 33. Re1
+Ne3 34. Re7 1-0

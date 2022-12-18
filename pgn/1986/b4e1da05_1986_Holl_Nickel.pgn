@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Holl, A."]
+[Black "Nickel, A."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "b4e1da05"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Bf4
+Qb6 8. Bb3 a5 9. a4 Na6 10. Nf3 O-O-O 11. Qe2 e5 12. Bg3 Qb4+ 13. Kf1 exd4
+14. Bxf7 Nc7 15. Ne1 Qxb2 16. Qh5 Bg6 17. Bxg6 Qxa1 18. Qxa5 Bd6 19. Be4
+Rhe8 20. f3 Bxg3 21. hxg3 Re5 22. Qb4 f5 23. Rh5 d3 0-1
+

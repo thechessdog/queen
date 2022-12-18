@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuebler, A."]
+[Black "Baerschneider, A."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0d713992"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 g6 7. Bd3 Bg7 8.
+O-O Qc7 9. Nf3 Nbd7 10. Qe1 e5 11. Kh1 O-O 12. Qh4 b5 13. fxe5 dxe5 14. Bh6
+Bb7 15. Ng5 Qd6 16. g4 Rfc8 17. Bxg7 Kxg7 18. Nxf7 Kxf7 19. Qxh7+ Ke6 20.
+Qxg6 Ke7 21. g5 Rg8 22. gxf6+ Nxf6 23. Qh6 Raf8 24. Rad1 Qe6 25. Qe3 Rc8
+26. Rf3 Ng4 27. Qa7 Nxh2 28. Qxb7+ Ke8 29. Bxb5+ axb5 30. Qxb5+ Rc6 31. Nd5
+1-0
+

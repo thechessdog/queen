@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Reuter"]
+[Black "Lowbeer"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "b49495fc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 Ne5 13. Ra3 Qe7 14. a5
+Bd7 15. Rb3 Rab8 16. Rb6 Bg4 17. f3 Bc8 18. Kh1 Nh5 19. Bxa6 Qh4 20. Ne2 f5
+21. f4 fxe4 22. Qb3 Ng4 23. h3 Nf2+ 24. Kh2 Bxh3 25. g3 Qg4 26. Rxf2 e3 27.
+Rf3 exd2 28. Bxd2 Bf1 0-1
+

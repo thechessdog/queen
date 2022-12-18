@@ -1,0 +1,21 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vallifuoco, Giacomo"]
+[Black "Rigo, Janos"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "22923c00"]
+[Epoch "Queen"]
+[WhiteID "800228"]
+[BlackID "700371"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 Nc6 7. O-O d6 8. d5
+Ne5 9. e4 Nfg4 10. f4 Nxd3 11. Qxd3 f5 12. h3 fxe4 13. Nxe4 Nf6 14. dxe6 Bxe6
+15. f5 Nxe4 16. Qxe4 Bf7 17. f6 Qe8 18. Qg4 Bg6 19. a3 Ba5 20. b4 Bd8 21. Bb2
+Bxf6 22. Bxf6 Rxf6 23. Rxf6 gxf6 24. Rf1 Qe3+ 25. Kh1 1/2-1/2

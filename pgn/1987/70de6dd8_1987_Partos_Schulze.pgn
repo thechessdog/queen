@@ -1,0 +1,20 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Partos, Charles"]
+[Black "Schulze, Ulrich"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "70de6dd8"]
+[Epoch "Queen"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Bxc3+ 5. bxc3 c5 6. f3 O-O 7. e4 Ne8 8. Bd3
+Nc6 9. Ne2 b6 10. Be3 Ba6 11. Qa4 Qc8 12. Rd1 Na5 13. dxc5 d6 14. cxb6 axb6 15.
+Bxb6 Nxc4 16. Qb4 Rb8 17. Bxc4 Bxc4 18. Rb1 Nf6 19. Qxd6 Rd8 20. Qb4 Nd7 21.
+Qa5 Nxb6 22. Nd4 Bd3 23. Rxb6 Rxb6 24. Qxb6 Qxc3+ 25. Kf2 Qxd4+ 26. Qxd4 Rxd4
+27. Rd1 Rd7 28. a4 Kf8 29. Ke3 Bb5 30. Rxd7 Bxd7 31. a5 Bb5 32. Kd4 Ke7 33. e5
+Kd7 34. Kc5 Bf1 0-1

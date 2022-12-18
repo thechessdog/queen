@@ -1,0 +1,22 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "8"]
+[White "Sindik, Ervin"]
+[Black "Wahls, Matthias"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "9b120555"]
+[Epoch "Queen"]
+[WhiteID "14500485"]
+[WhiteCountry "CRO"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 Nd4 10. Nxd4 exd4 11. c3 dxc3 12. bxc3 c5 13. Nd2 Qb6 14. Bb2 c4 15.
+a5 Qa7 16. dxc4 Bc5 17. Qf3 bxc4 18. Bxc4 Rae8 19. Bd5 Bxd5 20. exd5 Qb7 21.
+Nc4 Qb5 22. Qd3 Ng4 23. Rf1 Rc8 24. Qc2 Qxc4 25. Ra4 Ne3 26. Rxc4 Nxc2 27. Rc1
+Rfe8 28. Kf1 Na3 29. Rg4 Rb8 30. Ba1 Nc2 0-1

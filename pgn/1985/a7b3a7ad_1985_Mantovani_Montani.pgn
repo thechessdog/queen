@@ -1,0 +1,19 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mantovani, Renzo"]
+[Black "Montani"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "a7b3a7ad"]
+[Epoch "Queen"]
+[WhiteID "800198"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 exd4 8. e5
+Ne4 9. Bd5 Nc5 10. Nxd4 Nxd4 11. Bxb7 Nxb7 12. Qxd4 Nc5 13. Be3 Ne6 14. Qg4 d5
+15. f4 h5 16. Qf3 g6 17. Nc3 c6 18. Rad1 Qc7 19. Rxd5 b4 20. Ne4 cxd5 21. Nf6+
+Kd8 22. Qxd5+ Ke7 23. Qxa8 1-0

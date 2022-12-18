@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pinardi, M."]
+[Black "Riccio, R."]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "df900fdc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Bc4 Qb6
+8. Bxf6 gxf6 9. Nde2 Bd7 10. O-O Rg8 11. Qd2 Ne5 0-1
+

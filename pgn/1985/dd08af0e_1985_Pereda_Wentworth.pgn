@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pereda"]
+[Black "Wentworth"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "dd08af0e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Bh6 7. Kf2 Qb6
+8. Nc3 Qxb2 9. Nd5 cxd4 10. exd4 Kd8 11. Rb1 Qxa2 12. Ne2 e6 13. Nec3 Qa5
+14. Ra1 Qxa1 15. Qxa1 exd5 16. Qa5+ b6 17. Qxd5 Nc6 18. Qf5 Ke7 19. Bc4 1-0
+

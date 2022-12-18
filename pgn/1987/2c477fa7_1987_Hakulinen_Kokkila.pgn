@@ -1,0 +1,19 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hakulinen, Esko"]
+[Black "Kokkila, Tero"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "2c477fa7"]
+[Epoch "Queen"]
+[BlackID "501352"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. f3 Ne5 13. Kh1 Rb8 14. Nc4 Nxc4 15.
+Bxc4 Nd7 16. f4 Bxc3 17. bxc3 Rxe4 18. Bd3 Re8 19. a5 Nf6 20. f5 gxf5 21. Bg5
+Re5 22. c4 f4 23. Bxf4 Rh5 24. Qf3 Ng4 25. Kg1 f5 26. h3 Nf6 27. Qg3+ 1-0

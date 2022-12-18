@@ -1,0 +1,20 @@
+[Event "Mendrisio"]
+[Site "Mendrisio"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Parrino"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "28ad23fa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O
+8. Be3 Nc6 9. Nb3 a6 10. f4 Bd7 11. Bf3 Qc7 12. Nd5 Nxd5 13. exd5 Na5 14.
+Nxa5 Qxa5 15. c3 Rac8 16. Re1 Rc4 17. Qd2 b5 18. Qf2 Rb8 19. Ba7 Rb7 20.
+Rxe7 b4 21. Bd4 bxc3 22. bxc3 Bxd4 23. cxd4 Qc3 24. Rae1 Rb2 25. Qh4 Qxd4+
+26. Kh1 Ba4 27. Rxf7 Kxf7 28. Qe7+ Kg8 29. Qd8+ Kf7 30. Re7+ Kf6 31. Qf8#
+1-0
+

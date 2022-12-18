@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vance"]
+[Black "Laren"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "35ea6201"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nc6 7. Nxc6 dxc6
+8. O-O e5 9. f4 Nf6 10. f5 Bd7 11. Be3 Be7 12. Qe2 b5 13. a4 b4 14. Nd1 a5
+15. g4 h6 16. g5 hxg5 17. Bxg5 Bc5+ 18. Kg2 O-O-O 19. Bxf6 gxf6 20. h3
+Rdg8+ 21. Kh2 Bxf5 22. Rxf5 Bg1+ 0-1
+

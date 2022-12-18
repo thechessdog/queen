@@ -1,0 +1,19 @@
+[Event "Lyon"]
+[Site "Lyon"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andruet, Gilles"]
+[Black "Bernard, Christophe"]
+[Result "1/2-1/2"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "fba45fbd"]
+[Epoch "Queen"]
+[BlackID "600385"]
+[BlackCountry "FRA"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 h6 7. Be3 e5 8. d5 Nbd7
+9. Bd3 c6 10. Nge2 cxd5 11. cxd5 a6 12. O-O Kh8 13. Qd2 Ng8 14. Rac1 Bf6 15.
+Nd1 Bg5 16. Rc3 Bxe3 17. Nxe3 Nc5 18. Bb1 1/2-1/2

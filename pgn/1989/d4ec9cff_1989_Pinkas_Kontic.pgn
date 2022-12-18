@@ -1,0 +1,21 @@
+[Event "Katowice"]
+[Site "Katowice"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pinkas, Karol"]
+[Black "Kontic, Vladimir"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "d4ec9cff"]
+[Epoch "Queen"]
+[WhiteID "1100319"]
+[BlackID "16504372"]
+[WhiteCountry "POL"]
+[BlackCountry "MNE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8.
+Nf3 c5 9. Qd2 Nc6 10. O-O-O Nb6 11. h4 cxd4 12. Nb5 f6 13. Nbxd4 fxe5 14. fxe5
+Bd7 15. Bd3 Rac8 16. Qg5 Qf7 17. Kb1 Nb4 18. Qd2 Nxd3 19. Qxd3 h6 20. Ng5 hxg5
+21. hxg5 g6 22. Rh6 Kg7 23. Rdh1 Rh8 24. Qh3 Qg8 25. Qf3 1-0

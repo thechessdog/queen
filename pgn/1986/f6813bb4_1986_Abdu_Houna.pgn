@@ -1,0 +1,17 @@
+[Event "Dubai olm"]
+[Site "Dubai olm"]
+[Date "1986.11.01"]
+[Round "1"]
+[White "Abdu, G."]
+[Black "Houna, M."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "f6813bb4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Bb4 7. Bd3 d5
+8. exd5 Nxd5 9. O-O Nxe3 10. fxe3 Nxd4 11. exd4 Qxd4+ 12. Kh1 Bxc3 13. bxc3
+Qc5 14. Rb1 a6 15. Qf3 O-O 16. Rb4 f5 17. Rc4 Qd5 18. Qg3 e5 19. Rc7 1-0
+

@@ -1,0 +1,24 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Horvath, Csaba"]
+[Black "Gauglitz, Gernot"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[HashCode "1b9a0853"]
+[Epoch "Queen"]
+[BlackID "4611365"]
+[BlackCountry "GER"]
+[WhiteID "700118"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Rc1 O-O 6. e3 c5 7. dxc5 Na6 8. cxd5
+Nxc5 9. Nf3 Qa5 10. Qd2 Rd8 11. Nb5 Qxd2+ 12. Nxd2 Na6 13. e4 Bd7 14. Be2 Nh5
+15. Bxh5 gxh5 16. Nc3 b5 17. a3 Nc5 18. Ke2 Rdc8 19. Ke3 a5 20. e5 b4 21. Nce4
+Na4 22. Nc4 Bb5 23. Nxa5 Rxc1 24. Rxc1 bxa3 25. bxa3 Nb6 26. Rc5 Rxa5 27. a4
+Bxa4 28. Rxa5 Nc4+ 29. Kd4 Nxa5 30. Kc5 Bc2 31. Ng3 h4 32. Nh5 Bh8 33. d6 exd6+
+34. exd6 Kf8 35. Kb6 Bg6 36. Bh6+ Ke8 37. Bg7 Nb7 38. d7+ Ke7 39. Bf8+ Kxf8 40.
+Kxb7 Ke7 0-1

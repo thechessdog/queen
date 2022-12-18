@@ -1,0 +1,19 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Beckett"]
+[Black "Green"]
+[Result "1/2-1/2"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "00e238f1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 d6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. e5 dxe5 12. Qxe5 Qxe5 13. fxe5 Nd5
+14. Bxe7 Nxe7 15. Bd3 b6 16. Be4 Rb8 17. Rhe1 Bb7 18. Rd7 Bxe4 19. Rxe7 Rb7
+20. Rxb7 Bxb7 21. g3 Bc6 22. b4 Rc8 23. Kb2 Kf8 24. b5 Ba8 25. a4 Bb7 26.
+Ne4 Rd8 27. Nd6 Bd5 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Dortmund-A"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sokolov, Ivan"]
+[Black "Mohr, Stefan"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "6e5da488"]
+[Epoch "Queen"]
+[BlackID "4600290"]
+[BlackCountry "GER"]
+[WhiteID "24167703"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 b6 10. O-O Bb7 1/2-1/2

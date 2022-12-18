@@ -1,0 +1,20 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Frumkin, E."]
+[Black "Bungo, G."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "251a7b3f"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+Nd2 Bxe2 9. Qxe2 e5 10. d5 Ne7 11. Nc4 Nd7 12. Rfd1 f5 13. f3 f4 14. Bf2 g5
+15. b4 b6 16. Nb2 Ng6 17. Nca4 h5 18. c4 g4 19. Be1 Qg5 20. Kf1 Nf6 21.
+Rac1 h4 22. c5 h3 23. cxd6 g3 24. gxh3 cxd6 25. b5 Nxe4 26. Rc6 Nh4 27. Nc3
+gxh2 28. Qxh2 Ng3+ 29. Kf2 Qh5 30. Rd3 e4 31. fxe4 Qf3+ 32. Rxf3 Bd4+ 33.
+Re3 Bxe3# 0-1
+

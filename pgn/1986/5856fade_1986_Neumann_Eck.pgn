@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Neumann"]
+[Black "Eck"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "5856fade"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 cxd4 7. Nbxd4
+Be7 8. c3 O-O 9. Bd3 Bd7 10. O-O Nc6 11. Re1 a6 12. Nxc6 bxc6 13. Ne5 Qc7
+14. Nxc6 Qxc6 15. Be4 Qb7 16. c4 Nf6 17. Qxd7 Nxd7 18. Bxb7 Ra7 19. Bf3 Nc5
+20. Be3 Rb8 21. b3 Rd7 22. Red1 Rbd8 23. Rxd7 Rxd7 24. b4 Nb7 25. c5 Nd8
+26. c6 Rc7 27. Bb6 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schubert, J."]
+[Black "Franke, R."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "a6818795"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Bb7 9. Re1 Qc7 10. Bxe6 fxe6 11. Nxe6 Qc8 12. Nd5 Bxd5 13. exd5 Kf7 14.
+Bg5 Nbd7 15. Re3 Qc4 16. Rf3 Qg4 17. Bxf6 gxf6 18. h3 Qh5 19. g4 Rg8 20.
+Rg3 Qe5 21. f4 Qe4 22. Qd2 Rc8 23. c3 Nb6 24. Rd1 Bh6 25. Re3 Bxf4 26. Nxf4
+Qc4 27. Rde1 Rce8 28. Rxe8 Rxe8 29. Rxe8 Kxe8 30. Qe3+ Kd7 31. Qe6+ 1-0
+

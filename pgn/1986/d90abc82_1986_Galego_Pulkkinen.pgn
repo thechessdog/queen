@@ -1,0 +1,20 @@
+[Event "Oakham YM"]
+[Site "Oakham"]
+[Date "1986.01.01"]
+[Round "9"]
+[White "Galego, Luis"]
+[Black "Pulkkinen, Kari"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "d90abc82"]
+[Epoch "Queen"]
+[WhiteID "1900072"]
+[WhiteCountry "POR"]
+[BlackID "500712"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nc6 5. O-O e6 6. c3 Nge7 7. d4 cxd4 8. cxd4
+d5 9. e5 Nf5 10. g4 Nh4 11. Nxh4 Qxh4 12. Be3 f6 13. f4 fxe5 14. fxe5 h5 15.
+Qd3 Ne7 16. g5 Nf5 17. Qd2 1-0

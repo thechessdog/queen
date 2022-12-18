@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Markus"]
+[Black "Van der Kley"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "5efdf9bd"]
+[Epoch "Queen"]
+[WhiteID "7106122"]
+[WhiteCountry "INA"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. Qe2 dxe4 6. dxe4 Ba6 7. Nc4 Be7 8.
+g3 Nc6 9. e5 Nd5 10. Bd2 Qd7 11. O-O-O Rd8 12. h4 O-O 13. Ng5 Ncb4 14. Bxb4
+Bxb4 15. Qe4 g6 16. Ne3 Qa4 17. Nxd5 exd5 18. Qf4 d4 19. Kb1 Bb7 20. Bc4 Qe8
+21. h5 1-0

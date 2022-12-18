@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Studzinsky, D."]
+[Black "Stschjupokas, AP."]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "b3cd54f8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c5 6. d5 d6 7. O-O e6 8. Nc3
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Nd2 Re8 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5
+15. e4 Bd7 16. a5 Qxa5 17. g4 Nf6 18. g5 Nh5 19. f4 Nc4 20. Nxc4 Qxa1 21.
+Nxd6 Bd4+ 22. Kh2 Re7 23. Qf3 b5 24. e5 Rf8 25. Nce4 Kh8 26. Nf6 Ng7 27. h4
+Qb1 28. Qe2 Qa2 29. h5 Ne8 30. Ndxe8 Rfxe8 31. d6 Rxe5 32. Qf3 R5e6 33.
+Nxd7 Rxd6 34. Re1 Rde6 35. Ne5 R6e7 36. Qc6 Bxe5 37. Bd5 Qa4 38. Rxe5 Qc2+
+39. Kg3 Qd3+ 40. Kh4 1-0
+

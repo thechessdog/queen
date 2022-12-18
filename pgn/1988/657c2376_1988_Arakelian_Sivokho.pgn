@@ -1,0 +1,22 @@
+[Event "Naberezhnie Chelni"]
+[Site "Naberezhnie Chelni"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Arakelian, Eduard"]
+[Black "Sivokho, Sergey"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "657c2376"]
+[Epoch "Queen"]
+[WhiteID "4119770"]
+[WhiteCountry "RUS"]
+[BlackID "4114760"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bf4
+Nxe4 9. Qe2 g5 10. Qxe4 gxf4 11. Bc4 Bg7 12. O-O-O Ra6 13. Ne2 Nd7 14. Nxf4 Ne5
+15. Nh5 Bh6+ 16. f4 Nxc4 17. Qxc4 Bg4 18. Rd3 Bxh5 19. Rh3 Rxa2 20. Qxa2 Bxf4+
+21. Kc2 Bg6+ 22. Kd1 O-O 23. Rf1 Bg5 24. Qa7 Qc8 25. Rg3 Bh4 26. Rf4 Bxg3 27.
+hxg3 Qa8 28. Qxe7 Qa4+ 29. Kc1 Qc2# 0-1

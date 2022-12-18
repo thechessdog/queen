@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jongman, H."]
+[Black "Baerschneider, A."]
+[Result "1-0"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "5566c1b0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bh4 c6 5. c3 Qb6 6. Qb3 Bf5 7. Nbd2 Nd6
+8. e3 Qxb3 9. axb3 e6 10. Ne5 f6 11. Nd3 Nd7 12. Be2 Ne4 13. f3 Nxd2 14.
+Kxd2 Bd6 15. g4 Bxd3 16. Kxd3 g5 17. Bg3 Bxg3 18. hxg3 h6 19. Rh5 Kf7 20.
+f4 Kg7 21. b4 a6 22. Bf3 Nb6 23. b3 Nc8 24. c4 Ne7 25. Re1 Rhe8 26. e4 Rad8
+27. exd5 exd5 28. Re6 Ng8 29. Rxe8 Rxe8 30. cxd5 cxd5 31. Bxd5 b6 32. f5
+Rd8 33. Be6 Ne7 34. Ke4 Nc6 35. d5 Nxb4 36. Rh1 a5 37. Rc1 Na6 38. Rc6 Rb8
+39. d6 Kf8 40. d7 Rd8 41. Kd4 Nc5 42. Kd5 Ke7 43. Rxb6 Nxd7 44. Rb7 Ke8 45.
+Rxd7 Rxd7+ 46. Bxd7+ Kxd7 47. Kc5 Kc7 48. Kb5 Kd6 49. Kxa5 Ke5 50. b4 Ke4
+51. b5 Kf3 52. b6 Kxg3 53. b7 Kxg4 54. b8=Q Kxf5 55. Kb4 g4 56. Kc3 1-0
+

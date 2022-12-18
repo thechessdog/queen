@@ -1,0 +1,33 @@
+[Event "Bundeswehr-ch"]
+[Site "Stetten"]
+[Date "1988.??.??"]
+[Round "9"]
+[White "Klaus, Ingo"]
+[Black "Kohn, Sandro E"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "0e0ec999"]
+[Epoch "Queen"]
+[WhiteID "4625650"]
+[BlackID "21512736"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nd4 8. Nd1 e5
+9. c3 Ne6 10. Ne2 Ne7 11. O-O d5 12. exd5 Nxd5 13. Bh6 O-O 14. Bxg7 Kxg7 15.
+Ne3 Nxe3 16. Qxe3 Qc7 17. d4 exd4 18. cxd4 cxd4 19. Nxd4 Qb6 20. Nxe6+ Bxe6 21.
+Qxb6 axb6 22. a3 Rac8 23. Rfc1 Rxc1+ 24. Rxc1 Rd8 25. Be4 Rd4 26. f3 Bd5 27.
+Bxd5 Rxd5 28. Rc2 Rd3 29. Kf2 b5 30. g4 b4 31. axb4 Rb3 32. Rc4 Kf6 33. h4 h6
+34. Rf4+ Ke6 35. g5 hxg5 36. hxg5 Rxb2+ 37. Ke3 b5 38. Rd4 Ke5 39. f4+ Ke6 40.
+Re4+ Kd6 41. Kd3 Kd5 42. Re5+ Kc6 43. Re7 Kd5 44. Kc3 Rf2 45. Rxf7 Ke4 46. f5
+Rxf5 47. Re7+ Kf4 48. Kd4 Kxg5 49. Rg7 Kf6 50. Rg8 Rf4+ 51. Kc5 Rf5+ 52. Kb6 g5
+53. Rf8+ Ke5 54. Rc8 Kf4 55. Rc5 Rxc5 56. bxc5 b4 57. c6 b3 58. c7 b2 59. c8=Q
+b1=Q+ 60. Ka7 Qa2+ 61. Kb6 Qb3+ 62. Ka6 Qa4+ 63. Kb6 Qd4+ 64. Ka6 g4 65. Qc7+
+Kf3 66. Qc6+ Qe4 67. Qc3+ Kf2 68. Qf6+ Qf3 69. Qd4+ Kg2 70. Qd2+ Qf2 71. Qd5+
+Kg1 72. Ka5 Qe1+ 73. Ka4 g3 74. Qc5+ Qf2 75. Qc1+ Kh2 76. Qh6+ Kg2 77. Qc6+ Qf3
+78. Qc2+ Kf1 79. Qc1+ Kf2 80. Qd2+ Qe2 81. Qd4+ Qe3 82. Qf6+ Ke2 83. Qa6+ Kd2
+84. Qd6+ Qd3 85. Qb4+ Ke3 86. Qe1+ Kf3 87. Qh1+ Kg4 88. Qc6 Qd4+ 89. Ka3 Qf2
+90. Qc8+ Qf5 91. Qg8+ Kf4 92. Qc4+ Qe4 93. Qc7+ Kf3 94. Qf7+ Kg2 95. Qg7 Qe3+
+96. Ka4 Kf3 97. Ka5 g2 98. Qf6+ Qf4 99. Qc3+ Kg4 100. Qe1 Kf5 101. Qb1+ Kg4
+102. Qd1+ Kg3 103. Qb3+ Kh2 104. Qc2 0-1

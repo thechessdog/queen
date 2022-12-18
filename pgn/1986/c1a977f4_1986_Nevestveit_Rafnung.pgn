@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nevestveit"]
+[Black "Rafnung, S."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Rellstab variation"]
+[HashCode "c1a977f4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Be7 7. exd6
+Qxd6 8. Nc3 O-O 9. O-O-O Bg4 10. h4 Nba6 11. Bxa6 Qxd5 12. Nxd5 Bxg5+ 13.
+hxg5 Nxa6 14. Ne7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Ortiz, Victor"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Damiano variation"]
+[HashCode "a10c6ecb"]
+[Epoch "Queen"]
+[BlackID "6102506"]
+[BlackCountry "NCA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d5 5. d3 Ng5 6. Nc6+ 1-0

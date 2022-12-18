@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vosselman"]
+[Black "Plath"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "bf9477d4"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 f6 6. exf6 Nxf6 7. Bg2 Bf5 8.
+O-O Qd7 9. Qb3 Na5 10. Qb5 Qxb5 11. cxb5 Bxb1 12. Rxb1 c5 13. bxc6 Nxc6 14.
+Rd1 O-O-O 15. Bf4 Bc5 16. Bh3+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Graf, Alexander (Nenashev)"]
+[Black "Ruderfer, Mark B"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "abb03572"]
+[Epoch "Queen"]
+[BlackID "4103505"]
+[BlackCountry "RUS"]
+[WhiteID "4680804"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Be2 c6 7. O-O Nbd7 8. Qc2
+b6 9. Bd2 a5 10. a3 Bxc3 11. Bxc3 Ba6 12. b3 Qe7 13. Nd2 Rfc8 14. Rfe1 c5 15.
+dxc5 Qxc5 16. Qb2 dxc4 17. Nxc4 Bb7 18. Bd4 Qg5 19. Bf1 Bd5 20. Rac1 b5 21. Ne5
+b4 22. axb4 axb4 23. Rxc8+ Rxc8 24. Rc1 Ra8 25. Nd3 Ra3 26. Rc8+ Nf8 27. Nxb4
+Rxb3 28. Qc2 1-0

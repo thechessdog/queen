@@ -1,0 +1,20 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dunhaupt"]
+[Black "Vaisman"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "0872835e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. Bb3 O-O 10. O-O-O Qc7 11. g4 Nd7 12. f4 Nc5 13. Kb1 Nxb3 14.
+cxb3 Bd7 15. Rc1 Rfc8 16. Na4 Qa5 17. Nc2 Bd8 18. Qf2 Nb4 19. Bd2 Rxc2 20.
+Rxc2 Bxa4 21. bxa4 Qxa4 22. Bxb4 Qxb4 23. Qe2 Kf8 24. Rhc1 h6 25. Qd3 Ke7
+26. f5 Qb5 27. Qf3 e5 28. h4 Ke8 29. g5 hxg5 30. hxg5 Bxg5 31. Rh1 Rd8 32.
+f6 gxf6 33. Rh8+ Ke7 34. Rc7+ Rd7 35. Rcc8 d5 36. Rhe8+ Kd6 37. Qa3+ 1-0
+

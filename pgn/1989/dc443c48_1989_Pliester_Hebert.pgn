@@ -1,0 +1,21 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1989.03.01"]
+[Round "8"]
+[White "Pliester, Leon"]
+[Black "Hebert, Jean"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "dc443c48"]
+[Epoch "Queen"]
+[BlackID "2600048"]
+[BlackCountry "CAN"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 c5 7. d5 exd5 8. cxd5
+Bxf1 9. Kxf1 O-O 10. e4 Re8 11. Qf3 d6 12. Bf4 c4 13. a3 Bc5 14. Nf5 g6 15.
+Nh6+ Kg7 16. g4 Nbd7 17. h4 Ng8 18. h5 Nxh6 19. hxg6 fxg6 20. Qh3 Kg8 21. Qxh6
+Qe7 22. Kg2 Rf8 23. Rh3 Rxf4 24. Qxf4 Rf8 25. Qd2 Rxf2+ 26. Qxf2 Bxf2 27. Kxf2
+Qg5 0-1

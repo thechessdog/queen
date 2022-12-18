@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Sygulski, Artur"]
+[Black "Palatnik, Semon"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "d7add5f6"]
+[Epoch "Queen"]
+[WhiteID "1100521"]
+[WhiteCountry "POL"]
+[BlackID "2014610"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Be3 Nc6 9. Nf3 Na5 1/2-1/2

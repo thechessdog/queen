@@ -1,0 +1,20 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Brynell, Stellan"]
+[Black "Bjarnason, Saevar"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "28bc3955"]
+[Epoch "Queen"]
+[WhiteID "1700219"]
+[WhiteCountry "SWE"]
+[BlackID "2300176"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. g3 fxg3 6. h4 g4 7. Ng1 d5 8. Nc3
+dxe4 9. Nxe4 Be7 10. Bf4 Nf6 11. Nxf6+ Bxf6 12. Qe2+ Kf8 13. O-O-O Nc6 14. d5
+Nd4 15. Qc4 Qe7 16. Ne2 g2 0-1

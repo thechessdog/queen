@@ -1,0 +1,19 @@
+[Event "Buenos Aires TB"]
+[Site "Torre Blanca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rocha, Antonio"]
+[Black "Tsuboi, Edson Kenji"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "a45872cd"]
+[Epoch "Queen"]
+[BlackID "2100274"]
+[BlackCountry "BRA"]
+[WhiteID "1901869"]
+[WhiteCountry "POR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Nc3 a6 13. Bg5 O-O 14. Bh4 1/2-1/2

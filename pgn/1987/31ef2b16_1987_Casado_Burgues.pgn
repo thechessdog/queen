@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Casado Garcia"]
+[Black "Burgues"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "31ef2b16"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Bd3 h6 10. Ne4 Nd5 11. Ng3 g6 12. O-O Bg7 13. Nc3 Nb4
+14. Be4 f5 15. Nxf5 gxf5 16. Bxf5 Bxf5 17. Qxf5 Qf6 18. Qh5+ Qf7 19. Qd1
+O-O 20. a3 Nd5 21. Ne4 Nb7 22. d3 Nd8 23. c4 Nf4 24. b4 Nde6 25. Ra2 Nd4
+26. Ng3 Qg6 27. f3 Nxd3 28. Be3 a5 29. Ne4 Nxf3+ 30. Rxf3 Qxe4 31. Rg3 Nf4
+32. Qb3 a4 33. Qb2 Ne2+ 0-1
+

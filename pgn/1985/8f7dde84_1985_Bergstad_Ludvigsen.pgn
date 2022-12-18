@@ -1,0 +1,20 @@
+[Event "NOR-ch"]
+[Site "Gausdal"]
+[Date "1985.??.??"]
+[Round "5"]
+[White "Bergstad, Odd Oyvind"]
+[Black "Ludvigsen, Frode"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8f7dde84"]
+[Epoch "Queen"]
+[BlackID "1500228"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 Nbd7 11. Bxe6 fxe6 12. Nxe6 Qb8 13. Nxg7+ Kd8 14. Qd4 Kc8
+15. Rae1 Qc7 16. Nd5 Bxd5 17. exd5 Kb7 18. b3 Rhg8 19. Ne6 Qxc2 20. Rf2 Qe4 21.
+Qxe4 Nxe4 22. Rc2 Rac8 23. Rec1 Rxc2 24. Rxc2 Rc8 25. Rxc8 Kxc8 26. g4 Ndf6 27.
+g5 Nxd5 28. Bc1 Nc5 29. Nd4 Nd3 0-1

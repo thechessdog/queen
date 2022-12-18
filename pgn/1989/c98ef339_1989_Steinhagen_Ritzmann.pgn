@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Steinhagen"]
+[Black "Ritzmann"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c98ef339"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8.
+e5 Ne8 9. exd6 exd6 10. Bf4 d5 11. a5 Nc7 12. Qd2 Re8 13. Rfe1 Nf6 14. Bd3
+Rxe1+ 15. Qxe1 Ne6 16. Be5 Bd7 17. b4 Qf8 18. b5 Re8 19. a6 bxa6 20. bxc6
+Bxc6 21. Rxa6 Nxd4 22. Nxd4 Ng4 23. Nxc6 Nxe5 24. Nxe5 Qb4 25. Ra4 Qc5 26.
+Ne2 Rxe5 27. Qa5 Qe7 28. Kf1 Qb7 29. Rb4 Qe7 30. Rb8+ Bf8 31. g3 Kg7 32.
+Qc3 f6 33. Qc8 Qa3 34. Nf4 1-0
+

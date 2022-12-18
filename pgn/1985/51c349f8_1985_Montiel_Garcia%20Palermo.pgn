@@ -1,0 +1,24 @@
+[Event "Capablanca mem-B"]
+[Site "Capablanca mem-B"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Montiel, Pedro"]
+[Black "Garcia Palermo, Carlos"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "51c349f8"]
+[Epoch "Queen"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Bb5+ Nbd7 6. Nc3 g6 7. Nf3 Bg7 8.
+O-O O-O 9. Bxd7 Qxd7 10. Qb3 b6 11. Ne5 Qd6 12. d4 Bb7 13. Bg5 Bxd5 14. Qa4 Bb7
+15. Rfe1 a6 16. Rad1 b5 17. Qb3 Rac8 18. a3 Bd5 19. Nxd5 Nxd5 20. Bh4 e6 21.
+Bg3 Qd8 22. Nf3 Rc4 23. Be5 f6 24. Bg3 Qd7 25. Qd3 Bh6 26. h4 Rfc8 27. Re2 Rc1
+28. Rde1 Kf7 29. h5 Rxe1+ 30. Rxe1 Qc6 31. Qe4 Ne7 32. hxg6+ hxg6 33. Qe2 Qc4
+34. Qe4 Qd5 35. Qd3 Rc1 36. Rxc1 Bxc1 37. Qc2 Qc4 38. Qb1 Nf5 39. b3 Qc6 40.
+Qa2 Qe4 41. Qa1 Nxg3 42. fxg3 Be3+ 43. Kh2 Qd3 44. Qe1 g5 45. g4 Qh7+ 46. Kg3
+Bf4+ 47. Kf2 Qc2+ 48. Qe2 Bg3+ 49. Kf1 Qc1+ 50. Ne1 Ke7 51. a4 Kd6 52. axb5
+axb5 0-1

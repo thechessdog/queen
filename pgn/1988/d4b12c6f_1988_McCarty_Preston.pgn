@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "McCarthy, John"]
+[Black "Preston, T."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "d4b12c6f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. a3 Bxc3+ 7. bxc3 O-O 8. Nf3
+Qa5 9. Bd2 c4 10. h4 Qa4 11. Kd1 Nbc6 12. h5 f6 13. Bh6 Rf7 14. exf6 Nf5 15.
+Bxg7 e5 16. Qg5 exd4 17. g4 Nxg7 18. h6 d3 19. Rc1 dxc2+ 20. Rxc2 d4 21. cxd4
+Qxa3 22. Bxc4 Qxf3+ 23. Ke1 Qe4+ 24. Re2 Qxg4 25. Re8# 1-0

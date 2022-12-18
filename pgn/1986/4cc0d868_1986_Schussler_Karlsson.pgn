@@ -1,0 +1,26 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schussler, Harry"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "4cc0d868"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. c4 d5 6. O-O O-O 7. Bg5 c6 8. Nc3
+Nbd7 9. Qd3 Ne4 10. Bxe7 Qxe7 11. Rab1 a5 12. a3 b6 13. cxd5 exd5 14. Rbc1 Ba6
+15. Qe3 Rae8 16. Rfe1 Kh8 17. Ne5 Nxe5 18. dxe5 Nc5 19. f4 Bc4 20. Nb1 b5 21.
+Nd2 a4 22. Nf3 Nb3 23. Rcd1 b4 24. axb4 Qxb4 25. Bh3 c5 26. Qf2 d4 27. e4 fxe4
+28. Rxe4 Bd5 29. Ree1 Bxf3 30. Qxf3 c4 31. e6 d3 32. Qd5 Re7 33. Re5 Rc8 34.
+Bf1 Qc5+ 35. Qxc5 Nxc5 36. f5 g6 37. g4 gxf5 38. gxf5 Kg7 39. Rd5 Kf6 40. Rc1
+Nb3 41. Rc3 Nd2 42. Bxd3 Rg8+ 43. Kf2 cxd3 44. Ke3 Nf1+ 45. Kxd3 Nxh2 46. Rc4
+Rg3+ 47. Ke2 Rb7 48. Rc2 Rg2+ 49. Kd1 Ng4 50. Rxg2 Ne3+ 51. Kc1 Nxd5 52. Rg4
+Ra7 53. Rd4 Ne7 54. Rh4 Nxf5 55. e7 Rxe7 0-1

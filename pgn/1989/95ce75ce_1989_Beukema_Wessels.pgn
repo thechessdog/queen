@@ -1,0 +1,17 @@
+[Event "Guernsey op"]
+[Site "Guernsey"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beukema, H."]
+[Black "Wessels, C."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "95ce75ce"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. g4 Qg6 12. Nce4 Bb6 13. f4 d3+ 14. Be3 gxf6
+15. f5 Qh6 16. Bxb6 axb6 17. fxe6 fxg5 18. exf7+ Kd7 19. Qf3 Nd4 20. Nf6+ Kd6
+21. Qd5# 1-0

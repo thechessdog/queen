@@ -1,0 +1,19 @@
+[Event "Le Touquet"]
+[Site "Le Touquet"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Flear, Glenn C"]
+[Black "Jost, Claude"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "bb9be713"]
+[Epoch "Queen"]
+[BlackID "603732"]
+[BlackCountry "FRA"]
+[WhiteID "400165"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Bg5 Ne4 5. Bf4 g5 6. Be5 Rg8 7. Qc2 Qa5+ 8. Nc3
+Nxc3 9. Bxc3 b4 10. Bd2 h6 11. e3 d6 12. Ne2 Nd7 13. Ng3 Nf6 14. Be2 e6 15. O-O
+exd5 16. cxd5 Bd7 17. a3 b3 18. Ne4 Ke7 19. Nxf6 Kxf6 20. Bc3+ 1-0

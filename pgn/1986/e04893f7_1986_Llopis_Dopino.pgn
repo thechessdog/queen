@@ -1,0 +1,20 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Llopis"]
+[Black "Dopino"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "e04893f7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 d6 7. O-O Be7
+8. Qe2 a6 9. Rd1 Bd7 10. a3 Qc7 11. Bf4 Ne5 12. Bxe5 dxe5 13. Rac1 Nf6 14.
+Ba2 Qb8 15. Qe3 h6 16. Rc2 b5 17. Rcd2 b4 18. axb4 Bxb4 19. Ne1 Qc7 20. Nd3
+Ba5 21. Qc5 Qxc5 22. Nxc5 Bb5 23. f3 Ke7 24. Nd3 Nd7 25. Kh1 Rhd8 26. b4
+Bb6 27. Nxb5 axb5 28. Rc2 Rdc8 29. Rxc8 Rxc8 30. Rc1 Rxc1+ 31. Nxc1 Bd4 32.
+Bb1 Kd6 33. Bd3 Kc6 34. Ne2 Nb8 35. Nc1 Bc3 0-1
+

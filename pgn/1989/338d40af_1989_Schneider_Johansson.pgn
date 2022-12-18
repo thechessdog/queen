@@ -1,0 +1,24 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Johansson, Jan"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "338d40af"]
+[Epoch "Queen"]
+[BlackID "1700103"]
+[BlackCountry "SWE"]
+[WhiteID "1700235"]
+[WhiteCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 Nf6 6. O-O O-O 7. a4 a5 8. h3 Na6
+9. Re1 Nb4 10. Bf1 d5 11. e5 Ne8 12. Na2 Nxa2 13. Rxa2 Nc7 14. Be3 b6 15. b3
+Bb7 16. Qd2 Ne6 17. c3 c5 18. Rc2 Qc7 19. Ng5 Nxg5 20. Bxg5 e6 21. h4 Rfc8 22.
+Rcc1 Ba6 23. Bxa6 Rxa6 24. h5 Raa8 25. Qf4 cxd4 26. cxd4 Qd7 27. Rxc8+ Rxc8 28.
+Re3 b5 29. axb5 Qxb5 30. Kh2 Qd7 31. Rf3 Qa7 32. Qg4 Qd7 33. Qf4 Qa7 34. Qh4
+Qd7 35. Be7 Re8 36. Bc5 Rc8 37. h6 Rxc5 38. dxc5 Bxe5+ 39. g3 f5 40. Qa4 Qxa4
+41. bxa4 1-0

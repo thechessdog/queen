@@ -1,0 +1,18 @@
+[Event "Wuppertal II"]
+[Site "Wuppertal II"]
+[Date "1986.10.01"]
+[Round "1"]
+[White "Thiel, Kuno"]
+[Black "Behle, Karl Willi"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "d26f9252"]
+[Epoch "Queen"]
+[WhiteID "4602668"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. e3 e6 5. Bd3 Nbd7 6. O-O Ne4 7. b3 f5 8. Bb2
+Bd6 9. Ne5 O-O 10. f4 Ndf6 11. Nd2 Nxd2 12. Qxd2 Bd7 13. Bc3 Qe7 14. a3 Rfd8
+15. b4 Be8 16. Qb2 Rac8 17. Rac1 b5 18. cxb5 cxb5 19. Bd2 Qb7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Rio Gallegos"]
+[Site "Rio Gallegos"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fabrego, C."]
+[Black "Akopian, Vladimir"]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "87a5f008"]
+[Epoch "Queen"]
+[BlackID "13300032"]
+[BlackCountry "ARM"]
+
+1. d4 d6 2. c4 f5 3. Nc3 Nf6 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O Nc6 8. Rb1
+e5 9. d5 Ne7 10. e4 h6 11. Nd2 f4 12. c5 dxc5 13. Nc4 Ne8 14. gxf4 exf4 15. e5
+Bf5 16. Ra1 g5 17. d6 cxd6 18. exd6 Nc6 19. Qd5+ Kh8 20. Qxc5 Rc8 21. d7 Qxd7
+0-1

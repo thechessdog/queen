@@ -1,0 +1,20 @@
+[Event "Lloyds Bank"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Chandler, Murray G"]
+[Black "Hebden, Mark L"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Keres (9...a5) variation"]
+[HashCode "f3f9003a"]
+[Epoch "Queen"]
+[WhiteID "400050"]
+[WhiteCountry "NZL"]
+[BlackID "400084"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 a5 10. a4 b4 11. d4 bxc3 12. Nxc3 Nxd4 13. Nxd4 exd4 14. Qxd4 Rb8 15.
+Bc4 c6 16. b3 Nd7 17. Ba3 Ne5 18. Qe3 Qb6 1/2-1/2

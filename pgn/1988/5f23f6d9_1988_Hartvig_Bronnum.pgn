@@ -1,0 +1,20 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hartvig, Ove Weiss"]
+[Black "Bronnum, Jan"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "5f23f6d9"]
+[Epoch "Queen"]
+[WhiteID "1402420"]
+[BlackID "1400908"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 b5 8. a4
+b4 9. Nd5 Nxd5 10. Qxd5 Ra7 11. Be3 Be6 12. Qd2 Rd7 13. Qxb4 d5 14. Bc5 Nc6 15.
+Qa3 Qa5+ 0-1

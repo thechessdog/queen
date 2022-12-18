@@ -1,0 +1,18 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Landgraf"]
+[Black "Par"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "74835974"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 Nbd7 7. e4 e5 8.
+a4 a5 9. h3 c6 10. Be3 Qe7 11. Re1 Ne8 12. Qd2 f5 13. exf5 gxf5 14. Bg5 Qf7
+15. dxe5 dxe5 16. Rad1 e4 17. Nd4 Ne5 18. b3 Nc7 19. Bh6 Rd8 20. Qg5 Qf6
+21. Qxg7+ 1/2-1/2
+

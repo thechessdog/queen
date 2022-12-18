@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Melander, B."]
+[Black "Kuczynski, J."]
+[Result "0-1"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "c26f6c7a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. Qb3 Bxf3 7. gxf3 b5
+8. Be2 c5 9. dxc5 Bxc5 10. a4 b4 11. Nd2 Nf6 12. Qc4 Nbd7 13. b3 O-O 14.
+Bb2 Be7 15. Rg1 Rc8 16. Qd3 Nc5 17. Qd4 Qc7 18. Qh4 Qd8 0-1
+

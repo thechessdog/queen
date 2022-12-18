@@ -1,0 +1,18 @@
+[Event "Val Maubuee op"]
+[Site "Val Maubuee"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bonet, H."]
+[Black "Hector, Jonny"]
+[Result "0-1"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system, Bogolyubov variation"]
+[HashCode "060f53b5"]
+[Epoch "Queen"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. c4 c6 2. Nf3 d5 3. b3 Bg4 4. Bb2 Nd7 5. d4 Ngf6 6. Nbd2 Bxf3 7. gxf3 e6 8.
+e3 Bd6 9. cxd5 Nxd5 10. Bc4 Qh4 11. Bxd5 cxd5 12. Qe2 Rc8 13. Qd3 O-O 14. Rc1
+f5 15. Ke2 Nf6 16. h3 Qh5 17. Rxc8 Rxc8 18. Ke1 Bb4 0-1

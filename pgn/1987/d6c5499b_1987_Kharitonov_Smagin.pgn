@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kharitonov, A."]
+[Black "Smagin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[HashCode "d6c5499b"]
+[Epoch "Queen"]
+[BlackID "4100425"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1
+c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. Ne4 exd4 13. Nxf6+ Nxf6 14. Qxd4 Qe7
+15. Rfd1 Be6 16. Qe5 Rfe8 17. Bxe6 Qxe6 18. Qxe6 Rxe6 1/2-1/2

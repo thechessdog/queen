@@ -1,0 +1,22 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Maksimovic, Branimir"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "14d490e5"]
+[Epoch "Queen"]
+[BlackID "901490"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Nd7 11. Bxf6 Nxf6 12. Qd1 Qa5 13. Nf3 Qxc3+ 14. Kf1 Nc6
+15. Qe1 Qb2 16. dxc5 e5 17. Rb1 Qa2 18. Qc1 d4 19. Nd2 Qf7 20. Qb2 Na5 21. Qb5
+b6 22. cxb6 Ng4 23. Nf3 axb6 24. Qxb6 Bb7 25. h3 Nf6 26. Nxe5 Qe7 27. Rb5 Nd5
+28. Qxd4 Rd8 29. Rxa5 Qg5 30. Kg1 Qxg2+ 31. Kxg2 Nf4+ 32. Kh2 Rxd4 33. Rb1 Nxd3
+34. Rxb7 1-0

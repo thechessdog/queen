@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hertweck, M."]
+[Black "Kaulfuss, Helmut"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "9c2123ab"]
+[Epoch "Queen"]
+[BlackID "4606213"]
+[BlackCountry "GER"]
+
+1. d4 Nc6 2. Nf3 d6 3. g3 Bg4 4. Bg2 e5 5. O-O Nf6 6. c4 Be7 7. b3 O-O 8. Bb2
+Nd7 9. dxe5 dxe5 10. Nc3 Re8 11. Nd5 Bc5 12. h3 Bf5 13. Qd2 Nb6 14. Rfd1 f6 15.
+e3 Nb4 16. Nxb4 Qxd2 17. Nxd2 Bxb4 18. Bxb7 Rad8 19. Ne4 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Thaelmann mem"]
+[Site "Ost-Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Azmaiparashvili, Zurab"]
+[Black "Chekhov, Valery A"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "c96dfc4c"]
+[Epoch "Queen"]
+[WhiteID "13601326"]
+[WhiteCountry "GEO"]
+[BlackID "4100859"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. a4 c5 7. O-O Nc6 8. Qe2
+Qc7 9. Nc3 Be7 10. Rd1 O-O 11. Bd3 Rd8 12. dxc5 1/2-1/2

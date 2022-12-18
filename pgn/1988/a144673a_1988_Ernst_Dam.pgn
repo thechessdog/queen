@@ -1,0 +1,23 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1988.02.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Dam, Ruurd"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "a144673a"]
+[Epoch "Queen"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+[BlackID "1001132"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bf6 13. Re1 Bb7 14. d4 c5 15.
+dxc5 Qd7 16. Nd2 Nxc3 17. bxc3 Bxc3 18. Rb1 Rad8 19. Re2 Qc6 20. f3 Qxc5+ 21.
+Kg2 Bxf3+ 22. Kxf3 Rd3+ 23. Kg2 Qc6+ 24. Kg1 Bd4+ 25. Rf2 Bxf2+ 26. Kxf2 Qb6+
+27. Kf1 Qf6+ 28. Ke2 Qf5 29. Qh1 Re8+ 30. Kd1 Rxd2+ 31. Kxd2 Qf2+ 32. Kc3 Rc8+
+33. Kd3 Rd8+ 34. Bd5 Qf5+ 35. Ke2 Qxb1 36. Bd2 Re8+ 37. Kf2 Qd3 0-1

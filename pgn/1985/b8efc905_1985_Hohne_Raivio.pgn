@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hohne, E."]
+[Black "Raivio, P."]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "b8efc905"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 e6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8.
+Qg4 g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Qf4 Nc6 12. Nf3 Qa5 13. dxc5 Qxc5 14.
+Nd4 Nxd4 15. cxd4 Qa5+ 16. c3 b6 17. Qf6 Rg8 18. h4 Ba6 19. Bxg6 Rxg6 20.
+Qh8+ Ke7 21. Qxa8 Qb5 22. Qxa7+ Kf8 23. Qb8+ Kg7 24. Kc1 Qd3 25. Rb1 Qxc3+
+26. Kd1 Bd3 27. Rc1 Qxd4 28. Qd8 Bc4+ 29. Ke1 Qxe5+ 30. Kd2 Qb2+ 31. Rc2
+Qd4+ 32. Kc1 Qa1+ 33. Kd2 Qxh1 34. Qxb6 Qxh4 35. g3 Qe4 36. Qa5 e5 37. a4
+Rf6 0-1
+

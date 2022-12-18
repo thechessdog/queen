@@ -1,0 +1,20 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Klings, Peter"]
+[Black "Degenhardt, Horst"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "11ac23e7"]
+[Epoch "Queen"]
+[BlackID "4601220"]
+[BlackCountry "GER"]
+[WhiteID "4631234"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Qc7 8. Qd2
+Be7 9. O-O-O b5 10. f3 Be6 11. g4 Nbd7 12. h4 Nb6 13. Bxb6 Qxb6 14. Kb1 Rc8 15.
+Bh3 Rc4 16. h5 b4 17. Ne2 a5 1/2-1/2

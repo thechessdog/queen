@@ -1,0 +1,16 @@
+[Event "Nice op"]
+[Site "Nice op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Smet, K."]
+[Black "Guedon"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "77b86d6f"]
+[Epoch "Queen"]
+
+1. d4 e6 2. e4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Nbd7 7. Bd3 c5
+8. c3 Be7 9. O-O b6 10. Ne5 0-1
+

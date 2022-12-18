@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Overmann"]
+[Black "Boehm"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "1dce2004"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. d5 Bb4 5. Ne2 c6 6. a3 Be7 7. dxc6 Qxd1+
+8. Kxd1 Nxc6 9. Nxe4 Nf6 10. Nxf6+ Bxf6 11. Nc3 Bf5 12. Bd2 O-O 13. Bd3
+Bxd3 14. cxd3 Rfd8 15. Ne4 Be7 16. Ke2 Nd4+ 17. Kf1 f5 18. Ng5 Nb3 19. Ke2
+Nxd2 20. Ne6 Nb3 21. Nxd8 Nxa1 22. Rxa1 Rxd8 23. Rc1 Rd7 24. g3 Kf7 25. Ke3
+Bd8 26. Ke2 Rc7 27. Rxc7+ Bxc7 28. f3 Ke6 29. b4 b5 30. g4 fxg4 31. fxg4
+Kd5 32. h4 Bd8 33. g5 g6 34. Ke3 Bb6+ 35. Ke2 Bd4 36. Ke1 Bb2 0-1
+

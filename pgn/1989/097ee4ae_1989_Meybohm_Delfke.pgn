@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meybohm"]
+[Black "Delfke"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "097ee4ae"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 exf4 4. Bxg7 Qh4+ 5. g3 fxg3 6. Bg2 gxh2+ 7. Kf1
+hxg1=Q+ 8. Kxg1 Qg3 9. Bxh8 b6 10. e4 Bc5+ 11. d4 Qe3+ 12. Kf1 Ba6+ 0-1
+

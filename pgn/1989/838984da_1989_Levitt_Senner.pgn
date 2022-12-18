@@ -1,0 +1,20 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Levitt, Jonathan P"]
+[Black "Senner, Peter"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "838984da"]
+[Epoch "Queen"]
+[WhiteID "400220"]
+[WhiteCountry "ENG"]
+[BlackID "4608283"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 d5 9. c5 b6 10. b4 a5 11. b5 bxc5 12. dxc5 Nbd7 13. Be3 Nxc5 14. Bxc5 Qc7
+15. Na4 1-0

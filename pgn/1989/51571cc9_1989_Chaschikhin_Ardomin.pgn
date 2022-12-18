@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chaschikhin, V."]
+[Black "Ardomin, V."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "51571cc9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3 d6
+8. Bxc6 bxc6 9. d4 exd4 10. Nxd4 Kd7 11. Be3 Ba6 12. e5 Bxd4 13. Qxd4 Nd5
+14. Nc3 Nxe3 15. fxe3 Qg5 16. O-O-O Rfe8 17. Ne4 Qxe5 18. Nc5+ Kc8 19. Qg4+
+1-0
+

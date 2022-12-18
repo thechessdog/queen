@@ -1,0 +1,22 @@
+[Event "BL2-S8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wallinger, Manfred"]
+[Black "Jell, Klaus"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "20a1f22e"]
+[Epoch "Queen"]
+[WhiteID "4614216"]
+[BlackID "4607953"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 e5 7. Bd3 Bxc3+ 8. bxc3
+Qa5 9. Ne2 a6 10. Qb3 Nbd7 11. O-O Rb8 12. a4 Qc7 13. Ng3 h5 14. Ra2 h4 15. Nh1
+Nh5 16. g3 Qd8 17. Qd1 hxg3 18. hxg3 g5 19. Rh2 Qf6 20. f4 Nxf4 21. gxf4 Rxh2
+22. Kxh2 exf4 23. Qh5 Ne5 24. Be2 Ke7 25. Rg1 Bg4 26. Rxg4 Rh8 27. Rxg5 Rxh5+
+28. Rxh5 f3 29. Bf1 Qg6 30. Ng3 Ng4+ 31. Kh3 Nf2+ 32. Kh4 Qg4# 0-1

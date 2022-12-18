@@ -1,0 +1,20 @@
+[Event "Peer Gynt"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Haugli, Petter"]
+[Black "Callergard, Robert"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "67f5759a"]
+[Epoch "Queen"]
+[WhiteID "1500104"]
+[BlackID "1700383"]
+[WhiteCountry "NOR"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Re1 d6 6. d4 exd4 7. Nxd4 Bd7 8.
+Nxc6 bxc6 9. Ba4 O-O 10. Nc3 Re8 11. Bf4 Ng4 12. Bg3 Bh4 13. Bb3 Bxg3 14. hxg3
+Qg5 15. Qd4 Qh6 16. f3 c5 0-1

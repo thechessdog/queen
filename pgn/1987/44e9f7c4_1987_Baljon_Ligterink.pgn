@@ -1,0 +1,18 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Baljon, C."]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Fischer variation"]
+[HashCode "44e9f7c4"]
+[Epoch "Queen"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 O-O 8. f4
+Nc6 9. Be3 Nxd4 10. Qxd4 b6 11. O-O-O Bb7 12. h3 Qc7 13. g4 d5 14. exd5 Rfd8
+15. Rh2 exd5 16. Rhd2 Bc5 0-1

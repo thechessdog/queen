@@ -1,0 +1,17 @@
+[Event "corr Hungary"]
+[Site "corr Hungary"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Szenczy, S."]
+[Black "Timar, Zsolt"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "f875f572"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 e4 6. Nh4 Bc5 7. Bg2 d6 8. d3
+exd3 9. O-O dxe2 10. Qxe2+ Ne5 11. Bg5 Bg4 12. Bf3 Be6 13. b4 Nxf3+ 14. Nxf3
+Bb6 15. Rfd1 c5 16. Nxf6+ gxf6 17. Bf4 cxb4 18. Bxd6 Qc8 19. c5 1-0

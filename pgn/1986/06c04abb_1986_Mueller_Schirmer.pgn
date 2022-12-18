@@ -1,0 +1,19 @@
+[Event "corr SGS"]
+[Site "corr SGS"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mueller, F."]
+[Black "Schirmer, M."]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "06c04abb"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. Qa4 Kb8 10. Qc2 h4 11. Nxh4 Nxe5 12. Rd1 Bh3 13. Qe4 Bxg2 14.
+Qxg2 Be7 15. Nhf3 Qe6 16. Nxe5 Qxe5 17. Qf3 f5 18. b4 d3 19. Rb1 dxe2 20.
+Re1 f4 21. Rxe2 Qf5 22. Re4 Qh7 23. Rb3 Qxh2+ 24. Kf1 Qh1+ 25. Qxh1 Rxh1+
+26. Ke2 Rxc1 27. gxf4 Rc2 28. Rd3 Rxd3 29. Kxd3 Rxa2 30. c5 a5 0-1
+

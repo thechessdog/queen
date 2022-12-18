@@ -1,0 +1,20 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Pavlovic, Milos"]
+[Black "Hartung Nielsen, Jens"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "5de0c841"]
+[Epoch "Queen"]
+[WhiteID "900389"]
+[WhiteCountry "SRB"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. Bf4
+Ne4 9. Nbd2 f5 10. Ne5 Nxe5 11. Bxe5 Bd7 12. Nf3 Be8 13. Ne1 Bg6 14. Nd3 Nd6
+15. c5 Nf7 16. b4 Bf6 17. Bxf6 Qxf6 18. Qb2 Bh5 19. f4 g5 20. e3 a6 21. a4 Ra7
+22. b5 axb5 23. axb5 Rfa8 24. Rxa7 Rxa7 25. bxc6 bxc6 26. Qb8+ 1-0

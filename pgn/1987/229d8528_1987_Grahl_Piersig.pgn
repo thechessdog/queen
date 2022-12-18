@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grahl"]
+[Black "Piersig"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "229d8528"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 a5 8. Bg5
+h6 9. Bh4 Na6 10. O-O Qe8 11. Nd2 Nh7 12. a3 Bd7 13. b3 h5 14. f3 Bh6 15.
+Bf2 Qe7 16. Qc2 h4 17. Rfd1 Bf4 18. Rab1 Qg5 19. Kh1 f5 20. b4 axb4 21.
+axb4 Nf6 22. Bd3 Rf7 23. c5 h3 24. g3 Bxd2 25. Qxd2 Qh5 26. Qe2 fxe4 27.
+Nxe4 Nxe4 28. Bxe4 Bf5 29. g4 Bxe4 30. fxe4 Rxf2 31. Qxf2 Qxg4 32. Re1 dxc5
+33. Rb3 Qg2+ 34. Qxg2 hxg2+ 35. Kxg2 Nxb4 36. Rg3 Kg7 37. h4 Kh6 38. Rf1
+Ra2+ 39. Kh3 Re2 40. Rf6 Rxe4 41. d6 cxd6 42. Rgxg6+ Kh7 43. h5 Re3+ 44.
+Kh4 1-0
+

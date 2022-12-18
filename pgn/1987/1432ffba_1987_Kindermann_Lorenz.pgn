@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Lorenz, Sascha"]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "1432ffba"]
+[Epoch "Queen"]
+[BlackID "4602137"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. d3 c6 7. Ba4 Ne7 8.
+f4 d5 9. f5 g6 10. f6 Ng8 11. exd5 b5 12. Qe1+ Kf8 13. b4 Bb6 14. Bb3 cxd5 15.
+Bxd5 Bf5 16. Bxa8 1-0

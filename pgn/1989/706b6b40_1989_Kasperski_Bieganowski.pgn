@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kasperski, S."]
+[Black "Bieganowski, R."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "706b6b40"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O b5 9. Bd3 Bb7 10. Rhe1 b4 11. Nb1 a5 12. Bb5+ Nbd7 13. e5 Ne4 14.
+Bxe7 Qxe7 15. Qf4 d5 16. Rxe4 g5 17. Bxd7+ Kf8 18. Nxe6+ Kg8 19. Nxg5 dxe4
+20. e6 f6 21. Nf7 1-0
+

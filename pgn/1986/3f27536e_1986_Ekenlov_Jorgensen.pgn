@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ekenlov, L."]
+[Black "Jorgensen, P."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "3f27536e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Qe2 Nc5 12. h3 Bf5 13. Ne1 f6 14. exf6
+Bxf6 15. f4 Qd6 16. g4 Rae8 17. Qf3 Nxb3 18. axb3 Bc8 19. Ng2 b4 20. Rd1
+Qc5+ 0-1
+

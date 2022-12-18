@@ -1,0 +1,20 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Braun, Walter"]
+[Black "Herndl, Harald"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "d9226cdb"]
+[Epoch "Queen"]
+[WhiteID "1601059"]
+[BlackID "1600656"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. e4 dxe4 7. Qf4 Qa5 8.
+O-O-O e6 9. Bc4 Nb6 10. Bb3 Nfd5 11. Nxd5 Nxd5 12. Qh4 e3 13. g4 Nc3 14. gxf5
+Nxd1 15. Nh3 Nf2 16. Nxf2 Qd2+ 17. Kb1 Qxf2 18. Qh3 Be7 19. Bxe7 Kxe7 20. Rf1
+e2 0-1

@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nedev, Trajce"]
+[Black "Benderac, Srdjan"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "03543d08"]
+[Epoch "Queen"]
+[BlackID "907928"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd3 Be7 8. f4
+Qc7 9. Qg3 Nbd7 10. O-O-O O-O 11. Be2 b5 12. Bf3 Bb7 13. e5 dxe5 14. fxe5 Nd5
+15. Bxd5 Bxg5+ 16. Qxg5 Bxd5 17. Nxd5 exd5 18. Rhe1 Rac8 19. Rd2 Nc5 20. Nf5
+Ne6 21. Qh4 f6 22. c3 Rcd8 23. Re3 d4 24. Nxd4 Nxd4 25. Rxd4 fxe5 26. Rxd8 Rxd8
+27. Rxe5 Qd6 28. Qe1 Rf8 29. Re8 Qh6+ 30. Qe3 Rxe8 31. Qxh6 gxh6 0-1

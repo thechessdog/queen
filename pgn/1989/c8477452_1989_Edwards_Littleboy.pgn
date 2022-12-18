@@ -1,0 +1,18 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Edwards"]
+[Black "Littleboy"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "c8477452"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 Nf6 7. Qe5+
+Be7 8. Bb5+ Bd7 9. Nxh8 Bxb5 10. Qe6 Nc6 11. Qf7+ Kd7 12. Nc3 Qxh8 13. Nxd5
+Rf8 14. Nxf6+ Qxf6 15. Qd5+ Kc8 16. Qxb5 Qxf2+ 17. Kd1 Qxg2 18. Re1 Nb4 19.
+Qe2 Qxe2+ 0-1
+

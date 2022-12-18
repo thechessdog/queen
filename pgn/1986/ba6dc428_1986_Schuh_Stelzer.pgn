@@ -1,0 +1,27 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schuh, Hubert"]
+[Black "Stelzer, Harald"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "ba6dc428"]
+[Epoch "Queen"]
+[WhiteID "4600894"]
+[BlackID "4625706"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 Ba6 7. Qb3 c6 8. Nc3
+d5 9. cxd5 exd5 10. O-O Nbd7 11. Nh4 O-O 12. Nf5 Qe8 13. Nxe7+ Qxe7 14. Rfe1
+Ne4 15. Nxe4 dxe4 16. Rac1 Bb7 17. a4 Nf6 18. a5 Nd5 19. a6 Bxa6 20. Rxc6 Qd7
+21. Rcc1 Nf6 22. Bf4 Nd5 23. Be5 Rac8 24. Bxe4 Nf6 25. Bf3 Ng4 26. Rxc8 Bxc8
+27. Qc3 Nxe5 28. dxe5 Qe7 29. Bc6 Bd7 30. Bxd7 Qxd7 31. Rc1 Qf5 32. f4 g5 33.
+Qd4 Qg4 34. e3 h6 35. Rc2 a5 36. Kg2 Rc8 37. Rxc8+ Qxc8 38. fxg5 Qc2+ 39. Kf3
+Qxh2 40. Qxb6 Qh5+ 41. Kf2 Qh2+ 42. Kf1 Qh1+ 43. Ke2 Qg2+ 44. Kd3 Qf1+ 45. Ke4
+Qg2+ 46. Kd4 Qd2+ 47. Kc4 hxg5 48. Qd4 Qb4+ 49. Kd5 Qb7+ 50. Kd6 a4 51. Kc5 Qb8
+52. Kc6 Kh7 53. Kd7 Qb7+ 54. Ke8 Qb3 55. Kf8 Kg6 56. Qe4+ f5 57. Qc6+ Kh5 58.
+e6 Qxb2 59. e7 Qb4 60. Kf7 Kg4 61. e8=Q 1-0

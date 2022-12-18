@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Venturino"]
+[Black "Crispino"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "266053e6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O a6 8.
+Qd3 Bf5 9. e4 Bg4 10. Be3 Nd7 11. Qd2 Bxf3 12. Bxf3 e5 13. d5 Nd4 14. Bg2
+c5 15. dxc6 bxc6 16. f4 Qa5 17. Rf2 Nb3 18. axb3 Qxa1+ 19. Rf1 Qa5 20. Qxd6
+Nf6 21. b4 Qd8 22. Qxc6 Qd3 23. Bc5 exf4 0-1
+

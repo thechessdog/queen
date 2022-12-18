@@ -1,0 +1,17 @@
+[Event "Norrkoping"]
+[Site "Norrkoping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lane"]
+[Black "Broberg, KJ."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "c56da35d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 Nf6 3. Nf3 Nxe4 4. Bc4 d5 5. Bb3 a6 6. dxc5 e6 7. Be3 Bxc5
+8. O-O Bxe3 9. fxe3 Bd7 10. Ne5 Qb6 11. Qf3 f6 12. Qh5+ g6 13. Nxg6 Qxe3+
+14. Kh1 Nf2+ 15. Kg1 Nh3+ 16. Kh1 Qg1+ 0-1
+

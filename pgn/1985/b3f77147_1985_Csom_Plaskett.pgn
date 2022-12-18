@@ -1,0 +1,18 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Csom, Istvan"]
+[Black "Plaskett, H James"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "b3f77147"]
+[Epoch "Queen"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackCountry "ENG"]
+
+1. c4 Nf6 2. Nf3 b6 3. d4 e6 4. Nc3 Bb4 5. Bg5 Bb7 6. Nd2 h6 7. Bh4 Qe7 8. a3
+Bxc3 9. bxc3 d6 10. f3 Nbd7 1/2-1/2

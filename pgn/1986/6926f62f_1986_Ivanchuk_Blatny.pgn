@@ -1,0 +1,20 @@
+[Event "Groningen ech-jr"]
+[Site "Groningen ech-jr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Blatny, Pavel"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "6926f62f"]
+[Epoch "Queen"]
+[WhiteID "14100010"]
+[WhiteCountry "UKR"]
+[BlackID "300047"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Bd3
+dxc4 9. Bxc4 Bb7 10. O-O Ne4 11. Bxe7 Qxe7 12. Nxe4 Bxe4 13. Rc1 Qd8 14. Bd3
+Bxd3 15. Qxd3 c5 1/2-1/2

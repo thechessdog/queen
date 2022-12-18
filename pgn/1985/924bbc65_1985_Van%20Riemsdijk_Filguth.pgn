@@ -1,0 +1,20 @@
+[Event "Corrientes zt"]
+[Site "Corrientes zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Filguth, Rubens Alberto"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "924bbc65"]
+[Epoch "Queen"]
+[BlackID "2100070"]
+[BlackCountry "BRA"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 O-O 6. a3 Be7 7. e4 d6 8. f3 c5
+9. d5 e5 10. g4 Ne8 11. Ng3 g6 12. Bh6 Ng7 13. Qd2 Nd7 14. Bd3 Kh8 15. h4 Bxh4
+1-0

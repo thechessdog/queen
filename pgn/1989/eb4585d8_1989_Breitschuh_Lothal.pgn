@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Breitschuh"]
+[Black "Lothal"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "eb4585d8"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nf3 g6 3. d4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 b6 10. O-O cxd4 11. cxd4 Bb7 12. Qd3 f5 13. Ng5 fxe4 14.
+Qh3 Rf6 15. Qxh7+ Kf8 16. Qh3 Qd5 17. Nh7+ Kf7 18. Nxf6 exf6 19. Qb3 Qxb3
+20. axb3 a6 21. Be3 b5 22. Rfc1 Nc6 23. Rb2 Rd8 24. Rbc2 Ne7 25. Rc7 Bc8
+26. Ra7 Rd7 27. Rcc7 Rxc7 28. Rxc7 Be6 29. b4 Bf8 30. Ra7 Bc8 31. d5 Ke8
+32. Bc5 Kd8 33. d6 Nc6 34. Rf7 Bh6 35. Rxf6 1-0
+

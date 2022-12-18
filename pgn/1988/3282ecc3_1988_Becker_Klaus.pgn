@@ -1,0 +1,18 @@
+[Event "Bundeswehr-ch"]
+[Site "Stetten"]
+[Date "1988.??.??"]
+[Round "8"]
+[White "Becker, G."]
+[Black "Klaus, Ingo"]
+[Result "0-1"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation, 4...Bg4"]
+[HashCode "3282ecc3"]
+[Epoch "Queen"]
+[BlackID "4625650"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 Nc6 6. h3 Bxf3 7. Bxf3 e6 8. O-O
+dxe5 9. c4 Nb6 10. dxe5 Qxd1 11. Rxd1 Nxc4 12. Bxc6+ bxc6 13. Bf4 Nxb2 14. Rc1
+Nd3 0-1

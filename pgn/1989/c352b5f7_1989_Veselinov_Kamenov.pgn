@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Veselinov, R."]
+[Black "Kamenov, P."]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, siesta variation"]
+[HashCode "c352b5f7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. d4 e4 8.
+Ng5 d5 9. f3 h6 10. fxe4 hxg5 11. exf5 Bd6 12. Qf3 Kf8 13. Kd1 Qf6 14. Qxd5
+Nge7 15. Qe6 Nd8 16. Qd7 b5 17. Bc2 Rh4 18. Nd2 Nd5 19. Ne4 Rxe4 20. Bxe4
+Nb6 0-1
+

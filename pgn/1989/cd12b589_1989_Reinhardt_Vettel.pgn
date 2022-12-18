@@ -1,0 +1,23 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reinhardt, Bernd"]
+[Black "Vettel, Matthias"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "English variation"]
+[HashCode "cd12b589"]
+[Epoch "Queen"]
+[BlackID "4646916"]
+[BlackCountry "GER"]
+[WhiteID "4606043"]
+[WhiteCountry "GER"]
+
+1. b3 c5 2. Bb2 Nc6 3. g3 d5 4. Bg2 e5 5. e3 h5 6. d3 Bg4 7. Ne2 h4 8. h3 Be6
+9. g4 f5 10. gxf5 Bxf5 11. Nbc3 d4 12. Ne4 Nf6 13. Qd2 Qc7 14. Ng5 Bd6 15.
+O-O-O Rf8 16. f4 O-O-O 17. fxe5 Bxe5 18. Rdf1 Nh5 19. Kb1 g6 20. Nf3 Bf6 21. e4
+Be6 22. Ba3 b6 23. Ng5 Bg8 24. Bf3 Ne5 25. Bxh5 gxh5 26. Bc1 Bg7 27. Qe1 Ng6
+28. Nf3 Be6 29. Bg5 Bf6 30. Bxf6 Rxf6 31. Nxh4 Rxf1 32. Qxf1 Nxh4 33. Qf6 Qf7
+34. Qxh4 Qf3 35. Ng3 Rg8 36. Rf1 Qxg3 37. Rf8+ Kb7 38. Qe7+ Qc7 0-1

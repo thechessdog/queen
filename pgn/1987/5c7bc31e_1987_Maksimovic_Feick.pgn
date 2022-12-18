@@ -1,0 +1,22 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Maksimovic, Branimir"]
+[Black "Feick, Stefan"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "5c7bc31e"]
+[Epoch "Queen"]
+[WhiteID "901490"]
+[WhiteCountry "SRB"]
+[BlackID "4602080"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 g6 8. Bb5+
+c6 9. Bd3 Nxc3 10. bxc3 Bg7 11. h4 h6 12. e4 O-O 13. e5 c5 14. Be3 Nd7 15. Rh3
+Qc7 16. Rc1 Rad8 17. Qe2 Rc8 18. Rg3 Qd8 19. h5 Bxf3 20. gxf3 cxd4 21. cxd4
+Rxc1+ 22. Bxc1 Qh4 23. f4 Rc8 24. Bd2 Qh1+ 25. Qf1 Qd5 26. Qg2 Qxg2 27. Rxg2
+gxh5 28. f5 exf5 29. Bxf5 Rd8 30. Bxh6 1-0

@@ -1,0 +1,22 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Steinsapir"]
+[Black "Tomkowicz"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "f8f31005"]
+[Epoch "Queen"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Qf3 Qxf3 5. Nxf3 Nc6 6. Bg2 Bd7 7. O-O
+O-O-O 8. d3 f6 9. Nc3 e5 10. Ne4 Bf5 11. Be3 Nd4 12. Nxd4 cxd4 13. Bd2 Ne7
+14. f4 exf4 15. Bxf4 Ng6 16. Bd2 Bd7 17. Rae1 Kb8 18. Re2 Rc8 19. Bc1 Be7
+20. h3 h5 21. Bf4+ Nxf4 22. gxf4 Bb4 23. a3 Bf8 24. f5 Re8 25. Ng3 Bd6 26.
+Rxe8+ Bxe8 27. Ne2 Be5 28. Nf4 Ba4 29. Ne6 Bxc2 30. Be4 b6 31. Kh1 Rg8 32.
+Rc1 Bb3 33. Rc6 h4 34. Kg1 Re8 35. Kf2 g5 36. Ke2 Rg8 37. Bf3 g4 38. hxg4
+h3 39. Kf2 h2 40. Rc1 Rh8 41. Bg2 Ba4 42. Be4 Bb5 43. Rf1 Bxd3 44. Bxd3
+h1=Q 45. Rxh1 Rxh1 46. g5 Rh2+ 47. Kf3 Rh3+ 0-1
+

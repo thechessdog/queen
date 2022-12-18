@@ -1,0 +1,18 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Riedel"]
+[Black "Kryjak"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "48bcff5d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8.
+cxd4 Bb4+ 9. Kf2 Nb6 10. Bd3 f5 11. a3 Be7 12. b4 a6 13. Qb3 Bd7 14. Ne2
+Rc8 15. Nd2 a5 16. b5 a4 17. Qa2 Na5 18. Rb1 Nbc4 19. Rd1 O-O 20. Nc3 Nxe5
+0-1
+

@@ -1,0 +1,22 @@
+[Event "Montone"]
+[Site "Montone"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Manca, Federico"]
+[Black "Drei, Andrea"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6029006c"]
+[Epoch "Queen"]
+[WhiteID "800171"]
+[WhiteCountry "ITA"]
+[BlackID "800805"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 cxd4 5. cxd4 g6 6. Ne2 Bg7 7. O-O O-O 8. Nd2
+b6 9. f4 e5 10. Nf3 exd4 11. Nfxd4 Bb7 12. Nc3 Re8 13. f5 Nxe4 14. Bxe4 Bxe4
+15. Nxe4 Rxe4 16. Nf3 Nd7 17. Ng5 Re7 18. fxg6 hxg6 19. Nxf7 Rxf7 20. Rxf7 Kxf7
+21. Qd5+ Ke7 22. Bg5+ Bf6 23. Rf1 Rc8 24. Qd4 Kf7 25. g4 Rc5 26. h4 Qe7 27.
+Bxf6 Nxf6 28. g5 Rf5 29. Rxf5 gxf5 30. gxf6 Qe1+ 1-0

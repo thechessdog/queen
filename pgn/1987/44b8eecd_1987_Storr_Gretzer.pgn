@@ -1,0 +1,17 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Storr"]
+[Black "Gretzer, M."]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "44b8eecd"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 dxc4 5. Bg5 Be7 6. e3 O-O 7. Bxc4 b6 8.
+O-O Bb7 9. Rc1 Nbd7 10. a3 c5 11. Ba2 Rc8 12. dxc5 Rxc5 13. Bh4 Rh5 14. Bg3
+Qa8 15. Qe2 g5 16. Ne5 Nxe5 17. Bxe5 Bxg2 18. Bxf6 Bf3 19. Bd5 Qb8 0-1
+

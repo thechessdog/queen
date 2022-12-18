@@ -1,0 +1,19 @@
+[Event "corr Pider mem"]
+[Site "corr Pider mem"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Garmendia"]
+[Black "Cella"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "3e8566e6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bg5 Na6 7. a3 Bxc3+
+8. Qxc3 Nxc5 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. f3 a5 12. e4 Ra6 13. O-O-O Rd8
+14. Ne2 a4 15. Nc3 d6 16. f4 Bd7 17. Be2 Kf8 18. Rhe1 Ke7 19. Bd3 Ra5 20.
+Bc2 Rc8 21. Re3 Na6 22. Rh3 Rxc4 23. Rxh7 Rc8 24. Rh3 Rg8 25. Rd2 Nc5 26.
+Re3 Raa8 27. Kd1 Rab8 28. Ke1 1/2-1/2
+

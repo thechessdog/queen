@@ -1,0 +1,18 @@
+[Event "Almeria"]
+[Site "Almeria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rivas Pastor, Manuel"]
+[Black "San Segundo, Pablo"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "11bf2ea2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. e5 Ne7 6. Na3 Ba6 7. b3 Ng6 8. d3
+Be7 9. Bb2 f6 10. O-O O-O 11. Nc4 Bxc4 12. dxc4 fxe5 13. Nxe5 Nxe5 14. Bxe5 d6
+15. Bg3 Bf6 16. Qxd6 Bxa1 17. Qxe6+ Kh8 18. Rxa1 Qd2 19. Qxc6 Rfc8 20. Qb7 a5
+21. h3 Qxc2 22. Re1 Qxa2 23. Kh2 Re8 24. Rxe8+ Rxe8 25. Be5 Rg8 26. f4 a4 27.
+bxa4 Qxa4 28. Qf7 Qa8 29. f5 Qf8 30. Qd7 Qa8 31. f6 h5 32. f7 1-0

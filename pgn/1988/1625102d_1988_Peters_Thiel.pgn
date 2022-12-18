@@ -1,0 +1,22 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Peters, John A"]
+[Black "Thiel, Kuno"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "1625102d"]
+[Epoch "Queen"]
+[BlackID "4602668"]
+[BlackCountry "GER"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. Be3
+Be7 9. O-O-O Nc6 10. Rg1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Ng4 14. Nd5
+Bg5+ 15. Kb1 Qd6 16. h3 Bf4 17. Nxf4 exf4 18. Qf3 Nh2 19. Bxg7 Nxf3 20. Rxd6
+Nxg1 21. Bxh8 f3 22. gxf3 Nxf3 23. Bf6 Be6 24. Rd3 Nh2 25. Be2 Bc4 26. Rg3 Bxe2
+27. Rg8+ Kd7 28. Rxa8 Bf3 29. Be5 Nf1 30. Bf4 Bxe4 31. Rg8 Bg6 32. Kc1 Ke6 33.
+Re8+ Kf5 34. Bb8 1-0

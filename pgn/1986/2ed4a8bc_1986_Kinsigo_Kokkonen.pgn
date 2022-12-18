@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kinsigo, M."]
+[Black "Kokkonen, E."]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "2ed4a8bc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O
+8. h3 Nc6 9. Be3 Bd7 10. Re1 Re8 11. Qd2 Rc8 12. Bb3 Na5 13. Rad1 Nxb3 14.
+Nxb3 Qc7 15. Bd4 Bc6 16. Qd3 b6 17. Rd2 Qb7 18. f3 Bd7 19. f4 e5 20. Be3
+exf4 21. Bxf4 d5 22. exd5 Bf5 23. Qf3 Be4 24. Qe3 Nh5 25. Nb5 Nxf4 26. Nd6
+Nxg2 27. Rxg2 Qc7 28. Nxe8 Rxe8 29. Rge2 Be5 30. c3 Bf4 31. Qd4 Bh2+ 32.
+Kf1 Qg3 0-1
+

@@ -1,0 +1,17 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "1"]
+[White "Karsa, L."]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "c4c5721d"]
+[Epoch "Queen"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. c3 d6 6. d4 Bd7 7. O-O Bg7 8. Re1
+Nf6 9. h3 O-O 10. Nbd2 Qe8 11. dxe5 Nxe5 12. Bxd7 Qxd7 13. Nxe5 1/2-1/2

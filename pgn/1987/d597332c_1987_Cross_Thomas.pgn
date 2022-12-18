@@ -1,0 +1,20 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cross"]
+[Black "Thomas"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "d597332c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Nc3
+Qxg2 8. Qf3 Qxf3 9. Nxf3 Bd7 10. O-O Bd6 11. d3 Nb4 12. Bxd7+ Nxd7 13. Ne1
+O-O 14. a3 Nc6 15. Nf3 f5 16. Re1 h6 17. Bd2 Rae8 18. Kg2 Re6 19. Kh1 e4
+20. Nb5 Ref6 21. Ng1 Nde5 22. Bc3 Rg6 23. Nxd6 cxd6 24. d4 Ng4 25. Re2 Nf6
+26. f3 d5 27. Rf1 Nh5 28. fxe4 fxe4 29. Rxf8+ Kxf8 30. Bb4+ Nxb4 31. axb4
+Rc6 32. Rf2+ Ke7 33. c3 Rf6 34. Rxf6 gxf6 35. Ne2 Ke6 36. b3 f5 37. c4 0-1
+

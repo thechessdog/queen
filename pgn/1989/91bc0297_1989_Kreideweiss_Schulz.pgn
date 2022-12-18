@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kreideweiss"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "91bc0297"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 Nc6 7. c3 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 Be7 13. Bc3 O-O 14. Qd3
+Rfc8 15. Rac1 Rc7 16. Re2 Nb4 17. Qb1 Rac8 18. a3 Qb5 19. Re3 Nc6 20. Bd2 Na5
+21. Rxc7 Rxc7 22. Qd3 Nc4 23. Bc3 Qb3 24. Nd2 Qd1+ 25. Qf1 Nxe3 26. fxe3 Qxf1+
+27. Kxf1 Bxa3 28. Ke2 Be7 29. e4 dxe4 30. Nxe4 f5 31. Nd2 b5 0-1

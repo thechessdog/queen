@@ -1,0 +1,18 @@
+[Event "Haninge"]
+[Site "Haninge"]
+[Date "1989.05.01"]
+[Round "1"]
+[White "Smyslov, Vasily"]
+[Black "Wilder, Michael"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "f6c10642"]
+[Epoch "Queen"]
+[BlackID "2000130"]
+[BlackCountry "USA"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Bd2 Bb7 6. e3 O-O 7. Bd3 d5 8. O-O
+dxc4 9. Bxc4 c5 10. Qe2 Nc6 1/2-1/2

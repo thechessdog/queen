@@ -1,0 +1,15 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Taylor"]
+[Black "Angermann"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "5c922859"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 e5 5. Bc4 Nf6 6. Ng5 Bg4 7. Qb3 1-0
+

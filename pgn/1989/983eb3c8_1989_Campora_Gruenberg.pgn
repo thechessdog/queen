@@ -1,0 +1,20 @@
+[Event "Moscow-A"]
+[Site "Moscow"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Campora, Daniel H."]
+[Black "Gruenberg, Hans-Ulrich"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "983eb3c8"]
+[Epoch "Queen"]
+[BlackID "4611306"]
+[BlackCountry "GER"]
+[WhiteID "100013"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. d3 e6 7. O-O Be7 8.
+Nc3 O-O 9. Ne1 a6 10. f4 Nc6 11. Kh1 Rab8 12. a4 Ne8 13. Nf3 Nc7 14. d4 cxd4
+15. Nxd4 1/2-1/2

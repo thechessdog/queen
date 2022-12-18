@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Videki, Sandor"]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "774e5541"]
+[Epoch "Queen"]
+[WhiteID "700479"]
+[WhiteCountry "HUN"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 e6 4. Nc3 d5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. Nxd5 Qxd5 10. e4 1/2-1/2

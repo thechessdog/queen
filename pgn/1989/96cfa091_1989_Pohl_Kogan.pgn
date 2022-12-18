@@ -1,0 +1,23 @@
+[Event "LOTS"]
+[Site "LOTS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pohl"]
+[Black "Kogan"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "96cfa091"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bd3 c5 7. Nf3 cxd4
+8. Nxd4 O-O 9. O-O Nbd7 10. Ne4 Ne5 11. Nxf6+ Qxf6 12. Be4 Ng6 13. Be3 Qe7
+14. c3 Bd6 15. Qh5 Bd7 16. Rae1 f5 17. Bc2 Rae8 18. f4 a6 19. g3 Bc8 20.
+Bf2 Qf6 21. Bb3 Nh8 22. Re2 Nf7 23. Rfe1 Nd8 24. Qg5 Qf7 25. Qxd8 Rxd8 26.
+Nxe6 Bxe6 27. Bxe6 Rc8 28. Bd4 Rfd8 29. Kg2 b5 30. a3 Rd7 31. Bxf7+ Kxf7
+32. Kf3 a5 33. h3 b4 34. axb4 axb4 35. Ra1 Bc5 36. Ra5 Bxd4 37. cxd4 g6 38.
+d5 Rc4 39. Rd2 h5 40. d6 Rc6 41. Rad5 Ke6 42. Ke3 Rc1 43. Re5+ Kf7 44. Rb5
+Re1+ 45. Kf3 Re4 46. g4 hxg4+ 47. hxg4 Ke6 48. gxf5+ gxf5 49. Rxf5 Rc4 50.
+Re5+ Kf7 51. Re4 1-0
+

@@ -1,0 +1,23 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brzozka, Stefan"]
+[Black "Trapl, Jindrich"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "55405992"]
+[Epoch "Queen"]
+[BlackCountry "CZE"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. Ne2 b5 8. Be3
+Qa5+ 9. Qd2 b4 10. dxc5 Ba6 11. Nc1 Bc4 12. Nb3 Bxb3 13. cxb3 Bxc5 14. Bd3 Qb6
+15. Ke2 O-O 16. Rhc1 Rac8 17. Rc2 f6 18. exf6 Rxf6 19. Rac1 d4 20. Bf2 e5 21.
+Ng5 exf4 22. Kf1 Nce5 23. Bxd4 f3 24. Nxf3 Nxf3 25. gxf3 Rxf3+ 26. Kg2 Qc6 27.
+Bc4+ Kh8 28. Bd5 Qg6+ 29. Kh1 Rd3 30. Qg2 Qxg2+ 31. Bxg2 Rxd4 32. Bh3 Rd8 33.
+Bxd7 Bb6 34. Bb5 g5 35. Re1 Kg7 36. h3 Kg6 37. Kg2 Rd2+ 38. Rxd2 Rxd2+ 39. Re2
+Rd6 40. a3 Kf5 41. Kf3 h5 42. axb4 Rd1 43. Re8 Rh1 44. Bd7+ Kf6 45. Re6+ Kf7
+46. Re2 Rf1+ 47. Kg2 Rg1+ 48. Kf3 Rf1+ 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dombrowski"]
+[Black "Shneider, Aleksandr"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "5cdb2630"]
+[Epoch "Queen"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Be3 Bb4+ 7. Nc3 Qh4+ 8.
+g3 Bxc3+ 9. bxc3 Qe7 0-1

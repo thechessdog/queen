@@ -1,0 +1,18 @@
+[Event "corr ch3-USA"]
+[Site "corr ch3-USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Garfinkel"]
+[Black "Contoski"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "2e0fa0ea"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Ba5 7. dxc5 dxc4 8.
+Qxd8+ Kxd8 9. Bd2 e5 10. O-O-O Nc6 11. Ng3 Be6 12. Nb5 Ke7 13. Nd6 Bxd2+
+14. Rxd2 Na5 15. Rc2 Rhd8 16. Bxc4 Bxc4 17. Nxc4 Nb3+ 18. Kb1 Rd5 19. Ka2
+Nxc5 20. e4 Ncxe4 21. Re1 Nd6 22. Rxe5+ Rxe5 23. Nxe5 Rc8 24. Rxc8 1/2-1/2
+

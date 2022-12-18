@@ -1,0 +1,20 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Belotti"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b510f5f4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Bxc3+ 6. bxc3 Nc6 7. Ne2 d6
+8. O-O e5 9. Qc2 Qe7 10. Ng3 h5 11. dxc5 dxc5 12. Ne4 Ng4 13. f3 Nh6 14.
+Ba3 b6 15. Rad1 f5 16. Ng3 g6 17. f4 h4 18. Ne4 Nf7 19. Nf2 Bb7 20. e4
+O-O-O 21. exf5 gxf5 22. Bxf5+ Kb8 23. Be4 Rdg8 24. Nh3 Na5 25. Bd5 Nxc4 26.
+Bxc4 Rxg2+ 27. Qxg2 Bxg2 28. Kxg2 exf4 29. Rxf4 Ne5 30. Bd5 Ng4 31. Rxg4
+Qe2+ 32. Nf2 Rf8 33. Kh1 Rxf2 34. Rg8+ Kc7 35. Rg7+ Kb8 1/2-1/2
+

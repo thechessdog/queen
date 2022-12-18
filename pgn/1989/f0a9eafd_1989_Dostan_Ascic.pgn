@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dostan, Janos"]
+[Black "Ascic, Ante"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f0a9eafd"]
+[Epoch "Queen"]
+[WhiteID "725080"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O a6 5. Bxc6 dxc6 6. Re1 g5 7. d3 g4 8. Nfd2
+e5 9. Nc4 Qc7 10. Bd2 b6 11. Nxe5 Bg7 12. Nxg4 h5 13. Ne3 Bxb2 14. Bc3 Bxa1 15.
+Bxa1 Rh7 16. Nc4 b5 17. Be5 Qe7 18. Nd6+ Kf8 19. d4 Nf6 20. Bf4 c4 21. Qd2 Be6
+22. e5 Nd5 23. Bg5 f6 24. Bh4 Qd7 25. Nc3 fxe5 26. Nce4 c3 27. Qg5 Qg7 28. Nc5
+Bg4 29. dxe5 Re8 30. Nxe8 Qxg5 31. Bxg5 Kxe8 32. e6 Bf5 33. Re2 a5 34. Nb3 a4
+35. Nd4 Bg6 36. Nxc6 b4 37. Re5 Nc7 38. Nxb4 Kf8 39. f4 1-0

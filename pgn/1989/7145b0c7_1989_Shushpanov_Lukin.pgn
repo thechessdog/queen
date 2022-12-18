@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shushpanov"]
+[Black "Lukin, Andrei M"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "7145b0c7"]
+[Epoch "Queen"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. a4 d5 8. e5 Ne4
+9. Nxe4 dxe4 10. Ng5 c5 11. dxc5 Qc7 12. Bc4 Nc6 13. Nxe4 Nxe5 14. Ba2 Bf5 15.
+Nc3 Rad8 16. Qe2 Qc6 17. f3 Nd7 18. Qc4 Be6 19. Nd5 Bxd5 20. Qxd5 Qxd5 21. Bxd5
+Nxc5 22. Bxc5 Rxd5 23. Ba3 Rfd8 24. O-O e6 25. c3 Rd2 26. Rae1 Bf6 27. Re4 Rc2
+28. Kh2 Rdd2 29. Rg1 h5 30. h4 Bd8 31. Rb4 Be7 32. Rxb7 Bxh4 33. Be7 Bxe7 34.
+Rxe7 Rxb2 35. Ra7 Rd6 36. c4 Rc2 37. Rb1 Rdd2 38. Rbb7 Rxg2+ 39. Kh3 g5 40. f4
+Rgf2 41. fxg5 Rf3+ 0-1

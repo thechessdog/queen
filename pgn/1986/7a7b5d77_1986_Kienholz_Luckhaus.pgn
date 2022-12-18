@@ -1,0 +1,16 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kienholz, Gerfried"]
+[Black "Luckhaus, Christoph"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "7a7b5d77"]
+[Epoch "Queen"]
+
+1. b4 c6 2. Bb2 a5 3. a3 Qb6 4. c4 axb4 5. c5 Qa5 6. axb4 Qxb4 7. Rxa8 Qxb2
+8. Rxb8 Kd8 9. Rxc8+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Ingolstadt op"]
+[Site "Ingelstadt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Salvermoser, Bernd"]
+[Black "Kretschel, Klaus"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "4efb00e3"]
+[Epoch "Queen"]
+[BlackID "4653475"]
+[BlackCountry "GER"]
+[WhiteID "4601491"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 Bf5 3. Qb3 Nc6 4. cxd5 Na5 5. Qb5+ c6 6. dxc6 Nxc6 7. Qxf5 Nxd4
+8. Qd3 1-0

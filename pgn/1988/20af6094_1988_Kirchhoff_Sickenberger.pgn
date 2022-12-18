@@ -1,0 +1,22 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kirchhoff, Hartmut"]
+[Black "Sickenberger, Manfred"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "20af6094"]
+[Epoch "Queen"]
+[WhiteID "12968102"]
+[WhiteCountry "GER"]
+[BlackID "16217039"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+d6 9. Nf3 O-O 10. O-O Nbd7 11. h3 Qc7 12. Re1 Nb6 13. Qc2 Nbxd5 14. Nxd5 Nxd5
+15. Bd2 Rab8 16. Rab1 Nb4 17. Bxb4 Rxb4 18. b3 Bb7 19. Nd2 Bxg2 20. Kxg2 Ra8
+21. e4 Qa7 22. a4 Rab8 23. Nc4 Qb7 24. Na5 Qa6 25. Nc4 Qb7 26. Na5 Qa8 27. Nc4
+f5 28. f3 fxe4 29. Rxe4 d5 30. Rxe7 dxc4 31. Qe2 Rf8 32. Re1 Qc6 33. bxc4 Rxa4
+34. Re6 Qa8 35. Qd3 Ra3 0-1

@@ -1,0 +1,18 @@
+[Event "FRA-chB"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roos, Michel"]
+[Black "Cordier, Francois"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "43786b99"]
+[Epoch "Queen"]
+[BlackID "608513"]
+[BlackCountry "FRA"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+e5 9. d5 Nd4 10. Nge2 c5 11. dxc6 Nxc6 12. Qxd6 Be6 13. Qxd8 Rfxd8 14. Nd5 b5
+15. Nec3 Rac8 16. Kb1 bxc4 17. Bxc4 Nd4 18. Ne7+ 1-0

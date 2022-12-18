@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maus, Siegfried"]
+[Black "Pieper_Emden, Carst"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "35855e93"]
+[Epoch "Queen"]
+[WhiteID "4603273"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Bc5 10. c3 O-O 11. Be3 Bxe3 12. Qxe3 f6 13. exf6 Qxf6 14. Nbd2 Nxd2
+15. Qxd2 Kh8 16. Rae1 Bg8 17. Qe3 Rad8 18. Nd4 Na5 19. Qe7 Qxe7 20. Rxe7 c5 21.
+Nf3 Nxb3 22. axb3 d4 23. cxd4 cxd4 24. b4 d3 25. Rd1 Rf4 26. Ne5 d2 27. g3 Re4
+28. Kf1 Bc4+ 29. Kg2 Rxe5 30. Rxe5 Bb3 0-1

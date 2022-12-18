@@ -1,0 +1,20 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "8a4ad720"]
+[Epoch "Queen"]
+[WhiteID "11600039"]
+[WhiteCountry "LAT"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. e3 Bb7 6. Bd3 O-O 7. O-O c5 8. Na4
+cxd4 9. exd4 Re8 10. Bg5 Be7 11. Rc1 d6 12. Re1 Nbd7 13. Nc3 Rc8 14. a3 h6 15.
+Bf4 d5 16. Ne5 dxc4 17. Nxc4 Nd5 18. Nxd5 Bxd5 1/2-1/2

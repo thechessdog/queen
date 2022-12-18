@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "McKone, Peter"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "13960c7e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. b3 f5 2. Bb2 Nf6 3. c4 e6 4. Nc3 Be7 5. g3 O-O 6. Bg2 d6 7. Nf3 c6 8. O-O
+Qe8 9. d3 e5 10. e4 Qg6 11. exf5 Bxf5 12. Nh4 Qg5 13. Bf3 Bh3 14. Bc1 1-0

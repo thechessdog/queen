@@ -1,0 +1,21 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pieterse, Gert"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "0464aca3"]
+[Epoch "Queen"]
+[WhiteID "1000357"]
+[WhiteCountry "NED"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. Nc3 axb5 7. d6 Qa5 8. e3
+Ne4 9. Bd2 Nxd6 10. Nxb5 Qb6 11. Bc3 Nxb5 12. Bxh8 f6 13. Qb3 Qa5+ 14. Nd2 Nd6
+15. Qg8 Ne4 16. Rd1 Nxd2 17. Rxd2 d5 18. Bg7 Nd7 19. Bxf8 Nxf8 20. Qxd5 Be6 21.
+Qc6+ Kf7 22. Qb5 Qxa2 23. Be2 Nd7 24. Rxd7 Bxd7 25. Qxd7 Rb8 26. O-O Rxb2 27.
+Bb5 1-0

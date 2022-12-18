@@ -1,0 +1,23 @@
+[Event "Noviki"]
+[Site "Budapest"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Szalanczy, Emil"]
+[Black "Karolyi, Tibor"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "6d6d08fd"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[WhiteCountry "HUN"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. d5 Bc8 15.
+Re3 Bd7 16. Rc3 Qb8 17. b4 Nb7 18. Bb2 Rc8 19. Rxc8+ Qxc8 20. Rc1 Bd8 21. Bb3
+Qb8 22. Rc6 Bc7 23. Rc3 Bb6 24. Rd3 Qa7 25. Qf1 Nh5 26. Bxe5 dxe5 27. Nxe5 Nd8
+28. Rf3 Bd4 29. Nxd7 Qxd7 30. g4 Nf6 31. Qd3 Qa7 32. e5 Bxe5 33. Qf5 Qc7 34.
+Ne4 Ne8 35. d6 Bxd6 0-1

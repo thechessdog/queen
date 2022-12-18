@@ -1,0 +1,18 @@
+[Event "Elekes mem"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schoen, Wolfram"]
+[Black "Zsinka, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "e5d04e1c"]
+[Epoch "Queen"]
+[WhiteID "4600703"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 c5 8. Bd3
+cxd4 9. exd4 Bxf3 10. Qxf3 Nc6 11. Qe3 O-O 12. O-O Be7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schuchardt, G."]
+[Black "Kural, S."]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "363ad6db"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Nge7 6. Bd3 cxd4 7. cxd4 Nf5 8.
+Be3 Be7 9. Nc3 O-O 10. O-O Nxe3 11. fxe3 f5 12. exf6 Bxf6 13. Ne2 e5 14.
+dxe5 Nxe5 15. Nxe5 Bxe5 16. Rxf8+ Qxf8 17. Nf4 Bxf4 18. exf4 Bf5 19. Rc1
+Qf7 20. Bxf5 1/2-1/2
+

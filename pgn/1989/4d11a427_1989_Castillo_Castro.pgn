@@ -1,0 +1,18 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Castillo, Jose"]
+[Black "Castro, Jose"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "4d11a427"]
+[Epoch "Queen"]
+[WhiteID "6100058"]
+[WhiteCountry "NCA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Bb4+ 5. Bd2 Nc6 6. Bxb4 Nxb4 7. a3 Nc6 8.
+Nbd2 Bg4 9. h3 Bxf3 10. Nxf3 Qe7 11. Nxd4 O-O-O 12. e3 Nxe5 13. Qc2 Rxd4 14.
+exd4 Nf3+ 0-1

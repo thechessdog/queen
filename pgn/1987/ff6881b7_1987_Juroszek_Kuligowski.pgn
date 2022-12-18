@@ -1,0 +1,23 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Juroszek, Tadeusz"]
+[Black "Kuligowski, Adam"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ff6881b7"]
+[Epoch "Queen"]
+[WhiteID "1100300"]
+[BlackID "1100092"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 g6 12. f3 Nbd7 13. Rad1 Ne5 14. Bg5 h6 15.
+Qh4 Nh5 16. Bxe7 Qxe7 17. Qxe7+ Kxe7 18. f4 Ng4 19. Nc6+ Kd7 20. Ne5+ Nxe5 21.
+fxe5 Rf8 22. exd6 Bb7 23. e5 Rac8 24. Rd4 Rc5 25. g4 Ng7 26. Rdf4 f5 27. exf6
+Ne8 28. a4 Nxd6 29. axb5 axb5 30. Rd4 e5 31. Rd2 e4 32. f7 e3 33. Rd3 b4 34.
+Ne2 Kc6 35. Rf6 1-0

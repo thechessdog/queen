@@ -1,0 +1,18 @@
+[Event "Liechtenstein"]
+[Site "Liechtenstein"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Schmittdiel, Eckhard"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "614cc6ed"]
+[Epoch "Queen"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. g3 O-O 6. Bg2 b6 7. O-O Nc6 8. dxc5
+bxc5 9. Na4 Ba6 10. b3 Ne4 11. Ne5 Nxe5 12. Bxe4 d5 13. Bg2 Rc8 14. Bb2 Ng6 15.
+cxd5 exd5 16. a3 Ba5 17. Nxc5 1-0

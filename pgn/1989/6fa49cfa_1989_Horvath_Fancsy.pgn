@@ -1,0 +1,22 @@
+[Event "Szekszard op"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Horvath, Tamas"]
+[Black "Fancsy, Imre"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6fa49cfa"]
+[Epoch "Queen"]
+[BlackID "701327"]
+[BlackCountry "HUN"]
+[WhiteID "700185"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. cxd4 g6 10. Nc3 Bg7 11. Be3 O-O 12. O-O Bg4 13. h3 Bxf3 14. Qxf3 Qf6
+15. Qe4 Rfd8 16. Rfd1 e6 17. d5 exd5 18. Nxd5 Nxd5 19. Bxd5 Rd7 20. Rd2 Rad8
+21. Rad1 a5 22. b3 h5 23. h4 Nb4 24. Bg5 Rxd5 25. Bxf6 Rxd2 26. Rxd2 Rxd2 27.
+Qe8+ Bf8 28. Be7 Rd1+ 29. Kh2 Re1 30. Qxf8+ 1-0

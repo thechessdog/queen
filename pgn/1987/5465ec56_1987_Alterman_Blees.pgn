@@ -1,0 +1,20 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Alterman, Vladimir I"]
+[Black "Blees, Albert"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5465ec56"]
+[Epoch "Queen"]
+[WhiteID "2800225"]
+[BlackID "1000217"]
+[WhiteCountry "ISR"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Rb1 Qe7 8. Bd2
+O-O 9. b4 cxb4 10. axb4 Bxb4 11. Rxb4 Qxb4 12. Nd5 Qa3 13. Bb4 Qb2 14. Bc3 Qa3
+15. Bb4 1/2-1/2

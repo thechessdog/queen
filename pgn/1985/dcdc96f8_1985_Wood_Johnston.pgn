@@ -1,0 +1,17 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wood, Gabriel"]
+[Black "Johnston, T."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "dcdc96f8"]
+[Epoch "Queen"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Qe2 Bc5 7. h3 d6 8. Bd2
+O-O 9. Nc3 Kh8 10. Bc4 Qe7 11. Na4 Bxf2+ 12. Kxf2 Nd4 13. Qd3 b5 14. Bxb5 d5
+15. exd5 Nh5 16. Bg5 Qxg5 17. Ke1 Qxg2 0-1

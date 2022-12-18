@@ -1,0 +1,18 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaposztas, Miklos"]
+[Black "Luther, Thomas"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "620400af"]
+[Epoch "Queen"]
+[WhiteID "700711"]
+[WhiteCountry "HUN"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d6 6. g3 b6 7. Bg2 Bb7 8. O-O
+Bxc3 9. Qxc3 a5 10. b3 Nbd7 11. Bb2 Qe7 12. Rad1 Rfe8 13. Rfe1 Rad8 14. Qc1 Ba8
+15. Qa1 Be4 16. Rd2 Ra8 17. Qc1 Nf8 18. Ba3 h6 19. Red1 Ng6 20. Bb2 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fritsch, Rolf"]
+[Black "Keller, Manfred"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "5843d583"]
+[Epoch "Queen"]
+[WhiteID "4607910"]
+[BlackID "4607368"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Ne5 Nc6 10. Rd1 Nb4 11. Qxc4 Bxa4 12. Rxa4 b5 13. Nc6 Nxc6 14. Qxc6 bxa4
+15. Qxa8 Qxa8 16. Bxa8 Rxa8 17. Nc3 a3 18. bxa3 Rb8 19. a4 1/2-1/2

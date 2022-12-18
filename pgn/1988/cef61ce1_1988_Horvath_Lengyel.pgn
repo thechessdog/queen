@@ -1,0 +1,19 @@
+[Event "Compack"]
+[Site "Budapest"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Horvath, Gyula"]
+[Black "Lengyel, Levente"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "cef61ce1"]
+[Epoch "Queen"]
+[WhiteID "700223"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3 g6 8.
+Nf3 Bg7 9. O-O O-O 10. Bf4 Bg4 11. h3 Bxf3 12. Qxf3 Nd5 13. Bg3 Qb6 14. Rab1 e6
+15. Rfe1 Rad8 1/2-1/2

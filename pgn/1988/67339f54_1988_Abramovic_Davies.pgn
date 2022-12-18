@@ -1,0 +1,18 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1988.04.01"]
+[Round "1"]
+[White "Abramovic, Bosko"]
+[Black "Davies, Nigel R"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "67339f54"]
+[Epoch "Queen"]
+[WhiteID "900206"]
+[WhiteCountry "SRB"]
+
+1. e4 g6 2. d4 d6 3. Nf3 Bg7 4. Be2 Nf6 5. Nc3 c5 6. d5 Bd7 7. O-O b5 8. e5
+dxe5 9. Bxb5 Bxb5 10. Nxb5 e4 11. d6 O-O 12. Ne5 a6 13. Nc7 Ra7 14. Nc4 exd6
+1/2-1/2

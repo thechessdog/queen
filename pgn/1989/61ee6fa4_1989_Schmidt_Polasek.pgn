@@ -1,0 +1,20 @@
+[Event "Bohemians"]
+[Site "Bohemians"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Polasek, Jaroslav"]
+[Result "1-0"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "61ee6fa4"]
+[Epoch "Queen"]
+[BlackID "300411"]
+[BlackCountry "CZE"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. b3
+Qh5 9. Bb2 Nbd7 10. Ne1 e5 11. Nd3 f4 12. e3 fxg3 13. fxg3 Qh6 14. Qe2 c6 15.
+Nf2 Re8 16. d5 c5 17. Nb5 Rf8 18. Nc7 Rb8 19. Bh3 e4 20. Ne6 Re8 21. Bg2 Nf8
+22. Nxe4 Nxe6 23. Nxf6+ Bxf6 24. Bxf6 Nf8 25. Bb2 Qxe3+ 26. Qxe3 Rxe3 27. Bc1
+Re8 28. Bf4 Rd8 29. Bg5 Rd7 30. Rae1 h6 31. Re8 Rf7 32. Bf4 Rf6 33. Bxd6 1-0

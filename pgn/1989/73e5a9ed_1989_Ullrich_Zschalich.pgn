@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ullrich"]
+[Black "Zschalich"]
+[Result "0-1"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "73e5a9ed"]
+[Epoch "Queen"]
+
+1. c4 f5 2. d4 Nf6 3. Nc3 e6 4. g3 Be7 5. Bg2 O-O 6. Nf3 d5 7. O-O c6 8.
+Qc2 Kh8 9. Ne5 Nbd7 10. cxd5 exd5 11. Bg5 Nxe5 12. dxe5 Ng4 13. Bxe7 Qxe7
+14. e3 Qxe5 15. b4 Be6 16. Rfd1 Nf6 17. Ne2 a5 18. Rab1 axb4 19. Rxb4 Rf7
+20. Nd4 Ne4 21. Rdb1 c5 22. Nxe6 cxb4 23. Nf4 Rc7 24. Qd3 Rxa2 25. Qxd5
+Qxd5 26. Nxd5 Nc3 27. Rf1 Nxd5 28. Bxd5 Rac2 29. Kg2 Rc1 30. Rxc1 Rxc1 0-1
+

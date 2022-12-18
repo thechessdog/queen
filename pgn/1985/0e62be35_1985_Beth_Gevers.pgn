@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Beth"]
+[Black "Gevers"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "0e62be35"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 Nc6 7. c3 h6 8. h4
+Qe7 9. Qb3 Nf6 10. hxg5 hxg5 11. Nxg5 Nxd4 12. cxd4 Nxe4 13. Nh3 Bxd4+ 14.
+Kh2 Nf2 15. Be6 Qxe6 16. Qa4+ Bd7 17. Qxd4 O-O-O 18. Qxf2 Rxh3+ 19. Kg1
+Rdh8 20. Qd2 0-1
+

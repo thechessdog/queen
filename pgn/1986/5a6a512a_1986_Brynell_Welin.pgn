@@ -1,0 +1,22 @@
+[Event "SWE-ch"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Brynell, Stellan"]
+[Black "Welin, Thomas"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "5a6a512a"]
+[Epoch "Queen"]
+[WhiteID "1700219"]
+[WhiteCountry "SWE"]
+[BlackID "1700324"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 f5 8. exf6
+Nxf6 9. O-O Bd6 10. Re1 O-O 11. Ne5 cxd4 12. Nxc6 bxc6 13. cxd4 c5 14. dxc5
+Bxc5 15. Nf3 Ng4 16. Bxh7+ Kh8 17. Bg5 Qd6 18. Qa4 Bxf2+ 19. Kh1 d4 20. Re4 e5
+21. Rxg4 Bxg4 22. Be4 Rac8 23. Qxa7 Bf5 24. Be7 Qh6 25. Bg5 Qg6 26. Bxf5 Qxf5
+27. h4 e4 28. Nd2 d3 29. Be3 Rc2 30. Rd1 Qg4 0-1

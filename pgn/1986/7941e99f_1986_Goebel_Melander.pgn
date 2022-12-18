@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Goebel, Wolfgang"]
+[Black "Melander, B."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "7941e99f"]
+[Epoch "Queen"]
+[WhiteID "4630050"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8. a4
+Qa5 9. Bd2 Nbc6 10. Be2 f6 11. c4 Qc7 12. cxd5 Nxd5 13. c4 Ndb4 14. exf6 gxf6
+15. Bc3 Qf4 16. O-O Rg8 17. dxc5 1-0

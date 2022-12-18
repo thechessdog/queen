@@ -1,0 +1,19 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Behling, Robert"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Neo-orthodox variation, 7.Bxf6"]
+[HashCode "ea9e6d94"]
+[Epoch "Queen"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+[BlackID "4603630"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bxf6 Bxf6 8. Qd2
+Nc6 9. cxd5 exd5 10. g3 Bg4 11. Bg2 Bxf3 12. Bxf3 a5 13. Nxd5 1-0

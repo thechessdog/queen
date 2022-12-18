@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sabjan"]
+[Black "Szabo, Janos"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "11b6555b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 d6 5. exd6 Bxd6 6. Nf3 Nxf2 7. Qd4
+Nxh1 8. Qxg7 Rf8 9. Bh6 f6 10. Qxh7 Rf7 11. Qg6 Nc6 12. Qg8+ Ke7 13. Qg6
+Ng3 14. hxg3 Bf5 15. Qxf5 Bxg3# 0-1
+

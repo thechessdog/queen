@@ -1,0 +1,18 @@
+[Event "Tirnavia-C"]
+[Site "Trnava"]
+[Date "1989.01.01"]
+[Round "13"]
+[White "Zakic, Srdjan"]
+[Black "Plachetka, Tomas"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "fd0bff69"]
+[Epoch "Queen"]
+[WhiteID "900729"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Be7 8. f4
+Qc7 9. Be3 O-O 10. Qe1 Re8 11. Qg3 Nbd7 12. Rad1 Bf8 13. Kh1 b5 14. e5 b4 15.
+exf6 bxc3 16. f5 Nxf6 17. fxe6 Kh8 1/2-1/2

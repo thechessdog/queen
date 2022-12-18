@@ -1,0 +1,19 @@
+[Event "NRW-Liga I"]
+[Site "Duis tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brueggemann, Josef"]
+[Black "Ruthenberg, Helmut"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "22478a02"]
+[Epoch "Queen"]
+[WhiteID "12969443"]
+[WhiteCountry "GER"]
+[BlackID "4604199"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e5 6. f4 d6 7. Nf3 Nge7 8. O-O
+O-O 9. h3 1/2-1/2

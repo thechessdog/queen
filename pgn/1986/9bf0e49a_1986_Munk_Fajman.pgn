@@ -1,0 +1,21 @@
+[Event "Lang mem-C 6th"]
+[Site "Brno"]
+[Date "1986.07.23"]
+[Round "5"]
+[White "Munk, Petr"]
+[Black "Fajman, Petr"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "9bf0e49a"]
+[Epoch "Queen"]
+[WhiteID "317799"]
+[BlackID "309826"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. Nd5 Nxd5 6. exd5 Nd4 7. Nxd4 exd4
+8. O-O O-O 9. a3 Be7 10. b4 a5 11. Bb2 Bf6 12. d6 c6 13. Bd3 Qb6 14. Qg4 g6 15.
+Qf4 Bg7 16. Rfe1 axb4 17. Bc4 Qc5 18. Bb3 bxa3 19. Bxa3 Rxa3 20. Rxa3 Qxa3 21.
+g4 d3 0-1

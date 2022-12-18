@@ -1,0 +1,17 @@
+[Event "corr WCCF WWO"]
+[Site "corr WCCF WWO"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Riemer, Wolfgang"]
+[Black "Buzenski, Z."]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "84ea1f81"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 a6 8. Ne5
+Rc8 9. g4 Bd7 10. f3 e6 11. Bd3 g6 12. Qb3 b5 13. a4 Nxe5 14. Bxe5 b4 15. Bxa6
+Ra8 16. Nb5 Rb8 17. Bc7 Qe7 18. Bxb8 Bxb5 19. Bxb5+ Kd8 20. a5 1-0

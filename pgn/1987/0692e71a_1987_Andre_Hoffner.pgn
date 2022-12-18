@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andre"]
+[Black "Hoffner"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "0692e71a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. f3
+Ra5 9. Bc4 Ba6 10. Qd3 Qb6 11. a4 bxa3 12. Nxa3 Nbd7 13. Bxa6 Rxa6 14. Ne2
+g6 15. O-O Bg7 16. Nc4 Qb7 17. Rxa6 Qxa6 18. Bd2 O-O 19. b4 Rb8 20. bxc5
+Nxc5 21. Qc2 Nfd7 22. Be3 Rb4 23. Rc1 Nb3 24. Bd2 Nxd2 0-1
+

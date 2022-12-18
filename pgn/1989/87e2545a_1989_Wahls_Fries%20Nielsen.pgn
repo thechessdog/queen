@@ -1,0 +1,30 @@
+[Event "Lasker mem"]
+[Site "Berlijn"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Wahls, Matthias"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "87e2545a"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "1400142"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. Bf4 e5 7. Be3 a6 8. N5c3
+Nf6 9. Bc4 Be7 10. Nd5 Nxd5 11. Bxd5 O-O 12. Qd2 Be6 13. Nc3 Rc8 14. O-O b5 15.
+Bb3 Na5 16. Rfc1 h6 17. Rd1 Nc4 18. Bxc4 Rxc4 19. b3 Rc8 20. Rac1 Bg4 21. Re1
+Be6 22. Red1 Bg4 23. Rf1 Be6 24. Nd5 Bg5 25. Bxg5 hxg5 26. Rfd1 Bg4 27. f3 Be6
+28. Kh1 g4 29. f4 Bxd5 30. exd5 Re8 31. f5 Qf6 32. Rf1 e4 33. Qf4 e3 34. Qxg4
+Re5 35. c4 bxc4 36. bxc4 e2 37. Rfe1 Rce8 38. Kg1 Re4 39. Qf3 Qd4+ 40. Qf2 Qb2
+41. h3 Qxa2 42. f6 g6 43. Qb6 Rxc4 44. Ra1 Qd2 45. Qxd6 Rd4 46. Qc6 Qe3+ 47.
+Kh1 Qe5 48. Qxa6 Rxd5 49. Rac1 Rd6 50. Qa1 Qf4 51. Rc2 Qf2 52. Kh2 Rde6 53. Kh1
+Re5 54. Rc4 Rf5 55. Kh2 Rxf6 56. Rcc1 Rf5 57. Qa4 Rfe5 58. Qg4 Qf6 59. Rc2 Qe7
+60. Rc8 Rxc8 61. Qxc8+ Kg7 62. Qc3 f6 63. Qd2 Kh7 64. Kh1 f5 65. Kh2 Re4 66.
+Kh1 Qg7 67. Kh2 Qc7+ 68. Kh1 Qa7 69. Qd5 Qe7 70. Qd2 g5 71. Qd3 Kh6 72. Qa6+
+Kh5 73. Qc8 Qf6 74. Qg8 Kh6 75. Qa2 Qd6 76. Qb2 Kh7 77. Qc2 Qe7 78. Qd3 Qe6 79.
+Qd2 Kg6 80. Qd3 Qf6 81. Kh2 Qe5+ 82. Kh1 Re3 83. Qd2 Kh5 84. Kg1 g4 85. hxg4+
+fxg4 86. Qc2 Re4 87. Qc8 g3 0-1

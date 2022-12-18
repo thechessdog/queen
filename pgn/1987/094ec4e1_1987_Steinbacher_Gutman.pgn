@@ -1,0 +1,25 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Steinbacher, Matthias, Dr."]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "094ec4e1"]
+[Epoch "Queen"]
+[WhiteID "4600908"]
+[WhiteCountry "GER"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+
+1. b3 Nf6 2. Bb2 g6 3. e4 Bg7 4. g3 O-O 5. Bg2 c6 6. e5 Nd5 7. Nf3 d6 8. O-O
+Bg4 9. d4 dxe5 10. dxe5 a5 11. Qe2 a4 12. Rd1 Qb6 13. Na3 Nc7 14. Qe4 Bxf3 15.
+Bxf3 Ne6 16. Bg4 c5 17. h4 Nc6 18. Rd5 Qb4 19. Qc4 axb3 20. axb3 Qxc4 21. Nxc4
+Rxa1+ 22. Bxa1 Ra8 23. Bb2 Ncd8 24. Na3 Kf8 25. Be2 Nc6 26. f4 Ncd4 27. Bd3 f6
+28. Nc4 fxe5 29. Nxe5 Bxe5 30. fxe5 b6 31. b4 Nf3+ 32. Kf2 Ra2 33. Kxf3 Rxb2
+34. bxc5 bxc5 35. Ke4 Rb4+ 36. Ke3 Rg4 37. Kf3 h5 38. Rd7 Kf7 39. c3 g5 40. Bf5
+Rc4 41. hxg5 Nxg5+ 42. Ke3 Rxc3+ 43. Kf4 Ne6+ 44. Bxe6+ Kxe6 45. Rd8 Rc4+ 46.
+Kg5 Rg4+ 47. Kxh5 Rxg3 0-1

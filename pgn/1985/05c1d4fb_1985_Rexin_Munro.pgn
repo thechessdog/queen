@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rexin"]
+[Black "Munro"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 6...Nc6"]
+[HashCode "05c1d4fb"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8.
+Be3 Bxf3 9. gxf3 e6 10. c5 Nd5 11. Bf2 Be7 12. Nd2 Bh4 13. Nb3 Bxf2+ 14.
+Kxf2 Qh4+ 15. Kg1 O-O-O 16. Qe1 Qxe1 17. Rxe1 Ndb4 18. Rd1 Nc2 19. Kf2
+N2xd4 20. Bc4 Nxe5 21. Rxd4 Rxd4 22. Bxe6+ fxe6 23. Nxd4 Nd3+ 24. Kg3 Nxc5
+25. b4 e5 0-1
+

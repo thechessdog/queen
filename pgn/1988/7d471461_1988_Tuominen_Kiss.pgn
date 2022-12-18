@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tuominen, H."]
+[Black "Kiss, G."]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "7d471461"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+Bd3 Bxd3 9. Qxd3 Qc7 10. Bd2 e6 11. O-O-O Ngf6 12. c4 O-O-O 13. Bc3 Bd6 14.
+Ne4 Bf4+ 15. Kc2 Nxe4 16. Qxe4 Nf6 17. Qe2 b6 18. g3 Bd6 19. Rd3 c5 20.
+Rhd1 Kb7 21. d5 Rhe8 22. Bxf6 gxf6 23. dxe6 fxe6 24. Qd2 Be7 25. Qxh6 e5
+26. Rxd8 1-0
+

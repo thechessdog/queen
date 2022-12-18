@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nyman, S."]
+[Black "Dijkstra, K."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "658ff68a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 cxd4 7. Nbxd4
+Be7 8. c3 O-O 9. Bd3 Bf6 10. O-O e5 11. Nf5 Nc6 12. Be4 Bxf5 13. Bxf5 Nde7
+14. Be4 Qxd1 15. Rxd1 Rad8 16. Be3 b6 17. b4 g6 18. g4 Bg7 19. g5 Rxd1+ 20.
+Rxd1 Rd8 21. Rxd8+ Nxd8 22. c4 Nf5 23. Bc1 Ne6 24. Bb2 Nfd4 25. h4 Kf8 26.
+Nxd4 exd4 27. Bc1 Be5 28. Kg2 Ke7 29. Kf3 f6 30. Bd5 Ng7 31. Bd2 Nf5 32.
+Kg4 fxg5 33. hxg5 Bd6 34. Kf3 Kd7 35. Ke4 Bf8 36. Kd3 Bd6 37. Be4 Be5 38.
+Bxf5+ gxf5 39. Bc1 Ke6 40. f4 Bg7 41. Bb2 Bf8 42. a3 Bd6 43. Bc1 Bf8 44.
+Kxd4 a6 45. Be3 Bd6 46. Bd2 Bf8 47. a4 Bg7+ 48. Kd3 Bf8 49. b5 axb5 50.
+axb5 Bd6 51. Be3 Bc7 52. Ke2 Bd8 53. Kf3 Bc7 54. Bd4 Bd8 55. Kg3 Bc7 56.
+Be3 Bd8 57. Kh3 Kf7 58. Kh4 Kg6 59. Kg3 Kf7 60. c5 bxc5 61. Bxc5 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hahn, W."]
+[Black "Heide, W."]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Aitken variation"]
+[HashCode "4fc61981"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Nxc3 9. bxc3 Bxc3 10. Ba3 d5 11. Bb5 a6 12. Bxc6+ bxc6 13. Rc1
+Bb2 14. Qe2+ 1-0
+

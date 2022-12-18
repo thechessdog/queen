@@ -1,0 +1,19 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schulien, Charles"]
+[Black "Floyd, C."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "6aaa471f"]
+[Epoch "Queen"]
+[WhiteID "2001527"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Nbd7 10. Nge2 Nc5 11. Bc2 a5 12. O-O b6 13. a3 Ba6 14. b4 Bxe2 15. Qxe2
+Na6 16. Na4 axb4 17. Nxb6 Ra7 18. axb4 Qc7 19. Rfc1 Nxb4 20. Ba4 Rxa4 21. Rxa4
+1-0

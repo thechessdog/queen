@@ -1,0 +1,20 @@
+[Event "Pohja Nordic tt"]
+[Site "Pohja Nordic tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hellers, Ferdinand"]
+[Black "Ziska, Bogi"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "76fa35d3"]
+[Epoch "Queen"]
+[BlackID "7200161"]
+[BlackCountry "FAI"]
+[WhiteID "1700022"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3 8.
+bxc3 Be7 9. Qg4 O-O 10. Bh6 g6 11. h4 Re8 12. h5 Bf8 13. hxg6 fxg6 14. Bd3 Re7
+15. Bg5 Qc7 16. Bxe7 Qxe5+ 17. Kf1 Bxe7 18. Rxh7 1-0

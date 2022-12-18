@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Sariego, Wilfredo"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "8b8c917a"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+[BlackCountry "CUB"]
+[BlackID "3500080"]
+
+1. d4 d5 2. c4 Nc6 3. e3 dxc4 4. Bxc4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. O-O O-O 8. a3
+Bxc3 9. bxc3 e5 10. Nxe5 Nxe5 11. dxe5 Ne4 12. Qd4 Ng5 13. e4 Qxd4 14. cxd4
+Nxe4 15. Be3 Nc3 16. Rfc1 Na4 17. Bb3 Nb6 18. d5 Rd8 19. Bxb6 cxb6 20. Rc7 Bf5
+21. Rac1 g5 22. d6 Rd7 23. f3 h5 24. Rxd7 Bxd7 25. Rc7 Rd8 26. Rxb7 1-0

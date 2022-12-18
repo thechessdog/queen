@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bonet"]
+[Black "Codina"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1c81dfa9"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bf5 11. Nf4 g5 12. Nh5 Nxh5 13. Bxh5 e6 14.
+g4 Bd3 15. dxe6 Bc4 16. exf7+ Kh8 17. Qc2 Nd5 18. Be3 Nb4 19. Qd2 Nd3+ 20.
+Kd1 Bxd4 21. Bxd4+ Qxd4 22. Kc2 Nb4+ 23. Kc1 Qxd2+ 24. Kxd2 Rad8+ 25. Kc1
+Bxf7 26. a3 Bxh5 27. axb4 Bxg4 28. Rxa7 Rxf2 29. Nd1 Rc8+ 30. Kb1 Rd2 31.
+Nc3 Bf3 32. Rg1 g4 33. Ra5 Rxh2 0-1
+

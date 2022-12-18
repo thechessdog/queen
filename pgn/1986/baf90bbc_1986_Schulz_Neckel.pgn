@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Neckel"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "baf90bbc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d6 4. d4 Nd7 5. Bd3 b5 6. O-O Bb7 7. Qe2 c4 8. Bc2 e5
+9. b3 Qc7 10. bxc4 bxc4 11. Ba3 Be7 12. Nbd2 d5 13. Bxe7 Nxe7 14. exd5 Bxd5 15.
+Nxe5 Nxe5 16. Qxe5 1-0

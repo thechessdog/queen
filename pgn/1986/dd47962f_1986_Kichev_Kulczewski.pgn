@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kichev, V."]
+[Black "Kulczewski, Z."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "dd47962f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Re1 e6 7. c4 Nc6
+8. d4 cxd4 9. Nxd4 Be7 10. Nc3 O-O 11. b3 Rfd8 12. Bb2 Ne8 13. Nc2 Bf6 14.
+Qd2 a6 15. Na3 b6 16. Rad1 Qb7 17. f4 Nc7 18. Ne2 Bxb2 19. Qxb2 b5 20. Ng3
+bxc4 21. Nh5 e5 22. Nxc4 g6 23. Nf6+ Kg7 24. fxe5 dxe5 25. Ng4 f6 26. Qf2
+Qa7 27. Nb6 1-0
+

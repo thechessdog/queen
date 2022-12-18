@@ -1,0 +1,19 @@
+[Event "Uppsala"]
+[Site "Uppsala"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lundin, Anders"]
+[Black "Fridh, Anton"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "a41650a5"]
+[Epoch "Queen"]
+[WhiteID "1701096"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+e5 9. cxd5 cxd5 10. dxe5 Nxe5 11. Nd4 Bg4 12. O-O Rc8 13. a3 Ne4 14. Bb2 Bxe2
+15. Ndxe2 Qh4 16. h3 Nf3+ 17. gxf3 Qxh3 18. f4 Rc6 19. Qd1 Be5 20. Nxe4 Rh6 0-1

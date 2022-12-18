@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hellborg, Teodor"]
+[Black "Ristic, Nenad"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Byrne (Simagin) variation"]
+[HashCode "ac5ec605"]
+[Epoch "Queen"]
+[WhiteID "1701177"]
+[WhiteCountry "SWE"]
+[BlackID "901318"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8.
+Be2 Bg4 9. Be3 Bxf3 10. gxf3 e5 11. d5 Nd4 12. Nb5 Nxe2 13. Kxe2 c6 14. dxc6
+bxc6 15. Nxa7 Qb8 16. Qb3 Qc7 17. Qa4 Rfb8 18. Rhc1 c5 19. Rxc5 Rxa7 20. Qc4
+Qb7 21. Rc1 Ne8 22. a4 Qxb2+ 23. Rc2 Qa1 24. Rc8 Raa8 25. Rxb8 Rxb8 26. Qc6 Bf8
+27. Rc1 Qa3 28. Rc2 Rd8 29. Kf1 Qd6 30. a5 Qa3 31. a6 Ng7 32. Rc3 Qa5 33. a7
+Ne6 34. Bb6 Qa1+ 0-1

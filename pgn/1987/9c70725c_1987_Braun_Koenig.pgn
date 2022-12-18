@@ -1,0 +1,19 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Braun, Michael"]
+[Black "Koenig, Wolfgang"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "9c70725c"]
+[Epoch "Queen"]
+[WhiteCountry "GER"]
+[BlackID "4600983"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bd3
+Bg4 9. Qa4+ Nbd7 10. Nd2 O-O 11. f4 Nh5 12. O-O Bd4+ 13. Kh1 Qh4 14. h3 Bxh3
+15. Nf3 Bxg2+ 16. Kxg2 Qg3+ 17. Kh1 Qh3+ 0-1

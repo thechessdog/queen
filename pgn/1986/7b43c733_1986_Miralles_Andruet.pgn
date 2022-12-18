@@ -1,0 +1,25 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "12"]
+[White "Miralles, Gilles"]
+[Black "Andruet, Gilles"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "7b43c733"]
+[Epoch "Queen"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. g3 Bd6 8. Bg2
+O-O 9. O-O Re8 10. Qb3 Nbd7 11. Rd1 Qe7 12. Ne1 Ne4 13. Nb5 c5 14. Bxe4 dxe4
+15. Bg5 Qxg5 16. Nxd6 Bd5 17. Qe3 Qxe3 18. fxe3 Red8 19. dxc5 Bb3 20. c6 Bxd1
+21. Rxd1 Nf8 22. c7 Rd7 23. Rc1 Rxd6 24. c8=Q Rxc8 25. Rxc8 Rd2 26. Rc2 Rxc2
+27. Nxc2 Nd7 28. Nd4 Ne5 29. Nb5 a5 30. Nd6 f5 31. h3 g6 32. Kf2 Kg7 33. Ke1
+Kf6 34. b3 Ke6 35. Nc8 Nd7 36. Kd2 Kd5 37. Kc3 Kc6 38. Kd4 Nc5 39. b4 axb4 40.
+axb4 Na6 41. g4 fxg4 42. hxg4 Nxb4 43. Kxe4 Kc5 44. Ke5 b5 45. Nd6 Nc6+ 46. Ke6
+b4 47. Ne4+ Kc4 48. g5 b3 49. Kd6 Na5 50. Nd2+ Kc3 51. Nxb3 Nxb3 52. Ke5 Kd2
+53. e4 Ke3 54. Kd5 Nd4 55. e5 Nxe2 0-1

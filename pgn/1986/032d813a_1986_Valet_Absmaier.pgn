@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Valet, R."]
+[Black "Absmaier, F."]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "032d813a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. Bg5 dxe4 6. a3 Be7 7. Bxf6 gxf6
+8. Nxe4 b6 9. g3 Bb7 10. Bg2 c6 11. c4 f5 12. N4c3 Nd7 13. O-O Nf6 14. Re1
+Qc7 15. b4 h5 16. d5 e5 17. Qa4 1/2-1/2
+

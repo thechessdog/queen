@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Woller"]
+[Black "Pichler, Juergen"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "aa3b7270"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. Nbd2 Nc5 11. c3 Bg4 12. Bc2 Ne6 13. Qb1 Bh5 14. a4 b4 15. a5
+Bg6 16. Rd1 bxc3 17. bxc3 Rb8 18. Qa2 O-O 19. Bxg6 hxg6 20. Nb3 Qd7 21. Rd2
+Rfd8 22. Rad1 Qc8 23. Rxd5 Rxd5 24. Rxd5 Qb7 25. Nbd2 Bb4 26. Qc4 Bxa5 27. Rd7
+Qb5 28. Qxb5 Rxb5 29. c4 Rb2 30. g3 Bc3 31. Rd5 a5 32. Ne4 Bb4 33. Neg5 a4 34.
+Rd7 a3 35. Nxe6 a2 0-1

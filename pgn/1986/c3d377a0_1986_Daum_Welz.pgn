@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Daum"]
+[Black "Welz"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "c3d377a0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Ne7 9. c3 f5 10. Qa4 Kf7 11. h4 a6 12. Qa3 Ng8 13. c4 Rb8 14. Nc3
+Nf6 15. Bg5 Be7 16. h5 Rf8 17. O-O-O Kg8 18. f3 Bd7 19. Qb3 Qa5 20. Bd2 Qc7
+21. Kb1 Rfc8 22. Be3 b6 23. Bd3 Bf8 24. Rc1 Qb7 25. h6 g6 26. c5 Be8 27. c6
+Qa8 28. Na4 b5 29. Nb6 Rxb6 30. Bxb6 Bf7 31. Qa3 Nxd5 32. Bf2 Nf4 33. Bf1
+Ne6 34. Qa5 Nc5 35. c7 e4 36. Be2 Qb7 37. Qc3 Rxc7 38. Qf6 Qd5 39. b3 Nd7
+40. Qd8 Rxc1+ 41. Rxc1 Nc5 42. Rd1 Qe6 43. Bd4 Be8 44. Bg7 Bxg7 45. hxg7
+Kxg7 46. Rxd6 Qe5 47. f4 Qc3 48. Qxe8 Qe1+ 49. Bd1 Nd3 50. Rd7+ Kh6 51.
+Qf8# 1-0
+

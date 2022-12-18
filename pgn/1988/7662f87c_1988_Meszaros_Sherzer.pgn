@@ -1,0 +1,20 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Meszaros, Andras"]
+[Black "Sherzer, Alex"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "7662f87c"]
+[Epoch "Queen"]
+[BlackID "2000512"]
+[BlackCountry "USA"]
+[WhiteID "700720"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 cxd4 5. cxd4 dxe4 6. Nxe4 Bd7 7. Nf3 Bc6 8.
+Bd3 Nf6 9. Nxf6+ Qxf6 10. Bg5 Bxf3 11. Qc1 Bb4+ 12. Kf1 Bc6 13. Bxf6 gxf6 14.
+d5 Bd7 15. Qf4 Be7 16. Qc7 exd5 17. Qxb7 1-0

@@ -1,0 +1,18 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuhl, Reiner"]
+[Black "Becker, Sonke"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "cbeac390"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 b6 5. e5 Nfd7 6. c3 a5 7. f4 g6 8. Ndf3
+Ba6 9. Ne2 Bxd3 10. Qxd3 c5 11. g4 h5 12. f5 hxg4 13. fxe6 gxf3 14. exf7+
+Kxf7 15. Qxf3+ Kg7 16. O-O Qe8 17. Qxd5 Na6 18. e6 Nf6 19. Rxf6 Kxf6 20.
+Qe5+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fogarasi"]
+[Black "Gross, Georg"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "00cfdeb9"]
+[Epoch "Queen"]
+[BlackID "4606906"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Be3 Nbd7 5. f3 e5 6. Qd2 Qa5 7. O-O-O b5 8. Kb1
+Be7 9. g4 Nb6 10. b3 b4 11. Nce2 c5 12. dxe5 dxe5 13. g5 Nh5 14. c4 Be6 15. Qc1
+Rb8 16. Ng3 Nxg3 17. hxg3 O-O 18. Qc2 Rfd8 19. Bd3 Nxc4 20. bxc4 b3 21. axb3
+Qa3 22. Bc1 Rxb3+ 23. Bb2 Bxc4 0-1

@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Agapov, Konstantin"]
+[Black "Komarov, Dimitri"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "69fff811"]
+[Epoch "Queen"]
+[BlackID "14101270"]
+[BlackCountry "UKR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Be7 10. Bh3 f6 11. Ne2 fxe5 12. fxe5 O-O 13. Nf4 Kh8 14. Bxe6
+Ndxe5 15. dxe5 Rxf4 16. Bxf4 Bxe6 17. h4 Bg4 18. Qxd5 Nb4 19. Qe4 Bxf3 20. Qxf3
+Nc2+ 21. Kf1 Nxa1 22. Qc3 Qe6 23. b3 Qa6+ 24. Kg2 Qxa2+ 25. Kh3 Nxb3 26. Bg5
+Bxg5 27. hxg5 Nd2 28. Qd3 Qe6+ 29. Kg2 Qc6+ 30. Kg1 Nf3+ 0-1

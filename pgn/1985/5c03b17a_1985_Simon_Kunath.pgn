@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Simon"]
+[Black "Kunath"]
+[Result "0-1"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "5c03b17a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 Re8 7. Nf3 Nc6
+8. Be2 e5 9. O-O d6 10. Qc2 e4 11. Nd2 Bf5 12. Qb3 Rb8 13. Re1 h5 14. Nf1
+h4 15. h3 Qd7 16. Nh2 Ne7 17. Qd1 Rbd8 18. f3 Bxh3 19. gxh3 Qxh3 20. f4 Nf5
+21. Bg4 Qg3+ 22. Kh1 Nxg4 23. Nxg4 Re6 24. Ra2 Rg6 25. Rg2 Qh3+ 26. Kg1 Qf3
+27. Kh2 Ng3 28. Kh3 Rxg4 29. Qxf3 exf3 30. Kxg4 fxg2 31. Kf3 f5 32. Kxg2
+Kf7 33. Bd2 Ne4 34. Re2 g5 35. fxg5 Kg6 36. Kh3 Nxd2 37. Rxd2 Re8 38. Re2
+Kxg5 39. Rg2+ Kh5 40. Re2 Re4 0-1
+

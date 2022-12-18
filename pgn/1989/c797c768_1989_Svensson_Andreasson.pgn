@@ -1,0 +1,19 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Svensson, Bengt"]
+[Black "Andreasson, Ingvar"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "c797c768"]
+[Epoch "Queen"]
+[WhiteID "1722891"]
+[BlackID "1700294"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. c4 e6 2. Nf3 f5 3. g3 b6 4. Bg2 Bb7 5. O-O Nf6 6. Nc3 Bb4 7. Qc2 O-O 8. a3
+Bxc3 9. Qxc3 Qe7 10. b4 d6 11. Bb2 c5 12. d4 Nbd7 13. Rad1 cxb4 14. axb4 Rfc8
+15. Qb3 b5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Hallebeek, Fred"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "c80f2bc7"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+[BlackID "1000950"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 b5 8. e5
+Nxe5 9. Nxe5 bxa4 10. Qxd4 O-O 11. Qxa4 Rb8 12. Nc3 Rb6 13. Nd3 c5 14. Qa5 Re6
+15. Qxd8 Rxe1+ 16. Nxe1 Rxd8 17. Bg5 d5 18. Rd1 d4 19. Na4 Bd7 20. Nb6 Bb5 21.
+a4 Bc6 22. b3 h6 23. Bxf6 Bxf6 24. Nd3 Rb8 25. Nc4 Bd5 26. Nxc5 Bxc4 27. bxc4
+Rb4 28. Nxa6 Rxa4 29. Nc7 Rxc4 30. Nd5 Rxc2 31. Nxf6+ gxf6 32. g3 Rc4 33. Kg2
+f5 34. Kf3 Kg7 35. Kf4 Kf6 36. Rd2 Ke6 37. Ra2 Rc6 38. Re2+ Kd5 39. h4 d3 40.
+Re7 d2 0-1

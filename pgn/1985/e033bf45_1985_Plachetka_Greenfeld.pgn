@@ -1,0 +1,20 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Greenfeld, Alon"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "e033bf45"]
+[Epoch "Queen"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. Nc3 dxc4 5. a4 a5 6. e4 Bg4 7. Bxc4 e6 8. O-O
+Bb4 9. d5 exd5 10. exd5 O-O 11. dxc6 Qxd1 12. Rxd1 Nxc6 13. Be3 Rad8 14. Nd5
+Nxd5 15. Rxd5 Rxd5 16. Bxd5 Rd8 17. Rd1 1/2-1/2

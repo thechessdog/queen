@@ -1,0 +1,19 @@
+[Event "Elekes mem"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Heyken, Enno"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "291a05a2"]
+[Epoch "Queen"]
+[WhiteID "700568"]
+[WhiteCountry "HUN"]
+[BlackID "4600401"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. Bg5 Bb7 6. Nf3 h6 7. Bh4 g5 8. Bg3
+Ne4 1/2-1/2

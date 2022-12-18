@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pavlovic, Milos"]
+[Black "Lukacs, Peter"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "2ac4d8c2"]
+[Epoch "Queen"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+[WhiteID "900389"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 dxc4 5. Bg2 Bd7 6. Qc2 c5 7. Qxc4 Bc6 8. O-O
+Nbd7 9. Nc3 b5 10. Qd3 b4 11. Nb1 Be7 12. Bg5 O-O 13. Nbd2 1/2-1/2

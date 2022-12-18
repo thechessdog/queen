@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Perho"]
+[Black "Lautamaki"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "84c57298"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. h3 Bxf3
+8. Qxf3 Qxd4 9. Nc3 Qc4 10. b3 Qf7 11. Qe3 Bd6 12. a4 Ne7 13. a5 O-O 14.
+Ne2 f5 15. exf5 Nxf5 16. Qe4 Rae8 17. Ba3 Bxa3 18. Rxa3 Qd5 19. Ra4 Qd2 20.
+Qd3 Rd8 21. Qc4+ Rd5 22. Nc1 Nd6 23. Qe2 Qxe2 24. Nxe2 Rd2 25. Nc1 Rxc2 26.
+Ra2 Rc3 27. Re2 e4 28. Rb2 Rc5 29. Ra2 Rff5 30. b4 Rc4 31. Rb2 Rb5 32. Na2
+c5 33. Rfb1 cxb4 34. Nxb4 Kf7 0-1
+

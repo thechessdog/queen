@@ -1,0 +1,24 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Super Mondial"]
+[Black "Expert 4mhz"]
+[Result "1-0"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "1d43d16c"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 Nf6 6. d4 cxd4 7. Nxd4 O-O
+8. Ncb5 a6 9. Nc3 Nxd4 10. Qxd4 d6 11. O-O Ng4 12. Qd2 Rb8 13. b3 b6 14.
+Bb2 Ne5 15. Rad1 Bd7 16. Nd5 Bf5 17. Nb4 Qc8 18. Bd4 Re8 19. Bxe5 dxe5 20.
+Nc6 Rb7 21. Nxe5 Rc7 22. Qd5 Rf8 23. Nc6 Bh3 24. Bxh3 Qxh3 25. Nb4 Qc8 26.
+Qe4 Re8 27. Nd5 Rb7 28. Qe3 Qb8 29. a3 Kh8 30. Nb4 a5 31. Nc6 Qc8 32. Ne5
+Kg8 33. a4 Rf8 34. Nf3 Rd8 35. Ng5 Rxd1 36. Rxd1 Qf8 37. Qd3 Rb8 38. Ne4
+Rc8 39. Qd7 h6 40. Rd3 Rb8 41. Qc7 f5 42. Nd2 Bf6 43. c5 Kh8 44. cxb6 Rc8
+45. Qa7 Ra8 46. Qd7 Rc8 47. Nc4 f4 48. b7 Rb8 49. gxf4 Bh4 50. Qc7 g5 51.
+f5 Re8 52. Qxa5 Kg8 53. Qb5 Kh7 54. a5 Qh8 55. Ne5 Rb8 56. a6 Qf6 57. a7
+Qxf5 1-0
+

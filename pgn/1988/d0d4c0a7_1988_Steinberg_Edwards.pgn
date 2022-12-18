@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Steinberg, A."]
+[Black "Edwards, J."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "d0d4c0a7"]
+[Epoch "Queen"]
+
+1. g4 e5 2. Bg2 h5 3. gxh5 Qg5 4. Bf3 Qh4 5. Nc3 Nf6 6. e4 Bc5 7. d4 Bxd4
+8. Qe2 Bxc3+ 9. bxc3 Nxh5 10. Be3 Nc6 11. Qd2 Nf6 12. Qd3 Ng4 13. Bxg4 Qxg4
+14. Ne2 g6 15. O-O-O d6 16. f4 Bd7 17. Rdg1 Qe6 18. Qd5 O-O-O 19. Rg5 Rde8
+20. h4 exf4 0-1
+

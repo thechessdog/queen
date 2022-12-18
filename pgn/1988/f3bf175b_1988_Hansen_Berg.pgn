@@ -1,0 +1,27 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "f3bf175b"]
+[Epoch "Queen"]
+[WhiteID "1400681"]
+[WhiteCountry "DEN"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Qc7 13. Qe2 O-O-O 14. Ne5
+Nb6 15. Ba5 Rd5 16. Bxb6 axb6 17. c4 Rd8 18. Kb1 c5 19. dxc5 Bxc5 20. Nd3 Bd4
+21. Ne4 Rd7 22. Nxf6 gxf6 23. Nb4 Qc5 24. Nd3 Qc6 25. g4 Kb8 26. Rc1 Rhd8 27.
+Rhd1 Qa4 28. Qc2 Qxc2+ 29. Kxc2 Kc7 30. b3 Rd6 31. Rf1 Kd7 32. Rcd1 Ke7 33. Nb4
+Bc5 34. Rxd6 Bxd6 35. Nd3 Rg8 36. f3 f5 37. gxf5 exf5 38. Kd2 Rg2+ 39. Rf2 Rg5
+40. Ke3 Rxh5 41. Re2 Kf6 42. Nf4 Bxf4+ 43. Kxf4 Rh4+ 44. Ke3 h5 45. Rd2 Ke6 46.
+Rd5 Rh2 47. Rb5 Rxa2 48. Rxb6+ Ke7 49. Rxb7+ Kf6 50. Kf4 Kg6 51. Rb8 Rb2 52. c5
+Rc2 53. b4 h4 54. Ke5 f6+ 55. Kd6 Rd2+ 56. Kc6 Kg5 57. Rh8 Rd3 58. b5 Rxf3 59.
+b6 Rb3 60. b7 f4 61. b8=Q Rxb8 62. Rxb8 f3 63. Rb1 1-0

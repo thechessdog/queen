@@ -1,0 +1,18 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fauvel, Philippe"]
+[Black "Boudre, Jean-Pierre"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "dc03119b"]
+[Epoch "Queen"]
+[BlackID "600237"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O d6 6. Nd5 Nxd5 7. exd5 a6 8.
+Ba4 b5 9. dxc6 bxa4 10. c3 Bc5 11. Qxa4 Bb6 12. d4 f6 13. d5 O-O 14. Qh4 g5 15.
+Qg3 g4 16. Bh6 f5 17. Bxf8 Qxf8 18. Nd2 Qh6 19. Nc4 f4 20. Qd3 Ba7 1-0

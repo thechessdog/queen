@@ -1,0 +1,22 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1989.07.01"]
+[Round "1"]
+[White "Visser, Yge"]
+[Black "Kuijf, Rini"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9318f5a3"]
+[Epoch "Queen"]
+[WhiteID "1000578"]
+[WhiteCountry "NED"]
+[BlackID "1000110"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 Nd4 6. Bf1 Nec6 7. c3 Nxf3+ 8.
+Qxf3 Be7 9. d3 O-O 10. Nd2 d5 11. Qe2 b6 12. g3 Ba6 13. e5 b5 14. a3 Bb7 15. h4
+a5 16. Qg4 a4 17. Nf3 Kh8 18. Bg5 Na5 19. d4 Nb3 20. Rad1 b4 21. Bd3 Bxg5 22.
+hxg5 g6 23. Kg2 Rg8 24. Rh1 Rg7 25. Rh6 bxa3 26. bxa3 cxd4 27. cxd4 Ba6 28.
+Bxa6 Rxa6 29. Rdh1 Kg8 30. Qh4 Kf8 31. Rxh7 Rg8 32. Qf4 Qe7 33. Rh8 1-0

@@ -1,0 +1,21 @@
+[Event "corr Tch-POL"]
+[Site "corr Tch-POL"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kasperski, E."]
+[Black "Wydrowski, L."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b8172953"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Qe2 g6 6. e5 dxe5 7. Nxe5 Nxe5
+8. Qxe5 Bxb5 9. Qxh8 Bxf1 10. Qxg8 Bxg2 11. Kxg2 Qd5+ 12. Kg1 Qg5+ 13. Kf1
+Qh5 14. Nc3 Rd8 15. d3 Qxh2 16. Nd1 c4 17. Be3 Qh5 18. Rc1 b6 19. d4 e5 20.
+Qh8 exd4 21. Bxd4 Rd5 22. Ke1 Qh1+ 23. Ke2 Qe4+ 24. Be3 f5 25. Nc3 Qg4+ 26.
+f3 Qg2+ 27. Bf2 Rd7 28. Rg1 Re7+ 29. Ne4 Qh2 30. Qf6 Qc7 31. Bg3 Qc5 32.
+Bf2 Qb5 33. Qc3 fxe4 34. Bd4 exf3+ 35. Kxf3 Qf5+ 36. Kg3 Re4 37. Re1 Qg4+
+38. Kf2 Qh4+ 39. Kf1 Rxe1+ 40. Qxe1+ Qxe1+ 41. Kxe1 Kf7 0-1
+

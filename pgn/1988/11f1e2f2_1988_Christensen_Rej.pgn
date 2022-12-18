@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Christensen, Bent"]
+[Black "Rej, Dennis"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "11f1e2f2"]
+[Epoch "Queen"]
+[BlackID "1402692"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Nb6 14. Bg5 Re8 15.
+Rfe1 Qc7 16. Rad1 Nxc4 17. Qxc4 Ng4 18. f4 Qb6 19. e5 Qxb2 20. Ne4 b5 21. Qf1
+dxe5 22. h3 f6 23. Bh4 f5 24. Nd6 exf4 25. hxg4 Rxe1 26. Qxe1 Be5 27. gxf5 bxa4
+28. Nc4 Bd4+ 29. Bf2 Bxf2+ 30. Qxf2 Qb3 31. Qe2 a3 32. Qd3 Qa4 33. Nxa3 Rb8 34.
+d6 Rb3 35. Qc4+ Qxc4 36. Nxc4 1-0

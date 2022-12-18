@@ -1,0 +1,20 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1987.01.01"]
+[Round "10"]
+[White "Gizynski, Tomasz"]
+[Black "Seifert, Henryk"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "066dae26"]
+[Epoch "Queen"]
+[WhiteID "1100360"]
+[BlackID "1100963"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Be7
+8. O-O O-O 9. c3 c5 10. Bg5 Qb6 11. Qe2 Bd7 12. Ne5 Rad8 13. Nxd7 Rxd7 14. dxc5
+Qxc5 15. Bxf6 Bxf6 1/2-1/2

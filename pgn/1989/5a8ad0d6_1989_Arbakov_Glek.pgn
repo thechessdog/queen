@@ -1,0 +1,26 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arbakov, Valentin"]
+[Black "Glek, Igor"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "5a8ad0d6"]
+[Epoch "Queen"]
+[BlackID "4100484"]
+[BlackCountry "GER"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Bxc5 Nc6 10. Nge2 b6 11. Ba3 e6 12. Nb5 Ne8 13. Nc1 Bb7 14. Nb3 a5 15.
+Be2 Nb4 16. Kf2 Nc2 17. Rad1 a4 18. Na1 Nxa3 19. bxa3 Bc6 20. Nc2 Bxb5 21. cxb5
+Rdc8 22. Nb4 Rc3 23. Rd3 Rc5 24. Rhd1 Kf8 25. Rd7 Bb2 26. Nc6 Bxa3 27. R1d3 Bb2
+28. Rb7 Rxb5 29. Nd8 Bf6 30. Nxf7 Rb2 31. Nh6 Be7 32. Rdd7 Bc5+ 33. Ke1 Nd6 34.
+Rbc7 Rb1+ 35. Kd2 Rb2+ 36. Kd3 Rc8 37. Rxc8+ Nxc8 38. f4 Nd6 39. Bg4 Rxa2 40.
+Bxe6 Ra3+ 41. Ke2 Nxe4 42. f5 Rc3 43. Kd1 Be7 44. Ra7 Bg5 45. Rf7+ Ke8 46. Rxh7
+Rd3+ 47. Ke2 Re3+ 48. Kd1 Nf6 49. Rg7 Rd3+ 50. Ke2 Re3+ 51. Kd1 Rd3+ 52. Ke2
+Rd2+ 53. Ke1 Rxg2 54. Nf7 Kf8 55. Rxg6 Bh4+ 56. Kd1 Rxh2 57. Ne5 a3 58. Nf3
+Rh1+ 59. Kc2 1-0

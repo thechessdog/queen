@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cremerius, A."]
+[Black "Wolf"]
+[Result "0-1"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "58a135e8"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 g6 5. Nf3 Bg7 6. O-O O-O 7. d3 d5 8.
+cxd5 Nxd5 9. Nxd5 Qxd5 10. Nd2 Qd7 11. Qc2 b6 12. Qa4 Bb7 13. Nc4 Rfd8 14.
+Be3 Nd4 15. Qxd7 Nxe2+ 16. Kh1 Rxd7 17. Rfe1 Bxg2+ 18. Kxg2 Nd4 19. Rab1
+Nc2 20. Re2 Nxe3+ 21. Rxe3 e6 22. b4 cxb4 23. Rxb4 Rd4 24. Rb3 Rad8 25. f4
+R8d7 26. Nd2 h6 27. Kf3 f5 28. Ke2 Kf7 29. Nc4 R7d5 30. a4 g5 31. fxg5 hxg5
+32. h3 g4 33. hxg4 fxg4 34. Rb1 Ke7 35. Rf1 Bh6 36. Ne5 Bxe3 37. Kxe3 Kd6
+38. Nf7+ Kc5 39. Rc1+ Kb4 40. Ne5 Kb3 41. Rc7 Rxa4 42. Nc4 b5 43. Rb7 Ka2
+44. Nd2 a6 45. Rc7 Ka3 46. Nb1+ Kb4 47. Nc3 Rc5 48. Rxc5 Kxc5 49. Nxa4+
+bxa4 0-1
+

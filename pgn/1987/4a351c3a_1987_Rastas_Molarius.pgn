@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rastas"]
+[Black "Molarius"]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Capablanca variation"]
+[HashCode "4a351c3a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 c5 7. Bd3 Nc6
+8. Ne2 b6 9. e4 Ne8 10. e5 f5 11. exf6 Qxf6 12. Be3 Ba6 13. Qc2 g6 14. h4
+cxd4 15. cxd4 e5 16. h5 exd4 17. Bh6 Qxf2+ 18. Kd2 Rf6 19. Raf1 Qxf1 20.
+Rxf1 Rxf1 21. Qa4 Bb7 22. c5 gxh5 23. Qb3+ Kh8 24. Nf4 Rf2+ 25. Ke1 Rxf4
+26. Bxf4 Ng7 27. Qf7 Re8+ 28. Kd2 Nd8 29. Qf6 1-0
+

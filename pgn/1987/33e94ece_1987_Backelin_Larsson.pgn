@@ -1,0 +1,20 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Backelin, Rikard"]
+[Black "Larsson, Per"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "33e94ece"]
+[Epoch "Queen"]
+[WhiteID "1701045"]
+[WhiteCountry "SWE"]
+[BlackID "1700529"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6 8.
+O-O Ngf6 9. Re1 Be7 10. c4 O-O 11. Bxg6 hxg6 12. Bd2 c5 13. Bc3 cxd4 14. Nxd4
+Qb6 15. Qe2 Rfe8 16. Rad1 Nc5 17. b3 Bf8 18. Nf3 Rad8 1/2-1/2

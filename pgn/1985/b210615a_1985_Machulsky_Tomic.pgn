@@ -1,0 +1,16 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Machulsky, Anatoly D"]
+[Black "Tomic"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "b210615a"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O b5 7. Bb3 Nxe4 8.
+Nxd4 Nc5 9. Nxc6 1-0

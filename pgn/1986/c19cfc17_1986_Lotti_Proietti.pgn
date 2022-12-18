@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lotti"]
+[Black "Proietti"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "c19cfc17"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Nc3 Nxd6 7. e4 Nxe4
+8. Bd3 Nxf2 9. Bxf5 Nxh1 10. Nf3 Bd6 11. Ne4 Bxh2 12. Nxh2 Qh4+ 13. g3 Nxg3
+14. Nxg3 Qxg3+ 15. Kf1 Nc6 16. a4 g6 17. Ra3 Qh4 18. Re3+ Ne7 19. Qc3 gxf5
+20. Qxh8+ Kd7 21. Qxa8 Qxc4+ 22. Kf2 Qxc1 23. Qxb7 1-0
+

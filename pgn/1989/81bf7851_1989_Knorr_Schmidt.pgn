@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knorr, B."]
+[Black "Schmidt, H."]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "81bf7851"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nd6 6. O-O f6 7. Re1+
+Be7 8. Qg4 Nxc4 9. Qxg7 Rf8 10. Bh6 Ne5 11. Nxe5 fxe5 12. Rxe5 d6 13. Qxf8+
+Kd7 14. Qf5+ Ke8 15. Rxe7+ Qxe7 16. Qxc8+ Kf7 17. Nc3 1-0
+

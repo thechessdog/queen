@@ -1,0 +1,19 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Asomaki"]
+[Black "Syrjanen"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "bb7790ed"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. b4 Bb6 7. Bg5 f6 8.
+Be3 O-O 9. exd5 exd5 10. Nf4 c6 11. Bd3 f5 12. h4 Qd6 13. Nce2 a5 14. c3
+Bc7 15. g3 Nd7 16. Nh5 Nf6 17. Bf4 Qd8 18. Nxf6+ Rxf6 19. O-O Bxf4 20. Nxf4
+Ng6 21. Nxg6 Rxg6 22. Kh2 Rh6 23. f4 Rf6 24. Re1 g6 25. Re5 Re6 26. Rxe6
+Bxe6 27. Qe1 Bf7 28. b5 1/2-1/2
+

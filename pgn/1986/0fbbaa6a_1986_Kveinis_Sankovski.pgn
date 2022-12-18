@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kveinis, A."]
+[Black "Sankovski"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "0fbbaa6a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 d5 9. e5 Ne8 10. f4 f6 11. Nf3 fxe5 12. fxe5 Bg4 13. Be2 Nc7 14. O-O-O
+e6 15. Bc5 Bxf3 16. Bxf3 Rf5 17. Bg4 Rxe5 18. Bd4 Nc6 19. Bxe5 Nxe5 20. Be2
+Ne8 1/2-1/2
+

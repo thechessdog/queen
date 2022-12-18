@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dietz"]
+[Black "Woll"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "5c2499a4"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8.
+Bd2 c4 9. Nf3 Bd7 10. Qb1 Bc6 11. Qb4 Qc7 12. Be2 h6 13. O-O Na6 14. Qa3
+O-O-O 15. Ne1 f5 16. g3 Rdg8 17. Qd6 Qd7 18. Qxd7+ Kxd7 19. Ng2 g5 20. f4
+g4 21. Nh4 Ng6 22. Nxg6 Rxg6 23. Rfb1 h5 24. Kg2 h4 25. gxh4 Rxh4 26. Be1
+Rh8 27. Bg3 Rgh6 28. Kf2 Nc7 29. Ke3 a5 30. Rb2 Na8 31. Rab1 Kc7 32. Kd2
+Rb8 33. Ra1 Nb6 34. Rba2 Rbh8 35. Ra3 Kb8 36. R3a2 Ka7 37. Ra3 Ka6 38. R3a2
+Bd7 0-1
+

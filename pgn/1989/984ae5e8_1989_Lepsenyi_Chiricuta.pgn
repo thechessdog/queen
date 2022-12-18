@@ -1,0 +1,16 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lepsenyi, L."]
+[Black "Chiricuta, M."]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "984ae5e8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Qa5+ 5. Bd2 Qxc5 6. Nc3 g6 7. Bb5+ Bd7
+8. Qe2 a6 9. Bxd7+ Nbxd7 10. Be3 Qb4 11. O-O Qxb2 12. Bd4 Qa3 13. e5 dxe5
+14. Nxe5 Nxe5 15. Qxe5 O-O-O 16. Rad1 Bg7 17. Ba7 1-0
+

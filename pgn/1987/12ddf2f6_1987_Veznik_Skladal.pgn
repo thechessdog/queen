@@ -1,0 +1,21 @@
+[Event "Lang mem-B 7th"]
+[Site "Brno"]
+[Date "1987.07.24"]
+[Round "7"]
+[White "Veznik, Michal"]
+[Black "Skladal, Milan"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "12ddf2f6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Be3 O-O 10. f4 Bb7 11. e5 dxe5 12. fxe5 Nd5 13. Nxd5 Bxd5 14.
+Qg4 Bc5 15. Kh1 Bxd4 16. Bxd4 Bxb3 17. axb3 Qc7 18. Qe4 Nd7 19. Rf3 Rfc8
+20. Raf1 Nf8 21. c3 Rab8 22. h4 Rb7 23. Qg4 Qe7 24. Rg3 g6 25. h5 Rd7 26.
+Be3 Rd3 27. Rff3 Nd7 28. hxg6 hxg6 29. Qh5 Rxe3 30. Rxe3 Kg7 31. Qe2 Rc5
+32. Re4 Rd5 33. Qh5 Qc5 34. Rh4 Kf8 35. Qg5 Rd1+ 36. Kh2 Qxe5 37. Qd8+ Kg7
+38. Qh8# 1-0
+

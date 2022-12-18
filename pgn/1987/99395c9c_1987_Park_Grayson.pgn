@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Park, E."]
+[Black "Grayson, S."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "99395c9c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Bc4 Bf5 5. f3 exf3 6. Nxf3 e6 7. O-O Be7
+8. Ne5 Bg6 9. Nxg6 hxg6 10. Bxe6 fxe6 11. Qg4 Qd6 12. Qxg6+ Kd7 13. Bf4
+Qxd4+ 14. Kh1 Qf6 15. Rad1+ Kc8 16. Qe8+ Bd8 17. Bxb8 Qe7 18. Rf8 1-0
+

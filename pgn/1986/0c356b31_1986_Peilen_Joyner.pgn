@@ -1,0 +1,18 @@
+[Event "Alabama"]
+[Site "Alabama"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Peilen, Mark"]
+[Black "Joyner, Cal"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "0c356b31"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 c6 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6 6. Bc4 e6 7. O-O Be7
+8. Bg5 O-O 9. Qe1 h6 10. Bxf6 Bxf6 11. Qe4 g6 12. Ne5 Bxe5 13. dxe5 Kg7 14.
+Bd3 f5 15. exf6+ Rxf6 16. Rxf6 Qxf6 17. Rf1 Qg5 18. h4 Qh5 19. g4 Qc5+ 20.
+Kh1 Qe7 21. Qxg6+ Kh8 22. Rf8+ 1-0
+

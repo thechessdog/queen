@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Incelli, R."]
+[Black "Alessi, M."]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "493c6ff5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Be2 Rb8 11. g4 b5 12. Bxf6 Nxf6 13. g5 Nd7 14. f5
+Nc5 15. f6 gxf6 16. gxf6 Bf8 17. Bd3 b4 18. Nce2 b3 19. a3 bxc2 20. Bxc2
+Bd7 21. Qc3 Qd8 22. Qf3 Qb6 23. Kd2 a5 24. Rb1 a4 25. Ng3 Nb3+ 26. Nxb3
+axb3 27. Bd3 Bh6+ 28. Ke2 Rc8 29. Nh5 Rc2+ 30. Bxc2 bxc2 31. Rbc1 Bb5+ 0-1
+

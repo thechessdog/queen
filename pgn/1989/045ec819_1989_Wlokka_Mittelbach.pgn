@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wlokka, C."]
+[Black "Mittelbach, E."]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "045ec819"]
+[Epoch "Queen"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e5 4. dxe5 Ne4 5. Nf3 Bb4 6. Qb3 Nc6 7. a3 Bxc3+
+8. bxc3 Qe7 9. e3 Nxe5 10. Nxe5 Qxe5 11. Bb2 f4 12. Bd3 Nxf2 13. Kxf2 Qxe3+
+14. Kf1 Qxd3+ 15. Kf2 Qd2+ 16. Kf1 f3 17. gxf3 Rf8 18. Re1+ Kd8 19. Qd1
+Qxb2 20. Qd3 d6 21. h4 Bg4 0-1
+

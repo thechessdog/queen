@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lorenzen, I."]
+[Black "Birnbaum, D."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c73f2da4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. f4 b5 8.
+Bd3 Bb7 9. Qf3 Be7 10. Be3 Nbd7 11. O-O Rc8 12. f5 e5 13. Nb3 Nb6 14. Na5
+Ba8 15. a4 d5 16. axb5 d4 17. Bd2 dxc3 18. Bxc3 Bc5+ 19. Kh1 Bd4 20. Bxd4
+Qxd4 21. Rfe1 axb5 22. Bxb5+ Ke7 23. c3 Qc5 24. Ba6 Rc7 25. Nb3 Qd6 26. Bb5
+Rcc8 27. Rad1 Qc7 28. Nd2 Rhd8 29. c4 Kf8 30. Qa3+ Qd6 31. Nf3 Qxa3 32.
+Rxd8+ Rxd8 33. bxa3 Bxe4 34. Nxe5 Rd2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Flack"]
+[Black "Winning"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "b53d8683"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 c5 7. e5 cxd4 8.
+a3 dxc3 9. axb4 cxb2 10. Bxb2 Qb6 11. O-O-O Rg6 12. Qf4 Ne4 13. Nh3 Nc6 14.
+f3 Nxb4 15. fxe4 Na2+ 16. Kd2 Qxb2 17. Ng5 Rg7 18. Qf6 Qd4+ 19. Ke2 Nc3+
+20. Kf3 Qxd1+ 21. Kf4 Qd2+ 22. Kg4 Qxg5+ 23. Qxg5 Rxg5+ 24. Kxg5 Nxe4+ 1-0
+

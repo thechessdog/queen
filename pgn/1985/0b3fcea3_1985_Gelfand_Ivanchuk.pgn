@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "0b3fcea3"]
+[Epoch "Queen"]
+[WhiteID "2805677"]
+[BlackID "14100010"]
+[WhiteCountry "ISR"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 Qc7 11. Be2 Bd7 12. g4 b5 13. g5 hxg5 14. fxg5 Nh5
+15. g6 fxg6 16. Bxh5 Rxh5 17. a3 1/2-1/2

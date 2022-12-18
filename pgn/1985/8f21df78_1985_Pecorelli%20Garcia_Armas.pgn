@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Pecorelli Garcia, Humberto"]
+[Black "Armas Gutierrez, Jorge Enrique"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "8f21df78"]
+[Epoch "Queen"]
+[WhiteID "3500233"]
+[WhiteCountry "CUB"]
+[BlackID "3500101"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 h6 5. Bxf6 Qxf6 6. Nbd2 b6 7. Bd3 Bb7 8.
+O-O g6 9. c3 cxd4 10. exd4 Bg7 11. a4 O-O 12. a5 Qd8 13. a6 Bd5 14. Re1 Nc6 15.
+Nc4 Bxf3 1/2-1/2

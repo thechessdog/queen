@@ -1,0 +1,19 @@
+[Event "Noviki-A"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szilagyi, Peter"]
+[Black "Bischoff, Klaus"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "1ba4a21c"]
+[Epoch "Queen"]
+[WhiteID "700355"]
+[WhiteCountry "HUN"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. Nf3 c5 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Nf6 6. Nc3 d6 7. b3 Be7 8. d4
+cxd4 9. Nxd4 Bxg2 10. Kxg2 a6 11. e3 Qc7 12. Bb2 Qb7+ 13. Qf3 Qxf3+ 14. Kxf3
+O-O 15. Ke2 Rc8 16. Rfc1 Nbd7 17. f4 g6 18. Kf3 Rab8 19. g4 h6 1/2-1/2

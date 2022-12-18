@@ -1,0 +1,26 @@
+[Event "Budel zt"]
+[Site "Budel zt"]
+[Date "1987.05.01"]
+[Round "1"]
+[White "Haik, Aldo"]
+[Black "Wians, Camille"]
+[Result "0-1"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "56a8a3fe"]
+[Epoch "Queen"]
+[WhiteID "600091"]
+[WhiteCountry "FRA"]
+[BlackID "4000358"]
+[BlackCountry "LUX"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Bf4 a6 10. a4 Qe7 11. Nd2 Nbd7 12. O-O Ne5 13. Qc2 Nfd7 14. Bg3 g5 15.
+a5 Rb8 16. Ra2 Ng6 17. Rb1 Nf4 18. Bf1 Ne5 19. b4 cxb4 20. Rxb4 Bg4 21. Nc4
+Rfc8 22. Na4 Nxc4 23. Rxc4 Rxc4 24. Bxc4 Rc8 25. Nb6 Ne2+ 26. Kf1 Nxg3+ 27.
+hxg3 Re8 28. f3 Bh5 29. g4 Bg6 30. Bb3 h5 31. gxh5 Bxh5 32. Ba4 Rd8 33. g4 Bg6
+34. Kg2 Be5 35. Nc4 Rc8 36. Qd3 Bf4 37. Rc2 Qf6 38. Qd1 Qh8 39. Qh1 Qd4 40. Qf1
+Qh8 41. Qg1 Rc5 42. Bb3 Qh4 43. Rc3 Rxc4 44. Bxc4 Be5 45. Rd3 Kg7 46. Kf1 Qh8
+47. Ke2 Qc8 48. Bb3 Qc7 49. Qb6 Qc1 50. Bd1 Bg3 51. Qb4 Kh7 52. Qd2 Qc5 53. Qe3
+Qxa5 54. Qxg5 Qe1# 0-1

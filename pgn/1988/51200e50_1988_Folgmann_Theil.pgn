@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Folgmann"]
+[Black "Theil"]
+[Result "0-1"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "51200e50"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 O-O 7. O-O Nb6
+8. Nc3 Nc6 9. e3 Re8 10. d5 Na5 11. Nd4 Bd7 12. e4 c6 13. dxc6 Bxc6 14.
+Nce2 Ba4 15. b3 Bb5 16. Be3 Bxe2 17. Nxe2 Bxa1 18. Qxa1 e5 19. Nc3 Nc6 20.
+Rd1 Qf6 21. h4 Nd4 22. Bxd4 exd4 23. Ne2 Rad8 24. f4 Nd5 25. Qxd4 Qxd4+ 26.
+Rxd4 Ne3 27. Bf3 Rxd4 28. Nxd4 Rd8 29. Ne2 Rd2 30. Kf2 Nd1+ 31. Ke1 Rd3 32.
+e5 Rxf3 33. Kxd1 h5 34. Kd2 a5 35. Kc2 Kf8 36. Kd2 Ke7 0-1
+

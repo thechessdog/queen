@@ -1,0 +1,19 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pesch, Werner"]
+[Black "Braun, Michael"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "60e549cd"]
+[Epoch "Queen"]
+[BlackID "4601203"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+O-O 9. h3 Qc7 10. g4 Nc6 11. Nde2 b5 12. a3 Bb7 13. g5 Nd7 14. f4 b4 15. axb4
+Nxb4 16. f5 exf5 17. Rxf5 f6 18. gxf6 Bxf6 19. Be3 Be5 20. Nd4 Rxf5 21. Nxf5
+Nf6 22. Qd2 a5 1/2-1/2

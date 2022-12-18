@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Segers, Reinoud"]
+[Black "Buys"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "6d43d3af"]
+[Epoch "Queen"]
+[WhiteID "1055828"]
+[WhiteCountry "NED"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Be7 5. a3 O-O 6. b4 a6 7. b5 axb5 8. cxb5
+e4 9. Ng5 Ne5 10. Ngxe4 Nxe4 11. Nxe4 d5 12. Ng3 d4 13. Bb2 Be6 14. Bxd4 Nc4
+15. Bxc4 Bxc4 16. Bxg7 1-0

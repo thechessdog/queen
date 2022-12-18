@@ -1,0 +1,20 @@
+[Event "Birkerod"]
+[Site "Birkerod"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Jensen, Martin"]
+[Result "1-0"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "167a1d57"]
+[Epoch "Queen"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 b6 4. Bf4 Bb7 5. Nb5 d6 6. d5 a6 7. Nd4 b5 8. cxb5
+Bxd5 9. Nxf5 axb5 10. b3 g6 11. Ne3 Bc6 12. Nc2 Bg7 13. e3 Ne4 14. Nd4 Nc3 15.
+Qd2 b4 16. Nxc6 Nxc6 17. Qc2 O-O 18. Bc4+ Kh8 19. Nf3 e5 20. Bg5 Qe8 21. e4 Nd4
+22. Nxd4 exd4 23. O-O Nxe4 24. Rae1 Qe5 25. Bc1 Rfe8 26. f3 d5 27. Bb5 Rf8 28.
+fxe4 dxe4 29. Rxf8+ Rxf8 30. Bc6 e3 31. Bf3 Qg5 32. Qe4 c5 33. a3 Rb8 34. axb4
+Rxb4 35. Qe8+ Bf8 36. Qxf8# 1-0

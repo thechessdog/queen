@@ -1,0 +1,21 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gallo, E."]
+[Black "Gagliardi, P."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "2b51d142"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bf5 11. Rd1 a5 12. a4 Qd6 13. Bxf6 Bxf6 14.
+Ne4 Qb4+ 15. Qxb4 axb4 16. Ne2 Rxa4 17. O-O Ra2 18. Nc1 Rxb2 19. Nd3 Rc2
+20. Nxf6+ exf6 21. Nxb4 Rc4 22. Nd3 Bxd3 23. Rxd3 Rd8 24. Rb1 Nxd5 25. g3
+Nc7 26. d5 Na6 27. Rb6 Rc1+ 28. Kg2 Nc5 29. Re3 f5 30. Re7 Nd3 31. Be2 Nc5
+32. d6 Ne4 33. Rc7 Rc6 34. Rbxc6 bxc6 35. Rxc6 Rxd6 36. Rxd6 Nxd6 37. f3
+Kg7 38. Kf2 f4 39. gxf4 Kf6 40. Bd3 Ke6 41. Kg3 Kd5 1/2-1/2
+

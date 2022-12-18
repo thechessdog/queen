@@ -1,0 +1,19 @@
+[Event "San Mateo Action"]
+[Site "San Mateo Action"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Valvo, Michael J"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "75360cac"]
+[Epoch "Queen"]
+[WhiteID "2000954"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Be3 O-O 10. f4 b4 11. Na4 Nxe4 12. f5 d5 13. fxe6 fxe6 14. Nf5 Bg5 15.
+Bxg5 Qxg5 16. Bxd5 Ra7 17. Qd4 0-1

@@ -1,0 +1,20 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Borries, W."]
+[Black "Edel, Thomas"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "9daa34b2"]
+[Epoch "Queen"]
+[BlackID "24653233"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5 8.
+O-O Be7 9. Qe2 O-O 10. Rd1 Qc7 11. c3 Nb6 12. Ne4 c4 13. Bc2 Nbd5 14. Ne5 b5
+15. Nxf6+ Nxf6 16. Bf4 Qb6 17. Bg5 Bb7 18. Bxf6 Bxf6 19. Nd7 Qc6 20. Nxf6+ gxf6
+21. d5 Qc5 22. Qh5 f5 23. Qg5+ Kh8 24. Qf6+ Kg8 25. Rd4 Rae8 26. d6 Qc6 27. f3
+Qd7 28. Rh4 1-0

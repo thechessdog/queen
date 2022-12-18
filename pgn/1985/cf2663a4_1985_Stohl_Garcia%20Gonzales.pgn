@@ -1,0 +1,18 @@
+[Event "DSV-Turnier"]
+[Site "Potsdam"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Stohl, Igor"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "cf2663a4"]
+[Epoch "Queen"]
+[WhiteID "14900025"]
+[WhiteCountry "SVK"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Nb6 11. a4 1/2-1/2

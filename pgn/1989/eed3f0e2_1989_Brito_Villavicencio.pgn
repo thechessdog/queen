@@ -1,0 +1,15 @@
+[Event "Alicante op"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brito, Alfredo"]
+[Black "Villavicencio, Adalberto"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "eed3f0e2"]
+[Epoch "Queen"]
+
+1. b3 Nf6 2. Bb2 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. d4 Nbd7 7. O-O e5 8. dxe5
+Ng4 9. Nbd2 Ndxe5 10. Nxe5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Poletaev, L."]
+[Black "Labuz, L."]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "87073a0c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Be3 O-O
+8. Bb3 Na6 9. f3 Nc5 10. Qd2 a6 11. g4 Qc7 12. h4 b5 13. a3 Nfd7 14. g5 Nb6
+15. h5 Rb8 16. g6 Nc4 17. Bxc4 bxc4 18. h6 fxg6 19. hxg7 Rf7 20. Rxh7 Kxh7
+21. Qf2 Kxg7 22. O-O-O Kg8 23. Rg1 Bf8 24. Rxg6+ Rg7 25. Rh6 Rh7 26. Rg6+
+Kh8 27. Qg2 Bg7 28. Nf5 exf5 29. Nd5 Qf7 30. Rxd6 Nb7 31. Rb6 fxe4 32. Nf4
+exf3 33. Qxf3 Bf5 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wheeler"]
+[Black "Walters"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "584324b3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Bg6 5. e3 Nbd7 6. Bd3 c6 7. Qd2 Bxd3
+8. cxd3 Qa5 9. Nge2 h6 10. Bh4 e6 11. a3 Be7 12. O-O O-O 13. b4 Qd8 14. Bg3
+Nh5 15. Bf2 f5 16. Rae1 g5 17. e4 a5 18. Na2 axb4 19. axb4 Ra3 20. Rb1 Qa8
+21. Rb2 Qa6 22. Nac3 b5 23. g4 fxg4 24. fxg4 Nhf6 25. h3 Nb6 26. Ng3 dxe4
+27. Ncxe4 Nxe4 28. Nxe4 Nd5 29. h4 Nf4 30. hxg5 Nxd3 31. Qc2 hxg5 32. Nc5
+Bxc5 33. Ra2 Qc8 34. Qxc5 e5 35. Rfa1 Qxg4+ 0-1
+

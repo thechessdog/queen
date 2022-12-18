@@ -1,0 +1,20 @@
+[Event "Poznan-B"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "10"]
+[White "Jozefczak, A."]
+[Black "Jezierski, Piotr"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "ece844e8"]
+[Epoch "Queen"]
+[BlackID "1101080"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. O-O Be7 9. c4 c6 10. cxd5 cxd5 11. b3 O-O 12. Bb2 Bb7 13. Nd2 Qb6 14. Qf3
+Bc5 15. Qf4 Qb4 16. Qxb4 Bxb4 17. Nf3 Ne4 18. Rac1 Bd6 19. Rfd1 Bf4 20. Rc2
+Rac8 21. Rxc8 Rxc8 22. g3 Bh6 23. Nd4 g6 24. Nb5 a6 25. Bxe4 dxe4 26. Nd6 Rd8
+27. Bf6 Rd7 28. Rd4 Bc6 29. Nf5 gxf5 0-1

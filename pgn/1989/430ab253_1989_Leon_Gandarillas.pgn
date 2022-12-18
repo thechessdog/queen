@@ -1,0 +1,21 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Leon, J."]
+[Black "Gandarillas, R."]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "430ab253"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c6 7. Bd3 Nbd7 8. O-O
+dxc4 9. Bxc4 Nb6 10. Bd3 Nbd5 11. Nxd5 exd5 12. Rc1 Bg4 13. h3 Bh5 14. Be2 Ne4
+15. a3 Bd6 16. Bxd6 Qxd6 17. Nd2 Bg6 18. Nxe4 Bxe4 19. Bg4 f5 20. Bh5 f4 21. f3
+Bf5 22. exf4 Qxf4 23. Bg4 Rae8 24. Kh1 Bxg4 25. fxg4 Qxf1+ 26. Qxf1 Rxf1+ 27.
+Rxf1 Re2 28. b3 Rd2 29. Rf4 Rd3 30. Rf3 Rxd4 31. Kh2 Re4 32. Rd3 Kf7 33. Kg3
+Ke7 34. Kf3 Kd6 35. b4 b6 36. h4 c5 37. bxc5+ bxc5 38. Rb3 Re7 39. g5 d4 40. g4
+Kd5 41. h5 g6 42. Kf4 Kc4 43. Rb1 d3 44. Rc1+ Kd4 45. a4 d2 46. Rd1 Kd3 47. Kf3
+Re1 0-1

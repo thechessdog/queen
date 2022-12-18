@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "67aa501f"]
+[Epoch "Queen"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Nf3 e6 8. Bd3
+Nc6 9. O-O g6 10. Qe1 Bg7 11. Kh1 b5 12. e5 dxe5 13. fxe5 Nd7 14. Bxb5 Ncxe5
+1/2-1/2

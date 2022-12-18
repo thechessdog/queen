@@ -1,0 +1,18 @@
+[Event "WFW"]
+[Site "Londen"]
+[Date "1989.05.01"]
+[Round "1"]
+[White "Wilder, Michael"]
+[Black "Hodgson, Julian M"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "f0d450f8"]
+[Epoch "Queen"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Rc1
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c6 12. Be2 Qd6 13. Qb3 Be7 14. Rb1 Nd7
+15. O-O a5 16. bxa5 Rxa5 17. a4 Bd8 18. Rfd1 Re8 19. Bf1 h5 20. Qc2 1/2-1/2

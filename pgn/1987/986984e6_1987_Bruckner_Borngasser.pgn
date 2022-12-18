@@ -1,0 +1,20 @@
+[Event "Bad Neuenahr"]
+[Site "Bad Neuenahr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bruckner, Thomas"]
+[Black "Borngaesser, Rene"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "986984e6"]
+[Epoch "Queen"]
+[WhiteID "1642391"]
+[WhiteCountry "AUT"]
+[BlackID "4600940"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Bd3 Nc6 6. O-O f6 7. Qe2 fxe5 8. Nxe5
+Nf6 9. Bf4 Bd6 10. Nd2 O-O 11. Ndf3 Bxe5 12. Nxe5 Bd7 13. Nxc6 bxc6 14. Bd6 Rf7
+15. Bc5 Qc7 16. Bxd4 c5 17. Be5 Qb6 1/2-1/2

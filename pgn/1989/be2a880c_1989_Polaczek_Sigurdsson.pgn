@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Polaczek"]
+[Black "Sigurdsson"]
+[Result "1-0"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "be2a880c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 O-O
+8. Nc3 d5 9. cxd5 exd5 10. O-O Re8 11. Rac1 Ne4 12. Qf4 c6 13. Ne5 f6 14.
+Ng4 Ng5 15. Rfd1 Na6 16. h4 Ne6 17. Qf5 Bc8 18. Qf3 Bb7 19. e4 Nac7 20.
+exd5 Nxd5 21. Nxd5 Qxd5 22. Nxf6+ 1-0
+

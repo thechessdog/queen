@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1987.02.01"]
+[Round "1"]
+[White "Portisch, Lajos"]
+[Black "Arnason, Jon L"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "26e2864a"]
+[Epoch "Queen"]
+[WhiteID "700037"]
+[WhiteCountry "HUN"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e3 cxd4 8. exd4
+Be7 9. Bd3 Bxf3 10. gxf3 Nc6 11. Be3 Rc8 12. O-O Na5 13. Qe2 O-O 14. Rac1 d5
+15. cxd5 1/2-1/2

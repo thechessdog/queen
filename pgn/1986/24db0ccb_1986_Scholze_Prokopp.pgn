@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scholze"]
+[Black "Prokopp"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation"]
+[HashCode "24db0ccb"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8.
+Qg4 Kf8 9. h4 f5 10. exf6 Qxf6 11. Nf3 Nc6 12. Qf4 Nxd2 13. Qxd2 e5 14. Bb5
+exd4 15. Bxc6 dxc3 16. Qxd5 bxc6 17. Qc5+ Qe7+ 18. Qxe7+ Kxe7 19. Ne5 Kf6
+20. f4 Rb8 21. O-O Rb2 22. Nc4 Ba6 23. Nxb2 cxb2 24. Rab1 Bxf1 25. Kxf1 Rb8
+26. Kf2 Kf5 27. Kf3 h5 0-1
+

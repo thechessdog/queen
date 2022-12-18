@@ -1,0 +1,23 @@
+[Event "Hastings op8889"]
+[Site "Hastings"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Neumann, Frank"]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "0aa03a6d"]
+[Epoch "Queen"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Ba6 13. Bf4 Bxc4 14. Bxc4 a6 15.
+Re1 Qd7 16. e5 dxe5 17. Bxe5 Nfe8 18. Bxg7 Kxg7 19. Qd2 Nd6 20. Bd3 Rfe8 21.
+Ne4 Nxe4 22. Bxe4 Qd6 23. Qc3+ f6 24. Bf3 Rxe1+ 25. Rxe1 Re8 26. Rxe8 Nxe8 27.
+h4 h5 28. Qc1 b5 29. axb5 axb5 30. Qa1 c4 31. Qa7+ Nc7 32. Qd4 Kf7 33. Qd2 f5
+34. Qd4 Ne8 35. Kf1 Qf6 36. Qa7+ Qe7 37. Qd4 Nd6 38. Qc5 Kf6 39. Qb6 f4 40. Qb8
+Ke5 41. g3 fxg3 42. fxg3 Kd4 43. Qb6+ Kd3 44. Qa5 Qf6 45. Qa3+ Kc2 46. Kg2 Kb1
+47. Kg1 Qd4+ 48. Kf1 Nf5 49. Qb4 Ne3+ 50. Ke2 Nxd5 51. Bxd5 Qxd5 0-1

@@ -1,0 +1,23 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "Hulak, Krunoslav"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "33a62f47"]
+[Epoch "Queen"]
+[BlackCountry "HRV"]
+[WhiteID "2000075"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Ba6 13. Bg5 Qd7 14. b3 Rfe8 15.
+Qc2 Ng4 16. Rae1 Bd4 17. Bf4 Ne5 18. h3 f5 19. Bxe5 Bxe5 20. Nxe5 dxe5 21. exf5
+gxf5 22. d6 Qxd6 23. Bxa6 Nxa6 24. Qxf5 Qe6 25. Qxe6+ Rxe6 26. f4 c4 27. bxc4
+Rc8 28. f5 Rd6 29. f6 Rxc4 30. f7+ Kf8 31. Ne4 Rg6 32. Nf6 Kxf7 33. Nd7+ Kg7
+34. Nxe5 Rxa4 35. Nxg6 hxg6 36. Re7+ Kh6 37. Rxa7 b5 38. Rf6 Nc5 39. Rxa4 Nxa4
+40. Rf4 Kg5 41. Rb4 Nc3 42. Rb3 Ne2+ 43. Kh2 Nd4 44. Rb4 1-0

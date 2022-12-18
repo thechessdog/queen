@@ -1,0 +1,16 @@
+[Event "Aalborg op"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Steffens, George"]
+[Black "Bayne"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "80fe20a0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 e6 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 Bd6 7. Bd3 Nc6
+8. Bg5 Qxg5 9. Nxg5 O-O 10. Bxh7+ Kh8 11. Qh5 g6 12. Qh6 Bd7 13. Bxg6+ Kg8 14.
+Qh7# 1-0

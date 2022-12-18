@@ -1,0 +1,22 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Buchenau, Frank"]
+[Black "Browne, Walter S"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "0ce29967"]
+[Epoch "Queen"]
+[WhiteID "4604350"]
+[WhiteCountry "GER"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. g3 e6 3. Bg2 Nc6 4. Ne2 d6 5. c3 Nf6 6. d4 d5 7. e5 Nd7 8. O-O Qc7
+9. Be3 b6 10. f4 f5 11. g4 Ne7 12. Ng3 g6 13. gxf5 gxf5 14. Qh5+ Ng6 15. c4
+cxd4 16. cxd5 dxe3 17. dxe6 Nxe5 18. Bxa8 Ng4 19. Qxf5 Bc5 20. Ne2 Nf2 21. Nbc3
+Rf8 22. Qd5 Nh3+ 23. Kh1 Nf2+ 24. Kg1 Nh3+ 25. Kh1 Nf2+ 26. Rxf2 exf2 27. Bc6+
+Ke7 28. f5 Ne5 29. Qxc5+ bxc5 30. Nd5+ Kd6 31. Nxc7 Kxc6 32. e7 Kxc7 33. exf8=Q
+Bb7# 0-1

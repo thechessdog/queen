@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jeute"]
+[Black "Handke"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "1fbc6e59"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. Nxe5
+Nxe5 8. O-O d6 9. Nc3 O-O 10. Na4 b6 11. a3 a5 12. Bd2 Bd7 13. Nxc5 bxc5
+14. f4 Nc6 15. Bc3 Qe7 16. Rf3 f6 17. Rg3 Rae8 18. Bh5 Rb8 19. Qd3 a4 20.
+Rf1 Be6 21. Bf3 Qe8 22. Bd1 Ne7 23. f5 Bd7 24. Rf4 Kh8 25. Qf1 Qf7 26. Rh3
+Ng8 27. Rfh4 h6 28. Bh5 Qe7 29. Bg6 Be8 30. Qf3 Bxg6 31. fxg6 Qd7 32. g4
+Rb3 33. g5 Rxc3 34. gxh6 1-0
+

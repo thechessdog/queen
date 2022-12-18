@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wuttke, R."]
+[Black "Vodiasov, E."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "26a1d7f1"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 f6 8. exf6
+Nxf6 9. b3 cxb3 10. Nxb3 Bd6 11. c4 dxc4 12. Bxc4 O-O 13. O-O Bd7 14. Re1
+Rae8 15. Ne5 Bc8 16. Bf4 Ne7 17. Bd3 Qc7 18. Rc1 Qb8 19. Bg3 Nf5 20. Nc5
+Nxg3 21. hxg3 b6 22. Nc6 Qc7 23. Nxe6 Bxe6 24. Rxe6 Rxe6 25. Bc4 Re8 26.
+Qb3 Qf7 27. Ne5 Bxe5 28. dxe5 Ne4 29. Rc2 Nc5 30. Qa2 Kh8 0-1
+

@@ -1,0 +1,19 @@
+[Event "NRW-Liga I"]
+[Site "Bielefeld"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Luetke, Jens"]
+[Black "Steil, Jochen Jacob"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "d084c19b"]
+[Epoch "Queen"]
+[WhiteID "4603494"]
+[WhiteCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bd3 Na6 6. e5 Nd7 7. Qf3 Nb4 8. Nh3
+c5 9. Ng5 Nb6 10. dxc5 dxc5 11. Be4 f5 12. exf6 exf6 13. Nxh7 f5 14. Qg3 Kf7
+15. Ng5+ Kg8 16. a3 Qe7 17. axb4 cxb4 18. Ne2 fxe4 19. Qb3+ Kf8 20. Be3 Rb8 21.
+Bc5 1-0

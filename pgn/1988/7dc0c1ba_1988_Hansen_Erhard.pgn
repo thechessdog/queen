@@ -1,0 +1,19 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansen, Ib"]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "7dc0c1ba"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Ne2 g6 6. f4 cxd4 7. cxd4 Bg4 8. b3
+Qb6 9. Bb2 Nh6 10. Nbc3 Rd8 11. Na4 Qc7 12. Rc1 Nf5 13. Qd2 e6 14. a3 Qe7
+15. b4 Bxe2 16. Bxe2 Qh4+ 17. Kf1 Bh6 18. g4 Ng3+ 19. hxg3 Qxh1+ 20. Kf2
+Qh2+ 21. Kf3 g5 22. fxg5 Bf8 23. b5 Ne7 24. b6 Nc6 25. bxa7 h5 26. gxh5
+Qxh5+ 27. Kf4 Qh2 28. Qc2 Rh4+ 29. Kf3 Rh3 30. Ke3 Qxg3+ 31. Kd2 Qe3+ 0-1
+

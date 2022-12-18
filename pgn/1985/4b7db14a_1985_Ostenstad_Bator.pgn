@@ -1,0 +1,27 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Bator, Robert"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "4b7db14a"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "1700405"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 a6 10. Bg5 b5 11. Bd3 Bb7 12. Rc1 Nbd7 13. Qe2 h6 14. Bh4 Be7 15.
+Ne5 Nd5 16. Bxe7 Qxe7 17. Nxd5 Bxd5 18. Rc7 Rad8 19. b3 Qd6 20. Rfc1 Nf6 21.
+R7c5 Ba8 22. Rd1 Qb6 23. Qc2 Rd6 24. Bf1 Be4 25. Qc3 Nd7 26. Re1 Bb7 27. Qe3
+Nf6 28. a4 Rd5 29. axb5 axb5 30. h3 Rfd8 31. Rec1 Nd7 32. Nxd7 R5xd7 33. Rxb5
+Qa7 34. Rd1 Bc6 35. Rb4 Qa3 36. Qc3 Qa5 37. Ra1 Qd5 38. Rc4 Bb7 39. Ra5 Qd6 40.
+Ra1 Bd5 41. Rc5 Be4 42. Ra4 Bb7 43. Bb5 Re7 44. Bc6 Bxc6 45. Rxc6 Qb8 46. Rac4
+Red7 47. Rc8 Qb7 48. Rxd8+ Rxd8 49. Rc7 Qa6 50. b4 Rd6 51. Kh2 Qe2 52. Rxf7 Qe4
+53. Rxg7+ Kxg7 54. Qg3+ Kf7 55. Qxd6 Qe2 56. Qf4+ Ke7 57. Qe3 Qc4 58. Qe5 Qa2
+59. b5 Qxf2 60. b6 Qb2 61. Qc7+ Kf6 62. b7 Qxd4 63. b8=Q 1-0

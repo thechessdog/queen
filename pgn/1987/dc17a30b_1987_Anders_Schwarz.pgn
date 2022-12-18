@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Anders"]
+[Black "Schwarz"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "dc17a30b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. Qb3 h4 10. Nxh4 Bh3 11. Ndf3 Be7 12. Rd1 Bxh4 13. Nxh4 Bxg2
+14. Kxg2 Nxe5 15. f3 Ne7 16. Be3 c5 17. Bf4 N5g6 0-1
+

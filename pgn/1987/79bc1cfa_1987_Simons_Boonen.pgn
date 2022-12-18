@@ -1,0 +1,22 @@
+[Event "TSV Inv"]
+[Site "TSV Inv"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Simons, M."]
+[Black "Boonen, P."]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Margate (Alekhine) variation"]
+[HashCode "79bc1cfa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Bb5 Bd7
+8. O-O Be7 9. Nb3 a6 10. Be2 Qc7 11. Qd2 h6 12. Bf4 Rd8 13. Rfd1 Bc8 14.
+Qe1 O-O 15. Rd2 b5 16. Rad1 b4 17. Nb1 Nxe4 18. Rd3 e5 19. Bc1 f5 20. Bf3
+Kh8 21. Re3 Ng5 22. Bxc6 Qxc6 23. Qxb4 f4 24. Rc3 Qd7 25. Qb6 d5 26. Rc7
+Qd6 27. Qa7 Rd7 28. Rxd7 Bxd7 29. Nc3 Be6 30. Na5 d4 31. Nc6 Bf6 32. Qxa6
+Rc8 33. Nb4 Qxa6 34. Nxa6 dxc3 35. b4 Bxa2 36. Nc5 Rb8 37. Nd3 Rd8 38. f3
+Bc4 39. Kf2 Ne6 40. Nb2 cxb2 41. Rxd8+ Bxd8 42. Bxb2 Bb6+ 43. Ke1 Nd4 44.
+c3 Nb5 45. Kd2 Be3+ 46. Kc2 Kg8 47. g3 g5 48. gxf4 exf4 0-1
+

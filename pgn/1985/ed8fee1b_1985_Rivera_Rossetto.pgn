@@ -1,0 +1,17 @@
+[Event "Colonia"]
+[Site "Colonia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rivera"]
+[Black "Rossetto, Hector"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "ed8fee1b"]
+[Epoch "Queen"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 f5 8.
+dxe5 O-O 9. c3 d5 10. exd6 Bxd6 11. Nbd2 Bd7 12. Nxe4 fxe4 13. Bb3+ Kh8 14. Ng5
+Ne5 15. Rxe4 Qf6 16. Rf4 Bf5 17. Nxh7 1-0

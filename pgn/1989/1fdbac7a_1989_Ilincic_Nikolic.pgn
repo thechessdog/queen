@@ -1,0 +1,20 @@
+[Event "Pljevlja"]
+[Site "Pljevlja"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ilincic, Zlatko"]
+[Black "Nikolic, Zivoslav"]
+[Result "1/2-1/2"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "1fdbac7a"]
+[Epoch "Queen"]
+[WhiteID "900346"]
+[WhiteCountry "SRB"]
+[BlackID "900540"]
+[BlackCountry "SRB"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. Nbd2 Nf6 5. e5 Ne4 6. Bd3 Nxd2 7. Bxd2 Nb4 8.
+Bxb4 Bxb4+ 9. c3 Be7 10. O-O c5 11. Bb5+ Bd7 12. Bxd7+ Qxd7 13. dxc5 Bxc5 14.
+Qd3 a6 15. Rfd1 Qc7 1/2-1/2

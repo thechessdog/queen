@@ -1,0 +1,17 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "8"]
+[White "Gikas, Basilius"]
+[Black "Konings, Leon"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "cf64be16"]
+[Epoch "Queen"]
+[BlackID "1001299"]
+[BlackCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 6. Bd3 Nbd7 7. f4 b4 8. Nce2
+Qb6 9. Nf3 Ba6 10. O-O c5 11. Kh1 c4 12. e5 cxd3 13. exf6 dxe2 14. Rf2 Nxf6 0-1

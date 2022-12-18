@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petran, Pal"]
+[Black "Palkovi, Jozsef"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "e45b2f77"]
+[Epoch "Queen"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackID "700150"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bb5+
+Bd7 9. Bxd7+ Nbxd7 10. Bf4 Qe7 11. O-O O-O 12. Nd2 a6 13. a4 Ne8 14. Qc2 Rb8
+15. a5 b5 16. axb6 Rxb6 17. Nc4 Rb4 18. Nd1 Nb6 19. Nde3 Qf6 20. Bg3 Nxc4 21.
+Nxc4 Qd4 22. Rac1 f5 23. exf5 gxf5 24. Rfd1 Qf6 25. Bf4 Qg6 26. b3 Bd4 27. Rd3
+Kh8 28. Re1 Rb7 29. Rg3 Qf7 30. Re6 Re7 31. Qe2 Rxe6 32. Qxe6 Qxe6 33. dxe6 d5
+34. Nd6 Nxd6 35. Bxd6 Re8 36. e7 f4 37. Rf3 Bf6 0-1

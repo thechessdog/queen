@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Henrichs, Thomas"]
+[Black "Burkart, Patrick"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "2db8cec6"]
+[Epoch "Queen"]
+[WhiteID "4626605"]
+[BlackID "4605071"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6 6. Nc3 dxe5 7. fxe5 Bg7 8. Be3
+O-O 9. Nf3 Be6 10. d5 Bg4 11. Qd4 Bxf3 12. gxf3 c6 13. Bh3 cxd5 14. cxd5 Qc7
+15. f4 f6 16. Be6+ Kh8 17. O-O fxe5 18. fxe5 N8d7 19. d6 exd6 20. exd6 Qc6 21.
+Ne4 Rae8 22. Ng5 Rxe6 23. Qh4 h5 24. Nxe6 Rxf1+ 25. Rxf1 Nf6 26. Rxf6 1-0

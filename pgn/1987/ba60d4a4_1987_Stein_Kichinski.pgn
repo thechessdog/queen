@@ -1,0 +1,18 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stein, Leonid"]
+[Black "Kichinski, Robert"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "ba60d4a4"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Qb6 6. Nc3 Bd7 7. O-O Nxd4 8.
+Bxd7+ Kxd7 9. Nxd4 cxd4 10. Na4 Qb4 11. c3 dxc3 12. bxc3 Qc4 13. Qb3 Qxb3 14.
+axb3 b5 15. Nb6+ 1-0

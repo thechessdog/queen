@@ -1,0 +1,20 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Horn"]
+[Black "Taylor"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "7a4fbfae"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Ng4
+8. Bb5+ Kf8 9. Bc1 Qb6 10. Nd5 Qxd4 11. Qxd4 Bxd4 12. c3 Bxf2+ 13. Kf1 Bb6
+14. h3 h5 15. hxg4 Bxg4 16. Nxb6 axb6 17. Be3 Bd7 18. c4 Bxb5 19. cxb5 Nd7
+20. b4 Kg7 21. Ke2 Rhc8 22. Rhc1 Rxc1 23. Bxc1 Kf6 24. a4 Ke6 25. Be3 f6
+26. Kd3 d5 27. exd5+ Kxd5 28. a5 bxa5 29. Rxa5 Ne5+ 30. Kc3 Rc8+ 31. Kb3
+Nc4 32. b6+ Nxa5+ 33. bxa5 e5 34. Kb4 Rc2 35. Kb3 Rc8 36. Kb4 Kc6 0-1
+

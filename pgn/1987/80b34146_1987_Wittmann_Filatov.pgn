@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wittmann, Walter"]
+[Black "Filatov, E."]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "80b34146"]
+[Epoch "Queen"]
+[WhiteID "1600060"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nb6 12. Rhf1 e5 13. Nf5 Bxf5 14. exf5
+O-O-O 15. Bxf6 Bxf6 16. fxe5 dxe5 17. Ne4 Nd5 18. Nxf6 Nxf6 19. Rfe1 Rd4 20. c3
+e4 21. Bc2 Qf4+ 22. Kb1 Rxd1+ 23. Rxd1 Rd8 24. Rxd8+ Kxd8 25. b3 Ke7 0-1

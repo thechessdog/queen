@@ -1,0 +1,23 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Delanoy, Arnaud"]
+[Black "Volke, Karsten"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "e6b462e9"]
+[Epoch "Queen"]
+[BlackID "4611411"]
+[BlackCountry "GER"]
+[WhiteID "603961"]
+[WhiteCountry "FRA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Be3 d5 6. e5 h5 7. Nf3 Bg4 8. h3 Bxf3
+9. Qxf3 e6 10. g3 Nd7 11. Bf2 Qa5 12. a3 Bf8 13. g4 Bb4 14. Bg2 hxg4 15. hxg4
+Rxh1+ 16. Bxh1 Nb6 17. Ra2 Bxc3+ 18. Qxc3 Qxc3+ 19. bxc3 Na4 20. Kd2 Ne7 21.
+Ra1 Kd7 22. Bf3 Rh8 23. Bg3 Nc8 24. Be2 Ncb6 25. Rg1 Nb2 26. f5 exf5 27. gxf5
+gxf5 28. Bf4 Ke6 29. Bg5 Rh2 30. Bf4 N6c4+ 31. Ke1 Rh8 32. Kf2 Na4 33. Rg3 Nxa3
+34. Bg5 Nxc3 35. Bd3 Ne4+ 0-1

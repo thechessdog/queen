@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Borngaesser, Rene"]
+[Black "Schmidt, Bodo"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f14a1e54"]
+[Epoch "Queen"]
+[WhiteID "4600940"]
+[WhiteCountry "GER"]
+[BlackID "4601505"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 g6 6. c4 dxc4 7. Nxc4 Nb6 8. Nxb6
+axb6 9. Bc4 Nc6 10. Nf3 Ne7 11. O-O Bd7 12. Ng5 Bc6 13. f5 gxf5 14. Nxf7 Kxf7
+15. Qh5+ Ng6 16. Qxf5+ 1-0

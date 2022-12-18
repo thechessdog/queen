@@ -1,0 +1,22 @@
+[Event "corr ch-Europe"]
+[Site "corr ch-Europe"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Antonov"]
+[Black "Orljanski"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9a56fed7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Qxd5
+8. Na3 Qd8 9. Nc4 Nf5 10. a4 Bd6 11. Nxd6+ Qxd6 12. d3 O-O 13. c3 b6 14.
+Ng5 f6 15. Ne4 Qc7 16. Qf3 Bd7 17. b3 e5 18. Ba3 Rfe8 19. g3 Nfe7 20. d4
+Be6 21. dxc5 Bd5 22. Qg4 Rf8 23. cxb6 Qxb6 24. Nc5 f5 25. Qh4 Ra7 26. Rad1
+e4 27. Qf4 Ng6 28. Qc1 Bf7 29. Nd7 Rxd7 30. Rxd7 Nce5 31. Bxf8 Nf3+ 32. Kh1
+Nxf8 33. Rd4 Nxd4 34. cxd4 Qxb3 35. Qc5 g6 36. a5 Ne6 37. Qb6 Qc3 38. Re3
+Qd2 39. Kg2 Nxd4 40. Qxa6 Kg7 41. Qd6 g5 42. g4 f4 43. Rxe4 Nf3 44. Qxd2
+Nxd2 45. Re7 Kf6 46. Rxf7+ 1-0
+

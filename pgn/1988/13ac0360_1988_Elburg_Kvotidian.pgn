@@ -1,0 +1,21 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Elburg, J."]
+[Black "Kvotidian, F."]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "13ac0360"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. O-O
+Qe7 9. b4 Bd7 10. a4 O-O-O 11. a5 Nb8 12. b5 Nf6 13. e5 dxe5 14. Nxe5 Be6
+15. Qb3 Nd5 16. b6 a6 17. Ba3 Qe8 18. Bxd5 Rxd5 19. bxc7 Rxe5 20. cxb8=Q+
+Kxb8 21. Bd6+ Ka8 22. Qc2 Bf5 23. Qa4 Rb5 24. Na3 Qe3+ 25. Kh1 Bd3 26. Rfe1
+Qg3 27. Nxb5 Qxh4+ 28. Kg1 Bxb5 29. Qd1 g4 30. Bxf4 g3 31. Bxg3 Qxg3 32.
+Qd2 Bf8 33. Re3 Qg5 34. c4 Bc6 35. Re2 Qg4 36. Rae1 f5 37. Rf1 Bd6 38. c5
+Bg3 0-1
+

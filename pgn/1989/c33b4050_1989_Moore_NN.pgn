@@ -1,0 +1,15 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "c33b4050"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 f5 3. exf5 b6 4. Qh5+ g6 5. fxg6 Ba6 6. g7+ Ke7 7. Qxe5+ Kf7
+8. gxh8=N# 1-0
+

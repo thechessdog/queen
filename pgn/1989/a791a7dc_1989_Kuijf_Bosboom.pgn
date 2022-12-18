@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Bosboom, Manuel"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "a791a7dc"]
+[Epoch "Queen"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "1000080"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Nc3 b5 8. Qe2
+Bb7 9. e5 Nc6 10. exf6 Nxd4 11. Qg4 Bc5 12. Ne4 Bxe4 13. Qxe4 d5 14. fxg7 Rg8
+15. Qxh7 Kd7 16. Re1 Nc6 17. a4 b4 18. c4 Qb6 19. Be3 Bxe3 20. Rxe3 d4 21. Rg3
+Ne5 22. Qh5 f5 23. Re1 Kd6 24. Bxf5 exf5 25. Rg6+ 1-0

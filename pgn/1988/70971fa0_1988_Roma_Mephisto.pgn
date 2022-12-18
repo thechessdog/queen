@@ -1,0 +1,32 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roma 68000"]
+[Black "Mephisto MM IV"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Geller variation"]
+[HashCode "70971fa0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. e4 b5 8.
+Bd3 Bb7 9. e5 Nfd7 10. Bg5 Qc7 11. Be3 Nc6 12. Be4 cxd4 13. Bxc6 dxe3 14.
+Bxd7+ Qxd7 15. Qxd7+ Kxd7 16. fxe3 Bc5 17. Nd4 Ke7 18. Nc3 Rad8 19. Rf4
+Rhf8 20. Rd1 Bb6 21. Rh4 h6 22. Rc1 Rc8 23. a3 Rc5 24. Rh5 Rfc8 25. Nb3 g6
+26. Nxc5 gxh5 27. b4 Bxc5 28. bxc5 Rxc5 29. Ne2 Rc4 30. Rxc4 bxc4 31. g3
+Kd7 32. Nc3 Kc6 33. Kf2 a5 34. e4 Kc5 35. Ke3 Bc6 36. Ne2 Ba4 37. Nc3 Be8
+38. h3 Bd7 39. Ne2 Ba4 40. Nc3 Be8 41. Ne2 Bb5 42. Nc3 Bc6 43. Nd1 a4 44.
+Nc3 Bd7 45. Ne2 Bb5 46. Nc3 Bc6 47. Ne2 Bd7 48. Nc3 Be8 49. Ne2 h4 50. gxh4
+Bd7 51. h5 Bb5 52. Nc3 Be8 53. Nd1 c3 54. Nxc3 Kc4 55. Nd1 Kb3 56. Kd4 Kxa3
+57. Kc3 Bb5 58. Nf2 Ka2 59. Kb4 Bc6 60. Kc5 Kb3 61. Kxc6 Kc2 62. Ng4 a3 63.
+Kd6 a2 64. Nxh6 a1=Q 65. Nxf7 Qd1+ 66. Kxe6 Qxh5 67. Nd6 Kd3 68. Kd5 Qxh3
+69. e6 Qh7 70. Ke5 Qc7 71. Kd5 Qg7 72. Kc6 Qe7 73. Kd5 Qg5+ 74. Kc6 Qd8 75.
+e5 Qe7 76. Kd5 Qc7 77. e7 Qxe7 78. e6 Qc7 79. Nf7 Ke3 80. Nd6 Kf4 81. Nf7
+Qb8 82. Kc6 Kf5 83. Nd6+ Kxe6 84. Nb5 Ke5 85. Kc5 Qf8+ 86. Kc4 Qf1+ 87. Kc5
+Qf3 88. Kc4 Qc6+ 89. Kb4 Qd5 90. Nc3 Qd3 91. Nb5 Kd5 92. Nc3+ Kc6 93. Na4
+Kd6 94. Nc3 Qd4+ 95. Kb3 Kc5 96. Na4+ Kd5 97. Nc3+ Ke6 98. Kc2 Ke5 99. Ne2
+Qc4+ 100. Kd2 Qb3 101. Nc3 Kd4 102. Ne2+ Kc4 103. Ke1 Qe3 104. Kd1 Kc5 105.
+Nc1 Kd4 106. Ne2+ Ke4 107. Nc1 Qc3 108. Na2 Qb3+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1987.??.??"]
+[Round "4"]
+[White "Hoi, Carsten"]
+[Black "Cervenka, Imrich"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "fd6c6c2f"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Nc3 b5 8. Bb3
+cxd4 9. exd4 Bb7 10. d5 Nxd5 11. Nxd5 Bxd5 12. Bxd5 Qxd5 13. Qxd5 exd5 14. Re1+
+Be7 15. Bf4 Nc6 16. Rac1 Rc8 17. Nd4 Na7 18. Nf5 1-0

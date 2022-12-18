@@ -1,0 +1,16 @@
+[Event "Endingen HT1"]
+[Site "Endingen HT1"]
+[Date "1987.01.01"]
+[Round "11"]
+[White "Eisele, J."]
+[Black "Raub, Juergen"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "9de70d74"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. c3 Qc7 8.
+Bc4 e6 9. h3 Bh5 10. Qb3 Nd7 11. O-O Bxf3 12. gxf3 O-O-O 13. Be3 Nb6 14. Bxe6+
+fxe6 15. Qxe6+ Qd7 16. Qxf6 Rg8+ 17. Kh1 Qxh3# 0-1

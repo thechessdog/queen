@@ -1,0 +1,20 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Heinola, Vesa"]
+[Black "Lehti, Juhani"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "571ce8da"]
+[Epoch "Queen"]
+[WhiteID "1706063"]
+[BlackID "502090"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. Bc4 Be6 5. Bxe6 fxe6 6. fxe5 Nxe5 7. O-O Nxf3+
+8. Qxf3 Qf6 9. Qh5+ Qg6 10. Qb5+ Ke7 11. Qxb7 Rd8 12. Nc3 Nf6 13. d4 h5 14. e5
+dxe5 15. dxe5 Nd5 16. Nxd5+ Rxd5 17. Qxc7+ Rd7 18. Qc5+ Ke8 19. Qc8+ Ke7 20.
+Be3 1-0

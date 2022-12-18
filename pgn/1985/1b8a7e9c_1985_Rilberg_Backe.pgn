@@ -1,0 +1,28 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rilberg, S."]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "1b8a7e9c"]
+[Epoch "Queen"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 Nc6 10. O-O Qd7 11. Bb2 Na5 12. cxd5 Bxe2 13. Qxe2 exd5 14. b4 Nc4
+15. Rad1 Rfe8 16. Bc1 a5 17. b5 a4 18. f3 c6 19. bxc6 Qxc6 20. Na2 Re6 21. Nb4
+Qb5 22. Rfe1 Rae8 23. Qd3 h5 24. Re2 Nd6 25. Qxb5 Nxb5 26. Rc2 Nd6 27. Rc6 Nc4
+28. Rxe6 Rxe6 29. Kf2 Kf8 30. Ke2 Ke8 31. Kd3 b5 32. Re1 Nd6 33. Na6 Re7 34.
+Bd2 Ra7 35. Nc5 Nb7 36. Bb4 Nxc5+ 37. Bxc5 Rb7 38. e4 Kd7 39. Bf8 g6 40. Rc1
+Rc7 41. Rb1 Rb7 42. e5 Ne8 43. g4 Nc7 44. gxh5 gxh5 45. Rc1 Ne6 46. Bd6 Rb6 47.
+Rb1 f5 48. Rc1 Rc6 49. Rb1 Rc4 50. Rxb5 Rxd4+ 51. Ke3 Kc6 52. Rb8 Rh4 53. Re8
+d4+ 54. Kf2 Kd5 55. Kg3 d3 56. Rb8 Rc4 57. Rb1 h4+ 58. Kf2 f4 59. Rd1 Rc2+ 60.
+Kf1 Kd4 61. Bb4 Rxh2 62. Kg1 Re2 63. Bd2 Rxd2 64. Rxd2 Kc3 65. Rd1 Kc2 66. Ra1
+d2 67. Kg2 d1=Q 68. Rxd1 Kxd1 69. Kh3 Ke2 70. Kg4 h3 71. Kf5 h2 72. Kxe6 h1=Q
+73. Kd6 Qxf3 74. e6 Qd3+ 75. Kc7 Qc4+ 76. Kd7 Qd5+ 77. Ke7 f3 78. Kf6 f2 79. e7
+f1=Q+ 0-1

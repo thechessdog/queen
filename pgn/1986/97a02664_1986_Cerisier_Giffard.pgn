@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Cerisier, Philippe"]
+[Black "Giffard, Nicolas"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "97a02664"]
+[Epoch "Queen"]
+[WhiteID "600733"]
+[WhiteCountry "FRA"]
+[BlackID "600571"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 cxd4 5. cxd4 g6 6. Be3 Bg7 7. Nc3 O-O 8. Qd2
+Nc6 9. O-O-O b5 10. Bxb5 Bd7 11. Bxc6 Bxc6 12. d5 Bd7 13. Nge2 Qa5 14. Bh6 Bxh6
+15. Qxh6 Rfc8 16. Kb1 Rab8 17. Ka1 Rb6 18. Rd2 Ra6 19. a3 Qb6 20. h4 Kh8 21. g4
+Qf2 22. Nd4 Qg3 23. Rc2 Qe5 24. Qd2 Rc4 25. Rd1 Ba4 26. Nxa4 Raxa4 27. Rxc4
+Rxc4 28. Nc6 Qg3 29. Qd3 Ra4 30. Qb5 Qxf3 31. Qxa4 Nxe4 1-0

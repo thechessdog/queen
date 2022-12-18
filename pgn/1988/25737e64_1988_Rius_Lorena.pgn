@@ -1,0 +1,27 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rius Roca"]
+[Black "Lorena"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "25737e64"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Nf3 Be7 7. Be2 Nf6
+8. O-O Bd7 9. a3 O-O 10. Bd3 Qc7 11. Re1 Rac8 12. h3 a6 13. Be3 b5 14. Rc1
+Ne5 15. Bg5 Bc6 16. Qe2 Ba8 17. Nd2 Nc4 18. Bxc4 bxc4 19. Qe3 Rfe8 20. Nf3
+Qb7 21. Rb1 h6 22. Bh4 d5 23. Bxf6 Bxf6 24. e5 Bd8 25. Ne2 Bb6 26. Ned4 Qa7
+27. c3 Bc5 28. Qf4 Qe7 29. Qg3 Bc6 30. Re2 Ba4 31. Rbe1 Rb8 32. Rd2 Rb6 33.
+Qg4 Reb8 34. Ree2 R8b7 35. Nh4 Qd8 36. f4 Qb8 37. f5 Bxd4+ 38. cxd4 Be8 39.
+f6 g6 40. Qf4 Kh7 41. Nf3 Ba4 42. Qh4 Qf8 43. Ng5+ Kg8 44. Nf3 Rb3 45. Rc2
+Rxf3 46. gxf3 Bxc2 47. Rxc2 Rb3 48. Qg3 Qb8 49. Qf2 Qb6 50. Kh2 Rd3 51. Rd2
+Kh7 52. Kg3 Qb3 53. Kg2 g5 54. Qe2 Kg6 55. Kf2 Kf5 56. Rxd3 cxd3 57. Qd2
+Qc2 58. Ke3 h5 59. b4 Qxd2+ 60. Kxd2 Kf4 61. a4 Kxf3 62. Kxd3 g4 63. hxg4
+hxg4 64. b5 axb5 65. axb5 g3 66. b6 g2 67. b7 g1=Q 68. b8=Q Qe3+ 69. Kc2
+Qxd4 70. Qb7 Ke4 71. Qxf7 Qf2+ 72. Kc3 Qf3+ 73. Kb4 Kxe5 74. Qc7+ Kxf6 75.
+Qd8+ Kf5 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Post"]
+[Black "Kerik"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "d2ffeb18"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 Qg6 9. Nd2 O-O-O 10. Qe2 Nh6 11. f3 Bd6 12. Rad1 f5 13. Bxh6
+Qxh6 14. e5 Rhe8 15. f4 Bc5 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuntermann"]
+[Black "Matz"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "80f3a823"]
+[Epoch "Queen"]
+
+1. e4 e6 2. Qe2 b6 3. g3 Nc6 4. Nf3 Nge7 5. d3 d5 6. Bg2 Bb7 7. Bg5 dxe4 8.
+dxe4 Nd4 9. Nxd4 Qxd4 10. Nc3 Qc5 11. Be3 Qb4 12. O-O Nc6 13. Rfd1 a6 14.
+Bf4 Nd4 15. Qd3 O-O-O 16. Ne2 Nxe2+ 17. Qxe2 Be7 18. c3 Qa4 19. b3 Qc6 20.
+Be5 f6 21. Bd4 h5 22. Be3 g5 23. Rxd8+ Bxd8 24. Rc1 h4 25. f3 hxg3 26. hxg3
+Be7 27. c4 Ba3 28. Rd1 Be7 29. Kf2 f5 30. exf5 exf5 31. Rd5 Qe6 32. Rd1 Bf6
+33. Bd4 Qxe2+ 34. Kxe2 Re8+ 0-1
+

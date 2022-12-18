@@ -1,0 +1,23 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Purgin, Nikolaj"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "3d72928f"]
+[Epoch "Queen"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+[BlackID "4106300"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Be6 5. Nd2 c6 6. Ne2 f5 7. Nf4 Bd6 8. g3
+Nd7 9. c4 Bxf4 10. gxf4 Nf6 11. Qb3 O-O 12. Qxb7 Rb8 13. Qxa7 Rxb2 14. Qa3 Rxd2
+15. Kxd2 Ne4+ 16. Ke1 Qh4 17. Qb2 dxc4 18. Bg2 c3 19. Qc2 Bd5 20. h3 Rb8 21.
+Rf1 Nd2 22. Qxc3 Bxg2 23. Kxd2 Bxf1 24. Rxf1 Qxh3 25. Rc1 Qf3 26. Ke1 h5 27.
+Qxc6 Qg4 28. d5 Rb2 29. Rc2 Rb1+ 30. Kd2 h4 31. f3 Qh5 32. d6 h3 33. d7 h2 34.
+d8=Q+ Kh7 35. Qca8 Rd1+ 36. Kxd1 h1=Q+ 37. Kd2 Q5h2+ 38. Kc3 Qa1+ 39. Kb4 Qb1+
+40. Ka3 Qhxc2 41. Qh4+ Kg6 42. Qg5+ Kh7 43. Qh5# 1-0

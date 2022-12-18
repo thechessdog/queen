@@ -1,0 +1,20 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Medancic, Rikard"]
+[Black "Wagman, Stuart"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "2d1472d8"]
+[Epoch "Queen"]
+[WhiteID "14500531"]
+[WhiteCountry "CRO"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. Rc1 c5 7. Nf3 Nc6 8. cxd5
+exd5 9. Be2 Be6 10. dxc5 Bxc5 11. O-O d4 12. Nb5 Bb6 13. Nfxd4 Nxd4 14. exd4
+Qd5 15. a3 Rad8 16. Be5 Bg4 17. Bxg4 Qxb5 18. a4 Qxb2 19. Rb1 Qa2 20. Bxf6 gxf6
+21. Bf5 Rxd4 22. Qh5 Rfd8 23. Rbe1 1-0

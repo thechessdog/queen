@@ -1,0 +1,25 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cavajda, I."]
+[Black "Podzielny, Karl-Heinz"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "68e1615f"]
+[Epoch "Queen"]
+[BlackID "4600215"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. Bxc3 e4 10. Nd2 Nf6 11. Bc4 Qg5 12. Qb3 O-O 13. O-O-O a6 14. Qb6
+Ne7 15. h4 Qg6 16. Qc5 Re8 17. d5 Bg4 18. Rde1 b5 19. d6 Rec8 20. Qg5 Nf5 21.
+d7 Nxd7 22. Rxe4 Nh6 23. Qxg6 hxg6 24. Bb3 b4 25. Rxb4 Ne5 26. Bc2 Bf5 27. Bxf5
+Nxf5 28. Rh3 a5 29. Re4 f6 30. Kb1 Nf7 31. Ra4 Rd8 32. Rxa5 Rac8 33. h5 Ne7 34.
+hxg6 Nxg6 35. Kc2 Nge5 36. Ra4 Nd6 37. Rb4 Nc6 38. Rbh4 Kf7 39. a4 Nf5 40. Rc4
+Nd6 41. Rc5 Nb7 42. Rch5 Nd4+ 43. Kd1 Nb3 44. Rb5 N7c5 45. Rh4 Rd7 46. Rc4 Nxd2
+47. Bxd2 Rcd8 48. Rbxc5 Rxd2+ 49. Kc1 Rxf2 50. Rc7+ Kg6 51. Rg4+ Kf5 52. Rgxg7
+Rdd2 53. Rb7 Rxg2 54. Rxg2 Rxg2 55. a5 Ke4 56. a6 Rg1+ 57. Kc2 Ra1 58. a7 Kd5
+59. Kc3 Kc6 60. Rf7 Kb6 61. Kb4 f5 62. Rxf5 1-0

@@ -1,0 +1,17 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heszmer"]
+[Black "Salaske"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[Variation "Venice attack"]
+[HashCode "f5d3a099"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. Nf5 Nc5 9. Bg5 Qa5 10. Bxf6 gxf6 11. Qd5 O-O-O 12. O-O-O Rd7 13.
+Qc4 Kb8 14. Kb1 a6 15. b4 Qb6 16. Nd5 Qc7 17. Nxf6 1-0
+

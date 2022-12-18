@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zapletal, O."]
+[Black "Preusse, G."]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Metger unpin"]
+[HashCode "9e3e864e"]
+[Epoch "Queen"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. e4 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3
+8. bxc3 Qe7 9. h3 Nd8 10. d4 Ne6 11. Bh4 Nf4 12. Bg5 Ng6 13. Bc4 h6 14. Nh4
+Nxh4 15. Bxh4 Be6 16. d5 Bd7 17. Bd3 c6 18. c4 g5 19. Bg3 Nxe4 20. Bxe4 f5
+21. Bf3 f4 22. Bh2 e4 23. Re1 Bf5 24. Bxe4 Qxe4 25. Rxe4 Bxe4 26. f3 Bg6
+27. dxc6 1-0
+

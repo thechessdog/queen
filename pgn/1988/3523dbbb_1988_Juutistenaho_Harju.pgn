@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Juutistenaho"]
+[Black "Harju"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "3523dbbb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 7. Bb5+ c6 8.
+Bd3 Qe7 9. e5 Bg4 10. Be2 Nd5 11. Nc3 dxe5 12. fxe5 Nd7 13. Nxd5 cxd5 14.
+O-O Bxf3 15. Rxf3 Nxe5 16. Re3 O-O 17. Kh1 f6 18. Bf3 Qb4 19. dxe5 Bxe3 20.
+Qxd5+ Kh8 21. Bxe3 Qxb2 22. Bd4 Qb4 23. exf6 gxf6 24. a3 Qa4 25. Qd6 1-0
+

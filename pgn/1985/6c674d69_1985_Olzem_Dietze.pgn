@@ -1,0 +1,27 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Olzem, Lothar"]
+[Black "Dietze, Frank"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "6c674d69"]
+[Epoch "Queen"]
+[WhiteID "4607716"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nb6 12. Nf3 e5 13. f5 Bd7 14. Be3 Nc4 15.
+Bxc4 Qxc4 16. Nd2 Qc6 17. g4 O-O-O 18. Qf3 Kb8 19. h4 Rc8 20. g5 hxg5 21. hxg5
+Rxh1 22. Rxh1 Ne8 23. Nb3 b5 24. Rh2 Bd8 25. Qd1 a5 26. Nd5 a4 27. Nd2 Qb7 28.
+Nb1 b4 29. c3 Rc4 30. Re2 Rxe4 31. Ba7+ Qxa7 32. Rxe4 Bxg5+ 33. Nd2 bxc3 34.
+Rb4+ Kc8 35. Rc4+ Kd8 36. Rxc3 Qd4 37. Rg3 Bh6 38. Nc3 Bxf5 39. Rg2 Qd3 40. Rf2
+Bd7 41. Rxf7 Nf6 42. Rf8+ Ke7 43. Rh8 Bg5 44. Qe2 Qd4 45. Rh2 a3 46. Rg2 Bh6
+47. Kc2 Bf5+ 48. Kb3 axb2 49. Kxb2 Nd5 50. Qc4 Qb6+ 51. Nb3 Ne3 52. Qh4+ Kd7
+53. Rg3 Be6 54. Qa4+ Ke7 55. Qh4+ Ke8 56. Qa4+ Kd8 57. Rf3 Nc4+ 58. Ka1 Qg1+
+59. Nb1 Bf4 60. Qa8+ Ke7 61. Qb7+ Kf6 62. Rc3 Qf2 63. Nc1 Qf1 64. Qe4 d5 65.
+Qd3 Qxd3 66. Nxd3 Be3 67. a4 e4 68. Nb2 Bd4 69. Rxc4 dxc4 70. a5 c3 71. Nxc3
+Bxc3 72. a6 Bxb2+ 0-1

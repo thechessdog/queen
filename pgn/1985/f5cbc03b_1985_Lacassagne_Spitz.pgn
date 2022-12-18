@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lacassagne, J."]
+[Black "Spitz, P."]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "f5cbc03b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Nb5 dxe5 10. Nd6+ Ke7 11. Nb5 Kf8 12. Nf3 h6 13. d6 Nc6 14. Nc7 Rb8
+15. Bd3 Nb6 16. Bb1 Bg4 17. h3 Bxf3 18. gxf3 Nd4 19. Qd3 Qxd6 20. Nb5 Nxb5
+21. Qxb5 exf4 0-1
+

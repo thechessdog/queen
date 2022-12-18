@@ -1,0 +1,20 @@
+[Event "corr DDR/C"]
+[Site "corr DDR/C"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Packroff"]
+[Black "Stabenow"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9d1f8d70"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 Nd7 7. h4 h5 8. Nf4
+Be7 9. Nxg6 fxg6 10. Bd3 Nf8 11. g5 Bb4 12. Bd2 Ne7 13. Ne2 Bxd2+ 14. Qxd2
+Nf5 15. Bxf5 gxf5 16. Nf4 Kf7 17. g6+ Nxg6 18. Nxg6 Kxg6 19. Rg1+ Kf7 20.
+Rg5 Qc7 21. O-O-O Rag8 22. Rdg1 g6 23. Kb1 c5 24. Qc3 b6 25. Qg3 Kf8 26.
+Rxg6 Qf7 27. Rg5 cxd4 28. Qa3+ Ke8 29. Qd6 Rxg5 30. Rxg5 Rh7 31. Qb8+ Kd7
+32. Rg8 Kc6 33. a4 Kc5 34. Qd6+ 1-0
+

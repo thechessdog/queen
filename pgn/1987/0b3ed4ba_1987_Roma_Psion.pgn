@@ -1,0 +1,22 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Roma 68000"]
+[Black "Psion 68000"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "0b3ed4ba"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 Nb4
+8. Bg5 a6 9. Bxf6 gxf6 10. Na3 Be6 11. Bc4 Qc8 12. Bxe6 Qxe6 13. O-O O-O-O
+14. Nd5 Nxd5 15. exd5 Qf5 16. Nc4 Bh6 17. Ne3 Qg6 18. Qf3 Bf4 19. Qh3+ Kb8
+20. c4 Rhg8 21. a5 h5 22. Nf5 Qg5 23. b4 Rg6 24. b5 axb5 25. cxb5 Rdg8 26.
+g3 Rd8 27. a6 Rgg8 28. axb7 Kxb7 29. Ra6 e4 30. Re1 Be5 31. Rxe4 Qc1+ 32.
+Qf1 Qc2 33. Qc4 Qxc4 34. Rxc4 Rg5 35. Ne3 Rc8 36. Rxc8 Kxc8 37. Kf1 h4 38.
+f4 hxg3 39. fxg5 gxh2 40. Kg2 fxg5 41. Nc4 Kd8 42. Ra8+ Kc7 43. b6+ Kb7 44.
+Ra7+ Kc8 45. Nxe5 dxe5 46. d6 h1=Q+ 47. Kxh1 1-0
+

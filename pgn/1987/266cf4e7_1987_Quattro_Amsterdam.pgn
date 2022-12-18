@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Quattro Const"]
+[Black "Amsterdam 68000"]
+[Result "0-1"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[HashCode "266cf4e7"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nf3 e4 3. Nd4 Nc6 4. e3 Nxd4 5. exd4 Qf6 6. d5 Bc5 7. Qe2 Qg6
+8. d3 Nf6 9. Nc3 O-O 10. dxe4 Ng4 11. Nd1 Re8 12. f3 Nxh2 13. Bf4 Nxf1 14.
+Rxf1 d6 15. Nc3 Qf6 16. Qd2 Qh4+ 17. g3 Qe7 18. Na4 Bb6 19. O-O-O Bd7 20.
+Nxb6 axb6 21. b3 h6 22. a4 f5 23. exf5 Qf6 24. Qd4 Qxd4 25. Rxd4 Bxf5 26.
+Kd2 Re7 27. Be3 Rae8 28. Re1 Bg6 29. Rf4 c5 30. Rh4 Bc2 31. Kxc2 Rxe3 32.
+Rxe3 Rxe3 33. Rf4 Re2+ 34. Kd3 Rb2 35. Kc3 Rg2 36. g4 Rf2 37. b4 Ra2 38.
+Kb3 Ra1 39. bxc5 bxc5 40. Re4 Rb1+ 41. Ka2 Rb4 42. Ka3 Kf7 43. a5 Kf8 44.
+Rf4+ Ke8 45. Re4+ Kd7 46. Rf4 Ke7 47. Re4+ Kf7 48. Re6 Rxc4 49. Rxd6 Rb4
+50. Rb6 Rxb6 51. axb6 g6 52. f4 h5 53. g5 h4 54. f5 gxf5 55. d6 h3 56. g6+
+Kg7 57. d7 h2 58. d8=Q h1=Q 59. Qd7+ Kxg6 60. Qd6+ Kh5 61. Qxc5 Qe4 62. Kb2
+Kg5 63. Qd6 f4 64. Qd8+ Kg4 65. Qd7+ Kf3 66. Qd2 Qe2 67. Kc3 Qxd2+ 68. Kxd2
+Kg2 69. Kd3 f3 70. Kd2 f2 71. Kc3 f1=Q 72. Kd4 Qf2+ 73. Ke4 Qxb6 74. Kf5
+Qe3 75. Kf6 b5 76. Kf7 b4 77. Kf6 b3 78. Kf5 b2 79. Kg6 b1=Q+ 80. Kf6 Qbb6+
+81. Kg7 0-1
+

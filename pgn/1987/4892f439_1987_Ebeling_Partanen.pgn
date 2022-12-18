@@ -1,0 +1,19 @@
+[Event "Jyvaskyla SM"]
+[Site "Jyvaskyla SM"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ebeling, Mika"]
+[Black "Partanen, Juha"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "4892f439"]
+[Epoch "Queen"]
+[WhiteID "500410"]
+[BlackID "500313"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Qa4 dxc4 8.
+Bxf6 exf6 9. d5 Bxd5 10. O-O-O Qb8 11. Nxd5 1-0

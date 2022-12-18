@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fico"]
+[Black "Geromel"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "74b5b636"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Nc6 7. Bd3 cxd4
+8. Nb5 Bd6 9. O-O dxc3 10. bxc3 Bb8 11. Bg5 Ne5 12. Nxe5 Qxe5 13. f4 Qc5+
+14. Kh1 Nd5 15. f5 O-O 16. f6 g6 17. Qe1 a6 18. Qh4 Be5 19. c4 Bxa1 20.
+cxd5 h5 21. Nc7 Qxc7 22. Rxa1 Qc3 23. Rd1 exd5 24. Be3 Bg4 25. Qg5 Rae8 26.
+Bxg6 Qxf6 27. Qxf6 Re6 28. Bxf7+ Rxf7 29. Qg5+ Kh7 30. Rxd5 Rf1+ 31. Bg1
+Ree1 32. h3 Rxg1+ 33. Kh2 Rgf1 34. Kg3 1-0
+

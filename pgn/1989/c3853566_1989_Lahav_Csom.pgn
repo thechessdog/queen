@@ -1,0 +1,22 @@
+[Event "Tel Aviv-B"]
+[Site "Tel Aviv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lahav, Ehud"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c3853566"]
+[Epoch "Queen"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteID "2800268"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. e5 Nef5 11. Bf2 Nxf3+ 12. Bxf3 dxe5 13. fxe5 Bxe5 14. Bxc5
+Bd4+ 15. Bxd4 Nxd4 16. Bg2 Qb6 17. Rf2 Bd7 18. Ne4 f5 19. Ng5 h6 20. Nh3 Qxb2
+21. Rb1 Qc3 22. Qc1 g5 23. Rxb7 Bc6 24. Rc7 Rac8 25. Rxa7 Bxg2 26. Kxg2 Qc6+
+27. Kg1 Qb6 28. Qa3 Nb5 0-1

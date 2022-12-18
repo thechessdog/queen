@@ -1,0 +1,19 @@
+[Event "corr CAAPE"]
+[Site "corr CAAPE"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Alvarez, Roberto"]
+[Black "Cendak, Juan"]
+[Result "0-1"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[HashCode "4cebaee6"]
+[Epoch "Queen"]
+[WhiteID "111902"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 O-O 8. Rc1
+f5 9. d5 Bf6 10. Qc2 Bxc3 11. Bxc3 exd5 12. Nd2 Qe7 13. cxd5 Bxd5 14. Nxe4 Bxe4
+15. Qb3+ Qf7 16. Qxf7+ Rxf7 17. f3 Bb7 18. Kf2 Nc6 19. Rhd1 Re8 20. e3 Rfe7 21.
+Bf1 0-1

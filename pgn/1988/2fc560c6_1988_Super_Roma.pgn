@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Super Constellation"]
+[Black "Roma 68000"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "2fc560c6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Bg5 h6 3. Bf4 Bf5 4. Nf3 e6 5. Nbd2 Bd6 6. Bxd6 Qxd6 7. c4 Nf6
+8. Rc1 O-O 9. e3 c6 10. Qb3 b6 11. Be2 Nbd7 12. O-O Rac8 13. Qa4 a5 14. Qb3
+c5 15. Rfe1 cxd4 16. exd4 Qf4 17. a3 Rc7 18. h3 Rfc8 19. Bf1 Ne4 20. Qe3
+Qxe3 21. Rxe3 Nxd2 22. Nxd2 Nf6 23. b3 Bg6 24. Nf3 dxc4 25. bxc4 Be4 26.
+Ne5 Rd8 27. Rd1 Bf5 28. Be2 Bc2 29. Rd2 Ba4 30. Bf1 Kf8 31. f4 Nh5 32. g3
+Nf6 33. Kg2 Bc6+ 34. Nxc6 Rxc6 35. a4 Ne8 36. Rb3 Rcd6 37. Rdb2 Rxd4 38.
+Rxb6 Nd6 39. Rb8 Rxb8 40. Rxb8+ Ke7 41. c5 Nf5 42. Bb5 Rd2+ 43. Kf3 Rc2 44.
+Rb7+ Kf8 45. g4 Nh4+ 46. Ke4 Rxc5 47. Rb8+ Ke7 48. Rb7+ Kf6 49. Be8 Rc4+
+50. Kd3 Rxf4 51. Rxf7+ Ke5 52. Rxg7 Rf3+ 53. Kc4 Rxh3 54. Kb5 Nf3 55. Kxa5
+Kf6 56. Rf7+ Kg5 57. Re7 Nd4 58. Rg7+ Kf4 59. Bh5 Nc6+ 60. Kb5 Ne5 61. a5
+Rb3+ 62. Kc5 Ra3 63. Kb5 Ra2 64. a6 Rb2+ 65. Kc5 Rc2+ 66. Kb6 Rb2+ 67. Kc7
+Ra2 68. Kb7 Rb2+ 69. Ka8 Rb1 70. a7 Rb6 71. Rb7 Rd6 72. Kb8 Rd8+ 73. Kc7
+Ra8 74. Rb4+ Kg3 75. Ra4 Kh4 76. Kb7 Rd8 77. a8=Q Rxa8 78. Kxa8 Kg5 79. Rd4
+Ng6 80. Bxg6 Kxg6 81. Rd6 Kf6 82. Kb7 Kg5 83. Rxe6 h5 84. gxh5 Kxh5 1-0
+

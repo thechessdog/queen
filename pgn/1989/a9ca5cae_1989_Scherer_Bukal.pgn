@@ -1,0 +1,18 @@
+[Event "St Ingbert"]
+[Site "St Ingbert"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Scherer, F."]
+[Black "Bukal, Vladimir Jr."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "a9ca5cae"]
+[Epoch "Queen"]
+[BlackID "14502941"]
+[BlackCountry "CRO"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Ne7 5. Qg4 O-O 6. e5 f5 7. Qh5 c5 8. O-O-O
+cxd4 9. Nb5 Bxd2+ 10. Rxd2 Nbc6 11. Nf3 Bd7 12. Nd6 Qb6 13. Ng5 h6 14. Ndf7 Be8
+15. Nxh6+ gxh6 16. Qxh6 Bg6 17. Rd3 Nxe5 18. Rh3 Nf7 19. Nxf7 Kxf7 0-1

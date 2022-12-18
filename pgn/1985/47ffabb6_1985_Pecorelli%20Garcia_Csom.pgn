@@ -1,0 +1,20 @@
+[Event "Capablanca mem-B"]
+[Site "Cienfuegos"]
+[Date "1985.??.??"]
+[Round "4"]
+[White "Pecorelli Garcia, Humberto"]
+[Black "Csom, Istvan"]
+[Result "0-1"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "47ffabb6"]
+[Epoch "Queen"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteID "3500233"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 b6 7. Bd3 Nc6 8.
+Ne2 Ba6 9. O-O Na5 10. e4 Ne8 11. f4 f5 12. exf5 exf5 13. Ng3 g6 14. c5 Bxd3
+15. Qxd3 d5 16. cxd6 Nxd6 17. a4 Ndc4 18. Ba3 Re8 19. Bb4 Qd5 0-1

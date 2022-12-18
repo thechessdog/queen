@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Siklosi, Zoltan"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "c3d7fcad"]
+[Epoch "Queen"]
+[BlackID "700380"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Qh4+ 4. g3 fxg3 5. hxg3 Qf6 6. Nc3 c6 7. Qe3 d6 8.
+d4 Nh6 9. Nf3 Ng4 10. Qe2 h6 11. Bf4 g5 12. e5 dxe5 13. Ne4 Qg7 14. Bxe5 Nxe5
+15. dxe5 Be6 16. Nf6+ Kd8 17. O-O-O+ Kc7 18. Ne8+ 1-0

@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Olesen, Martin"]
+[Black "Andersen, Preben"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "7b39ec78"]
+[Epoch "Queen"]
+[WhiteID "1400860"]
+[BlackID "1403940"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Nbd2 Ne4 7. O-O f5 8. Qe2
+O-O 9. a3 Bd6 10. Ne5 c5 11. f3 Nxd2 12. Bxd2 Nc6 13. Nxc6 Bxc6 14. Rad1 Qh4
+15. f4 cxd4 16. exd4 Rf6 17. Qf2 Rg6 18. Qxh4 Rxg2+ 19. Kh1 Rg4+ 20. d5 Rxh4
+21. dxc6 dxc6 22. Bc1 Bc7 23. c5 b5 24. Bc2 Re8 25. Rd7 Bb8 26. Bb3 Kf8 27. Re1
+g5 28. Bxe6 gxf4 29. Rf7+ Kg8 30. Rg1+ Kh8 31. Bd2 Be5 32. Re7 Rf8 33. Bxf5 Bd4
+34. Be6 Bxg1 35. Bc3+ Bd4 36. Bxd4+ Rf6 37. Bxf6# 1-0

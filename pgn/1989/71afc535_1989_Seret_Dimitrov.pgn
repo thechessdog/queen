@@ -1,0 +1,20 @@
+[Event "Cappelle op"]
+[Site "Cappelle"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Seret, Jean-Luc"]
+[Black "Dimitrov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "71afc535"]
+[Epoch "Queen"]
+[BlackID "2900050"]
+[BlackCountry "FID"]
+[WhiteID "600210"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Bg5 f6 9. Be3 O-O 10. Qd2 f5 11. f3 a6 12. Bxc6 Nxc6 13. fxe4 e5 14. dxe5 Qxd2+
+15. Bxd2 fxe4 16. O-O-O Nxe5 17. Nxe4 1/2-1/2

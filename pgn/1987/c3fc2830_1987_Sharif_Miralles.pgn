@@ -1,0 +1,20 @@
+[Event "Cannes"]
+[Site "Cannes"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sharif, Mehrshad"]
+[Black "Miralles, Gilles"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "c3fc2830"]
+[Epoch "Queen"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+[WhiteID "600121"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+Nb3 Bd6 9. O-O Ne7 10. Re1 O-O 11. Bg5 Bg4 12. Be2 Re8 13. h3 Bh5 14. Nfd4 Bg6
+15. Bd3 a6 16. Nf5 Bxf5 17. Bxf5 h6 18. Bxe7 1/2-1/2

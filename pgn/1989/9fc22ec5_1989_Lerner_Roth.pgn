@@ -1,0 +1,21 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Lerner, Konstantin Z"]
+[Black "Roth, Rolf"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "9fc22ec5"]
+[Epoch "Queen"]
+[BlackID "1300458"]
+[BlackCountry "SUI"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 exd5 8. a3
+c4 9. axb4 cxd3 10. Nf4 Nc6 11. b5 Ne7 12. O-O Bf5 13. f3 Re8 14. Nxd3 Bxd3 15.
+Qxd3 Qb6 16. e4 dxe4 17. fxe4 Rad8 18. Ra4 Ng6 19. Kh1 h6 20. Be3 Qe6 21. d5
+Qd6 22. Rxa7 Rd7 23. Ra4 Ng4 24. Bg1 N6e5 25. Qg3 Nf6 26. b6 Ng6 27. Qxd6 Rxd6
+28. Rfa1 Rdd8 29. Rc4 Rd7 30. Rc7 Ree7 31. Ra8+ Kh7 32. Rac8 Ne5 33. Bd4 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Puls"]
+[Black "Kniebel"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "d962a888"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8.
+Nf3 h6 9. Bh4 a6 10. a4 g5 11. Bg3 Nh5 12. Nd2 Nxg3 13. hxg3 Nd7 14. f4 Nf6
+15. Be2 h5 16. fxg5 Ng4 17. Bxg4 Bxg4 18. Nf3 Rb8 19. Qd3 b5 20. axb5 axb5
+21. Nxb5 Qb6 22. Na3 Qa5+ 23. Qd2 Rb4 24. O-O Qb6 25. Qd3 c4+ 0-1
+

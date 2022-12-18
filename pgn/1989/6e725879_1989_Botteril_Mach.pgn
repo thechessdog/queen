@@ -1,0 +1,25 @@
+[Event "Leeds blitz"]
+[Site "Leeds blitz"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Botteril"]
+[Black "Mach IV"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "6e725879"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+O-O d5 9. Qc2 O-O 10. Bf4 Nh5 11. Bc1 Nd7 12. Bb2 Qc7 13. Nbd2 Rad8 14. e4
+Ndf6 15. e5 Ng4 16. h3 Nh6 17. Rfd1 c5 18. cxd5 exd5 19. Nf1 Qd7 20. Ne3
+Qe6 21. Nh2 Rd7 22. Nhg4 Nxg4 23. hxg4 cxd4 24. Bxd4 Nxg3 25. fxg3 Rc8 26.
+Qf5 Ba3 27. Qxe6 fxe6 28. Bf3 Rf7 29. Bg2 Rd7 30. g5 Rc6 31. Bh3 Rdc7 32.
+Rab1 Be7 33. b4 b5 34. Bg2 Kh8 35. Rf1 g6 36. Rf6 Bc8 37. Rbf1 Bxb4 38.
+Nxd5 exd5 39. Rf8+ Bxf8 40. Rxf8+ Kg7 41. Rd8 Rc1+ 42. Kh2 Be6 43. Rd6 Kf7
+44. g4 R1c2 45. Kg3 Rxa2 46. Bxd5 Bxd5 47. Rxd5 b4 48. Rb5 a5 49. Kf4 Ra3
+50. Ke4 Re7 51. Rb6 Ra2 52. Rf6+ Ke8 53. Rb6 Rg2 54. Kd5 Rd7+ 55. Ke6 Rxd4
+56. Rb8+ Rd8 57. Rb7 Kf8 58. Rxh7 Re8+ 59. Kf6 Rf2+ 60. Kxg6 Re6+ 61. Kh5
+Rh2# 0-1
+

@@ -1,0 +1,23 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Reschke, Stefan"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "04daaeff"]
+[Epoch "Queen"]
+[WhiteID "600040"]
+[WhiteCountry "FRA"]
+[BlackID "4604164"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. h4 h5 11. O-O-O Rc8 12. Bb3 Ne5 13. Bh6 a5 14. Bxg7 Kxg7 15.
+f4 Neg4 16. Rhe1 Rc5 17. Nf3 Qb8 18. Qd4 a4 19. Bxa4 Bxa4 20. Nxa4 Ra5 21. Nc3
+Rc8 22. e5 dxe5 23. Nxe5 Nxe5 24. fxe5 Ng8 25. Kb1 Rac5 26. Rd3 Nh6 27. e6+ f6
+28. Qb4 Nf5 29. Rd7 b5 30. Nd5 Kf8 31. g4 Rc4 32. Rxe7 Rxb4 33. Rf7+ Ke8 34.
+Nxf6+ 1-0

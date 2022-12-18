@@ -1,0 +1,25 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "2"]
+[White "Haubro, Sigfred"]
+[Black "Daus, Peter"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "bce7d6d4"]
+[Epoch "Queen"]
+[WhiteID "1405420"]
+[WhiteCountry "DEN"]
+[BlackID "4645375"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 d6 3. c4 Nf6 4. e3 g6 5. d4 exd4 6. exd4 Qe7+ 7. Qe2 Qxe2+ 8.
+Bxe2 d5 9. Nc3 c6 10. Nf3 Bg7 11. O-O O-O 12. Bd3 h6 13. Rfe1 Be6 14. Ne5 Re8
+15. Rad1 Nbd7 16. h3 Rad8 17. f4 h5 18. c5 h4 19. Rf1 Nh5 20. Ne2 Bf5 21. Rf2
+Ndf6 22. Bxf5 gxf5 23. Nf3 Ne4 24. Nxh4 Nxf2 25. Kxf2 Bh6 26. Nxf5 Bxf4 27. g4
+Rxe2+ 28. Kxe2 Ng7 29. Kf3 Ne6 30. Bc1 Bxc1 31. Rxc1 Ng5+ 32. Kg3 Re8 33. h4
+Ne4+ 34. Kf4 Nf2 35. Rc2 Re4+ 36. Kf3 Nd3 37. Rd2 Nc1 38. Nd6 Re7 39. g5 Kh7
+40. h5 Kg8 41. g6 fxg6 42. hxg6 Re6 43. Nf5 Re4 44. g7 Re1 45. Rg2 Rf1+ 46. Kg4
+Nd3 47. Kg5 Nf4 48. Rg4 1-0

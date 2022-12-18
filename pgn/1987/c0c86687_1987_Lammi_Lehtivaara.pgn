@@ -1,0 +1,19 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lammi, Jyri"]
+[Black "Lehtivaara, Petri"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "c0c86687"]
+[Epoch "Queen"]
+[WhiteID "501263"]
+[BlackID "500682"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Bxe4
+dxe4 9. dxc5 Qd4 10. Qb3 Na6 11. Bf4 Nxc5 12. Qd1 Nd3+ 0-1

@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Poliakov"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "5883c3ad"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. Be3 e6 7. Qd2 Rb8 8.
+Nge2 b5 9. a3 a5 10. O-O Nge7 11. Bh6 O-O 12. h4 b4 13. axb4 axb4 14. Nd1
+Nd4 15. Bxg7 Kxg7 16. h5 Nxe2+ 17. Qxe2 Nc6 18. Ne3 Qg5 19. hxg6 hxg6 20.
+Qd2 Kg8 21. c3 Bb7 22. f4 Qxg3 23. Rf3 Qh4 24. Rh3 Qxf4 25. Rf1 Qg5 26. Nd5
+f6 27. Nxf6+ Qxf6 28. Rxf6 Rxf6 29. Qh6 Kf7 30. Qh7+ Ke8 31. Qc7 1-0
+

@@ -1,0 +1,34 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Ribli, Zoltan"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "da0be32e"]
+[Epoch "Queen"]
+[WhiteCountry "ITA"]
+[BlackID "700010"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 d5 6. Bg2 dxc4 7. Ne5 Bb4+ 8. Kf1
+Nfd7 9. Nxc4 c6 10. Bb2 b5 11. Ne3 O-O 12. Nc3 Nf6 13. Nc2 Be7 14. Bf3 Qb6 15.
+Kg2 Nbd7 16. b4 Rfd8 17. Qc1 Rac8 18. a3 Bb7 19. Nb1 Qc7 20. Nd2 e5 21. e3 Bd6
+22. Ne1 Re8 23. Nb3 h6 24. Qc2 e4 25. Be2 Nb6 26. Nc5 Ba8 27. Rc1 Rcd8 28. Qb3
+Nbd5 29. Nc2 Qe7 30. Rhe1 Nh7 31. f4 exf3+ 32. Bxf3 Ng5 33. e4 Nb6 34. Rcd1 Nc4
+35. Bc1 Nxf3 36. Qxf3 Bxc5 37. bxc5 Bb7 38. Kg1 Rd7 39. Qf2 Qd8 40. Re2 Re6 41.
+Rf1 a5 42. Qg2 Rde7 43. Rfe1 Qe8 44. Qf3 Bc8 45. Qd3 Ba6 46. Kg2 Qd8 47. Qc3
+Rb7 48. Rf2 Re8 49. Kg1 Rbe7 50. Rfe2 Qc8 51. Kg2 Qg4 52. h3 Qg6 53. Qf3 Bc8
+54. Kh2 f5 55. e5 Rc7 56. Ne3 Be6 57. Nxc4 Bxc4 58. Rb2 Rd7 59. Qc3 a4 60. Rf2
+Red8 61. Be3 Qe6 62. Qc2 Rf7 63. Qc3 Rdf8 64. Qd2 Bd5 65. Ref1 Be4 66. Qc3 Qd5
+67. Bd2 Rd7 68. Be3 Rb7 69. Rb2 Rd8 70. Qb4 Bd3 71. Re1 Bc4 72. Rf2 Rf8 73. Qc3
+Rbf7 74. Bf4 Qe6 75. Bc1 Qc8 76. Be3 Rd8 77. Bc1 Be6 78. Qe3 Rfd7 79. Bb2 Rf8
+80. Bc3 Rdf7 81. Bd2 Bd5 82. Qc3 Qe6 83. Ref1 Bc4 84. Re1 g5 85. Rg1 Rd7 86.
+Bc1 Qg6 87. Bb2 Kf7 88. Bc1 Ke6 89. Be3 Rg7 90. Bd2 Bd5 91. Qc2 Qh7 92. Bc1 Qg8
+93. Qe2 Qf7 94. Qd1 Qg6 95. Qc2 Kd7 96. Qd3 Rff7 97. Qc2 Rg8 98. Qd3 Rgf8 99.
+Be3 Qh5 100. Qd1 Qxd1 101. Rxd1 f4 102. gxf4 gxf4 103. Bc1 Rg8 104. Rg1 Rxg1
+105. Kxg1 f3 106. Bxh6 Rh7 107. Bd2 Rxh3 108. Bb4 Ke6 109. Rf1 Kf5 110. e6 Rg3+
+111. Kf2 Rg2+ 112. Ke3 Re2+ 113. Kd3 Be4+ 0-1

@@ -1,0 +1,23 @@
+[Event "Tallinn-B"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kochyev, Alexander"]
+[Black "Karner, Hillar"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "58d2d464"]
+[Epoch "Queen"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Qc2 g6 5. Bf4 Bg7 6. e3 O-O 7. Nc3 Be6 8. cxd5
+Nxd5 9. Nxd5 cxd5 10. Be2 Qa5+ 11. Qd2 Qxd2+ 12. Kxd2 Nc6 13. Rhc1 Rfc8 14. Rc5
+f6 15. Rac1 a6 16. Bd1 Bf7 17. Ba4 g5 18. Bxc6 Rxc6 19. Bg3 Rac8 20. Rxc6 bxc6
+21. Ne1 Bg6 22. Rc3 h5 23. h3 e5 24. Nd3 Bxd3 25. Kxd3 e4+ 26. Kd2 f5 27. Bd6
+Kf7 28. Rb3 Ke6 29. Bc5 f4 30. Rb6 a5 31. Ra6 fxe3+ 32. Kxe3 Bh6 33. g4 hxg4
+34. hxg4 Rc7 35. Ke2 1-0

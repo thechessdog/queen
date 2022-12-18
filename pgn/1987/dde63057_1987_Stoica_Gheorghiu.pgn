@@ -1,0 +1,19 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stoica, Valentin"]
+[Black "Gheorghiu, Florin"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[Opening "Sicilian, Szen, hedgehog variation"]
+[HashCode "dde63057"]
+[Epoch "Queen"]
+[WhiteID "1200070"]
+[WhiteCountry "ROU"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3
+Be7 9. Be2 O-O 10. O-O b6 11. Be3 Ne5 12. f3 Bb7 13. Qd2 Rc8 14. Rfd1 Ned7 15.
+Rac1 Qc7 16. Kh1 Qb8 17. Bf1 Rfe8 1/2-1/2

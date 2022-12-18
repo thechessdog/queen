@@ -1,0 +1,21 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pillhock"]
+[Black "Thierry"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Henneberger variation"]
+[HashCode "4eeebff4"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. e4 e6 4. Be3 dxe4 5. f3 Bb4 6. Bc4 O-O 7. fxe4 Nxe4
+8. Ne2 Qh4+ 9. g3 Nxc3 10. Nxc3 Qe4 11. Kf2 Bxc3 12. bxc3 Qf5+ 13. Ke1 Nd7
+14. Rf1 Qh3 15. Rf2 Nf6 16. Bf1 Qg4 17. Qc1 Qe4 18. Rf4 Qc6 19. c4 e5 20.
+d5 Qd6 21. Rh4 Bf5 22. Be2 c6 23. dxc6 Qxc6 24. Kf2 Ne4+ 25. Kg1 Rfd8 26.
+Qf1 Qe6 27. Bf3 Nd2 28. Bxd2 Rxd2 29. Bd5 Qb6+ 30. Kh1 Be6 31. Be4 h6 32.
+Rb1 Bxc4 33. Bh7+ Kxh7 34. Rxc4 Qd6 35. Qf5+ Kg8 36. Rxb7 Qd5+ 37. Qe4
+Qxe4+ 38. Rxe4 Rxc2 0-1
+

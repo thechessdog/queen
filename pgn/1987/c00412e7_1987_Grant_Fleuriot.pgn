@@ -1,0 +1,18 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grant"]
+[Black "Fleuriot"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "c00412e7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. Bg5 Nf6 5. f3 exf3 6. Nxf3 e6 7. Bc4 Be7
+8. Qe2 O-O 9. Bxe6+ Bxe6 10. Qxe6+ Kh8 11. O-O-O Ng8 12. Bxe7 Qxe7 13. Qxe7
+Nxe7 14. Rhe1 Ng6 15. Ne5 Nf4 16. g3 Nh3 17. d5 Na6 18. Nb5 Nf2 19. Rd4 Ne4
+20. d6 cxd6 21. Nxd6 Nac5 22. Nxe4 Nxe4 23. Rd7 Rab8 24. Red1 Kg8 25. Rc7
+Rfe8 26. Nd7 Rec8 27. Rxc8+ Rxc8 28. Ne5 Re8 29. Nc4 Nf2 30. Rf1 1-0
+

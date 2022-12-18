@@ -1,0 +1,19 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Renner, Christoph"]
+[Black "Meier, T."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "99c4f143"]
+[Epoch "Queen"]
+[WhiteID "4600886"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8. O-O
+Nd4 9. f5 gxf5 10. Qh5 h6 11. Rf2 Be6 12. exf5 Bxf5 13. Bxb7 Rb8 14. Bg2 Qd7
+15. Nd5 Nxd5 16. Bxd5 Rf8 17. c3 Bg4 18. Qh4 Ne2+ 19. Kg2 Nxc1 20. Rxc1 f5 21.
+Re1 Qd8 22. Bc6+ Kf7 23. Qxg4 1-0

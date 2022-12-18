@@ -1,0 +1,22 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Corvi, Marco"]
+[Black "Raiano, Andrea"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "49eb15cb"]
+[Epoch "Queen"]
+[WhiteID "801895"]
+[BlackID "801194"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4 Bh7
+9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Qc7 12. Bg5 a6 13. Bxc6+ Qxc6 14. a4 Rc8 15.
+Rh3 Bg6 16. Nf4 Bxc2 17. Rc1 Bc5 18. Qd2 Bb3 19. Nd3 b6 20. Nxc5 bxc5 21. Ne4
+dxe4 22. Rxb3 f6 23. Rd1 e3 24. Bxe3 Rxh4 25. Rb6 Rh1+ 26. Ke2 Rxd1 27. Qa5 Qh1
+28. Rxe6+ Kf7 29. Qb6 Rcd8 30. Rd6 Qf1+ 31. Kf3 R8xd6 0-1

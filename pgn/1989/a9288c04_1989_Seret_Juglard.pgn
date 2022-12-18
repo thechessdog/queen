@@ -1,0 +1,18 @@
+[Event "Belfort open"]
+[Site "Belfort open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Seret, Jean Luc"]
+[Black "Juglard, E."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "a9288c04"]
+[Epoch "Queen"]
+[WhiteID "600210"]
+[WhiteCountry "FRA"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. d3 Nc6 5. Nc3 d6 6. f4 e5 7. Nh3 Nge7 8. O-O
+O-O 9. f5 gxf5 10. exf5 Bxf5 11. Rxf5 Nxf5 12. Be4 Qd7 13. Qg4 Nce7 14. Nd5 Qe6
+15. Nxe7+ Nxe7 16. Bxh7+ 1-0

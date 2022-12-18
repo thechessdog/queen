@@ -1,0 +1,17 @@
+[Event "Midwest Tch"]
+[Site "Midwest Tch"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Browne, Walter S"]
+[Black "Murdurk, J."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e426dab3"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Qb6 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 13. Qf3 f6 14. Bf4 e5
+15. Rac1 Bxb5 16. Bxb5+ Kd8 17. Qh3 Qd6 18. Rxe5 d4 19. Rd5 1-0

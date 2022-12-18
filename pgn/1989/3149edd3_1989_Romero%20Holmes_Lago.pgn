@@ -1,0 +1,19 @@
+[Event "Almeria"]
+[Site "Almeria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Romero Holmes, Alfonso"]
+[Black "Lago, Victor Miguel"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "3149edd3"]
+[Epoch "Queen"]
+[WhiteID "2200066"]
+[WhiteCountry "ESP"]
+
+1. e4 c6 2. c4 e5 3. d4 d6 4. Nc3 Nd7 5. Nf3 g6 6. Be2 Bg7 7. O-O Ne7 8. dxe5
+dxe5 9. b3 O-O 10. Ba3 Re8 11. Qd6 Nd5 12. Nxd5 Bf8 13. Nc7 Bxd6 14. Bxd6 Re6
+15. Nxe6 fxe6 16. Nxe5 Nxe5 17. Bxe5 Qa5 18. f4 Bd7 19. Rad1 Be8 20. Rd3 Rd8
+21. b4 1-0

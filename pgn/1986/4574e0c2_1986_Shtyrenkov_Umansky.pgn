@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shtyrenkov, V."]
+[Black "Umansky, Mikhail"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "4574e0c2"]
+[Epoch "Queen"]
+[BlackID "4680812"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Nf5 Bxf5 12. exf5 Qd5 13. Re1 Rfe8 14. Nd2
+Rad8 15. Qg4 Qf7 16. Nf3 b5 17. b3 Nb7 18. Bb2 Nd6 19. Nd2 c5 20. Ne4 c4 21.
+dxc4 bxc4 22. Ng3 a5 23. h4 a4 24. bxa4 Ra8 25. Ne4 Reb8 26. Bc3 Rxa4 27. Reb1
+Rba8 28. Nc5 Ra3 29. Bb4 h5 30. Qg6 Rxa2 31. Rxa2 Rxa2 32. Ne6 Ra8 33. Bxd6
+Bxd6 34. Rb7 e4 35. g3 Qd7 36. Kh2 Rc8 37. Qxh5 Bf8 38. Nxf8 Rxf8 39. Qe2 Kh8
+40. Qh5+ Kg8 41. Qe2 Qxf5 42. Rxc7 Re8 43. Rxc4 Qb5 44. Kg1 f5 45. Qf1 f4 46.
+Rc7 Qh5 47. Qc4+ Kh7 48. Rc5 Qd1+ 49. Kh2 fxg3+ 50. fxg3 Qd2+ 51. Kh3 Rf8 52.
+Rh5+ Kg6 53. Qc6+ Kxh5 54. g4# 1-0

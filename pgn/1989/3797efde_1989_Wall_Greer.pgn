@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer, Ken"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "3797efde"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. b4 a5 2. b5 a4 3. c4 c6 4. Bb2 d5 5. e3 e6 6. Nf3 a3 7. Nxa3 Bxa3 8. Bxg7
+Nd7 9. Bxh8 Ndf6 10. Bxf6 Nxf6 11. Qc2 Qa5 12. Bd3 Ke7 13. bxc6 bxc6 14. Ne5
+Bb7 15. Rb1 Rb8 16. Nxc6+ 1-0

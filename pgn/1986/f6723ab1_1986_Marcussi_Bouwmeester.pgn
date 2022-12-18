@@ -1,0 +1,18 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marcussi, B."]
+[Black "Bouwmeester, Hans"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "f6723ab1"]
+[Epoch "Queen"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. Qe2 Nge7 5. c3 d5 6. d3 b6 7. Na3 Ba6 8. Qf2
+Ng6 9. Nc2 Be7 10. Be3 Qc7 11. g3 dxe4 12. dxe4 Bxf1 13. Qxf1 O-O-O 14. Qa6+
+Kb8 15. O-O Qb7 16. Qxb7+ Kxb7 17. Rad1 Rxd1 18. Rxd1 Rd8 19. Rxd8 Bxd8 1/2-1/2

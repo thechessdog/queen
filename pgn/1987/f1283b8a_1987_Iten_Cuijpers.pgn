@@ -1,0 +1,21 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Iten, Rene"]
+[Black "Cuijpers, Frans Andre"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "f1283b8a"]
+[Epoch "Queen"]
+[WhiteID "1300660"]
+[WhiteCountry "SUI"]
+[BlackID "1000209"]
+[BlackCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 7. Be3 e5 8. Qd2
+exd4 9. Nxd4 Re8 10. f3 Nxd4 11. Bxd4 Be6 12. Rad1 c6 13. Kh1 d5 14. e5 Nd7 15.
+f4 f6 16. exf6 Bxf6 17. Bf3 Bxd4 18. Qxd4 Qf6 19. Qd2 Rad8 20. a4 Nc5 21. b4 d4
+22. Ne4 Nxe4 23. Bxe4 Bd5 24. Bxd5+ Rxd5 25. Rde1 Rdd8 26. h3 1/2-1/2

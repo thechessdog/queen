@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Meduna, Eduard"]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "08aee90d"]
+[Epoch "Queen"]
+[BlackID "700312"]
+[WhiteID "300055"]
+[WhiteCountry "CZE"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c5 4. e3 cxd4 5. exd4 Nc6 6. c3 Bf5 7. Nf3 Qd7 8.
+Nbd2 1/2-1/2

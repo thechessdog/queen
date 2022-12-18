@@ -1,0 +1,15 @@
+[Event "corr T50E"]
+[Site "corr T50E"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brinkmann, W."]
+[Black "Kellerer"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "904f4c6d"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 Bc5 6. Bxg8 Rxg8 7. Qh5+ Kf8
+8. fxe5 Qe8 9. Qe2 Nd4 10. Qc4 1-0
+

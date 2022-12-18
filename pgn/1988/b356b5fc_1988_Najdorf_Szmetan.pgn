@@ -1,0 +1,18 @@
+[Event "Buenos Aires Konex"]
+[Site "Buenos Aires Konex"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Najdorf, Miguel"]
+[Black "Szmetan, Jorge"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "b356b5fc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nge2 Bg7 8. Ng3
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. f4 Rb8 13. Bf3 Nd7 14. Be3 a6 15. Qd2
+b5 16. e5 Nb6 17. exd6 Nc4 18. dxc7 Qxc7 19. Qc1 Nxe3 20. Re1 Nc4 21. axb5 axb5
+22. Nxb5 Rxb5 23. Qxc4 Ra5 24. Rxa5 Qxa5 25. Rc1 Re8 26. b3 Bd4+ 27. Kh1 Qa2
+28. d6 Qd2 29. Rd1 Qxf4 30. Ne2 Qxd6 31. Nxd4 Rd8 0-1

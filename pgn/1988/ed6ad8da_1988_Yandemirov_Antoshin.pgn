@@ -1,0 +1,19 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Yandemirov, Valeri"]
+[Black "Antoshin, Vladimir S"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "ed6ad8da"]
+[Epoch "Queen"]
+[WhiteID "4102622"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. g3 d5 7. exd5 Nxd5 8.
+Ndb5 Nxc3 9. Qxd8+ Bxd8 10. Nxc3 O-O 11. Be3 Nc6 12. Bg2 Bf6 13. O-O-O Bxc3 14.
+bxc3 Be6 15. Bxc6 1/2-1/2

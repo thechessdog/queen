@@ -1,0 +1,17 @@
+[Event "corr LADAC Schlechter"]
+[Site "corr LADAC Schlechter"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Di Luzio, Norberto"]
+[Black "Alvarez, Roberto"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "c8428d77"]
+[Epoch "Queen"]
+[BlackID "111902"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. g4 Ne5 11. Bb3 b5 12. h4 Rc8 13. h5 Rc4 0-1

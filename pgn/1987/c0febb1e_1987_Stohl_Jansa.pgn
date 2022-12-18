@@ -1,0 +1,17 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stohl, Igor"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "c0febb1e"]
+[Epoch "Queen"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qa5 8. e4
+Qh5 9. Ng5 Qxd1 10. Rxd1 Na6 11. h3 Nd7 12. Be3 c5 13. Nf3 Nc7 14. Rac1 1/2-1/2

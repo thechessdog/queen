@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Letzelter, Jean"]
+[Black "Flear, Christine"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Heath variation"]
+[HashCode "361522ed"]
+[Epoch "Queen"]
+[BlackID "602604"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. b4 Bxb4 5. Bb2 Qe7 6. c3 Bc5 7. d4 exd4 8. cxd4
+Qxe4+ 9. Kf2 Bb4 10. Qa4+ Nc6 11. Bb5 Bd7 12. a3 Qxf4 13. axb4 Nf6 14. Re1+ Kf8
+0-1

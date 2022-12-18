@@ -1,0 +1,18 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Fischer, Hans"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "d180704d"]
+[Epoch "Queen"]
+[BlackID "4627466"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. Qd2 c6 6. O-O-O b5 7. e5 dxe5 8. Bh6
+Bxh6 9. Qxh6 exd4 10. Nf3 c5 11. Bxb5+ Bd7 12. Rhe1 Rg8 13. Ne5 dxc3 14. Qf4
+Qc7 15. Qxf6 exf6 16. Nxd7+ Kd8 17. Nb6+ Nd7 18. Rxd7+ Qxd7 19. Nxd7 cxb2+ 20.
+Kxb2 1-0

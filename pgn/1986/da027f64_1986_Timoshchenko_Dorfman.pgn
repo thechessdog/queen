@@ -1,0 +1,17 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1986.??.??"]
+[Round "8"]
+[White "Timoshchenko, Gennadi Anatolyevich"]
+[Black "Dorfman, Iossif"]
+[Result "1/2-1/2"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "da027f64"]
+[Epoch "Queen"]
+[WhiteCountry "SVN"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e4 cxd4 5. Qxd4 Qxd4 6. Nxd4 Bd7 7. Bxc4 Nc6
+8. Nxc6 Bxc6 9. Nc3 e6 10. f3 Rc8 1/2-1/2

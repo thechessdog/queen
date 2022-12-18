@@ -1,0 +1,17 @@
+[Event "Montpellier-A"]
+[Site "Montpellier"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Andruet, Gilles"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "46cee0d7"]
+[Epoch "Queen"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c6 7. Be2 Be6 8. Ng5
+Bf5 9. O-O h6 10. Nf3 1/2-1/2

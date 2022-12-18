@@ -1,0 +1,19 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Theon, Pierre"]
+[Black "Papet, C."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "0e1b22f9"]
+[Epoch "Queen"]
+[WhiteID "608106"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 e6 5. d4 Nf6 6. Nxf6+ Qxf6 7. Bg5 Qf5 8.
+Bd3 Qa5+ 9. c3 Nd7 10. O-O h6 11. Bh4 Qc7 12. Re1 Bd6 13. c4 Nf8 14. c5 Be7 15.
+Bg3 Qd7 16. Ne5 Qxd4 17. Bg6 Qxd1 18. Bxf7+ Kd8 19. Raxd1+ Bd7 20. Rxd7+ Nxd7
+21. Rd1 Bxc5 22. Rxd7+ Kc8 23. Bxe6 Re8 24. Nf7 a5 25. Re7# 1-0

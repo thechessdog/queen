@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ahlander, Bjorn"]
+[Black "Schneider, Lars-Ake"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "3a7ae809"]
+[Epoch "Queen"]
+[WhiteID "1700251"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. O-O-O d5 10. Bb3 Na5 11. e5 Nd7 12. f4 a6 13. Rhf1 Nxb3+ 14. axb3
+Qc7 15. g4 Nc5 16. Nf5 Nxb3+ 17. Kb1 Na5 18. Nxe7+ Qxe7 19. Qf2 b6 20. Bxb6 Nc4
+21. Bc5 Qb7 22. b3 Re8 23. Kc1 Na5 24. f5 Bd7 25. f6 Rec8 26. b4 Nc4 27. Qf4
+gxf6 28. Qxf6 Rxc5 29. Qxf7+ Kh8 30. Qf6+ Kg8 31. Qg5+ Kh8 32. Rf7 1-0

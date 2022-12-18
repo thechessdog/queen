@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kharitonov, A."]
+[Black "Podgaets, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "8edaf7a0"]
+[Epoch "Queen"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 Re8 10. d5 Na5 11. Nd4 Bd7 12. e4 c5 13. Nb3 Nxb3 14. Qxb3 c4 15.
+Qc2 e6 16. dxe6 Bxe6 1/2-1/2

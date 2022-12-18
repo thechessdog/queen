@@ -1,0 +1,22 @@
+[Event "Dieren op"]
+[Site "Dieren op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Etmans, Maarten"]
+[Black "Knoppert, Erik"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "f614fd6c"]
+[Epoch "Queen"]
+[WhiteID "1001345"]
+[BlackID "1000853"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Bxc6 dxc6 7. Nc3 O-O 8.
+d3 Ne8 9. Be3 Qa5 10. e5 Bg4 11. h3 Bxf3 12. Qxf3 Nc7 13. Qg3 Ne6 14. f4 Qc7
+15. Ne4 b6 16. h4 f6 17. Qh3 f5 18. Ng5 Nxg5 19. hxg5 e6 20. a4 Rf7 21. a5 Rd8
+22. axb6 axb6 23. Ra6 Bf8 24. Rea1 Rc8 25. Qf3 h6 26. gxh6 Bxh6 27. Qg3 Kg7 28.
+b4 cxb4 29. Bxb6 Qb8 30. Qh4 c5 31. Ra7 Rcc7 32. Bxc7 Rxc7 33. Qf6+ 1-0

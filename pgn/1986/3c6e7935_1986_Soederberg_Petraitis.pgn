@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Soederberg, P."]
+[Black "Petraitis, G."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "3c6e7935"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. h3 Qb6 11. Ba4 Rd8 12. Nc3 Nxe5 13. Nxd5 Rxd5 14. Bb3
+Nxf2 15. Kxf2 Nxf3 16. Rxe7 Bxd4+ 17. Kxf3 Qf6+ 18. Bf4 Rf5 19. Re4 Bxb2
+20. g4 Bxa1 21. Re8+ Kg7 22. gxf5 1-0
+

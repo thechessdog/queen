@@ -1,0 +1,22 @@
+[Event "OHRA op"]
+[Site "Brussel open"]
+[Date "1987.01.01"]
+[Round "6"]
+[White "Carlier, Bruno"]
+[Black "Rajkovic, Dusan"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "21e49aad"]
+[Epoch "Queen"]
+[WhiteID "1000314"]
+[WhiteCountry "NED"]
+[BlackID "900265"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Bc4 Nb6 7. Bb5+ Bd7 8. e6
+fxe6 9. Bd3 Bc6 10. Nf3 N8d7 11. Ng5 Nf6 12. O-O e5 13. Nc3 exd4 14. Nb5 e5 15.
+Re1 Be7 16. Ne6 Qd7 17. Nbc7+ Kf7 18. Bf5 Kg8 19. Nxa8 Nxa8 20. Nxd4 Qc7 21.
+Qb3+ Bd5 22. Be6+ Bxe6 23. Nxe6 Qb6 24. Qg3 Kf7 25. Ng5+ Kg6 26. Qd3+ Kh5 27.
+Qf5 1-0

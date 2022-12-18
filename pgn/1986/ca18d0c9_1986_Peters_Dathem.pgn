@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Peters, T."]
+[Black "Dathem, E."]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[HashCode "ca18d0c9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 h6 8.
+Bh4 Nbd7 9. Bd3 Nh5 10. Bxe7 Qxe7 11. Nge2 Qg5 12. g3 Nf8 13. h3 Qe7 14.
+O-O-O Ne6 15. Kb1 Bd7 16. e4 dxe4 17. Bxe4 Nf6 18. Bf5 O-O 1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ortiz"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A96"]
+[Opening "Dutch"]
+[Variation "classical variation"]
+[HashCode "d86836bf"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d4 O-O 6. c4 d6 7. Nc3 a5 8. Qc2
+Nc6 9. e4 fxe4 10. Nxe4 Nb4 11. Qe2 Nxe4 12. Qxe4 e5 13. dxe5 Bf5 14. Qxb7 Rb8
+15. Qa7 Nc6 16. Qa6 Rb6 0-1

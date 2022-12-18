@@ -1,0 +1,20 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Tomic, Dragoslav"]
+[Black "Bukal, Vladimir Sr"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f46b1c6c"]
+[Epoch "Queen"]
+[WhiteID "4609093"]
+[WhiteCountry "GER"]
+[BlackID "14502941"]
+[BlackCountry "HRV"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Qg4 cxd4 8. cxd4
+Nb4 9. Bb1 Qc7 10. Ne2 Nc2+ 11. Bxc2 Qxc2 12. O-O Nb8 13. Nc3 Bd7 14. Rd1 Nc6
+15. Nde4 dxe4 16. Rd2 1/2-1/2

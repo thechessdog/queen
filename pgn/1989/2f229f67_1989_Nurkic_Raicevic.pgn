@@ -1,0 +1,18 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nurkic, Sahbaz"]
+[Black "Raicevic, Ivica"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "2f229f67"]
+[Epoch "Queen"]
+[BlackID "902756"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd6 7. O-O Nc6 8.
+Ne4 Qd8 9. Bb5 Bd7 10. Re1 Nf6 11. Bg5 Be7 12. Bxf6 Bxf6 13. Bxc6 Bxc6 14.
+Nxf6+ Qxf6 15. Nxd4 O-O-O 16. c3 e5 0-1

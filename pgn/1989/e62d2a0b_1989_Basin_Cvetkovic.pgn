@@ -1,0 +1,20 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Basin, Leonid"]
+[Black "Cvetkovic, Srdjan"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "e62d2a0b"]
+[Epoch "Queen"]
+[WhiteID "4102070"]
+[WhiteCountry "RUS"]
+[BlackID "900621"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Bxc6 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 e5 12. dxe5 Qxe5 13. Qxc4 Be6 14.
+Qd3 Rab8 15. Nc3 Rfd8 16. Qe3 Qa5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Mendrisio"]
+[Site "Mendrisio"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karrer"]
+[Black "Zaninotto"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "f3166a14"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. dxe5 Qa5
+8. Bxf6 gxf6 9. e6 fxe6 10. Bc4 Bb4 11. Ne2 Ne5 12. Bb3 Bd7 13. a3 Bxc3+
+14. Nxc3 O-O-O 15. Qe2 f5 16. exf5 exf5 17. O-O-O Rhe8 18. Qh5 Re7 19. Rd4
+Rde8 20. Rhd1 f4 21. Qh6 Ng6 22. h4 Bg4 23. Rf1 Qc5 24. Rd2 Re1+ 25. Rxe1
+Rxe1+ 26. Nd1 Bxd1 27. Rxd1 Qe3+ 0-1
+

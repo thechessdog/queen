@@ -1,0 +1,18 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Storland, Knut"]
+[Black "Boe, Odd"]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "2df6662c"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. g3 Nc6 6. Nf3 Nf6 7. Bg2 Be7 8.
+O-O O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 Qb6 12. Ndb5 d4 13. Nc7 dxc3 14.
+Nxa8 Qxb2 15. Nc7 Rd8 16. Qb3 Nd4 17. Qxb2 cxb2 18. Rab1 Nxe2+ 19. Kh1 Nxf4
+20. Rxb2 Nxg2 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr T5002"]
+[Site "corr T5002"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roth, Juergen Eugen"]
+[Black "Schirmer, Michael"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "9862f0ea"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+[WhiteID "4604180"]
+[WhiteCountry "GER"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 Qe7 6. Ne2 exf4 7. O-O Qc5+ 8.
+d4 Qxc4 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Potzschmann"]
+[Black "Zumpe"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "96280646"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. exd5 cxd5 5. Bb5+ Nc6 6. Ne5 Bxd1 7. Nxc6
+Qb6 8. Ne5+ Kd8 9. Nxf7+ Kc8 10. Kxd1 d4 11. Bc4 dxc3 12. bxc3 Qc6 13. Bb3
+Qxg2 14. Re1 Nf6 15. d3 Qf3+ 16. Kd2 Nd5 17. Nxh8 g6 18. Nf7 Qxf7 19. Ke2
+Nxc3+ 20. Ke3 Bh6+ 21. Kd4 Qf6+ 0-1
+

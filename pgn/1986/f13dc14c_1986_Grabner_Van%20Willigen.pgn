@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grabner, H."]
+[Black "Van Willigen, J."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "f13dc14c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. d3 Re8 6. Bg5 c6 7. Qd2 d6 8.
+h3 b5 9. Nf3 Nbd7 10. O-O h6 11. Be3 Bxe3 12. Qxe3 Nb6 13. Rae1 a5 14. Kh2
+Be6 15. Nh4 b4 16. Nd1 Bxa2 17. Nf5 d5 18. f4 Nbd7 19. b3 1-0
+

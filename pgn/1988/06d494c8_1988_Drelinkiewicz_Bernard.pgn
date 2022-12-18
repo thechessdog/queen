@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Drelinkiewicz"]
+[Black "Bernard"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "06d494c8"]
+[Epoch "Queen"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 d5
+8. Nf3 Nd7 9. e3 Ngf6 10. Qc2 g6 11. d4 Bg7 12. Bd3 O-O 13. O-O e5 1-0
+

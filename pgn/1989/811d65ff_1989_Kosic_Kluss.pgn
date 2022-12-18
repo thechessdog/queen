@@ -1,0 +1,24 @@
+[Event "Caorle op"]
+[Site "Caorle"]
+[Date "1989.??.??"]
+[Round "7"]
+[White "Kosic, Dragan"]
+[Black "Kluss, Kai"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "811d65ff"]
+[Epoch "Queen"]
+[WhiteID "900290"]
+[BlackID "4617436"]
+[WhiteCountry "MNE"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Na6 11. Bxd6 Re8 12. e3 Ne4 13. Nxe4 Rxe4 14. Bg3 b5 15.
+Nd2 Rb4 16. b3 c4 17. Rc1 c3 18. Nb1 Qa5 19. Rc2 Re4 20. Bd3 Bg4 21. Qc1 Ree8
+22. Qa3 Qxa3 23. Nxa3 Nb4 24. Bxb5 Nxc2+ 25. Nxc2 Red8 26. Bc6 Bf5 27. Bxa8
+Bxc2 28. Bc6 Be4 29. Bc7 Rc8 30. f3 Bxd5 31. Bxd5 Rxc7 32. Kd1 Be5 33. Kc2 Rc5
+34. Bc4 Kg7 35. f4 Bf6 36. e4 Bd4 37. Rd1 Be3 38. Rd7 Ra5 39. Rxf7+ Kh8 40. a4
+Rh5 41. h3 Rh4 42. Kxc3 Rxf4 43. Kd3 1-0

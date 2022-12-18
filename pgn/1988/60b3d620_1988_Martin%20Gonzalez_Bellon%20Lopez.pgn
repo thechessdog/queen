@@ -1,0 +1,25 @@
+[Event "Barcelona Vulca"]
+[Site "Barcelona"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Martin Gonzalez, Angel"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Icelandic gambit"]
+[HashCode "60b3d620"]
+[Epoch "Queen"]
+[WhiteID "2200104"]
+[WhiteCountry "ESP"]
+[BlackID "2200031"]
+[BlackCountry "SWE"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Qe7
+8. Qe3 Nc6 9. Nf3 O-O-O 10. Be2 Rhe8 11. O-O Bg4 12. Nc3 Bxf3 13. Bxf3 Nxd4 14.
+Qxe7 Nxf3+ 15. gxf3 Rxe7 16. Rfe1 Rdd7 17. Rad1 Kd8 18. Kf1 c6 19. Ne4 Nxe4 20.
+fxe4 Rxd1 21. Rxd1+ Kc7 22. f3 f5 23. exf5 Rf7 24. Kf2 Rxf5 25. b3 a5 26. Rd4
+Rf7 27. a3 Kb6 28. b4 c5 29. Rd6+ Kc7 30. bxc5 Rf4 31. Re6 Rxc4 32. Re7+ Kc6
+33. Rxg7 Ra4 34. Rxh7 Rxa3 35. h4 Ra1 36. h5 a4 37. Rh8 Kxc5 38. Kg2 Rd1 39. h6
+Rd7 40. h7 Kb4 41. f4 a3 42. f5 b5 43. f6 Ra7 44. Re8 Rxh7 45. Re7 Rh8 46. Re4+
+Kb3 0-1

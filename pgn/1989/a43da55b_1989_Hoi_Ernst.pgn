@@ -1,0 +1,27 @@
+[Event "Gausdal Peer Gynt"]
+[Site "Gausdal Peer Gynt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "a43da55b"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Nf3 exd5 9. e3 O-O 10. b4 Qd6 11. Qb3 Be6 12. Be2 Nc6 13. a3 a5 14. b5 Ne7 15.
+O-O b6 16. Rfd1 h6 17. a4 Rfd8 18. Rac1 Rac8 19. Ne1 g5 20. Rd2 f5 21. Qd1 Kh8
+22. Nd3 Ng8 23. Bf3 Ne7 24. g3 Bf7 25. Qb3 Rd7 26. Rcd1 Rcd8 27. Qb2 Rb8 28.
+Ne2 c5 29. bxc6 Nxc6 30. Rc1 Nb4 31. Nxb4 Qxb4 32. Qc2 Be6 33. Rd3 Rdd8 34. Rb1
+Qd6 35. Rc3 Bd7 36. Qa2 Be8 37. Rcb3 Qc6 38. Rb5 Qc4 39. Qxc4 dxc4 40. Rxb6
+Rxb6 41. Rxb6 Bxa4 42. Bc6 Bd1 43. Kf1 Bf8 44. Nc3 Bc2 45. Ke2 Bd3+ 46. Kd2 f4
+47. gxf4 gxf4 48. Be4 Bxe4 49. Nxe4 Bb4+ 50. Ke2 fxe3 51. fxe3 Rc8 52. Rb7 Kg8
+53. Nf6+ Kf8 54. Nd7+ Ke8 55. Nb6 Rc6 56. d5 Rd6 57. e4 c3 58. Kd3 Rf6 59. Rb8+
+Kf7 60. e5 Rf3+ 61. Ke4 c2 62. e6+ Kf6 63. Nd7+ Ke7 64. Rb7 Rf4+ 0-1

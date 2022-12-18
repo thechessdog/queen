@@ -1,0 +1,21 @@
+[Event "Coimbatore"]
+[Site "Coimbatore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ravi, Lanka"]
+[Black "Lukacs, Peter"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "1ccb8bf4"]
+[Epoch "Queen"]
+[WhiteID "5000084"]
+[WhiteCountry "IND"]
+[BlackID "700142"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. O-O
+dxc4 9. Ndb5 Nbd7 10. Qa4 Bc5 11. Qxc4 a6 12. Nd4 Qc7 13. e3 b5 14. Nxe6 Qb8
+15. Qb3 fxe6 16. Qxe6+ Kh8 17. a3 Ne5 18. Qa2 Bb7 19. b4 Bb6 20. Qc2 Qc7 21.
+Bb2 Bxg2 22. Kxg2 Qc6+ 23. e4 Nc4 0-1

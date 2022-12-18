@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Dehmelt, Karl"]
+[Black "Kogan, Boris"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "6ff8ac76"]
+[Epoch "Queen"]
+[WhiteID "2001179"]
+[WhiteCountry "USA"]
+[BlackID "2804352"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Nb3
+a6 9. Bg2 h5 10. g5 Nd7 11. Qe2 Qc7 12. f4 g6 13. Be3 b5 14. Nd4 Bb7 15. Nxc6
+Bxc6 16. Nd5 Bxd5 17. exd5 e5 18. f5 gxf5 19. O-O Rc8 20. Rxf5 Qxc2 21. Qf1 Qc4
+22. Rxf7 Be7 23. Qf5 Qg4 24. Qg6 1-0

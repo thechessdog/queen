@@ -1,0 +1,20 @@
+[Event "Dieren open"]
+[Site "Dieren open"]
+[Date "1989.08.01"]
+[Round "2"]
+[White "Van Riemsdijk, Herman Claudius"]
+[Black "Hegeler, Frank"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "d4d24428"]
+[Epoch "Queen"]
+[WhiteID "2100053"]
+[WhiteCountry "BRA"]
+[BlackID "4606485"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nc3
+Nxc3 9. bxc3 e4 10. Ng5 Bf5 11. f3 e3 12. f4 Be7 13. Qf3 e2 14. Re1 Be6 15.
+Nxe6 fxe6 16. Qxe2 Qd7 17. Qxe6 O-O-O 18. Bxd5 1-0

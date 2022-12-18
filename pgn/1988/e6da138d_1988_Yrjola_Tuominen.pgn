@@ -1,0 +1,18 @@
+[Event "Tampere Elo op"]
+[Site "Tampere ELO"]
+[Date "1988.01.01"]
+[Round "9"]
+[White "Yrjola, Jouni"]
+[Black "Tuominen, Mauri"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "e6da138d"]
+[Epoch "Queen"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+O-O 9. Nd2 Re8 10. Be2 Na6 11. O-O Nc7 12. a4 b6 13. f4 Qd7 14. Bf3 Rb8 15. Re1
+b5 16. axb5 Nxb5 17. Nxb5 Rxb5 18. Nc4 Rb4 19. Nxd6 Rf8 20. e5 Ne8 21. Nxc8 1-0

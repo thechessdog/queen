@@ -1,0 +1,27 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arnold, Lothar"]
+[Black "Kurz, Eugen"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "d41861e5"]
+[Epoch "Queen"]
+[WhiteID "4604300"]
+[BlackID "4605152"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+Be7 9. Nc3 Nbd7 10. f4 O-O 11. Nf3 Nc5 12. Bc2 e5 13. Kh1 Bg4 14. f5 Rfc8 15.
+Bg5 Ncd7 16. Bd3 h6 17. Bd2 Qd8 18. Rg1 Nh7 19. Qf2 Bxf3 20. gxf3 Bg5 21. Qg2
+Qf8 22. Nd5 Rab8 23. Rad1 Kh8 24. Qh3 Bxd2 25. Rxd2 Nhf6 26. Ne3 Qe7 27. Rdg2
+Rg8 28. Bc2 Rbc8 29. b4 a5 30. a3 Ra8 31. Ba4 Nb6 32. Bb5 Kh7 33. Qh4 axb4 34.
+axb4 Qd8 35. Rd2 Ra3 36. Qf2 Qe7 37. Nc2 Rc3 38. Qxb6 Rxf3 39. Re2 Nh5 40. Ne1
+Rb3 41. Nc2 Nf4 42. Rd2 Qh4 43. Qxb7 Qh5 44. Ne1 Re3 45. Rf2 Nh3 46. Rfg2 Nxg1
+47. Rxg1 Rh3 48. Rg2 Qh4 49. Re2 Rxh2+ 50. Rxh2 Qxe1+ 51. Kg2 Qxb4 52. Qxf7
+Qd2+ 53. Kg3 Qe3+ 54. Kg2 Ra8 55. Qg6+ Kh8 56. Qg3 Qxe4+ 57. Kh3 Qxf5+ 58. Kh4
+g5+ 59. Kh5 Rg8 0-1

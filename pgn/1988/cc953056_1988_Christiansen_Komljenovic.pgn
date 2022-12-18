@@ -1,0 +1,20 @@
+[Event "Bad Mergentheim"]
+[Site "Bad Mergentheim"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Christiansen, Larry"]
+[Black "Komljenovic"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "cc953056"]
+[Epoch "Queen"]
+[WhiteID "2000059"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Be2 Re8 12. Bf3 Bd7 13. O-O a6 14. Re1 Qc7 15.
+a4 Rad8 16. Bd2 Nc8 17. Rb1 b5 18. axb5 axb5 19. b4 Nb6 20. bxc5 Qxc5 21. Qb3
+Na4 22. Ned1 Ra8 23. Be3 Qc8 24. Nxb5 Nxe4 25. Na7 Rxa7 26. Bxe4 Rxe4 27. Nb2
+Rb7 28. Qd3 Rxe3 29. Rxe3 Bf5 30. Qe2 Rxb2 31. Re8+ Bf8 0-1

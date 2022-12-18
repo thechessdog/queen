@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuehnel"]
+[Black "Strelis"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "a842dc92"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Nxc6 Bxc6 11. Bd3 Qb6 12. Rhe1 O-O-O 13. e5 dxe5 14.
+fxe5 h6 15. Be3 Qa5 16. exf6 gxf6 17. Qf2 b4 18. Bb6 Qg5+ 19. Kb1 Rxd3 20.
+Rxd3 bxc3 21. Rxc3 Kb7 22. Bd8 Qb5 23. Qxf6 Rh7 24. Rb3 Bb4 25. a4 Qc5 26.
+Be7 1-0
+

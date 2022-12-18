@@ -1,0 +1,22 @@
+[Event "Norrkoping"]
+[Site "Norrkoeping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andersson, Bjorn"]
+[Black "Johansson, Jan"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "0e62a95b"]
+[Epoch "Queen"]
+[BlackID "1700103"]
+[BlackCountry "SWE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be3 a6 7. a4 Nc6 8. Qd2 e5
+9. d5 Ne7 10. g4 Bd7 11. g5 Nh5 12. a5 f5 13. gxf6 Rxf6 14. Nh2 Kh8 15. Ng4 Rf7
+16. O-O-O Ng8 17. Bc4 Nf4 18. Rdg1 b6 19. Ne2 Bb5 20. Nxf4 exf4 21. Bd4 Bxc4
+22. h4 Bb5 23. h5 g5 24. h6 Bxd4 25. Qxd4+ Nf6 26. Rh5 Be2 27. Rxg5 Qe7 28. Rf5
+Bxg4 29. Rxg4 Rg8 30. f3 bxa5 31. Rgg5 Rxg5 32. Rxg5 Qf8 33. e5 Qxh6 34. Qxf4
+dxe5 35. Qf5 Rg7 36. f4 Rxg5 37. fxg5 Qh1+ 38. Kd2 Qxd5+ 39. Kc1 Ng8 40. Kb1
+Qd6 0-1

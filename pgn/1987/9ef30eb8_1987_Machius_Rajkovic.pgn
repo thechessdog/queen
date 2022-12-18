@@ -1,0 +1,17 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Machius, Mischa"]
+[Black "Rajkovic, Dusan"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "9ef30eb8"]
+[Epoch "Queen"]
+[BlackID "900265"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 d6 6. e3 exd5 7. cxd5 Nbd7 8. Bd3
+Qa5 9. Ne2 Nxd5 10. O-O Bxc3 11. Nxc3 Nxc3 12. bxc3 c4 0-1

@@ -1,0 +1,26 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pavoni"]
+[Black "Neri"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "10e6c7d9"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 Nf6 5. g3 c6 6. Bg2 Bd6 7. O-O O-O 8. c5
+Bc7 9. Qc2 Nbd7 10. Bf4 e5 11. dxe5 Ne4 12. b4 Qe7 13. e6 Ndf6 14. Bxc7
+Qxc7 15. Nd4 Qe5 16. e3 Nxc3 17. Qxc3 Ne4 18. Qd3 Qf6 19. Rab1 Bxe6 20. f3
+Ng5 21. b5 Bd7 22. bxc6 Bxc6 23. Rbc1 Rae8 24. Rfe1 Re7 25. Rc3 Ne6 26.
+Nxe6 Rxe6 27. Rcc1 Rfe8 28. Kf2 g6 29. Rcd1 Rd8 30. Qd4 Bb5 31. Rb1 Qxd4
+32. exd4 Rxe1 33. Rxe1 Rd7 34. f4 Kf8 35. Re5 Bc4 36. a3 Re7 37. h3 b6 38.
+Ke3 Kf7 39. g4 Rxe5+ 40. fxe5 fxg4 41. c6 Ke6 42. hxg4 g5 43. Bf3 Bb5 44.
+c7 Ba6 45. Be2 Bc8 46. Bb5 Ke7 47. Bc6 Ke6 48. Kd2 a5 49. Kc3 Ba6 50. Kb2
+Bc8 51. Kb3 Ba6 52. Ka4 h6 53. Kb3 Bc8 54. Kb2 Ba6 55. Kc3 Bc8 56. Kb3 Ba6
+57. Ka4 Ke7 58. Bxd5 Kd7 59. Be4 Kxc7 60. d5 Bc4 61. d6+ Kd7 62. Bg6 Kc6
+63. Be8+ Kb7 64. Bd7 Be2 65. Kb3 b5 66. Kc3 Bd1 67. Bf5 Ba4 68. d7 Kc7 69.
+e6 1-0
+

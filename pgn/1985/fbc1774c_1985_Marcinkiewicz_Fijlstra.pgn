@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Marcinkiewicz, A."]
+[Black "Fijlstra, E."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "fbc1774c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. a4 Nc6 10. f4 Nb4 11. Kh1 Bd7 12. Bf3 b5 13. Bd2 Qb6 14. Nxb5
+Nxc2 15. Qxc2 axb5 16. a5 Qc6 17. Rfc1 Qxc2 18. Rxc2 Be6 19. Nc1 Rfc8 20.
+Rc3 Bg4 21. Nd3 Rxc3 22. Bxc3 Bxf3 23. gxf3 exf4 24. Nxf4 Nd7 25. Nd5 Bd8
+26. b4 Ne5 27. Bxe5 dxe5 1-0
+

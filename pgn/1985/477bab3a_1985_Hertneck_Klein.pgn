@@ -1,0 +1,20 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hertneck, Gerald"]
+[Black "Klein, G."]
+[Result "1-0"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "477bab3a"]
+[Epoch "Queen"]
+[WhiteID "4600088"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. Re1 Nc7 12. a4 b6 13. h3 Rb8 14. Bf1 a6 15. Rb1
+b5 16. axb5 axb5 17. b4 Nd7 18. Bb2 Ne5 19. bxc5 dxc5 20. Nxb5 Nxb5 21. Bxe5
+Rxe5 22. Bxb5 Bd7 23. Bxd7 Rxb1 24. Qxb1 Qxd7 25. Qb6 Bf8 26. Nc4 Re8 27. d6
+Rc8 28. e5 Qe6 29. Rd1 1-0

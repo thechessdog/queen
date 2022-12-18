@@ -1,0 +1,16 @@
+[Event "Mountain View,CA"]
+[Site "Mountain View,CA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Millimaci"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "29a78388"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 e6 5. Nf3 Nf6 6. Bg5 Be7 7. e5 Ne4 8.
+Bxe7 Qxe7 9. Bd3 Qb4+ 10. Kf1 Qxb2 11. Na3 Qxf2# 0-1

@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karker, N."]
+[Black "Stephan, E."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "696a5c7d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2
+Qc7 8. h3 Bh5 9. O-O Nd7 10. c4 O-O-O 11. Qa4 Kb8 12. Be3 Nb6 13. Qb3 e5
+14. d5 c5 15. Rae1 f5 16. Bg5 Rd6 17. Nxe5 Bxe2 18. Rxe2 f6 19. Bf4 fxe5
+20. Bxe5 Rg8 21. Rfe1 Qf7 22. Bf4 Kc8 23. Qa3 Kd8 24. Qxa7 Nc8 25. Qb8 Qc7
+26. Re8+ 1-0
+

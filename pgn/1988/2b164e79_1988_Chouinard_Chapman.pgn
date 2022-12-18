@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chouinard, S."]
+[Black "Chapman, R."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "2b164e79"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. Nxe4 e5 9. Be3 f5 10. Nc5 f4 11. Qh5+ Kf8 12. O-O-O fxe3 13. fxe3 1-0
+

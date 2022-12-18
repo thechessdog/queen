@@ -1,0 +1,18 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sindermann, E."]
+[Black "Sick, Oliver, Dr."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e4aa248a"]
+[Epoch "Queen"]
+[BlackID "4601513"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1
+Nxf2+ 8. Ke1 Nxh1 9. exf8=Q+ Kxf8 10. g3 Bf5 11. Bg2 Re8+ 12. Ne2 Bg4 13. Bxh1
+Rxe2+ 14. Kf1 Rxh2 15. Bg2 Bh3 16. Bxh3 Rh1+ 0-1

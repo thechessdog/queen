@@ -1,0 +1,23 @@
+[Event "Val Thorens op2"]
+[Site "Val Thorens"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Delerme, Raymond"]
+[Black "Cordier, Francois"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "1b8ca965"]
+[Epoch "Queen"]
+[WhiteID "621773"]
+[WhiteCountry "FRA"]
+[BlackID "608513"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c5 7. d5 e6 8. Nf3 exd5
+9. cxd5 Bg4 10. h3 Bxf3 11. Bxf3 Nbd7 12. O-O c4 13. Be3 a6 14. a4 Re8 15. Bd4
+Qa5 16. Qe2 Nxe4 17. Qxc4 Nd2 18. Qd3 Bxd4+ 19. Qxd4 Nxf1 20. Kxf1 Qc5 21. Qd1
+Nf6 22. Qc2 Rac8 23. Rd1 Qc4+ 24. Kg1 Qxf4 25. Qb3 Re7 26. Rf1 Rce8 27. Qd1 Qh4
+28. Ne2 Nh5 29. Bg4 Ng3 30. Rf2 Rxe2 31. Bxe2 Rxe2 32. Rxe2 Qd4+ 33. Qxd4 Nxe2+
+34. Kf2 Nxd4 35. Ke3 Nb3 0-1

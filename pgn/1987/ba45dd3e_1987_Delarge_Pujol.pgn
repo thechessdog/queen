@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Delarge, F."]
+[Black "Pujol, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "ba45dd3e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 Nc6 4. e3 e5 5. Bb5 exd4 6. Ne2 Bb4+ 7. c3 dxc3
+8. bxc3 Bd6 9. Qxd5 Ne7 10. Qd1 a6 11. Ba4 b5 12. Bc2 Bf5 13. Nd2 Ne5 14.
+e4 Be6 15. Nf4 Bc4 16. Nxc4 Nxc4 17. Ne6 Be5 18. Nxd8 Bxc3+ 19. Ke2 Bxa1
+20. Qxa1 Rxd8 21. Rd1 Kf7 22. Rxd8 Rxd8 23. Bb3 Nc6 24. Qc1 Ne5 25. f4 Rd4
+26. Qe3 Nc6 27. Be1 Ke7 28. Bxc4 Rxc4 29. Kd3 a5 30. a3 Rd4+ 31. Qxd4 Nxd4
+32. Kxd4 Kd6 33. Bxa5 c5+ 34. Kd3 g6 35. g4 g5 36. f5 h5 37. Bd8 hxg4 38.
+Bxf6 b4 39. axb4 1-0
+

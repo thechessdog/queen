@@ -1,0 +1,21 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Martincevic, Ninoslav"]
+[Black "Holzschuh, Peter"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "94d9741a"]
+[Epoch "Queen"]
+[WhiteID "4606590"]
+[WhiteCountry "GER"]
+[BlackID "4623355"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 b5 11. Bxf6 gxf6 12. f5 Ne5 13. fxe6 fxe6 14. Qh3 Kf7
+15. Be2 Bd7 16. Bh5+ Ng6 17. Rhf1 b4 18. Nce2 Rac8 19. Bg4 Nf8 20. Nf4 Qc4 21.
+Kb1 Rb8 22. Qh6 1-0

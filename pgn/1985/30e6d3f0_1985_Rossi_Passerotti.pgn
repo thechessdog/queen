@@ -1,0 +1,20 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rossi, C."]
+[Black "Passerotti"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack, Gurgenidze variation"]
+[HashCode "30e6d3f0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4 cxb4 7. a3 Nge7 8.
+axb4 O-O 9. Bxc6 dxc6 10. d3 a5 11. bxa5 Rxa5 12. Ba3 Rb5 13. Nc3 Rb6 14.
+Bc5 Ra6 15. Rxa6 bxa6 16. Qa1 Re8 17. Rb1 h6 18. Na4 g5 19. Nb6 Ng6 20. Nc4
+g4 21. Nfd2 h5 22. Nd6 Bf8 23. N2c4 Be6 24. Bb6 Qd7 25. Nxe8 Qxe8 26. Nxe5
+Bg7 27. Bd4 c5 28. Bc3 Nf4 29. Kf1 Kh7 30. g3 Nh3 31. Qxa6 Qh8 32. Qd6 Ng5
+33. Rb8 Bc8 34. Qxc5 1-0
+

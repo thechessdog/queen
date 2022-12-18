@@ -1,0 +1,24 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemirovski, Serge"]
+[Black "Degraeve, Jean Marc"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9361ea19"]
+[Epoch "Queen"]
+[WhiteID "600318"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 cxd4 5. cxd4 g6 6. Be3 Bg7 7. Bd3 O-O 8. Ne2
+e5 9. O-O exd4 10. Nxd4 Nc6 11. Nxc6 bxc6 12. Nc3 d5 13. exd5 Nxd5 14. Nxd5
+cxd5 15. Bc5 Re8 16. Bb5 Re6 17. Bd4 Bxd4+ 18. Qxd4 Qb6 19. Qxb6 Rxb6 20. Ba4
+Rxb2 21. Rfd1 Be6 22. Bb3 Re8 23. Rac1 d4 24. Rxd4 Bxb3 25. axb3 Ree2 26. Rg4
+Rxb3 27. h4 h5 28. Rg5 Ra2 29. Rc7 Rbb2 30. f4 a5 31. f5 Rb6 32. Rg3 Ra1+ 33.
+Kh2 Ra4 34. Rf3 Rxh4+ 35. Kg1 Rb1+ 36. Kf2 Rb2+ 37. Kg3 Rg4+ 38. Kh3 Rgxg2 39.
+fxg6 Rh2+ 40. Kg3 Rbg2+ 41. Kf4 fxg6 42. Rd3 Rg4+ 43. Ke5 Re2+ 44. Kd5 Rf2 45.
+Kc5 Rc2+ 0-1

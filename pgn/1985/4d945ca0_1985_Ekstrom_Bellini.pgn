@@ -1,0 +1,20 @@
+[Event "Mendric"]
+[Site "Mendric"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ekstroem, Roland"]
+[Black "Bellini"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "4d945ca0"]
+[Epoch "Queen"]
+[WhiteID "1302302"]
+[WhiteCountry "SUI"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Nd7 6. Bc4 Be7 7. c3 b5 8. Bb3
+Qc7 9. O-O Nc5 10. Bc2 Nf6 11. b4 Nb7 12. Bb2 Nd7 13. a3 c5 14. Qe2 a6 15. Rfc1
+O-O 16. c4 bxc4 17. Nxc4 cxb4 18. axb4 Bxb4 19. Ncxe5 Nxe5 20. Bxe5 Qb6 21. Bd4
+Bc5 22. Rab1 Qd8 23. Ba1 Qe7 24. Bb3 Rd8 25. Ne5 Rf8 26. Bd5 Bd6 27. Nc4 Rb8
+28. Qb2 Qg5 29. h4 Qg6 30. Qxg7+ Qxg7 31. Bxg7 1-0

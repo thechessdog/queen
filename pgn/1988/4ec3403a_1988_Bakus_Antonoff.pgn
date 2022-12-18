@@ -1,0 +1,20 @@
+[Event "Paris op"]
+[Site "Paris op"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bakus, Michel"]
+[Black "Antonoff, Georges"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "4ec3403a"]
+[Epoch "Queen"]
+[WhiteID "605484"]
+[WhiteCountry "FRA"]
+[BlackID "604267"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 Bb4 8. Qc2
+Qe5 9. Be3 Qxe4 10. Qb3 Bxc3+ 11. bxc3 O-O 12. O-O-O d5 13. Bd3 Qe5 14. c5 Qc7
+15. f4 Ng4 16. h3 Nxe3 17. Bxh7+ Kxh7 0-1

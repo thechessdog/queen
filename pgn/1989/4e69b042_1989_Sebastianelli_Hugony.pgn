@@ -1,0 +1,18 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sebastianelli"]
+[Black "Hugony, Fabrizio"]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "4e69b042"]
+[Epoch "Queen"]
+[BlackID "800350"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Nxd4 10. Bxd4 Be6 11. O-O-O Qa5 12. Kb1 Rfc8 13. h4 Rxc3 14. Qxc3
+Qxa2+ 15. Kc1 Bxg4 16. Qe3 e5 17. fxg4 Nxg4 0-1

@@ -1,0 +1,22 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Adamski, Andrzej"]
+[Black "Szalajdewicz, Janusz"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "2b20995d"]
+[Epoch "Queen"]
+[WhiteID "1101439"]
+[WhiteCountry "POL"]
+[BlackID "1101617"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. Qe2 Be7 3. f4 d5 4. d3 Nf6 5. e5 Nfd7 6. Nf3 c5 7. g3 b6 8. Bg2 Bb7
+9. O-O Nc6 10. c3 h6 11. Na3 a6 12. Nc2 Qc7 13. Bd2 O-O-O 14. b4 Kb8 15. a3 Ka8
+16. Rfb1 g5 17. bxc5 bxc5 18. c4 Rhg8 19. cxd5 exd5 20. Ra2 Rb8 21. Rab2 Nd8
+22. d4 c4 23. Qe1 Bc6 24. Ba5 Qc8 25. f5 Rxb2 26. Rxb2 g4 27. Nd2 Nb8 28. Ne3
+Qd7 29. Nb1 Nb7 30. Bd2 Bg5 31. Nc3 Be7 0-1

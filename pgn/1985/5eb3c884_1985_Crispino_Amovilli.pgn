@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Amovilli"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "5eb3c884"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Re1 Nbd7 14. Qc2
+Ne8 15. Be2 Nc7 16. Bf1 Rab8 17. Qd2 Ne5 18. Bh6 Bxh6 19. Qxh6 b5 20. axb5
+axb5 21. h3 b4 22. Nd1 f5 23. exf5 Rxf5 24. Ra7 Rbf8 25. Re4 R8f7 26. Be2
+Qd8 27. f4 Ne8 28. Ra1 1/2-1/2
+

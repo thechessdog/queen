@@ -1,0 +1,22 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ballmann, Martin"]
+[Black "Georges, Sacha"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "a383c13b"]
+[Epoch "Queen"]
+[WhiteID "1300350"]
+[BlackID "1301160"]
+[WhiteCountry "SUI"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nf3 c5 4. c3 Qb6 5. Qb3 Nc6 6. e3 d5 7. Nbd2 Be7 8. Be2
+O-O 9. O-O Bd7 10. Ne5 Qc7 11. Bxf6 gxf6 12. Nxd7 Qxd7 13. dxc5 f5 14. Rad1
+Bxc5 15. e4 d4 16. exf5 d3 17. Ne4 Qe7 18. f6 Qc7 19. Rxd3 Ne5 20. Rg3+ Ng6 21.
+Qc4 Rac8 22. Nxc5 Qxc5 23. Qxc5 Rxc5 24. Rd1 Rf5 25. Rd7 Rb8 26. Rgd3 Rxf6 27.
+Rd8+ Rxd8 28. Rxd8+ Kg7 29. Rd7 e5 30. Rxb7 Rd6 31. g3 1-0

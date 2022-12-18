@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dzuban, Oleg I"]
+[Black "Meijers, Viesturs"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "8af82324"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+Nbd7 9. Rc1 c5 10. Qe2 cxd4 11. exd4 Ne4 12. Bxe7 Nxc3 13. Bxh7+ Kh8 14. Rxc3
+Qxe7 15. Ne5 Nf6 16. Rh3 dxc4 17. Bc2+ Kg8 18. Qe3 Qd6 19. Rh4 Rfd8 20. Rh8+
+Kxh8 21. Nxf7+ Kg8 22. Nxd6 Rxd6 23. Bg6 Rad8 24. Rd1 a6 25. h3 b5 26. f3 Nd5
+27. Qe5 Ne7 28. Bb1 Nc6 29. Qh5 Nxd4 30. Kf2 Rd5 31. Qh7+ Kf8 32. Be4 1-0

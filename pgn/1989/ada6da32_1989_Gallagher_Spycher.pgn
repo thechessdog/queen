@@ -1,0 +1,20 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "8"]
+[White "Gallagher, Joseph G."]
+[Black "Spycher, B."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "ada6da32"]
+[Epoch "Queen"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6 14. Ne2
+O-O-O 15. Rb1 d4 16. g3 Na5 17. Nxd4 Bc6 18. Rg1 Bb5 19. Nxb5 axb5 20. Qxb5
+Qc3+ 21. Kf2 Qxc2+ 22. Be2 Nd5 23. Be3 Qe4 24. Rge1 Kb8 25. Ba7+ Kxa7 26. Qxa5+
+Kb8 27. Rxb7+ 1-0

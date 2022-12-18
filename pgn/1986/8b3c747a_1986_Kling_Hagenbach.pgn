@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kling, K."]
+[Black "Hagenbach, T."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "8b3c747a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Bxf6 gxf6 10. Na3 b5 11. Nd5 f5 12. exf5 Bxf5 13. Qf3 Nd4 14.
+Nc7+ Qxc7 15. Qxa8+ Ke7 16. c3 b4 17. cxb4 Qb6 18. Bxa6 Qxb4+ 19. Kf1 Qd2
+20. Qb7+ Kf6 21. Kg1 Bd3 22. Bxd3 Qxd3 23. g3 Ne2+ 24. Kg2 Nf4+ 25. Kg1 Rg8
+26. h4 Ne2+ 27. Kh2 Rxg3 28. Qa8 Rh3+ 29. Kg2 Nf4+ 30. Kg1 Rxh1+ 31. Qxh1
+Qe2 32. Rb1 d5 33. b4 Kf5 0-1
+

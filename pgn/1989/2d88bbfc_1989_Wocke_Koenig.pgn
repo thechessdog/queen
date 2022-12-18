@@ -1,0 +1,24 @@
+[Event "RLNN 8990"]
+[Site "RLNN 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wocke, Ruediger"]
+[Black "Koenig, W."]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "2d88bbfc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bb5+
+Bd7 9. a4 a6 10. Be2 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Nb6 14. Nxd6+ Qxd6
+15. e5 Qe7 16. Bg5 O-O-O 17. exf6 Bxf6 18. Qxe7 Bxe7 19. Bxe7 Rhe8 20. O-O-O
+Rxe7 21. Rd3 Re5 22. Rhd1 Rf5 23. R1d2 Rf4 24. b3 Rb4 25. Kc2 c4 26. bxc4 Nxc4
+27. Re2 Nb2 28. Rf3 Nxa4 29. Nxa4 Rxa4 30. Kb3 Rh4 31. Rc2+ Kb8 32. Rxf7 Rxd5
+33. h3 Rb5+ 34. Ka3 h6 35. f4 Rhh5 36. Rf6 Ra5+ 37. Kb2 Rhb5+ 38. Kc1 g5 39.
+Rxh6 gxf4 40. Rf6 Ra4 41. Kd1 Re4 42. Rf2 Rbb4 43. h4 Rbd4+ 44. Kc2 f3 45. g3
+Re2+ 46. Kc3 Rxh4 47. R2xf3 Rg4 48. R6f4 Rg5 49. Rb4 Rg2 50. Rh4 R2xg3 51. Rxg3
+Rxg3+ 52. Kb4 Rg5 53. Rh7 Ka7 54. Ka4 a5 55. Rf7 Ka6 56. Rf6+ b6 57. Rf4 b5+
+58. Ka3 Rg3+ 59. Ka2 a4 60. Rh4 Ka5 61. Rh5 a3 62. Rh4 b4 63. Rh8 Rg2+ 64. Ka1
+b3 65. Rh5+ Kb4 66. Rh1 Rc2 0-1

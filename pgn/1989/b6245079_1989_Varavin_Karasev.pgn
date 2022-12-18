@@ -1,0 +1,27 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Varavin, Viktor"]
+[Black "Karasev, Vladimir I"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b6245079"]
+[Epoch "Queen"]
+[WhiteID "4101766"]
+[WhiteCountry "RUS"]
+[BlackID "4103971"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nbd7 5. Be3 cxd4 6. cxd4 e5 7. Nc3 Be7 8. Bc4
+O-O 9. Nge2 Nb6 10. Bb3 exd4 11. Nxd4 d5 12. e5 Nfd7 13. f4 Nc5 14. O-O Nc4 15.
+Bc1 f6 16. Qf3 Nxb3 17. axb3 Bc5 18. bxc4 Bxd4+ 19. Kh1 dxc4 20. Qe2 fxe5 21.
+Qxc4+ Kh8 22. fxe5 Rxf1+ 23. Qxf1 Be6 24. Bf4 Qb6 25. Qe2 Rf8 26. Bg3 h6 27.
+Rd1 Qb4 28. Qd3 a5 29. h3 Bc5 30. Nd5 Qxb2 31. Nf4 Bf5 32. Qd5 b6 33. e6 a4 34.
+Re1 Qb3 35. e7 Bxe7 36. Rxe7 Qxg3 37. Nh5 Be4 38. Nxg3 Bxd5 39. Rd7 Bc6 40. Rc7
+Rf6 41. Nh5 Rg6 42. Nf4 Rd6 43. h4 g5 44. hxg5 hxg5 45. Nh3 a3 46. Ra7 Rd3 47.
+Kh2 Rd2 48. Nxg5 Rxg2+ 49. Kh3 Rxg5 50. Rxa3 Kg7 51. Ra6 Rg6 52. Kh4 Bd5 53.
+Kh5 Bf7 54. Kh4 b5 55. Ra7 Rb6 56. Ra1 b4 57. Rb1 b3 58. Rb2 Kf6 59. Kg3 Ke5
+60. Kf2 Kd4 61. Ke1 Kc3 62. Rb1 Kc2 0-1

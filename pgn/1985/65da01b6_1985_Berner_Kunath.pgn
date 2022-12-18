@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Berner"]
+[Black "Kunath"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "65da01b6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4
+Nf6 8. f3 Nxd4 9. Qxd4 g6 10. Be3 Bg7 11. Qd2 b5 12. cxb5 Qxb5 13. Nc3 Qb4
+14. O-O O-O 15. Rab1 Rfc8 16. Rfc1 Rc7 17. Ne2 Qxd2 18. Bxd2 Ne8 19. Rxc7
+Nxc7 20. Rc1 Ne6 21. b4 Kf8 22. Be3 Ke8 23. Kf2 Kd7 24. Rc4 a6 25. h4 Rc8
+26. Rxc8 Kxc8 27. g4 Kd7 28. f4 Kc6 29. f5 gxf5 30. gxf5 Nc7 31. a4 Be5 32.
+Bd4 e6 33. Bxe5 dxe5 34. Ng3 Ne8 35. Kf3 exf5 36. Nxf5 h5 37. Ng3 Ng7 38.
+Ke3 Kd6 39. Kd3 Ne6 40. Nxh5 a5 41. Kc4 axb4 42. Kxb4 Nc5 43. Ng3 1-0
+

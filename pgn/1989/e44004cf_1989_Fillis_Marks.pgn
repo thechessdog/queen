@@ -1,0 +1,18 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fillis"]
+[Black "Marks"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "e44004cf"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Qb6 8.
+Nf3 f6 9. g3 cxd4 10. cxd4 Bb4+ 11. Bd2 fxe5 12. fxe5 O-O 13. Bg2 Ndxe5 14.
+dxe5 Nxe5 15. Nf4 Qe3+ 16. Kf1 Qxd2 17. Qxd2 Bxd2 18. Nxd2 g5 19. Ke2 gxf4
+20. gxf4 Rxf4 21. Ke3 Rf7 22. Rhf1 Bd7 0-1
+

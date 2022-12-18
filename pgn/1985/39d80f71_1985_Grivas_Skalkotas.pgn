@@ -1,0 +1,19 @@
+[Event "Greece"]
+[Site "Greece"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grivas, Efstratios"]
+[Black "Skalkotas, Nikolaos"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Dzindzikhashvili defence"]
+[HashCode "39d80f71"]
+[Epoch "Queen"]
+[WhiteID "4200039"]
+[BlackID "4200144"]
+[WhiteCountry "GRE"]
+[BlackCountry "GRE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 a6 4. Nc3 c5 5. g3 b5 6. cxb5 axb5 7. Nxb5 Qa5+ 8.
+Nc3 Bb7 9. Bg2 Ne4 10. O-O Nxc3 11. bxc3 Qxc3 12. Be3 Na6 13. dxc5 Nxc5 14. Rb1
+Bxf3 15. Bxf3 Rd8 16. Qc1 Qa3 1-0

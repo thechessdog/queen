@@ -1,0 +1,18 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Liabotro, P."]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "e2b6d740"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. g3 e5 2. Bg2 d5 3. d3 c6 4. Nf3 Bd6 5. O-O Nf6 6. Nbd2 O-O 7. e4 Re8 8. h3
+a5 9. Nh4 Na6 10. Re1 Nc5 11. exd5 cxd5 12. d4 exd4 13. Rxe8+ Qxe8 14. Ndf3 a4
+15. Nxd4 a3 16. b3 Nce4 17. Qe1 Bd7 18. Nhf3 Qc8 19. Kh2 Nxf2 20. Qxf2 Ne4 21.
+Qe3 Bxg3+ 0-1

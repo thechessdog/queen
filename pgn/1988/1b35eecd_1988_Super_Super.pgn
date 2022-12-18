@@ -1,0 +1,32 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Super Constellation"]
+[Black "Super Mondial"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "1b35eecd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c3 f5 10. h3 Bxf3 11. Qxf3 O-O 12. Bf4 Bh4 13. Re2 Bf6 14.
+Be3 Be5 15. Na3 a6 16. Nc2 Qd6 17. c4 Bh2+ 18. Kh1 dxc4 19. Bxc4+ Kh8 20.
+Bb3 Rae8 21. a3 Bg3 22. d5 Ne5 23. Qh5 Nd3 24. Qf3 Qe5 25. fxg3 Nxg3+ 26.
+Kg1 f4 27. Rf2 Nxf2 28. Bxf2 Qxb2 29. Bxg3 fxg3 30. Qxg3 Re2 31. Re1 Rxe1+
+32. Nxe1 Qxa3 33. Kh2 Re8 34. Nc2 Qc5 35. Qf4 Rf8 36. Qe5 Rf6 37. Ne3 Qd6
+38. Qxd6 Rxd6 39. Kg3 g6 40. Kf2 h6 41. Ke1 Kg7 42. Kd2 a5 43. Kc3 b5 44.
+Bd1 Rf6 45. Kd4 a4 46. Kc5 a3 47. Bf3 a2 48. Nc2 Rb6 49. Na1 b4 50. d6 Rxd6
+51. Kxb4 g5 52. Ka3 Ra6+ 53. Kb2 h5 54. Nc2 c6 55. Be2 Ra4 56. Bxh5 c5 57.
+Na1 c4 58. Bg4 Kf6 59. Bd1 Ra7 60. Bf3 Ke5 61. Nc2 Kd6 62. Na1 Kc5 63. Nc2
+Ra4 64. Bg4 c3+ 65. Ka1 Ra6 66. Ne1 Kd6 67. Bd1 Ra3 68. Nd3 c2 69. Bxc2 Rc3
+70. Ne1 Ra3 71. Nf3 Kd7 72. Bd3 Kd6 73. Bc4 g4 74. hxg4 Ra4 75. Nd2 Ke5 76.
+g5 Kf5 77. g6 Kxg6 78. Bxa2 Kf5 79. Kb1 Rg4 80. Nf1 Rf4 81. Ne3+ Ke5 82.
+Kc1 Rf8 83. Kd1 Kd4 84. Ng4 Kc3 85. Nh2 Rf2 86. Bd5 Rd2+ 87. Ke1 Rxd5 88.
+Kf2 Rd2+ 89. Kg3 Ra2 90. Kf3 Kd4 91. Nf1 Ra8 92. g3 Kd3 93. Nh2 Rf8+ 94.
+Kg2 Ke2 95. g4 Rf7 96. Kg3 Ke3 97. g5 Ke4 98. Kg4 Rf5 99. g6 Rf2 100. Kg5
+Rxh2 101. g7 Rg2+ 102. Kf6 Kf4 103. Kf7 Kf5 104. g8=Q Rxg8 105. Kxg8
+1/2-1/2
+

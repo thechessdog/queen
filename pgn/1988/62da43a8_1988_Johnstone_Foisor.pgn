@@ -1,0 +1,23 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Johnstone, Glenn"]
+[Black "Foisor, Ovidiu-Doru"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "62da43a8"]
+[Epoch "Queen"]
+[WhiteID "2600366"]
+[WhiteCountry "CAN"]
+[BlackID "1200143"]
+[BlackCountry "ROU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Qg4 Ne7 7. Qxg7 Rg8 8. Qxh7
+cxd4 9. b4 dxc3 10. bxa5 Nbc6 11. f4 Qxa5 12. Rb1 Nd4 13. Ne2 Nxe2 14. Bxe2
+Rxg2 15. Kf1 Rg8 16. Rg1 Rxg1+ 17. Kxg1 Qc5+ 18. Kf1 a6 19. Bh5 Nf5 20. Bxf7+
+Kd8 21. Bh5 b5 22. Bg4 Ra7 23. Qg8+ Kc7 24. Bxf5 exf5 25. Qg3 d4 26. Qd3 Be6
+27. Ke1 Kb6 28. a4 b4 29. a5+ Kxa5 30. Qh3 Kb5 31. Qh8 a5 32. Qe8+ Qc6 33. Qf8
+Rh7 0-1

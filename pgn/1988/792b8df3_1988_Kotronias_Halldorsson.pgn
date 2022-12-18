@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kotronias, Vasilios"]
+[Black "Halldorsson, Bragi"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "792b8df3"]
+[Epoch "Queen"]
+[WhiteID "5900212"]
+[WhiteCountry "GRE"]
+[BlackID "2300907"]
+[BlackCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. Bd3 Bxd3 6. Qxd3 Qa5 7. Ne2 Qa6 8. Qh3
+c5 9. Nxd5 Qa5+ 10. Qc3 Qxc3+ 11. Ndxc3 Nc6 12. Be3 cxd4 13. Nxd4 Nxd4 14. Bxd4
+Ne7 15. Nb5 Nd5 16. c4 a6 17. cxd5 axb5 18. d6 Ra4 19. O-O-O Kd7 20. Kb1 g6 21.
+b3 Ra6 22. Rd3 Bg7 23. Rf3 Rf8 24. Rc1 Rc6 25. Rxc6 Kxc6 26. Kc2 Kd5 27. d7 Rd8
+28. Rxf7 Kxd4 29. Rxg7 Kxe5 30. Rxh7 Kf6 31. h4 1-0

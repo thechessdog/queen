@@ -1,0 +1,21 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "9"]
+[White "Maciejewski, Andrzej"]
+[Black "Karlik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4ce3bf16"]
+[Epoch "Queen"]
+[WhiteID "1100181"]
+[WhiteCountry "POL"]
+[BlackID "301027"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 e5 6. Nf3 exd4 7. Qxd4 Qe6+
+8. Be3 Nc6 9. Bb5 Bd7 10. Qa4 Bb4+ 11. Nc3 Nge7 12. O-O Bxc3 13. bxc3 O-O 14.
+Bc5 a6 15. Bc4 Qf6 16. Qa3 Rfe8 17. Rfe1 Ng6 18. Bd4 Nxd4 19. cxd4 Rad8 20. Qa5
+Bg4 1/2-1/2

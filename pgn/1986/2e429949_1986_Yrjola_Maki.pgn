@@ -1,0 +1,22 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "Maki, Veijo"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "2e429949"]
+[Epoch "Queen"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+[BlackID "500046"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 Nc6 8. Bg5
+h6 9. h4 hxg5 10. hxg5 g6 11. gxf6 Qxf6 12. a3 Bxc3+ 13. bxc3 Qf4 14. Nh5 Qxe4+
+15. Kd2 Qf5 16. Bd3 Qxf2+ 17. Kc1 f5 18. Kb1 Qe3 19. Rh3 Qg5 20. Rg3 Qh6 21.
+Qf3 Kf7 22. Nf4 Ne7 23. Kc2 c6 24. c5 g5 25. Rh3 Qg7 26. Qh5+ Kf6 27. Bxa6 gxf4
+28. Qh4+ Qg5 29. Qxg5+ Kxg5 30. Rh7 Kf6 0-1

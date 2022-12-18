@@ -1,0 +1,16 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heinsohn, Thomas"]
+[Black "Zunke"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Reynolds' variation"]
+[HashCode "d07d75e3"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. d5 c4 11. dxe6 fxe6 12. Bc2 Qc7 13. Ng5 Nc5 14. f4 h6 15. e5
+hxg5 16. exf6 gxf6 17. Bg6+ Ke7 18. Qe2 Rg8 19. Nd5+ 1-0

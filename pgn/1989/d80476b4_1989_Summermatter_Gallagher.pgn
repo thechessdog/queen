@@ -1,0 +1,27 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Summermatter, Daniel"]
+[Black "Gallagher, Joseph G."]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "d80476b4"]
+[Epoch "Queen"]
+[WhiteID "1300385"]
+[WhiteCountry "SUI"]
+[BlackID "1303422"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2 b6 7. a4 a5 8. O-O
+Bb7 9. c3 Nbd7 10. Qb3 Re8 11. Rfd1 h6 12. Bh4 c5 13. Bb5 c4 14. Qa2 Ba6 15.
+Bxa6 Rxa6 16. b3 cxb3 17. Qxb3 e6 18. Rac1 Qa8 19. Nb1 Qb7 20. Na3 Raa8 21. Rc2
+Bf8 22. Nb5 Rac8 23. Rdc1 Ne4 24. Ne1 Rc4 25. f3 Nd6 26. Na3 Nf5 27. Bf2 Bxa3
+28. Qxa3 Qc6 29. Ra2 h5 30. Nd3 Rc8 31. Be1 Nxe3 32. Bd2 Nf5 33. Re1 Rxc3 34.
+Bxc3 Qxc3 35. Qxc3 Rxc3 36. Ne5 Nxe5 37. dxe5 Ne3 38. Kf2 Nc4 39. f4 Kf8 40.
+Raa1 Rc2+ 41. Re2 Rc3 42. Ree1 Nb2 43. Ke2 Rc4 44. g3 Nxa4 45. Rec1 Nb2 46. Kd2
+Rxc1 47. Rxc1 Nc4+ 48. Kc3 Ke7 49. g4 hxg4 50. Rg1 b5 51. Rxg4 b4+ 52. Kb3 Ne3
+53. Rg1 Kd7 54. Ra1 Nc4 55. h4 Kc6 56. Re1 Kb5 57. f5 d4 58. fxg6 fxg6 59. Kc2
+a4 0-1

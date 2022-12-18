@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Svensson, L."]
+[Black "Rosenhahn, E."]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "71b968ad"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6
+8. Rb1 b6 9. Nf3 Bg7 10. Nd2 O-O 11. Nxc4 Bd5 12. Qc2 Qd7 13. Nd2 f5 14.
+Bg3 Nc6 15. c4 Bf7 16. Nf3 Rac8 17. Be2 Bf6 18. O-O e6 19. c5 Qe7 20. Ba6
+Rb8 21. cxb6 Qa3 22. bxc7 Rxb1 23. Qxc6 Rb6 24. c8=Q 1-0
+

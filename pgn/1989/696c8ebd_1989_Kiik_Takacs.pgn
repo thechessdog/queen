@@ -1,0 +1,17 @@
+[Event "Vosu"]
+[Site "Vosu"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kiik, Kalle"]
+[Black "Takacs, B."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "696c8ebd"]
+[Epoch "Queen"]
+[WhiteID "4500075"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 b5 8. Bg2
+Bb7 9. g5 Nfd7 10. O-O Nc6 1/2-1/2

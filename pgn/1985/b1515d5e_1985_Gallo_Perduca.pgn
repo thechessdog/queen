@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gallo, E."]
+[Black "Perduca, P."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b1515d5e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 Bb7 10. Be3 O-O 11. e5 dxe5 12. fxe5 Nd5 13. Nxd5 Bxd5 14.
+Qg4 Kh8 15. Rad1 Bxb3 16. axb3 Qc7 17. Qh5 g6 18. Qh6 Nd7 19. Rf3 Qxe5 20.
+Nc6 1-0
+

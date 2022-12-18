@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lehnert"]
+[Black "Jarosczinsky, E."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d6dc1e9e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Nf3 Qc7 7. O-O
+Nxe4 8. Bxe4 Nf6 9. Bd3 Bg4 10. c3 e6 11. h3 Bh5 12. Bg5 Be7 13. Re1 O-O-O
+14. Re5 Rd5 15. Bf4 Bd6 16. Rxd5 Nxd5 17. Bxd6 Qxd6 18. g3 f6 19. a3 g5 20.
+Be2 Bf7 21. Nd2 h5 22. c4 Nc7 23. Ne4 Qe7 24. Qa4 Kb8 25. b4 e5 26. Nc5
+exd4 27. Qc2 b6 28. Nb3 Rd8 29. Rd1 Qe5 30. Bd3 h4 31. Kg2 Ne6 32. Nd2 hxg3
+33. Nf3 Nf4+ 34. Kh1 g2+ 35. Kg1 Qe6 0-1
+

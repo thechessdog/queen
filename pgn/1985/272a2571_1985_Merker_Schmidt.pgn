@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Merker"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "272a2571"]
+[Epoch "Queen"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. cxd5 exd5 7. Qc2 c6 8. Bd3
+Nbd7 9. Nf3 Re8 10. h3 Nf8 11. O-O-O g6 12. g4 Ne6 13. Bh4 Qa5 14. Kb1 Nd7 15.
+Bxe7 Rxe7 16. Rhe1 b5 17. Nd2 Bb7 18. f4 a6 19. f5 Nef8 20. e4 dxe4 21. Ncxe4
+Rae8 22. Rf1 Ba8 23. Nd6 Rd8 24. N2e4 Qc7 25. fxg6 hxg6 26. Nxf7 Rxf7 27. Rxf7
+Kxf7 28. Rf1+ Ke7 29. Qf2 Re8 30. Qh4+ Ke6 31. Re1 Ne5 32. Nc5+ Kd5 33. Be4+
+Kd6 34. Qf6+ 1-0

@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zysk, Robert"]
+[Black "Hertneck, Gerald"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "c9fdc245"]
+[Epoch "Queen"]
+[WhiteID "4600410"]
+[BlackID "4600088"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Bg5 Ne4 5. Bf4 Qa5+ 6. Nd2 g5 7. Be3 bxc4 8. Qc2
+Nd6 9. Bxg5 Bg7 10. e4 Na6 11. Nf3 Nxe4 12. a4 Qc7 13. Ne5 Qd8 14. Qxe4 f6 15.
+Ke2 0-1

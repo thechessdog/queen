@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Jardin, Jan"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "6e2d3a24"]
+[Epoch "Queen"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. g3 Nb6 10. Bg2 a5 11. O-O a4 12. Qb5 Bd7 13. Qb4 Bf5 14. Bg5 Bd3
+15. Rfe1 Re8 16. Nf4 Bc4 17. Bxf6 Bxf6 18. b3 axb3 19. axb3 Ba6 20. Ne4 Bg7 21.
+Nc5 g5 22. Nh5 Nxd5 23. Bxd5 Qxd5 24. Nxg7 Kxg7 25. Re5 Qd6 26. Rxg5+ Kh8 27.
+Re1 Rad8 28. Re4 Qc6 29. Rge5 e6 30. Qd2 Rg8 31. Qf4 f5 32. Nxe6 Rdf8 33. Nxf8
+fxe4 34. Ne6 1-0

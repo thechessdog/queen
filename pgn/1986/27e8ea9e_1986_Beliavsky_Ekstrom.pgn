@@ -1,0 +1,22 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Ekstroem, Roland"]
+[Result "1-0"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "27e8ea9e"]
+[Epoch "Queen"]
+[WhiteID "14602377"]
+[WhiteCountry "SLO"]
+[BlackID "1302302"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 d6 8.
+e4 e5 9. d5 Nb8 10. b4 O-O 11. O-O a5 12. a3 Bg4 13. Qc2 Bxf3 14. Nxf3 Nbd7 15.
+Nd2 Ra7 16. Nb3 axb4 17. axb4 Rfa8 18. Rxa7 Rxa7 19. c5 g6 20. Rc1 b6 21. c6
+Nf8 22. Ra1 Rxa1+ 23. Nxa1 h5 24. Nb3 h4 25. Nd2 hxg3 26. hxg3 Ng4 27. Nc4 Qd8
+28. Bh3 Nh6 29. Nxb6 f5 30. exf5 gxf5 31. Nc4 Qb8 32. Nxd6 cxd6 33. c7 Qc8 34.
+Bf1 1-0

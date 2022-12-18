@@ -1,0 +1,20 @@
+[Event "WGM-Volmac"]
+[Site "WGM-Volmac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Goldstern, F."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "05c6ce33"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+Bg7 9. Nd2 g5 10. Bg3 Nh5 11. e3 Nxg3 12. hxg3 Nd7 13. Be2 O-O 14. Nc4 Nb6 15.
+Nxb6 Qxb6 16. Qc2 Bf5 17. e4 Bd7 18. g4 Qa5 19. O-O b5 20. Nd1 Rfe8 21. Bf3 Qb4
+22. g3 Rac8 23. Rb1 Qd4 24. Ne3 c4 25. Kg2 c3 26. bxc3 Rxc3 27. Qe2 a6 28. Rfd1
+Qa4 29. Rd3 Rxd3 30. Qxd3 Qxa2 31. e5 Rxe5 32. Rc1 b4 33. Rc7 Bb5 34. Qd4 b3
+35. Nf5 Rxf5 36. Rc8+ Bf8 37. gxf5 b2 38. Bg4 Qxd5+ 39. Qxd5 b1=Q 40. Qd4 Qf1+
+41. Kh2 1-0

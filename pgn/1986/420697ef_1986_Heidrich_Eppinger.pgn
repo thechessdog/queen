@@ -1,0 +1,26 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heidrich, Manfred"]
+[Black "Eppinger, Georg"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "420697ef"]
+[Epoch "Queen"]
+[WhiteID "4602722"]
+[WhiteCountry "GER"]
+[BlackID "4605748"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Nc3 dxe5 8.
+dxe5 Ndb4 9. a3 Qxd1+ 10. Kxd1 Na6 11. b4 Nc7 12. Nb5 Nxb5 13. Bxb5 Bg4 14. Ke2
+e6 15. Be3 a6 16. Bxc6+ bxc6 17. Rhc1 Kd7 18. Rc4 Bxf3+ 19. Kxf3 Be7 20. Rd1+
+Kc7 21. Rdc1 Rhb8 22. Rxc6+ Kd7 23. Bb6 Rb7 24. Rc7+ Rxc7 25. Rxc7+ Ke8 26. Bc5
+Bd8 27. Rb7 a5 28. b5 Rc8 29. Bd6 Rc2 30. Ke3 g5 31. a4 g4 32. Rb8 Kd7 33. b6
+Rc8 34. Rb7+ Kc6 35. Rxf7 Kxb6 36. Kd3 Rc1 37. Rg7 Rd1+ 38. Kc3 Rxd6 39. Rxg4
+Rd7 40. Rg8 Be7 41. f4 Kc6 42. Ra8 Bb4+ 43. Kc4 Rd2 44. Ra6+ Kd7 45. Ra7+ Ke8
+46. Rxh7 Rxg2 47. f5 Rg4+ 48. Kb5 exf5 49. Kc6 Be7 50. Kd5 Rh4 51. Rg7 Kf8 52.
+Rg2 Rxa4 53. Ke6 f4 54. Rc2 Rd4 0-1

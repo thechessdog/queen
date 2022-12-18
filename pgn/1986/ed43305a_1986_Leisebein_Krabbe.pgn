@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Leisebein"]
+[Black "Krabbe"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "ed43305a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 a6 7. Ng5 O-O 8.
+f5 Nd4 9. g4 b5 10. Bxf7+ Rxf7 11. Nxf7 Kxf7 12. g5 Ne8 13. Qh5+ Kg8 14.
+Nd5 Nxf5 15. exf5 Bxf5 16. Qf3 1-0
+

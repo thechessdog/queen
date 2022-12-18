@@ -1,0 +1,21 @@
+[Event "Minsk Int"]
+[Site "Minsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gunawan, Ronny"]
+[Black "Dydyshko, Viacheslav"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "60cd603f"]
+[Epoch "Queen"]
+[WhiteID "7100035"]
+[WhiteCountry "INA"]
+[BlackID "13500031"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. dxc5 Bxc5 7. Nc3 O-O 8. Bg5
+h6 9. Bxf6 Qxf6 10. O-O Rd8 11. e4 Nc6 12. Qe2 d6 13. Rac1 Rac8 14. Rfd1 Ne5
+15. Nb5 Ng4 16. Nfd4 Qg6 17. Nxa7 Ra8 18. Nac6 Bxc6 19. Nxc6 Re8 20. Bf3 Nxf2
+21. b4 Nxd1+ 22. bxc5 Qg5 23. Rxd1 Qxc5+ 24. Kg2 e5 0-1

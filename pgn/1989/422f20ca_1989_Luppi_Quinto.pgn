@@ -1,0 +1,25 @@
+[Event "Lombardia opA"]
+[Site "Tr Lombardia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Luppi, Sergio"]
+[Black "Quinto, Giovanni"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "422f20ca"]
+[Epoch "Queen"]
+[BlackID "803936"]
+[BlackCountry "ITA"]
+[WhiteID "866776"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Be3 Nf6 13. Bf2 a6 14. Bd3 Bg4 15.
+Bh4 Qd7 16. a5 Nb5 17. Na4 Rae8 18. Nb6 Qc7 19. Qa4 Bxf3 20. Rxf3 Nd4 21. Rff1
+Nxe4 22. Nd7 f5 23. Nxf8 Rxf8 24. Bxe4 fxe4 25. Rae1 Nf5 26. Bg3 e3 27. Re2
+Nxg3 28. hxg3 Bd4 29. Kh2 h5 30. Rc1 Qe7 31. Qc2 Kg7 32. Rf1 Rf5 33. Qd3 Rxd5
+34. Rf3 Rf5 35. b4 Qf7 36. Qe4 Qd5 37. Qb1 c4 38. Rf1 c3 39. Qd3 Bf6 40. Qxe3
+Qc4 41. Rfe1 h4 42. Qe4 Qxe4 43. Rxe4 hxg3+ 44. Kxg3 Rb5 45. Rc4 g5 46. fxg5
+Rxg5+ 47. Kf3 Rb5 48. Ree4 0-1

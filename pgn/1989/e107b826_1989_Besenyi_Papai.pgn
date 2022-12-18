@@ -1,0 +1,17 @@
+[Event "Szekszard op"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Besenyi, T."]
+[Black "Papai, Janos"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "e107b826"]
+[Epoch "Queen"]
+[BlackID "702765"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. d5 O-O 6. Nf3 e6 7. dxe6 Bxe6 8. Bd3
+Nc6 9. O-O d5 10. e5 Nd7 11. Ng5 Nc5 12. Nxe6 fxe6 13. Qg4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Prague op"]
+[Site "Prague"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zpevak, Pavel"]
+[Black "Olsar, Jaroslav"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b9e31bc3"]
+[Epoch "Queen"]
+[BlackID "307327"]
+[BlackCountry "CZE"]
+[WhiteID "300586"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 cxd4 5. cxd4 g6 6. Be3 Bg7 7. Qd2 O-O 8. Nc3
+Nc6 9. O-O-O Bd7 10. Kb1 Rc8 11. g4 Qa5 12. Nge2 b5 13. Ng3 b4 14. Nce2 b3 15.
+a3 Qxd2 16. Bxd2 Bxg4 17. fxg4 Nxg4 18. Bh3 Nf2 19. Bxc8 Rxc8 20. Rc1 Nxh1 1-0

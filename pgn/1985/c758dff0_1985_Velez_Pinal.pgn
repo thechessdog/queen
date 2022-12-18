@@ -1,0 +1,15 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1985.01.01"]
+[Round "12"]
+[White "Velez, Nestor"]
+[Black "Pinal, Nelson Borges"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "c758dff0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 d6 6. Nxc6 bxc6 7. Bd3 Be7 8.
+O-O O-O 9. h3 Nd7 10. Be3 Ne5 11. Be2 Re8 12. f4 Ng6 13. Qd2 Bf8 1/2-1/2

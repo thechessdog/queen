@@ -1,0 +1,28 @@
+[Event "Parijs"]
+[Site "Parijs"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Miralles, Gilles"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Paulsen attack"]
+[HashCode "b8cf34c4"]
+[Epoch "Queen"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. d4 d5 6. Ne3 c5 7. Bb5+ Nc6 8.
+O-O Be7 9. c4 dxc4 10. d5 Nd6 11. Ba4 b5 12. dxc6 bxa4 13. Nd5 O-O 14. Qxa4 Nf5
+15. Nbc3 Bd6 16. Bf4 Bxf4 17. Nxf4 Rb8 18. Qxa7 Qd6 19. Nfd5 Be6 20. c7 Rxb2
+21. Rad1 Nd4 22. Qa3 Rc2 23. Ne3 Qxc7 24. Nxc2 Nxc2 25. Qc1 Nd4 26. Qe3 Qa5 27.
+Ne4 Rc8 28. Qg5 Qc7 29. Nxc5 Qxc5 30. Qxc5 Rxc5 31. Rxd4 Kf8 32. Rc1 c3 33. a4
+Bb3 34. Rd3 Bxa4 35. Rdxc3 Re5 36. Rc8+ Ke7 37. R8c7+ Kf6 38. h3 Bb3 39. R1c3
+Be6 40. Rf3+ Kg6 41. Rg3+ Kf6 42. Rf3+ Kg6 43. Rfc3 h5 44. R7c5 Re1+ 45. Kh2
+Kh6 46. Re3 Rf1 47. Rc2 g6 48. Kg3 Rb1 49. f3 Rb5 50. Kf2 Rf5 51. Rec3 Kg7 52.
+Rc5 Rf4 53. g4 hxg4 54. hxg4 Kf6 55. Kg3 Rd4 56. Rb5 Ke7 57. Rc7+ Kd6 58. Ra7
+Rd3 59. Rba5 Bc4 60. Ra3 Rd1 61. Kf4 Re1 62. Rc3 Be6 63. Rd3+ Kc6 64. Kg5 f5
+65. Re7 1-0

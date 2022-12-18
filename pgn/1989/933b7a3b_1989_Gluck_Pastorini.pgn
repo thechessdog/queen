@@ -1,0 +1,19 @@
+[Event "Parigi"]
+[Site "Parigi"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Glueck, David"]
+[Black "Pastorini, Mario"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "933b7a3b"]
+[Epoch "Queen"]
+[BlackID "800759"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Bxf3 8.
+gxf3 Qxd4 9. Qxd4 Nxd4 10. Nb5 Nc2+ 11. Kd1 Nxa1 12. Nc7+ Kd7 13. Nxa8 g6 14.
+Bf4 Bh6 15. Be5 f6 16. Bb5+ Kc8 17. Bd4 Kb8 18. Nb6 axb6 19. Bxb6 e5 20. Be3
+Bxe3 21. fxe3 Ne7 22. Ba4 Rc8 23. Kd2 Rc4 24. Bd1 Nc6 25. b3 Rc5 0-1

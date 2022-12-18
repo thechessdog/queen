@@ -1,0 +1,18 @@
+[Event "Hessen-ch qual-B"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Schuchardt, Guenter"]
+[Black "Mayer, H."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "49144e2b"]
+[Epoch "Queen"]
+[WhiteID "4643070"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 e5 6. dxe5 Bb4+ 7. Nc3 Qxe5+
+8. Be2 Bg4 9. Bd2 Nc6 10. a3 Ba5 11. h3 Bxe2 12. Qxe2 Nf6 13. Nf3 Qxe2+ 14.
+Kxe2 O-O 1/2-1/2

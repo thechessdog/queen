@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marin"]
+[Black "Martin, Pedro"]
+[Result "0-1"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "98bec1ae"]
+[Epoch "Queen"]
+[BlackID "108383"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. Re1 Rb8 12. h3 Bd7 13. a4 Nb4 14. Bf1 a6 15. Nc4
+Bxa4 16. Nxa4 b5 17. Nc3 bxc4 18. Bxc4 Nd7 19. Qe2 Nb6 20. Bxa6 N6xd5 21. Nxd5
+Nxd5 22. Bb5 Re7 23. Bg5 Bf6 24. Bd2 Nc7 25. Ba5 Qc8 26. Bxc7 Qxc7 27. Ra6 Bd4
+28. Kh1 d5 29. f3 Qg3 30. Rea1 Be5 31. Kg1 Qh2+ 32. Kf2 c4 33. Ra8 Bd4+ 34. Ke1
+Rb7 35. Rxb8+ Rxb8 36. Rd1 Rxb5 0-1

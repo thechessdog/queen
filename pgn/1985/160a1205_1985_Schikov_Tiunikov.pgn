@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schikov, G."]
+[Black "Tiunikov, EV."]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "160a1205"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 a6 8. a4
+Bg7 9. Be2 O-O 10. O-O Bg4 11. Bf4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3
+Nd7 15. g4 Nhf6 16. h3 Rb8 17. a5 h5 18. g5 Nh7 19. f4 Bd4 20. Qf2 b5 21.
+axb6 Qxb6 22. Nc4 Qc7 23. Rxa6 Nb6 24. Nd2 Qd7 25. Ra3 Bxc3 26. bxc3 Qxh3
+27. c4 Qd7 28. Qg3 1/2-1/2
+

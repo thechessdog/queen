@@ -1,0 +1,18 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Frilli"]
+[Black "Marcinkiewicz"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "083b74fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Be2 e6 8.
+g4 Nc6 9. g5 Nd7 10. Nxc6 bxc6 11. f5 exf5 12. exf5 d5 13. Be3 Rb8 14. Bd4
+Rxb2 15. Nxd5 cxd5 16. Bxb2 Bb4+ 17. c3 Bxc3+ 18. Bxc3 Qxc3+ 19. Kf2 O-O
+20. Qxd5 Re8 21. Qf3 Qd4+ 22. Kg2 Bb7 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Riva"]
+[Black "Lamford"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "2534d032"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8.
+Qe2 Qc7 9. O-O-O Na5 10. Bd3 b5 11. a3 Bb7 12. f4 Be7 13. g4 d5 14. e5 Ne4
+15. Bxe4 dxe4 16. Kb1 Nc4 17. Bc1 Nxa3+ 18. bxa3 Qxc3 19. Bb2 Qc4 20. Qxc4
+bxc4 21. f5 Bd5 22. h4 Rb8 23. Rh3 O-O 24. Kc1 Rb6 25. a4 Rfb8 26. Bc3 e3
+0-1
+

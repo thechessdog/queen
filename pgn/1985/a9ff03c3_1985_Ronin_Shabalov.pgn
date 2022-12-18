@@ -1,0 +1,25 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ronin, V."]
+[Black "Shabalov, Alexander"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "a9ff03c3"]
+[Epoch "Queen"]
+[WhiteID "4107128"]
+[WhiteCountry "RUS"]
+[BlackID "2008572"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Nc6 9. Qd2 Bd7 10. O-O-O Qb8 11. h4 b5 12. Nxc6 Bxc6 13. Bd5 Rc8 14. Kb1 b4 15.
+Ne2 Bxd5 16. exd5 a5 17. h5 a4 18. Rc1 Qb5 19. hxg6 Nxd5 20. gxf7+ Kxf7 21. Nd4
+Qc4 22. Rxh7 Nc3+ 23. bxc3 bxc3 24. Rxg7+ Kxg7 25. Bh6+ Kh8 26. Bg7+ Kxg7 27.
+Qg5+ Kf8 28. Re1 Qxd4 29. Qxe7+ Kg8 30. Qe6+ Kg7 31. Qe7+ Kh8 32. Rh1+ Kg8 33.
+Qh7+ Kf8 34. Qf5+ Ke8 35. Re1+ Kd8 36. Qb5 Qh8 37. Qg5+ Kc7 38. Qe7+ Kc6 39.
+Qe4+ Kc5 40. Qf5+ Kb6 41. Ka1 Qd4 42. Rb1+ Kc6 43. Qb5+ Kc7 44. Qb7+ Kd8 45.
+Re1 Ra7 46. Qb5 Re7 0-1

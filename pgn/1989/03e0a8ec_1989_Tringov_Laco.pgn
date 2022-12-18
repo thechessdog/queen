@@ -1,0 +1,20 @@
+[Event "Forli"]
+[Site "Forli"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Laco, Giuseppe"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "03e0a8ec"]
+[Epoch "Queen"]
+[BlackID "800880"]
+[BlackCountry "ITA"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. e5 Ng8 7. Bf4 d6 8. exd6
+Bxd6 9. Nxe6 Bxe6 10. Qxd6 Qxd6 11. Bxd6 f5 12. O-O-O Nf6 13. Be2 Nbd7 14. Rhe1
+Kf7 15. Bf3 Ra7 16. Nd5 Rc8 17. Nc7 Bxa2 18. Re7+ Kg6 19. b3 Bxb3 20. cxb3 a5
+21. Kb2 a4 22. Ne6 a3+ 23. Bxa3 Rca8 24. Rxg7+ Kh6 25. Bd6 1-0

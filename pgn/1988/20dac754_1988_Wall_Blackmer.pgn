@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Blackmer, Roy"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "20dac754"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Bg4 10. c5 Nd5 11. Bf2 Be7 12. Be2 O-O 13. O-O Qd7 14. Rc1 Rad8 15.
+h3 Bh5 16. a3 f6 17. b4 Bxf3 18. Bxf3 fxe5 19. Nxd5 exd5 20. Bg4 Qe8 21. Be6+
+Kh8 22. dxe5 Bh4 0-1

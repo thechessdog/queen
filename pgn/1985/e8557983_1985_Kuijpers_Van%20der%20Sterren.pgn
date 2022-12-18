@@ -1,0 +1,23 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kuijpers, Frans"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "e8557983"]
+[Epoch "Queen"]
+[BlackID "1000071"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Bd2 Nc5 11. Nh4 Be6 12. Ne3 g6 13. Qe2 Qe8 14. b3 f5 15.
+exf5 gxf5 16. Nf3 Bd6 17. Rfe1 Qg6 18. Bc3 e4 19. dxe4 fxe4 20. Nd4 Bd7 21.
+Qc4+ Rf7 22. Ne2 h5 23. Rf1 Kh7 24. Rad1 b5 25. Qd4 h4 26. Kh1 Rg8 27. Qd2 Qh5
+28. Ng1 Qg5 29. Bb4 Qe5 30. g3 Qh5 31. Qe2 Qh6 32. Bd2 Qg6 33. Bb4 Be6 34. Rde1
+Nd3 35. cxd3 exd3 36. Qd2 hxg3 37. fxg3 Rxf1 38. Rxf1 Qe4+ 39. Nf3 Bxb4 40. Qf2
+Bc5 41. Qg2 Qxe3 42. Re1 0-1

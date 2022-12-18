@@ -1,0 +1,27 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Schuh, Franz"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "8692f180"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[WhiteCountry "HUN"]
+[BlackID "1600621"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. Bg2
+Qc7 9. Qe2 Nc6 10. O-O-O Bd7 11. Kb1 b5 12. Nxc6 Bxc6 13. Rhe1 Be7 14. f4 b4
+15. e5 dxe5 16. Na4 exf4 17. Qc4 Rc8 18. Bxf4 Qb7 19. Bxc6+ Qxc6 20. Qxc6+ Rxc6
+21. h3 O-O 22. b3 Rfc8 23. Re2 Kf8 24. Rd3 Rd8 25. Rxd8+ Bxd8 26. a3 a5 27. Bd2
+Nd5 28. Re4 Be7 29. Rc4 Rxc4 30. bxc4 Nc7 31. Ka2 Na6 32. axb4 Bxb4 33. Be3 Ke7
+34. Bb6 Kd7 35. c3 Be7 36. Bxa5 Kc6 37. Kb1 f5 38. Kc2 g6 39. Nb2 Nc5 40. Bb4
+Bd6 41. Bxc5 Kxc5 42. gxf5 gxf5 43. Kb3 Bc7 44. Na4+ Kd6 45. Kc2 Bd8 46. Kd3 e5
+47. c5+ Kd5 48. c4+ Kc6 49. Nc3 Kxc5 50. Na4+ Kd6 51. Nc3 Bb6 52. Ke2 e4 53.
+Nd5 Bd4 54. Nf4 Kc5 55. Ng2 Kxc4 56. h4 Kd5 57. Nf4+ Ke5 58. Ng6+ Kd6 59. h5
+Ke6 60. Nf4+ Kf6 61. Kd2 Ba7 62. Nh3 Ke5 63. Ke2 f4 64. Kf1 f3 65. Ke1 Kf5 0-1

@@ -1,0 +1,21 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Corkett"]
+[Black "Hill"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "f103cf8a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4
+Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Bxc2 12. Bg5 Qa5 13. Rc1 Bg6 14. Nf4
+Be7 15. Nxg6 Bxg5 16. Qc5 O-O-O 17. b4 Qc7 18. Bxc6 fxg6 19. Nb5 Qxe5+ 20.
+Kf1 Bxc1 21. Bxd5+ Kd7 22. Bc6+ bxc6 23. Qxe5 cxb5 24. Qxb5+ Ke7 25. Qc5+
+Kf7 26. Qxc1 Nf6 27. Kg2 Rd5 28. Qc7+ Rd7 29. Qc6 Rhd8 30. Re1 Rd6 31. Qc4
+Nd5 32. b5 R8d7 33. a4 Rc7 34. Qd4 Rcd7 35. Qe5 Nf6 36. f3 Ne8 37. Qf4+ Kg8
+38. Qg5 1-0
+

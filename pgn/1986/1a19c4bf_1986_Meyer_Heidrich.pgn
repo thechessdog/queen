@@ -1,0 +1,18 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Meyer, Peter"]
+[Black "Heidrich, Manfred"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "1a19c4bf"]
+[Epoch "Queen"]
+[BlackID "4602722"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nc6
+8. O-O Nf6 9. e5 Ng4 10. h3 Nh6 11. Nb3 Nf5 12. Re1 O-O 13. Re4 Be6 14. Bxe6
+fxe6 15. Nbxd4 Qd5 16. Qd3 Ncxd4 17. Nxd4 c5 0-1

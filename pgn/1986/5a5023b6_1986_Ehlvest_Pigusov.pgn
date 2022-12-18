@@ -1,0 +1,30 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Pigusov, Evgeny"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "5a5023b6"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteID "4500016"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Nbd7 12. Ba5 Rc8 13. a4 Bd6 14. Nc3 Bc6 15.
+Na2 Bb7 16. axb5 axb5 17. Nb4 Qe8 18. Nc6 Nb6 19. Nfe5 Nfd5 20. e4 Ne7 21.
+Nxe7+ Bxe7 22. Rd1 Bd6 23. b3 Ra8 24. Nd3 Rc8 25. Qb2 Nd7 26. Bc3 f5 27. f3
+fxe4 28. fxe4 Qg6 29. e5 Bxg2 30. Qxg2 Be7 31. Nf4 Qf7 32. Qh3 Bg5 33. Nxe6
+Be3+ 34. Kh1 Rfe8 35. d5 Nb6 36. g4 Nxd5 37. Rxd5 Qxe6 38. Rad1 Bg5 39. b4 Rf8
+40. Qg2 c6 41. Rd6 Qc4 42. Bd2 Be7 43. Rc1 Qa2 44. Rd7 Qe6 45. Ra7 Rcd8 46. h3
+Rd5 47. Bc3 Rd3 48. Qa2 Qxa2 49. Rxa2 Rxh3+ 50. Kg2 Rh4 51. Ra7 Rxg4+ 52. Kh3
+Rc4 53. Rxe7 Rf3+ 54. Kg2 Rcxc3 55. Ra1 Rg3+ 56. Kh2 Rh3+ 57. Kg2 Rcg3+ 58. Kf2
+Rf3+ 59. Ke2 h5 60. e6 Kh7 61. Rg1 Re3+ 62. Kd2 Rd3+ 63. Ke2 Rde3+ 64. Kd2 Reg3
+65. Rxg3 Rxg3 66. Rc7 Kg6 67. Rxc6 Kf6 68. Rc5 g5 69. Ke2 Kxe6 70. Rxb5 h4 71.
+Kf2 Kf6 72. Rc5 Rb3 73. b5 Kg6 74. Rc6+ Kh5 75. b6 h3 76. Re6 Kh4 77. Rh6+ Kg4
+78. Re6 Rb2+ 0-1

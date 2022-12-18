@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dellert"]
+[Black "Hein"]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "c36a8b2a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
+Nf6 8. Bg5 e6 9. O-O-O Be7 10. Rhe1 O-O 11. Kb1 Qc7 12. Qd2 Rfd8 13. Nd4 a6
+14. f3 b5 15. Nce2 Rac8 16. g4 Nxe4 17. fxe4 Bxg5 18. Qxg5 Bxe4 19. Nc3 b4
+20. Nxe4 h6 21. Qd2 1-0
+

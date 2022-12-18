@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Homann, Dieter"]
+[Black "Recklingloh, Frank"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "1c0b441c"]
+[Epoch "Queen"]
+[BlackID "4657608"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. Qd2 b5 8. a3 a5
+9. Rb1 b4 10. axb4 axb4 11. Nce2 Nd4 12. f4 f5 13. h3 Qc7 14. exf5 gxf5 15. Nf3
+Nxf3+ 16. Bxf3 Bb7 17. O-O Nf6 18. Kh2 h5 19. Bxb7 Qxb7 20. h4 Qd5 21. Ng1 Ng4+
+22. Kh3 0-1

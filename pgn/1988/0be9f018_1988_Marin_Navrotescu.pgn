@@ -1,0 +1,17 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marin, Mihail"]
+[Black "Navrotescu, C."]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "0be9f018"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8.
+cxd5 exd5 9. Bg5 h6 10. Bh4 Nc6 11. O-O Be7 12. Qb3 Be6 13. Rad1 Na5 14. Qa4
+Rc8 15. Bb1 g6 16. Rde1 Re8 17. Nf4 Bd7 18. Qc2 Bf5 19. Qd1 Bxb1 20. Rxe7 Qd6
+21. Bxf6 Qxf4 22. Be5 Qf5 23. Rxe8+ Rxe8 24. Qxb1 1-0

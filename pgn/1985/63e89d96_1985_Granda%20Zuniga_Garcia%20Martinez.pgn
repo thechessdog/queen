@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Granda Zuniga, Julio E"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "63e89d96"]
+[Epoch "Queen"]
+[WhiteID "3800024"]
+[WhiteCountry "PER"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 1/2-1/2

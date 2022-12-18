@@ -1,0 +1,23 @@
+[Event "BL2-S8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Speckner, Roland"]
+[Black "Werner, Marc"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "68970295"]
+[Epoch "Queen"]
+[WhiteID "4607732"]
+[BlackID "4602455"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. Re1 Be7 10. a4 Nf6 11. Nb3 b6 12. f4 Bc8 13. Kh1 Bb7 14. Be3 O-O 15. Qe2
+Rfe8 16. Bf3 Rac8 17. Qg2 Nd7 18. h4 Nc5 19. a5 Nxa5 20. Nxa5 bxa5 21. Ra3 Bf6
+22. h5 Ba8 23. g4 Qb8 24. g5 Be7 25. Bc1 Qb4 26. Qe2 Bc6 27. Bg2 Bf8 28. Na2
+Qb6 29. Rg3 d5 30. e5 d4 31. g6 fxg6 32. Rxg6 hxg6 33. hxg6 Bxg2+ 34. Kxg2 Ne4
+35. Qh5 Rxc2+ 36. Kg1 d3+ 37. Be3 Bc5 0-1

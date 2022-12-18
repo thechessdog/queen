@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Glas, B."]
+[Black "Rybak, J."]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "061250d6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qh4 Nxe5 7. Nxe5
+Qa5+ 8. Nc3 Qxe5+ 9. Be2 Bg7 10. Bf4 Qa5 11. O-O O-O 12. Bg5 d6 13. Rae1
+Be6 14. Bd2 1-0
+

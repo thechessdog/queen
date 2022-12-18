@@ -1,0 +1,19 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ermenkov, Evgenij"]
+[Black "Petkov, Vladimir"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "8c62bebd"]
+[Epoch "Queen"]
+[WhiteID "2900106"]
+[WhiteCountry "FID"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. h4
+Be7 9. h5 f6 10. Bd3 cxd4 11. cxd4 fxe5 12. fxe5 O-O 13. Ne2 Ndxe5 14. dxe5
+Nxe5 15. Nc3 Qc7 16. Qe2 Nxd3+ 17. Qxd3 Qg3+ 18. Kf1 Bc5 19. Nd1 Bd7 20. Rh3
+Rxf3+ 0-1

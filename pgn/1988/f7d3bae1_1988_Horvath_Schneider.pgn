@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Horvath, Jozsef"]
+[Black "Schneider, Attila"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "f7d3bae1"]
+[Epoch "Queen"]
+[WhiteID "700061"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. cxd5 Nxd5 8. a3
+cxd4 9. axb4 dxc3 10. bxc3 O-O 11. e4 Nb6 12. f4 Qh4+ 13. Ng3 Rd8 14. O-O Bd7
+15. Be3 Be8 16. Qe2 Nd7 17. e5 f6 18. Bc4 Bf7 19. f5 1-0

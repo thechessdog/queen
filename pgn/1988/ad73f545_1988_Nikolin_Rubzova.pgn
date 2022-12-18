@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nikolin, Zorica"]
+[Black "Rubzova, Tatiana"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "ad73f545"]
+[Epoch "Queen"]
+[WhiteID "906344"]
+[BlackID "4108256"]
+[WhiteCountry "SRB"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. g4 Nc5 10. O-O-O b5 11. g5 b4 12. Ncb5 axb5 13. Nxb5 Qc6 14. gxf6 gxf6
+15. Bxc5 Qxc5 16. e5 d5 17. Kb1 Bd7 18. c4 Rc8 19. Nd6+ Bxd6 20. exd6 dxc4 21.
+Bg2 c3 22. Rc1 c2+ 23. Ka1 Rg8 24. Qe2 b3 25. Bb7 Qa7 26. Qa6 Qxa6 27. Bxa6 Ra8
+28. Rhg1 Rxg1 29. Rxg1 Kf8 0-1

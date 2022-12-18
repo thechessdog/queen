@@ -1,0 +1,16 @@
+[Event "Dubai ol (Men)"]
+[Site "Dubai olm"]
+[Date "1986.11.01"]
+[Round "3"]
+[White "Algazal, H."]
+[Black "Jorge, A."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "b86ea395"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8. Be3
+O-O 9. O-O Nd4 10. Ng5 h6 11. Nf3 Bg4 12. fxe5 dxe5 13. Qd2 Kh7 14. Ne2 Nec6
+15. c3 Nxe2+ 16. Qxe2 b6 17. Ng5+ Qxg5 0-1

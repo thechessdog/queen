@@ -1,0 +1,20 @@
+[Event "Bad Woerishofen op"]
+[Site "Bad Woerishofen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nikolic, Stanimir"]
+[Black "Filipovic, Branko"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "43c3f1cf"]
+[Epoch "Queen"]
+[BlackID "14507951"]
+[BlackCountry "SUI"]
+[WhiteID "903191"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Bc4 c5 7. O-O Nc6 8. Nc3
+b6 9. d5 Na5 10. Be2 a6 11. a4 Rb8 12. Qd2 Nd7 13. e4 Qc7 14. Bh6 Bb7 15. Nd1
+Ne5 16. Bxg7 Nxf3+ 17. Bxf3 Kxg7 18. Qc3+ e5 19. b4 1-0

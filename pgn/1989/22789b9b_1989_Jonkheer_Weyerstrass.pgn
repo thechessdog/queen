@@ -1,0 +1,16 @@
+[Event "Huizen"]
+[Site "Huizen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jonkheer"]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "22789b9b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. d4 Qb6 5. Nf3 Nc6 6. c3 Nh6 7. Na3 cxd4 8. Nc2
+dxc3 9. bxc3 Bc5 10. Nfd4 Nf5 11. Bb5 O-O 12. Bxc6 bxc6 13. Ba3 Nxd4 14. Bxc5
+Nxc2+ 15. Qxc2 Qxc5 0-1

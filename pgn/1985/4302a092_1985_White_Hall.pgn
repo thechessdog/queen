@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "White"]
+[Black "Hall"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "4302a092"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. Nxe5 Qg5 6. d4 Qxg2 7. Qf3 Qxf3
+8. Nxf3 dxe4 9. Ne5 Bd6 10. Nxc6 a6 11. Ba4 Bd7 12. Na5 Bxa4 13. Nxb7 Nf6
+14. Nxd6+ cxd6 15. c4 Bc2 16. Nc3 Kd7 17. Rg1 g6 18. Bg5 Nh5 19. b3 f6 20.
+Be3 Rab8 21. d5 f5 22. Kd2 Bd3 23. Na4 f4 24. Bd4 Rhe8 25. Nb2 f3 26. Nxd3
+exd3 27. Be3 Re4 28. Kxd3 Rh4 29. Rh1 Rf8 30. Rae1 Rf5 31. Kc3 Nf6 32. Bd4
+Ng4 33. h3 Rfh5 34. Re6 Nh6 35. Rhe1 Nf5 36. Bb6 Kc8 37. Rf6 1-0
+

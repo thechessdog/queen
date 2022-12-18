@@ -1,0 +1,30 @@
+[Event "Karvina"]
+[Site "Karvina"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Lechtynsky, Jiri"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8c905ae6"]
+[Epoch "Queen"]
+[WhiteID "4100425"]
+[BlackID "300217"]
+[WhiteCountry "RUS"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 e6 7. cxd4 d6 8. O-O
+Be7 9. Qe2 O-O 10. Qe4 dxe5 11. dxe5 Qc7 12. Bd3 g6 13. Bh6 Rd8 14. Nbd2 Bd7
+15. Rac1 Be8 16. Rfe1 Rac8 17. Bf1 Qb8 18. Nc4 b5 19. Nd6 Bxd6 20. exd6 Qxd6
+21. Bxb5 Nce7 22. Bf1 Nf5 23. Bg5 Rxc1 24. Rxc1 Rb8 25. b3 a5 26. Bd2 Nf6 27.
+Qc2 Ra8 28. Bc3 Nd5 29. Be5 Qe7 30. a4 f6 31. Ba1 e5 32. Nd2 Bf7 33. Ne4 Nd4
+34. Qd1 f5 35. Nc5 Rd8 36. Nd3 Nb4 37. Nxb4 Qxb4 38. Bc3 Qxb3 39. Qe1 Qd5 40.
+Bxa5 Ra8 41. Bc7 e4 42. a5 Ne6 43. Bb6 Nf4 44. Rc7 Qa2 45. h3 Qb2 46. Qd1 Nd3
+47. Bxd3 exd3 48. Qxd3 Qa1+ 49. Qf1 Qxf1+ 50. Kxf1 Be8 51. Ke2 Bb5+ 52. Kf3 Re8
+53. Be3 Ra8 54. Bd2 Rd8 55. Bc3 g5 56. Kg3 Rd6 57. Rc5 Bd3 58. h4 gxh4+ 59.
+Kxh4 Rh6+ 60. Kg3 Rg6+ 61. Kh2 f4 62. Be5 Bf1 63. g3 fxg3+ 64. Bxg3 Rh6+ 65.
+Kg1 Bd3 66. f3 Rf6 67. Kf2 Be4 68. Rc3 Bb7 69. Be5 Rf8 70. f4 Rc8 71. Rg3+ Kf8
+72. Rg7 Be4 73. Ke3 Rc4 74. Bd4 Bg6 75. a6 Ra4 76. a7 Ra3+ 77. Ke2 Be4 78. Rc7
+Kg8 79. f5 Bxf5 80. Rg7+ Kf8 81. Rb7 1-0

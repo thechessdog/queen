@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Antoszkiewicz, G."]
+[Black "Flugrat, R."]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit"]
+[HashCode "70cedf1e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. Bc4 Nf6 5. Ng5 d5 6. dxe5 Nxe4 7. Nxe4 dxe4
+8. Qxd8+ Kxd8 9. Bg5+ Be7 10. Bxe7+ Kxe7 11. Nd2 Nc6 12. f4 exf3 13. Nxf3
+Be6 14. Bb5 Nd8 15. O-O Nf7 16. h4 Rhd8 17. Bd3 Rd5 18. Rfe1 Rad8 19. Rad1
+Nh6 20. Be2 Ng4 21. Rxd5 Rxd5 22. Bc4 Rc5 23. Bxe6 Kxe6 24. Nd4+ Kd5 25. c3
+Nxe5 1/2-1/2
+

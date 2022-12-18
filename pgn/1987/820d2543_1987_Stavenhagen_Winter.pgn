@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stavenhagen"]
+[Black "Winter"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "820d2543"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Bc4 O-O 6. O-O c6 7. Bg5 Qc7 8.
+Qd2 e6 9. Rfe1 Re8 10. e5 Nfd7 11. Bh6 Bh8 12. Qf4 d5 13. Bd3 c5 14. Nb5
+Qd8 15. Nd6 Re7 16. Bg5 f6 17. exf6 Bxf6 18. Bxf6 Nxf6 19. Nxc8 Rf7 20. Nd6
+Rf8 21. dxc5 Ne4 22. Qg4 Nxc5 23. b4 Ne4 24. Qxe6+ Kg7 25. Nxe4 dxe4 26.
+Qxe4 Nc6 27. b5 Na5 28. Nd4 Qf6 29. Ne6+ Kh8 30. Nxf8 Rxf8 31. Qe5 Kg7 32.
+Qc7+ 1-0
+

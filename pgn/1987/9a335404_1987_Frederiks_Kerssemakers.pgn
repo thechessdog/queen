@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Frederiks"]
+[Black "Kerssemakers"]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "9a335404"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. a3 Bxc3+ 6. bxc3 d5 7. cxd5 Nxd5
+8. Qd3 cxd4 9. cxd4 Nc6 10. Bb2 Qa5+ 11. Kf2 e5 12. e4 Nf4 13. Qb5 Qd2+ 14.
+Be2 a6 15. Qb3 Nxd4 16. Qc3 Nd3+ 17. Qxd3 Qxb2 18. Nh3 Qb6 19. Rab1 Qh6 0-1
+

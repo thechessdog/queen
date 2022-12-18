@@ -1,0 +1,20 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Tadic, Krasimir"]
+[Black "Najdoski, Toni"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "158c3846"]
+[Epoch "Queen"]
+[BlackID "15001334"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. cxd5 cxd4 8.
+Nxd4 Nxd5 9. Nxd5 Qxd5 10. Bf3 Qa5+ 11. Bd2 Qb6 12. Bc3 Rd8 13. Qa4 e5 14. Ba5
+Qxb2 15. O-O Bd7 16. Qd1 Re8 17. Rb1 Qxa2 18. Bxb7 exd4 19. Bxa8 Qxa5 20. exd4
+Nc6 21. Bb7 Nxd4 22. Kh1 Bf5 23. Ra1 Qb6 24. Qa4 Nb5 25. Rfe1 Rxe1+ 26. Rxe1
+Qxb7 27. Re8+ Bf8 28. Qb4 Nd6 0-1

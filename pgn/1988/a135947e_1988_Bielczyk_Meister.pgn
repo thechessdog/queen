@@ -1,0 +1,15 @@
+[Event "Bielsko Biala"]
+[Site "Bielsko Biala"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Meister, Peter"]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "a135947e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. h3 O-O 8. Qd2
+a6 9. g4 b5 10. Bg2 Bb7 11. O-O Qc7 1/2-1/2

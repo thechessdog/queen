@@ -1,0 +1,19 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Montecatine"]
+[Black "Deforel"]
+[Result "1-0"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "1054eea0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6
+8. a3 Bxc3+ 9. Qxc3 O-O 10. e3 c6 11. Nf3 Bf5 12. Be2 Nd7 13. O-O Qd6 14.
+b4 Be4 15. Nd2 Rae8 16. Rfc1 Re7 17. b5 Rc8 18. Qa5 Qg6 19. Nxe4 Qxe4 20.
+bxc6 bxc6 21. Bf3 Qd3 22. Rxc6 Rb8 23. Qxa7 Rxe3 24. fxe3 Rb1+ 25. Rxb1
+Qxb1+ 26. Kf2 Qf5 27. g4 1-0
+

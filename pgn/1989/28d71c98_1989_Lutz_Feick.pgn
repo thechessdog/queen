@@ -1,0 +1,23 @@
+[Event "Lasker mem"]
+[Site "Berlijn"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Lutz, Christopher"]
+[Black "Feick, Stefan"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "28d71c98"]
+[Epoch "Queen"]
+[WhiteID "4600193"]
+[WhiteCountry "GER"]
+[BlackID "4602080"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Re8 8. a3
+Bd6 9. b4 c6 10. Ng3 Qc7 11. Bd2 Bg4 12. Qc2 h5 13. Nf5 Bxh2 14. g3 Bxf5 15.
+Bxf5 Bxg3 16. fxg3 Qxg3+ 17. Ke2 Ng4 18. Bxg4 Qxg4+ 19. Kf2 h4 20. Rag1 Qh5 21.
+Qd1 Qf5+ 22. Qf3 Qc2 23. Ke2 Nd7 24. Rxh4 Nf8 25. Rc1 Qb3 26. Rf1 Re7 27. Qh5
+Qc4+ 28. Kf2 f6 29. Rg1 g5 30. Qh8+ Kf7 31. Rh6 Re6 32. Rgh1 Ke7 33. Qg7+ Kd6
+34. Rxf6 Rxf6+ 35. Qxf6+ Ne6 36. Qe5+ 1-0

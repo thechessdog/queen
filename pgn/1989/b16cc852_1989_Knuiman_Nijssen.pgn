@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knuiman, J."]
+[Black "Nijssen, H."]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "b16cc852"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 b5 7. e5 Nxe5 8.
+Bxa8 Bg4 9. Bc6+ Kf8 10. f3 Nxc6 11. fxg4 b4 12. Na4 Qa5 13. c3 bxc3 14.
+bxc3 Bxc3+ 15. Nxc3 Qxc3+ 16. Kf2 Nf6 17. Rc1 Qb2+ 18. Ke1 Qe5 19. Kd2 Qd5
+20. Qf3 Qxa2+ 0-1
+

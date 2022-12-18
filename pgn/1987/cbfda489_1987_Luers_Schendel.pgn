@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Luers, E."]
+[Black "Schendel, A."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "cbfda489"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Nce2 f6 5. d3 Ng5 6. Bxg5 fxg5 7. h4 gxh4
+8. Nf4 g6 9. Rxh4 Bg7 10. d4 c5 11. Bd3 cxd4 12. Rxh7 O-O 13. Nxg6 Kxh7 14.
+Nxf8+ Kg8 15. Ng6 Nc6 16. Qh5 Qa5+ 17. Ke2 Bd7 18. Nf3 Be8 19. Rh1 Bxg6 20.
+Qxg6 Rf8 21. Rh8+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Mack, Peter"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "abeb0993"]
+[Epoch "Queen"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+[BlackID "4603265"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 d5 4. Nbd2 h6 5. Bh4 c5 6. e3 Nbd7 7. c3 Be7 8. Bd3
+b6 9. O-O Bb7 10. Ne5 Nxe5 11. dxe5 Nd7 12. Bg3 Bh4 13. Bxh4 Qxh4 14. Bb5 O-O-O
+15. Nf3 Qh5 16. Qa4 1/2-1/2

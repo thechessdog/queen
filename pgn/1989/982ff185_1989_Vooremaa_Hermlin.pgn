@@ -1,0 +1,18 @@
+[Event "Tallinn-B"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vooremaa, Andres"]
+[Black "Hermlin, Arne"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "982ff185"]
+[Epoch "Queen"]
+[WhiteID "4500083"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Bc3 O-O 12. Nd2 Rc8 13. Bb2 c5 14. cxd5 exd5
+15. dxc5 Nxc5 16. Re1 Bf6 17. Bxf6 Qxf6 1/2-1/2

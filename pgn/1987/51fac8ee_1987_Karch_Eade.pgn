@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Karch, R."]
+[Black "Eade, J."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "51fac8ee"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Ng4 5. d4 Be7 6. Bxf4 O-O 7. Qd2 Na6
+8. h3 Nh6 9. Bxh6 gxh6 10. Qxh6 Nb4 11. c3 Nc2+ 12. Kd2 f5 13. Bc4+ Kh8 14.
+Kxc2 d6 15. Nbd2 dxe5 16. Nxe5 Bg5 17. Ng6# 1-0
+

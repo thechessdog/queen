@@ -1,0 +1,18 @@
+[Event "Donaueschingen MA"]
+[Site "Donaueschingen"]
+[Date "1985.??.??"]
+[Round "8"]
+[White "Mayer, Roman"]
+[Black "Krieger, Hermann"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "dd19e721"]
+[Epoch "Queen"]
+[BlackID "4609867"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Qd8 7. Nc2 Be7 8. Be2
+O-O 9. dxc5 Qxd1+ 10. Bxd1 Bxc5 11. O-O Nc6 12. Be3 Bxe3 13. Nxe3 b6 14. Be2
+Bb7 15. Rfd1 Rfd8 16. Kf1 Kf8 17. Ke1 Ke7 18. Rxd8 Rxd8 19. Rd1 1/2-1/2

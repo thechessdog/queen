@@ -1,0 +1,23 @@
+[Event "Montpellier-A"]
+[Site "Montpellier"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Levacic, Damir"]
+[Black "Weill, Roland"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "58491b9c"]
+[Epoch "Queen"]
+[WhiteID "600180"]
+[BlackID "601160"]
+[WhiteCountry "MNC"]
+[BlackCountry "FRA"]
+
+1. d4 c5 2. e4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 6. Bc4 b5 7. Bb3 Ne7 8. Bf4
+Ng6 9. Bg3 Nc6 10. Rc1 Bb7 11. Qe2 Be7 12. O-O O-O 13. Rfd1 d6 14. a3 Qb6 15.
+Bxd6 Nd4 16. Nxd4 Bxd6 17. g3 Bc5 18. Nf3 Rad8 19. Bc2 Rxd1+ 20. Rxd1 Rd8 21.
+b4 Be7 22. h4 Rc8 23. Nb1 Bf6 24. Bb3 Ne5 25. Nd4 Nc4 26. Nc2 g6 27. Nd2 Ne5
+28. Ne3 Rc3 29. Rb1 Qd4 30. Nef1 Rd3 31. Kh1 h5 32. Bc2 Rc3 33. Nb3 Rxc2 34.
+Nxd4 Rxe2 35. Nxe2 Bxe4+ 36. f3 Bxb1 0-1

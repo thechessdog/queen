@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Blosze, Eric"]
+[Black "Maugg, L."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "453ebbbb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. Be3 O-O 11. Rac1 Bg4 12. a3 Kh8 13. b4 a6 14. h3
+Bh5 15. g4 Nxg4 16. hxg4 Bxg4 17. Nd5 f5 18. Bb6 Qe8 19. Rc3 Qg6 20. exf5
+Bxf5+ 21. Kf1 Bg4 22. Nc7 e4 23. Nxa8 exf3 24. Qc2 Bf5 25. Qa2 Qg2+ 26. Ke1
+Rxa8 27. Be3 Bf6 28. Rcc1 Re8 29. Rxd6 Rxe3+ 30. fxe3 Bh4+ 31. Kd1 f2 32.
+Qb3 f1=Q+ 33. Bxf1 Bg4+ 0-1
+

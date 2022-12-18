@@ -1,0 +1,23 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fette, Martin"]
+[Black "Kozma, Karoly"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e8f1994a"]
+[Epoch "Queen"]
+[WhiteID "4600827"]
+[BlackID "701807"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O a6 5. Bxc6+ bxc6 6. d4 cxd4 7. Qxd4 e5 8.
+Qd3 Be7 9. c4 Nf6 10. Nc3 O-O 11. Bg5 Qc7 12. Rad1 Rd8 13. Rd2 h6 14. Bxf6 Bxf6
+15. Rfd1 a5 16. Qe3 Bg4 17. Rd3 Be7 18. b3 Be6 19. h3 a4 20. Nxa4 Bxc4 21. Rc3
+Bb5 22. Qc1 Rdc8 23. Qc2 Qa5 24. Nd2 Bxa4 25. bxa4 Qxa4 26. Nc4 Qxc2 27. Rxc2
+Ra4 28. Nb6 Rca8 29. Nxa8 Rxa8 30. Rxc6 Rxa2 31. Rc8+ Kh7 32. Rc7 Bg5 33. Rxf7
+Re2 34. Rxd6 Bh4 35. g3 1-0

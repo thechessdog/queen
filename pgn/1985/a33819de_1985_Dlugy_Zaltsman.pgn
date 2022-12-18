@@ -1,0 +1,19 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Dlugy, Maxim"]
+[Black "Zaltsman, Vitaly F"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "a33819de"]
+[Epoch "Queen"]
+[WhiteID "2000075"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Nc3 exd4 6. Nxd4 Qe7 7. Bxc4 Nf6 8.
+O-O O-O 9. Bg5 Bxc3 10. Bxf6 Qxf6 11. bxc3 Nc6 12. f4 Qd8 13. e5 Qe7 14. Nxc6
+Qc5+ 15. Nd4 Qxc4 16. Qb3 Qxb3 17. axb3 Be6 18. f5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Rotterdam tt"]
+[Site "Rotterdam tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dueball, Juergen"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "a926c83d"]
+[Epoch "Queen"]
+[WhiteID "4600185"]
+[WhiteCountry "GER"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. a4 O-O 10. Nb3 b6 11. f4 Bb7 12. Be3 Nb4 13. a5 b5 14. Rf2 Rac8 15. Rd2
+Qb8 16. Bd4 d6 17. Qe2 Rc4 18. Rad1 e5 19. fxe5 dxe5 20. Bb6 Qa8 21. Nd5 Nbxd5
+22. exd5 Bd6 23. Nc1 Nd7 24. b3 Nxb6 25. axb6 Rc3 26. Na2 Bc5+ 27. Kh1 Re3 28.
+Qf1 f5 29. d6 f4 30. Bxb7 Qxb7+ 31. Rd5 Bxd6 32. gxf4 exf4 33. Qg2 f3 34. Qh3
+Qxd5 0-1

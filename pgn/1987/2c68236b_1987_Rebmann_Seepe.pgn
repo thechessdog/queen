@@ -1,0 +1,20 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rebmann, A."]
+[Black "Seepe, Udo"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "2c68236b"]
+[Epoch "Queen"]
+[BlackID "4626621"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 Bg7 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Bxc3+ 11. Bd2 Bxd2+ 12. Qxd2 Nb8 13. h4 f6 14. e5 b6
+15. e6 Kh8 16. Rb3 Bb7 17. Bc4 a6 18. g4 b5 19. g5 Ra7 20. h5 bxc4 21. hxg6
+Qxd5 22. Rxh7+ Kg8 23. Qc1 cxb3 24. gxf6 Qxe6+ 25. Kf1 Qxf6 26. Qc4+ e6 27.
+Qxc5 Qxf3 0-1

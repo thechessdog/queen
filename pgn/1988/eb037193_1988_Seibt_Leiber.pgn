@@ -1,0 +1,21 @@
+[Event "corr ch20-DDR"]
+[Site "corr ch20-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Seibt, Friedebert"]
+[Black "Leiber, B."]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "eb037193"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Rc1 d6 10. Qc2 Nxd2 11. Qxd2 Nd7 12. e4 c5 13. Rfd1 Bc6 14. dxc5 dxc5
+15. Qd6 Rc8 16. h3 a6 17. Rc2 Qc7 18. Qxc7 Rxc7 19. Ne1 Bd4 20. Ne2 e5 21. Nd3
+Re8 22. Nxd4 exd4 23. Re1 Ne5 24. Nxe5 Rxe5 25. f4 Re6 26. e5 Bxg2 27. Kxg2 f6
+28. Kf3 fxe5 29. Rce2 Rce7 30. Re4 Kf7 31. f5 Rd6 32. g4 Kf6 33. Ke2 h5 34. Kd3
+Rd8 35. Rb1 a5 36. a3 hxg4 37. hxg4 Rh8 38. b4 axb4 39. axb4 Rh3+ 40. Ke2 Ra7
+41. Kf2 Ra2+ 42. Kg1 Rah2 43. bxc5 Rh1+ 44. Kg2 R3h2+ 45. Kg3 Rxb1 46. Kxh2
+bxc5 47. Re2 d3 0-1

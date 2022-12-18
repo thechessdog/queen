@@ -1,0 +1,18 @@
+[Event "Aarhus op"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Brautsch, Soren"]
+[Black "Madsen, John G."]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "8f20146e"]
+[Epoch "Queen"]
+[WhiteID "1400983"]
+[BlackID "1443496"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. e5 Ng4 7. Bb5+ Bd7 8. e6
+fxe6 9. Ng5 Bxb5 10. Nxe6 Bxd4 11. Nxd8 Bf2+ 1/2-1/2

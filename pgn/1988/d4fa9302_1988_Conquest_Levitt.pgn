@@ -1,0 +1,27 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Conquest, Stuart C"]
+[Black "Levitt, Jonathan P"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "d4fa9302"]
+[Epoch "Queen"]
+[WhiteID "400181"]
+[WhiteCountry "ENG"]
+[BlackID "400220"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. g3 Bc5 11. Bg2 d6 12. O-O Bf5 13. Nd4 Bg6 14. b4 Bb6 15.
+Bf4 Nh5 16. Be3 Nd7 17. Na4 Nhf6 18. Rc1 Be4 19. Bxe4 Rxe4 20. Nc3 Re8 21. Nf5
+Bxe3 22. Nxe3 a6 23. Ne2 g6 24. Nf4 Ne5 25. Kg2 Rc8 26. Qd4 Re7 27. Ne2 Rec7
+28. h3 Rxc1 29. Rxc1 Rxc1 30. Nxc1 Ned7 31. Nb3 b5 32. Na5 Qb6 33. Qc3 h5 34.
+Qc8+ Kg7 35. Nc6 Ne5 36. Nxe5 dxe5 37. Qc5 Qxc5 38. bxc5 Kf8 39. Kf3 a5 40. g4
+hxg4+ 41. hxg4 Ke7 42. g5 Nh7 43. Ke4 Nxg5+ 44. Kxe5 Nf3+ 45. Kf4 Nd2 46. d6+
+Ke6 47. Nd5 Nb3 48. Nc7+ Kd7 49. Na6 Ke6 50. Ke4 b4 51. axb4 axb4 52. Nc7+ Kd7
+53. Kd5 Na5 54. Na6 b3 55. c6+ Kc8 56. d7+ Kd8 57. Nb4 b2 58. Kd6 Nc4+ 59. Kc5
+Ne5 60. Kd6 Nc4+ 61. Kc5 0-1

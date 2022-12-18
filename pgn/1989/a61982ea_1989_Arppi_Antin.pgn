@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arppi"]
+[Black "Antin"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "a61982ea"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. e3 O-O
+8. Bd3 c6 9. Qc2 Qc7 10. O-O h6 11. Bf4 Qd8 12. a3 Be7 13. Rfc1 Nh5 14. Bg3
+Nxg3 15. hxg3 Nf6 16. b4 Ng4 17. b5 c5 18. Bf5 c4 19. Bxc8 Rxc8 20. e4 dxe4
+21. Qxe4 Qd7 22. Ne5 Nxe5 23. dxe5 Qd2 24. Qxb7 Bxa3 25. Ne4 Bxc1 26. Nxd2
+Bxd2 27. Ra2 c3 28. Rc2 Rb8 29. Qxa7 Rxb5 30. Qd4 Rc8 31. f4 Rb2 32. Rxb2
+Be3+ 33. Qxe3 cxb2 34. e6 b1=Q+ 35. Kh2 Qg6 0-1
+

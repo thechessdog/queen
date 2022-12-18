@@ -1,0 +1,19 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Polee, J."]
+[Black "Jablonski, J."]
+[Result "1/2-1/2"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "34df10ad"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 Nc6
+8. Nf3 e5 9. e3 Bf5 10. Qb3 Na5 11. Qa4+ c6 12. cxd5 Qxd5 13. Nxe5 Nd6 14.
+Nd3 Bxd3 15. Bxd3 Nb3 16. Rb1 Qxg2 17. Rf1 Nxc1 18. Rxc1 Qxh2 19. d5 O-O
+20. dxc6 bxc6 21. Kd2 Rfc8 22. Rxc6 Rxc6 23. Qxc6 Rc8 24. Qh1 Qxh1 25. Rxh1
+f5 26. Rh4 g6 1/2-1/2
+

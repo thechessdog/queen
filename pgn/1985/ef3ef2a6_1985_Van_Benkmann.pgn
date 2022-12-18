@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Semmers"]
+[Black "Benkmann"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "ef3ef2a6"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 dxc3 11. Nf3 Nd7 12. Ng5 Rf8 13. f4 Nc5 14.
+Rb1 Bd7 15. Be2 Ne4 16. Nxf7 Bc6 17. Rf1 Kd7 18. g4 Rae8 19. f5 Kc8 20.
+Nd6+ Nxd6 21. exd6 Qxd6 22. f6 d4 23. fxe7 Rxf1+ 24. Bxf1 Qe5 25. Qf7 Rxe7
+26. Qf2 Qg7 27. Be2 Rf7 28. Qg1 Qe5 29. h4 d3 30. cxd3 c2+ 31. Kxc2 Qxe2+
+32. Kc3 Rc7 33. h5 Bf3+ 34. Kb3 Qxd3+ 35. Ka4 Bd1+ 36. Ka5 Qa6+ 37. Kb4
+Rc4# 0-1
+

@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cleal"]
+[Black "Regular"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch opening"]
+[HashCode "a11d21fb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 f6 4. Nxe5 fxe5 5. dxe5 Nxe5 6. Qh5+ Ng6 7. Bg5
+Be7 8. Bxe7 Qxe7 9. Nc3 Nf6 10. Qf5 d6 11. Qb5+ Bd7 12. Qxb7 O-O 13. Bc4+
+Kh8 14. O-O c6 15. Rfe1 Rfb8 16. Qc7 Rxb2 17. Re2 Ne8 18. Nd5 cxd5 19. Qa5
+dxc4 20. Qc3 Nf4 21. Re3 Rab8 22. h3 Rb1+ 23. Rxb1 Rxb1+ 24. Kh2 Qg5 25.
+Rg3 Qe5 26. Qf3 Nf6 27. c3 Nxe4 28. Rg4 Nh5+ 29. g3 Nhf6 30. Rxe4 Qxe4 31.
+Qg2 Qxg2+ 32. Kxg2 Bc6+ 33. Kh2 Rh1# 0-1
+

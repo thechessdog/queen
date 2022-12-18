@@ -1,0 +1,22 @@
+[Event "Kirchheim-Saarbrucke"]
+[Site "Kirchheim-Saarbrucke"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pirrot"]
+[Black "Mudelsee"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0093a194"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. cxd4 Nc6 7. exd6 Qxd6
+8. Nc3 Bg4 9. Be2 e6 10. h3 Bh5 11. O-O Be7 12. Qb3 O-O 13. Rd1 Rfd8 14. a3
+a6 15. Ne4 Qc7 16. Be3 Na5 17. Qd3 Bg6 18. Ne5 Nxe3 19. fxe3 Rac8 20. b4
+Nc6 21. Nxg6 hxg6 22. Rac1 Bh4 23. Qb3 Qb8 24. Rf1 Ne7 25. Nc5 Nf5 26. Bf3
+Bg3 27. Nxb7 Bh2+ 28. Kf2 Bg3+ 29. Kg1 Bh2+ 30. Kf2 Bg3+ 31. Ke2 Rxd4 32.
+Rxc8+ Qxc8 33. Nc5 Qd8 34. Rc1 Rd2+ 35. Kf1 Qg5 36. Ne4 Qxe3 37. Qxe3 Nxe3+
+38. Kg1 Ra2 39. Nxg3 Rxa3 40. Rc8+ Kh7 41. Ne4 Rb3 42. Ng5+ Kh6 43. Nxf7+
+Kh7 44. h4 Rb1+ 45. Kf2 g5 46. Kxe3 gxh4 47. Be4+ 1-0
+

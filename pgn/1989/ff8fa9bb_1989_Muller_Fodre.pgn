@@ -1,0 +1,22 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Fodre, Sandor"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ff8fa9bb"]
+[Epoch "Queen"]
+[WhiteID "3223167"]
+[BlackID "702684"]
+[WhiteCountry "AUS"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Na3 a6 7. Nc4 Nbd7 8. Bd3
+cxd4 9. cxd4 b5 10. Nce5 Bb7 11. O-O Rd8 12. Qe2 Nxe5 13. Qxe5 Qxe5 14. Nxe5
+Rxd4 15. Rd1 Rd5 16. Nf3 Bc5 17. Bf4 O-O 18. Be2 Ne4 19. Bg3 Nxg3 20. hxg3 Rfd8
+21. Kf1 f6 22. Rac1 Bb6 23. b3 e5 24. a4 Kf8 25. axb5 axb5 26. Rxd5 Rxd5 27.
+Rc2 e4 28. Nd2 Rf5 0-1

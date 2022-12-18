@@ -1,0 +1,22 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Ahlander, Bjorn"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Manhattan variation"]
+[HashCode "6e87d781"]
+[Epoch "Queen"]
+[BlackID "1700251"]
+[BlackCountry "SWE"]
+[WhiteCountry "BGR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Bb4 5. e3 Nbd7 6. cxd5 exd5 7. Bd3 c5 8.
+Ne2 c4 9. Bc2 O-O 10. O-O Qa5 11. a3 Bd6 12. b4 cxb3 13. Bxb3 Ne4 14. Nxe4 dxe4
+15. Bh4 Nb6 16. Bg3 Be7 17. Qb1 Bf5 18. Bc2 Bg4 19. Nc1 f5 20. Nb3 Qd5 21. Nc5
+Bxc5 22. Bb3 Nc4 23. Qa2 b5 24. Rfc1 Bd1 25. Rxd1 Bb6 26. Rdc1 Rfc8 27. a4 a6
+28. axb5 axb5 29. Rxc4 bxc4 30. Bxc4 Qxc4 31. Qxc4+ Rxc4 32. Rxa8+ Kf7 33. h4
+Rc1+ 34. Kh2 Rc2 35. Rb8 Rb2 36. Rb7+ 1-0

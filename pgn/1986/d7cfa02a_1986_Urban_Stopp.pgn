@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Urban"]
+[Black "Stopp"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "d7cfa02a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Bd2 Nxd2 6. Nfxd2 1-0
+

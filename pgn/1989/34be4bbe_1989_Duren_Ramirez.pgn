@@ -1,0 +1,18 @@
+[Event "Webb,AZ"]
+[Site "Webb,AZ"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Duren, Fred"]
+[Black "Ramirez, Juan Manuel"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Alekhine variation"]
+[HashCode "34be4bbe"]
+[Epoch "Queen"]
+[WhiteID "2095831"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. c4 Nbd7 5. Nc3 c6 6. e4 dxe4 7. Nxe4 Bb4+ 8.
+Nfd2 h6 9. Bh4 g5 10. Nxf6+ Nxf6 11. Bg3 Ne4 12. Ke2 Qxd4 13. Nb3 Nxg3+ 14.
+hxg3 Qe4# 0-1

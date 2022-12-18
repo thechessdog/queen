@@ -1,0 +1,19 @@
+[Event "FIDE (35) 1985-1987"]
+[Site "Taxco izt"]
+[Date "1985.06.01"]
+[Round "11"]
+[White "Balashov, Yuri S"]
+[Black "Agdestein, Simen"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e986f01c"]
+[Epoch "Queen"]
+[WhiteID "4100263"]
+[WhiteCountry "RUS"]
+[BlackID "1500015"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 a5 8. O-O a4
+9. a3 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Alkmaar"]
+[Site "Alkmaar"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Buter, A."]
+[Black "Tesselaar, W."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "4c5e4f9e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. c4 Bb4+ 7. Bd2 Qe7 8.
+Be2 dxc4 9. Qa4+ Nc6 10. d5 Nxd2 11. Nbxd2 Bd7 12. dxc6 Bxc6 13. Qc2 O-O-O 14.
+a3 Bxf3 15. O-O-O Bxd2+ 16. Rxd2 Rxd2 17. Qxd2 Rd8 18. Qxd8+ Qxd8 19. Bxf3 Qd4
+20. Rd1 Qxf2 21. Rd2 Qe1+ 22. Kc2 b5 23. Re2 Qa5 24. Bc6 Qa4+ 25. Kc1 1-0

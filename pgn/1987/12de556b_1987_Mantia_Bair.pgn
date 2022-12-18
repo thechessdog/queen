@@ -1,0 +1,16 @@
+[Event "Ohio"]
+[Site "Ohio"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mantia, Anthony"]
+[Black "Bair, C."]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav"]
+[Variation "Winawer counter-gambit"]
+[HashCode "12de556b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. dxe5 d4 5. Ne4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Bf5
+8. Nd6+ Kf8 9. Nxf5 1-0
+

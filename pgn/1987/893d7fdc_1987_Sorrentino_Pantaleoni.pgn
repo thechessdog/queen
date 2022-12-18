@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sorrentino"]
+[Black "Pantaleoni"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "893d7fdc"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Nf3 f6 6. Bxc6+ bxc6 7. d3 Bg4
+8. Nbd2 Qe7 9. e4 Ba3 10. Qc1 Bxb2 11. Qxb2 Nh6 12. h3 Bd7 13. Qc3 Qd6 14.
+O-O a5 15. d4 exd4 16. Nxd4 c5 17. N4f3 d4 1/2-1/2
+

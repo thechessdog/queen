@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schumann"]
+[Black "Kniebel"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "2e7800e2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Qa5 4. Bd2 e5 5. cxd4 Bb4 6. a3 Bxd2+ 7. Nxd2
+exd4 8. b4 Qd8 9. Ngf3 Ne7 10. Bc4 O-O 11. Nxd4 d5 12. exd5 Nxd5 13. N2f3
+Re8+ 14. Kd2 Nb6 15. Ba2 Nc6 16. Kc3 Bg4 17. Qb3 Nxd4 0-1
+

@@ -1,0 +1,23 @@
+[Event "JSS LahSK-KS-58"]
+[Site "JSS LahSK-KS-58"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Salo, Heikki"]
+[Black "Joentausta, Hannu"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "3fe176b6"]
+[Epoch "Queen"]
+[WhiteID "500593"]
+[BlackID "502278"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 b5 7. cxb5 Qa5 8. Bd2 O-O
+9. Nf3 a6 10. a4 Qb4 11. Qc2 Bd7 12. b6 Qxb6 13. Bc4 a5 14. O-O Na6 15. Rae1
+Nb4 16. Qd1 e6 17. dxe6 fxe6 18. Qb3 Kh8 19. Kh1 d5 20. exd5 exd5 21. Nxd5
+Nfxd5 22. Bxd5 Bxa4 23. Qxa4 Nxd5 24. Qc4 Qb7 25. Ng5 Rf5 26. Ne6 Nb6 27. Qc2
+Bf6 28. Rf3 a4 29. Bc3 Qf7 30. Ng5 Qg7 31. Bxf6 Rxf6 32. Rc3 Rxf4 33. Ne6 Rc4
+34. Qf2 1-0

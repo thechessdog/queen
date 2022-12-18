@@ -1,0 +1,18 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Moody, David W"]
+[Black "Moore, R."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "ae3c64cf"]
+[Epoch "Queen"]
+[WhiteID "30910722"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nc6 9. O-O-O Nxd4 10. Rxd4 Qb6 11. Rd1 Bd7 12. e5 Bc6 13. Qd3 dxe5 14. fxe5 Rd8
+15. Qg3 Rxd1+ 16. Kxd1 Nh5 17. Qe3 Qd8+ 0-1

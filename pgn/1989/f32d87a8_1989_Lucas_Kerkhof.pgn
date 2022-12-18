@@ -1,0 +1,21 @@
+[Event "SGS Leusden II"]
+[Site "SGS Leusden II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lucas, Fred"]
+[Black "Kerkhof"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "f32d87a8"]
+[Epoch "Queen"]
+[WhiteID "1045130"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 Nd7 5. Nf3 c5 6. Bc4 cxd4 7. Nxd4 Nc5 8. Nb3
+Bxc3+ 9. bxc3 Nxe4 10. Qd5 Ngf6 11. Qxf7+ Kd7 12. Be3 Rf8 13. Bb5+ Kc7 14. Qc4+
+Kb8 15. Qd4 Qc7 16. c4 e5 17. Qb2 Ng4 18. Bg1 Rxf4 19. h3 Ng3 20. O-O-O Ne2+
+21. Kb1 Nxg1 22. Rhxg1 Ne3 23. c5 Nxd1 24. Rxd1 dxc5 25. Qa3 a6 26. Be2 b6 27.
+g3 Rf2 28. Nc1 e4 29. Qe3 Rf7 30. Qxe4 Bb7 31. Qe8+ Ka7 32. Qa4 Rd8 33. Re1
+Qxg3 34. Rh1 Rf4 0-1

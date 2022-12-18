@@ -1,0 +1,17 @@
+[Event "NOST-NATCOR"]
+[Site "NOST-NATCOR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Horseman, A."]
+[Black "Brooks, I."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "2fa48c9a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. d3 dxe4 4. Nxe5 Bd6 5. Bf4 Qf6 6. Nxf7 Qxf7 7. Bxd6
+cxd6 8. dxe4 Nf6 9. Nc3 O-O 10. Qxd6 Nc6 11. O-O-O Bg4 12. f3 Rad8 13. Qf4
+Rxd1+ 14. Kxd1 Be6 15. e5 Qd7+ 16. Bd3 Ng4 17. fxg4 Rxf4 18. h3 Nxe5 19. a3
+Nxd3 20. cxd3 Qxd3+ 21. Kc1 Bb3 22. Re1 Qc2# 0-1
+

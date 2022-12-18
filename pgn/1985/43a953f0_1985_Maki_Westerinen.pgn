@@ -1,0 +1,20 @@
+[Event "Nordic-ch"]
+[Site "Gjovik"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "43a953f0"]
+[Epoch "Queen"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Nc6 7. exd6 cxd6 8. d5
+Ne5 9. Nxe5 dxe5 10. c4 Nd7 11. Nc3 Bg7 12. Be3 b6 13. Ba4 O-O 14. Bc6 Rb8 15.
+O-O Nf6 16. f3 1/2-1/2

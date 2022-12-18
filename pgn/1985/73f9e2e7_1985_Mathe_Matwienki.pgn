@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mathe"]
+[Black "Matwienki"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "73f9e2e7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh4 Rg8 7. Nxf8
+Rg4 8. Qh3 Rxe4+ 9. Be2 Nd4 10. Nxh7 Rxe2+ 11. Kf1 Ng4 12. Qh5+ Ke7 13.
+Qg5+ Kf7 14. Nc3 Rxf2+ 15. Kg1 Qh8 16. Qh5+ Ke7 17. d3 Qe5 18. Bg5+ Kd6 19.
+Ne4+ Qxe4 20. dxe4 Ne2# 0-1
+

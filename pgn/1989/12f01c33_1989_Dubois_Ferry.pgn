@@ -1,0 +1,20 @@
+[Event "FRA-chB"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dubois, Martine"]
+[Black "Ferry, Roger"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "12f01c33"]
+[Epoch "Queen"]
+[WhiteID "601926"]
+[BlackID "601403"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bg5 Be7 9. Bxf6 Bxf6 10. c3 O-O 11. Qc2 h6 12. O-O-O a5 13. h4 c5 14. g4 Be7
+15. g5 h5 16. Ne5 cxd4 17. g6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Goldberg, A."]
+[Black "Broberg"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "8c14b67d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 f5
+8. Nc3 Bf6 9. Qd2 c5 10. Bb5+ Nd7 11. dxc5 O-O 12. Bxd7 Bxd7 13. O-O-O Bc6
+14. Nd4 Rc8 15. Nxc6 Qxd2+ 16. Kxd2 Rxc6 17. Na4 Bd4 18. b4 Bxf2 19. g3 Bd4
+20. Kd3 Ra6 21. Kxd4 Rxa4 22. Kc4 Rxa2 23. Rd7 Rb8 24. Kb3 Ra6 25. Rhd1 e5
+26. R1d6 Rxd6 27. cxd6 Kg7 28. c4 f4 29. gxf4 exf4 30. Re7 Kf6 31. Kc3 Rg8
+32. Rxb7 f3 33. Kd2 Rg4 34. c5 Re4 35. d7 Ke7 36. c6 1-0
+

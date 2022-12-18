@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Krabbe"]
+[Black "Schutze"]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[HashCode "bf1f8e5f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O Bd3 8.
+Re1 Be7 9. Re3 e4 10. Ne1 Bg5 11. Rh3 Nf6 12. Nxd3 exd3 13. Rxd3 O-O 14.
+Qb3+ Kh8 15. Qxb7 Qe7 16. Re3 Bxe3 17. dxe3 Ne5 18. g3 Nd3 19. Nd2 Ng4 20.
+Nf1 Ndxf2 21. Qg2 Ne5 22. Bb3 Nf3+ 0-1
+

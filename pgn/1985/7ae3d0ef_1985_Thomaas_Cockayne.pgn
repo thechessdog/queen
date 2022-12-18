@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thomaas"]
+[Black "Cockayne"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "7ae3d0ef"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nge2 Bg4 8. h3
+Bxe2 9. Nxe2 exf4 10. Nxf4 Nge7 11. O-O O-O 12. c3 Qd7 13. Be3 f5 14. Qb3+
+Kh8 15. Ne6 Rf6 16. Nxg7 Kxg7 17. Rad1 Raf8 18. Qc2 fxe4 19. dxe4 Rxf1+ 20.
+Rxf1 Rxf1+ 21. Bxf1 Ne5 22. b4 b6 23. Qc1 Qe6 24. Bh6+ Kg8 25. bxc5 dxc5
+26. Qf4 Nf7 27. Bc4 g5 28. Qb8+ Qc8 29. Qe5 1-0
+

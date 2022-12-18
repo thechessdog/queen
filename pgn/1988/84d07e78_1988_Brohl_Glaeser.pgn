@@ -1,0 +1,17 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Brohl, M."]
+[Black "Glaeser, Wilfried"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "84d07e78"]
+[Epoch "Queen"]
+[BlackID "12944319"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Re1 Ng6 10. hxg4 hxg4 11. Nh2 Bc5 12. Ndf1 Qxf2+ 13. Kh1 Qg1# 0-1

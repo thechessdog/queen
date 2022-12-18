@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Donchenko, Anatoly G"]
+[Black "Sveshnikov, Evgeny"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "1264efc8"]
+[Epoch "Queen"]
+[BlackID "4100638"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O a6 10. a3 b5 11. Bb3 Bb7 12. Bg5 Nc6 13. Qd3 Rc8 14. Rad1 Na5
+15. Bc2 g6 16. Ne5 Nd7 17. Bxe7 Qxe7 18. Nxd7 Qxd7 19. Qe2 Bd5 20. Rfe1 Rfd8
+21. h4 Qe7 22. g3 Qf6 23. Nxd5 Rxd5 24. a4 Nc6 25. Be4 Nxd4 26. Qe3 Rd6 27.
+axb5 axb5 28. Qg5 Qg7 29. h5 h6 30. Qe7 Rcd8 31. hxg6 f5 0-1

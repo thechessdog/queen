@@ -1,0 +1,17 @@
+[Event "Celle Ligure"]
+[Site "Celle Ligure"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jurkovic, A."]
+[Black "Cirabisi, F."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "ae82fe53"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Bc4 Bxe5 6. Qh5 Qxd4 7. Qxf7+
+Kd8 8. Qf8+ Kd7 9. Bxg8 Nc6 10. Nc3 Qd6 11. Qf7+ Qe7 12. Bg5 Bxc3+ 13. bxc3
+Qxf7 14. Bxf7 Ne5 15. Rd1+ Kc6 16. Bd5+ Kb5 17. Rb1+ Kc5 18. Bxe4 Nc4 19.
+O-O c6 20. Be7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chripunov"]
+[Black "Galvec"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "276b440c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qe7 8. c3 Nf6 9. Re1 d5 10. Nxh8 Ng4+ 11. Ke2 dxc4 12. d4 Qh4 13. Be3
+Nxe3 0-1
+

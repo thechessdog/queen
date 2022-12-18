@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Korsunsky, Rostisla"]
+[Black "Cherniak, L."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "3faa86f7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Bxc3
+8. bxc3 d6 9. Bb5+ Bd7 10. exd6 Bxb5 11. Nxb5 a6 12. c4 axb5 13. cxd5 Qxd6
+14. dxe6 Qxe6+ 15. Qe2 Qxe2+ 16. Kxe2 Kd7 17. Rhd1 Kc6 18. Bf4 Ra4 19. g3
+Re4+ 20. Kf3 Re6 21. Rd3 Nd7 22. Rad1 Ne5+ 23. Bxe5 Rxe5 24. Rc3+ Kb6 25.
+Rd6+ Ka5 26. Rd7 Rf5+ 27. Kg2 Re8 28. Rf3 Rxf3 29. Kxf3 Rc8 30. Rxb7 Rc3+
+31. Kg2 g5 32. Rxf7 h6 33. Ra7+ Kb6 34. Rh7 Rc6 35. c3 Kc5 36. Ra7 Kb6 37.
+Ra3 Rc8 38. h3 Rc4 39. Kf3 Kb7 40. Ke3 h5 41. Kd3 Rc8 42. Ke4 g4 43. hxg4
+hxg4 44. Rb3 Kc6 45. Rb4 Kc5 46. Kd3 Rd8+ 47. Rd4 Rf8 48. Rf4 Rd8+ 49. Kc2
+1-0
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grobe, E."]
+[Black "Tucek, J."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "15ac3b8d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7
+8. Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. f4 Ne6 12. Be3 Bb6 13. a4 a5 14. f5
+Nxd4 15. Bxd4 c5 16. Be3 d4 17. Bd2 Bc6 18. Qg4 d3 19. Qxg7 Qd4+ 20. Kh1
+O-O-O 0-1
+

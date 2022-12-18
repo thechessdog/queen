@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jaksland, Tim"]
+[Black "Ostergaard, Jens"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5...Nd7"]
+[HashCode "f44447af"]
+[Epoch "Queen"]
+[WhiteID "1401084"]
+[BlackID "1400606"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c6 5. e3 Nbd7 6. Be2 Bd6 7. Qc2 O-O 8. O-O
+a6 9. e4 dxe4 10. Nxe4 Be7 11. Rd1 h6 12. Ne5 c5 13. Nxd7 Nxd7 14. dxc5 Qc7 15.
+b4 a5 16. b5 1/2-1/2

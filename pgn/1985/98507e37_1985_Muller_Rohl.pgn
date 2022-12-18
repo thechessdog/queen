@@ -1,0 +1,16 @@
+[Event "Baden"]
+[Site "Baden"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Muller, C."]
+[Black "Rohl, E."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "98507e37"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Qh5 Nc6 6. Bb5 Bd7 7. Bxc6
+Bxc6 8. d5 Bb4 9. Qxe5+ Kf8 10. Qg3 Re8+ 11. Ne2 Bb5 12. Kf1 Bxc3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Camaguey"]
+[Site "Camaguey"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Arencibia Rodriguez, Walter"]
+[Black "Arencibia, Juan Joel"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "67f289da"]
+[Epoch "Queen"]
+[BlackID "3500136"]
+[BlackCountry "FID"]
+[WhiteID "3500012"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Bd3 O-O 6. Ne2 c5 7. cxd5 exd5 8. a3
+Bxc3+ 9. bxc3 Nc6 10. O-O Re8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wiedenkeller, Michael"]
+[Black "Jandovsky, Victor"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "767210c2"]
+[Epoch "Queen"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O a6 11. a4 Re8 12. f4 Rb8 13. Kh1 Qc7 14. Qc2 c4 15. e5
+dxe5 16. Nxc4 b5 17. axb5 axb5 18. d6 Qc6 19. Nxe5 Nxe5 20. fxe5 Ng4 21. Bf3
+Qc4 22. Bg5 Rxe5 23. Qd2 b4 24. Nd5 Be6 25. Ne7+ Kh8 26. h3 Qb5 27. Bf4 Rh5 28.
+Nc6 Rf8 29. Nd4 Qd7 30. Nxe6 Qxe6 31. Rae1 Qf5 32. d7 1-0

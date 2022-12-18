@@ -1,0 +1,18 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nikcevic, Nebojsa"]
+[Black "Tesic, Milica"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "d80937b7"]
+[Epoch "Queen"]
+[WhiteID "901776"]
+[WhiteCountry "MNE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Ng6 6. Nf3 Bc5 7. f5 Ne7 8. Nc3
+f6 9. Bf4 d6 10. Qd2 Nbc6 11. O-O-O a5 12. g4 Bd7 13. g5 Ne5 14. Be2 N7c6 15.
+gxf6 gxf6 16. Nxe5 Nxe5 17. Bxe5 1-0

@@ -1,0 +1,17 @@
+[Event "Sverdlovsk tt"]
+[Site "Sverdlovsk tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Skuinia"]
+[Black "Tarum"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "fe6ee1b9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Qa5
+8. Nb5 Nxc3 9. Bd2 Nd5 10. c3 Bf8 11. c4 Nb4 12. c5 Bxc5 13. Qxg7 Rf8 14.
+Rc1 N8c6 15. Rxc5 Qxa2 16. Nd6+ Kd8 17. Qxf8+ 1-0
+

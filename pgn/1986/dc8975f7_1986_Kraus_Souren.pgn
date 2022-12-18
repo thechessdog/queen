@@ -1,0 +1,23 @@
+[Event "Stein"]
+[Site "Stein"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kraus, P."]
+[Black "Souren, E."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "dc8975f7"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Qf3 c6 6. c3 Bf5 7. d4 Be4
+8. Qg4 Nd7 9. Bc4 Qxc4 10. Qxe4 Nf6 11. Qe2 Qxe2+ 12. Nxe2 e6 13. Bf4 Be7
+14. O-O O-O 15. Nc1 c5 16. dxc5 Bxc5 17. Nd3 Bb6 18. Rad1 Rfd8 19. Bg5 Rd5
+20. Bxf6 gxf6 21. c4 Rd4 22. c5 Ba5 23. Nc1 Rc4 24. Nb3 Bc7 25. Rd7 Rc8 26.
+Rfd1 a5 27. a3 a4 28. Rc1 Rxc1+ 29. Nxc1 Rd8 30. Rxd8+ Bxd8 31. Ne2 Ba5 32.
+Nd4 Bd2 33. Nb5 Kf8 34. Nd6 Ke7 35. Kf1 Bc1 36. Nc4 Kd7 37. Ke2 Kc6 38. Kd1
+Kxc5 39. Kxc1 Kxc4 40. Kc2 b5 41. f3 e5 42. g4 Kd4 43. Kd2 e4 44. fxe4 Kxe4
+45. Kc3 f5 46. gxf5 Kxf5 47. Kb4 Ke5 48. Kxb5 f5 49. Kxa4 f4 50. b4 f3 51.
+b5 f2 52. Ka5 f1=Q 53. b6 0-1
+

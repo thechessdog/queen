@@ -1,0 +1,19 @@
+[Event "Saint John op-1"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Karason, Askell O"]
+[Black "Taylor, Gordon"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Pillsbury attack"]
+[HashCode "4bf27efa"]
+[Epoch "Queen"]
+[WhiteID "2300567"]
+[WhiteCountry "ISL"]
+[BlackID "2600250"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 d5 5. cxd5 exd5 6. Bg5 Be7 7. e3 O-O 8. Bd3
+Bb7 9. Ne5 Nbd7 10. f4 Ne4 11. Bxe7 Qxe7 12. O-O f6 13. Nxd7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Czene"]
+[Black "Kabisch"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "289aca2d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nc6 7. O-O Be7
+8. Be3 O-O 9. f4 Bd7 10. Nb3 a6 11. Bf3 Rb8 12. a4 b6 13. Kh1 Qc8 14. Rf2
+Na5 15. Nxa5 bxa5 16. Bd4 Rb4 17. Na2 Rb8 18. Nc3 Rb4 19. b3 Qc7 20. e5
+dxe5 21. Bxe5 Qc5 22. Rd2 Bc6 23. Na2 Bxf3 24. Qxf3 Re4 25. Rad1 Qe3 26.
+Qxe3 Rxe3 27. Bd4 Re4 28. g3 Ng4 29. Bb6 e5 30. Nc3 Rb4 31. Nd5 Rxb6 32.
+Nxb6 1-0
+

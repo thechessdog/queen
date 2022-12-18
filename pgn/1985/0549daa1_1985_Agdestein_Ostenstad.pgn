@@ -1,0 +1,23 @@
+[Event "Gausdal zt"]
+[Site "Gausdal zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Agdestein, Simen"]
+[Black "Ostenstad, Berge"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "0549daa1"]
+[Epoch "Queen"]
+[WhiteID "1500015"]
+[BlackID "1500058"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 c5 2. d5 d6 3. e4 Nf6 4. Nc3 g6 5. Bf4 Bg7 6. Qd2 O-O 7. O-O-O a6 8. Bh6
+b5 9. f3 Qa5 10. Kb1 Nbd7 11. h4 Rb8 12. h5 Ne5 13. Bxg7 Kxg7 14. hxg6 fxg6 15.
+Ka1 b4 16. Nb1 e6 17. Qh6+ Kg8 18. Nh3 exd5 19. Ng5 Nf7 20. Nxf7 Rxf7 21. g4 b3
+22. cxb3 Rxb3 23. g5 Ne8 24. Rxd5 Rxb2 25. Kxb2 Rb7+ 26. Kc2 Qxa2+ 27. Kd3
+Qxb1+ 28. Ke3 Qc1+ 29. Kf2 Be6 30. Bxa6 Qb2+ 31. Kg3 Ra7 32. Bc4 Qc3 33. Rxc5
+Bxc4 34. Rc8 Qe5+ 35. f4 Qc3+ 36. Kh4 Bb5 37. Rxe8+ Bxe8 38. Rd1 Ra3 39. Rh1
+Qg3# 0-1

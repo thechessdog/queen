@@ -1,0 +1,17 @@
+[Event "Uzes"]
+[Site "Uzes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Boutquin, Pierre"]
+[Black "Bacis, Jean Franc"]
+[Result "1/2-1/2"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "43fb8f22"]
+[Epoch "Queen"]
+[WhiteID "2600528"]
+[WhiteCountry "CAN"]
+
+1. d4 g6 2. Nf3 f5 3. g3 Bg7 4. Bg2 Nf6 5. c4 O-O 6. O-O d6 7. Nc3 Nc6 8. d5
+Na5 9. Qd3 c5 1/2-1/2

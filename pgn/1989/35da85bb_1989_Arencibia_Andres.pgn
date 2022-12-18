@@ -1,0 +1,25 @@
+[Event "Capablanca mem"]
+[Site "Cienfuegos"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Arencibia Rodriguez, Walter"]
+[Black "Andres, Miguel"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "35da85bb"]
+[Epoch "Queen"]
+[WhiteID "3500012"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. f4 O-O 7. Nf3 e6 8. dxe6
+Bxe6 9. Bd3 Nc6 10. h3 a6 11. f5 Bd7 12. O-O Nd4 13. Bg5 Bc6 14. Nxd4 cxd4 15.
+Nd5 Bxd5 16. exd5 Qb6 17. Qd2 a5 18. Rae1 Nd7 19. Be7 Rfe8 20. f6 Rxe7 21. Rxe7
+Nxf6 22. g4 Qd8 23. Qe2 Bf8 24. Rxb7 Qc8 25. Re7 Qd8 26. Rxf7 Kxf7 27. g5 Be7
+28. c5 dxc5 29. gxf6 Bxf6 30. Qe6+ Kg7 31. d6 Ra7 32. Bb5 Rf7 33. d7 d3 34. Kh1
+d2 35. Qd5 Rf8 36. Qxd2 Qa8+ 37. Qg2 Qxg2+ 38. Kxg2 Bd8 39. Re1 Bb6 40. Re7+
+Rf7 41. Re8 Rf8 42. b3 Bd8 43. Bc6 Bb6 44. a4 Bd8 45. Bf3 Bb6 46. Re6 Bd8 47.
+Re5 Rf5 48. Re8 Rf8 49. Kf2 Kf7 50. Bd5+ Kg7+ 51. Ke2 h5 52. Be4 g5 53. Bf3 g4
+54. hxg4 h4 55. Bb7 h3 56. Kd3 1-0

@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tolonen"]
+[Black "Hartikainen"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "91400cf8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bd3 Nc6 6. Nge2 Be7 7. Bf4 O-O
+8. Qd2 Nb4 9. O-O-O Ne8 10. Ng3 Nxd3+ 11. Qxd3 c6 12. h4 a5 13. Nf1 a4 14.
+g4 b5 15. g5 b4 16. Nb1 b3 17. a3 Ba6 18. c4 Bxc4 19. Qg3 Bxf1 20. Rhxf1
+Nd6 21. Bxd6 Bxd6 22. f4 Qd7 23. Rd3 Rfe8 24. Nc3 Qf5 25. Rd2 Re7 26. Rf3
+Rae8 27. Rdd3 Re3 28. Rfxe3 Rxe3 29. Qxe3 Bxf4 30. Kd1 Bxe3 31. Rxe3 Qf1+
+32. Kd2 f5 33. gxf6 gxf6 34. Re8+ Kf7 35. Ra8 Qf2+ 0-1
+

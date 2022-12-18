@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pulkkinen, Kari"]
+[Black "Yermolinsky, Alex"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "b059b71f"]
+[Epoch "Queen"]
+[WhiteID "500712"]
+[WhiteCountry "FIN"]
+[BlackID "2005492"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nce2 Rc8 13. g3 b4 14. Bg2 a5
+15. Nxc6 Qxc6 16. Nd4 Qc5 17. Rhe1 a4 18. e5 fxe5 19. fxe5 d5 20. Rf1 a3 21.
+Qf4 Qe7 22. Rf2 Bg7 23. Bf1 O-O 24. Bd3 f5 25. Rg2 Kh8 26. Nf3 Be8 27. g4 Bg6
+28. Rdg1 b3 29. axb3 fxg4 30. Qxg4 axb2 31. Bxg6 Qa3 32. Qa4 Qa1+ 33. Qxa1
+bxa1=Q+ 34. Kxa1 Rxf3 35. Bh5 Bxe5+ 36. Kb1 Rff8 37. Bg4 Ra8 38. Kc1 Bd4 39.
+Rh1 Ra1+ 0-1

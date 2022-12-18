@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Orso, Miklos"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "d48b0e69"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[BlackID "700290"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. Bg2 h5 10. h3 hxg4 11. hxg4 Rxh1+ 12. Bxh1 gxf5 13. exf5 d5 14. Nxd5 Nxd5
+15. Bxd5 Qc7 16. Qd3 Nd7 17. O-O-O Nf6 18. Bg5 Bg7 19. f4 Bd7 20. Bxf6 Bxf6 21.
+g5 O-O-O 22. gxf6 Bc6 23. Qf3 Bxd5 24. Rxd5 Rxd5 25. Qxd5 exf4 26. Kd2 Kb8 27.
+c4 Qb6 28. Qe5+ Ka7 29. Ke2 Qg1 30. Qxf4 Qg2+ 31. Qf2+ Qxf2+ 32. Kxf2 Kb6 33.
+b4 1-0

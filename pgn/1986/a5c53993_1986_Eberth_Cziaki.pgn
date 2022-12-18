@@ -1,0 +1,18 @@
+[Event "Miskolc"]
+[Site "Miskolc"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eberth, Zoltan"]
+[Black "Cziaki, F."]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "a5c53993"]
+[Epoch "Queen"]
+[WhiteID "702668"]
+[WhiteCountry "HUN"]
+
+1. d4 g6 2. e4 Bg7 3. c3 d6 4. f4 e6 5. Nf3 Nd7 6. Bd3 c5 7. Be3 b6 8. O-O Bb7
+9. Na3 Ngf6 10. Nc4 Nb8 11. e5 dxe5 12. fxe5 Nd5 13. Bg5 f6 14. Nd6+ Ke7 15.
+Nxb7 Qc7 16. Nd6 fxg5 17. Nxg5 Rf8 18. Rxf8 Bxf8 19. Qf3 Kd7 20. Qf7+ Be7 21.
+Qe8# 1-0

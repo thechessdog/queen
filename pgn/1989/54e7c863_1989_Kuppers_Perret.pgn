@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuppers, G."]
+[Black "Perret"]
+[Result "1-0"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "54e7c863"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Nbd7 10. e4 Qe7 11. Nd2 a6 12. a4 Rb8 13. Nc4 Ne5 14. Nb6
+Nfd7 15. a5 Nxb6 16. axb6 Qd8 17. Qb3 Bd7 18. f4 Nd3 19. Be3 Nb4 20. e5 Re8
+21. Bf2 Nd3 22. Ne4 c4 23. Qxc4 Bb5 24. Qc7 dxe5 25. Nd6 Re7 26. Nxb5 axb5
+27. d6 Rd7 28. Ra7 Nxf2 29. Rxf2 exf4 30. Rd2 fxg3 31. Qxd8+ Rbxd8 32. Rxb7
+gxh2+ 33. Kh1 Rxb7 34. Bxb7 Be5 35. d7 Kf8 36. Bc8 Ke7 37. Re2 1-0
+

@@ -1,0 +1,21 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Seidel"]
+[Black "Weiss"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "8bec6433"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Nf3 Bg7 5. e3 O-O 6. Be2 b6 7. O-O Ba6 8.
+Bxa6 Nxa6 9. Qe2 Nb8 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Nd7 13. Qxe7 Qxe7
+14. Bxe7 Rfe8 15. Rfe1 Bf6 16. Bxf6 Nxf6 17. Rxe8+ Rxe8 18. Kf1 Kf8 19. Re1
+Rxe1+ 20. Kxe1 Nd5 21. Kd2 f6 22. c4 Nf4 23. g3 Nh5 24. d5 Ng7 25. Nd4 a5
+26. Nb5 Ne8 27. Kc3 Kg7 28. b4 axb4+ 29. Kxb4 Kh6 30. c5 Kg5 31. cxb6 cxb6
+32. d6 Nxd6 33. Nxd6 Kg4 34. Kb5 Kh3 35. Kxb6 Kxh2 36. a4 h5 37. a5 g5 38.
+a6 h4 39. gxh4 gxh4 40. a7 h3 41. a8=Q Kg1 42. Qf3 h2 43. Qg3+ Kh1 44. Nc4
+f5 45. Ne3 1-0
+

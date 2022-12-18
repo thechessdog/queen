@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Krocian"]
+[Black "Merker"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "b2d3abd5"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Be2 Be7 10. Nf3 O-O 11. O-O f6 12. Qb3 fxe5 13. d5 Nb4 14. d6
+Bxd6 15. c5 Nc2 16. Bf2 e4 17. Nxe4 Nxa1 18. Rxa1 Nd5 19. Nc3 Bf4 20. Rd1
+c6 21. Nd4 Qf6 22. Nxd5 exd5 23. Qxb7 Rae8 24. Bf3 Qh6 25. Qxc6 Qxh2+ 26.
+Kf1 Qh1+ 27. Bg1 Be4 28. Bxe4 Bh2+ 0-1
+

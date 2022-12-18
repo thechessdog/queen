@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Veingold, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "5430455b"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8.
+Qb3 c5 9. d5 e6 10. Bxa6 bxa6 11. O-O exd5 12. exd5 Re8 13. Bf4 Nh5 14. Be3 Bg4
+15. Nd2 1/2-1/2

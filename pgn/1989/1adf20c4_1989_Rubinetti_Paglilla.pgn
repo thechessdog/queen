@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Rubinetti, Jorge"]
+[Black "Paglilla, Carlos"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "1adf20c4"]
+[Epoch "Queen"]
+[WhiteID "100161"]
+[WhiteCountry "ARG"]
+[BlackID "100307"]
+[BlackCountry "ARG"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 b6
+8. a4 Bb7 9. Bb5+ Nc6 10. Re1 a6 11. Bf1 e6 12. Bf4 O-O-O+ 13. Kc2 Bd6 1/2-1/2

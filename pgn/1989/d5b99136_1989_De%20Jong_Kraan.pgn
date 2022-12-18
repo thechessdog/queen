@@ -1,0 +1,20 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Kraan, W."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d5b99136"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6 8.
+Bb5+ Bd7 9. a4 Bxb5 10. Qxb5+ Qd7 11. Nf3 Qxb5 12. Nxb5 Nd5 13. O-O Bg7 14. Nc3
+Nb4 15. Bf4 O-O 16. Rad1 Rd8 17. Be5 Bh6 18. g4 N8c6 19. g5 Bf8 20. Rfe1 Nd5
+21. Re4 Nxe5 22. Nxe5 Rac8 23. Rd3 f6 24. Nf3 Rd7 25. Rh4 Rcd8 26. Ne4 Nb4 27.
+Rb3 a5 28. gxf6 e6 29. Neg5 1-0

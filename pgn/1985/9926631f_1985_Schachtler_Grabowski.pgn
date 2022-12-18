@@ -1,0 +1,15 @@
+[Event "Badenweiler op"]
+[Site "Badenweiler op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schachtler, W."]
+[Black "Grabowski"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "9926631f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Be7 7. Qd5 d6
+8. Qxf7+ Kd7 9. Be6# 1-0
+

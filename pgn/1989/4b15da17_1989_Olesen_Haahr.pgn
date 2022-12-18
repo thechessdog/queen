@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olesen, Martin"]
+[Black "Haahr, Niels"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "4b15da17"]
+[Epoch "Queen"]
+[WhiteID "1400860"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. d6 Qa5 7. Nf3 Bb7 8. e3
+b4 9. Nb5 Na6 10. Ne5 e6 11. a4 bxa3+ 12. Bd2 Qb6 13. Rxa3 c4 14. Bxc4 Bxd6 15.
+Ba5 Bb4+ 16. Bxb4 Nxb4 17. Rxa8+ Bxa8 18. Qa4 Bxg2 19. Qxb4 Qb8 20. Nd6+ 1-0

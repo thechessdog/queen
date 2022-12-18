@@ -1,0 +1,20 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bretsnajdr, V."]
+[Black "Roeschlau, B."]
+[Result "1-0"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "77b08d30"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6
+8. Nc3 Nc6 9. d5 Na5 10. Qc2 c6 11. dxc6 Nxc6 12. Rd1 Bf5 13. Qb3 Qe8 14.
+Be3 Be6 15. Qc2 Nc4 16. Bc5 Rc8 17. Nd4 Bd7 18. Nxc6 Bxc6 19. Bh3 f5 20.
+Qb3 Qf7 21. Bxe7 f4 22. f3 fxg3 23. hxg3 Bxf3 24. exf3 Qxf3 25. Nd5 Qf2+
+26. Kh1 Nd2 27. Qe3 Bd4 28. Rxd2 Bxe3 29. Rxf2 Bxf2 30. Be6+ Kg7 31. Bxc8
+Rxc8 32. Rf1 Bxg3 33. Kg2 Be5 34. Rf2 Bd4 35. Rd2 Be5 36. Kf3 Rc1 37. Ke4
+Bb8 38. Re2 Rf1 39. b3 h5 1-0
+

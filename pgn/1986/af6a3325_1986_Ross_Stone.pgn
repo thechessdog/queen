@@ -1,0 +1,19 @@
+[Event "Winnipeg zt"]
+[Site "Winnipeg zt"]
+[Date "1986.07.01"]
+[Round "1"]
+[White "Ross, David"]
+[Black "Stone, Raymond"]
+[Result "1-0"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "af6a3325"]
+[Epoch "Queen"]
+[WhiteID "2600277"]
+[WhiteCountry "CAN"]
+[BlackID "2600285"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e4 a6 8. Bxc4
+b5 9. Bb3 Bb7 10. O-O e6 11. Re1 Nbd7 12. e5 Nd5 13. Nxd5 exd5 14. Ng5 1-0

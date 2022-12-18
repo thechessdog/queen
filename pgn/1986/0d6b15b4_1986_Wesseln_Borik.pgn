@@ -1,0 +1,23 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wesseln, Kai"]
+[Black "Borik, Otto"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "0d6b15b4"]
+[Epoch "Queen"]
+[WhiteID "4601106"]
+[BlackID "4600762"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 c5 6. O-O Be7 7. b3 cxd4 8. exd4
+O-O 9. Bb2 d5 10. Nbd2 Nc6 11. Rc1 Rc8 12. Qe2 Re8 13. Rfe1 Bf8 14. Ne5 g6 15.
+Qe3 Nxe5 16. dxe5 dxc4 17. Nxc4 Bc5 18. Qh3 Nd5 19. Bf1 Re7 20. Re4 Rec7 21.
+Rd1 Rd7 22. Rd3 Bf8 23. Rh4 Bg7 24. a4 h5 25. Bc1 Ba6 26. Rg3 Bxc4 27. Rxc4
+Rxc4 28. bxc4 Ne7 29. f4 Nf5 30. Rd3 Bf8 31. Qf3 Bc5+ 32. Kh1 Kg7 33. g3 Rd4
+34. Bb2 Rxd3 35. Bxd3 Ne3 36. Qe2 Qa8+ 37. Kg1 Ng4+ 38. Kf1 Qh1# 0-1

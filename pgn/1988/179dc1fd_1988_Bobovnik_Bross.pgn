@@ -1,0 +1,17 @@
+[Event "Oberhausen"]
+[Site "Oberhausen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bobovnik, HM."]
+[Black "Bross, H."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "179dc1fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6 6. Re1 Bg7 7. c3 Nc6
+8. d4 cxd4 9. cxd4 Nf6 10. Nc3 O-O 11. Bg5 a6 12. h3 e6 13. Qd2 b5 14. a3
+Rfc8 15. b4 Rc7 16. Rac1 1/2-1/2
+

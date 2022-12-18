@@ -1,0 +1,23 @@
+[Event "Wurtemberg"]
+[Site "Wurtemberg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Berg, Peter"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "b58c158d"]
+[Epoch "Queen"]
+[WhiteID "4604008"]
+[BlackID "1406388"]
+[WhiteCountry "GER"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. Bd3 f5 5. exf5 Bb4+ 6. Nc3 Bxg2 7. Qh5+ Kf8 8.
+fxe6 dxe6 9. Ne2 Bxh1 10. f3 Nd7 11. Bg5 Ngf6 12. Qh3 Bxc3+ 13. bxc3 Qe8 14.
+Nf4 Kg8 15. Kf2 e5 16. Re1 Rd8 17. c5 h6 18. Bc4+ Kh7 19. Bxh6 g6 20. Bg5+ Nh5
+21. Nxh5 gxh5 22. Bxd8 Bxf3 23. Kxf3 Rf8+ 24. Kg2 Qxd8 25. Qxh5+ Kg7 26. Re3
+Qa8+ 27. Kg1 Kf6 28. Qh4+ Kf5 29. Qh7+ Kf4 30. Qh6+ Kg4 31. Be6+ Rf5 32. Rg3#
+1-0

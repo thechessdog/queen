@@ -1,0 +1,23 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Phola"]
+[Black "Fabris, Alberto"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "20587334"]
+[Epoch "Queen"]
+[BlackID "801348"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 Nh5 8. Nh2 Qe8
+9. Nb5 Na6 10. g3 f5 11. Bg2 Qf7 12. Qe2 Nc5 13. Nc3 a6 14. O-O Nf6 15. b4
+Ncxe4 16. Bxe4 Nxe4 17. Nxe4 fxe4 18. g4 b5 19. Be3 Bd7 20. Rfd1 Qe7 21. c5
+Rae8 22. Kg2 Qh4 23. Rh1 Rf7 24. Nf1 Ref8 25. Ng3 Bh6 26. Nxe4 Bxe3 27. Qxe3
+Rf4 28. f3 Rxf3 29. Qxf3 Rxf3 30. Kxf3 h5 31. Rag1 Bf5 32. cxd6 Bxe4+ 33. Kxe4
+cxd6 34. Kd3 Kh7 35. Rh2 Qg5 36. Rf2 e4+ 37. Kxe4 Qe5+ 38. Kf3 Qxd5+ 39. Kg3
+Qe5+ 40. Kg2 h4 41. Rf3 Qb2+ 42. Rf2 Qxb4 43. Rf7+ Kg8 44. Rgf1 Qe4+ 45. R7f3
+d5 0-1

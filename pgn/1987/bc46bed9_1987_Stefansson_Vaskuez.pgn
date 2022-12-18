@@ -1,0 +1,21 @@
+[Event "Insbruck"]
+[Site "Insbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stefansson, Hannes"]
+[Black "Vaskuez"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, English variation"]
+[HashCode "bc46bed9"]
+[Epoch "Queen"]
+[WhiteID "2300087"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Qd2 Qc7 8. f3
+Nbd7 9. g4 Ne5 10. g5 Nfd7 11. Qe2 b5 12. a4 b4 13. Na2 Rb8 14. f4 Nc6 15. Qc4
+Nc5 16. Nxc6 Qxc6 17. Nxb4 Qxe4 18. Qxe4 Nxe4 19. Nxa6 Rxb2 20. Bd3 d5 21. Nc7+
+Kd8 22. Nb5 Nc5 23. Kd2 Ba6 24. Rhb1 Nxd3 25. Kxd3 Rxb1 26. Rxb1 Be7 27. Bd4
+Rg8 28. c4 dxc4+ 29. Kxc4 Kd7 30. Rd1 Rc8+ 31. Kb3 g6 32. Be5+ Ke8 33. Nc7+
+Rxc7 34. Bxc7 1-0

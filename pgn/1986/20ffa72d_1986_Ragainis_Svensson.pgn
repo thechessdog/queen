@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ragainis, G."]
+[Black "Svensson, J."]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "20ffa72d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Ne7
+8. Nbd2 O-O 9. Nc4 b5 10. Ncxe5 f6 11. Nxg6 hxg6 12. Be3 Qd6 13. Qd2 Be6
+14. Qc3 c4 15. dxc4 Bxc4 16. b3 Bf7 17. Rad1 Qc7 18. Bc5 Rfd8 19. Nd4 f5
+20. e5 Bxe5 0-1
+

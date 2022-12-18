@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Graeser, K."]
+[Black "Wewior, G."]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "62f3e50f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Na5 12. Bd3 b6 13. Rc1 e6 14.
+e5 Bb7 15. Nf4 Nc6 16. Be4 Qd7 17. Qf3 Rac8 18. Rfd1 Rc7 19. Ne2 Rfc8 20.
+Nc3 Ba6 21. Bxc6 1/2-1/2
+

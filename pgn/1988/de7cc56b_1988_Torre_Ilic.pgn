@@ -1,0 +1,24 @@
+[Event "Saint John op-1"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Ilic, Zoran"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "de7cc56b"]
+[Epoch "Queen"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackID "15001350"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. h3 a6 7. Bf1 g6 8. c3
+Bg7 9. d4 cxd4 10. cxd4 O-O 11. Nc3 b5 12. Bg5 h6 13. Bh4 g5 14. Bg3 b4 15. Nd5
+Nh5 16. Bh2 e6 17. Ne3 Nf4 18. Qd2 Qb8 19. Nc4 Rd8 20. h4 e5 21. hxg5 hxg5 22.
+Nxg5 Ng6 23. Nf3 Bg4 24. d5 Nce7 25. Be2 a5 26. Qg5 Bd7 27. Nh4 f6 28. Qg3 Nxh4
+29. Qxh4 Kf8 30. Bg4 Bxg4 31. Qxg4 Qc8 32. Qxc8 Nxc8 33. f3 Bh6 34. Kf1 Ra6 35.
+Bg1 Ke7 36. Be3 Bxe3 37. Nxe3 Rh8 38. Kf2 Nb6 39. Rac1 Kd7 40. Rc6 Rha8 41. Rh1
+Nc8 42. Rh7+ Kd8 43. Rh8+ Kd7 44. Rhxc8 1-0

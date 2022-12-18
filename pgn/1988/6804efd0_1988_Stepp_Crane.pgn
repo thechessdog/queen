@@ -1,0 +1,21 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stepp"]
+[Black "Crane"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "6804efd0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+g3 cxd4 9. cxd4 Bb4+ 10. Kf2 g5 11. Ne2 g4 12. Ne1 Bxe1+ 13. Qxe1 Nxd4 14.
+Be3 Nc2 15. Bxb6 Nxe1 16. Bd4 Nd3+ 17. Ke3 Nb4 18. Kd2 Nc6 19. Rc1 f6 20.
+exf6 Kf7 21. Bg2 Nxf6 22. Rhe1 Bd7 23. Bxf6 Kxf6 24. Rc3 Rhf8 25. a3 Ke7
+26. b4 a6 27. Nc1 Kd6 28. Nd3 b6 29. Rec1 Rac8 30. R1c2 e5 31. fxe5+ Nxe5
+32. Nf4 Nc4+ 33. Kc1 Rce8 34. Rxc4 dxc4 35. Rd2+ Ke7 36. Nd5+ Kf7 37. Nxb6
+Be6 0-1
+

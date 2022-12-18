@@ -1,0 +1,17 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Raymaekers"]
+[Black "Elburg"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "b958fc25"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nbc6 12. Bf4 Bd7 13. O-O-O O-O-O
+14. Bg3 Nxe5 15. Rhe1 N7c6 16. Nd4 Nxd4 0-1
+

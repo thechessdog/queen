@@ -1,0 +1,19 @@
+[Event "JSM JarvSK-MatSK"]
+[Site "JSM JarvSK-MatSK"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Issakainen, Ari"]
+[Black "Ebeling, Mika"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "6ac97d25"]
+[Epoch "Queen"]
+[WhiteID "500330"]
+[BlackID "500410"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3 Nxc5 8.
+f3 a5 1/2-1/2

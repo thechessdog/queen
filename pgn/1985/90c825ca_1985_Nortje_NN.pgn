@@ -1,0 +1,16 @@
+[Event "Johannesburg"]
+[Site "Johannesburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nortje, C."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Benima defence"]
+[HashCode "90c825ca"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. c3 dxc3 6. Qd5 d6 7. Qxf7+ Kd7
+8. Be6# 1-0
+

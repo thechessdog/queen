@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Degenhardt, J."]
+[Black "Schuster, Theo"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "fbfffdbf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nc6 6. Nxc6 bxc6 7. Qe2
+Be7 8. Bxe4 dxe4 9. Qxe4 O-O 10. O-O Rb8 11. c4 Bf6 12. Rd1 Re8 13. Qd3
+Bxd4 14. Be3 c5 15. Nc3 Bb7 16. Bxd4 cxd4 17. Qxd4 Re1+ 0-1
+

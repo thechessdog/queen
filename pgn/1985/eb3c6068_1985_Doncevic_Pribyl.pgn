@@ -1,0 +1,19 @@
+[Event "Prague op"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Doncevic, Dario"]
+[Black "Pribyl, Josef"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[HashCode "eb3c6068"]
+[Epoch "Queen"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+[WhiteID "14504553"]
+[WhiteCountry "CRO"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 b5 5. a3 d6 6. Be2 Bb7 7. O-O Nd7 8. Re1
+Qc7 9. Bf1 a6 10. e5 dxe5 11. dxe5 Nxe5 12. Bf4 Rd8 13. Nxe5 Rxd1 14. Raxd1 Qc8
+15. Ne4 Nf6 16. Nd6+ exd6 17. Nxc6+ Ne4 18. Rxe4+ Be5 19. Rxd6 1-0

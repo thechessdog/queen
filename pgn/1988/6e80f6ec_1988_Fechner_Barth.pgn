@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fechner"]
+[Black "Barth"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6e80f6ec"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 Nxe4 7. d5 Nb8 8.
+Re1 Nd6 9. Bd3 O-O 10. Qa4 e6 11. Be3 b6 12. Bf4 Ne8 13. Be4 f5 14. dxe6
+fxe4 15. Qxe4 Nc6 16. e7 Nxe7 17. Bg5 Nf6 18. Qxa8 Nc6 19. Na3 b5 20. Ne5
+Qb6 21. Nxc6 Bb7 22. Qxf8+ Bxf8 23. Ne5 Ne4 24. Be3 Bd6 25. Nd3 Qc7 26. f3
+Bxh2+ 27. Kh1 Qg3 28. Bf4 Nf2+ 29. Nxf2 Qxf4 30. Re8+ Kg7 31. Re7+ Kf6 32.
+Rxd7 Bxf3 33. Rxh7 Be2 34. Nh3 Qe5 35. Nc2 Bg3 36. Ng1 Bd3 37. Ne1 Bf5 38.
+Nef3 Qe8 39. Rf1 g5 40. Rxa7 g4 41. Ra6+ Ke7 42. Rh6 Qf8 43. Rh5 Bd3 44.
+Rd1 gxf3 45. Nxf3 Be2 46. Rh7+ Ke8 47. Rdd7 Bxf3 48. Rdf7 Qxf7 0-1
+

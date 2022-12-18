@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cillo, A."]
+[Black "Carlsson, L."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "84038216"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Nxf6+
+gxf6 8. d4 Bg7 9. dxe5 O-O 10. exf6 Re8 11. Be3 Qxf6 12. c3 Bg4 13. O-O Ne5
+14. Bxe8 Nxf3+ 15. gxf3 Bxf3 16. Qb5 c6 17. Qxb7 Rxe8 18. Qc7 Qg6+ 19. Qg3
+Re6 20. Rfd1 Qh5 0-1
+

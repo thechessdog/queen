@@ -1,0 +1,20 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Vanheste, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "31051286"]
+[Epoch "Queen"]
+[BlackID "1000438"]
+[BlackCountry "NED"]
+[WhiteID "1000233"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Rc1 Qa5 9. Qd2 cxd4 10. cxd4 Qxd2+ 11. Kxd2 O-O 12. Bb5 Nc6 13. Nf3 f5 14. exf5
+Rxf5 15. Bxc6 1/2-1/2

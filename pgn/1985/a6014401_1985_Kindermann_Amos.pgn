@@ -1,0 +1,20 @@
+[Event "Boeblingen op"]
+[Site "Boeblingen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Amos, Bruce M."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "a6014401"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "2600161"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Bg5 Qe7 7. O-O h6 8. Bh4
+g5 9. Bg3 exd4 10. Nxd4 Nxd4 11. cxd4 c6 12. Ba4 d5 13. exd5 Nxd5 14. Nc3 Be6
+15. Nxd5 Bxd5 16. Re1 Be6 17. d5 O-O-O 18. Bxc6 bxc6 19. Qa4 1-0

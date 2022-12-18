@@ -1,0 +1,18 @@
+[Event "Emmen"]
+[Site "Emmen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pieterse, Gert"]
+[Black "Brenninkmeijer, Joris"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "d8d1c70e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. e4 bxc4 7. Bxc4 exd5 8. exd5
+O-O 9. Ne2 d6 10. O-O Nbd7 11. a3 Ba5 12. Ng3 Re8 13. Nce4 Nxe4 14. Nxe4 Ne5
+15. Be2 c4 16. Kh1 Bf5 17. Nf2 Bg6 18. f4 Nd3 19. Bxd3 cxd3 20. b4 Bb6 21. Nxd3
+Qh4 22. Ne1 Rac8 23. Bd2 Be4 24. Qb3 Qg4 25. Nf3 Bc2 26. Qb2 Re2 27. Rg1 Bxg1
+28. Rxg1 Be4 29. Qb3 Rxg2 0-1

@@ -1,0 +1,20 @@
+[Event "corr Cities"]
+[Site "corr Cities"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hallier, K."]
+[Black "Thomsen, C."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "31f401ff"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3 e6
+8. g3 Qc7 9. Bg2 Nd7 10. O-O Bg4 11. b4 h5 12. Qb3 Bxf3 13. Bxf3 Bd6 14. c4
+h4 15. Bg2 hxg3 16. hxg3 O-O-O 17. c5 Be7 18. b5 Rdg8 19. bxc6 bxc6 20. Rb1
+Rg4 21. Bf4 e5 22. Rfe1 Rhg8 23. dxe5 fxe5 24. Qxf7 R4g7 25. Qc4 Bxc5 26.
+Be3 Bd4 27. Bxd4 exd4 28. Qxd4 Rg5 29. Re7 Rd8 30. Rc1 c5 31. Qe4 Rh5 32.
+Rb1 1-0
+

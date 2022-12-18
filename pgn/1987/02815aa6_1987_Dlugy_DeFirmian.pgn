@@ -1,0 +1,25 @@
+[Event "World Open"]
+[Site "World Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "De Firmian, Nick"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "02815aa6"]
+[Epoch "Queen"]
+[WhiteID "2000075"]
+[BlackID "2000105"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 Nd7 12. Kh1 Rb8 13. f4 f5 14. Nc4 Nb6 15. e5
+Nxc4 16. Bxc4 a6 17. e6 b5 18. axb5 axb5 19. Be2 b4 20. Nb1 Re8 21. Bc4 Bb7 22.
+Ra7 Qc8 23. Qb3 Ra8 24. Rxa8 Qxa8 25. Rd1 Bd4 26. Be3 Bxe3 27. Qxe3 Bxd5 28.
+Bxd5 Nxd5 29. Qf3 Rxe6 30. h3 Nc7 31. Qb3 Qe4 32. Nd2 Qxf4 33. Nf3 d5 34. Qa4
+Qd6 35. Qa7 Qb6 36. Qa4 Re7 37. Ra1 Kg7 38. Qd1 h6 39. Qd2 d4 40. b3 Re3 41.
+Qa2 Qd6 42. Qa7 Rxb3 43. Qb8 Ra3 44. Re1 Re3 45. Ra1 Re8 46. Qb7 Re7 47. Nd2 d3
+48. Rc1 c4 49. Nxc4 d2 50. Rg1 d1=Q 0-1

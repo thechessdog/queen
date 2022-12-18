@@ -1,0 +1,18 @@
+[Event "Jurmala"]
+[Site "Jurmala"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Casper, Thomas"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "82d28dc2"]
+[Epoch "Queen"]
+[WhiteID "4611403"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3 Qc7
+8. Qf3 Bg4 9. Qg3 Qxg3 10. hxg3 Nd5 11. Nf3 Bxf3 12. gxf3 1/2-1/2

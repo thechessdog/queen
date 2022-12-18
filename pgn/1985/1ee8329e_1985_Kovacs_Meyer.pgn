@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kovacs"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "1ee8329e"]
+[Epoch "Queen"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Nc3
+Be7 9. Qe2 cxd4 10. Rd1 O-O 11. exd4 Nb4 12. Ne5 Re8 13. Ne4 Nfd5 14. Ra3 f6
+15. Qh5 fxe5 16. dxe5 g6 17. Rg3 Kh8 18. Rxg6 Rg8 19. Rh6 Rg7 20. Nf6 Bxf6 21.
+exf6 Rd7 22. Bxd5 Nxd5 23. Rxd5 exd5 24. f7 Rxf7 25. Qxf7 Qg8 26. Qf6+ Qg7 27.
+Qd8+ Qg8 28. Qd6 Qf7 29. Rf6 1-0

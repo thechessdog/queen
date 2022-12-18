@@ -1,0 +1,18 @@
+[Event "Urcuit"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Darrigues, A."]
+[Black "Sallaberry, T."]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "8bcfba97"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 dxc4 4. Nc3 Nf6 5. Bg5 h6 6. Bxf6 gxf6 7. e3 Bf5
+8. Bxc4 Nb4 9. Qa4+ Nc6 10. d5 a6 11. dxc6 b5 12. Nxb5 Qb8 13. Nbd4 e6 14.
+O-O Qxb2 15. Nxf5 Rg8 16. Nxh6 Bxh6 17. Rab1 Qc3 18. Rfc1 Qxc4 19. Rxc4 Ke7
+20. Qa3+ Ke8 21. Rcb4 Bf8 22. Rb8+ Rxb8 23. Rxb8# 1-0
+

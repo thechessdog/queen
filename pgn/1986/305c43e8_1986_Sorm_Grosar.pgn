@@ -1,0 +1,23 @@
+[Event "Genoa"]
+[Site "Genoa"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sorm"]
+[Black "Grosar"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "305c43e8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. Nc3 e6 6. Nf3 Bb4 7. Bd3 dxc4
+8. Bxc4 O-O 9. O-O b6 10. Bg5 Bb7 11. Qe2 Nbd7 12. Ne5 Be7 13. Rad1 Rc8 14.
+Rfe1 Nd5 15. Bxd5 Bxd5 16. Nxf7 Rxf7 17. Bxe7 Qxe7 18. Nxd5 Qd6 19. Nc3 Nf8
+20. Qe3 Rd8 21. a3 h6 22. Rd2 Kh8 23. Red1 Qf4 24. Qxf4 Rxf4 25. Ne2 Rf7
+26. Rc1 Rfd7 27. f4 Kg8 28. Rdc2 Ng6 29. Rc7 Ne7 30. Rxd7 Rxd7 31. Kf2 Kf7
+32. Kf3 h5 33. Re1 Nf5 34. Ng3 g6 35. Nxf5 gxf5 36. Rc1 Ke7 37. Kg3 Kd6 38.
+Kh4 Rg7 39. g3 Kd5 40. Re1 Re7 41. Re2 Kxd4 42. Kxh5 Kd3 43. Rg2 e5 44.
+fxe5 Rxe5 45. Kg6 Ke3 46. Rc2 Kf3 47. Kf6 Rb5 48. Rc3+ Kg2 49. h4 f4 50.
+gxf4 Rh5 51. f5 Rxh4 52. Kg5 Rh1 53. f6 Rf1 54. Rc4 1-0
+

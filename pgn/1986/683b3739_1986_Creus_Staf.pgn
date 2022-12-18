@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Creus, A."]
+[Black "Staf, G."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "683b3739"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Bxc6 dxc6 6. Nxe4 Nf6 7. d3
+Nxe4 8. dxe4 Qxd1+ 9. Kxd1 Bg4 10. Ke2 Bd6 11. h3 Bxf3+ 12. Kxf3 Ke7 13. g3
+Rhf8+ 14. Ke2 Rf7 15. Rf1 Raf8 16. f3 Ke6 17. Be3 c5 18. Rf2 b6 19. Raf1
+Kd7 20. f4 Kc6 21. fxe5 Rxf2+ 22. Rxf2 Rxf2+ 23. Kxf2 Bxe5 24. c3 b5 25.
+Bf4 Kd6 26. Kf3 c4 27. Bxe5+ Kxe5 28. h4 h5 29. Ke3 c5 30. a4 bxa4 31. Kf3
+g6 32. Ke3 a5 33. Kf3 Kf6 34. Kf4 Ke6 35. g4 hxg4 36. Kxg4 Ke5 37. Kf3 Kf6
+38. Kf4 Ke6 39. e5 Kd5 40. h5 1-0
+

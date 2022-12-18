@@ -1,0 +1,20 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "De Jong, Peter"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "781ffbe8"]
+[Epoch "Queen"]
+[BlackID "1033514"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Nd5 a5 14. a3 Nxd5 15.
+Bxd5 e6 16. Bb3 b5 17. g4 hxg4 18. h5 Nc4 19. Bxc4 Rxc4 20. fxg4 g5 21. Bxg5
+Qc7 22. e5 Rc8 23. Bf6 Rxd4 24. exd6 Rxd2 25. dxc7 Rxd1+ 26. Rxd1 Rxc7 27. Bd8
+Ra7 28. Bb6 Rb7 29. Bxa5 Bh6+ 30. Kb1 e5 31. Bc3 Bf4 32. Rd5 f6 0-1

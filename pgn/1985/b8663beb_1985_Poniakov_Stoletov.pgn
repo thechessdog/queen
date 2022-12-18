@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Poniakov"]
+[Black "Stoletov"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "b8663beb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qa3 Nge7 9. Be3 d5 10. exd5 Nxd5 11. Bc5 Nde7 12. Nc3 O-O 13. Nd5
+Nxd5 14. Bxf8 Nd4 15. Bd3 e4 16. Bc5 exd3 17. Qxd3 Nb4 0-1
+

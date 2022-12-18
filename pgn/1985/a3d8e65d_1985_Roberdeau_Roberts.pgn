@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roberdeau, J."]
+[Black "Roberts, G."]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "a3d8e65d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d4 Nxd4 10. Nxd4 exd4 11. Qxd4 c5 12. Qe5 c4 13. Ba2 Re8 14. Qf4
+Bb4 15. c3 Bxe4 16. Qg5 Bxb1 0-1
+

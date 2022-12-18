@@ -1,0 +1,16 @@
+[Event "corr ch14-NLD"]
+[Site "corr ch14-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nederkoorn"]
+[Black "Van der Drift"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "d2343ee2"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 dxe5 6. fxe5 g6 7. Nf3 Bg7
+8. Bc4 O-O 9. O-O Nc6 10. d4 Na5 11. Bd3 Be6 12. Qe1 Bc4 13. Ng5 0-1
+

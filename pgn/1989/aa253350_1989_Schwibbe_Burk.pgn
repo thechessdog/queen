@@ -1,0 +1,19 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schwibbe"]
+[Black "Burk"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "aa253350"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Nbd7 12. Nxe6 fxe6 13. Bxe6 g6 14.
+Bh6 Ne5 15. f4 Nf3+ 16. Rxf3 Bxe6 17. f5 gxf5 18. exf5 Rg8 19. Qf4 Bf7 20.
+Re1 O-O-O 21. Ne2 Rg4 22. Qe3 Bd5 23. Rg3 Re4 24. Qc3+ Rc4 25. Qe3 Ng4 26.
+Qd2 Bh4 0-1
+

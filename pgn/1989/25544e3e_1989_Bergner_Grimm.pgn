@@ -1,0 +1,23 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bergner, R."]
+[Black "Grimm, H."]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "25544e3e"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 c5 4. d5 d6 5. e4 Bg7 6. f4 O-O 7. Nf3 b5 8. cxb5
+a6 9. a4 axb5 10. Bxb5 Bb7 11. O-O Ba6 12. Bxa6 Nxa6 13. e5 Ng4 14. Ng5 Qc8
+15. h3 Nh6 16. Qe2 Nf5 17. Kh2 Nd4 18. Qe4 Nb4 19. Bd2 Qa6 20. Rad1 Nd3 21.
+Bc1 Nxc1 22. Rxc1 Nb3 23. Rcd1 Nd2 24. Rxd2 Qxf1 25. Re2 dxe5 26. fxe5 f5
+27. Qh4 h6 28. Ne6 g5 29. Qh5 g4 30. hxg4 Rxa4 31. gxf5 Rf4 32. Nxg7 Kxg7
+33. Qg6+ Kh8 34. Qxh6+ Kg8 35. Qg5+ Kh8 36. Re3 Rf7 37. Rh3+ Rh7 38. Rxh7+
+Kxh7 39. Qxe7+ Kg8 40. Qg5+ Kf8 41. f6 Ke8 42. Qg8+ Kd7 43. Qh7+ Kc8 44. d6
+Kb8 45. Qc7+ Ka8 46. Qc8+ Ka7 47. Qxc5+ Ka6 48. Qc6+ Ka5 49. b4+ Kxb4 50.
+Nd5+ Ka5 51. Qb6+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Roth, Peter"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "b24f9bc3"]
+[Epoch "Queen"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+[WhiteID "1600281"]
+[WhiteCountry "AUT"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5 7. Nf3 Bg4 8. O-O
+Nbd7 9. Qe1 Bd6 10. f5 Bxf3 11. Rxf3 Bc5+ 12. Kh1 Ng4 1/2-1/2

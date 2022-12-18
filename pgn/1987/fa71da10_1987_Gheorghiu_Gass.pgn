@@ -1,0 +1,20 @@
+[Event "Nova-Park"]
+[Site "Nova-Park"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gheorghiu, Florin"]
+[Black "Gass, U."]
+[Result "1-0"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "main line"]
+[HashCode "fa71da10"]
+[Epoch "Queen"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 d6 6. Nc3 Bxa6 7. Nf3 g6 8. e4
+Bxf1 9. Kxf1 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Ng4 13. Nd2 Nge5 14. f4 Nd3
+15. Re3 Nb4 16. a3 Nb6 17. Rb1 Bd4 18. Rf3 Na6 19. Nb5 Bg7 20. b3 Qd7 21. a4 f5
+22. Nc4 fxe4 23. Re3 Rab8 24. Bb2 Rf5 25. Nxb6 Rxb6 26. Bxg7 Kxg7 27. Rxe4 Nb4
+28. Rxb4 1-0

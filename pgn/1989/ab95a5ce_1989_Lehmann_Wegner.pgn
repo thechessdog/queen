@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Wegner"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "ab95a5ce"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. a3 Bxc3+ 8. Nxc3
+dxc4 9. Bxc4 cxd4 10. exd4 Nc6 11. Be3 b6 12. O-O Bb7 13. Rc1 Rc8 14. Ba2 Ne7
+15. Qe2 Nf5 16. Rfd1 Qe7 17. Bb1 Nxe3 18. fxe3 Nd5 19. Nxd5 exd5 20. Qf3 Rfe8
+21. Kf2 Qh4+ 22. Kg1 Qe7 23. Kf2 Qh4+ 1/2-1/2

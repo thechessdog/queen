@@ -1,0 +1,18 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Valenta"]
+[Black "Laurenc"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "3aa1c72f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 Nc6 6. Bd3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Qc2 O-O 10. d5 Ne7 11. e4 Ng6 12. Ne1 Nh5 13. g3 Bh3 14. Ng2
+Qd7 15. Be3 Nhf4 16. gxf4 exf4 17. Bc1 Bxg2 18. Kxg2 Qg4+ 19. Kh1 Qf3+ 20.
+Kg1 Nh4 0-1
+

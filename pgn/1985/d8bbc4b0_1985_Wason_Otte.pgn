@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wason, P."]
+[Black "Otte, H."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "d8bbc4b0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Nc3 Bh4+ 7. Ke2 Nf2
+8. Qe1 g5 9. Nxh4 Nxh1 10. Nf3 Qe7 11. Nd5 Qc5 12. Nf6+ Kf8 13. Bb3 d6 14.
+d4 Qb6 15. Kf1 Nd7 16. exd6 1-0
+

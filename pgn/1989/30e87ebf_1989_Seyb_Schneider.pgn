@@ -1,0 +1,17 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Seyb, Dieter"]
+[Black "Schneider, I."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "30e87ebf"]
+[Epoch "Queen"]
+[WhiteID "4603346"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d6 3. d4 Nd7 4. Nf3 Ngf6 5. e5 dxe5 6. dxe5 Ng8 7. e6 fxe6 8.
+Ng5 Qb6 9. Bd3 Ne5 10. Bxh7 Nf6 11. Bc2 Bd7 12. f4 1-0

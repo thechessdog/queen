@@ -1,0 +1,19 @@
+[Event "Moscow1"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gola, Martin"]
+[Black "Neverov, Valeriy"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6ca31001"]
+[Epoch "Queen"]
+[BlackID "14100150"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be3 c4 7. b3 cxb3 8. axb3
+Bd6 9. Be2 Nge7 10. O-O O-O 11. c4 Bg4 12. c5 Bc7 13. Ra4 Re8 14. Nc3 Nf5 15.
+Bg5 f6 16. Bc1 Rxe2 17. Nxe2 Bxf3 18. gxf3 Nh4 19. Qd3 Qd7 20. f4 Re8 21. f3
+Qh3 22. Rf2 Ba5 23. Kh1 Be1 0-1

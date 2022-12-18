@@ -1,0 +1,21 @@
+[Event "corr ol9"]
+[Site "corr ol9"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Webb"]
+[Black "Soltau"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "bea51f43"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. f4 e6 8. Nf3
+Nd4 9. O-O Ne7 10. Rb1 O-O 11. Ne2 Nxf3+ 12. Bxf3 b6 13. a3 Bb7 14. b4 Qc7
+15. c4 f5 16. Rc1 a6 17. Qd2 Qd7 18. Bg2 Qa4 19. Qc2 Qd7 20. Bf2 a5 21.
+bxa5 bxa5 22. Nc3 Nc6 23. Nb5 Nd4 24. Bxd4 Bxd4+ 25. Nxd4 cxd4 26. exf5
+gxf5 27. Rb1 Bxg2 28. Qxg2 Rfc8 29. Qf2 Qa4 30. Rfe1 Rxb1 31. Rxb1 d5 32.
+cxd5 Qxa3 33. Qe1 Qd6 34. Rb5 exd5 35. Rxa5 Kf7 36. Ra7+ Kg6 37. g4 Qf6 38.
+Qg3 1-0
+

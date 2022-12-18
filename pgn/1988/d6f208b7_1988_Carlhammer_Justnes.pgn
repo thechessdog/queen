@@ -1,0 +1,18 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Carlhammar, Magnus"]
+[Black "Justnes"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "d6f208b7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Ne8 10. b4 f5 11. c5 g5 12. Nc4 Ng6 13. exf5 Bxf5 14. Bg4 Qd7 15. h3
+Nf4 16. Ne3 Bxg4 17. hxg4 Nf6 18. g3 h5 19. gxf4 gxf4 20. Ng2 hxg4 21. Bxf4
+exf4 22. Nxf4 Nh7 23. Nfe2 Ng5 24. Kg2 Qf5 25. Nd4 Bxd4 26. Qxd4 Qf3+ 27. Kg1
+Nh3+ 28. Kh2 Nf4 0-1

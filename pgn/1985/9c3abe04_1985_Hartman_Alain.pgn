@@ -1,0 +1,17 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hartman, Brian"]
+[Black "Alain, Benoit"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "9c3abe04"]
+[Epoch "Queen"]
+[WhiteID "2600200"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 Nge7 7. O-O Qc7 8.
+Ndb5 axb5 9. Nxb5 Qe5 10. Nd6+ 1-0

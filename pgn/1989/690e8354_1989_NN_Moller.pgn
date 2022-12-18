@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Moller"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "690e8354"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. Nxf7 Kxf7 5. Qh5+ g6 6. Qxd5+ Be6 7. Qd3
+Nc6 8. Qf3+ Nf6 9. d3 Nd4 10. Qd1 Bg4 11. Qd2 Re8 12. c3 Nxe4 13. Qh6 Nc2#
+0-1
+

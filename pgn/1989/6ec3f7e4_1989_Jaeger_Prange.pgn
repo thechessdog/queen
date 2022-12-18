@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jaeger"]
+[Black "Prange, Stefan"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange, Trifunovic variation"]
+[HashCode "6ec3f7e4"]
+[Epoch "Queen"]
+[BlackID "4629663"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 d5 4. Bf4 cxd4 5. cxd4 Nc6 6. e3 Bf5 7. Nc3 e6 8. Qb3
+Bb4 9. Bb5 O-O 10. O-O Bxc3 11. Qxc3 Ne4 12. Qa3 Na5 13. Rac1 Qb6 14. Bd3 Rfc8
+15. Bxe4 Bxe4 16. Ne5 1/2-1/2

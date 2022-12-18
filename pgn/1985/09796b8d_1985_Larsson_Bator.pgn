@@ -1,0 +1,24 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Larsson, Per"]
+[Black "Bator, Robert"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[Variation "Venice attack"]
+[HashCode "09796b8d"]
+[Epoch "Queen"]
+[WhiteID "1700529"]
+[BlackID "1700405"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Nbd7 7. Nf5 a6 8.
+Bxd7+ Qxd7 9. Ne3 Qc6 10. Qd3 Be6 11. O-O Rc8 12. Ncd5 Bxd5 13. exd5 Qc5 14. c4
+g6 15. b3 Bh6 16. Bb2 O-O 17. Kh1 Bxe3 18. Qxe3 Qxe3 19. fxe3 Ne4 20. Rfc1 Nf2+
+21. Kg1 Nd3 22. Rc2 Nxb2 23. Rxb2 Rc5 24. Kf2 b5 25. Rc1 Rb8 26. Rbc2 bxc4 27.
+bxc4 f5 28. Kf3 Kf7 29. Ke2 e4 30. Rc3 Kf6 31. Rb3 Rbc8 32. Rb6 Ke5 33. Rxa6
+Rxc4 34. Rxc4 Rxc4 35. Ra7 Rc2+ 36. Kf1 g5 37. h4 f4 38. hxg5 fxe3 39. Rxh7
+Rf2+ 40. Ke1 Rxg2 41. Rb7 Rxg5 0-1

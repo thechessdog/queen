@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schultchen"]
+[Black "Junge"]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "5e334e84"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Bg5 h6 7. Bh4 d5
+8. e3 c6 9. Bd3 Nbd7 10. Nf3 Qa5 11. Qb3 Re8 12. Bg3 Nb6 13. c5 Nbd7 14.
+O-O b6 15. Bc7 Ba6 16. Bxa6 Qxa6 17. cxb6 axb6 18. h3 Rec8 19. Bf4 Qa4 20.
+Qb2 c5 21. Rfc1 Ra5 22. Rcb1 Qc6 23. Qe2 Rca8 24. Qb2 R8a7 25. Ra2 c4 26.
+g4 Ne4 27. Ne5 Nxe5 28. Bxe5 R7a6 29. f3 Nd6 30. Qb4 Rb5 31. Bxd6 Rxb4 32.
+Bxb4 f6 33. Kg2 Kf7 0-1
+

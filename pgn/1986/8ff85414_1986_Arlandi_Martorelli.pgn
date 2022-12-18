@@ -1,0 +1,20 @@
+[Event "ITA-ch46"]
+[Site "Cesenatico"]
+[Date "1986.??.??"]
+[Round "4"]
+[White "Arlandi, Ennio"]
+[Black "Martorelli, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "8ff85414"]
+[Epoch "Queen"]
+[WhiteID "800104"]
+[BlackID "801399"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Re1 b6 13. Nf1 a6 14. f4 Ned7 15.
+Bf3 Rb8 1/2-1/2

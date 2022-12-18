@@ -1,0 +1,24 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Miralles, Gilles"]
+[Black "Norwood, David R"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "854cda07"]
+[Epoch "Queen"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+[BlackID "400106"]
+[BlackCountry "AND"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bc4 Nb6 13. Ba2 Bg4 14. a5 Nd7 15.
+Bc4 b6 16. h3 Bxf3 17. Qxf3 bxa5 18. e5 dxe5 19. f5 e4 20. Qxe4 Nb6 21. Ba2 c4
+22. fxg6 hxg6 23. Bxc4 Re8 24. Qf4 Nxc4 25. Qxc4 Bxc3 26. Qxc3 Nxd5 27. Qf3 f5
+28. Kh1 Nf6 29. b4 Ne4 30. Qb3+ Kg7 31. Bb2+ Kh6 32. Qf7 Ng3+ 33. Kh2 Qe7 34.
+Bc1+ g5 35. Bxg5+ Qxg5 36. Rfc1 Nf1+ 37. Rxf1 Re2 38. Qd5 Rg8 39. Rg1 Qf4+ 40.
+Kh1 Rg3 0-1

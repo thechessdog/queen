@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schultheis"]
+[Black "Graupner"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "7f2a7472"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 c6 6. Be2 O-O 7. O-O Bg4 8.
+Qb3 b6 9. cxd5 cxd5 10. h3 Bxf3 11. Bxf3 e6 12. e4 dxe4 13. Nxe4 Nd5 14.
+Rd1 Nc6 15. Bg5 Qd7 16. Qa4 Rac8 17. Rac1 Ne5 18. Qxd7 Nxd7 19. Nd6 Rxc1
+20. Bxc1 Nb8 21. b3 Rd8 22. Ba3 Nc6 23. Bxd5 exd5 24. Rc1 Nxd4 25. Rc8 Rxc8
+26. Nxc8 Nc6 27. Kf1 Bf8 28. Bd6 Bxd6 29. Nxd6 Kf8 30. Nb5 Ke7 31. Ke2 Ke6
+32. f4 Kf5 33. Kf3 h5 34. g4+ hxg4+ 35. hxg4+ Ke6 36. Ke3 Kd7 37. Kd2 a6
+38. Nc3 Kd6 39. a3 Nd4 40. b4 Nb5 0-1
+

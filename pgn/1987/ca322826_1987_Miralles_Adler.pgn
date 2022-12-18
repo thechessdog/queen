@@ -1,0 +1,24 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Miralles, Gilles"]
+[Black "Adler, Joel"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "ca322826"]
+[Epoch "Queen"]
+[BlackID "1300563"]
+[BlackCountry "SUI"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c6 7. O-O Qa5 8. h3
+Be6 9. Nd2 d5 10. Nb3 Qd8 11. Nc5 Bc8 12. cxd5 cxd5 13. Bg5 Nc6 14. e3 e6 15.
+Rc1 h6 16. Bxf6 Bxf6 17. Nd3 Na5 18. Nf4 Bd7 19. b4 Nc4 20. e4 dxe4 21. Nxe4
+Bb5 22. Qb3 Nb6 23. Rfe1 Qxd4 24. Red1 Qb2 25. Rc2 Qxb3 26. Nxf6+ Kg7 27. N6h5+
+gxh5 28. axb3 Rfc8 29. Nxh5+ Kf8 30. Rdc1 Rxc2 31. Rxc2 Nd5 32. Rc5 a6 33. Bxd5
+exd5 34. Rxd5 Rc8 35. g4 Rc3 36. Ng3 Rxb3 37. Rd4 Rd3 38. Rf4 Rc3 39. Nf5 Rxh3
+40. Kg2 Rd3 41. Nxh6 Bc6+ 1/2-1/2

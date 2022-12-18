@@ -1,0 +1,21 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hazai, Laszlo Dr."]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "249d553f"]
+[Epoch "Queen"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f4 O-O 8. Qf3
+e5 9. Nf5 Bxf5 10. exf5 Qa5 11. O-O-O e4 12. Qe2 Rc8 13. Qb5 Qc7 14. h3 d5 15.
+g4 d4 16. Rxd4 Bc5 17. Kb1 Bxd4 18. Bxd4 Nbd7 19. g5 Nh5 20. g6 hxg6 21. fxg6
+fxg6 22. f5 g5 23. Qb3+ Kh8 24. Nxe4 Qc6 25. Nxg5 Qxh1 26. Nf7+ 1-0

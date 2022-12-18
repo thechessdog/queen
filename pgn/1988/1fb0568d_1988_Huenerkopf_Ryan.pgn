@@ -1,0 +1,21 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Huenerkopf, Heinz"]
+[Black "Ryan, Joseph"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "1fb0568d"]
+[Epoch "Queen"]
+[WhiteID "4603443"]
+[BlackID "2500426"]
+[WhiteCountry "GER"]
+[BlackCountry "IRL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Be2 Be7 14. O-O Ra7
+15. e5 dxe5 16. Bxf6 Bxf6 17. Bh5+ Ke7 18. Qe3 g6 19. Nd5+ exd5 20. Qxa3+ Kf7
+21. Qf3 Bf5 22. Qxf5 1-0

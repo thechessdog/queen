@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Chwir"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "f4c8a867"]
+[Epoch "Queen"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Be2 h5 14. Rb3 Qa5
+15. O-O Be7 16. Be3 Qc7 17. Bb6 Qd7 18. Qg5 Bf8 19. e5 dxe5 20. Ne4 Qf7 21.
+Rxf6 gxf6 22. Nxf6+ Ke7 23. Ng8+ Ke8 24. Qd8# 1-0

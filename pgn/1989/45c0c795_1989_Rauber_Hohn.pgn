@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rauber, Dominik"]
+[Black "Hohn"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "45c0c795"]
+[Epoch "Queen"]
+
+1. Nc3 d5 2. d4 e6 3. Nf3 Bb4 4. Bd2 Ne7 5. e4 O-O 6. Bd3 h6 7. g4 Bxc3 8.
+bxc3 dxe4 9. Bxe4 f5 10. gxf5 exf5 11. Bd3 Nec6 12. Bxh6 gxh6 13. Qd2 Kh7
+14. O-O-O Qd5 15. Ng5+ hxg5 16. Qxg5 Rg8 17. Qh5+ Kg7 18. Rhg1+ Kf8 19.
+Qh6+ Ke8 20. Rde1+ Ne7 21. Qh7 Be6 22. Rxg8+ Nxg8 23. Qxg8+ Kd7 24. Qh7+
+Kd6 25. Qg6 b5 26. Re5 Qxa2 27. Bxf5 Qa1+ 28. Kd2 c6 29. Rxe6+ Kc7 30. Re1
+Qb2 31. Qf7+ Kb6 32. Bc8 b4 33. Qb7+ Ka5 34. Ra1+ Qxa1 35. Qxb4# 1-0
+

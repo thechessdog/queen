@@ -1,0 +1,18 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martin, M."]
+[Black "Estevez Morales, Guillermo"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "495c0616"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bg5 e5 7. Nf5 O-O 8.
+Qf3 Qb6 9. Bd3 d5 10. O-O Bxf5 11. Qxf5 Bxc3 12. bxc3 dxe4 13. Bxf6 exd3 14.
+Bxe5 Nc6 15. cxd3 Nxe5 16. Qxe5 Rfe8 17. Qg3 Rac8 18. d4 Qa5 19. Rfe1 Rxe1+ 20.
+Rxe1 h6 21. h3 Qxa2 22. Qf3 b6 23. Re7 a5 24. Qb7 Rf8 25. Qxb6 Qa1+ 26. Kh2
+Qxc3 27. Ra7 Qd2 28. Rxa5 Qf4+ 29. Kg1 Rb8 30. Ra8 Rxa8 31. g3 Ra1+ 0-1

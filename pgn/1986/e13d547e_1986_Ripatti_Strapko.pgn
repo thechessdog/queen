@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ripatti, M."]
+[Black "Strapko, G."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "e13d547e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 c6 6. e3 h6 7. Bxf6 Bxf6 8.
+Qc2 O-O 9. O-O-O Na6 10. h4 g6 11. Ne5 c5 12. g4 cxd4 13. exd4 Nb4 14. Qd2
+Bg7 15. f4 Nc6 16. Bg2 Ne7 17. h5 b6 18. g5 hxg5 19. hxg6 f6 20. Nf7 Qc7
+21. fxg5 fxg5 22. Qxg5 Bb7 23. Rdf1 1-0
+

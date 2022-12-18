@@ -1,0 +1,20 @@
+[Event "HUN-ch"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Portisch, Ferenc"]
+[Black "Horvath, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "965edf88"]
+[Epoch "Queen"]
+[WhiteID "700487"]
+[BlackID "700061"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. c5
+Bxc3 9. bxc3 Qe7 10. c4 dxc4 11. Bxc4 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Qd4
+Qxd4 15. exd4 Rd8 16. Rd1 Be6 1/2-1/2

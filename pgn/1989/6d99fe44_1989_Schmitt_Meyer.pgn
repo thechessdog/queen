@@ -1,0 +1,15 @@
+[Event "RLPF-ch U17"]
+[Site "B-JEM-SJRP"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Schmitt, M."]
+[Black "Meyer, B."]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "6d99fe44"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 Bb4 4. e5 Ng8 5. Qg4 g6 6. d4 f5 7. Qg3 c5 8. d5 d6
+9. Bg5 Qd7 10. exd6 exd5 11. cxd5 Qg7 12. Qe3+ Kd7 13. Qe6# 1-0

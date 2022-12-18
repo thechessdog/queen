@@ -1,0 +1,22 @@
+[Event "EUCup ZSKA-Sofia"]
+[Site "Sofia tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Grigorov, Jordan N"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0ffdc453"]
+[Epoch "Queen"]
+[WhiteCountry "BLR"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 g6 5. h3 a6 6. Bxc6 dxc6 7. a4 a5 8. O-O
+Bg7 9. d3 O-O 10. Be3 b6 11. Qd2 Ne8 12. Bh6 Nc7 13. Bxg7 Kxg7 14. Ne5 f6 15.
+Ng4 Bxg4 16. hxg4 e5 17. g3 Qd7 18. f3 Ne6 19. Kg2 c4 20. Rad1 cxd3 21. Qxd3
+Qxd3 22. Rxd3 Rad8 23. Rfd1 Rxd3 24. Rxd3 Nd4 25. Rd2 Kf7 26. Nd1 Ke7 27. Ne3
+b5 28. axb5 Nxb5 29. Nc4 a4 30. g5 Ke6 31. gxf6 Rxf6 32. Rd8 Rf7 33. Re8+ Kd7
+34. Rxe5 Nd4 35. Ra5 Ke6 36. f4 Nxc2 37. Rxa4 Rb7 38. Kh3 Rb3 39. Kh4 Nd4 40.
+Ne5 Ne2 1-0

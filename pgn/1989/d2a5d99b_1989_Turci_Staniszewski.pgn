@@ -1,0 +1,19 @@
+[Event "Olomouci"]
+[Site "Olomouci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Turci, Stefano"]
+[Black "Staniszewski, Piotr"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights, Korchnoi variation"]
+[HashCode "d2a5d99b"]
+[Epoch "Queen"]
+[BlackID "1100220"]
+[BlackCountry "POL"]
+[WhiteID "801224"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. d5 Bxc3+ 6. bxc3 d6 7. Bg5 e5 8. Qc2
+Nbd7 9. Nd2 h6 10. Bh4 Nf8 1/2-1/2

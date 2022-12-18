@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kostriza, J."]
+[Black "Silli, A."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "8102104d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 h6 9. N5f3 c5 10. Be3 Qc7 11. c3 Bd6 12. dxc5 Bxc5 13. Bxc5 Qxc5 14.
+Ne5 O-O 15. Ngf3 Bd7 16. Nxd7 Nfxd7 17. O-O Nd5 18. Rad1 Nf4 19. Qe3 Qxe3
+20. fxe3 Nd5 21. Bxd5 exd5 22. Rxd5 Nf6 23. Rd4 Rfe8 24. Re1 Re6 25. Nd2
+Rae8 26. Kf2 g5 27. Nc4 b5 28. Nd2 1-0
+

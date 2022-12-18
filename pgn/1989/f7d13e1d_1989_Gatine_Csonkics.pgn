@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gatine, Aurelia"]
+[Black "Csonkics, Tunde"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "f7d13e1d"]
+[Epoch "Queen"]
+[WhiteID "601993"]
+[BlackID "700576"]
+[WhiteCountry "FRA"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Be7 8. O-O
+O-O 9. f4 Qc7 1/2-1/2

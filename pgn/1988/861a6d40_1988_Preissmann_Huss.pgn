@@ -1,0 +1,25 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Preissmann, Emmanuel"]
+[Black "Huss, Andreas"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "861a6d40"]
+[Epoch "Queen"]
+[WhiteID "1300342"]
+[WhiteCountry "SUI"]
+[BlackID "1300180"]
+[BlackCountry "SUI"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. Qf3
+O-O 9. cxd5 exd5 10. Bxa6 Nxa6 11. O-O c6 12. Bd2 Nc7 13. Rac1 Qd7 14. Rc2 Rac8
+15. Rfc1 Rfe8 16. Na2 Re6 17. Nb4 Ne4 18. Be1 c5 19. dxc5 bxc5 20. Nd3 c4 21.
+Nf4 Rf6 22. Qd1 Nc5 23. Rd2 Rxf4 24. exf4 Qf5 25. Rcc2 Nb3 26. Re2 Qxf4 27. Bd2
+Qf6 28. Rc3 Nd4 29. Re1 Nce6 30. Qa4 Qd8 31. Rce3 Nb3 32. Rxb3 Nc5 33. Qxa7
+Nxb3 34. Bb4 d4 35. Re7 Qd5 36. Qc7 Qf5 37. Qxc4 Na1 38. Qxd4 Nc2 39. Qd2 h6
+40. Bc3 Na1 41. Qd1 Nc2 42. Re5 Qg6 43. Qd7 Rc4 44. h3 Nxa3 45. Re3 Qb1+ 46.
+Kh2 Qc1 47. Re8+ 1-0

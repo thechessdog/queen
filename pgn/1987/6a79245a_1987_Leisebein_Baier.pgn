@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Leisebein"]
+[Black "Baier"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "6a79245a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 f6 7. exf6 Nxf6 8.
+O-O Qd7 9. a3 O-O-O 10. Qa4 Kb8 11. Nbd2 h5 12. b4 h4 13. b5 hxg3 14. bxc6
+gxf2+ 15. Rxf2 Qe8 16. Rb1 b6 17. Nb3 Ne4 18. Nbxd4 Bc5 19. e3 Nxf2 20.
+Kxf2 Bxd4 21. exd4 Bxf3 22. Bf4 Qe2+ 0-1
+

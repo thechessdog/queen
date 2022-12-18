@@ -1,0 +1,23 @@
+[Event "ACM"]
+[Site "ACM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Phoenix"]
+[Black "Mephisto"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "7d2b0ce5"]
+[Epoch "Queen"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Bb5 Nd7 9. Qa4 Rc8 10. Bxc6 Rxc6 11. Qxa7 Qc8 12. Qa5 Ra6 13. Qc7 Qa8 14.
+Ne5 Nxe5 15. Qxe5 f6 16. Qb8+ Qxb8 17. Bxb8 Kf7 18. Bg3 Bb4 19. O-O Bxc3
+20. bxc3 Rc8 21. Rfc1 b5 22. Kf1 Rca8 23. Bf4 h5 24. h3 Bd3+ 25. Kg1 Rc6
+26. Bh2 Ra3 27. g4 h4 28. Bf4 g5 29. Bb8 Ke7 30. Kg2 Rc8 31. Bh2 Rca8 32.
+Kh1 R8a4 33. Bc7 Be4+ 34. Kg1 Ra6 35. Kf1 Bd3+ 36. Kg2 Kd7 37. Bh2 Be4+ 38.
+Kf1 Ra8 39. Kg1 Rc8 40. Kf1 Ke7 41. Kg1 Rc4 42. Bb8 Bd3 43. Kg2 Ra8 44. Bh2
+Rac8 45. Kg1 b4 46. f3 Bg6 47. Kf2 bxc3 48. a4 Rb4 49. Ke1 Rb2 50. Bg1 Bd3
+51. Bf2 Rcb8 52. Rd1 c2 53. Rdc1 Rb1 0-1
+

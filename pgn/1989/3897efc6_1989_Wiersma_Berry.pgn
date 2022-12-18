@@ -1,0 +1,20 @@
+[Event "corr Von Massow mem"]
+[Site "corr Von Massow mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wiersma"]
+[Black "Berry"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "3897efc6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. cxd5 exd5 5. Nc3 Bf5 6. Bf4 Bd6 7. Bxd6 Qxd6
+8. e3 Nd7 9. Be2 Ne7 10. O-O O-O 11. a3 a5 12. Nh4 Be4 13. f3 Bg6 14. e4
+dxe4 15. fxe4 Rad8 16. Nxg6 Nxg6 17. Kh1 b5 18. e5 Qe6 19. Bg4 Qc4 20. Be2
+Qe6 21. Bg4 Qc4 22. Ne2 c5 23. Rc1 Qa2 24. Bxd7 Rxd7 25. Rxc5 Qxb2 26. Rf3
+Qa2 27. Rxb5 a4 28. h3 h5 29. Re3 Rc8 30. Qd3 Ne7 31. Qe4 g6 32. e6 Qxe6
+33. Re5 1-0
+

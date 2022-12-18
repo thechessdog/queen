@@ -1,0 +1,27 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Poleshchuk, Nikolai"]
+[Black "Aulaskari, P."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "d679bc19"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Nxd4 11. Qxd4 Qa5 12. Bc4 Rd8 13. Rhf1 e5 14.
+fxe5 dxe5 15. Qe3 Rxd1+ 16. Rxd1 Bg4 17. Rf1 Be6 18. Bxe6 fxe6 19. Qe2 Qc7
+20. Bxf6 Bxf6 21. Qg4 Bg5+ 22. Kb1 Qc4 23. Qf3 Rd8 24. g3 Be7 25. Rd1 Rd4
+26. Rxd4 exd4 27. Ne2 e5 28. Nc1 Qf7 29. Qxf7+ Kxf7 30. Nd3 Ke6 31. a4 a5
+32. Ka2 Bd6 33. Kb3 Kd7 34. Kc4 Kc6 35. g4 Bc7 36. h4 g6 37. h5 g5 38. Nc5
+Bd6 39. Ne6 Be7 40. Ng7 Bb4 41. Nf5 Bf8 42. b3 b6 43. Ng3 Bb4 44. Nf5 Bf8
+45. Ng3 Bb4 46. Ne2 Be1 47. Ng1 Bb4 48. Nh3 Bd2 49. Nf2 Bb4 50. Nd3 Bd6 51.
+c3 dxc3 52. Kxc3 b5 53. Nb2 Kc5 54. axb5 Kxb5 55. Nc4 Bc7 56. Ne3 Bd6 57.
+Nd5 Kc5 58. Nf6 Kb5 59. Ne8 Bb4+ 60. Kd3 Be7 61. Nc7+ Kc5 62. Kc3 Bd6 63.
+Ne6+ Kb5 64. Nd8 Be7 65. Nf7 Bf8 66. Nxe5 Bg7 67. Kd4 Kb4 68. Kd5 Bxe5 69.
+Kxe5 Kxb3 70. Kf5 a4 71. e5 a3 72. e6 a2 73. e7 a1=Q 74. e8=Q Qf1+ 75. Kg6
+Qa6+ 76. Kg7 Qd6 1-0
+

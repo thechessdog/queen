@@ -1,0 +1,18 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mulder van Leens, D"]
+[Black "Romer"]
+[Result "1-0"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "d439e616"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Nc6 9. Ne2 Bf5 10. Nc3 Qd7 11. Bg3 Nb4 12. Bb5 Nc2+ 13. Qxc2 Qxb5
+14. e4 Qc4 15. exf5 Bxd4 16. O-O-O Bf6 17. Kb1 Rac8 18. fxg6 hxg6 19. Qe4
+1-0
+

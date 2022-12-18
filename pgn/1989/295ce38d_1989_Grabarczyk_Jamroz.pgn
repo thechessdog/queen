@@ -1,0 +1,25 @@
+[Event "Naleczow op"]
+[Site "Naleczow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grabarczyk, Bogdan"]
+[Black "Jamroz, Zbigniew"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "295ce38d"]
+[Epoch "Queen"]
+[WhiteID "1101463"]
+[WhiteCountry "POL"]
+[BlackID "1103539"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nc7 6. Bxc6 dxc6 7. h3 g6 8. d3
+Bg7 9. Be3 b6 10. Qd2 h6 11. O-O-O Be6 12. d4 c4 13. Qe2 Nd5 14. Ne4 b5 15. Bd2
+a5 16. Nc5 Nc7 17. Nh2 Qxd4 18. Nxe6 Nxe6 19. Nf3 Qb6 20. Be3 Qc7 21. Bd4 O-O
+22. Qe4 Rfd8 23. Be3 c5 24. h4 a4 25. a3 Qa5 26. c3 Qc7 27. Rxd8+ Rxd8 28. Rd1
+Rb8 29. Rd5 b4 30. Qxc4 bxa3 31. bxa3 Qb7 32. Nd2 Qb2+ 33. Kd1 Qxa3 34. Bxc5
+Qa1+ 35. Ke2 Nxc5 36. Rxc5 e6 37. h5 gxh5 38. Ra5 Qb2 39. Qc7 Rb5 40. f4 Rxa5
+41. Qxa5 a3 42. Qb4 Qxb4 43. cxb4 a2 44. Nb3 Kf8 45. Kd3 f6 46. b5 Ke7 47. b6
+Kd7 48. f5 1-0

@@ -1,0 +1,20 @@
+[Event "Cannes"]
+[Site "Cannes"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Flear, Christine"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "db5f1e50"]
+[Epoch "Queen"]
+[BlackID "602604"]
+[BlackCountry "FRA"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. Qc2 Nf6 5. Nc3 Nbd7 6. Bg5 Qa5 7. Bd2 dxc4 8. e4
+e5 9. Bxc4 exd4 10. Bxf7+ Kxf7 11. Ng5+ Ke8 12. Nd5 Qc5 13. Nc7+ Ke7 14. Qb3
+1-0

@@ -1,0 +1,19 @@
+[Event "Badenweiler op"]
+[Site "Badenweiler op"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Sonntag, Hans-Hubert"]
+[Black "Kiefer, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "857e6ebf"]
+[Epoch "Queen"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+[WhiteID "4601025"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. a3
+dxc4 9. Bxc4 Bd6 10. e4 e5 11. dxe5 Nxe5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Tirnavia-C"]
+[Site "Trnava"]
+[Date "1989.01.01"]
+[Round "12"]
+[White "Bjerring, Kai"]
+[Black "Kupka, Slavoj"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "1b60a4a0"]
+[Epoch "Queen"]
+[BlackCountry "CZE"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Qc7 13. Ne4 O-O-O 14. Nxf6
+Nxf6 15. Qe2 c5 16. dxc5 Bxc5 17. Ne5 Rd5 18. Nd3 Bd6 19. Kb1 Kb8 20. g4 Rc8
+21. Rc1 Qc4 22. f3 Rb5 23. Nf4 e5 24. Qd3 Rb6 25. Ne2 e4 26. fxe4 Be5 27. b3
+Qxe4 28. g5 Rd6 29. Qe3 hxg5 30. h6 gxh6 31. Rxh6 g4 32. Nf4 Rxd2 0-1

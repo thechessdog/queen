@@ -1,0 +1,19 @@
+[Event "SWZ-ch int"]
+[Site "Biel"]
+[Date "1989.01.01"]
+[Round "12"]
+[White "Klinger, Josef"]
+[Black "Ioseliani, Nana"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "c56a2251"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[WhiteCountry "AUT"]
+[BlackID "13600079"]
+[BlackCountry "GEO"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Nc6 11. e3 Nb4 12. Bxb4 Bxb4 13. a3 1/2-1/2

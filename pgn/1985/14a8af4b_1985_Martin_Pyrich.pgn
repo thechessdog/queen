@@ -1,0 +1,19 @@
+[Event "corr ch-SCO"]
+[Site "corr ch-SCO"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Martin, Benjamin"]
+[Black "Pyrich, G."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "14a8af4b"]
+[Epoch "Queen"]
+[WhiteID "4300050"]
+[WhiteCountry "NZL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nc6 7. h3 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. fxe5 Ne8 11. Bg5 Rd7 12. Bb5 a6 13. Bxc6 bxc6 14. O-O Rb8
+15. Rad1 h6 16. Be3 g5 17. Nd4 Rxb2 18. Na4 Rxa2 19. Nc5 Bxe5 20. Nxd7 Bxd7 21.
+Nf3 1-0

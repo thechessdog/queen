@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Khasin, Abram"]
+[Black "Ikonnikov, Vyacheslav"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "8e6ee62a"]
+[Epoch "Queen"]
+[WhiteID "4103424"]
+[BlackID "4100972"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. g3 e5 2. Bg2 d6 3. c4 g6 4. d4 Nd7 5. Nc3 Bg7 6. Nf3 Ngf6 7. O-O O-O 8. e4
+a6 9. b3 Rb8 10. d5 Nh5 11. b4 Qe8 12. c5 f5 13. cxd6 cxd6 14. Ng5 Ndf6 15. Qb3
+f4 16. b5 a5 17. Ne6 Rf7 18. Ba3 Bf8 19. b6 Bd7 20. Rac1 h6 21. Nc7 Qd8 22. Ne6
+Qe8 23. Rc2 Rc8 24. Nc7 Qd8 25. N3b5 Ne8 26. Rfc1 a4 27. Qxa4 Qf6 28. Qa7 f3
+29. Bf1 Nf4 30. Nxe8 Rxe8 31. gxf4 exf4 32. Nc7 Rxe4 33. Ne6 Ra4 34. Rc4 Qh4
+35. Rxa4 Rf5 36. Rxf4 Rxf4 37. Nxf4 Qxf4 38. Qb8 1-0

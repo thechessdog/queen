@@ -1,0 +1,21 @@
+[Event "Tapolca"]
+[Site "Tapolca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Busch, Klaus"]
+[Black "Levasseur, Philippe"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "5155b87f"]
+[Epoch "Queen"]
+[BlackID "614416"]
+[BlackCountry "FRA"]
+[WhiteID "4600460"]
+[WhiteCountry "GER"]
+
+1. Nf3 d5 2. g3 Nf6 3. c4 g6 4. Bg2 Bg7 5. cxd5 Nxd5 6. d4 O-O 7. O-O c6 8. Nc3
+Re8 9. e4 Nxc3 10. bxc3 Nd7 11. Qb3 e5 12. Ba3 Qb6 13. Qc4 Qc7 14. Rad1 Nb6 15.
+Qb3 Be6 16. d5 cxd5 17. exd5 Bd7 18. d6 Qc4 19. Nd2 Qa6 20. Qb4 Bc6 21. Ne4 Nc4
+22. Bc1 Qa4 23. d7 Red8 24. Qxa4 Bxa4 25. Nc5 Bxd1 26. Rxd1 Nb6 27. Bxb7 Rab8
+28. Bc6 Bf8 29. Na6 Be7 30. Nxb8 Rxb8 31. Be3 f5 32. Bc5 Bd8 33. Bd6 1-0

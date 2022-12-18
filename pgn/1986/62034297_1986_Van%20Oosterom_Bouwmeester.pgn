@@ -1,0 +1,21 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van Oosterom, Jan"]
+[Black "Bouwmeester, Hans"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "62034297"]
+[Epoch "Queen"]
+[BlackID "1000187"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+a6 9. a4 Qc7 10. Kh1 Nc6 11. Be3 Re8 12. Bd3 Bd7 13. Nxc6 bxc6 14. g4 Bc8 15.
+e5 Nd5 16. Qf3 Nxe3 17. Qxe3 Bb7 18. Be4 d5 19. Bg2 Rad8 20. Rad1 Bf8 21. Qg3
+f6 22. exf6 gxf6 23. g5 fxg5 24. Qxg5+ Bg7 25. f5 exf5 26. Qxf5 Re5 27. Qg4 Qe7
+28. Bf3 Bc8 29. Qg2 Bf5 30. Rd2 Kh8 31. Bg4 Bg6 32. Rdf2 Qb4 33. Bf5 Rxf5 34.
+Rxf5 Bxf5 35. Rxf5 Qxb2 36. Nd1 Qd4 0-1

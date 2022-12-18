@@ -1,0 +1,18 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petursson, M."]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "ac17f5db"]
+[Epoch "Queen"]
+[BlackID "1430670"]
+[BlackCountry "DNK"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c3 b6 3. Bg5 e6 4. Nd2 Bb7 5. e3 Be7 6. Ngf3 O-O 7. Bd3 d5 8. h4
+Nbd7 9. Ne5 Ne4 10. Bxe4 dxe4 11. Nxd7 Qxd7 12. Qc2 f6 13. Bf4 Qc6 14. g4 a5
+15. O-O-O a4 16. Rdf1 Ba6 17. Rfg1 Bd3 18. Qd1 Qxc3+ 0-1

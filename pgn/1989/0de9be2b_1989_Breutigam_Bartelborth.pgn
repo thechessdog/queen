@@ -1,0 +1,24 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Breutigam, Martin"]
+[Black "Bartelborth, Thomas"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Nescafe Frappe attack"]
+[HashCode "0de9be2b"]
+[Epoch "Queen"]
+[WhiteID "4601840"]
+[WhiteCountry "GER"]
+[BlackID "4607570"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4
+Ra5 9. Qe2 Ba6 10. a4 bxa3 11. Rxa3 Rxa3 12. bxa3 Nbd7 13. Nf3 Nxe4 14. O-O
+Bxb5 15. Bxb5 Nc3 16. Bxd7+ Qxd7 17. Qa6 f6 18. Bd2 Ne4 19. Rb1 g5 20. Qc6 Qxc6
+21. dxc6 d5 22. Rb8+ Kf7 23. c7 Nd6 24. c8=Q Nxc8 25. Rxc8 e5 26. a4 Rg8 27. a5
+Bd6 28. Rxg8 Kxg8 29. a6 Bb8 30. Ba5 c4 31. Bb6 c3 32. Ne1 Kf7 33. Kf1 Ke6 34.
+a7 Bxa7 35. Bxa7 d4 36. g4 Kd5 37. f3 e4 38. fxe4+ Kxe4 39. Ke2 c2 40. Nd3 f5
+41. gxf5 Kxf5 42. Bxd4 h5 43. Bb2 1-0

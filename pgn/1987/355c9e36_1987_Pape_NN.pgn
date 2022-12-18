@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pape, Rasmus"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "355c9e36"]
+[Epoch "Queen"]
+[WhiteID "1408950"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 e6 5. fxe4 c5 6. d5 Bd6 7. Bg5 h6 8. Bb5+
+Ke7 9. Bxf6+ gxf6 10. Qf3 a6 11. Bc4 b5 12. dxe6 fxe6 13. e5 Bxe5 14. Qxa8 1-0

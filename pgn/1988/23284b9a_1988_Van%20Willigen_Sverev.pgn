@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Willigen, J."]
+[Black "Sverev, A."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "23284b9a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. dxe5 dxe5 6. Ng5 Nh6 7. O-O Be7
+8. Ne6 fxe6 9. Bxh6 Nb6 10. Qh5+ g6 11. Qe2 Nxc4 12. Qxc4 Bf6 13. Nd2 g5
+14. Rad1 Rg8 15. Qe2 Ke7 16. Nc4 Qe8 17. Qe3 b6 18. Qa3+ c5 19. Nxb6 Rb8
+20. Qxc5+ Kf7 21. Qc7+ Kg6 22. Qxb8 axb6 23. Bxg5 Bxg5 24. Qxe5 Qa4 25. Rd3
+Qa5 26. Qxa5 bxa5 27. f4 Bh4 28. Rh3 Bf6 29. Rff3 Bxb2 30. Rfg3+ Kf7 31.
+Rxh7+ Rg7 32. Rhxg7+ Bxg7 33. e5 Bd7 34. Rxg7+ Kxg7 35. Kf2 a4 36. a3 Bc6
+37. g4 Be4 38. c4 Bd3 39. c5 Kf7 40. h4 Ke7 41. h5 Kd7 42. Ke3 Bc2 43. f5
+exf5 44. g5 1-0
+

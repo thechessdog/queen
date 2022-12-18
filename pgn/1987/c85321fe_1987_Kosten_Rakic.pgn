@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kosten, Anthony C."]
+[Black "Rakic"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "c85321fe"]
+[Epoch "Queen"]
+[WhiteID "400114"]
+[WhiteCountry "FRA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be3 c6 7. a4 a5 8. Be2 Na6
+9. O-O Nb4 10. Nd2 Nd7 11. Na2 Nxa2 12. Rxa2 d5 13. e5 c5 14. Nf3 cxd4 15. Bxd4
+Qc7 16. Re1 Nc5 17. Be3 Rd8 18. Ra3 b6 19. Qd4 f6 20. exf6 Bxf6 21. Bf4 Qb7 22.
+Be5 Ne6 23. Qd2 Nc5 24. Bb5 Rf8 25. Bxf6 Rxf6 26. Rae3 e6 27. Ne5 Qg7 28. f3
+Ra7 29. c3 Rc7 30. b4 Nb7 31. Qd4 Nd6 32. Qxb6 Nf5 33. R3e2 Rxc3 34. bxa5 Rf8
+35. a6 Qc7 36. a5 Qxb6+ 37. axb6 Rb3 38. a7 Bb7 39. Ba4 Rb4 40. Ra2 Ra8 41. Nd7
+d4 42. Rxe6 Kf7 43. Bc6 Kxe6 44. Bxb7 Re8 45. Nc5+ Kd6 46. Ne4+ Ke5 47. Bc6
+Rb1+ 48. Kf2 1-0

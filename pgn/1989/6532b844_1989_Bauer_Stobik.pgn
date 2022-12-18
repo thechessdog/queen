@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bauer, Eckart"]
+[Black "Stobik, Dietrich"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "6532b844"]
+[Epoch "Queen"]
+[WhiteID "4616570"]
+[BlackID "4606710"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 f5 5. Qg3 cxd4 6. Nf3 Nc6 7. Bd3 Qa5+ 8. Nbd2
+Nh6 9. O-O Nf7 10. a3 g6 11. Re1 Bg7 12. Nb3 Qc7 13. Bf4 Bh6 14. Bxh6 Nxh6 15.
+Nfxd4 Nxd4 16. Nxd4 O-O 17. b4 Bd7 18. Rac1 Qc3 19. Nb3 b6 20. Qf4 Nf7 21. h4
+a5 22. Re3 axb4 23. Bb5 Qc7 24. Bxd7 Qxd7 25. axb4 Rac8 26. Nd4 Rc4 27. Rb1 Qa4
+28. Reb3 Rfc8 29. Qe3 Qd7 30. Ra1 Qc7 31. Re1 Qxe5 32. Qxe5 Nxe5 33. Nb5 Re4
+34. Ra1 Rxc2 35. g3 Nc6 36. Ra6 Re1+ 37. Kg2 Ree2 38. Rf3 Red2 39. Rxb6 Ne5 0-1

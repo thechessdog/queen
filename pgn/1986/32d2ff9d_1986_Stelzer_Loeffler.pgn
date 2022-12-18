@@ -1,0 +1,18 @@
+[Event "Lauda MA"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Stelzer, Harald"]
+[Black "Loeffler, Stefan"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "32d2ff9d"]
+[Epoch "Queen"]
+[WhiteID "4625706"]
+[WhiteCountry "GER"]
+[BlackID "4603257"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 Ne5 6. Bb3 h6 7. f4 hxg5 8.
+fxe5 Nxe4 9. Qxd4 Nc5 10. Nc3 d6 11. Be3 dxe5 1-0

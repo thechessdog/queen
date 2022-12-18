@@ -1,0 +1,19 @@
+[Event "Netherlands tt"]
+[Site "Netherlands tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Hurk, A."]
+[Black "Schoeber, P."]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "92f3b0b1"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O Nge7 9. Qa4 Kb8 10. b4 Ng6 11. b5 Ncxe5 12. Nxe5 Nxe5 13. Bb2 d3 14.
+Bxe5 dxe2 15. Rfe1 Qxd2 16. Bxc7+ Kxc7 17. Qxa7 Bb4 18. Qxb7+ Kd6 19. c5+
+Ke5 20. Qe4+ Kf6 21. c6 Qd4 22. c7 Qxe4 23. cxd8=Q+ Rxd8 24. Bxe4 Bxe1 25.
+b6 Bc3 0-1
+

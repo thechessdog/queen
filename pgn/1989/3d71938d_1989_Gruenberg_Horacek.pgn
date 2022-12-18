@@ -1,0 +1,16 @@
+[Event "RLNN 8889"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gruenberg, Rainer"]
+[Black "Horacek, H."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "3d71938d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bb5+ Bd7 8.
+Be2 Bg7 9. Nf3 Nc6 10. Rb1 cxd4 11. cxd4 Qa5+ 12. Bd2 Qxa2 13. d5 Ne5 14. Nxe5
+Bxe5 15. Rxb7 e6 16. O-O Ba4 17. Qc1 exd5 18. Bb4 Qxe2 19. Qc5 Bf6 20. Qxd5 1-0

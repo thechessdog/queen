@@ -1,0 +1,18 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mihailov"]
+[Black "Messa, Roberto"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "fa04f94e"]
+[Epoch "Queen"]
+[BlackID "800457"]
+[BlackCountry "ITA"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Be7 4. Bf4 Nf6 5. cxd5 exd5 6. Qb3 Nc6 7. e3 Bf5 8. a3
+Na5 9. Qa4+ c6 10. b4 Nc4 11. Qb3 a5 12. bxa5 Qxa5 13. Bxc4 dxc4 14. Qxc4 Ne4
+15. Ne2 Bb4 16. Rc1 Qxa3 0-1

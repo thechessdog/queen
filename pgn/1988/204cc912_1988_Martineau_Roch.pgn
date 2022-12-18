@@ -1,0 +1,21 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Martineau, Gregory"]
+[Black "Roch, Thierry"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "204cc912"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 e6 5. e4 exd5 6. cxd5 a6 7. a4 g6 8. Nf3
+Bg7 9. Be2 O-O 10. O-O Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. f4 Re8 14. Qf3
+Qc7 15. Nc4 Nb6 16. Nxb6 Qxb6 17. f5 Qb4 18. fxg6 fxg6 19. a5 b5 20. axb6
+Qxb6 21. Bf4 Rf8 22. Qe2 a5 23. Ra4 h5 24. Qb5 Qa7 25. Rfa1 c4+ 26. Kh1 Ng4
+27. Bg3 Bf6 28. Rxa5 Qxa5 29. Rxa5 Rxa5 30. Qxa5 Bxc3 31. Qa1 Bxb2 32. Qb1
+Ne3 33. Kg1 c3 34. Bf2 Rxf2 35. Kxf2 c2 36. Qxb2 Nd1+ 37. Ke2 Nxb2 38. Kd2
+Nc4+ 39. Kxc2 Ne3+ 40. Kd3 Nxg2 41. e5 dxe5 42. d6 Kf7 43. Ke4 Ke6 0-1
+

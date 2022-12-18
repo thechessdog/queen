@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Behr"]
+[Black "Kuspiel"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "caa50fee"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. Bg2 Nxc3 7. bxc3 c5
+8. e3 Qa5 9. Bd2 O-O 10. a4 Nc6 11. Rb1 Qc7 12. Ne2 e5 13. d5 Na5 14. Bc1
+Nc4 15. Qb3 Nd6 16. c4 Bd7 17. Nc3 a6 18. O-O f5 19. Ne2 b5 20. axb5 axb5
+21. cxb5 Bxb5 22. Re1 Rfb8 23. Qc2 Rc8 1/2-1/2
+

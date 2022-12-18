@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Frenkel, Filipp"]
+[Black "Lakdawala, Cyrus"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Steiner variation"]
+[HashCode "0e246173"]
+[Epoch "Queen"]
+[BlackID "2001756"]
+[BlackCountry "USA"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. b3 c5 5. d4 cxd4 6. Qxd4 Nc6 7. Qe4 g6 8. Bb2
+Bg7 9. Qe2 d6 10. exd6 Nd4 11. Qd2 Qxd6 12. Nc3 Bf5 13. O-O-O O-O-O 14. Nb5
+Nxb3+ 15. axb3 Bxb2+ 16. Kxb2 Qxd2+ 0-1

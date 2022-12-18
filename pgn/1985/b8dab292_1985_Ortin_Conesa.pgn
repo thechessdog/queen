@@ -1,0 +1,18 @@
+[Event "Benidorm"]
+[Site "Benidorm"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ortin"]
+[Black "Conesa"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "b8dab292"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Qc7 5. Nf3 cxd4 6. Bd3 Nc6 7. O-O Bd7 8.
+a3 O-O-O 9. c3 f5 10. Qg3 h6 11. h4 g5 12. hxg5 hxg5 13. Nxg5 Nh6 14. cxd4
+Be7 15. Bf4 Rdg8 16. Qe3 Qd8 17. Nf3 Ng4 18. Qd2 Qe8 19. Rc1 Qh5 20. Kf1
+Qh1+ 21. Ke2 Qxg2 22. Rf1 Qxf3+ 23. Kxf3 Nxd4+ 24. Kg3 Ne3+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "Rehberge"]
+[Site "Rehberge"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schoenfeld, Dietmar"]
+[Black "Schulze, Ulrich"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5be5cf08"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nbd7 7. Bf4 c5 8. d5
+a6 9. a4 Rb8 10. Re1 b6 11. Qd2 Qc7 12. Rad1 Ne8 13. Bg5 Qd8 14. Bf1 Nc7 15. e5
+Nxe5 16. Nxe5 Bxe5 17. Rxe5 dxe5 18. Ne4 Ne8 19. d6 Nxd6 20. Qe3 Qc7 21. Nxd6
+exd6 22. Bf6 1-0

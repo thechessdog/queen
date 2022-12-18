@@ -1,0 +1,24 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Tanner, Heinrich"]
+[Black "Lendwai, Reinhard"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "966947b9"]
+[Epoch "Queen"]
+[WhiteID "1301179"]
+[WhiteCountry "SUI"]
+[BlackID "1600176"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Nh6 7. Nf3 O-O 8. O-O f5
+9. Kh1 Bd7 10. Be3 b5 11. Qd2 b4 12. Nd1 Rb8 13. exf5 Nxf5 14. Bf2 Ncd4 15. Ng5
+Qc8 16. c3 bxc3 17. bxc3 Ne6 18. Nxe6 Bxe6 19. Re1 Bd7 20. Ne3 Nxe3 21. Rxe3
+Bf6 22. d4 cxd4 23. cxd4 Bc6 24. Rc1 Bxg2+ 25. Kxg2 Qb7+ 26. d5 Qa6 27. Rc6 Qa4
+28. Qc2 Qa5 29. Qc4 Rb2 30. Rb3 Rxa2 31. Rd3 Rb8 32. Rc8+ Rxc8 33. Qxc8+ Kg7
+34. Qe6 Qb5 35. Rf3 Re2 36. Re3 Rd2 37. g4 h6 38. h4 Bxh4 39. Rf3 Re2 40. Qc8
+Qxd5 0-1

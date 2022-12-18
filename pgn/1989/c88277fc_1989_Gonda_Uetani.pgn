@@ -1,0 +1,20 @@
+[Event "JPN-ch"]
+[Site "Japan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gonda, Gentaro"]
+[Black "Uetani, Toshiaki"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "c88277fc"]
+[Epoch "Queen"]
+[WhiteID "7000065"]
+[WhiteCountry "JPN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bh4 g5 7. Bg3 Nh5 8. O-O-O
+Nxg3 9. hxg3 c6 10. f4 gxf4 11. gxf4 b5 12. Nf3 Qa5 13. Kb1 Nd7 14. e5 b4 15.
+Ne4 d5 16. Ng3 Rb8 17. Nh5 Bf8 18. e6 fxe6 19. Qd3 Kd8 20. Qg6 Rb6 21. Nd2 Ba6
+22. Nb3 Qa4 23. Qxe6 c5 24. Qxd5 Rd6 25. Qa8+ Bc8 26. Qf3 cxd4 27. Nxd4 Ba6 28.
+Qa8+ Bc8 29. Bb5 Nb6 30. Ne6# 1-0

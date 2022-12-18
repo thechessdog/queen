@@ -1,0 +1,22 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Shirazi, Kamran"]
+[Black "Strayer, Geofrey"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "5806aeda"]
+[Epoch "Queen"]
+[WhiteID "2000733"]
+[WhiteCountry "FRA"]
+[BlackID "2001535"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Nd5 4. d4 d6 5. c4 Nb6 6. e6 fxe6 7. d5 exd5 8. cxd5
+Nb4 9. Nc3 Bf5 10. Nd4 Qc8 11. Qf3 g6 12. Bb5+ Bd7 13. Bxd7+ Qxd7 14. a3 Bg7
+15. Ne6 Nc2+ 16. Kd1 Bxc3 17. Qxc3 Qa4 18. Qxc2 Qxc2+ 19. Kxc2 Nxd5 20. Rd1 c6
+21. Rxd5 cxd5 22. Nc7+ Kd7 23. Nxa8 Rxa8 24. Bh6 Rc8+ 25. Kd3 Rc4 26. Be3 a6
+27. Rc1 b5 28. b3 Rxc1 29. Bxc1 e5 30. Be3 d4 31. Bd2 Ke6 32. Ke4 h5 33. f4 1-0

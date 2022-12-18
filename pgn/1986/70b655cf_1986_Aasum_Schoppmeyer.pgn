@@ -1,0 +1,29 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Aasum"]
+[Black "Schoppmeyer"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "70b655cf"]
+[Epoch "Queen"]
+
+1. Nc3 d5 2. f4 Nf6 3. e3 a6 4. a4 c5 5. d3 Nc6 6. Nf3 d4 7. Ne4 Nd5 8.
+exd4 cxd4 9. Qe2 Ndb4 10. c3 dxc3 11. bxc3 Nd5 12. c4 Ndb4 13. Be3 g6 14.
+Bd4 Qxd4 15. Nxd4 Nxd4 16. Qd1 Nbc2+ 17. Kf2 Nxa1 18. Qxa1 Bg7 19. Qb1 O-O
+20. g3 Rb8 21. Nc3 Bf5 22. Bg2 Nc6 23. Ne2 e5 24. h3 exf4 25. g4 Bd7 26.
+Nxf4 Bd4+ 27. Kf1 Ne5 28. Qc2 b5 29. Ne2 Be3 30. axb5 axb5 31. Bd5 Bg5 32.
+Nd4 bxc4 33. dxc4 Bf6 34. Qf2 Bg7 35. Kg2 Rb4 36. Rf1 Be8 37. Qd2 Ra4 38.
+Rc1 Ra3 39. Rc3 Rxc3 40. Qxc3 Nc6 41. Bxc6 Bxc6+ 42. Kf2 Re8 43. Qb2 Be4
+44. Qb6 h6 45. Nb5 Kh7 46. Nc7 Rc8 47. Qd6 Bc2 48. Qd7 Rf8 49. Ne8 Bc3 50.
+Qe7 Kg8 51. Nf6+ Kg7 52. Nd7 Rc8 53. Ke3 Ba4 54. Kd3 Bb2 55. Qb4 Bxd7 56.
+Qxb2+ Kg8 57. Qe5 Be6 58. c5 Re8 59. Qd6 Kg7 60. c6 Rf8 61. c7 Bc8 62. Qd8
+Be6 63. Ke3 Bc8 64. Qe7 Be6 65. Kf4 Bc8 66. Ke5 Be6 67. Qf6+ Kg8 68. Kd6
+Kh7 69. Qd8 Kg7 70. h4 Rg8 71. Ke7 Rh8 72. Qd3 Kh7 73. h5 Rg8 74. hxg6+
+Rxg6 75. Qc2 Bxg4 76. Kxf7 Be6+ 77. Kf8 h5 78. Qe4 Kh6 79. Ke7 Bc8 80. Kf7
+Rg7+ 81. Kf6 Bg4 82. Qe8 Kh7 83. c8=Q Bxc8 84. Qxh5+ Kg8 85. Qe8+ Kh7 86.
+Qxc8 Rg6+ 87. Kf5 Rg7 88. Qe8 Rg1 89. Qh5+ Kg8 90. Qe2 Rg7 91. Qe8+ Kh7 92.
+Kf6 1-0
+

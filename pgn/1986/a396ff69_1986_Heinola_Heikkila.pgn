@@ -1,0 +1,19 @@
+[Event "Vammala"]
+[Site "Vammala"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Heikkila, Antti"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Lasker variation"]
+[HashCode "a396ff69"]
+[Epoch "Queen"]
+[BlackID "504530"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. f4 Nf6 2. Nf3 d5 3. e3 c5 4. b3 e6 5. Bb2 Be7 6. Ne5 O-O 7. Bd3 a6 8. g4 b5
+9. g5 Ne4 10. Qh5 Bb7 11. Rg1 Qe8 12. Bxe4 dxe4 13. Ng4 f6 14. Nh6+ 1-0

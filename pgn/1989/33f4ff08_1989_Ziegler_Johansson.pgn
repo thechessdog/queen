@@ -1,0 +1,21 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ziegler, Ari"]
+[Black "Johansson, Jan"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "33f4ff08"]
+[Epoch "Queen"]
+[WhiteID "1700987"]
+[WhiteCountry "SWE"]
+[BlackID "1700103"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Ng4 9. Be4 f6 10. h3 Nh6 11. Bd5+ Kh8 12. O-O Nf5 13. Bf4 g5 14. Bc1 Ng3 15.
+Rf2 Bf5 16. Kh2 fxe5 17. dxe5 Nxe5 18. Kxg3 c6 19. Nxg5 cxd5 20. Qxd5 Qb6 21.
+Bf4 Ng6 22. Nf7+ Rxf7 23. Qxf7 Be6 24. Nd5 Qxf2+ 0-1

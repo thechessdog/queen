@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andreas, G."]
+[Black "Staude, H."]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "60c6701c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Nxd5 7. Qe2+ Be7
+8. Ne4 O-O 9. Nf3 f5 10. Nf2 Bb4+ 11. Kf1 Re8 12. Qd1 Qe7 13. Bc4 Kh8 14.
+Bxd5 Rd8 15. Ne5 1-0
+

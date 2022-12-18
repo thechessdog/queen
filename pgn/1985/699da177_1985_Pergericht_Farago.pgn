@@ -1,0 +1,19 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1985.??.??"]
+[Round "1"]
+[White "Pergericht, Daniel"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "699da177"]
+[Epoch "Queen"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O
+Nc6 9. e3 Be7 10. exd4 exd4 11. Bf4 O-O 12. Ne5 Qb6 13. Nd2 Nxe5 14. Bxe5 Ng4
+15. Nf3 Nxe5 16. Nxe5 Qxb2 17. Re1 Bf6 18. Bd5 Bxe5 19. Rxe5 d3 20. Re7 Bg4 21.
+f3 Bh3 0-1

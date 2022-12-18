@@ -1,0 +1,25 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Flack"]
+[Black "Nickel"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "962f50ad"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Bd6
+8. h4 h6 9. Nf4 Bxf4 10. Bxf4 Nf6 11. Qd2 Nbd7 12. O-O-O Nb6 13. Bb3 Nfd5
+14. Rde1 Nxf4 15. Qxf4 Nd5 16. Qe5 O-O 17. Ne4 Qb8 18. Nd6 Rd8 19. Nc4 Nb6
+20. Qxb8 Raxb8 21. Ne5 Bh7 22. Rh3 Nd7 23. c3 Nxe5 24. Rxe5 b6 25. Rhe3
+Rbc8 26. Bc4 Rc7 27. b4 Kf8 28. g4 Bg8 29. Bb3 Rdc8 30. f4 c5 31. dxc5 bxc5
+32. b5 Rd8 33. g5 hxg5 34. hxg5 Bh7 35. Rh3 Bf5 36. Rh8+ Ke7 37. Rxd8 Kxd8
+38. a4 f6 39. gxf6 gxf6 40. Re2 Re7 41. Bc2 Bg4 42. Rh2 Kc7 43. a5 f5 44.
+Rh6 Be2 45. Bb3 c4 46. Bc2 Bg4 47. Kd2 Kd6 48. Ke3 Kd5 49. Rh8 e5 50. Rc8
+e4 51. Rh8 Kc5 52. Ba4 Rc7 53. Re8 Rh7 54. Re5+ Kd6 55. Kd4 Kc7 56. Kxc4
+Rh3 57. Bc2 Rf3 58. Kd4 Rxf4 59. Kc5 Rf3 60. b6+ axb6+ 61. axb6+ Kb7 62.
+Re7+ Kb8 63. c4 1-0
+

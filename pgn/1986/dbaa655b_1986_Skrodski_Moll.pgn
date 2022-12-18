@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Skrodski"]
+[Black "Moll"]
+[Result "1-0"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "dbaa655b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Re8 11. Nd2 Qc7 12. Qc2 Nbd7 13. Nc4 Ne5 14. Bf4
+Nxc4 15. Bxc4 Nh5 16. Bd2 Rb8 17. Rae1 Bd7 18. f4 b5 19. Be2 Bd4+ 20. Kh1
+Nf6 21. axb5 axb5 22. Bf3 Ng4 23. Bxg4 Bxg4 24. f5 Qd8 25. Bf4 Qe7 26. fxg6
+hxg6 27. Qd2 f6 28. Qd3 b4 29. Na4 Kg7 30. Qg3 Qd7 31. Bxd6 Rb5 32. e5 fxe5
+33. Bxe5+ Bxe5 34. Rxe5 Rbb8 35. Nxc5 Qb5 36. Rc1 Rbc8 37. Rxe8 Rxe8 38.
+Qc7+ Kh8 39. h3 Bf5 40. Qc6 Qe2 41. Qf6+ Kh7 42. Ne6 Bxe6 43. dxe6 Rxe6 44.
+Rc7+ Kh6 45. Qh8+ Kg5 46. Rc5+ Kf4 47. Qh4+ Ke3 48. Qxb4 Re4 49. Rc3+ Kf2
+50. Qc5+ 1-0
+

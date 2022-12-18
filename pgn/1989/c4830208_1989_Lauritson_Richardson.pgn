@@ -1,0 +1,19 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lauritson"]
+[Black "Richardson"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "c4830208"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. h4 Nh6 10. Qa4 Kb8 11. b3 Bh3 12. Bb2 Bxg2 13. Kxg2 Qg4 14.
+Ba3 Nf5 15. Bxf8 Rdxf8 16. Kh2 Re8 17. Qb5 g5 18. Nxg5 Rxe5 19. c5 Nxg3 20.
+Rfe1 Nxe2 21. Ndf3 Rxg5 22. Nxg5 Nf4 23. Qf1 Qxh4+ 24. Nh3 f5 25. Rad1 Rg8
+26. Rd2 a5 27. a3 Nxh3 28. Qxh3 Qf4+ 29. Kh1 Qxd2 0-1
+

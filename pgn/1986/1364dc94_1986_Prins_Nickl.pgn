@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Prins, Jan"]
+[Black "Nickl, K."]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Herrstroem gambit"]
+[HashCode "1364dc94"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+
+1. Nf3 g5 2. Nxg5 e5 3. Nxf7 Kxf7 4. e4 Qh4 5. Bc4+ Ke8 6. O-O Nf6 7. Qf3 Be7
+8. Nc3 Nc6 9. Nb5 Kd8 10. d3 d6 11. Qe2 a6 12. Nc3 Nd4 13. Qd1 Be6 14. Bxe6
+Nxe6 15. Ne2 Nh5 16. Ng3 Nhf4 17. Nf5 Qg5 18. g3 Qg6 19. Kh1 Rg8 20. Qf3 Nh3
+21. c3 Kd7 0-1

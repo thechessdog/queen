@@ -1,0 +1,22 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eriksson, Mats"]
+[Black "Wiedenkeller, Michael"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "6782afe2"]
+[Epoch "Queen"]
+[WhiteID "1700936"]
+[WhiteCountry "SWE"]
+[BlackID "1700146"]
+[BlackCountry "LUX"]
+
+1. e4 e5 2. f4 Bc5 3. Qh5 Nc6 4. fxe5 g6 5. Qe2 Nxe5 6. c3 Nc6 7. d4 Bf8 8. Nf3
+Bg7 9. Bg5 Nge7 10. Nbd2 d6 11. O-O-O O-O 12. Qf2 f6 13. Be3 d5 14. h4 dxe4 15.
+Nxe4 Bg4 16. Bc4+ Nd5 17. Bf4 Kh8 18. Bd2 Nb6 19. Bd3 Qd5 20. b3 a5 21. h5 gxh5
+22. Ng3 a4 23. c4 Qf7 24. Nf5 axb3 25. axb3 Na5 26. Kc2 Nxb3 27. Nxg7 Nxc4 28.
+Nf5 Ra2+ 29. Kc3 Nbxd2 30. Nxd2 Nxd2 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Berndt"]
+[Black "Kuchelbecker"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "ac6fb81b"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ndf6 6. Nf3 Bg4 7. Be3
+Nxe4 8. Bxe4 Nf6 9. Qd3 Nxe4 10. Qxe4 Bxf3 11. Qxf3 e5 12. O-O-O Qa5 13.
+Kb1 Bd6 14. Qg4 g6 15. Bh6 f5 16. Qh4 Be7 17. Qg3 e4 18. d5 O-O-O 19. dxc6
+bxc6 20. Qb3 Qe5 21. g3 Qf6 22. h4 Rxd1+ 23. Rxd1 Rd8 24. Rxd8+ Bxd8 25.
+Qc4 Qd6 26. Qa6+ Kd7 27. Qxa7+ 1-0
+

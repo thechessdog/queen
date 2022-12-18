@@ -1,0 +1,20 @@
+[Event "Moscow-ch playoff"]
+[Site "Moscow"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gorelov, Sergey G"]
+[Black "Kuzmin, Alexey"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "8c92575d"]
+[Epoch "Queen"]
+[BlackID "4100794"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bf4 Nc6 6. d5 e5 7. dxe6 Bxe6 8. Qd2
+O-O 9. O-O-O Re8 10. Ng5 a6 11. Nxe6 fxe6 12. f3 b5 13. Bh6 Bh8 14. Bg5 Ne5 15.
+h4 Qb8 16. Re1 c5 17. f4 Ned7 18. g4 c4 19. Nd1 Nc5 20. Bg2 Ra7 21. h5 b4 22.
+hxg6 c3 23. Qf2 cxb2+ 24. Kb1 h6 25. Qh4 Nxg4 26. Bf3 Bg7 27. Bxg4 1-0

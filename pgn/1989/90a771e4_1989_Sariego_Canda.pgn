@@ -1,0 +1,22 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Sariego, Wilfredo"]
+[Black "Canda, Danilo"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "90a771e4"]
+[Epoch "Queen"]
+[BlackID "6100015"]
+[BlackCountry "NCA"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 cxd4 5. cxd4 g6 6. Be3 Bg7 7. Nc3 O-O 8. Qd2
+e5 9. Nge2 exd4 10. Bxd4 Nc6 11. Be3 d5 12. exd5 Nb4 13. Bc5 Nbxd5 14. Bxf8
+Bxf8 15. Rd1 Be6 16. Nxd5 Nxd5 17. Nc3 Qb6 18. Nxd5 Bxd5 19. Qxd5 Bb4+ 20. Ke2
+Re8+ 21. Kd3 Rd8 22. Qxd8+ Qxd8+ 23. Kc2 Qb6 24. h4 Qf2+ 25. Kb3 Be7 26. h5 Bf6
+27. Rb1 Qe3+ 28. Kc2 Qc5+ 29. Kb3 a5 30. a3 b5 31. Re1 Kf8 32. Ka2 Qd5+ 33. Kb1
+Qd2 34. Re2 Qd1+ 35. Ka2 b4 36. Re8+ 1-0

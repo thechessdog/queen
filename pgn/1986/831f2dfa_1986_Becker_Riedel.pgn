@@ -1,0 +1,17 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Becker, J."]
+[Black "Riedel"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "831f2dfa"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8.
+hxg5 c5 9. g6 f5 10. Qf4 h6 11. Nf3 Nf8 12. Qg3 cxd4 13. Nxd4 Nc6 14. O-O-O
+Ne7 15. Be2 Nexg6 16. f4 Kf7 17. Bh5 Bd7 18. Nf3 Be8 19. Nh4 1-0
+

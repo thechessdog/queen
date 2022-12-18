@@ -1,0 +1,18 @@
+[Event "OL Wuert8889 "]
+[Site "WURT-MM8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Escher, Thomas"]
+[Black "Bauer, Peter"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "bfe864d6"]
+[Epoch "Queen"]
+[WhiteID "4629787"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. e5 Qb6 11. Bf2 Nef5 12. Rb1 Nxf3+ 13. Bxf3 dxe5 14. Ne4 exf4
+15. g4 Ne3 0-1

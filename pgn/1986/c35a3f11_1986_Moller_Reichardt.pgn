@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Moller"]
+[Black "Reichardt"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sokolsky variation"]
+[HashCode "c35a3f11"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Nbd2 Nxd2 6. Bxd2 Nc6 7. Bb5
+Bd7 8. O-O Nxe5 9. Nxe5 dxe5 10. Qh5 Bd6 11. Bd3 g6 12. Qh6 Bf8 13. Qe3 Bg7
+14. Bb4 b6 15. Rad1 Qc8 16. Be4 Rb8 17. Rxd7 c5 18. Rd6 cxb4 19. Bc6+ Kf8
+20. f4 Qf5 21. Be4 exf4 22. Qd3 Qc5+ 23. Kh1 Bh6 24. Rd7 Kg7 25. g4 Bg5 26.
+h4 Be7 27. Rxf4 Rbd8 28. Qb3 f5 29. Bxf5 gxf5 30. Rxf5 Qc6+ 31. Kh2 Rhf8
+32. Rxe7+ Kh8 33. Qd3 1-0
+

@@ -1,0 +1,17 @@
+[Event "Vosu"]
+[Site "Vosu"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Raud, Rainer"]
+[Black "Takacs, B."]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "3fb3a92d"]
+[Epoch "Queen"]
+[WhiteID "4500091"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr DFM"]
+[Site "corr DFM"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Herbrechtsmeier"]
+[Black "Kern"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "22c09770"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. g4 Be6 10. O-O-O Ne5 11. g5 Nh5 12. f4 Nc4 13. Bxc4 Bxc4 14. b3
+Be6 15. Nce2 Bg4 16. Rhg1 Qc8 17. Rde1 Bxe2 18. Nxe2 a5 19. Bd4 a4 20. Kb1
+axb3 21. cxb3 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Mirotvorsky mem"]
+[Site "Mirotvorsky mem"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Morozov, I."]
+[Black "Ljubomirov, D."]
+[Result "0-1"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[HashCode "6569605b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O Bd3 8.
+Re1 Be7 9. Bc2 Bxc2 10. Qxc2 Nf6 11. d4 Qd7 12. dxe5 dxe5 13. Nbd2 O-O-O
+14. b4 Qd3 15. Qb3 Qf5 16. Nf1 Ng4 17. Ng3 Qg6 18. h3 Nh6 19. Nxe5 Nxe5 20.
+Rxe5 Bd6 21. Rg5 Qf6 22. Ne4 Rhe8 23. f3 Qf8 24. Rd5 Nf5 25. Bg5 Rd7 26.
+Rad1 h6 27. Bf4 g5 28. Bxd6 Nxd6 29. b5 axb5 30. c4 Nxe4 31. fxe4 Rxd5 32.
+cxd5 Qc5+ 33. Kh1 Rxe4 34. d6 cxd6 35. Qg8+ Kd7 36. Qh7+ Re7 37. Qxh6 Re2
+38. Qg7+ Kc6 39. Qf8 Rxa2 40. Qc8+ Kb6 41. Qb8 d5 42. Qd8+ Ka7 43. Qxg5 b4
+44. Qe5 Qc4 45. Kh2 Rxg2+ 46. Kxg2 Qc2+ 47. Kg3 Qxd1 48. Qc7 Qd3+ 49. Kf4
+Qb5 50. Qc1 b3 51. Qb2 Qb4+ 52. Ke5 d4 53. Ke4 Qc4 54. Qa3+ Kb6 0-1
+

@@ -1,0 +1,21 @@
+[Event "Kavala zt"]
+[Site "Kavala"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Skalkotas, Nikolaos"]
+[Black "Soylu, Suat"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "248b758c"]
+[Epoch "Queen"]
+[WhiteID "4200144"]
+[BlackID "6300065"]
+[WhiteCountry "GRE"]
+[BlackCountry "TUR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Re1 Nfg4 13. Nf1 f5 14. h3 Nh6 15.
+Ng3 Rf8 16. exf5 Nxf5 17. Nxf5 Bxf5 18. Be3 Qh4 19. Qd2 Bxh3 20. gxh3 Rf3 21.
+Bf1 Rxh3 22. Bg2 Qg4 23. Kf1 Rf8 24. Qd1 Nf3 25. Bxf3 Rfxf3 26. a5 Rh1+ 0-1

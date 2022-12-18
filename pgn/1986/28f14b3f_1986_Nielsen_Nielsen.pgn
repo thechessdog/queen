@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nielsen, I."]
+[Black "Nielsen, Poul Erik"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "28f14b3f"]
+[Epoch "Queen"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. h3 e5 8. Be3
+exd4 9. Nxd4 Re8 10. Nxc6 bxc6 11. Bf3 Nd7 12. Re1 Rb8 13. Rb1 a5 14. Qd2 Ba6
+15. b3 Ne5 16. Be2 Bxe2 17. Nxe2 Rb4 18. c3 Rb7 19. Nd4 c5 20. Nc2 a4 21. bxa4
+Ra7 22. Qd5 Rxa4 23. Rb7 Nc4 24. Rd1 Qc8 25. Qc6 Rxa2 26. Rxc7 Qe6 27. Ne1 h6
+28. Bf4 Qxe4 29. Qxe4 Rxe4 30. Bxd6 Nxd6 31. Rxc5 Nf5 32. Nd3 Rc2 33. Rc8+ Kh7
+34. Nb4 Rxb4 0-1

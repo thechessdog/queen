@@ -1,0 +1,23 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Levacic, Damir"]
+[Black "Dena, Branislav"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "35494cf6"]
+[Epoch "Queen"]
+[WhiteID "600180"]
+[BlackID "920274"]
+[WhiteCountry "MNC"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 cxd4 6. Qxd4 d6 7. Bg5 Qc7 8.
+O-O e5 9. Qd3 h6 10. Bh4 Ne7 11. c4 Ng6 12. Bg3 Be7 13. Nc3 Be6 14. Rac1 O-O
+15. b4 f5 16. exf5 Bxf5 17. Ne4 Qb7 18. Nfd2 a5 19. a3 axb4 20. axb4 Qxb4 21.
+Rb1 Qa5 22. Rb7 Qa2 23. Rxe7 Nxe7 24. Qxd6 Bxe4 25. Qe6+ Kh7 26. Nxe4 Ng6 27.
+h4 Rae8 28. Qxc6 Rc8 29. Qd7 Rxc4 30. Nd6 Rd4 31. h5 Nf4 32. Qe7 Ne2+ 33. Kh2
+Nxg3 34. Qxf8 Nxf1+ 35. Kg1 Rf4 0-1

@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Poulheim"]
+[Black "Tawast"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a1592d86"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. Bf4 Nf6
+8. Qe2 e5 9. Ng5 Nd4 10. Bxf7+ Ke7 11. Qd2 h6 12. Nd5+ Nxd5 13. Bxd5 Qb6
+14. Nf7 Rh7 15. Nxe5 dxe5 16. Bxe5 Ne6 17. f4 Ke8 18. O-O-O Bc5 19. Qe2 Nc7
+20. Bg8 Rh8 21. Bxc7 Bg4 22. Qxg4 Be3+ 23. Kb1 Qxc7 24. Be6 1-0
+

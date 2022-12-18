@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Fiensch"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "0b2164ff"]
+[Epoch "Queen"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+b5 9. f5 Nc6 10. Nxc6 Qxc6 11. Bxf6 gxf6 12. Bd3 Be7 13. fxe6 fxe6 14. Qh5+ Kd8
+15. e5 Qc5 16. O-O-O Qxe5 17. Qf3 Rb8 18. Rhe1 Qxh2 19. Qc6 Rg8 20. Nd5 exd5
+21. Rxe7 Kxe7 22. Qc7+ Bd7 23. Re1+ Qe5 24. Rxe5+ fxe5 25. Bxh7 Rbc8 26. Qb7
+Rxg2 27. Bf5 Rd8 28. Bxd7 Rxd7 29. Qxd5 Rh2 30. Qc6 Ke6 31. Qc8 e4 32. Qg8+ Kf6
+33. Qg4 Rdh7 34. Qf4+ Kg7 35. Qxe4 Rh1+ 36. Kd2 R1h2+ 37. Kc1 1/2-1/2

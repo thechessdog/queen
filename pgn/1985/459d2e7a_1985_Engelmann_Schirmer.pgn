@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Engelmann, R."]
+[Black "Schirmer, M."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "459d2e7a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. Be3 a6 12. Rac1 Bd7 13. a3 Rc8 14. Nd5
+Nxd5 15. Bxd5 Kh8 16. b4 b5 17. Rc2 Qe8 18. Rdc1 f5 19. exf5 Rxf5 20. Qd3
+Nb8 21. Be4 Rxc2 22. Rxc2 Rh5 23. Rc7 Be6 24. Bd5 Bf5 25. Qc3 Bd7 26. Ba7
+Bf6 27. Rb7 e4 28. Qc7 Bd8 29. Qxd6 exf3 30. Rxb8 Rh6 31. Qxh6 Qe1+ 32. Kh2
+Qe5+ 33. g3 gxh6 34. Rxd8+ Kg7 35. Rxd7+ Kf6 36. Bxf3 Kg6 37. Bd4 1-0
+

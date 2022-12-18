@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bator"]
+[Black "Hervir"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Steinitz variation"]
+[HashCode "a90adc8a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nh3 Bc5 10. Nc3 Qd4 11. O-O O-O 12. d3 Qh4 13. Bf3 g5 14.
+Qe1 g4 15. Qxe5 gxf3 16. Qxc5 Bxh3 17. g3 Qh5 18. Qxh5 Nxh5 19. Bxh6 Bxf1
+20. Bxf8 Bg2 21. Bb4 Nb7 22. Re1 c5 23. Ba3 Rc8 24. Nd5 Kg7 25. b3 Rd8 26.
+c4 Rd7 27. g4 Rxd5 28. cxd5 Nf4 29. h4 Nh3+ 30. Kh2 Nxf2 31. Rc1 Nxd3 32.
+Rd1 Nf2 33. Bb2+ Kg6 34. Rd2 Nxg4+ 35. Kg3 Ne3 36. Rd3 Nf5+ 37. Kh2 Nxh4
+38. Kg1 Nd6 39. Bc3 Nhf5 40. Be5 Kg5 0-1
+

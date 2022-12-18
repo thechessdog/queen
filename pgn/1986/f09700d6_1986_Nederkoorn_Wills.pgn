@@ -1,0 +1,22 @@
+[Event "corr ol10"]
+[Site "corr ol10"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nederkoorn"]
+[Black "Wills"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "f09700d6"]
+[Epoch "Queen"]
+
+1. f4 Nf6 2. Nf3 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 a5 6. b5 a4 7. Na3 d6 8. Rb1
+Nbd7 9. Be2 c5 10. Nc4 d5 11. Nce5 a3 12. Ba1 Ne4 13. Nxd7 Bxd7 14. Bxg7
+Kxg7 15. c4 Bf5 16. Rc1 d4 17. exd4 cxd4 18. Bd3 Nc5 19. Bxf5 gxf5 20. d3
+Qd6 21. g3 Qe6+ 22. Kf2 Qe3+ 23. Kg2 Qxd3 24. Qxd3 Nxd3 25. Rcd1 Nb4 26.
+Nxd4 Nxa2 27. Nxf5+ Kf6 28. Ne3 Nb4 29. Nd5+ Nxd5 30. Rxd5 Rfd8 31. Rxd8
+Rxd8 32. Kf3 Rd4 33. Ra1 Rxc4 34. Rxa3 Rb4 35. Ra5 b6 36. Ra7 h5 37. Rb7
+Rxb5 38. Ke4 e6 39. Kd4 Rb2 40. h3 Rb3 41. g4 Rxh3 42. gxh5 Rxh5 43. Rxb6
+Kf5 44. Rb7 f6 45. Rb5+ Kg4 46. Rb6 Rh1 47. Rxe6 Rd1+ 48. Kc3 f5 49. Kc2
+Rd8 0-1
+

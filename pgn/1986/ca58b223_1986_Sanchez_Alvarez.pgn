@@ -1,0 +1,23 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sanchez, Jose C"]
+[Black "Alvarez, Roberto"]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "ca58b223"]
+[Epoch "Queen"]
+[WhiteID "3917789"]
+[BlackID "111902"]
+[WhiteCountry "VEN"]
+[BlackCountry "ARG"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. d4 Nbd7 7. O-O e5 8. d5
+a5 9. Bg5 Nc5 10. Ne1 h6 11. Bxf6 Qxf6 12. e4 Qe7 13. Nd3 Nxd3 14. Qxd3 f5 15.
+f4 exf4 16. Rxf4 Be5 17. Rf2 Qg7 18. Rd2 f4 19. gxf4 Rxf4 20. Rf1 Rxf1+ 21.
+Qxf1 Bd7 22. Rd3 Bd4+ 23. Kh1 Rf8 24. Rf3 Bg4 25. Rf4 g5 26. Rxf8+ Qxf8 27. Nb5
+Qxf1+ 28. Bxf1 Bb6 29. Kg2 Kf7 30. c5 Bxc5 31. Nxc7 Kf6 32. Ne6 Bb6 33. Kg3 Bd1
+34. Bd3 a4 35. h3 Ke5 36. Kg2 Bd4 37. Nd8 Bxb2 38. Nxb7 Ba3 39. Bb1 0-1

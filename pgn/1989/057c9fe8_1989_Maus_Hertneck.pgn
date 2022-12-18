@@ -1,0 +1,23 @@
+[Event "EUCup qual"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maus, Soenke"]
+[Black "Hertneck, Gerald"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "057c9fe8"]
+[Epoch "Queen"]
+[WhiteID "4600240"]
+[WhiteCountry "GER"]
+[BlackID "4600088"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+Nbc6 9. Qh5 h6 10. Nf3 f5 11. Rg1 c4 12. Be2 Qa5 13. Bd2 Bd7 14. g4 Be8 15. Qh3
+fxg4 16. Rxg4 Nf5 17. Nh4 Nce7 18. Rb1 Rf7 19. Nxf5 Nxf5 20. Rg2 Qxa3 21. Bg4
+Kh7 22. Bxf5+ exf5 23. Bf4 Rc8 24. Kd2 Rc6 25. Rbg1 Qe7 26. Bg5 Qf8 27. Bf6
+gxf6 28. Qxf5+ Kh8 29. e6 Re7 30. Rg8+ Qxg8 31. Qxf6+ Rg7 32. Qxh6+ Qh7 33. Qf6
+Kg8 0-1

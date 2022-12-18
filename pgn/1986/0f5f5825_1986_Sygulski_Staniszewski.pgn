@@ -1,0 +1,23 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sygulski, Artur"]
+[Black "Staniszewski, Piotr"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "0f5f5825"]
+[Epoch "Queen"]
+[WhiteID "1100521"]
+[WhiteCountry "POL"]
+[BlackID "1100220"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. e4 Nxc3 7. bxc3 c5 8.
+Be3 O-O 9. Rc1 Qa5 10. Qd2 Nd7 11. d5 Rd8 12. c4 Qxd2+ 13. Nxd2 e6 14. Be2 exd5
+15. cxd5 b6 16. Bg5 Bf6 17. h4 Kg7 18. g4 h6 19. Be3 g5 20. hxg5 hxg5 21. Nc4
+Be7 22. d6 Bf6 23. Rh5 Re8 24. Bxg5 Rxe4 25. Be3 Bb7 26. g5 Bd4 27. Bd3 Rg4 28.
+Ke2 Be4 29. Bxe4 Rxe4 30. Rch1 Rae8 31. g6 Nf6 32. gxf7 Kxf7 33. d7 Nxh5 34.
+Nd6+ Kg6 35. dxe8=Q+ Rxe8 36. Nxe8 Bxe3 37. Kxe3 1-0

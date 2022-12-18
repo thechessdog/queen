@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gruenberg, Rainer"]
+[Black "Shneider, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "cbabefea"]
+[Epoch "Queen"]
+[WhiteID "4601262"]
+[WhiteCountry "GER"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 O-O 7. O-O d5 8. cxd5
+exd5 9. a3 Bxc3 10. Nxc3 1/2-1/2

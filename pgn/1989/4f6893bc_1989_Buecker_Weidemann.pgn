@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Buecker, Peter"]
+[Black "Weidemann, Jorg"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "4f6893bc"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. c5 b6 7. b4 a5 8. Na4 Ne4
+9. Nf3 bxc5 10. bxc5 f6 11. Bd3 Kf7 12. O-O Bb7 13. Ne1 h6 14. f3 Ng5 15. Be3
+Qc7 16. Qc2 Nc6 17. h4 Nb4 18. Bg6+ Kg8 19. Qf2 Nf7 20. Nd3 Nc6 21. Bf4 e5 22.
+Bg3 Ba6 23. Rfe1 Bxd3 24. Bxd3 Qd8 25. dxe5 fxe5 26. Bb5 Nd4 27. Rab1 Qf6 28.
+Kh1 Rc8 29. Bxe5 Nxe5 30. Qxd4 Nc6 31. Qxd5+ Kh7 32. Bd3+ g6 33. Rb7+ Bg7 34.
+Qc4 Rhe8 35. Rxe8 Rxe8 36. Be4 Qxh4+ 37. Kg1 Qe1+ 38. Qf1 Qe3+ 39. Kh1 Ne5 40.
+c6 Rc8 41. Qb1 Qg5 42. Nb6 Rxc6 43. Bxc6 Qh4+ 44. Kg1 Nxc6 45. Qe4 Qf6 46. Nd5
+Qa1+ 47. Kh2 h5 48. Nf4 1-0

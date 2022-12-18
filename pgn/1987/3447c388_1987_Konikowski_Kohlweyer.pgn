@@ -1,0 +1,24 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Konikowski, Jerzy"]
+[Black "Kohlweyer, Bernd"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "3447c388"]
+[Epoch "Queen"]
+[WhiteID "4601467"]
+[WhiteCountry "GER"]
+[BlackID "4600622"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 Nc6 10. Qd3 b6 11. Rd1 Bb7 12. Qh3 Be7 13. Bf4 Nb4 14. Be5 Rc8 15.
+Bb3 Re8 16. Rac1 Nbd5 17. Ba4 Nxc3 18. Nxc3 Bc6 19. Bc2 g6 20. Bb3 Bf8 21. Bxf6
+Qxf6 22. d5 exd5 23. Bxd5 Bc5 24. Ne4 Qxb2 25. Qf3 Bxd5 26. Nf6+ Kh8 27. Nxd5
+Rcd8 28. Rb1 Qe5 29. g3 Kg7 30. Kg2 Qe4 31. Qxe4 Rxe4 32. Nc3 Rxd1 33. Rxd1 Rc4
+34. Rd3 a6 35. Kf3 Rd4 36. Rxd4 Bxd4 37. Ne4 f5 38. Ng5 Bc5 39. Ke2 h6 40. Nf3
+Kf6 41. Nd2 Ke5 42. f4+ Kd4 43. Nf3+ Kc3 44. Nh4 Kb2 45. Nxg6 Kxa2 0-1

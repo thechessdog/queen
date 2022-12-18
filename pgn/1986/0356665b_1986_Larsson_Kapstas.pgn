@@ -1,0 +1,16 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Larsson, P."]
+[Black "Kapstas, E."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "0356665b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Nf6 7. Nc3 Bb4
+8. Be2 O-O 9. O-O Qd8 10. Bg5 h6 11. Bh4 Be7 12. Rc1 Bg4 0-1
+

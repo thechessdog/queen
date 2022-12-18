@@ -1,0 +1,18 @@
+[Event "corr EU-I"]
+[Site "corr EU-I"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Huber"]
+[Black "Schirmer, Michael"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "ebd847b8"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. b4 c6 2. a4 a5 3. c3 e5 4. Ba3 d5 5. e3 Nf6 6. f3 Bf5 7. d3 axb4 8. Bxb4 Qb6
+9. Bxf8 Qxe3+ 10. Qe2 Qc1+ 11. Kf2 Kxf8 12. Qd2 Qxd2+ 13. Nxd2 Nbd7 14. Nh3 Nc5
+15. Ke3 Rxa4 16. Rxa4 Nxa4 17. c4 d4+ 18. Kf2 Nc5 19. Be2 Nxd3+ 20. Bxd3 Bxd3
+21. Ra1 Ke7 22. Ra7 Rb8 23. c5 Nd7 24. Ra3 Nxc5 25. f4 e4 26. Ng5 e3+ 0-1

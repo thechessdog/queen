@@ -1,0 +1,18 @@
+[Event "Huddersfield"]
+[Site "Huddersfield"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wilkes, T."]
+[Black "Dennison, M."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "fd562f64"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d6 7. Qb3 Qd7
+8. Bc3 Nf6 9. Nbd2 Nd8 10. O-O-O Ne6 11. e5 d5 12. Bb5 c6 13. exf6 cxb5 14.
+Ne4 Qc6 15. Ne5 Qa6 16. Rxd5 g6 17. Bb4 Qa4 18. Qxa4 bxa4 19. Bxf8 Kxf8 20.
+Rhd1 Kg8 21. Rd8+ Nf8 22. Rxf8+ 1-0
+

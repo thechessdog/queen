@@ -1,0 +1,21 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Plogar, S."]
+[Black "Underwood, W."]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "63a0d2cd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d5 6. cxd5 exd5 7. e3 Bf5
+8. f3 Nbd7 9. Ne2 h6 10. Ng3 Bg6 11. a4 c5 12. Ba3 Qc7 13. Be2 O-O 14. O-O
+Rfe8 15. Qd2 a6 16. Rac1 Qa5 17. dxc5 Qxa4 18. Ra1 Qc6 19. c4 Rad8 20. cxd5
+Qxd5 21. Qxd5 Nxd5 22. e4 Ne7 23. Rfd1 Ne5 24. Kf2 N5c6 25. Rd6 Nc8 26.
+Rxd8 Rxd8 27. Rd1 Rxd1 28. Bxd1 f6 29. Ke3 Bf7 30. f4 N8a7 31. Nf5 Nb5 32.
+Bb2 Na5 33. Be2 Nc4+ 34. Bxc4 Bxc4 35. Nd4 Kf7 36. Nxb5 Bxb5 37. Kd4 Ke6
+38. e5 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "2"]
+[White "Godena, Michele"]
+[Black "Kunze, Markus"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4fd33707"]
+[Epoch "Queen"]
+[WhiteID "800090"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 e5 5. Nf3 Nc6 6. dxe5 dxe5 7. Qe2 Be7 8. O-O
+O-O 9. Nbd2 h6 10. Re1 Be6 11. Nf1 Re8 12. Ng3 Bf8 13. h3 a6 14. Nh2 g6 15. Bc2
+c4 16. Qf3 Bg7 17. Be3 Qe7 18. h4 Rad8 1/2-1/2

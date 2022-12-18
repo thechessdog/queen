@@ -1,0 +1,23 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ruehrig, Volkhard"]
+[Black "Zbikowski, Wolfgang"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "e28adf9c"]
+[Epoch "Queen"]
+[BlackID "4605896"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. Nf3 Nf6 5. e4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 a5 11. Ba3 axb4 12. Bxb4 f5 13. a4 fxe4 14. Ndxe4 Nf5 15.
+a5 Nd4 16. Bd3 Rf4 17. Nb5 Nf6 18. f3 Nxe4 19. Bxe4 Bd7 20. Nxd4 exd4 21. Qb3
+Rf8 22. Bd2 Ra7 23. Qd3 Qh4 24. f4 c5 25. Rab1 Bh6 26. g3 Qf6 27. Kg2 Re8 28.
+h3 Bf8 29. g4 Be7 30. g5 Qg7 31. h4 Bd8 32. Ra1 Qe7 33. Rae1 Qg7 34. f5 gxf5
+35. Bxf5 Rxe1 36. Bxe1 Bxa5 37. Bxh7+ Kh8 38. Bg3 b5 39. Bxd6 bxc4 40. Rf8+
+Qxf8 41. Be5+ Qg7 42. Bxg7+ Kxg7 43. Qg6+ Kf8 44. Qf6+ Ke8 45. Bg6# 1-0

@@ -1,0 +1,21 @@
+[Event "Banco di Roma"]
+[Site "Banco di Roma"]
+[Date "1985.01.01"]
+[Round "7"]
+[White "Tatai, Stefano"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "15d26145"]
+[Epoch "Queen"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8. a3
+Bd6 9. dxe5 Bxe5 10. Qxd8 Rxd8 11. e4 h6 12. f3 Nc6 13. Be3 Na5 14. Ba2 Be6 15.
+Bxe6 fxe6 16. Rd1 Nc4 17. Bc1 c5 18. Rxd8+ Rxd8 19. Kf2 Bxc3 20. Nxc3 Nxb2 21.
+Ke2 Nc4 22. a4 Kf7 23. Nb5 a6 24. Na3 Na5 25. Be3 Nd7 26. Rb1 b6 27. Bd2 Nc6
+28. Bc3 e5 29. Nc4 Rb8 30. g3 Ke6 31. f4 b5 32. axb5 axb5 33. Na5 Nxa5 34. Bxa5
+b4 35. Kd3 Kd6 36. Kc4 Kc6 37. Rd1 Ra8 0-1

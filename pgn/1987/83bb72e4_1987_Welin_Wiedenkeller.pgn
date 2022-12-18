@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Welin, Thomas"]
+[Black "Wiedenkeller, Michael"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "Breyer variation"]
+[HashCode "83bb72e4"]
+[Epoch "Queen"]
+[BlackID "1700146"]
+[BlackCountry "LUX"]
+[WhiteID "1700324"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nbd2 g6 5. g3 Bg7 6. Bg2 O-O 7. b3 c5 8. Bb2
+cxd4 9. Nxd4 e5 10. Nc2 d4 11. O-O Nc6 12. b4 Bg4 13. h3 Be6 14. a4 Qd7 15. Kh2
+Rfd8 16. Ra3 Bf8 17. f4 exf4 18. Rxf4 Nh5 19. Rh4 Nxb4 20. Rxd4 Qc7 21. Nxb4
+Rxd4 22. Bxd4 Bxb4 23. Rd3 Rd8 24. Be5 Qa5 25. Nf3 Re8 26. g4 Bxc4 27. gxh5
+Bxd3 28. Qxd3 Rxe5 29. Nxe5 Qxe5+ 30. Qg3 Qxh5 31. Bf3 Qc5 32. Kg2 b6 33. Qb8+
+Kg7 34. Qe8 Qg5+ 35. Kf2 Bc5+ 36. e3 Qh4+ 37. Kg2 Bd6 38. Bg4 0-1

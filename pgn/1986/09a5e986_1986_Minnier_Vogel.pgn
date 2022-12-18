@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Minnier, O."]
+[Black "Vogel, K."]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Stahlberg variation"]
+[HashCode "09a5e986"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Qd2 c5 9. Nf3 Nc6 10. O-O-O c4 11. h4 Rb8 12. Nb5 Nb6 13. g4 Bd7 14. Nd6
+Nc8 15. f5 f6 16. Qf4 fxe5 17. dxe5 Nxd6 18. exd6 Qf6 19. Re1 0-1
+

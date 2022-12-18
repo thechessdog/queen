@@ -1,0 +1,26 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Henley, Ron"]
+[Black "Lewis, James E."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "a0f37eaf"]
+[Epoch "Queen"]
+[WhiteID "2000318"]
+[WhiteCountry "USA"]
+[BlackID "6400086"]
+[BlackCountry "DOM"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 a6 12. a4 Qc7 13. Kh1 c4 14. e5 dxe5 15. Nxc4
+e4 16. Be3 b6 17. Rc1 Bb7 18. d6 Qd8 19. Qb3 Nd5 20. Nxd5 Bxd5 21. Rfd1 Be6 22.
+Qb4 Rb8 23. Bd4 Qh4 24. g3 Qh6 25. Bxg7 Qxg7 26. Ne3 a5 27. Qb5 Rec8 28. Rxc8+
+Rxc8 29. f5 gxf5 30. Nxf5 Bxf5 31. Qxf5 Rd8 32. Bb5 Nc5 33. d7 e3 34. Qf3 Qe5
+35. Re1 Qd4 36. Rxe3 Ne6 37. Re2 Kg7 38. Kg2 Qf6 39. Qd3 Qg6 40. Rf2 Qg5 41.
+Qf3 Qg6 42. Qc3+ Kg8 43. Qe3 Kg7 44. h4 Qh5 45. Qc3+ Kg8 46. Qf6 Qg6 47. Qe7
+Qe4+ 48. Kh2 Qg6 49. Re2 Rf8 50. Rxe6 fxe6 51. Qxf8+ Kxf8 52. d8=Q+ Kg7 53.
+Qd4+ 1-0

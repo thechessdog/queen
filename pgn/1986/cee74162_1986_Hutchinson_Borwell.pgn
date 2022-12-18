@@ -1,0 +1,19 @@
+[Event "corr NBC/86"]
+[Site "corr NBC/86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hutchinson, W."]
+[Black "Borwell, A."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "cee74162"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Nc6 8.
+g5 Nd7 9. Be3 Be7 10. Qd2 Qc7 11. O-O-O b5 12. Nxc6 Qxc6 13. f4 b4 14. Nb1
+a5 15. Bg2 Ba6 16. a3 Rb8 17. axb4 axb4 18. Qd4 Nc5 19. Nd2 b3 20. c3 e5
+21. Qd5 Nd3+ 22. Kb1 Qa4 23. Nxb3 Bc4 24. Qxd3 Bxd3+ 25. Rxd3 Rxb3 26. Re1
+0-1
+

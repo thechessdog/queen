@@ -1,0 +1,15 @@
+[Event "corr Poland"]
+[Site "corr Poland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Adamczak"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "21993038"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. Qe2
+b5 9. Be3 Bb7 10. Bxe6 Nxe4 11. Bxf7+ Kf8 12. Ne6+ 1-0

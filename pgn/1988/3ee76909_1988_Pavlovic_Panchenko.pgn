@@ -1,0 +1,19 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pavlovic, Milos"]
+[Black "Panchenko, Alexander N"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "3ee76909"]
+[Epoch "Queen"]
+[WhiteID "900389"]
+[WhiteCountry "SRB"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 b5 6. cxb5 Bxb5 7. Bg2 Bc6 8. O-O
+Bb7 9. Nc3 Na6 10. Bg5 h6 11. Bxf6 Qxf6 12. Rc1 Ba3 13. Rc2 Qd8 14. e4 O-O 15.
+Ne5 Be7 16. Nc4 Nb4 17. Rc1 d5 18. exd5 Bxd5 1/2-1/2

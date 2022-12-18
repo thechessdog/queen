@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schoups"]
+[Black "Wijns"]
+[Result "0-1"]
+[ECO "E75"]
+[Opening "King's Indian"]
+[Variation "Averbakh, main line"]
+[HashCode "79216b6f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 c5 4. d5 d6 5. e4 Bg7 6. Be2 O-O 7. Bg5 e6 8. Qd2
+Qa5 9. f3 exd5 10. exd5 a6 11. g4 Re8 12. h4 b5 13. h5 Nbd7 14. hxg6 fxg6
+15. Ne4 Qxd2+ 16. Nxd2 h5 17. Bxf6 Nxf6 18. gxh5 Nxh5 19. O-O-O Bf5 20. a3
+Rab8 21. b3 Re3 22. Ne4 Rxb3 23. cxb5 axb5 24. Rd3 c4 25. Rxb3 cxb3 26. Bd3
+Rc8+ 0-1
+

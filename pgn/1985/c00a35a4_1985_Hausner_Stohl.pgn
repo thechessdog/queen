@@ -1,0 +1,19 @@
+[Event "Tirnavia"]
+[Site "Trnava"]
+[Date "1985.01.01"]
+[Round "7"]
+[White "Hausner, Ivan"]
+[Black "Stohl, Igor"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Opovcensky variation"]
+[HashCode "c00a35a4"]
+[Epoch "Queen"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+[BlackID "14900025"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 e6 7. Rc1 Ne4 8. Bd3
+Nxd2 9. Qxd2 Nc6 10. cxd5 exd5 1/2-1/2

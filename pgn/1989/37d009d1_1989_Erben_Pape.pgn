@@ -1,0 +1,20 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Erben"]
+[Black "Pape, R."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "37d009d1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Nf6 6. Bb5+ c6 7. dxc6 O-O
+8. cxb7 Bxb7 9. Nc3 Nbd7 10. Nc4 Bc7 11. Bg5 Nb6 12. Ne3 h6 13. Bh4 a6 14.
+Ba4 Nxa4 15. Nxa4 Rb8 16. Nc3 Ba8 17. Ng4 Bf4 18. Nxf6+ gxf6 19. Bg3 Bc7
+20. Rb1 f5 21. Ne2 Kh7 22. b3 Rg8 23. c4 e3 24. fxe3 Bxg2 25. Rg1 Be4 26.
+Rc1 Qe7 27. Kf2 Rb6 28. Bxc7 Qxc7 29. Nf4 Rbg6 30. Qd2 Rg4 31. Rxg4 fxg4
+32. Kg1 Qe7 33. d5 h5 34. c5 h4 35. d6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bergstrom, Christer"]
+[Black "Wiedenkeller, Michael"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "1ddaba2d"]
+[Epoch "Queen"]
+[BlackID "1700146"]
+[BlackCountry "LUX"]
+[WhiteID "1700154"]
+[WhiteCountry "SWE"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. g3 dxc4 5. Bg2 b5 6. Ne5 Bb7 7. a4 a6 8. b3
+cxb3 9. Qxb3 e6 10. axb5 axb5 11. Rxa8 Bxa8 12. O-O Bd6 13. Qa2 Bb7 14. Qa7 Qc7
+15. Ba3 b4 16. Nc4 O-O 17. Nxd6 Qxd6 18. Qxb7 bxa3 19. Qa7 a2 1/2-1/2

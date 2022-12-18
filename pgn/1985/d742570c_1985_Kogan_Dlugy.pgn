@@ -1,0 +1,19 @@
+[Event "Estes Park ch-USA"]
+[Site "Estes Park ch-USA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kogan, Boris"]
+[Black "Dlugy, Maxim"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "d742570c"]
+[Epoch "Queen"]
+[BlackID "2000075"]
+[BlackCountry "USA"]
+[WhiteID "2804352"]
+[WhiteCountry "ISR"]
+
+1. c4 c5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nc7 6. Qb3 Nc6 7. Bxc6+ bxc6
+8. Qa4 Qd7 9. Nf3 f6 10. d3 e5 11. O-O Nb5 12. Be3 Nd4 13. Bxd4 1/2-1/2

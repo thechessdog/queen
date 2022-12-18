@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Velde, H."]
+[Black "Hallier"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "6561f5f0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6
+8. Be3 Bxe3 9. Qxe3 d6 10. N1d2 Nf6 11. a4 d5 12. e5 Ng4 13. Qg3 Ngxe5 14.
+Qxg7 Nxd3+ 15. cxd3 Rf8 16. O-O Qh4 17. Nf3 Qh5 18. Qg3 Qg6 19. Qc7 Rg8 20.
+g3 Qf6 21. Rac1 Qd8 22. Qf4 Bd7 23. Nc5 Bc8 24. Rfe1 Rg6 25. Nh4 Rg5 26.
+Nf5 1-0
+

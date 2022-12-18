@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gomez Esteban, Juan Mario"]
+[Black "Henao, Raul Fernando"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "e47472f7"]
+[Epoch "Queen"]
+[BlackID "4400054"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. Nc3 O-O 8. Ne5
+e6 9. O-O Nfd7 10. f4 f6 11. Nd3 Nc6 12. e3 Nb6 1/2-1/2

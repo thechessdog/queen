@@ -1,0 +1,27 @@
+[Event "Regional-Liga NN"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Voelzke, Siegfried"]
+[Black "Hohlfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "689191a4"]
+[Epoch "Queen"]
+[WhiteID "4679903"]
+[WhiteCountry "GER"]
+[BlackID "4674111"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 Re8 10. Be3 Qc7 11. Qc2 Nf8 12. Rac1 Be6 13. c5 dxc5 14. dxc5 Rad8 15.
+Rfd1 h6 16. Rxd8 Rxd8 17. Rd1 Rxd1+ 18. Qxd1 N8d7 19. Qa4 a6 20. Bf1 Bf8 21. b4
+Ne8 22. Nd2 f5 23. Bc4 Bxc4 24. Nxc4 Bg7 25. Qd1 Ndf6 26. Nd6 Nxd6 27. cxd6 Qd7
+28. f3 Bf8 29. Bc5 Ne8 30. f4 Bxd6 31. Kg2 Qe6 32. exf5 gxf5 33. Bxd6 Nxd6 34.
+fxe5 Qxe5 35. Qc2 Kg7 36. Qd3 Kf6 37. Qd2 Kg6 38. Qd3 Nb5 39. Nxb5 axb5 40. Qa3
+Qe2+ 41. Kg1 Qe1+ 42. Kg2 Qe2+ 43. Kg1 Qe1+ 44. Kg2 Qd2+ 45. Kg1 Qd1+ 46. Kg2
+Qd2+ 47. Kg1 Qd1+ 48. Kg2 Qc2+ 49. Kg1 Qb1+ 50. Kg2 Qe4+ 51. Kg1 Qd4+ 52. Kg2
+Qd5+ 53. Kg1 Qd4+ 54. Kg2 Kf6 55. Qc1 Ke5 56. a3 Qe4+ 57. Kf2 f4 58. Qc5+ Ke6
+59. g4 Qd3 60. Qf8 Qe3+ 61. Kg2 Qg3+ 0-1

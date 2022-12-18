@@ -1,0 +1,20 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lind, Jan"]
+[Black "Engqvist, Thomas"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "7112a5d9"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Qf3 Ne6 12. Nf5 Nd4 13. Nxd4 exd4 14. Bf4
+Be6 15. Qg3 Rc8 16. Na5 Qd7 17. Nxb7 Rb8 18. Na5 Rxb2 19. Bxc7 Bxa2 20. Rfc1
+Rc8 21. Bf4 Qe6 22. Qh3 Qxh3 23. gxh3 Bb4 24. Nc4 Bxc4 25. dxc4 g5 26. Bg3 a5
+27. Rab1 Rxb1 28. Rxb1 Ra8 29. f3 c5 30. Be1 a4 31. Kf2 Rb8 32. Ke2 a3 33. Bxb4
+Rxb4 34. Ra1 Rxc4 35. Rxa3 Rxc2+ 36. Kd3 Rxh2 37. Kc4 Rc2+ 38. Kd5 Kf7 39. Ra7+
+Kg6 40. Ke6 d3 0-1

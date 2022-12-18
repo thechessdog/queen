@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "c339bf7e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. d4 Bb4 5. Bxf4 O-O 6. Bd3 Re8 7. Ne2 Nxe4 8.
+O-O Bxc3 9. Nxc3 d5 10. Qf3 Nc6 11. Bxc7 Qxc7 12. Nxd5 Nxd4 13. Nxc7 Nxf3+ 14.
+Rxf3 Re7 15. Nxa8 1-0

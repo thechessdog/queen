@@ -1,0 +1,19 @@
+[Event "Ins"]
+[Site "Ins"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Frost, D."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "55a7a2ba"]
+[Epoch "Queen"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. Ne4 c5 8. c3
+cxd4 9. cxd4 dxe5 10. dxe5 Nb6 11. Qxd8 Rxd8 12. Be3 Nc6 13. Bb5 Nd5 14. Bc5
+Nxf4 15. O-O Bf5 16. Bxc6 bxc6 17. Bxe7 Bxe4 18. Bxd8 Rxd8 19. Ng5 Ne2+ 20. Kh1
+Bd5 21. Rae1 Bh6 22. Rxe2 Bxg5 0-1

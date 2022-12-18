@@ -1,0 +1,20 @@
+[Event "Paz e Amizade"]
+[Site "Paz e Amizade"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Santos, Luis"]
+[Black "Fernandes, Antonio"]
+[Result "1/2-1/2"]
+[ECO "D68"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical, 13.d1c2 (Vidmar)"]
+[HashCode "35752a4f"]
+[Epoch "Queen"]
+[WhiteID "1900056"]
+[WhiteCountry "POR"]
+[BlackID "1900021"]
+[BlackCountry "POR"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. Qc2 e4 14. Nd2 Nf6
+15. Rb1 a5 1/2-1/2

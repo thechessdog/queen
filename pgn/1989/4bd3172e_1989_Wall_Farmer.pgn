@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Farmer, Steve"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "4bd3172e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e5 5. fxe5 dxe5 6. d5 Ne7 7. Nf3 f5 8. Bb5+
+Bd7 9. Ng5 O-O 10. O-O fxe4 11. Ngxe4 Bxb5 12. Nxb5 Nf5 13. Bg5 Qd7 14. c4 Na6
+15. Kh1 c6 16. dxc6 Qxc6 17. Ned6 Nxd6 18. Nxd6 Rxf1+ 19. Qxf1 Qxd6 20. Rd1 Qf8
+21. Qd3 Qf5 22. Qd5+ Qf7 23. Qd3 Nc5 24. Qe2 Ne6 25. Rf1 Nf4 0-1

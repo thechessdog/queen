@@ -1,0 +1,26 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Halldorsson, Bragi"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "8ad2db72"]
+[Epoch "Queen"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackID "2300907"]
+[BlackCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Qb3 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 a5 11. a4 Qd6 12. Nb5 Qb4+ 13. Qxb4 axb4 14. d6
+exd6 15. b3 Be6 16. Nc7 Rab8 17. Nxe6 fxe6 18. Bd2 Nbd5 19. O-O Kf7 20. Rfc1
+Rfc8 21. g4 Nc3 22. Nxc3 bxc3 23. Rxc3 Rxc3 24. Bxc3 Nd5 25. Bxd5 exd5 26. Rd1
+h5 27. gxh5 gxh5 28. Kg2 Bf6 29. Kf3 Rc8 30. Rd3 Rg8 31. Ke2 Rg1 32. Rd1 Rg2
+33. h3 Rh2 34. Rd3 Rh1 35. Be1 Rg1 36. a5 Rg8 37. b4 Rc8 38. Bc3 Ke6 39. Rf3 b6
+40. Kd3 bxa5 41. bxa5 Rc6 42. Re3+ Kd7 43. Re1 Rc8 44. Rb1 Bd8 45. Bd2 Rc4 46.
+Ra1 Rc8 47. f4 Ke6 48. Re1+ Kf7 49. Rb1 Ra8 50. Rb5 Ke6 51. f5+ Kxf5 52. Rxd5+
+Ke6 53. Rxh5 d5 54. Rh8 Kd7 1-0

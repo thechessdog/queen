@@ -1,0 +1,15 @@
+[Event "Tuzla"]
+[Site "Tuzla"]
+[Date "1989.01.01"]
+[Round "13"]
+[White "Mujic, Hamza"]
+[Black "Obad, A."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "b70f9c5f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f4
+Qc7 9. f5 Bc4 10. Qf3 Nbd7 11. g4 h6 12. O-O-O b5 13. h4 Rc8 1/2-1/2

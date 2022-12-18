@@ -1,0 +1,17 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Vilela, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "9d0c4b69"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bd2 Bb7 6. e3 O-O 7. Be2 c5 8. O-O
+cxd4 9. exd4 Be7 10. Rc1 d5 11. cxd5 Nxd5 12. Ne5 1/2-1/2

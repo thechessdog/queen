@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "McKone, Peter"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "36a2d42d"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 e5 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8 d6 7. Nd5 Qf7 8.
+Qxg8 1-0

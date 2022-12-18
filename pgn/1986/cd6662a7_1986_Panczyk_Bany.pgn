@@ -1,0 +1,30 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "12"]
+[White "Panczyk, Krzysztof"]
+[Black "Bany, Jerzy"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "cd6662a7"]
+[Epoch "Queen"]
+[WhiteID "1100211"]
+[BlackID "1100084"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Qa5 12. g3 b4 13. Ne4 Ba6 14. b3 Nb6 15.
+Qc2 O-O-O 16. Rd1 Qf5 17. Be2 c5 18. bxc4 Nxc4 19. f3 Bb7 20. Qxc4 Bxe4 21.
+fxe4 Qxg5 22. Qa6+ Kb8 23. Qb5+ Kc8 24. Qc6+ Kb8 25. Qb5+ Kc8 26. Qc6+ Kb8 27.
+e5 Qe3 28. Qb5+ Kc8 29. Qc6+ Kb8 30. Rd3 Qc1+ 31. Kf2 Qb2 32. Qb5+ Kc8 33. Qc6+
+Kb8 34. h4 Rh5 35. Qb5+ Kc8 36. Qc6+ Kb8 37. g4 Rh7 38. Qb5+ Kc8 39. Qc6+ Kb8
+40. h5 Qxa2 41. Qb5+ Kc7 42. dxc5 Rxd3 43. Qxd3 Rh8 44. Rc1 Qb2 45. Rd1 Bxc5+
+46. Kf1 Kb8 47. Rb1 Qa2 48. Qb5+ Bb6 49. Rd1 Qb2 50. Qc6 Rc8 51. Qd6+ Bc7 52.
+Qd4 Bxe5 53. Qxb2 Bxb2 54. Ba6 Rc1 55. Rxc1 Bxc1 56. Ke2 Bg5 57. Kd3 Bxf6 58.
+Kc4 Kc7 59. Kxb4 Kd6 60. Bb5 Bg5 61. Kc4 Ke5 62. Be8 Kf6 63. Kd4 Ke7 64. Ba4
+Kd6 65. Be8 Ke7 66. Ba4 Kf8 67. Ke5 a5 68. Bb5 Kg7 69. Be8 Kf8 70. Bb5 Ke7 71.
+Ba4 Bc1 72. Bb5 Bd2 73. Ba4 Bh6 74. Bb5 f6+ 75. Kd4 Kd6 76. Ba4 e5+ 77. Kc4 e4
+78. Kd4 e3 79. Bd1 Bg5 80. Kd3 Kc5 81. Ba4 Kb4 82. Bd1 a4 83. Bf3 a3 0-1

@@ -1,0 +1,19 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Semkov, Semko"]
+[Black "Spasov, Vasil"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "cc0b7538"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6 12. Bf4 Qb6 13. Bg2 Nc6 14. O-O h6 15.
+b4 g5 16. Be3 Qd8 17. Bc5 b6 18. Nd4 Nxd4 19. Bxd4 Rb8 20. Nd5 Nxd5 21. Bxd5
+Rxd6 22. Qf3 Rxd5 23. Qxd5 d6 24. Bb2 Be7 25. Rfe1 Bf6 26. Qd2 Bb7 27. Re3 Bxb2
+28. Qxb2 Qd7 29. Rae1 Qc6 30. f3 g4 31. Re4 h5 32. Qf6 gxf3 33. Qg5+ Kf8 34.
+Qh6+ Kg8 35. Qg5+ Kf8 36. Qxh5 f2+ 37. Kxf2 Qc2+ 38. R1e2 1-0

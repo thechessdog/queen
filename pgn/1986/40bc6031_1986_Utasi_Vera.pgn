@@ -1,0 +1,18 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Utasi, Tamas"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "40bc6031"]
+[Epoch "Queen"]
+[BlackCountry "CUB"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 c6 4. cxd5 cxd5 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. Ne5 Ndxe5 10. Bxe5 Rc8 11. O-O f6 12. Bg3 a6 13. Bxc6+ Rxc6 14. Rc1 b5
+15. Nb1 Rxc1 16. Qxc1 Bxb1 17. Qxb1 Bd6 1/2-1/2

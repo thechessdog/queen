@@ -1,0 +1,22 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hawelko, Marek"]
+[Black "Titov, German"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "523e3b38"]
+[Epoch "Queen"]
+[WhiteID "1100203"]
+[WhiteCountry "POL"]
+[BlackID "24222674"]
+[BlackCountry "RUS"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 c6 4. Bg5 Nbd7 5. f4 e5 6. dxe5 dxe5 7. fxe5 Nxe5 8.
+Qxd8+ Kxd8 9. O-O-O+ Ke8 10. Nf3 Nxf3 11. gxf3 Be6 12. e5 Nd7 13. f4 Be7 14. h4
+Bc5 15. Bd3 h6 16. f5 Nxe5 17. fxe6 Nxd3+ 18. Rxd3 hxg5 19. Ne4 Be7 20. exf7+
+Kxf7 21. Rf1+ Kg6 22. Rd7 Rae8 23. Nd6 Ref8 24. Rg1 Bf6 25. hxg5 Bxg5+ 26. Kb1
+Rh2 0-1

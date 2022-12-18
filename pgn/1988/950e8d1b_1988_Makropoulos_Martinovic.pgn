@@ -1,0 +1,22 @@
+[Event "Dortmund-B"]
+[Site "Dortmund"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Martinovic, Slobodan"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "950e8d1b"]
+[Epoch "Queen"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 d6 7. a3 Bd7 8. Bd3
+Bc6 9. O-O Nd7 10. Re1 Be7 11. Nbd2 dxe5 12. dxe5 Nc5 13. Be4 Nxe4 14. Nxe4 Nb6
+15. Qe2 Qd5 16. Nc3 Qc4 17. Qxc4 Nxc4 18. Nd4 Rc8 19. b3 Nb6 20. Be3 Nd7 21. f4
+O-O 22. Rec1 a6 23. b4 Rfd8 24. Ra2 Nb8 25. Rac2 Bd7 26. Nb3 Nc6 27. Bb6 Re8
+28. Ne4 Nb8 29. Nbc5 Bc6 30. Nd6 Bxd6 31. exd6 Nd7 32. Nxd7 Bxd7 33. Rc7 Kf8
+34. R1c5 Bc6 35. d7 Rxc7 36. Bxc7 1-0

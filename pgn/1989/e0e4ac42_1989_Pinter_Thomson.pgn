@@ -1,0 +1,23 @@
+[Event "Edinburgh"]
+[Site "Edinburgh"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pinter, Jozsef"]
+[Black "Thomson, Craig S M"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[HashCode "e0e4ac42"]
+[Epoch "Queen"]
+[BlackID "2400081"]
+[BlackCountry "SCO"]
+[WhiteID "700045"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 Bf6 8. Rc1
+Bxd4 9. Nxd4 Nxc3 10. Bxb7 Nxd1 11. Rxd1 e5 12. Nf5 g6 13. Ng7+ Kf8 14. Bh6 Ke7
+15. f4 exf4 16. O-O Nc6 17. Rxf4 f6 18. Re4+ Ne5 19. Bxa8 Qxa8 20. Rxe5+ fxe5
+21. Bg5+ Kf8 22. Rxd7 Qc6 23. Rxc7 Qd6 24. Bh6 Qd4+ 25. Kf1 Qd1+ 26. Kf2 Qd4+
+27. Kf3 Qd1 28. Rxa7 Qf1+ 29. Ke4 Qxe2+ 30. Kd5 Qxh2 31. Ne6+ Ke8 32. Kd6 Qxh6
+33. Re7# 1-0

@@ -1,0 +1,18 @@
+[Event "San Fernando"]
+[Site "San Fernando"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Burgos, J."]
+[Black "Brito, Alfredo"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "c3d754bc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. c3 Nxe4 7. Re1 Nc5
+8. Bxc6 dxc6 9. Nxe5 O-O 10. d4 Nd7 11. Bf4 Nb6 12. Nd2 Be6 13. Ndf3 c5 14.
+b3 Bf5 15. c4 f6 16. dxc5 Bxc5 17. Qxd8 Raxd8 18. Nh4 fxe5 19. Rxe5 Bd4 20.
+Rxf5 Bxa1 21. Rxf8+ Kxf8 0-1
+

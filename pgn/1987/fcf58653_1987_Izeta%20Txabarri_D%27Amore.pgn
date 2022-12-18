@@ -1,0 +1,23 @@
+[Event "Andorra zt"]
+[Site "Andorra zt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Izeta Txabarri, Felix"]
+[Black "D'Amore, Carlo"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fcf58653"]
+[Epoch "Queen"]
+[WhiteID "2200260"]
+[WhiteCountry "ESP"]
+[BlackID "800066"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 Re8 12. f3 b6 13. Nc4 Ba6 14. Bg5 Qd7 15. Qd2
+Bxc4 16. Bxc4 a6 17. Bb3 b5 18. Bc2 b4 19. Nd1 Rab8 20. Bb3 a5 21. Ne3 Rxe4 22.
+Bxf6 Rxe3 23. Qxe3 Bxf6 24. Qd2 Re8 25. Rae1 Rxe1 26. Rxe1 Qf5 27. Re4 Bd4+ 28.
+Kf1 Nxd5 29. Bxd5 Qxd5 30. g4 Qb3 31. Ke2 Qxa4 32. Re7 Bg7 33. Ra7 Qe8+ 34. Kf1
+a4 0-1

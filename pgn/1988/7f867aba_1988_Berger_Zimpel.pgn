@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Berger"]
+[Black "Zimpel"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "7f867aba"]
+[Epoch "Queen"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Be3 Bg4 9. Rb1 O-O 10. Be2 cxd4 11. cxd4 Qa5+ 12. Qd2 Qxd2+ 13. Nxd2
+Bxe2 14. Kxe2 b6 15. Rhc1 Na6 16. Rb3 Rfc8 17. Rxc8+ Rxc8 18. Ra3 Nb4 19.
+Rxa7 e6 20. Nc4 Nc6 21. Rd7 Nxd4+ 22. Bxd4 Rxc4 23. Rd8+ Bf8 24. Bf6 Rc7
+25. Be5 Rc6 26. Bf6 Rc7 27. Kd3 b5 28. Bc3 Rc4 29. a3 e5 30. Bb4 Rxb4 31.
+axb4 Kg7 32. Kc3 1-0
+

@@ -1,0 +1,16 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Komljenovic"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "366eaed2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4 8.
+Qa4+ Nd7 9. Qxc4 c5 10. Qa4 Qc7 11. Qa3 O-O 12. Bxe7 Re8 13. Bh4 b5 14. Rc1 Bb7
+15. e3 Bxf3 16. gxf3 Qf4 17. Bg3 Qxf3 18. Rg1 Rxe3+ 19. Kd2 Re6 0-1

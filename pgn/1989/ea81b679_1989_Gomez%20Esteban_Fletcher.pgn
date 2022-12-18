@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gomez Esteban, Juan Mario"]
+[Black "Fletcher"]
+[Result "1-0"]
+[ECO "A81"]
+[Opening "Dutch defence"]
+[HashCode "ea81b679"]
+[Epoch "Queen"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 d5 5. O-O Bd6 6. c4 c6 7. Bf4 Bxf4 8. gxf4
+O-O 9. e3 b6 10. Ne5 Bb7 11. Nc3 Nbd7 12. cxd5 cxd5 13. Qa4 Nxe5 14. dxe5 Ne4
+15. Rfc1 Rf7 16. Rc2 g5 17. fxg5 Qxg5 18. f4 Nxc3 19. bxc3 Qg6 20. Kh1 Kh8 21.
+Bf3 Rg7 22. Rg2 Qf7 23. Rxg7 Qxg7 24. Rg1 Qc7 25. Qc2 Rc8 26. Qg2 Qf7 27. Qg5
+Rf8 28. Rg3 d4 29. cxd4 Bxf3+ 30. Rxf3 Qb7 31. Qg2 Qe4 32. Rg3 Qb1+ 33. Qg1
+Qxa2 34. h4 Rc8 35. Rg2 Rc2 36. Rg8# 1-0

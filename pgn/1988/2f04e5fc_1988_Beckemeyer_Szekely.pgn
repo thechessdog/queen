@@ -1,0 +1,20 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "?"]
+[White "Beckemeyer, Werne"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "2f04e5fc"]
+[Epoch "Queen"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+[WhiteID "4601408"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. a5 b5 11. axb6 Qxb6 12. Na4 Qc6 13. Qe2 Bb7 14. fxe5 dxe5
+15. Bg5 h6 1/2-1/2

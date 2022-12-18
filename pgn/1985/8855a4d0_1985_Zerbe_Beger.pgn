@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zerbe"]
+[Black "Beger"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "8855a4d0"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e5 4. dxe5 d4 5. Nd5 Be6 6. c4 Bc5 7. Nf3 h6 8.
+Be2 g5 9. O-O Bg4 10. b4 Bxf3 11. Bxf3 Bxb4 12. e6 Bd6 13. Bh5 Kf8 14. Bxf7
+h5 15. f4 g4 16. Bxg8 Kxg8 17. e5 Nxe5 18. fxe5 Bxe5 19. Qd3 Rh7 20. Ba3
+Bxh2+ 21. Kxh2 1-0
+

@@ -1,0 +1,21 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Weill, Roland"]
+[Black "Pytel, Krzysztof"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "cd731821"]
+[Epoch "Queen"]
+[WhiteID "601160"]
+[BlackID "600199"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. Nd1 Bb7 10. Bd3 Qb6 11. c3 cxd4 12. Nxd4 Bc5 13. Nb3 Bxe3 14. Qxe3 Qxe3+ 15.
+Nxe3 g5 16. fxg5 Ncxe5 17. Ke2 Nc4 18. Bxc4 dxc4 19. Nd4 Nc5 20. Rhd1 Ke7 21.
+h4 Be4 22. b3 cxb3 23. axb3 h6 24. gxh6 Rxh6 0-1

@@ -1,0 +1,23 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Thomas, Ian"]
+[Black "Rewitz, Poul"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "ad490272"]
+[Epoch "Queen"]
+[WhiteID "400637"]
+[BlackID "1401033"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb5+ N8d7 9. Nf3 Bg7 10. a4 a6 11. Be2 Nf6 12. Bf4 O-O 13. a5 Nbd5 14. Be5 Bh6
+15. O-O Nf4 16. Bc4 Bg4 17. h3 Bf5 18. Re1 N6h5 19. Qb3 Rc8 20. Ne4 Qd7 21.
+Nfg5 Rxc4 22. Qxc4 Qd5 23. Qxd5 Nxd5 24. g4 Bxe4 25. Nxe4 Nhf4 26. Ra3 Rc8 27.
+g5 Bf8 28. Nc5 f6 29. Bxf4 Nxf4 30. Rb3 e5 31. Nd7 exd4 32. Nxf6+ Kh8 33. Re4
+d3 34. Rxf4 d2 35. Rd4 Rc1+ 36. Kg2 d1=Q 37. Rxd1 Rxd1 38. Rxb7 1-0

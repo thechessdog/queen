@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Laske"]
+[Black "Piotraschke"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "1b8af846"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. h4 h6 9. Nf4 Bf5 10. Nxf5 Qa5+ 11. Bd2 Qxf5 12. Bd3 Qg4 13. f3 Qg3+ 14.
+Kf1 Bd6 15. Ne2 1-0
+

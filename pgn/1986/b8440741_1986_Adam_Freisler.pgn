@@ -1,0 +1,19 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Adam, Pere"]
+[Black "Freisler, Pavel"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "b8440741"]
+[Epoch "Queen"]
+[BlackID "301477"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Nf3 O-O 6. Qe2 c6 7. e5 dxe5 8. dxe5
+Nd5 9. Bd2 Bg4 10. O-O-O e6 11. h3 Bxf3 12. gxf3 Nd7 13. f4 Qh4 14. Nxd5 cxd5
+15. Bb5 Nb6 16. Rdg1 Rfc8 17. Rg2 Nc4 18. Qg4 Qe7 19. Bxc4 Rxc4 20. Rg3 Rac8
+21. Rc3 Rxc3 22. Bxc3 Qc5 23. Rd1 Qxf2 24. Rxd5 h5 0-1

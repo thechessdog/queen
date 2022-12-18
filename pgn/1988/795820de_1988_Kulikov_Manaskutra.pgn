@@ -1,0 +1,17 @@
+[Event "corr USSR"]
+[Site "corr USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kulikov, JA."]
+[Black "Manaskutra"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "795820de"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. d3 d5 7. Ne5 Qf5
+8. f4 Nf6 9. dxe4 Nxe4 10. Nb5 Bc5 11. Nxc7+ Kd8 12. Nxd5 Bf2+ 13. Ke2 Bd7
+14. Kf3 Rf8 15. Bd3 Qxe5 16. Bxe4 Bc5 17. Re1 Qh5+ 18. Kg3 Qg5+ 19. fxg5
+Bf2# 0-1
+

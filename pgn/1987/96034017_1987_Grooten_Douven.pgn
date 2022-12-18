@@ -1,0 +1,23 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Grooten, Herman"]
+[Black "Douven, Rudy"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "96034017"]
+[Epoch "Queen"]
+[BlackID "1000195"]
+[BlackCountry "NED"]
+[WhiteID "1000330"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 d6 8. e3
+Nbd7 9. b4 a5 10. b5 O-O 11. Bb2 Ne4 12. Qc2 f5 13. Be2 Ng5 14. Qd1 Nxf3+ 15.
+Bxf3 Be4 16. O-O Qg5 17. Qe2 Rf6 18. g3 Rh6 19. Bg2 Nf6 20. f3 Qh5 21. Kf2 Qxh2
+22. Rh1 Ng4+ 23. Ke1 Qxh1+ 24. Bxh1 Rxh1+ 25. Kd2 Rh2 26. fxg4 Rxe2+ 27. Kxe2
+fxg4 28. c5 Rf8 29. cxd6 cxd6 30. Rc1 h5 31. a4 h4 32. gxh4 g3 33. Ba3 g2 34.
+Bxd6 Rf1 35. Rxf1 Bd3+ 0-1

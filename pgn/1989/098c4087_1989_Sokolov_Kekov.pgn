@@ -1,0 +1,20 @@
+[Event "ch-URS, leger "]
+[Site "Simferopol"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sokolov, Andrei"]
+[Black "Kekov, Alexandr"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "098c4087"]
+[Epoch "Queen"]
+[BlackID "4119649"]
+[BlackCountry "RUS"]
+[WhiteID "627089"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Nf6 7. Nc3 Nh5 8. Nge2
+Be7 9. Qd3 Bxh4+ 10. Kd1 c6 11. Nxf4 Ng3 12. Rg1 f5 13. Qe3 O-O 14. Bc4+ Kh8
+15. Ng6+ 1-0

@@ -1,0 +1,24 @@
+[Event "Pancevo"]
+[Site "Pancevo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Orlov, Georgi"]
+[Black "Haik, Aldo"]
+[Result "0-1"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Steiner variation"]
+[HashCode "67072f08"]
+[Epoch "Queen"]
+[BlackID "600091"]
+[BlackCountry "FRA"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. Nxc4 e6 8. Qb3
+Na6 9. Bg5 Nb4 10. Rd1 Be7 11. Rd2 a5 12. g3 O-O 13. Bg2 Ne4 14. Nxe4 Bxg5 15.
+Nxg5 Qxg5 16. O-O Rfd8 17. Qe3 Qxe3 18. Nxe3 f6 19. Rfd1 Bf7 20. Bf3 Kf8 21. h4
+Ra6 22. Nc4 Ke7 23. e4 b5 24. axb5 cxb5 25. Na3 Rb6 26. Be2 Be8 27. Rc1 e5 28.
+d5 Kd6 29. f4 Bd7 30. Kf2 Rdb8 31. b3 R6b7 32. Ke3 Ra7 33. Rb2 a4 34. Rc3 f5
+35. bxa4 Rxa4 36. Bd1 fxe4 37. Bxa4 Nxd5+ 38. Kd2 Nxc3 39. Kxc3 Rc8+ 40. Kb4
+bxa4 41. Nc4+ Ke7 42. Re2 Rb8+ 43. Ka5 Be6 44. Na3 Ra8+ 45. Kb4 Rb8+ 46. Ka5
+Ra8+ 47. Kb4 exf4 48. gxf4 Bd5 49. Kc5 Ke6 50. Rb2 Bb3 51. Rg2 Kf5 52. Rxg7 e3
+53. Re7 Be6 54. Kb4 Rc8 0-1

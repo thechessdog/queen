@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fellner, HW."]
+[Black "Niedermann, N."]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "71296918"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. g4 c5 7. g5 Ne8 8. d5
+e6 9. h4 exd5 10. cxd5 f5 11. h5 f4 12. hxg6 hxg6 13. Bg4 Na6 14. Bxc8 Rxc8
+15. Qg4 Nec7 16. Bxf4 Qe7 17. Nge2 Bxc3+ 18. bxc3 Rcd8 19. Be3 Rf7 20. Kd2
+b5 21. Rh6 Kg7 22. Rah1 Qe5 23. Bf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bettendorf, H."]
+[Black "Leigemann, L."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "03677bff"]
+[Epoch "Queen"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 Nf6 5. d3 d6 6. g3 Be7 7. Bg2 O-O 8.
+O-O b5 9. e5 Ne8 10. Nc3 b4 11. exd6 Nxd6 12. Ne4 Nf5 13. Qf2 Qb6 14. Ne5
+Nxe5 15. fxe5 Bb7 16. g4 Nh4 17. Nf6+ Bxf6 18. Bxb7 Qxb7 19. exf6 Ng6 20.
+fxg7 1-0
+

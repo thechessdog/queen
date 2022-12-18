@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Farmer, Steve"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "a215339a"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. b3 e5 2. Bb2 Nc6 3. d3 Bb4+ 4. Nd2 d6 5. f4 Qh4+ 6. g3 Qf6 7. Nf3 Nge7 8.
+Bg2 Bg4 9. O-O O-O 10. fxe5 dxe5 11. Nxe5 Qd6 12. Nxg4 1-0

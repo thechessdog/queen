@@ -1,0 +1,19 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krainski, Aleksander"]
+[Black "Sajko, Czeslaw"]
+[Result "0-1"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "91902c7b"]
+[Epoch "Queen"]
+[WhiteID "1102400"]
+[WhiteCountry "POL"]
+[BlackID "1102885"]
+[BlackCountry "POL"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. cxd5 Nxd5 7. d4 Nb6 8.
+Nc3 Nc6 9. d5 Na5 10. e4 c6 11. dxc6 Nxc6 12. h3 Be6 13. Re1 Nb4 14. e5 Qc8 15.
+Kh2 Rd8 16. Qe2 Bc4 17. Qe4 Nd3 18. Rf1 Nc5 0-1

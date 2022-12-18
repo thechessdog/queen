@@ -1,0 +1,23 @@
+[Event "Poznan-B"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "9"]
+[White "Jezierski, Piotr"]
+[Black "Soltys, Bogdan"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation, 4...Bg4"]
+[HashCode "42aa832b"]
+[Epoch "Queen"]
+[BlackID "1101404"]
+[BlackCountry "POL"]
+[WhiteID "1101080"]
+[WhiteCountry "POL"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O a6 7. h3 Bxf3 8. Bxf3
+dxe5 9. dxe5 c6 10. Qe2 Nd7 11. c4 Ne7 12. Bg4 h5 13. Bxh5 Nf5 14. Rd1 Bc5 15.
+Bg4 Nh6 16. Nc3 Qc7 17. Bf4 O-O-O 18. Ne4 Kb8 19. Bxh6 gxh6 20. Nxc5 Nxc5 21.
+f4 Rxd1+ 22. Rxd1 Rd8 23. Kh2 f5 24. Bf3 Rxd1 25. Qxd1 Qb6 26. Qd6+ Ka7 27. Qd4
+a5 28. g4 fxg4 29. hxg4 Ka6 30. f5 exf5 31. gxf5 Qb4 32. e6 b6 33. e7 Qe1 34.
+f6 Qe6 35. Bh5 1-0

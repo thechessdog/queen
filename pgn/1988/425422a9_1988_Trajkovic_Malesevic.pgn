@@ -1,0 +1,21 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Trajkovic, Predrag"]
+[Black "Malesevic, Nedeljko"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "425422a9"]
+[Epoch "Queen"]
+[WhiteID "915874"]
+[WhiteCountry "SRB"]
+[BlackID "1703447"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. Nc3 e6 3. e4 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 h6 7. Bxe7 Qxe7 8. Qg4
+O-O 9. Nf3 f5 10. Qf4 c5 11. O-O-O a6 12. Ne2 Re8 13. g4 fxg4 14. Qxg4 c4 15.
+Rg1 Nc6 16. Bh3 Qf7 17. Qg6 Nf8 18. Qxh6 Re7 19. Qe3 Qh5 20. Nf4 Qh6 21. Nxd5
+exd5 22. Qxh6 1-0

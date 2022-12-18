@@ -1,0 +1,19 @@
+[Event "Jurmala"]
+[Site "Jurmala"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bagirov, Vladimir"]
+[Black "Arnason, Jon L"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "86e96782"]
+[Epoch "Queen"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bxc3+ 8.
+bxc3 c5 9. Ne2 b6 10. O-O Qc7 11. Bd3 Bb7 12. f3 e5 13. e4 Nbd7 14. Be3 Rfd8
+15. d5 1/2-1/2

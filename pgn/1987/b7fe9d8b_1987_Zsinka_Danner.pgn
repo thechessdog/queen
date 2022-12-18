@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "12"]
+[White "Zsinka, Laszlo"]
+[Black "Danner, Georg"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "b7fe9d8b"]
+[Epoch "Queen"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 Bd7 9. Nc3 O-O-O 10. Be3 Ne7 11. f4 Ng6 12. Rad1 Be7 13. Rfe1 Rhe8
+1/2-1/2

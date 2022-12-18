@@ -1,0 +1,25 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Anastasian, Ashot"]
+[Black "Peev, Peicho Chonev"]
+[Result "0-1"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "cb611d3c"]
+[Epoch "Queen"]
+[BlackCountry "BGR"]
+[WhiteCountry "ARM"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c5 6. d4 Nc6 7. O-O d6 8. dxc5
+dxc5 9. Be3 Be6 10. Qa4 Nd7 11. Rfd1 Qc8 12. Nd5 Re8 13. Rd2 Bf5 14. Rc1 e6 15.
+Nc3 e5 16. Nb5 Bf8 17. Ng5 Nb6 18. Qd1 Nd4 19. b3 a6 20. Nc3 h6 21. Nge4 Kg7
+22. Nd5 Nxd5 23. cxd5 Bxe4 24. Bxe4 Qd7 25. b4 b6 26. bxc5 bxc5 27. Rb2 Rab8
+28. Rcb1 Rxb2 29. Rxb2 Kg8 30. Qc1 h5 31. Qc4 Nb5 32. Qa4 Qd6 33. Rc2 Rc8 34.
+Bd3 Qxd5 35. Qxa6 Nd6 36. Rd2 Qc6 37. Qxc6 Rxc6 38. Rc2 c4 39. Rc1 Rc8 40. Bc2
+Nb5 41. a4 Nc3 42. Kf1 Ba3 43. Re1 Nd5 44. Bc1 Nb4 45. Be4 Bxc1 46. Rxc1 c3 47.
+a5 Rc5 48. Bb7 Na2 49. Rc2 Rxa5 50. e4 Ra3 51. Bd5 Nb4 52. Rc1 Kf8 53. Ke2 Ke7
+54. Bc4 f6 55. h4 c2 56. Kd2 Rf3 57. Rf1 Kd6 58. Bf7 Kc5 59. Ke2 Rc3 60. Rc1
+Kd4 0-1

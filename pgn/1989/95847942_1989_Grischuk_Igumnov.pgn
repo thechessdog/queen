@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grischuk"]
+[Black "Igumnov"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "95847942"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. d6 cxd6 10. Kxf2 Bg4 11. Qf1 O-O-O 12. Nf7 Rf8 13. Na3 d5
+14. Bxd5 Nxd5 15. Qc4+ Nc7 16. Rf1 Rxf7+ 17. Kg3 Nf5+ 18. Kxg4 Qh4+ 19. Kf3
+Nd6+ 0-1
+

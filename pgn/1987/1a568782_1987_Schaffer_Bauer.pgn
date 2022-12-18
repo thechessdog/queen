@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schaffer"]
+[Black "Bauer"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "1a568782"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 Nf6 6. Nc3 Bb4 7. Bd2 O-O
+8. Bd3 Bxc3 9. Bxc3 d5 10. exd5 Qxd5 11. O-O b6 12. Qe2 Re8 13. Rad1 Qb7
+14. h3 Nbd7 15. a4 Qc6 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chadwick"]
+[Black "Kuehnel, G."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Paulsen attack"]
+[HashCode "7918a662"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 g6 7. d4 Bg7
+8. Be2 O-O 9. O-O Nd7 10. Bf3 Nb6 11. Na5 c6 12. Nb3 Bf5 13. Bf4 Re8 14. a4
+Be4 15. Bg3 Nd5 16. Qd2 Bxf3 17. gxf3 Qf6 18. c4 Ne7 19. Qf4 Nf5 20. Qd2 h5
+21. Rad1 Bh6 22. Qb4 h4 23. Qxb7 hxg3 24. hxg3 Rac8 25. Rfe1 Nxg3 26. Rxe8+
+Rxe8 27. Qxc6 Ne2+ 28. Kf1 Qe6 29. Kg2 Nf4+ 30. Kg1 Qh3 0-1
+

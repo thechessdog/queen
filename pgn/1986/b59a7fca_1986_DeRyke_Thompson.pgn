@@ -1,0 +1,20 @@
+[Event "Kalamazoo WMU op"]
+[Site "Kalamazoo WMU op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "DeRyke, S."]
+[Black "Thompson, D."]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "b59a7fca"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Rxe5 Nxe5 11. Nxe5 c5 12. Bc2 Bd6 13. Bxh7+ Kxh7 14.
+Qh5+ Kg8 15. Ng6 fxg6 16. Qxd5+ Kh7 17. Qxa8 Bxh2+ 18. Kxh2 Qh4+ 19. Kg1
+Qxf2+ 20. Kh2 Qh4+ 21. Kg1 Qe1+ 22. Kh2 Qxc1 23. Qe4 Qxb2 24. d4 cxd4 25.
+Nd2 Qxa1 26. Qh4+ Kg8 27. Ne4 Qf1 28. Qe7 dxc3 29. Nxc3 Qf4+ 30. g3 Qf2+
+31. Kh1 Qf1+ 32. Kh2 Rf2# 0-1
+

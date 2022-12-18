@@ -1,0 +1,19 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Blachmann"]
+[Black "Klompus, G."]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "f55de086"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Bg5 Na5 10. Bb3 b6 11. Qd3 Qd7 12. O-O e6 13. Rad1 Nxb3 14.
+axb3 f5 15. c4 Bb7 16. f3 fxe4 17. fxe4 Rxf1+ 18. Rxf1 a5 19. d5 exd5 20.
+exd5 a4 21. Bf6 Bxf6 22. Rxf6 axb3 23. Qxb3 Qe7 24. Re6 Qf8 25. h3 Bc8 26.
+Re3 Bf5 27. Qc3 Re8 28. Nd4 Rxe3 29. Qxe3 Bd7 30. Ne6 Qe7 31. Qg5 1/2-1/2
+

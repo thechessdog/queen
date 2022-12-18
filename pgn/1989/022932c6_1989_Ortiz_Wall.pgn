@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ortiz"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "022932c6"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. e3 h6 5. Bh4 Bd6 6. Nf3 g5 7. Bg3 Bxg3 8. fxg3
+c6 9. Qd2 Qc7 10. O-O-O b5 11. Bd3 b4 12. Na4 Qa5 13. b3 Bd7 14. Ne5 c5 15.
+Nxd7 Nbxd7 16. Kb1 c4 17. Be2 Ne4 18. Qe1 Nb6 19. Kc1 Nxa4 20. bxa4 Qxa4 21.
+Bf3 Qa3+ 0-1

@@ -1,0 +1,18 @@
+[Event "San Antonio"]
+[Site "San Antonio"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sewell"]
+[Black "Capps"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "8e8c92bd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. Be2 Nxe4 9. d3 Bh4 10. dxe4 Qc5 11. g3 Bh3+ 12. Ke1 Bf6 13. Qxd5 Qf8
+14. Bh5+ g6 15. Nxg6 hxg6 16. Bxg6+ Ke7 17. Be3 Nd4 18. Bxd4 Qh6 19. Bc5#
+1-0
+

@@ -1,0 +1,21 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hellers, Ferdinand"]
+[Black "Keller, Manfred"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "f6c45092"]
+[Epoch "Queen"]
+[WhiteID "1700022"]
+[WhiteCountry "SWE"]
+[BlackID "4607368"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Bc4 c6 6. d3 Qf6 7. Nxd4 exd4 8.
+Ne2 Bc5 9. O-O Ne7 10. Nf4 d6 11. Qh5+ Kd8 12. Re1 fxe4 13. dxe4 g6 14. Qh6 b5
+15. Bb3 Kc7 16. Nd3 Qf8 17. Qh4 h6 18. Qg3 Kb7 19. Bf4 Qd8 20. e5 g5 21. exd6
+gxf4 22. Nxc5+ Kb6 23. Qxf4 Nf5 24. d7 Bxd7 25. Nxd7+ Qxd7 26. Be6 1-0

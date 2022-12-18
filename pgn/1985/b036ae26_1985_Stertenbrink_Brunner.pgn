@@ -1,0 +1,22 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stertenbrink, Guenter"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b036ae26"]
+[Epoch "Queen"]
+[WhiteID "4604571"]
+[WhiteCountry "GER"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Bb4+ 10. Kf2 g5 11. Nxg5 Qxd4+ 12. Qxd4 Nxd4 13. Bd3 f6 14. Be3
+fxg5 15. Bxd4 gxf4 16. gxf4 Nb8 17. Nf3 Nc6 18. Be3 Bd7 19. Rhg1 h6 20. Rac1
+Bf8 21. Nd4 a6 22. Rg6 Nxd4 23. Bxd4 Rc8 24. Rgg1 Rxc1 25. Rxc1 Rg8 26. Rc7 b5
+27. Ra7 Bc8 28. Be2 Be7 29. Bh5+ Kf8 30. Kf3 1-0

@@ -1,0 +1,18 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Grabarczyk, Bogdan"]
+[Black "Duda, Andrzej"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "70cb1fd7"]
+[Epoch "Queen"]
+[WhiteID "1101463"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 Nge7 9. Bd6 O-O 10. Nbd2 Re8 11. Ng5 Rf8 12. f4 Kh8 13. Bc4 Qe8 14. Qb3 Nd8
+15. Qh3 h6 16. f5 f6 17. fxg6 fxg5 18. Rxf8+ Bxf8 19. Be5+ 1-0

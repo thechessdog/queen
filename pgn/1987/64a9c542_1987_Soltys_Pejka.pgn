@@ -1,0 +1,18 @@
+[Event "Poznan-B"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Soltys, Bogdan"]
+[Black "Pejka, M."]
+[Result "1-0"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "64a9c542"]
+[Epoch "Queen"]
+[WhiteID "1101404"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. Nc3 Nc6 6. Be3 Nf6 7. Bc4 O-O 8.
+Nxc6 bxc6 9. e5 Ne8 10. f4 Qa5 11. O-O d5 12. Bb3 f6 13. Nxd5 Kh8 14. Nxe7 Ba6
+15. Qg4 Bh6 16. Nxg6+ 1-0

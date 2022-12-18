@@ -1,0 +1,18 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "LaMar, F."]
+[Black "McNeilly, A."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "74f44639"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
+O-O O-O 9. h3 Bd7 10. Be3 Nc6 11. a3 Rc8 12. Qe2 Nxd4 13. Bxd4 Bc6 14. Rad1
+Qc7 15. f4 e5 16. fxe5 dxe5 17. Bf2 Rcd8 18. Bg3 Rxd1 19. Rxd1 Bc5+ 20. Kh2
+Bd4 21. Rxd4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bosboom, Manuel"]
+[Black "Van der Sterren, Paul"]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "f4915d9f"]
+[Epoch "Queen"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+
+1. c4 c5 2. Nf3 Nf6 3. e3 g6 4. d4 Bg7 5. Nc3 O-O 6. Be2 cxd4 7. exd4 d5 8. O-O
+Nc6 9. Re1 Be6 10. cxd5 Nxd5 11. h3 Rc8 12. Bf1 Nxc3 13. bxc3 Na5 14. Qa4 Rxc3
+15. Bd2 Bd7 16. Bb5 Rc4 17. Bb4 Bc6 18. Rad1 b6 19. d5 Bxb5 20. Qxb5 a6 21. Qa4
+Bc3 22. Bxa5 Rxa4 23. Bxc3 Qc7 24. Be5 Qb7 25. Nd4 f6 26. Bg3 Qxd5 27. Ne6 Re4
+0-1

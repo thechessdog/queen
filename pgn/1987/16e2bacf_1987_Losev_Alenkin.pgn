@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Losev, Dmitry"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Cordel variation"]
+[HashCode "16e2bacf"]
+[Epoch "Queen"]
+[WhiteID "4105958"]
+[WhiteCountry "RUS"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 Na5 7. Bd3 d6 8. dxe5
+dxe5 9. Nxe5 Nf6 10. O-O O-O 11. Qc2 c5 12. f4 c4 13. Nxc4 Nxc4 14. Bxc4 Bc5+
+15. Kh1 Ng4 16. g3 Qb6 17. Na3 Re8 18. Rb1 Qc6 19. Bd5 Qa6 20. Nb5 Nf6 21. c4
+Nxd5 22. cxd5 Bh3 23. Re1 Rac8 24. Qe2 Bf5 25. Nc3 Qxe2 26. Rxe2 Bg4 27. e5
+Bf3+ 28. Rg2 Bb6 29. Bb2 Bd4 30. d6 Rc4 31. Ne2 Bb6 32. f5 Rc2 33. Nf4 Rec8 34.
+e6 Rxb2 35. Rf1 Bxg2+ 36. Nxg2 fxe6 37. fxe6 Rf8 38. Re1 Rd2 39. d7 Bd8 40. Nf4
+Rxf4 41. gxf4 Kf8 0-1

@@ -1,0 +1,20 @@
+[Event "Noviki-D"]
+[Site "Budapest IV"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kastek, Thomas"]
+[Black "Miniboeck, Guenter"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "61054f29"]
+[Epoch "Queen"]
+[WhiteID "4605985"]
+[WhiteCountry "GER"]
+[BlackID "1600338"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+b6 9. b4 O-O 10. g3 bxc5 11. dxc5 a5 12. Rb1 Nc6 13. Bg2 Rb8 14. b5 Bxc5 15.
+bxc6 Rxb1 16. Nxb1 Qb6 17. Be3 Bxe3 18. fxe3 Ng4 0-1

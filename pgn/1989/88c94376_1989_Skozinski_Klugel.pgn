@@ -1,0 +1,17 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Skozinski, Gunter"]
+[Black "Klugel, Jan"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "88c94376"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 c6 6. c5 b6 7. b4 b5 8. e3
+a5 9. a3 Bb7 10. Bd3 axb4 11. axb4 Na6 12. Rb1 Nh5 13. Ne5 Nxf4 14. exf4
+O-O 15. O-O 1/2-1/2
+

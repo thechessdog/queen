@@ -1,0 +1,19 @@
+[Event "corr ch-SF sr"]
+[Site "corr ch-SF sr"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Liimatta"]
+[Black "Rasanen"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "11baee55"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 b6 6. g3 Bb7 7. Bg2 O-O
+8. O-O Re8 9. Re1 d6 10. Bg5 h6 11. Bxf6 Qxf6 12. e4 Nd7 13. Nh4 Qg5 14. f4
+Qa5 15. Qb3 Nf6 16. e5 Bxg2 17. Nxg2 Nh7 18. h4 Qa6 19. a4 Rad8 20. Ne3 Qb7
+21. Qd1 dxe5 22. fxe5 c5 23. d5 exd5 24. Nf5 Re6 25. Qg4 g5 26. hxg5 hxg5
+27. Ra2 dxc4 28. Rh2 Qd7 29. Qh5 f6 30. Qg6+ Kh8 31. Rd2 a6 32. Red1 1-0
+

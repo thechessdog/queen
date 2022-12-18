@@ -1,0 +1,19 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mokry, Karel"]
+[Black "Pekarek, Ales"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 12.d2d4"]
+[HashCode "4f29dc64"]
+[Epoch "Queen"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+[BlackID "300080"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr N Ireland-NLD"]
+[Site "corr N Ireland-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McGuigan"]
+[Black "Theunissen"]
+[Result "1-0"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "0a917b07"]
+[Epoch "Queen"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 c5 7. d5 e6 8.
+Bg5 Be7 9. dxe6 Qxd1+ 10. Rxd1 Bxe6 11. e4 Na6 12. Bxc4 Bxc4 13. Nxc4 O-O
+14. e5 Rfe8 15. exf6 1-0
+

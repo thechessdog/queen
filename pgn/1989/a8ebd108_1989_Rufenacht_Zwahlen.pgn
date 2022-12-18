@@ -1,0 +1,14 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ruefenacht, Matthias"]
+[Black "Zwahlen"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "a8ebd108"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bc5 4. d3 d6 5. f4 Ng4 6. f5 h5 7. Nh3 Qh4+ 8. Kf1
+Nf2 9. Qe1 1-0

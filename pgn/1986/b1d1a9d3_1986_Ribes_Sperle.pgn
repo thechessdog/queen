@@ -1,0 +1,19 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ribes"]
+[Black "Sperle"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich (Jaenisch) variation"]
+[HashCode "b1d1a9d3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nc6 5. Bb5 h6 6. d5 a6 7. Bxc6+ bxc6 8.
+dxc6 Rb8 9. Be3 Rxb2 10. Rb1 Rxb1 11. Qxb1 g5 12. Qb8 g4 13. Nd2 Be6 14.
+Qxd8+ Kxd8 15. f3 a5 16. O-O gxf3 17. Nxf3 Ng4 18. Ba7 f5 19. Re1 h5 20. h3
+Nh6 21. Rb1 Ke7 22. Rb7 Bg7 23. Rxc7+ Kf6 24. Nd5+ Bxd5 25. exd5 e4 26.
+Bd4+ Kg6 27. Rxg7# 1-0
+

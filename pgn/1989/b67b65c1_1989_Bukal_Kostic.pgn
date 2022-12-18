@@ -1,0 +1,21 @@
+[Event "Mendrisio"]
+[Site "Mendrisio"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bukal, Vladimir Jr."]
+[Black "Kostic, Vladimir"]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[HashCode "b67b65c1"]
+[Epoch "Queen"]
+[WhiteID "14502941"]
+[BlackID "16500016"]
+[WhiteCountry "CRO"]
+[BlackCountry "MNE"]
+
+1. c4 e6 2. Nf3 d5 3. g3 c5 4. cxd5 exd5 5. d4 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bf4 cxd4 10. Nxd4 Bg4 11. h3 Be6 12. Ncb5 Nxd4 13. Qxd4 Rc8 14. Rfc1 a6
+15. Rxc8 Qxc8 16. Rc1 Qd7 17. Rc7 Qd8 18. Na7 Ne4 19. Rxb7 Bc5 20. Qa4 Bxf2+
+21. Kh2 Nc5 22. Qc6 Nxb7 23. Qxb7 Qd7 24. Qxd7 Bxd7 25. e3 0-1

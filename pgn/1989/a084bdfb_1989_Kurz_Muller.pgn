@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kurz, Alexander"]
+[Black "Muller, Olaf"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "a084bdfb"]
+[Epoch "Queen"]
+[WhiteID "4601920"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 cxd4 7. Nxd4 d5 8. O-O
+dxc4 9. Qa4 Na6 10. Rd1 Bd7 11. Qc2 Qb6 12. Bg5 Nc5 13. Bxf6 gxf6 14. Qd2 Kg7
+15. Nc2 Rad8 16. Qf4 Bxc3 17. bxc3 e5 18. Qh4 Bc6 19. Rdb1 Qc7 20. Ne3 Qc8 21.
+Bxc6 bxc6 22. Qxc4 Ne6 23. Qg4+ Kh8 24. Qf5 Ng7 25. Qxf6 Rd2 26. Rb4 Qe6 27.
+Qxe6 Nxe6 28. Kf1 f5 29. Ke1 Rd7 30. Rab1 f4 31. Nc4 fxg3 32. hxg3 Rdf7 33. f3
+e4 34. Nd6 Rg7 35. Nxe4 h5 36. Rb7 Rff7 1-0

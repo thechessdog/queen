@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Blauert, Joerg"]
+[Black "Wegner, Hannu"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f2792b3c"]
+[Epoch "Queen"]
+[WhiteID "4600819"]
+[WhiteCountry "GER"]
+[BlackID "4600509"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. h3 Bh5 8. Na3
+Nc6 9. Be3 cxd4 10. Nb5 Rc8 11. Nbxd4 Nxd4 1/2-1/2

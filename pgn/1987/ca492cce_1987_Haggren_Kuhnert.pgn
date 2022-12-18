@@ -1,0 +1,18 @@
+[Event "corr SF-DDR"]
+[Site "corr SF-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Haggren"]
+[Black "Kuhnert"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "ca492cce"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 d4 4. Bc4 Nf6 5. e5 dxc3 6. exf6 cxd2+ 7. Bxd2
+exf6 8. O-O-O Be6 9. Re1 Qd7 10. Nh3 Bd6 11. Qg4 O-O 12. Rxe6 Kh8 13. Rd1
+a5 14. Bf4 Bxf4+ 15. Nxf4 Qc8 16. Rd3 Nd7 17. Rh3 Ne5 18. Rxh7+ Kxh7 19.
+Qh5+ Kg8 20. Rxe5 1-0
+

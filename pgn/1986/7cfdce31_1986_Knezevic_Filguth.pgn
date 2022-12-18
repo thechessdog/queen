@@ -1,0 +1,20 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Filguth, Rubens Alberto"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "7cfdce31"]
+[Epoch "Queen"]
+[BlackID "2100070"]
+[BlackCountry "BRA"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Nf3 Na6 7. e3 Nxc5 8.
+Bd2 b6 9. Be2 Bb7 10. O-O Rc8 11. Nb5 Bxd2 12. Nxd2 a6 13. Nd6 Rc6 14. Nxb7
+Nxb7 15. b4 d5 16. Qb2 Qc7 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Munich op"]
+[Site "Munich"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Poellner, Ludwig"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "fa05c344"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Nb3 Re8 10. f4 e5 11. f5 Ne7 12. fxg6 hxg6 13. Bc4 d5 14. Nxd5 Nfxd5
+15. Bxd5 Nxd5 16. exd5 b6 17. c4 Ba6 18. Rc1 Rc8 19. Nd2 f5 20. Qa4 f4 21. Bf2
+e4 22. Qxa6 e3 23. Nf3 g5 24. h3 exf2+ 25. Rxf2 Bf8 26. d6 Bxd6 27. Rd2 Bc5+
+28. Kh2 Qc7 29. Rd5 g4 30. Rg5+ Kf7 31. Rxg4 Re2 32. b4 Be3 33. c5 Rxg2+ 34.
+Rxg2 Bxc1 35. Qc4+ Kf6 36. Qxc1 1-0

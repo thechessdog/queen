@@ -1,0 +1,23 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Boersma, Paul"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "9fa95a76"]
+[Epoch "Queen"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "1000411"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. Bc4 O-O
+8. O-O Bg4 9. Qd3 Nd7 10. Bb3 a5 11. c4 Nc5 12. Qc3 Ne4 13. Qd3 Re8 14. Bc2 f5
+15. b3 Qf6 16. Ne5 Bxe5 17. dxe5 Qxe5 18. Ba3 Nxf2 19. Qd6 Qxd6 20. Bxd6 Ne4
+21. Bc7 g6 22. Rfe1 a4 23. bxa4 Nc3 24. a5 Be2 25. Bb3 Bd3 26. Kf2 Ne4+ 27. Ke3
+Nc5+ 28. Kd4 Nxb3+ 29. axb3 Rxe1 30. Rxe1 Be4 31. g3 Rc8 32. Bd6 c5+ 33. Bxc5
+Rd8+ 34. Ke5 Kg7 35. Bd6 f6+ 36. Ke6 1-0

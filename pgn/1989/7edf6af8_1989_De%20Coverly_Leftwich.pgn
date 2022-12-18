@@ -1,0 +1,18 @@
+[Event "Belgium"]
+[Site "Belgium"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Leftwich, M."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "7edf6af8"]
+[Epoch "Queen"]
+[WhiteID "405213"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qc6 5. Bb5 Qxb5 6. Nxb5 h5 7. Nxc7+ Kd8
+8. Nxa8 Bg4 9. Ne2 h4 10. d4 exf4 11. Bxf4 Nc6 12. O-O Nxd4 13. Qxd4+ Bd7 14.
+Rad1 Bc5 15. Qxc5 Ne7 16. Qc7+ Ke8 17. Qxd7+ Kf8 18. Qd8# 1-0

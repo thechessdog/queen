@@ -1,0 +1,17 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fricke"]
+[Black "Wolfram"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "8b072815"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Nc3 Bxe5 6. dxe5 Qxd1+ 7. Nxd1
+Nc6 8. Bf4 Nge7 9. Nc3 Bf5 10. e6 Bxe6 11. Bxc7 Nd5 12. Nxd5 Bxd5 13. a3
+O-O 14. O-O-O Be6 15. Bb5 Rac8 16. Bxc6 bxc6 17. Bd6 Rfe8 18. Rhe1 Bd5 19.
+g3 h6 20. Rd4 f5 21. Ra4 Ra8 22. Ra6 Re7 23. Bxe7 1-0
+

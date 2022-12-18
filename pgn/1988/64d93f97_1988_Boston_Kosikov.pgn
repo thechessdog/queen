@@ -1,0 +1,19 @@
+[Event "Scottsboro"]
+[Site "Scottsboro"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Boston, Ralph"]
+[Black "Kosikov, A."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "64d93f97"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7.
+Neg5+ Kg8 8. d4 h6 9. Nh3 exd4 10. Nxd4 Bc5 11. c3 Bxh3 12. gxh3 Qh4 13.
+Qf3 Nxd4 14. Qxd5+ Kh7 15. cxd4 Rhe8+ 16. Kd2 Bxd4 17. Qf5+ Kh8 18. Rf1
+Rad8 19. Kc2 Re2+ 20. Kb3 b5 21. Rb1 Bxb2 22. Qg4 Rd3+ 23. Kb4 Re4+ 24.
+Qxe4 Qxe4+ 25. Kxb5 Qd5+ 26. Kb4 Rd4# 0-1
+

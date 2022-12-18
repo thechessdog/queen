@@ -1,0 +1,23 @@
+[Event "Gausdal Int"]
+[Site "Gausdal Int"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Selhag, L."]
+[Black "Bjerke, Richard"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "90d13bbb"]
+[Epoch "Queen"]
+[BlackID "1500252"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. f4 Qd7 6. Nf3 Ba6 7. Bxa6 Nxa6 8. Qe2
+Nb8 9. O-O Ne7 10. Kh1 h5 11. Nh4 g6 12. Bd2 Nbc6 13. Qd3 Nf5 14. Nxf5 gxf5 15.
+Rf3 Be7 16. Ne2 O-O-O 17. Rc1 Rdg8 18. c4 Bd8 19. b4 Ne7 20. c5 Rg7 21. cxb6
+axb6 22. Qa6+ Kb8 23. a4 h4 24. Nc3 Qc8 25. Qd3 Rhg8 26. Rg1 Nc6 27. Nb5 Qa6
+28. Qc2 Ne7 29. Be1 Ng6 30. h3 Qb7 31. a5 Qa6 32. Na3 f6 33. b5 Qc8 34. axb6
+cxb6 35. Rc3 Rc7 36. Rc6 Kb7 37. Rxc7+ Qxc7 38. Qa4 Nxf4 39. Qa6+ Kb8 40. Bxh4
+fxe5 41. Bxd8 Rxd8 42. dxe5 Nd3 43. Qa4 Nf2+ 44. Kh2 Qxe5+ 45. g3 Ng4+ 46. Kh1
+Rh8 47. Qf4 Rxh3+ 48. Kg2 Rh2+ 49. Kf3 Rf2# 0-1

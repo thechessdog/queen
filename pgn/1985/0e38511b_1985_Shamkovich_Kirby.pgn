@@ -1,0 +1,16 @@
+[Event "Bay Area simul"]
+[Site "Bay Area simul"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Shamkovich, Leonid"]
+[Black "Kirby, Jon"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit"]
+[HashCode "0e38511b"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. Nc3 h6 7. Qh5+ Kd7 8.
+Qf7+ Ne7 9. Bf4 hxg5 10. Bb5+ c6 11. e6# 1-0

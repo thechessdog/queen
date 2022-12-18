@@ -1,0 +1,16 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kolpakov, Mikhail"]
+[Black "Mitrochin"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "c5ad32b2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Ke3
+Qe7 8. c3 Qc5+ 9. d4 exd4+ 10. Kxe4 Qxc4 11. Nxh8 d5+ 12. Kf3 Be6 13. b3 Qc5
+14. Ba3 Ne5+ 15. Kg3 Qc6 16. Qxd4 1-0

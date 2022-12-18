@@ -1,0 +1,27 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krieger, Hermann"]
+[Black "Roese, Oliver"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "40009fe6"]
+[Epoch "Queen"]
+[WhiteID "4609867"]
+[WhiteCountry "GER"]
+[BlackID "4600630"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 a6 10. f3 b5 11. h4 Bb7 12. Rh3 b4 13. Ne2 d5 14. Qe3 Qc7 15.
+Ng3 Rac8 16. Bd3 Ne5 17. Qe2 Nxd3+ 18. Rxd3 dxe4 19. fxe4 Nxe4 20. Bxe7 Nxg3
+21. Rdxg3 Qxe7 22. Nd4 Rc5 23. Rg4 h5 24. Rf4 Rfc8 25. Rg3 Qc7 26. Qd2 e5 27.
+Rf5 exd4 28. Rxg7+ Kxg7 29. Qg5+ Kf8 30. Qh6+ Ke7 31. Qg5+ Kf8 32. Qh6+ Ke8 33.
+Qh8+ Ke7 34. Qf6+ Kd7 35. Qxd4+ Qd6 36. Rxf7+ Kc6 37. Rf6 Qxf6 38. Qxf6+ Kb5
+39. Qf1+ Kb6 40. Qf2 Ka7 41. c3 Ka8 42. Kd2 bxc3+ 43. bxc3 Rxc3 44. Qf7 R3c7
+45. Qxh5 Bxg2 46. Qa5 Bb7 47. Ke3 Re7+ 48. Kf4 Rf8+ 49. Kg5 Rg7+ 50. Kh6 Rfg8
+51. h5 Rg2 52. Qe5 R2g4 53. Kh7 R4g5 54. Qe6 Rg2 55. Qe5 R2g4 56. a4 Rc8 57.
+Kh6 Be4 0-1

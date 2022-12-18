@@ -1,0 +1,20 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ortiz, Victor"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "21ab01e2"]
+[Epoch "Queen"]
+[WhiteID "6102506"]
+[WhiteCountry "NCA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 cxd4 5. exd4 Qb6 6. b3 Bb4+ 7. c3 Ne4 8.
+Bd2 Nxd2 9. Nbxd2 Bxc3 10. Rc1 Bxd2+ 11. Qxd2 O-O 12. Qc2 Nc6 13. Rd1 d6 14.
+Bd3 f5 15. Be2 Bd7 16. O-O Rac8 17. Qd3 Nb4 18. Qd2 Rc2 19. Qe3 Nxa2 20. d5
+Qxe3 21. fxe3 Rxe2 22. dxe6 Bxe6 23. Rfe1 Rxe1+ 24. Rxe1 Bxb3 0-1

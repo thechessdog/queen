@@ -1,0 +1,32 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Winants, Luc"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "e705fde3"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "200018"]
+[BlackCountry "BEL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 a5 10. a3 a4 11. Nd4 d5 12. exd5 Nxd5 13. Bxe7 Ncxe7 14. Nxd5
+Nxd5 15. Bd3 Bd7 16. Rhe1 Qf6 17. Be4 Rac8 18. Bxd5 exd5 19. Re3 Rc4 20. c3
+Rfc8 21. Rd3 h6 22. Nc2 Be6 23. f3 g6 24. Rd4 Kh7 25. Ne3 R4c5 26. Rxa4 Rxc3+
+27. bxc3 Rxc3+ 28. Nc2 Bf5 29. Rb4 Bxc2 30. Qxc2 Qg5+ 31. Rd2 Qe3 32. Rxb7
+Rxc2+ 33. Kxc2 Qxa3 34. Rxf7+ Kg8 35. Rf4 Qa2+ 36. Kd1 Qb1+ 37. Ke2 Qg1 38. Rg4
+Kf7 39. Rxd5 Qxh2 40. Kf2 Qc7 41. Rgd4 Qb6 42. f4 Ke6 43. Kg1 Qc7 44. Rd8 Qc5
+45. Kh2 Qh5+ 46. Kg3 Qc5 47. Rd3 Ke7 48. Rh8 h5 49. Rh7+ Ke6 50. Rhd7 Qb4 51.
+R7d4 Qe1+ 52. Kh2 Qh4+ 53. Rh3 Qf2 54. Ra4 Kf7 55. Rg3 Qf1 56. Ra7+ Kf6 57.
+Raa3 Qc4 58. Rac3 Qe4 59. Rce3 Qf5 60. Rgf3 Qb1 61. Re5 Qb4 62. Kg3 Qd6 63.
+Rfe3 Qd7 64. Kh2 Qd6 65. Rg3 Kf7 66. Re4 Qd2 67. Ra4 Qf2 68. Rc4 Qb6 69. Rgc3
+Qf2 70. f5 gxf5 71. Rf3 Qe2 72. Rxf5+ Kg6 73. Rcc5 Qg4 74. Rxh5 Qf4+ 75. Kg1
+Qe3+ 76. Kh1 Qf4 77. Rh3 Qf1+ 78. Kh2 Qf4+ 79. Rg3+ Kf7 80. Rh5 Ke6 81. Kh3 Qc1
+82. Rgg5 Qe3+ 83. g3 Qg1 84. Re5+ Kf6 85. Rhf5+ Kg6 86. Rf3 Qh1+ 87. Kg4 Qd1
+88. Re6+ Kg7 89. Rf6 Qd7+ 90. Kh5 Qd1 91. Rf7+ Kg8 92. g4 Qh1+ 93. Kg6 1-0

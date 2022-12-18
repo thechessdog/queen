@@ -1,0 +1,20 @@
+[Event "Volmac-HSG"]
+[Site "Volmac-HSG"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Douven, Rudy"]
+[Black "Piket, Jeroen"]
+[Result "0-1"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "5290d04b"]
+[Epoch "Queen"]
+[WhiteID "1000195"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Bg4 7. Be3 Nfd7 8. O-O
+Nc6 9. d5 Bxf3 10. Bxf3 Na5 11. Be2 Bxc3 12. bxc3 e5 13. dxe6 fxe6 14. Bh6 Rf7
+15. f4 Nc5 16. Qd4 Qd7 17. Rad1 b6 18. h4 Re8 19. h5 e5 20. Qd5 c6 21. Qd2 Nxe4
+22. Qe3 exf4 23. Rxf4 Rxf4 24. Qxf4 Qf5 25. Qe3 Nf6 26. Qd2 Qc5+ 27. Kh2 Qe5+
+28. Bf4 Qxe2 0-1

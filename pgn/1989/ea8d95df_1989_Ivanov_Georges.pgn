@@ -1,0 +1,20 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ivanov, Spiridon"]
+[Black "Georges, Sacha"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "ea8d95df"]
+[Epoch "Queen"]
+[WhiteID "2900483"]
+[WhiteCountry "FID"]
+[BlackID "1301160"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. f4 exf4 10. Bxf4 Be6 11. Kh1 Rc8 12. Nd4 Nxd4 13. Qxd4 d5 14. exd5
+Nxd5 15. Nxd5 1/2-1/2

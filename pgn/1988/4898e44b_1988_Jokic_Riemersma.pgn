@@ -1,0 +1,26 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jokic, Miodrag"]
+[Black "Riemersma, Liafbern"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "4898e44b"]
+[Epoch "Queen"]
+[WhiteID "922366"]
+[WhiteCountry "SRB"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 Nbd7 7. Be3 e5 8. d5
+Ne8 9. g4 f5 10. gxf5 gxf5 11. exf5 Nc5 12. Bg5 Qd7 13. Nh4 Qf7 14. Qg4 Kh8 15.
+Rg1 Nf6 16. Qg2 Rg8 17. Be2 Bd7 18. Qh1 Nh5 19. Ne4 Nxe4 20. Bxh5 Qxh5 21. Qxe4
+Rgf8 22. Rg3 Bf6 23. Qg4 Qxg5 24. Qxg5 Bxg5 25. Rxg5 Rg8 26. Rg3 Raf8 27. Ke2
+Bxf5 28. Rxg8+ Kxg8 29. Rg1+ Kh8 30. Nxf5 Rxf5 31. Ke3 Rh5 32. Rg3 Rh4 33. b3
+a6 34. f3 h6 35. a4 a5 36. Kd3 Kh7 37. Ke3 Rd4 38. Ke2 Rh4 39. Ke3 c6 40. dxc6
+bxc6 41. Kd3 Rd4+ 42. Kc2 h5 43. c5 Kh6 44. cxd6 Rxd6 45. Rg8 Rd4 46. Re8 Rd5
+47. h4 Kg6 48. Rg8+ Kf5 49. Rg5+ Kf4 50. Rxh5 Kxf3 51. Rh8 e4 52. h5 e3 53. h6
+e2 54. h7 e1=Q 55. Rf8+ Kg4 56. Rg8+ Kf5 57. Rf8+ Kg6 58. h8=Q Rd2+ 59. Kc3
+Qc1# 0-1

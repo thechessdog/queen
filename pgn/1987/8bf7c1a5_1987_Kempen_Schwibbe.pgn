@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kempen, W."]
+[Black "Schwibbe, R."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "8bf7c1a5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O h6 9. Bh4 Nbd7 10. Bg3 Nh5 11. Be2 Ndf6 12. Kb1 b5 13. Bxh5 Nxh5 14.
+Nc6 Qc7 15. Nxe7 Nxg3 16. Nxc8 Nxh1 17. Nxd6+ Ke7 18. Qf4 Kf8 19. e5 Kg8
+20. g4 Rb8 21. Rxh1 b4 22. Nce4 a5 23. Rg1 a4 24. g5 b3 25. cxb3 axb3 26.
+axb3 Rxb3 27. gxh6 1-0
+

@@ -1,0 +1,20 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Petrovic, Dragan"]
+[Black "Sulava, Nenad"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "8dc7a010"]
+[Epoch "Queen"]
+[WhiteID "20634706"]
+[WhiteCountry "FRA"]
+[BlackID "14500205"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 e5 5. Nb5 d5 6. Bg5 d4 7. g3 a6 8. N5a3
+Qb6 9. Qb3 Qc6 10. f3 Nbd7 11. Bg2 Nc5 12. Qc2 d3 13. Qc3 dxe2 14. Qxe5+ Be7
+15. Kxe2 O-O 16. Rd1 Re8 17. Kf1 Bh3 18. Kg1 Ng4 0-1

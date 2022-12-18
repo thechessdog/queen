@@ -1,0 +1,20 @@
+[Event "Aalborg op"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Hjertenes, Oystein"]
+[Black "Kelly, Bryan"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "0b727c0a"]
+[Epoch "Queen"]
+[WhiteID "1500449"]
+[WhiteCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. a3 Qb6 6. Nf3 Bd7 7. b4 cxd4 8. cxd4
+Nge7 9. Nc3 Nf5 10. Na4 Qd8 11. Bb2 f6 12. Bd3 Nh6 13. O-O fxe5 14. dxe5 Be7
+15. b5 Na5 16. Nd4 g6 17. Rc1 Rc8 18. Rxc8 Qxc8 19. Qd2 Nc4 20. Bxc4 Qxc4 21.
+Qxh6 Qxa4 22. Qg7 Rf8 23. Qxh7 Bxb5 24. Qxg6+ Rf7 25. Rc1 Bd7 26. Nxe6 Qh4 27.
+g3 Qa4 28. Nc7+ Kf8 29. e6 Rxf2 30. Qg7# 1-0

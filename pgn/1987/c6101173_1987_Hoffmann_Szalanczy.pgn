@@ -1,0 +1,18 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "6"]
+[White "Hoffmann, Michael"]
+[Black "Szalanczy, Emil"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c6101173"]
+[Epoch "Queen"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. f3 d5 6. exd5 Nxd5 7. c4 Qa5+ 8. Bd2
+Ndb4 9. a3 Bf5 10. Qb3 Nd4 11. Bxb4 Nxb3 12. Bxa5 Nxa1 13. Nd2 Nc2+ 14. Kf2 e6
+15. b4 Be7 0-1

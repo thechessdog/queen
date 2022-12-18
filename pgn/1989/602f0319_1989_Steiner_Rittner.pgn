@@ -1,0 +1,21 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Rittner"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "602f0319"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Qe2 Bb7 11. Rd1 Bxc3 12. bxc3 Qc7 13. Bd3 Nbd7 14. c4 Rfe8
+15. Ne5 Nxe5 16. dxe5 Nd7 17. Bb2 Rad8 18. Bc2 Nc5 19. Qg4 g6 20. Qh4 Ba6 21.
+Rd6 Nb7 22. Ba4 Rf8 23. c5 Qxc5 24. Rc1 Nxd6 25. Rxc5 Nf5 26. Qxd8 Rxd8 27. Rc7
+Rd2 28. Bc3 Rxa2 29. Be8 Nh6 30. h3 Bd3 31. Bb4 Kg7 32. Bd7 Ra1+ 33. Kh2 Ra2
+34. Bxe6 Rxf2 35. Bd5 a5 36. Bc3 Kf8 37. e6 Bb5 38. Bd4 Rf5 39. Ba2 Ba6 40. g4
+Rf1 41. Be3 fxe6 42. Bxh6+ Ke8 43. Bxe6 1-0

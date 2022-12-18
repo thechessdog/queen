@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grewe"]
+[Black "Woll"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, reverse dragon"]
+[HashCode "1293d38c"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 6. Nf3 Nc6 7. O-O Be7
+8. d3 O-O 9. a3 a5 10. Be3 Be6 11. Na4 Nd5 12. Bc5 Re8 13. Qd2 Bf6 14. e4
+Nde7 15. Rac1 b6 16. Bxe7 Nxe7 17. Nc3 c5 18. h4 Nc6 19. Qc2 Ra7 20. Nb5
+Rd7 21. Rfd1 h6 22. b3 Qa8 23. Nd2 Qa6 24. Bf1 Qc8 25. Nc4 Qd8 26. f3 g5
+27. h5 g4 28. f4 exf4 29. gxf4 Nd4 30. Nxd4 Bxd4+ 31. Kh1 g3 32. f5 Bxc4
+33. dxc4 Qh4+ 34. Kg2 Rxe4 35. Rd3 Bf2 36. Be2 Qh2+ 37. Kf3 Rde7 38. Rd8+
+Kg7 39. Bd3 Qxh5+ 40. Kg2 Qh2+ 41. Kf3 Re3+ 42. Kg4 h5+ 43. Kg5 f6+ 44. Kf4
+Qh4# 0-1
+

@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Gavrikov, Viktor"]
+[Black "Horvath, Csaba"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "2d3a78ee"]
+[Epoch "Queen"]
+[WhiteID "24131849"]
+[WhiteCountry "RUS"]
+[BlackID "700118"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. Bf4 Bg7 6. e3 O-O 7. Nc3 Qa5 8. a3 c5
+9. dxc5 Nc6 10. Nd2 Bf5 11. Qc1 d4 12. Nb3 dxc3 13. Nxa5 Ne4 14. b4 Nxa5 15.
+bxa5 Nxc5 16. e4 Bxe4 17. Qe3 c2 18. Rc1 b6 19. f3 Bf5 20. g4 g5 21. gxf5 gxf4
+22. Qxf4 1-0

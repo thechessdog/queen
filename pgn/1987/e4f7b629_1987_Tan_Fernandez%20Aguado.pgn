@@ -1,0 +1,18 @@
+[Event "Wch U20"]
+[Site "Baguio"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Tan Chun Malcolm"]
+[Black "Fernandez Aguado, Enrique"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "e4f7b629"]
+[Epoch "Queen"]
+[BlackID "2200198"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 c5 3. d5 a6 4. Nc3 b5 5. cxb5 axb5 6. Nxb5 Qa5+ 7. Nc3 Bb7 8.
+Bd2 e6 9. dxe6 fxe6 10. e4 Qc7 11. Bd3 c4 12. Bc2 Bc5 13. Nf3 O-O 14. O-O Nc6
+15. a3 Ng4 16. h3 Nd4 17. e5 Bxf3 18. gxf3 Nxf3+ 19. Kg2 Qxe5 20. Qxf3 Qh2# 0-1

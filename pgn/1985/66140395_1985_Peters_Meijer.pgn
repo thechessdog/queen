@@ -1,0 +1,15 @@
+[Event "Alkmaars-B op"]
+[Site "Alkmaar open"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Peters, H."]
+[Black "Meijer, W."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "66140395"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Bf4 Na6
+8. Qf3 e6 9. Ne2 Bxc2 10. Qc3 Bb4 0-1

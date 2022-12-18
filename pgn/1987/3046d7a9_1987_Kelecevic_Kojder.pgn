@@ -1,0 +1,19 @@
+[Event "Banja Vrucica"]
+[Site "Banja Vrucica"]
+[Date "1987.01.01"]
+[Round "11"]
+[White "Kelecevic, Nedeljko"]
+[Black "Kojder, Konrad"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "3046d7a9"]
+[Epoch "Queen"]
+[WhiteID "14400537"]
+[WhiteCountry "SUI"]
+[BlackID "1101471"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 cxd4 8.
+exd4 Nxd5 9. O-O Nc6 10. Bc2 Nf6 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Rilton Cup"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ostergaard, Dan"]
+[Black "Magnusson, Jorgen"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b58b89d2"]
+[Epoch "Queen"]
+[BlackID "1700880"]
+[BlackCountry "SWE"]
+[WhiteID "1701215"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Re1 O-O 11. Qg3 b4 12. Na4 Nc6 13. Nxc6 Qxc6 14. Bh6 Ne8 15.
+Rad1 a5 16. c4 Ba6 17. Be3 Qxe4 18. c5 Qc6 19. cxd6 Bxd6 20. Qh3 Nf6 21. Rc1
+Qe8 22. Bg5 Be7 23. Bc2 g6 24. Nc5 Bc8 25. Bxf6 Bxf6 26. Qf3 Bxb2 27. Qxa8 Bxc1
+28. Rxc1 Qb5 29. Bd3 Qb6 30. h3 Qd8 31. Qe4 Qg5 32. Qe3 Qe7 33. Be2 e5 34. Bf3
+Bf5 35. Ne4 Kh8 36. Qc5 Qe6 37. Qxf8# 1-0

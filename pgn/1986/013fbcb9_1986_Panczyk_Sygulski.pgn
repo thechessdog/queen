@@ -1,0 +1,23 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Sygulski, Artur"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "013fbcb9"]
+[Epoch "Queen"]
+[WhiteID "1100211"]
+[BlackID "1100521"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 e6 5. e4 Nf6 6. Bxc4 Bb4 7. e5 Nd5 8. Qd3
+Na5 9. Bg5 Qd7 10. O-O Nb6 11. Bb5 c6 12. Ba4 h6 13. Bh4 g5 14. Bg3 Nxa4 15.
+Nxa4 c5 16. Nc3 c4 17. Qe3 Bxc3 18. Qxc3 b6 19. d5 Qxd5 20. Rad1 Qc5 21. Rd6
+Bb7 22. Rfd1 Nc6 23. Nd2 Ne7 24. Nxc4 Bd5 25. b3 O-O 26. h4 Nf5 27. hxg5 Kh7
+28. R1xd5 exd5 29. Qd3 Qd4 30. Qxf5+ Kg8 31. Ne3 Qe4 32. Qh3 h5 33. Qxh5 Kg7
+34. Qh6+ Kg8 35. Qh3 Rae8 36. Ng4 Qb1+ 37. Kh2 Re6 38. Nf6+ Kg7 39. Qh6# 1-0

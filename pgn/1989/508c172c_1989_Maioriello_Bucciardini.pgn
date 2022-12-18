@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maioriello, G."]
+[Black "Bucciardini, G."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "508c172c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 cxd5 7. d4 Bd6
+8. Nge2 O-O 9. Bxf4 Bxf4 10. Nxf4 Re8+ 11. Nfe2 Ng4 12. Nxd5 Be6 13. h3 Nh6
+14. c4 Bxd5 15. cxd5 Qh4+ 16. Kf1 Nf5 17. Qd3 Qg5 18. Rh2 Re3 19. Qc2 Nc6
+20. h4 Qg4 21. Bc4 Ncxd4 22. Nxd4 Ng3+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "Lillafured"]
+[Site "Lillafured"]
+[Date "1989.06.01"]
+[Round "1"]
+[White "Halasz, Tamas"]
+[Black "Polajzer, Danilo"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "4cab218e"]
+[Epoch "Queen"]
+[WhiteID "700266"]
+[WhiteCountry "HUN"]
+[BlackID "14600218"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 Ba6 7. Ne5 c6 8. Bxb4
+axb4 9. Qb3 Bb7 10. O-O Qe7 11. Nd3 Na6 12. a3 O-O 13. Nd2 bxa3 14. Rxa3 Qd8
+15. c5 b5 16. e4 Ne8 17. Qc3 d6 18. Nb3 d5 19. Na5 Qc7 20. e5 f6 21. exf6 gxf6
+22. f4 Ng7 23. Nxb7 Qxb7 24. g4 Qd7 25. Rfa1 Nc7 26. h3 Rxa3 27. Rxa3 Ra8 28.
+Rxa8+ Nxa8 29. Qa5 Qb7 30. Qd8+ Kf7 31. g5 fxg5 32. Ne5# 1-0

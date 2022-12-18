@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "King, Daniel J"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "cc566756"]
+[Epoch "Queen"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+[BlackID "400068"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Nf3 Na6 7. g3 Nxc5 8.
+Bg2 Nce4 9. Bd2 Nxd2 10. Nxd2 d5 11. O-O dxc4 12. Nxc4 Qc7 13. Nb5 Qc5 14. Nbd6
+Qc7 15. Nb5 Qc5 16. Nbd6 Qc7 17. Nb5 1/2-1/2

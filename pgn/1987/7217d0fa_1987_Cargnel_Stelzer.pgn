@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cargnel, F."]
+[Black "Stelzer, H."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "7217d0fa"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. cxd4 bxc4
+8. Qa4+ Qd7 9. Qxc4 Nxd5 10. dxe5 Nb4 11. O-O h6 12. a3 Nd3 13. Nxf7 Qxf7
+14. Qxd3 Qe6 15. Nc3 Bb7 16. b4 Be7 17. Qg3 O-O 18. d4 Rf5 19. d5 Qxe5 20.
+Qxe5 Rxe5 21. Bf4 Rf5 22. Bxc7 Rc8 23. d6 Bxd6 24. Bxd6 Rxc3 25. Rfe1 Rf7
+26. Re8+ Kh7 27. Re7 Rxe7 28. Bxe7 a6 29. f3 Bc6 30. Ra2 Kg6 31. Kf2 Kf7
+32. Bd6 Ke6 33. Bc5 g6 34. a4 h5 35. a5 Bb5 36. h4 Kf5 37. Rd2 Rd3 38. Rc2
+Rd1 39. Bb6 Rd5 40. Kg3 Kf6 41. Kf4 Rf5+ 42. Ke4 Re5+ 43. Kd4 Rf5 44. Rc7
+Bf1 45. Bc5 Ke6 46. Re7+ Kf6 47. Rb7 Ke6 48. Rb6+ Kf7 49. Ke4 Be2 50. Bd4
+Bc4 51. Be5 Be2 52. f4 1-0
+

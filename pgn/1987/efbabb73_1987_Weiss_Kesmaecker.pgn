@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Kesmaecker"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "efbabb73"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Qh5 d5 11. exd5 Bxa3 12. bxa3 Qa5 13. Kd2 Ne7
+14. Qe2 f6 15. Qh5+ Kd8 16. Qf7 Qb6 17. f3 f4 18. Bd3 Rg8 19. Rag1 Bd7 20.
+Kc1 f5 21. Qxh7 Rc8 22. Ne2 Qf6 23. d6 Qxd6 24. Rd1 Qf6 25. g4 Rh8 0-1
+

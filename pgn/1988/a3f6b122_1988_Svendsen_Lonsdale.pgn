@@ -1,0 +1,17 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Svendsen, T."]
+[Black "Lonsdale, D."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "a3f6b122"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. d4 exd4 4. Bc4 fxe4 5. Ne5 Bb4+ 6. Kf1 d5 7. Qh5+ g6
+8. Nxg6 Nf6 9. Qe5+ Be7 10. Nxh8 dxc4 11. Bg5 Nc6 12. Qf4 Qd6 13. Qh4 Bf5
+14. Nd2 Qe6 15. Bxf6 Bxf6 16. Qh5+ Kd7 17. Qf7+ Qxf7 18. Nxf7 Bg6 19. Nxc4
+Bxf7 20. Nd2 Re8 21. h4 Nb4 22. b3 e3 0-1
+

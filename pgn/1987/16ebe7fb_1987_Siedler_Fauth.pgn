@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Siedler, K."]
+[Black "Fauth, H."]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "16ebe7fb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8.
+Nxd4 O-O 9. c4 Nc5 10. Bc2 Nxd4 11. Qxd4 d6 12. b4 Ne6 13. Qd3 g6 14. Nc3
+dxe5 15. Nd5 Nd4 16. Bb3 Bf5 17. Qe3 c6 18. Nxe7+ Qxe7 19. Bb2 Rfe8 20. c5
+Rad8 21. Rfe1 Qh4 22. g3 Qh3 23. Bxd4 Rxd4 24. Qxd4 exd4 25. Rxe8+ Kg7 26.
+Re7 Kh6 27. Rxf7 d3 28. Re1 Qg4 29. Ree7 g5 30. Rf6+ Bg6 31. Bg8 Qd1+ 32.
+Kg2 Kh5 33. Bxh7 g4 34. Bxg6+ Kg5 35. Ref7 d2 36. Be4 Kh5 37. Rh7+ Kg5 38.
+Rg6# 1-0
+

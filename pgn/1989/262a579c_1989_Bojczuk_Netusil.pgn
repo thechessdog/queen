@@ -1,0 +1,16 @@
+[Event "Prague Vysehrad"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bojczuk, Zygmunt"]
+[Black "Netusil, Miroslav"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "262a579c"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nf6 4. O-O Nbd7 5. c4 c6 6. b3 e5 7. Bb2 e4 8. Ne1
+Be7 9. cxd5 cxd5 10. d3 O-O 11. Nc3 Nc5 12. b4 Nxd3 13. Nxd3 exd3 14. Qxd3 Bxb4
+15. Nxd5 Nxd5 16. Bxd5 Qb6 17. Rab1 Qc5 18. Rfc1 Bxe2 19. Qxe2 Qxd5 20. Qg4 1-0

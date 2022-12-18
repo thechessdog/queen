@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Frotscher"]
+[Black "Rau"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "2702e228"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8.
+d6 Nc6 9. e3 O-O 10. f3 Re8 11. Bd3 g5 12. Bf2 e4 13. fxe4 Nxe4 14. Bxe4
+Rxe4 15. Ne2 b6 16. Ng3 Rxc4 17. Qd5 Ba6 18. Ne4 Kg7 19. Qf5 Na5 20. h4 Bb7
+21. Ng3 Kf8 22. Nh5 Be4 23. Qe5 f6 24. Qh2 Kf7 25. O-O Bg6 26. hxg5 hxg5
+27. Nxf6 Kxf6 28. Bg3+ Ke6 29. Qh6 Kd5 30. Qxg6 Qg8 31. Qf6 Kc6 32. Rf5 g4
+33. Rg5 Qf8 34. Qe5 Qf3 35. gxf3 1-0
+

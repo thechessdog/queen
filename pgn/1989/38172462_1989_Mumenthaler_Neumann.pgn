@@ -1,0 +1,19 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mumenthaler, Peter"]
+[Black "Neumann, Horst"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "38172462"]
+[Epoch "Queen"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nc6 5. cxd5 Qxd5 6. Nf3 Bg4 7. Nc3 Qh5 8.
+Be2 e6 9. Qb3 O-O-O 10. Be3 Nge7 11. Rc1 Kb8 12. O-O Ka8 13. h3 Bxf3 14. Bxf3
+Qa5 15. Rfd1 Qb4 16. d5 Qxb3 17. axb3 exd5 18. Nxd5 Nxd5 19. Rxd5 Bd6 20. Ra1
+Kb8 21. Rb5 Kc7 22. Bxa7 Ra8 23. Bb6+ Kd7 24. Re1 g6 25. Bg4+ f5 26. Rxf5 Ne7
+27. Rf6+ Kc6 28. Rc1+ Kxb6 29. Rxd6+ Nc6 30. Rd7 Ra2 31. Rc2 h5 32. Bf3 Re8 33.
+Rxb7+ 1-0

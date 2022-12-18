@@ -1,0 +1,24 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Bang, Andreas"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "9ee92c9e"]
+[Epoch "Queen"]
+[WhiteID "4100425"]
+[WhiteCountry "RUS"]
+[BlackID "1400290"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bb3 Na6 9. c3 Bxb3 10. Qxe7+ Bxe7 11. axb3 c5 12. Nf3 cxd4 13. Nxd4 Bc5 14.
+Be3 O-O-O 15. O-O Rhe8 16. Rfd1 g6 17. Kf1 Re7 18. b4 Bb6 19. Nb5 Rxd1+ 20.
+Rxd1 Bxe3 21. fxe3 Nc7 22. Nd6+ Kb8 23. Nf5 Re8 24. Nh6 a6 25. Kf2 Kc8 26. Nxf7
+Nb5 27. Rd6 f5 28. c4 Re7 29. cxb5 Rxf7 30. bxa6 bxa6 31. Rxa6 Rb7 32. Rc6+ Kb8
+33. Rc4 Re7 34. e4 fxe4 35. Ke3 Kb7 36. Rxe4 Rc7 37. Kf4 Kb6 38. Kg5 Rc2 39.
+Rg4 Kb5 40. Kh6 Rc7 41. b3 Re7 42. h4 Rd7 43. Re4 Rf7 44. g4 1-0

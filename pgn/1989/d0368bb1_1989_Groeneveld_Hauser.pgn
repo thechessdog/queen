@@ -1,0 +1,20 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Groeneveld, K."]
+[Black "Hauser, J."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "d0368bb1"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+Ne7 9. Nf3 Bd7 10. Bb2 Bxb5 11. Bxb5+ Nbc6 12. Bd3 Bb6 13. O-O a6 14. Kh1
+h6 15. Qd2 O-O 16. a4 Qc7 17. b5 axb5 18. axb5 Na5 19. Bxd4 Nc4 20. Qf2
+Bxd4 21. Qxd4 b6 22. g3 Na3 23. Rfc1 Ra5 24. Qf2 Rfa8 25. Nd4 Nc4 26. Qe1
+Nb2 27. Be2 Ra4 28. Rxa4 Rxa4 29. c3 Ra3 30. Kg1 Qc5 31. Kh1 Na4 32. Bf1
+Rxc3 0-1
+

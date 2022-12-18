@@ -1,0 +1,20 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1985.01.01"]
+[Round "13"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Sunye Neto, Jaime"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "d5d9ae71"]
+[Epoch "Queen"]
+[BlackID "2100037"]
+[BlackCountry "BRA"]
+[WhiteCountry "ESP"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8. Nc3
+O-O 9. Kh1 b6 10. f4 Bb7 11. Qe2 Qc7 12. e5 dxe5 13. fxe5 Nfd7 14. Bf4 Nc5 15.
+Bc2 Nc6 16. Nxc6 Bxc6 17. Rad1 a5 18. Nd5 exd5 19. cxd5 Bxd5 20. Rxd5 Qc6 21.
+Qf3 Qe6 22. Be3 Rad8 23. Bxc5 Bxc5 24. Qd3 1-0

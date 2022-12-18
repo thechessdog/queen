@@ -1,0 +1,21 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pasta"]
+[Black "Mazzeo"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "02a1177a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. O-O-O a6 12. h4 f4 13. Bf2 Nf6 14. Kb1 Nbd7
+15. Nge2 Nh5 16. Rc1 b5 17. Rc2 Qa5 18. Nc1 Nc5 19. Nb3 Nxb3 20. axb3 Qb4
+21. Rhc1 Bd7 22. Na2 Qxd2 23. Rxd2 Rac8 24. Rdc2 Rxc2 25. Rxc2 Rc8 26. Nb4
+Rxc2 27. Kxc2 Bc8 28. Kc3 Bf6 29. Nc6 Ng3 30. Bb6 Kf7 31. Bc7 Be7 32. Na7
+Bb7 33. Kb4 Ke8 34. Ka5 Kd7 35. Kb6 Ba8 36. Bb8 Bxh4 37. Kxa6 Be7 38. Bxb5+
+Kd8 39. Kb6 g5 40. Bc7# 1-0
+

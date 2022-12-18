@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schwibbe"]
+[Black "Tempelhoff"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "215e5697"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qe7 8. Qd1 Qb4+ 9. Nc3 Nce7 10. a3 Qc5 11. Be3 Qc7 12. Qg4 g6 13. Qf3 d6
+14. Be2 f5 15. Bg5 h6 16. Bd2 Nf6 17. O-O-O Be6 18. h4 Rc8 19. exf5 gxf5
+20. Kb1 d5 21. Rc1 Kf7 22. Qg3 d4 23. Nd1 Ne4 24. Qd3 Qc4 0-1
+

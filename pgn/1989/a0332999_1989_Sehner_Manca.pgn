@@ -1,0 +1,21 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "6"]
+[White "Sehner, Norbert"]
+[Black "Manca, Federico"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "a0332999"]
+[Epoch "Queen"]
+[WhiteID "4600398"]
+[WhiteCountry "GER"]
+[BlackID "800171"]
+[BlackCountry "ITA"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 e6 6. Nf3 Nge7 7. O-O O-O 8. Rb1
+b6 9. Bf4 d6 10. Qd2 e5 11. Bh6 f6 12. Bxg7 Kxg7 13. a3 Bb7 14. Ne1 Qd7 15. e3
+Nd8 16. d4 Bxg2 17. Nxg2 cxd4 18. exd4 Ne6 19. Ne2 Nc6 20. d5 Ned4 21. dxc6
+Nf3+ 0-1

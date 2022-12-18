@@ -1,0 +1,20 @@
+[Event "Philadelphia open"]
+[Site "Philadelphia open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Goregliad, Sergei"]
+[Black "Dauvergne, Peter"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "45b243d3"]
+[Epoch "Queen"]
+[WhiteID "2002884"]
+[WhiteCountry "USA"]
+[BlackID "2600536"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. cxd5 exd5 6. Qc2 h6 7. Bh4 O-O 8. e3
+Nbd7 9. O-O-O b6 10. g4 Bb7 11. Bxf6 Nxf6 12. Bd3 Nxg4 13. Nf3 c5 14. Kb1 Bh4
+15. Rdf1 Qf6 16. Bf5 cxd4 17. exd4 Bc8 18. Nxd5 Qxf5 0-1

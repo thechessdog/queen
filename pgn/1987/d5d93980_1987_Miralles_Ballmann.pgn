@@ -1,0 +1,20 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "10"]
+[White "Miralles, Gilles"]
+[Black "Ballmann, Martin"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "d5d93980"]
+[Epoch "Queen"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+[BlackID "1300350"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 cxd4 6. exd4 d5 7. Ne2 O-O 8. O-O
+Nc6 9. a3 Be7 10. cxd5 Nxd5 11. Bc2 b6 12. Qd3 g6 13. Bh6 Re8 14. Ba4 Bb7 15.
+Rac1 Rc8 16. Rfd1 a6 17. b4 Bg5 18. Bxg5 Qxg5 19. Ne4 1/2-1/2

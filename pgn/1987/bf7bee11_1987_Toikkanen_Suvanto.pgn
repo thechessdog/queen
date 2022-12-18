@@ -1,0 +1,17 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Toikkanen, Pekka"]
+[Black "Suvanto, Petro"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "bf7bee11"]
+[Epoch "Queen"]
+
+1. c4 c6 2. e4 d5 3. e5 Bf5 4. d4 e6 5. Nc3 f6 6. Qb3 Qb6 7. Qxb6 axb6 8.
+f4 Na6 9. a3 Nb4 10. Kd2 Nc2 11. Ra2 Nxd4 12. cxd5 exd5 13. Nf3 Nb3+ 14.
+Kd1 d4 15. Ne2 Bb1 16. Nexd4 O-O-O 0-1
+

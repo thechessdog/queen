@@ -1,0 +1,19 @@
+[Event "Munich op"]
+[Site "Munich"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Niessbeck, J."]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "8c4feb77"]
+[Epoch "Queen"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5
+Bb6 9. Nbd2 Na5 10. Qc2 Nxc4 11. Nxc4 Qc6 12. Nxb6 axb6 13. Nd4 Qc4 14. exd6 c5
+15. Ne2 Nf6 16. f3 O-O 17. O-O Re8 18. Bg5 Nd5 19. Rfd1 Nb4 20. Qb3 Qxe2 21. d7
+Bxd7 22. Rxd7 Re6 23. cxb4 Rg6 24. Qxf7+ Kh8 25. Rad1 1-0

@@ -1,0 +1,22 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Alber, Horst"]
+[Black "Rigo, Janos"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "c02300ee"]
+[Epoch "Queen"]
+[WhiteID "4602013"]
+[WhiteCountry "GER"]
+[BlackID "700371"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 c6 6. Nc3 d5 7. cxd5 b5 8. Qb3 b4
+9. dxe6 bxc3 10. exf7+ Ke7 11. bxc3 Qd5 12. Bg2 Qxf7 13. Bf4 Qc4 14. O-O Nbd7
+15. Nd2 Qxb3 16. axb3 Bb7 17. Nc4 Nd5 18. Na5 Nxf4 19. gxf4 Rb8 20. Nxc6+ Bxc6
+21. Bxc6 Nf6 22. Rxa7+ Kd6 23. Bf3 Rxb3 24. Rfa1 Ke6 25. e4 Ne8 26. R1a6+ Nd6
+27. Bg4+ 1-0

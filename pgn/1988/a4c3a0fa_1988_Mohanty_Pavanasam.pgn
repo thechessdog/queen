@@ -1,0 +1,20 @@
+[Event "India ch-IND"]
+[Site "India ch-IND"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mohanty, Pabitra M"]
+[Black "Pavanasam, Ananchaperumal"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "a4c3a0fa"]
+[Epoch "Queen"]
+[WhiteID "5000653"]
+[WhiteCountry "IND"]
+[BlackID "5000416"]
+[BlackCountry "IND"]
+
+1. e4 c5 2. g3 g6 3. Bg2 Bg7 4. f4 d6 5. Nf3 Nc6 6. O-O e6 7. d3 Nge7 8. c3 O-O
+9. Na3 b6 10. b3 Bb7 11. Nc2 Qd7 12. Kh1 f5 13. exf5 exf5 14. d4 cxd4 15. Ncxd4
+Nxd4 16. Nxd4 Be4 17. Be3 d5 1/2-1/2

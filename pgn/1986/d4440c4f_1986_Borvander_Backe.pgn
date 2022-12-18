@@ -1,0 +1,22 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Borvander, Tom"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "d4440c4f"]
+[Epoch "Queen"]
+[WhiteID "1707388"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 O-O 7. O-O Ba6 8. Ne5
+Ra7 9. Bxb4 axb4 10. a3 d6 11. axb4 dxe5 12. b5 exd4 13. bxa6 Rxa6 14. Na3 e5
+15. Qd2 c5 16. Nb5 e4 17. f3 e3 18. Qd3 Rxa1 19. Rxa1 Nc6 20. Ra3 Qd7 21. Bf1
+Ne5 22. Qc2 d3 23. exd3 Nxf3+ 24. Kh1 Ng4 25. Ra7 Qxa7 26. Nxa7 Nf2+ 27. Qxf2
+exf2 28. Kg2 Nd4 29. Kxf2 Ra8 0-1

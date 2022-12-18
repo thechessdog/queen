@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Seret, Jean-Luc"]
+[Black "Mercier"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "d39c6878"]
+[Epoch "Queen"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Na5 12. f5 Kd8 13. Bg5+ Be7 14. fxe6 Nxe5
+15. Nf5 Bxg5 16. Qxg5+ f6 17. Qd2 Bxe6 18. Nxg7 Bf7 19. O-O Qc5+ 20. Kh1 Rc8
+21. Rxf6 Nac4 22. Bxc4 Nxc4 23. Qg5 Qe3 24. Rf4+ Qe7 25. Qxe7+ Kxe7 26. Re1+
+Kf8 27. Ref1 1-0

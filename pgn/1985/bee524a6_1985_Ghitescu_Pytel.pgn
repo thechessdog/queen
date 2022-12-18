@@ -1,0 +1,19 @@
+[Event "Metz"]
+[Site "Metz"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ghitescu, Theodor"]
+[Black "Pytel, Krzysztof"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "bee524a6"]
+[Epoch "Queen"]
+[BlackID "600199"]
+[WhiteCountry "ROU"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 h6 6. Bh4 d5 7. e3 c5 8. Rc1
+cxd4 9. exd4 b6 10. cxd5 Qxd5 11. Bxf6 gxf6 12. Qd2 Qh5 13. g4 Qa5 14. Qxh6 Bb7
+15. Bd3 1-0

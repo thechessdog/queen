@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wyss"]
+[Black "Martorelli"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "ffa58326"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. c4 Nb6 6. Nc3 Bg7 7. c5 N6d7
+8. Bc4 O-O 9. O-O h6 10. Re1 Nc6 11. Be3 e6 12. Qd2 Kh7 13. Rad1 Nf6 14.
+Bf4 Ne7 15. Be5 Nfd5 16. Bxd5 Nxd5 17. Nxd5 exd5 18. Qf4 Bxe5 19. Rxe5 Be6
+20. h4 Kg7 21. Rde1 Qf6 22. Qg3 Rae8 23. R5e3 Re7 24. Ne5 Rfe8 25. Rf3 Bf5
+26. Qf4 Re6 27. Ree3 h5 28. Ra3 Qe7 29. Rg3 f6 30. Qxf5 fxe5 31. dxe5 Rf8
+32. Qxh5 Rh8 33. Qg5 Rxh4 34. Rxa7 c6 35. Rxb7 Qxb7 36. Qxh4 1-0
+

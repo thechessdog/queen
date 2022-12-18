@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Szalanczy, Emil"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ea9df80c"]
+[Epoch "Queen"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Rb8 11. a4 1/2-1/2

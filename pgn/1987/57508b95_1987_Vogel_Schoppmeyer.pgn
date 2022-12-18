@@ -1,0 +1,21 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vogel, K."]
+[Black "Schoppmeyer, H."]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "57508b95"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O c5 7. d5 e6 8. Nc3
+exd5 9. cxd5 Nbd7 10. Nd2 a6 11. a4 Re8 12. Qc2 Rb8 13. Nc4 Nb6 14. Nxb6
+Qxb6 15. Bd2 Qc7 16. Rfe1 b5 17. Nd1 b4 18. Rc1 a5 19. e4 Nd7 20. b3 Nb6
+21. Ne3 Ba6 22. Bf1 Bxf1 23. Kxf1 Qd7 24. Kg2 Bd4 25. Nc4 Nxc4 26. Qxc4 f5
+27. exf5 Qxf5 28. f3 g5 29. h3 Rf8 30. f4 Rbe8 31. g4 Qf7 32. f5 Re5 33.
+Rxe5 Bxe5 34. Rf1 h6 35. h4 gxh4 36. Bxh6 h3+ 37. Kxh3 Qh7 38. g5 Rxf5 39.
+Qg4 1-0
+

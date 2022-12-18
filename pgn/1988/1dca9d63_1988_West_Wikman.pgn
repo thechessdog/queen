@@ -1,0 +1,18 @@
+[Event "corr AUS-SF"]
+[Site "corr AUS-SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "West"]
+[Black "Wikman"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "1dca9d63"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8.
+Nh4 c6 9. cxd5 Nxd5 10. Nf5 Bc5 11. e4 Qf6 12. Bd2 Re8 13. Qf3 Nb4 14. Bc3
+Qg6 15. Nxg7 Rc8 16. Bh3 Nc2 17. Bf5 Qg5 18. h4 Qh6 19. Qg4 Kf8 20. Nh5
+Bxf2+ 21. Rxf2 Qc1+ 22. Kh2 1-0
+

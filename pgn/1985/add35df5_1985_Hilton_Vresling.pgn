@@ -1,0 +1,17 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hilton, S."]
+[Black "Vresling, S."]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "Kramer system"]
+[HashCode "add35df5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 e5 7. d5 c6 8.
+Be2 cxd5 9. cxd5 a6 10. h4 h5 11. a4 Nbd7 12. Bg5 Qb6 13. a5 Qc7 14. Qd2
+Re8 15. b4 b5 16. Rc1 Qb8 17. Bh6 1/2-1/2
+

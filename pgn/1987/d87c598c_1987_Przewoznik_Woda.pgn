@@ -1,0 +1,24 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Przewoznik, Jan"]
+[Black "Woda, Jacek"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "d87c598c"]
+[Epoch "Queen"]
+[WhiteID "1100149"]
+[BlackID "1100343"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 Bg4 10. h3 Bh5 11. d3 Na5 12. Bc2 c5 13. Nbd2 Nd7 14. Nf1 Bxf3 15.
+Qxf3 Bg5 16. Bxg5 Qxg5 17. axb5 axb5 18. Ne3 Nb6 19. Nf5 Qf6 20. Qe3 Nd7 21. f4
+g6 22. fxe5 Nxe5 23. Qh6 Nac6 24. Rxa8 Rxa8 25. Rf1 b4 26. Bb3 bxc3 27. bxc3
+Ne7 28. Ne3 Qg7 29. Qh4 N7c6 30. Bd5 Ra7 31. Nc2 Ne7 32. d4 Nxd5 33. dxe5 Nxc3
+34. exd6 Qe5 35. Qd8+ Kg7 36. Rf5 Qe6 37. Rf2 Nxe4 38. Re2 Qxd6 39. Qh4 Nc3 40.
+Rf2 Re7 41. Rf3 Ne2+ 42. Kf1 Re6 43. Ne3 Nd4 0-1

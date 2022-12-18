@@ -1,0 +1,17 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Slavtchev, P."]
+[Black "Lizan, L."]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "a58b8656"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6
+8. Nc3 Nc6 9. d5 Na5 10. e4 c6 11. Bg5 h6 12. Bf4 cxd5 13. exd5 Nac4 14.
+Bc1 e6 15. dxe6 Bxe6 16. Qc2 Rc8 17. Rd1 Qe7 18. Qe4 Nxb2 19. Bxb2 Bxc3 20.
+Bxc3 Rxc3 1/2-1/2
+

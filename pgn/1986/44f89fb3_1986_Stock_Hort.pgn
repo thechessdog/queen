@@ -1,0 +1,19 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stock, P."]
+[Black "Hort, Vlastimil"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "44f89fb3"]
+[Epoch "Queen"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. g4 d6 2. Bg2 Nf6 3. g5 Nfd7 4. d3 e5 5. f4 Nc6 6. c4 Be7 7. h4 exf4 8. Bxf4
+Nde5 9. Nc3 O-O 10. Qd2 Ng4 11. Nh3 Nce5 12. O-O-O c6 13. Rdf1 Bd7 14. Nf2 Nxf2
+15. Rxf2 Re8 16. Be4 Bf8 17. h5 Qa5 18. Kb1 Ng4 19. Rg2 Rad8 20. Rhg1 Ne5 21.
+g6 fxg6 22. hxg6 h6 23. Bxh6 Nxc4 24. Qf4 Ne5 25. Bg5 Be7 26. Qh4 Bxg5 27. Rxg5
+Be6 28. Rf1 1-0

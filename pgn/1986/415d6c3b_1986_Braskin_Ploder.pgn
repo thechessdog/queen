@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Braskin"]
+[Black "Ploder"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "415d6c3b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. Ne5 Bxe5 7. d4 Bg7 8.
+Qh5 Qe7 9. Nc3 Nf6 10. Qf3 Nc6 11. Nb5 d5 12. Bb3 Bg4 13. Qd3 Nb4 14. Qc3
+Qxe4+ 15. Kf1 Qe2+ 16. Kg1 Qxb5 0-1
+

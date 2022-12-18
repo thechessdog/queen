@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Arnason, Asgeir T"]
+[Black "Hjartarson, Bjarni"]
+[Result "1-0"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "39e43dc0"]
+[Epoch "Queen"]
+[WhiteID "2300427"]
+[WhiteCountry "ISL"]
+[BlackID "2300672"]
+[BlackCountry "ISL"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 O-O 10. h3 Ne4 11. Nxe4 Bxe4 12. Nd2 Bg6 13. f4 Nf6 14. g4 c5 15.
+Nb3 Rc8 16. Nxc5 Bxc5 17. dxc5 Rxc5 18. Rd1 Qc8 19. b3 Rd8 20. Bb2 h5 21. Rxd8+
+Qxd8 22. Rd1 Qa8 23. Bxf6 gxf6 24. f5 b5 25. axb5 hxg4 26. fxg6 gxh3 27. gxf7+
+Kxf7 28. e4 Re5 29. Rd7+ Kf8 30. Qd3 Qxe4 31. Qd6+ Kg8 32. Qb8# 1-0

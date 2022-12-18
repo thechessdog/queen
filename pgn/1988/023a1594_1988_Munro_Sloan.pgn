@@ -1,0 +1,19 @@
+[Event "corr ch-AUS reserve"]
+[Site "corr ch-AUS reserve"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Munro"]
+[Black "Sloan"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller (Therkatz) attack"]
+[HashCode "023a1594"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Bxc3 9. d5 Qf6 10. bxc3 Qxc3 11. Qe2 O-O 12. dxc6 Nf6 13. Bb2
+Qa5 14. Qe3 bxc6 15. Ne5 d5 16. Nxc6 Qa4 17. Ne7+ Kh8 18. Bxf6 gxf6 19. Qh6
+Rg8 20. Bxd5 Rb8 21. Bxf7 Rxg2+ 22. Kh1 Bb7 23. Qxf6+ Rg7+ 24. Nd5 Qd7 25.
+Rad1 Qxf7 26. Qxf7 Rxf7 27. Kg1 Rg7+ 28. Kh1 Rd8 29. Rfe1 Bxd5+ 0-1
+

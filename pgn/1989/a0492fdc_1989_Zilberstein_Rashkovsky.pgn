@@ -1,0 +1,19 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zilberstein, David"]
+[Black "Rashkovsky, Nukhim N"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "a0492fdc"]
+[Epoch "Queen"]
+[WhiteID "800317"]
+[WhiteCountry "ITA"]
+[BlackID "4100603"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 b6 5. e3 Bb7 6. Bd3 d6 7. Nbd2 Nbd7 8. Qe2
+g5 9. Bg3 Nh5 10. O-O Bg7 11. c3 a5 12. Rac1 Qe7 13. Ne1 Nxg3 1/2-1/2

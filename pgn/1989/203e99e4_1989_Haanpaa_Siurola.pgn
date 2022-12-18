@@ -1,0 +1,15 @@
+[Event "Tampere op"]
+[Site "Tampere"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Haanpaa, Jorma"]
+[Black "Siurola, Timo"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "203e99e4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d6 5. d5 Ne5 6. f4 Nd7 7. Nf3 g6 8. Qd4
+Ngf6 9. e5 Nh5 10. e6 Bg7 11. exd7+ Bxd7 12. Qb4 Rc8 13. Nc3 1-0

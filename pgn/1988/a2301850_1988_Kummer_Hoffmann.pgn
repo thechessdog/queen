@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kummer, G."]
+[Black "Hoffmann, Hans"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "a2301850"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O Re8 10. Ng3 a6 11. a4 Nbd7 12. f4 Nb6 13. h3 Bd7 14. Be3 Nbxd5 15.
+exd5 Rxe3 16. Kh2 Ng4+ 0-1

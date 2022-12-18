@@ -1,0 +1,27 @@
+[Event "Montpellier-A"]
+[Site "Montpellier"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pira, Davoud"]
+[Black "Klaric, Zlatko"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Horwitz attack"]
+[HashCode "6c5ce3e1"]
+[Epoch "Queen"]
+[WhiteID "600407"]
+[BlackID "14500248"]
+[WhiteCountry "FRA"]
+[BlackCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bc5 6. Qe2 Nd4 7. Nxd4 Bxd4
+8. g3 Qe7 9. c3 Bc5 10. Bg2 d6 11. O-O Nf6 12. b4 Bb6 13. h3 O-O 14. Qd3 a5 15.
+Bb2 Be6 16. a3 Nd7 17. Nd2 Ne5 18. Qe2 Qg5 19. c4 Bxh3 20. c5 dxc5 21. bxa5
+Bxg2 22. Kxg2 Bxa5 23. Nb3 Bb6 24. f4 Qg4 25. Qc2 Nc6 26. Rh1 Nd4 27. Bxd4 cxd4
+28. Rh4 Qd7 29. Qd3 f5 30. Nd2 Rae8 31. e5 Qd5+ 32. Kf2 Re6 33. Rc1 Rc6 34.
+Rxc6 Qxc6 35. Qc4+ Qxc4 36. Nxc4 Bc5 37. a4 b6 38. Rh1 Ra8 39. Ra1 b5 40. Nb2
+d3+ 41. Ke1 Bd4 42. Ra2 Bxb2 43. Rxb2 bxa4 44. Kd2 a3 45. Ra2 Kf7 46. Kxd3 Ke6
+47. Kc2 g5 48. Kb1 gxf4 49. gxf4 Ra4 50. Rf2 a2+ 51. Ka1 h5 52. Rf1 h4 53. Rf3
+c5 54. Rf1 h3 55. Rf2 Ra8 56. Rh2 Rh8 57. Kxa2 Kd5 58. Rh1 h2 59. Kb3 Ke4 60.
+e6 Kf3 0-1

@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Uppsala"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wiedenkeller, Michael"]
+[Black "Eriksson, Anders"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "d19c1b46"]
+[Epoch "Queen"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+[BlackID "1701053"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 c5 8. a3
+Bxc3+ 9. bxc3 Qc7 10. Bd3 Rd8 11. O-O e5 12. dxe5 Ng4 13. Qc2 Qxe5 14. Ng3 h6
+15. h3 Nf6 16. Bb2 Nc6 17. c4 Qe6 18. Rad1 b6 19. Ne2 Bb7 20. Nf4 Qe7 21. Qc3
+Qf8 22. Bb1 Na5 23. f3 Rxd1 24. Rxd1 Rd8 25. Nd5 Ne8 26. Qd3 f5 27. Nf6+ Nxf6
+28. Qxd8 Nxc4 29. Bxf6 gxf6 30. Qc7 1-0

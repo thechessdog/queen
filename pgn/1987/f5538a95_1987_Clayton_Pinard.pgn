@@ -1,0 +1,17 @@
+[Event "AUS-CAN"]
+[Site "AUS-CAN"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Clayton"]
+[Black "Pinard"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "f5538a95"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 c6 8.
+Nc3 Nf6 9. Bg5 Nbd7 10. f4 Qc7 11. Qf3 Bb4 12. Rae1 dxc4 13. Bxc4 Nxe5 14.
+fxe5 Ne8 15. e6 Nd6 16. e7 Nxc4 17. exf8=Q+ Kxf8 18. Be7+ 1-0
+

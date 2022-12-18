@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Winkler, E."]
+[Black "Schneider, W."]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Reti variation"]
+[HashCode "6cefe4df"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Bg4 6. Nf3 Qxd5 7. Nbd2 Nc6
+8. dxe4 Qh5 9. Qb5 O-O-O 10. e5 Nd5 11. a4 Ne3 12. Qb3 Nb4 13. Rb1 Nbxc2+
+14. Kf2 Bc5 0-1
+

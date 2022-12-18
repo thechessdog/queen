@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Talvensaari"]
+[Black "Aitakangas, O."]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "694ec30e"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 Qb6 7. Nb3 cxd5 8.
+Bg2 Bf5 9. d3 Bb4 10. O-O Bxc3 11. bxc3 O-O 12. Be3 Qc7 13. Nd4 Bg6 14. Qb1
+b6 15. Rd1 exd3 16. exd3 Nc6 17. Nxc6 Qxc6 18. c4 Rad8 19. Bd4 Rfe8 20. Qb2
+Rd6 21. Bxf6 Rxf6 22. Bxd5 Qc5 23. Re1 Rxe1+ 24. Rxe1 Kf8 25. Qe2 1-0
+

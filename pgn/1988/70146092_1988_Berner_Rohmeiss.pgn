@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Berner, M."]
+[Black "Rohmeiss, H."]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "70146092"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 O-O
+8. e5 Ne8 9. Bf4 b5 10. Bb3 d5 11. Nxd4 Nxd4 12. Qxd4 Be6 13. c3 c5 14. Qd1
+c4 15. Bc2 g6 16. Nd2 b4 17. Nf3 Nc7 18. Nd4 Bd7 19. Bh6 Re8 20. f4 bxc3
+21. bxc3 Nb5 22. Nxb5 Bxb5 23. f5 Bf8 24. Bxf8 Rxf8 25. Qd4 Qd7 26. Qh4
+Rad8 27. f6 Qe8 28. Bxg6 1-0
+

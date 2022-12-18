@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ambarcumjan, Armen"]
+[Black "Sakaev, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "ab4d8687"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 g6 6. Qc2 Bxf3 7. gxf3 Nc6 8. e3
+Bg7 9. f4 O-O 10. Bg2 Rb8 11. Qa4 Na5 12. c5 c6 13. b4 Nc4 14. Qa6 d5 15. cxd6
+Nxd6 16. Bd2 c5 17. dxc5 1/2-1/2

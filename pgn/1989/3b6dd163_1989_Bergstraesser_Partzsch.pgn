@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bergstraesser, A."]
+[Black "Partzsch, L."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "3b6dd163"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. f3 Be7 10. O-O-O O-O 11. g4 Nb6 12. g5 Nh5 13. Kb1 Rc8 14. Rg1
+Qc7 15. f4 Nxf4 16. Bxf4 exf4 17. Qxf4 Nd7 18. Rd2 Ne5 19. h4 f6 20. g6
+hxg6 21. Qg3 Qb6 22. Bh3 Bxh3 23. Nd5 Qd8 24. Qxh3 Kf7 25. Nd4 Rc5 26. h5
+Qd7 27. hxg6+ Ke8 28. Nf5 Rxd5 29. Rxd5 Kd8 30. Qh7 Qe8 1-0
+

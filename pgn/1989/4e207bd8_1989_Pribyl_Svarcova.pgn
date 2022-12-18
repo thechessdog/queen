@@ -1,0 +1,19 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pribyl, Martin"]
+[Black "Svarcova, J."]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "4e207bd8"]
+[Epoch "Queen"]
+[WhiteID "302392"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Bd3 Bb7 11. O-O Nd7 12. Rc1 Nb4 13. Bb1 c5 14. a3 cxd4
+15. Nxd4 Nd5 16. Nxd5 Bxd5 17. e4 Bb7 18. Rc7 Qd8 19. Nxe6 fxe6 20. Rxd7 Qc8
+21. Qd6 Qc6 22. Qe7 1-0

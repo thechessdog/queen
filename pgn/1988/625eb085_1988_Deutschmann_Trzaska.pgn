@@ -1,0 +1,23 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Deutschmann, Matthias"]
+[Black "Trzaska, Peter"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "625eb085"]
+[Epoch "Queen"]
+[WhiteID "4645626"]
+[WhiteCountry "GER"]
+[BlackID "4613970"]
+[BlackCountry "GER"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 g6 6. cxd5 Bg7 7. Bb5+ Nbd7 8.
+d6 exd6 9. Qe2+ Qe7 10. Bf4 d5 11. Bd6 Qxe2+ 12. Ngxe2 a6 13. Ba4 b5 14. Bb3
+Nb6 15. Nf4 Be6 16. a4 Nc4 17. Bxc4 bxc4 18. O-O O-O-O 19. Be5 Nh5 20. Nxe6
+fxe6 21. Rfe1 Rhf8 22. a5 Bxe5 23. Rxe5 Nf4 24. Na4 Nd3 25. Rxe6 Rxf2 26. Rxa6
+Rc2 27. Ra8+ Kc7 28. Rxd8 Kxd8 29. a6 Kc7 30. a7 Kb7 31. Nb6 Rc1+ 32. Rxc1 Kxa7
+33. Nc8+ Kb7 34. Rc3 Nxb2 35. Ne7 Nd1 36. Nxd5 Kc6 37. Rc1 1-0

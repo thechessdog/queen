@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Reiser, F."]
+[Black "Michel, F."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "Norwalde variation"]
+[HashCode "6fb87d6b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Qf6 3. d3 exf4 4. Qg4 Nc6 5. c3 d5 6. Qxf4 dxe4 7. Qxe4+ Be7
+8. Nf3 Bf5 9. Qa4 Qe6+ 10. Kf2 Nf6 11. g3 O-O 12. Qd1 Ng4+ 13. Kg2 Rfe8 14.
+Be2 Bc5 0-1
+

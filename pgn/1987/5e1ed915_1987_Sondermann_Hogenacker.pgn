@@ -1,0 +1,25 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "11"]
+[White "Sondermann, Johannes"]
+[Black "Hogenacker, Jacques"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "5e1ed915"]
+[Epoch "Queen"]
+[WhiteID "4621670"]
+[WhiteCountry "GER"]
+[BlackID "4603427"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+O-O 9. f4 Nbd7 10. f5 Nc5 11. fxe6 fxe6 12. Qe2 Nxb3 13. axb3 Qc7 14. Re1 Rd8
+15. Ra4 e5 16. Nf5 Bxf5 17. exf5 b5 18. Ra1 Rdc8 19. Bg5 b4 20. Na4 Qb7 21. c4
+bxc3 22. bxc3 Rc6 23. c4 Ne8 24. Bd2 Qxb3 25. Qe4 Qb7 26. Reb1 Qc7 27. Nb6 Rb8
+28. Nd5 Rxb1+ 29. Rxb1 Rxc4 30. Nxc7 Rxe4 31. Nxe8 d5 32. Nc7 Re2 33. Bb4 Bxb4
+34. Rxb4 d4 35. Nxa6 Kf7 36. g4 Kf6 37. Nc5 Kg5 38. h3 Kh4 39. Rb3 e4 40. Kf1
+d3 41. Rb4 Kxh3 42. g5 Kg3 43. f6 Rf2+ 44. Ke1 d2+ 45. Kd1 e3 46. Ne4+ Kf3 47.
+Nxf2 exf2 0-1

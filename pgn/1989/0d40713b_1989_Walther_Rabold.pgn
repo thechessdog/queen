@@ -1,0 +1,19 @@
+[Event "corr EU/I"]
+[Site "corr EU/I"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Rabold"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[HashCode "0d40713b"]
+[Epoch "Queen"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Qd7 13. Nc3 f5 14. Nxd5 Kh8 15.
+Nb6 Bxc4 16. Nxc4 Qe6 17. Be3 Rad8 18. Nd4 Nxd4 19. Bxd4 c5 20. Be3 Rxd1+ 21.
+Rxd1 h6 22. Bc1 Nd6 23. Nxd6 Qxa2 24. Qc4 Qb1 25. Qxc5 Kh7 26. Qd4 Rd8 27. Bg5
+Rxd6 28. exd6 1-0

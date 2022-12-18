@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Suarez, M."]
+[Black "Selke, H."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "912b4d68"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Nxe5 Nxe5 7. Qh5+ Ng6
+8. dxc5 Nf6 9. Qg5 O-O 10. Be3 b6 11. a4 Re8 12. Bd4 Bb7 13. O-O bxc5 14.
+Qxc5 Ng4 15. Qf5 N4e5 16. Nd2 a6 17. Bc4+ d5 18. Bb3 Kh8 19. Bc2 Bc8 20.
+Qh5 Bg4 0-1
+

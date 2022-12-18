@@ -1,0 +1,21 @@
+[Event "Busum"]
+[Site "Busum"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Riemersma, Liafbern"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b39ace5f"]
+[Epoch "Queen"]
+[BlackCountry "NLD"]
+[WhiteID "1000233"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. f3 Rb8 13. Nc4 Ba6 14. Bd2 Nh5 15. g4
+Bd4+ 16. Kh1 Ng7 17. Na3 Bxe2 18. Qxe2 a6 19. Nc4 f5 20. gxf5 gxf5 21. Qg2 Kh8
+22. Ne2 Bf6 23. Rg1 b5 24. axb5 axb5 25. Na5 Qe8 26. Nc6 Rb7 27. Bc3 Bxc3 28.
+bxc3 Qf7 29. Nf4 fxe4 30. fxe4 Qd7 31. Raf1 Kg8 32. Nh5 Rxf1 33. Qxf1 1-0

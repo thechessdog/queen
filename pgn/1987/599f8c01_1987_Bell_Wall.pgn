@@ -1,0 +1,19 @@
+[Event "Sunnyvale,CA"]
+[Site "Sunnyvale,CA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bell, Steve"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Katalimov variation"]
+[HashCode "599f8c01"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 b6 3. g3 Bb7 4. d3 g6 5. Nbd2 Bg7 6. Bg2 d6 7. O-O Nf6 8. a4
+O-O 9. c3 Nbd7 10. Ne1 Rc8 11. f4 Qc7 12. Qe2 e6 13. Ndf3 a6 14. h3 b5 15. g4
+e5 16. f5 c4 17. d4 exd4 18. cxd4 c3 19. bxc3 Qxc3 20. Ra3 Qc2 21. axb5 Nxe4
+22. Ne5 Nd2 23. Bxb7 Nxf1 24. Qxc2 Rxc2 25. Nxd7 Bxd4+ 26. Kxf1 Rxc1 27. Ke2
+Rd8 28. Kd3 Rxd7 29. Bc6 Rc7 30. Kxd4 axb5 31. f6 R7xc6 0-1

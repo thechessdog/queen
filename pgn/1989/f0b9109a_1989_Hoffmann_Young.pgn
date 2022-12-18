@@ -1,0 +1,18 @@
+[Event "Manhattan"]
+[Site "Manhattan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoffmann, Hans"]
+[Black "Young, Ronald"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "f0b9109a"]
+[Epoch "Queen"]
+[BlackID "2001896"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d3 g6 6. a3 Bg7 7. b4 c4 8. dxc4
+Nxe4 9. Qc2 Nf6 10. O-O O-O 11. Rd1 b6 12. h3 Bb7 13. Be3 Qc7 14. Nbd2 Rab8 15.
+Nb3 e5 16. Qc1 Ne7 17. Nh4 d5 18. c5 Ne4 19. cxb6 axb6 20. c4 d4 21. Bd2 Nxd2
+22. Nxd2 e4 23. g3 d3 24. Bf1 Bd4 0-1

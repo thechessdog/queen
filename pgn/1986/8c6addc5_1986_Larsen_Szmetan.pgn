@@ -1,0 +1,20 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Szmetan, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "8c6addc5"]
+[Epoch "Queen"]
+[BlackID "100366"]
+[WhiteID "1430670"]
+[WhiteCountry "DEN"]
+[BlackCountry "ARG"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nf3 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 a6 8. Bf4
+Bg4 9. Rc1 Nd7 10. d5 Bxf3 11. exf3 Nd4 12. Re1 c5 13. dxc6 bxc6 14. h4 a5 15.
+b3 Nc5 16. Be3 e5 17. f4 Nce6 18. fxe5 dxe5 19. Ne4 Qc7 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Glasscoe, Alan"]
+[Black "Baukol, J."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "125e3f5a"]
+[Epoch "Queen"]
+[WhiteID "2094479"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Bc4 Nf6 5. f3 exf3 6. Nxf3 g6 7. Ne5 e6 8. O-O
+Be7 9. Bh6 Nbd7 10. Qe2 Nb6 11. Rad1 Rg8 12. Bb3 Bd7 13. Nxf7 Kxf7 14. Ne4 Re8
+15. Ng5+ 1-0

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hoffmann, Hans"]
+[Black "Adam"]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "7cf437df"]
+[Epoch "Queen"]
+[BlackID "7110219"]
+[BlackCountry "INA"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 d5 4. e3 Bg7 5. Nc3 O-O 6. Qb3 e6 7. Bd3 dxc4 8. Bxc4
+b6 9. e4 Bb7 10. Bg5 h6 11. Bxf6 Qxf6 12. O-O Nc6 13. e5 Qf5 14. Qd1 Na5 15.
+Be2 Rad8 16. b4 Nc6 17. Bd3 Qh5 18. Be4 Ba8 19. Qa4 Ne7 20. Qxa7 Bxe4 21. Nxe4
+Nc6 22. Qxc7 Nxd4 23. Nxd4 Rxd4 24. Rae1 Bxe5 25. Qxb6 Qxh2# 0-1

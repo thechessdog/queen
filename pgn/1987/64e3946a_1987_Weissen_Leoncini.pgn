@@ -1,0 +1,17 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weissen, George"]
+[Black "Leoncini, Mario"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "64e3946a"]
+[Epoch "Queen"]
+[BlackID "801712"]
+[BlackCountry "ITA"]
+
+1. g3 e5 2. Bg2 Nf6 3. d3 d5 4. Nd2 Nc6 5. e4 dxe4 6. dxe4 Bc5 7. c3 Bg4 8. f3
+Be6 9. Nh3 h6 10. Qe2 Qd7 11. Nf2 O-O-O 12. b4 Bb6 13. Nc4 Bxf2+ 14. Kxf2 Qd3
+15. Bf1 Bxc4 16. Qe1 Qc2+ 0-1

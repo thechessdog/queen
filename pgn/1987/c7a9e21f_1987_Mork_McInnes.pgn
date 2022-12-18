@@ -1,0 +1,17 @@
+[Event "Aalborg op"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Mork, Kjell Arne"]
+[Black "McInnes, N."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c7a9e21f"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nxc3 10. bxc3 Qd7 11. Rb1 b6 12. Bb5 e6 13. Qa4 Rc8 14. c4 Be7
+15. Be3 O-O 16. O-O Qb7 17. Ba6 Qa8 18. Bxc8 Nxd4 19. Bxd4 Qxf3 20. Be5 Rxc8
+21. Qd7 Rxc4 22. Qxe7 h5 23. Rb3 Rg4+ 24. Bg3 1-0

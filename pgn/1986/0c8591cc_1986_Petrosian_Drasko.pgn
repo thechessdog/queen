@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Petrosian, Tigran"]
+[Black "Drasko, Milan"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "0c8591cc"]
+[Epoch "Queen"]
+[WhiteCountry "GEO"]
+[BlackID "900397"]
+[BlackCountry "MNE"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. d4 Bg7 5. c4 O-O 6. cxd5 Nxd5 7. Nc3 c5 8. O-O
+cxd4 9. Nxd4 Nxc3 10. bxc3 a6 11. Qb3 Qc7 12. Rb1 Nd7 13. Ba3 Re8 14. Rfd1 e6
+15. c4 1/2-1/2

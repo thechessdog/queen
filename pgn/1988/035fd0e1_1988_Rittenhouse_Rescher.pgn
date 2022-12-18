@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rittenhouse, R."]
+[Black "Rescher, J."]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "035fd0e1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Rc1
+Ngxe5 8. Nxe5 Nxe5 9. e3 O-O 10. Be2 d6 11. O-O Ng6 12. Nd5 Qe8 13. Bg4 Bc5
+14. Nxc7 1-0
+

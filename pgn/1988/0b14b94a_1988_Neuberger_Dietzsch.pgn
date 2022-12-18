@@ -1,0 +1,25 @@
+[Event "RLP HM Landau"]
+[Site "RLP HM Landau"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Neuberger, Guido"]
+[Black "Dietzsch, Herbert"]
+[Result "1-0"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "0b14b94a"]
+[Epoch "Queen"]
+[WhiteID "4642112"]
+[WhiteCountry "GER"]
+[BlackID "4608364"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5 7. dxc5 Qa5 8. Rc1
+dxc4 9. Bxc4 Ne4 10. Be5 Bxe5 11. Nxe5 Qxc5 12. Qd5 Qxd5 13. Nxd5 Na6 14. Nxe7+
+Kg7 15. Bxa6 bxa6 16. Nxc8 Raxc8 17. Ke2 Rfd8 18. Nd3 Rb8 19. Rc2 Rb7 20. f3
+Nd6 21. Nc5 Re7 22. Rd1 Ree8 23. b4 Nb5 24. Rxd8 Rxd8 25. Nxa6 Na3 26. Rc7 Nb1
+27. Rc2 Na3 28. Rd2 Rc8 29. Nc5 a5 30. Nd3 Rc3 31. Nf4 axb4 32. Nd5 Rc4 33. Rb2
+Rc1 34. Nxb4 Rh1 35. h3 Rg1 36. Kd3 Rd1+ 37. Kc3 Re1 38. Nd3 Nb1+ 39. Kc2 Na3+
+40. Kb3 Rxe3 41. Kxa3 Rxd3+ 42. Kb4 Rd8 43. a4 Kf6 44. Re2 Rb8+ 45. Kc5 Ra8 46.
+Kb5 Kg5 47. a5 Rb8+ 48. Kc6 f5 49. a6 h5 50. a7 Ra8 51. Kb7 Rf8 52. a8=Q Rxa8
+53. Kxa8 Kf4 54. Kb7 g5 55. Kc6 Kg3 56. Kd5 g4 57. fxg4 hxg4 58. hxg4 1-0

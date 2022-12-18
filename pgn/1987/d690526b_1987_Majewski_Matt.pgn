@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Majewski, J."]
+[Black "Matt, A."]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "d690526b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Nc3 Nc6
+8. Be3 Ne5 9. h3 Bc5 10. Qe2 d6 11. f4 Ng6 12. Rae1 O-O 13. g4 e5 14. fxe5
+dxe5 15. Nf5 Nf4 16. Qf3 Be6 17. Kh2 Bxe3 18. Rxe3 Rad8 19. Rf2 Ne8 20. a3
+g6 21. Ng3 h5 22. gxh5 Nxh3 23. Rg2 Nf4 24. Rg1 Qe7 25. Rh1 Qh4+ 26. Kg1
+Qg5 27. Kf1 Bh3+ 28. Rxh3 Nxh3 29. Nge2 Nf4 30. Nxf4 Qxf4 31. Nd5 Qxf3+ 32.
+Rxf3 g5 33. Ne7+ Kg7 34. Ng6 g4 35. Rf2 fxg6 36. h6+ Kxh6 37. Rxf8 Kg7 38.
+Rf2 Nf6 39. Kg2 Rd4 40. Re2 Kh6 41. Kg3 Kg5 42. Re3 Nh5+ 43. Kf2 Kf4 44. c3
+Rd6 45. Ke2 g3 0-1
+

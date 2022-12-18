@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Franz, Joachim"]
+[Black "Schmidt, A."]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "854f1354"]
+[Epoch "Queen"]
+[WhiteID "4682840"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qc2 Na6 7. a3 c5 8. cxd5
+cxd4 9. Nxd4 Nc7 10. Be2 Ncxd5 11. O-O Bd7 12. Bf3 Rc8 13. Rd1 Rc7 14. Qb3 Nxc3
+15. bxc3 Qc8 16. Bb2 e5 17. Nb5 Bxb5 18. Qxb5 e4 19. Be2 Rc5 20. Qb3 Nd7 21.
+Bg4 Rd8 22. Qa4 f5 23. Be2 Bxc3 24. Bxc3 Rxc3 25. Qa5 Qc7 26. Qd5+ Kf8 27. Bb5
+Ke7 28. Qd4 Qe5 29. Qb4+ Qc5 30. Qb2 Ne5 31. Rdc1 Rc8 32. Rd1 Rc7 0-1

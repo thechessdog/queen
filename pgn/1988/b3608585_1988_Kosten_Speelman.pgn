@@ -1,0 +1,20 @@
+[Event "Hastings8899"]
+[Site "Hastings I"]
+[Date "1988.12.01"]
+[Round "1"]
+[White "Kosten, Anthony C."]
+[Black "Speelman, Jon S"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "b3608585"]
+[Epoch "Queen"]
+[WhiteID "400114"]
+[WhiteCountry "FRA"]
+[BlackCountry "ENG"]
+[BlackID "400033"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8.
+Bd2 Nc6 9. Bd3 Be7 10. a3 Bf6 11. O-O O-O 12. Qe2 Nxd4 13. Nxd4 Bxd4 14. Bxh7+
+Kxh7 1/2-1/2

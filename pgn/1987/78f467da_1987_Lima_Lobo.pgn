@@ -1,0 +1,17 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lima, Darcy"]
+[Black "Lobo, R."]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "78f467da"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 O-O 6. Bg2 cxd4 7. Nxd4 d5 8. O-O
+dxc4 9. Qa4 Qa5 10. Qxa5 Bxa5 11. Ndb5 Nc6 12. Rd1 Bb4 13. Bg5 Rb8 14. Rac1 a6
+15. Nd6 Na5 16. Bf4 Bd7 17. Nde4 Bxc3 18. bxc3 Ba4 19. Bxb8 Rxb8 20. Nxf6+ gxf6
+21. Rd4 f5 22. Rb1 1-0

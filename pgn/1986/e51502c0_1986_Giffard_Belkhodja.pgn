@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Giffard, Nicolas"]
+[Black "Belkhodja, Slim"]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "e51502c0"]
+[Epoch "Queen"]
+[WhiteID "600571"]
+[BlackID "600229"]
+[WhiteCountry "FRA"]
+[BlackCountry "TUN"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 Bg7 5. Nc3 O-O 6. g3 e6 7. Bg2 exd5 8. cxd5
+d6 9. O-O Re8 10. Re1 a6 11. e4 Bg4 12. a4 Nbd7 13. h3 Bxf3 14. Bxf3 c4 15. Be3
+Qc7 16. a5 Nc5 17. Ra2 Nfd7 18. Qc2 Nd3 19. Rea1 Nb4 20. Qe2 Nxa2 21. Rxa2 Rac8
+22. Bg2 Ne5 23. Qd2 Nd3 24. Kh2 Qe7 25. h4 Qf6 26. Ra3 h6 27. Kg1 Kh7 28. Kf1
+Qe7 29. Kg1 Nc5 30. Kh2 Be5 31. Kg1 Bxc3 32. bxc3 Nxe4 33. Qc1 Nxg3 0-1

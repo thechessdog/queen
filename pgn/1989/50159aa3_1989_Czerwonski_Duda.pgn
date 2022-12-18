@@ -1,0 +1,18 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Czerwonski, Aleksander"]
+[Black "Duda, Andrzej"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "50159aa3"]
+[Epoch "Queen"]
+[WhiteID "1100459"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Be7 6. e4 d5 7. cxd5 Bxf1 8.
+Kxf1 exd5 9. e5 Ne4 10. Qa4+ c6 11. Kg2 O-O 12. Re1 f5 13. exf6 Nxf6 14. Ne5
+Bd6 15. f4 Qc8 16. Ndf3 Ne4 17. Be3 Rf6 18. Rac1 Qe8 19. b4 a5 20. b5 1-0

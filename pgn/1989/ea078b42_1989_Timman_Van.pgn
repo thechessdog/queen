@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Timman"]
+[Black "Van der Heijden"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "ea078b42"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. Bh4 c5 5. dxc5 g6 6. Nbd2 Nxc5 7. Nb3
+Nxb3 8. axb3 Bg7 9. c3 Nc6 10. e3 O-O 11. Be2 Qd6 12. O-O e5 13. e4 d4 14.
+b4 f5 15. b5 Ne7 16. cxd4 fxe4 17. dxe5 Qxd1 18. Rfxd1 Nf5 19. Bc4+ Kh8 20.
+e6 Bxe6 21. Bxe6 exf3 22. Bxf5 Rxf5 23. b6 a5 24. Rd7 a4 25. Rxb7 Bxb2 26.
+Rd1 a3 27. Ra7 Re8 28. gxf3 Rb5 29. b7 Rb8 30. Rd8+ Rxd8 31. Bxd8 Rxb7 32.
+Rxb7 a2 33. Ra7 1/2-1/2
+

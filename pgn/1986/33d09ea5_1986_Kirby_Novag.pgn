@@ -1,0 +1,21 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirby, John"]
+[Black "Novag Expert LV2"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "33d09ea5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Nf6 4. fxe5 Nxe4 5. d3 Nc5 6. d4 Ne4 7. Bd3 Be7 8.
+O-O O-O 9. Nc3 Nxc3 10. bxc3 c5 11. Qe1 c4 12. Be2 Nc6 13. Qg3 Bf5 14. Bh6
+Bg6 15. h4 gxh6 16. h5 Re8 17. hxg6 hxg6 18. e6 Bf6 19. exf7+ Kxf7 20. Ne5+
+Nxe5 21. dxe5 Re6 22. Bg4 Rc6 23. Rab1 Qb8 24. Qf2 Qxe5 25. Rxb7+ Kg8 26.
+Rxa7 Rxa7 27. Qxa7 Rd6 28. Qb8+ Kg7 29. Qc7+ Kg8 30. Rb1 Qe3+ 31. Kh1 Rd8
+32. Rf1 Qxc3 33. Be6+ Kh8 34. Qf7 Bg5 35. Bxd5 Qg3 36. Rf3 Qe1+ 37. Rf1
+Qh4+ 0-1
+

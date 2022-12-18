@@ -1,0 +1,20 @@
+[Event "Helsinki SM"]
+[Site "Helsinki SM"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Partanen, Juha"]
+[Black "Ristoja, Thomas W."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "44eb0fa2"]
+[Epoch "Queen"]
+[BlackID "500526"]
+[BlackCountry "FIN"]
+[WhiteID "500313"]
+[WhiteCountry "FIN"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. d5 Nb8 8. Bg5
+c6 9. Qd2 Nbd7 10. Bh6 Qb6 11. Bxg7 Kxg7 12. dxc6 bxc6 13. Rab1 a5 14. Rfe1 Rd8
+15. Na4 1/2-1/2

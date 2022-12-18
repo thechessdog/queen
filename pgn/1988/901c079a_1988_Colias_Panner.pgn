@@ -1,0 +1,19 @@
+[Event "Hammond"]
+[Site "Hammond"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Panner, G."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "901c079a"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. cxd5 exd5 6. Bf4 c6 7. e3 Bg4 8. Bd3
+Nbd7 9. h3 Bh5 10. g4 Bg6 11. Bxg6 hxg6 12. Nd2 Qb6 13. Rb1 a5 14. Qf3 Qa6 15.
+Qe2 Qb6 16. Kf1 Nf8 17. Kg2 Ne6 18. Be5 Nd7 19. Bg3 O-O-O 20. a3 f5 21. b4 Rdf8
+22. b5 Bxa3 23. bxc6 Qxc6 24. Nb5 Bc5 25. dxc5 Kd8 26. f3 f4 27. exf4 Nxf4+ 28.
+Bxf4 Rxf4 29. Rhe1 Qf6 30. Nd6 g5 31. Qe8+ Rxe8 32. Rxe8+ Kc7 33. Rc8# 1-0

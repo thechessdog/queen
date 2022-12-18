@@ -1,0 +1,18 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1985.??.??"]
+[Round "6"]
+[White "Olafsson, David"]
+[Black "Hansen, Lars Bo"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "06c957c5"]
+[Epoch "Queen"]
+[BlackID "1400037"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Bg5 Nbd7 7. Nb5 a6 8. Qa4
+dxc4 9. Rc1 axb5 10. Qxa8 e5 11. dxe5 Bb4+ 12. Rc3 h6 13. Bxf6 Nxf6 14. exf6
+O-O 15. Ne2 Qd3 16. f3 Qb1+ 17. Kf2 Bc5+ 18. Kg3 Qe1+ 19. Kf4 Qd2+ 0-1

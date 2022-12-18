@@ -1,0 +1,17 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schuetz, T."]
+[Black "Keitlinghaus, Ludger"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "d02bbd2c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 Nge7 5. Nf3 Nf5 6. Ne2 Be7 7. Ng3 O-O 8.
+Nxf5 exf5 9. Be2 Be6 10. O-O a5 11. Be3 a4 12. Qd2 h6 13. Rfc1 g5 14. g3 Kh8
+15. Ne1 f6 16. f4 fxe5 17. fxe5 Qe8 18. Ng2 Qg6 19. c3 Na5 20. Qc2 Nc4 21. b3
+Nxe3 22. Nxe3 Qf6 1/2-1/2

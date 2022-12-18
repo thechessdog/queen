@@ -1,0 +1,18 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Karlsson, Kenneth"]
+[Black "Ronneland, Daniel"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "3ce25eba"]
+[Epoch "Queen"]
+[BlackID "1702130"]
+[BlackCountry "SWE"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. Nc3 Nc6 7. e3 d6 8. d4
+Bg4 9. dxc5 dxc5 10. Qa4 a6 11. Rd1 Qc7 12. Nd5 Nxd5 13. cxd5 Ne5 14. d6 exd6
+15. Qf4 g5 16. Qe4 Rae8 17. Qd5 Nxf3+ 18. Bxf3 Re5 19. Qxb7 Qxb7 20. Bxb7 Bxd1
+0-1

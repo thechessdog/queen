@@ -1,0 +1,17 @@
+[Event "Evpatoria"]
+[Site "Evpatoria"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vaulin, A."]
+[Black "Fadeev, V."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "e4b31875"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Qa4+ c6 5. dxc6 Nxc6 6. Rxb1 e5 7. Bd2
+exd4 8. g3 Qd5 9. Nf3 Bc5 10. Bg2 Ne7 11. O-O O-O 12. Ng5 Qd7 13. Nxh7 Kxh7
+14. Qc2+ d3 15. Qxc5 dxe2 16. Qh5+ Kg8 17. Qxe2 1-0
+

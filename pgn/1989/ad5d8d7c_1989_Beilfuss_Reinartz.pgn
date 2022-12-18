@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beilfuss, Wilfried, Dr."]
+[Black "Reinartz, Georg"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "ad5d8d7c"]
+[Epoch "Queen"]
+[WhiteID "4607856"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bd3
+O-O 9. O-O Bg4 10. h3 Bxf3 11. Qxf3 Nbd7 12. Qd1 a6 13. a4 Qc7 14. Be3 c4 15.
+Bc2 Nc5 16. Bd4 Rab8 17. a5 Rbe8 18. Re1 g5 19. Qd2 h6 20. f4 gxf4 21. Qxf4 Nh5
+22. Qd2 Bxd4+ 23. Qxd4 Nd7 24. Qd2 Qc5+ 25. Kh2 Kg7 26. Ne2 Ne5 27. Nd4 Kg6 28.
+Nf5 Rh8 29. Ra3 Rh7 30. Rf1 f6 31. Bd1 Ng7 32. Rg3+ Kf7 33. Qf4 Nxf5 34. Qxf5
+Reh8 35. Qxf6+ Ke8 36. Ba4+ Nd7 37. Rg7 Rf8 38. Qxf8# 1-0

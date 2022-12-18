@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Bank Friis, Carsten"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "e5dd4fdc"]
+[Epoch "Queen"]
+[BlackID "1400495"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d6 4. d4 Nc6 5. Nc3 g5 6. h4 Bg7 7. hxg5 Nxd4 8.
+Bxf4 Ne6 9. Be3 Nxg5 10. Qd2 Ne6 11. O-O-O Bd7 12. Nf3 Bc6 13. Ng5 h6 14. Nh3
+Qd7 15. Rdf1 a6 16. Nd5 O-O-O 17. Nf2 Rf8 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Marseille"]
+[Site "Marseille"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Miralles, Gilles"]
+[Black "Kouatly, Bachar"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "15071f5a"]
+[Epoch "Queen"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+[BlackID "600032"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 Rd8 12. Qd2 b6 13. Bf4 Qd7 14. d5 Na5
+15. Bd3 e5 16. Bh6 f6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gerke, Torsten"]
+[Black "Wessel, Volkmar"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "94cd67bf"]
+[Epoch "Queen"]
+[WhiteID "24681989"]
+[BlackID "12934933"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be3 Qa5+ 7. c3 e5 8.
+Bc4 b5 9. Bb3 b4 10. Qh5 Qc7 11. dxe5 fxe5 12. Nf3 Bg7 13. O-O Ba6 14. Rfe1 Bd3
+15. Nxe5 Bxe5 16. Bf4 Bg6 17. Rxe5+ 1-0

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mikkelsen, P."]
+[Black "Baye, N."]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "2108bb0c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Bd3 Qb6 13. f5 h5 14.
+Qe1 O-O-O 15. fxe6 fxe6 16. Rf1 Qc5 17. Kb1 Bg7 18. Ne2 Rhe8 19. c3 d5 20.
+exd5 Rxd5 21. Nf4 Re5 22. Qg3 Rg5 23. Qh3 f5 24. Rfe1 Bd7 25. Qf3 Bc6 26.
+Qe2 e5 27. h4 Rg3 28. Bxf5+ Kb7 29. Bd7 Re7 30. Bxc6+ Qxc6 31. Qxh5 Rd7 32.
+Rxd7+ Qxd7 33. Rd1 Qe7 34. Qf5 1-0
+

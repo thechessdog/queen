@@ -1,0 +1,20 @@
+[Event "corr Freedman mem"]
+[Site "corr Freedman mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Perlo, G."]
+[Black "Kaunonen, K."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6a428b43"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. Qd3 g6 6. e4 dxe4 7. Nxe4 Bg7
+8. O-O-O Nxe4 9. Qxe4 Nf6 10. Bxf6 Bxf6 11. Bc4 Bf5 12. Qf4 Qd6 13. Ne5 Be6
+14. Bxe6 Qxe6 15. Kb1 O-O 16. Rhe1 Qd6 17. Qe3 e6 18. f4 Rfd8 19. Rd3 Rac8
+20. Red1 b5 21. g4 Qe7 22. f5 Rd5 23. fxg6 hxg6 24. Rf1 c5 25. Qf4 cxd4 26.
+Nxg6 fxg6 27. Qxf6 Qxf6 28. Rxf6 Re5 29. a4 Kg7 30. Rdf3 Rc7 31. axb5 Re7
+32. R6f4 Re1+ 33. Ka2 e5 34. Rf6 e4 35. Rf1 Re2 36. R1f2 Rxf2 37. Rxf2 e3
+38. Rf1 Rf7 39. Rd1 Kf6 40. Rxd4 Re7 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Svendsen"]
+[Black "Downey, M."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "be7b411a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. Nc3 Bc5 6. d3 Nf6 7. Be2
+fxe4 8. dxe4 Qe7 9. O-O O-O 10. Bf3 Qe5 11. g3 Bh3 12. Bf4 Qe6 13. Re1 Rad8
+14. Qe2 Ng4 15. Bxg4 Bxg4 16. Qf1 Bh3 17. Qe2 Rxf4 18. gxf4 Qg6+ 19. Kh1
+Qg2# 0-1
+

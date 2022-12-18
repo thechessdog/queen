@@ -1,0 +1,17 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rojas"]
+[Black "Abdullah, Mansoor"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "97df19ce"]
+[Epoch "Queen"]
+[BlackID "9300031"]
+[BlackCountry "UAE"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. Be2 dxe4 5. Nxe4 Nd7 6. O-O Bxf3 7. Bxf3 Ngf6
+8. d3 e6 9. Re1 Be7 10. Bf4 O-O 11. c3 Nxe4 1/2-1/2

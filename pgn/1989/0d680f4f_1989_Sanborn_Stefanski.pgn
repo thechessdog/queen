@@ -1,0 +1,18 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sanborn, R."]
+[Black "Stefanski, M."]
+[Result "1/2-1/2"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "0d680f4f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. fxe5 dxe5 6. d3 Bg4 7. h3 Bh5 8.
+Qe2 Bg6 9. Nbd2 Nf6 10. Nb3 Bb6 11. g4 Nbd7 12. Be3 h6 13. O-O-O O-O-O 14.
+Nh4 Bh7 15. Nf5 Bxf5 16. gxf5 g5 17. fxg6 fxg6 18. a4 Nc5 19. Nxc5 Bxc5 20.
+Bg2 Kb8 1/2-1/2
+

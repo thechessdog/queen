@@ -1,0 +1,17 @@
+[Event "London Peace"]
+[Site "Londen open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martine, Jean Christophe"]
+[Black "Moussa, Alaa Eddine"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "ff3f8c68"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Be2 a6 8. O-O
+Be7 9. Kh1 Qc7 10. f4 Bd7 11. Qd3 h6 12. Bh4 Rd8 13. Bxf6 Bxf6 14. Ndb5 axb5
+15. Nxb5 Qb8 16. Nxd6+ Kf8 17. e5 Be7 18. Nxf7 Kxf7 19. f5 Kg8 20. f6 Bc5 21.
+Qg6 1-0

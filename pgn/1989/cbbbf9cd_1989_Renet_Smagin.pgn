@@ -1,0 +1,22 @@
+[Event "Zenica"]
+[Site "Zenica"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Smagin, Sergey"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[HashCode "cbbbf9cd"]
+[Epoch "Queen"]
+[BlackID "4100425"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Re8 10. d4 Bb7 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. a3 h6 15. Ba2
+Nb8 16. d5 c6 17. Nf1 cxd5 18. exd5 Nbd7 19. N3h2 Nb6 20. Ne3 h5 21. g4 g6 22.
+g5 Nfd7 23. h4 e4 24. f4 exf3 25. Nxf3 Ne5 26. Rf1 Nec4 27. Bxc4 bxc4 28. b3
+cxb3 29. Qxb3 Bc8 30. c4 Bg7 31. Rb1 Nd7 32. Qd1 Re4 33. Qd2 Qe7 34. Qf2 Nc5
+35. Rd1 Bd7 36. Ng2 Bg4 37. Bf4 Rxc4 38. Re1 Qd7 39. Qf1 Ra4 40. Rb4 Rxa3 41.
+Nd4 0-1

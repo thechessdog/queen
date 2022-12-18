@@ -1,0 +1,18 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Remon, Adelquis"]
+[Black "Fernandez, Juan Luis"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "38ef6e0b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 O-O 5. Bd3 d5 6. Nbd2 c5 7. c3 Qb6 8. Qb1
+Nc6 9. O-O Re8 10. a4 e5 11. Bxf6 Bxf6 12. e4 cxd4 13. exd5 Ne7 14. Bb5 Bf5 15.
+Qa2 Rf8 16. Nc4 Qd8 17. d6 Nc8 18. d7 Be6 19. dxc8=Q Rxc8 20. b3 a6 21. Ncxe5
+axb5 22. cxd4 Rc3 23. Rab1 Bxe5 24. dxe5 Rxf3 25. gxf3 Qg5+ 26. Kh1 Bd5 27. Qe2
+Qg4 0-1

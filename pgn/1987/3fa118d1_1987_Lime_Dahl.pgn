@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lime, G."]
+[Black "Dahl, J."]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "3fa118d1"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Be6 7. Bxe6
+Nd3+ 8. Kf1 fxe6 9. Ng5 Qb6 10. Qf3 c4 11. Qf7+ Kd7 12. g3 g6 13. Nxh7 Bh6
+14. Nd1 Ne5 0-1
+

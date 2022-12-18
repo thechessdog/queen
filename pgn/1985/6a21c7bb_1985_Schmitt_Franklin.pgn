@@ -1,0 +1,18 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmitt"]
+[Black "Franklin"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "6a21c7bb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Qf3 cxd5 5. fxe5 Nc6 6. Bb5 Bc5 7. Ne2 Qb6
+8. Nbc3 Ne7 9. d4 Bxd4 10. Nxd4 Qxd4 11. Be3 Qxe5 12. O-O-O Be6 13. Bc5 O-O
+14. Bxc6 bxc6 15. Bxe7 d4 16. Bxf8 dxc3 17. Bb4 Qg5+ 18. Kb1 cxb2 19. Qg3
+Qb5 20. Bc3 Bxa2+ 21. Kxa2 Qa4+ 22. Kxb2 1-0
+

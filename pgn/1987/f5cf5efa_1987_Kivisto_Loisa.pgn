@@ -1,0 +1,21 @@
+[Event "Jyvaskyla SM"]
+[Site "Jyvaskyla SM"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kivisto, Mikko"]
+[Black "Loisa, Antti"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "f5cf5efa"]
+[Epoch "Queen"]
+[WhiteID "5800803"]
+[BlackID "503789"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8. exd5
+Nxd5 9. Nde2 Bb4 10. Bg2 O-O 11. Bd2 Nxc3 12. Bxc3 Bxc3+ 13. Nxc3 Ra7 14. Qxd8
+Rxd8 15. Ke2 b5 16. Rhd1 Rad7 17. Ne4 Kf8 18. Rxd7 Rxd7 19. a4 b4 20. Nd2 Rc7
+21. Be4 Nc6 22. a5 Bb7 23. Ke3 Ne7 24. Bxb7 Rxb7 25. Nc4 Rb5 1/2-1/2

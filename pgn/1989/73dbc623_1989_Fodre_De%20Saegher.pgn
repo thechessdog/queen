@@ -1,0 +1,21 @@
+[Event "Biel open"]
+[Site "Biel open"]
+[Date "1989.07.01"]
+[Round "6"]
+[White "Fodre, Sandor"]
+[Black "De Saegher, Chris"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "73dbc623"]
+[Epoch "Queen"]
+[WhiteID "702684"]
+[WhiteCountry "HUN"]
+[BlackID "1004433"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Nf3 g6 8. c5
+Ne4 9. Be3 Bg7 10. Qb3 Nxc5 11. dxc5 d4 12. Qxb7 Na5 13. Qb4 dxe3 14. Bb5+ Kf8
+15. fxe3 a6 16. Be2 Rb8 17. Qf4 Rxb2 18. Nd4 Bd5 19. O-O-O e5 20. Ne6+ Bxe6 21.
+Rxd8+ Ke7 22. Qh4+ Bf6 23. Rxh8 1-0

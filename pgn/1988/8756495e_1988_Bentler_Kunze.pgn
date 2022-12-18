@@ -1,0 +1,17 @@
+[Event "Bundeswehr-ch"]
+[Site "Stetten"]
+[Date "1988.??.??"]
+[Round "1"]
+[White "Bentler, F."]
+[Black "Kunze, Holger"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "8756495e"]
+[Epoch "Queen"]
+[BlackID "4678524"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 d6 6. Nf3 Nbd7 7. e3 h6 8. Bh4
+e5 9. Bd3 Qe7 10. O-O Bxc3 0-1

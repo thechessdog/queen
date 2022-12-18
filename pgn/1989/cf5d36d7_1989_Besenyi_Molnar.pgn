@@ -1,0 +1,15 @@
+[Event "Szekszard"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Besenyi, T."]
+[Black "Molnar, Attila"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "cf5d36d7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c5 5. Bxf6 Nxf6 6. dxc5 e6 7. e3
+Bxc5 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O O-O 11. Ne5 Qc7 12. Nd3 Be7 1/2-1/2
+

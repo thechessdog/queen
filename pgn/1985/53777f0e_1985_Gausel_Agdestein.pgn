@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gausel, Einar"]
+[Black "Agdestein, Espen"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "53777f0e"]
+[Epoch "Queen"]
+[BlackID "1500201"]
+[BlackCountry "NOR"]
+[WhiteID "1500031"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 1/2-1/2

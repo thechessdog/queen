@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Seisbye, Steffen"]
+[Result "1/2-1/2"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "0aa4a194"]
+[Epoch "Queen"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. g4 e5 7. d5 Na6 8. h4 Nc5
+9. f3 a5 10. h5 c6 11. Be3 cxd5 12. cxd5 Bd7 13. Qd2 Qe7 14. hxg6 fxg6 15. Bh6
+Qf7 16. O-O-O Rfc8 17. Kb1 a4 18. Bb5 Bxb5 19. Nxb5 Qd7 20. Bxg7 Kxg7 21. Qh6+
+Kg8 22. Na3 Rc7 23. Ne2 Nxg4 24. fxg4 Qxg4 25. Nc3 Nxe4 26. Nab5 Rf7 27. Rhg1
+Qd7 28. Rd3 Raf8 29. Rxg6+ Kh8 30. Rd1 Rf1 31. Rg1 Rxd1+ 32. Rxd1 Rf6 33. Qh5
+Ng3 34. Qg5 Rg6 35. Qe3 Rg4 36. Na3 b5 37. Naxb5 Nf5 38. Qa7 Qxa7 39. Nxa7 Ne3
+40. Re1 Nc4 41. Nab5 Nb6 42. Re4 Rxe4 43. Nxe4 Nxd5 44. Nexd6 Kg7 45. Nc4 Kf6
+46. Kc1 Kf5 47. Nca3 h5 48. Kd2 h4 49. Ke2 Nf6 50. b4 axb3 51. axb3 h3 52. Kf3
+Nd5 53. Kg3 h2 54. Kxh2 e4 55. Nd6+ Ke5 56. Nxe4 Kd4 57. Kg3 Nc3 58. Kf3 Nb5
+59. Nc4 Kd5 60. Ke3 Nd4 61. Nc3+ Ke6 62. b4 Nc2+ 63. Kd3 Nxb4+ 1/2-1/2

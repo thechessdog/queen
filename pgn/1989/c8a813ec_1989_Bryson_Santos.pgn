@@ -1,0 +1,22 @@
+[Event "Haifa etc"]
+[Site "Haifa etc"]
+[Date "1989.11.01"]
+[Round "5"]
+[White "Bryson, Douglas M"]
+[Black "Santos, Jose P"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "c8a813ec"]
+[Epoch "Queen"]
+[WhiteID "2400073"]
+[WhiteCountry "SCO"]
+[BlackID "1900048"]
+[BlackCountry "POR"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. O-O Nf6 13. Nf4 Qd7 14. Be3
+Rfd8 15. d6 Qxd6 16. Rad1 e6 17. Nb5 Qb8 18. Nxa7 Qxa7 19. d5 Nfxd5 20. Nxd5
+Rxd5 21. Bxb6 Qxa2 22. Qf3 Rxd1 23. Rxd1 Qxb2 24. Qxb7 Ra1 25. Qb8+ Bf8 26. Rf1
+Qb1 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pichler, Juergen"]
+[Black "Schumacher"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "adfa395c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Bg4 8. c4
+Nf6 9. Nc3 Bxf3 10. Qxf3 Nxd4 11. Qh3 dxc4 12. Bxc4 Nc2 13. Rb1 Bd6 14. Bg5 Qd7
+15. Qh4 Ng4 16. h3 Ne5 17. Qe4 O-O 18. Bb5 c6 19. Ba4 Nb4 20. Rbd1 Qc7 21. f4
+Bc5+ 22. Kh1 Ng6 23. f5 Nh8 24. a3 Rfe8 25. Qg4 Na6 26. Bh6 Bf8 27. Bc2 Rad8
+28. Ne4 Qe5 29. Rxd8 Rxd8 30. Bf4 h5 31. Qg5 1-0

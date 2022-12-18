@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Daconto, R."]
+[Black "Kustrin"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "67d6b3b0"]
+[Epoch "Queen"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 c6 4. cxd5 Qd6 5. Qb3 Qd7 6. Nf3 cxd5 7. Ne5 Qc8
+8. Nc3 Be6 9. Qb5+ Nc6 10. Nxd5 Bd7 11. Nxd7 Qxd7 12. Nb4 Rc8 13. O-O Nd4
+14. Qxd7+ Kxd7 15. e3 Ne2+ 16. Kh1 e6 17. Nd3 Rc7 18. Ne5+ Kd8 19. d4 Nxc1
+20. Raxc1 Nh6 21. Rxc7 Kxc7 22. Rc1+ Kd6 23. Bxb7 g5 24. Rc6+ Ke7 25. Rc7+
+Kf6 26. Nd7+ Kg6 27. Ba6 Bd6 28. Rxa7 Ng4 29. Kg2 Nxh2 30. Bd3+ Kg7 31. Ra6
+Bb8 32. Ra8 Nf3 33. Kxf3 1-0
+

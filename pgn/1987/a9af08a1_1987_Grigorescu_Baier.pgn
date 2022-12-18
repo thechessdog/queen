@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grigorescu, I."]
+[Black "Baier, G."]
+[Result "0-1"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "a9af08a1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Re8 10. Bf4 Nh5 11. Bg5 Qb6 12. Qd2 Na6 13. h3 f6 14. Be3 f5
+15. Rab1 Bd7 16. b4 Nxb4 17. a3 a5 18. Ng5 Nxg3 19. fxg3 Rxe3 20. Qxe3 Bd4
+0-1
+

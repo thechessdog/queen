@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ramshaw, B."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "d89fc5ec"]
+[Epoch "Queen"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e3 Nf6 2. Nf3 g6 3. d3 Bg7 4. Bd2 O-O 5. Bc3 d6 6. Be2 c5 7. d4 cxd4 8. Bxd4
+Nc6 9. O-O Nxd4 10. Qxd4 Bf5 11. Bd3 Bg4 12. Ng5 h6 13. Ne4 Bd7 14. c3 Qc7 15.
+Na3 a6 16. b4 Nxe4 17. Qxe4 Qxc3 18. Nc2 Bf5 19. Qc4 Qxd3 20. Qxd3 Bxd3 21.
+Rac1 Bxf1 22. Rxf1 Rfc8 23. Na3 Bb2 24. Nb1 Rc2 25. h3 Rac8 26. e4 Bd4 27. Na3
+Rxa2 28. Nb1 Rcc2 29. Kh2 Bxf2 30. h4 Bxh4 31. Kh3 g5 32. Rg1 h5 33. g3 Rh2#
+0-1

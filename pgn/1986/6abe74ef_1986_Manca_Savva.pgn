@@ -1,0 +1,23 @@
+[Event "Groningen ech-jr"]
+[Site "Groningen ech-jr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Manca, Federico"]
+[Black "Savva, Panikos"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "6abe74ef"]
+[Epoch "Queen"]
+[WhiteID "800171"]
+[WhiteCountry "ITA"]
+[BlackID "5900077"]
+[BlackCountry "CYP"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bf5 10. Qc2 Na6 11. a3 Bg6 12. c5 Bc7 13. Nbd2 f5 14. b4 Qf6 15. Bb2
+Rae8 16. Nb3 Bh5 17. Ne5 Nb8 18. Na5 Bxe5 19. dxe5 Qf7 20. f3 Ng5 21. f4 Ne4
+22. Rf1 Qd7 23. Bd4 Na6 24. Rab1 Nc7 25. a4 Ne6 26. Nb3 g5 27. fxg5 N6xg5 28.
+Qc1 Qg7 29. Kh1 Ne6 30. Ba1 f4 31. Nd4 f3 32. gxf3 Nf4 33. Qc2 Ng3+ 34. hxg3
+Qxg3 35. Rg1 1-0

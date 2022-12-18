@@ -1,0 +1,16 @@
+[Event "corr ch22-CSSR"]
+[Site "corr ch22-CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nowotny, Heinz"]
+[Black "Hadraba"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9e322174"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be3 cxd4 7. Nxd4 Nf6 8.
+Be2 Bd6 9. Nd2 O-O 10. O-O Nxd4 11. Bxd4 Ne4 12. Bd3 f5 13. Nf3 Qc7 14. h3 Be6
+15. Qb3 Bf7 16. Rfe1 b6 17. Rad1 Rad8 1/2-1/2

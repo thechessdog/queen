@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hampel, E."]
+[Black "Seib, H."]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch with e3"]
+[HashCode "4b8f9bfb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bb5 Bd7 8.
+O-O a6 9. Bxc6 Bxc6 10. Ne4 cxd4 11. Qxd4 Nb4 12. Ng3 Nc2 13. Qxd8+ Rxd8
+14. Rb1 Bb5 15. Bd2 Bxf1 16. Kxf1 Bb4 17. Bc3 Bxc3 18. bxc3 O-O 19. Rxb7
+Rd1+ 20. Ke2 Ra1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Alicante"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roiz Baztan, David"]
+[Black "Hector, Jonny"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish opening)"]
+[HashCode "030c079e"]
+[Epoch "Queen"]
+[WhiteID "2204142"]
+[WhiteCountry "ESP"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4 4. c3 Ba5 5. Na3 Bb6 6. Nc4 d6 7. d4 exd4 8. a4
+d5 9. Nxb6 axb6 10. Bg5 f6 11. Nxd4 Ne7 12. Be3 O-O 13. exd5 Qxd5 14. O-O Ne5
+15. f3 c5 16. Ne2 Be6 17. Nf4 Qxd1 18. Rfxd1 Bb3 19. Rd6 Nf5 20. Rxb6 Nxe3 0-1

@@ -1,0 +1,19 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lisenko, Alexander V"]
+[Black "Malaniuk, Vladimir P"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "e726843e"]
+[Epoch "Queen"]
+[WhiteID "4104552"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. c4 f5 2. Nf3 d6 3. d4 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. Nc3 c6 8. b3 Qa5
+9. Bd2 Qc7 10. Qc1 e5 11. dxe5 dxe5 12. Bh6 Na6 13. Rd1 Be6 14. Bxg7 Kxg7 15.
+Qa3 Rad8 16. Rxd8 Rxd8 17. Nxe5 g5 18. Nxc6 1-0

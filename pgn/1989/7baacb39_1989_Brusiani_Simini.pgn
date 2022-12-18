@@ -1,0 +1,17 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brusiani"]
+[Black "Simini"]
+[Result "0-1"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "7baacb39"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. Bb3 h6 8.
+Nbd2 g5 9. dxe5 dxe5 10. Nc4 Ng6 11. h4 gxh4 12. Qd5 Qf6 13. Be3 h3 14.
+Ncxe5 Be6 0-1
+

@@ -1,0 +1,20 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Ulybin, Mikhail"]
+[Black "Savchenko, Viacheslav"]
+[Result "*"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "3802e6cd"]
+[Epoch "Queen"]
+[BlackID "14106485"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14. h5 Nxh5
+15. g4 Nf6 16. Nb3 Re8 17. e5 Nxg4 18. fxg4 Bxg4 19. Rdg1 dxe5 20. Qxd8 Rxd8
+21. Nd2 Rxc3 22. bxc3 h5 *

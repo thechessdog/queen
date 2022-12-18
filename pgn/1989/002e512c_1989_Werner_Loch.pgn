@@ -1,0 +1,24 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Werner, Dimo"]
+[Black "Loch, Hagen"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "002e512c"]
+[Epoch "Queen"]
+[WhiteID "4601696"]
+[BlackID "4668219"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. Bd3 b6 8. O-O
+Bb7 9. Qd2 Nfd7 10. Ne2 c5 11. c3 Nc6 12. Rad1 Rc8 13. Bh6 b5 14. Ng3 cxd4 15.
+cxd4 e6 16. Rfe1 Bxh6 17. Qxh6 Qf6 18. Bb1 Qg7 19. Qe3 Rfd8 20. Rc1 Qf8 21. Ne2
+Na5 22. b3 Rxc1 23. Qxc1 Rc8 24. Qd2 Qd8 25. Ng3 Kg7 26. Kh2 Ba8 27. Bd3 Bb7
+28. Bf1 Nf8 29. Kg1 Nd7 30. Nh2 Nf6 31. h4 Nc6 32. h5 e5 33. Nf3 Ng8 34. d5 Nb8
+35. a4 bxa4 36. Qb4 Qe7 37. bxa4 Rc7 38. Qb6 f6 39. Nd2 Nh6 40. Nc4 Nf7 41. Na5
+Nd8 42. Rb1 Qd7 43. Be2 Qc8 44. Bg4 Rc1+ 45. Rxc1 1-0

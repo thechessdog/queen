@@ -1,0 +1,15 @@
+[Event "Belgorod"]
+[Site "Belgorod"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nikolenko, Oleg"]
+[Black "Titov, G."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "cf82d81d"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 g6 5. a4 Bg7 6. Nf3 O-O 7. Bd3 Na6 8. O-O
+Nb4 1/2-1/2

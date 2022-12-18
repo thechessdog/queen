@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Buchhauser"]
+[Black "Kaul"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "30d08b54"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d6 4. f3 e5 5. fxg4 Qh4+ 6. Kd2 Qf2+ 7. Qe2
+Qxd4+ 8. Qd3 Bxg4 9. Qxd4 exd4 10. c3 dxc3+ 11. Nxc3 c6 12. Bc4 Nd7 13. Kc2
+Ne5 14. Bb3 Be7 0-1
+

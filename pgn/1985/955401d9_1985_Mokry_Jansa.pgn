@@ -1,0 +1,19 @@
+[Event "Prague zt"]
+[Site "Praag zt"]
+[Date "1985.02.01"]
+[Round "12"]
+[White "Mokry, Karel"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "955401d9"]
+[Epoch "Queen"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Nb8 13. b3 1/2-1/2

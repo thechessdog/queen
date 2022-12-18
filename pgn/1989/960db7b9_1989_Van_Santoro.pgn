@@ -1,0 +1,17 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Manen"]
+[Black "Santoro"]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "960db7b9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6
+8. a3 Bxc3+ 9. Qxc3 O-O 10. e3 Bf5 11. Ne2 Rc8 12. Rc1 Nd7 13. Ng3 c5 14.
+Nxf5 Qxf5 15. Bd3 Qe6 16. O-O c4 1/2-1/2
+

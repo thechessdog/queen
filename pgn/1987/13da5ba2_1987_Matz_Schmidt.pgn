@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Matz"]
+[Black "Schmidt, A."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "13da5ba2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bb5+ Bd7
+8. Qa4 Bg7 9. Ne2 O-O 10. Rb1 cxd4 11. cxd4 b6 12. Be3 a6 13. Bxd7 Nxd7 14.
+O-O b5 15. Qb3 Nb6 16. Rfd1 Qd7 17. d5 Nc4 18. Bd4 Qg4 19. Bxg7 Kxg7 20. f3
+Qg5 21. f4 Qg4 22. Qd3 Qd7 23. Qd4+ Kg8 24. Rd3 Rfd8 25. a4 Rab8 26. Ng3
+Nd6 27. Rdb3 Rdc8 28. axb5 axb5 29. f5 f6 30. fxg6 hxg6 31. e5 Rc4 32. Qd3
+Nf5 33. Nxf5 Qxf5 34. Qxf5 gxf5 35. exf6 exf6 36. Rxb5 Rxb5 37. Rxb5 Rd4
+38. Kf2 Kf7 39. Ke3 Re4+ 40. Kf3 Rd4 41. Rb7+ Ke8 42. Rb6 Rxd5 43. Rxf6 Ke7
+44. Rh6 Kf7 45. g3 Kg7 46. Rh4 Kg6 47. Rc4 Rd2 48. h4 Rd1 49. Rc6+ Kg7 50.
+Kf4 Rf1+ 51. Kg5 Rf3 52. Rg6+ Kh7 53. Kf6 f4 54. g4 Rb3 55. Rg7+ Kh8 56.
+Rd7 f3 57. Rd2 Rb8 58. Rf2 Rf8+ 59. Kg5 Kh7 60. h5 1-0
+

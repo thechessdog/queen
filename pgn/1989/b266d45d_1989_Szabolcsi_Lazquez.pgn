@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szabolcsi, Janos"]
+[Black "Lazquez"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca variation"]
+[HashCode "b266d45d"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Nbd7 5. e3 c6 6. Nbd2 Be7 7. Bd3 O-O 8. O-O
+dxc4 9. Nxc4 c5 10. Rc1 cxd4 11. Nxd4 Nd5 12. Bxe7 Qxe7 13. e4 Nb4 14. Bb1 Nb6
+15. e5 Nxc4 16. Rxc4 Nd5 17. Nb5 a6 18. Nd6 Bd7 19. Bxh7+ 1-0

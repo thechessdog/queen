@@ -1,0 +1,24 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zsinka, Laszlo"]
+[Black "Degenhardt, Horst"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "385ed162"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 c6 6. f3 d5 7. cxd5 cxd5 8. e5
+Nfd7 9. f4 Nb6 10. Nf3 Nc6 11. b3 f6 12. Be2 Bh6 13. Qd2 Bg4 14. O-O Qd7 15.
+Rad1 Rf7 16. h3 Bf5 17. Nh4 Be6 18. f5 Bxe3+ 19. Qxe3 gxf5 20. exf6 Rxf6 21.
+Bd3 Raf8 22. Ne2 Kh8 23. Nf4 Bf7 24. Bxf5 Rxf5 25. Nxf5 Qxf5 26. Ne6 Qxe6 27.
+Qxe6 Bxe6 28. Rxf8+ Kg7 29. Rf4 Nd7 30. Re1 Bf7 31. b4 a6 32. Rb1 Bg6 33. Rb2
+b5 34. a3 Be4 35. Rbf2 Nf6 36. Rd2 Bg6 37. Rf1 Ne4 38. Rdd1 Nc3 39. Rd2 Nxd4
+40. Re1 Nc6 41. Re6 Be8 42. Rd3 d4 43. Kf2 Bd7 44. Rxc6 Bxc6 45. Rxd4 Ne4+ 46.
+Ke3 Nd6 47. Rg4+ Kf6 48. Kd4 Nc4 49. a4 e5+ 50. Kc5 e4 51. axb5 axb5 52. Rh4
+Bb7 53. Kxb5 Nd6+ 54. Kc5 e3 55. Rf4+ Ke5 56. Rf1 Bxg2 57. Re1 Nf5 58. b5 Ke4
+59. Rg1 e2 60. b6 Kd3 0-1

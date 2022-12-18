@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Weber, Peter"]
+[Black "Rosen, Bernd"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "0ab133ae"]
+[Epoch "Queen"]
+[WhiteID "24694738"]
+[BlackID "4603060"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 10. c4 Ne3 11. Qd3 Bb4+ 12. Bd2 O-O 13. b3 a5 14. Bxb4 Qxb4+
+15. Kf2 Ng4+ 16. Kf3 f5 17. Nd6 a4 18. h3 axb3 19. hxg4 b2 20. Rb1 Ra3 21. gxf5
+exf5 22. Be2 c5 23. Rhd1 Bb7+ 24. Kf2 Rxd3 25. Bxd3 g6 26. Nxb7 Qxb7 27. Rd2
+Rb8 28. Bc2 Qb4 29. Re2 Qxc4 30. Bb3 Rxb3 31. axb3 Qxf4+ 32. Kg1 Qc1+ 33. Re1
+Qc2 0-1

@@ -1,0 +1,22 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rossi, Carlo"]
+[Black "Sarno, Spartaco"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "decdcac4"]
+[Epoch "Queen"]
+[BlackID "800120"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. Bb2 Bg4 11. Re1 Nd7 12. Qb1 Bxf3 13. Nxf3 dxe4 14. Rxe4 Rfe8
+15. c4 Rad8 16. d4 f5 17. Re2 e4 18. Nd2 Qa7 19. c5 b6 20. cxb6 Nxb6 21. a4
+Nbd5 22. Nb3 Rb8 23. Qc2 Rb4 24. Nc5 Reb8 25. Ba3 Bxd4 26. Bxb4 Rxb4 27. Rc1
+Nc3 28. Ne6 Nxe2+ 29. Qxe2 Rxa4 30. h4 Qd7 31. Qc2 Ra1 32. Rxa1 Bxa1 33. Qa2
+Bf6 34. Bf1 Nd5 35. Qa8+ Kf7 36. Nc5 Qd6 37. Nb7 Qc7 38. Bc4 e3 39. Qa7 exf2+
+40. Kxf2 Kg7 0-1

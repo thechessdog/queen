@@ -1,0 +1,19 @@
+[Event "Lang mem-A 7th"]
+[Site "Brno"]
+[Date "1987.07.26"]
+[Round "9"]
+[White "Uhmann, Jan"]
+[Black "Hladik, Josef"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "a3dea151"]
+[Epoch "Queen"]
+[WhiteID "302341"]
+[BlackID "305545"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. Be3 Qa5 10. O-O O-O 1/2-1/2

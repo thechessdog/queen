@@ -1,0 +1,18 @@
+[Event "Abu Dhabi"]
+[Site "Abu Dhabi"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Arun"]
+[Black "Torre, Eugenio"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "1dd420a0"]
+[Epoch "Queen"]
+[BlackID "5200016"]
+[BlackCountry "PHI"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. f3 Nd7 8. Nxc4
+e5 9. e4 exd4 10. Qxd4 Be6 11. Bf4 Ndc5 12. Qe3 Nb4 13. Nd6+ Bxd6 14. O-O-O
+Bxf4 0-1

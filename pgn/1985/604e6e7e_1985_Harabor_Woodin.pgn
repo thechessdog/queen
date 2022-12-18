@@ -1,0 +1,16 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Woodin, Mark"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "604e6e7e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nc6
+8. Ne4 Qd8 9. Bf4 Nf6 10. Qe2 Be7 11. Rad1 O-O 12. c3 1-0
+

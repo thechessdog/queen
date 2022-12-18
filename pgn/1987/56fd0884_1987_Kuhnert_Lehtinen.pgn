@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuhnert, S."]
+[Black "Lehtinen, A."]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "56fd0884"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8.
+Be3 Be7 9. h4 Nc6 10. Rg1 Qc7 11. h5 Nc5 12. g6 hxg6 13. hxg6 f6 14. Qf3
+Bd7 15. Rh1 O-O-O 16. Rxh8 Rxh8 17. Nxc6 Bxc6 18. Bxc5 dxc5 19. O-O-O Qe5
+20. Qe3 Bd6 21. Ne2 Kc7 22. Bg2 Rh2 23. f4 Qh5 24. Bf3 Qxg6 25. Qd3 Be7 26.
+Qc4 f5 27. exf5 exf5 28. Bxc6 Qxc6 29. Nc3 Bd6 30. Nd5+ Kb8 31. Qd3 g6 32.
+Qg3 Rh1 33. Rxh1 Qxd5 34. Rd1 Qe6 35. Qf2 Bc7 36. Kb1 Qe4 37. Qxc5 Qxf4 38.
+Re1 1-0
+

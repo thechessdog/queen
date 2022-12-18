@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ebeling, Mika"]
+[Black "Kivisto, M."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "661bc8d9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Rb8 14. axb5 axb5
+15. Nb3 Nxb3 16. Qxb3 Bc5 17. Rd1 Qe7 18. Bg5 Nxg5 19. Qxb5+ Rxb5 20. Ra8+ Qd8
+21. Raxd8+ Ke7 22. R1d7+ Ke6 23. Nxg5+ Kxe5 24. Rxh8 1-0

@@ -1,0 +1,20 @@
+[Event "Mitropa-Cup"]
+[Site "Aosta"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roos, Daniel"]
+[Black "Wittmann, Walter"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "8aa189cc"]
+[Epoch "Queen"]
+[WhiteID "600253"]
+[WhiteCountry "FRA"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e5 7. Qd2 Be6 8. Nh3 f6
+9. f4 Nd4 10. O-O Qd7 11. Nf2 Ne7 12. Ne2 b6 13. c3 Nxe2+ 14. Qxe2 Rd8 15. d4
+cxd4 16. cxd4 exd4 17. Bxd4 O-O 1/2-1/2

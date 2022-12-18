@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Juncosa"]
+[Black "Cranas"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "dfbba335"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e5 7. Nf5 Bxf5
+8. exf5 Be7 9. Nd5 Nbd7 10. Qf3 Rc8 11. Qb3 Nc5 12. Nxf6+ Kf8 13. Nxh7+
+Rxh7 14. Qf3 e4 15. Qe3 d5 16. Bb3 d4 17. Qg3 Bh4 18. Qg4 e3 19. g3 Qa5+
+20. Kf1 Nxb3 21. cxb3 Qd5 22. Rg1 exf2 23. Kxf2 Rc2+ 24. Kf1 Bf6 25. h4
+Qb5+ 26. Ke1 Rxh4 27. Qf3 Rhh2 28. Kd1 Rhf2 29. a4 Qe2+ 30. Qxe2 Rcxe2 31.
+Re1 d3 32. Rxe2 dxe2+ 33. Ke1 Rh2 34. b4 Be7 35. b3 Bxb4+ 36. Bd2 Bxd2+ 37.
+Kxd2 e1=Q+ 38. Kxe1 Rh1+ 0-1
+

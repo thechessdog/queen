@@ -1,0 +1,19 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Boudre, Jean-Pierre"]
+[Black "Varberg, Kenneth"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann defence"]
+[HashCode "003f6341"]
+[Epoch "Queen"]
+[BlackID "1401874"]
+[BlackCountry "DEN"]
+[WhiteID "600237"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. d4 g6 3. c4 d5 4. e5 Na6 5. cxd5 Qxd5 6. Nc3 Qa5 7. Bc4 b5 8. Qf3
+bxc4 9. Qxc6+ Kd8 10. Qxa8 Nb4 11. Rb1 Bh6 12. Bxh6 Nxh6 13. Nge2 Nd3+ 14. Kd2
+Nxf2 15. Rhf1 Nhg4 16. h3 f5 17. hxg4 1-0

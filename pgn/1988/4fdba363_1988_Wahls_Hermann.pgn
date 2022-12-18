@@ -1,0 +1,26 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Hermann, Manfred"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "4fdba363"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "4600584"]
+[BlackCountry "GER"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. d5 Nd4 11. Qd1 e5 12. dxe6 Qf6 13. exf7+ Kxf7 14. Bg2
+Qe6+ 15. Be3 Nf5 16. Qb3 Qxb3 17. axb3 Bb4 18. Ke2 Bxc3 19. bxc3 Nd5 20. Bd2
+Rhe8+ 21. Kf1 Rad8 22. Bh3 Nh4 23. Bg5 Nxf3 24. Bxd8 Nf4 25. Bg4 Nd2+ 26. Kg1
+Rxd8 27. h4 h5 28. Bd1 Rd6 29. Kh2 Rd3 30. Rxa7 Rxc3 31. Rxb7+ Kf6 32. Rb6+ Kf5
+33. Rb5+ Kf6 34. Bxh5 Nxh5 35. Rxh5 Rxb3 36. Kg2 Nf3 37. Rh8 Ne5 38. Rh3 Nd3
+39. Rf3+ Kg6 40. Re8 Nc5 41. Rxb3 Nxb3 42. Re5 Nd4 43. Kg3 Nf5+ 44. Kg4 Nh6+
+45. Kf4 Ng8 46. Rg5+ Kf7 47. Rf5+ Kg6 48. h5+ Kh6 49. Rf8 Nf6 50. Rh8+ Nh7 51.
+Kf5 1-0

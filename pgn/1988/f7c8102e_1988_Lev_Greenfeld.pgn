@@ -1,0 +1,23 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lev, Ronen"]
+[Black "Greenfeld, Alon"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "f7c8102e"]
+[Epoch "Queen"]
+[WhiteID "2800063"]
+[WhiteCountry "ISR"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 d6 8. g3
+a5 9. b3 O-O 10. Bg2 Nbd7 11. O-O Qe7 12. Bb2 Be4 13. Rad1 c6 14. Rfe1 b5 15.
+Nd2 Bxg2 16. Kxg2 e5 17. Qe3 e4 18. d5 cxd5 19. cxb5 a4 20. bxa4 Rxa4 21. Nb1
+Ne5 22. Qb3 Rc4 23. Nd2 Rcc8 24. Nf1 Rc5 25. Ne3 Nfg4 26. Bd4 Nxe3+ 27. Bxe3
+Rc4 28. Rxd5 Qe6 29. Red1 Rcc8 30. b6 Rb8 31. Qb5 Ng4 32. Rxd6 Nxe3+ 33. fxe3
+Qa2 34. a4 Ra8 35. b7 Rab8 36. Kf2 1-0

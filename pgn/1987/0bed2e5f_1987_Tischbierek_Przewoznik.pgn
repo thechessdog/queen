@@ -1,0 +1,22 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Przewoznik, Jan"]
+[Result "1-0"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "0bed2e5f"]
+[Epoch "Queen"]
+[WhiteID "4611322"]
+[WhiteCountry "GER"]
+[BlackID "1100149"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 Rb8 10. h3 h6 11. d4 Re8 12. axb5 Rxb5 13. Ba4 exd4 14. Bxb5 axb5 15.
+cxd4 Bf8 16. d5 Nb8 17. Qd3 Nbd7 18. b4 Nb6 19. Nbd2 Bd7 20. Bb2 Na4 21. Bd4 c5
+22. dxc6 Bxc6 23. Rac1 Qa8 24. Bxf6 gxf6 25. Nd4 Bd7 26. Nxb5 Re5 27. Nc7 Qb7
+28. Nf3 Qxb4 29. Nxe5 fxe5 30. Nd5 1-0

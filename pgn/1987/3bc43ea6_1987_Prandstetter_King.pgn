@@ -1,0 +1,19 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Prandstetter, Eduard"]
+[Black "King, Daniel J"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "3bc43ea6"]
+[Epoch "Queen"]
+[WhiteID "300225"]
+[WhiteCountry "CZE"]
+[BlackID "400068"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bb3 a5 9. Bxe6 Qxe6 10. Be3 Bd6 11. Nf3 O-O 12. O-O 1/2-1/2

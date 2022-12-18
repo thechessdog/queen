@@ -1,0 +1,22 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Egede_Nissen, Bjorn"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "4908ef83"]
+[Epoch "Queen"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Re8 11. Ng3 Qc7 12. h3 Nbd7 13. Kh2 Ne5 14. Bc2 Rb8 15. f4
+Neg4+ 16. Kh1 Nh6 17. Nce2 b5 18. Ng1 Nd7 19. Rb1 b4 20. b3 Nb6 21. Nf3 a5 22.
+Re1 c4 23. Be3 cxb3 24. Bxb3 Ba6 25. Rc1 Qd8 26. Rc6 Bc3 27. Rxc3 bxc3 28. f5
+Nxf5 29. exf5 f6 30. fxg6 hxg6 31. Nd4 Qc8 32. Nc6 Rb7 33. Bxb6 Rxb6 34. Ne7+
+Rxe7 35. Rxe7 Rxb3 36. Qd4 Qf8 37. Rc7 Rb1+ 38. Kh2 Re1 39. Ne4 c2 40. Rxc2 Kf7
+41. Rc7+ Ke8 42. Nxf6+ Kd8 43. Rd7+ Kc8 1-0

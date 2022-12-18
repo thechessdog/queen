@@ -1,0 +1,20 @@
+[Event "Malmo open"]
+[Site "Malmo open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hoi"]
+[Black "Georgiev, K."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f7bd4bfd"]
+[Epoch "Queen"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d5 9. cxd5 Nxd5 10. Ncxd5 exd5 11. Bd3 Nc6 12. Be3 Bg5 13. O-O Bxf4 14. Bxf4
+Qf6 15. Qh5 g6 16. Qh6 Qxd4 17. Rfe1 Bg4 18. Re3 Rfe8 19. Rae1 Rxe3 20. Rxe3
+Bf5 21. Bf1 Qxb2 22. Bg5 Qd4 23. h3 f6 24. Bf4 Ne5 25. Qh4 Rf8 26. Qg3 Re8 27.
+Rb3 b6 28. Kh2 Kf7 29. Bb5 Re7 30. a4 h5 31. Be3 Qe4 32. Bc1 h4 33. Qc3 d4 34.
+Qd2 Qc2 35. Rb4 Rc7 36. Qh6 Nf3+ 37. gxf3 Qxf2+ 38. Kh1 Qe1+ 0-1

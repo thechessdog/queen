@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gobe, Patrick"]
+[Black "Deunette, P."]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nd7"]
+[HashCode "81f178c5"]
+[Epoch "Queen"]
+[WhiteID "603830"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. e4 e5 8. d5
+Nc5 9. Qc2 a5 10. Be3 Qe7 11. h3 Bd7 12. Nd2 Ne8 13. Nb3 b6 14. Nxc5 dxc5 15.
+Qd2 Nd6 16. b3 f5 17. a4 f4 18. gxf4 exf4 19. Bxf4 Bxc3 20. Qxc3 Rxf4 0-1

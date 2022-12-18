@@ -1,0 +1,21 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "5"]
+[White "O'Donnell, Tom"]
+[Black "Kopec, Danny"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0a12c316"]
+[Epoch "Queen"]
+[WhiteID "2600064"]
+[WhiteCountry "CAN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O Bf5 10. Nxd4 Nxd4 11. cxd4 g6 12. Nc3 Bg7 13. Qf3 Qd7 14. h3 h5 15.
+Bg5 O-O 16. Rfe1 Rae8 17. Nd5 Nxd5 18. Bxd5 e6 19. Bxb7 Rb8 20. Bc6 Qxd4 21.
+Be3 Qxb2 22. Bxa7 Rbd8 23. Rac1 Bh6 24. Ra1 Bd2 25. Red1 Bc2 26. Rf1 Qe5 27.
+Be3 Rd3 28. Qe2 Rfd8 29. Bb5 Rxe3 30. fxe3 Bxe3+ 31. Kh1 Be4 32. Rad1 Rb8 33.
+Rde1 Qg3 0-1

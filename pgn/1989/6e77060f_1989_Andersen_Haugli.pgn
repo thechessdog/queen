@@ -1,0 +1,22 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andersen, Ib"]
+[Black "Haugli, Petter"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "6e77060f"]
+[Epoch "Queen"]
+[WhiteID "1401130"]
+[BlackID "1500104"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nf3 g6 6. Nc3 Bg7 7. Qd2 d6 8.
+O-O-O Qe7 9. Bd3 a6 10. Rhe1 Nd7 11. Kb1 b5 12. e5 d5 13. Ne2 Nb6 14. Nc1 Nc4
+15. Qe2 c5 16. c3 Bf8 17. dxc5 Qxc5 18. Nd4 Bd7 19. f4 h5 20. h3 h4 21. Ncb3
+Qb6 22. Nf3 a5 23. Nbd4 Rc8 24. Rc1 Bc5 25. Red1 Rc7 26. Ng5 Be7 27. Ndf3 Ne3
+28. Re1 Nf5 29. Bxf5 gxf5 30. Red1 Rc4 31. Rd4 Bc5 32. Rxc4 bxc4 33. Rf1 Ke7
+34. Ka1 Be3 35. Nd2 Rb8 36. Nb1 Bb5 37. Na3 Ba6 38. Nb1 d4 39. Na3 d3 0-1

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "San Marco, Bruno"]
+[Black "Biaux, Alain"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "5e073fe2"]
+[Epoch "Queen"]
+[WhiteID "600768"]
+[BlackID "690180"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Qb3
+c5 9. dxc5 Nbd7 10. Qb4 Qc7 11. Na4 a5 12. Qc4 Ne5 13. Qc2 Bd7 14. Nb6 Rad8 15.
+Be2 Bc6 16. Nd2 Bh6 17. f3 Nh5 18. g3 f5 19. O-O Be3+ 20. Kg2 Bxd2 21. Bxd2
+fxe4 22. fxe4 Nf6 23. Nd5 Nxd5 24. exd5 Bxd5+ 25. Kg1 Nc4 26. b4 Qe5 0-1

@@ -1,0 +1,23 @@
+[Event "corr ch-CA"]
+[Site "corr ch-CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Linder, O."]
+[Black "Morin, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "584e9520"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 exd4
+8. Nxd4 Ne5 9. Bb3 c5 10. Nf3 Bg4 11. Bf4 Bxf3 12. gxf3 Ng6 13. Be3 Nh5 14.
+Kh1 Bf6 15. Rg1 Be5 16. f4 Nhxf4 17. Qg4 Bxc3 18. bxc3 Qf6 19. Rg3 Ne6 20.
+Rag1 Kh8 21. Rh3 Nef4 22. Bxf4 Qxf4 23. Qh5 h6 24. f3 Ne5 25. Bd5 Kh7 26.
+Qf5+ Qxf5 27. exf5 g6 28. f4 Nc6 29. Bxf7 g5 30. fxg5 Kg7 31. Bd5 hxg5 32.
+Bxc6 bxc6 33. Rxg5+ Kf6 34. Rg6+ Kxf5 35. Rxd6 Ke4 36. Kg2 Rab8 37. Rd2 Rf4
+38. Rhd3 Rb2 39. Kg3 Rxa2 40. h4 Ra1 41. Rd6 Rg1+ 42. Kh3 Rh1+ 43. Kg2
+Rhxh4 44. Re2+ Kf5 45. Rxc6 Rhg4+ 46. Kh2 Rc4 47. Rd2 Rxc3 48. Ra6 Rg7 49.
+Re2 Rc4 50. Kh3 Rcg4 51. Rh6 a5 52. Rh5+ Kf4 53. Ree5 Rg2 54. Rhf5# 1-0
+

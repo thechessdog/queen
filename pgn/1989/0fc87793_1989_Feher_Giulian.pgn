@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Feher"]
+[Black "Giulian"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "0fc87793"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Nf4 Nc6 10. Qg4 g6 11. O-O-O b6 12. Ncxd5 exd5 13. Nxd5 Qd8
+14. e6 Nf8 15. exf7+ Kxf7 16. Qf4+ Bf5 17. Nxc7 Rc8 18. Bc4+ 1-0
+

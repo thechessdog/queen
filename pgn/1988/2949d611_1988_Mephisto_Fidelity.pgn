@@ -1,0 +1,30 @@
+[Event "Almeria"]
+[Site "Almeria"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mephisto 1"]
+[Black "Fidelity 1"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "2949d611"]
+[Epoch "Queen"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Bb5 Qc7 5. f4 a6 6. Bxc6+ Qxc6 7. Nf3 Nf6
+8. O-O g6 9. c4 dxc4 10. Ne5 Qc7 11. bxc4 Bg7 12. Nc3 O-O 13. d3 Rd8 14.
+Qf3 Bf5 15. Rad1 Rab8 16. e4 Bc8 17. Rb1 e6 18. Ne2 b5 19. cxb5 axb5 20.
+Rfc1 Ra8 21. Qe3 Bf8 22. Bc3 Qb7 23. Nc6 Qxc6 24. Bxf6 Rd7 25. Rc2 Rda7 26.
+Qd2 Qd7 27. Rbb2 Bb7 28. Kh1 Ra3 29. Nc1 R8a6 30. Qe2 Bc6 31. Nb3 Qa7 32.
+Nc1 Qc7 33. Be5 Qd8 34. Nb3 f6 35. Bc3 Bb7 36. Bd2 Rc6 37. Be3 Qc7 38. Nd2
+Ba6 39. Nb1 Ra5 40. Nd2 c4 41. dxc4 bxc4 42. Rc3 Ba3 43. Rb1 Bd6 44. Qg4
+Rxa2 45. Qxe6+ Kg7 46. Qg4 Qe7 47. Qd1 Rc8 48. Ra1 Rxa1 49. Qxa1 Bb5 50.
+Rc1 h6 51. h3 Kh7 52. Qa5 Ba3 53. Ra1 Bc5 54. Bxc5 Rxc5 55. e5 Bd7 56. Qa3
+Bf5 57. Nxc4 fxe5 58. Nxe5 Qc7 59. Kh2 Rb5 60. Rc1 Qg7 61. Qd6 Rb7 62. Rc4
+Qe7 63. Qxe7+ Rxe7 64. g4 Bb1 65. h4 h5 66. gxh5 gxh5 67. Rc5 Kh6 68. Kg3
+Rg7+ 69. Kf3 Re7 70. Nc4 Be4+ 71. Kf2 Rd7 72. Ke3 Bd5 73. Ne5 Rd6 74. f5
+Ba2 75. Ra5 Bb3 76. Rb5 Ba2 77. Rb2 Bd5 78. Rb8 Kg7 79. Kf4 Rf6 80. Kg5 Be4
+81. Rg8+ Kxg8 82. Kxf6 Bc2 83. Nd7 Kh8 84. Nc5 Kh7 85. Ne6 Kh6 86. Nd4 Bd3
+87. Kf7 Kh7 88. f6 Bg6+ 89. Ke7 Kg8 90. Ne6 Bf7 91. Nf4 Bc4 92. Ne6 Bxe6
+93. Kxe6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rendboe, John Filip"]
+[Black "Olesen, Martin"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "b18647fe"]
+[Epoch "Queen"]
+[WhiteID "1403664"]
+[BlackID "1400860"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Muenster Elo"]
+[Site "Muenster"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Kamp, Christoph"]
+[Black "Wolter, Kai, Dr."]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[HashCode "1ba3329c"]
+[Epoch "Queen"]
+[WhiteID "4606949"]
+[BlackID "4605292"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Be7 7. e3 a6 8. b4
+Nxc3 9. dxc3 O-O 10. Bd3 f5 11. e4 f4 12. Bc4+ Kh8 13. Bd5 Bg4 14. Bxc6 Bxf3
+15. Bxb7 Bxg2 16. Rg1 Bf3 17. Bb2 Ra7 18. Bd5 Qd7 19. c4 Bf6 20. Qc3 Bh5 21. c5
+c6 22. Bc4 Rd8 23. Be2 f3 24. Bf1 Bg6 25. Rxg6 hxg6 26. Bc4 Qg4 0-1

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Aseev, Konstantin N"]
+[Black "Komarov, Dimitri"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "1b348f69"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 Be7 8. Bb5+
+c6 9. Bd3 Nxc3 10. bxc3 c5 11. O-O Nc6 12. Qe2 O-O 13. Bb2 cxd4 14. cxd4 Rc8
+15. Rad1 Bf6 16. e4 Na5 17. Rfe1 Re8 18. h3 Bc6 19. d5 Ba4 20. e5 exd5 21. Bf5
+Bxd1 22. Qxd1 Nc4 23. Ba1 Be7 24. e6 Nd6 25. Ne5 Bf6 26. Qh5 g6 27. exf7+ Nxf7
+28. Bxg6 hxg6 29. Qxg6+ Bg7 30. Qxf7+ Kh7 31. Qg6+ Kg8 32. Qf7+ Kh7 33. Rd1 Qg5
+34. f4 Qf6 35. Qh5+ Kg8 36. Ng6 Qf7 37. Bxg7 Kxg7 38. Rxd5 Rc6 39. Nh4 Re1+ 40.
+Kf2 0-1

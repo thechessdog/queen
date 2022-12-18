@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Baugh, C."]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "0557c9b1"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Bg5 Nbd7 7. Qd2 c5 8. d5 a6
+9. Nh3 Qa5 10. Be2 b5 11. Nf2 Rb8 12. cxb5 Nb6 13. O-O Na4 14. Nxa4 Qxa4 15.
+bxa6 c4 16. b3 cxb3 17. axb3 Qxb3 18. a7 Ra8 19. Rfb1 1-0

@@ -1,0 +1,18 @@
+[Event "Estes Park ch-USA"]
+[Site "Estes Park ch-USA"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Fedorowicz, John"]
+[Black "Browne, Walter S"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "6f44cebf"]
+[Epoch "Queen"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 Be7 8.
+Bb2 O-O 9. c4 a6 10. d4 cxd4 1/2-1/2

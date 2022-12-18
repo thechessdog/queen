@@ -1,0 +1,20 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Verboom, B."]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "cfa1624b"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 Qb6 10. f3 Rd8 11. g4 a6 12. Be3 Qc7 13. Qf2 Nd7 14. h4 b5 15.
+Bd3 Nce5 16. Kb1 Nc4 17. Bxc4 bxc4 18. Nd4 Rb8 19. g5 Qb7 20. b3 Ne5 21. h5
+cxb3 22. cxb3 Nc4 23. Bc1 d5 24. g6 fxg6 25. hxg6 hxg6 26. Qh2 Bf6 27. Qh7+ Kf8
+28. Qxg6 Qb4 29. Rh8+ Ke7 30. Nc6+ 1-0

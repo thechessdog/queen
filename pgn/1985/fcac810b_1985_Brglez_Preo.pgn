@@ -1,0 +1,25 @@
+[Event "corr CA jub"]
+[Site "corr CA jub"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Brglez, Rado"]
+[Black "Preo, N."]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "fcac810b"]
+[Epoch "Queen"]
+[WhiteID "14600331"]
+[WhiteCountry "SLO"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 d5 4. cxd5 Nxd5 5. d4 Nxc3 6. bxc3 cxd4 7. cxd4 e6
+8. g3 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 b6 11. Bg2 Bb7 12. O-O O-O 13. a4 Nc6 14. Ne5
+Rc8 15. a5 Nxe5 16. Bxb7 Rc7 17. axb6 axb6 18. Bg2 Nc4 19. Qf4 Qd6 20. Qxd6
+Nxd6 21. Rfb1 Rb8 22. Ra6 Nc8 23. Ra2 Kf8 24. Rab2 Ke7 25. Kf1 Nd6 26. e3 Nc4
+27. Ra2 b5 28. Rb4 Nd6 29. Ke2 Rbc8 30. Rbb2 Rc4 31. Ra7+ Kd8 32. Ra8 Rxa8 33.
+Bxa8 Kc7 34. Kd3 Kb6 35. Bf3 b4 36. Rc2 Rxc2 37. Kxc2 Nc4 38. Kd3 Na5 39. e4
+Kb5 40. e5 Nc6 41. Bxc6+ Kxc6 42. Kc4 b3 43. Kxb3 Kd5 44. Kc3 Ke4 45. f4 h5 46.
+Kc4 g6 47. Kc5 Kf3 48. Kd6 Kg2 49. Ke7 Kxh2 50. Kxf7 Kxg3 51. d5 h4 52. dxe6 h3
+53. e7 h2 54. e8=Q h1=Q 55. e6 Kxf4 56. e7 Qf3 57. Kg8 Kg3 58. Qxg6+ Kh4 59.
+e8=Q Qd5+ 60. Qef7 1-0

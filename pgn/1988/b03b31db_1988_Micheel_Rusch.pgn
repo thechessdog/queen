@@ -1,0 +1,20 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Micheel"]
+[Black "Rusch"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b03b31db"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+d5 Nb8 9. Re1 c6 10. Nd2 Bxe2 11. Qxe2 b5 12. dxc6 b4 13. Qc4 bxc3 14. c7
+cxd2 15. cxd8=Q dxe1=Q+ 16. Rxe1 Rxd8 17. Qa4 Nbd7 18. f3 Rdc8 19. c3 Nc5
+20. Qa5 Nfd7 21. Rd1 Ne5 22. Qb5 Rab8 23. Qe2 Na4 24. Qa6 Nxb2 25. Rb1 Nec4
+26. Bxa7 Ra8 27. Qb7 Na5 28. Qxe7 Nc6 29. Qd7 Bxc3 30. Be3 Ne5 31. Qb7 Nbc4
+32. Bh6 Nd2 33. Rd1 Bd4+ 34. Kh1 Nd3 35. Qd5 Nf2+ 36. Kg1 Ra4 0-1
+

@@ -1,0 +1,22 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schoen, Wolfram"]
+[Black "Maus, Soenke"]
+[Result "1-0"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "e2a8f540"]
+[Epoch "Queen"]
+[WhiteID "4600703"]
+[WhiteCountry "GER"]
+[BlackID "4600240"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Bg4 10. e5 dxe5 11. fxe5 Nfd7 12. Bg5 Qb6 13. O-O Bxf3 14. Bxf3 Qxb2
+15. Bd2 Nxe5 16. Rb1 Qa3 17. Rxb7 Nbd7 18. d6 c4 19. Rxd7 Nxd7 20. Bxa8 Rxa8
+21. Nd5 Qd3 22. Be3 Ne5 23. Bg5 Rb8 24. Nf6+ Bxf6 25. Bxf6 Nd7 26. Bd4 Qxd1 27.
+Rxd1 a5 28. Bc3 a4 29. Re1 Nc5 30. Re7 Kf8 31. h3 Rb7 32. Rc7 Ke8 33. d7+ 1-0

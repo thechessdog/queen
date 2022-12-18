@@ -1,0 +1,18 @@
+[Event "Lyngby op"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nyholm, Jens"]
+[Black "Jensen, Rene Skree"]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "f9be9b94"]
+[Epoch "Queen"]
+[BlackID "1400592"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. O-O b5 8. Bb3
+Be7 9. f4 Bb7 10. e5 dxe5 11. fxe5 Bc5 12. Be3 Nc6 13. exf6 Bxd4 14. fxg7 Bxe3+
+15. Kh1 Rg8 16. Qf3 Qe7 17. Qxe3 Rxg7 18. Ne4 O-O-O 19. Nc5 Ba8 1/2-1/2

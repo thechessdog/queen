@@ -1,0 +1,21 @@
+[Event "Helsinki SKF"]
+[Site "Helsinki SKF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Alenius, Arto"]
+[Black "Salokangas, Hannu"]
+[Result "1-0"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "697cd2ba"]
+[Epoch "Queen"]
+[WhiteID "511200"]
+[BlackID "501395"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 c6 5. O-O O-O 6. d4 d5 7. cxd5 cxd5 8. Nc3
+Ne4 9. Qb3 Nc6 10. Rd1 Nxc3 11. Qxc3 Bf5 12. Be3 Rc8 13. Qe1 Be4 14. Rac1 Qb6
+15. Qd2 Nb4 16. b3 e6 17. Ne5 Rfd8 18. Nd7 Qb5 19. Bg5 Bc2 20. Nf6+ Kh8 21. Qf4
+Bxd1 22. Rxd1 Rf8 23. Bf3 Rg8 24. Nxh7 Bxd4 25. Rxd4 Kxh7 26. Qh4+ Kg7 27. Qh6#
+1-0

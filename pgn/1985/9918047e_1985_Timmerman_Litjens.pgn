@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Timmerman"]
+[Black "Litjens"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "9918047e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O
+Qc7 8. f4 Bc5+ 9. Kh1 a5 10. c4 d5 11. e5 dxc4 12. Bxc4 Nd5 13. Rf3 Bb7 14.
+Bd2 O-O 15. Bd3 f5 16. exf6 Rxf6 17. Bxh7+ Kxh7 18. Qc2+ Kg8 19. Qxc5 Nb4
+20. Nc3 Rd8 21. Ne4 Rf5 22. Qc4 Qe7 23. Bxb4 axb4 24. Ng5 c5 25. Rh3 Rd2
+26. Rg1 Rxb2 27. Qd3 Rf2 28. Rh8+ 1-0
+

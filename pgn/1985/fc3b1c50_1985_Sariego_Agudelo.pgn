@@ -1,0 +1,25 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sariego, Wilfredo"]
+[Black "Agudelo, Antonio"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "fc3b1c50"]
+[Epoch "Queen"]
+[BlackID "4400062"]
+[BlackCountry "COL"]
+[WhiteCountry "CUB"]
+[WhiteID "3500080"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 c5 7. Ne2 Nc6 8. a3
+Bxc3+ 9. bxc3 e5 10. Bg5 cxd4 11. cxd4 Qa5+ 12. Bd2 Qc7 13. Bxc6+ Qxc6 14. dxe5
+Ng4 15. O-O O-O 16. Bf4 Re8 17. Nd4 Qc4 18. e6 Bxe6 19. Nxe6 Qxe6 20. Re1 Qf5
+21. Qf3 g5 22. Bb8 Rxe1+ 23. Rxe1 Qxf3 24. Re8+ Kg7 25. gxf3 Nf6 26. Rd8 Kg6
+27. f4 gxf4 28. Kg2 b5 29. Kf3 Kf5 30. h3 a5 31. c3 a4 32. Ke2 Ke6 33. Rc8 Nd7
+34. Rc6+ Kf5 35. Bc7 Re8+ 36. Kf3 Rc8 37. Ke2 f6 38. f3 Ne5 39. Rc5 Ke6 40. Bb6
+Rxc5 41. Bxc5 Kd5 42. Be7 f5 43. h4 h5 44. Bg5 Nc4 45. Be7 Nb2 46. Bg5 Kc4 47.
+Bxf4 Kxc3 48. Bh6 Nc4 49. Bf8 Nxa3 50. f4 Nc4 0-1

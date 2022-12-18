@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Knorr, B."]
+[Black "Froemmel, A."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "4d5e4ddb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. f4 Bxe5 5. Qf3 Bf6 6. exd5 Bf5 7. Bb5+
+Nd7 8. Na3 Qe7+ 9. Qe3 Be4 10. O-O Bxd5 11. Bxd7+ Kxd7 12. Qd3 Qc5+ 13. Kh1
+Kc8 14. Qh3+ Be6 15. Qg3 Ne7 16. c3 Re8 17. d4 Qh5 18. Kg1 b6 19. Bd2 Kb7
+20. Qd3 c6 21. Nc4 Rad8 0-1
+

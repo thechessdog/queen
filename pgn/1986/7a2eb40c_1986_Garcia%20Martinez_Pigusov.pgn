@@ -1,0 +1,21 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Pigusov, Evgeny"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "7a2eb40c"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
+Be7 9. Qf3 Qc7 10. O-O-O O-O 11. Rhe1 Nbd7 12. Qg3 Nc5 13. Bh6 Ne8 14. Bd5 b4
+15. Ncb5 axb5 16. Bxa8 Bd7 17. e5 dxe5 18. Nf3 f6 19. Kb1 Kh8 20. Bd2 Nd6 21.
+Nxe5 fxe5 22. Bf3 Bf6 23. Bxb4 Rc8 24. c3 Be8 25. Bg4 Bg6+ 26. Ka1 Ra8 27. Bxe6
+Nxe6 28. Rxd6 Qc4 29. a3 Nd4 0-1

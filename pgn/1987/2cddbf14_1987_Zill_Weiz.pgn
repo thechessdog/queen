@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zill, E."]
+[Black "Weiz, W."]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "2cddbf14"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nc3 Nf6 3. Nf3 d5 4. d4 Bb4 5. Bg5 c6 6. Qc2 Nbd7 7. cxd5 cxd5
+8. e3 Qa5 9. Bd3 Ne4 10. O-O Bxc3 11. bxc3 Ndf6 12. Bh4 Bd7 13. a4 Qxc3 14.
+Qb1 Qc7 15. Rc1 Bc6 16. Ne5 O-O 17. Bb5 Rab8 18. Qd3 Bxb5 19. axb5 Qb6 20.
+f3 Nd6 21. Bxf6 gxf6 22. Nd7 Qxb5 23. Nxf6+ Kg7 24. Qxh7+ Kxf6 25. Qh4+ Kg6
+26. Qg3+ Kf6 27. Qxd6 a6 28. e4 Rfd8 29. Qf4+ Kg6 30. exd5 Qxd5 31. Rc5
+Qxd4+ 32. Qxd4 Rxd4 33. Rc7 Kf6 34. g4 Rd2 35. h4 Rb2 36. Rd1 b5 37. Rdd7
+a5 38. h5 a4 39. f4 a3 40. Rxf7# 1-0
+

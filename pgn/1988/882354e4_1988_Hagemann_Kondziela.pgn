@@ -1,0 +1,20 @@
+[Event "NRW-Liga II"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hagemann, S."]
+[Black "Kondziela, Andreas, Dr."]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "882354e4"]
+[Epoch "Queen"]
+[BlackID "1270366"]
+[BlackCountry "GER"]
+
+1. c4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 e5 5. d4 Nd7 6. Nc3 Ngf6 7. O-O O-O 8. e4
+c6 9. dxe5 dxe5 10. Be3 Qe7 11. h3 h6 12. Qd2 Kh7 13. Rad1 Ne8 14. Nh4 f5 15.
+exf5 gxf5 16. Nxf5 Rxf5 17. Qc2 Ndf6 18. g4 Kh8 19. gxf5 Qf7 20. Ne2 Nh5 21.
+Ng3 Nf4 22. Qe4 Nf6 23. Rd8+ Kh7 24. Qxe5 Nxg2 25. Kxg2 Ng4 26. Qe8 Nxe3+ 27.
+fxe3 Qxc4 28. Qg6# 1-0

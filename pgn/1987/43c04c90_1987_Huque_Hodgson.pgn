@@ -1,0 +1,17 @@
+[Event "London Peace"]
+[Site "Londen open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Huque, R."]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "43c04c90"]
+[Epoch "Queen"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. d6 Ne4 8.
+Nc7+ Qxc7 9. Qa4+ Qc6 0-1

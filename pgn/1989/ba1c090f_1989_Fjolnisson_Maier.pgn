@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fjolnisson, B."]
+[Black "Maier, A."]
+[Result "1/2-1/2"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "ba1c090f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Nf6 6. d4 Bd6 7. Qe2+ Qe7
+8. Qxe7+ Kxe7 9. Ne5 Nxd5 10. Nxd5+ cxd5 11. Bxf4 f6 12. Nd3 Nc6 13. c3 Re8
+14. Kd2 Be6 15. Re1 Rad8 16. Bxd6+ Kxd6 17. Nc5 Bc8 18. Bd3 b6 19. Nb3 g6
+20. Nc1 1/2-1/2
+

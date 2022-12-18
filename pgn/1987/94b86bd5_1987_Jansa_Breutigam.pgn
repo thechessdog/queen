@@ -1,0 +1,23 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Breutigam, Martin"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "94b86bd5"]
+[Epoch "Queen"]
+[WhiteID "300128"]
+[BlackID "4601840"]
+[WhiteCountry "CZE"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Qc7 11. Nc3 a6 12. Bg5 Bd6 13. Bh4 O-O 14. Bg3 e5 15.
+dxe5 Nxe5 16. Nxe5 Bxe5 17. O-O Bxg3 18. hxg3 Bd7 19. Bc2 Bc6 20. Qd4 Rad8 21.
+Bb3 Kh8 22. Rad1 Qf7 23. Rd2 Qh5 24. f3 Qg5 25. g4 Rfe8 26. Rfd1 h5 27. gxh5
+Nxh5 28. Qg4 Qe3+ 29. Kh1 Re5 30. Ne2 Rd6 31. Qd4 Ng3+ 32. Kh2 Rh5+ 33. Kxg3
+Rg6+ 0-1

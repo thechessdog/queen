@@ -1,0 +1,21 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Mengarini, Ariel"]
+[Black "Remlinger, Larry"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "2e4d55fd"]
+[Epoch "Queen"]
+[BlackID "2001063"]
+[BlackCountry "USA"]
+[WhiteID "2006685"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. Nh4 Bxe2 9. Qxe2 Nd7 10. g3 O-O-O 11. Qh5 e5 12. Qxf7 exd4 13. O-O c5 14.
+Re1 Qc6 15. Nf5 Ne5 16. Rxe5 fxe5 17. Bg5 Qd7 18. Qxd7+ Rxd7 19. Re1 Rg8 20. f4
+Rd5 21. Bh6 0-1

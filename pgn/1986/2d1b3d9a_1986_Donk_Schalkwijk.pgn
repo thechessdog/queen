@@ -1,0 +1,18 @@
+[Event "Utrecht4-Nieuwegein"]
+[Site "Utrecht4-Nieuwegein"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Donk, J."]
+[Black "Schalkwijk, Jacco"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "2d1b3d9a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. exf5 Bxf5 12. Ne3 Be6 13. Qh5 d5 14.
+O-O-O d4 15. Qf3 Rc8 16. Be2 Bxa3 17. bxa3 Qg5 18. h4 Qh6 19. g4 dxe3 20.
+g5 Qf8 0-1
+

@@ -1,0 +1,29 @@
+[Event "Antwerp op"]
+[Site "Antwerp op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dutreeuw, Marc"]
+[Black "Knoppert, Erik"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "86392ad9"]
+[Epoch "Queen"]
+[BlackID "1000853"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Bd7 11. Be2 Bc6 12. Bf3 Qa5 13. a3 h6 14. Bh4
+Rfe8 15. Be1 Qc7 16. Qe3 Rac8 17. Kb1 d5 18. e5 Nd7 19. Ne2 Ba4 20. Bc3 Nb6 21.
+b3 Bxa3 22. Ka2 Bc5 23. Bd4 Bb5 24. Rc1 Bxe2 25. Bxe2 Bxd4 26. Qxd4 Qc3 27.
+Rhd1 Qxd4 28. Rxd4 Rc3 29. Bd3 Rec8 30. Kb2 a6 31. g4 Nd7 32. h4 g5 33. hxg5
+hxg5 34. Rh1 gxf4 35. Rh5 R3c7 36. Rxf4 Nc5 37. Rg5+ Kf8 38. Bh7 Ke7 39. Rg7
+Rf8 40. Bg6 Ke8 41. g5 Re7 42. Bh5 Rh8 43. g6 fxg6 44. Bxg6+ Kd8 45. Rxe7 Kxe7
+46. Rf7+ Kd8 47. Rf6 a5 48. Kc3 Rh4 49. Rf8+ Kc7 50. Rf7+ Kc6 51. Kb2 Rg4 52.
+Rf6 Rg5 53. Be8+ Kb6 54. c3 Rxe5 55. b4 axb4 56. cxb4 Na6 57. Bd7 Nxb4 58. Bxe6
+Kc5 59. Bc8 b5 60. Rf7 Re2+ 61. Kb3 Re3+ 62. Kb2 Nd3+ 63. Kc2 Kd4 64. Rb7 Re2+
+65. Kd1 Rb2 66. Bf5 b4 67. Rb5 Kc3 68. Bxd3 Rd2+ 69. Kc1 Rxd3 70. Rc5+ Kb3 71.
+Rb5 Rc3+ 72. Kd2 d4 73. Rd5 Kc4 74. Rd8 b3 75. Rc8+ Kb4 76. Rb8+ Ka3 77. Ra8+
+Kb2 78. Ra7 Rc2+ 79. Kd1 Kb1 80. Rb7 b2 81. Ra7 d3 82. Ra8 d2 83. Rb8 Rc1+ 84.
+Kxd2 Rc5 0-1

@@ -1,0 +1,18 @@
+[Event "Bundeswehr-ch"]
+[Site "Stetten"]
+[Date "1988.??.??"]
+[Round "6"]
+[White "Grimm, H."]
+[Black "Scho, Christian"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "23bbc12a"]
+[Epoch "Queen"]
+[BlackID "4621131"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e6 4. Nf3 Nc6 5. cxd4 Nf6 6. Nc3 d5 7. e5 Ne4 8. Bb5
+Qa5 9. Bd2 Nxc3 10. Bxc6+ bxc6 11. Bxc3 Qb5 12. Qb3 Qd3 13. Qa4 Kd7 14. Rd1
+Qe4+ 15. Kf1 a5 16. h4 Ba6+ 17. Kg1 Bb5 18. Qb3 a4 0-1

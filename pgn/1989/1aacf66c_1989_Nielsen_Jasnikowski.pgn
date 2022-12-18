@@ -1,0 +1,19 @@
+[Event "Aarhus int"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Jasnikowski, Zbigniew"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "1aacf66c"]
+[Epoch "Queen"]
+[BlackID "1100076"]
+[BlackCountry "POL"]
+[WhiteID "1400142"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bd3 Nc6 7. Nb3 a6 8. O-O
+b5 9. a3 Be7 10. f4 O-O 11. Kh1 Bb7 12. Bd2 e5 13. Qe2 Rc8 14. a4 1/2-1/2

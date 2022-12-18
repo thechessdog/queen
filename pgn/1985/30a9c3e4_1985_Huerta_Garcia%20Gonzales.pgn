@@ -1,0 +1,17 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "7"]
+[White "Huerta, Ramon"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "30a9c3e4"]
+[Epoch "Queen"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 O-O 7. cxd5 exd5 8. e5
+Ne8 9. Bd3 c5 10. f4 cxd4 11. Nce2 Nc6 12. Nf3 Bg4 13. O-O f6 14. Qc2 fxe5 15.
+Nxe5 Nxe5 16. fxe5 Rxf1+ 17. Kxf1 Bxe2+ 18. Qxe2 g6 19. Qg4 Ng7 20. Bh6 1/2-1/2

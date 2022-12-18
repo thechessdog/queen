@@ -1,0 +1,23 @@
+[Event "corr DEN/K"]
+[Site "corr DEN/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ingerslev, Aage"]
+[Black "Korning, P."]
+[Result "1-0"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "7133cf0e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5
+8. dxc5 Nc6 9. cxd5 exd5 10. Nf3 Qa5+ 11. Bd2 Qxc5 12. Qxc5 Nxc5 13. Be3
+Ne4 14. Rd1 Be6 15. Nd4 O-O 16. f3 Nd6 17. Nxc6 bxc6 18. Bc5 Rfd8 19. e3
+Nb7 20. Bd4 c5 21. Bc3 Nd6 22. Bd3 Rab8 23. Kf2 f6 24. Rd2 h6 25. g4 Kf7
+26. h4 Nb5 27. Ba5 Rdc8 28. Rc1 c4 29. Bf5 Nc7 30. Rcd1 Rb5 31. Bc3 a5 32.
+e4 Re8 33. a4 Rc5 34. Rd4 Re7 35. h5 Bxf5 36. gxf5 dxe4 37. fxe4 Na6 38.
+Kf3 Nb4 39. Rd8 Nd3 40. Ra8 Rb7 41. Rd2 Rc6 42. Bxa5 Nc5 43. Bc3 Ke7 44. e5
+fxe5 45. Bxe5 Nd7 46. Bxg7 Nf6 47. Rh8 Rb3+ 48. Kg2 c3 49. Re2+ Kf7 50.
+Bxh6 Ng8 51. Rh7+ Kf6 52. Bg7+ 1-0
+

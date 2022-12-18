@@ -1,0 +1,22 @@
+[Event "Geneva"]
+[Site "Geneva"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Quinteros, Miguel A."]
+[Black "Nikolic, Stanimir"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "973cf237"]
+[Epoch "Queen"]
+[BlackID "903191"]
+[BlackCountry "SRB"]
+[WhiteID "100021"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Nc5 10. h3 a5 11. Bg5 c6 12. Qc2 a4 13. b4 axb3 14. axb3 Rxa1 15.
+Rxa1 Qc7 16. Be3 Re8 17. b4 Ne6 18. Nb3 Qe7 19. Rd1 Nd7 20. f4 Nc7 21. Bf2 f5
+22. exf5 gxf5 23. Nd4 Nf8 24. b5 c5 25. Nd5 Nxd5 26. Bxd5+ Kh8 27. Nxf5 Qf6 28.
+Nxg7 Qxg7 29. Re1 Re7 30. Rxe7 Qxe7 31. Qc3+ Qg7 32. Qe3 Qf6 33. g4 1-0

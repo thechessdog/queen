@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Perlstrom"]
+[Black "Thorbergsson, Freysteinn"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "6cf97166"]
+[Epoch "Queen"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 e5 11. Bxf6 Bxf6 12. Nb3 Bg4 13. Be2 Bxe2 14. Qxe2
+exf4 15. Nd5 a5 16. c3 a4 17. Nxf6+ Qxf6 18. Nd4 a3 19. b3 Nxd4 20. Rxd4 Rfc8
+21. Rc4 b5 0-1

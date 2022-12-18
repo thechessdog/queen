@@ -1,0 +1,18 @@
+[Event "Lauda"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Herbold"]
+[Black "Zimmerer, M."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "ded2587e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. f3 g6 4. Be3 Qb6 5. Qc1 Bg7 6. Ne2 dxe4 7. fxe4 Bg4 8.
+c3 Nd7 9. Nf4 e5 10. dxe5 Qc7 11. e6 Bxe6 12. Nxe6 fxe6 13. Be2 Ngf6 14.
+Nd2 Ne5 15. O-O Neg4 16. Bf4 Qb6+ 17. Kh1 Nf2+ 18. Rxf2 Qxf2 19. Bf3 O-O
+20. Bd6 Bh6 21. Bxf8 Rxf8 0-1
+

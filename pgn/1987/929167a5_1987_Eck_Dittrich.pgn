@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Eck, W."]
+[Black "Dittrich, H."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "929167a5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qf4 Nc6 10. Nf3 cxd4 11. Bxf5 exf5 12. cxd4 Qa5+ 13. Bd2 Qa4 14.
+O-O Be6 15. Rfb1 O-O-O 16. Rb3 g5 17. Nxg5 Qxd4 18. Rab1 Qxf4 19. Bxf4 b6
+20. a4 Nd4 21. Rc3+ Kd7 22. Kf1 Nc6 23. Rh3 d4 24. Nxe6 Kxe6 25. Bg5 Rd5
+26. f4 Ra5 27. Ra3 Rc5 28. Rc1 Nb4 29. c3 Nd5 30. c4 Nc3 31. Bh4 Rxc4 32.
+Be1 Rhc8 33. g3 Nxa4 0-1
+

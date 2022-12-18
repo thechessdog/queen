@@ -1,0 +1,23 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rohde, Ulrich"]
+[Black "Heinsohn, Thomas"]
+[Result "1-0"]
+[ECO "D56"]
+[Opening "QGD"]
+[Variation "Lasker defence, Teichmann variation"]
+[HashCode "366bd7cf"]
+[Epoch "Queen"]
+[WhiteID "4604539"]
+[WhiteCountry "GER"]
+[BlackID "4641043"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Qc2 Nxc3 10. Qxc3 c6 11. Bd3 Nd7 12. O-O Re8 13. Rad1 a6 14. Rfe1 dxc4
+15. Bxc4 c5 16. a4 cxd4 17. exd4 Nb6 18. Bb3 Bd7 19. d5 Nxa4 20. Qd4 Nc5 21.
+Bc2 e5 22. Nxe5 Qd6 23. Nc4 Qc7 24. b4 Na4 25. d6 Qc6 26. Bxa4 Qxa4 27. Nb6 Qb5
+28. Nxa8 Rxa8 29. Re5 Qa4 30. Ra1 Qc2 31. Re7 Rd8 32. h3 Qf5 33. Qe4 Qg5 34.
+Rxd7 1-0

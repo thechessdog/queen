@@ -1,0 +1,19 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krause, Christian"]
+[Black "Jacoby, Gisbert"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "5ddc464a"]
+[Epoch "Queen"]
+[WhiteID "4608429"]
+[WhiteCountry "GER"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. g3 O-O 7. Bg2 a6 8. O-O
+Bxc3 9. bxc3 b5 10. cxb5 axb5 11. a4 h6 12. Bd2 bxa4 1/2-1/2

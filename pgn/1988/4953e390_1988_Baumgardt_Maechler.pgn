@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Baumgardt"]
+[Black "Maechler"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "4953e390"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. f4 Qc7 10. a4 Nbd7 11. Kh1 O-O 12. Be3 exf4 13. Rxf4 Ne5 14. a5
+Rac8 15. Bb6 Qd7 16. Nd4 Ng6 17. Rf1 Bg4 18. Bxg4 Nxg4 19. Nf5 N4e5 20. Nd5
+Bd8 21. Qh5 Rxc2 22. Bxd8 Qxd8 23. Nf6+ Qxf6 24. Nh6+ Kh8 25. Rxf6 gxf6 26.
+Rf1 Rfc8 27. h3 Rxb2 28. Qf5 1-0
+

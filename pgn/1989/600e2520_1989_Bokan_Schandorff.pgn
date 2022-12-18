@@ -1,0 +1,19 @@
+[Event "Tallinn-B"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bokan, Danko"]
+[Black "Schandorff, Lars"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "600e2520"]
+[Epoch "Queen"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+[WhiteID "909424"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. a3 Nc6 11. Nxc6 Bxc6 12. f5 exf5 13. Rxf5 O-O 14. Bd5 1/2-1/2

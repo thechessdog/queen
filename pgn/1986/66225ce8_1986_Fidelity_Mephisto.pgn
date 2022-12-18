@@ -1,0 +1,17 @@
+[Event "Dallas"]
+[Site "Dallas"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fidelity AG"]
+[Black "Mephisto Dallas"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "66225ce8"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Nf3 Nc6 6. Bf4 Qd7 7. Bb5 a6
+8. Ba4 b5 9. Bb3 Qf5 10. Bd5 Bb7 11. g3 dxe5 12. Nxe5 O-O-O 13. O-O g5 14.
+c4 bxc4 15. Nxf7 Rxd5 16. Qh5 gxf4 17. Qxf5+ Rxf5 18. Nxh8 Bg7 0-1
+

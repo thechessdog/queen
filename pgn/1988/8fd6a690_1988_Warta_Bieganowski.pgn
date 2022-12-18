@@ -1,0 +1,20 @@
+[Event "corr ch-POL"]
+[Site "corr ch-POL"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Warta, A."]
+[Black "Bieganowski, R."]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "8fd6a690"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Nbd7
+8. O-O-O h6 9. Bh4 Qc7 10. Bxf6 Nxf6 11. g4 b5 12. a3 Bb7 13. h4 d5 14.
+exd5 O-O-O 15. Rh3 Nxd5 16. Nxd5 Rxd5 17. Nb3 Be7 18. Rxd5 Bxd5 19. Qe3 Rd8
+20. Nd2 Kb7 21. Ne4 f5 22. gxf5 exf5 23. Nc3 Bc6 24. Kb1 Bf6 25. Be2 Bd4
+26. Qe6 Re8 27. Qxf5 Bxc3 28. Bxb5 axb5 29. Rxc3 Re5 30. Qd3 Re1+ 31. Ka2
+Qf7+ 32. Rb3 Re4 0-1
+

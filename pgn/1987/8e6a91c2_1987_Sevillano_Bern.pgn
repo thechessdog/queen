@@ -1,0 +1,31 @@
+[Event "Baguio City wch-jr"]
+[Site "Baguio City wch-jr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sevillano, Enrico"]
+[Black "Bern, Ivar"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8e6a91c2"]
+[Epoch "Queen"]
+[WhiteID "5200156"]
+[WhiteCountry "USA"]
+[BlackID "1500171"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Be2 e6 8. O-O
+Be7 9. a3 dxe5 10. dxe5 Bd7 11. Bd3 Qb6 12. b4 Nd4 13. Bb2 Nxf3+ 14. Qxf3 Bb5
+15. Bxb5+ Qxb5 16. Nc3 Nxc3 17. Qxc3 O-O 18. f4 Rac8 19. Qg3 Rc2 20. Bd4 Rd8
+21. Rad1 a5 22. f5 exf5 23. e6 f6 24. Bf2 Re8 25. bxa5 Qxa5 26. Qb3 Re2 27.
+Rfe1 Rxe1+ 28. Rxe1 Bc5 29. Rd1 Bxf2+ 30. Kxf2 Qc5+ 31. Kf1 Qe7 32. Re1 h6 33.
+a4 Rc8 34. a5 Rc6 35. Qd5 g6 36. Qd7 Kf8 37. a6 Rxa6 38. Qc8+ Qe8 39. e7+ Kf7
+40. Qxb7 Re6 41. Qd5 Qxe7 42. Rb1 Qd6 43. Rb7+ Kf8 44. Rb8+ Qxb8 45. Qxe6 Qf4+
+46. Kg1 Qe5 47. Qc8+ Qe8 48. Qc5+ Qe7 49. Qc8+ Kg7 50. Kf2 f4 51. Kf1 h5 52.
+Qb8 g5 53. Qc8 Qa7 54. Qf5 h4 55. h3 Qd4 56. Qc8 Qd3+ 57. Kg1 Qe3+ 58. Kf1 Qe7
+59. Kf2 Qf7 60. Qf5 Qb7 61. Kf1 Qc6 62. Kf2 Qb6+ 63. Kf1 Qc6 64. Kf2 Kf7 65.
+Qh7+ Ke6 66. Qg8+ Ke5 67. Qb8+ Kf5 68. Qb1+ Qe4 69. Qb5+ Kg6 70. Qb8 Qe6 71.
+Qa8 Qe3+ 72. Kf1 Qe6 73. Kf2 f5 74. Qb8 Qe3+ 75. Kf1 Qe6 76. Qc7 Qa6+ 77. Kf2
+Qa2+ 78. Kf1 Qa1+ 79. Kf2 Qa2+ 80. Kf1 Qe6 81. Qb8 f3 82. gxf3 f4 83. Kg2 Qe2+
+84. Kg1 Qe1+ 85. Kg2 Qg3+ 86. Kf1 Qxh3+ 87. Ke1 Qg3+ 88. Kd2 Qf2+ 0-1

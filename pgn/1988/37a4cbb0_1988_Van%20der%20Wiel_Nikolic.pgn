@@ -1,0 +1,19 @@
+[Event "OHRA"]
+[Site "Amsterdam"]
+[Date "1988.07.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Haberditz variation"]
+[HashCode "37a4cbb0"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "14400014"]
+[BlackCountry "BIH"]
+
+1. e4 e6 2. d4 d5 3. Nd2 f5 4. exf5 exf5 5. Bd3 Nf6 6. Ne2 Bd6 7. c4 O-O 8. c5
+Be7 9. b4 b6 10. Qc2 Nc6 11. a3 bxc5 12. bxc5 1/2-1/2

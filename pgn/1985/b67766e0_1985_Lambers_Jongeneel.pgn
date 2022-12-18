@@ -1,0 +1,24 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lambers, G."]
+[Black "Jongeneel, W."]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "b67766e0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Be2 Bg7
+8. Be3 O-O 9. O-O a6 10. Bf3 e5 11. Nde2 exf4 12. Nxf4 Ne5 13. Be2 Nfg4 14.
+Bd4 Nf6 15. Qd2 Bg4 16. Rad1 Bxe2 17. Qxe2 Re8 18. Bc5 Qa5 19. Bxd6 Rad8
+20. Kh1 h5 21. b4 Qa3 22. Bxe5 Rxd1 23. Rxd1 Rxe5 24. Qc4 b5 25. Qc8+ Kh7
+26. Qc7 Ng4 27. Nd3 Ne3 28. Rb1 Re7 29. Qxe7 Qxc3 30. Ne1 Qc4 31. Nf3 Qxc2
+32. Ng5+ Kh6 33. Nxf7+ Kh7 34. Rg1 Ng4 35. Ng5+ Kh6 36. Nh3 Qxa2 37. Qg5+
+Kh7 38. Rf1 Bf6 39. Qf4 Qc4 40. e5 Bxe5 41. Ng5+ Kh6 42. Qxc4 bxc4 43. Nf7+
+Kg7 44. Nxe5 Nxe5 45. Ra1 Nc6 46. Rxa6 Nxb4 47. Ra4 Nd5 48. Rxc4 Ne3 49.
+Ra4 Nf5 50. Kg1 Kf6 51. Kf2 Kg5 52. Kf3 Nh4+ 53. Rxh4 Kxh4 54. Kf4 g5+ 55.
+Kf3 g4+ 56. Kf4 g3 57. hxg3# 1-0
+

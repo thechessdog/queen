@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andreas, G."]
+[Black "Apelt, A."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "9daabd67"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nd7 5. d4 Ndf6 6. Bc4 Qxd4 7. Nxf6+
+Nxf6 8. Qb3 e6 9. Be3 Qg4 10. Be2 Qg6 11. Nf3 Be7 12. O-O-O Nd5 13. h4 Nxe3
+14. Qxe3 h5 15. Ne5 Qh6 16. f4 f6 17. Nf3 e5 18. g3 Be6 19. Kb1 O-O 20. Ng5
+fxg5 21. hxg5 exf4 22. gxf4 Qg6 23. Bd3 Qf7 24. g6 Bxa2+ 25. Ka1 Qe6 26.
+Qg3 Qe5 27. Bc4+ 1-0
+

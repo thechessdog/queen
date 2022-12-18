@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dittmar"]
+[Black "Starke"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d47b498a"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8.
+Ng5 e6 9. h4 c5 10. h5 cxd4 11. hxg6 fxg6 12. Rxh7 dxc3 13. Bxg6 Nxe5 14.
+fxe5 Qb6 0-1
+

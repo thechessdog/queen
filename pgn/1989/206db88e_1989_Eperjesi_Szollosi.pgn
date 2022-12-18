@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eperjesi, Laszlo Dr."]
+[Black "Szollosi, Laszlo Jr"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "206db88e"]
+[Epoch "Queen"]
+[WhiteID "700681"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 Bf5 7. Nf3 e6 8. Bb5
+Nd7 9. Bxc6 bxc6 10. O-O Be7 11. Rc1 O-O 12. Ne5 Nxe5 13. Bxe5 Rc8 14. Na4 Qa5
+15. Qb3 f6 16. Bg3 c5 17. Nxc5 Bxc5 18. dxc5 Rxc5 19. Bd6 Rb5 20. Qa3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Holstebro"]
+[Site "Holstebro"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Schandorff, Lars"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4a083403"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O c6 8. Qe2
+Qb6 9. Rab1 Re8 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Nf6 13. Qh4 Be6 14. Rbe1 Bd5
+15. Ne5 Qxb2 16. c4 Be6 17. Rb1 Qa3 18. Rb3 Qd6 19. Rxb7 c5 20. Re1 cxd4 21. f4
+Reb8 22. Rxe7 Qxe7 23. Ng4 Qc5 24. Nxf6+ Bxf6 25. Bxf6 Qh5 26. Qxh5 gxh5 27.
+Re5 Kf8 28. Rxh5 Ke8 29. Rxh7 Bc8 30. Be5 Ke7 31. Bxb8 Rxb8 1-0

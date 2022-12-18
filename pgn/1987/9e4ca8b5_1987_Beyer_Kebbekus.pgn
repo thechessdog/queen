@@ -1,0 +1,23 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "11"]
+[White "Beyer, Christian"]
+[Black "Kebbekus, Thomas"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "9e4ca8b5"]
+[Epoch "Queen"]
+[WhiteID "4635450"]
+[WhiteCountry "GER"]
+[BlackID "4606957"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. a4 b4 8. d4
+exd4 9. e5 Ng4 10. Qe4 f5 11. Qd5 Rf8 12. h3 Nh6 13. Bxh6 gxh6 14. Nbd2 Bb7 15.
+Nc4 Qb8 16. e6 d6 17. a5 Ne5 18. Ba4+ Kd8 19. Qxd4 Nxf3+ 20. gxf3 Bxf3 21. Rg1
+Qb7 22. Rg7 Qd5 23. Qxd5 Bxd5 24. Ne5 Bg5 25. Nf7+ Rxf7 26. Rxf7 Ra7 27. Rd1
+Bxe6 28. Rxd6+ cxd6 29. Rxa7 f4 30. Rxa6 Bxh3 31. Rxd6+ Kc7 32. Rb6 Bg2 33. Be8
+Bf3 34. Rxb4 h5 35. Rb3 1-0

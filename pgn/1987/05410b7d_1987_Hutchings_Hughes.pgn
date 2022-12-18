@@ -1,0 +1,18 @@
+[Event "corr ch-UK"]
+[Site "corr ch-UK"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hutchings"]
+[Black "Hughes"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "05410b7d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Bd2 Nxd2 6. Nbxd2 Nc6 7. a3
+Bxd2+ 8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. Be2 O-O-O 12. Rd1 Rde8 13. Rd5
+g5 14. e6 dxe6 15. Rxg5 e5 16. Rg7 Rhg8 17. Rxg8 Rxg8 18. O-O Qe6 19. g3 h5
+20. c5 h4 21. cxb6 hxg3 22. fxg3 axb6 23. Rc1 f5 24. Bc4 1-0
+

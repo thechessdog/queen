@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Crispino"]
+[Black "Serrano"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "fcaf0955"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 Qa5 9. Qd2 cxd4 10. cxd4 Qxd2+ 11. Nxd2 O-O 12. Bb5 e6 13. O-O b6
+14. Rac1 Ba6 15. a4 Bxb5 16. axb5 Rd8 17. e5 Bf8 18. Bg5 Re8 19. Rc7 h6 20.
+Ne4 Nd7 21. Rxd7 Rec8 22. Be3 1-0
+

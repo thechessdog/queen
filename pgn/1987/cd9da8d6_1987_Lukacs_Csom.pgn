@@ -1,0 +1,20 @@
+[Event "Coimbatore"]
+[Site "Coimbatore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "cd9da8d6"]
+[Epoch "Queen"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. d3 Ngf6 6. Nbd2 e6 7. b3 a5 8. a3
+Bc5 9. Bb2 O-O 10. c4 b5 11. cxb5 cxb5 12. h3 Bxf3 13. Nxf3 Qb6 14. Ne5 Nxe5
+15. Bxe5 Bd4 16. Bxd4 Qxd4 1/2-1/2

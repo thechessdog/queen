@@ -1,0 +1,25 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "5"]
+[White "Lukacs, Peter"]
+[Black "Horvath, Tamas"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d43b6692"]
+[Epoch "Queen"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "700185"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Ne8 11. Kh1 Nc7 12. a4 Rb8 13. Rb1 a6 14. Nc4 Ne5 15.
+Nb6 Qh4 16. Nxc8 Rfxc8 17. Be3 h5 18. f4 Ng4 19. Bg1 Re8 20. g3 Qd8 21. e5 dxe5
+22. f5 gxf5 23. Rxf5 b5 24. Bxg4 hxg4 25. Qxg4 Nxd5 26. Ne4 Rb6 27. Rd1 Qa8 28.
+Bxc5 Nf6 29. Rxf6 Rxf6 30. Kg1 Rg6 31. Qf3 Qc6 32. Rf1 Qe6 33. axb5 axb5 34. b4
+Rc8 35. h4 Rc7 36. h5 Rg4 37. Nf2 Rc4 38. Ne4 f6 39. h6 Bh8 40. Qh5 Kh7 41. Qf3
+Rd7 42. g4 Kg6 43. Kg2 Rc2+ 44. Kg3 Rb2 45. Be3 Rd3 46. Nc5 Rxe3 47. Qxe3 Qd5
+48. Qd3+ Qxd3+ 49. Nxd3 Rb3 50. Rf3 Kxh6 51. Nxe5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Las Palmas op"]
+[Site "Las Palmas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Garcia, Ricardo"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "811ded57"]
+[Epoch "Queen"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8.
+Nab1 b4 9. Nd5 Nge7 10. c3 Rb8 11. Qa4 Bd7 12. Qxa6 Nxd5 13. exd5 Na5 14. cxb4
+Rxb4 15. Bd2 Re4+ 16. Be2 Nc4 17. O-O Nxd2 18. Nxd2 Rd4 19. Nb3 Rxd5 20. Bc4
+1-0

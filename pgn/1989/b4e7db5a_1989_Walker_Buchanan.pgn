@@ -1,0 +1,21 @@
+[Event "Edinburgh op"]
+[Site "Edinburgh"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Walker, David"]
+[Black "Buchanan, Walter F."]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "b4e7db5a"]
+[Epoch "Queen"]
+[BlackID "2400570"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 Be7 6. d5 d6 7. Ng3 a5 8. b3 Na6
+9. Ba3 e5 10. Bd3 Ne8 11. Nf5 Bxf5 12. Bxf5 g6 13. Bd3 f5 14. e4 Nc5 15. h4
+fxe4 16. Bxe4 Bxh4 17. Bxc5 dxc5 18. g3 Qf6 19. Rh2 Nd6 20. Qg4 Bg5 21. Ke2 Nf5
+22. Rah1 h6 23. Kd3 Rae8 24. Na4 b6 25. Nc3 Kg7 26. Kc2 Nd6 27. Bd3 e4 28. Nxe4
+Nxe4 29. Bxe4 Qd4 30. f3 a4 31. Rd1 Qe5 32. Qd7+ Re7 33. Qg4 axb3+ 34. axb3 Ra8
+35. Re2 Ra2+ 36. Kd3 Qd4# 0-1

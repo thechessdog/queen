@@ -1,0 +1,15 @@
+[Event "Dubai olm"]
+[Site "Dubai olm"]
+[Date "1986.11.01"]
+[Round "1"]
+[White "Nasser"]
+[Black "Mbye, S."]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "6275df52"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. Nc3 Bg4 5. h3 Bh5 6. Nxe5 Bxd1 7. Bxf7+
+Ke7 8. Nd5# 1-0
+

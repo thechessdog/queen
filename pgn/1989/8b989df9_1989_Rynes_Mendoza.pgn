@@ -1,0 +1,19 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rynes, E."]
+[Black "Mendoza, Patricia"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "8b989df9"]
+[Epoch "Queen"]
+[BlackID "5100879"]
+[BlackCountry "MEX"]
+
+1. Nf3 d6 2. d4 Nf6 3. Nc3 g6 4. e4 Bg7 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Nxe4 Rf8
+8. h3 Kg8 9. O-O Nc6 10. Re1 e5 11. Bg5 Qe8 12. Qd2 Rxf3 13. gxf3 Nxd4 14. Kg2
+Qf7 15. Qd3 Bf5 16. c3 Ne6 17. Qe3 Rf8 18. Ng3 Nf4+ 19. Kh2 Nxh3 20. Nxf5 Qxf5
+21. Kg2 Nxg5 0-1

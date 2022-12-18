@@ -1,0 +1,22 @@
+[Event "corr Freedman mem"]
+[Site "corr Freedman mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wright"]
+[Black "Bouwmeester"]
+[Result "0-1"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "97c10149"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 b6 7. b4 Bb7
+8. Bb2 d6 9. e3 Nbd7 10. Be2 e5 11. d3 c5 12. O-O Qe7 13. Bd1 Rac8 14. b5
+Ne8 15. a4 f5 16. a5 Rf6 17. axb6 axb6 18. Ra7 Rc7 19. Qa3 Rh6 20. d4 e4
+21. Nd2 cxd4 22. Bxd4 Qh4 23. h3 Nc5 24. Bxc5 dxc5 25. Qc3 Rg6 26. Qe5 Nd6
+27. Kh1 Re7 28. Qh2 Qf6 29. g4 f4 30. Qxf4 Qxf4 31. exf4 e3+ 32. Rxb7 Nxb7
+33. fxe3 Rd6 34. Nf3 Rxe3 35. Ne5 g5 36. Bf3 gxf4 37. Bxb7 Rxe5 38. Bd5+
+Kg7 39. Kg2 Re3 40. Rf3 Re2+ 41. Kf1 Ra2 42. Kg1 Rh6 43. Kh1 Kg6 44. Rxf4
+Rxh3+ 45. Kg1 Rc3 46. Rf1 Kg5 47. Bg8 Kxg4 0-1
+

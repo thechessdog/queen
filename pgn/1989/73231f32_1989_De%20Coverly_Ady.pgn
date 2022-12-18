@@ -1,0 +1,22 @@
+[Event "England"]
+[Site "England"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Coverly, Roger D"]
+[Black "Ady, Jonathan J."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "73231f32"]
+[Epoch "Queen"]
+[BlackID "6000240"]
+[WhiteID "405213"]
+[WhiteCountry "END"]
+[BlackCountry "HKG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qf3 Qxe5+ 11. Be3 Ng4 12. Qxg4 Qxe3+ 13. Be2 Bb7 14. Rd1
+Nd7 15. Rd3 h5 16. Qh4 Qc1+ 17. Nd1 Be7 18. Qg3 Nc5 19. O-O Nxd3 20. Nxe6 fxe6
+21. Qg6+ Kd7 22. Qxd3+ Kc7 23. Rf7 Qg5 24. g3 Rhf8 25. Qc3+ Kb6 26. Qxg7 Bc5+
+0-1

@@ -1,0 +1,21 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szekely, Peter"]
+[Black "Forintos, Gyozo V"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation"]
+[HashCode "4d81ee18"]
+[Epoch "Queen"]
+[BlackID "700690"]
+[BlackCountry "HUN"]
+[WhiteID "14937492"]
+[WhiteCountry "SVK"]
+
+1. Nf3 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. d4 c5 6. dxc5 Qxd1+ 7. Kxd1 Bxc5
+8. Ke2 Nc6 9. Nc3 a6 10. a3 b5 11. Bd3 b4 12. Ne4 Be7 13. Bd2 Bb7 14. Nxf6+
+gxf6 15. Rhc1 Kd7 16. axb4 Nxb4 17. Bc4 Rhc8 18. b3 Bd5 19. Bxd5 Nxd5 20. Rxc8
+Kxc8 21. e4 1/2-1/2

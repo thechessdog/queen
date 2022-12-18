@@ -1,0 +1,19 @@
+[Event "Muenster ELO"]
+[Site "Muenster"]
+[Date "1988.??.??"]
+[Round "5"]
+[White "Molinaroli, Martin"]
+[Black "Hoellmann, Ludger"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "8229f0f1"]
+[Epoch "Queen"]
+[WhiteID "4606604"]
+[BlackID "4606507"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. Ng5 e6 8. Qh5 g6
+9. Qf3 Qd7 10. Nge4 Be7 11. Be2 b4 12. Nxd5 exd5 13. Nf6+ Bxf6 14. Qxf6 Rg8 15.
+Bg5 Nc6 16. Bg4 1-0

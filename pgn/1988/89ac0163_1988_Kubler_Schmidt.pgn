@@ -1,0 +1,17 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kubler, A."]
+[Black "Schmidt, T."]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "89ac0163"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8.
+Nf3 Nbc6 9. Bd3 f5 10. Qg3 Qa5 11. Bd2 b6 12. h4 Qa4 13. Bh6 Rf7 14. Ng5
+gxh6 15. Nxf7+ Kxf7 16. Qf4 1/2-1/2
+

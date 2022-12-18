@@ -1,0 +1,19 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stilling"]
+[Black "Baumgartner"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "34759bdb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Ng5 O-O 10. f4 exd4 11. cxd4 cxd4 12. exd4 d5 13. Ba3 Re8 14.
+Qb1 g6 15. f5 Ne4 16. fxg6 fxg6 17. Nf7 Qh4 18. Bxe4 Rxe4 19. cxd5 Nxd4 20.
+Nh6+ Kg7 21. Bf8+ Kh8 22. Qd3 Bf5 23. Nxf5 gxf5 24. Bc5 Rd8 25. g3 Qg4 26.
+Bxa7 Rxd5 27. Bxd4+ Rdxd4 28. Qb3 Re2 29. Qc3 Qe4 1/2-1/2
+

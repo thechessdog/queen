@@ -1,0 +1,22 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Saga"]
+[Black "Bjorkvik"]
+[Result "1-0"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "825cab6f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 cxd4 10. cxd4 Re8 11. Bb2 Ne7 12. Qc2 Bd7 13. Ne5 Rc8 14.
+Nxd7 Qxd7 15. Qe2 a6 16. c5 Nc6 17. f4 Qe7 18. Rac1 Rc7 19. Rf3 Rec8 20.
+Rh3 g6 21. g4 Kg7 22. g5 Ng8 23. Kf2 h6 24. Rg1 Kh7 25. Qh5 Qf8 26. gxh6
+Nce7 27. Qe5 Rc6 28. a4 f6 29. Qh5 Qf7 30. a5 Nf5 31. Qf3 Ngxh6 32. e4 dxe4
+33. Bxe4 R6c7 34. Ba3 Rd8 35. d5 Rxd5 36. Bxd5 exd5 37. Qb3 Nd4 38. Rxh6+
+Kxh6 39. Qh3+ Kg7 40. f5 Nxf5 41. Qxf5 d4 42. Bb2 d3 43. Qxd3 Rxc5 44. Bc3
+Rb5 45. Rg4 b6 46. axb6 Rxb6 47. Rd4 Rb7 48. Rd6 Qa2+ 49. Kg3 1-0
+

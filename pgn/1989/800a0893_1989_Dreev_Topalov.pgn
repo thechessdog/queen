@@ -1,0 +1,20 @@
+[Event "Arnhem ech-jr"]
+[Site "Arnhem ech-jr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dreev, Aleksey"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "800a0893"]
+[Epoch "Queen"]
+[BlackID "2900084"]
+[BlackCountry "FID"]
+[WhiteID "4100107"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bd2 Nxe5 6. e4 Bg7 7. Nc3 d6 8. Nf3
+h6 9. Be2 Nbc6 10. h4 Nxf3+ 11. Bxf3 Be6 12. hxg5 hxg5 13. Rxh8+ Bxh8 14. Nd5
+Ne5 15. Be2 c6 16. Ne3 Qb6 17. Qb3 Nd7 1/2-1/2

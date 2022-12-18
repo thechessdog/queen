@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kohoutek, B."]
+[Black "Gabriel, H."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "1b21cae0"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be2 d5 7. e5 e6 8. O-O
+Ne7 9. h3 Bxf3 10. Rxf3 a6 11. Bd3 c5 12. dxc5 Nec6 13. Bd2 O-O 14. a3 Nd7
+15. b4 Rc8 16. Ne2 Rc7 17. Rc1 f6 18. exf6 Nxf6 19. c4 Ne4 20. Bxe4 dxe4
+21. Rb3 Rd7 22. Qc2 Rxd2 23. Qxe4 Rxe2 0-1
+

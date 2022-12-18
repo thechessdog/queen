@@ -1,0 +1,17 @@
+[Event "Capablanca mem-B"]
+[Site "Capablanca mem-B"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Huerta, Ramon"]
+[Black "Garcia Palermo, Carlos"]
+[Result "1/2-1/2"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "ebb9f7d9"]
+[Epoch "Queen"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. Nc3 Qb6 11. d5 c4 12. dxe6 Qxe6 13. Bc2 Bc5 14. b3 1/2-1/2

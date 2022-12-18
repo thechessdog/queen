@@ -1,0 +1,20 @@
+[Event "Mendoza"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Correa, Aron Antunes"]
+[Black "Roselli Mailhe, Bernardo"]
+[Result "1-0"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "4179ac58"]
+[Epoch "Queen"]
+[WhiteID "2100223"]
+[WhiteCountry "BRA"]
+[BlackID "3000028"]
+[BlackCountry "URU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. h3
+Re8 9. e4 c6 10. Be3 exd4 11. Nxd4 Nc5 12. Qc2 a5 13. Rad1 a4 14. Nxc6 bxc6 15.
+Bxc5 Bf8 16. Bxd6 Bxd6 17. c5 Re6 18. cxd6 Rxd6 19. e5 1-0

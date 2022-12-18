@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaltschmidt"]
+[Black "Schiedewitz"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "Keene's defence"]
+[HashCode "c5460bf7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qe7 4. Bc4 exf4 5. Nc3 fxg3 6. hxg3 c6 7. Qe2 Qe5
+8. Nf3 Qxg3+ 9. Kd1 Qc7 10. Ng5 Nh6 11. e5 Be7 12. Rxh6 Bxg5 13. Ne4 O-O
+14. Rxh7 Qxe5 15. Qh5 Bh6 16. Qxe5 Kxh7 17. Nd6 Na6 18. Qe7 g5 19. d4 b5
+20. Bd3+ Kg8 21. Nf5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schunk"]
+[Black "Dietze"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "3ae0279e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. f4 Bd7 7. Nf3 e6 8. O-O
+Nge7 9. Qe1 O-O 10. Bd2 Qb6 11. Rb1 Rae8 12. Qf2 Rc8 13. a3 Nd4 14. Be3
+Nec6 15. Nd1 Qa6 16. Qd2 c4 17. dxc4 Qxc4 18. Nxd4 Bxd4 19. Bxd4 Qxd4+ 20.
+Rf2 Rfd8 21. Ne3 Kf8 22. c3 Qb6 23. Nc4 Qb3 24. Nxd6 Rc7 25. f5 exf5 26.
+exf5 Bxf5 27. Qh6+ Kg8 28. Nxf5 gxf5 29. Qg5+ Kf8 30. Bxc6 1-0
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Quack"]
+[Black "Andre"]
+[Result "1/2-1/2"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "730ee1fe"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Bb4 7. Qc2 Nge7
+8. a3 Bxd2+ 9. Bxd2 Ng6 10. Bg2 O-O 11. O-O Ngxe5 12. Nxe5 Nxe5 13. Bxb7
+Rb8 14. Ba6 Rb6 15. Bf4 d3 16. Qd2 Ng6 17. Bb5 dxe2 18. Qxe2 Nxf4 19. gxf4
+a6 20. Ba4 Qf6 21. b4 Bh3 22. Qe3 Qg6+ 23. Qg3 Qf5 24. Bc2 Qh5 25. Rfe1 f5
+26. Bd1 Qh6 27. Qf3 Rg6+ 28. Kh1 Bg2+ 29. Qxg2 Rxg2 30. Kxg2 1/2-1/2
+

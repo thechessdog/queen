@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1987.08.01"]
+[Round "9"]
+[White "Hebden, Mark L"]
+[Black "Arkell, Keith C"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d6719413"]
+[Epoch "Queen"]
+[WhiteID "400084"]
+[WhiteCountry "ENG"]
+[BlackID "400270"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bg4 11. Bxf6 Bxf3 12. Nxf3 Bxf6 13. O-O Qd6 14. a4
+a5 15. Ra3 Rfd8 16. Ne4 Qb4 17. d6 Nc4 18. Qxb4 axb4 19. Rb3 Rxa4 20. Nc5 Ra2
+21. dxe7 Bxe7 22. Rxb4 Nxb2 23. Rxb7 Bxc5 24. dxc5 Nd3 25. c6 Rc2 1-0

@@ -1,0 +1,29 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lee, Graham D"]
+[Black "Pedersen, Finn"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "0953aceb"]
+[Epoch "Queen"]
+[WhiteID "400750"]
+[BlackID "1400762"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Na6 4. c4 Nc7 5. Nc3 Be6 6. c5 g6 7. h3 h5 8. Nf3 Nh6
+9. Be2 Bg7 10. Bf4 Nf5 11. Qd2 Qd7 12. O-O Bh6 13. b4 Kf8 14. Rfb1 Kg7 15. b5
+Rhb8 16. b6 axb6 17. Rxb6 Bxf4 18. Qxf4 Qd8 19. Rab1 Bc8 20. Ng5 Ra3 21. R1b3
+Rba8 22. Bd3 f6 23. exf6+ exf6 24. Bxf5 Rxb3 25. Rxb3 fxg5 26. Qe5+ Kh6 27. Bb1
+Ne6 28. Ne2 Ng7 29. h4 gxh4 30. Nf4 Qg5 31. Nxg6 Bf5 32. Nxh4 Bxb1 33. Qxg5+
+Kxg5 34. Nf3+ Kf5 35. Rxb1 Ra7 36. Rb3 Ne6 37. a3 Nc7 38. Re3 Nb5 39. Re5+ Kg6
+40. Nh4+ Kf6 41. Rxh5 Nxd4 42. g4 Rxa3 43. Kg2 Ne6 44. Rf5+ Kg7 45. g5 Ra4 46.
+Kg3 Nxc5 47. f3 Nd7 48. f4 Ra3+ 49. Kg2 Ra2+ 50. Kh3 Ra3+ 51. Kg2 Ra2+ 52. Kh3
+Ra1 53. Kg2 d4 54. g6 Nf6 55. Rg5 d3 56. Nf5+ Kg8 57. Nh6+ Kf8 58. g7+ Ke7 59.
+Re5+ Kd7 60. Re3 Ra3 61. Ng4 Ng8 62. Nf2 Ra2 63. Rxd3+ Ke7 64. Kf3 b5 65. Ng4
+b4 66. Rd4 c5 67. Rd5 Ra3+ 68. Ke4 Rg3 69. Kf5 c4 70. Rb5 b3 71. Rb8 Nh6+ 72.
+Nxh6 Rxg7 73. Ke5 Rg2 74. Rb7+ Kf8 75. Nf5 Rf2 76. Rb8+ Kf7 77. Nd6+ 1-0

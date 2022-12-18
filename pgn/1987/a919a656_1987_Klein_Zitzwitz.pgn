@@ -1,0 +1,26 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Zitzwitz"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "a919a656"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Bxc6 bxc6 6. Nxe5 O-O 7. d4
+Bd6 8. Bg5 Qe7 9. Re1 Bxe5 10. dxe5 Qxe5 11. Bxf6 Qxf6 12. e5 Qg6 13. Nd2
+d5 14. Qf3 Be6 15. c4 Rab8 16. b3 Rbe8 17. Re3 f6 18. Qg3 Qh6 19. Nf3 c5
+20. Rae1 d4 21. Re4 f5 22. Rh4 f4 23. Qg5 Qg6 24. Qxg6 hxg6 25. Re4 d3 26.
+Rhxf4 Rxf4 27. Rxf4 g5 28. Re4 Bf5 29. Re3 Rd8 30. Nd2 g4 31. e6 Re8 32.
+Re5 g6 33. g3 a5 34. f4 gxf3 35. Kf2 Bxe6 36. Nxf3 Kg7 37. Ke3 Kf6 38. Kd2
+Rd8 39. Rxc5 Bg4 40. Ne1 Be2 41. Rxa5 Re8 42. a4 Bf1 43. Nxd3 Re2+ 44. Kc3
+Rxh2 45. Rc5 Rh3 46. Rc6+ Kg5 47. Rxc7 Rxg3 48. Rd7 Kf6 49. a5 Ke6 50. Rd4
+g5 51. a6 Rh3 52. a7 Bg2 53. Kb4 Rh8 54. Rg4 Bf3 55. Rxg5 Kf6 56. Rg1 Rh7
+57. Rf1 Rb7+ 58. Kc5 Rc7+ 59. Kb6 Rc6+ 60. Kb5 Ke7 61. Rxf3 Rc8 62. Kb6 Ra8
+63. Kb7 Rxa7+ 64. Kxa7 Ke6 65. Rf8 Ke7 66. Rc8 Kd7 67. Kb7 Kd6 68. c5+ Kd5
+69. c6 Kd4 70. Rd8+ Kc3 1-0
+

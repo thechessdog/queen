@@ -1,0 +1,22 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Herzog, Juerg"]
+[Black "Klinger, Josef"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "c0cf2fb8"]
+[Epoch "Queen"]
+[WhiteID "1300210"]
+[WhiteCountry "SUI"]
+[BlackID "1600010"]
+[BlackCountry "AUT"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bd6 7. Ng3 h5 8. d5 c6
+9. dxe6 dxe6 10. Be2 Bc7 11. O-O Qe7 12. f4 Nbd7 13. b4 O-O-O 14. Qa4 Ng4 15.
+h3 Qh4 16. Nh1 g5 17. Bf3 gxf4 18. Bxc6 fxe3 19. g3 Qxh3 20. Ra2 Nc5 21. bxc5
+Rd2 22. Rxf7 Qh2+ 23. Kf1 e2+ 24. Ke1 Bxg3+ 25. Kxd2 e1=Q+ 26. Kd3 Ne5+ 27. Kd4
+Qhg1+ 28. Nf2 Bxf2+ 29. Raxf2 Nxc6+ 0-1

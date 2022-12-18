@@ -1,0 +1,17 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Horvat"]
+[Black "Smuk"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "28c87ee5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 Nd4 10. Qd2 Qc7 11. Rae1 f5 12. fxe5 dxe5 13. exf5 Nexf5 14.
+Nd5 Qd6 15. c4 Nxe3 1/2-1/2
+

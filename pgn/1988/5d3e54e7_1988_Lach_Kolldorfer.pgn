@@ -1,0 +1,17 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lach"]
+[Black "Kolldorfer"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "5d3e54e7"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 h6
+8. Nxe6 fxe6 9. Bg6+ Ke7 10. O-O Qa5 11. Re1 c5 12. c4 cxd4 13. Bf4 Nc5 14.
+Nxd4 Bd7 15. b4 Qxb4 16. Nc6+ bxc6 17. Qd6+ Kd8 18. Qc7+ 1-0
+

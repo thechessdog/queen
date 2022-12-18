@@ -1,0 +1,21 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kreutzkamp, Reinhold"]
+[Black "Engelbert, Christoph"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "2709228f"]
+[Epoch "Queen"]
+[WhiteID "4606230"]
+[WhiteCountry "GER"]
+[BlackID "4609158"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. gxf7+ Rxf7 11. e6 cxb2 12. exf7+ Kf8 13. Bxb2 Bxb2 14.
+Ng5 Qa5+ 15. Kf2 Qc5+ 16. Kf3 Nf6 17. Nxh7+ Nxh7 18. Rxh7 Qf5 19. Bd3 Qg4+ 20.
+Ke3 Qg3+ 21. Kd2 Qxf4+ 22. Ke1 Bc3+ 0-1

@@ -1,0 +1,26 @@
+[Event "Buxton"]
+[Site "Buxton"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Suba, Mihai"]
+[Black "Urzica, Aurel"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "f7a79c25"]
+[Epoch "Queen"]
+[BlackID "1200267"]
+[WhiteID "1203363"]
+[WhiteCountry "ESP"]
+[BlackCountry "ROU"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Qc8 12. Bg5 c5 13. Nbd2 Bb7 14. dxc5 Qxc5 15.
+Nb3 Qc8 16. Rd1 h6 17. Be3 Bd5 18. Bd4 Nbd7 19. Qf4 a5 20. Rac1 Qa6 21. Ne5 Bd6
+22. Nc5 Nxc5 23. Bxc5 Bxc5 24. Rxc5 Bxg2 25. Kxg2 Rac8 26. Rdc1 Rxc5 27. Rxc5
+Rc8 28. Qd4 Rxc5 29. Qxc5 Qb7+ 30. f3 Nd5 31. e4 Nb4 32. a3 Na6 33. Qc6 Qxc6
+34. Nxc6 a4 35. Kf2 Kf8 36. Ke3 Ke8 37. Kd4 Kd7 38. Na7 b4 39. Kc4 bxa3 40.
+bxa3 Kd6 41. Kb5 Nb8 42. f4 e5 43. Nc8+ Kc7 44. Nb6 Nc6 45. Kc5 Nd4 46. Nd5+
+Kd7 47. f5 Nb3+ 48. Kb5 Nd2 49. Nc3 Nf1 50. Nxa4 Nxh2 51. Kb6 Nf3 52. Nc5+ Kd6
+53. a4 Nd2 54. Nb7+ Kd7 55. a5 Nxe4 56. a6 Nc3 57. Nc5+ Kc8 58. a7 1-0

@@ -1,0 +1,24 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Kuligowski, Adam"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "cd78a43c"]
+[Epoch "Queen"]
+[WhiteID "1100211"]
+[BlackID "1100092"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. bxa6 Bxa6 7. Nc3 d6 8. Nd2
+Nbd7 9. e4 Bxf1 10. Nxf1 Qa5 11. Nd2 Nb6 12. O-O Bg7 13. e5 dxe5 14. d6 e6 15.
+Nb3 Qb4 16. Be3 Nbd7 17. a3 Qc4 18. Nd2 Qh4 19. h3 O-O 20. Qf3 e4 21. Ndxe4
+Nxe4 22. Nxe4 Ne5 23. Qf4 Qxf4 24. Bxf4 Nd3 25. Bg5 f6 26. Be3 Ra5 27. Nxc5
+Rxc5 28. Bxc5 Nxc5 29. Rac1 Nb3 30. Rc7 Rd8 31. Rd1 e5 32. Rd5 Bf8 33. d7 Kf7
+34. Rc8 Be7 35. Rb5 Nd4 36. Rb7 Ke6 37. Rxd8 Bxd8 38. b4 e4 39. a4 f5 40. a5 f4
+41. Rb8 Kxd7 42. a6 e3 43. fxe3 1-0

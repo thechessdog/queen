@@ -1,0 +1,23 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schlosser, Michael"]
+[Black "Tompa, Janos"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "4431fb7d"]
+[Epoch "Queen"]
+[WhiteID "1600184"]
+[WhiteCountry "AUT"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Qe2 O-O 8.
+Bb3 Na6 9. h4 Nc5 10. Bg5 h6 11. O-O-O hxg5 12. hxg5 Nh7 13. f4 Bxg5 14. fxg5
+Qxg5+ 15. Kb1 Nf6 16. Nf3 Qg6 17. Rh4 Ng4 18. Rxd6 f6 19. Nd4 Nxb3 20. axb3 Ne5
+21. Nxe6 Bxe6 22. Rxe6 Rfe8 23. Rxe8+ Rxe8 24. Rh1 a6 25. Qf2 Qg4 26. Rh3 Kf7
+27. Rg3 Qe6 28. Qa7 Re7 29. Nd5 Rd7 30. Qb8 Ng6 31. Qc8 b5 32. Rxg6 Qxe4 33.
+Rxf6+ 1-0

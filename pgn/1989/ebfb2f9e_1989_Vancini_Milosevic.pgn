@@ -1,0 +1,24 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "8"]
+[White "Vancini, Edoardo"]
+[Black "Milosevic, Goran"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ebfb2f9e"]
+[Epoch "Queen"]
+[WhiteID "800597"]
+[WhiteCountry "ITA"]
+[BlackID "1304119"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 e5 6. Nxe5 Nxe5 7. dxe5 Qxe5+
+8. Qe2 Qxe2+ 9. Bxe2 Bd7 10. Bf3 O-O-O 11. O-O Ne7 12. Be3 Nf5 13. Bf4 f6 14.
+Na3 g5 15. Bg3 h5 16. h3 Nxg3 17. fxg3 g4 18. Be4 gxh3 19. Rxf6 h4 20. Rd1 c4
+21. gxh4 Bc5+ 22. Kh2 hxg2 23. Bxg2 Rxh4+ 24. Kg3 Rg4+ 25. Kf3 Rdg8 26. Bf1
+Rg3+ 27. Ke4 Bc6+ 28. Rxc6+ bxc6 29. Nxc4 Rf8 30. b4 Bg1 31. Bd3 Kc7 32. a4
+Rg4+ 33. Ke5 Bh2+ 34. Ke6 Rgf4 35. Ke7 Rd8 36. Na5 Bg3 37. b5 Bh4+ 38. Ke6 Re8#
+0-1

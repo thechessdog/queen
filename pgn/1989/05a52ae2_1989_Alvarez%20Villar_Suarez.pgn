@@ -1,0 +1,18 @@
+[Event "corr CAPA"]
+[Site "corr CAPA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Alvarez Villar, Hor"]
+[Black "Suarez"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "05a52ae2"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nc7 6. d4 cxd4 7. Qxd4
+Qxd4 8. Nxd4 e5 9. Ndb5 Nxb5 10. Bxb5+ Nd7 11. Be3 a6 12. Nd5 Bd6 13. Nb6
+Rb8 14. Bxd7+ Bxd7 15. O-O-O Ke7 16. Rxd6 Rbc8+ 17. Kb1 Kxd6 18. Rd1+ Kc6
+19. Rxd7 Rc7 20. Rd5 f6 21. a4 Re8 22. b4 Rf7 23. Nc4 Rff8 24. Bb6 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Holtz"]
+[Black "Grieszbach"]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "11c40899"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 O-O
+8. e4 cxd4 9. Ne2 Qa5 10. O-O dxc3 11. Qc2 d5 12. exd5 exd5 13. cxd5 Qxd5
+14. Nxc3 Qh5 15. Ne2 Bd7 16. Rb1 Rac8 17. Rxb7 Ne5 18. Qb1 Bc6 19. Rb3 Nxd3
+20. Qxd3 Rfd8 21. Qa6 Qd5 22. Rg3 Qb5 23. Qxb5 Bxb5 24. Bg5 Kf8 25. Bxf6
+gxf6 26. Nc3 Bxf1 27. Kxf1 Rd2 28. Re3 f5 29. g3 Rb8 30. Kg2 Rb3 31. Nd1
+Rbd3 0-1
+

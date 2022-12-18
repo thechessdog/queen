@@ -1,0 +1,26 @@
+[Event "corr Freedman mem"]
+[Site "corr Freedman mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sprinkhuizen, Arno"]
+[Black "Rittner, Horst"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "986e600d"]
+[Epoch "Queen"]
+[WhiteID "1034022"]
+[BlackID "12900834"]
+[WhiteCountry "NED"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 c4 7. g3 f6 8. exf6 Nxf6
+9. Bg2 Bd6 10. O-O O-O 11. Qe2 Kh8 12. Ne5 Nd7 13. Nxc6 Qxc6 14. f4 Nf6 15. Nd2
+Bd7 16. Re1 Be8 17. b3 cxb3 18. c4 Qa4 19. Bb2 Bg6 20. Qf3 dxc4 21. Rxe6 Rad8
+22. Qxb7 Bd3 23. Qc6 Qxc6 24. Bxc6 Bc7 25. Rc1 Bb6 26. Nxc4 Bxd4+ 27. Bxd4 Rxd4
+28. Nb2 Bg6 29. Re3 Rb8 30. Rce1 Rd2 31. R1e2 Rc2 32. Bf3 Rc1+ 33. Re1 Rc2 34.
+R1e2 h5 35. h3 Bf7 36. Re7 Bd5 37. Kf2 Bxf3 38. Kxf3 h4 39. g4 Nd5 40. R7e5
+Rc3+ 41. Ke4 Nf6+ 42. Kf5 Rf8 43. Kg5 Rxh3 44. R5e3 Nh7+ 45. Kh5 Nf6+ 46. Kg5
+Rg3 47. Rxg3 hxg3 48. Kh4 g2 49. Rxg2 Ne4 50. f5 Rf6 51. g5 Rxf5 52. Rg4 Nc5
+53. g6 Kg8 54. Rb4 Kf8 55. Rb5 a6 0-1

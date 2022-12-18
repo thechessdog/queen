@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Chlad, J."]
+[Black "Baumgartner, U."]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "a1503475"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 Be7 8.
+Qf3 O-O 9. O-O-O Qc7 10. Rg1 Nxd4 11. Rxd4 a6 12. g4 b5 13. g5 Nd7 14. f5
+Ne5 15. Qf2 Re8 16. Rg3 b4 17. Rxb4 d5 18. Rb3 dxe4 19. f6 Bf8 20. Nxe4 g6
+21. Bb6 Qc6 22. Bg2 Rb8 23. Rgc3 Qa4 24. Nc5 Bxc5 25. Qxc5 Qf4+ 26. Qe3
+Qxh2 27. Qg1 Qh5 28. Be4 Qe2 29. Qh1 Bd7 30. Re3 Qg4 31. Qh6 Qg1+ 32. Kd2
+Nc4+ 33. Kc3 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nowak, Jan"]
+[Black "Schidlo"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[HashCode "e65ed61b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Qd7 13. Bxa6 Nc5 14. Bb5 Nb3
+15. axb3 Rxa1 16. Na3 Rb8 17. Ba4 d4 18. Nc2 d3 19. Qf1 dxc2 20. Rxd7 Bxd7 21.
+h3 Nb4 22. Nd4 Nd3 0-1

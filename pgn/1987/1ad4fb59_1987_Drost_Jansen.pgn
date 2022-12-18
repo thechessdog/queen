@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Drost"]
+[Black "Jansen"]
+[Result "0-1"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "1ad4fb59"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nd7 12. Nb5 Nb6 13. a4 Qe7 14. a5
+Nxd5 15. Nc4 Ndc7 16. Nc3 Bd4+ 17. Kh1 d5 18. Nd2 Nb4 19. exd5 Nbxd5 20.
+Nxd5 Nxd5 21. Ne4 Bf5 22. Bb5 Red8 23. Qe2 Nc7 24. Bg5 f6 25. Nxf6+ Bxf6
+26. Qxe7 Bxe7 27. Bxe7 Nxb5 28. Bxd8 Rxd8 29. g4 Be6 30. Rfd1 Nd4 31. Kg2
+Bd5 0-1
+

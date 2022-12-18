@@ -1,0 +1,17 @@
+[Event "corr ICCF Wch"]
+[Site "corr ICCF Wch"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bridikova"]
+[Black "Henri"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "a95ee896"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Bd3 Rg8 11. Nd5 Rxg2 12. exf5 Qa5+ 13. Kf1 Qxd5
+14. c4 Rxf2+ 15. Kxf2 Qd4+ 16. Kf3 e4+ 0-1
+

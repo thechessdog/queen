@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "13"]
+[White "Canda, Danilo"]
+[Black "Verduga, Denis Homero"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "322e705d"]
+[Epoch "Queen"]
+[WhiteID "6100015"]
+[WhiteCountry "NCA"]
+[BlackCountry "ECU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 e6 8. O-O
+Be7 9. Qf3 Qc7 10. Qg3 Nc6 11. Nxc6 Qxc6 12. Re1 Bb7 1/2-1/2

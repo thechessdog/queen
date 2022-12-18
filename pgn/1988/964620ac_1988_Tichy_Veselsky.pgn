@@ -1,0 +1,30 @@
+[Event "Tirnavia-C"]
+[Site "Trnava"]
+[Date "1988.??.??"]
+[Round "3"]
+[White "Tichy, Vladimir"]
+[Black "Veselsky, Jozef"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "964620ac"]
+[Epoch "Queen"]
+[BlackID "14900726"]
+[BlackCountry "SVK"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Be2 Be6 12. O-O Nd7 13. Qd2 c5 14. dxc5
+bxc5 15. Rac1 Rfb8 16. Rfd1 a5 17. Ne1 Qf6 18. b3 a4 19. Bf3 axb3 20. axb3 Rxb3
+21. Bxd5 Bxd5 22. Qxd5 Ra2 23. Nf3 Qb2 24. Nd2 Rb7 25. h3 Rba7 26. Ne4 R2a5 27.
+Rb1 Qe5 28. Qxe5 Nxe5 29. Rb8+ Kh7 30. Rc8 Ra1 31. Rxa1 Rxa1+ 32. Kh2 Nd3 33.
+Kg3 Ra2 34. Rc7 f5 35. Nxc5 Nxf2 36. Ne6 Ne4+ 37. Kh2 Kg6 38. Nxg7 h5 39. Ne6
+h4 40. Nf4+ Kg5 41. Rc6 Nf6 42. Ne6+ Kg6 43. Nd4 Ra4 44. Rd6 Rb4 45. Kg1 Rb1+
+46. Kh2 Rb4 47. Rd8 Ra4 48. Nf3 Re4 49. Rd3 Kh5 50. Nd2 Re5 51. Kg1 Ra5 52. Rd6
+Ra1+ 53. Kh2 Ne8 54. Rd8 Rd1 55. Rd4 Ng7 56. Nf3 Rxd4 57. exd4 f4 58. Kg1 Nf5
+59. Kf2 Ne3 60. Ne1 Kg5 61. Ke2 Kf6 62. Nf3 Nxg2 63. Kd3 Ke6 64. Ke4 Kd6 65.
+Ne5 Ne1 66. Nc4+ Kc6 67. d5+ Kc5 68. d6 Kc6 69. Kxf4 Kd7 70. Kf5 Ng2 71. Ke5
+Ne1 72. Nb6+ Kd8 73. Nd5 Nd3+ 74. Kd4 Nf2 75. Nf4 Kd7 76. Ke5 Kc6 77. Ng6 Nxh3
+78. Ke6 Ng5+ 79. Ke7 Nf7 80. d7 Kc7 81. Nxh4 Nd8 82. Nf5 Nc6+ 83. Ke8 Nd8 84.
+Nd4 Nb7 85. Ke7 Kb6 86. Ne6 Kb5 87. Nd4+ Kc5 88. Nf5 Na5 89. Kd8 Kb6 90. Ke8
+Nb7 91. Ke7 Kc5 92. Nd6 Na5 93. Ke8 1-0

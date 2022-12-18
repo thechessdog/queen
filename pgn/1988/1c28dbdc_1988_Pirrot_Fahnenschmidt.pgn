@@ -1,0 +1,20 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pirrot, Dieter"]
+[Black "Fahnenschmidt, Gerhard"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1c28dbdc"]
+[Epoch "Queen"]
+[WhiteID "4601157"]
+[WhiteCountry "GER"]
+[BlackID "4600568"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Qd8 7. Bf4 Nc6 8.
+dxc5 Nd5 9. Bd6 Bxd6 10. cxd6 Qxd6 11. Bb5 O-O 12. O-O Qc7 13. Bd3 a6 14. Qa4
+Nf4 15. Rad1 Nxd3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Kehl HT1"]
+[Site "Kehl HT1"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Gimm, V."]
+[Black "Detter, H."]
+[Result "0-1"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "e78cde18"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Nbd7 5. O-O Be7 6. d4 O-O 7. b3 Ne4 8. Nfd2
+f5 9. f3 Nxd2 10. Qxd2 Bf6 11. Nc3 dxc4 12. bxc4 Nb6 13. e3 Nxc4 14. Qe2 Nb6
+15. Ba3 Rf7 16. Rad1 Nd5 17. Na4 Qe8 18. Nb2 Nc3 19. Qc4 Nxd1 20. Rxd1 c6 21.
+Nd3 Qd8 22. Rb1 a5 23. Bc5 Ra6 24. Ne5 Bxe5 25. dxe5 Qd5 26. Qxd5 cxd5 27. Bb6
+Bd7 28. Kf2 Ra8 29. Ke2 a4 30. a3 Rc8 31. Kd2 Rc6 32. Bf1 Rf8 33. Bd3 Rfc8 34.
+Ba5 b6 35. Bb4 Be8 36. Bd6 g5 37. f4 gxf4 38. exf4 Bh5 39. Rb2 Rc1 40. Bb5 Rd1+
+41. Ke3 Rc3+ 42. Kf2 Bf3 43. Bxa4 Rh1 44. Bb4 Rxh2+ 45. Kg1 Rc1+ 46. Kxh2 Rh1#
+0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Svendsen, T."]
+[Black "Froemmel, A."]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "b42fdfcf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nc6 4. d4 Qe7 5. O-O fxe4 6. Nxe5 Nxe5 7. dxe5
+Qxe5 8. Nc3 c6 9. Bxg8 Rxg8 10. Nxe4 d5 11. Ng3 Be6 12. Re1 Qf6 13. Nh5 Qf7
+14. Nf4 O-O-O 15. Nxe6 Rd7 16. Nxf8 Rxf8 17. f3 Qg6 18. Be3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Midwest Masters Inv"]
+[Site "Midwest Masters Inv"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "O'Donnell, Robert"]
+[Black "Naff, W."]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "9c04eb9c"]
+[Epoch "Queen"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 c5 4. d5 g6 5. Nc3 exd5 6. cxd5 d6 7. e4 Bg7 8. Bf4
+a6 9. a4 O-O 10. Nd2 Nh5 11. Be3 f5 12. exf5 Rxf5 13. g4 Re5 14. gxh5 Rxe3+ 15.
+fxe3 Qh4+ 16. Ke2 Bg4+ 17. Nf3 Nd7 18. Kd2 Qe7 19. Be2 Bh6 20. Qg1 Bxh5 21. Ne1
+Bxe2 22. Kxe2 Re8 23. Nc2 Ne5 24. Rf1 Qh4 25. Kd1 Qc4 26. Qg2 Qb3 27. Ne4 Qxd5+
+28. Nd2 Nc4 29. Qf2 Nxb2+ 30. Ke2 Qd3+ 31. Ke1 Rf8 32. Qh4 Qxc2 33. Qxh6 Qd1#
+0-1

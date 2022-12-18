@@ -1,0 +1,19 @@
+[Event "Biel op"]
+[Site "Biel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fischbach, H."]
+[Black "Widmann, Ru"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "5af7d9a6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 c5 9. Nb3 Bd7 10. Be3 b6 11. Nc3 O-O-O 12. Rfd1 Ne7 13. a4 Nc6 14. a5
+c4 15. axb6 cxb3 16. bxc7 Kxc7 17. Rxa6 Rb8 18. Nd5+ Kb7 19. Rb6+ Kc8 20. cxb3
+Bd6 21. Rxb8+ Nxb8 22. Nb6+ Kc7 23. Nc4 Bb4 24. Bf4+ Kb7 25. Bxb8 Bg4 26. f3
+Bc5+ 27. Kf1 Rxb8 28. fxg4 Kc7 29. Rd3 f6 30. Ke2 Ra8 31. g5 fxg5 32. Rd5 Be7
+33. e5 Rb8 34. e6 1-0

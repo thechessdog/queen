@@ -1,0 +1,20 @@
+[Event "Kehl MA"]
+[Site "Kehl MA"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Kratochwil, Christian"]
+[Black "Fohler, Claus"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "3d30a49f"]
+[Epoch "Queen"]
+[WhiteID "4602765"]
+[WhiteCountry "GER"]
+[BlackID "4610989"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. f4 c5 7. d5 e6 8. dxe6
+Bxe6 9. g4 Nxg4 10. Nf3 Bd4 11. Nb5 Bf2+ 12. Kd2 Ne3 13. Qb3 a6 14. Nc3 b5 15.
+Nd5 Bxd5 16. cxd5 Qf6 0-1

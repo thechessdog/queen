@@ -1,0 +1,19 @@
+[Event "Lloyds Bank op"]
+[Site "London"]
+[Date "1987.??.??"]
+[Round "2"]
+[White "Lalic, Susan K"]
+[Black "Wilson"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c919a137"]
+[Epoch "Queen"]
+[WhiteID "401510"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. d5 Nd4 11. Qd1 e5 12. dxe6 fxe6 13. Be3 Bc5 14. b4 Qf6
+15. bxc5 Nxf3+ 16. Ke2 O-O 17. Rc1 Rad8 18. Ne4 Qb2+ 19. Bd2 Qb5+ 20. Ke3 Nd5#
+0-1

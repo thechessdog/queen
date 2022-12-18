@@ -1,0 +1,19 @@
+[Event "Lacona"]
+[Site "Lacona"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Monaldi"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "0fa46370"]
+[Epoch "Queen"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Be7 7. Nf3 b6 8. O-O
+Bb7 9. cxd5 Nxd5 10. Nxd5 Qxd5 11. e4 Qh5 12. Bf4 c5 13. Rc1 Nd7 14. Qa4 Nf6
+15. dxc5 Bxc5 16. b4 Rfd8 17. bxc5 Rxd3 18. c6 Bc8 19. Rfd1 Rxd1+ 20. Rxd1 h6
+21. Rd8+ Kh7 22. Be5 Qg6 23. c7 Qxe4 24. Qxe4+ Nxe4 25. Nd4 f6 26. Bg3 e5 27.
+Nc6 Nc5 28. Ne7 Ne6 29. Rxc8 Rxc8 30. Nxc8 Nxc7 31. Nxa7 1-0

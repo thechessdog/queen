@@ -1,0 +1,23 @@
+[Event "Arcidosso ch-ITA"]
+[Site "Arcidosso ch-ITA"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Vallifuoco, Giovanni"]
+[Black "Cocozza, Mario"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "52b6477e"]
+[Epoch "Queen"]
+[WhiteID "800783"]
+[WhiteCountry "ITA"]
+[BlackID "800236"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. a3 cxd4 8. exd4
+Be7 9. cxd5 Nxd5 10. O-O O-O 11. Bc2 Nxc3 12. bxc3 Bf6 13. Qd3 g6 14. Bh6 Re8
+15. f4 b6 16. Ba4 Bb7 17. Ng3 Qd5 18. Ne4 Bh8 19. Rae1 a6 20. Qh3 b5 21. Bc2
+Ne7 22. Nc5 Bc6 23. Re5 Qd6 24. Rfe1 Bd5 25. Qh4 Qc6 26. Ne4 Nf5 27. Nf6+ Bxf6
+28. Qxf6 Nxh6 29. Rg5 Qxc3 30. Re2 Nf5 31. Bxf5 Qc1+ 32. Kf2 Qxf4+ 33. Kg1 exf5
+0-1

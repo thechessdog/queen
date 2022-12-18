@@ -1,0 +1,20 @@
+[Event "BL2-W 8889"]
+[Site "BL2-W 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nautsch, W."]
+[Black "Kamp, C."]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "42310e7c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 O-O 7. O-O Re8
+8. Nc3 Ngxe5 9. a3 Nxf3+ 10. Bxf3 a5 11. b3 Ne5 12. Bb2 Ra6 13. Ne4 Bf8 14.
+g3 Nxf3+ 15. Qxf3 Rh6 16. Rfe1 d6 17. Qf4 Rg6 18. f3 Be7 19. Rad1 f5 20.
+Nf2 c5 21. g4 Bg5 22. Qg3 Bh4 23. Qg2 fxg4 24. fxg4 Bxf2+ 25. Kxf2 Rf8+ 26.
+Ke2 Bxg4+ 27. Kd2 Bxd1 28. Qd5+ Kh8 29. Kxd1 Rf2 30. Bc3 Qb6 31. b4 axb4
+32. Qe4 Qc6 33. axb4 0-1
+

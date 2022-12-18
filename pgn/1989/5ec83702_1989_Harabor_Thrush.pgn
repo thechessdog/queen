@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Thrush, William"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "5ec83702"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Nxe5 Be7
+8. Bxc6 dxc6 9. d4 Ne6 10. Be3 O-O 11. c4 f6 12. Nf3 f5 13. Nc3 Bb4 14. d5
+Nc5 15. Bg5 Qd7 16. Re7 Qd6 17. Qd4 Qg6 18. Ne2 h6 19. Nf4 Qh7 20. Nh5 Rf7
+21. Rxf7 Kxf7 22. dxc6 Ne6 23. cxb7 1-0
+

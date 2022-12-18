@@ -1,0 +1,20 @@
+[Event "NATO-ch"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Kemp, Peter D"]
+[Black "Boger, Raymond"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "50cb9351"]
+[Epoch "Queen"]
+[WhiteID "402222"]
+[BlackID "1507419"]
+[WhiteCountry "ENG"]
+[BlackCountry "NOR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nd7 5. Nf3 c5 6. Bc4 Nh6 7. O-O O-O 8. h3 a6
+9. a4 cxd4 10. Nxd4 Qb6 11. Be3 e5 12. fxe5 dxe5 13. Nf5 Qxb2 14. Nxh6+ Bxh6
+15. Bxh6 Qxc3 16. Bb3 Nc5 17. Rxf7 Rxf7 1-0

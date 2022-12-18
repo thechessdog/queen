@@ -1,0 +1,21 @@
+[Event "Naples"]
+[Site "Naples"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fasano"]
+[Black "Vujovic, Milorad M"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "e6dc47b9"]
+[Epoch "Queen"]
+[BlackID "936480"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Bxc3+ 6. bxc3 Nc6 7. Nf3 d6 8. e4
+e5 9. d5 Na5 10. O-O b6 11. Bg5 h6 12. Bh4 g5 13. Nxg5 hxg5 14. Bxg5 Rg8 15. h4
+Bg4 16. f3 Bd7 17. f4 Bg4 18. Be2 Bxe2 19. Qxe2 Rxg5 20. fxg5 Ng8 21. Qh5 Qe7
+22. g6 f6 23. Qg4 Nxc4 24. Qe2 Na5 25. Rf3 O-O-O 26. Raf1 Kb8 27. h5 Qg7 28. g4
+Qh6 29. Rf5 c4 30. g5 fxg5 31. Qg4 Nb7 32. Rf7 Qh8 33. Rh7 Nf6 34. Rxh8 Nxg4
+35. g7 1-0

@@ -1,0 +1,23 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kivisto, Mikko"]
+[Black "Valkesalmi, Kimmo"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "40784e1c"]
+[Epoch "Queen"]
+[WhiteID "5800803"]
+[BlackID "500054"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. f4 e6 8. Be3
+Be7 9. Be2 O-O 10. O-O Qc7 11. Kh1 Bd7 12. Nb3 b6 13. Bf3 Rab8 14. Qe2 Nb4 15.
+Bf2 e5 16. Bg3 Be6 17. Rfd1 Rfe8 18. Nd5 Bxd5 19. exd5 e4 20. Bxe4 Bf8 21. Rd4
+Nbxd5 22. Qd3 Nxe4 23. Rxe4 Rxe4 24. Qxe4 Nf6 25. Qd3 d5 26. f5 Bd6 27. Re1
+Bxg3 28. Qxg3 Qxg3 29. hxg3 Kf8 30. c3 Re8 31. Rxe8+ Kxe8 32. a5 bxa5 33. Nxa5
+Kd7 34. Nb7 Ne4 35. Kh2 Kc7 36. Na5 Nd2 37. g4 Kb6 38. b4 Kb5 0-1

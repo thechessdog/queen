@@ -1,0 +1,16 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Vriendt"]
+[Black "Szasz"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f6d494f1"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Ne5 O-O
+8. Bg5 Nbd7 9. O-O c5 10. Nxd7 Bxd7 11. dxc5 Qc7 12. b4 Bc6 13. Rb1 Rad8
+14. Qe2 Ng4 15. Qxg4 Bxc3 16. Be3 Qe5 17. Bh6 1-0
+

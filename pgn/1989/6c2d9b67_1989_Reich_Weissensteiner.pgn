@@ -1,0 +1,18 @@
+[Event "Dornbirn"]
+[Site "Dornbirn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reich, Thomas"]
+[Black "Weissensteiner"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "6c2d9b67"]
+[Epoch "Queen"]
+[WhiteID "4601009"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 Bb4 7. Qa4+ Nc6 8.
+Ne5 Bxc3+ 9. bxc3 Bd7 10. Nxd7 Kxd7 11. g3 Kd8 12. Rb1 Kc8 13. cxd5 exd5 14.
+Bh3+ Kb8 15. Rxb7+ 1-0

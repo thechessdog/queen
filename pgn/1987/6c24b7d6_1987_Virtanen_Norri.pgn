@@ -1,0 +1,21 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Virtanen, Antti"]
+[Black "Norri, Joose"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "5.Bg5 dc"]
+[HashCode "6c24b7d6"]
+[Epoch "Queen"]
+[WhiteID "501930"]
+[BlackID "500160"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 dxc4 6. a4 Bb4 7. e4 b5 8. e5 h6
+9. exf6 hxg5 10. fxg7 Rg8 11. h4 g4 12. Ne5 f5 13. h5 Rxg7 14. Be2 Bb7 15. h6
+Rh7 16. Bxg4 Qg5 17. Bh5+ Ke7 18. Qd2 Qxh6 19. Nd5+ cxd5 20. Qxb4+ Kf6 21. Qd6
+Qg7 22. Rh3 Qe7 23. Ng4+ 1-0

@@ -1,0 +1,23 @@
+[Event "Espoo op"]
+[Site "Espoo"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Hazai, Laszlo Dr."]
+[Black "Pulkkinen, Kari"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "d77bd9bf"]
+[Epoch "Queen"]
+[WhiteID "700177"]
+[WhiteCountry "HUN"]
+[BlackID "500712"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Qf3 Qb6 8. Nb3
+Qc7 9. Bd3 b5 10. g4 Bb7 11. g5 Nfd7 12. Qh3 g6 13. O-O b4 14. Ne2 d5 15. f5
+dxe4 16. fxg6 Qb6+ 17. Ned4 fxg6 18. Bc4 Ne5 19. Rf6 Nf3+ 20. Kh1 Be7 21. Be3
+Nd7 22. Bxe6 Nxf6 23. gxf6 Bxf6 24. Bd7+ Kf7 25. Nxf3 exf3 26. Bxb6 f2+ 27. Qg2
+Bxg2+ 28. Kxg2 Bxb2 29. Rf1 Rab8 30. Bxf2 Kg7 31. Nc5 h6 32. Bg3 Rb6 33. Na4
+Bf6 1-0

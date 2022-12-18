@@ -1,0 +1,16 @@
+[Event "Innsbruck"]
+[Site "Innsbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Topakian, Raffi"]
+[Black "Studer, V."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "8e819e42"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qd6
+8. Nc4 Qc7 9. Nc3 g6 10. Nb5 Qc6 11. Qe2 Bh6 12. Nbd6+ Kf8 13. Nxf7 Kg7 14.
+Nxh6 Kxh6 15. d3+ g5 16. h4 Nbd7 17. hxg5+ 1-0

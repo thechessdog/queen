@@ -1,0 +1,14 @@
+[Event "Kleve"]
+[Site "Kleve"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moroder, T."]
+[Black "Shneider, Aleksandr"]
+[Result "0-1"]
+[ECO "A22"]
+[Opening "English opening"]
+[HashCode "f8df0860"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bc5 4. Nf3 Ng4 5. d4 exd4 6. Nxd4 Nxf2 7. Kxf2 Qf6+
+8. Ke3 Nc6 0-1

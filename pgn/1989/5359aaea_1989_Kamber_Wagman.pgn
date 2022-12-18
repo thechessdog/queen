@@ -1,0 +1,15 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Kamber, Bruno"]
+[Black "Wagman, Stuart"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "5359aaea"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 1/2-1/2

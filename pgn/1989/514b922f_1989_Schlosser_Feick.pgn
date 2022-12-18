@@ -1,0 +1,20 @@
+[Event "Lasker mem"]
+[Site "Berlijn"]
+[Date "1989.01.01"]
+[Round "11"]
+[White "Schlosser, Philipp"]
+[Black "Feick, Stefan"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "514b922f"]
+[Epoch "Queen"]
+[WhiteID "4600169"]
+[WhiteCountry "GER"]
+[BlackID "4602080"]
+[BlackCountry "GER"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 g6 6. Nc2 Bg7 7. e4 O-O 8.
+Be2 a6 9. O-O Ne8 10. Be3 Bxc3 11. bxc3 Qa5 12. Qd2 Nd6 13. f3 Ne5 14. c5 Ndc4
+15. Bxc4 Nxc4 16. Qd4 Qa4 17. Bh6 e5 18. Qf2 Re8 19. f4 1-0

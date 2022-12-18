@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Poluktov, J."]
+[Black "Ambrosewicz, C."]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "b3dc2c17"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 cxd4 7. cxd4 Nc6 8.
+Ne2 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Be3 Bd7 14. a3
+Be8 15. Ng5 Na5 16. b4 Nc4 17. Bxc4 dxc4 18. d5 Qa6 19. Nxe6 Bh5 20. Qd4
+Rfe8 21. Ne4 1-0
+

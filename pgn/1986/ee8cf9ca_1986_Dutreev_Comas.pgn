@@ -1,0 +1,17 @@
+[Event "Badalona"]
+[Site "Badalona"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dutreev"]
+[Black "Comas"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "ee8cf9ca"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
+b3 Qc7 9. Bb2 b5 10. Bf3 Bb7 11. Re1 Nbd7 12. a4 b4 13. Na2 O-O 14. g3 Nc5
+15. c3 Ncxe4 16. cxb4 Qd7 17. b5 e5 18. Nc6 axb5 19. axb5 d5 20. Bxe4 1-0
+

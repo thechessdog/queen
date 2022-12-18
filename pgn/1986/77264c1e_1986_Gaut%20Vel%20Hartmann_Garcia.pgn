@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gaut Vel Hartmann,"]
+[Black "Garcia, Yuli"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "77264c1e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 Nd7 6. Bd3 Nxc5 7. Bxf5
+Qd5 8. Bh3 Rd8 9. Be3 Ne4 10. Ne2 e5 11. f3 Qa5+ 12. c3 exd4 13. fxe4 dxc3
+14. Nxc3 Rxd1+ 15. Rxd1 Nf6 16. O-O Bc5 17. Bxc5 Qxc5+ 18. Kh1 O-O 19. Rf5
+Qb4 20. e5 Qxb2 21. Rf3 Nd5 22. Nxd5 cxd5 23. e6 Qe2 24. exf7+ Rxf7 0-1
+

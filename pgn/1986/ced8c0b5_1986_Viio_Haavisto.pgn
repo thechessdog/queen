@@ -1,0 +1,17 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Viio"]
+[Black "Haavisto"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "ced8c0b5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 Bg7 8.
+Qf3 O-O 9. Bd3 Nbd7 10. Bc2 Re8 11. Nge2 a6 12. O-O b5 13. Ng3 h6 14. Bf4
+Ne5 15. Bxe5 Rxe5 16. Qd3 c4 17. Na4 cxd3 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Holzhaeuer, M."]
+[Black "Koronowski, H."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "fb8af506"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Qd2 Qa5
+8. c5 O-O-O 9. Nge2 Nb4 10. Ng3 Ne4 11. Ngxe4 dxe4 12. Be3 Bb3 13. Rc1 Nc2+
+14. Rxc2 Bxc2 15. Qxc2 e5 16. Qxe4 exd4 17. Bxd4 Qb4 18. Qf5+ Kb8 19. Be5+
+Ka8 20. Be2 Qxc5 21. b4 Qc6 22. Bf3 Qc4 23. Be2 Qc6 24. O-O f6 25. Bf3 Qc4
+26. Bf4 1-0
+

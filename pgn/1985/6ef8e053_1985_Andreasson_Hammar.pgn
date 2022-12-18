@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Andreasson, Ingvar"]
+[Black "Hammar, Bengt"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "6ef8e053"]
+[Epoch "Queen"]
+[WhiteID "1700294"]
+[BlackID "1700391"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc7
+8. Re1 Nc6 9. Nxc6 Qxc6 10. b3 e6 11. Bb2 Be7 12. Na3 O-O 13. Nc4 Rfd8 14. a4
+Nd7 15. Re3 Bf6 16. Bxf6 Nxf6 17. d3 Rd5 18. Qe2 b6 19. f4 a6 20. a5 bxa5 21.
+Rf3 Rdd8 22. Nxa5 Qc7 23. Qe5 Qc8 24. Nc4 Nd5 25. Re1 Ra7 26. f5 exf5 27. Qxf5
+Qxf5 28. Rxf5 f6 29. Ne3 Nxe3 30. Rxe3 Rc8 31. Re4 Kf7 32. Kf2 g6 33. Rd5 Rc6
+34. Ke2 h5 35. Kd2 g5 36. h4 Kg6 37. hxg5 fxg5 38. Ree5 1-0

@@ -1,0 +1,18 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Kielhorn"]
+[Black "Pinnel, Peter"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "a2924bf0"]
+[Epoch "Queen"]
+[BlackID "4608461"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Nxe4 O-O 9. c3 e5 10. Qh5 Bf5 11. Bxc6 Bg6 12. Qf3 Nxc6 13. d5 Ne7 14. c4 Nf5
+15. Bg5 Qe8 16. Be3 Nd4 0-1

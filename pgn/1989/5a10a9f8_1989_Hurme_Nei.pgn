@@ -1,0 +1,18 @@
+[Event "Espoo op"]
+[Site "Espoo"]
+[Date "1989.??.??"]
+[Round "5"]
+[White "Hurme, Harri"]
+[Black "Nei, Iivo"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "5a10a9f8"]
+[Epoch "Queen"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Nf3 Bf5 6. h3 Bd6 7. Bg5 Qb6 8. Nh4
+Be6 9. Qc2 Qxd4 10. e4 Qc5 11. exd5 cxd5 12. Nf5 Be5 13. O-O-O Nc6 14. Bb5 d4
+15. Rhe1 dxc3 16. Rxe5 Qxe5 17. Nd6+ Kf8 18. f4 Qe3+ 19. Kb1 Nd4 0-1

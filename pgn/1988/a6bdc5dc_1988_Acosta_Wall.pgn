@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Acosta, Will"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "a6bdc5dc"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 g6 4. Bg5 Bg7 5. f4 Qa5 6. Qd2 e6 7. Nf3 h6 8. Bh4 a6
+9. Be2 Nd4 10. O-O Nxe2+ 11. Qxe2 Bxc3 12. bxc3 Qxc3 13. e5 b5 14. Rad1 Bb7 15.
+d4 c4 16. Be1 Qa3 17. c3 Ne7 18. g4 Nd5 19. Qd2 a5 20. f5 gxf5 21. gxf5 Rg8+
+22. Kf2 b4 23. fxe6 dxe6 24. Qxh6 Nxc3 25. Bxc3 Qxc3 26. Qe3 Rg2+ 0-1

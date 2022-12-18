@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neumarker"]
+[Black "Sandick"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "5d327089"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 Nc6 6. Bf4 e6 7. Qd2 Qa5
+8. Ng5 Nxe5 9. Bxe5 f6 10. Bg3 fxg5 11. Qxg5 Qd8 12. h4 Qxg5 13. hxg5 Kf7
+14. g6+ Kg8 15. gxh7+ Rxh7 16. Rxh7 Kxh7 17. O-O-O Be7 18. c4 g6 19. Be5
+Kg8 20. g4 Kf7 21. Bg2 Bf6 22. Bd6 Be7 23. Bxe7 Kxe7 24. g5 a5 25. Be4 Ra6
+26. Bxg6 d5 27. cxd5 exd5 28. Re1+ Re6 29. Rxe6+ Bxe6 30. f4 d4 31. Be4 b5
+32. b3 c4 33. f5 Bd7 34. f6+ Ke6 35. Bd5+ 1-0
+

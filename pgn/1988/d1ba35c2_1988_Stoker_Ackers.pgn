@@ -1,0 +1,18 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stoker"]
+[Black "Ackers"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "d1ba35c2"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 c5 5. dxc5 Bxc5 6. Bd3 Ne7 7. O-O Nbc6
+8. exd5 exd5 9. Nb3 Ba7 10. c3 O-O 11. Nfd4 Qd6 12. Qh5 g6 13. Qh4 f5 14.
+Nf3 Qf6 15. Bg5 Qf7 16. Rfe1 Re8 17. Re2 Bd7 18. Rae1 Nc8 19. Rxe8+ Bxe8
+20. Bf6 Nd6 21. Ng5 Qxf6 22. Qxh7+ Kf8 23. Ne6+ Qxe6 24. Rxe6 1-0
+

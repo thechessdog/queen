@@ -1,0 +1,26 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Veingold, Aleksandr"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "6426717e"]
+[Epoch "Queen"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Nc3 O-O 10. Rc1 Nbd7 11. cxd5 cxd5 12. a4 Ne4 13. Nb5 Bxb5 14. axb5 Nd6
+15. Bf4 Nxb5 16. Qd3 a6 17. e4 dxe4 18. Qxe4 Nf6 19. Qd3 Nd5 20. Bd2 Rc8 21.
+Ne5 Rxc1 22. Rxc1 Bf6 23. f4 Ne7 24. Rc4 Bxe5 25. fxe5 Qd7 26. Be4 h6 27. Bc1
+Rc8 28. Bb2 Nc7 29. Rc1 a5 30. Rf1 Ned5 31. Bf3 Nb4 32. Qe4 Ncd5 33. Bh5 Rf8
+34. h4 f5 35. Qf3 Kh7 36. Qe2 Rc8 37. Rc1 Rxc1+ 38. Bxc1 Nc3 39. Qe3 Nb5 40.
+Bb2 Nc2 41. Qd3 Ncxd4 42. g4 Qd5 43. gxf5 exf5 44. Qg3 Qc6 45. Qf4 Qd5 46. Qg3
+Kh8 47. Qe3 Kg8 48. Kf2 Qh1 49. Qf4 g5 50. hxg5 Qxh5 51. Bxd4 hxg5 52. Qxf5
+Nxd4 53. Qc8+ Kg7 54. Ke3 Nf3 55. Qd7+ Qf7 0-1

@@ -1,0 +1,16 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Engelkes"]
+[Black "Van Kerkwijk"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "0e8f0f71"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. Bg5 Bf5 5. Qe2 Nbd7 6. Qb5 e6 7. O-O-O
+Be7 8. Qxb7 O-O 9. Bc4 Nb6 10. Bb3 a5 11. a4 Nfd5 12. Bxe7 Qxe7 13. Nge2
+Nb4 14. Nb5 N6d5 15. Bxd5 exd5 16. Nec3 Qg5+ 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vugt"]
+[Black "Smit"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2ab257b1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8.
+c4 Qd7 9. dxc5 Rd8 10. Ne5 Qd4 11. Qe2 Qxc5 12. b4 Qc7 13. a3 Nc6 14. Bb2
+Ne8 15. f4 Bf6 16. Nd2 Bxe5 17. fxe5 Qd7 18. Bxh7+ Kxh7 19. Qh5+ Kg8 20.
+Ne4 Nxe5 21. Bxe5 f6 22. Rxf6 Nxf6 23. Nxf6+ gxf6 24. Bxf6 1-0
+

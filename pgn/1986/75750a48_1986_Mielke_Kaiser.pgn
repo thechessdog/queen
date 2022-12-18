@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mielke, K."]
+[Black "Kaiser, H."]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "75750a48"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 c5 8.
+a3 cxd4 9. axb4 dxc3 10. Nxc3 Bg4 11. f3 Be6 12. b5 Nbd7 13. O-O Ne5 14.
+Bc2 Qb6 15. Qd4 Qxd4 16. exd4 Nc4 17. b3 Nd6 18. Bb2 Rfc8 19. Bd3 Bf5 20.
+Bxf5 Nxf5 21. Ra4 a6 22. g4 Ne7 23. Re1 Rc7 24. Re3 h6 25. Ra5 Ng6 26. bxa6
+Rxa6 27. Rxa6 bxa6 28. Kf2 Nf4 29. Ba3 Ne6 30. Bd6 Rb7 31. Ne2 a5 32. Rc3
+Kh7 33. h4 1/2-1/2
+

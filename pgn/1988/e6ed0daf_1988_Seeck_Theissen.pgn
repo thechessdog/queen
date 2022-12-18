@@ -1,0 +1,18 @@
+[Event "Schleswig Holstein-ch"]
+[Site "Landes-Einzelmeister"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Seeck, Klaus"]
+[Black "Theissen, Erik"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "e6ed0daf"]
+[Epoch "Queen"]
+[WhiteID "4618327"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. e6 fxe6 13. O-O exd5 14. Nxd5 Bd4+ 15.
+Nxd4 Qxd5 16. Nb5 Qxd1 17. Bxd1 Na6 18. Nd6 Rd8 19. Nxc8 Rxd1 20. Ne7+ 1-0

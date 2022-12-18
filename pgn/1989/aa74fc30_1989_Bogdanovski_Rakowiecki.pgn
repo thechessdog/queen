@@ -1,0 +1,23 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Bogdanovski, Vlatko"]
+[Black "Rakowiecki, Tomasz"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "aa74fc30"]
+[Epoch "Queen"]
+[WhiteID "15000206"]
+[WhiteCountry "MKD"]
+[BlackID "1100955"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bg5 h6 12. Bh4 Nbd7 13. Nd2 Bxe2 14. Qxe2 Qc7 15.
+f4 Rfe8 16. Rae1 Rab8 17. Kh1 b5 18. axb5 axb5 19. Nxb5 Qb6 20. Na3 Nxd5 21.
+Nac4 Qc7 22. Qd3 Nxf4 23. Rxf4 g5 24. Rxf7 Kxf7 25. Nxd6+ Kg8 26. Qd5+ Kh8 27.
+Nxe8 Rxe8 28. Bg3 Qa7 29. Qf7 Rf8 30. Qe7 Qa4 31. e5 Qd4 32. e6 Nf6 33. Qd6 Nh5
+34. Qxf8+ 1-0

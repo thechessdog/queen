@@ -1,0 +1,20 @@
+[Event "Simferopol"]
+[Site "Simferopol"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sideif Sade, Fikret I"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "27a687f6"]
+[Epoch "Queen"]
+[BlackID "2802341"]
+[BlackCountry "ISR"]
+[WhiteCountry "AZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Nc6 6. Bxf6 gxf6 7. c3 d5 8. Bd3
+cxd4 9. cxd4 e5 10. Be2 Rg8 11. g3 Bh3 12. Nc3 O-O-O 13. a3 Bh6 14. b4 Kb8 15.
+Na4 Qc7 16. Qb2 Rge8 17. Rc1 Bg2 18. Rg1 Bxf3 19. Bxf3 exd4 20. b5 Qa5+ 21. Kf1
+Ne5 0-1

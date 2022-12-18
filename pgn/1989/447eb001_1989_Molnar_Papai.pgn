@@ -1,0 +1,17 @@
+[Event "Szekszard"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Molnar, Attila"]
+[Black "Papai, Janos"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto variation"]
+[HashCode "447eb001"]
+[Epoch "Queen"]
+[BlackID "702765"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c6 7. O-O Be6 8. b3 h6
+9. Bb2 Qc8 10. Re1 Bh3 11. Bh1 Nbd7 12. Rc1 Ng4 13. e4 Qc7 14. Re2 1/2-1/2

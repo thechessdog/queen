@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rehagi"]
+[Black "Wolf"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "a01ae5d8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Ne4 cxd4 7. Nxd4
+Be7 8. Bb5+ Bd7 9. O-O Bxb5 10. Nxb5 O-O 11. c4 Qb6 12. Qb3 Nb4 13. Qg3 f5
+14. Bh6 Rf7 15. Nc7 fxe4 16. Nxa8 Qd6 17. Qxd6 Bxd6 18. Rad1 Nd3 19. Be3
+Nc6 20. f3 Be5 21. b3 Rf8 22. fxe4 Nf4 23. Kh1 Rxa8 24. Bxf4 Bd4 25. Bd6
+Rd8 26. c5 b6 27. b4 e5 28. b5 bxc5 29. bxc6 Rxd6 30. Rb1 1-0
+

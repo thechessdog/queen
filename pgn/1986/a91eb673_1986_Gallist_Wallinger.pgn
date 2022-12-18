@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gallist, D."]
+[Black "Wallinger, M."]
+[Result "0-1"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "a91eb673"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Nf3 O-O 9. Be2 Bg4 10. O-O Nbd7 11. Nd2 Bxe2 12. Qxe2 Re8 13. Qf3 Qe7 14.
+a4 c4 15. Kh1 Rac8 16. Rb1 a6 17. b4 cxb3 18. Rxb3 Nc5 19. Rb4 Nfd7 20. Bb2
+b5 21. axb5 a5 22. Rc4 Nb6 23. e5 Nxc4 24. Nxc4 Nb7 25. Nb6 Rb8 26. Ne4 Nc5
+27. Nc4 Nxe4 28. Qxe4 dxe5 29. d6 Qb7 30. Qxb7 Rxb7 31. fxe5 Rxb5 32. Ba1
+Rc8 0-1
+

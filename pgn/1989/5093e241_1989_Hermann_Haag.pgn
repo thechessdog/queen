@@ -1,0 +1,20 @@
+[Event "Porz op22"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hermann, Horst"]
+[Black "Haag, Martin"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "5093e241"]
+[Epoch "Queen"]
+[WhiteID "1270039"]
+[WhiteCountry "GER"]
+[BlackID "4601270"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Ne4 4. Bf4 Bg7 5. e3 d5 6. Bd3 f5 7. O-O O-O 8. Nbd2
+Nd7 9. h3 c6 10. c4 e6 11. Bxe4 fxe4 12. cxd5 exf3 13. dxe6 fxg2 14. Kxg2 Nb6
+15. Qb3 Qd5+ 16. Kg3 0-1

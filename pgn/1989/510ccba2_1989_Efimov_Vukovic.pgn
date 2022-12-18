@@ -1,0 +1,19 @@
+[Event "Catania"]
+[Site "Catania"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Efimov"]
+[Black "Vukovic"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "510ccba2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. f4 O-O 9. O-O a5 10. a4 Nb4 11. Kh1 Bd7 12. Bf3 Bc6 13. Be3 d5 14. exd5
+Nfxd5 15. Nxd5 Bxd5 16. fxe5 Bxf3 17. Qxf3 Nxc2 18. Rad1 Qe8 19. Bc5 b5 20.
+axb5 a4 21. Qb7 Bxc5 22. Nxc5 Qc8 23. Rd7 Qxc5 24. e6 Qc4 25. exf7+ Kh8 26.
+Rfd1 h6 27. Qxa8 Rxa8 28. Rd8+ Kh7 29. f8=Q 1-0
+

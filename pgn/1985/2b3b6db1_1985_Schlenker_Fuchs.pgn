@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Fuchs, D."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "2b3b6db1"]
+[Epoch "Queen"]
+[WhiteID "4605837"]
+[WhiteCountry "GER"]
+
+1. Nc3 Nc6 2. d4 d5 3. e4 dxe4 4. d5 Ne5 5. Qd4 Ng6 6. h4 e5 7. Qxe4 Nf6 8.
+Bb5+ c6 9. dxc6 Nxe4 10. c7+ Qd7 11. Bxd7+ Bxd7 12. Nxe4 Rc8 13. h5 Ne7 14.
+Nd6# 1-0

@@ -1,0 +1,27 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Herrera Perez, Juventino"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "6f4958b4"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "3501124"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be3 Nc6 7. Nf3 Rg8
+8. g3 e5 9. Bg2 Bg4 10. Qd3 Qe7 11. dxe5 fxe5 12. Qxh7 Rg7 13. Qe4 O-O-O 14.
+Bh6 f5 15. Qe3 e4 16. Nh4 Qb4+ 17. c3 Qb5 18. a4 Rgd7 19. f3 Qxb2 20. O-O Rd3
+21. Qc1 Qxc1 22. Bxc1 exf3 23. Nxf3 Rxc3 24. Bg5 Bc5+ 25. Kh1 Rg8 26. Bf6 Rc2
+27. Nh4 Rf8 28. Bg7 Rg8 29. Bh6 Rh8 30. Rac1 Rxc1 31. Bxc1 Bd6 32. Bxc6 bxc6
+33. Kg2 Re8 34. Rf2 Re4 35. h3 Bd1 36. a5 Bb3 37. Nxf5 Bc5 38. Kf3 Bd5 39. Rd2
+Rc4+ 40. Rxd5 cxd5 41. Bf4 Kd7 42. h4 Ke6 43. g4 Bb4 44. h5 Bxa5 45. h6 Bc3 46.
+Ne3 Rc5 47. g5 Kf7 48. Ng2 a5 49. Nh4 Rc6 50. Kg4 a4 51. Bc1 Rc4+ 52. Kh5 Rxh4+
+53. Kxh4 Kg6 54. Kg4 c5 55. Kf4 Bb4 56. Ke5 d4 57. Ke6 Bc3 58. h7 d3 59. Bd2
+Bh8 0-1

@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Niggel, Chris"]
+[Black "Harabor, M."]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "1f033b62"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. d4 Bg4 10. Be3 Na5 11. dxe5 Nxb3 12. Qxb3 Nxe4 13. exd6 Bxd6 14.
+Nd4 c5 15. f3 Bxh2+ 16. Kf1 cxd4 17. cxd4 Be6 0-1
+

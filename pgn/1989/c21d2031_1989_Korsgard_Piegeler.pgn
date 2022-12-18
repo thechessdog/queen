@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Korsgard, P."]
+[Black "Piegeler, W."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "c21d2031"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+a6 9. Nxd4 Nc6 10. Ngf3 Nxd4 11. Nxd4 Ne7 12. Bd3 b5 13. c3 O-O 14. Be3 Bb7
+15. Qh5 g6 16. Qh6 Nf5 17. Bxf5 exf5 18. h4 Bb6 19. Nxf5 gxf5 20. Bxb6 Qc8
+21. Rh3 1-0
+

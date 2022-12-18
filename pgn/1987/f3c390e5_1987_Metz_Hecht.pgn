@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Metz, Hartmut"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "f3c390e5"]
+[Epoch "Queen"]
+[WhiteID "4605950"]
+[WhiteCountry "GER"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bd3 d6 7. O-O Bg4 8.
+Qe1 Bxf3 9. Rxf3 Bg7 10. Bc4 d5 11. Nxd5 c6 12. Nxf6+ Bxf6 13. Rxf6 Qxd4+ 14.
+Rf2 Qxc4 15. Bg5 Qc5 16. Bxe7 1-0

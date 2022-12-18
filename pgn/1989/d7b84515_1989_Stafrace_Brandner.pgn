@@ -1,0 +1,19 @@
+[Event "Arnhem ech-jr"]
+[Site "Arnhem ech-jr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stafrace, J."]
+[Black "Brandner, Stefan"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "d7b84515"]
+[Epoch "Queen"]
+[BlackID "1600931"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. Be2 a6 7. O-O dxc4 8. Bxc4
+b5 9. Be2 Bb7 10. b3 cxd4 11. Nxd4 Nxd4 12. Qxd4 Qxd4 13. exd4 Be7 14. Be3 O-O
+15. Rac1 Rac8 16. a4 Ba3 17. Rc2 b4 18. Ra1 Ne4 19. Bc4 Nxc3 20. f3 a5 21. Bd2
+Ne2+ 0-1

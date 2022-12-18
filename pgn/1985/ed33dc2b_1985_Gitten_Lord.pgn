@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gitten"]
+[Black "Lord"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "ed33dc2b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Qxd5 7. Ngf3 Bg4
+8. O-O Bc5+ 9. Kh1 O-O 10. a3 Re8 11. Bc4 Qh5 12. b4 Bd4 13. Rb1 Nc6 14. b5
+Na5 15. Bd3 Nd5 16. Nb3 Nxb3 17. Rxb3 Bb6 18. Be2 Rad8 19. Rd3 c6 20. c4
+Nc3 21. Rxd8 Rxd8 22. Qc2 Nxe2 23. Qxe2 cxb5 24. cxb5 Qc5 25. Re1 h6 26.
+Qe4 Qf2 27. Ng1 Rd1 0-1
+

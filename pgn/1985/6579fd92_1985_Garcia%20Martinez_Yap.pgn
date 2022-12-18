@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Garcia Martinez, Silvino"]
+[Black "Yap, Andronico"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "6579fd92"]
+[Epoch "Queen"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. c4 Qc7 7. O-O d6 8. Nc3
+g6 9. Bg5 Bg7 10. Qd2 O-O 11. Nb3 Nbd7 12. Be2 Ne5 13. Rac1 h6 14. Bxh6 Nxc4
+15. Bxc4 Bxh6 16. Qxh6 Qxc4 17. Nd5 exd5 18. Rxc4 dxc4 19. Nd2 d5 20. e5 Ne4
+21. Nf3 Bg4 22. Nd4 Nc5 23. h3 Ne6 24. hxg4 Nxd4 25. f4 Rfe8 26. Kf2 1-0

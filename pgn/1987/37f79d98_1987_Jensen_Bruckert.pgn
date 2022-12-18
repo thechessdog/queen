@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jensen, Niels"]
+[Black "Bruckert, A."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "37f79d98"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Kf8 6. Bb3 d5 7. exd5
+Nxd5 8. Ne4 b6 9. Qf3+ Nf6 10. Nxc5 Nd4 11. Qxa8 bxc5 12. Na3 1-0
+

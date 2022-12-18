@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Timoshchenko, Gennadi"]
+[Black "Huzman, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "1a997b7e"]
+[Epoch "Queen"]
+[WhiteCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. e5 cxd4 8. Nxd4
+Qa5 9. exf6 Bxc3+ 10. bxc3 Qxg5 11. fxg7 Qxg7 12. Qh5 Nd7 13. Bxc4 Qe5+ 14.
+Qxe5 Nxe5 1/2-1/2

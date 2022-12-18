@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Winter, K."]
+[Black "Zill, E."]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "b64742a9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Bc4 Be7
+8. Qd2 O-O 9. O-O-O d5 10. Nxc6 bxc6 11. e5 Nd7 12. Bxe7 Qxe7 13. Bb3 Nxe5
+14. f4 Nd7 15. h4 Nc5 16. Ba4 Bd7 17. Rde1 Rab8 18. Qd4 Rb5 19. Bxb5 cxb5
+20. f5 Qd6 21. f6 b4 22. Qg4 g6 23. Qg5 Nd3+ 24. cxd3 Rc8 25. h5 bxc3 26.
+Re2 cxb2+ 27. Kxb2 Qb4+ 28. Ka1 Qd4+ 29. Rb2 Rc2 30. Rb1 Bb5 31. hxg6 hxg6
+32. Qg3 e5 33. Qg5 Rxb2 34. Rxb2 Bxd3 35. Qc1 Bf5 36. a3 Qh4 37. Rb4 d4 38.
+Rb8+ Kh7 39. g3 Qxg3 40. Rh8+ Kxh8 41. Qh6+ Kg8 42. Qg7# 1-0
+

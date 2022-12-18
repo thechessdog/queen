@@ -1,0 +1,19 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pape, R."]
+[Black "Burk, D."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "de82a5fc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Nf6 6. Bb5+ Bd7 7. Nxd7
+Nbxd7 8. O-O a6 9. Bxd7+ Qxd7 10. c4 O-O-O 11. c5 Be7 12. c6 bxc6 13. Qa4
+cxd5 14. Qxa6+ Kb8 15. Bf4 Bd6 16. Rc1 Qc8 17. Qc6 Qb7 18. Bxd6 Rxd6 19.
+Qc3 Nh5 20. Qd2 f5 21. Nc3 Qa6 22. a4 c6 23. b4 Rc8 24. Qg5 g6 25. g4 fxg4
+26. Qe5 Rd8 27. b5 Qc8 28. bxc6 Ka8 29. Nb5 Rf6 30. Qe7 1-0
+

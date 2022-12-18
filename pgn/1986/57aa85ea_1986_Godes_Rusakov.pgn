@@ -1,0 +1,20 @@
+[Event "corr ch17-SU"]
+[Site "corr ch17-SU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Godes"]
+[Black "Rusakov"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "57aa85ea"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. O-O Nc5
+8. Bf3 g6 9. a4 Bg7 10. Bg5 O-O 11. a5 Rb8 12. Re1 h6 13. Be3 Nfd7 14. Qd2
+Kh7 15. Be2 Ne5 16. b4 Ncd7 17. Nd5 e6 18. Nc3 Nf6 19. Nb3 Ne8 20. Na4 Nf6
+21. f3 Rg8 22. Bb6 Qe7 23. Rad1 Bd7 24. Nb2 Rbc8 25. c4 g5 26. c5 d5 27.
+Bd3 dxe4 28. fxe4 Nxd3 29. Qxd3 Bb5 30. Nc4 Nd7 31. e5+ Kh8 32. Qd6 Qe8 33.
+Nbd2 Ba4 34. Rc1 Bc6 35. Qd4 Qe7 36. Ne4 Bd5 37. Ned6 Rcf8 38. Nf5 1-0
+

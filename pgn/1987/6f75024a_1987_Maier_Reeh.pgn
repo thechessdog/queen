@@ -1,0 +1,24 @@
+[Event "Bad Neuenahr"]
+[Site "Bad Neuenahr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maier, Christian"]
+[Black "Reeh, Oliver"]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "6f75024a"]
+[Epoch "Queen"]
+[BlackID "4600142"]
+[BlackCountry "GER"]
+[WhiteID "4601955"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Re1 O-O 10. h3 Be6 11. Bf1 Rc8 12. Nd5 Bxd5 13. exd5 Nb8 14. c4 Nh7 15.
+b4 b6 16. Qa4 Rc7 17. Qb5 f5 18. a4 Ng5 19. Nxg5 Bxg5 20. a5 Bxc1 21. Rexc1 Nd7
+22. axb6 axb6 23. Ra6 Qg5 24. Rd1 e4 25. c5 e3 26. c6 exf2+ 27. Kxf2 f4 28. Ra3
+f3 29. Rxf3 Rxf3+ 30. gxf3 Ne5 31. Qxb6 Rf7 32. Be2 Qh4+ 33. Kg2 Ng6 34. Rd4
+Qe1 35. Qb5 Rf4 36. Qb8+ Kh7 37. Bd3 Rxd4 38. Bxg6+ Kxg6 39. Qxd6+ Kh7 40. h4
+Qxh4 0-1

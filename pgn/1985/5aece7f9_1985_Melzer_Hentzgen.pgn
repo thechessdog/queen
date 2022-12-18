@@ -1,0 +1,23 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Hentzgen, K."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "5aece7f9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3 d6
+8. c3 Bg4 9. Bxc6 bxc6 10. d4 exd4 11. cxd4 Bxf3 12. gxf3 Bb6 13. Rg1 Rf7
+14. Bg5 Kf8 15. Nc3 Qe8 16. Qd2 Qe6 17. Na4 Re8 18. Nxb6 cxb6 19. b3 Qh3
+20. Bxf6 Rxf6 21. Rg3 Qxh2 22. O-O-O Qh6 23. Rdg1 Qxd2+ 24. Kxd2 g6 25. Ke3
+Re7 26. b4 c5 27. bxc5 dxc5 28. dxc5 bxc5 29. Rc1 Rc6 30. Rc4 h5 31. Rg5
+Rec7 32. f4 Kg7 33. f5 Kh6 34. f4 gxf5 35. Rxf5 Ra6 36. Kf3 Ra3+ 37. Ke2
+Rxa2+ 38. Kd3 h4 39. Rcxc5 Rxc5 40. Rxc5 h3 41. Rc1 h2 42. Kd4 Rc2 43. Ra1
+a5 44. Ke5 Kg7 45. Ke6 a4 46. f5 Rf2 47. e5 a3 48. f6+ Kg6 49. Kd7 Kf7 50.
+Re1 Re2 51. Rh1 a2 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kantz"]
+[Black "Blomberg"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "c61fbefe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Bxf3 11. Qxf3 Qxd5 12. Qg3 Qxd4 13. Nc3 O-O
+14. Bg5 Nh5 15. Qe3 Bxg5 16. Qxg5 Qxd3 17. Qxh5 Rad8 18. Rad1 Qc2 19. Rxd8
+Rxd8 20. Qb5 Qd2 21. Kf1 Rb8 22. Nd5 a6 23. Qb3 Nd4 24. Qe3 Qxe3 25. Rxe3
+Ne6 26. Rc3 c6 27. Nb6 Rd8 28. g3 Rd1+ 29. Kg2 g5 30. Nc4 c5 31. Ne3 Rd2
+32. Rc2 Rd3 33. Nf5 b5 34. b3 h5 35. Ne3 0-1
+

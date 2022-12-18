@@ -1,0 +1,24 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Rhodin, Christian"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "c12f0134"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[BlackID "4606051"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 Be7 5. d3 d5 6. cxd5 Nxd5 7. a3 Be6 8. Nf3
+f6 9. Be2 O-O 10. O-O Qe8 11. Nbd2 Nb6 12. b4 a6 13. Rc1 Rd8 14. Qc2 Qf7 15. d4
+exd4 16. Nxd4 Nxd4 17. Bxd4 Nd5 18. Ne4 Qg6 19. Nc5 Qxc2 20. Rxc2 Bc8 21. Bc4
+Kh8 22. Rd2 Nb6 23. Bb3 Bxc5 24. bxc5 Nd7 25. Rfd1 Nb8 26. Bc3 Nc6 27. f3 Rxd2
+28. Rxd2 Rd8 29. Kf2 Rxd2+ 30. Bxd2 Nd8 31. Ba5 Ne6 32. Bc2 g6 33. g4 Kg7 34.
+Kg3 Nxc5 35. Bxc7 Be6 36. Bb6 Nd7 37. Bd4 h6 38. h4 Kf7 39. Be4 b6 40. Bb7 a5
+41. f4 Nc5 42. Bc6 Bc4 43. e4 b5 44. Bxc5 1-0

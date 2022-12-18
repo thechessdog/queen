@@ -1,0 +1,18 @@
+[Event "corr WO"]
+[Site "corr WO"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rebber"]
+[Black "Plath"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "81f8d6e3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nge7
+8. Bg5 Qd7 9. Qe2 e5 10. Rad1 Ng6 11. Bb5 Be7 12. Bxe7 Ngxe7 13. Nxe5 Qc7
+14. Nc4 O-O 15. Nxd6 Rd8 16. e5 Nf5 17. Nd5 Qb8 18. Nxf5 Bxf5 19. Bxc6 Kf8
+20. Ba4 1-0
+

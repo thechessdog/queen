@@ -1,0 +1,22 @@
+[Event "NOR-ch"]
+[Site "Steinkjer"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Bergstad, Odd Oyvind"]
+[Black "Gausel, Einar"]
+[Result "0-1"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "1d8f14d3"]
+[Epoch "Queen"]
+[BlackID "1500031"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 a6 5. Ba4 d6 6. d4 Bd7 7. O-O Bg7 8. Re1
+Qe7 9. Bg5 f6 10. Be3 Nh6 11. h3 Nf7 12. c4 O-O 13. Nc3 Kh8 14. Rc1 Nxd4 15.
+Nxd4 Bxa4 16. Qxa4 exd4 17. Bxd4 c6 18. Bb6 Rae8 19. Re2 Ne5 20. Rd1 Qe6 21.
+Rd4 f5 22. exf5 Qxf5 23. Rxd6 Qf4 24. Qd1 Qxc4 25. Re4 Qg8 26. Qe2 Nc4 27. Bc5
+Nxd6 28. Bxd6 Rxe4 29. Nxe4 Re8 30. f3 Qxa2 31. Ba3 Qd5 32. Qc2 Rd8 33. Kf2 b6
+34. Be7 Re8 35. Bg5 Rxe4 36. Qxe4 Qxe4 37. fxe4 Bxb2 38. Bd8 Bd4+ 39. Ke2 b5
+40. Kd3 c5 0-1

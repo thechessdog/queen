@@ -1,0 +1,17 @@
+[Event "corr CAPA Copa M"]
+[Site "corr CAPA Copa M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cranbourne, Carlos"]
+[Black "Clarizza, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "acb3b5a6"]
+[Epoch "Queen"]
+[WhiteID "101060"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. cxd5 exd5 7. e4 O-O 8. e5
+Ne8 9. f4 Bh4+ 10. g3 Be7 11. Qf3 c6 12. Bd3 f6 13. Be3 1/2-1/2

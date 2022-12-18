@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gueroff, Eduard"]
+[Black "Berg, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "e039600f"]
+[Epoch "Queen"]
+[BlackID "4617290"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c5 7. d5 Na6 8. h3
+Nc7 9. a4 b6 10. Re1 e6 11. Bf4 exd5 12. exd5 Bb7 13. Bc4 a6 14. Qd2 b5 15.
+axb5 axb5 16. Nxb5 Rxa1 17. Rxa1 Nxb5 18. Bxb5 Nxd5 19. Bg5 Qb6 20. c4 1/2-1/2

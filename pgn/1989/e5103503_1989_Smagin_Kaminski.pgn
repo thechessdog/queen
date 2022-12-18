@@ -1,0 +1,22 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Kaminski, Uwe"]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "e5103503"]
+[Epoch "Queen"]
+[BlackID "4611381"]
+[BlackCountry "GER"]
+[WhiteID "4100425"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Re1 O-O 10. h3 Be6 11. Bf1 Qa5 12. a3 Rfc8 13. Rb1 Nb8 14. Nh4 Qb6 15.
+Qf3 Nc6 16. Be3 Nd4 17. Bxd4 exd4 18. Nd5 Nxd5 19. exd5 Bxd5 20. Qxd5 Bxh4 21.
+Bd3 Qc6 22. Qf5 g6 23. Qg4 Bf6 24. Bxg6 Kf8 25. Qf4 Kg7 26. Bd3 Qd5 27. Be4 Qb5
+28. Qg4+ Kf8 29. Qf3 1-0

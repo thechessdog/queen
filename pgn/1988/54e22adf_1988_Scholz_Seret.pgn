@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Scholz"]
+[Black "Seret, Jean Luc"]
+[Result "1-0"]
+[ECO "A41"]
+[Opening "Modern defence"]
+[HashCode "54e22adf"]
+[Epoch "Queen"]
+[BlackID "600210"]
+[BlackCountry "FRA"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 e5 5. e4 Nc6 6. d5 Nce7 7. Be2 f5 8. exf5
+gxf5 9. Ng5 Nf6 10. Bh5+ Kf8 11. Bf7 h6 12. Ne6+ Kxf7 13. Nxd8+ Rxd8 14. f4 e4
+15. O-O c5 16. h3 a6 17. a4 b6 18. Rb1 Bd7 19. Be3 Ne8 20. Kh1 Nc7 21. Qh5+ Kg8
+22. g4 b5 23. Rg1 1-0

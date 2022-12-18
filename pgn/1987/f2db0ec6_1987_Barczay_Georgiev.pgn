@@ -1,0 +1,18 @@
+[Event "Myslenice A"]
+[Site "Myslenice A"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Georgiev, K."]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "f2db0ec6"]
+[Epoch "Queen"]
+[BlackCountry "BGR"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. b3 d6 6. Bb2 Na6 7. O-O c5 8. dxc5
+Nxc5 9. c4 Bd7 10. Nc3 Bc6 11. Qd2 a6 12. Rfd1 Qd7 13. Nd4 Bxg2 14. Kxg2 Nfe4
+15. Nxe4 Nxe4 16. Qc2 Nc5 17. Nf3 1/2-1/2

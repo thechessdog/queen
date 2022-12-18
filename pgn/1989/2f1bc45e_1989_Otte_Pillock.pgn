@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Otte, H."]
+[Black "Pillock, D."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "2f1bc45e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 Ne5 6. Bb3 Bb4+ 7. c3 dxc3
+8. bxc3 Qe7 9. cxb4 h6 10. Nf3 Qxb4+ 11. Kf1 Nxf3 12. gxf3 d5 13. Bd2 Bh3+
+14. Ke1 Qe7 15. Nc3 O-O-O 16. Qe2 Rhe8 17. exd5 Bg2 18. Rg1 Bxf3 19. Qxe7
+Rxe7+ 20. Be3 g5 21. h4 gxh4 0-1
+

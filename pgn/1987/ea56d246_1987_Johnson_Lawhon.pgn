@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Johnson, R."]
+[Black "Lawhon, T."]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "ea56d246"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 d6 8.
+Ne2 Nc6 9. e4 e5 10. O-O exd4 11. cxd4 cxd4 12. Rb1 Ng4 13. Bc2 Qf6 14. f4
+Be6 15. Rxb7 Bxc4 16. Rf3 Ba6 17. Rb1 Rab8 18. Rxb8 Rxb8 19. Bd3 Bxd3 20.
+Rxd3 Qh4 21. h3 Qf2+ 22. Kh1 Qh4 23. Kg1 Qf2+ 1/2-1/2
+

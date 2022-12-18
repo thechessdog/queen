@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bethmann, J."]
+[Black "Burk, D."]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "8690a972"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. e3 Bf5 7. Bd3 Na6
+8. cxd5 Qxd5 9. Bxa6 Bxd2+ 10. Bxd2 bxa6 11. Qa4+ Qb5 12. Qxb5+ axb5 13.
+Nf3 O-O-O 14. Ba5 Rd5 15. Nd4 Rxe5 16. Nc6 Rc5 17. Ne7+ Kb7 18. Bb4 Rc4 19.
+Nxf5 1/2-1/2
+

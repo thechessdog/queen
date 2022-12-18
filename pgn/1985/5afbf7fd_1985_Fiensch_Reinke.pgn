@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fiensch"]
+[Black "Reinke"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "5afbf7fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Be2 g6 8.
+g4 Bg7 9. g5 Nfd7 10. Be3 Nc6 11. Qd2 Nb6 12. h4 Bd7 13. O-O-O Na5 14. f5
+Nac4 15. Bxc4 Nxc4 16. Nd5 Qc5 17. Qe2 Nxe3 18. Qxe3 Bxd4 19. Rxd4 e5 20.
+fxe6 Bxe6 21. b4 Qc6 22. Rhd1 Rd8 23. Qf4 Kd7 24. Rc4 Qxc4 25. Nb6+ Kc6 26.
+Nxc4 Bxc4 27. e5 Be6 28. exd6 1-0
+

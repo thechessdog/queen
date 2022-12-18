@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Morrison, AD."]
+[Black "Brisbane, T."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "d712c2cf"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. Bg5 Bd7 9. Nxe4 a6 10. Be2 Bc8 11. c3 b6 12. Bf3 Bb7 13. O-O h6 14. Bxe7
+Qxe7 15. Qe2 O-O 16. Rfe1 a5 17. b4 axb4 18. axb4 Ra7 19. Rxa7 Nxa7 20. Ra1
+Ra8 21. Nf6+ gxf6 22. Bxb7 Rb8 23. Rxa7 c5 24. dxc5 Rxb7 25. Qg4+ 1-0
+

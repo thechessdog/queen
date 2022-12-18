@@ -1,0 +1,21 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van der Veen, Jan"]
+[Black "Fiorito, Mario"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "2f9cdf10"]
+[Epoch "Queen"]
+[WhiteID "1005570"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. f4 Rb8 13. Qc2 Qc7 14. a5 b5 15. axb6
+Nxb6 16. Bf3 c4 17. Kh1 Bb7 18. Ra3 Rbc8 19. Na4 Nfd7 20. Bg4 f5 21. Nxb6 Nxb6
+22. exf5 c3 23. bxc3 Nxd5 24. Qb3 Re3 25. Bf3 Qf7 26. fxg6 hxg6 27. Ne4 Rxf3
+28. gxf3 Rxc3 29. Nxc3 Bxc3 30. Ra4 a5 31. Qb5 Kf8 32. Rxa5 Bxa5 33. Qxa5 Kg7
+34. Bb2+ Kh6 35. Qd8 Nxf4 36. h4 Ne6 37. Qh8+ Qh7 38. Bc1+ g5 39. Qf6+ 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hoppe"]
+[Black "Riedel"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "1ec903c1"]
+[Epoch "Queen"]
+
+1. b3 d5 2. e3 Nf6 3. f4 Bg4 4. Nf3 Nbd7 5. Bb2 e6 6. Be2 Bxf3 7. Bxf3 c6
+8. O-O Be7 9. d3 O-O 10. Nd2 Qb6 11. Qe2 Rfe8 12. Kh1 Rac8 13. e4 dxe4 14.
+dxe4 Qc7 15. g3 b5 16. Rad1 e5 17. f5 h6 18. Bg2 Nh7 19. Nf3 Nhf6 20. Ne1
+a6 21. Nd3 c5 22. c4 bxc4 23. bxc4 Bd6 24. Bc3 Rb8 25. g4 Nh7 26. Ne1 Red8
+27. Rf3 Ndf6 28. Rfd3 Rd7 29. Qd2 Ne8 30. Bxe5 Rbd8 31. Bc3 f6 32. Ba5 Qc8
+33. Bxd8 1-0
+

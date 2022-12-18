@@ -1,0 +1,19 @@
+[Event "Potsdam"]
+[Site "Potsdam"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grottke, Hans"]
+[Black "Kalinitschew, Sergey"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "b54a3c04"]
+[Epoch "Queen"]
+[BlackID "4637321"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6
+8. Bg5 e6 9. O-O-O Be7 10. Rhe1 O-O 11. Qd2 Qc7 12. Nd4 b5 13. Nxc6 Qxc6 14.
+Bxf6 Bxf6 15. Qxd6 Qc4 16. Qd3 Qc5 17. Qxb5 Qxf2 18. e5 Rab8 19. Qe2 Qf4+ 20.
+Kb1 Rxb2+ 21. Ka1 Bh4 22. Qe4 Bxe1 23. Qxf4 Bxc3 24. Qg3 Rb3+ 0-1

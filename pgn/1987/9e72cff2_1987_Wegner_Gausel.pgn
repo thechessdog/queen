@@ -1,0 +1,25 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wegner, Hannu"]
+[Black "Gausel, Einar"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Old Indian defence"]
+[HashCode "9e72cff2"]
+[Epoch "Queen"]
+[WhiteID "4600509"]
+[WhiteCountry "GER"]
+[BlackID "1500031"]
+[BlackCountry "NOR"]
+
+1. d4 d6 2. c4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Qd2 g6 6. b3 Bg7 7. Bb2 Nf6 8. g3
+O-O 9. Bg2 a5 10. Nh3 Ne5 11. Rc1 Bd7 12. O-O a4 13. Nf4 axb3 14. axb3 Bc6 15.
+Nfd5 Re8 16. Ra1 Rxa1 17. Rxa1 h5 18. h3 Ned7 19. Qc2 Nc5 20. Rd1 Ne6 21. Bc1
+Nd7 22. e3 Ndf8 23. Na2 Bd7 24. Bb2 Nh7 25. Bxg7 Nxg7 26. Qb2 Bc8 27. Nac3 c6
+28. Nf4 g5 29. Nfe2 Re6 30. b4 h4 31. gxh4 g4 32. hxg4 Qxh4 33. Nf4 Rh6 34. Ne4
+Bxg4 35. Rxd6 Rxd6 36. Nxd6 Qe7 37. c5 Ng5 38. Qc3 Nh5 39. Nxh5 Bxh5 40. e4 Bg6
+41. e5 Ne6 42. Qg3 Nd4 43. Bf1 Kf8 44. f4 Qe6 45. Bc4 Qd7 46. e6 Qe7 47. f5
+Bxf5 48. exf7 Bg6 49. Qxg6 Qe3+ 50. Kg2 Qf3+ 51. Kh2 Qf2+ 52. Kh3 Qf3+ 53. Kh4
+Qf4+ 54. Kh5 Qh2+ 55. Kg5 Nf3+ 56. Kf6 Qe5# 0-1

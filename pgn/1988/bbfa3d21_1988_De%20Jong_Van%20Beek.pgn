@@ -1,0 +1,23 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Van Beek, D."]
+[Result "1-0"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[HashCode "bbfa3d21"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Nc3 a6 7. Qd2 Nf6 8. f3
+Bd7 9. Bc4 Nc6 10. O-O-O Rc8 11. Bb3 Na5 12. g4 Nxb3+ 13. Nxb3 Be6 14. g5 Nh5
+15. Bd4 O-O 16. Bxg7 Nxg7 17. h4 Nh5 18. Nd5 Bxd5 19. exd5 Qd7 20. Rhe1 Rc7 21.
+Re4 Rfc8 22. Nd4 Qa4 23. Kb1 Qc4 24. Nf5 gxf5 25. Rxc4 Rxc4 26. Qd3 Rxh4 27.
+Qxf5 Rc7 28. Re1 Nf4 29. b3 b5 30. Re4 Rh1+ 31. Kb2 Ng6 32. a4 Rh2 33. Rb4 Rc5
+34. axb5 e6 35. Qd3 Ne5 36. Qd1 Rcxc2+ 37. Kb1 Rb2+ 38. Kc1 Ra2 39. Ra4 Rac2+
+40. Qxc2 Rxc2+ 41. Kxc2 axb5 42. Ra8+ Kg7 43. dxe6 fxe6 44. Rb8 Nxf3 45. Kd3
+Nxg5 46. Rxb5 Kf6 47. b4 h5 48. Ra5 h4 49. b5 h3 50. b6 h2 51. Ra1 Nh3 52. b7
+Ng1 53. b8=Q h1=Q 54. Qd8+ Ke5 55. Qg5# 1-0

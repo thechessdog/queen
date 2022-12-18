@@ -1,0 +1,21 @@
+[Event "Warzsawa"]
+[Site "Warzsawa"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cichocki, Adam"]
+[Black "Ostrowski, Leszek"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "0ffe29bf"]
+[Epoch "Queen"]
+[WhiteID "1100777"]
+[WhiteCountry "POL"]
+[BlackID "1100572"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. g3
+Bg7 9. Bg2 O-O 10. O-O Re8 11. a4 a6 12. Re1 Rb8 13. Qc2 b5 14. Rb1 Qc7 15. b3
+b4 16. Nd1 Nb6 17. Ne3 Rxe3 18. fxe3 Nbxd5 19. Qd3 Nc3 20. Ra1 d5 21. Bb2 c4
+22. Qc2 Qc5 23. Bxc3 bxc3 0-1

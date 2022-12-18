@@ -1,0 +1,20 @@
+[Event "Nikea op"]
+[Site "Greece"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Makropoulos, Georgios"]
+[Black "Pandavos, Panayotis"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "99372ab1"]
+[Epoch "Queen"]
+[WhiteID "4200047"]
+[WhiteCountry "GRE"]
+[BlackID "4200128"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6 7. O-O cxd4 8.
+cxd4 Nf6 9. Nc3 Qd6 10. h3 Bh5 11. Bg5 Be7 12. Bxf6 Bxf6 13. d5 exd5 14. Nb5
+Qe7 15. Qxd5 1/2-1/2

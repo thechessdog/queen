@@ -1,0 +1,20 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van de Werken, H."]
+[Black "Kramer, A. (Queen Era)"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Larsen variation"]
+[HashCode "079cec8b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Qd7 9. O-O b6 10. Be3 Bb7 11. f3 Nc6 12. Bb5 a6 13. Ba4 b5 14. Bb3
+e6 15. Rc1 Na5 16. c4 c6 17. Qc2 Rfc8 18. Rfd1 Nxc4 19. Bxc4 bxc4 20. Qxc4
+a5 21. Nc3 Ba6 22. Qc5 Bb5 23. Qg5 h6 24. Qh4 Kh7 25. e5 Qd8 26. Qf4 Bc4
+27. Ne4 g5 28. Qxf7 Rc7 29. Nf6+ Kh8 30. Qg6 Bxf6 31. exf6 Bxa2 32. Rxc6
+Rh7 33. d5 Qe8 34. f7 Qf8 35. Bd4+ Rg7 36. Qxh6# 1-0
+

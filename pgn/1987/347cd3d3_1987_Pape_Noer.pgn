@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pape, Rasmus"]
+[Black "Noer, Martin Stampe"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "347cd3d3"]
+[Epoch "Queen"]
+[WhiteID "1408950"]
+[BlackID "1412221"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 c5 4. d5 exd5 5. e5 d4 6. exf6 Qa5 7. Bd2 gxf6 8. Nd5
+Qd8 9. Qe2+ Be7 10. Nxf6+ Kf8 11. Bh6# 1-0

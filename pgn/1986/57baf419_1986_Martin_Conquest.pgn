@@ -1,0 +1,20 @@
+[Event "Southampton"]
+[Site "Southampton"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Conquest, Stuart C"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[HashCode "57baf419"]
+[Epoch "Queen"]
+[BlackID "400181"]
+[BlackCountry "ENG"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxc4 O-O 8.
+e4 b5 9. Nxb5 Nxe4 10. Nxc7 Nc6 11. Nxa8 Qa5+ 12. Bd2 Nxd2 13. Nxd2 Rxa8 14.
+Qc3 1/2-1/2

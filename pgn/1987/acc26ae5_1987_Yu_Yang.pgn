@@ -1,0 +1,17 @@
+[Event "PRC-chT"]
+[Site "China"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Yu Xiaodong"]
+[Black "Yang Lin"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "acc26ae5"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ndf6 6. Nxf6+ Nxf6 7. Ne2 Bg4
+8. h3 Bh5 9. O-O e6 10. c3 Be7 11. Qb3 Bxe2 12. Bxe2 Qb6 13. Bf3 O-O 14. Bf4
+Nd5 15. Be5 Qxb3 16. axb3 Rfd8 17. Ra5 Bd6 18. Bxd6 Rxd6 19. Rfa1 a6 20. Re1
+Rad8 21. g3 g6 22. Kg2 Kg7 23. Re5 1/2-1/2

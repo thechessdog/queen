@@ -1,0 +1,23 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hollenberg, H."]
+[Black "Obers, F."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "4db5f74d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 Bb4+ 4. Nc3 h6 5. Bh4 c5 6. a3 Bxc3+ 7. bxc3 O-O
+8. Nf3 d5 9. Qc2 Nc6 10. cxd5 exd5 11. e3 cxd4 12. cxd4 Be6 13. Bd3 Rc8 14.
+Qd2 a6 15. Rb1 b5 16. O-O Na5 17. Bxf6 gxf6 18. e4 dxe4 19. Bxe4 f5 20. Bd3
+Kg7 21. Qf4 Nc4 22. a4 bxa4 23. Ra1 Qa5 24. Nh4 Rc6 25. Bxf5 Bxf5 26. Nxf5+
+Kh7 27. Qe4 Re6 28. Qc2 Nb6 29. Nd6+ Rg6 30. Qc5 Qxc5 31. dxc5 Nd7 32. Nb7
+Rc8 33. Rxa4 Nxc5 34. Rc4 Rg5 35. f4 Rxg2+ 36. Kxg2 Rg8+ 37. Kf3 Nxb7 38.
+Rc7 Nd8 39. Rc8 Ne6 40. Rxg8 Kxg8 41. Ra1 Nc7 42. Rc1 Ne6 43. Ke3 Kg7 44.
+f5 Ng5 45. h4 Nh7 46. Ra1 Nf6 47. Rxa6 Nd5+ 48. Kf3 Nf6 49. Ra1 Nh7 50. Kf4
+Nf6 1-0
+

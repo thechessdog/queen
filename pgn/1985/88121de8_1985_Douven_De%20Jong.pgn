@@ -1,0 +1,18 @@
+[Event "KNSB"]
+[Site "KNSB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Douven, Rudy"]
+[Black "De Jong, T."]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "88121de8"]
+[Epoch "Queen"]
+[WhiteID "1000195"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Qe7 8. dxe5
+dxe5 9. Nd5 Nxd5 10. cxd5 c6 11. Rc1 Rd8 12. Qb3 cxd5 13. exd5 b6 14. d6 Qxd6
+15. Ng5 Qe7 16. Bc4 Nd7 17. Bxf7+ Kh8 18. Bd5 1-0

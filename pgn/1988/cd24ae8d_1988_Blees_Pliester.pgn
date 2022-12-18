@@ -1,0 +1,20 @@
+[Event "Dieren open"]
+[Site "Dieren open"]
+[Date "1988.09.01"]
+[Round "9"]
+[White "Blees, Albert"]
+[Black "Pliester, Leon"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "cd24ae8d"]
+[Epoch "Queen"]
+[WhiteID "1000217"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8. a3
+Bd6 9. Nb5 Nc6 10. d5 Ne7 11. Nec3 e4 12. Qc2 Bf5 13. Nd4 Bg6 14. Qd2 Be5 15.
+Nde2 Qd7 16. b4 Rfd8 17. Bb2 c6 18. Rd1 Qg4 19. Ng3 h5 20. h3 Qh4 21. O-O Qg5
+22. Qe1 cxd5 23. Bb3 h4 24. Nge2 Bh5 25. Kh1 Bf3 26. Rg1 Qf5 0-1

@@ -1,0 +1,20 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Donev, Ivo"]
+[Black "Loginov, Valery A"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "87a731bc"]
+[Epoch "Queen"]
+[WhiteID "2900262"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. e5 dxe5 11. fxe5 Nec6 12. Ne4 Nxf3+ 13. Qxf3 Nxe5 14. Qf4 f5
+15. Nxc5 Ng4 16. Bf2 Nxf2 17. Rxf2 Bd4 18. Nb3 e5 19. Qd2 Bxf2+ 20. Qxf2 Qb6
+21. Re1 Qxf2+ 22. Kxf2 Re8 23. Nc5 Rb8 24. d4 e4 25. Bf1 b6 26. Nb3 g5 27. Ke3
+Bb7 28. Be2 Re7 29. Rf1 Rf8 30. c4 Kg7 31. d5 Kf6 32. Nd4 Ke5 0-1

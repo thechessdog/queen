@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Forster, D."]
+[Black "Erben, T."]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "4f384540"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. Qa4 Bh3 10. Bxh3 Qxh3 11. Ng5 Qd7 12. Ngf3 Kb8 13. Qb3 h4 14.
+Nxh4 Be7 15. Nhf3 Qh3 16. Ne4 Nxe5 17. Nh4 Ng4 0-1
+

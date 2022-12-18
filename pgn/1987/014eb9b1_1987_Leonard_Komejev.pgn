@@ -1,0 +1,16 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Leonard"]
+[Black "Komejev"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "014eb9b1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+cxd5 exd5 9. a3 Bxc3 10. bxc3 Bg4 11. Bb2 c4 12. Be2 1/2-1/2
+

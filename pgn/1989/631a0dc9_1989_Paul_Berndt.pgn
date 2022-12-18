@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Paul, HD."]
+[Black "Berndt, K."]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "631a0dc9"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. a3 cxd4 7. exd4 Be7 8.
+Bd3 dxc4 9. Bxc4 O-O 10. O-O a6 11. Ne2 b5 12. Bd3 Bb7 13. Be3 Na5 14. Nf4
+Rc8 15. Ne5 Nc4 16. Nxc4 bxc4 17. Be2 Nd5 18. Rc1 e5 19. Nxd5 Qxd5 20. f3
+Rfd8 21. Rxc4 Rxc4 0-1
+

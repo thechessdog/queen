@@ -1,0 +1,20 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Stigar, Petter"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "089ab3a0"]
+[Epoch "Queen"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+[BlackID "1500341"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. f3 Nxc3 7. bxc3 Be7 8. e4
+Nc6 9. Ng3 Ba6 10. Bd3 e5 11. Nf5 Bf6 12. f4 exd4 13. e5 Bh4+ 14. g3 Be7 15.
+Nxg7+ Kf8 16. Nf5 dxc3 17. Qg4 Rg8 18. Qh5 d6 19. Qh6+ Ke8 20. Qxh7 1-0

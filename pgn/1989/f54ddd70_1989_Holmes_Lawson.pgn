@@ -1,0 +1,21 @@
+[Event "Edinburgh"]
+[Site "Edinburgh"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Holmes, Donald A"]
+[Black "Lawson, David"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "f54ddd70"]
+[Epoch "Queen"]
+[WhiteID "2400227"]
+[BlackID "2400103"]
+[WhiteCountry "SCO"]
+[BlackCountry "SCO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Nc6 8. f3
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 14. h5 Nxh5
+15. g4 Nf6 16. Nf5 Bxf5 17. exf5 Qa5 18. Bh6 Bxh6 19. Rxh6 Rfc8 20. g5 Nh5 21.
+f6 Rxc3 22. bxc3 Qa3+ 23. Kb1 Rc6 24. Qe3 e5 0-1

@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Trofimov"]
+[Black "Hermlin"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "d5a5fd7e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8.
+O-O dxc4 9. Bxc4 O-O 10. Bg5 Be7 11. Rc1 b6 12. Bb5 Bb7 13. Qa4 Nb4 14.
+Bxf6 gxf6 15. a3 a6 16. axb4 axb5 17. Qxb5 f5 18. Qd3 Bxb4 19. Qg3+ Kh8 20.
+Qe5+ Kg8 21. Qg3+ 1/2-1/2
+

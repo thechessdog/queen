@@ -1,0 +1,22 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Hawelko, Marek"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "e5027f65"]
+[Epoch "Queen"]
+[WhiteCountry "SWE"]
+[BlackID "1100203"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8. O-O
+Bg7 9. Nf3 Nbd7 10. Qe1 b5 11. Kh1 Bb7 12. e5 dxe5 13. fxe5 Ng4 14. e6 fxe6 15.
+Qh4 Ngf6 16. Bh6 Bxh6 17. Qxh6 Bxf3 18. Bxg6+ hxg6 19. Qxh8+ Kf7 20. Qh3 Bc6
+21. Qh7+ Ke8 22. Qxg6+ Kd8 23. Rae1 Kc8 24. Rxe6 Nf8 25. Rxe7 Nxg6 26. Rxc7+
+Kxc7 27. Rxf6 Rg8 28. Rf7+ Kb6 29. Rf6 Kb7 30. Rf7+ Kc8 31. Rf6 Ne5 32. Rf2 Ng4
+33. Re2 b4 34. Nb1 Rd8 0-1

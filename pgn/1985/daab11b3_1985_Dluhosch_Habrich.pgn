@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dluhosch"]
+[Black "Habrich"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "daab11b3"]
+[Epoch "Queen"]
+
+1. b4 d5 2. Bb2 e6 3. e3 Nf6 4. b5 a6 5. a4 axb5 6. axb5 Rxa1 7. Bxa1 Be7
+8. Nf3 O-O 9. Be2 c6 10. c4 cxb5 11. cxb5 Nbd7 12. O-O Nc5 13. d4 Nce4 14.
+Nc3 Qc7 15. Qb3 b6 16. Nxe4 Nxe4 17. Bb2 Bd6 18. Rc1 Qb8 19. Ba3 Bb7 20.
+Bxd6 Nxd6 21. Ne5 Rc8 22. Qa3 Rxc1+ 23. Qxc1 Qc8 1-0
+

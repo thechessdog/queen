@@ -1,0 +1,20 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Chevaldonnet, Francois"]
+[Black "Wegner, Hannu"]
+[Result "1/2-1/2"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "568722e2"]
+[Epoch "Queen"]
+[WhiteID "600644"]
+[WhiteCountry "FRA"]
+[BlackID "4600509"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g3 Nf6 7. Bg2 Bd7 8. O-O
+Be7 9. Re1 O-O 10. Ndb5 Ne8 11. a4 a6 12. Nd4 Nf6 13. Nxc6 Bxc6 14. a5 Qc7 15.
+Be3 Nd7 16. Na4 Rae8 1/2-1/2

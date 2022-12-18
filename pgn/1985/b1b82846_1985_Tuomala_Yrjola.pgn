@@ -1,0 +1,21 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tuomala, Timo"]
+[Black "Yrjola, Jouni"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "b1b82846"]
+[Epoch "Queen"]
+[BlackID "500011"]
+[BlackCountry "FIN"]
+[WhiteID "500704"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Bd2 Nh5 10. Ne1 Nf4 11. Bf3 f5 12. g3 Nh3+ 13. Kg2 h5 14. Nc2 f4 15. g4
+Ng5 16. h3 Bd7 17. Rg1 Qc8 18. Kh2 Nxf3+ 19. Qxf3 hxg4 20. hxg4 Kf7 21. Rg2
+Rh8+ 22. Kg1 Rh4 23. Qe2 Qh8 0-1

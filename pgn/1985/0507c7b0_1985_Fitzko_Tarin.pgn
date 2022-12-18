@@ -1,0 +1,16 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Fitzko, Mitchell"]
+[Black "Tarin, S."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "0507c7b0"]
+[Epoch "Queen"]
+[WhiteID "2009889"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 d5 6. exd5 Qe7+ 7. Qe2 Qxe2+
+8. Kxe2 Nb4 9. Re1 0-1

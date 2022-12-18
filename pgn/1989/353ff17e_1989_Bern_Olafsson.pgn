@@ -1,0 +1,25 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bern, Ivar"]
+[Black "Olafsson, Helgi"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "353ff17e"]
+[Epoch "Queen"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+[WhiteID "1500171"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5 8.
+Be2 Bxc4 9. Bxc4 dxc4 10. Qa4+ Qd7 11. Qxc4 Qc6 12. Qxc6+ Nxc6 13. e4 Na5 14.
+f3 Rc8 15. Bg5 c5 16. d5 Nd7 17. dxe6 fxe6 18. Rd1 c4 19. Nh5 Nc5 20. O-O Nd3
+21. Be3 O-O 22. f4 Nc6 23. g4 b5 24. a3 a5 25. Bd2 Rfd8 26. Rb1 b4 27. axb4
+axb4 28. f5 exf5 29. exf5 b3 30. f6 Nde5 31. Bg5 Nf7 32. Bc1 g6 33. Nf4 Rd6 34.
+g5 Nxg5 35. Nxg6 Nh3+ 36. Kg2 hxg6 37. f7+ Kg7 38. Kxh3 Rf8 39. Kg2 Rxf7 40.
+Bh6+ Kg8 41. Rfe1 Kh7 42. Bg5 Rd3 43. Re6 Na7 44. Rbe1 Rxc3 45. R1e4 b2 46.
+Rh4+ Kg8 47. Bh6 Rf2+ 48. Kxf2 b1=Q 0-1

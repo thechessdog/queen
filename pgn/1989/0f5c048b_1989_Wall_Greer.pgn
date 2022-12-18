@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer, Ken"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "0f5c048b"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 exf4 6. Bxg7 Qh4+ 7. Kf1 fxe3 8.
+Bxc6+ bxc6 9. Qe2 Nf6 10. Qxe3+ Ne4 11. Bxh8 Ba6+ 12. d3 Bc5 13. Bd4 Bxd4 14.
+Nf3 Bxe3 15. Nxh4 Bd4 16. c3 1-0

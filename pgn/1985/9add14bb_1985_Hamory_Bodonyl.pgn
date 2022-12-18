@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hamory"]
+[Black "Bodonyl"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "9add14bb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. Bc4 Bc5 6. d4 exd3 7. Qxd3 O-O
+8. Bd2 Ng4 9. Ne4 Re8 10. O-O-O Bf5 11. Qb3 Bxe4 12. Nf3 Qd6 13. Rde1 Nd7
+14. h3 Ngf6 15. Nh4 Bf2 0-1
+

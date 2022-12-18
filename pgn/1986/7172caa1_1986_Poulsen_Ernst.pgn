@@ -1,0 +1,24 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "7172caa1"]
+[Epoch "Queen"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+[WhiteID "1400533"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. c3 a6 6. Ba4 Nf6 7. Re1 e5 8. d4
+b5 9. Bc2 Be7 10. Nbd2 O-O 11. Nf1 cxd4 12. cxd4 Bg4 13. d5 Nd4 14. Be3 Nxc2
+15. Qxc2 Rc8 16. Qd3 Nh5 17. N3d2 f5 18. f3 fxe4 19. Nxe4 Bf5 20. Nfd2 Nf4 21.
+Bxf4 exf4 22. Qd4 Rc2 23. Rac1 Qc7 24. Nb3 Rc8 25. Nc3 Bh4 26. Rxc2 Bxe1 27.
+Rc1 Qe7 28. Ne4 Rxc1 29. Nxc1 Qc7 30. Nd3 Ba5 31. Kf1 Bb6 32. Qc3 Bxe4 33. fxe4
+Qxc3 34. bxc3 Ba5 35. Nb4 Bxb4 36. cxb4 Kf7 37. Kf2 Kf6 38. Kf3 Ke5 39. h4 h5
+40. a3 g6 0-1

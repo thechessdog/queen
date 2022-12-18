@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Aikio, O."]
+[Black "Thielen, D."]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "210c638a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Nbd4 O-O 11. Be3 Bg4 12. Bd3 Nxd4 13. Bxd4
+Nc6 14. Bc3 d4 15. Bd2 Qf6 16. Be2 Bxf3 17. Bxf3 Ne5 18. Be2 Rac8 19. g3
+Rfd8 20. Bf4 1/2-1/2
+

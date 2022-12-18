@@ -1,0 +1,18 @@
+[Event "Gorlitz"]
+[Site "Gorlitz"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marakanov"]
+[Black "Thormann, Wolfgang"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "00eacd79"]
+[Epoch "Queen"]
+[BlackID "4611713"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Qb6 9. Ne2 f6 10. g3 Bb4+ 11. Bd2 fxe5 12. fxe5 O-O 13. Bg2 Ndxe5 14. dxe5 Nxe5
+15. Nf4 Qe3+ 16. Kf1 Bxd2 17. Nxe5 Qxe5 18. Qxd2 g5 0-1

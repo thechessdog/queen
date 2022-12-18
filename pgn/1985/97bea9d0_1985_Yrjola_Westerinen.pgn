@@ -1,0 +1,22 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "97bea9d0"]
+[Epoch "Queen"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nc6
+8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Be2 O-O-O 12. O-O g5 13. b4 Bxb4 14. Qb3
+Be6 15. Qb2 Nd5 16. Nb5 Kb8 17. Ne5 Ka8 18. e4 Nc3 19. Nxc3 Nxe5 20. Nd5 Bxd5
+21. exd5 Bc5 22. Rb1 Rhg8 23. Qb3 Rg6 24. Bb2 Rb6 25. Qh3 f6 26. a4 Rb4 27.
+Bxe5 Qxe5 28. Rxb4 Bxb4 29. Qe6 Qxd5 30. Qxf6 Rf8 31. Qb2 Qd2 1-0

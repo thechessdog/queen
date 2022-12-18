@@ -1,0 +1,17 @@
+[Event "San Spiritus"]
+[Site "San Spiritus"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Andres, Miguel"]
+[Black "Delgado Cespedes, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "a2eaae1c"]
+[Epoch "Queen"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 Nxd4 10. e5 Nb5 11. Nxb5 axb5 12. exf6 Bxf6 13. Bf4 Qb6 14. c3 Be7
+15. Qg4 O-O 16. Bh6 Bf6 17. Be3 Qc7 18. Qb4 Qc4 19. Bc5 Rd8 20. Bf1 1/2-1/2

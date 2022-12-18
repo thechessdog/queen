@@ -1,0 +1,23 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Langland, T."]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "a8d1761d"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bb4 5. e4 O-O 6. Nge2 d6 7. O-O Bg4 8. h3
+Bxc3 9. dxc3 Be6 10. b3 Nd7 11. g4 a5 12. a4 Nc5 13. Ng3 f6 14. Nf5 Ne7 15. Be3
+b6 16. f4 Rb8 17. fxe5 fxe5 18. Bg5 Bxf5 19. exf5 h6 20. Bh4 Qd7 21. b4 axb4
+22. cxb4 Na6 23. Qd2 c6 24. Bxe7 Qxe7 25. Bxc6 Nc7 26. a5 bxa5 27. bxa5 Rb3 28.
+Kg2 Qh4 29. Rf3 Rfb8 30. Rxb3 Rxb3 31. Bf3 e4 32. Bxe4 Qxh3+ 33. Kg1 Qxg4+ 34.
+Bg2 Rg3 35. Rc1 Kh8 36. f6 gxf6 37. Qxh6+ Kg8 38. Qd2 Kf7 39. Rc3 Rxg2+ 40.
+Qxg2 Qd4+ 41. Qf2 Qxc3 42. Qb6 Qc1+ 43. Kf2 Qf4+ 44. Kg1 Qg5+ 45. Kh2 Qc5 46.
+Qb3 Qxa5 47. c5+ d5 48. Qh3 Qxc5 49. Qh7+ Ke8 50. Qg6+ Kd7 51. Qf7+ Kc6 52.
+Qe6+ Qd6+ 0-1

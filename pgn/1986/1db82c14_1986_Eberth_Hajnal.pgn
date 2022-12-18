@@ -1,0 +1,18 @@
+[Event "Fuzesabony"]
+[Site "Fuzesabony"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eberth, Zoltan"]
+[Black "Hajnal, Gy"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1db82c14"]
+[Epoch "Queen"]
+[WhiteID "702668"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7 8.
+Qe2 a6 9. Rd1 Qc7 10. Bf4 Nf6 11. Rac1 O-O 12. e5 Ne8 13. exd6 Bxd6 14. Rxd6
+Nxd6 15. Rd1 e5 16. Nxe5 Nxe5 17. Qxe5 Qxc4 18. Rxd6 f6 19. Qe3 Bf5 0-1

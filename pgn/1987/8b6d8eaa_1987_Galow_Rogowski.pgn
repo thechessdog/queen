@@ -1,0 +1,25 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Galow, W."]
+[Black "Rogowski, U."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "8b6d8eaa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Bd2 Nxd2 6. Nbxd2 Nc6 7. a3
+Bxd2+ 8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. Be2 O-O-O 12. Rc1 Rde8 13. c5 g5
+14. cxb6 cxb6 15. h4 gxh4 16. Qd4 Kb8 17. Qd6+ Ka8 18. Rxh4 Nxe5 19. Qxe7
+Rxe7 20. Rh5 Ng6 21. g4 f6 22. Nd4 a6 23. Nf5 Re6 24. Rc7 Ne5 25. f4 Kb8
+26. Rxb7+ Kxb7 27. fxe5 fxe5 28. e4 Kc6 29. Bc4 Ree8 30. Bxa6 b5 31. Bxb5+
+Kxb5 32. Nd6+ Ka4 33. Nxe8 Rxe8 34. Rxh7 Kb3 35. Rh2 Rf8 36. g5 Rf4 37. Rg2
+Rxe4+ 38. Kd2 Rc4 39. Kd3 d5 40. g6 Rd4+ 41. Ke3 Re4+ 42. Kf3 Rf4+ 43. Kg3
+Rf8 44. g7 Rg8 45. Kf3 Kc4 46. Ke3 e4 47. Rc2+ Kb5 48. Rc7 Kb6 49. Rf7 Kc5
+50. b4+ Kc4 51. Rc7+ Kb5 52. Rc5+ Ka4 53. Rxd5 Rxg7 54. Ra5+ Kb3 55. Kxe4
+Kc4 56. b5 Kc5 57. a4 Kb6 58. Ra6+ Kb7 59. Kd5 Rg1 60. Kc5 Rg4 61. Rh6 Rxa4
+62. Rh7+ Kc8 63. Kb6 Rb4 64. Rh8+ Kd7 65. Rb8 1-0
+

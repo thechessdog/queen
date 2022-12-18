@@ -1,0 +1,21 @@
+[Event "Norway"]
+[Site "Norway"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Boe, Mads"]
+[Black "Nielsen, Poul Erik"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "269d84be"]
+[Epoch "Queen"]
+[WhiteID "1401408"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. h3 c6 7. a4 O-O 8. O-O
+a5 9. Be3 Qe8 10. d5 Qd8 11. Qd2 Nb6 12. Bb3 cxd5 13. exd5 h6 14. Rad1 Ne8 15.
+Ne1 g5 16. f3 f5 17. Nb5 f4 18. Bf2 Nd7 19. c3 Rf7 20. Bc2 Nf8 21. b4 Rg7 22.
+bxa5 Rxa5 23. Rb1 h5 24. Na7 Qd7 25. c4 Ra6 26. Qd3 g4 27. hxg4 hxg4 28. fxg4
+Qxg4 29. Nxc8 Qxc8 30. Qb3 Bd8 31. c5 dxc5 32. Qb5 Ba5 33. Bxc5 Bd2 34. Rd1 Ra5
+35. Bf5 Rxb5 0-1

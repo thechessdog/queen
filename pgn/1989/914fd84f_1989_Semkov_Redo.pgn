@@ -1,0 +1,19 @@
+[Event "Marostica"]
+[Site "Marostica"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Semkov"]
+[Black "Redo"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "914fd84f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 Na6 8. Be2
+Nc7 9. a4 Rb8 10. O-O b6 11. Qe1 a6 12. Qh4 Nd7 13. f5 Nf6 14. Bh6 Bd7 15.
+Ng5 Nce8 16. Rf4 Rb7 17. Raf1 e5 18. fxe6 fxe6 19. Bxg7 Kxg7 20. dxe6 Bc8
+21. Nxh7 Rh8 22. Rxf6 Nxf6 23. Rxf6 Bxe6 24. Nd5 Bxd5 25. exd5 Qe8 26. Re6
+Qf7 27. Bd3 Rxh7 28. Qg5 Kh8 29. Bxg6 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr Copa Latina"]
+[Site "corr Copa Latina"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Munoz"]
+[Black "De Vleeschauwer"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "6851a378"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 b6 10. Bg5 Bb7 11. Qe2 Bxc3 12. bxc3 Nbd7 13. Bd3 Qc7 14.
+c4 Ng4 15. Be4 Bxe4 16. Qxe4 Ngf6 17. Qe2 Rac8 18. Rac1 Qb7 19. Rfe1 Qa6
+0-1
+

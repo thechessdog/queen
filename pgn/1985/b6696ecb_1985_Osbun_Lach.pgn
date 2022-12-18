@@ -1,0 +1,18 @@
+[Event "corr Tch"]
+[Site "corr Tch"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Osbun, E."]
+[Black "Lach, F."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "b6696ecb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 f5 7. Nf3 Nf6 8. O-O
+O-O 9. h3 Rb8 10. Nh2 Nh5 11. Qf3 Nd4 12. Qf2 b5 13. g4 Nxc2 14. Qxc2 Bd4+
+15. Rf2 fxg4 16. hxg4 Nxf4 17. Nd1 e5 18. Be3 Qh4 19. Bf3 Nh3+ 20. Kg2 h5
+21. Bh6 Bxg4 22. Bxf8 Rxf8 23. Rf1 Bxf3+ 24. Rxf3 Rxf3 25. Kxf3 Nf4 0-1
+

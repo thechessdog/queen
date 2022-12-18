@@ -1,0 +1,19 @@
+[Event "Torshavn"]
+[Site "Torshavn"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Valkesalmi, Kimmo"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "7ae2fae4"]
+[Epoch "Queen"]
+[BlackID "500054"]
+[BlackCountry "FIN"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Qc2 f5 5. Bg5 Nf6 6. Nc3 Be7 7. e3 O-O 8. Be2
+Ne4 9. Bxe7 Qxe7 10. O-O Nd7 11. Rad1 Rf6 12. Nxe4 fxe4 13. Nd2 Rh6 14. g3 Qg5
+15. Qc3 Rh3 16. f3 Rxg3+ 17. hxg3 Qxg3+ 18. Kh1 Qh3+ 1/2-1/2

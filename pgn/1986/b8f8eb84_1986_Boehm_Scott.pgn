@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Boehm"]
+[Black "Scott"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "b8f8eb84"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Bc4 Nf6 4. f3 exf3 5. Nxf3 g6 6. Ne5 e6 7. O-O Bg7
+8. Nc3 O-O 9. Bg5 h6 10. Bh4 Nbd7 11. Qe2 Qe8 12. Nb5 Qd8 13. Nxf7 Rxf7 14.
+Qxe6 Qe8 15. Qxe8+ Nxe8 16. Bxf7+ Kf8 17. Bxe8+ Kxe8 18. Nxc7# 1-0
+

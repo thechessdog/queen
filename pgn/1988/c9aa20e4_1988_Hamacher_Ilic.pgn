@@ -1,0 +1,22 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Hamacher, Axel"]
+[Black "Ilic, Dragan"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "c9aa20e4"]
+[Epoch "Queen"]
+[WhiteID "4604407"]
+[WhiteCountry "GER"]
+[BlackID "16500490"]
+[BlackCountry "MNE"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. h3 O-O 6. Be3 c5 7. Nf3 Nc6 8. d5 Na5
+9. Bd3 a6 10. Rc1 Rb8 11. O-O b5 12. b3 bxc4 13. bxc4 Nd7 14. Bf4 Rb4 15. Qe2
+Nb6 16. Nd1 Na4 17. e5 e6 18. Bg5 Qc7 19. exd6 Qxd6 20. Bd2 exd5 21. Bxb4 cxb4
+22. cxd5 Qxd5 23. Bxa6 Nc3 24. Nxc3 bxc3 25. Rfd1 Bxa6 26. Qxa6 Qxa2 27. Ra1 c2
+28. Rxa2 cxd1=Q+ 29. Kh2 Nb3 30. Qc4 Nd4 31. Ng5 Nf5 32. f4 Ne3 0-1

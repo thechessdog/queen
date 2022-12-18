@@ -1,0 +1,25 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zuse, P."]
+[Black "Braun, Michael"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "a4d2d38d"]
+[Epoch "Queen"]
+[BlackID "4601203"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5 h6
+9. Bh4 g5 10. Bg3 b4 11. exf6 bxc3 12. bxc3 gxf4 13. Bh4 Qc7 14. Bd3 Qxc3+ 15.
+Kf1 Nc6 16. Ne2 Qe5 17. Rb1 d5 18. g3 fxg3 19. hxg3 Bd6 20. Kg2 Rg8 21. Qd2 h5
+22. c3 Rb8 23. Rbe1 Bb7 24. Nd4 Rxg3+ 25. Kf2 Rxd3 26. Qxd3 Qf4+ 27. Qf3 Qxf3+
+28. Nxf3 Kd7 29. Bg3 Bxg3+ 30. Kxg3 Rg8+ 31. Kf2 Rg6 32. Rxh5 Rxf6 33. Ke3 Rg6
+34. Rh7 Ke7 35. Rb1 Bc8 36. Rb6 e5 37. Rh8 Bd7 38. Rxa6 e4 39. Nh4 Rg3+ 40. Kd2
+Rd3+ 41. Kc2 d4 42. Ra3 Nb4+ 43. Kb2 Rd2+ 44. Kb3 Nc2 45. Ra7 e3 46. Nf5+ Ke6
+47. Nxd4+ Nxd4+ 48. cxd4 e2 49. Rh6+ Ke7 50. Rh5 Rd3+ 51. Kc2 Re3 52. Rh1 e1=Q
+53. Rxe1 Rxe1 54. a4 f5 55. a5 f4 56. Kd2 Ra1 57. d5 Kd6 58. a6 Ra2+ 59. Kc3 f3
+60. Ra8 Kxd5 61. Kb3 Ra1 62. Rf8 Ke4 63. Rf6 Ke3 0-1

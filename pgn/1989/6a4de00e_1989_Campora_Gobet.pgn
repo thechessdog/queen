@@ -1,0 +1,26 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Campora, Daniel H."]
+[Black "Gobet, Fernand"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "6a4de00e"]
+[Epoch "Queen"]
+[WhiteID "100013"]
+[WhiteCountry "ARG"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+h6 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd3 d6 12. h3 e5 13. Be3 Be6 14. Rad1 Rd8 15.
+Nd5 Bxd5 16. exd5 Bxe3 17. Rxe3 O-O 18. c4 Rc8 19. Rc1 Qc5 20. Qd2 b5 21. b4
+Qd4 22. Rd3 Qb6 23. Rdc3 Qd4 24. Qc2 Rxc4 25. Rxc4 bxc4 26. Qxc4 Qd2 27. a3 e4
+28. Rc2 Qd1+ 29. Kh2 Re8 30. Re2 e3 31. Rxe3 Rxe3 32. fxe3 Qa4 33. Qc6 Qxa3 34.
+Qxd6 Qxe3 35. Qxa6 h5 36. Qc4 g5 37. Qc8+ Kg7 38. Qf5 h4 39. gxh4 gxh4 40. b5
+Qg3+ 41. Kg1 Qe3+ 42. Qf2 Qc1+ 43. Bf1 Nd7 44. Qd4+ f6 45. Qg4+ Kf8 46. Qxd7
+Qe3+ 47. Kg2 Qe4+ 48. Kf2 Qf4+ 49. Ke2 Qe4+ 50. Kd2 Qd4+ 51. Bd3 Qb2+ 52. Kd1
+Qb3+ 53. Ke2 1-0

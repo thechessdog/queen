@@ -1,0 +1,23 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Mortensen, Erling"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "153b5b52"]
+[Epoch "Queen"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. O-O d6 6. Nc3 c6 7. d4 Qa5 8. h3 e5
+9. e4 Nbd7 10. Re1 exd4 11. Nxd4 Ne5 12. Bf1 Re8 13. Rb1 Be6 14. b4 Qc7 15. f4
+Ned7 16. f5 gxf5 17. exf5 Bxc4 18. Rxe8+ Nxe8 19. Bxc4 d5 20. Bf4 Qb6 21. f6
+Bxf6 22. Be3 dxc4 23. Qg4+ Ng7 24. Nf5 h5 25. Qxc4 Qc7 26. Nb5 Qb8 27. Nh6+ Kh7
+28. Qe4+ Kh8 29. Nxf7+ Kg8 30. Nbd6 Ne5 31. Nh6+ Kh8 32. Rd1 Ne8 33. Nhf7+ Nxf7
+34. Nxf7+ Kg7 35. Bh6+ Kg8 36. Qg6+ Bg7 37. Re1 Kf8 38. Nd6 1-0

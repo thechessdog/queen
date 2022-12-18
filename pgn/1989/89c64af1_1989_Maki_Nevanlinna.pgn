@@ -1,0 +1,27 @@
+[Event "Helsinki2"]
+[Site "Helsinki"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Maki, Veijo"]
+[Black "Nevanlinna, Risto"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "89c64af1"]
+[Epoch "Queen"]
+[WhiteID "500046"]
+[BlackID "500259"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 d6 7. d4 b5 8. Bb3 Qe7
+9. a4 Rb8 10. axb5 axb5 11. Bg5 Nf6 12. Na3 O-O 13. Nc2 h6 14. Bxf6 Qxf6 15. d5
+Nd8 16. Ra7 Qe7 17. Qa1 f5 18. Qa5 Nb7 19. Qxb5 Bd7 20. Qc4 Nc5 21. Qxc5 Bb5
+22. Re1 fxe4 23. Nd2 dxc5 24. d6+ Qf7 25. Bxf7+ Rxf7 26. dxc7 Rc8 27. c4 Be8
+28. Nxe4 Rfxc7 29. Rea1 Rxa7 30. Rxa7 Rb8 31. Ne3 Bc6 32. Nxc5 Rxb2 33. h3 e4
+34. Ra6 Be8 35. Nxe4 Bf7 36. Nf6+ Kf8 37. g3 Rb1+ 38. Kg2 Rc1 39. Ra8+ Ke7 40.
+Nfd5+ Kd7 41. Ra7+ Ke8 42. Kf3 Bd4 43. Ra4 Kf8 44. Ke4 Bc5 45. h4 Kg7 46. Ke5
+Re1 47. Ra5 Bxe3 48. fxe3 Bxd5 49. Rxd5 Rxe3+ 50. Kf4 Rc3 51. c5 Kf8 52. Rd8+
+Ke7 53. Rc8 g5+ 54. hxg5 hxg5+ 55. Kg4 Kd7 56. Rg8 Rxc5 57. Rxg5 Rc4+ 58. Kh5
+Ke6 59. Kg6 Rc1 60. Rf5 Rg1 61. Rf3 Ke7 62. Kg5 Rh1 63. g4 1-0

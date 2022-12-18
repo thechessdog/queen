@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koch, X."]
+[Black "Baumgartner, U."]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "d3fd63b3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Be2 c5 9. d5 e6 10. O-O exd5 11. exd5 Bf5 12. Bf4 Re8 13. Rad1 Ne4 14.
+Nb5 Bd7 15. Nd6 Nxd6 16. Bxd6 b5 0-1
+

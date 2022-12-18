@@ -1,0 +1,19 @@
+[Event "Naestved"]
+[Site "Naestved"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rasmussen, Karsten"]
+[Black "Nielsen, Jens"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Gurgenidze variation"]
+[HashCode "dad565bc"]
+[Epoch "Queen"]
+[BlackID "1409310"]
+[BlackCountry "DEN"]
+[WhiteID "1400088"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5 6. Nf3 Nh6 7. Be3 Bg4 8. Be2 e6
+9. O-O Nf5 10. Bf2 Bh6 11. Qd2 Nd7 12. b3 Qe7 13. Na4 Bxf3 1/2-1/2

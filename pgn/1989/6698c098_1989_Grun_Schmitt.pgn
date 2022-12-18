@@ -1,0 +1,16 @@
+[Event "B-JEM-SJRP"]
+[Site "B-JEM-SJRP"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gruen, Andreas"]
+[Black "Schmitt, M."]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "6698c098"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. Bg5 Be7 5. e3 b6 6. Nbd2 Bb7 7. Bd3 O-O 8. O-O
+d6 9. Bxf6 Bxf6 10. Qc2 g6 11. Ne4 Bg7 12. Nfd2 Qe7 13. f4 Nd7 14. Rae1 Rac8
+15. Nf3 Rfd8 16. Qf2 f5 17. Ng3 e5 18. dxe5 dxe5 19. Bc4+ Kh8 20. Ng5 Rf8 21.
+Rd1 Nf6 22. Qe2 Rcd8 1/2-1/2

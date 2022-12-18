@@ -1,0 +1,22 @@
+[Event "Aarhus-C"]
+[Site "Aarhus"]
+[Date "1989.??.??"]
+[Round "5"]
+[White "Willumsen, Henrik"]
+[Black "Christensen, Bent"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "68686bd8"]
+[Epoch "Queen"]
+[WhiteID "1405012"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. d5 Nb4 15.
+Bb1 a5 16. a3 Na6 17. b4 Bd7 18. Qb3 axb4 19. axb4 Nc5 20. bxc5 Rxa1 21. c6 Bc8
+22. Qxb5 Ra8 23. Qe2 Ba6 24. Bd3 Bxd3 25. Qxd3 Rfb8 26. Nc4 Ne8 27. Be3 Bd8 28.
+Nfd2 Qc8 29. f4 f6 30. Kh2 Bc7 31. fxe5 fxe5 32. Nf3 Bd8 33. Rf1 Ra2 34. Ng5
+Qa6 35. Ne6 Be7 36. Rc1 Bd8 37. Qf1 Bf6 38. c7 Rc8 39. Qf5 Nxc7 40. Nxc7 Rxc7
+41. Qe6+ Kf8 42. Nxd6 1-0

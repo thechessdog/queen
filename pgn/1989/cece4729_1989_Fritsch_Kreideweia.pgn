@@ -1,0 +1,27 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fritsch, W."]
+[Black "Kreideweia, F."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "cece4729"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O cxd4 11. cxd4 Nc6 12. Be3 O-O 13. Rb1 Na5
+14. Qe2 Rfc8 15. Rfc1 Qa4 16. h3 a6 17. e5 b5 18. Ne1 Nc6 19. Qb2 Na5 20.
+Qe2 Rxc1 21. Rxc1 Nc4 22. Qc2 Qxc2 23. Rxc2 Kf8 24. Kf1 Ke8 25. Ke2 e6 26.
+Nd3 Bf8 27. Bd2 Kd7 28. Bb4 Bxb4 29. Nxb4 a5 30. Nd3 Kc6 31. Ne1 Kd5 32.
+Kd3 a4 33. Nf3 h6 34. Nd2 Rc8 35. Ne4 a3 36. Nc3+ Kc6 37. Nb1 Kd7 38. Rc3
+Ra8 39. Rb3 Kc6 40. Nc3 Rb8 41. Nb1 Ra8 42. Nc3 Ra5 43. Kc2 Nb6 44. Nb1 Ra4
+45. Rxa3 Rxd4 46. Rf3 Rd7 47. Rd3 Nc4 48. f4 Ra7 49. a3 Kc5 50. Kb3 Na5+
+51. Kb2 Nc4+ 52. Kb3 Ra4 53. g3 g5 54. Rd7 gxf4 55. Rc7+ Kb6 56. Rxf7 Na5+
+57. Kb2 fxg3 58. Rg7 Re4 59. Rxg3 Rxe5 60. Kc3 Kc5 61. Nd2 Re1 62. Kc2 Nc4
+63. Nxc4 Kxc4 64. Rg6 h5 65. Rg5 Re2+ 66. Kd1 Re3 67. Rxh5 Rxa3 68. Re5
+Rxh3 69. Rxe6 Rc3 70. Rc6+ Kb3 71. Rh6 b4 72. Rh8 Ka3 73. Kd2 Kb2 74. Rb8
+b3 75. Rb7 Rc8 76. Rd7 Ra8 0-1
+

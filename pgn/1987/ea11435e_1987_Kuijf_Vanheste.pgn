@@ -1,0 +1,19 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Vanheste, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "ea11435e"]
+[Epoch "Queen"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "1000438"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 b6 7. Nh3 Ba6 8. Bxa6
+Nxa6 9. O-O cxd4 10. cxd4 Nb4 11. Nf3 Qc8 12. a3 Qa6 13. Be3 1/2-1/2

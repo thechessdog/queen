@@ -1,0 +1,19 @@
+[Event "Wuppertal"]
+[Site "Wuppertal"]
+[Date "1986.10.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Lau, Ralf"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "068413ec"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 e6 8. Be3
+Be7 9. O-O O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Rb8 1/2-1/2

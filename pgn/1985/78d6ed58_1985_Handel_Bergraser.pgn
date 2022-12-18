@@ -1,0 +1,17 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Handel, H."]
+[Black "Bergraser, Volf"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "78d6ed58"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 e5 6. Nge2 Bg4 7. Be3 N8d7 8.
+b3 Ba3 9. Qd2 Qe7 10. h3 Bh5 11. Ng3 exd4 12. Qxd4 O-O-O 13. Nxh5 Nf6 14. Qf4
+Bb2 15. Rd1 Bxc3+ 16. Ke2 Nxh5 17. Qf5+ Kb8 18. Qxh5 Qe4 0-1

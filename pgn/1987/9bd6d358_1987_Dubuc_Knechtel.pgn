@@ -1,0 +1,22 @@
+[Event "corr CND"]
+[Site "corr CND"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dubuc"]
+[Black "Knechtel"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "9bd6d358"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Qd4 Ng6 6. Nxe4 e5 7. Qa4+ Bd7
+8. Bb5 f5 9. Bg5 Qc8 10. Nc3 h6 11. Be3 Nf6 12. O-O-O a6 13. Bxd7+ Qxd7 14.
+Qxd7+ Nxd7 15. Nge2 Bd6 16. f3 b5 17. a3 O-O 18. Rhf1 Rfb8 19. f4 e4 20. g4
+Ne7 21. Bd4 Re8 22. Ng3 g6 23. gxf5 gxf5 24. Nh5 Kh7 25. Be5 Rg8 26. Bxd6
+cxd6 27. Rg1 Rxg1 28. Rxg1 Rg8 29. Rxg8 Kxg8 30. Kd2 Nb6 31. b3 Kf7 32. Ng3
+Kg6 33. Nce2 Nexd5 34. Nd4 Ne7 35. Ne6 a5 36. Nd4 b4 37. axb4 axb4 38. Nge2
+Nbd5 39. Nb5 Kh5 40. Nxd6 Kg4 41. c4 bxc3+ 42. Nxc3 e3+ 43. Kd3 Nxc3 44.
+Kxc3 Kf3 45. Nb5 Nc6 0-1
+

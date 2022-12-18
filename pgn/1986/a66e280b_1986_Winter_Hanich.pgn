@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Winter"]
+[Black "Hanich"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "a66e280b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Nc3 d6 7. d4 dxe5 8.
+O-O O-O 9. Qe2 exd4 10. Rd1 Bc5 11. Kh1 d3 12. Bxf7+ Kxf7 13. Ne5+ Nxe5 14.
+Qxe5 Qe7 15. Qxf4+ Kg8 16. Qc4+ Be6 17. Qxd3 Nc6 18. Bd2 Rad8 19. Qe4 Rd4
+20. Qe1 Bg4 21. Be3 Bxd1 22. Rxd1 Qxe3 0-1
+

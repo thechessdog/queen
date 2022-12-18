@@ -1,0 +1,18 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Bjarnason, Saevar"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "39031aa3"]
+[Epoch "Queen"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. d4 exd4 5. Qxd4 d5 6. Bg2 Be6 7. cxd5 cxd5 8.
+Nf3 Nc6 9. Qa4 d4 10. Nxd4 Bd7 11. Nxc6 Qb6 12. O-O bxc6 13. Be3 Qxb2 14. Bxc6
+Qb4 15. Qxb4 Bxb4 16. Bxa8 Bxc3 17. Rac1 1-0

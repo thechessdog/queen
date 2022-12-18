@@ -1,0 +1,28 @@
+[Event "Wildbad"]
+[Site "Wildbad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ostojic, M."]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "297fde3d"]
+[Epoch "Queen"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8. h3
+Bh5 9. d3 e6 10. Bf4 Be7 11. Nbd2 O-O 12. a3 d5 13. Qc2 Rc8 14. Rac1 Bg6 15.
+Ne5 Nxe5 16. Bxe5 Nd7 17. Bg3 c4 18. Qd1 Nc5 19. exd5 Bxd3 20. Nxc4 Bxf1 21.
+Rxf1 exd5 22. Ne3 Bg5 23. Rc2 Bxe3 24. fxe3 Ne4 25. Be5 Re8 26. Bd4 Rc6 27. Qh5
+Rg6 28. Rf3 Ng3 29. Rxg3 Rxg3 30. Rf2 f6 31. Rd2 Rg5 32. Qf3 Qd7 33. Rf2 Qe6
+34. a4 Qe4 35. a5 Re6 36. Kh2 h5 37. Qd1 Rf5 38. Rxf5 Qxf5 39. Qb3 Re7 40. Qb6
+Rd7 41. b4 Kf7 42. Qc5 Qe6 43. Qc8 Qe8 44. Qc5 Qb8+ 45. Kh1 Qc7 46. Qa7 Re7 47.
+Bc5 Re4 48. Bb6 Qd7 49. Qb8 Re8 50. Qg3 g5 51. Bd4 Kg6 52. Kg1 h4 53. Qf3 Qf5
+54. Qe2 Qe4 55. Qf1 f5 56. b5 Re6 57. bxa6 bxa6 58. c4 Rc6 59. cxd5 Qxd5 60.
+Qb1 Qb5 61. Qe1 Rc2 62. e4 f4 63. e5 Qe2 64. Qxe2 Rxe2 65. Kf1 Re4 66. Bc3 Kf5
+67. Kf2 Rc4 68. Be1 Kxe5 69. Kf3 Kf5 70. Bf2 Rc3+ 71. Ke2 Ke4 72. Bb6 Rc2+ 73.
+Kf1 f3 74. Kg1 Rxg2+ 75. Kh1 Ra2 76. Kg1 Kf5 77. Bc7 g4 78. hxg4+ Kxg4 79. Bb6
+h3 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schilde"]
+[Black "Wilke"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "f72e9e52"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Rdg1 Nc4 14.
+Bxc4 Rxc4 15. g4 hxg4 16. h5 Nh7 17. hxg6 fxg6 18. Nf5 Rxc3 19. Bd4 Rxc2+
+20. Kxc2 gxf5 21. Bxg7 Rf7 22. Rxh7 Rxg7 23. Rxg7+ Kxg7 24. Qg5+ Kf7 25.
+fxg4 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Loenne, K."]
+[Black "Schulz, M."]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "fcae7def"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 dxc4 8.
+Bxc4 Qxd1+ 9. Nxd1 Ne4 10. O-O Rd8 11. a4 Nc6 12. Ra3 Bf5 13. Nh4 Ne5 14.
+Be2 Be6 15. Nc3 Nxc5 16. Nb5 Nb3 17. Nc7 Rac8 18. Nxe6 Nxc1 19. Nd4 Rxd4
+20. exd4 Nxe2+ 21. Kh1 Nc4 22. Ra2 Nxd4 23. b4 Nb6 24. a5 Nd5 0-1
+

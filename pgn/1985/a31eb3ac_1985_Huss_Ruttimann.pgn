@@ -1,0 +1,18 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Huss, Andreas"]
+[Black "Ruttimann"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "a31eb3ac"]
+[Epoch "Queen"]
+[WhiteID "1300180"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Na5 11. c4 b6 12. Bd2 Nb7 13. Bf4 e5 14. Bxe5 Bxe5
+15. Nxe5 Qe8 16. Nc6 Qxe4 17. Rb3 Nd6 18. O-O Ba6 19. Qa1 Nf5 20. Bd3 1-0

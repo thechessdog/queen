@@ -1,0 +1,22 @@
+[Event "Paris-ch"]
+[Site "Paris"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Timmer, Robert"]
+[Black "Apicella, Manuel"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "9a64d221"]
+[Epoch "Queen"]
+[BlackID "600164"]
+[BlackCountry "FRA"]
+[WhiteID "1001051"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+c4 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 Nc6 12. h4 Qe8 13. h5 gxh5 14. Rxh5 Ne7 15.
+Nf3 Rf5 16. Rh2 Qg6 17. Qh4 Nc6 18. O-O-O Bd7 19. Rdh1 h6 20. Rh3 Rxf3 21. gxf3
+Nb4 22. Kd2 Qxc2+ 23. Ke1 Qb1+ 24. Bc1 Qxc1+ 25. Ke2 Qxc3 26. Kf1 Nd3 27. Rg3
+Qe1+ 28. Kg2 Qxf2+ 29. Kh3 Rf8 0-1

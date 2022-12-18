@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Goering, H."]
+[Black "Arnrich"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "88750131"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 O-O 9. O-O a6 10. f3 d5 11. exd5 Nxd4 12. Bxd4 b5 13. Bb3 b4 14. Na4 Nxd5
+15. c4 Nf4 16. Qe4 Qxd4+ 17. Qxd4 Ne2+ 18. Kh1 Nxd4 0-1

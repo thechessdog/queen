@@ -1,0 +1,18 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fischvogt, Eric"]
+[Black "Scott, S."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "a12a1acb"]
+[Epoch "Queen"]
+[WhiteID "30930782"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nc6 7. Bc4 e6 8. Bb3
+Be7 9. Be3 Bd7 10. f5 Nxd4 11. Bxd4 e5 12. Be3 Bc6 13. Qf3 Qa5 14. O-O-O b5 15.
+g4 b4 16. Nd5 Bxd5 17. exd5 Nd7 18. g5 Nc5 19. Bxc5 Bxg5+ 20. Be3 1-0

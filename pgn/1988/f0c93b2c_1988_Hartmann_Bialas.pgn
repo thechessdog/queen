@@ -1,0 +1,20 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Bialas, Wolfram"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "f0c93b2c"]
+[Epoch "Queen"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+[BlackID "4601041"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. a4 Qb6 6. Nge2 a5 7. Qd3 Na6 8. Nd1
+Nf6 9. c3 e5 10. Ne3 exd4 11. Nc4 Qc7 12. Qxd4 O-O 13. Qxd6 Nxe4 14. Qxc7 Nxc7
+15. Be3 Nd5 16. Bg1 Re8 17. O-O-O Bg4 18. Ne5 Bxe2 19. Bxe2 Nxf4 0-1

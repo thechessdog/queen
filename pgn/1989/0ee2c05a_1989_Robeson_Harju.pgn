@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Robeson"]
+[Black "Harju"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "0ee2c05a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 c5 5. g3 Nc6 6. Bg2 Bg4 7. Qb3 Qd7 8.
+Bf4 Nge7 9. h3 Be6 10. Na3 Ng6 11. Ng5 Nxf4 12. gxf4 Na5 13. Qb5 Nc6 14.
+Nxe6 fxe6 15. Rd1 Qc7 16. Qa4 Be7 17. Be4 O-O 18. Bxc6 bxc6 19. e3 dxe3 20.
+fxe3 Bh4+ 21. Ke2 Rad8 22. Nb1 Qxe5 23. Qxc6 Qxb2+ 24. Nd2 Qc2 25. Qxc5
+Rxf4 0-1
+

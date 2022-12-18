@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rizzitano, James"]
+[Black "Bungo, G."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "2f41b0e9"]
+[Epoch "Queen"]
+[WhiteID "2000806"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Bg4 9. Qe1 Nb4 10. Qh4 c4 11. Bxc4 Nxc2 12. Rb1 Qb6+ 13. Kh1 Rac8 14. Bb3 Nd4
+15. Be3 Nxf3 16. Rxf3 Qb4 17. Rff1 Bd7 18. Bg1 a5 19. Bc2 Nxe4 20. Bxe4 Bxc3
+21. Bxg6 fxg6 22. bxc3 Qxc3 23. Rxb7 Rc7 24. Bd4 Qc4 25. Rxc7 Qxf1+ 26. Bg1 Qb5
+27. Qxe7 Rf7 28. Qd8+ Be8 29. Rc8 Rf8 30. Qxd6 1-0

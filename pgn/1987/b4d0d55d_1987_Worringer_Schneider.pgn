@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Worringer"]
+[Black "Shneider, Aleksandr"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "b4d0d55d"]
+[Epoch "Queen"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+
+1. d4 e5 2. dxe5 f6 3. Nf3 Nc6 4. exf6 Nxf6 5. Bg5 Bc5 6. e3 O-O 7. Bxf6 Qxf6
+8. Qd5+ Kh8 9. Qxc5 d6 10. Qh5 Ne5 11. Nxe5 Qxf2+ 12. Kd1 dxe5 13. Qe2 Rd8+ 14.
+Kc1 Bg4 15. Nc3 Bxe2 16. Bxe2 Qxe3+ 17. Kb1 Rd2 18. a3 Rxe2 19. Nxe2 Qxe2 20.
+g3 Rd8 21. b3 Rd2 22. Rc1 e4 23. Kb2 Qf2 24. b4 Qd4+ 25. Kb1 Rd1 26. Rxd1 Qxd1+
+27. Kb2 Qxa1+ 28. Kxa1 e3 0-1

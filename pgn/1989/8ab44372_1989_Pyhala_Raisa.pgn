@@ -1,0 +1,19 @@
+[Event "FIN-ch"]
+[Site "Tampere"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Pyhala, Antti"]
+[Black "Raisa, Unto"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "8ab44372"]
+[Epoch "Queen"]
+[BlackID "500402"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. a3 cxd4 7. cxd4 Bb5 8. Bxb5+
+Qxb5 9. Nc3 Qd7 10. h4 h5 11. Bg5 Nc6 12. b4 Nge7 13. O-O Nf5 14. Qd3 Be7 15.
+Bxe7 Ncxe7 16. b5 Rc8 17. a4 Rc4 18. Ne2 O-O 19. Nd2 Rc7 20. g3 Rfc8 21. a5 1-0

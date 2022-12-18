@@ -1,0 +1,17 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scott"]
+[Black "Bagstad, G."]
+[Result "1-0"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "6a25610a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. Qc2 g5 8. Bg3
+exd5 9. cxd5 Nxd5 10. O-O-O Nxc3 11. Rxd6 Nxa2+ 12. Kb1 Qe7 13. e3 Be6 14.
+Bc4 Bxc4 15. Qxc4 Nd7 16. Nf3 O-O-O 17. Qxa2 a5 18. Qd5 f6 19. Rc6+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Verduga, Denis Homero"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "9e7d2b19"]
+[Epoch "Queen"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+[BlackCountry "ECU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 e6 8. O-O
+Be7 9. Qf3 Qc7 10. Qg3 b4 11. Nce2 g6 12. f3 e5 13. Ba4+ Bd7 14. Bxd7+ Nbxd7
+15. Nb3 Qxc2 16. Qe1 O-O 17. Rf2 a5 18. Bh6 Rfc8 19. Nc3 Qd3 20. Rd2 Qa6 21.
+Nd5 Nxd5 22. Rxd5 a4 23. Nc1 Rab8 24. Qd2 Nf6 25. Rd3 a3 26. Rb3 d5 27. Nd3
+dxe4 28. Nxe5 Qe6 29. f4 Bc5+ 30. Kh1 Rd8 31. Qe2 axb2 32. Rxb2 Bd4 33. Rf1
+Bxb2 34. Qxb2 b3 35. axb3 Qxb3 36. Qa1 Ra8 37. Qe1 Re8 38. h3 Ra2 39. Kh2 Qc2
+40. Rg1 Qd2 41. Qb1 Rxe5 42. fxe5 Ng4+ 43. Kh1 Nxh6 44. e6 fxe6 45. Qb8+ Kf7
+46. Qc7+ Kf6 47. Qxh7 Nf5 48. Qh8+ Kg5 49. Qe5 Qf4 50. h4+ 0-1

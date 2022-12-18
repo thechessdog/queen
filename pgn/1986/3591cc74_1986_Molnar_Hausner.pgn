@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Molnar"]
+[Black "Hausner, Ivan"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "3591cc74"]
+[Epoch "Queen"]
+[BlackID "300110"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Nf3 Bg4 5. h3 Bh5 6. Be2 e6 7. O-O Be7 8. Bf4
+d5 9. exd5 Bxf3 10. Bxf3 exd5 11. Re1 O-O 12. Qd3 Nbd7 13. Re2 Re8 14. Rae1 Nf8
+15. Bg5 Ne6 16. Bxf6 Bxf6 17. Bg4 Qb6 18. Bxe6 fxe6 19. Nd1 Qxd4 20. Qxd4 Bxd4
+21. Rxe6 Rxe6 22. Rxe6 Kf7 23. Re2 b5 24. Kf1 b4 25. Rd2 Bf6 26. Rd3 Rb8 27.
+Ke2 Ke6 28. Rb3 c5 29. a3 a5 30. axb4 axb4 31. Re3+ Kd6 32. f4 c4 33. f5 Kc5
+34. g4 d4 35. Re6 b3 36. cxb3 Rxb3 37. Re8 Rxh3 38. Rc8+ Kd5 0-1

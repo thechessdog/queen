@@ -1,0 +1,20 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schleicher"]
+[Black "Hotting"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "94457fa7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 Qa5 9. Qd2 Nc6 10. Bc4 Bg4 11. Ng5 O-O 12. Nxf7 Rxf7 13. Bxf7+ Kxf7
+14. h3 Be6 15. O-O cxd4 16. cxd4 Qxd2 17. Bxd2 Nxd4 18. Rab1 b6 19. a4 Ba2
+20. Rbd1 Bc4 21. Rfe1 Nc2 22. Rc1 Nxe1 23. Rxc4 Nd3 24. Rc7 Bd4 25. Rd7
+Bxf2+ 26. Kf1 Nc5 27. Rd5 Nxe4 28. Bf4 Rc8 29. Rd7 Rc4 30. Rxa7 b5 31. Rc7
+Rxc7 32. Bxc7 bxa4 33. Be5 a3 0-1
+

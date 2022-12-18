@@ -1,0 +1,21 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Issakainen, Ari"]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "2f6f7d76"]
+[Epoch "Queen"]
+[WhiteID "500330"]
+[BlackID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. c4 g5 2. d4 Bg7 3. Nc3 g4 4. Bg5 c5 5. d5 Bxc3+ 6. bxc3 Qa5 7. Qd3 d6 8. f4
+gxf3 9. Nxf3 Bg4 10. e4 Nd7 11. Be2 Ngf6 12. Bh4 O-O-O 13. O-O Kb8 14. Rfb1
+Rde8 15. Rb5 Qa3 16. Rb3 Qa6 17. Qc2 Rhg8 18. Kh1 Rg7 19. Rab1 b6 20. a4 Reg8
+21. R3b2 Bh5 22. Bg3 Bxf3 23. Bxf3 Qxc4 24. a5 Kc7 25. axb6+ axb6 26. Ra2 b5
+27. Ra7+ Kb8 28. Rxd7 1-0

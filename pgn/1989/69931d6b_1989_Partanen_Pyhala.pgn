@@ -1,0 +1,20 @@
+[Event "Tampere SM"]
+[Site "Tampere SM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Partanen, Juha"]
+[Black "Pyhala, Antti"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "69931d6b"]
+[Epoch "Queen"]
+[WhiteID "500313"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. b3 f5 2. f4 Nf6 3. Bb2 g6 4. Nf3 Bg7 5. e3 d6 6. Bc4 c6 7. a4 a5 8. O-O d5
+9. Be2 O-O 10. Qe1 c5 11. Na3 Nc6 12. Nb5 b6 13. Ne5 Nb4 14. Rc1 Nd7 15. Nxd7
+Bxb2 16. Nxf8 Bxc1 17. Qxc1 Kxf8 18. Qb2 Kf7 19. Bf3 Be6 20. c3 Na6 21. Rc1 Rc8
+22. Na7 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Marin, Mihail"]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "983ee4ad"]
+[Epoch "Queen"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+[WhiteID "1200020"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8. e4 Re8
+9. g3 b5 10. cxb5 Nxe4 11. Nxe4 exd5 12. Nd2 d4 13. f3 d3 14. Kf2 dxe2 15. Bxe2
+a6 16. Re1 Bf8 17. Rb1 Qf6 18. bxa6 Nxa6 19. b4 Re6 20. Bb2 Qh6 21. Nf1 Rae8
+22. Qd2 Qh3 23. Bc4 Qh5 24. Qf4 Nc5 25. g4 Qh4+ 26. Qg3 Qxg3+ 27. Nxg3 Rxe1 28.
+Rxe1 Rxe1 29. Kxe1 Na4 30. Be5 d6 31. Bd4 Bxf3 32. Bb5 Nb6 33. a4 Nd5 34. Kf2
+Bxg4 35. a5 Bc8 0-1

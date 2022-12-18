@@ -1,0 +1,24 @@
+[Event "Marseille"]
+[Site "Marseille"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andruet, Gilles"]
+[Black "Renet, Olivier"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "425695b2"]
+[Epoch "Queen"]
+[BlackID "600040"]
+[BlackCountry "FRA"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Qc2 g5 13. Ra3 a6 14. Nd1 b6 15. Ne3
+Rb8 16. Re1 Ng6 17. f3 b5 18. axb5 axb5 19. b3 Qb6 20. Ndf1 Nh5 21. Bb2 Bd4 22.
+Qd2 Nhf4 23. Kh1 Ne5 24. Ng3 Bd7 25. Bf1 Ra8 26. Rea1 Rxa3 27. Rxa3 Bxb2 28.
+Qxb2 c4 29. bxc4 b4 30. Rb3 Ba4 31. Rxb4 Qxe3 32. Rxa4 Nfd3 33. Bxd3 Nxd3 34.
+Qg7+ Kxg7 35. Nf5+ Kf6 36. Nxe3 Rb8 37. h4 gxh4 38. Ra7 Ke5 39. Nf5 h3 40. g3
+Rb1+ 41. Kh2 Rf1 42. f4+ Kxe4 43. Nxd6+ Kf3 44. Ra3 Ke2 45. Kxh3 Rh1+ 46. Kg4
+Nf2+ 47. Kg5 Rb1 48. Nxf7 Rb6 49. Kf5 1-0

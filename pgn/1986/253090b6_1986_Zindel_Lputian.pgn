@@ -1,0 +1,20 @@
+[Event "Geneva"]
+[Site "Geneva"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zindel, Ernst"]
+[Black "Lputian, Smbat G"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "253090b6"]
+[Epoch "Queen"]
+[WhiteID "1306006"]
+[WhiteCountry "SUI"]
+[BlackID "13300024"]
+[BlackCountry "ARM"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. dxc5 Bxc5 5. Nb3 Bb6 6. exd5 exd5 7. Nf3 Nf6 8.
+Be2 O-O 9. O-O Ne4 10. c3 Nc6 11. Nbd4 Bg4 12. Be3 Re8 13. Re1 Qf6 14. Qd3 Rad8
+15. Rad1 Na5 16. Nd2 h5 17. f3 Nc5 18. Qb1 Rxe3 19. fxg4 Nc6 20. Nf5 Ne4 0-1

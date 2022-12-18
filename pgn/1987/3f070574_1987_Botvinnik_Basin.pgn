@@ -1,0 +1,19 @@
+[Event "Minsk-B"]
+[Site "Minsk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Botvinnik, Ilia"]
+[Black "Basin, Leonid"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "3f070574"]
+[Epoch "Queen"]
+[WhiteID "2804832"]
+[WhiteCountry "ISR"]
+[BlackID "4102070"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 g6 6. d5 Bg7 7. g3 O-O 8. Bg2 Na6
+9. O-O Nc5 10. Nd4 a5 11. Nb3 exd5 12. cxd5 d6 13. Bg5 1/2-1/2

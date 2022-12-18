@@ -1,0 +1,18 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Auwerswald"]
+[Black "Demmler"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "910a4a25"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nd7 5. d4 Ndf6 6. Bc4 e6 7. Bg5 Be7
+8. O-O-O Nxe4 9. Bxe7 Ng5 10. Bxd8 Nxf3 11. Nxf3 Kxd8 12. Rhe1 Nf6 13. Ne5
+Rf8 14. Rd3 Nh5 15. Rh3 g6 16. g4 Nf6 17. g5 b5 18. gxf6 bxc4 19. Rxh7 Ke8
+20. Nxc6 Bb7 21. Rxe6+ Kd7 22. d5 Bxc6 23. Rxc6 Rh8 24. Rxf7+ 1-0
+

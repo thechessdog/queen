@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "06dcb4eb"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 c6 6. Nxe5 Qe7 7. f4 Nxe4 8.
+Nxe4 d6 9. Nxd6+ Qxd6 10. O-O Ne6 11. Re1 Qd4+ 12. Kh1 Qxa4 0-1

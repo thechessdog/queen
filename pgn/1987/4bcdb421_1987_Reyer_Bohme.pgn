@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Reyer"]
+[Black "Bohme"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "4bcdb421"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. e3 e6 4. Nc3 cxd4 5. exd4 d5 6. c5 g6 7. Nf3 Bg7 8.
+Be3 O-O 9. Be2 Nc6 10. a3 a6 11. O-O Re8 12. Rc1 b5 13. cxb6 Qxb6 14. Na4
+Qb7 15. Qc2 Ne7 16. Nc5 Qc7 17. Qd3 Qd8 18. Ne5 a5 19. Rc3 Ne4 20. Nxe4 Ba6
+21. Qc2 Bxe2 22. Qxe2 dxe4 23. Nc6 Nxc6 24. Rxc6 Qd7 25. Rc4 Rec8 26. Rfc1
+Rxc4 27. Rxc4 Rc8 28. Rc5 e5 1/2-1/2
+

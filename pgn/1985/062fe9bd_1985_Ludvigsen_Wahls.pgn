@@ -1,0 +1,21 @@
+[Event "Nordic-chT"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ludvigsen, Frode"]
+[Black "Wahls, Matthias"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "062fe9bd"]
+[Epoch "Queen"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+[WhiteID "1500228"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8.
+cxd5 Bxf1 9. Kxf1 exd5 10. b4 O-O 11. a4 Qe7 12. Ba3 Rc8 13. Qb3 Qe6 14. h3
+Nbd7 15. Ke2 c5 16. bxc5 bxc5 17. Bxc5 Rab8 18. Qa2 Nxc5 19. dxc5 Rxc5 20. Rhc1
+Rbc8 21. Qb3 Qa6+ 22. Ke1 Qd3 23. Rab1 Ne4 0-1

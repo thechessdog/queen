@@ -1,0 +1,18 @@
+[Event "Glauchau"]
+[Site "Glauchau"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Boehnisch, Manfred"]
+[Black "Paehtz, Thomas"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "89567cc5"]
+[Epoch "Queen"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 Nc6 6. c4 Nb6 7. b3 d5 8. exd6
+e5 9. Nxc5 Qxd6 10. Ne4 Qg6 11. d3 f5 12. Nc3 Bb4 13. Bd2 e4 14. dxe4 fxe4 15.
+Ng1 O-O 16. Nge2 Qf6 17. Qc1 Qxf2+ 18. Kd1 Bg4 19. Kc2 Bxc3 20. Be3 Nd4+ 0-1

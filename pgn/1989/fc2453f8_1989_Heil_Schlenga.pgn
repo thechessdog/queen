@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heil, Siegfried"]
+[Black "Schlenga, Klaus"]
+[Result "1-0"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "fc2453f8"]
+[Epoch "Queen"]
+[WhiteID "4600835"]
+[WhiteCountry "GER"]
+
+1. c4 c6 2. Nc3 d5 3. cxd5 cxd5 4. d4 Nf6 5. Bf4 Nc6 6. e3 e6 7. Bd3 Be7 8. h3
+a6 9. Nf3 O-O 10. O-O Nh5 11. Bh2 f5 12. Rc1 Nf6 13. Na4 Ne4 14. Ne5 Bd7 15.
+Nxd7 Qxd7 16. Nb6 Qe8 17. Nxa8 Qxa8 18. f3 Nf6 19. a3 g5 20. Qa4 1-0

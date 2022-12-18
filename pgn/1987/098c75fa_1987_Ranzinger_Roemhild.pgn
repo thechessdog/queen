@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ranzinger, M."]
+[Black "Roemhild, U."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "098c75fa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 O-O-O 13. Bxb5 axb5
+14. Ndxb5 Qc5 15. e5 dxe5 16. fxe5 Nh5 17. Qh4 Bxg5+ 18. Qxg5 g6 19. Nd6+
+Kb8 20. Nxf7 Kc7 21. g4 Ng7 22. Nxh8 Rxh8 23. Rxd7+ Kxd7 24. Qf6 Qe7 25.
+Rd1+ Ke8 26. Nb5 1-0
+

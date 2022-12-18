@@ -1,0 +1,20 @@
+[Event "Aarhus-C"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Pedersen, Bjarne"]
+[Black "Willumsen, Henrik"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "f5ad00d5"]
+[Epoch "Queen"]
+[WhiteID "1429604"]
+[WhiteCountry "DEN"]
+[BlackID "1405012"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. cxd5 exd5 5. Nf3 Be7 6. Bf4 Bf5 7. e3 Nf6 8. Bd3
+Bxd3 9. Qxd3 Nbd7 10. O-O O-O 11. h3 Re8 12. Rab1 a5 13. Rfe1 Ne4 14. Nd2 Bb4
+15. Re2 Ndf6 16. f3 1/2-1/2

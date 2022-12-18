@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Esser"]
+[Black "Warken"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "7f82b394"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Be7 7. Bd3 O-O 8.
+c5 b6 9. b4 a5 10. Na4 Nbd7 11. a3 axb4 12. axb4 bxc5 13. bxc5 e5 14. Nxe5
+Bxc5 15. O-O Nxe5 16. dxe5 Ne4 17. Bxe4 dxe4 18. Qxd8 Rxd8 19. Bg5 Rd5 20.
+Nxc5 1/2-1/2
+

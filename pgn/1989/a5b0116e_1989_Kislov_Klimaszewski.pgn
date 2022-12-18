@@ -1,0 +1,19 @@
+[Event "Augustow"]
+[Site "Augustow"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Kislov, Mikhail"]
+[Black "Klimaszewski, Dariusz"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "a5b0116e"]
+[Epoch "Queen"]
+[WhiteID "4102100"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nd4 8. Nd1
+Rb8 9. c3 Nc6 10. h4 h5 11. Nh3 Nge7 12. O-O b5 13. f4 Bd7 14. Ndf2 b4 15. e5
+bxc3 16. bxc3 Nf5 17. Ne4 dxe5 18. Bxc5 Bf8 19. d4 exd4 20. cxd4 Be7 21. d5
+Bxc5+ 22. Nxc5 Ncd4 23. Kh2 O-O 24. Nxd7 Qxd7 25. dxe6 Nf3+ 0-1

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gerace"]
+[Black "Paschmann"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Lasker trap"]
+[HashCode "84cdbaa8"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Qa4+ Nc6 7. Bxb4 Qh4
+8. g3 exf2+ 9. Kxf2 Qd4+ 10. Kf3 Bd7 11. Qb3 Nxe5+ 12. Ke2 Bg4+ 13. Ke1
+Qe4+ 14. Ne2 Nd3+ 15. Kd2 O-O-O 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hotting, Arend"]
+[Black "Van der Weide, Karel"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "9fcab81c"]
+[Epoch "Queen"]
+[BlackID "1003143"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 g5 12. f4 gxf4 13. Qe1 Ne5 14. Rxf4 Bh6 15.
+Rf1 Nfg4 16. Nc4 Bxc1 17. Rxc1 Nxc4 18. Bxc4 Ne5 19. Bb5 Bd7 20. Qg3+ Kh8 21.
+Bxd7 Qxd7 22. Qg5 Rg8 23. Qf6+ Rg7 24. g3 Qh3 25. Rc2 Ng4 26. Qf4 Rg6 27. Qc1
+Ne5 28. Rf5 Rag8 29. Rg2 Rg4 30. Nb5 R8g6 31. Nxd6 Rxe4 32. Rxe5 1-0

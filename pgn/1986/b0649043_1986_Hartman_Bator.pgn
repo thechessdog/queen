@@ -1,0 +1,23 @@
+[Event "SWE-ch"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hartman, Christer"]
+[Black "Bator, Robert"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "b0649043"]
+[Epoch "Queen"]
+[WhiteID "1700448"]
+[BlackID "1700405"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. Bd2 Nxd2 7. Qxd2 Ba6 8. a3
+Bxc3 9. Qxc3 O-O 10. Nf4 d5 11. cxd5 Bxf1 12. Kxf1 exd5 13. Rc1 c6 14. h4 a5
+15. g3 Qd6 16. Kg2 Rc8 17. b4 Nd7 18. Rc2 g6 19. Rhc1 axb4 20. axb4 b5 21. Ra1
+Rxa1 22. Qxa1 Nb6 23. Qa6 Qc7 24. Rc5 Ra8 25. Qxb5 Qxf4 26. Qxb6 Qe4+ 27. Kh2
+Qf3 28. Rc2 h5 29. Qxc6 Ra1 30. Rc1 Qxf2+ 31. Kh1 Ra2 32. Qc8+ Kh7 33. Qh3 Qf3+
+0-1

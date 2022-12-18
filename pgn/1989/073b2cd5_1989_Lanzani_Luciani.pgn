@@ -1,0 +1,20 @@
+[Event "Imperia op"]
+[Site "Imperia"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Lanzani, Mario"]
+[Black "Luciani, Carlo"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "073b2cd5"]
+[Epoch "Queen"]
+[WhiteID "800244"]
+[WhiteCountry "ITA"]
+[BlackID "800627"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+c6 9. h3 exd4 10. Nxd4 Re8 11. Bf1 d5 12. exd5 Rxe1 13. Qxe1 cxd5 14. cxd5 Nb6
+15. Bg5 Nbxd5 16. Rd1 Nxc3 17. bxc3 Bd7 18. Bc4 Qe8 19. Qf1 1/2-1/2

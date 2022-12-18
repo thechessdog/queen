@@ -1,0 +1,26 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Copie, J."]
+[Black "Paternoste, Ricardo"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "6d34f20e"]
+[Epoch "Queen"]
+[BlackID "108855"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Rb8 9. axb5 axb5 10. c3 d5 11. exd5 Nxd5 12. Nxe5 Nxe5 13. Rxe5 c6 14. d4 Bd6
+15. Re1 Qh4 16. g3 Qh3 17. Be3 h5 18. Qf3 h4 19. Bxd5 cxd5 20. Nd2 hxg3 21.
+hxg3 Rb6 22. Ra7 Bb8 23. Ra8 Bb7 24. Ra5 Rg6 25. Qg2 Qd7 26. Nb3 Qc6 27. Nc5
+Bc8 28. Nd3 Qb6 29. Raa1 Bf5 30. Ne5 Bxe5 31. dxe5 Qc6 32. Bd4 Qe6 33. Re3 Bh3
+34. Qf3 Bf5 35. Qg2 Be4 36. f3 Bf5 37. g4 Qd7 38. b4 Rc8 39. Ra5 Rcc6 40. Kf1
+Be6 41. Qe2 Rc4 42. Ke1 Rh6 43. Kd2 Qc6 44. Ra1 Qc8 45. Rd3 Rc6 46. Kc2 Bd7 47.
+Rdd1 Ra6 48. Kb2 Ra4 49. Rxa4 bxa4 50. Ka3 Qb7 51. g5 Rg6 52. Rh1 Bb5 53. Qh2
+Kf8 54. e6 Rxe6 55. Bxg7+ Ke7 56. Bd4 Qc8 57. Bc5+ Kd7 58. Qf4 Qg8 59. Rh6 Rg6
+60. Qf5+ Kc6 61. Rxg6+ fxg6 62. Qf6+ Kd7 63. Qe7+ Kc8 64. Bb6 Bd7 65. Qd6 Kb7
+66. Qc7+ Ka6 67. Bd4 Qe6 68. b5+ Kxb5 69. Qc5+ Ka6 70. Qa7+ Kb5 71. Qxa4# 1-0

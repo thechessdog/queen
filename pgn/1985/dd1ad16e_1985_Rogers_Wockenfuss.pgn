@@ -1,0 +1,26 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1985.07.01"]
+[Round "5"]
+[White "Rogers, Ian"]
+[Black "Wockenfuss, Klaus"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "dd1ad16e"]
+[Epoch "Queen"]
+[WhiteID "3200019"]
+[WhiteCountry "AUS"]
+[BlackID "4600746"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 a6 7. Bc4 Nf6 8. f3
+e6 9. dxe6 Bxe6 10. Bxe6 fxe6 11. Nxe4 Nxe4 12. fxe4 Bd6 13. Bxd6 Qxd6 14. Qxd6
+cxd6 15. Nf3 Ke7 16. g3 Rac8 17. c3 Rc4 18. Nd2 Rc5 19. Ke2 Rf8 20. Rhf1 Rxf1
+21. Rxf1 Ne5 22. h3 Nc4 23. Nxc4 Rxc4 24. Kd3 Rc5 25. a4 Rg5 26. Rf3 Ra5 27. b3
+b5 28. c4 b4 29. Kd4 Rc5 30. g4 Rg5 31. Re3 Re5 32. h4 h6 33. Rg3 Rc5 34. g5
+hxg5 35. Rxg5 e5+ 36. Ke3 Kf6 37. Rf5+ Ke7 38. h5 Rc8 39. Rg5 Kf7 40. Kf3 Rh8
+41. Kg4 a5 42. Rg6 Rd8 43. Kf5 Rh8 44. Kg4 Rd8 45. Kg5 Kf8 46. Kf5 Kf7 47. h6
+gxh6 48. Rxh6 Rg8 49. Rxd6 Rg3 50. Rd5 Rxb3 51. Rxa5 Rc3 52. c5 b3 53. Rb5 Ke7
+54. Kxe5 b2 55. Rb7+ Kd8 56. Rxb2 Rxc5+ 57. Kd6 Rc8 58. Rg2 1-0

@@ -1,0 +1,18 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Cardon, Helmut"]
+[Result "1/2-1/2"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "5c2c4836"]
+[Epoch "Queen"]
+[BlackID "1000365"]
+[BlackCountry "NED"]
+[WhiteCountry "HUN"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O 1/2-1/2

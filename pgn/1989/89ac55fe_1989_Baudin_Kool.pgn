@@ -1,0 +1,17 @@
+[Event "Royan op"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Baudin, Frederic"]
+[Black "Kool, Gerard"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Steiner variation"]
+[HashCode "89ac55fe"]
+[Epoch "Queen"]
+[WhiteID "600776"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. dxe5 Nxe5 7. Nxe5 dxe5 8.
+Qh5 g6 9. Qxe5 f6 10. Qg3 Qd4 11. Qb3 1-0

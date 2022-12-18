@@ -1,0 +1,22 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Winge, Stefan"]
+[Black "Eriksson, Mats"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "3ebec66d"]
+[Epoch "Queen"]
+[WhiteID "1700898"]
+[WhiteCountry "SWE"]
+[BlackID "1700936"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 h5 5. d3 h4 6. Nd5 d6 7. c3 a5 8. Ne2 Bg4
+9. h3 Be6 10. d4 Ba7 11. Ne3 Nce7 12. f4 hxg3 13. f5 Bd7 14. h4 exd4 15. cxd4
+d5 16. exd5 Nxf5 17. Nxf5 Bxf5 18. Nxg3 Qe7+ 19. Kf2 Qf6 20. Bg5 Qxd4+ 21. Qxd4
+Bxd4+ 22. Kf3 Bd7 23. Rhe1+ Kf8 24. Re4 Bb6 25. Ne2 f6 26. Bf4 Ne7 27. d6 Ng6
+28. dxc7 Bc6 29. Kg3 Bxe4 30. Bxe4 Nxf4 31. Nxf4 Bxc7 0-1

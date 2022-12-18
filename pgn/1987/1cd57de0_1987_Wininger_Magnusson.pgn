@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wininger, O."]
+[Black "Magnusson, G."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "1cd57de0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8.
+O-O Nd4 9. Rf2 Rb8 10. f5 gxf5 11. Qh5 h6 12. Be3 Be6 13. Raf1 Qd7 14. Nd5
+f4 15. Bxd4 Bg4 16. Qh4 Nxd5 17. exd5 f3 18. Be3 fxg2 19. Kxg2 Bxh3+ 20.
+Qxh3 Qxh3+ 21. Kxh3 O-O 22. Kg4 Rbe8 23. Kh5 e4 24. dxe4 Rxe4 25. Bxh6 Re5+
+26. Rf5 Rfe8 27. Bxg7 Kxg7 28. Kg4 Rxf5 29. Rxf5 Re2 30. Rg5+ Kf6 31. h4
+Rxc2 32. Rf5+ Ke7 33. b3 Rxa2 34. h5 Rh2 35. Kg5 b5 36. Rf4 Rd2 37. h6
+Rxd5+ 38. Kg4 Rd1 39. Rf5 Rh1 40. Kg5 b4 41. Rf2 a5 42. Re2+ Kd7 43. Rf2 c4
+44. bxc4 b3 45. Rxf7+ Kc6 46. Rf2 a4 47. Rb2 Kc5 48. Kg6 Kxc4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ekstroem, Roland"]
+[Black "Wickelmann, T."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "9f786584"]
+[Epoch "Queen"]
+[WhiteID "1302302"]
+[WhiteCountry "SUI"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Nf6 7. e5 Nd5 8.
+Qxd4 Be6 9. Bd2 Be7 10. Nc3 a5 11. O-O-O Na6 12. Nxd5 cxd5 13. Bb5+ Kf8 14.
+Rhf1 Nc5 15. Qf4 Rc8 16. Nd4 Qb6 17. Bxa5 1-0

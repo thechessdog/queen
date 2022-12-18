@@ -1,0 +1,16 @@
+[Event "Kehl AT5"]
+[Site "Kehl AT5"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Roehl, Eberhard"]
+[Black "Schmalz, J."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "dcdf79ce"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Nh3 Qe7 9. Qg4 g6 10. Nf4 a6 11. O-O-O Nf8 12. Nfxd5 Qd8 13. Nf6+ Ke7 14. d5 a5
+15. Qg5 Na6 16. d6+ 1-0

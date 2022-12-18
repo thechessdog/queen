@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Munoz"]
+[Black "Bengochea"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Belgrade gambit"]
+[HashCode "706ae1e2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nd5 Nxe4 6. Bc4 Be7 7. O-O O-O
+8. Re1 Nf6 9. Rxe7 Nxe7 10. Nxf6+ gxf6 11. Bh6 Re8 12. Qxd4 Ng6 13. Bxf7+
+Kxf7 14. Ng5+ fxg5 15. Qg7+ Ke6 16. Re1+ Kd5 17. Qf7+ Kc5 18. Rxe8 1-0
+

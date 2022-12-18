@@ -1,0 +1,17 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Oliver, A."]
+[Black "Martin, Benjamin"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "5fcf8859"]
+[Epoch "Queen"]
+[BlackID "4300050"]
+[BlackCountry "NZL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5 8.
+Ne4 Qh4 9. Ng3 Bg4 10. f3 e4 11. fxe4 Bxd1 0-1

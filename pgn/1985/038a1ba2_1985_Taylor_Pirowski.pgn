@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Taylor"]
+[Black "Pirowski"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game, Max Lange defence"]
+[HashCode "038a1ba2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 g6 5. Qf3 Nf6 6. Nge2 Nd4 7. Nxd4
+Bxd4 8. d3 Bxc3+ 9. bxc3 h6 10. O-O d6 11. Rb1 Bg4 12. Qe3 b6 13. f3 Be6
+14. Bxe6 fxe6 15. f4 Nh5 16. fxe5 dxe5 17. Qf3 Qe7 18. Qg4 O-O-O 19. Rb5 c5
+20. Qxg6 Qe8 21. Qxe8 Rdxe8 22. Rf7 1-0
+

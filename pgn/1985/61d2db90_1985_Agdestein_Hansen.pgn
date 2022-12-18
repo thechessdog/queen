@@ -1,0 +1,20 @@
+[Event "Pohja Tch-Nordic"]
+[Site "Pohja Tch-Nordic"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Agdestein, Espen"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "61d2db90"]
+[Epoch "Queen"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+[WhiteID "1500201"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Nf3 Na6 7. e3 Nxc5 8.
+Bd2 b6 9. Be2 Bb7 10. a3 Bxc3 11. Bxc3 d5 12. O-O dxc4 13. Bxc4 Rc8 14. Rfd1
+Qe7 15. Qe2 1/2-1/2

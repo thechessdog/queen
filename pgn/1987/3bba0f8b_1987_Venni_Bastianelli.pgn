@@ -1,0 +1,19 @@
+[Event "corr TS88"]
+[Site "corr TS88"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Venni"]
+[Black "Bastianelli"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "3bba0f8b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 Qc7 11. Be2 O-O 12. g4 b5 13. g5 Nxd4 14. Bxd4
+hxg5 15. fxg5 Nd7 16. h4 b4 17. Na4 Bb7 18. Bf3 e5 19. Be3 Qa5 20. b3 Bc6
+21. h5 Bxa4 22. bxa4 Qxa4 23. Kb1 Rfc8 24. g6 Nf6 25. h6 Rf8 26. hxg7 Rfc8
+27. Bg5 fxg6 28. Bxf6 Bxf6 29. Qd5+ Kxg7 30. Rh7+ Kxh7 31. Qf7+ 1-0
+

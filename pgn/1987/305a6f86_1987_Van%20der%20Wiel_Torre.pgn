@@ -1,0 +1,21 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Torre, Eugenio"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "150 attack"]
+[HashCode "305a6f86"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "5200016"]
+[BlackCountry "PHI"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 Nbd7 6. f4 Ng4 7. e5 Bh6 8. Nf3
+Nxe3 9. Qxe3 O-O 10. O-O-O dxe5 11. Nxe5 Nxe5 12. dxe5 Qb6 13. Qf3 Be6 14. Kb1
+Qb4 15. g3 Qa5 16. h4 Rfd8 17. Bh3 Rxd1+ 18. Qxd1 Rd8 19. Qe2 Bd5 20. Bg2 e6
+21. Bxd5 cxd5 22. h5 Bg7 23. hxg6 hxg6 24. Nd1 Qa4 25. Nf2 Rc8 26. Nd3 1/2-1/2

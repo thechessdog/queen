@@ -1,0 +1,19 @@
+[Event "corr SCH"]
+[Site "corr SCH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kirkland"]
+[Black "Armitage"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack, Goteborg system"]
+[HashCode "5548ea4f"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bb4 6. Bd2 Bg4 7. a3 Bd6
+8. Bc4 exd4 9. Qe2+ Qe5 10. Qxe5+ Bxe5 11. Nxe5 dxc3 12. Bxf7+ Ke7 13. Bxc3
+Be6 14. Bxe6 Kxe6 15. O-O-O Nf6 16. Rhe1 Kf5 17. Rd3 Rg8 18. Rf3+ Ke6 19.
+Ng4+ Kd6 20. Nxf6 gxf6 21. Rd3+ Kc6 22. Re6+ Kb5 23. Rd5+ c5 24. a4+ Kc4
+25. Rd3 1-0
+

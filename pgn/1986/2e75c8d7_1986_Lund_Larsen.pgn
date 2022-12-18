@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lund, H."]
+[Black "Larsen, F."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "2e75c8d7"]
+[Epoch "Queen"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8.
+fxe5 dxe5 9. d5 Ne7 10. Nxe5 c6 11. Bg5 cxd5 12. Bxf6 Qb6+ 13. Kh1 Bxf6 14.
+Nxd5 Nxd5 15. Nc4 Qd8 16. exd5 b5 17. Na5 Bg5 18. Qe1 Bh4 19. Qb4 a6 20.
+Nc6 Qg5 21. Rf4 1-0
+

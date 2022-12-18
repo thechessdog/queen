@@ -1,0 +1,17 @@
+[Event "Szolnok Mezogep"]
+[Site "Szolnok Mezogep"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Szucs, T."]
+[Black "Radics"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "74832fe9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Nf6
+8. Bg5 Be7 9. Bxf6 gxf6 10. Nd5 b5 11. Qh5 Nd4 12. c3 Ne6 13. Nc2 Ng7 14.
+Qh6 O-O 15. Nce3 f5 16. Nxe7+ Qxe7 17. Nd5 1-0
+

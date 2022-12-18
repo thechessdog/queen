@@ -1,0 +1,22 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bierbach, U."]
+[Black "Bruederle, K."]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "92e10fbd"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 d4 3. b4 g6 4. g3 Bg7 5. d3 b6 6. Bg2 Bb7 7. O-O e5 8. e3
+dxe3 9. Bb2 exf2+ 10. Rxf2 Nh6 11. Nxe5 Bxg2 12. Kxg2 O-O 13. Qf3 Na6 14.
+Nc6 Qd6 15. Bxg7 Kxg7 16. Qd5 Ng4 17. Qxd6 cxd6 18. Re2 Rfe8 19. Nc3 Rxe2+
+20. Nxe2 d5 21. h3 Ne3+ 22. Kf2 Nc2 23. Rb1 dxc4 24. dxc4 Rc8 25. b5 Nc5
+26. Kf3 Re8 27. Ned4 Re3+ 28. Kg2 Nxd4 29. Nxd4 Ne4 30. Rb3 Rxb3 31. axb3
+Nd6 32. Nc6 Nc8 33. Kf3 f5 34. Ke3 Kf6 35. Kd4 Ke6 36. b4 Kd6 37. c5+ Kc7
+38. Kd5 g5 39. Nd4 f4 40. gxf4 gxf4 41. Ne6+ Kd7 42. Nxf4 Ne7+ 43. Ke5 Ng8
+44. c6+ Kd8 45. Nd5 Kc8 46. Ke6 1-0
+

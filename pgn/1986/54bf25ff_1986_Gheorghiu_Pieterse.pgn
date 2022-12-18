@@ -1,0 +1,22 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1986.07.01"]
+[Round "8"]
+[White "Gheorghiu, Florin"]
+[Black "Pieterse, Gert"]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "54bf25ff"]
+[Epoch "Queen"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "1000357"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. Nf3 d5 3. d4 c6 4. Qc2 Bd6 5. g3 f5 6. Bg2 Nf6 7. Bf4 Bxf4 8. gxf4
+O-O 9. e3 Ne4 10. Nbd2 Nxd2 11. Qxd2 Nd7 12. cxd5 cxd5 13. O-O-O Nb6 14. Ne5
+Qd6 15. Kb1 Bd7 16. Rc1 Rfc8 17. Qa5 a6 18. Rc5 Bb5 19. Rhc1 Nc4 20. Qb4 Qf8
+21. Nxc4 Bxc4 22. Qxb7 Rxc5 23. dxc5 Rb8 24. Qc7 Rc8 25. Qd7 Qxc5 26. Qxe6+ Kh8
+27. Ka1 Rb8 28. Qe5 Rf8 29. b3 Qa3 30. Qb2 1-0

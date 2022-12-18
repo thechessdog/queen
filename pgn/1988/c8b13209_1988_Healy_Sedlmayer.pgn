@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Healy, J."]
+[Black "Sedlmayer, W."]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "c8b13209"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 O-O 6. Bd2 d5 7. e3 Re8 8.
+Bd3 e5 9. dxe5 Nxe5 10. Nxe5 Rxe5 11. O-O-O dxc4 12. Bxc4 Rc5 13. Ne4 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr CA jub"]
+[Site "corr CA jub"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Richardson"]
+[Black "Kondali"]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "f2f44d77"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c4 Nf6 7. Nc3 Be7 8.
+d3 Bg4 9. h3 Bxf3 10. Qxf3 O-O 11. Ne2 Nd7 12. Be3 Bf6 13. Qg4 Nc5 14. Bxc6
+bxc6 15. Rad1 Ne6 16. g3 c5 17. f4 Nd4 18. Rd2 Nxe2+ 19. Rxe2 exf4 20. gxf4
+Qe7 1/2-1/2
+

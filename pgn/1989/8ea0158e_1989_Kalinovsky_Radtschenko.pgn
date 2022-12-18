@@ -1,0 +1,19 @@
+[Event "corr ol12"]
+[Site "corr ol12"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kalinovsky, P."]
+[Black "Radtschenko, N."]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "8ea0158e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Bd3 Nc6 7. Nxc6 dxc6
+8. O-O e5 9. Qc2 Bc5 10. Nd2 Be6 11. Nb3 Ba7 12. c5 Qe7 13. Na5 O-O 14. b4
+Rad8 15. Bg5 Rd4 16. a3 Rfd8 17. Rad1 Bb8 18. Be2 R8d7 19. Rxd4 exd4 20. f4
+Qd8 21. Qd3 Qc7 22. Bxf6 gxf6 23. Qg3+ Kh8 24. f5 Qxg3 25. hxg3 Bxg3 26.
+fxe6 fxe6 1-0
+

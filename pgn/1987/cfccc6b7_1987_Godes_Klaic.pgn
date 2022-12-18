@@ -1,0 +1,18 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Godes, D."]
+[Black "Klaic, P."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "cfccc6b7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O Be6 9. Be3 O-O 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Qc7 13. Rfd1 Rfd8 14. Qe1
+Qc6 15. Bf3 Kf8 16. h3 Nc5 17. Nxc5 dxc5 18. Nd5 Nxd5 19. exd5 Bxd5 20.
+Rxd5 1-0
+

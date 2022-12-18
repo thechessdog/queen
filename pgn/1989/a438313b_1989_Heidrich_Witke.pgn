@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heidrich, Manfred"]
+[Black "Witke, Thomas"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "a438313b"]
+[Epoch "Queen"]
+[WhiteID "4602722"]
+[BlackID "4606140"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. b4 cxb4 4. d4 d5 5. e5 Nc6 6. a3 f6 7. axb4 Bxb4+ 8. c3
+Be7 9. Bd3 Qc7 10. Qe2 Bd7 11. Na3 Rc8 12. Nb5 Qb8 13. Ba3 a6 14. Bd6 Qa8 15.
+Nh4 Nh6 16. Qh5+ Nf7 17. Bxh7 1-0

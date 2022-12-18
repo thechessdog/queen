@@ -1,0 +1,20 @@
+[Event "Bad Orb op"]
+[Site "Bad Orb"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fette, Martin"]
+[Black "Horvath, Tamas"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f0421764"]
+[Epoch "Queen"]
+[WhiteID "4600827"]
+[BlackID "700185"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Qc7 5. O-O e5 6. d3 h6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. Re1 f6 10. d4 cxd4 11. Nxd4 Qd6 12. Nf5 Nxf5 13. Qh5+ Kd8 14. Qxf5
+Qb4 0-1

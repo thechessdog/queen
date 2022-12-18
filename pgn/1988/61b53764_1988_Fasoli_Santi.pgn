@@ -1,0 +1,21 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fasoli, S."]
+[Black "Santi, A."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "61b53764"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Ne8 9. Nf3 Nd7 10. Bf4 Ndf6 11. O-O Bg4 12. Qxb7 Nd6 13. Qb3 Qa5 14.
+Bd2 Rab8 15. Nb5 Qb6 16. Nxd6 Qxd6 17. Qd1 Rxb2 18. Bc1 Rb7 19. h3 Bf5 20.
+Bd3 Be4 21. Bxe4 Nxe4 22. Qc2 Qxd5 23. Be3 Nd6 24. Rac1 h5 25. Rfe1 Rd8 26.
+Qc5 Qxa2 27. Ra1 Qc4 28. Qa5 Ra8 29. Rec1 Qb5 30. Rc5 Qxa5 31. Rcxa5 Nb5
+32. Ne5 Rd8 33. Nc6 Rd6 34. Nxa7 Nxd4 35. R1a2 Rb1+ 36. Kh2 Nf5 37. Bd2 Bb2
+0-1
+

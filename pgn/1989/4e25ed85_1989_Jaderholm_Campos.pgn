@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jaderholm"]
+[Black "Campos Antonio"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "4e25ed85"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. c3 Bd7 6. d4 Bb6 7. Na3 Nge7 8.
+Nc4 O-O 9. Nxb6 axb6 10. d5 Nb8 11. Bd3 Be8 12. Bg5 f6 13. Be3 Nd7 14. c4
+Nc5 15. b4 Nxd3 16. Qxd3 f5 17. exf5 Nxf5 18. Ng5 Bg6 19. Ne6 Nd4 20. Qxg6
+hxg6 21. Nxd8 Ne2+ 22. Kh1 Rfxd8 23. a4 Nc3 24. a5 1-0
+

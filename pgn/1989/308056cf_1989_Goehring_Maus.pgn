@@ -1,0 +1,22 @@
+[Event "Bundesliga 8889"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Goehring, Karl-Heinz"]
+[Black "Maus, Soenke"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "308056cf"]
+[Epoch "Queen"]
+[BlackID "4600240"]
+[BlackCountry "GER"]
+[WhiteID "4602951"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 10. O-O f5 11. exf5 Bxf5 12. Nc4 Na6 13. a3 Rb8 14. Bd2 Nac7 15.
+b4 Bd4 16. Rc1 Qf6 17. Qb3 b5 18. Na5 Ng7 19. Nc6 Rbe8 20. Bxb5 Nxb5 21. Nxb5
+Bg4 22. Nbxd4 cxd4 23. f3 Bd7 24. Rfe1 Nf5 25. b5 g5 26. a4 g4 27. Qd3 Qg7 28.
+f4 g3 29. hxg3 Nxg3 30. Nxd4 Nf5 31. Ne6 Bxe6 32. dxe6 Qg4 33. Rc7 Nh4 1-0

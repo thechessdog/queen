@@ -1,0 +1,19 @@
+[Event "South America"]
+[Site "South America"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Abarca Aguirre, Man"]
+[Black "Garces, Napoleon"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fa40676c"]
+[Epoch "Queen"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Ne8 11. Qc1 Kh7 12. Ne4 Na6 13. Bxd6 Nxd6 14. Nexd6 b5
+15. Nxb5 Qxd5 16. Ncd6 Be6 17. e4 Qc6 18. Be2 Rad8 19. Qf4 Nb4 20. Rd1 a6 21.
+Nc3 Bd4 22. Nc4 Bxc3+ 0-1

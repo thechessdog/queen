@@ -1,0 +1,17 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bock"]
+[Black "Siebert"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "b8f40c5d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. f3 c5 7. g3 Qa5 8.
+Bd2 e3 9. Bxe3 Qxc3+ 10. Kf2 b6 11. a4 Nc6 12. Bb5 Ne7 13. Ne2 Qb2 14. Rb1
+Qa2 15. Nc3 Qa3 16. Rb3 1-0
+

@@ -1,0 +1,22 @@
+[Event "Jyvaskyla SM"]
+[Site "Jyvaskyla SM"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Nokka, Risto"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "5997576c"]
+[Epoch "Queen"]
+[BlackID "500941"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 g6 2. d4 Bg7 3. f4 d6 4. Nf3 c5 5. dxc5 Qa5+ 6. Nc3 Bxc3+ 7. bxc3 Qxc3+
+8. Bd2 Qxc5 9. Bd3 Nf6 10. Rb1 a6 11. Qe2 Nc6 12. f5 Ng4 13. h3 Nge5 14. Nxe5
+Nxe5 15. g4 Bd7 16. Rxb7 O-O 17. Qe3 Qxe3+ 18. Bxe3 Nxd3+ 19. cxd3 Bb5 20. Kd2
+e6 21. f6 Rfb8 22. Rxb8+ Rxb8 23. Rc1 Kf8 24. Rc7 d5 25. exd5 exd5 26. Bh6+ Kg8
+27. Kc3 Rd8 28. Kd4 Bd7 29. Rc5 Bb5 30. a3 g5 31. Rc1 Bd7 32. Re1 Be6 33. Re5
+a5 34. Rxg5+ Kh8 35. Re5 Kg8 36. Re1 a4 37. Rb1 Bc8 38. Rb8 Re8 39. Kc5 1-0

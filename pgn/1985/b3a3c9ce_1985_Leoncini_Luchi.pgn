@@ -1,0 +1,18 @@
+[Event "Siena"]
+[Site "Siena"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Leoncini, Mario"]
+[Black "Luchi, A."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b3a3c9ce"]
+[Epoch "Queen"]
+[WhiteID "801712"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Bg4 6. Bc4 Nf6 7. e5 Bxf3 8.
+gxf3 Qc8 9. Qb3 d5 10. Nxd5 Ng8 11. e6 fxe6 12. Nf4 Nd7 13. Bxe6 Nh6 14. Be3
+Qc6 15. Rc1 Qxf3 16. Bxd7+ Kxd7 17. Qb5+ 1-0

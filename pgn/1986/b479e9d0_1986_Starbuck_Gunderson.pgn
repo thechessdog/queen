@@ -1,0 +1,18 @@
+[Event "San Diego"]
+[Site "San Diego"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Starbuck"]
+[Black "Gundersen, Helge"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b479e9d0"]
+[Epoch "Queen"]
+[BlackID "1500465"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7 8.
+Qe2 a6 9. Rd1 Qc7 10. Be3 b5 11. Bb3 Na5 12. Rac1 Qb8 13. Bd5 exd5 14. Nxd5 Bd8
+15. e5 dxe5 16. Bf4 Ne7 17. Bxe5 Qb7 18. Bxg7 1-0

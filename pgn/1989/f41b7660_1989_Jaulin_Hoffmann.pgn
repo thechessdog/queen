@@ -1,0 +1,20 @@
+[Event "Uzes op"]
+[Site "Uzes"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Jaulin, Philippe"]
+[Black "Hoffmann, Regis"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "f41b7660"]
+[Epoch "Queen"]
+[WhiteID "611620"]
+[WhiteCountry "FRA"]
+[BlackID "604844"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Bc4 Nf6 6. d3 Ng4 7. Rf1 O-O 8. Nd5
+Nd4 9. h3 Nxf3+ 10. Rxf3 c6 11. Ne3 Qh4+ 12. Ke2 Nh2 13. Rf2 exf4 14. Qg1 Bxe3
+15. Bxe3 fxe3 16. Kxe3 Qg3+ 0-1

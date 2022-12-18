@@ -1,0 +1,16 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Hage, H."]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "c067f4d5"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. Nc3 exd4 4. Qxd4 Nc6 5. Qe3+ Be6 6. cxd5 Nb4 7. dxe6
+Nc2# 0-1
+

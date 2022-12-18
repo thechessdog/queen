@@ -1,0 +1,23 @@
+[Event "corr ch19-GER"]
+[Site "corr ch19-GER"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mudelsee"]
+[Black "Schaaf"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Zaitsev variation"]
+[HashCode "13f9f932"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. b4 Bxb4 6. Nxd4 exd4 7. Bb2
+Ne7 8. Bxd4 O-O 9. c3 Ba5 10. Qg4 f6 11. Qg3 c6 12. Be2 d5 13. d3 Bb6 14.
+Be3 dxe4 15. dxe4 Bxe3 16. Qxe3 Be6 17. Nd2 Qc7 18. Nb3 Ng6 19. f4 Bf7 20.
+Rae1 Qb6 21. Nc5 Qc7 22. Bd3 b6 23. Nb3 c5 24. Bb1 Rae8 25. g4 Re7 26. Qg3
+Rd8 27. h4 Red7 28. Bc2 a5 29. g5 fxg5 30. hxg5 Bc4 31. Rf3 a4 32. Nc1 b5
+33. e5 Rd2 34. Bb1 Qc6 35. Rfe3 Nxf4 36. Be4 Nd5 37. e6 Qd6 38. Bxh7+ Kxh7
+39. g6+ Kg8 40. Qh4 Rh2 41. Qxh2 Qxh2+ 42. Kxh2 Nxe3 43. e7 Rd2+ 44. Kg1
+Bf7 45. gxf7+ Kxf7 46. Rxe3 Ke8 47. Nd3 Rxa2 48. Nf4 Ra1+ 49. Kg2 Ra2+ 50.
+Kg3 1-0
+

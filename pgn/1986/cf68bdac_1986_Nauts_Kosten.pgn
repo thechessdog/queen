@@ -1,0 +1,19 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nauts, P."]
+[Black "Kosten, Anthony C."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "cf68bdac"]
+[Epoch "Queen"]
+[BlackID "400114"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. dxc5 Ne7 6. Qg4 Nbc6 7. Nf3 O-O 8. Bd3
+Ng6 9. Qh5 Nce7 10. Bg5 Bd7 11. Bf6 gxf6 12. exf6 Nf5 13. g4 Bxc3+ 14. bxc3
+Qxf6 15. gxf5 Qxc3+ 16. Kd1 Qxa1+ 17. Kd2 Qg7 18. f6 Qxf6 19. Ng5 Qg7 20. Rg1
+0-1

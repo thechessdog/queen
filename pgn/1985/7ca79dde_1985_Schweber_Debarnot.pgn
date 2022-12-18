@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Schweber, T."]
+[Black "Debarnot, Roberto"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "7ca79dde"]
+[Epoch "Queen"]
+[BlackID "100595"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 b6 8. cxd5
+exd5 9. Bb5+ Bd7 10. Be2 c4 11. a4 O-O 12. Bf3 Be6 13. b3 cxb3 14. Qxb3 Nc6 15.
+Ba3 Re8 16. O-O Na5 1/2-1/2

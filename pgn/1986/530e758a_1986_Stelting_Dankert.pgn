@@ -1,0 +1,22 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stelting, Thorsten"]
+[Black "Dankert, Peter"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "530e758a"]
+[Epoch "Queen"]
+[WhiteID "4605616"]
+[WhiteCountry "GER"]
+[BlackID "4605357"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. c4 d6 8. Nc3
+g6 9. Be3 Bg7 10. h3 O-O 11. Rc1 b6 12. Qd2 Bb7 13. f4 Nbd7 14. b4 Rac8 15.
+Nde2 Qb8 16. g4 Rfd8 17. Ng3 d5 18. cxd5 exd5 19. Nxd5 Bxd5 20. exd5 Rxc1 21.
+Rxc1 Nxd5 22. Bxa6 Nxe3 23. Qxe3 Nc5 24. bxc5 Bd4 25. Qxd4 Rxd4 26. c6 Qxf4 27.
+Ne2 Qe3+ 28. Kf1 Rf4+ 29. Ke1 Rf2 30. Rc2 Rh2 0-1

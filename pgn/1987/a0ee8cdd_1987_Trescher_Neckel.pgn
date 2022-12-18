@@ -1,0 +1,26 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Trescher"]
+[Black "Neckel"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "a0ee8cdd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3
+Nd7 8. Qd2 Be7 9. O-O-O Nf6 10. Bd3 c6 11. Kb1 Qb6 12. c3 Nd5 13. c4 Nf6
+14. Rhe1 Nxe4 15. Rxe4 c5 16. dxc5 Qxc5 17. Bc2 O-O 18. Re5 Qc7 19. Qe3 g6
+20. Qh6 Rd8 21. Rxd8+ Bxd8 22. Rh5 f5 23. Rh3 b6 24. Nd4 Bf6 25. Nb5 Qe7
+26. Qd2 Bb7 27. f4 e5 28. Re3 e4 29. Bb3 Kg7 30. Nc3 Rd8 31. Qc1 Qd6 32.
+Ne2 Ba6 33. g4 Qd2 34. gxf5 Qxc1+ 35. Kxc1 gxf5 36. Ng3 Kg6 37. Re2 Bc8 38.
+Rg2 Kh6 39. Bd1 Bd4 40. Nf1 Be6 41. b3 Rg8 42. Rxg8 Bxg8 43. Kd2 Kg6 44.
+Ne3 Bc5 45. Nc2 a5 46. Be2 Bf7 47. h3 Bd6 48. Ke3 Kh6 49. Ne1 Bc5+ 50. Kd2
+Bb4+ 51. Kd1 Kg6 52. Ng2 Kf6 53. Ne3 Bd6 54. Ng2 Ke7 55. Kd2 Kd7 56. Kc3
+Bc5 57. Nh4 Be6 58. Bh5 Kd6 59. Ng2 Ba3 60. Kd2 Kc5 61. Ne3 Bb4+ 62. Ke2
+Kd4 63. Nc2+ Kc3 64. Nxb4 axb4 65. Be8 Kb2 66. Bc6 Kxa2 67. Bd5 Bc8 68. Kd2
+Kxb3 0-1
+

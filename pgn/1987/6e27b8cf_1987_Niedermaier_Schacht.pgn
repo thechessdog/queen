@@ -1,0 +1,22 @@
+[Event "Bundesliga 8687"]
+[Site "Germany"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Niedermaier, Hans"]
+[Black "Schacht, Holger"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "6e27b8cf"]
+[Epoch "Queen"]
+[WhiteID "4603044"]
+[BlackID "4603079"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. h4 h5 13. Bg5 Rc5 14. g4 hxg4 15.
+Bxf6 Bxf6 16. h5 g5 17. Nd5 Rxd5 18. exd5 gxf3 19. c3 Qb6 20. Rhg1 g4 21. Qf4
+a5 22. Bc2 Rc8 23. Nxf3 Nxf3 24. Qxf3 Bg5+ 25. Kb1 gxf3 26. Rxg5+ Kh8 27. h6
+Rg8 0-1

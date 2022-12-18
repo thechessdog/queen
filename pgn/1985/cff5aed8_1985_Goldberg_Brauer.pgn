@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Brauer"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "cff5aed8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 5. Bd2 Bxc3 6. bxc3 d5 7. exd5
+Nxd5 8. Nf3 O-O 9. O-O Bg4 10. h3 Bh5 11. Rb1 Nb6 12. Bb5 e4 13. Bxc6 bxc6
+14. dxe4 Bxf3 15. gxf3 Qh4 16. Kh2 f5 17. Qe2 Rae8 18. e5 Nd5 19. Rg1 Re6
+20. Rg3 Qa4 21. c4 Nb6 22. Bb4 f4 23. Rg4 Rfe8 24. Rxf4 a5 25. Bc5 Nd5 26.
+Rf5 Nc3 27. Qd3 Nxb1 28. Qd7 h6 29. Bf8 Rg6 30. Qxe8 Kh7 31. Bxg7 1-0
+

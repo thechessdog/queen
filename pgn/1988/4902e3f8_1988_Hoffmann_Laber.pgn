@@ -1,0 +1,17 @@
+[Event "Eppingen AT2"]
+[Site "Eppingen AT2"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hoffmann, D."]
+[Black "Laber, D."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "4902e3f8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. Qd3 Be7 5. O-O-O b6 6. Nf3 Ba6 7. Qd2 c5
+8. e3 c4 9. Bxf6 Bxf6 10. e4 Nd7 11. exd5 exd5 12. Nxd5 O-O 13. Nxf6+ Nxf6
+14. Ne5 Qd5 15. Be2 c3 16. Qe3 Bxe2 17. Qxe2 Qxa2 18. bxc3 Rac8 19. Kd2 Qb2
+20. Qf3 Rxc3 21. Qxc3 Ne4+ 0-1
+

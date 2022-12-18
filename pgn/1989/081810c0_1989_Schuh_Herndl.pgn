@@ -1,0 +1,29 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schuh, Franz"]
+[Black "Herndl, Harald"]
+[Result "0-1"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "081810c0"]
+[Epoch "Queen"]
+[WhiteID "1600621"]
+[BlackID "1600656"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qb3 a5 10. Na2 Be7 11. Nc3 O-O 12. Nh4 Qb6 13. Nxf5 exf5 14. Qc2 g6 15.
+Rd1 Qc7 16. Bd2 Bd6 17. g3 Rfe8 18. Bf1 h5 19. Rac1 Rac8 20. Bg2 h4 21. Qd3
+hxg3 22. hxg3 Qd8 23. e4 fxe4 24. Nxe4 Nxe4 25. Bxe4 Bf8 26. Re1 Bg7 27. Bg2
+Qb6 28. Bh3 Rxe1+ 29. Rxe1 Bxd4 30. Re7 Ne5 31. Rxe5 Rd8 32. Re3 Bxe3 33. Qxe3
+Qxe3 34. Bxe3 Rd1+ 35. Kg2 b5 36. axb5 cxb5 37. Kf3 a4 38. Ke2 Rb1 39. Bd4 b4
+40. Bg2 Rc1 41. Bd5 Rc7 42. Kd3 Kf8 43. Bb6 Rc1 44. Ba5 b3 45. Bc4 Rc2 46. Bc3
+Rxf2 47. Bb5 a3 48. Bb4+ Kg7 49. Bxa3 Rf3+ 50. Kc4 Rxg3 51. Bd6 Rh3 52. Ba4 g5
+53. Bxb3 g4 54. Bc2 g3 55. Be4 f5 56. Bf3 Kf6 57. Kd5 Kg5 58. Ke5 Rh2 59. b4
+Rf2 60. Be7+ Kg6 61. Bc6 Re2+ 62. Kd6 g2 63. Bxg2 Rxg2 64. b5 Kf7 65. Bh4 Rb2
+66. Kc6 Ke6 67. Bg3 Rc2+ 68. Kb7 Rc4 69. b6 Kd7 70. Bf2 f4 71. Ka8 Ra4+ 72. Kb7
+Ra2 73. Bd4 f3 74. Kb8 f2 0-1

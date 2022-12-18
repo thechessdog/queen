@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kunath"]
+[Black "Piersig"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "6d921e41"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8.
+gxf3 Nd7 9. Bh3 Ngf6 10. O-O-O Qa6 11. Kb1 Nb6 12. b3 Nc8 13. f5 b5 14. Bh6
+Bxh6 15. Qxh6 b4 16. fxg6 bxc3 17. gxf7+ Kxf7 18. Rhg1 Rf8 19. Bd7 1-0
+

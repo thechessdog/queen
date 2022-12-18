@@ -1,0 +1,21 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Skrobek, Ryszard"]
+[Black "Pieniazek, Artur"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "cb9ec0a1"]
+[Epoch "Queen"]
+[WhiteID "1100165"]
+[WhiteCountry "POL"]
+[BlackID "1100874"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 Na6 8. f4
+Nc5 9. e5 dxe5 10. fxe5 Nfe4 11. Nxe4 Nxe4 12. c3 Bh4+ 13. g3 Nxg3 14. hxg3
+Bxg3+ 15. Ke2 Bxe5 16. Qd3 Bxd4 17. cxd4 h6 18. Bf4 Bd7 19. Rag1 Bc6 20. Rh5
+Kf8 21. Be5 f6 22. Qg6 Rg8 23. Rf5 Be8 24. Rxf6+ 1-0

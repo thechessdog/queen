@@ -1,0 +1,19 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Cekro, E."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6798f52e"]
+[Epoch "Queen"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bh4 g6 6. e3 Bg7 7. Bd3 O-O 8. O-O
+c6 9. Re1 Re8 10. h3 Qb6 11. Rb1 e5 12. dxe5 Nxe5 13. Nxe5 Rxe5 14. Qf3 Bf5 15.
+Bg3 Be4 16. Bxe4 dxe4 17. Qe2 Ree8 18. Qc4 Rad8 19. Red1 Rxd1+ 20. Nxd1 Nd5 21.
+a3 Qb5 22. Qf1 Qc5 23. Qe2 a5 24. c4 Nb6 25. Rc1 Re7 26. Qe1 a4 27. Qb4 Qxb4
+28. axb4 Rd7 29. c5 Nc4 30. Rxc4 Rxd1+ 31. Kh2 Bxb2 32. Rxe4 Rd8 0-1

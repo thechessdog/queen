@@ -1,0 +1,20 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Buch, Carsten"]
+[Black "Jepsen, T."]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "3b9142ce"]
+[Epoch "Queen"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. O-O Nf6 6. Nc3 O-O 7. a3 d5 8.
+cxd5 Nxd5 9. Nxd5 Qxd5 10. d3 Qd7 11. Qc2 Nd4 12. Nxd4 cxd4 13. Re1 Qb5 14.
+a4 Qd7 15. b4 Rb8 16. b5 b6 17. Qc6 Qxc6 18. bxc6 Ba6 19. Ba3 Bf6 20. Rec1
+Rbc8 21. a5 bxa5 22. Rc5 Rb8 23. Rxa5 Bc8 24. Rxa7 Re8 25. h4 Rb3 26. Ra8
+Be5 27. Bh3 Bb8 28. Bxc8 Rxc8 29. Rc1 Kg7 30. Bxe7 Rc3 31. Rb1 Re8 32. Bg5
+h6 33. Bf4 Rxe2 34. Raxb8 Rxc6 35. R8b2 Rxb2 36. Rxb2 1-0
+

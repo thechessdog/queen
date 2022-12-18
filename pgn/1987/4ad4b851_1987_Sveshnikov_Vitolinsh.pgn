@@ -1,0 +1,18 @@
+[Event "Riga op"]
+[Site "Riga"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Vitolinsh, Alvis"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4ad4b851"]
+[Epoch "Queen"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O g6 10. Ng5 e6 11. Qf3 f5 12. Re1 Be7 13. Bf4 e5 14. Nf7 1-0

@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Bjerke, Richard"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "953720c1"]
+[Epoch "Queen"]
+[BlackID "1500252"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 c6 7. O-O a5 8. Qe2
+O-O 9. e4 dxe4 10. Nxe4 Qc7 11. Rfe1 h6 12. Bh4 Re8 13. Nxf6+ Bxf6 14. Bxf6
+Nxf6 15. Ne5 Kg7 16. Qf3 Qd6 17. Rad1 Be6 18. Qg3 Ng4 19. h4 h5 20. Be2 1/2-1/2

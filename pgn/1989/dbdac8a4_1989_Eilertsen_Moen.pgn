@@ -1,0 +1,20 @@
+[Event "Norway"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eilertsen, Jens B."]
+[Black "Moen, Ole Christian"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Boden defence"]
+[HashCode "dbdac8a4"]
+[Epoch "Queen"]
+[WhiteID "1500910"]
+[WhiteCountry "NOR"]
+[BlackID "1500457"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Nc6 5. d4 d6 6. Nf3 Qh6 7. b4 Nf6 8. b5
+Ne7 9. Nc3 Nh5 10. Kf2 g5 11. h4 Ng3 12. Rh2 Bg4 13. Nxg5 Bxd1 14. Bxf7+ Kd7
+15. Bxf4 Nh5 16. Ke3 Nxf4 17. Ne6 Nxe6+ 0-1

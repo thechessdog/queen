@@ -1,0 +1,26 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Klein, Thomas"]
+[Black "Neumann, Axel"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "7faa8f25"]
+[Epoch "Queen"]
+[WhiteID "4683552"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. Bd2 h6 7. O-O Rc8 8. b3 c5
+9. c3 Ne7 10. Be3 Ng6 11. Bd3 Bxd3 12. Qxd3 cxd4 13. cxd4 a6 14. Nbd2 Be7 15.
+Rfc1 O-O 16. Rc2 Rxc2 17. Qxc2 Nb6 18. a3 Qd7 19. g3 Rc8 20. Qb2 Qc7 21. Nf1
+Qc2 22. Qxc2 Rxc2 23. Rc1 Rxc1 24. Bxc1 Nd7 25. N3d2 b5 26. f4 Nb8 27. Ne3 Nc6
+28. Nc2 Nf8 29. Nf3 f5 30. Bd2 Nd7 31. h4 g6 32. Kg2 h5 33. Ng5 Bxg5 34. hxg5
+Kf7 35. Kf3 Ke8 36. Ke3 Kd8 37. Kd3 Kc7 38. Nb4 Nxb4+ 39. Bxb4 Kc6 40. a4 bxa4
+41. bxa4 Nb6 42. a5 Nc4 43. Kc3 Kb5 44. Kb3 Nxa5+ 45. Kc3 Nc4 46. Kb3 a5 47.
+Be1 a4+ 48. Ka2 Na5 49. Ka3 Nb3 50. Bf2 Kc4 51. Kxa4 Nxd4 52. Ka5 Nf3 53. Kb6
+d4 54. Kc6 d3 55. Be3 d2 56. Bxd2 Nxd2 57. Kd6 Nf1 58. Kxe6 Nxg3 59. Kf6 h4 60.
+e6 h3 61. e7 h2 62. e8=Q h1=Q 63. Qe6+ Qd5 64. Qc8+ Kd4 65. Qh8 Qd6+ 66. Kf7+
+Ke4 67. Qa8+ Kxf4 0-1

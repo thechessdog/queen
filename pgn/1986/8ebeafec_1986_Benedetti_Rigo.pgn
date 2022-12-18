@@ -1,0 +1,21 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Benedetti, Fabrizio"]
+[Black "Rigo, Janos"]
+[Result "0-1"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[HashCode "8ebeafec"]
+[Epoch "Queen"]
+[WhiteID "800961"]
+[WhiteCountry "ITA"]
+[BlackID "700371"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. c4 Nc6 6. Qd2 g6 7. b3 Bg7 8. Bb2
+Bxb2 9. Qxb2 Nf6 10. Be2 Qa5+ 11. Nbd2 O-O 12. O-O Bg4 13. Rfe1 Qc5 14. Bf1 e5
+15. a3 a5 16. Rab1 Qb6 17. h3 Be6 18. Rec1 Nd7 19. b4 axb4 20. axb4 Ra4 21. c5
+Qc7 22. b5 Nd4 23. Nxd4 Rxd4 24. b6 Qb8 25. c6 bxc6 26. Rxc6 Nc5 27. f3 Qa8 28.
+Rc7 Qa5 29. Ra7 Qxd2 30. Qxd2 Rxd2 31. b7 Nd7 0-1

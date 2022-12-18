@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Janosch"]
+[Black "Klarias"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "52d5d684"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. Qd2 Nc6 10. O-O-O a6 11. dxc5 Nxc5 12. Bd3 b5 13. Ne2 Bb7 14.
+Qe3 Rac8 15. Bxh7+ Kxh7 16. Ng5+ Kg6 17. Qg3 f6 18. f5+ 1-0
+

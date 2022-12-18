@@ -1,0 +1,31 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Arlandi, Ennio"]
+[Black "Bottema, Tom"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "ef61b120"]
+[Epoch "Queen"]
+[WhiteID "800104"]
+[WhiteCountry "ITA"]
+[BlackID "1004778"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Re8 9. Rd1 Qe7 10. e3 e5 11. d5 Nb8 12. h3 Nbd7 13. Be2 h6 14. Nd2 c5 15.
+b4 b6 16. b5 Nf8 17. Qb1 N6h7 18. Bd3 Qg5 19. g4 g6 20. Ne4 Qe7 21. Kd2 Ng5 22.
+Kc1 a6 23. a4 axb5 24. axb5 Nxe4 25. Bxe4 Ra4 26. Qb3 Qa7 27. Kb2 Bd7 28. Bc2
+Rb4 29. Bxb4 cxb4 30. Qxb4 Qc7 31. Ra1 Bc8 32. Ra8 Re7 33. f3 Bb7 34. Ra3 Nd7
+35. h4 Nc5 36. h5 g5 37. Rf1 Bc8 38. Qc3 Re8 39. Bb1 Qe7 40. Ka2 Bd7 41. Ra7
+Qf6 42. Qc1 Kg7 43. Be4 Re7 44. Ra8 Be8 45. Qc2 Bd7 46. Ra1 Re8 47. Kb1 Qe7 48.
+R1a7 Qf8 49. Rxe8 Qxe8 50. Bf5 Qc8 51. Bxd7 Nxd7 52. c5 Qxc5 53. Qxc5 Nxc5 54.
+Rc7 e4 55. f4 gxf4 56. exf4 Nd3 57. Rd7 e3 58. Re7 Nxf4 59. Rxe3 Nxd5 60. Rf3
+Nc7 61. Rf5 d5 62. Kc2 Nxb5 63. Rxd5 Nc7 64. Rd6 Ne6 65. Kd3 Kf6 66. Ke4 Kg5
+67. Kf3 b5 68. Kg3 b4 69. Rd5+ Kf6 70. Rb5 b3 71. Rxb3 Nd4 72. Rd3 Ne6 73. Rd5
+Kg7 74. Kf3 Nf8 75. Ke4 Nh7 76. Ke5 Nf6 77. Rd4 Ng8 78. Rf4 Kf8 79. Kd6 Kg7 80.
+Rf5 Kf8 81. Kd7 Ne7 82. Ra5 Ng8 83. Ra6 f5 84. gxf5 Kf7 85. Rg6 Nf6+ 86. Kd6
+Nxh5 87. Ke5 Ng7 88. Rxh6 Ne8 89. Rh7+ Kg8 90. Re7 1-0

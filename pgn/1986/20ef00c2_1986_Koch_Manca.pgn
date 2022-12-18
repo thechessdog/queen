@@ -1,0 +1,22 @@
+[Event "Groningen ech-jr"]
+[Site "Groningen ech-jr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koch, Jean-Rene"]
+[Black "Manca, Federico"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "20ef00c2"]
+[Epoch "Queen"]
+[BlackID "800171"]
+[BlackCountry "ITA"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. a4 Nd7 15.
+Bb1 Rac8 16. axb5 axb5 17. Nf1 Nc4 18. b3 Ncb6 19. Bb2 d5 20. dxe5 dxe4 21.
+Bxe4 Nc5 22. Bxb7 Qxb7 23. Nd4 Rfd8 24. Qg4 Bf8 25. Rad1 Nd5 26. Ng3 b4 27.
+Ndf5 Nc3 28. Rxd8 Rxd8 29. Nh5 Ne6 30. Bc1 Kh8 31. Bg5 Rc8 32. Bf6 gxf6 33.
+Nxf6 Bc5 34. Qh4 Bxf2+ 35. Kxf2 Qb6+ 36. Re3 Nf8 37. Qh6 1-0

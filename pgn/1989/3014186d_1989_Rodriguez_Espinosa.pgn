@@ -1,0 +1,23 @@
+[Event "CUB-ch"]
+[Site "Cuba"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Espinosa, Julio"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "3014186d"]
+[Epoch "Queen"]
+[BlackID "3500349"]
+[BlackCountry "FID"]
+[WhiteID "3500039"]
+[WhiteCountry "ESP"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Qb6 6. Bc4 Nd7 7. Bb3 Nh6 8. h3 d5
+9. exd5 Nf5 10. dxc6 bxc6 11. Ne2 h5 12. c4 e6 13. c5 Qc7 14. Qd3 h4 15. Bd2
+O-O 16. Bc4 a5 17. O-O Nf6 18. Ne5 Rd8 19. Rad1 Rd5 20. Be1 Bb7 21. Bf2 Rdd8
+22. Nf3 Nd5 23. Nxh4 Nxf4 24. Nxf4 Qxf4 25. Nxf5 gxf5 26. Be3 Qh4 27. Rf4 Qh8
+28. Bf2 Bh6 29. Rf3 Rd7 30. g4 f4 31. h4 e5 32. g5 Bg7 33. Qf5 Qh5 34. Qxd7
+Qxf3 35. Rd3 Qh5 36. Qxb7 Rf8 37. Qxc6 Qg4+ 38. Qg2 Qh5 39. dxe5 1-0

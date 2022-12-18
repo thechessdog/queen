@@ -1,0 +1,23 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Weindl"]
+[Black "Marinelli"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "626de19f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. c4 Ngf6 6. Nc3 g6 7. O-O
+Bg7 8. d4 cxd4 9. Nxd4 O-O 10. b3 Nc5 11. Re1 Rc8 12. Bb2 Qb6 13. Qd2 e6
+14. Rad1 Rfd8 15. Kh1 d5 16. cxd5 exd5 17. e5 Nfe4 18. Qe3 Bxe5 19. Nxe4
+dxe4 20. b4 Qxb4 21. Nc6 Qxb2 22. Nxd8 Nd3 23. Re2 Qb4 24. Kg1 Qa4 25. Rf1
+Rxd8 26. Qxe4 Qxe4 27. Rxe4 f6 28. Rd1 Rd6 29. Ra4 a6 30. Rc4 Nc5 31. Rdc1
+b6 32. f4 Bd4+ 33. Kf1 Ne4 34. Ke2 f5 35. Rc8+ Kg7 36. R1c7+ Kh6 37. Rf7
+Nf6 38. Rcc7 Re6+ 39. Kf3 Re3+ 40. Kf2 Ne4+ 41. Kf1 Kh5 42. Rcd7 Bc3 43.
+Rxh7+ Kg4 44. Rd1 Kxf4 45. Rb7 Ba5 46. Rbd7 Ra3 47. Rg7 g5 48. Re7 Rxa2 49.
+Rd3 Ra1+ 0-1
+

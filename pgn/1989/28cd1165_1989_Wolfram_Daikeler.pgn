@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wolfram"]
+[Black "Daikeler"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "28cd1165"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5 5. Bc4 Bb4 6. Qd5 Qe7 7. Nf3 Nc6
+8. O-O h6 9. Nb5 Ba5 10. Nd6+ Kf8 11. Nxf7 Rh7 12. N7xe5 Nxe5 13. Qxg8# 1-0
+

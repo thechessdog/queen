@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Vladimirov, Yevgeniy"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "eba59f8b"]
+[Epoch "Queen"]
+[BlackCountry "KAZ"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Qh5 h6 11. g4 Nbc6 12. g5 g6 13. Qh4 Nf5 14. Bxf5 Rxf5 15.
+Qxh6 Ne7 16. Ne2 Rf7 17. Qh3 e5 18. Qg2 Bf5 19. f3 Nc6 20. dxe5 Nxe5 21. O-O
+Bxc2 22. Nf4 Bd3 23. Re1 Qd6 24. Bd2 c4 25. Be3 Raf8 26. Qg3 Rf5 27. Kg2 Nxf3
+28. Kxf3 Qe5 29. Kf2 Be4 30. Re2 Rxg5 31. Qh4 Rg2+ 32. Kf1 g5 33. Qh5 Rxf4+ 34.
+Rf2 0-1

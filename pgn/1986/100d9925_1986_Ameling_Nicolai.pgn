@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ameling"]
+[Black "Nicolai"]
+[Result "0-1"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "100d9925"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. O-O Be7
+8. Bb3 a6 9. Be3 Qc7 10. f4 Na5 11. f5 e5 12. Nf3 Nc4 13. Bxc4 Qxc4 14. Qd3
+Qxd3 15. cxd3 b5 16. Bg5 Bb7 17. d4 exd4 18. Nxd4 h6 19. Bh4 O-O 20. a3
+Rfe8 21. Rf4 Bd8 22. Re1 Rc8 0-1
+

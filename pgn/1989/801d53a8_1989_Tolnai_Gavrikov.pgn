@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tolnai, Tibor"]
+[Black "Gavrikov, Viktor"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "801d53a8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. Bg2 d5 10. Bg5 gxf5 11. Nxd5 Be7 12. Bxf6 Bxf6 13. exf5 h5 14. h3 Bd7 15.
+Qe2 hxg4 16. hxg4 Rxh1+ 17. Bxh1 Bc6 18. O-O-O Bxd5 19. Bxd5 Bg5+ 1/2-1/2

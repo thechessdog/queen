@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Szacko"]
+[Black "Roloff"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "e6eb6c90"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Be3 Na6 7. Nc3 Bc5
+8. Qd2 d6 9. Nf3 Qe7 10. O-O-O Bg4 11. Nd5 Qd7 12. Be2 O-O-O 13. h3 Be6 14.
+Nd4 Nxd4 15. Bxd4 f5 16. exf5 Bxf5 17. Ne3 Nb4 18. Nxf5 Qxf5 19. Qxb4 Bxb4
+20. Bg4 Rhf8 1/2-1/2
+

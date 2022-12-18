@@ -1,0 +1,19 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Polgar, Susan"]
+[Black "Garcia Palermo, Carlos"]
+[Result "1/2-1/2"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "986b8dee"]
+[Epoch "Queen"]
+[BlackID "110124"]
+[WhiteCountry "USA"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 e6 5. Bxc4 a6 6. a4 Nc6 7. O-O Be7 8. Qe2
+cxd4 9. Rd1 Nf6 10. exd4 O-O 11. Nc3 Nd5 12. Qe4 Ncb4 13. Ne5 Qd6 14. Qg4 f5
+15. Qf3 Bf6 16. Nxd5 Nxd5 17. Bxd5 Qxd5 18. Qxd5 1/2-1/2

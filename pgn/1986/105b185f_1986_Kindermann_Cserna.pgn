@@ -1,0 +1,24 @@
+[Event "Wolfsberg"]
+[Site "Wolfsberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Cserna, Laszlo"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "105b185f"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Be7 8. O-O
+Qc7 9. Kh1 O-O 10. a4 Nc6 11. Be3 Rd8 12. Bd3 Nxd4 13. Bxd4 e5 14. Bg1 exf4 15.
+a5 Re8 16. Rxf4 Be6 17. Bd4 Nd7 18. Nd5 Bxd5 19. exd5 g6 20. Qf3 Rf8 21. Rf1
+Ne5 22. Bxe5 dxe5 23. Rxf7 Qd6 24. c3 Rae8 25. g3 Bd8 26. b4 Be7 27. Rxf8+ Rxf8
+28. Qe4 Rxf1+ 29. Bxf1 Qf6 30. Kg2 Bd6 31. h4 Kg7 32. Bd3 Qf7 33. Qc4 Qd7 34.
+Be4 Qg4 35. Qd3 Kf6 36. Qf3+ Qxf3+ 37. Kxf3 h6 38. Ke2 g5 39. Kd3 gxh4 40. gxh4
+Ke7 41. Kc2 Kd7 42. Kb3 Kc7 43. c4 Be7 44. h5 Bh4 45. c5 Bg5 46. d6+ Kc8 47. b5
+Bd2 48. Ka4 Be3 49. Kb4 Bd2+ 50. Ka4 Be3 51. bxa6 Bxc5 52. axb7+ Kb8 53. d7 1-0

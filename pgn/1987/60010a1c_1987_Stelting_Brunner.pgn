@@ -1,0 +1,23 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stelting, Thorsten"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "60010a1c"]
+[Epoch "Queen"]
+[WhiteID "4605616"]
+[WhiteCountry "GER"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8. h5
+Qa5 9. Bd2 cxd4 10. cxd4 Qa4 11. c3 Qxd1+ 12. Kxd1 h6 13. Bd3 Bd7 14. Nf3 Na5
+15. Ke2 Ba4 16. g4 Bb3 17. Nh4 Bc4 18. f4 Kd7 19. f5 Bxd3+ 20. Kxd3 Nc4 21. Bc1
+Nc6 22. Ra2 N6a5 23. Rf2 Nb3 24. fxe6+ Kxe6 25. Ng2 Ke7 26. Nf4 Nb6 27. a4
+Nxc1+ 28. Rxc1 Rhd8 29. a5 Nc8 30. Rb1 Rd7 31. Rb5 a6 32. Rxd5 Rc7 33. e6 f6
+34. Re2 Na7 35. Ng6+ Ke8 36. g5 hxg5 37. Rh2 Rc6 38. h6 1-0

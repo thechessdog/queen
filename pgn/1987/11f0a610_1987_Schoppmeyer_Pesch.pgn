@@ -1,0 +1,17 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schoppmeyer, M."]
+[Black "Pesch, Werner"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "11f0a610"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. h4 Nb6 10. f4 O-O 11. Qh5 d5 12. O-O-O Re8 13. e5 Bd7 14. Bd3 g6 15. Qf3
+Nb4 16. h5 Nxd3+ 17. cxd3 Bf8 18. Qh3 Re7 19. Nf3 Rc8 20. Nh2 Na4 21. Ng4 Qa5
+22. hxg6 Bg7 23. Qxh7+ Kf8 24. Nf6 1-0

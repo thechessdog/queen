@@ -1,0 +1,25 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shabanov, Yuri"]
+[Black "Karasev, Vladimir I"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "a6810508"]
+[Epoch "Queen"]
+[BlackID "4103971"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O e6 5. c3 Ne7 6. d4 cxd4 7. cxd4 a6 8. Ba4
+d5 9. e5 Nf5 10. Nc3 Qb6 11. Qd3 Bd7 12. Rd1 Be7 13. a3 h5 14. b4 f6 15. Bf4
+O-O 16. Bb3 g5 17. exf6 Bxf6 18. Bxg5 Bxg5 19. Nxg5 Ncxd4 20. Qh3 Nxb3 21. Qxh5
+Qxf2+ 22. Kxf2 Ng7+ 23. Qf3 Nxa1 24. Rxa1 Rac8 25. Rc1 d4 26. Ne2 Bc6 27. Ne4
+Rxf3+ 28. gxf3 Rf8 29. Nd2 Nf5 30. Nf4 Kf7 31. Nd3 Rh8 32. Rh1 Bb5 33. Ne5+ Kf6
+34. f4 Rc8 35. Ne4+ Ke7 36. Rd1 Rc2+ 37. Rd2 Rc1 38. Ng3 Ra1 39. Nxf5+ exf5 40.
+Rxd4 Rxa3 41. h4 Ke6 42. Nf3 Bc6 43. Ng5+ Ke7 44. Rd2 Ra1 45. Re2+ Kd7 46. Re6
+Rb1 47. h5 Rxb4 48. Ke3 Rb2 49. h6 Rh2 50. Rg6 a5 51. h7 Bd5 52. Kd4 Ba2 53.
+Rg7+ Kc6 54. Rg8 b5 55. h8=Q Rxh8 56. Rxh8 b4 57. Nf3 a4 58. Ne5+ Kc7 1-0

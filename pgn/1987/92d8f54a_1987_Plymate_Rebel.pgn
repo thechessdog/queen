@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Plymate 5 5"]
+[Black "Rebel"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "92d8f54a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 Nh5 8. Bd3
+Bxc3+ 9. bxc3 f5 10. exf5 Bxf5 11. Bxf5 gxf5 12. Rb1 b6 13. O-O Qd7 14. Ng5
+Ng7 15. Re1 Na6 16. Qf3 Rf6 17. Bb2 Re8 18. Qh3 h6 19. Ne4 Rg6 20. Nd2 Nc7
+21. Qf3 e5 22. fxe5 dxe5 23. Qh3 Qd6 24. Nf1 e4 25. Ng3 Rf6 26. Rf1 f4 27.
+Qh4 e3 28. Nh5 Nxh5 29. Qxh5 Rff8 30. Rbe1 Kh8 31. a3 a6 32. Qf3 Rf6 33.
+Re2 Ref8 34. Kh1 Rf5 35. Ree1 Kg8 36. Qh3 Qg6 37. a4 Ne8 38. Qf3 Nd6 39.
+Bc1 Qg7 40. Re2 Qxc3 41. Qg4+ Qg7 42. Qxg7+ Kxg7 43. Rc2 Re8 44. Bb2+ Kg6
+45. Rfc1 Re4 46. Kg1 e2 47. Re1 Nxc4 48. Rexe2 Rxe2 49. Rxe2 Rxd5 50. Bh8
+b5 51. axb5 Rd1+ 52. Kf2 axb5 53. Re6+ Kh7 54. Be5 Nxe5 55. Rxe5 Rc1 56.
+Re4 b4 57. Rxf4 b3 58. Rf7+ Kg6 59. Rb7 c4 60. Ke3 Rc2 61. Rb6+ Kg5 62. Kf3
+Rd2 63. h4+ Kxh4 64. Rc6 Rd3+ 65. Kf2 c3 66. Rxh6+ Kg4 67. Rg6+ Kf5 68. Rh6
+b2 69. Rh5+ Kg4 70. Rb5 c2 71. Rb4+ Kf5 72. Rb5+ Ke4 73. Rb4+ Kd5 74. Rb5+
+Kc4 75. Re5 c1=Q 0-1
+

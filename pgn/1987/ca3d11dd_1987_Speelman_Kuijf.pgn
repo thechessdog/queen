@@ -1,0 +1,20 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Speelman, Jon S"]
+[Black "Kuijf, Marinus"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "ca3d11dd"]
+[Epoch "Queen"]
+[BlackID "1000110"]
+[BlackCountry "NED"]
+[WhiteCountry "ENG"]
+
+1. c4 c6 2. e4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bb5+ Nbd7 6. Nc3 a6 7. Qa4 g6 8.
+Nf3 Bg7 9. O-O O-O 10. Bxd7 Bxd7 11. Qb3 b5 12. d4 Qa5 13. Ne5 Rac8 14. Bg5
+Rfd8 15. d6 Be6 16. d5 Nxd5 17. Nxd5 Bxe5 18. Nxe7+ Kg7 19. Qe3 Bxb2 20. Nxc8
+Rxc8 21. Rad1 Re8 22. d7 1-0

@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Daum"]
+[Black "Emmerich, Frank"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b9845bf3"]
+[Epoch "Queen"]
+[BlackID "1271269"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Qb6 8. O-O
+cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nf3 Qb6 12. Qa4 Qa5 13. Qc2 Nc5 14. Bd2 Qa4
+15. b3 Qa3 16. Rac1 Nxd3 17. Qxd3 Qa6 18. Qd4 Qb6 19. Qg4 Bd7 20. Ng5 h6 21.
+Nh3 g6 22. Nf4 Be7 23. Rc2 Rd8 24. Rfc1 Qd4 25. Bc3 Qe4 26. Re2 Qf5 27. Qg3 Bb5
+28. Rd2 h5 29. a4 h4 30. Qe3 Bc6 31. Ba5 Bg5 32. Rd4 Rc8 33. Bb4 Kd7 34. h3 f6
+35. Bd6 b6 36. a5 Bb7 37. Ra1 Rc6 38. axb6 a6 39. Ra5 Qb1+ 40. Kh2 Rc1 41. g4
+hxg3+ 42. Kxg3 Rg1+ 43. Kf3 Rxh3+ 44. Nxh3 Bxe3 45. fxe3 Qf1+ 46. Nf2 Rg2 47.
+Ra2 f5 48. Rc2 g5 0-1

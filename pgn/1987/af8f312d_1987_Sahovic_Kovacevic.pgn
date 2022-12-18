@@ -1,0 +1,19 @@
+[Event "Pinerola"]
+[Site "Pinerola"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sahovic"]
+[Black "Kovacevic, Vlatko"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "af8f312d"]
+[Epoch "Queen"]
+[BlackID "14500078"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bf4
+a6 9. a4 Bg4 10. Be2 Bxf3 11. Bxf3 O-O 12. O-O Qe7 13. Re1 Nbd7 14. Qd2 Rab8
+15. Be2 Rfc8 16. a5 c4 17. Ra4 Nc5 18. Rxc4 Nb3 19. Rxc8+ Rxc8 20. Qe3 Nxa5 21.
+Qb6 Nxe4 22. Bd3 Nc4 23. Qb3 Bxc3 24. Rxe4 Na5 25. Rxe7 Nxb3 26. bxc3 1-0

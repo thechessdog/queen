@@ -1,0 +1,21 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Miles"]
+[Black "Deep Thought"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "169ad2bf"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. Nc3 e5 5. Nf3 exd4 6. Qxd4 Bd6 7. Bxc4 O-O
+8. Bg5 Nc6 9. Qd2 h6 10. Bh4 Bg4 11. O-O-O Bxf3 12. gxf3 Nxe4 13. Bxd8 Nxd2
+14. Bxc7 Bxh2 15. Bxh2 Nxc4 16. Rd7 b6 17. f4 Rad8 18. Rhd1 Rfe8 19. b3
+Rxd7 20. Rxd7 Re1+ 21. Nd1 N4a5 22. Kd2 Rh1 23. Bg3 h5 24. f5 h4 25. Bf4
+Nb4 26. a3 Nbc6 27. Rd3 Nd4 28. b4 Nac6 29. f6 gxf6 30. Nc3 Ne6 31. Nd5 Kg7
+32. Bd6 Ng5 33. Ke2 h3 34. Rd1 Rxd1 35. Kxd1 Ne5 36. Ne3 h2 37. Nf5+ Kg6
+38. Ng3 Ne4 0-1
+

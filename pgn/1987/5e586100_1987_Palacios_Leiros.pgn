@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Palacios"]
+[Black "Leiros Vila"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "5e586100"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 e5 11. Nf5 Bxf5 12. exf5 exf4 13. Kb1 d5 14.
+Qxf4 d4 15. Bxf6 Bxf6 16. Ne4 Be5 17. Qf3 Rc8 18. a3 Na5 19. Bd3 Nc4 20.
+Bxc4 Rxc4 21. Qd3 Qc7 22. g4 Rc8 23. Rd2 a5 24. g5 hxg5 25. Nxg5 Bf4 26.
+Rg2 Bxg5 27. Rxg5 Rxc2 28. Qxd4 Rc1+ 29. Ka2 f6 30. Rxc1 Qxc1 31. Qd5+ Kf8
+32. Rh5 Qc4+ 33. Qxc4 Rxc4 34. Rh8+ Ke7 35. Rb8 Rc7 36. Kb3 Kd6 37. Ka4 Ke5
+38. Kxa5 Kxf5 39. Kb6 Rc2 40. b4 Rxh2 41. a4 Rh4 42. Kb5 g5 43. Rxb7 g4 44.
+Rg7 Kf4 45. a5 Rh5+ 46. Kc4 Rg5 47. Rxg5 0-1
+

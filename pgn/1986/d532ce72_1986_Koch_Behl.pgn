@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koch, H."]
+[Black "Behl, W."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "d532ce72"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. Nf4 Bd6 9. O-O Nd5 10. Nxd5 cxd5 11. Bd3 Nc6 12. c3 Qc7 13. f4 Bxd3 14.
+Qxd3 Ne7 15. Bd2 O-O 16. Rf3 b5 17. b3 a6 18. a4 b4 19. cxb4 Rfb8 20. Rc1
+Qd7 21. Rc5 Bxc5 22. dxc5 Qb7 23. Bc3 Nc6 24. Nh5 d4 25. Bd2 f5 26. Qc4 Qf7
+27. Ng3 g6 28. b5 axb5 29. axb5 Na7 30. b6 Nc6 31. b4 e5 32. Qxf7+ Kxf7 33.
+fxe5 Ra2 34. Rd3 Rb2 35. Ne2 Rd8 0-1
+

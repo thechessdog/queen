@@ -1,0 +1,21 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Petersen, B."]
+[Black "Gasseholm, F."]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "1180cec7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 O-O 8.
+Ng3 d6 9. Be2 c6 10. e4 cxd5 11. cxd5 exd5 12. exd5 Re8 13. O-O Nbd7 14.
+Nf5 Bf8 15. Bg5 h6 16. Bf4 Ne5 17. Bb5 Nfd7 18. Re1 a6 19. Ba4 b5 20. Bc2
+Qf6 21. Be3 Ng6 22. f4 Rac8 23. Bd4 Rxe1+ 24. Qxe1 Qd8 25. Qg3 Nf6 26. Re1
+Nh5 27. Qg4 Nhxf4 28. g3 Qg5 29. Qd1 Nxd5 30. Ne4 Qxf5 31. Nf6+ Qxf6 32.
+Bxf6 Nxf6 33. Bxg6 fxg6 34. Qd3 Rc4 35. Qe3 Be4 36. Rc1 Ng4 37. Qd2 Ne5 38.
+Kf1 d5 39. Rxc4 Nxc4 0-1
+

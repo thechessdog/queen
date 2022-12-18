@@ -1,0 +1,19 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "George"]
+[Black "Evans"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "b2c01996"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
+8. Qb3 Bxf3 9. gxf3 e5 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 13. Qxb5
+Nxc3 14. bxc3 Qd7 15. Rb1 Qxb5 16. Rxb5 Kd6 17. Rb7 f6 18. Ke2 Kc6 19. Rf7
+a5 20. Be3 Bd6 21. Kd3 Rhd8 22. Kc2 Rd7 23. Rxd7 Kxd7 24. h4 g6 25. f4 Rb8
+26. h5 Kc6 27. hxg6 hxg6 28. Rg1 Rg8 29. Rb1 Rb8 30. Rg1 1/2-1/2
+

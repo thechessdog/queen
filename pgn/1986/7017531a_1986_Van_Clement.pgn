@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van der Broeck"]
+[Black "Clement"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "7017531a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+e4 O-O 9. Be2 Re8 10. O-O Nbd7 11. f4 c4 12. Kh1 Nc5 13. e5 dxe5 14. fxe5
+Rxe5 15. Nxc4 Rf5 16. Bf4 Nxd5 17. Ne3 Be6 18. Nxf5 gxf5 19. Nxd5 Bxd5 20.
+Be3 Ne6 21. Rxf5 Be4 22. Qxd8+ Rxd8 23. Rb5 1-0
+

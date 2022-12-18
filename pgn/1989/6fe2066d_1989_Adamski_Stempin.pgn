@@ -1,0 +1,24 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Adamski, Andrzej"]
+[Black "Stempin, Pawel"]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "6fe2066d"]
+[Epoch "Queen"]
+[WhiteID "1101439"]
+[WhiteCountry "POL"]
+[BlackID "1100068"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Bd6 12. Rfe1 h6 13. Bxf6 Qxf6 14.
+Qxf6 gxf6 15. Ne2 Be5 16. Rab1 Rb8 17. b4 Be6 18. c3 Rfc8 19. f4 Bd6 20. g3 c5
+21. bxc5 Bxc5+ 22. Kg2 Rxb1 23. Rxb1 Bb6 24. a4 Bd7 25. a5 Bxa5 26. Rb7 Rc7 27.
+Rxc7 Bxc7 28. Kf2 Bb6+ 29. Ke1 Kf8 30. Nd4 a5 31. Kd2 Ke7 32. h4 Kd6 33. h5
+Bxd4 34. cxd4 Bg4 35. Bc2 Bxh5 36. Ba4 Bg4 37. Ke3 Bf5 38. Kf3 Bd7 39. Bc2 Kc6
+40. f5 Kb5 41. Kg4 Kb4 42. Kh5 Kc3 0-1

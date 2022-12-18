@@ -1,0 +1,19 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Rewitz, Poul"]
+[Black "Fries-Nielsen, Niels Jorgen"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "d4d1f429"]
+[Epoch "Queen"]
+[WhiteID "1401033"]
+[WhiteCountry "DEN"]
+[BlackID "1400142"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Bh6 7. Kf2 cxd4 8.
+exd4 e5 9. Nc3 Nc6 10. Qh5 Be3+ 11. Kxe3 exd4+ 12. Kd2 dxc3+ 13. bxc3 d6 14.
+Nf3 Be6 15. Qxh4 1/2-1/2

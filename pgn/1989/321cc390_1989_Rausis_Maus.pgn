@@ -1,0 +1,21 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rausis, Igors"]
+[Black "Maus, Soenke"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "321cc390"]
+[Epoch "Queen"]
+[WhiteID "11600098"]
+[WhiteCountry "CZE"]
+[BlackID "4600240"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. dxc5 Qxd1+ 7. Kxd1 e5 8.
+b4 Bf5 9. Bb5 O-O-O+ 10. Ke1 Nd5 11. Bd2 Be7 12. Bxc6 bxc6 13. Nxe5 Rhe8 14.
+Nxc6 Bf6+ 15. Be3 Nxe3 16. fxe3 Rxe3+ 17. Kf2 Rde8 18. Rd1 Bh4+ 19. g3 Re2+ 20.
+Kg1 Bg5 0-1

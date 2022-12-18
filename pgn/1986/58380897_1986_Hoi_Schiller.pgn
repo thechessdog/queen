@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Schiller, Eric"]
+[Result "1-0"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "58380897"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nf6 4. Bd3 Nbd7 5. O-O c6 6. Nbd2 Bd6 7. Qe2 Qc7 8. e4
+dxe4 9. Nxe4 Nxe4 10. Qxe4 Nf6 11. Qh4 Bd7 12. Re1 Qa5 13. Bg5 Be7 14. Ne5 h6
+15. Qh3 Rf8 16. Be3 O-O-O 17. c4 Be8 18. a3 Bd6 19. b4 Qc7 20. f4 g5 21. Qxh6
+gxf4 22. Bxf4 Nd7 23. c5 Bxe5 24. Rxe5 f6 25. Rxe6 Ne5 26. dxe5 Qf7 27. Bc4 1-0

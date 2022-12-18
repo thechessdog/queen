@@ -1,0 +1,20 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maus, Soenke"]
+[Black "Gradstein, Mark"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "7cf407c3"]
+[Epoch "Queen"]
+[WhiteID "4600240"]
+[WhiteCountry "GER"]
+[BlackID "2800934"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bd3
+Be7 9. O-O O-O 10. a4 Re8 11. Kh1 h6 12. Bc4 Qc7 13. Ba2 exf4 14. Nd4 Ne5 15.
+Rxf4 Bg4 16. Qf1 Bf8 17. Rxf6 gxf6 18. Nd5 Qc5 19. Be3 Bg7 20. Nf5 1-0

@@ -1,0 +1,23 @@
+[Event "Lyngby op"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Stempin, Pawel"]
+[Black "Rausis, Igors"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "80cd0c1f"]
+[Epoch "Queen"]
+[BlackID "11600098"]
+[BlackCountry "CZE"]
+[WhiteID "1100068"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Qa4+ c6 5. Rxb1 Qxd5 6. Nf3 Nd7 7. a3 Ngf6
+8. e3 Qe4 9. Ra1 e5 10. Bd2 Nc5 11. Qd1 exd4 12. Nxd4 O-O-O 13. f3 Qe5 14. Qe2
+Na4 15. b4 c5 16. Rc1 Kb8 17. Nb3 cxb4 18. axb4 Qb2 19. Qc4 Bd6 20. Qc2 Qxc2
+21. Rxc2 Rc8 22. Bd3 Nd5 23. b5 Nb4 24. Rxc8+ Rxc8 25. Bf5 Rc7 26. Bxh7 g6 27.
+h4 Rc2 28. Bg8 Bg3+ 29. Kd1 Nb2+ 30. Ke2 Na2 31. Bxf7 Nc3+ 32. Kf1 Nbd1 33. h5
+Rxd2 34. hxg6 Nxe3+ 0-1

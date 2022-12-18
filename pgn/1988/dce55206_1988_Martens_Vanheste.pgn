@@ -1,0 +1,28 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1988.07.01"]
+[Round "1"]
+[White "Martens, Martin"]
+[Black "Vanheste, Jeroen"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "dce55206"]
+[Epoch "Queen"]
+[WhiteID "1000683"]
+[WhiteCountry "NED"]
+[BlackID "1000438"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qc7 10. Re1 Nc6 11. Nxc6 Qxc6 12. Bg5 O-O 13. Nd5 exd5 14. Bxd5 Nxd5
+15. exd5 Qxc2 16. Bxe7 Re8 17. Bxd6 Bb7 18. Be5 f6 19. Bc3 Rad8 20. Qg4 Qg6 21.
+Rxe8+ Rxe8 22. Qxg6 hxg6 23. Rd1 Kf7 24. f3 Ke7 25. Kf2 Kd6 26. Bb4+ Kd7 27.
+Rd2 Re5 28. d6 g5 29. a3 Bc6 30. h3 Re6 31. Rd4 Re5 32. h4 gxh4 33. Rxh4 a5 34.
+Bxa5 Kxd6 35. Rh7 Rg5 36. Bd2 Rg6 37. Rh8 f5 38. Bc3 Ke6 39. Rc8 Bd7 40. Rc7
+Kd6 41. Ra7 Rg5 42. f4 Rg6 43. Bb4+ Ke6 44. g3 Rh6 45. g4 Bc6 46. Re7+ Kd5 47.
+g5 Rh4 48. Re5+ Kd4 49. Bc3+ Kd3 50. Re3+ Kc4 51. b3+ Kxb3 52. Bxg7+ Kc4 53.
+Rc3+ Kd5 54. Be5 Rg4 55. Rd3+ Kc4 56. Rd6 Bd5 57. g6 Rg2+ 58. Kf1 Rg4 59. g7
+Rg3 60. Rd8 Rg4 61. Rd7 Rg3 62. Bf6 Rg6 63. Be5 Rg4 64. Rc7+ Kd3 65. Rc5 Bc4
+66. Kf2 Rg6 67. Rc8 Rg4 68. Rc6 Bg8 69. Rc3+ Kd2 70. Rc5 1-0

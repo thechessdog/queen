@@ -1,0 +1,17 @@
+[Event "C-JEM-SJRP"]
+[Site "C-JEM-SJRP"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Diesterweg, Ulli"]
+[Black "Schmidt, A."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "f852f844"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. c3 Bg4 6. Bd3 Nc6 7. O-O g6 8. Be3
+Bg7 9. Nbd2 O-O 10. h3 Bxf3 11. Nxf3 e6 12. Bg5 Qc7 13. Re1 Rfe8 14. Qd2 Qe7
+15. Ne5 Qf8 16. g4 h6 17. Bf4 g5 18. Bg3 Nxe5 19. Bxe5 Nd7 20. Bc7 Rec8 21. Bg3
+Nb6 22. Re2 Nc4 0-1

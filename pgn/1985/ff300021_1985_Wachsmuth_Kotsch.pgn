@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wachsmuth"]
+[Black "Kotsch"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "ff300021"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Qg4 f5 10. Qh5+ g6 11. Qh6 Nf8 12. Nf4 c6 13. O-O-O Nbd7 14.
+a3 Nb6 15. Nd3 Bd7 16. Nc5 O-O-O 17. Rh3 Kb8 18. Bd3 Bc8 19. Nb3 Nbd7 20.
+Kb1 c5 21. Nxc5 Nxc5 22. dxc5 Nd7 23. b4 Nxe5 24. Qf4 Qg7 25. Re1 d4 26.
+Nb5 a6 27. Nxd4 g5 28. Nxf5 gxf4 29. Nxg7 Nxd3 30. Rxd3 Rxd3 31. cxd3 h5
+32. Re4 Bd7 33. Rxf4 h4 34. Rf7 Bc6 35. f3 Bd5 36. Rf6 Rg8 37. Nxe6 Rxg2
+38. Rf8+ Ka7 39. Nc7 Rg8 40. Rf4 Rh8 41. Rxh4 Rxh4 42. Nxd5 Rd4 43. Nc3
+Rxd3 44. Kc2 Rxf3 45. a4 Kb8 46. Ne2 a5 47. bxa5 Kc7 48. Nd4 Rh3 49. Kd2
+Kd7 50. Kc2 Ra3 51. a6 bxa6 52. c6+ Kd6 0-1
+

@@ -1,0 +1,23 @@
+[Event "Perenyi mem-B"]
+[Site "Budapest"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Horvath, Csaba"]
+[Black "Kiss, Attila"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "b0f8503b"]
+[Epoch "Queen"]
+[WhiteID "700118"]
+[BlackID "700630"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 a6 10. Bxf6 gxf6 11. Qh6 Kh8 12. Qh5 Qe8 13. f4 Rg8 14. g4 b5
+15. Bd3 Rg7 16. h4 b4 17. Na4 Rb8 18. g5 e5 19. Rdg1 Qg8 20. Qf3 exf4 21. Qxf4
+Ne5 22. Qf2 fxg5 23. hxg5 Qd8 24. Nd4 Bd7 25. b3 Bxa4 26. bxa4 Qb6 27. Rh2 d5
+28. Rgh1 Nxd3+ 29. cxd3 dxe4 30. Rxh7+ Rxh7 31. Rxh7+ Kxh7 32. Qxf7+ Kh8 33. g6
+Qc7+ 34. Kb1 1-0

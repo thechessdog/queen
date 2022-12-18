@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thiel"]
+[Black "Piekarz"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "f99dea7a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 c5 6. dxc5 O-O 7. Qg4 Nbc6 8.
+O-O-O f5 9. Qg3 Bxc5 10. Nf3 Ng6 11. Bd3 a6 12. h4 Qc7 13. Rde1 d4 14. Nb1
+b5 15. a3 Rb8 16. b4 Ba7 17. h5 Nge7 18. Qh3 a5 19. Kb2 axb4 20. axb4 Nd5
+21. Kb3 Ra8 22. Na3 Ncxb4 23. Bxb4 Nxb4 24. Nxb5 Qc6 25. Nfxd4 Bxd4 26.
+Kxb4 Qc5+ 27. Kb3 Ra3+ 0-1
+

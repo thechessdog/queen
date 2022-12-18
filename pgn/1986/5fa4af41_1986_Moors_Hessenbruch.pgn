@@ -1,0 +1,25 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Moors, Hans"]
+[Black "Hessenbruch, Arne"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "5fa4af41"]
+[Epoch "Queen"]
+[BlackID "4000129"]
+[BlackCountry "LUX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 Rb8 11. Bc4 h6 12. h3 Nh7 13. Qe2 Ng5 14. Nxg5 Bxg5 15. Kh1
+bxc3 16. dxc3 Bxc1 17. Rxc1 Qg5 18. Rc2 Ne7 19. Nd2 Ng6 20. Nf3 Qf6 21. Ng1 Nf4
+22. Qf3 Qg6 23. Ne2 Qg5 24. Nxf4 exf4 25. Rd2 Kh8 26. b4 f5 27. exf5 Rxf5 28.
+Bd5 Bd7 29. Rad1 Be8 30. Qd3 Bh5 31. Bf3 Re5 32. Kh2 Rbe8 33. Bxh5 Qxh5 34.
+Qxa6 f3 35. g3 Re1 36. Rxe1 Rxe1 37. Qc8+ Kh7 38. Qg4 Qb5 39. Qxf3 Qf1 40. Qd3+
+Qxd3 41. Rxd3 Ra1 42. Rd4 Kg6 43. Rc4 c5 44. bxc5 d5 45. Rd4 Rxa5 46. Rxd5 Kf6
+47. g4 Ke6 48. Rd6+ Ke7 49. Rg6 Kf7 50. Rc6 Ra3 51. h4 Rxc3 52. h5 Ke7 53. Kg2
+Kf7 54. f3 Ke7 55. Rg6 Kf8 56. c6 Kf7 57. Kf2 Kg8 58. Ke2 Kh7 59. f4 Rc4 60. f5
+Ra4 61. Kd3 Ra3+ 62. Kd4 Ra4+ 63. Kd5 Ra5+ 64. Kd6 1-0

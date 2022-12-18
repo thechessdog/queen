@@ -1,0 +1,20 @@
+[Event "Werfen op"]
+[Site "Werfen"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Tolnai, Tibor"]
+[Black "Nindl, Gunther"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "f7f899d4"]
+[Epoch "Queen"]
+[WhiteID "700126"]
+[WhiteCountry "HUN"]
+[BlackID "1601083"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. g4 h6 8. Bg2
+Nc6 9. h3 Nxd4 10. Qxd4 e5 11. Qd2 Be6 12. f4 exf4 13. Bxf4 Qa5 14. O-O-O O-O-O
+15. Qf2 Kb8 16. e5 dxe5 17. Bxe5+ Ka8 18. Rxd8+ Qxd8 19. Rd1 Qa5 20. Na4 1-0

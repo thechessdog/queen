@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hesz"]
+[Black "Becker"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "5225f826"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O a6 8.
+Be3 O-O 9. f4 Qc7 10. g4 Re8 11. g5 Nfd7 12. f5 Ne5 13. Qe1 Nbc6 14. Qg3
+Nxd4 15. Bxd4 b5 16. f6 Bf8 17. a3 Rb8 18. Bd3 b4 19. Ne2 g6 20. axb4 Rxb4
+21. h4 Rxd4 22. Nxd4 Qb6 23. c3 Nxd3 24. Qxd3 e5 25. h5 exd4 26. cxd4 Re5
+27. Qe3 Bb7 28. hxg6 hxg6 29. Rf2 Rxe4 0-1
+

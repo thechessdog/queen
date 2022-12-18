@@ -1,0 +1,16 @@
+[Event "Arpad Elo Op"]
+[Site "Arpad Elo Op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Webster, PB."]
+[Black "Moore, Tom"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "649ef29c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. f3 d5 3. e4 e6 4. Nc3 c5 5. Be3 cxd4 6. Bxd4 Be7 7. Bb5+ Nc6
+8. Nge2 dxe4 9. Nxe4 Nxe4 10. fxe4 O-O 11. Bxc6 bxc6 12. Qd3 c5 13. Bc3 Bb7
+14. O-O-O Qxd3 15. cxd3 c4 16. dxc4 Bxe4 17. b3 Ba3+ 18. Kd2 Be7 1/2-1/2
+

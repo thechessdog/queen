@@ -1,0 +1,19 @@
+[Event "FIDE (36) 1987-1990"]
+[Site "Subotica izt"]
+[Date "1987.06.01"]
+[Round "15"]
+[White "Marjanovic, Slavoljub"]
+[Black "Ribli, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "450fd638"]
+[Epoch "Queen"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "700010"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+O-O 9. a4 Qc7 10. Kh1 Nc6 11. Be3 Re8 12. Bf3 Rb8 1/2-1/2

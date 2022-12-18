@@ -1,0 +1,19 @@
+[Event "corr CAPA"]
+[Site "corr CAPA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rocco"]
+[Black "Parnenzini, Pedro"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "aef29421"]
+[Epoch "Queen"]
+[BlackID "106380"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Nc3 O-O 8. Ne5
+Ng4 9. Nxg4 Bxg4 10. Bxd5 Qd7 11. h3 Bxh3 12. Rxh3 Qxh3 13. Bxb7 Nd7 14. Bxa8
+Rxa8 15. e3 e5 16. Qf3 Re8 17. d5 e4 18. Qe2 Nc5 19. Qb5 Rc8 20. Qf1 Qh5 21. d6
+Nd3+ 22. Kd2 Bxc3+ 23. bxc3 Qd5 24. Ke2 Qc4 0-1

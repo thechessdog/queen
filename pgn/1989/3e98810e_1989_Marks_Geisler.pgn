@@ -1,0 +1,18 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marks, I."]
+[Black "Geisler"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "3e98810e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Nf6 6. Nc3 a6 7. Bg5 Bf5 8.
+g4 Bg6 9. h4 h6 10. Nxg6 fxg6 11. Bxf6 gxf6 12. Nxe4 Kf7 13. Nxd6+ Qxd6 14.
+Be2 Qxd5 15. O-O Nd7 16. Bf3 Qd6 17. Bxb7 Rab8 18. Qf3 Rxb7 19. Qxb7 f5 20.
+Qb3+ Kg7 21. gxf5 1-0
+

@@ -1,0 +1,23 @@
+[Event "Wuerttemberg-ch"]
+[Site "Wurtemberg"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Fochtler, Ekkehard"]
+[Black "Dittmar, Peter"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "750c42e5"]
+[Epoch "Queen"]
+[WhiteID "4613430"]
+[BlackID "4602064"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. e5 Ne4 6. a3 Nxc3 7. bxc3 Be7 8. Nf4
+c5 9. Bd3 Qa5 10. Bd2 c4 11. Bf1 Nd7 12. h4 b6 13. Qg4 Bf8 14. Rh3 Bb7 15. Nxe6
+fxe6 16. Qxe6+ Kd8 17. Bg5+ Kc7 18. Qf7 Bc6 19. Bf4 Kb7 20. e6 Rd8 21. Bg5 Bd6
+22. Bxd8 Rxd8 23. exd7 Rxd7 24. Qf3 Re7+ 25. Kd2 Re4 26. Qf7+ Ka6 27. Qxg7 Bf4+
+28. Re3 Bxe3+ 29. fxe3 Rxe3 30. Kxe3 Qxc3+ 31. Kf2 Qxa1 32. Be2 Qc1 33. Qxh7
+Qf4+ 0-1

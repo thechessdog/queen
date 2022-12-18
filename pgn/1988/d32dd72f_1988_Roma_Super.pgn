@@ -1,0 +1,21 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roma 68000"]
+[Black "Super Constellation"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "d32dd72f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. g3 Bg7 5. Nc3 Be6 6. Bg2 c6 7. Nf3 Nd7
+8. Qd3 Qb6 9. O-O-O O-O-O 10. e3 Rdg8 11. Nh4 Bg4 12. Rd2 e5 13. f3 Be6 14.
+f4 Bg4 15. h3 Bh5 16. Nf5 Bg6 17. g4 Bxf5 18. Qxf5 Bh6 19. Na4 Qd8 20. Nc5
+exf4 21. exf4 Rg6 22. Re1 Kc7 23. Nb3 Re8 24. Rde2 Rxe2 25. Rxe2 Qf8 26. h4
+Nb6 27. g5 fxg5 28. fxg5 Bg7 29. h5 Re6 30. Qf4+ Rd6 31. h6 Bh8 32. Nc5 Kb8
+33. Re6 Bxd4 34. Rxd6 Be3+ 35. Qxe3 Qxd6 36. Qe8+ Nc8 37. Bh3 Qf4+ 38. Kb1
+Qc7 39. Nd7+ Ka8 40. Bf5 b6 41. Bxh7 Kb7 42. Qxf7 Nd6 43. Qg7 Ne8 44. Qe7
+Nd6 45. Bd3 Nc4 46. h7 1-0
+

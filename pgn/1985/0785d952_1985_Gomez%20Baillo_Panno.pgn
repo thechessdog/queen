@@ -1,0 +1,19 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gomez Baillo, Jorge H."]
+[Black "Panno, Oscar"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "0785d952"]
+[Epoch "Queen"]
+[WhiteID "100129"]
+[WhiteCountry "ARG"]
+[BlackID "100153"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 Be7 7. Bd3 d6 8. O-O
+O-O 9. Nbd2 dxe5 10. dxe5 b6 11. Qe2 Bb7 12. Ne4 Nd7 13. a3 Rc8 14. Neg5 Rxc1
+15. Bxh7+ Kh8 16. Raxc1 Bxg5 17. Nxg5 Qxg5 0-1

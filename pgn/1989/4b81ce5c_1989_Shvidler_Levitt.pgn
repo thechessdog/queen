@@ -1,0 +1,25 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shvidler, Eliahu"]
+[Black "Levitt, Jonathan P"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "4b81ce5c"]
+[Epoch "Queen"]
+[WhiteID "2800160"]
+[WhiteCountry "ISR"]
+
+1. c4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. d4 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+f5 9. d5 Bf6 10. Qc2 Bxc3 11. Bxc3 exd5 12. cxd5 Bxd5 13. Rfd1 Bb7 14. Nd4 Qe7
+15. Nb5 d5 16. Qb3 Kh8 17. Rac1 c6 18. Bb4 c5 19. Be1 Na6 20. e3 Nc7 21. a4
+Rfe8 22. Nc3 Bc6 23. Qa2 a5 24. Ne2 Qd7 25. b3 Na6 26. Nf4 Rad8 27. Qe2 Nc7 28.
+Qh5 Nf6 29. Qh4 Qf7 30. Bc3 Ne4 31. Bb2 Bb7 32. Bf3 Nf6 33. Nh5 Nxh5 34. Bxh5
+Qe7 35. Bxe8 Qxh4 36. gxh4 Rxe8 37. Re1 Re4 38. f4 Rb4 39. Bc3 Rxb3 40. Rb1
+Rxc3 41. Rxb6 Kg8 42. Rxb7 Ne8 43. Ra7 Nf6 44. Rxa5 Kf7 45. Ra7+ Kg6 46. Ra1
+Rxe3 47. a5 d4 48. Ra8 d3 49. Rd8 Ne4 50. a6 d2 51. Kf1 Rc3 52. Ke2 Rc1 53. Ra3
+Re1+ 54. Kf3 Rf1+ 55. Kg2 d1=Q 56. Rxd1 Rxd1 57. a7 Rd8 58. a8=Q Rxa8 59. Rxa8
+c4 60. Rc8 c3 61. Rc7 Kf6 62. h5 Ke6 0-1

@@ -1,0 +1,23 @@
+[Event "Balatonbereny op"]
+[Site "Balatonbereny op"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Farago, Sandor"]
+[Black "Petran, Pal"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ea5e8d0a"]
+[Epoch "Queen"]
+[WhiteID "701190"]
+[WhiteCountry "HUN"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. Kh1 Nc5 13. e5 dxe5 14. Nxc4 e4 15. f5
+Bxf5 16. Bf4 Nd3 17. Bxd3 exd3 18. Nd6 Qd7 19. Nxe8 Rxe8 20. Qb3 Ne4 21. Nd1
+Bg4 22. Nf2 Nxf2+ 23. Rxf2 Be2 24. Bd2 Bd4 25. Rf4 Be5 26. Rf2 Qg4 27. Qxb7 Rf8
+28. Qb4 Qh5 29. Bf4 Rb8 30. Qe4 Bxf4 31. Qxf4 Rf8 32. Qd4 Rd8 33. d6 Qg4 34.
+Rf4 Qe6 35. Rf6 Qg4 36. Qxa7 Rd7 37. Qd4 0-1

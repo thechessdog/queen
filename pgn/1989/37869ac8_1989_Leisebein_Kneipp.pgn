@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Leisebein, Peter"]
+[Black "Kneipp, G."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "37869ac8"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 Bf5 5. fxe4 Nxe4 6. Qf3 Nxc3 7. bxc3 Qc8
+8. Bd3 Bxd3 9. cxd3 g6 10. Nh3 Bg7 11. O-O O-O 12. Ba3 Nc6 13. Rab1 Rb8 14. Ng5
+Qe8 15. Qe4 b6 16. Rbe1 Bf6 17. Qh4 Bxg5 18. Qxg5 f6 19. Qd5+ Rf7 20. Re6 1-0

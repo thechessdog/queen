@@ -1,0 +1,20 @@
+[Event "corr SF-POL"]
+[Site "corr SF-POL"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Peltonen"]
+[Black "Baranowski"]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, main line"]
+[HashCode "2afa9e05"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 Nc6
+8. Ne2 b6 9. Ng3 Ba6 10. e4 e5 11. d5 Na5 12. Qe2 d6 13. Rb1 Qd7 14. Nf5
+Ne8 15. O-O Qa4 16. Ne3 g6 17. f4 f6 18. fxe5 dxe5 19. Ng4 Bxc4 20. Bh6 Rf7
+21. Nxe5 fxe5 22. Rxf7 Kxf7 23. Rf1+ Ke7 24. Bxc4 Nxc4 25. Qg4 Nc7 26. Bg5+
+Ke8 27. Rf6 Qxa3 28. Re6+ Kf7 29. Re7+ Kf8 30. h4 Qxc3 31. Rxc7 Qe1+ 32.
+Kh2 1-0
+

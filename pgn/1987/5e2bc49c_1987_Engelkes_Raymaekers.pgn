@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Engelkes"]
+[Black "Raymaekers"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "5e2bc49c"]
+[Epoch "Queen"]
+
+1. d4 a6 2. e4 g6 3. Nc3 Bg7 4. Be3 d6 5. Qd2 Nc6 6. d5 Ne5 7. f4 Nd7 8.
+Nf3 c5 9. a4 Ngf6 10. Bd3 O-O 11. h3 Rb8 12. e5 dxe5 13. fxe5 Ne8 14. Bh6
+Nxe5 15. Nxe5 Bxe5 16. Bxf8 Bg3+ 17. Kf1 Kxf8 18. Qh6+ Kg8 19. Qe3 Bc7 20.
+Re1 e6 0-1
+

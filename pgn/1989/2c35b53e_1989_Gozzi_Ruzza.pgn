@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gozzi"]
+[Black "Ruzza"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "2c35b53e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 Nd7 11. f4 Nc5 12. Bd2 Bd7 13. cxd4 Ne4 14.
+Nh3 Ba4 15. Ra2 Qb6 16. Kc1 Qxd4 17. Bd3 Bxc2 18. Bb5+ Kd8 19. Bb4 Rxg2 20.
+Re1 Nc5 21. Bxc5 Qd2+ 0-1
+

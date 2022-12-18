@@ -1,0 +1,19 @@
+[Event "DDR-ch (Women)"]
+[Site "Stralsund"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Broeder, Iris"]
+[Black "Nuenchert, Eveline"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "f32e69c6"]
+[Epoch "Queen"]
+[BlackID "4612540"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Qc7 11. h3 Nbd7 12. Ng3 c4 13. Bc2 Rb8 14. Be3 Nc5 15. f4
+Nfd7 16. Bd4 f6 17. h4 b5 18. axb5 axb5 19. Qf3 Ne5 1/2-1/2

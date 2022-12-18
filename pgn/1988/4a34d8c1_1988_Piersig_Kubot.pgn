@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Piersig"]
+[Black "Kubot"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "4a34d8c1"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 cxd4 8.
+Nxd4 h5 9. Bb5+ Nd7 10. f4 Qc7 11. Qe2 Bb4 12. Bd2 Bxc3 13. Bxc3 a6 14. f5
+exf5 15. e6 Qg3+ 16. Kd1 axb5 17. exd7+ Kxd7 18. Qxb5+ Kc8 19. Qe8+ Kc7 20.
+Nb5+ Kb6 21. Bd4+ Ka5 22. Qxa8+ Kxb5 23. c4+ Kxc4 24. Qa4+ 1-0
+

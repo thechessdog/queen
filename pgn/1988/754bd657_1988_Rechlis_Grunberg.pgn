@@ -1,0 +1,17 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Rechlis, Gad"]
+[Black "Grunberg, S."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "754bd657"]
+[Epoch "Queen"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 c6 6. O-O O-O 7. Nc3 d6 8. Qc2
+Kh8 9. b3 a5 10. Bb2 Na6 11. Rad1 Qc7 12. d5 Bd7 13. Rfe1 a4 14. e4 axb3 15.
+axb3 fxe4 16. Nxe4 cxd5 17. Nxf6 exf6 18. Nh4 dxc4 19. Nxg6+ hxg6 20. Qxg6 Bc6
+21. Rd4 1-0

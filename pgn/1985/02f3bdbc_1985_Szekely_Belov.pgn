@@ -1,0 +1,18 @@
+[Event "Moscow-B"]
+[Site "Moscow"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Szekely, Peter"]
+[Black "Belov, Igor"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "02f3bdbc"]
+[Epoch "Queen"]
+[WhiteID "14937492"]
+[WhiteCountry "SVK"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 Nc5 11. Re1 a5 12. b3 c6 13. Bf4 h6 14. Qc2 a4 15. Rad1
+g5 16. Be3 axb3 17. axb3 Qb6 1/2-1/2

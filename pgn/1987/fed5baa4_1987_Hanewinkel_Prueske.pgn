@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Hanewinkel, Winfried"]
+[Black "Prueske, Wolfgang"]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "fed5baa4"]
+[Epoch "Queen"]
+[WhiteID "4631293"]
+[WhiteCountry "GER"]
+[BlackID "4667271"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 d6 3. Nf3 f5 4. d4 e4 5. Nd2 Nf6 6. e3 Be7 7. Be2 O-O 8. O-O c6
+9. b4 d5 10. Rb1 Bd6 11. c5 Bc7 12. b5 Rf7 13. a4 Nbd7 14. Nb3 Nf8 15. Bd2 g5
+16. Na2 Ng6 17. a5 cxb5 18. Bxb5 Ng4 19. h3 Nh2 20. Re1 g4 0-1

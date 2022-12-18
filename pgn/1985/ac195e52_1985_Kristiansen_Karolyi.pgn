@@ -1,0 +1,21 @@
+[Event "Ballerup"]
+[Site "Ballerup"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Karolyi, Tibor"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto defence deferred"]
+[HashCode "ac195e52"]
+[Epoch "Queen"]
+[WhiteID "1400061"]
+[BlackID "700312"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. d4 exd4 6. Nxd4 Bg7 7. Nxc6 bxc6 8.
+O-O Ne7 9. Nc3 O-O 10. Bg5 h6 11. Bh4 g5 12. Bg3 Ng6 13. Qd2 Rb8 14. Rad1 Rb6
+15. Ne2 d6 16. Bb3 Qe7 17. f4 gxf4 18. Nxf4 Qg5 19. Nxg6 Qxg6 20. e5 d5 21. c4
+Bg4 22. Rc1 dxc4 23. Bxc4 Be6 24. b3 Bxc4 25. Rxc4 Rb5 26. Qd7 1-0

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kreutzkamp, Hans"]
+[Black "Terhorst, Jochen"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "f6628247"]
+[Epoch "Queen"]
+[BlackID "4608097"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 c5 7. O-O Nc6 8. c3
+Qb6 9. f4 Nh6 10. Kh1 cxd4 11. cxd4 Be7 12. Nbc3 O-O 13. Be3 Rac8 14. Rad1 Nb4
+15. Qb1 Qa6 16. h3 f5 17. exf6 Bxf6 18. g4 Bd8 19. a3 Nc6 20. f5 exf5 21. Bxh6
+gxh6 22. Rxf5 Rxf5 23. Qxf5 Ne7 24. Qf3 Qe6 25. Nf4 Qf7 26. Rf1 a6 27. Qe2 Rc6
+28. Nh5 Qg6 29. Qf3 Qe8 30. Qf6 Qxh5 31. Qf8# 1-0

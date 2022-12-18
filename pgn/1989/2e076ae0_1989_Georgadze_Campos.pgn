@@ -1,0 +1,15 @@
+[Event "Seville"]
+[Site "Seville"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Giorgadze, Giorgi"]
+[Black "Campos, Jose Felix"]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "2e076ae0"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. a3 Bxc3+ 7. bxc3 O-O 8.
+Bg5 c5 9. Nf3 Nbd7 1/2-1/2

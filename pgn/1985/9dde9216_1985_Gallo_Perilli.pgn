@@ -1,0 +1,23 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gallo"]
+[Black "Perilli"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "9dde9216"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O Bd7 10. g4 Rc8 11. h4 h5 12. Be2 Nxd4 13. Bxd4 Qa5 14. Kb1
+Kh7 15. Bxf6 Bxf6 16. Nd5 Qxd2 17. Nxf6+ exf6 18. Rxd2 hxg4 19. h5 gxf3 20.
+hxg6+ Kg7 21. Bxf3 fxg6 22. e5 fxe5 23. Bxb7 Rc7 24. Rdh2 Rxb7 25. Rh7+ Kg8
+26. Rh8+ Kf7 27. Rf1+ Bf5 28. Rh7+ Ke6 29. Rxb7 Bxc2+ 30. Kxc2 Rxf1 31.
+Rxa7 Rf7 32. Ra8 Rg7 33. a4 g5 34. a5 g4 35. a6 g3 36. a7 Kd5 37. Rc8 Rxa7
+38. Rg8 Kd4 39. Rxg3 Rc7+ 40. Kd2 e4 41. Ra3 d5 42. Rb3 Rh7 43. Rb4+ Kc5
+44. Rb8 Rh2+ 45. Ke3 Rh3+ 46. Kd2 d4 47. b4+ Kc4 48. b5 Rh2+ 49. Kc1 e3 50.
+b6 Kb3 0-1
+

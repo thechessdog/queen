@@ -1,0 +1,20 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pisulinski, Jan"]
+[Black "Vasovski, Nikolce"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "bd6e1174"]
+[Epoch "Queen"]
+[WhiteID "1100386"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 d5 6. Bg2 Nc6 7. O-O dxc4 8. dxc5
+Qxd1 9. Rxd1 Bxc5 10. Bf4 O-O 11. Rac1 e5 12. Bg5 Be6 13. Nd2 Rac8 14. Bxf6
+gxf6 15. Bd5 Na5 16. Nce4 Be7 17. Nf1 Rfd8 18. Ne3 b5 19. g4 Nc6 20. Bxc6 Rxd1+
+21. Rxd1 Rxc6 22. Rc1 b4 23. Rc2 Ra6 24. Nxc4 f5 25. gxf5 Bxf5 26. f3 Bc5+ 27.
+e3 Rxa2 28. Rg2+ Kf8 29. Nxc5 Ra1+ 30. Kf2 Rc1 31. b3 f6 32. Rg1 1-0

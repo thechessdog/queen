@@ -1,0 +1,24 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mokrys, CP."]
+[Black "Polklaeser, G."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "2aea3e54"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Nf3 e6 8.
+Bd3 Be7 9. O-O O-O 10. Qe1 b5 11. e5 dxe5 12. fxe5 Nc5 13. exf6 Bxf6 14.
+Be2 b4 15. Be3 Qa5 16. Nd1 Re8 17. Ng5 Bb7 18. Bh5 Rf8 19. Rxf6 gxf6 20.
+Qg3 Kh8 21. Nxf7+ Rxf7 22. Bxf7 Ne4 23. Qg4 e5 24. Bh6 Qc5+ 25. Ne3 Ng5 26.
+Bxg5 fxg5 27. Qxg5 Qf8 28. Qxe5+ Qg7 29. Qxg7+ Kxg7 30. Bd5 Bxd5 31. Nxd5
+Rc8 32. Rc1 Rc4 33. c3 bxc3 34. Rxc3 Rd4 35. Rc7+ Kg6 36. Ne7+ Kf6 37. Rb7
+Rd1+ 38. Kf2 Rd6 39. Kf3 Ke5 40. Nc8 Rc6 41. Nb6 Kd4 42. Rd7+ Ke5 43. Rd5+
+Kf6 44. Na4 Kg6 45. Nc5 Rf6+ 46. Ke3 Rb6 47. Nd3 Kf6 48. Ke4 Ke7 49. a4 Rh6
+50. Re5+ Kf6 51. h3 Rg6 52. Nf4 Rh6 53. Re6+ Kg5 54. Rxh6 Kxh6 55. Ne6 Kg6
+56. b4 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cervenka, J."]
+[Black "Baer, H."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Adorjan gambit"]
+[HashCode "771fbb71"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6
+8. bxc6 Nxc6 9. Bg5 Bb7 10. d5 Nxd5 11. Bxd8 Nxc3 12. Bc7 Rac8 13. Bd6 Nd4
+14. Rc1 Na4 15. Rxc8 Rxc8 16. Bf4 Nxb2 0-1
+

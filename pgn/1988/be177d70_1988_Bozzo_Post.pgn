@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bozzo"]
+[Black "Post"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "be177d70"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 e6 7. d4 Be7
+8. Bd3 Qa5 9. Bd2 O-O 10. Qc2 f5 11. Rb1 Qc7 12. O-O b6 13. e4 c4 14. Be2
+Bb7 15. exf5 exf5 16. Ne5 Be4 17. Qa4 Bxb1 18. Rxb1 a6 19. Bxc4+ Kh8 20.
+Nf7+ Kg8 21. Ng5+ Kh8 22. Ne6 Qd6 23. Nxf8 Bxf8 24. Qe8 1-0
+

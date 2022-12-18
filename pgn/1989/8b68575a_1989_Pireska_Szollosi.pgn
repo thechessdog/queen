@@ -1,0 +1,15 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pireska"]
+[Black "Szollosi, Laszlo Jr"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "8b68575a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 d5 7. e5 Qc7 8.
+exf6 Bxc3+ 9. bxc3 Qxc3+ 10. Qd2 Qxa1 11. c3 1-0

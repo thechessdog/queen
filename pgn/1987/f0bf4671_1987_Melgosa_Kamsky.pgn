@@ -1,0 +1,21 @@
+[Event "Insbruck"]
+[Site "Insbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Melgosa, I."]
+[Black "Kamsky, Gata"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "f0bf4671"]
+[Epoch "Queen"]
+[BlackID "2000024"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. O-O Bg7 6. d4 Bd7 7. Re1 Nf6 8. Bg5
+O-O 9. Nbd2 Qe8 10. Bc4 h6 11. Bh4 Nh5 12. dxe5 dxe5 13. Bg3 Rd8 14. Qe2 Kh8
+15. Rad1 Qe7 16. Nf1 Nf4 17. Qc2 Na5 18. Ne3 Nxc4 19. Nxc4 Bc8 20. Bxf4 exf4
+21. Nd4 a6 22. b4 Rfe8 23. a3 c5 24. bxc5 Qxc5 25. Qb3 Kg8 26. Qb4 Qc7 27. h3
+b5 28. Na5 Bf8 29. Qb3 Qxa5 30. Nc6 Rxd1 31. Nxa5 Rxe1+ 32. Kh2 R8xe4 33. Qd5
+R4e2 34. Qf3 Rd2 35. Nc6 Rdd1 0-1

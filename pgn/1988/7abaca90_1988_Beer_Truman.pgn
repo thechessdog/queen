@@ -1,0 +1,19 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Beer"]
+[Black "Truman"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "7abaca90"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Bc5 6. Bc4 Ne7 7. O-O O-O
+8. Qe2 Nbc6 9. Rd1 Ng6 10. Be3 Bxe3 11. Qxe3 a6 12. a4 Qc7 13. Rac1 b6 14.
+Bf1 Qf4 15. Qxb6 Rb8 16. Qc5 Rxb2 17. Nb5 axb5 18. Qa3 Qf6 19. axb5 Nce5
+20. Rc3 Nxf3+ 21. Rxf3 Qe5 22. Rc3 Ra2 23. Qb3 Bb7 24. Rxd7 Bxe4 25. f4
+Nxf4 26. Qb4 Ng6 27. b6 Bxg2 0-1
+

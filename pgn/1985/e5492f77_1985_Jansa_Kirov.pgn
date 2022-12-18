@@ -1,0 +1,20 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Kirov, Nino"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "e5492f77"]
+[Epoch "Queen"]
+[WhiteID "300128"]
+[WhiteCountry "CZE"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 Nc6 5. Bg2 Nge7 6. O-O Qc7 7. b3 d6 8. Bb2
+Bd7 9. Re1 Rg8 10. d4 cxd4 11. Nxd4 Nxd4 12. Qxd4 g5 13. e5 dxe5 14. Rxe5 Bg7
+15. Rc5 Bc6 16. Qd3 h6 17. Bxc6+ Nxc6 18. Nd5 exd5 19. Re1+ Kd8 20. Bxg7 Kc8
+21. Qxd5 Qd7 22. Bxh6 Qxd5 23. Rxd5 f6 24. Re6 Ne5 25. Rxf6 Ng4 26. Rf8+ Rxf8
+27. Bxf8 Kc7 28. Rxg5 1-0

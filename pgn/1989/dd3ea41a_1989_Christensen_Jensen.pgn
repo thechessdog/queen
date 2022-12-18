@@ -1,0 +1,17 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Christensen, Soren"]
+[Black "Jensen, Morten"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "dd3ea41a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bg5 Bb4+ 6. Nbd2 Nge7 7. a3
+Bxd2+ 8. Qxd2 Bg4 9. Bxe7 Qxe7 10. Nxd4 Nxe5 11. e3 Rd8 12. Qc2 Rxd4 13.
+exd4 Nf3+ 0-1
+

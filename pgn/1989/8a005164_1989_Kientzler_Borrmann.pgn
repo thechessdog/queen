@@ -1,0 +1,17 @@
+[Event "corr CIF-TT"]
+[Site "corr CIF-TT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kientzler"]
+[Black "Borrmann"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "8a005164"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c3 Be7 5. Nf3 d6 6. Bd4 c5 7. Be3 Nc6
+8. h3 h6 9. d3 O-O 10. Na3 Nd5 11. Bd2 Bf6 12. Nb1 Be6 13. e4 Nb6 14. Na3
+d5 15. exd5 Nxd5 16. Nc4 Nxc3 17. Qb3 Re8 18. Ne3 Bxb3 19. axb3 Nb4 20. Rc1
+Nxd3+ 0-1
+

@@ -1,0 +1,26 @@
+[Event "Belgrade op"]
+[Site "Belgrade"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Strikovic, Aleksa"]
+[Black "Ristic, Velibor"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ad603299"]
+[Epoch "Queen"]
+[WhiteID "900150"]
+[WhiteCountry "SRB"]
+[BlackID "907111"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nf6 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+8. O-O Be7 9. dxc5 Nxc5 10. Bg5 O-O 11. Nbd2 Re8 12. Nd4 Qd7 13. N2b3 Nce4 14.
+Bh4 Rad8 15. f3 Nd6 16. Re1 Nc4 17. Qc2 Nh5 18. Qf2 Nf4 19. Bxe7 Rxe7 20. Nc5
+Rxe1+ 21. Rxe1 Qc8 22. Ne2 Re8 23. b4 Ne6 24. Nd3 a5 25. Nef4 axb4 26. cxb4 Qd7
+27. Nh5 Kf8 28. Qg3 d4 29. Nc5 Qd6 30. Nxe6+ Rxe6 31. Qxg7+ Ke7 32. Qf6+ Kf8
+33. Rxe6 Qxe6 34. Qd8+ Qe8 35. Qxe8+ Kxe8 36. Kf2 Ke7 37. Ke2 Nb2 38. Kd2 Kd6
+39. Kc2 Na4 40. Kd3 Kd5 41. Nf6+ Ke5 42. Nxh7 Nb2+ 43. Kc2 Nc4 44. g3 f5 45. a4
+Ne3+ 46. Kd3 Nf1 47. f4+ Kd5 48. Nf6+ Ke6 49. Ne8 Nxh2 50. a5 Nf1 51. Ng7+ Kf6
+52. b5 Ne3 53. Kxd4 Nc2+ 54. Kc5 Ne1 55. a6 Nd3+ 56. Kd6 bxa6 57. bxa6 1-0

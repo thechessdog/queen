@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Bosken, Clemens"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "87a0950f"]
+[Epoch "Queen"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. O-O
+dxc4 9. e4 Nc6 10. Nxc6 Qxd1 11. Rxd1 bxc6 12. Bf4 Bb7 13. Bd6 Bxd6 14. Rxd6 c5
+15. Rad1 Rab8 16. h3 e5 17. R1d2 h6 18. f3 Bc8 19. Nd5 1/2-1/2

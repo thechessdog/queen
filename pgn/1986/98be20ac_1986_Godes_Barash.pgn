@@ -1,0 +1,22 @@
+[Event "corr ch17-SU"]
+[Site "corr ch17-SU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Godes"]
+[Black "Barash"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "98be20ac"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. c3 e5 5. exd5 Qxd5 6. Ngf3 exd4 7. Bc4 Qh5
+8. cxd4 Nf6 9. O-O Bd6 10. Re1+ Ne7 11. Ne5 Qxd1 12. Bxf7+ Kf8 13. Rxd1
+Bxe5 14. dxe5 Kxf7 15. exf6 gxf6 16. Ne4 Be6 17. Bf4 Nd5 18. Bg3 Rad8 19.
+Rac1 Kg6 20. h4 c6 21. Nd6 Rd7 22. Re1 Bf7 23. a3 Kg7 24. Ne4 Re7 25. Nd6
+Rd7 26. b4 Bg6 27. b5 cxb5 28. Rc5 Bf7 29. Rd1 b6 30. Rcxd5 Bxd5 31. Rxd5
+Rhd8 32. h5 Kf8 33. Rd3 a5 34. Kf1 b4 35. axb4 axb4 36. Ke2 Rg7 37. Bf4
+Rxg2 38. Rd4 b3 39. Rb4 Ra8 40. Kf3 Rg1 41. Rxb3 Rga1 42. Ne4 R1a6 43. Be3
+Kf7 44. h6 Rb8 45. Rc3 b5 46. Bf4 Rg8 47. Nd6+ Kg6 48. Rc1 1-0
+

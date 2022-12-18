@@ -1,0 +1,18 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1988.07.01"]
+[Round "1"]
+[White "Pain, Simon"]
+[Black "Hanreck, Alan E"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "33b568c0"]
+[Epoch "Queen"]
+[BlackID "401552"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc8
+8. Qe2 e6 9. b3 Be7 10. Bb2 O-O 11. d3 Nc6 12. Nxc6 Qxc6 13. Nd2 Nd7 14. Qe4
+Qxe4 15. Nxe4 Rac8 16. a4 Rfd8 17. f4 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Summermatter, Daniel"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "6ddf1dab"]
+[Epoch "Queen"]
+[WhiteID "1300024"]
+[WhiteCountry "SUI"]
+[BlackID "1300385"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. h4
+b5 9. a3 Bb7 10. h5 Be7 11. Rg1 Nc6 12. Be3 Rc8 13. g6 Bf6 14. gxf7+ Kxf7 15.
+Bh3 Nc5 16. Nxc6 Rxc6 17. Qg4 Qe7 18. Rd1 Nd7 19. Bd4 Ne5 20. Qg3 Rhc8 21. Bf1
+Rxc3 22. Bxc3 Bxe4 23. Be2 Bxc2 24. Rc1 Bf5 25. Qe3 Qb7 26. f3 Bh4+ 27. Kd2 Rc4
+28. Bxc4 Nxc4+ 29. Ke2 e5 30. Bxe5 dxe5 31. Qc3 Qb6 32. Rg2 Bf6 33. Rcg1 Qd4
+0-1

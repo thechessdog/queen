@@ -1,0 +1,25 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Dueball, Juergen"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "1e6cb2eb"]
+[Epoch "Queen"]
+[BlackID "4600185"]
+[BlackCountry "GER"]
+[WhiteID "4601122"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. Qc2 Ne5 12. Re1 Nfg4 13. Nf1 Qh4 14. Bb5 Rf8 15.
+Bf4 c4 16. Bg3 Qd8 17. h3 a6 18. hxg4 axb5 19. Nxb5 Qb6 20. a4 Bd7 21. Ne3 Bxb5
+22. axb5 Rac8 23. Ra4 c3 24. bxc3 Rxc3 25. Qb1 Rfc8 26. Rd1 Nxg4 27. Nxg4 Rxg3
+28. e5 h5 29. Nf6+ Bxf6 30. exf6 Rgc3 31. Qb4 R8c4 32. Qxc4 Rxc4 33. Rxc4 g5
+34. Re1 Qxb5 35. Rc8+ Kh7 36. Re7 Qxd5 37. Rcc7 Kg6 38. Rxb7 Kxf6 39. Red7 h4
+40. f3 Kg6 41. Ra7 Qc5+ 42. Kf1 f6 43. Rac7 Qd5 44. Rg7+ Kf5 45. Rce7 h3 46.
+Kg1 Qd4+ 47. Kh2 Qf4+ 48. Kg1 Qg3 49. Re2 hxg2 50. Rxg2 Qe1+ 51. Kh2 Qh4+ 0-1

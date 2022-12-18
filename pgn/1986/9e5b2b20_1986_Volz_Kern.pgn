@@ -1,0 +1,17 @@
+[Event "corr ch19-GER"]
+[Site "corr ch19-GER"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Volz"]
+[Black "Kern"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Bronstein gambit"]
+[HashCode "9e5b2b20"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. d4
+Nxe4 8. d5 Nd8 9. Re1 f5 10. Nbd2 Nf6 11. Nc4 b5 12. Na5 g6 13. Ng5 Bg7 14.
+Ne6 Nxe6 15. Rxe6 Kf7 16. a4 Nxd5 0-1
+

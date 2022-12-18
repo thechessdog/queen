@@ -1,0 +1,16 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmitz"]
+[Black "Knies"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "65602982"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Bf5 10. h3 Nxd4 11. Nxd4 Ne4 12. Nxf5 Bf6 13. Nh6+ Kg7
+14. Qxe4 1-0
+

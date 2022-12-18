@@ -1,0 +1,25 @@
+[Event "Dubai ol (Men)"]
+[Site "Dubai olm"]
+[Date "1986.11.01"]
+[Round "7"]
+[White "Sax, Gyula"]
+[Black "Hergott, Deen"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "5624f908"]
+[Epoch "Queen"]
+[BlackID "2600102"]
+[BlackCountry "CAN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qe7 8.
+Nbd2 Nf6 9. a3 Nh5 10. b4 Be6 11. bxc5 O-O 12. Rb1 Rab8 13. Nb3 Bxb3 14. Rxb3
+Qxc5 15. Be3 Qe7 16. a4 b6 17. Qa1 Rfd8 18. Bg5 f6 19. Be3 Nf4 20. Bxf4 exf4
+21. Qc1 Qc5 22. c4 Qa5 23. d4 Rb7 24. c5 Qxa4 25. Qc3 Qa6 26. Ra1 Qe2 27. cxb6
+Rxb6 28. Rxb6 axb6 29. Qxc6 Qb2 30. Re1 Qb4 31. e5 fxe5 32. dxe5 Rd3 33. Qe6+
+Kh8 34. Rc1 Rc3 35. Rf1 b5 36. Qe8+ Bf8 37. h3 Qc5 38. e6 Rc1 39. Rxc1 Qxc1+
+40. Kh2 Qc5 41. Nd4 f3 42. Nxf3 b4 43. Nd4 Kg7 44. Qf7+ Kh6 45. f4 Be7 46. Nc6
+Bd6 47. e7 Qf2 48. Qf8+ Kh5 49. Ne5 Bc5 50. Nf3 b3 51. Qg7 h6 52. Qe5+ g5 53.
+e8=Q# 1-0

@@ -1,0 +1,20 @@
+[Event "Troll Masters"]
+[Site "Gausdal"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Iskov, Gert"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "bcebf8dd"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Nf3 Na6 7. a3 Bxc3+ 8.
+Qxc3 Nxc5 9. Bf4 d6 10. e3 Nfe4 11. Qc2 e5 12. Bg3 Bf5 13. Qd1 a5 14. b4 axb4
+15. axb4 Qb6 16. Be2 Qxb4+ 17. Kf1 Nc3 0-1

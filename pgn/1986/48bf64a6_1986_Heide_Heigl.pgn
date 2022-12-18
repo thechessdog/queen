@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heide, W."]
+[Black "Heigl, R."]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "48bf64a6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c6 12. Qd3 cxd5 13. exd5 e4 14. Rxe4
+Bf5 15. Nbd2 g6 16. Nd4 Bxe4 17. Nxe4 Nxe4 18. Qxe4 Re8 19. Qg4 Bf6 20. Bh6
+Nc4 21. b3 Ne5 22. Qg3 Bh4 23. Qh3 Bg5 24. Nf5 Bxh6 25. Nxh6+ Kg7 26. f4
+Nd7 27. Nxf7 Qb6+ 28. Kf1 Nf8 29. Ng5 Re3 30. Qh4 Rae8 31. Qf2 Qc5 32. f5
+Qxc3 33. Rd1 Re2 0-1
+

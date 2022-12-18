@@ -1,0 +1,19 @@
+[Event "Leighton"]
+[Site "Leighton"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vann, Monica S"]
+[Black "Killick, E."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "dd9395fe"]
+[Epoch "Queen"]
+[WhiteID "471178"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 Nxe4 6. Bxf7+ Kxf7 7. Nxe4 exf4
+8. d3 Qe8 9. Bxf4 Bg4 10. Ng5+ Kg8 11. Qxg4 d5 12. O-O dxe4 13. Rae1 h6 14. Ne6
+h5 15. Qf5 Rh6 16. Nxc7 g6 17. Qd5+ Qf7 18. Qxf7+ Kxf7 19. Bxh6+ Kg8 20. Nxa8
+Bxh6 21. Rxe4 Bg5 22. Nc7 Ne7 23. h4 Bh6 24. Rxe7 b6 25. Re8+ Kg7 26. Ne6+ Kh7
+27. Rf7+ Bg7 28. Rxg7+ Kh6 29. Rh8# 1-0

@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jensen, P."]
+[Black "Wunsch, R."]
+[Result "1-0"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[HashCode "4bf61295"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nc6 6. g3 Qb6 7. Nc2 Bc5
+8. Ne3 d5 9. cxd5 exd5 10. Bg2 Bxe3 11. Bxe3 d4 12. Na4 Qb4+ 13. Bd2 Qd6
+14. O-O Bd7 15. Rc1 Rd8 16. Nc5 Bc8 17. Qb3 1-0
+

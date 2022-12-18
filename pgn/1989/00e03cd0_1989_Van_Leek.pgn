@@ -1,0 +1,19 @@
+[Event "corr NBC/89"]
+[Site "corr NBC/89"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Vliet"]
+[Black "Leek"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "00e03cd0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bc4 Bc5 6. Nf3 Qc7 7. O-O a6
+8. Qe2 b5 9. Bd3 Bb7 10. e5 d5 11. Ng5 Nc6 12. Qh5 g6 13. Qh4 Qxe5 14. Bf4
+Qf6 15. Bxb5 h6 16. Nxd5 exd5 17. Rfe1+ Be7 18. Be5 Qxg5 19. Qxg5 hxg5 20.
+Bxc6+ Bxc6 21. Bxh8 f6 22. Rac1 Kd7 23. Bg7 Bd6 24. a3 Be5 25. Rxe5 fxe5
+26. Bxe5 Re8 27. Bd4 Re2 28. h3 g4 29. hxg4 Re4 30. Be3 Rxg4 0-1
+

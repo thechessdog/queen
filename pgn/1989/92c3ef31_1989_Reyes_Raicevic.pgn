@@ -1,0 +1,20 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1989.04.01"]
+[Round "1"]
+[White "Reyes, Juan"]
+[Black "Raicevic, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "92c3ef31"]
+[Epoch "Queen"]
+[WhiteID "3800040"]
+[WhiteCountry "PER"]
+[BlackID "900605"]
+[BlackCountry "SRB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Qg4 Ne7 7. dxc5 Bxc3+ 8.
+bxc3 O-O 9. Bd3 Qc7 10. Nf3 Ng6 11. Bxg6 fxg6 12. Be3 b6 13. h4 Nc6 14. cxb6
+axb6 15. O-O Nxe5 16. Nxe5 1/2-1/2

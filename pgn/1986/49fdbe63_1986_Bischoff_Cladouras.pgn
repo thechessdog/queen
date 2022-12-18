@@ -1,0 +1,26 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Cladouras, Panagiotis"]
+[Result "1-0"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "49fdbe63"]
+[Epoch "Queen"]
+[BlackID "4600959"]
+[BlackCountry "GER"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Qc7 12. Nf1 Be6 13. Bg5 Nc6 14. Ne3 h6 15.
+Bh4 Rad8 16. Bb3 Rd7 17. a4 g5 18. axb5 axb5 19. Bg3 c4 20. dxc4 bxc4 21. Bxc4
+Nxe4 22. Bxe6 fxe6 23. Nd5 exd5 24. Qxd5+ Kg7 25. Rxe4 Qb7 26. Rd1 Nb8 27. Qd3
+Bf6 28. Re2 Re8 29. Nd4 e4 30. Qb1 Qd5 31. Red2 Red8 32. c4 Qxc4 33. Nf5+ Kg6
+34. Nxd6 Qb4 35. Qc2 Na6 36. Nxe4 Rxd2 37. Rxd2 Rxd2 38. Nxd2+ Kg7 39. b3 Qd4
+40. h3 Nb4 41. Qc7+ Kg6 42. Qd6 Nd5 43. Nc4 Qe4 44. Qc6 h5 45. Ne5+ Kh6 46. Nd7
+Kg7 47. Nxf6 Qe1+ 48. Kh2 Nxf6 49. f4 Qe3 50. Qf3 Qc5 51. fxg5 Qxg5 52. Qf4 Qd5
+53. b4 Kg6 54. Qe5 Qc4 55. b5 h4 1-0

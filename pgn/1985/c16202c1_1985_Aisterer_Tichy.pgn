@@ -1,0 +1,22 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Aisterer"]
+[Black "Tichy, Vladimir"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "c16202c1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 e5 8.
+a3 Bxc3+ 9. Nxc3 exd4 10. Nb5 O-O 11. Be2 Ne4 12. Qc2 Nc6 13. Bf4 Qf6 14.
+Bg3 Bf5 15. Bd3 Ne5 16. Bxe5 Qxe5 17. O-O a6 18. f4 Qf6 19. Nc7 Rad8 20.
+Rae1 Qc6 21. Nxd5 Rxd5 22. Bxe4 Bxe4 23. Rxe4 Rxc5 24. Qd3 Rd5 25. f5 Qf6
+26. h3 h6 27. Kh1 Rfd8 28. Ref4 Rb5 29. R1f2 Re5 30. Rd2 Re1+ 31. Kh2 Re3
+32. Qc4 d3 33. Rf1 b5 34. Qf4 Re2 35. Rfd1 Rxd2 36. Rxd2 Rd4 37. Qe3 Rd5
+38. Qe4 Qd6+ 39. Kg1 Qc5+ 40. Kh1 Qc1+ 41. Kh2 Qxd2 42. Qxd5 Qf4+ 43. Kg1
+d2 44. Qd3 a5 0-1
+

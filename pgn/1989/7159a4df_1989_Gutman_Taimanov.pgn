@@ -1,0 +1,19 @@
+[Event "Paris-ch"]
+[Site "Parijs"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Gutman, Lev"]
+[Black "Taimanov, Mark"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "7159a4df"]
+[Epoch "Queen"]
+[WhiteID "4600177"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 e5 8. d5 a5
+9. Nf3 O-O 10. Bd3 Bg4 11. O-O Nbd7 12. Bc2 Ne8 13. Ba4 Nc5 14. Bxe8 Qxe8 15.
+Be3 a4 0-1

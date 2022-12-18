@@ -1,0 +1,19 @@
+[Event "Naestved open"]
+[Site "Naestved open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mortensen, Peter Munch"]
+[Black "Hector, Jonny"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "683ef7b9"]
+[Epoch "Queen"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. a3 Ba5 8. O-O
+Nc6 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Qa5 12. Qc2 Bg4 13. Rb1 Bxf3 14. gxf3
+Qxc5 15. Rxb7 Rae8 16. a4 Ne5 17. Be2 Qc8 18. Rb4 Qh3 19. Ba3 Re6 20. Rfb1 Ne4
+21. Rxe4 dxe4 0-1

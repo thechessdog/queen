@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Klein, G."]
+[Black "Bierenbroodspot, H."]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "47d348da"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. fxg7 cxd2+ 7. Bxd2
+Bxg7 8. Qc2 Nc6 9. Nf3 Bd7 10. Bd3 Qe7 11. a3 O-O-O 12. O-O-O Nd4 13. Nxd4
+Bxd4 14. f3 f5 15. Rhe1 Qg7 16. Re2 Bxb2+ 17. Qxb2 Qxb2+ 18. Kxb2 Ba4 19.
+Bc2 1-0
+

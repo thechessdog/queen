@@ -1,0 +1,20 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "6"]
+[White "Borgstaedt, Michael"]
+[Black "Heyken, Enno"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "71d6d51e"]
+[Epoch "Queen"]
+[WhiteID "4606825"]
+[WhiteCountry "GER"]
+[BlackID "4600401"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bg5 Bd7 13. Qb1 h6 14. Bf4 Bxf4 15.
+Nxf4 Ne4 16. g3 e5 17. Bxe4 1/2-1/2

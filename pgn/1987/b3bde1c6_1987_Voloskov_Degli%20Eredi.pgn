@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Voloskov, W."]
+[Black "Degli Eredi, G."]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "b3bde1c6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Bc4 Bd7 9. Bb3 Rc8 10. Qd2 O-O 11. h4 Ne5 12. O-O-O Qa5 13. Kb1 Rfe8 14. g4
+b5 15. h5 Nc4 16. Bxc4 bxc4 17. Bh6 Bh8 18. hxg6 fxg6 19. Qh2 Rb8 20. Bc1
+Qxc3 21. e5 dxe5 22. Qxe5 e6 23. Qh2 Rb7 24. Rd2 Qa5 25. f4 e5 26. Nf5 Bxf5
+27. gxf5 e4 28. fxg6 h5 29. b3 cxb3 30. cxb3 e3 31. Rc2 Qf5 32. Qh3 Qxh3
+33. Rxh3 e2 34. Bd2 e1=Q+ 35. Bxe1 Rxe1+ 36. Rc1 Rxc1+ 37. Kxc1 Kg7 38. f5
+Rb5 0-1
+

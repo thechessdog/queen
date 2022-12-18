@@ -1,0 +1,20 @@
+[Event "Akropolis op"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Tsorbatzoglou, Theodoros"]
+[Black "Kourtesis, Georgios"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "1459892c"]
+[Epoch "Queen"]
+[WhiteID "4200586"]
+[BlackID "4200365"]
+[WhiteCountry "GRE"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. f4 Nc6 3. Nc3 e6 4. Nf3 d5 5. g3 Be7 6. d3 b5 7. Nxb5 h5 8. Nc3 h4
+9. g4 h3 10. g5 f6 11. Rg1 Nd4 12. Rg3 dxe4 13. dxe4 e5 14. fxe5 Nxf3+ 15. Qxf3
+fxg5 16. Bxg5 Nh6 17. Bb5+ Bd7 18. Rd1 1-0

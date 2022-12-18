@@ -1,0 +1,25 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petran, Pal"]
+[Black "Raicevic, Ivica"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "57d71359"]
+[Epoch "Queen"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackID "902756"]
+[BlackCountry "SRB"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Nc3 O-O 5. Bg5 d5 6. cxd5 exd5 7. Qb3 Bxc3+
+8. bxc3 c6 9. e3 Nbd7 10. Be2 Qb6 11. Nd2 h6 12. Bf4 Qxb3 13. axb3 Re8 14. O-O
+Nf8 15. h3 Ne6 16. Be5 Nd7 17. Bd6 Ng5 18. h4 Ne4 19. Nxe4 Rxe4 20. Bf4 Re8 21.
+f3 Nf8 22. Kf2 Ng6 23. Bg3 h5 24. Bd3 f5 25. Bd6 Bd7 26. g3 Nf8 27. Ra2 Be6 28.
+Rfa1 a6 29. Ra4 Red8 30. Bf4 Rd7 31. Ra5 Ng6 32. Bg5 Kf7 33. Ke2 Ne7 34. Kd2
+Nc8 35. c4 Nd6 36. Kc3 Rc8 37. Bf4 Ke7 38. Kb4 b6 39. Rxa6 c5+ 40. dxc5 bxc5+
+41. Kc3 dxc4 42. bxc4 Ne8 43. Ra8 Rcd8 44. Rxd8 Rxd8 45. Ra7+ Kf8 46. Ra5 Rc8
+47. e4 g6 48. Be3 1-0

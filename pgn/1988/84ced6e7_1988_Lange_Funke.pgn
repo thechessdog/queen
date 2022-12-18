@@ -1,0 +1,17 @@
+[Event "corr ch-DDR jr"]
+[Site "corr ch-DDR jr"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lange"]
+[Black "Funke"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "84ced6e7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nf3 dxe4 4. Ne5 Nf6 5. Bg5 Be7 6. c3 h6 7. Bxf6 Bxf6
+8. Qg4 Nd7 9. Nxd7 Bxd7 10. Qxe4 Bc6 11. Qg4 O-O 12. Nd2 e5 13. dxe5 Bxe5
+14. O-O-O Qf6 15. Nc4 Bf4+ 16. Kb1 Rad8 17. Be2 b5 18. Na5 Be4+ 19. Ka1 Qe5
+20. Rxd8 Rxd8 21. Bf3 Bf5 22. Qh5 Rd3 23. Bd1 Rxc3 24. Qe2 Rc1# 0-1
+

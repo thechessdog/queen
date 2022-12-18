@@ -1,0 +1,20 @@
+[Event "Matalascanas"]
+[Site "Matalascanas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reyes, Juan"]
+[Black "Manzano"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "46315c88"]
+[Epoch "Queen"]
+[WhiteID "3800040"]
+[WhiteCountry "PER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 h6 5. Bh4 Bg7 6. f4 c5 7. dxc5 Qa5 8. Qd2
+Qxc5 9. Nf3 Nc6 10. Bd3 O-O 11. h3 Nb4 12. Bf2 Nxd3+ 13. cxd3 Qa5 14. O-O b6
+15. Be3 e6 16. Rab1 Bd7 17. b4 Qa6 18. f5 exf5 19. exf5 Bxf5 20. Nd4 Bd7 21. b5
+Qb7 22. Bxh6 Nd5 23. Bxg7 Kxg7 24. Ne4 f5 25. Qb2 Nf6 26. Nxf6 Rxf6 27. Rfe1
+Raf8 28. Re7+ R8f7 29. Rbe1 Kf8 30. Nf3 1-0

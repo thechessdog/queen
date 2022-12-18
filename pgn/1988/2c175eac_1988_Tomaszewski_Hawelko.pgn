@@ -1,0 +1,24 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1988.01.01"]
+[Round "11"]
+[White "Tomaszewski, Roman"]
+[Black "Hawelko, Marek"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "2c175eac"]
+[Epoch "Queen"]
+[BlackID "1100203"]
+[BlackCountry "POL"]
+[WhiteID "1100637"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+a6 9. b3 Rb8 10. h3 b5 11. cxb5 axb5 12. dxe5 dxe5 13. Qc2 Bb7 14. Nd2 c6 15.
+a4 Qb6 16. Nf3 b4 17. Be3 c5 18. Nd5 Nxd5 19. exd5 Bxd5 20. Rfd1 Qb7 21. Rxd5
+Qxd5 22. Rd1 Qe6 23. Ng5 Qe7 24. Ne4 Rfd8 25. Qc4 h6 26. a5 Kh7 27. Rxd7 Qxd7
+28. Nxc5 Qc7 29. a6 f5 30. Bd5 f4 31. gxf4 exf4 32. Bxf4 Be5 33. Be3 Bd6 34.
+Nb7 Qxc4 35. bxc4 b3 36. a7 b2 37. Nxd8 b1=Q+ 38. Kg2 Rxd8 39. a8=Q Rxa8 40.
+Bxa8 0-1

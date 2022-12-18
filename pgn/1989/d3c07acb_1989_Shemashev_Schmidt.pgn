@@ -1,0 +1,17 @@
+[Event "Latvia"]
+[Site "Latvia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shemashev"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "d3c07acb"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 c6 6. d4 d6 7. cxd6 exd6 8. Nxd5
+cxd5 9. f4 Nc6 10. Be3 Qb6 11. Nf3 dxe5 12. fxe5 Qxb2 13. Be2 Bb4+ 14. Kf2 Bf5
+15. g4 Be4 16. Qc1 Bc3 17. Qxb2 Bxb2 18. Rad1 O-O 19. Bd3 f6 20. e6 f5 21. g5
+f4 22. Bxe4 dxe4 0-1

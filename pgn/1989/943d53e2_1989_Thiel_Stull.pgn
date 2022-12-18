@@ -1,0 +1,24 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "6"]
+[White "Thiel, Thomas"]
+[Black "Stull, Norbert"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "943d53e2"]
+[Epoch "Queen"]
+[WhiteID "4615964"]
+[WhiteCountry "GER"]
+[BlackID "4000137"]
+[BlackCountry "LUX"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+b5 9. Qf3 Qc7 10. Re1 O-O 11. Qg3 Kh8 12. Bg5 b4 13. Na4 Nc6 14. Nxc6 Qxc6 15.
+c3 bxc3 16. Nxc3 Bd7 17. Rad1 Qb7 18. Qh4 Rac8 19. Rd3 Rc5 20. e5 Rxe5 21. Rxe5
+dxe5 22. Rh3 Qb4 23. Bxf6 Qxh4 24. Bxh4 g5 25. Rd3 Bc6 26. Bg3 e4 27. Rd4 Bf6
+28. Rd6 Rc8 29. h3 h5 30. Rd1 a5 31. Re1 h4 32. Bd6 Rd8 33. Bc7 Rd2 34. Bxa5
+Rxb2 35. Re2 Rxe2 36. Nxe2 Kg8 37. Nc3 Bd4 38. Ne2 Bf6 39. Bb4 Be5 40. Be7 Bb5
+41. Kf1 1-0

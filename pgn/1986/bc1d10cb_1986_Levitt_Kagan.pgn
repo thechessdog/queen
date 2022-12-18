@@ -1,0 +1,28 @@
+[Event "Holon op"]
+[Site "Holon"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Levitt, Jonathan P"]
+[Black "Kagan, Shimon"]
+[Result "1-0"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "bc1d10cb"]
+[Epoch "Queen"]
+[WhiteID "400220"]
+[WhiteCountry "ENG"]
+[BlackID "2800284"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+Ng4 9. Bg5 f6 10. Bd2 Nh6 11. Qc2 Nf7 12. Rad1 a5 13. Rfe1 c6 14. Bf1 Qc7 15.
+Be3 Bh6 16. a3 Bxe3 17. Rxe3 Re8 18. b4 axb4 19. axb4 Qb6 20. Qb3 Kg7 21. h3
+Nf8 22. c5 dxc5 23. dxc5 Qc7 24. Bc4 Be6 25. Bxe6 Nxe6 26. Red3 Nf8 27. Na4
+Rad8 28. Nb6 Rxd3 29. Rxd3 Rd8 30. Qd1 Ne6 31. g3 Rxd3 32. Qxd3 Qd8 33. Qxd8
+Nfxd8 34. Kf1 Nc7 35. Ne1 Nde6 36. Nc4 Nb5 37. Na5 Nd8 38. Ke2 f5 39. Kd3 Kf6
+40. exf5 gxf5 41. Nc2 Ke6 42. Kc4 Nc7 43. Ne3 f4 44. gxf4 exf4 45. Nc2 Kf5 46.
+Nd4+ Kg5 47. Nf3+ Kf5 48. Nd4+ Ke4 49. Nab3 Nde6 50. Nd2+ Ke5 51. N2f3+ Kf6 52.
+Nb3 h6 53. Na5 Nd8 54. Kd4 Nce6+ 55. Ke4 Ng5+ 56. Nxg5 hxg5 57. f3 Kg6 58. Ke5
+Kh5 59. Kf6 Kh4 60. Nc4 Kxh3 61. Ne5 b6 62. cxb6 Kh4 63. Ke7 Nb7 64. Nxc6 g4
+65. fxg4 Kxg4 66. Nd4 1-0

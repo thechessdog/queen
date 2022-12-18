@@ -1,0 +1,18 @@
+[Event "corr olw"]
+[Site "corr olw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Capuano, A."]
+[Black "Beranova, V."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "a45166c9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Nd2 Qe7 10. d5 Nb8 11. Qc2 Nbd7 12. Rb1 O-O 13. f3 h6 14. Rf2
+g6 15. Nf1 e4 16. fxe4 Ng4 17. Rf4 Nde5 18. h3 Nxd3 19. Qxd3 Ne5 20. Qe2 b6
+21. Nd2 Ba6 22. a4 g5 0-1
+

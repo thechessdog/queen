@@ -1,0 +1,25 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Koch, Berthold"]
+[Black "Ruefenacht, Matthias"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "52ee86ce"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+[BlackID "1300300"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8. Be2
+b6 9. O-O Ba6 10. Bxa6 Nxa6 11. Qe2 Nb8 12. a4 Nd7 13. Ba3 Nc6 14. c4 dxc4 15.
+Qxc4 O-O 16. Rfe1 Rfc8 17. d5 Ncxe5 18. Nxe5 Nxe5 19. Qe4 Ng6 20. dxe6 fxe6 21.
+Qxe6+ Qf7 22. Bb2 Qxe6 23. Rxe6 Re8 24. Rc6 Rac8 25. Rxc8 Rxc8 26. Rd1 Rc7 27.
+f3 Kf7 28. Kf2 Ne7 29. f4 Nc6 30. Kf3 Na5 31. Be5 Re7 32. Ke4 Nc4 33. Rd5 Nb2
+34. a5 Nc4 35. axb6 axb6 36. Kd3 Nxe5+ 37. fxe5 Re6 38. Rd7+ Re7 39. Rxe7+ Kxe7
+40. Ke4 c4 41. Kd5 c3 42. Kc6 Ke6 43. Kxb6 Kxe5 44. Kc5 g5 45. Kc4 g4 46. Kxc3
+Kf4 47. Kd4 h5 48. c4 h4 49. c5 h3 50. gxh3 gxh3 51. c6 Kf3 52. c7 Kg2 53. c8=Q
+Kxh2 54. Qg4 1-0

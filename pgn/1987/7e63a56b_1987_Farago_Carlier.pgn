@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Carlier, Bruno"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "7e63a56b"]
+[Epoch "Queen"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "1000314"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+d6 9. Nd2 Bxc3 10. bxc3 Nbd7 11. h4 Rg8 12. hxg5 hxg5 13. a4 Ke7 14. a5 Rh8 15.
+Rxh8 Qxh8 16. axb6 axb6 17. Rxa8 1/2-1/2

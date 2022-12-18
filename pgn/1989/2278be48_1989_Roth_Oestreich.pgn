@@ -1,0 +1,15 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roth, Juergen Eugen"]
+[Black "Oestreich, M."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "2278be48"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. Nc3 Bg7 6. d3 d6 7. Nd5 Bd7 8. Bg5
+Bf8 9. Nf6# 1-0

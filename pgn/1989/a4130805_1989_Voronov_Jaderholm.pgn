@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Voronov"]
+[Black "Jaderholm"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "a4130805"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 c5 10. Rd1 d6 11. b3 Bf6 12. Qd2 Qe7 13. Bb2 Na6 14. dxc5
+Bxb2 15. Qxb2 Nxc5 16. Nd4 Bxg2 17. Kxg2 Qb7+ 18. f3 d5 19. b4 Na6 20. b5
+Nc7 21. Nc6 a6 22. a4 Rfe8 23. Qb4 h6 24. Qd6 dxc4 25. Qd7 Qc8 26. Ne5 Rf8
+27. e4 axb5 28. axb5 Rxa1 29. Rxa1 Qxd7 30. Nxd7 Rd8 31. Nxb6 c3 0-1
+

@@ -1,0 +1,21 @@
+[Event "Burgas"]
+[Site "Burgas"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Andonov, Bogomil"]
+[Black "Ermenkov, Evgenij"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "583daf1f"]
+[Epoch "Queen"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+[WhiteCountry "BGR"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 e6 4. g3 Nf6 5. Bg2 Be7 6. h3 a6 7. d3 Nc6 8. f4 Qc7
+9. g4 b5 10. Ng3 Bb7 11. g5 Nd7 12. Nce2 h6 13. h4 hxg5 14. hxg5 Rxh1+ 15. Bxh1
+O-O-O 16. Be3 Rh8 17. Qd2 e5 18. f5 Nd4 19. Kf2 Qd8 20. Bg2 Rh2 21. Ng1 Qh8 22.
+c3 Qh4 23. cxd4 cxd4 24. Nf3 dxe3+ 25. Qxe3 Rxg2+ 26. Kxg2 Qh7 27. f6 gxf6 28.
+Nf5 Bf8 29. Qa7 b4 30. Rc1+ Nc5 31. Qb6 Qxf5 32. exf5 fxg5 33. Kg3 f6 1-0

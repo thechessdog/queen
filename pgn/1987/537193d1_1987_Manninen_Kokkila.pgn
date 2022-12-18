@@ -1,0 +1,22 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Manninen, Marko"]
+[Black "Kokkila, Tero"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "537193d1"]
+[Epoch "Queen"]
+[WhiteID "500690"]
+[BlackID "501352"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Nc4 Ne5 13. Na3 Nh5 14. Nc2 Rb8 15.
+f4 Nc4 16. Qd3 Na5 17. Qf3 f5 18. e4 fxe4 19. Nxe4 Bf5 20. Re1 Nf6 21. Nxf6+
+Qxf6 22. Bd2 Qxb2 23. Bxa5 Qxc2 24. Rac1 Rxe1+ 25. Rxe1 b6 26. g4 Bd3 27. f5
+Bd4+ 0-1

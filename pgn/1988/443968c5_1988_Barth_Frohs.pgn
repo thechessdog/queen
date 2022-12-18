@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Barth"]
+[Black "Frohs"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "443968c5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Qg4 cxb2
+8. Bxb2 g6 9. h4 h5 10. Qf4 Nc6 11. b5 Nce7 12. Nf3 Nf5 13. Bd3 Ngh6 14.
+O-O-O Bd7 15. Rhe1 Ng4 16. Ng5 O-O 17. Bxf5 gxf5 18. f3 Nh6 19. Ne4 Kg7 20.
+Nf6 Rh8 21. Qg5+ Kf8 22. Ba3+ 1-0
+

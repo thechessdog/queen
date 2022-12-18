@@ -1,0 +1,15 @@
+[Event "Spain"]
+[Site "Spain"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mingorance"]
+[Black "Campos Parejo, A."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "d09ec7c4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. d4 Bd6 5. Bc4 Bxe5 6. dxe5 Qxd1+ 7. Kxd1
+Bg4+ 8. Ke1 Nc6 9. Bb5 O-O-O 10. Nc3 Nd4 11. Ba4 b5 12. Bb3 b4 0-1
+

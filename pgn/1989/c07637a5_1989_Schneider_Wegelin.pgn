@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schneider, W."]
+[Black "Wegelin, R."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "c07637a5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. Ne5
+Bd7 8. Bxc6 Bxc6 9. Nxc6 bxc6 10. O-O Qd4+ 11. Rf2 Bc5 0-1
+

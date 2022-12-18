@@ -1,0 +1,18 @@
+[Event "Donau"]
+[Site "Donau"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lindenthal, A."]
+[Black "Motloch"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "56fe5337"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 c6 3. Nc3 dxe4 4. f3 exf3 5. Qxf3 Nf6 6. Be3 Bg4 7. Qg3 e6
+8. h3 Bd6 9. Bf4 Bxf4 10. Qxf4 Qb6 11. Qd2 Bf5 12. O-O-O Na6 13. Nf3 Nb4
+14. Ne1 Nfd5 15. Nxd5 cxd5 16. a3 Nc6 17. g4 Be4 18. Bg2 Bg6 19. Nf3 Rc8
+20. c3 Na5 0-1
+

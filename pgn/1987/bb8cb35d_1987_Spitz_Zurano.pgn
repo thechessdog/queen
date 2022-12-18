@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Spitz, P."]
+[Black "Zurano, A."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "bb8cb35d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. Na3 cxd4
+8. Nb5 Na6 9. Qa4 Kd8 10. Nbxd4 e5 11. Nb3 Bd7 12. Qa5+ Nc7 13. Qxd5 Ncxd5
+14. Nxe5 Be6 15. Nd4 Kc7 16. Nxe6+ fxe6 17. O-O Bd6 18. Nf7 Rhf8 19. Nxd6
+Kxd6 20. Bf3 e5 21. c4 e4 22. Bxe4 Nxe4 23. cxd5 Rf5 24. Be3 Nf6 25. Bd4
+Rxd5 26. Bxf6 gxf6 27. Rfe1 Rc8 28. Re2 Rc7 29. Rae1 Re5 30. f4 Rxe2 31.
+Rxe2 Kd5 32. Kf2 Rg7 33. Kf3 Kd6 34. g4 b6 35. h4 h6 36. f5 Kd7 37. Kf4 Rg8
+38. Re6 Rf8 39. b3 Rf7 40. g5 hxg5+ 41. hxg5 fxg5+ 42. Kxg5 Rg7+ 43. Kf6
+Rh7 44. Re2 a6 45. Kg6 Rh1 46. f6 Rg1+ 47. Kf7 Rh1 48. Rd2+ Kc6 49. Ke7
+Re1+ 50. Kf8 Kc5 51. f7 1-0
+

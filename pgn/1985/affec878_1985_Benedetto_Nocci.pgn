@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Benedetto"]
+[Black "Nocci"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "affec878"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 g5 4. f3 gxh4 5. fxe4 c5 6. e3 Qb6 7. Nf3 Qxb2
+8. Bc4 Qxa1 9. Ne5 e6 10. O-O Bh6 11. Nxf7 Bxe3+ 12. Kh1 Qxd4 13. Qh5 Ke7
+14. Qxh4+ 1-0
+

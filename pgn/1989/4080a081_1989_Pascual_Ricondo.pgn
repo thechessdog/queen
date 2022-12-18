@@ -1,0 +1,19 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pascual, J."]
+[Black "Ricondo, M."]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "4080a081"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 d5 5. Bd3 Nbd7 6. Nbd2 c5 7. c3 c4 8.
+Bc2 O-O 9. O-O Qc7 10. Re1 Re8 11. h3 b5 12. a3 Nh5 13. Nf1 e5 14. dxe5
+Nxe5 15. Bf4 Nxf4 16. exf4 Nxf3+ 17. Qxf3 Rxe1 18. Rxe1 Qc6 19. Ne3 Bb7 20.
+Rd1 Rd8 21. Be4 dxe4 22. Rxd8+ Bf8 23. Qd1 Kg7 24. Qd4+ Kg8 25. Ng4 e3 26.
+Nh6# 1-0
+

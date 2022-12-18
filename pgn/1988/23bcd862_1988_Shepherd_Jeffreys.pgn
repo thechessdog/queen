@@ -1,0 +1,21 @@
+[Event "corr Parker mem"]
+[Site "corr Parker mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Shepherd"]
+[Black "Jeffreys"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "23bcd862"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 d4 14.
+Nxd4 Nxd4 15. Qxd4 Nf5 16. Qb4 b6 17. Kf2 Qc6 18. Rb3 Rc8 19. Rg1 Qc5+ 20.
+Qxc5 Rxc5 21. Bd3 Bc6 22. g3 Bd5 23. Rb4 Rc8 24. h4 Ke7 25. h5 Nh6 26. f5
+Ng4+ 27. Rxg4 Rxg4 28. f6+ Kf8 29. h6 Kg8 30. h7+ Kh8 31. Bf4 Bc4 32. Be4
+Rd8 33. Kf3 Bd5 34. Bxd5 Rxf4+ 35. gxf4 exd5 36. Rg8+ Rxg8 37. hxg8=Q+ Kxg8
+38. Ke3 b5 39. Kd4 1-0
+

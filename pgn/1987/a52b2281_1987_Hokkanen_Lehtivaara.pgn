@@ -1,0 +1,20 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hokkanen, Petri"]
+[Black "Lehtivaara, Petri"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "a52b2281"]
+[Epoch "Queen"]
+[WhiteID "501239"]
+[BlackID "500682"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 dxe4 5. Qxe4 Nf6 6. Qh4 c5 7. dxc5 Bxc3+ 8.
+bxc3 Qc7 9. Ba3 Nbd7 10. Rd1 b6 11. c6 Qxc6 12. Qd4 Bb7 13. Nf3 O-O-O 14. Rb1
+Nc5 15. Qh4 Nce4 16. Rb3 g5 0-1

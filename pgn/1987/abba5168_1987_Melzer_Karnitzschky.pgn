@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Melzer, G."]
+[Black "Karnitzschky, M."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "abba5168"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O h6 12. Bh4 Nbd7 13. Bf3 Ng8 14. Bg3
+Rb8 15. Kh1 g6 16. f5 e5 17. fxg6 fxg6 18. Ne6 Ndf6 19. Nc7+ Kd8 20. N7d5
+Nxd5 21. Nxd5 Bg5 22. Qf2 Be6 23. Qb6+ Ke8 24. Nc7+ Ke7 25. Nxe6 1-0
+

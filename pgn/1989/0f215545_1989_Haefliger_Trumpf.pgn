@@ -1,0 +1,18 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haefliger, T."]
+[Black "Trumpf, Walter"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "0f215545"]
+[Epoch "Queen"]
+[BlackID "1302205"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. c3 Nf6 8. Bd3
+Ng4 9. Bg1 e5 10. Nxc6 bxc6 11. f5 Nf6 12. Bf2 d5 13. fxg6 hxg6 14. Nd2 Ng4 15.
+Bg3 Qb6 16. Rb1 Rxh2 17. Rxh2 Qe3+ 0-1

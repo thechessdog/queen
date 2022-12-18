@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wegelin, R."]
+[Black "Roscher, J."]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "72b3a053"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 7. a3
+Ngxe5 8. Nxe5 Nxe5 9. Bxe5 Bxd2+ 10. Qxd2 d6 11. Bxg7 Rg8 12. Qc3 1-0
+

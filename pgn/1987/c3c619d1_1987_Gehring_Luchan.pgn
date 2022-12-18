@@ -1,0 +1,26 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gehring, B."]
+[Black "Luchan, Jason"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "c3c619d1"]
+[Epoch "Queen"]
+[BlackID "2008637"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Nf3 Qd7 7. Bd3 Ba6 8. Bd2
+Ne7 9. Ne2 Bxd3 10. cxd3 Nf5 11. Rc1 Nc6 12. a3 g6 13. O-O h5 14. Qg5 Bh6 15.
+Qf6 Bg7 16. Qg5 Nce7 17. Ng3 Bh6 18. Qf6 Bg7 19. Qg5 O-O-O 20. Nxf5 Nxf5 21.
+Rc2 Bh6 22. Qf6 Bg7 23. Qg5 Kb7 24. Rfc1 Rc8 25. h3 Bh6 26. Qf6 Bg7 27. Qg5 c6
+28. b4 Rc7 29. a4 Rhc8 30. g4 hxg4 31. hxg4 Nh6 32. Qh4 Qe7 33. Bg5 Qf8 34. b5
+Qh8 35. Be7 cxb5 36. Rxc7+ Rxc7 37. Rxc7+ Kxc7 38. axb5 Qe8 39. Bg5 Qf8 40. Be7
+Qe8 41. Bg5 Qh8 42. Be7 Kb7 43. Bd6 Qe8 44. Qe7+ Qxe7 45. Bxe7 Nxg4 46. Ng5 Nh6
+47. f4 a6 48. bxa6+ Kxa6 49. Kf1 Kb5 50. Ke1 Ka4 51. Kd2 Kb3 52. Bd8 b5 53. Bb6
+Bf8 54. Bc5 Bg7 55. Bd6 Ka4 56. Kc3 Ka5 57. Bc5 Bh8 58. Bd6 Kb6 59. Bc5+ Kc6
+60. Kb4 Bg7 61. Kc3 Kd7 62. Kb4 f6 63. Nh7 fxe5 64. dxe5 Ng4 65. Kxb5 Bh6 66.
+Ng5 Bxg5 67. fxg5 Nxe5 0-1

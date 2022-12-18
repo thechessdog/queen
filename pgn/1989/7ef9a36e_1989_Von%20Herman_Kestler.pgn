@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Von Herman, Ulf"]
+[Black "Kestler, Hans-Guenther"]
+[Result "1/2-1/2"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "7ef9a36e"]
+[Epoch "Queen"]
+[WhiteID "4608500"]
+[WhiteCountry "GER"]
+[BlackID "4601076"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nc6 5. Bg5 Be7 6. e3 O-O 7. Be2 Bf5 8. O-O
+Re8 9. Re1 h6 10. Bh4 Bh7 11. a3 exd4 12. exd4 Ne4 13. Bxe7 Nxe7 14. Bd3 Nxc3
+15. Bxh7+ Kxh7 16. Qd3+ Kg8 17. Qxc3 Qd7 18. Re4 Nf5 19. Rae1 Rxe4 20. Rxe4 Re8
+21. Qe1 Rxe4 22. Qxe4 c6 23. h3 1/2-1/2

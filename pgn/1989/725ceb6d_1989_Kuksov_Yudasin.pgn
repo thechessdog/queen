@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuksov, Valery"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "725ceb6d"]
+[Epoch "Queen"]
+[BlackID "2802341"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. f5 Be7 10. Qf3 O-O 11. Be3 Bd7 12. g4 b5 13. g5 Ne8 14. Rg1 b4 15. Nd5
+exd5 16. Bxd5 Nc7 17. Bc4 d5 18. exd5 Bd6 19. O-O-O Bb5 20. Nc6 Qe8 21. Rg4 Nd7
+22. Bxb5 axb5 23. Re4 Qc8 24. Bf4 Bxf4+ 25. Rxf4 Re8 26. d6 Rxa2 27. Ne7+ Rxe7
+28. dxe7 Ra1+ 29. Kd2 Ne5 30. Ke3 Ne8 31. Rd8 Qc5+ 32. Rfd4 Re1+ 33. Kf2 Qxd4+
+0-1

@@ -1,0 +1,24 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schussler, Harry"]
+[Black "Pecorelli Garcia, Humberto"]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "cc052439"]
+[Epoch "Queen"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+[BlackID "3500233"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+exd4 9. Nxd4 Nc5 10. f3 c6 11. Be3 a5 12. Qd2 Qe7 13. Bf1 Nfd7 14. Bh6 Bxh6 15.
+Qxh6 Qf6 16. Rad1 Ne5 17. Nc2 Rd8 18. Qd2 Be6 19. Ne3 h5 20. Be2 a4 21. Rf1 Qf4
+22. g3 Qh6 23. f4 Ng4 24. Bxg4 Bxg4 25. Nxg4 hxg4 26. Qf2 b6 27. Rd4 Qg7 28.
+Rfd1 a3 29. e5 axb2 30. Qxb2 g5 31. Rxd6 Rxd6 32. exd6 gxf4 33. d7 Ne6 34. gxf4
+g3 35. f5 gxh2+ 36. Kh1 Nf8 37. Qxh2 Qxc3 38. d8=Q Rxd8 39. Rxd8 Kg7 40. Rd6
+Ng6 41. f6+ 1-0

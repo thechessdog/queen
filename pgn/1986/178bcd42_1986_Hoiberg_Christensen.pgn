@@ -1,0 +1,20 @@
+[Event "Aarhus-C"]
+[Site "Aarhus"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Hoiberg, Nina"]
+[Black "Christensen, Jan"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "178bcd42"]
+[Epoch "Queen"]
+[WhiteID "1400720"]
+[BlackID "1400916"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. Qb3
+Qd7 9. cxd4 Bb6 10. Bb5 Kf8 11. Bd2 Qg4 12. d5 Nd4 13. Nxd4 Bxd4 14. Bc3 Bb6
+15. Qb2 Nf6 16. Kh1 Nxe4 17. Re1 Bf5 18. Rxe4 Bxe4 19. f3 Bxf3 20. Na3 Bxd5 0-1

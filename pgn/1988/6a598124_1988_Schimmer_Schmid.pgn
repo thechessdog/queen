@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1988.01.01"]
+[Round "5"]
+[White "Schimmer, Karsten"]
+[Black "Schmid, Eugen"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "6a598124"]
+[Epoch "Queen"]
+[BlackID "4642244"]
+[BlackCountry "GER"]
+[WhiteID "4625137"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. b3 d5 3. Bb2 Nf6 4. Nc3 Be7 5. Bd3 c5 6. Nf3 Nc6 7. e5 Ng4 8. Qe2
+a6 9. h3 Nh6 10. g4 b5 11. Qf1 c4 12. bxc4 bxc4 13. Be2 Rb8 14. Bc1 Qc7 15. d3
+cxd3 16. Bxd3 Nxe5 0-1

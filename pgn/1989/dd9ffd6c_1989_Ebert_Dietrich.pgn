@@ -1,0 +1,20 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ebert, Wolfgang"]
+[Black "Dietrich, Ralf"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "dd9ffd6c"]
+[Epoch "Queen"]
+[WhiteID "4624025"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 d6 7. O-O Nf6 8. Kh1
+Be7 9. f4 Nc6 10. Be3 Bd7 11. a3 Nxd4 12. Bxd4 e5 13. Bg1 O-O 14. a4 Rac8 15.
+a5 Bc6 16. Bb6 Qd7 17. fxe5 dxe5 18. Rf5 Qe6 19. Qe2 Nd7 20. Bc4 Qg6 21. Raf1
+Bd6 22. Bxf7+ Rxf7 23. Rxf7 Qxf7 24. Rxf7 Kxf7 25. Qc4+ Kf8 26. Qe6 Be7 27. Nd5
+Bxd5 28. Qxd7 Rxc2 29. exd5 Rc1+ 30. Bg1 Bc5 31. Qc8+ Kf7 32. Qxc5 1-0

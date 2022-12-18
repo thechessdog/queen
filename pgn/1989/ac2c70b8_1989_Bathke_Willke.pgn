@@ -1,0 +1,15 @@
+[Event "RLNS 8990"]
+[Site "RLNS 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bathke, J."]
+[Black "Willke, H."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence, Steiner variation"]
+[HashCode "ac2c70b8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. c4 d5 3. cxd5 exd5 4. Qb3 dxe4 5. Bc4 Qe7 6. Nc3 c6 7. a4 Nd7
+8. Nge2 Nc5 9. Qc2 Be6 10. d4 exd3 11. Bxd3 Rd8 12. Be4 Bb3 0-1
+

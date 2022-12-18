@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wojciuk, S."]
+[Black "Sorensen, J."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7f54a6b1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 Nf6 5. Bd3 Nc6 6. Nf3 Qb6 7. e5 Nd5 8.
+a3 Nxd4 9. O-O Nb3 10. Ra2 Nxc1 11. Qxc1 Qa5 12. Qc4 Nb6 13. Qc2 d5 14. Nc3
+Nd7 15. Bxh7 d4 16. b4 Qb6 17. Ne2 g5 18. Nfxd4 Nxe5 19. Bd3 Bd6 20. Bb5+
+Bd7 21. Bxd7+ Kxd7 22. Rd1 Rxh2 23. Kxh2 Nf3+ 24. Kh3 Rh8+ 25. Kg4 Nh2+ 26.
+Kxg5 Qd8# 0-1
+

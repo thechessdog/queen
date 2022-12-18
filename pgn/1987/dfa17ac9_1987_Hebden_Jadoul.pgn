@@ -1,0 +1,21 @@
+[Event "Tarnby"]
+[Site "Tarnby"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hebden, Mark L"]
+[Black "Jadoul, Michel"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "dfa17ac9"]
+[Epoch "Queen"]
+[BlackID "200034"]
+[BlackCountry "BEL"]
+[WhiteID "400084"]
+[WhiteCountry "ENG"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 Nxf3+ 5. Qxf3 Qf6 6. Qg3 Qg6 7. Qxc7 Bd6
+8. Qc4 Nf6 9. Nc3 Be5 10. Bd2 O-O 11. O-O-O d5 12. exd5 b5 13. Nxb5 Bf5 14. Bc3
+Rfc8 15. Qa4 a6 16. Nd4 Rxc3 17. bxc3 Rb8 18. Nb3 Ne4 19. Qxa6 Qg5+ 20. Kb2
+Nxc3 21. Re1 Qd2 22. Bd3 Ne2+ 23. Kb1 Qc3 0-1

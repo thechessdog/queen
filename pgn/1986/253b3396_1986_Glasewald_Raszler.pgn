@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Glasewald"]
+[Black "Raszler"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "253b3396"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Nf3 c6 5. Qd3 Qa5 6. Bd2 a6 7. e4 Nxe4
+8. Nxe4 dxe4 9. Bxa5 exd3 10. Bxd3 b6 11. Bd2 Bb7 12. Be3 e6 13. O-O Bd6
+14. Rfe1 O-O 15. Rad1 h6 16. c3 Nf6 17. Nd2 Ng4 18. h3 Nxe3 19. fxe3 Rac8
+20. Be4 Ba8 21. Re2 Rfd8 22. Rf1 c5 23. Bxa8 Rxa8 24. Nf3 Ra7 25. Kf2 Re7
+26. Rd1 Red7 27. Red2 Be7 28. Ke2 f6 29. c4 Kf7 30. b3 a5 31. g4 g5 32. d5
+exd5 33. Rxd5 Bd6 34. e4 Ke6 35. R1d3 Bf4 0-1
+

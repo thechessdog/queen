@@ -1,0 +1,19 @@
+[Event "Copenhagen AS04"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansen, Lars Bo"]
+[Black "Eingorn, Vereslav S"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "e78dd1e5"]
+[Epoch "Queen"]
+[WhiteID "1400037"]
+[WhiteCountry "DEN"]
+[BlackID "14100053"]
+[BlackCountry "UKR"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Bc3 Bxc3 10. Nxc3 Ne4 1/2-1/2

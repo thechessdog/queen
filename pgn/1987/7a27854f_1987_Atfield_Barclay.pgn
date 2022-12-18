@@ -1,0 +1,17 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Atfield"]
+[Black "Barclay"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "7a27854f"]
+[Epoch "Queen"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Bd3 Bb4 5. a3 Bxc3+ 6. bxc3 c5 7. Rb1 Qc7
+8. Qg4 Ne7 9. Qxg7 Rg8 10. Qxh7 cxd4 11. cxd4 Nbc6 12. Ne2 Nxd4 13. Nxd4
+Qc3+ 14. Ke2 Qxd4 15. Bb2 Qc5 16. Rbg1 O-O-O 17. h4 d5 18. Qxf7 dxe4 19.
+Qxe6+ Rd7 20. Bd4 Bd5 21. Ba6+ Kd8 22. Qe5 Qxc2+ 23. Ke1 Bb7 0-1
+

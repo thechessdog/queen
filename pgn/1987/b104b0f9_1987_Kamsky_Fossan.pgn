@@ -1,0 +1,18 @@
+[Event "Innsbruck"]
+[Site "Innsbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kamsky, Gata"]
+[Black "Fossan, P."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b104b0f9"]
+[Epoch "Queen"]
+[WhiteID "2000024"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 cxd4 8. Nxd4
+h5 9. f4 hxg4 10. Bb5+ Nd7 11. f5 Rxh4 12. Rf1 Bxf5 13. Nxf5 exf5 14. Qxd5 a6
+15. e6 Nf6 16. exd7+ Nxd7 17. Bg5 Be7 18. Rxf5 1-0

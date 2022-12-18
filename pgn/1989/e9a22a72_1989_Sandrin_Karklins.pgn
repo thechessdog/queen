@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sandrin, Angelo"]
+[Black "Karklins, Andrew"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "e9a22a72"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 h6 5. Bh4 b6 6. e3 Bb7 7. Nbd2 Be7 8. Bd3
+g5 9. Bg3 g4 10. Ne5 h5 11. e4 d6 12. Qa4+ Kf8 13. Nec4 h4 14. Bf4 cxd4 15.
+cxd4 d5 16. exd5 Nxd5 17. Bxb8 Qxb8 18. Ne5 Kg7 19. Nxg4 Qf4 20. h3 Bb4 21. Rd1
+Qxd4 22. Qd7 Qxd3 23. Qxb7 Nf4 24. Qf3 Qxf3 25. gxf3 Nd3+ 26. Ke2 Nxb2 27. Rb1
+Bxd2 28. Kxd2 Rhd8+ 29. Ke2 Na4 30. Rbc1 Rac8 31. a3 Rc3 32. Rxc3 Nxc3+ 33. Ke3
+Nd5+ 34. Ke2 Rc8 35. Ne3 Nxe3 36. fxe3 Rc2+ 37. Kd3 Ra2 38. Rg1+ Kf6 39. Rg4
+Rxa3+ 40. Kd2 Ra2+ 41. Kd3 Ra3+ 42. Kd2 a5 43. Rxh4 b5 44. Rf4+ Ke7 45. h4 b4
+46. Rc4 Ra2+ 47. Kd3 b3 48. Rc7+ Kf6 49. Rb7 a4 0-1

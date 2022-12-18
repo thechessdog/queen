@@ -1,0 +1,19 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Borrmann"]
+[Black "Downey, M."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "d43dd6e3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. Nc3 Bc5 6. Bc4 Bxf2+ 7. Kf1
+Bb6 8. Qf3 Qf6 9. e5 Qxe5 10. b3 Be6 11. Bxe6 Qxe6 12. Bb2 O-O-O 13. Re1
+Qg6 14. d3 Bd4 15. Nd1 Bxb2 16. Nxb2 Nf6 17. Nc4 Rhe8 18. Ne5 Qh5 19. Qg3
+Rd5 20. Nf3 Ng4 21. Qh4 Qxh4 22. Rxe8+ Rd8 23. Nxh4 Rxe8 24. c4 c5 25. h3
+Ne5 0-1
+

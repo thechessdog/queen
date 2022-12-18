@@ -1,0 +1,17 @@
+[Event "NWC August"]
+[Site "NWC August"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Donaldson, John"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "52e5c1e0"]
+[Epoch "Queen"]
+[WhiteID "2000709"]
+[WhiteCountry "USA"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. d5 Ne5 5. Nxe5 Bxd1 6. Bb5+ Qd7 7. Bxd7+ Kd8
+8. Nxf7+ Kxd7 9. Kxd1 1-0

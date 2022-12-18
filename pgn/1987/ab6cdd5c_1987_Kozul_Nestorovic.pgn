@@ -1,0 +1,16 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kozul, Zdenko"]
+[Black "Nestorovic"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "ab6cdd5c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. e5
+Nfd7 9. h4 b5 10. Qb3 c5 11. e6 fxe6 12. h5 cxd4 13. hxg6 Nf6 14. gxh7+ Kh8 15.
+Ne5 Nxh7 16. Qc2 d3 17. Bxd3 Bxe5 18. Rxh7+ 1-0

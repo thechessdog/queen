@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Klompus, G."]
+[Black "Schmidt, P."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "2454dbfe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. Nxe5 Qg5 6. O-O Qxe5 7. d4 Qe6
+8. exd5 Qxd5 9. dxc5 Qxc5 10. Qe2+ Be6 11. Nd2 Ne7 12. Nb3 Bxb3 13. axb3
+O-O 14. Ra4 Rad8 15. Re4 Nc8 16. Bd3 N8e7 17. b4 Qd6 18. Bc2 Ng6 19. Re1 f5
+20. Bb3+ Kh8 21. Re6 Nf4 22. Bxf4 Qxf4 23. g3 Qd2 24. Qxd2 Rxd2 25. b5 Na5
+26. Re8 Rd8 27. Rxf8+ Rxf8 28. Be6 b6 29. Bd5 1-0
+

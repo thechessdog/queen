@@ -1,0 +1,20 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hart, S."]
+[Black "Hamilton, W."]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "a4f6c42c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Be2 Rd8 12. Qc2 cxd4 13. cxd4 b6 14.
+Ne5 Bb7 15. Bf3 Rac8 16. Bb2 Nxd4 17. Qxc7 Nxf3+ 18. Nxf3 Rxc7 19. Bxf6
+gxf6 20. Nd4 Rc5 21. Rfb1 f5 22. a4 Be4 23. Rb5 Kg7 24. f3 Bb7 25. Rxc5
+bxc5 26. Nb5 a6 27. Nc3 Rd3 28. Nd1 Bd5 29. a5 Bb3 30. Nb2 Rxe3 31. Na4
+Bxa4 32. Rxa4 Rb3 0-1
+

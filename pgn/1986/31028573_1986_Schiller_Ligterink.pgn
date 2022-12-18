@@ -1,0 +1,21 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Ligterink, Gert"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "31028573"]
+[Epoch "Queen"]
+[WhiteID "2002973"]
+[BlackID "1000179"]
+[WhiteCountry "USA"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. Nf3 exd4 8.
+Nxd4 Bb4 9. Nf5 O-O 10. Bd3 Ne5 11. Bxf6 Qxf6 12. O-O Bxf5 13. Rxf5 Qe7 14. Qe2
+Bxc3 15. bxc3 Qc5+ 16. Kh1 Qxc3 17. Rb1 b5 18. Rbf1 Rad8 19. Qf2 Rd7 20. h3
+Nxd3 21. cxd3 Qxd3 22. e5 Qc4 23. Rg5 g6 24. Kh2 Re8 25. h4 h6 26. Qf5 Qxh4+
+27. Kg1 Qd4+ 0-1

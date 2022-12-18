@@ -1,0 +1,25 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Siegmund"]
+[Black "Hampel"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "dc01f8ef"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 c5 8.
+O-O Nc6 9. a3 cxd4 10. exd4 Bd6 11. Kh1 Ng4 12. g3 Qf6 13. Kg2 Be6 14. Qc2
+h5 15. Nb5 Bb8 16. h4 Qe7 17. Bg5 Qd7 18. Rfe1 a6 19. Nbc3 Ba7 20. f3 f6
+21. Bc1 Nh6 22. Bxh6 gxh6 23. Qd2 Kg7 24. Bc2 Bh3+ 25. Kh2 Bf5 26. Bb3 Be6
+27. Nf4 Bf7 28. Bxd5 Nxd4 29. Qg2 Rae8 30. Bxf7 Kxf7 31. Rad1 Rxe1 32. Rxe1
+Re8 33. Rd1 Qc6 34. Rd3 Re5 35. Qf2 Nb5 36. Qd2 Nxc3 37. Rxc3 Rc5 38. Rxc5
+Bxc5 39. Qd3 Bd6 40. Qg6+ Ke7 41. Qg7+ Ke8 42. Qxf6 Qc2+ 43. Kh3 Bxf4 44.
+gxf4 Qc1 45. Qe5+ Kd7 46. Qd5+ Kc7 47. Qxh5 Qxb2 48. Qxh6 Qxa3 49. Qg7+ Kc6
+50. Kg4 Qa2 51. Qg6+ Kd7 52. h5 Qg2+ 53. Kf5 Qxf3 54. Qf7+ Kd6 55. h6 Qh3+
+56. Kg6 Qg4+ 57. Kh7 Kc5 58. f5 b5 59. Qg6 Qf4 60. f6 Kd6 61. Kg7 Ke6 62.
+h7 1-0
+

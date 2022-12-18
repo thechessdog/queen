@@ -1,0 +1,20 @@
+[Event "NOR-ch"]
+[Site "Steinkjer"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Hovde, Frank"]
+[Black "Lauvsnes, Arild"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "7cd5d569"]
+[Epoch "Queen"]
+[WhiteID "1500376"]
+[BlackID "1500554"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+a5 9. h4 Nb6 10. Nf3 Bd7 11. Bg5 Be7 12. Nc3 Nb4 13. Bb1 a4 14. a3 Nc6 15. Bc2
+Nc4 16. Bxe7 Nxe7 17. Qc1 Qa5 18. O-O 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Lyngby open"]
+[Site "Lyngby open"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Van Voorthuijsen, P"]
+[Black "Stentebjerg Hansen"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "03a012c8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O
+8. Nge2 Nbd7 9. Nf4 Nb6 10. Bb3 Qd6 11. O-O Bh6 12. g3 Bg7 13. Re1 Bd7 14.
+a4 Rac8 15. a5 Nc4 16. Qe2 Qb4 17. Bxc4 Rxc4 18. Nd3 Qd6 19. Bf4 1-0
+

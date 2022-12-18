@@ -1,0 +1,15 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "6"]
+[White "Wiese, T."]
+[Black "Draeger, E."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "b03cbe1e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Nxe5 d5 5. Bd3 Nf6 6. O-O Be6 7. f4 c5 8. f5
+Bd7 9. Ng4 c4 10. Re1+ Be7 11. Nxf6+ gxf6 12. Nc3 Qb6 13. Rxe7+ 1-0

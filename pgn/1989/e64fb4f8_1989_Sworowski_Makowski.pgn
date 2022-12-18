@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sworowski, I."]
+[Black "Makowski, J."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "e64fb4f8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8.
+Nf3 Nd7 9. Be2 Ngf6 10. Ne5 Nxe5 11. dxe5 Qa5+ 12. Bd2 Qxe5 13. Bc3 Qf4 14.
+Bd2 Qd4 15. Bc3 Qa4 16. O-O Bxc2 0-1
+

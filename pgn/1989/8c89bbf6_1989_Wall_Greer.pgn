@@ -1,0 +1,20 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "8c89bbf6"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Bc4 Bxf3
+8. gxf3 e6 9. Be3 Nd7 10. Qd2 Nb6 11. Bb3 Qc7 12. O-O-O O-O-O 13. h4 f5 14.
+Rhg1 Be7 15. Rg7 Rdf8 16. Bh6 Nd5 17. c4 Nf6 18. Rdg1 Rfg8 19. Bf4 Qd8 20. Qe3
+Nh5 21. Rxg8 Rxg8 22. Rxg8 Qxg8 23. Bh2 Bxh4 24. Qe5 Qg5+ 25. Kb1 f4 26. Qh8+
+Kd7 27. Qxh7 Qg6+ 28. Qxg6 fxg6 29. Bc2 Bxf2 30. Bxg6 Ng3 31. d5 exd5 32. cxd5
+cxd5 33. Kc2 Be3 34. Kd3 Nf1 35. Bf5+ Kd6 0-1

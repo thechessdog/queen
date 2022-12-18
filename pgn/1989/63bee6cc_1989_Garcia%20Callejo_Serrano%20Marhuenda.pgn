@@ -1,0 +1,14 @@
+[Event "Alicante"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Garcia Callejo, Jes"]
+[Black "Serrano Marhuenda, Salvador"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "63bee6cc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d6 4. d4 Nd7 5. Bd3 g6 6. O-O Bg7 7. Na3 a6 8. Nc4 Nb6
+9. dxc5 dxc5 10. Nd6+ Qxd6 11. Bb5+ Ke7 0-1

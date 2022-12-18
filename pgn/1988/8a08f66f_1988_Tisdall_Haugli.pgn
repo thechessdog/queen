@@ -1,0 +1,28 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tisdall, Jonathan D"]
+[Black "Haugli, Petter"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "8a08f66f"]
+[Epoch "Queen"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+[BlackID "1500104"]
+[BlackCountry "NOR"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+dxc4 9. Bxc4 e5 10. Bb3 Qe7 11. Bd2 e4 12. Ng5 Bxh2+ 13. Kxh2 Ng4+ 14. Kg1 Qxg5
+15. Qxe4 Ndf6 16. Qf4 Qxf4 17. exf4 Be6 18. f3 Nh6 19. g4 Nd5 20. f5 Nxc3 21.
+bxc3 Bxb3 22. axb3 Rfe8 23. Kf2 f6 24. Bxh6 gxh6 25. Rh1 Kg7 26. Rh5 Re7 27.
+Rah1 Rae8 28. Rxh6 Re2+ 29. Kg3 Rh8 30. g5 fxg5 31. f6+ Kf7 32. Rxh7+ Rxh7 33.
+Rxh7+ Kxf6 34. Rxb7 Re3 35. c4 Ke6 36. c5 Rd3 37. Rc7 Rxd4 38. Rxc6+ Kd5 39.
+Rc8 Rf4 40. c6 Kd6 41. c7 Kd7 42. Ra8 Kxc7 43. Rxa7+ Kc6 44. Ra4 Rf5 45. Re4
+Rb5 46. b4 Kd5 47. Kg4 Kd6 48. Kh5 Rf5 49. Re3 Rb5 50. Rb3 Kd5 51. Rb1 Kd4 52.
+Re1 Rf5 53. Re4+ Kd3 54. Kg4 Rb5 55. Re6 Kd4 56. Rg6 Ke3 57. Rxg5 Rxb4+ 58. Kg3
+Rb8 59. f4 Rf8 60. Re5+ Kd4 61. Kg4 Rg8+ 62. Rg5 Re8 63. Rg6 Ke4 64. f5 Ke5 65.
+Kg5 1-0

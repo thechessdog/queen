@@ -1,0 +1,23 @@
+[Event "HUN-ch op"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Michaelsen, Nils"]
+[Black "Palkovi, Jozsef"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b2e8c6b2"]
+[Epoch "Queen"]
+[BlackID "700150"]
+[BlackCountry "HUN"]
+[WhiteID "4603028"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Qe7 10. Qd2 Nbd7 11. Qf4 Ne5 12. Ne4 Bf5 13. Ncxd6 Bxe4 14. Nxe4
+Ned7 15. Nxf6+ Bxf6 16. Bxf6 Nxf6 17. O-O-O Rfd8 18. e4 Nxe4 19. Re1 f5 20. g4
+Qh4 21. Rg1 c4 22. d6 Rac8 23. Qe5 c3 24. b3 Nxd6 25. Qe6+ Kg7 26. gxf5 Qf4+
+27. Qe3 Qxe3+ 28. Rxe3 Nxf5 29. Re5 Kf6 30. Rb5 Rd2 31. a4 Ra2 32. Rb4 Rxf2 33.
+Rxb7 Ne3 34. Bh3 Rd8 35. Rc7 Rc2+ 36. Kb1 Rb2+ 37. Kc1 Rxb3 38. Re1 c2 0-1

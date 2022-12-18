@@ -1,0 +1,26 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Svenn, Gosta"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "ab4b4603"]
+[Epoch "Queen"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1700553"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Ne5 Bd7 8. Nxc6
+Bxc6 9. Bxc6+ bxc6 10. Qa4 cxd4 11. Qxc6+ Nd7 12. Bg5 Qc8 13. Qa4 Qc5 14. Bd2
+Rc8 15. Na3 c3 16. Rac1 Rb8 17. Nb1 Rb4 18. Qa6 Rxb2 19. Nxc3 Qb6 20. Qc8+ Qd8
+21. Ne4 Be7 22. Ba5 Nb6 23. Qb7 O-O 24. Rc7 Nc4 25. Rxc4 Rxb7 26. Bxd8 Rxd8 27.
+Rfc1 f6 28. f4 Kf7 29. Nf2 e5 30. Kg2 Rb2 31. R1c2 Rxc2 32. Rxc2 exf4 33. gxf4
+Rd5 34. Kf3 Bd8 35. Ke4 Rh5 36. h3 Bb6 37. Rc4 Ke6 38. a4 Rh4 39. Kf3 Rh5 40.
+Ke4 Kd6 41. Rc2 Rc5 42. Ra2 Ke6 43. Nd3 Ra5 44. Ra1 g6 45. Nb2 Rh5 46. Rh1 Rh4
+47. Nd3 g5 48. a5 Bxa5 49. Kxd4 Bb6+ 50. Kc4 g4 51. e4 gxh3 52. Kc3 h2 53. Kd2
+Rh3 54. Ke2 Bg1 55. e5 Rxd3 56. Kxd3 fxe5 0-1

@@ -1,0 +1,25 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Quinn"]
+[Black "Clarke"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "18f1aa8c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Ne7 13. Nf1 g6 14. Bg5 Bg7
+15. Qd2 Qd7 16. a4 Kh8 17. N1h2 Nfg8 18. Ng4 f5 19. exf5 gxf5 20. Ne3 h6
+21. Bxe7 Nxe7 22. Bc2 c6 23. Nh4 e4 24. Ng4 fxg4 25. Rxe4 Nxd5 26. Rxg4 Nf6
+27. Rf4 Kg8 28. Qd3 d5 29. Qg6 Qf7 30. Qxf7+ Kxf7 31. Bg6+ Kf8 32. Bxe8
+Rxe8 33. axb5 cxb5 34. Nf5 Re6 35. Rf3 Kf7 36. Nxg7 Kxg7 37. Kf1 Ne4 38.
+Re3 Rf6 39. f3 Kg6 40. Kg1 Nc5 41. Re7 Re6 42. Rc7 Rc6 43. Rxc6+ Bxc6 44.
+Re1 Kf6 45. h4 a5 46. g4 Nd3 47. Re2 b4 48. cxb4 a4 49. Kh2 Nxb4 50. f4 d4
+51. g5+ hxg5 52. fxg5+ Kf5 53. Rf2+ Ke4 54. h5 Ke3 55. Kg3 d3 56. g6 Be4
+57. Rh2 d2 58. Rxd2 Kxd2 59. Kf4 Bd3 60. Ke5 Kc2 61. Ke6 Kxb2 62. Kf7 a3
+63. h6 Nc6 64. g7 a2 65. g8=Q Bc4+ 66. Kg7 Bxg8 67. Kxg8 a1=Q 0-1
+

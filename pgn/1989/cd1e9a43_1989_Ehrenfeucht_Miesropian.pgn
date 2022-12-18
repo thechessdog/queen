@@ -1,0 +1,17 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ehrenfeucht, Wojcie"]
+[Black "Miesropian, C."]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "cd1e9a43"]
+[Epoch "Queen"]
+
+1. Nf3 e6 2. g3 f5 3. Bg2 Nf6 4. O-O d5 5. d4 Bd6 6. c4 c6 7. b3 Qc7 8. a4
+a5 9. Ba3 Bxa3 10. Nxa3 b6 11. Qc1 Na6 12. cxd5 c5 13. dxe6 Bxe6 14. Nc4
+O-O 15. Nxb6 Rab8 16. Nc4 Rfc8 17. Nxa5 cxd4 18. Qd2 Qd8 19. Nxd4 Rb4 20.
+Qe3 Bd5 21. Nac6 Ng4 22. Bxd5+ Qxd5 23. Ne7+ 1-0
+

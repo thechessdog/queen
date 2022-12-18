@@ -1,0 +1,18 @@
+[Event "Sochi II"]
+[Site "Sochi II"]
+[Date "1989.09.01"]
+[Round "1"]
+[White "Panchenko, Alexander N"]
+[Black "Podlesnik, Bogdan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "310a484a"]
+[Epoch "Queen"]
+[BlackID "14600129"]
+[BlackCountry "MNE"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 d5 6. Bg2 dxc4 7. Ne5 Bb4+ 8. Kf1
+Bd6 1/2-1/2

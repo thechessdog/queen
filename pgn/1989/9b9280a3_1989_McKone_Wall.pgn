@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone, Peter"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "9b9280a3"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Qe7 6. O-O d6 7. Nxc3 Bg4 8.
+Nd5 Qd7 9. Be3 O-O-O 10. Qa4 Bxf3 11. gxf3 Ne5 12. Qxa7 Nxf3+ 13. Kh1 Qh3 14.
+Qa8+ Kd7 15. Bb5+ c6 0-1

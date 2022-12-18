@@ -1,0 +1,19 @@
+[Event "corr LADAC Superior"]
+[Site "corr LADAC Superior"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Deforel, Jorge"]
+[Black "Escandell, Juan C"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "0d91ed52"]
+[Epoch "Queen"]
+[BlackID "100919"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. O-O Nd7 9. c4 O-O-O 10. h3 Bh5 11. Qa4 Kb8 12. Be3 e6 13. b4 f5 14. Rad1 Rg8
+15. d5 c5 16. a3 e5 17. Rfe1 Bxf3 18. Bxf3 e4 19. Be2 f4 20. Bxc5 Bxc5 21. bxc5
+f3 22. Bf1 Nxc5 23. Qc2 f5 24. Kh1 Qg7 25. g3 f4 26. g4 h5 27. Rxe4 Nxe4 28.
+Qxe4 hxg4 29. Qxf4+ Ka8 30. hxg4 Qxg4 31. Qxg4 Rxg4 32. Bh3 Rh8 0-1

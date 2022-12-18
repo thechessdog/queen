@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schwind"]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "74f9f8df"]
+[Epoch "Queen"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. a4 Nc6 11. f4 Nb4 12. a5 Rc8 13. Kh1 d5 14. fxe5 Nxe4 15.
+Bd4 f5 16. exf6 Nxf6 17. Bf3 Qd7 18. Qd2 Bf5 19. Bxf6 Bxf6 20. Nxd5 Nxc2 21.
+Rad1 Qb5 22. Be2 Qxb3 23. Rxf5 Rcd8 24. Rc1 Nd4 25. Bc4 Qa4 26. Rxf6 1-0

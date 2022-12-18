@@ -1,0 +1,20 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pytel, Martin"]
+[Black "Ritter, Ralph"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "342b1532"]
+[Epoch "Queen"]
+[BlackID "4646568"]
+[BlackCountry "GER"]
+[WhiteID "1302655"]
+[WhiteCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Nb8 6. Bd3 Nc5 7. Nxe5 Nxd3+ 8.
+Nxd3 c6 9. O-O Bd6 10. Re1+ Kf8 11. Nd2 cxd5 12. Qh5 b6 13. Nf3 f6 14. Bf4 Bxf4
+15. Nxf4 Rg8 16. Qxh7 Nc6 17. Ng6+ Kf7 18. Qh5 1-0

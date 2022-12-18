@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bush, C."]
+[Black "Gorman, Dov"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "ce98b3c5"]
+[Epoch "Queen"]
+[BlackID "2001233"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. e5 Nh6 6. g3 Be7 7. Bg2 Nf5 8. d3 b5
+9. a4 b4 10. Nb1 h5 11. Bd2 Qb6 12. Qc1 h4 13. g4 h3 14. Bf1 Nh4 15. Nxh4 Bxh4+
+16. Kd1 c4 17. Bxh3 Qf2 18. Be3 Qf3+ 19. Kd2 d4 20. Bg1 0-1

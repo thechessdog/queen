@@ -1,0 +1,23 @@
+[Event "Sweden"]
+[Site "Uppsala"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hector, Jonny"]
+[Black "Wiedenkeller, Michael"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "1a12f839"]
+[Epoch "Queen"]
+[WhiteID "1700090"]
+[WhiteCountry "SWE"]
+[BlackID "1700146"]
+[BlackCountry "LUX"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. Bb3 b5 8. Qe2
+Bb7 9. a3 Nc6 10. Nxc6 Bxc6 11. Bd5 Qd7 12. O-O Be7 13. Bxc6 Qxc6 14. Bg5 h6
+15. Bd2 O-O 16. f4 Rac8 17. Rf3 Qc4 18. Rd3 Rfd8 19. b3 Qc6 20. Rg3 d5 21. f5
+exf5 22. Bxh6 Ng4 23. Bxg7 dxe4 24. Rf1 Qc5+ 25. Kh1 Kxg7 26. h3 Qe5 27. Nxe4
+Kf8 28. hxg4 Qxe4 29. Re3 Qxg4 30. Rxe7 Qh4+ 31. Kg1 Qxe7 32. Qh5 Qe3+ 33. Kh1
+Rd6 34. Qh8+ Ke7 35. Qh4+ Kd7 36. Rf4 Rh8 37. Qxh8 Rd1+ 0-1

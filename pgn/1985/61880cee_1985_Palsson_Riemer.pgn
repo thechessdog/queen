@@ -1,0 +1,19 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Palsson, B."]
+[Black "Riemer, Wolfgang"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "61880cee"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. Qd2 Bxc3 11. bxc3 b5 12. Nb2 f5 13. a4 Qa5 14. e3 Ba6 15.
+Be2 b4 16. c4 Nd7 17. g4 fxg4 18. Bxg4 Qc7 19. h4 Ne5 20. Be2 Qe7 21. O-O-O Nf6
+22. Rdg1 Bc8 23. f3 Kh8 24. Bg5 Qf7 25. f4 Neg4 26. Nd1 h5 27. Qb2 Kh7 28. Bd3
+a5 29. e4 Qe8 30. f5 Nxe4 31. Bh6 Kxh6 0-1

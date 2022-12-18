@@ -1,0 +1,18 @@
+[Event "ch-URS, leger "]
+[Site "Simferopol"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mukhanov"]
+[Black "Ingin"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b948dbf4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. f3 Rb8 12. a4 b6 13. Nc4 Ba6 14. Bd2 Qd7 15. b3
+Nfe8 16. Ne3 f5 17. Bxa6 Nxa6 18. exf5 gxf5 19. f4 Nb4 20. Qf3 Nc7 21. Rad1
+Rbe8 22. Kh1 Kh8 23. h3 a6 24. g4 fxg4 25. hxg4 Rxe3 26. Qxe3 Qxg4 27. Qg1 Qf5
+28. Qh2 Rf6 29. Rde1 Rh6 30. Re7 Nbxd5 0-1

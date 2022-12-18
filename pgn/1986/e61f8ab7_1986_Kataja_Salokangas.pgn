@@ -1,0 +1,18 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kataja"]
+[Black "Salokangas"]
+[Result "0-1"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Smyslov variation"]
+[HashCode "e61f8ab7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Ne5 Be6 9. d5 Bc8 10. Be2 e6 11. dxe6 Bxe6 12. Qb5 Nbd7 13. Nxd7 Bxd7
+14. Qxb7 Re8 15. Bg5 Rb8 16. Qxa7 h6 17. Bxf6 Bxf6 18. Qe3 Rxb2 19. f3 Rc2
+0-1
+

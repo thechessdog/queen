@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kyritz"]
+[Black "Ohmacht"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, Botvinnik variation"]
+[HashCode "7ca5707a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4
+Nd5 8. Nc3 Be6 9. Qe2 Be7 10. O-O Nd7 11. d4 g5 12. Nxd5 cxd5 13. Nxg5 Bxg5
+14. Bxd5 Rb8 15. Bxe6 fxe6 16. Qh5+ Kf8 17. Bxf4 Bxf4 18. Qh6+ Ke7 19. Qh4+
+Ke8 20. Qh5+ Ke7 21. Rxf4 Qg8 22. d5 e5 0-1
+

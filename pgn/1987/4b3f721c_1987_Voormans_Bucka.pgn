@@ -1,0 +1,18 @@
+[Event "corr SMB"]
+[Site "corr SMB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Voormans, J."]
+[Black "Bucka, R."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "4b3f721c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
+f4 Qc7 9. Kh1 O-O 10. a4 Nc6 11. Be3 Re8 12. Bf3 Na5 13. Bg1 Nc4 14. b3 Na5
+15. Qe1 e5 16. Nde2 Bd7 17. Bf2 Rac8 18. Bh4 Qc5 19. Bxf6 Bxf6 20. Nd5 Bd8
+21. b4 Qxc2 22. bxa5 Rc5 23. fxe5 Rxe5 24. Qb4 Rxa5 25. Rfc1 1-0
+

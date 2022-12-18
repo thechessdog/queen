@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1987.03.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Drasko, Milan"]
+[Result "1/2-1/2"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "d4edd98c"]
+[Epoch "Queen"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "900397"]
+[BlackCountry "MNE"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. a4 Nbd7 10. axb5 axb5 11. Rxa8 Qxa8 12. Nc3 b4 13. Nb5 Qa5 14. Nd2 Bc6
+15. Bc4 Be7 16. e4 O-O 1/2-1/2

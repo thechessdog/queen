@@ -1,0 +1,18 @@
+[Event "corr ch2-CCLA"]
+[Site "corr ch2-CCLA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Abelson, Robert"]
+[Black "Carlson, C."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "127fc320"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Nc3 Nxc3
+8. bxc3 Bg4 9. exd6 Qxd6 10. Be2 g6 11. O-O Bg7 12. Rb1 b6 13. Qa4 O-O 14.
+Ba3 Qc7 15. h3 Bd7 16. Qc4 Rac8 17. d5 Ne5 18. Qxc7 Rxc7 19. Bxe7 Re8 20.
+d6 Rxc3 21. Nxe5 Bxe5 22. Bb5 1-0
+

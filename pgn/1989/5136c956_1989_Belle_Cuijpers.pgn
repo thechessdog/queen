@@ -1,0 +1,25 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Belle"]
+[Black "Cuijpers, Frans Andre"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "5136c956"]
+[Epoch "Queen"]
+[BlackID "1000209"]
+[BlackCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Nbd7 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Bf4 Nc5 12. c4 dxc4 13. Bxc4 Be6 14. Rc1
+Bxc4 15. Rxc4 Ne6 16. Be3 Qa5 17. Qa4 Qxa4 18. Rxa4 a6 19. Rb4 b5 20. a4 bxa4
+21. Ra1 Rfb8 22. Raxa4 Nc7 23. Rxb8+ Rxb8 24. Rc4 Nd5 25. Bd4 h6 26. g3 g5 27.
+Kf1 e6 28. Ke2 Kh7 29. Rc6 Nb4 30. Rc7 Kg6 31. h4 g4 32. Nd2 h5 33. Nc4 Rb5 34.
+Bc5 Nd5 35. Rc6 a5 36. Rc8 a4 37. Bd6 Rb3 38. Rc6 Nb4 39. Rb6 Nc2 40. Rxb3 Nd4+
+41. Kd3 Nxb3 42. Ke4 f5+ 43. Kd3 f4 44. Ke4 fxg3 45. fxg3 Bh6 46. Bb4 Bc1 47.
+Kd3 Kf5 48. Bf8 Kg6 49. Bd6 Kf5 50. Ba3 Bh6 51. Nd6+ Kg6 52. Bb4 Nc1+ 53. Ke4
+Ne2 54. Be1 Bc1 55. Nc4 Bxb2 56. Ke3 a3 57. Nxa3 Bxa3 58. Kxe2 Bb2 59. Kd3 Kf5
+60. Bb4 Bxe5 61. Be1 Bc7 62. Ke3 0-1

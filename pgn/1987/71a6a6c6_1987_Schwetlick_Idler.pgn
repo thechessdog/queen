@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schwetlick, T."]
+[Black "Idler, F."]
+[Result "1-0"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "71a6a6c6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Na7 14. Nf1 Bd7
+15. Ng3 Nc8 16. a4 Nb6 17. b3 c4 18. b4 Nxa4 19. Bxa4 bxa4 20. Nf5 Bd8 21.
+N3h4 Bb5 22. Qf3 Kh8 23. Nxg7 Rg8 24. Ngf5 Ne8 25. Nh6 Rf8 26. N4f5 Ng7 27.
+Nxg7 Kxg7 28. Qg4+ Kh8 29. Re3 Qd7 30. Qh5 Bb6 31. Rg3 Qa7 32. Be3 Bxe3 33.
+fxe3 f6 34. Nf5 Rg8 35. Rxg8+ Rxg8 36. Qh6 Qf7 37. Nxd6 Qg6 38. Qxg6 hxg6
+39. Nb7 Rb8 40. Nc5 Rb6 41. Nxa4 Rd6 42. Kf2 Kg7 43. Nc5 Kh6 44. Ne6 Rd7
+45. Rd1 Rd6 46. Nc7 Kg5 47. Nxb5 axb5 48. Ra1 f5 49. Kf3 Kf6 50. Ra5 Rb6
+51. exf5 gxf5 52. e4 Kg5 53. h4+ Kxh4 54. exf5 1-0
+

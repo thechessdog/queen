@@ -1,0 +1,20 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kantjev, T."]
+[Black "Lepsenyi, L."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b3b7fa6a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nge2 Re8 9. Nf4 e5 10. dxe6 Bxe6 11. Nxe6 Rxe6+ 12. Be2 Nc6 13. Be3 Nxd4
+14. Bxd4 Qxd4 15. O-O Rb6 16. Qc2 Rc8 17. Bf3 Ne8 18. Rfd1 Qf4 19. Qe2 Bxc3
+20. bxc3 Nd6 21. g3 Qf6 22. Bd5 Nb5 23. c4 Nc3 24. Qg4 Rd8 25. Re1 Nxd5 26.
+cxd5 Rb2 27. Rf1 Rxd5 28. Rab1 Rxb1 29. Rxb1 Rd2 30. Rf1 Kg7 31. Qa4 a6 32.
+a3 h5 33. Kg2 b5 34. Qe4 Ra2 35. Qb4 h4 36. gxh4 Re2 37. Qg4 Rc2 0-1
+

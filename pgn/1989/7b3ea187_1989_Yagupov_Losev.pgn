@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Yagupov, I."]
+[Black "Losev, D."]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "7b3ea187"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. g4 Bxg4 10. fxg4 Nxg4 11. Nxc6 bxc6 12. Bc4 d5 13. exd5 cxd5 14.
+Nxd5 e6 15. Nf4 Qc7 16. Be2 Bxb2 17. Bxg4 Bc3 18. O-O Bxd2 19. Bxd2 Rad8
+20. Be3 e5 21. Nd3 f5 22. Bh3 Qxc2 0-1
+

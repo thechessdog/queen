@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Griesbach, R."]
+[Black "Fiensch, Gunter"]
+[Result "0-1"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "4c8b641f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Nf3 O-O 9. Be2 Bg4 10. O-O Nbd7 11. h3 Bxf3 12. Bxf3 c4 13. Be3 Qa5 14. a4
+Rfe8 15. Qc2 Nc5 16. Bxc5 Qxc5+ 17. Kh2 Re7 18. Rfe1 Rae8 19. Re2 Bh6 20.
+g3 g5 21. g4 Bg7 22. e5 gxf4 23. exf6 Rxe2+ 24. Bxe2 Qf2+ 25. Kh1 Re3 0-1
+

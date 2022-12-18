@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gallo, E."]
+[Black "Riccio, R."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c5555419"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 b5 8.
+Bb3 b4 9. Na4 Nxe4 10. O-O Nc5 11. Nxc5 dxc5 12. Ba4+ Bd7 13. Nxe6 fxe6 14.
+Qh5+ g6 15. Qe5 Bxa4 16. Qxh8 Qe7 17. Rfe1 Nd7 18. b3 Bb5 19. Bg5 Qxg5 20.
+Rxe6+ Kf7 21. Rae1 Nf6 22. h4 Qf5 23. R1e5 Qxe6 24. Rxe6 Kxe6 25. g4 Re8
+26. h5 Bh6 0-1
+

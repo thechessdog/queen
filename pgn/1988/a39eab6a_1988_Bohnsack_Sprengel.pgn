@@ -1,0 +1,17 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bohnsack, Ralf"]
+[Black "Sprengel, Armin"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "a39eab6a"]
+[Epoch "Queen"]
+[WhiteID "4614232"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 Bf5 5. cxd5 cxd5 6. Qb3 b6 7. Bg5 e6 8. e4
+dxe4 9. Bb5+ Ke7 10. Ne5 Qd6 11. Bf4 1-0

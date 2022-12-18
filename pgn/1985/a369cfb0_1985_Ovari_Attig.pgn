@@ -1,0 +1,16 @@
+[Event "corr HUN-DDR"]
+[Site "corr HUN-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ovari"]
+[Black "Attig"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "a369cfb0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 d6 3. Bf4 g6 4. e3 Bg7 5. Nbd2 O-O 6. Bd3 Re8 7. O-O Nbd7
+8. c3 e5 9. Bg5 h6 10. Bxf6 Nxf6 11. Qc2 Bd7 12. Rad1 Qe7 13. Nh4 e4 14.
+Bc4 d5 15. Be2 g5 16. Nhf3 exf3 17. Nxf3 Ne4 18. Bd3 Bg4 19. Be2 Nd6 0-1
+

@@ -1,0 +1,22 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuzmin, G."]
+[Black "Levchenkov, Vitaly"]
+[Result "1-0"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "ac4f8a58"]
+[Epoch "Queen"]
+[WhiteID "4132041"]
+[BlackID "11600411"]
+[WhiteCountry "RUS"]
+[BlackCountry "LAT"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 Ne7 11. e4 Bg4 12. a4 c6 13. a5 Nbc8 14. dxc6 Nxc6 15.
+Qxd8 Rxd8 16. Nd5 h6 17. a6 b6 18. Be3 Nd6 19. Rfc1 Na5 20. Nd2 Be2 21. Bf1
+Bxf1 22. Kxf1 Nxe4 23. Nxe4 Rxd5 24. Ra3 f5 25. b4 fxe4 26. bxa5 Bf8 27. axb6
+axb6 28. Ra4 b5 29. Ra2 b4 30. a7 b3 31. Ra6 b2 32. Rb1 Rb5 33. Ra2 Bc5 34.
+Raxb2 Bxe3 35. Rxb5 Rxa7 36. Rb8+ 1-0

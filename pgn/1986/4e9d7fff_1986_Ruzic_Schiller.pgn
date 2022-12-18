@@ -1,0 +1,18 @@
+[Event "Hammond"]
+[Site "Hammond"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ruzic"]
+[Black "Schiller, Eric"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "4e9d7fff"]
+[Epoch "Queen"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 e6 4. Bg2 Nbd7 5. O-O Be7 6. c4 c6 7. b3 O-O 8. Nc3
+b6 9. cxd5 cxd5 10. Bf4 Ba6 11. a3 Rc8 12. Bd2 Re8 13. Re1 Ne4 14. Nxe4 dxe4
+15. Ne5 Nxe5 16. dxe5 Qd5 17. f4 Bc5+ 18. e3 Red8 19. Ra2 Bd3 20. Bc1 a5 21.
+Rd2 Bxe3+ 22. Rxe3 Qc5 0-1

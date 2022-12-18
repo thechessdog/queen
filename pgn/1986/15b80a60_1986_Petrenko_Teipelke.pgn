@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Petrenko, VI."]
+[Black "Teipelke, H."]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "15b80a60"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Nc6
+8. Bb3 O-O 9. f3 Bd7 10. Qd2 Ne5 11. h4 h5 12. O-O-O Rc8 13. Kb1 Nc4 14.
+Qe2 Nxe3 15. Qxe3 Rc5 16. g4 hxg4 17. f4 Qa5 18. f5 gxf5 19. exf5 Re5 20.
+Qf4 Bxf5 21. h5 Kh7 22. h6 Bh8 23. Nxf5 Rxf5 24. Qe3 Qe5 25. Qxa7 Ne4 26.
+Na4 b5 27. Rd5 Nd2+ 0-1
+

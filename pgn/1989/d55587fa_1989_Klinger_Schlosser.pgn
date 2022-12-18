@@ -1,0 +1,19 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "15"]
+[White "Klinger, Josef"]
+[Black "Schlosser, Michael"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "d55587fa"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[WhiteCountry "AUT"]
+[BlackID "1600184"]
+[BlackCountry "AUT"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 Nbd7 7. Be3 e5 8. d5
+Nc5 9. Nd2 a5 10. g4 Ne8 11. h4 f5 12. exf5 gxf5 13. gxf5 Bxf5 14. Bxc5 dxc5
+15. Nde4 Nd6 16. Nxc5 Qf6 17. Qe2 Bg4 18. Qc2 e4 19. Bh3 Qf3 0-1

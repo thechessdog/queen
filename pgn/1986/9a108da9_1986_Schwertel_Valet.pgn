@@ -1,0 +1,14 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwertel, G."]
+[Black "Valet, R."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9a108da9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 g6 4. Qd3 Bg7 5. e4 dxe4 6. Qxe4 Nxe4 0-1
+

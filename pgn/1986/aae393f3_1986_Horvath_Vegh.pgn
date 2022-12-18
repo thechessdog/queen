@@ -1,0 +1,23 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Horvath, Tamas"]
+[Black "Vegh, Endre"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "aae393f3"]
+[Epoch "Queen"]
+[BlackID "700568"]
+[BlackCountry "HUN"]
+[WhiteID "700185"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Be7 9. Bg5 b4 10. Na4 Qa5 11. f4 Bd7 12. e5 Bxa4 13. exd6 Bxd6 14. Nxe6 Bxb3
+15. Nxg7+ Kf8 16. Bh6 Kg8 17. Ne8 Nbd7 18. Nxd6 Be6 19. Qf3 Qd5 20. Rd1 Qxf3
+21. gxf3 Nf8 22. Rg1+ Ng6 23. f5 Bd5 24. Kf2 Bc6 25. Rd4 Nd7 26. Rxb4 Ne5 27.
+Ne4 f6 28. fxg6 hxg6 29. Bf4 Kf7 30. Bxe5 fxe5 31. h4 Rad8 32. Ke3 a5 33. Ng5+
+Kf6 34. Rb6 Rc8 35. Rg4 1-0

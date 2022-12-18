@@ -1,0 +1,20 @@
+[Event "BL8485"]
+[Site "BL8485"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cladouras, Panagiotis"]
+[Black "Roeder, Frank"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "af67af37"]
+[Epoch "Queen"]
+[BlackID "4602161"]
+[BlackCountry "GER"]
+[WhiteID "4600959"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O Be7 10. Rc1 O-O 11. Bxc6 bxc6 12. Ne5 Nxe5 13. Bxe5 Rc8 14. Na4 Qa5
+15. a3 Qb5 16. Rc3 f6 17. Bg3 a5 1/2-1/2

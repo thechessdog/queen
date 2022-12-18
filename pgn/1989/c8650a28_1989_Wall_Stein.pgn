@@ -1,0 +1,20 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Stein, Alan"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "c8650a28"]
+[Epoch "Queen"]
+[BlackID "2007150"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. Nc3 d5 2. e4 c6 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. O-O e6 8.
+d3 Bc5 9. Bf4 Ne7 10. Bxc6+ Nxc6 11. Nb5 O-O 12. a3 e5 13. Bh2 a6 14. Nc3 f5
+15. Qe1 Bxf3 16. gxf3 f4 17. Kh1 Qd7 18. Rg1 Rad8 19. Rg4 Be7 20. Qg1 Bf6 21.
+Na4 h5 22. Nc5 Qe7 0-1

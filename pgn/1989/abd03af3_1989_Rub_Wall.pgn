@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rub, L."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "abd03af3"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Bg4 6. O-O Ne7 7. c3 O-O 8.
+Nbd2 Nbc6 9. Qc2 Ng6 10. Ne1 f5 11. Ndf3 Qf6 12. Bg5 Qf7 13. h3 Bh5 14. Nh4
+Nce7 15. Nef3 h6 16. Nxg6 Qxg6 17. Bxe7 Bxf3 18. g3 Bxe7 0-1

@@ -1,0 +1,19 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Zaltsman, Vitaly"]
+[Black "Psakhis, Lev"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "3e00fba4"]
+[Epoch "Queen"]
+[WhiteID "2000504"]
+[WhiteCountry "USA"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O 10. Bf4 d6 11. Rad1 Qb6 12. Rd2 Rd8 13. Rfd1 h6 14. Qb3 0-1

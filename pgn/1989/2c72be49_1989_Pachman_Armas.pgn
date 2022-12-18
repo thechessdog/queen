@@ -1,0 +1,20 @@
+[Event "Wildbad"]
+[Site "Wildbad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pachman, Ludek"]
+[Black "Armas, Iulius"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "2c72be49"]
+[Epoch "Queen"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O b6 10. Rb1 Ba6 11. b4 cxb4 12. Rxb4 Qc7 13. Nb5 Bxb5 14. Bxb5 Nfd7
+15. Nd4 Nc5 16. Re1 a6 17. Bf1 Re8 18. Rc4 b5 19. Rc2 Nbd7 20. Nc6 Qb6 21. Bd3
+f5 22. Rce2 Nxd3 23. Qxd3 Nc5 24. Qa3 Nxe4 25. Bf4 b4 26. Qb3 Bc3 27. Rf1 a5
+28. Qc4 Qa6 29. Qxa6 Rxa6 30. Rb1 Kf7 31. Kf1 g5 32. Bc1 f4 33. a3 Nf6 34. Rxe8
+Kxe8 35. axb4 axb4 36. Nxb4 Rb6 37. Ba3 Nxd5 0-1

@@ -1,0 +1,25 @@
+[Event "Bad Orb op"]
+[Site "Bad Orb"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Carton, Patrick"]
+[Black "Gupta, Milon"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "14281ff5"]
+[Epoch "Queen"]
+[WhiteID "2500213"]
+[WhiteCountry "IRL"]
+[BlackID "4608550"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+Qd7 9. Be3 Nd4 10. e5 Nef5 11. Bf2 Nxf3+ 12. Qxf3 dxe5 13. fxe5 Bxe5 14. Ne4
+Nd4 15. Qd1 f5 16. Nxc5 Qb5 17. c3 Nc6 18. Qe2 Bd6 19. a4 Qa5 20. Nxb7 Qc7 21.
+Nxd6+ Qxd6 22. b4 Bb7 23. Bc5 Qd7 24. a5 a6 25. Rae1 Kf7 26. d4 Rhe8 27. Qc4
+Nd8 28. Bxb7 Qxb7 29. Qd3 Qd7 30. Qf3 Nc6 31. Qf4 Rac8 32. c4 Rcd8 33. Qh4 Kg8
+34. Rd1 Qg7 35. Rfe1 g5 36. Qh5 Qg6 37. Qxg6+ hxg6 38. d5 exd5 39. Rxe8+ Rxe8
+40. Rxd5 Re4 41. Rd6 Ne5 42. Rxa6 Rxc4 43. Ra8+ Kh7 44. a6 Rc1+ 45. Kg2 Rc2+
+46. Kf1 1-0

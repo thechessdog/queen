@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "Gurevich, Dmitry"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "d8ccdaeb"]
+[Epoch "Queen"]
+[BlackID "2000407"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 axb5 6. e4 Qa5+ 7. Bd2 b4 8. Na3
+Ba6 9. Nc4 Qc7 10. a3 bxa3 11. Rxa3 g6 12. Bc3 d6 13. Qa4+ Qd7 14. Nxd6+ exd6
+15. Bxf6 Rg8 16. Bb5 Bxb5 17. Qxa8 Qc7 18. Ra7 1-0

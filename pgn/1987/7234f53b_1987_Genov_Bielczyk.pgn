@@ -1,0 +1,20 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Genov, Petar"]
+[Black "Bielczyk, Jacek"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "7234f53b"]
+[Epoch "Queen"]
+[WhiteID "2900211"]
+[WhiteCountry "FID"]
+[BlackID "1100530"]
+[BlackCountry "POL"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+c6 9. d5 c5 10. Ne1 Ne8 11. Nd3 f5 12. f4 g5 13. fxe5 Nxe5 14. Nxe5 Bxe5 15.
+exf5 Bxf5 16. g4 1/2-1/2

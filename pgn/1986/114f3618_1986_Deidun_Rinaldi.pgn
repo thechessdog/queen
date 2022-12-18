@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Deidun, J."]
+[Black "Rinaldi, C."]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "114f3618"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. Bxc6+ bxc6
+8. d4 Qf6 9. dxe5 dxe5 10. hxg4 hxg4 11. Bg5 Qe6 12. Nh2 g3 13. Nf3 Bc5 14.
+Qd2 Nf6 15. Rd1 gxf2+ 16. Kf1 Rh1+ 17. Ke2 Qc4+ 18. Qd3 Rxd1 19. Kxd1 f1=Q+
+0-1
+

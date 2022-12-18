@@ -1,0 +1,19 @@
+[Event "Swansea ch-BCF"]
+[Site "Swansea ch-BCF"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Crawley, Gavin"]
+[Black "Kemp, Peter D"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "6e5b4227"]
+[Epoch "Queen"]
+[WhiteID "400386"]
+[WhiteCountry "ENG"]
+[BlackID "402222"]
+[BlackCountry "ENG"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e5 4. dxe5 d4 5. Nd5 f5 6. Nh3 fxe4 7. Bc4 Bxh3 8.
+Qh5+ g6 9. Qxh3 Nce7 10. Bg5 c6 11. Qe6 b5 12. Nc7+ Qxc7 13. Qf7+ 1-0

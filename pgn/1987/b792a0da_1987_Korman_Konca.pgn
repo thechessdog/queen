@@ -1,0 +1,19 @@
+[Event "corr ol11"]
+[Site "corr ol11"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Korman, Ulf"]
+[Black "Konca, D."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b792a0da"]
+[Epoch "Queen"]
+[WhiteID "1724592"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ne4 5. Bd3 Nxd2 6. Bxd2 c5 7. c3 cxd4 8.
+cxd4 Bd7 9. Ne2 Qb6 10. O-O Nc6 11. Be3 Be7 12. Nf4 g6 13. Qg4 a5 14. h4 O-O-O
+15. Rfc1 Kb8 16. Bf1 Ka8 17. Nd3 f6 18. Rab1 f5 19. Qd1 Nb4 20. Nc5 Nxa2 21.
+Nxd7 1-0

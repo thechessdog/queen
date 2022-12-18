@@ -1,0 +1,21 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Garcia Martinez, Silvino"]
+[Black "Pinal, Nelson Borges"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "98d6e608"]
+[Epoch "Queen"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 e5 8. Nf3
+Ng4 9. Qd2 Nxe3 10. Qxe3 exf4 11. Qxf4 Be7 12. O-O-O O-O 13. Nd5 Be6 14. Kb1
+Rc8 15. Bc4 Bxd5 16. exd5 Ne5 17. Nxe5 dxe5 18. Qf1 Qb6 19. Qe2 a5 20. Bb3 Bd6
+21. g4 Qc5 22. a4 Rc7 23. Rhf1 b5 24. Qxb5 Qa7 25. Qe2 Rb8 26. h4 Rb4 27. h5
+Qb6 28. g5 Rb7 29. g6 hxg6 30. hxg6 fxg6 31. Qg2 Rxb3 32. cxb3 Qxb3 33. Rd2 Bb4
+34. Rc2 Qd3 35. Rf3 1-0

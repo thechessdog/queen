@@ -1,0 +1,19 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Olesen, Martin"]
+[Black "Arnason, J."]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "4bbc1ad2"]
+[Epoch "Queen"]
+[WhiteID "1400860"]
+[WhiteCountry "DEN"]
+[BlackCountry "ISL"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 O-O 8. d5
+exd5 9. cxd5 Qe7 10. Be2 d6 11. O-O Nbd7 12. f3 Ne8 13. e4 f5 14. exf5 Rxf5 15.
+f4 Rf8 16. Bg4 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sarran"]
+[Black "Stopa"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "d871e353"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 O-O 9. Rc1 Qa5 10. Qd2 Bg4 11. Be2 Nc6 12. d5 Bxf3 13. Bxf3 Ne5 14.
+Be2 Rfd8 15. f4 Nc6 16. Bd3 e6 17. c4 Nb4 1/2-1/2
+

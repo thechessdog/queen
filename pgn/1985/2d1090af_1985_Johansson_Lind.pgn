@@ -1,0 +1,15 @@
+[Event "corr SSKK"]
+[Site "corr SSKK"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Johansson, Ragnar"]
+[Black "Lind, Bengt"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "2d1090af"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 d6 3. c4 Nf6 4. e3 Be7 5. Nf3 e4 6. Nd4 c5 7. Nc2 Nc6 8. b5
+Na5 9. d3 Be6 10. Nd2 1-0
+

@@ -1,0 +1,21 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Telkamp, R."]
+[Black "De Jong, Peter"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "1f51ad51"]
+[Epoch "Queen"]
+[BlackCountry "NED"]
+
+1. c4 Nf6 2. d4 c5 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. e5 Ng4 7. h3 cxd4 8. hxg4
+dxc3 9. bxc3 Qa5 10. Qd3 Nc6 11. Rxh7 Nxe5 12. Rxg7+ Kxg7 13. Nxe5 Qxe5+ 14.
+Be3 d6 15. O-O-O Qa5 16. Qd2 Rd8 17. f3 b5 18. cxb5 Be6 19. Bd4+ f6 20. c4 Qa4
+21. Qe2 Qxc4+ 22. Qxc4 Bxc4 23. Bxc4 Rdc8 24. g5 Rxc4+ 25. Kb2 Rb4+ 26. Kc3
+Rxb5 27. gxf6+ exf6 28. Rd2 d5 29. g4 Kf7 30. Rh2 Ra5 31. Kb4 Ra6 32. Kb5 Ra3
+33. Kb4 Rxf3 34. Rh7+ Kg8 35. Rh6 Kg7 36. g5 Rf4 37. Kc5 Rc8+ 38. Kxd5 Rd8+ 39.
+Kc6 Rfxd4 0-1

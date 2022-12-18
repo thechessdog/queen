@@ -1,0 +1,25 @@
+[Event "Solrod"]
+[Site "Solrod"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Witt, Johnny"]
+[Black "Both, Erik"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "e7634771"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nc6 3. Nf3 Bg4 4. e3 e6 5. h3 Bh5 6. g4 Bg6 7. Bd3 Bd6 8.
+Bxg6 hxg6 9. a3 a6 10. Qd3 Qf6 11. e4 dxe4 12. Qxe4 Qe7 13. Bd2 O-O-O 14.
+O-O-O f5 15. Qe2 Nf6 16. Bg5 Qf7 17. Rde1 Rhe8 18. Ne5 Qg8 19. Nxc6 bxc6
+20. Qxa6+ Kd7 21. Qc4 Rb8 22. Bxf6 gxf6 23. Na4 Rb5 24. Nc5+ Bxc5 25. dxc5
+Ke7 26. Re3 e5 27. Qxg8 Rxg8 28. b4 Ke6 29. Rd1 Rbb8 30. Kb2 f4 31. Red3
+Rb7 32. Kb3 Ra8 33. Kc4 Rb5 34. Kb3 Rb7 35. a4 Rab8 36. c3 Ra8 37. Rd8 Rbb8
+38. Rxb8 Rxb8 39. a5 Ra8 40. Kc2 Ra6 41. Rd8 Ke7 42. Rg8 Kf7 43. Rc8 Ra7
+44. Kd3 Ke6 45. Ke4 Kf7 46. h4 Kg7 47. h5 Kh7 48. hxg6+ Kxg6 49. f3 Kg5 50.
+Rg8+ Kh4 51. Rg6 Kg3 52. Rxf6 Ra8 53. Rf7 Rd8 54. g5 Rd2 55. Kxe5 Re2+ 56.
+Kd4 Kxf3 57. g6 Re8 58. g7 Rg8 59. a6 Kg3 60. a7 Kf3 61. Rf8 Rxg7 62. a8=Q
+1-0
+

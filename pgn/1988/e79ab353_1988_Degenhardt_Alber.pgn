@@ -1,0 +1,19 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1988.01.01"]
+[Round "9"]
+[White "Degenhardt, Horst"]
+[Black "Alber, Horst"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "e79ab353"]
+[Epoch "Queen"]
+[WhiteID "4601220"]
+[WhiteCountry "GER"]
+[BlackID "4602013"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nd7 5. Be3 e6 6. Qd2 h6 7. h3 Ne7 8. g4 a6
+9. a4 b6 10. d5 e5 11. Bd3 Kf8 12. Ne2 Bb7 13. c4 1/2-1/2

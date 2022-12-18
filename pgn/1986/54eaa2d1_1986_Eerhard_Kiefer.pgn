@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eerhard"]
+[Black "Kiefer, Gerhard"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "54eaa2d1"]
+[Epoch "Queen"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d6 4. Bc4 Nf6 5. cxd4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+ g6
+8. Qd5+ Ke8 9. Qxe4 Qa5+ 10. Nc3 Qf5 11. Qe2 Nc6 12. Nf3 Bg7 13. O-O Nxd4 14.
+Nxd4 Bxd4 15. Nb5 Bb6 16. Nxd6+ 1-0

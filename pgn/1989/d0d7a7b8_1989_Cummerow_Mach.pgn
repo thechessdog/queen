@@ -1,0 +1,18 @@
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cummerow, R."]
+[Black "Mach, Holger, Dr."]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "d0d7a7b8"]
+[Epoch "Queen"]
+[BlackID "4610130"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qc2 O-O 6. Bg5 Bf5 7. Qd1 Ne4 8. e3
+c5 9. cxd5 Qa5 10. Bxe7 Re8 11. d6 Nc6 12. Qa4 Qxa4 13. Nxa4 cxd4 14. Nxd4 Nxd4
+15. exd4 Nxd6 16. g3 Rxe7+ 0-1

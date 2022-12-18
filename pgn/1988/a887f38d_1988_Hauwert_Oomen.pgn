@@ -1,0 +1,17 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hauwert"]
+[Black "Oomen"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "a887f38d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. Nxe4 O-O 9. c3 e5 10. dxe5 Qxd1+ 11. Kxd1 Nxe5 12. Kc2 a6 13. Be2 Bf5
+14. f3 Rfe8 15. Rd1 Ng4 16. Bd3 Ne5 17. Be2 1/2-1/2
+

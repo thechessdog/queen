@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kohler"]
+[Black "Schenk"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "982e682b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. O-O h6
+8. Nf3 d6 9. h3 Qe8 10. d3 Qh5 11. Nh2 Qg6 12. Kh1 Nh5 13. Qe1 Bxh3 14.
+gxh3 Bxf2 15. Rxf2 Ng3+ 16. Kg1 Rxf2 17. Qxf2 Rf8 18. Qg2 Nd4 19. Nc3 Nde2+
+20. Nxe2 1/2-1/2
+

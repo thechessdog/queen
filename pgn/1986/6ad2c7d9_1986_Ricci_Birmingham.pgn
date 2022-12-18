@@ -1,0 +1,20 @@
+[Event "Tolon"]
+[Site "Tolon"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ricci"]
+[Black "Birmingham"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6ad2c7d9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Qe2 Nf6 6. Nc3 Nd4 7. Nxd4 cxd4
+8. e5 dxc3 9. exf6 Bxf6 10. dxc3 O-O 11. Bh6 Re8 12. Rad1 Qb6 13. Be3 Qc7
+14. Bd4 Bxd4 15. Rxd4 a6 16. Ba4 b5 17. Bb3 Bb7 18. Rfd1 d6 19. Bd5 Bxd5
+20. Rxd5 Red8 21. Qd3 Rab8 22. h4 Rb6 23. h5 e6 24. Rd4 Qe7 25. hxg6 hxg6
+26. Qh3 d5 27. Rh4 Qf6 28. Rh7 e5 29. Rd3 e4 30. Rg3 Rbd6 31. Qh6 Qe5 32.
+Rh3 f5 33. Qg5 Qf6 34. Qxf6 Rxf6 35. Rh8+ Kf7 36. Rxd8 1-0
+

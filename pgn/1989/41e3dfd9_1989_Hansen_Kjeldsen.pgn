@@ -1,0 +1,22 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hansen, Sune Berg"]
+[Black "Kjeldsen, Jens"]
+[Result "1-0"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "41e3dfd9"]
+[Epoch "Queen"]
+[WhiteID "1400266"]
+[WhiteCountry "DEN"]
+[BlackID "1400797"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 e6 8. f3
+Bb4 9. e4 Bg6 10. Be2 O-O 11. O-O Qe7 12. Na2 e5 13. Nxb4 Qxb4 14. dxe5 Nxe5
+15. Bd2 Qe7 16. Qb3 Nxc4 17. Qxc4 Rfd8 18. Rfd1 Nd7 19. Bf4 Nc5 20. a5 Ne6 21.
+Be3 a6 22. f4 Nc7 23. Bb6 Rxd1+ 24. Rxd1 Bxe4 25. Bxc7 Bd5 26. Qc2 Qe3+ 27. Kf1
+Rc8 28. Be5 1-0

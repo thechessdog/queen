@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gude Fernandez, A."]
+[Black "Dufraisse, J."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "170e08ce"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Qf3 Qb6 9. Be3 Qb7 10. O-O-O Nbd7 11. Rhe1 b4 12. Nd5 exd5 13. exd5 Ne5 14.
+Qg3 Ne4 15. Qh4 Nc5 16. f4 Be7 17. Qg3 Ng4 18. f5 Nf6 19. Bg5 Nfe4 20. Qh4
+Bxg5+ 21. Qxg5 O-O 22. Qh4 Nxb3+ 23. axb3 Nf6 24. Nc6 Nxd5 25. Rxd5 Qxc6
+26. Red1 Bb7 27. f6 a5 28. Qg5 1-0
+

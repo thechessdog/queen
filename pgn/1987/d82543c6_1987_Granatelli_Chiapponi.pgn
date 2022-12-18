@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Granatelli"]
+[Black "Chiapponi"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d82543c6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Nc6 8.
+O-O Be7 9. f4 Qc7 10. Nd5 Nxd5 11. exd5 Nd8 12. Be3 Bd7 13. Qd2 Bf6 14. c4
+b6 15. fxe5 Bxe5 16. Nd4 O-O 17. b4 Nb7 18. Rac1 f5 19. Rf2 Rae8 20. Rcf1
+b5 21. cxb5 Bxd4 22. Bxd4 axb5 23. Qg5 g6 24. Qh6 Re7 25. h4 Be8 26. g4 Re4
+27. Ba1 Rf7 28. h5 Rfe7 29. hxg6 Bxg6 30. Rxf5 Bxf5 31. Rxf5 1-0
+

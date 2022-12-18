@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sabel, H."]
+[Black "Tomson, H."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "c1a69a65"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Bh4+ 5. Ke2 c6 6. d4 d5 7. Bxf4 dxe4
+8. Nxe4 Qe7 9. Kd3 Bf5 10. Nd2 Nf6 11. Qf3 Nxe4 12. Nxe4 Nd7 13. Bg3 Bxe4+
+14. Qxe4 Nc5+ 15. dxc5 O-O-O+ 16. Bd6 1-0
+

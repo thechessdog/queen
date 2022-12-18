@@ -1,0 +1,18 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Comp Mephisto Amste"]
+[Black "Zessin, F."]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "72bb5e82"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 b6 3. e3 e6 4. d4 cxd4 5. exd4 d5 6. cxd5 exd5 7. Bb5+ Bd7
+8. Qe2+ Be7 9. Nxd5 Nc6 10. Nf3 a6 11. Bxa6 Bg4 12. Qb5 Bd7 13. Qc4 Na5 14.
+Qc3 Bc6 15. Nxe7 Nxe7 16. Be2 Rc8 17. d5 Bxd5 18. Qxg7 Rg8 19. Qxh7 Rxg2
+20. Bg5 Qd6 21. Qh8+ Kd7 22. Qh3+ 1-0
+

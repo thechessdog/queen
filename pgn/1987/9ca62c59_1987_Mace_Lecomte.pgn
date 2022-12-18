@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mace"]
+[Black "Lecomte"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "9ca62c59"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5
+8. exd5 Nxd5 9. Re1+ Be6 10. Bg5 Nf6 11. Bxf6 Qxf6 12. Nc3 O-O 13. Ne4 Qd8
+14. Nc5 Bxc5 15. dxc5 Bg4 16. Qxd8 Rfxd8 17. Bxc6 bxc6 18. Ne5 Bd7 19. Red1
+Be8 20. b3 Rd5 21. Rxd5 cxd5 22. Nf3 f6 23. Nd4 Bg6 24. Re1 Kf7 25. f4 Be4
+26. b4 a5 27. b5 a4 28. a3 Rb8 29. Re2 Ke8 30. Kf2 Kd7 31. Rb2 Bd3 32. b6
+c6 33. Rb4 Bb5 34. Rb1 Re8 35. Re1 Re5 36. fxe5 1-0
+

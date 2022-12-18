@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Furrer, H."]
+[Black "Minkov, I."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "7e16e971"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+g6 8. O-O Bg7 9. h3 O-O 10. c4 Qc7 11. Re1 b6 12. Be3 Rd8 13. Qc2 c5 14. d5
+e6 15. dxe6 Bxe6 16. Bg5 Re8 17. Rad1 Bd7 18. b3 Bc6 19. Nh2 Qb7 20. f3 Nh5
+21. Nf1 f5 22. Re2 Bd4+ 23. Be3 Rxe3 0-1
+

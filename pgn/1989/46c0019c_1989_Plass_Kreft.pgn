@@ -1,0 +1,18 @@
+[Event "NRW-Liga I 8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Plass, Heinz"]
+[Black "Kreft, M."]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "46c0019c"]
+[Epoch "Queen"]
+[WhiteID "4650930"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Qb6 9. a5 Qxa5 10. Bd2 Qb6 11. Qa4 Bd7 12. Ne5 c5 13. Nxd7 Nbxd7 14. dxc5 Bxc5
+15. Bb5 Rd8 16. Nxb4 O-O 17. Nc6 Ra8 18. b4 Bd6 19. Bc3 1/2-1/2

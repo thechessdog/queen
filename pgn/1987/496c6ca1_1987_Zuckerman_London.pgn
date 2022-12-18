@@ -1,0 +1,22 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "London, Dimitri"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "496c6ca1"]
+[Epoch "Queen"]
+[WhiteID "2000423"]
+[WhiteCountry "USA"]
+[BlackID "2000881"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qb6 5. e5 Nd5 6. Nxd5 cxd5 7. Bd3 Nc6 8. c3
+g6 9. Qe2 Bg7 10. Be3 O-O 11. Nf3 f6 12. O-O Qc7 13. exf6 Rxf6 14. Rae1 Bd7 15.
+Ng5 Raf8 16. h3 Nd8 17. Bc1 e6 18. h4 Nf7 19. Nxf7 R8xf7 20. h5 gxh5 21. Qxh5
+Kf8 22. Qe2 h6 23. Rf3 Ke8 24. f5 Kd8 25. fxe6 Bxe6 26. Bf5 Bd7 27. Bg6 Rxf3
+28. gxf3 Bxd4+ 29. cxd4 Rg7 30. Qd3 Bb5 1-0

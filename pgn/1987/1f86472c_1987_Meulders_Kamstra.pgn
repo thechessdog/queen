@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Meulders, Richard"]
+[Black "Kamstra, Cor"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "1f86472c"]
+[Epoch "Queen"]
+[WhiteID "200123"]
+[BlackID "1002317"]
+[WhiteCountry "BEL"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 cxd4 8.
+exd4 exd5 9. O-O h6 10. Bf4 Nc6 11. Rc1 Bg4 12. h3 Bxe2 13. Bxe2 Re8 14. Bf3
+Bd6 15. Be3 Bc7 16. Re1 Qd6 17. g3 Bb6 18. Re2 Rxe3 19. Rxe3 Nxd4 20. Rd3 Qb4
+21. Nxd5 Nxd5 22. Bxd5 Re8 23. Kg2 Re5 24. Rc4 Qxb2 25. Rcxd4 1-0

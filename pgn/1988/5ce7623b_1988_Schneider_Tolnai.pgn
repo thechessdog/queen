@@ -1,0 +1,22 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Schneider, Attila"]
+[Black "Tolnai, Tibor"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5ce7623b"]
+[Epoch "Queen"]
+[BlackID "700126"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Rb8 11. a4 Nb4 12. Nc4 a6 13. a5 Ne8 14. f4 Bd4+ 15. Be3
+Bxe3+ 16. Nxe3 f6 17. Ra3 Nc7 18. e5 fxe5 19. fxe5 Rxf1+ 20. Bxf1 dxe5 21. Bc4
+Kg7 22. Ne4 Nb5 23. Bxb5 axb5 24. Nxc5 b6 25. axb6 Qxb6 26. Qc1 Kg8 27. Kh1 Qf6
+28. Qd2 Qf4 29. d6 Qd4 30. Qc3 Bb7 31. Nxb7 Qe4 32. h3 Rxb7 33. d7 Nc6 34. Qxc6
+Qxc6 35. d8=Q+ Kg7 36. Ra8 Rf7 1-0

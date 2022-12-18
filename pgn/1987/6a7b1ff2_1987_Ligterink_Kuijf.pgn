@@ -1,0 +1,20 @@
+[Event "Budel zt"]
+[Site "Budel zt"]
+[Date "1987.05.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Kuijf, Rini"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "6a7b1ff2"]
+[Epoch "Queen"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000110"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 dxc4 5. g3 Nd7 6. Bg2 Ngf6 7. O-O Qa5 8. e4
+e5 9. dxe5 Ng4 10. Bf4 Ngxe5 11. Nxe5 Nxe5 12. Nd5 Bd6 13. Qd4 cxd5 14. Bxe5
+Bxe5 15. Qxe5+ Be6 16. b4 cxb3 17. axb3 Qb5 18. Qxg7 O-O-O 19. Qe5 1-0

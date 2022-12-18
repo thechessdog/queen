@@ -1,0 +1,20 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "9"]
+[White "Zueger, Beat"]
+[Black "Gruen, Gerd-Peter"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "202a61c1"]
+[Epoch "Queen"]
+[WhiteID "1300067"]
+[WhiteCountry "SUI"]
+[BlackID "4601068"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O Ne7 12. Bg5 Bd7 13. Re1 Bc6 14. Bxf6
+gxf6 15. Qd2 Kh8 16. Rad1 1/2-1/2

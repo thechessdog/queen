@@ -1,0 +1,16 @@
+[Event "JSM PSY-KalSK"]
+[Site "JSM PSY-KalSK"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Viitanen, Lauri"]
+[Black "Koskinen, Heikki"]
+[Result "1-0"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "25efdae7"]
+[Epoch "Queen"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Qc2 Be7 6. Nd2 O-O 7. Ngf3 Nbd7 8. O-O
+Re8 9. b3 b6 10. e4 dxe4 11. Ne5 Bb7 12. Nxe4 Rc8 13. Nxf7 1-0

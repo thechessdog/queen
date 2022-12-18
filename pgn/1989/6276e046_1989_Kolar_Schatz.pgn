@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kolar, Srecko"]
+[Black "Schatz, Christian"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "6276e046"]
+[Epoch "Queen"]
+[WhiteID "14600153"]
+[WhiteCountry "SLO"]
+[BlackID "4641620"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 e5 8. dxe5
+dxe5 9. f5 c6 10. Be3 Nbd7 11. Bc4 Qe7 12. O-O b5 13. Be2 h6 14. fxg6 fxg6 15.
+Qg3 1-0

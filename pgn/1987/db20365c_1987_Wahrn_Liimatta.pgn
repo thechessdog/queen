@@ -1,0 +1,23 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wahrn"]
+[Black "Liimatta"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "db20365c"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nc6 3. c4 Bg4 4. e3 e6 5. Nc3 Bb4 6. Qb3 Bxf3 7. gxf3 Nge7
+8. Bd2 O-O 9. f4 Rb8 10. O-O-O dxc4 11. Bxc4 b5 12. Bd3 Bxc3 13. Qxc3 Rb6
+14. Kb1 a5 15. Rhg1 Nd5 16. Qc5 b4 17. Rc1 Qd6 18. Qxd6 cxd6 19. e4 Nde7
+20. Be3 Rbb8 21. f5 Kh8 22. fxe6 fxe6 23. Rg5 e5 24. dxe5 Nxe5 25. Be2 N7g6
+26. Rc7 Rbc8 27. Ra7 Nc6 28. Ra6 Nge7 29. b3 h6 30. Rh5 Rf6 31. Bg4 Rc7 32.
+f4 Kh7 33. Ra8 d5 34. Rxd5 Nxd5 35. exd5 Ne7 36. Rxa5 Ng6 37. f5 Ne7 38.
+Bd2 Rb7 39. Bf3 Nxf5 40. d6 Rd7 41. Rxf5 Rxf5 42. Be4 Kg6 43. Bxb4 Kf6 44.
+Bxf5 Kxf5 45. Bc5 Ke4 46. a4 Kd5 47. b4 g5 48. Kc2 Rd8 49. a5 g4 50. a6 h5
+51. Kb3 Ra8 52. a7 Kc6 53. Kc4 h4 54. b5+ Kb7 55. Kd5 g3 56. hxg3 h3 57.
+Bg1 Rh8 58. d7 Rh5+ 59. Ke4 Rh8 60. Kf5 Rf8+ 61. Ke6 Rh8 62. g4 1-0
+

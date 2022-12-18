@@ -1,0 +1,20 @@
+[Event "WGM"]
+[Site "WGM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Lankveld, W."]
+[Black "Vuurboom, J."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "30b65a77"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Bb5+ Nc6 9. O-O cxd4 10. cxd4 O-O 11. Bxc6 bxc6 12. Be3 Ba6 13. Re1 Qa5
+14. Bd2 Qa3 15. Re3 Qd6 16. e5 Qd5 17. Rc3 Rfb8 18. Rc5 Qe4 19. Be3 Rb2 20.
+Ng5 Qf5 21. e6 Qd3 22. exf7+ Kh8 23. Qxd3 Bxd3 24. Rxc6 Rab8 25. Rac1 Bf5
+26. Ne6 Bxe6 27. Rxe6 Bf6 28. Bh6 Bg7 29. Bxg7+ Kxg7 30. Rxe7 Rxa2 31. Re8
+Rab2 32. f8=Q# 1-0
+

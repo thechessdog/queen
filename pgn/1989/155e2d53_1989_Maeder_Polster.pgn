@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maeder"]
+[Black "Polster"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "155e2d53"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. Nc3 Be6 7. Ng5 Nbd7 8.
+Nxe6 fxe6 9. a3 O-O 10. O-O Kh8 11. Bg5 Qe8 12. f4 exf4 13. Bxf4 e5 14. Bd2
+Bc5+ 15. Kh1 Qg6 16. Na4 dxe4 17. Be6 exd3 18. Bf5 Qe8 19. Nxc5 Nxc5 20.
+cxd3 Ne6 21. Qb3 Nd4 22. Qxb7 Rf7 23. Qa6 Nd5 24. Be4 Nb3 25. Rxf7 Qxf7 26.
+Qxc6 Rd8 27. Rd1 Ne7 28. Qc2 Rc8 29. Qb1 Nxd2 30. Rxd2 Qf4 31. Rd1 Nf5 32.
+Bxf5 Qxf5 33. Rf1 Qg5 34. Qe1 g6 35. h3 Rc2 36. Qe4 Rc1 37. Qa8+ Kg7 38.
+Qf8# 1-0
+

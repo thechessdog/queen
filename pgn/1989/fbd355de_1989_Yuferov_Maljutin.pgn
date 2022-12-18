@@ -1,0 +1,24 @@
+[Event "Moscow op"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Yuferov, Sergey N"]
+[Black "Maljutin, Evgeni"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "fbd355de"]
+[Epoch "Queen"]
+[WhiteID "4103254"]
+[WhiteCountry "RUS"]
+[BlackID "4103645"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. Nc3 cxd4 5. Qxd4 Qxd4 6. Nxd4 Bd7 7. Ndb5 Na6
+8. e4 Nf6 9. Bxc4 Rc8 10. Be2 Nb4 11. Nxa7 Rxc3 12. bxc3 Nc2+ 13. Kd2 Nxa1 14.
+f3 g6 15. Bb5 e5 16. Bb2 Bc5 17. Bxd7+ Kxd7 18. Nb5 Kc6 19. c4 Bb4+ 20. Kc1 Ra8
+21. Kb1 Nd7 22. Bxa1 f6 23. Kb2 Nb6 24. Kb3 Bc5 25. Rb1 Ra4 26. Bc3 Rxc4 27.
+Na7+ Kd7 28. Rd1+ Ke6 29. Nb5 Be7 30. Ba5 Rc5 31. a4 Nc4 32. Bb4 Rc8 33. Rd3 b6
+34. Bxe7 Kxe7 35. Kb4 Na5 36. Nc3 Ke6 37. Kb5 Nc4 38. Nd5 Rc5+ 39. Kb4 Nb2 40.
+Rd2 1-0

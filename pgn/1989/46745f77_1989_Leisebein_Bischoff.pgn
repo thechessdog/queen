@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Leisebein, Peter"]
+[Black "Bischoff, Klaus"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "46745f77"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. f3 c5 7. fxe4 Qh4+ 8.
+g3 Qxe4+ 9. Kf2 Qxh1 10. Nf3 Bd7 11. Qe2 Nf6 12. h3 Bc6 13. Bg2 Ne4+ 14. Ke3
+Nxc3 0-1

@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0b2455c5"]
+[Epoch "Queen"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+[BlackID "3500055"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 Qa5 10. Qe2 O-O 11. O-O exf4 12. Bxf4 Ne5 13. Bb3 Be6 14. Nd4 Qc5
+15. Be3 Bxb3 16. Nxb3 Qc4 17. Rae1 Qxe2 18. Rxe2 Nc4 19. Bc1 Rfe8 20. Rd1 Rac8
+21. Nd4 Bd8 22. Nf5 Ba5 23. Nd5 Nxd5 24. Rxd5 Rc5 25. Kf1 g6 26. Ng3 Rxd5 27.
+exd5 Rxe2 28. Kxe2 f5 29. b3 Nb6 30. c4 Bb4 31. Nh1 Nd7 32. Bf4 g5 33. Bxg5 Nc5
+34. Ng3 Kf7 35. Bf4 Nxb3 36. Nxf5 Kf6 37. Nxd6 Nc5 38. Be3 Nxa4 39. Nxb7 Ke5
+40. Nd8 Ke4 41. Bd2 Ba3 42. Nb7 Nb6 43. Na5 Bd6 44. h3 Nd7 45. Bc3 h5 46. Nb3
+Bf4 47. g4 hxg4 48. hxg4 Bg5 49. Bd2 Bd8 50. Be3 Nf6 51. Nc5+ Ke5 52. Ne6 Nxg4
+53. Nxd8 Ke4 54. Bf2 Ne5 55. Nb7 Nxc4 56. d6 1-0

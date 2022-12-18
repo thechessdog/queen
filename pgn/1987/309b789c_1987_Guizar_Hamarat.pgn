@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Guizar"]
+[Black "Hamarat"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "309b789c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. g3 fxe4 12. Bg2 Bg7 13. Bxe4 Be6 14.
+Qh5 Rc8 15. O-O Ne7 16. Rad1 Rc5 17. Nb4 Qb6 18. Qg5 Kf8 19. Qe3 f5 20. Bg2
+e4 21. Nd3 Nd5 22. Qe2 Rc8 23. g4 Bf7 24. Ne1 Nf4 25. Qd2 Be5 26. Kh1 Rg8
+27. h3 d5 28. gxf5 Qh6 29. Rg1 Rxg2 30. Rxg2 Qxh3+ 31. Kg1 Nxg2 32. Nxg2
+Qh2+ 33. Kf1 Qh1+ 34. Ke2 Bh5+ 35. Ke3 Qxg2 36. Qb4+ Kf7 37. c4 Qf3+ 38.
+Kd2 Qxd1+ 39. Ke3 Qe2# 0-1
+

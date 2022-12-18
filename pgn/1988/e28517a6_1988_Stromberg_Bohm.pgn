@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stromberg"]
+[Black "Bohm"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "e28517a6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. dxc3
+O-O 8. Bf4 c5 9. g3 Bf5 10. Bg2 Be4 11. O-O-O Qa5 12. Kb1 Nc6 13. h4 f6 14.
+exf6 Bxf6 15. Ng5 Bxg5 16. hxg5 g6 17. Bxe4 dxe4 18. Rd7 Nd8 19. Qc4+ Nf7
+20. Rxh7 1-0
+

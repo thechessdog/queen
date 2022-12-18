@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Pape, Rasmus"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "e14040bc"]
+[Epoch "Queen"]
+[BlackID "1408950"]
+[BlackCountry "DEN"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Nd4 Qf6 5. Nb5 Na6 6. Qh5+ g6 7. fxg6 hxg6 8.
+Qe2 d5 9. d3 Bf5 10. dxe4 dxe4 11. g4 Be6 12. Qxe4 O-O-O 13. Nxa7+ Kb8 14. Bxa6
+Bd5 15. Qa4 Bxh1 16. Be2 Bc5 17. Be3 Bxe3 18. fxe3 Rxh2 0-1

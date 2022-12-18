@@ -1,0 +1,18 @@
+[Event "Warsaw I zt"]
+[Site "Warsaw I zt"]
+[Date "1987.02.01"]
+[Round "1"]
+[White "Mokry, Karel"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "395afee6"]
+[Epoch "Queen"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. f4 Qc7 8. O-O
+Be7 9. a4 Nc6 10. Be3 O-O 11. Kh1 Rd8 1/2-1/2

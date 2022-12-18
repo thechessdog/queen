@@ -1,0 +1,24 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Olesen, Martin"]
+[Black "Meduna, Eduard"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "700b6d6f"]
+[Epoch "Queen"]
+[WhiteID "1400860"]
+[BlackID "300055"]
+[WhiteCountry "DEN"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 g6 6. e4 d6 7. Nf3 Bg7 8. Nd2
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 Re8 12. f3 b6 13. Nc4 Ba6 14. Bg5 h6 15. Be3
+Bxc4 16. Bxc4 a6 17. Qd2 Kh7 18. Rab1 Nd7 19. Kh1 Qe7 20. Rfe1 g5 21. Qc2 Ne5
+22. Be2 Ng6 23. b4 cxb4 24. Nd1 Rec8 25. Qb3 a5 26. Bxb6 Na6 27. Bxa5 Nc5 28.
+Qxb4 Rcb8 29. Qxb8 Rxb8 30. Rxb8 Qa7 31. Rb5 Nxa4 32. Bb4 Nc5 33. Ra5 Qc7 34.
+Ra3 Bd4 35. Bc3 Bxc3 36. Nxc3 Nf4 37. Nb5 Qb6 38. Nd4 Qb2 39. Raa1 Qxd4 40.
+Rad1 Ncd3 0-1

@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hausner, Ivan"]
+[Black "Stulik, Vlastimil"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "a2f9d98c"]
+[Epoch "Queen"]
+[WhiteID "300110"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. c4 g5 2. d4 Bg7 3. Nc3 c5 4. d5 h6 5. e4 d6 6. h4 g4 7. Nge2 h5 8. Ng3 Qa5
+9. Bd2 Bh6 10. Be2 Nd7 11. Bxh6 Rxh6 12. Qd2 Rh7 13. Qg5 Ngf6 14. Nf5 Qd8 15.
+f3 Ne5 16. f4 Ng6 17. Ng3 Qc7 18. Bd3 Bd7 19. e5 dxe5 20. Bxg6 Rg7 21. Qxe5 1-0

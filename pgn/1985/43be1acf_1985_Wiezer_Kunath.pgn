@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wiezer"]
+[Black "Kunath"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "43be1acf"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 dxc4 6. Bxc6+ bxc6 7. bxc4
+Rb8 8. Bc3 Nf6 9. Qc2 Qe7 10. Nf3 c5 11. O-O e4 12. Ne1 O-O 13. f4 Bf5 14.
+Na3 h5 15. Rc1 h4 16. Nf3 g6 17. Nxh4 Bg4 18. Rce1 Nh5 19. g3 Bh3 20. Rf2
+Rfe8 21. Nb5 Qe6 22. Nxd6 cxd6 23. d3 Rb7 24. Ba1 Kh7 25. dxe4 Qxe4 26.
+Qxe4 Rxe4 27. Nf3 Kg8 28. Ng5 Rxe3 29. Rff1 Rxe1 30. Rxe1 Bd7 31. Ne4 Rb6
+32. Nc3 Kf8 33. Nd5 Rb7 34. Bc3 Be6 35. Ne3 f5 36. Kf2 Rb6 37. Ke2 Ra6 38.
+Ra1 Ra4 39. Kd3 Kf7 40. a3 Nf6 41. Bxf6 Kxf6 42. Kc3 Ra6 43. Kb2 Rb6+ 44.
+Ka2 Rb8 45. Rd1 Ke7 46. h4 Kd7 47. Rd3 Re8 48. Kb3 Kc6 49. Kc3 Bf7 50. h5
+Rh8 51. hxg6 Bxg6 52. Nd5 Re8 53. Re3 Rxe3+ 54. Nxe3 Kd7 55. Kb3 Ke6 56.
+Ka4 Kd7 57. Ka5 Kc7 58. Nd5+ Kb7 59. Ne7 Bh7 60. Kb5 1-0
+

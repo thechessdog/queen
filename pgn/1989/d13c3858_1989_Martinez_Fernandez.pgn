@@ -1,0 +1,19 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Martinez, J."]
+[Black "Fernandez, Jor"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "d13c3858"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d6 8. Bg5
+Nbd7 9. Re1 h6 10. Bxf6 Bxf6 11. e4 Rb8 12. Qc2 e5 13. d5 a6 14. Nd2 Be7 15.
+Rf1 Nf6 16. f4 exf4 17. Rxf4 c6 18. Raf1 Nxd5 19. exd5 b5 20. cxb5 axb5 21. b4
+Qb6+ 22. Kh1 Rbc8 23. Qd3 Ra8 24. Ra1 Rfc8 25. Nb3 Ra3 26. Nxb5 Ba6 27. Bf1
+cxd5 28. Qxd5 Bb7 29. Nxa3 Bxd5+ 30. Bg2 Bxg2+ 31. Kxg2 Qb7+ 32. Kh3 g5 33.
+Rff1 h5 34. g4 Rc3+ 0-1

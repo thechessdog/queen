@@ -1,0 +1,21 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kurz, Alexander"]
+[Black "Gerusel, Mathias"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "11c0cfff"]
+[Epoch "Queen"]
+[BlackID "4601122"]
+[BlackCountry "GER"]
+[WhiteID "4601920"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Nc6 6. Bg2 O-O 7. O-O d6 8. dxc5
+dxc5 9. Bf4 Bxc3 10. bxc3 Qxd1 11. Rfxd1 Ne4 12. Ne5 f5 13. Nxc6 bxc6 14. Bd6
+Rd8 15. Bxe4 fxe4 16. Bxc5 Ba6 17. Rd4 Rxd4 18. Bxd4 Bxc4 19. Rb1 Bxa2 20. Rb7
+e5 21. Bxa7 Bc4 22. Kf1 Rd8 1/2-1/2

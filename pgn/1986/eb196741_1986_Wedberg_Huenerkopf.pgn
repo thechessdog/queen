@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Huenerkopf, Heinz"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "eb196741"]
+[Epoch "Queen"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Bxf6 gxf6 11. Be2 Bg7 12. f5 Nc6 13. Nxc6 bxc6 14. Rb3 Qa5
+15. Qxd6 Ra7 16. Rb8 Rc7 17. fxe6 fxe6 1-0

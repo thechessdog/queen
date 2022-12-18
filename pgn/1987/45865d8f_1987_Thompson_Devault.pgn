@@ -1,0 +1,18 @@
+[Event "corr ch3-USA"]
+[Site "corr ch3-USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Thompson, H."]
+[Black "Devault"]
+[Result "1/2-1/2"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "45865d8f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+dxc4 9. Bxc4 Ba5 10. Qd3 a6 11. Rd1 b5 12. Ba2 Bb6 13. Qe2 cxd4 14. exd4 Nxd4
+15. Nxd4 Bxd4 16. Be3 e5 17. Bxd4 exd4 18. Qe5 Re8 19. Rxd4 Qb6 20. Nd5 Rxe5
+21. Nxb6 Rb8 22. Rd8+ Re8 23. Rxe8+ Nxe8 24. Nxc8 Rxc8 25. Bb3 Kf8 26. g3 Nd6
+27. Rd1 1/2-1/2

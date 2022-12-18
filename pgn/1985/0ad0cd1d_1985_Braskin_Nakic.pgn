@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Nakic"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "0ad0cd1d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. Bxc6+
+bxc6 8. Qe2+ Be6 9. O-O Bc5+ 10. Kh1 O-O 11. c3 Re8 12. Qa6 Bc8 13. Qxc6
+Qd3 14. Qxc5 Qxf1+ 15. Qg1 Qe2 16. d4 Ne4 17. Qe1 Nf2+ 18. Kg1 Nh3+ 19.
+gxh3 Qxe1+ 20. Nxe1 Rxe1+ 0-1
+

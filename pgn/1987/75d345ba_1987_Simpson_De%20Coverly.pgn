@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Simpson"]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "75d345ba"]
+[Epoch "Queen"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 g5 5. O-O Bg7 6. c3 h6 7. Qb3 Qe7 8. h4
+Nc6 9. hxg5 hxg5 10. d4 g4 11. Ng5 Nxd4 12. Bxf7+ Kd8 13. Qd5 c6 14. Qc4 d5 15.
+Qd3 Qc5 16. Rf2 g3 17. b4 Ne2+ 18. Qxe2 gxf2+ 19. Qxf2 Rh1+ 0-1

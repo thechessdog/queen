@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "7d063406"]
+[Epoch "Queen"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+[WhiteID "3500020"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Nbd7 7. Nc3 Be7 8. Qe2
+Ne4 9. cxd5 exd5 10. Ba6 Qb8 11. Bd2 O-O 12. Rac1 Nxd2 13. Nxd2 c6 14. Rc2 Re8
+15. Rfc1 Bd6 16. g3 Qc8 17. Bxb7 Qxb7 1/2-1/2

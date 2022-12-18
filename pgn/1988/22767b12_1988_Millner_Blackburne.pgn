@@ -1,0 +1,17 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Millner"]
+[Black "Blackburne"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Variation "Jerome gambit"]
+[HashCode "22767b12"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Bxf7+ Kxf7 5. Nxe5+ Nxe5 6. Qh5+ g6 7.
+Qxe5 d6 8. Qxh8 Qh4 9. O-O Nf6 10. h3 Bxh3 11. Qxa8 Qg4 12. g3 Qxg3+ 13.
+Kh1 Qg2# 0-1
+

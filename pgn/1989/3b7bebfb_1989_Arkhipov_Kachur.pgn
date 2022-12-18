@@ -1,0 +1,20 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arkhipov, Sergey"]
+[Black "Kachur, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "3b7bebfb"]
+[Epoch "Queen"]
+[BlackID "14100533"]
+[BlackCountry "UKR"]
+[WhiteID "4101146"]
+[WhiteCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+a4 a5 9. d4 Nxd4 10. Nxd4 exd4 11. Nb5 c6 12. Nxd4 O-O 13. Qd3 Bf6 14. Rd1 Qe7
+15. Be3 Rd8 16. Qc2 1/2-1/2

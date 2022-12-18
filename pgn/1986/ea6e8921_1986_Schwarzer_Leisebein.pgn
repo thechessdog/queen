@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwarzer"]
+[Black "Leisebein"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "ea6e8921"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. h4 h6 7. c3 Nc6 8. O-O
+Qe7 9. b4 Bg4 10. Bb2 Nf6 11. Nbd2 O-O-O 12. Bd3 gxh4 13. b5 Nb8 14. Qa4 h3
+15. Nh2 hxg2 16. Rxf4 h5 17. Re1 Bh6 18. Rf2 Bh3 19. e5 Nd5 20. Qxa7 Be3
+21. Rxe3 Nxe3 22. Rf3 Bg4 23. Rxe3 Qg5 24. d5 b6 25. Nc4 dxe5 26. d6 Rxd6
+27. Nxd6+ cxd6 28. Qxb6 Nd7 29. Qc6+ Kd8 30. Bc1 Rg8 31. Qxd6 1-0
+

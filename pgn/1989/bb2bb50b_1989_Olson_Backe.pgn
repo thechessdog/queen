@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olson, Anton"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "bb2bb50b"]
+[Epoch "Queen"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Qc7 8. Nf3
+Nbc6 9. h5 h6 10. Be2 Bd7 11. a4 cxd4 12. cxd4 Nb4 13. c4 dxc4 14. a5 Ned5 15.
+Ra3 Bb5 16. Nd2 f5 17. Nf3 O-O-O 18. O-O a6 19. Nh4 c3 20. Bxb5 axb5 21. Ng6
+Rhe8 22. Qe2 Qc4 23. Qxc4+ bxc4 24. Ra4 Kd7 25. Ba3 Nc6 26. Rb1 b5 27. axb6 c2
+28. Re1 Nxb6 29. Ra6 Nd5 30. Bc5 Rb8 31. Kf1 Rb1 32. Ra1 Reb8 0-1

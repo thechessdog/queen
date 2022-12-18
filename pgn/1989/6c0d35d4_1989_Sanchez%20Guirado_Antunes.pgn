@@ -1,0 +1,23 @@
+[Event "Valencia"]
+[Site "Valencia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sanchez Guirado, Francisco"]
+[Black "Antunes, Antonio"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "6c0d35d4"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8. a4
+Bb7 9. Nc3 Nxc3 10. bxc3 Bxg2 11. Kxg2 Nc6 12. Nxc6 Qd5+ 13. e4 Qxc6 14. d5 Qb7
+15. dxe6 Qxe4+ 16. Kg1 fxe6 17. axb5 Rd8 18. Qa4 axb5 19. Qxb5+ Kf7 20. Bf4 Bd6
+21. Bg5 Rde8 22. Qd7+ Kg6 23. Ra5 h6 24. Bd2 Re7 25. Qb5 Rf8 26. Ra4 Qd3 27.
+Be1 Ref7 28. Qxc4 Qxc4 29. Rxc4 Rf3 30. Bd2 Rd3 31. Be3 Ra8 32. Rc1 Kf5 33. Rc2
+g5 34. h3 Bxg3 35. Bxg5 hxg5 36. fxg3 Rxg3+ 37. Rg2 Rxh3 38. Rc5+ e5 39. Rf2+
+Kg4 40. Rc4+ Kh5 41. Rxc7 Rg3+ 42. Kh2 Re3 43. Rg2 Kg6 44. Rc6+ Kf5 45. Rf2+
+Ke4 46. Rc4+ Kd3 47. Rg4 Re2 48. Rxe2 Kxe2 49. Kg2 Kd3 50. Rg3+ Ke2 51. Rg4 Re8
+52. c4 e4 53. c5 Re5 54. c6 Kd3 55. c7 Rc5 56. c8=Q Rxc8 57. Rxg5 e3 58. Rd5+
+Ke2 59. Rg5 Re8 60. Rg7 Ke1 0-1

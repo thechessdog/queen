@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Noorda"]
+[Black "Berzins"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a2c1fc4a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O a6 8.
+Qe2 Be7 9. Rd1 b5 10. Bb3 Ra7 11. Be3 Rd7 12. Nxb5 axb5 13. Qxb5 Bb7 14.
+Rac1 Nf6 15. Bb6 Qa8 16. Ba4 O-O 17. Rxc6 Bxc6 18. Qxc6 Rb7 0-1
+

@@ -1,0 +1,24 @@
+[Event "Tampere Elo op"]
+[Site "Tampere ELO"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pessi, Juha"]
+[Black "Karner, Hillar"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "dbad9386"]
+[Epoch "Queen"]
+[WhiteID "502057"]
+[WhiteCountry "FIN"]
+[BlackID "4500202"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 f6 13. exf6 Bxf6 14. Qd2 Bxg5 15.
+Qxg5 Qxg5 16. Nxg5 Ne3 17. Kf2 Nc2 18. Rad1 Nd4 19. Bc4 Rf8+ 20. Kg1 Bg4 21.
+Rd2 Nd7 22. h3 Bf5 23. Ne6 Ne5 24. Nxf8 Nxc4 25. Rf2 Rxf8 26. Kh2 Re8 27. d6
+Nxd6 28. Nd5 Kg7 29. Rc1 Ne4 30. Rff1 h5 31. b4 Re5 32. Ne3 Bc8 33. bxc5 Nxc5
+34. Nc4 Re2 35. Ne3 b6 36. Rfd1 Nf3+ 37. Kg3 Rxe3 38. gxf3 h4+ 39. Kf4 Ra3 40.
+Rd2 Kf6 41. Rg1 g5+ 0-1

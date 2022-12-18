@@ -1,0 +1,22 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Kaspersen, Morten"]
+[Black "Hector, Jonny"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "884a86c4"]
+[Epoch "Queen"]
+[WhiteID "1402897"]
+[WhiteCountry "DEN"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. c4 c6 2. e4 e5 3. Nf3 d6 4. Be2 f5 5. Nc3 Nf6 6. d4 Nxe4 7. Nxe4 fxe4 8. Ng5
+Bf5 9. Bg4 Qf6 10. Bxf5 Qxf5 11. Qb3 Be7 12. Qxb7 O-O 13. Qxe7 Qxf2+ 14. Kd1
+Na6 15. Qe6+ Kh8 16. Qh3 h6 17. Bd2 e3 18. Ne4 e2+ 19. Kc1 Qxd4 20. Qe3 Rf1+
+21. Kc2 Qxc4+ 22. Bc3 Rf4 23. Nxd6 Nb4+ 24. Kd2 Rd8 25. Bxb4 Qxb4+ 26. Kc2 Rxd6
+27. Rac1 Re4 0-1

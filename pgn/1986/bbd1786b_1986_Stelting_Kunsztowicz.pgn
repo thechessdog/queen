@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stelting, Thorsten"]
+[Black "Kunsztowicz, Uwe"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "bbd1786b"]
+[Epoch "Queen"]
+[BlackID "4602773"]
+[BlackCountry "GER"]
+[WhiteID "4605616"]
+[WhiteCountry "GER"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 d6 4. d4 Nf6 5. O-O O-O 6. c4 Nc6 7. d5 Na5 8. Nbd2
+c5 9. e4 a6 10. Rb1 b5 11. b3 e5 12. Ne1 Nh5 13. Nd3 f5 14. exf5 Bxf5 15. cxb5
+Bxd3 0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petzold, V."]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "5d7a8370"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Bxc3+ 7. bxc3 Bf5
+8. dxc7 Qxc7 9. Qa4+ Nc6 10. f3 Ng3 11. e4 Nxh1 12. exf5 Qxh2 0-1

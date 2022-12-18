@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nikolov, S."]
+[Black "Paehtz, Thomas"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "bba20ef1"]
+[Epoch "Queen"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Nf3 c5 6. Bd2 Nbc6 7. Nb5 Bxd2+ 8.
+Qxd2 O-O 9. dxc5 Ng6 10. Qe3 Bd7 11. Nbd4 Qa5+ 12. c3 Qxc5 13. Bd3 a5 14. O-O
+a4 15. Rac1 Qb6 16. Bxg6 fxg6 17. Qd2 Na5 18. Rc2 Qd8 19. Re1 Ra6 20. Qc1 Rb6
+21. h3 Qe7 22. Qd1 Rc8 23. Qd3 Be8 24. Rce2 Nc4 25. b3 Na5 26. Nd2 Qc7 27. Re3
+Qe7 28. f4 Bd7 29. Kh2 Qa3 30. f5 gxf5 31. Nxf5 axb3 32. Qd4 Ra6 33. Rg3 g6 34.
+Nh4 Be8 35. axb3 Nxb3 36. Nxb3 Qxb3 37. Rf1 Rc4 38. Qf2 Qa3 39. Rf3 Qe7 40. Rf6
+Rxc3 41. Qd2 Rc8 42. Qh6 Bc6 43. Nxg6 Qg7 44. Rf8+ Rxf8 45. Rxf8+ Qxf8 46.
+Qxf8# 1-0

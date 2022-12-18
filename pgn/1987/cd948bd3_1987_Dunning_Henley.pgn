@@ -1,0 +1,19 @@
+[Event "Fort Worth"]
+[Site "Fort Worth"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dunning"]
+[Black "Henley, Ron"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "cd948bd3"]
+[Epoch "Queen"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. Re1
+c6 9. Rb1 a5 10. Bf1 Re8 11. d5 Nc5 12. b3 Bd7 13. Nd2 Qb8 14. a3 cxd5 15. cxd5
+Rc8 16. Nb5 Bh6 17. f3 Kg7 18. a4 b6 19. Na3 Nh5 20. Ndc4 Bxc1 21. Qxc1 f5 22.
+Qe3 fxe4 23. fxe4 Nf6 24. Nd2 b5 25. Nxb5 Ng4 26. Qe2 Nd3 27. Qxd3 Bxb5 0-1

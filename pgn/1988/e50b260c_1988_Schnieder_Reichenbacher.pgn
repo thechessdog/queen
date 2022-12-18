@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schnieder"]
+[Black "Reichenbacher"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "e50b260c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 Nc6 6. Bd3 Bg6 7. f4 f5
+8. a3 e6 9. Nf3 f6 10. O-O Qd7 11. b4 Bd6 12. Nb5 a6 13. Nxd6+ cxd6 14. c4
+dxc4 15. Bxc4 d5 16. Be2 Bh5 17. b5 axb5 18. Bxb5 O-O 19. Qc2 Rfc8 20. Ne1
+Qd6 21. Qb2 Na5 22. Nc2 Qc7 23. Nb4 Qc3 24. Rf2 Qxe3 25. Kf1 Nc4 26. Bxc4
+Rxc4 27. Nc2 Qc3 0-1
+

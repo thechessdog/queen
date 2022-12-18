@@ -1,0 +1,20 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Salaun, Yann"]
+[Black "Van Dongen, Patrick"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "c22e91b4"]
+[Epoch "Queen"]
+[WhiteID "601748"]
+[WhiteCountry "FRA"]
+[BlackID "602418"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Nb6 9. O-O Bd7 10. Nf3 a5 11. h4 a4 12. Bg5 Qb8 13. Rc1 a3 14. b3 h6 15. Be3
+Be7 16. h5 Qa7 17. Nh2 O-O-O 1/2-1/2

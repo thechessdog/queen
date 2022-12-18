@@ -1,0 +1,26 @@
+[Event "Gausdal zt"]
+[Site "Gausdal zt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "d2591aef"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "2300044"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. Be3 exd4 11. cxd4 Na5 12. Bc2 c5 13. dxc5 dxc5 14. Nbd2 Nd7
+15. Qb1 Re8 16. e5 Nf8 17. Bf5 Bxf5 18. Qxf5 Qd5 19. Red1 Rad8 20. Qc2 Nc6 21.
+Nb3 Nb4 22. Qb1 Qxd1+ 23. Qxd1 Rxd1+ 24. Rxd1 c4 25. Nbd4 Nxa2 26. Nc6 c3 27.
+bxc3 Nxc3 28. Rd3 Na4 29. Nfd4 Nb2 30. Rd2 Nc4 31. Ra2 Ba3 32. Nc2 Rc8 33. Nxa3
+Rxc6 34. Nxc4 bxc4 35. Kf1 h5 36. Ke2 Ne6 37. Kf3 Nc7 38. Ke4 Nb5 39. Rc2 c3
+40. Kd5 Rc8 41. f4 g6 42. g3 a5 43. h3 Rd8+ 44. Ke4 a4 45. g4 hxg4 46. hxg4 a3
+47. f5 Ra8 48. Ra2 Ra4+ 49. Kd3 Rxg4 50. e6 fxe6 51. fxe6 Rg3 52. Re2 Nd6 53.
+e7 Kf7 54. Kc2 a2 0-1

@@ -1,0 +1,19 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Burki, Ph"]
+[Black "Metzger"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "100b498f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. O-O Bg7 7. c3 Ne7 8. g3
+Ng6 9. gxf4 gxf4 10. Kh1 Nc6 11. Rg1 Qf6 12. Nbd2 Bd7 13. e5 dxe5 14. Ne4
+Qe7 15. d5 O-O-O 16. dxc6 Bxc6 17. Qe2 f5 18. Rxg6 fxe4 19. Ne1 Bf6 20. b3
+Kb8 21. Ba3 e3+ 22. Kg1 Qxa3 23. Rxf6 Rd2 24. Qg4 Qb2 25. Bg8 a6 26. Rf8+
+Ka7 27. Rd1 Rxd1 28. Qxd1 Qf2# 0-1
+

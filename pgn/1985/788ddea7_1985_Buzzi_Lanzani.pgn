@@ -1,0 +1,16 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Buzzi"]
+[Black "Lanzani"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "788ddea7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. exd5 Bxf5
+8. dxc6 bxc6 9. Qf3 Qc8 10. Ba6 Qxa6 11. Qxf5 Bd6 12. Bh6 Nd5 13. Bxg7 1-0
+

@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Seltmann, H."]
+[Black "Langnese, K."]
+[Result "0-1"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "c0b86fe9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e5
+8. Nf5 Nb6 9. Ne3 Be6 10. Bd5 Rc8 11. Bxb7 Rxc3 12. bxc3 Qc7 13. Bxa6 Qxc3+
+14. Ke2 Nxe4 15. Bb5+ Bd7 16. Bxd7+ Kxd7 17. Bh4 Qb4 18. Kf1 g6 19. Kg1 Bh6
+20. Nd5 Nxd5 21. Qxd5 Nc3 22. Qxf7+ Kc8 23. Qe6+ Kc7 24. Qb3 Qd4 25. h3 Rf8
+26. Kh2 Ne2 27. Rab1 Qxh4 28. Qb6+ Kd7 29. Qb5+ Ke6 30. Qxe2 Rxf2 31. Qg4+
+Qxg4 32. hxg4 Rxc2 33. a4 Bf4+ 34. Kh3 Rc3+ 35. g3 Rxg3+ 36. Kh4 h6 37. a5
+Ra3 0-1
+

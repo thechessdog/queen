@@ -1,0 +1,21 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wirthensohn, Heinz"]
+[Black "Trepp, Markus"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "8b7a6b23"]
+[Epoch "Queen"]
+[WhiteID "1300059"]
+[WhiteCountry "SUI"]
+[BlackCountry "CHE"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 d5 6. a3 Be7 7. d4 dxc4 8. Ne5
+c5 9. dxc5 Qxd1+ 10. Nxd1 Nfd7 11. Nxc4 Nxc5 12. b4 Nb3 13. Rb1 Nxc1 14. Rxc1
+Nc6 15. Nc3 Rb8 16. O-O Nd8 17. Rfd1 b6 18. Nb5 a5 19. Nbd6 axb4 20. Nxb6 Bxd6
+21. Rxd6 Nb7 22. Bxb7 Bxb7 23. axb4 Bd5 24. Rc7 h6 25. b5 Ba8 26. f3 g5 27. Kf2
+Bb7 28. Nd7 Rfc8 29. Nxb8 Rxc7 30. Rd7 1-0

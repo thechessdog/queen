@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kapstas, E."]
+[Black "Kleiman, A."]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "87ebe3a0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 a5 10. a4 d5 11. exd5 Nxd5 12. Bxe7 Ncxe7 13. Bc4 Qe8
+14. Nxd5 Nxd5 15. Bb5 Bd7 1/2-1/2
+

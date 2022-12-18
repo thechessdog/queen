@@ -1,0 +1,23 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Raisanen"]
+[Black "Juselius"]
+[Result "1-0"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "fdf419b6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Bg4 12. f3 Na5 13. Bxf7+ Rxf7
+14. fxg4 Rxf1+ 15. Kxf1 Qd7 16. h3 Qe6 17. e5 b5 18. Qd3 Qc4 19. Qd2 Qf7+
+20. Kg1 Nc4 21. Qd3 Rf8 22. Bf4 Qd5 23. Nc3 Qd7 24. Qe4 e6 25. Rd1 b4 26.
+Ne2 Qa4 27. Qb1 Qa6 28. Rd3 Rd8 29. Qxb4 Nxe5 30. Qe7 Nf7 31. Rd2 e5 32.
+Be3 Bf8 33. Qc7 Bb4 34. Rb2 Qa3 35. Rb3 Qxa2 36. Qc4 a5 37. Bg5 Re8 38. Bh4
+exd4 39. Nc1 Qa1 40. Rf3 Rf8 41. Bg5 Ba3 42. Bh6 Bxc1 43. Bxc1 Qb1 44. Rf1
+Qb4 45. Qa2 Qb7 46. Qxa5 Rc8 47. Qd2 Qd5 48. Bb2 d3 49. Rd1 Qc5+ 50. Kh1
+Qb6 51. Ba1 Rc2 52. Qxd3 Qc6 53. Rg1 Qc5 54. Qe4 Ng5 55. Qe8+ 1-0
+

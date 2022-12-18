@@ -1,0 +1,18 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ronneland, Daniel"]
+[Black "Settergren, D."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "King's knight opening"]
+[HashCode "a6177891"]
+[Epoch "Queen"]
+[WhiteID "1702130"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Bd6 3. Bc4 Nf6 4. O-O O-O 5. Re1 Bc5 6. Nxe5 Re8 7. Bxf7+ Kf8
+8. Bxe8 Qxe8 9. d4 Bb6 10. Nc3 c6 11. Bg5 d6 12. Nc4 Nbd7 13. Nxd6 Qe7 14. e5
+Qe6 15. Nxc8 Rxc8 16. exf6 Kg8 17. Rxe6 Nf8 18. Re7 Rd8 19. Qh5 Bxd4 20. Qf7+
+Kh8 21. Qxg7# 1-0

@@ -1,0 +1,23 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Rakic, Tomislav"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "78fb9d2d"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "900842"]
+[BlackCountry "SRB"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nd5 9. Nxd5 Qxd5 10. c3 Bg4 11. Qe2 Rad8 12. Bf4 Bxf3 13. gxf3 Nxd4 14. cxd4
+Qxd4 15. Be4 f5 16. exf6 exf6 17. Rd1 Qb4+ 18. Kf2 f5 19. a3 Qa4 20. Qc2 Qxc2+
+21. Bxc2 Bxb2 22. Bxc7 Rxd1 23. Rxd1 Bxa3 24. Rd7 Bb2 25. Bb3+ Kh8 26. Bd6 Re8
+27. Rxb7 Bd4+ 28. Kg3 Re2 29. Rd7 Bf2+ 30. Kf4 Be3+ 31. Ke5 Bg5+ 32. Kd5 Bf6
+33. f4 Rxh2 34. Ke6 1-0

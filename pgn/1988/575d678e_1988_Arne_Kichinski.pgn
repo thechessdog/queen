@@ -1,0 +1,26 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Arne, Mike"]
+[Black "Kichinski, Robert"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "575d678e"]
+[Epoch "Queen"]
+[WhiteID "2006880"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 f6 6. exf6 Nxf6 7. Bg2 Be6 8. Qa4
+Qd7 9. O-O Bc5 10. a3 O-O 11. b4 Be7 12. Nbd2 Bh3 13. Bb2 Bxg2 14. Kxg2 d3 15.
+exd3 Qxd3 16. Qb3 Qf5 17. Rae1 Rae8 18. Ne5 Nxe5 19. Rxe5 Qd7 20. Nf3 Ng4 21.
+c5+ Kh8 22. Re4 Bf6 23. Rxe8 Qxe8 24. Bxf6 Nxf6 25. Re1 Qh5 26. Re5 Qg6 27. Re7
+Nh5 28. h4 Nf4+ 29. Kh2 Nd3 30. Qe6 Qxe6 31. Rxe6 Nxf2 32. Kg2 Ng4 33. Re7 Kg8
+34. Rxc7 Rf7 35. Rc8+ Rf8 36. Rxf8+ Kxf8 37. Nd2 Ne3+ 38. Kf3 Nc2 39. Nc4 Ke7
+40. Ke4 Ke6 41. Kd3 Ne1+ 42. Kc3 Kd5 43. Nd6 b6 44. cxb6 axb6 45. Ne8 Nf3 46.
+Nxg7 Nd4 47. Nh5 Nb5+ 48. Kb2 Ke5 49. g4 Nd4 50. a4 Nf3 51. Kc3 Kd5 52. Nf6+
+Kc6 53. Ng8 Nxh4 54. g5 Ng6 55. Nf6 Ne5 56. Nh5 Ng6 57. Kd4 Kd6 58. Ke4 Kc6 59.
+Nf4 Ne7 60. Ke5 Kd7 61. b5 Ng8 1-0

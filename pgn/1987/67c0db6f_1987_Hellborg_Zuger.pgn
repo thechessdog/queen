@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hellborg, Teodor"]
+[Black "Zueger, Beat"]
+[Result "1/2-1/2"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "67c0db6f"]
+[Epoch "Queen"]
+[WhiteID "1701177"]
+[WhiteCountry "SWE"]
+[BlackID "1300067"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Bg4 7. Be3 Nfd7 8. O-O
+Nc6 9. Ne1 Bxe2 10. Nxe2 Na5 11. b3 c5 12. Rc1 cxd4 13. Bxd4 Nf6 14. Ng3 Nc6
+15. Bb2 Qd7 16. Nf3 Rfc8 17. Qe2 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "11"]
+[White "Wittig, Wolfgang"]
+[Black "Gelzenleichter, Siegfried"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "dfe1cd42"]
+[Epoch "Queen"]
+[BlackID "4666534"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 e6 5. d4 Nf6 6. Bd3 c4 7. Qa4+ b5 0-1

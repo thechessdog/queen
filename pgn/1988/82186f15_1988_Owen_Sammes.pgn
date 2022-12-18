@@ -1,0 +1,17 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Owen"]
+[Black "Sammes"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "82186f15"]
+[Epoch "Queen"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. O-O Be7
+8. Ne5 Bg6 9. Ne4 Nf6 10. Nxg6 hxg6 11. Ng5 Rf8 12. Bxe6 fxe6 13. Nxe6 Qd7
+14. Nxf8 Bxf8 15. Qd3 Kd8 16. Bg5 Qf7 17. Rae1 1-0
+

@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Rosenlund, Thorbjorn"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "75ca44a4"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1400614"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Bxf6 exf6 5. e3 f5 6. Bd3 g6 7. Nf3 Nd7 8. O-O
+Bd6 9. Ne2 Nf6 10. c4 Be6 11. Rc1 O-O 12. Qb3 Qe7 13. Rfe1 Ne4 14. Nc3 dxc4 15.
+Bxc4 Bxc4 16. Qxc4 Rad8 17. Rb1 Rd7 18. a3 Rfd8 19. b4 h5 20. a4 a6 21. Rec1
+Rc7 22. Qb3 Rdc8 23. Nxe4 fxe4 24. Nd2 h4 25. h3 Rd7 26. b5 axb5 27. axb5 c5
+28. Rc4 Rcd8 29. Rbc1 b6 30. Kf1 Bb8 31. Qc3 cxd4 32. exd4 Bf4 33. Rd1 1/2-1/2

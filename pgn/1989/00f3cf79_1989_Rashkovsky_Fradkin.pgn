@@ -1,0 +1,19 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Fradkin, Boris"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "00f3cf79"]
+[Epoch "Queen"]
+[WhiteID "4100603"]
+[WhiteCountry "RUS"]
+[BlackID "4103297"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Qxd4 Qxd4 8.
+Nxd4 Bd7 9. Nc3 O-O-O 10. Be3 Ne7 11. Rad1 Ng6 12. f3 Bb4 1/2-1/2

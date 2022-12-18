@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kurowski"]
+[Black "Reinheimer"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "6a993232"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. b3 Ne4 8.
+Bb2 f5 9. Nc3 d6 10. Nd2 Ng5 11. f4 Nf7 12. d5 Qd7 13. Qf3 Na6 14. dxe6
+Qxe6 15. Bxf5 Qxf5 16. Qxb7 Nc5 17. Nd5 Qc2 18. Nxe7+ Kh8 19. Bxg7+ Kxg7
+20. Qd5 1-0
+

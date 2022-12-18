@@ -1,0 +1,16 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Barsalou, Norm"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "2930c963"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 d5 7. d4 b5 8. Bb3
+Bg4 9. h3 h5 10. hxg4 hxg4 11. Nxe5 Qh4 0-1

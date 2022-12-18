@@ -1,0 +1,18 @@
+[Event "Paris-Elo (Women)"]
+[Site "Paris"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Duquesne, L."]
+[Black "Csonkics, Tunde"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "e0b38baa"]
+[Epoch "Queen"]
+[BlackID "700576"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. Qa4+ Nc6 8. a3
+Be7 9. cxd5 Nxd5 10. g3 Nxc3 11. bxc3 Qd5 12. Rg1 b5 13. Qc2 Bb7 14. Bg2 Qd7
+15. Kf1 Rc8 16. f3 Nxd4 17. Nxd4 Qxd4 18. Bb2 Bd5 19. Rh1 Bc4+ 0-1

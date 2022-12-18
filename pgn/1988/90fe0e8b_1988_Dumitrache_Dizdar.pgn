@@ -1,0 +1,20 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dumitrache, Dragos"]
+[Black "Dizdar, Goran"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "90fe0e8b"]
+[Epoch "Queen"]
+[BlackID "14500124"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. a3 Bxc3 10. bxc3 e5 11. a4 Qc7 12. Ba2 Rd8 13. Qc2 b6 14. Rd1 Na5 15. d5
+c4 16. e4 Nd7 17. f4 Nc5 18. fxe5 Qxe5 19. Ng3 Nab3 20. Bxb3 cxb3 21. Qe2 f5
+22. Bb2 f4 23. c4 Qg5 24. Nf5 Bxf5 25. exf5 Re8 26. Qf2 Ne4 27. Qf3 Nd6 28. Rd4
+Qxf5 29. Qxf4 Re2 30. Bc3 b2 0-1

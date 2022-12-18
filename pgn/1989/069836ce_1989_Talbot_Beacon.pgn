@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Talbot"]
+[Black "Beacon"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "069836ce"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qc7 6. a3 f6 7. Bb5 Bd7 8. exf6
+Nxf6 9. O-O Bd6 10. dxc5 Bxc5 11. c4 O-O 12. Nc3 Ng4 13. h3 Nd4 14. hxg4
+Nxf3+ 15. gxf3 Qg3+ 16. Kh1 Qh3+ 17. Kg1 Bxb5 18. Nxd5 Rxf3 19. Ne7+ Bxe7
+0-1
+

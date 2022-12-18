@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mertanen"]
+[Black "Eskola"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "4841bed2"]
+[Epoch "Queen"]
+
+1. d4 f5 2. Bg5 Nf6 3. Nc3 d5 4. Bxf6 exf6 5. e3 Bb4 6. Ne2 O-O 7. a3 Ba5
+8. b4 Bb6 9. Na4 c6 10. Nxb6 Qxb6 11. g3 a5 12. c3 Na6 13. Nf4 Nc7 14. Bd3
+Ne8 15. O-O Nd6 16. Qc2 Qc7 17. f3 Re8 18. Rae1 Bd7 19. Kf2 b5 20. g4 g6
+21. Rg1 Kf7 22. g5 axb4 23. axb4 Ra3 24. h4 Rea8 25. Re2 fxg5 26. hxg5 Ra1
+27. Qb2 Qa7 28. Bb1 Nc4 29. Qc1 Qa3 30. Qf1 Qxc3 31. Qh3 Rg8 32. Qxh7+ Rg7
+33. Qh8 Nd6 34. Qd8 Qxb4 35. Qxd7+ Kg8 36. Qd8+ Kf7 37. Nd3 Ne4+ 38. fxe4
+Qe7 39. Ne5+ 1-0
+

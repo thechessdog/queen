@@ -1,0 +1,19 @@
+[Event "Wildbad"]
+[Site "Wildbad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Recklingloh, F."]
+[Black "Schmidt, Erhard"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "fc004425"]
+[Epoch "Queen"]
+[BlackID "4621913"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Qa5 8.
+Qxg7 Bxc3+ 9. bxc3 Qxc3+ 10. Ke2 b6 11. Nb5 Ba6 12. Rb1 d5 13. Qxh8+ Kd7 14.
+Qxh7 Bxb5+ 15. Rxb5 Qxc2+ 16. Ke3 Qxc1+ 17. Ke2 Qc2+ 18. Ke3 Qxf2+ 19. Kd3 Qd2#
+0-1

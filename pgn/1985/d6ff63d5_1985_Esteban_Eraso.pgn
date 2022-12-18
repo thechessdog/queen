@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Esteban"]
+[Black "Eraso"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "d6ff63d5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nde2 e6
+8. O-O Be7 9. Bb3 O-O 10. Kh1 Na5 11. Bg5 Qc5 12. f4 b5 13. Ng3 Bb7 14. a3
+h6 15. Bxf6 Bxf6 16. Rf3 Nxb3 17. cxb3 a5 18. Rc1 Rac8 19. Rd3 Be7 20. Nce2
+Qf2 21. Rf3 Rxc1 22. Qxc1 Qb6 23. f5 Bg5 24. Qc2 Rc8 25. Rc3 Rxc3 26. bxc3
+exf5 27. Nd4 f4 28. Nge2 Qc5 29. Qd3 Qe5 30. Qxb5 Bxe4 31. b4 Qxb5 32. Nxb5
+f3 33. gxf3 Bxf3+ 34. Kg1 Bxe2 35. Nxd6 axb4 36. cxb4 Bc1 0-1
+

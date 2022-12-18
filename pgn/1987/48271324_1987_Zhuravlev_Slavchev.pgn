@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zhuravliov, Valerij"]
+[Black "Slavchev"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "48271324"]
+[Epoch "Queen"]
+[WhiteID "11600055"]
+[WhiteCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nb5 Bc5 6. Qe2 Bb6 7. N1c3 Nge7
+8. Be3 a6 9. Bxb6 axb5 10. Bxc7 b4 11. e5 Qe6 12. Nb5 O-O 13. b3 d5 14. exd6
+Qf6 15. O-O-O Rxa2 16. dxe7 Re8 17. Be5 Nxe5 18. Rd6 Ra1+ 19. Kd2 Qxe7 20. f4
+Bg4 0-1

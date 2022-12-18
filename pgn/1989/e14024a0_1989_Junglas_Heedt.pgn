@@ -1,0 +1,20 @@
+[Event "Porz op23"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Junglas, Andreas"]
+[Black "Heedt, Thorsten, Dr."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "e14024a0"]
+[Epoch "Queen"]
+[WhiteID "4640500"]
+[WhiteCountry "GER"]
+[BlackID "4627377"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 Nfd7 6. f4 c5 7. exd6 f6 8. Bh4
+O-O 9. dxc5 Kh8 10. Nd5 Nc6 11. Nc7 exd6 12. cxd6 Nc5 13. Qd5 Ne6 14. Nxa8 Nxf4
+15. Qd2 Re8+ 16. Kf2 Bh6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schussler, Harry"]
+[Black "Hartman, Christer"]
+[Result "1/2-1/2"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack, Gruenfeld variation"]
+[HashCode "83330b75"]
+[Epoch "Queen"]
+[BlackID "1700448"]
+[BlackCountry "SWE"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 O-O 7. Rc1 c6 8. Qc2
+a6 9. a3 Re8 10. Bd3 h6 11. Bh4 dxc4 12. Bxc4 b5 13. Be2 1/2-1/2

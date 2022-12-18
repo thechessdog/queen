@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Soderman"]
+[Black "Sopanen"]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "e9d5fb5b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. c4 Qh4+ 10. g3 Qxc4 11. e4 Qc3+ 12. Bd2 Qe5 13. Ne2 fxe4 14.
+f4 Qf6 15. Rc1 O-O 16. Bg2 e3 17. Bc3 Nxc3 18. Nxc3 Rd8 19. Qc2 Nc6 20. Ne4
+Qf5 21. Qc3 Rd4 22. Qxe3 Bd7 23. Nd6 Qf6 24. O-O Rb8 25. Nb5 Ra4 26. Rcd1
+Be8 27. Bh3 Nd8 28. Nd6 Bc6 29. Rfe1 b6 30. cxb6 Rxb6 31. Nc4 Rba6 32.
+Rxd8+ Qxd8 33. Qxe6+ Kf8 34. Nd6 Qxd6 35. Re3 1-0
+

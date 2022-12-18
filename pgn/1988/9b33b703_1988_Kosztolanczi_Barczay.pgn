@@ -1,0 +1,22 @@
+[Event "Zalakaros"]
+[Site "Zalakaros"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kosztolanczi, Gyula"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "9b33b703"]
+[Epoch "Queen"]
+[WhiteID "705438"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3 8.
+bxc3 Be7 9. Qg4 O-O 10. Bh6 g6 11. Bxf8 Bxf8 12. Be2 d6 13. f4 Qa5 14. Qg3 dxe5
+15. fxe5 Nd7 16. O-O Qxe5 17. Qf3 Qg7 18. Nb5 Ne5 19. Qe4 f5 20. Qe3 b6 21. Kh1
+Bb7 22. Bf3 Bc5 23. Qe2 Nxf3 24. Qxe6+ Kf8 25. gxf3 Re8 26. Qc4 Qe5 27. Qd3 Qf4
+28. Rad1 Re3 29. Qd8+ Kg7 30. Qc7+ Qxc7 31. Nxc7 Rxf3 32. Ne6+ Kf6 33. Nxc5
+Rxf1# 0-1

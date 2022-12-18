@@ -1,0 +1,17 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Juutistenaho"]
+[Black "Torkkola"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "642c24d6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. g4 Bd7 10. O-O-O Qb8 11. h4 h5 12. Nd5 hxg4 13. Nxc6 bxc6 14.
+Nxe7+ Kh8 15. h5 Nxh5 16. Bd4 Bxd4 17. Qh6# 1-0
+

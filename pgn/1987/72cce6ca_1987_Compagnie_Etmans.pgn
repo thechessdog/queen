@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Compagnie"]
+[Black "Etmans"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "72cce6ca"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. Nxe4 Nxe4 7. dxe4
+Qxd1+ 8. Kxd1 Bc5 9. Ke1 Bb7 10. Bb5+ Ke7 11. Bd3 Nc6 12. a3 Rhd8 13. Ke2
+e5 14. Re1 f6 15. Be3 Bxe3 16. Kxe3 g5 17. Rad1 Nd4 1/2-1/2
+

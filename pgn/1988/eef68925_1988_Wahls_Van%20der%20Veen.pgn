@@ -1,0 +1,43 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "van der Veen, Heinz"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "eef68925"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "4607791"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be6 8. Ng5
+b5 9. Bd3 Nbd7 10. O-O Be7 11. a4 b4 12. Nb1 d5 13. Nxe6 fxe6 14. exd5 exd5 15.
+Bf5 Nc5 16. Qe2 e4 17. f3 O-O 18. Nd2 g6 19. Bh3 Qd6 20. fxe4 Nfxe4 21. Nxe4
+Nxe4 22. Qg4 Bf6 23. Rad1 Rad8 24. b3 Kg7 25. g3 Qc6 26. Rc1 Qc3 27. Qe2 Bd4
+28. Bxd4+ Qxd4+ 29. Kg2 Rde8 30. Rcd1 Qc5 31. Rxf8 Rxf8 32. Rf1 Rxf1 33. Kxf1
+Qc3 34. Kg2 a5 35. Be6 Qd4 36. Bg4 h5 37. Bf3 Nc3 38. Qe7+ Kg8 39. Qd8+ Kg7 40.
+Qxa5 Ne4 41. Qc7+ Kh6 42. Qf4+ g5 43. Qf8+ Kg6 44. Qe8+ Kg7 45. Qe7+ Kg6 46.
+Qe8+ Kg7 47. Bxe4 dxe4 48. Qe7+ Kg6 49. Qe8+ Kh6 50. Qc6+ Kg7 51. Qb7+ Kg6 52.
+Qa6+ Kg7 53. Qe2 g4 54. a5 Qd5 55. Qe3 Qxa5 56. Qxe4 Qc5 57. Kf1 Qb6 58. Qf5
+Kh6 59. Ke2 Qd4 60. Qd3 Qf6 61. Qd2+ Kg7 62. Qd5 Kh6 63. Qe4 Kg7 64. Ke3 Qc3+
+65. Ke2 Qf6 66. Qe3 Qc6 67. Qe5+ Kh6 68. Kd2 Kg6 69. Kd3 Kh6 70. Qf4+ Kg7 71.
+Qd4+ Kh6 72. Qf4+ Kg7 73. Qg5+ Kf8 74. Qe5 Kg8 75. Qe4 Qc3+ 76. Ke2 Qf6 77. Qe3
+Qc6 78. Kd2 Qd5+ 79. Qd3 Qg5+ 80. Kd1 Qf6 81. Qd5+ Kg7 82. Ke2 Kg6 83. Qd3+ Kg7
+84. Qe4 Kh6 85. Qe3+ Kg6 86. Kd2 Kf7 87. Qc5 Kg6 88. Qe3 Kf7 89. c3 bxc3+ 90.
+Kc2 Qf3 91. Qxc3 Qf2+ 92. Qd2 Qf5+ 93. Qd3 Qf2+ 94. Qd2 Qf5+ 95. Kc3 Qf6+ 96.
+Qd4 Qf3+ 97. Qd3 Qf6+ 98. Kb4 Qb6+ 99. Ka3 Qa7+ 100. Kb4 Qe7+ 101. Kc4 Qc7+
+102. Kd4 Qd6+ 103. Ke3 Qe5+ 104. Qe4 Qc3+ 105. Kf4 Qd2+ 106. Kf5 Qf2+ 107. Kg5
+Qxh2 108. Qf5+ Ke7 109. b4 h4 110. gxh4 g3 111. Kg4 Qf2 112. Qe5+ Kd8 113. Qb8+
+Ke7 114. Qe5+ Kd8 115. Qd6+ Ke8 116. Qxg3 Qe2+ 117. Qf3 Qe6+ 118. Qf5 Qe2+ 119.
+Kh3 Qe3+ 120. Kg4 Qe2+ 121. Qf3 Qe6+ 122. Kh5 Qe5+ 123. Kg6 Qd6+ 124. Qf6 Qxb4
+125. Qe6+ Kd8 126. h5 Qb1+ 127. Kg7 Qb7+ 128. Qf7 Qg2+ 129. Qg6 Qb7+ 130. Kh8
+Qb2+ 131. Qg7 Qb5 132. Qf8+ Kc7 133. h6 Qh5 134. Qf6 Kb8 135. Qb6+ Ka8 136.
+Qa6+ Kb8 137. Qd6+ Ka7 138. h7 Qg5 139. Qe6 Kb7 140. Qg8 Qe3 141. Qg6 Ka8 142.
+Qa6+ Kb8 143. Qd6+ Ka7 144. Kg7 Qg5+ 145. Qg6 Qe5+ 146. Qf6 Qg3+ 147. Kf8 Qb8+
+148. Kf7 Qb3+ 149. Qe6 Qf3+ 150. Ke7 Qc3 151. Kf8 Qd4 152. Qf7+ Kb8 153. Qg8
+Qf6+ 154. Ke8 Kc8 155. h8=Q 1-0

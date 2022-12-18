@@ -1,0 +1,21 @@
+[Event "Neuss"]
+[Site "Neuss"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmittdiel, Eckhard"]
+[Black "Kaeser, Udo, Dr."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c4f6f93c"]
+[Epoch "Queen"]
+[BlackID "4603460"]
+[BlackCountry "GER"]
+[WhiteID "4600096"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. dxc5 Qxd1+ 6. Kxd1 Nf6 7. Bb5 Bd7
+8. Nf3 e5 9. Bxc6 Bxc6 10. Nxe5 Bxg2 11. Rg1 O-O-O+ 12. Ke2 Re8 13. Rxg2 Rxe5+
+14. Be3 Bxc5 15. Rxg7 Bxe3 16. fxe3 Rhe8 17. Na3 Rxe3+ 18. Kd2 Re2+ 19. Kd3
+R8e3+ 20. Kc4 Re4+ 21. Kb3 Nd7 22. Rg8+ Kc7 23. Nb5+ Kb6 24. Nd4 Kc7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tompa, Janos"]
+[Black "Nemeth, Zoltan"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b7d40f86"]
+[Epoch "Queen"]
+[WhiteID "700193"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e5 4. d3 d6 5. Bc4 Be7 6. Nc3 Be6 7. Be3 a6 8. a4
+Rb8 9. h3 h6 10. O-O Nf6 11. Nh4 g5 12. Ng6 Rg8 13. Nxe7 Nxe7 14. Bxe6 fxe6 15.
+Ne2 Ng6 16. g3 b6 17. Kh2 Rb7 18. c3 d5 19. a5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Levitin"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "4a79e733"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Nge2 e6 7. f4 Nge7 8. O-O
+Qa5 9. Be3 Nd4 10. Qc1 b5 11. Bxd4 cxd4 12. Nd1 Ba6 13. e5 d5 14. Nxd4 Qb6 15.
+Qe3 Rc8 16. Kh1 O-O 17. Bh3 b4 18. Nxe6 d4 19. Qxd4 Bb7+ 20. Kg1 Qxd4+ 21. Nxd4
+Rcd8 22. Nb5 g5 23. Nd6 Ba8 24. Ne3 gxf4 25. gxf4 1-0

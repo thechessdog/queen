@@ -1,0 +1,17 @@
+[Event "corr FRA-BLG"]
+[Site "corr FRA-BLG"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jousser"]
+[Black "Kiprov"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "fc5c2592"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Nb6 9. Bf4 Qb4+ 10. Kd1 Ba6 11. b3 O-O-O 12. g3 d5 13. Bh3+ Kb7
+14. Qd2 dxc4 15. Qxd8 cxb3 16. Nd2 Qc3 17. Rc1 bxa2 0-1
+

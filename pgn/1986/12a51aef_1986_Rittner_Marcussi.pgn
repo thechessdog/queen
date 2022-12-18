@@ -1,0 +1,24 @@
+[Event "corr NBC-Volmac"]
+[Site "corr NBC-Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rittner"]
+[Black "Marcussi"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "12a51aef"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfc8 13. Rg1 Be8 14.
+g4 d5 15. exd5 Nb4 16. a3 Nbxd5 17. Nxd5 Qxd5 18. Qxd5 Nxd5 19. Bxe7 Nxe7
+20. Bd3 Nd5 21. f5 exf5 22. gxf5 Nf4 23. Be4 Bc6 24. Bxc6 Rxc6 25. Rd7 Rac8
+26. Re1 Rxc2 27. Ree7 Rf2 28. Ne5 Ne2 29. Nd3 Rxh2 30. Rxf7 Rg2 31. Rfe7 a5
+32. a4 Rg1+ 33. Ka2 Nc1+ 34. Nxc1 Rcxc1 35. f6 Ra1+ 36. Kb3 Rg3+ 37. Kc2
+Rg2+ 38. Kc3 Rc1+ 39. Kb3 Rg3+ 40. Ka2 Rf1 41. fxg7 Kh7 42. Rxb7 Rg4 43.
+Re8 Rxg7 44. Rxg7+ Kxg7 45. Re5 Kg6 46. Rxa5 h5 47. Rd5 h4 48. a5 h3 49.
+Rd2 Rf8 50. Kb3 Rh8 51. Rh2 Kf5 52. Kc4 Kg4 53. b4 Kg3 54. Rh1 Kg2 55. Rxh3
+Rxh3 56. b5 Rh4+ 57. Kc5 Rh5+ 58. Kc6 1-0
+

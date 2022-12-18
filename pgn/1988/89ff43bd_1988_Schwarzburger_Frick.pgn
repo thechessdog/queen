@@ -1,0 +1,21 @@
+[Event "OL Wuert 8788"]
+[Site "WURT-MM8788"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schwarzburger, Lothar"]
+[Black "Frick, Christoph"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "89ff43bd"]
+[Epoch "Queen"]
+[WhiteID "4641264"]
+[WhiteCountry "GER"]
+[BlackID "4607090"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bf4 Qb6 7. Qe2+ Be6
+8. c3 Be7 9. Nf3 O-O 10. Qc2 c5 11. Bd3 g6 12. O-O Nc6 13. Rfe1 cxd4 14. Bxg6
+hxg6 15. Rxe6 Nb4 16. cxb4 Qxe6 17. a3 Rfd8 18. Qd3 Bd6 19. Re1 Qd5 20. Re4
+Bxf4 21. Rxf4 Rac8 22. h4 Qc4 23. Qe4 f5 24. Qe5 Rd5 0-1

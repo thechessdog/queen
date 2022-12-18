@@ -1,0 +1,23 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Serrer, Christoph"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "ec6123a7"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "4604970"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 e6 4. e3 Be7 5. Be2 c5 6. O-O Nc6 7. c4 O-O 8. cxd5
+Nxd5 9. a3 b6 10. Qc2 Bb7 11. d3 Bf6 12. Nbd2 Bxb2 13. Qxb2 Qf6 14. Qxf6 Nxf6
+15. Rfc1 Rfd8 16. Kf1 Nd5 17. Rc2 Rac8 18. Rac1 Kf8 19. g3 Nf6 20. Ke1 Nd7 21.
+Rc3 Nf6 22. Nc4 Ke7 23. R3c2 Nd7 24. Rd1 Nf6 25. Nfe5 Nxe5 26. Nxe5 Nd7 27.
+Nxd7 Rxd7 28. Rdc1 Rcd8 29. b4 Ba6 30. bxc5 Bxd3 31. Bxd3 Rxd3 32. cxb6 axb6
+33. Rc3 1/2-1/2

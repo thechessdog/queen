@@ -1,0 +1,20 @@
+[Event "Charny"]
+[Site "Charny"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Forest, Charles"]
+[Black "Girard, Robin"]
+[Result "0-1"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Zollner gambit"]
+[HashCode "bc488ef6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. O-O O-O 9. f4 Qb6 10. e5 dxe5 11. fxe5 Nxe5 12. Nf5 Qxb2 13. Nxe7+ Kh8
+14. Bd4 Qb4 15. Nxc8 Rd8 16. Bxe5 Rxd1 17. Raxd1 Rxc8 18. Rxf6 Qe7 19. Bg4
+Qxe5 20. Rxf7 Rf8 21. Rxf8+ Bxf8 22. Nd5 Bd6 23. g3 h5 24. Bf3 h4 25. Nf4
+Kg7 26. Rd5 Qe3+ 27. Kg2 Bxf4 28. gxf4 Qxf4 29. Rd7+ Kh6 30. Rxb7 h3+ 31.
+Kf2 Qxh2+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Southampton ch-BCF"]
+[Site "Southampton ch-BCF"]
+[Date "1986.07.01"]
+[Round "2"]
+[White "Barber, Haydn J"]
+[Black "McDonald, Neil"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "40daa7a0"]
+[Epoch "Queen"]
+[BlackID "400629"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Ng5 Nf5 12. Qh5 h6 13. g4 c4 14. gxf5 cxd3 15.
+Nxe6 Bxe6 16. fxe6 Rxe6+ 17. Kf1 Qf6 18. Qxd5 Rf8 19. f4 Rd8 20. Qa2 Qf5 21.
+cxd3 Kh8 22. Qd2 Qd5 0-1

@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lindstedt, Johan"]
+[Black "Rimawi, B."]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "9df7940b"]
+[Epoch "Queen"]
+[WhiteID "500143"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Bf4 d5 8. e3
+Nc6 9. Nf3 Re8 10. Rd1 Qa5 11. Nd2 Ne7 12. cxd5 exd5 13. Nb5 Bd7 14. Nc7 Rec8
+15. Nxa8 Bd4 16. Qxc8+ Bxc8 17. exd4 b5 18. Be2 b4 19. O-O bxa3 20. bxa3 Qxa3
+21. Ra1 Qc3 22. Nf3 Nf5 23. Nc7 Qb3 24. Rfe1 h6 25. Na6 Ne4 26. h3 Bd7 27. Ne5
+Ne7 28. Rad1 Qb6 29. Kh1 1-0

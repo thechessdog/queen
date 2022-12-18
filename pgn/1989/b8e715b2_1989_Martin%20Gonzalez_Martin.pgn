@@ -1,0 +1,20 @@
+[Event "Benidorm open"]
+[Site "Benidorm open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martin Gonzalez, Angel"]
+[Black "Martin, Andrew D"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "b8e715b2"]
+[Epoch "Queen"]
+[WhiteID "2200104"]
+[WhiteCountry "ESP"]
+[BlackID "400300"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 h6 10. Nbd2 Re8 11. Nf1 Bf8 12. Ng3 Na5 13. Bc2 c5 14. d4 cxd4 15.
+cxd4 Qc7 16. h3 Bd7 17. b3 Rac8 18. Re2 Nc6 1/2-1/2

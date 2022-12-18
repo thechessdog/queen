@@ -1,0 +1,16 @@
+[Event "Kankaanpaa"]
+[Site "Kankaanpaa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pihlajanmaki, J."]
+[Black "Toivola, J."]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "110832fc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Bg5 O-O
+8. Qd2 Nc6 9. Nxc6 bxc6 10. O-O-O Qb6 11. f4 Nxe4 12. Na4 Bxb2+ 0-1
+

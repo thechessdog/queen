@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Perlitz"]
+[Black "Schlag"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "df73acbf"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Bb4 7. Ng5 Nh6
+8. O-O O-O 9. f4 Kh8 10. f5 f6 11. Nd5 Bc5+ 12. Kh1 fxg5 13. Qh5 Be7 14. f6
+Ng8 15. fxe7 Rxf1+ 16. Bxf1 Ncxe7 17. Bxg5 Qf8 18. Bc4 Ng6 19. Rf1 Qc5 20.
+Bb3 b6 21. Rf3 Bb7 22. Rh3 Nf8 23. Qf7 Ne6 24. Rxh7+ Kxh7 25. Qh5+ Nh6 26.
+Nf6+ gxf6 27. Bxh6 Qc7 28. Bg5+ Kg7 29. Qh6+ Kg8 30. Qg6+ Kf8 31. Qxf6+ Kg8
+32. Qg6+ Kf8 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Agrawal, Kiran"]
+[Black "Savova, Stefka"]
+[Result "0-1"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation"]
+[HashCode "e5180b12"]
+[Epoch "Queen"]
+[WhiteID "5001048"]
+[BlackID "2902281"]
+[WhiteCountry "IND"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 0-1

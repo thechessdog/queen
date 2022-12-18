@@ -1,0 +1,23 @@
+[Event "Ingbert-Frankenthal"]
+[Site "Ingbert-Frankenthal"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Samarian"]
+[Black "Lorson"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "888b160e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Qb6 7. Na3 Nge7 8.
+d3 O-O 9. Ba4 a6 10. Be3 d6 11. b4 Qa7 12. Bb3 b6 13. Qd2 Bg4 14. Ng5 Nd8
+15. h3 Bd7 16. Nf3 Be6 17. Nc4 Qc7 18. Bh6 f5 19. Bxg7 Kxg7 20. Ng5 Bg8 21.
+Ne3 h6 22. Bxg8 Kxg8 23. Nf3 Kh7 24. a4 Ne6 25. a5 b5 26. c4 Nd4 27. Nxd4
+cxd4 28. Nd5 Nxd5 29. cxd5 Rac8 30. Rec1 Qb7 31. f3 Rf7 32. Rxc8 Qxc8 33.
+Rc1 Rc7 34. Rxc7+ Qxc7 35. Kf1 f4 36. Ke2 Kg7 37. Kd1 Qc8 38. h4 Qc7 39.
+Ke1 Qc8 40. Kd1 Kf6 41. Ke1 Qc7 42. Kd1 Qc8 43. Qc2 Qxc2+ 44. Kxc2 g5 45.
+hxg5+ Kxg5 46. Kd2 Kh4 47. Ke2 Kg3 48. Kf1 h5 49. Kg1 h4 50. Kf1 h3 51. Kg1
+h2+ 52. Kh1 Kf2 0-1
+

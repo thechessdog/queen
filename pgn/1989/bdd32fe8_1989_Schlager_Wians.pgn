@@ -1,0 +1,23 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schlager, Thomas"]
+[Black "Wians, Camille"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "bdd32fe8"]
+[Epoch "Queen"]
+[WhiteID "4630980"]
+[WhiteCountry "GER"]
+[BlackID "4000358"]
+[BlackCountry "LUX"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Be2 Bg4 10. O-O Re8 11. Nd2 Bxe2 12. Qxe2 Nh5 13. Be3 Nd7 14. g4 Nhf6
+15. a4 h5 16. h3 Ne5 17. f4 Nexg4 18. hxg4 Nxg4 19. Kg2 f5 20. Qf3 Qb6 21. Rab1
+Qb4 22. Bf2 Bd4 23. Bg1 Re7 24. Qd3 Rae8 25. exf5 Bxg1 26. f6 Nxf6 27. Kxg1 Kh7
+28. Qc4 Re3 29. Qxb4 cxb4 30. Nb5 Rg3+ 31. Kh2 Ree3 32. Rfe1 Ng4+ 33. Kh1 Rh3+
+34. Kg1 Reg3+ 35. Kf1 Rh1+ 0-1

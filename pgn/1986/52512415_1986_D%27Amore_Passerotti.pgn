@@ -1,0 +1,22 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "D'Amore, Carlo"]
+[Black "Passerotti, Pierluigi"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Nottingham variation"]
+[HashCode "52512415"]
+[Epoch "Queen"]
+[WhiteID "800066"]
+[BlackID "800309"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. Be2 Nc6 8.
+Nb3 O-O 9. f4 Be6 10. g4 d5 11. f5 Bc8 12. exd5 Nb4 13. Bf3 gxf5 14. a3 fxg4
+15. Bg2 Na6 16. Qd3 Nc7 17. O-O-O Nce8 18. h3 Nd6 19. hxg4 Bxg4 20. Rdf1 Re8
+21. Bh3 Bh5 22. Rfg1 Bg6 23. Rxg6 hxg6 24. Nd4 Nd7 25. Be6 Ne5 26. Qf1 Ndc4 27.
+Bxf7+ Nxf7 28. Ne6 Nxe3 29. Qg1 Qb6 30. Qxg6 Nf5 31. Qh7# 1-0

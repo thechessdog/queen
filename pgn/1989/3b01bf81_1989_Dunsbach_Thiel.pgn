@@ -1,0 +1,18 @@
+[Event "Hessen-ch qual-C"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[Round "3"]
+[White "Dunsbach, Ralf, Dr."]
+[Black "Thiel, Bernd"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "3b01bf81"]
+[Epoch "Queen"]
+[WhiteID "4634870"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Be6
+8. c3 g6 9. Bd3 Bg7 10. O-O O-O 11. Re1 Qb6 12. Qe2 Rad8 13. Bg5 c5 14. dxc5
+Qxc5 15. Bh4 Rd5 16. Nf3 Bg4 17. h3 Bxf3 18. Qxf3 Re8 19. Rad1 Red8 1/2-1/2

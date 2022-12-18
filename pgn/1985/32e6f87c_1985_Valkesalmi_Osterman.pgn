@@ -1,0 +1,18 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Valkesalmi, Kimmo"]
+[Black "Osterman, George"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "32e6f87c"]
+[Epoch "Queen"]
+[WhiteID "500054"]
+[WhiteCountry "FIN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. Ng5 e6 8. f4
+dxe5 9. fxe5 c5 10. c3 cxd4 11. cxd4 Nc6 12. Nf3 f6 13. Nc3 O-O 14. exf6 Qxf6
+15. Be3 1/2-1/2

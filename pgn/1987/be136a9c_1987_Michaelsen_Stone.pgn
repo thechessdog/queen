@@ -1,0 +1,23 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Michaelsen, Nils"]
+[Black "Stone, Raymond"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "be136a9c"]
+[Epoch "Queen"]
+[WhiteID "4603028"]
+[BlackID "2600285"]
+[WhiteCountry "GER"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Ne8 11. Qc1 Kh7 12. e4 Qe7 13. Bd3 Nd7 14. O-O b6 15. a4
+Ba6 16. Re1 Bxc4 17. Bxc4 a6 18. Qd2 Nc7 19. Bg3 g5 20. Bf1 Rfe8 21. Rab1 Be5
+22. Nd1 b5 23. Ne3 bxa4 24. Qa5 Nb5 25. Qxa4 Reb8 26. Qd1 Nd4 27. Nc4 Rb4 28.
+Nxe5 Nxe5 29. Qh5 Kg7 30. f4 gxf4 31. Bxf4 Qf6 32. Be3 Qg6 33. Qxg6+ fxg6 34.
+Red1 a5 35. Bd2 Rb3 36. Bc3 a4 37. Ra1 Nc2 38. Ra2 1-0

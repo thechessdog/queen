@@ -1,0 +1,22 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Varasdy, Imre"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "3ee6e56b"]
+[Epoch "Queen"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+[BlackID "700460"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 7. e3 Ngxe5
+8. Nxe5 Nxe5 9. Be2 O-O 10. O-O Bxd2 11. Qxd2 d6 12. b4 a5 13. a3 Ng6 14. Bg3
+axb4 15. axb4 Bd7 16. h3 Rfe8 17. Rfd1 Qf6 18. Rxa8 Rxa8 19. c5 Ba4 20. Qa2
+dxc5 21. bxc5 b6 22. Bb5 Bxd1 23. Qxa8+ Nf8 24. c6 Bb3 25. Bxc7 Bd5 26. Bg3 Qg6
+27. Qa4 Ne6 28. Bf1 Qe4 29. Qa8+ Nf8 30. Bd6 1-0

@@ -1,0 +1,22 @@
+[Event "Beersheba"]
+[Site "Beersheba"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Kuijf, Marinus"]
+[Black "Rechlis, Gad"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "74f4f76d"]
+[Epoch "Queen"]
+[WhiteID "1000110"]
+[BlackID "2800047"]
+[WhiteCountry "NED"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Nxd5 cxd5 13. Bh6 Bxh6 14. Qxh6
+Qa5 15. Kb1 e5 16. h4 Rb8 17. h5 Bf5 18. Bd3 e4 19. hxg6 Bxg6 20. Be2 Rfc8 21.
+Qe3 Rc3 22. Qd4 Qa3 23. b3 Rxc2 24. Kxc2 Qxa2+ 25. Qb2 e3+ 26. Kc1 Rc8+ 27. Bc4
+Rxc4+ 0-1

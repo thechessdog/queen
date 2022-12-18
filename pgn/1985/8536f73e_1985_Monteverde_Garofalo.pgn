@@ -1,0 +1,20 @@
+[Event "corr TS88"]
+[Site "corr TS88"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Monteverde"]
+[Black "Garofalo"]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (with ...c5)"]
+[HashCode "8536f73e"]
+[Epoch "Queen"]
+
+1. Nf3 c5 2. g3 d5 3. b3 Nc6 4. Bb2 f6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6 bxc6
+8. Bg2 Bd6 9. e3 Ba6 10. Nd2 Ne7 11. Bf1 Bxf1 12. Kxf1 Qd7 13. Kg2 O-O 14.
+e4 f5 15. exd5 cxd5 16. Re1 e4 17. Bd4 f4 18. Rg1 f3+ 19. Kh1 Qh3 20. Qf1
+Qh5 21. Qb5 Rf5 22. Nf1 Qg6 23. Qa4 Rh5 24. b4 Rc8 25. a3 Nf5 26. Bxa7 Nh6
+27. g4 Bxh2 28. Rg3 Bxg3+ 29. Kg1 Bh2+ 30. Nxh2 Rxh2 31. Qd7 Qxg4+ 32. Qxg4
+Nxg4 33. Ra2 Rc6 34. Be3 Rg2+ 35. Kf1 Nxe3+ 0-1
+

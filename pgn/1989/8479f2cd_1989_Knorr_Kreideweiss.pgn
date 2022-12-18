@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knorr, B."]
+[Black "Kreideweiss, F."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "8479f2cd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Ng3 e4 7. Nd4 Qf6
+8. Qh5+ Ke7 9. Ndf5+ Ke6 10. Qe8+ Nce7 11. d3 e3 12. Bxe3 Nh6 13. Nd4+ Kd6
+14. Qd8+ Kc5 15. Qxc7+ Nc6 16. Nxc6+ 1-0
+

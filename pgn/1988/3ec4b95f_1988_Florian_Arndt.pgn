@@ -1,0 +1,17 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Florian, Jaromir"]
+[Black "Arndt, R."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "3ec4b95f"]
+[Epoch "Queen"]
+[WhiteCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
+fxe6 9. Ng5 Bxb5 10. Qxg4 Bc4 11. b3 Qa5 12. Bd2 Bxd4 13. Nd5 Qa3 14. Qxe6 Nc6
+15. bxc4 Bxa1 16. Nc7+ Kd8 17. Nb5 Qxa2 18. Nf7+ 1-0

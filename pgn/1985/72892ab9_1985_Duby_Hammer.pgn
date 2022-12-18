@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Duby, T."]
+[Black "Hammer, N."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "72892ab9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Ke7 8. Qg5+ Nf6 9. Qe5+ Be6 10. Bb3 Nc6 11. Qc3 Qd6 12. d4 Rxh2 13. Rxh2
+Qxh2 14. Be3 Qh1+ 15. Kd2 Kf7 16. a3 Bg4 17. Bg5 Qd1+ 18. Ke3 Qe2+ 19. Kf4
+Qxf2+ 0-1
+

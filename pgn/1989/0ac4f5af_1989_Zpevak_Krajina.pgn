@@ -1,0 +1,20 @@
+[Event "Karvina op"]
+[Site "Karvina"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Zpevak, Pavel"]
+[Black "Krajina, Ales"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "0ac4f5af"]
+[Epoch "Queen"]
+[WhiteID "300586"]
+[BlackID "302112"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 e5 4. cxd5 Nxd4 5. e3 Nf5 6. e4 Nfe7 7. Nf3 Ng6 8.
+Bb5+ Bd7 9. Qb3 Rb8 10. Be3 c5 11. d6 Nh6 12. Bxc5 Bxb5 13. Nxb5 Qa5+ 14. Nd2
+Kd7 15. Bxa7 Rc8 16. Be3 Nf4 17. O-O 1-0

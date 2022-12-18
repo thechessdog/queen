@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Iodice"]
+[Black "Willert"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "dc0cc353"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Bg5 a5 11. Nge2 a4 12. Qb5 Bd7 13. Qb4 Bf5 14.
+O-O Re8 15. d6 Qxd6 16. Qxd6 exd6 17. Bxb7 Rab8 18. Bc6 Bd7 19. Bxd7 Nbxd7
+20. Rab1 Ne4 21. Nxe4 Rxe4 22. Be3 Nb6 23. Nc3 Re7 24. b3 1-0
+

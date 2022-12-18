@@ -1,0 +1,19 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Douven, Rudy"]
+[Black "Welling, Gerard"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "9d25c996"]
+[Epoch "Queen"]
+[BlackID "1000446"]
+[BlackCountry "NED"]
+[WhiteID "1000195"]
+[WhiteCountry "NED"]
+
+1. d4 Na6 2. e4 c6 3. c3 Nc7 4. Bd3 g6 5. Nf3 Bg7 6. O-O d5 7. Nbd2 Nf6 8. e5
+Nh5 9. Nb3 a5 10. Nh4 Ne6 11. f4 Bh6 12. f5 Bxc1 13. Qxc1 gxf5 14. Qh6 Nhg7 15.
+Nxf5 Nxf5 16. Bxf5 b6 17. Bg4 Nc7 1-0

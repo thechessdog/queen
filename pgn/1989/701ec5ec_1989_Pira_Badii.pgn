@@ -1,0 +1,26 @@
+[Event "Paris AECE"]
+[Site "Paris"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pira, Davoud"]
+[Black "Badii, Madjid"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "701ec5ec"]
+[Epoch "Queen"]
+[WhiteID "600407"]
+[WhiteCountry "FRA"]
+[BlackID "600539"]
+[BlackCountry "FRA"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O d6 7. b3 Be7 8. e3 O-O
+9. Bb2 Nbd7 10. d4 cxd4 11. Nxd4 Qc8 12. e4 a6 13. Rc1 Ra7 14. Qe2 Ba8 15. h3
+Re8 16. Kh2 Nc5 17. f4 g6 18. Nc2 Rc7 19. b4 Ncd7 20. Ne3 d5 21. e5 d4 22. exf6
+dxc3 23. fxe7 cxb2 24. Qxb2 Bxg2 25. Kxg2 Rxe7 26. Rfd1 Qb8 27. Rd6 h5 28. Rcd1
+Qa8+ 29. Kf2 a5 30. b5 Qe4 31. Rxb6 Re8 32. Rbd6 Nc5 33. Qd4 Qa8 34. Rd8 Ne4+
+35. Kg1 Rc8 36. Rxe8+ Rxe8 37. Kh2 Nf2 38. Rf1 Rd8 39. Qb2 Ne4 40. Rd1 Rxd1 41.
+Nxd1 Qd8 42. Nf2 Nd2 43. Qc3 e5 44. Qd3 Qxd3 45. Nxd3 Nxc4 46. Nxe5 Nb6 47. Kg2
+Kg7 48. Kf3 f6 49. Nc6 Nc4 50. Ke2 Kf7 51. Kd3 Nd6 52. b6 Nb7 53. Kc4 Ke6 54.
+Kb5 g5 55. fxg5 f5 56. h4 1-0

@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Avshalumov, Alex"]
+[Black "Moskalenko, Viktor"]
+[Result "0-1"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "d7bf1055"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. Nc3 c6 7. d4 d5 8. Bg5 h6
+9. Bxf6 Bxf6 10. e3 Nd7 11. Qe2 Qe7 12. Rfd1 Kh8 13. a3 dxc4 14. Qxc4 e5 15.
+Qb4 e4 16. Nd2 Qf7 17. Na4 Be7 18. Qc3 Nf6 19. Nc4 Qe8 20. Na5 Bd6 21. b4 Bc7
+22. Rac1 Qh5 23. Qc5 Be6 24. Qe7 Bxa5 25. Qxe6 Bc7 26. Qb3 Ng4 27. Re1 Qxh2+
+28. Kf1 Bxg3 29. fxg3 Qxg3 30. Nc5 Qf2# 0-1

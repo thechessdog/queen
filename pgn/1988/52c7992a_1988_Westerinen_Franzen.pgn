@@ -1,0 +1,20 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Franzen, Jozef"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "52c7992a"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "14900181"]
+[BlackCountry "SVK"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. exd5 Qh4+ 5. Kf1 f3 6. Bb5+ c6 7. Nxf3 Qh5 8.
+Qe2+ Be7 9. dxc6 Nxc6 10. Ne5 Qf5+ 11. Ke1 Qxc2 12. Nc3 Bd7 13. Nxc6 Bxc6 14.
+Bd3 Bxg2 15. Rg1 1-0

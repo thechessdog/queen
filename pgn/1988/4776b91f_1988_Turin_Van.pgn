@@ -1,0 +1,15 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Turin"]
+[Black "Van der Vliet"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "4776b91f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. d4 fxe4 5. Nxe5 d5 6. Qh5+ g6 7. Nxg6 Nf6
+8. Qh4 Nxd4 9. Bb3 Nf5 0-1
+

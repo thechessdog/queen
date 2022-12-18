@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Berkell, Peder"]
+[Black "Nei, Iivo"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[HashCode "94a3bda4"]
+[Epoch "Queen"]
+[BlackID "4500059"]
+[BlackCountry "EST"]
+[WhiteID "1700693"]
+[WhiteCountry "SWE"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 d4 8. Nh4
+Be6 9. f4 f6 10. Ndf3 Nd7 11. Qe2 c5 12. fxe5 Nxe5 13. Nxe5 fxe5 14. Rxf8+ Qxf8
+15. Bg5 Nc6 16. Rf1 1/2-1/2

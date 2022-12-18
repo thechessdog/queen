@@ -1,0 +1,18 @@
+[Event "Reck"]
+[Site "Reck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kleinhenz, Hans"]
+[Black "Barthel, Ansgar"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "738ac1d0"]
+[Epoch "Queen"]
+[BlackID "4643461"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 e6 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Na4
+Qa5+ 9. c3 cxd4 10. b4 Nxb4 11. cxb4 Bxb4+ 12. Bd2 Bxd2+ 13. Nxd2 b5 14. Nb2
+Nb6 15. a4 Nc4 16. axb5 Na3 17. Na4 Nxb5 18. Nc5 Na3 1-0

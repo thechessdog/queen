@@ -1,0 +1,21 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kroger, Martin"]
+[Black "Jea, Stefan"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "c29df2e3"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8.
+Bd3 Bd7 9. O-O Qc7 10. b4 Nc6 11. b5 Nxd4 12. Nxd4 Qxc5 13. Bb2 e5 14. Na4
+Qd6 15. Nf5 Bxf5 16. Bxf5 Bd8 17. Nc3 g6 18. Bc2 Bc7 19. g3 Rfe8 20. Ne2
+Bb6 21. Bb3 Rad8 22. a4 Qb4 23. Ba3 Qg4 24. Nc3 Qh3 25. Qf3 Qe6 26. Ne2 e4
+27. Qg2 Qe5 28. Rad1 d4 29. Bb2 Qd6 30. Bxd4 Bxd4 31. Rxd4 Qa3 32. Rxd8
+Rxd8 33. Rd1 Rc8 34. Rb1 Qd6 35. Qf1 h5 36. Qd1 Qe7 37. Qd4 Nh7 38. Rd1 Ng5
+39. Qd6 Nf3+ 40. Kg2 Qg5 41. Qf4 1-0
+

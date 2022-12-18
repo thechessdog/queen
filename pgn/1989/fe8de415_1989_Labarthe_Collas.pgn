@@ -1,0 +1,23 @@
+[Event "FRA-chB"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Labarthe, Arnaud"]
+[Black "Collas, Didier"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Nescafe Frappe attack"]
+[HashCode "fe8de415"]
+[Epoch "Queen"]
+[WhiteID "623687"]
+[WhiteCountry "FRA"]
+[BlackID "602680"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4 g6
+9. e5 dxe5 10. d6 exd6 11. Bg5 Bb7 12. Qb3 Bg7 13. Bxf7+ Kf8 14. Rd1 Ra6 15.
+Nf3 Qe7 16. Bc4 h6 17. Nh4 Be4 18. Bxf6 Bxf6 19. Nf3 Kg7 20. O-O Rd8 21. Rfe1
+Bb7 22. Bd5 Nc6 23. Qd3 Na7 24. Nxa7 Rxa7 25. Nd2 Bxd5 26. Qxd5 Qf7 27. Qc6 Rc7
+28. Qf3 d5 29. Qg3 e4 30. b3 Ra7 31. h4 Rxa2 32. h5 g5 33. f4 Bd4+ 34. Kf1
+Qxf4+ 35. Qxf4 gxf4 0-1

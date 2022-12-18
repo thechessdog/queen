@@ -1,0 +1,20 @@
+[Event "Haringey"]
+[Site "Londen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pein, Malcolm"]
+[Black "Polaczek, Richard"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "50b203ec"]
+[Epoch "Queen"]
+[WhiteID "400289"]
+[WhiteCountry "ENG"]
+[BlackID "200026"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5 7. e4 cxd4 8. e5
+Ng4 9. O-O h5 10. h3 Nh6 11. Nxd4 Bxg2 12. Kxg2 h4 13. Qf3 Na6 14. Ne4 Be7 15.
+Nb5 Kf8 16. Nbd6 Bxd6 17. Nxd6 f5 18. exf6 gxf6 19. Qh5 Kg7 1-0

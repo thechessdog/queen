@@ -1,0 +1,17 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Kirsch, B."]
+[Black "Seret, Jean-Luc"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "fb20c7cb"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. gxf7+ Rxf7 11. Ng5 cxb2 12. Bc4 Nxe5 13. Qh5 Qa5+ 14. Kf1
+Qa6 15. Bxa6 bxa1=Q 16. Qxh7+ Kf8 17. Ke2 Bg4+ 0-1

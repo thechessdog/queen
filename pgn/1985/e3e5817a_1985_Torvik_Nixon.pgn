@@ -1,0 +1,17 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Torvik, D."]
+[Black "Nixon, P."]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "e3e5817a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 c5 4. e3 Bf5 5. b3 Nc6 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bc4 Qxg2 9. Bxf7+ Kxf7 10. Qf3 Qxf3 11. Nxf3 cxd4 12. exd4 Nb4 13. Kd2
+g6 14. Bb2 Bh6+ 15. Kc3 a5 16. Ne5+ Kg7 17. Rhg1 Rac8+ 18. Nc4 Nd5# 0-1
+

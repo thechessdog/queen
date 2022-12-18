@@ -1,0 +1,18 @@
+[Event "Urcuit"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maria, Lucia"]
+[Black "Dubreuil, Remy"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "b78f6313"]
+[Epoch "Queen"]
+
+1. e4 e6 2. Qe2 c5 3. f4 b6 4. Nf3 Bb7 5. Nc3 Nc6 6. d3 g6 7. Be3 Bg7 8. g3
+Nge7 9. Bg2 O-O 10. O-O d5 11. Bf2 d4 12. Nd1 Rc8 13. g4 e5 14. f5 f6 15. h4
+Rc7 16. Bg3 a6 17. Nf2 b5 18. Nh3 gxf5 19. g5 f4 20. Be1 f5 21. h5 h6 22. Nh4
+Qd7 23. Kh2 Bc8 24. Rg1 hxg5 25. Nxg5 Rf6 26. Bh3 Qe8 27. Qg2 Qf8 28. exf5 Nd8
+29. Bd2 Rd7 30. Ne4 Qf7 31. Qg5 Kf8 32. Ng6+ Ke8 33. h6 Nxg6 34. fxg6 1-0

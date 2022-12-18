@@ -1,0 +1,17 @@
+[Event "MB-JEM-SJRP"]
+[Site "MB-JEM-SJRP"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heinrich, S."]
+[Black "Schmidt, S."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "King's pawn game"]
+[HashCode "8a58cafb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d3 Bc5 4. Nc3 d6 5. Bg5 Nce7 6. Nd5 c6 7. Nxe7 Nxe7
+8. c3 a5 9. d4 exd4 10. cxd4 Bb4+ 11. Nd2 O-O 12. Bd3 d5 13. e5 c5 14. dxc5
+Bxc5 15. O-O Bd4 16. Rb1 Bxe5 17. Re1 Bd6 18. Qh5 g6 19. Qh4 Re8 20. Bf6
+Qd7 21. Qh6 Qf5 22. Qg7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr BGD-WFT2"]
+[Site "corr BGD-WFT2"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mallina"]
+[Black "Kaser"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "b601cfab"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Bf4 O-O
+8. Qd2 Nc6 9. O-O-O Bf5 10. a3 e6 11. h3 Nd5 12. Rhe1 Nxf4 13. Qxf4 Qd6 14.
+Qxd6 cxd6 15. g4 d5 16. Ba2 Be4 17. Nxe4 dxe4 18. Rxe4 Rfd8 19. c3 b5 20.
+Kc2 a5 21. d5 Ne7 22. dxe6 f5 23. Ree1 Rxd1 24. Rxd1 fxg4 25. hxg4 Rf8 26.
+Ng5 Rf2+ 27. Kb1 h5 28. gxh5 Rf5 29. Rg1 gxh5 30. Nf7 Kf8 31. Nd6 Re5 32.
+Rf1+ Kg8 33. Rf7 Bh6 34. Nf5 Nxf5 35. Rxf5 Re1+ 36. Kc2 h4 37. Rf7 1-0
+

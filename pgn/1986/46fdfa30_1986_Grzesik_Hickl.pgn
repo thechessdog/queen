@@ -1,0 +1,22 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grzesik, Thomas"]
+[Black "Hickl, Joerg"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "46fdfa30"]
+[Epoch "Queen"]
+[WhiteID "4603982"]
+[WhiteCountry "GER"]
+[BlackID "4600118"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nh6 5. Nf3 O-O 6. h3 Kh8 7. g4 f5 8. gxf5
+gxf5 9. e5 Na6 10. Be3 c5 11. Rg1 b6 12. Bc4 Nc7 13. dxc5 bxc5 14. Qd2 Be6 15.
+Bxe6 Nxe6 16. O-O-O Rc8 17. Nd5 Qd7 18. Qc3 Nf7 19. b3 Rg8 20. Qd3 Rcf8 21. Qa6
+Bh6 22. Rxg8+ Rxg8 23. exd6 exd6 24. Nf6 Qc8 25. Qxa7 Rg7 26. Nh5 Qc6 27. Nxg7
+Qxf3 28. Nxf5 Bxf4 29. Qxf7 1-0

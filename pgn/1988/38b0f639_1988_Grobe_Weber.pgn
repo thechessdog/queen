@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Grobe"]
+[Black "Weber"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "38b0f639"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Nc6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. Nbc7+ Kd7
+14. O-O Rxe4 15. Qh5 Ne7 16. Qxf7 Kc6 17. c4 Qd7 18. Nf6 Qxc7 19. Nxe4 fxe4
+20. Rfd1 Bg4 21. Qe8+ Kb7 22. Rdc1 Bd7 23. Qh5 Nf5 24. c5 Nd4 25. cxd6 Qxd6
+26. b4 Bh6 27. Rc5 Rg8 28. a4 Qg6 29. Qxg6 Rxg6 30. Ra3 Bf8 0-1
+

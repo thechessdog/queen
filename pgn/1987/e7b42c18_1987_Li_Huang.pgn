@@ -1,0 +1,17 @@
+[Event "PR China Tch"]
+[Site "PR China Tch"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Li Wenliang"]
+[Black "Huang, Zhengyuan"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "e7b42c18"]
+[Epoch "Queen"]
+[BlackID "8600341"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Nc3
+cxd4 9. exd4 Be7 10. Re1 O-O 11. Bg5 Bd7 12. Qe2 Rc8 13. Rad1 Nd5 14. Bxd5 Bxg5
+15. Ba2 Nb4 16. Bb1 Bc6 17. Ne5 g6 18. Nxc6 bxc6 19. Ne4 Rb8 20. Nc5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr Cities"]
+[Site "corr Cities"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Carnstam, T."]
+[Black "Forgo, F."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Santasiere variation"]
+[HashCode "f473991b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. b4 cxb4 3. c4 bxc3 4. Nxc3 g6 5. Bc4 Nc6 6. d4 Bg7 7. Nge2 d6
+8. O-O Nf6 9. Rb1 O-O 10. d5 Na5 11. Bd3 Bd7 12. Be3 Ng4 13. Bd4 Ne5 14. f4
+Nxd3 15. Qxd3 b6 16. Bxg7 Kxg7 17. Nd4 Qc7 18. Rf3 Nc4 19. Nc6 Na3 20. Qd4+
+e5 21. dxe6+ f6 22. exd7 Nxb1 23. d8=Q Raxd8 24. Nxd8 Nxc3 25. Ne6+ 1-0
+

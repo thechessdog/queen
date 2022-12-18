@@ -1,0 +1,19 @@
+[Event "corr CA jub"]
+[Site "corr CA jub"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Richardson"]
+[Black "Brglez, Rado"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "39379106"]
+[Epoch "Queen"]
+[BlackID "14600331"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. b3 c5 10. Nc4 f6 11. Ne3 Nb8 12. Nd5 Nc6 13. Ne1 Be6 14. Nxe7+ Qxe7
+15. f4 f5 16. exf5 Bxf5 17. g4 Bd7 18. Ng2 exf4 19. Bxf4 Nd4 20. Rf2 Rae8 21.
+h3 Bc6 22. Qf1 g5 0-1

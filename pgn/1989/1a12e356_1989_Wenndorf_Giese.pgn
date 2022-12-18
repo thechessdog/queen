@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wenndorf"]
+[Black "Giese"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "1a12e356"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5
+Bg7 8. Bc4 O-O 9. O-O-O f5 10. Nge2 Qxc5 11. Bb3 e6 12. Nxe4 Qe5 13. N4c3
+b5 14. Rd3 b4 15. f4 Qf6 16. Qf3 Qe7 17. Qxa8 Bb7 18. Qxa7 Nc6 19. Qb6 bxc3
+20. Nxc3 Bh6 21. Rf1 e5 22. Nd5 1-0
+

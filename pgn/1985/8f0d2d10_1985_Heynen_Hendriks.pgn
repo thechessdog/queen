@@ -1,0 +1,18 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heynen"]
+[Black "Hendriks"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "8f0d2d10"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+Qd2 e5 9. d5 Ne7 10. Rad1 b5 11. b4 a5 12. a3 axb4 13. axb4 Ra3 14. h3 Rxc3
+15. Qxc3 Nxe4 16. Qb3 Bd7 17. c4 bxc4 18. Bxc4 h6 19. Rfe1 f5 20. Bd3 Kh7
+21. Bxe4 fxe4 22. Nd2 Qa8 1/2-1/2
+

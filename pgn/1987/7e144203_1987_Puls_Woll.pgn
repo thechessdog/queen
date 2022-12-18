@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Puls"]
+[Black "Woll"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "7e144203"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Be7 7. dxc5
+Nf6 8. Ngf3 O-O 9. O-O Bxc5 10. Nb3 Bd6 11. Bg5 Bg4 12. h3 Bh5 13. Qd1 Re8
+14. c3 h6 15. Be3 Ne5 16. Bxe8 Nxf3+ 17. gxf3 Qxe8 18. Kg2 Qe5 19. Rh1 Ne4
+20. Nd4 Ng5 21. Qd2 Qf6 22. Bxg5 1-0
+

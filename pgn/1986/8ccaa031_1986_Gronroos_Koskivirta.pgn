@@ -1,0 +1,18 @@
+[Event "Espoo ch-SSL"]
+[Site "Espoo ch-SSL"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gronroos, Matti"]
+[Black "Koskivirta, Tero"]
+[Result "1-0"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish, classical defence"]
+[HashCode "8ccaa031"]
+[Epoch "Queen"]
+[WhiteID "503720"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bc5 5. O-O d6 6. d4 exd4 7. Nxd4 Bd7 8.
+Nf5 O-O 9. Bg5 h6 10. Bh4 Ne5 11. Nxh6+ gxh6 12. Nd5 Bxb5 13. Nxf6+ Qxf6 14.
+Bxf6 Bxf1 15. Kxf1 Rfe8 16. Qh5 1-0

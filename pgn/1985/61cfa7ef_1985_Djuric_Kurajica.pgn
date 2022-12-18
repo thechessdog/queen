@@ -1,0 +1,19 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Djuric, Stefan"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "61cfa7ef"]
+[Epoch "Queen"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+[WhiteID "900133"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O c5 6. c3 cxd4 7. cxd4 Be7 8. Bg5
+O-O 9. Nc3 b4 10. Na4 d6 11. Qb3 Nc6 12. a3 Rb8 13. axb4 Nxb4 14. Bxf6 Bxf6 15.
+Qxb4 Bxf3 16. Qd2 Bxg2 17. Kxg2 a5 18. d5 1/2-1/2

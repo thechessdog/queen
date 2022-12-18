@@ -1,0 +1,21 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ochsner, Thomas"]
+[Black "Hoiberg, Nina"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "53c43179"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1400720"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5 7. f5 Nbd7 8. Nf3
+Nc5 9. O-O Nxd3 10. cxd3 Bd7 11. d4 exd4 12. Nxd4 O-O-O 13. Nb3 Qb6+ 14. Kh1
+Bxf5 15. Qe1 Be6 16. Bg5 h6 17. Bh4 Rd7 18. Rc1 Bb4 19. Bf2 Qa6 20. Bc5 Qc4 21.
+Bxa7 Bxc3 22. Rxc3 Qa6 23. Bg1 Nxe4 24. Nc5 Nxc5 1/2-1/2

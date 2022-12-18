@@ -1,0 +1,24 @@
+[Event "Lang mem"]
+[Site "Brno"]
+[Date "1985.??.??"]
+[Round "5"]
+[White "Popela, Pavel"]
+[Black "Rogowski, Jaroslaw"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "ed79d1d9"]
+[Epoch "Queen"]
+[WhiteID "301817"]
+[BlackID "1101382"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. O-O Be7 7. Bxc6 dxc6 8.
+Qe2 Bf5 9. dxe5 O-O 10. Rd1 Qc8 11. Bf4 f6 12. Nbd2 Nxd2 13. Rxd2 fxe5 14. Bxe5
+Re8 15. Qc4+ Be6 16. Qc3 Bf8 17. Re1 Bd5 18. Re3 a5 19. Rde2 Qd7 20. Qd3 Qg4
+21. h3 Qc4 22. Qf5 Be6 23. Qg5 Qxa2 24. b3 Bd7 25. Nd2 Re7 26. Ne4 Kh8 27. Rf3
+Qa3 28. Qh5 Be6 29. Bc3 Bg8 30. Ree3 Qc1+ 31. Kh2 Qxc2 32. Qg4 Rae8 33. Rg3 Bd5
+34. Ref3 Qxe4 35. Rxf8+ Rxf8 36. Bxg7+ Kg8 37. Qg5 Rff7 38. Bf6+ Qg6 39. Qf4
+Re6 40. Rxg6+ hxg6 41. Qg3 Rexf6 0-1

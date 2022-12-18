@@ -1,0 +1,16 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Burwell, R."]
+[Black "Iverson, B."]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "ad8ecd2f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8. e4
+O-O 9. Bd3 Nbd7 10. O-O Ne5 11. Nxe5 dxe5 12. f4 exf4 13. e5 h6 14. Bxf6 Bxf6
+15. exf6 Qxf6 16. Kh1 h5 17. Ne4 Qh4 18. Qf3 g5 19. Nf6+ Kh8 20. Qe4 1-0

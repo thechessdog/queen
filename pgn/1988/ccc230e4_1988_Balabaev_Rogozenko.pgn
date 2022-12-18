@@ -1,0 +1,17 @@
+[Event "Dimitrovgrad"]
+[Site "Dimitrovgrad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Balabaev"]
+[Black "Rogozenko, D."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "ccc230e4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O h6 12. h3 d4 13. Ne2 Re8
+14. b4 Nd5 15. Bb2 Qh4 16. Qd2 Ne5 17. Nxd4 Nf4 18. Rfe1 Qg5 0-1
+

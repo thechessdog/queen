@@ -1,0 +1,23 @@
+[Event "Norway"]
+[Site "Kristiansand"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tisdall, Jonathan D"]
+[Black "Agdestein, Espen"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "dc2495e4"]
+[Epoch "Queen"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+[BlackID "1500201"]
+[BlackCountry "NOR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nc6
+8. Nf3 Nf6 9. Qb3 Bc5 10. e3 Qe7 11. Be2 O-O-O 12. Bd2 g5 13. Na4 Bd6 14. Nxg5
+Rhg8 15. Nxf7 Be6 16. Nxd6+ Qxd6 17. Qc2 Ne4 18. O-O-O Nxf2 19. Ba5 Nxd1 20.
+Rxd1 Qxh2 21. Bxd8 Rxd8 22. Nc5 Qe5 23. Rxd8+ Kxd8 24. Qd3+ Kc8 25. Nxe6 Qxe6
+26. a3 h6 27. Bf3 Ne5 28. Qc3+ Kb8 29. Qd4 Kc7 30. Bd5 Qd6 31. Bxb7 Nd3+ 32.
+Kc2 Ne1+ 33. Kd2 Qg3 34. Qf4+ 1-0

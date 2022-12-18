@@ -1,0 +1,15 @@
+[Event "Ptuj"]
+[Site "Ptuj"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rajkovic, Dusan"]
+[Black "Kozul, Zdenko"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "241a5846"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 1/2-1/2

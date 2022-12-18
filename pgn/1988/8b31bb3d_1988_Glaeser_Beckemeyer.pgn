@@ -1,0 +1,21 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "?"]
+[White "Glaeser, Wilfried"]
+[Black "Beckemeyer, Werne"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berger variation"]
+[HashCode "8b31bb3d"]
+[Epoch "Queen"]
+[WhiteID "12944319"]
+[WhiteCountry "GER"]
+[BlackID "4601408"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Nxd4 9. Nxd4 exd4 10. Nc3 Nxc3 11. bxc3 c5 12. axb5 Be7 13. c4 O-O 14. cxd5 Bb7
+15. Qd3 axb5 16. Rxa8 Qxa8 17. Qxb5 Ba6 18. Qd7 Bxf1 19. Qxe7 c4 20. Kxf1 cxb3
+21. cxb3 Qxd5 0-1

@@ -1,0 +1,26 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "cab84215"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4 Bh7
+9. Nxh5 cxd4 10. Nb5 Nc6 11. Nxd4 Qc7 12. f4 Nxd4 13. Qxd4 Bc5 14. Qc3 Rc8 15.
+Be3 Bxe3 16. Qxe3 Qxc2 17. Bb5+ Kf8 18. O-O Be4 19. Be2 Qxb2 20. Rac1 Rxc1 21.
+Rxc1 Ne7 22. Rc7 Qb4 23. Qxa7 Kg8 24. Qf2 Kh7 25. f5 exf5 26. gxf5 Rg8 27. Kh2
+Kh8 28. f6 Nf5 29. fxg7+ Nxg7 30. Nf6 Qb1 31. Nxg8 Qh1+ 32. Kg3 Nf5+ 33. Kg4
+Kxg8 34. Rxb7 d4 35. Bf3 Ne3+ 36. Kg3 Nf1+ 37. Kf4 Bxf3 38. Qxf3 Qh2+ 39. Kf5
+Qc2+ 40. Kf6 Qg6+ 41. Ke7 Qe6+ 42. Kd8 Ne3 43. Qf6 Qd5+ 44. Kc8 Qc5+ 45. Kb8
+Qf8+ 46. Ka7 Qa3+ 47. Qa6 Qc5+ 48. Ka8 Qxe5 49. Qb6 Kg7 50. Rd7 Qe8+ 51. Qd8
+Qe4+ 52. Ka7 1-0

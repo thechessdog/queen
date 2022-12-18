@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Donchev, Dimitar I."]
+[Black "Mnatsakanian, Eduard A"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "aad85d64"]
+[Epoch "Queen"]
+[WhiteID "2900025"]
+[WhiteCountry "FID"]
+[BlackCountry "ARM"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 a6 9. c4 Qd6 10. Be2 e5 11. Nxc6 Qxc6 12. O-O Be6 13. Qc2 1/2-1/2

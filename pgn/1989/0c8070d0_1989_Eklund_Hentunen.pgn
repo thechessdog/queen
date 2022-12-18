@@ -1,0 +1,22 @@
+[Event "JSM MatSK-EtVaS"]
+[Site "JSM MatSK-EtVaS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eklund, Kari"]
+[Black "Hentunen, Asko"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "0c8070d0"]
+[Epoch "Queen"]
+[WhiteID "505188"]
+[BlackID "500429"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Ne4 5. Qc2 f5 6. g3 b6 7. Bg2 Nc6 8. O-O
+Bxc3 9. bxc3 Ba6 10. d5 Na5 11. dxe6 dxe6 12. Nd4 Bxc4 13. g4 g6 14. gxf5 gxf5
+15. f3 Nd6 16. Rd1 Qe7 17. Nb3 Nab7 18. Nd4 Rg8 19. Kh1 c5 20. Nb3 O-O-O 21. e4
+Qh4 22. e5 Ne4 23. Be3 Ng3+ 24. Kg1 Ne2+ 25. Kh1 Ng3+ 26. Kg1 Ne2+ 27. Kh1 f4
+28. Nd4 fxe3 29. Nxe2 Qf2 30. Rxd8+ Nxd8 31. Rg1 Bxe2 32. Qxh7 Rxg2 0-1

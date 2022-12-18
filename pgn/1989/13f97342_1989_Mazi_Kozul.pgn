@@ -1,0 +1,20 @@
+[Event "Liechtenstein"]
+[Site "Liechtenstein"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mazi, Leon"]
+[Black "Kozul, Zdenko"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "13f97342"]
+[Epoch "Queen"]
+[WhiteID "14600315"]
+[WhiteCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Rc8 10. Kb1 Be7 11. h4 O-O 12. g4 b5 13. Nxc6 Bxc6 14. Bd3 Qc7
+15. h5 Rfd8 16. Qf4 b4 17. Ne2 Bb5 18. Rc1 Qa5 19. h6 Rc5 20. hxg7 b3 21. axb3
+Rxg5 22. b4 Qxb4 23. c4 Ba4 24. Qxg5 Rb8 25. Rc2 Bxc2+ 26. Kxc2 Qb3+ 27. Kc1
+Qxd3 0-1

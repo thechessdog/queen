@@ -1,0 +1,20 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Alvarez, Roberto"]
+[Black "Bacino, Gustavo"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "4538eb20"]
+[Epoch "Queen"]
+[WhiteID "111902"]
+[BlackID "127752"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. c4 e6 7. dxe6 Qxe6+
+8. Qe2 Qxe2+ 9. Nxe2 Nc6 10. O-O O-O-O 11. Nbc3 g6 12. Rf3 Nd4 13. Nxd4 cxd4
+14. Nd5 Nxd5 15. cxd5 Rxd5 16. b3 1/2-1/2

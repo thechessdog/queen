@@ -1,0 +1,17 @@
+[Event "Boulder"]
+[Site "Boulder"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Buchanan, Richard W"]
+[Black "Moore, Harry"]
+[Result "1-0"]
+[ECO "A53"]
+[Opening "Old Indian defence"]
+[HashCode "6d1c7ac2"]
+[Epoch "Queen"]
+[BlackID "2600412"]
+[BlackCountry "CAN"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 e6 4. e4 d5 5. e5 Ne4 6. Bd3 Nxc3 7. bxc3 c5 8. Nf3
+Nc6 9. O-O cxd4 10. cxd4 Bb4 11. Be3 O-O 12. Ng5 h6 13. Nh7 dxc4 14. Be4 Re8
+15. Qg4 g6 16. Bxg6 fxg6 17. Qxg6+ Kh8 18. Nf6 1-0

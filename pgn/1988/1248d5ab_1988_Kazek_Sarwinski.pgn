@@ -1,0 +1,23 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Kazek, Krzysztof"]
+[Black "Sarwinski, Miroslaw"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "1248d5ab"]
+[Epoch "Queen"]
+[WhiteID "1101919"]
+[BlackID "1100394"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. bxc5 bxc5 13. Nb3 h6 14. Bd2 f5 15. f3
+f4 16. Nb5 a6 17. Ba5 Qd7 18. Nc3 Rb8 19. Qc2 g5 20. Nd2 Rxb1 21. Rxb1 Ng6 22.
+Na4 Bb7 23. Bb6 Rf7 24. Bxc5 dxc5 25. Nxc5 Qc8 26. Ne6 Nf8 27. Nxg7 Qc5+ 28.
+Kf1 Rxg7 29. Nb3 Qe7 30. c5 Bc8 31. Nd2 g4 32. fxg4 h5 33. d6 Qh4 34. Nf3 Qxg4
+35. Bc4+ Be6 36. Nxe5 Qg5 37. Bxe6+ Nxe6 38. d7 N8c7 39. Rb8+ Qd8 1-0

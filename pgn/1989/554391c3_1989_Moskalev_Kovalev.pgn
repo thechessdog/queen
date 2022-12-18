@@ -1,0 +1,22 @@
+[Event "Leningrad-chT"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moskalev, Aleksey"]
+[Black "Kovalev, Andrei"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "554391c3"]
+[Epoch "Queen"]
+[BlackID "13500023"]
+[BlackCountry "BLR"]
+[WhiteID "4126092"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Qe2 Nc6 7. c3 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Bxd2 Be7 13. Rac1 O-O 14. Bf4
+Qd8 15. Qd2 Qb6 16. Be3 Rac8 17. Qe2 a5 18. Rc2 Nb4 19. Rxc8 Rxc8 20. a3 Nc2
+21. Rc1 Qxb2 22. Ne1 Qxc1 23. Bxc1 Nxd4 24. Qe3 Rxc1 25. h3 Ra1 26. Kh2 Nf5 27.
+Qc3 Rxa3 28. Qc8+ Bf8 29. f4 b5 30. g4 Nd4 31. f5 Re3 32. Ng2 Rxe5 0-1

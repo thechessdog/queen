@@ -1,0 +1,18 @@
+[Event "Teteven"]
+[Site "Teteven"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marholev, Dimitar"]
+[Black "Liangov, Petar"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "9af25a76"]
+[Epoch "Queen"]
+[WhiteID "2901340"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 Nc6 11. a3 Nxd4 12. Bxd4 O-O 13. Qd3 Qc7 14. Qg3 Rac8 15.
+Rad1 Rfd8 16. f5 e5 17. Be3 Kf8 18. Qf3 Qb8 19. Bg5 Rxc3 1/2-1/2

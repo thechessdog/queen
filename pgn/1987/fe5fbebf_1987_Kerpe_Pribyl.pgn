@@ -1,0 +1,21 @@
+[Event "Boblingen"]
+[Site "Boblingen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kerpe, Andreas"]
+[Black "Pribyl, J."]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "fe5fbebf"]
+[Epoch "Queen"]
+[WhiteID "24645788"]
+[WhiteCountry "GER"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd2 Qb6 6. Nf3 Bg4 7. e5 Nd5 8. Na4
+Bxf3 9. Nxb6 Bxd1 10. Nxa8 Bxc2 11. Rc1 Be4 12. Bc4 e6 13. Kf2 Kd7 14. Rhe1 Bf5
+15. b4 dxe5 16. Bxd5 exd5 17. Rxe5 Be4 18. a4 Na6 19. b5 Nb4 20. b6 Nd3+ 21.
+Kg1 Ba3 22. bxa7 Rxa8 23. Rb1 Nxe5 24. Rxb7+ Kc8 25. Rb8+ Rxb8 26. axb8=Q+ Kxb8
+27. fxe5 Bb2 0-1

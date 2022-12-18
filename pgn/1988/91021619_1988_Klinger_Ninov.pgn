@@ -1,0 +1,22 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Klinger, Josef"]
+[Black "Ninov, Kiril"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "91021619"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[WhiteCountry "AUT"]
+[BlackID "2900181"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. a4 O-O 10. Kh1 Rd8 11. f4 d5 12. e5 Nxd4 13. Qxd4 Nd7 14. Be3 Bc5 15.
+Qd3 Nxe5 16. fxe5 Bxe3 17. Qxe3 d4 18. Qf4 dxc3 19. b3 Rb8 20. Qh4 Rd7 21. Be4
+h6 22. g4 b6 23. Rae1 Bb7 24. g5 Rd4 25. gxh6 Rxe4 26. Rxe4 Qxe5 27. Re1 f5 28.
+Kg1 Bxe4 29. Rd1 Qf6 0-1

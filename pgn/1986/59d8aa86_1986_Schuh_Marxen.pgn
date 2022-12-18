@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schuh, G."]
+[Black "Marxen, P."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "59d8aa86"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. c4 a6 10. Nc3 Be7 11. Be2 O-O 12. O-O f5 13. Kh1 Nd7 14. f3
+b6 15. Be3 Bb7 16. b4 Rc8 17. Qb3 Kh8 18. Rac1 Bg5 19. Bxg5 Qxg5 20. Na4 b5
+21. Nc3 bxc4 22. Bxc4 Nb6 0-1
+

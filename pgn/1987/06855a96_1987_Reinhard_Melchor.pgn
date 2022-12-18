@@ -1,0 +1,14 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Reinhard, H."]
+[Black "Melchor, Alejandro"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "06855a96"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Qh4+ 6. Kf3 b6 7. d4 Nf6
+8. Nc3 O-O 9. g3 Qh5+ 10. g4 Nxg4 11. Kg3 Qxf5 0-1

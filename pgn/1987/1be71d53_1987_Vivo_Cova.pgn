@@ -1,0 +1,16 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vivo, M."]
+[Black "Cova, R."]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "1be71d53"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O Nc6
+8. Nb3 O-O 9. Kh1 Be6 10. f4 Qc8 11. Be3 Bc4 12. Bxc4 1-0
+

@@ -1,0 +1,17 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Popovych, D."]
+[Black "Hickman"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "4262cd8a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. c5 Be7 7. Nf3 O-O 8.
+b4 Ne4 9. Qc2 Nc6 10. b5 Nxd4 11. Nxd4 Bxc5 12. Nxe4 Bxd4 13. Nc3 Qf6 14.
+Bb2 Bd7 15. Qd2 Rfc8 16. Ne4 dxe4 17. Bxd4 e5 18. Be3 Rd8 19. Bg5 1-0
+

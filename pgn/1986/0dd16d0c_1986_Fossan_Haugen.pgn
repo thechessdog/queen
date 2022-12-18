@@ -1,0 +1,20 @@
+[Event "Ganddal"]
+[Site "Ganddal"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fossan, Petter"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "0dd16d0c"]
+[Epoch "Queen"]
+[WhiteID "1500260"]
+[BlackID "1505076"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qc5 7. O-O Nc6 8.
+Qe2 Nf6 9. Nb3 Qh5 10. Rd1 Bd7 11. Nbxd4 a6 12. Bg5 h6 13. Bh4 Nxd4 14. Rxd4
+Bc6 15. Bxe6 fxe6 16. Qxe6+ Be7 17. Ne5 Rb8 1-0

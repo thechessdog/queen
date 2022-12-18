@@ -1,0 +1,18 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tacu, Victor"]
+[Black "Hietanen, P."]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "23e7fc64"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 exd5 6. cxd5 d6 7. Nc3 g6 8. e4
+Bg7 9. Bb5+ Bd7 10. O-O O-O 11. Bd3 b5 12. Bf4 Qb6 13. Qc2 c4 14. Be2 Na6
+15. a4 Nb4 16. Qd2 Rfe8 17. Nxb5 Bxb5 18. Qxb4 Rxe4 19. axb5 Nxd5 20. Qxd6
+Qxd6 0-1
+

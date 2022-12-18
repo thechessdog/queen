@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sierzan, W."]
+[Black "Marks, I."]
+[Result "0-1"]
+[ECO "A76"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8"]
+[HashCode "75fb30a4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nc3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Qc2 Na6 11. Bxa6 bxa6 12. h3 Rb8 13. Bd2 Nh5 14. g4
+Qf6 15. Bg5 Qxf3 0-1
+

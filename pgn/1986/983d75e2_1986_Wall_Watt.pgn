@@ -1,0 +1,18 @@
+[Event "Sunnyvale,CA"]
+[Site "Sunnyvale,CA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Watt, Mike"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "983d75e2"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Nc3 e4
+8. Ng1 Bf5 9. Nge2 d4 10. Ng3 dxc3 11. Nxf5 Qf6 12. Ng3 cxb2 13. Bxb2 Qxb2 14.
+Rb1 Qe5 15. Rxb7 Bd6 16. O-O Rhe8 17. Kh1 Kg8 18. Qg4 Qf4 19. Qd7 Ne5 20. Qa4
+Ng4 0-1

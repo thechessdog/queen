@@ -1,0 +1,19 @@
+[Event "Royan"]
+[Site "Royan"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Santo-Roman, Marc"]
+[Black "Andruet, Gilles"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "bd43d088"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+[WhiteID "600083"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Qc7 8. O-O
+Be7 9. Qe2 O-O 10. Nd1 Nc6 11. Nxc6 bxc6 12. c4 d5 13. exd5 exd5 14. Bf4 Bd6
+15. Bxd6 Qxd6 16. cxd5 cxd5 17. Ne3 Rb8 18. Rfd1 Be6 1/2-1/2

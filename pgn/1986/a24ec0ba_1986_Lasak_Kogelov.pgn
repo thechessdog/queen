@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lasak, B."]
+[Black "Kogelov, G."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "a24ec0ba"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 g6 6. Nc3 Bg7 7. h3 O-O 8.
+Be3 Nc6 9. Qd2 e5 10. d5 Ne7 11. O-O-O Nf5 12. g4 Nxe3 13. Qxe3 e4 14. Qxe4
+Bh6+ 15. Kb1 f5 16. Qd3 fxg4 17. hxg4 Bxg4 18. Rxh6 Rxf3 19. Qd4 Qg5 0-1
+

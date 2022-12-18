@@ -1,0 +1,23 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Landenbergue, Claude"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "73ac533c"]
+[Epoch "Queen"]
+[WhiteID "1000063"]
+[WhiteCountry "NED"]
+[BlackID "1300130"]
+[BlackCountry "SUI"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Nbd2 N8d7 8. O-O
+dxe5 9. Nxe5 Nxe5 10. dxe5 Be6 11. Qb3 g6 12. Nf3 Bg7 13. Ng5 Qc8 14. f4 O-O
+15. Be3 Bg4 16. Bxg4 Qxg4 17. h3 Qc8 18. Bxb6 axb6 19. Qxb6 f6 20. exf6 exf6
+21. Nf3 Qf5 22. Nd4 Qd7 23. Rad1 f5 24. Nf3 Qf7 25. Ng5 Qf6 26. Qxb7 h6 27. Nf3
+Qxb2 28. Qxc6 Qxa2 29. Rd7 Rf6 30. Qb7 Bf8 31. Qd5+ Kh8 32. Ne5 Bg7 33. Nf7+
+Kh7 34. Ng5+ hxg5 35. fxg5 Rff8 36. Qd4 1-0

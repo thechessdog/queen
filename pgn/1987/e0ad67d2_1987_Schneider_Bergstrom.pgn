@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Bergstrom, Christer"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "e0ad67d2"]
+[Epoch "Queen"]
+[BlackID "1700154"]
+[BlackCountry "SWE"]
+[WhiteID "1700235"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. f4 b5 8. Nxc6
+Qxc6 9. Bf3 Bb7 10. O-O Rc8 11. Kh1 Bc5 12. a4 b4 13. e5 Qc7 14. Ne4 Bxe4 15.
+Bxe4 Ne7 16. a5 g6 17. Qd3 Qa7 18. Bd2 h5 19. Ra4 h4 20. h3 Nf5 21. Bxf5 gxf5
+22. Bxb4 Rg8 23. Be1 Qb7 24. Qe2 Be7 25. b3 f6 26. exf6 Bxf6 27. Rb4 Qd5 28. c4
+Qa8 29. Rb6 Kf7 30. Rf3 Rc6 31. Rd3 Rxb6 32. axb6 Qc6 33. Qf3 Qxf3 34. gxf3 Rb8
+35. Bf2 d6 36. b4 Rc8 37. c5 dxc5 38. bxc5 1-0

@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Engelke"]
+[Black "Garms"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "1f4c9685"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. e5 Nd5 5. Bxe7 Qxe7 6. c4 Nb6 7. Nc3 Qb4
+8. Qb3 Nc6 9. Qxb4 Nxb4 10. O-O-O d6 11. a3 Nc6 12. Nb5 Kd7 13. exd6 cxd6
+14. c5 dxc5 15. dxc5+ Nd5 16. Bc4 1-0
+

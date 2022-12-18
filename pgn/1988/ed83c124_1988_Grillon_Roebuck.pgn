@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Grillon, J."]
+[Black "Roebuck, D."]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "ed83c124"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. O-O
+Nf6 9. hxg5 Nxe4 10. Bxf4 d5 11. gxh6 Bxh6 12. Bxh6 Rxh6 13. Bb3 Bg4 14.
+Nbd2 f5 15. Qc2 Qd6 16. Rae1 O-O-O 17. Re3 Rdh8 18. Nxe4 fxe4 19. Ne5 Rh1+
+20. Kf2 Qf6+ 21. Nf3 Rxf1+ 22. Kxf1 exf3 0-1
+

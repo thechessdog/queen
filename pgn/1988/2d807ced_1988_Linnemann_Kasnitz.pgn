@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Linnemann, Ralf"]
+[Black "Kasnitz, M."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "2d807ced"]
+[Epoch "Queen"]
+[WhiteID "4603486"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Na6 9. g3 b6 10. Bg2 Bb7 11. O-O Qd7 12. Re1 Rfe8 13. a4 Nc7 14. Nf4 Rad8
+15. d6 exd6 16. Rxe8+ Rxe8 17. Bxb7 Re1+ 18. Kg2 Ne6 19. Nce2 Qxb7+ 20. Qf3
+Nxf4+ 21. Nxf4 Rg1+ 0-1

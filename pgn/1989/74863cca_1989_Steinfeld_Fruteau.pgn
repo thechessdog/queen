@@ -1,0 +1,15 @@
+[Event "Val Maubuee open"]
+[Site "Val Maubuee open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Steinfeld, J."]
+[Black "Fruteau, PM."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "74863cca"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Nb4 5. a3 Bg4 6. Be2 Bxe2 7. Ngxe2 Na6 8.
+Nxe4 e6 9. N2c3 exd5 10. Nxd5 c6 11. Qe2 cxd5 12. Nf6# 1-0

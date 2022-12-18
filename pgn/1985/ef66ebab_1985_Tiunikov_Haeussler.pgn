@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tiunikov, EV."]
+[Black "Haeussler, R."]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "ef66ebab"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. b3 f6 10. Bb2 Re8 11. Nh4 Nc5 12. Nf5 Bxf5 13. exf5 Qd5 14.
+Qg4 a5 15. Rae1 a4 16. Re3 axb3 17. axb3 Ra2 18. Rb1 Rea8 19. Ree1 Na6 20.
+Ne4 Qf7 21. f4 exf4 22. Nc3 Rxb2 23. Rxb2 Bb4 24. Ra2 Bxc3 25. Re6 Be5 26.
+g3 fxg3 27. d4 gxh2+ 28. Kh1 Bd6 29. c4 c5 30. d5 Rf8 0-1
+

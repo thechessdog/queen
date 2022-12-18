@@ -1,0 +1,17 @@
+[Event "corr ICCF TT"]
+[Site "corr ICCF TT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mortimer, M."]
+[Black "Timar, Zsolt"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, normal variation"]
+[HashCode "0bd84a80"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. c5 Be7 8. Bb5
+O-O 9. Bxc6 bxc6 10. Nf3 Ne4 11. Bxe7 Qxe7 12. Qc2 Nxc3 13. Qxc3 Ba6 14. Ne5
+Qb7 15. O-O-O Rab8 16. f4 f6 17. Nd3 Bxd3 18. Rxd3 Rfe8 0-1

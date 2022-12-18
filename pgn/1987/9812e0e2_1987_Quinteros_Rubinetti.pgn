@@ -1,0 +1,20 @@
+[Event "Rio Hondo"]
+[Site "Rio Hondo"]
+[Date "1987.01.01"]
+[Round "5"]
+[White "Quinteros, Miguel A."]
+[Black "Rubinetti, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "9812e0e2"]
+[Epoch "Queen"]
+[WhiteID "100021"]
+[WhiteCountry "ARG"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. d4 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Nc3 b5 11. Qd3 b4 12. Nb1 Be4 13. Qd1 c5 14. Be3 cxd4 15.
+Bxd4 Nc6 16. Nbd2 1/2-1/2

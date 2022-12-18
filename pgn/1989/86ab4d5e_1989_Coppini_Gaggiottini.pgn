@@ -1,0 +1,21 @@
+[Event "Montone"]
+[Site "Montone"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Coppini, Giorgio"]
+[Black "Gaggiottini, Manfredo"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "86ab4d5e"]
+[Epoch "Queen"]
+[WhiteID "800988"]
+[WhiteCountry "ITA"]
+[BlackID "804720"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 b5 7. Bf3 e5 8. Nf5
+d5 9. Bg5 d4 10. Bxf6 Qxf6 11. Nd5 Qd8 12. c3 g6 13. Nxd4 Bb7 14. Nb3 Nd7 15.
+Qd2 Nb6 16. Nxb6 Qxb6 17. Rd1 Be7 18. Qd7+ Kf8 19. O-O h5 20. Qd2 g5 21. h3 g4
+22. hxg4 hxg4 23. Bxg4 Bxe4 24. Rfe1 Qg6 1-0

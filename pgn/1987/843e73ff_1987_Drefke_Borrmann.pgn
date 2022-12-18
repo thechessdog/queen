@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Drefke"]
+[Black "Borrmann"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "843e73ff"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Bxd5 Nf6 9. Nc3 Qe7 10. b3 c6 11. Bxe4 Rg8 12. Qf5+ Kd8 13. Qf3 Bg4
+14. Qd3+ Nbd7 15. O-O Nxe4 16. Nxe4 Bf5 17. Re1 Qg7 18. Qg3 Bxe4 19. Qxg7
+Bxg7 20. Rb1 Bxc2 0-1
+

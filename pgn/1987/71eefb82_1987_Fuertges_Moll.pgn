@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fuertges"]
+[Black "Moll"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "71eefb82"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c3 Nc6 7. Be3 Qb6 8. Qd2
+cxd4 9. cxd4 Bxb1 0-1
+

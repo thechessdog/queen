@@ -1,0 +1,18 @@
+[Event "corr WCCF Master"]
+[Site "corr WCCF Master"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ward, D."]
+[Black "Riemer, Wolfgang"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "2cbbbcc6"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e6 7. Be3 Be7 8. f4
+O-O 9. O-O Bd7 10. f5 Ne5 11. g4 Rc8 12. g5 Rxc3 13. bxc3 Nxe4 14. fxe6 fxe6
+15. Rxf8+ Qxf8 16. c4 Bxg5 17. Bxg5 Qf2+ 18. Kh1 Nxg5 19. Qd2 Ng4 20. Bxg4 Qxd2
+0-1

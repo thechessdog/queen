@@ -1,0 +1,21 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Rauch, Ferenc"]
+[Black "Sicherl, Peter"]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "3e5ce7be"]
+[Epoch "Queen"]
+[WhiteID "706701"]
+[WhiteCountry "HUN"]
+[BlackID "4610067"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8. dxe5
+dxe5 9. Qc2 c6 10. e4 Ne8 11. Nh4 Nc7 12. f4 exf4 13. Bxf4 Ne5 14. Rad1 Qe7 15.
+b3 g5 16. Nf5 Bxf5 17. exf5 gxf4 18. f6 Qxf6 19. Ne4 Qh6 20. Rxf4 Ne6 21. Rf5
+Ng4 0-1

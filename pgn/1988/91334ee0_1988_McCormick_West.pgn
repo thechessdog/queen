@@ -1,0 +1,17 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "McCormick"]
+[Black "West"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "91334ee0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6 7. Qe4 d6 8.
+g3 Bd7 9. Bg2 dxe5 10. Nxe5 Nf6 11. Qe2 Nxe5 12. Qxe5 Qb6 13. O-O Bc5 14.
+Nd2 Bxf2+ 15. Kh1 Bc6 16. Ne4 Nxe4 17. Bxe4 O-O 18. Bg5 Qc7 0-1
+

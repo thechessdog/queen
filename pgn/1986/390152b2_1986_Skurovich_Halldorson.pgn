@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Skurovich"]
+[Black "Halldorson"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "390152b2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8.
+Bd3 b6 9. b4 a5 10. Na4 Nbd7 11. Bf4 Nh5 12. Bd2 axb4 13. c6 Nb8 14. Ne5 f5
+15. Rc1 Bd6 16. Qb3 b5 17. Nc5 Qh4 18. Nf3 Qg4 19. Bxb5 Nf4 20. Bxb4 Nxg2+
+21. Kf1 Nf4 22. Rg1 Qh3+ 23. Ke1 Ng2+ 24. Kd1 Nh4 25. Rc3 Nxf3 26. Rxf3
+Qxh2 27. Re1 Bxc5 28. Bxc5 Rf6 29. Re5 Na6 30. Bd6 Qh4 31. Qc3 Rf7 32. a4
+Qd8 33. Ba3 Qb6 34. Qd2 h6 35. Re1 Nb8 36. Rg1 Kh8 37. Rh3 f4 38. Qd3 Rf5
+39. Bc5 Qd8 40. c7 Qxc7 41. Bf8 Rxf8 42. Qg6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1986.01.01"]
+[Round "12"]
+[White "Trapl, Jindrich"]
+[Black "Banas, Jan"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "d6c5fe48"]
+[Epoch "Queen"]
+[BlackID "14900076"]
+[BlackCountry "SVK"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6 7. Bg2 Bd7 8. O-O
+Nf6 9. h3 Be7 10. Be3 Qc7 11. Qe2 b5 12. a3 O-O 13. g4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Bad Neustad"]
+[Site "Bad Neustad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Wachinger, Guenther"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1b81b4e2"]
+[Epoch "Queen"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O 8.
+Nge2 Nbd7 9. Nf4 Nb6 10. Bb3 Bg4 11. f3 Bc8 12. O-O g5 13. Nfe2 h6 14. h4 gxh4
+15. Qe1 Nbxd5 16. Qxh4 Bf5 17. Bxh6 Bg6 18. Kf2 e5 19. Rh1 Nxc3 20. bxc3 Nh7
+21. Bxg7 Qxh4+ 22. Rxh4 Kxg7 23. dxe5 Rfe8 24. f4 Rac8 25. Rd1 Nf8 26. g4 Bh7
+27. Rd6 Ng6 28. Rh1 1-0

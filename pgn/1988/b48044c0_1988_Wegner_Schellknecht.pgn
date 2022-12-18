@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wegner"]
+[Black "Schellknecht"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b48044c0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d6 5. Bb5 Bd7 6. Bxc6 bxc6 7. Qe2 Ne7
+8. O-O g6 9. b3 Bg7 10. Bb2 O-O 11. g4 f5 12. gxf5 exf5 13. e5 d5 14. Na4
+c4 15. Nc5 cxb3 16. axb3 Bc8 17. Ng5 Re8 18. Qe3 h6 19. Nge6 Bxe6 20. Nxe6
+Qb8 21. Nxg7 Kxg7 22. Ra6 Kh7 23. Rfa1 Qc8 24. Qc5 Qe6 25. Rxa7 Rxa7 26.
+Rxa7 Kh8 27. Ba3 Ng8 28. Rc7 g5 29. Rxc6 Qf7 30. Bb2 Qg7 31. Qb6 gxf4+ 32.
+Rg6 1-0
+

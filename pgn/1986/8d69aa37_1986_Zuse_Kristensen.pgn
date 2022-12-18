@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zuse, P."]
+[Black "Kristensen, F."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "8d69aa37"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8.
+Bd3 Bxd3 9. Qxd3 e6 10. Nf3 Nd7 11. Bd2 Ngf6 12. O-O-O Qc7 13. Ne4 O-O-O
+14. g3 Nc5 15. Nxc5 Bxc5 16. c3 Bd6 17. Qe2 Qa5 18. Kb1 Qf5+ 19. Ka1 Rhe8
+20. Ne5 Bxe5 21. dxe5 Ng4 22. f4 Rd3 23. Bc1 Red8 24. Rdg1 g5 25. fxg5 Nxe5
+26. g4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Nagel, Yvette"]
+[Black "Parezanin, Darko"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a03722eb"]
+[Epoch "Queen"]
+[BlackID "915190"]
+[BlackCountry "SRB"]
+[WhiteID "1001752"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 e6 6. Nf3 b6 7. Bd3 Bb7 8. O-O
+f5 9. exf6 Nxf6 10. Bg5 Be7 11. Ne5 O-O 12. Bxf6 Rxf6 13. Qh5 g6 14. Qe2 Nc6
+15. Nxc6 Bxc6 16. Nc3 Rf4 17. d5 exd5 18. Qe5 Qf8 19. Nxd5 Bc5 20. Nxf4 1-0

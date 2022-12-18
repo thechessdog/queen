@@ -1,0 +1,18 @@
+[Event "corr Wch17"]
+[Site "corr Wch17"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gomez, D."]
+[Black "Samarin, I."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8c3d9695"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O cxd4
+8. cxd4 Nc6 9. Nc3 Qd6 10. Nb5 Qd8 11. Bf4 Nd5 12. Bg3 a6 13. Nc3 O-O 14.
+Bc4 Nf6 15. Re1 b5 16. Bb3 Na5 17. Ne5 Qb6 18. Bc2 Bb7 19. Qd3 g6 20. Rad1
+Nc6 0-1
+

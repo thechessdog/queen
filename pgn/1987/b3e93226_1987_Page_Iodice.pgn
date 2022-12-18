@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Page, R."]
+[Black "Iodice, A."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "b3e93226"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bc4
+Bb4 8. Bd2 O-O 9. O-O Re8 10. Re1 Bf8 11. Qf3 d6 12. h3 Be6 13. Bf1 Nd7 14.
+a3 Be7 15. Ne2 d5 16. Ng3 f6 17. Nf5 Bf8 18. Qg3 Bxf5 19. exf5 Nc5 20. f3
+Qd7 21. b4 Nb7 22. Bd3 Nd6 23. Qg4 Rad8 24. c4 e4 25. fxe4 dxe4 26. Bxe4
+Nxe4 27. Bc1 Nd6 28. Bb2 Qxf5 29. Rxe8 Rxe8 30. Qd4 Re7 31. Rf1 Qe6 32. c5
+Nb5 33. Qh4 Nxa3 0-1
+

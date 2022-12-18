@@ -1,0 +1,18 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "7"]
+[White "Klaschus, R."]
+[Black "Kebbekus, Thomas"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "60f834aa"]
+[Epoch "Queen"]
+[BlackID "4606957"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. g3 Nf6 5. Bg2 O-O 6. Nf3 dxc4 7. O-O Nbd7 8. a4
+c5 9. a5 Nd5 10. e4 Nb4 11. Ne1 a6 12. d5 Ne5 13. Nc2 exd5 14. exd5 Bg4 15. f3
+Bf5 16. Nxb4 cxb4 17. Ne4 Nd3 0-1

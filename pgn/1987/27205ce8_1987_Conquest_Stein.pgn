@@ -1,0 +1,23 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Conquest, Stuart C"]
+[Black "Stein, Bernd"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "27205ce8"]
+[Epoch "Queen"]
+[WhiteID "400181"]
+[WhiteCountry "ENG"]
+[BlackID "4600711"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Nd2 Re8 10. O-O Na6 11. f3 Nc7 12. a4 b6 13. Nc4 Ba6 14. Bg5 h6 15. Bh4
+Bxc4 16. Bxc4 a6 17. Qd3 Qd7 18. Ra3 Nh5 19. Rb1 Bd4+ 20. Kh1 g5 21. Be1 Nf4
+22. Qf1 Ng6 23. Ne2 Bg7 24. Ng3 b5 25. Be2 Nf4 26. Bd1 b4 27. Ra2 Rec8 28. b3
+Ne8 29. Nf5 Bf8 30. Bc2 a5 31. g3 Ng6 32. Qh3 Kh7 33. Bd2 Qd8 34. f4 gxf4 35.
+gxf4 Qf6 36. Bd3 1-0

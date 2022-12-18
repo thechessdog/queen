@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meder, U."]
+[Black "Hauser, J."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "cf18dd9c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8.
+Bg5 f6 9. exf6 gxf6 10. Qh5+ Ke7 11. Bh4 a5 12. Qd1 axb4 13. axb4 Rxa1 14.
+Qxa1 Nc6 15. Qa3 Bd6 16. c3 dxc3 17. Nxc3 Bxb4 18. Qb2 d4 19. Ne2 dxc3 20.
+Nxc3 Qd4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maciejewski, Miroslaw"]
+[Black "Bany, Jerzy"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "024c3660"]
+[Epoch "Queen"]
+[WhiteID "1100823"]
+[WhiteCountry "POL"]
+[BlackID "1100084"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. Nc3 e6 5. Ne5 b5 6. g3 Bb7 7. Bg2 a6 8. a4 Nf6
+9. Bg5 Qb6 10. O-O Nfd7 11. f4 h6 12. Nxd7 Nxd7 13. Bh4 b4 14. Ne4 c5 15. f5
+exf5 16. a5 Qe6 17. Nxc5 Nxc5 18. Bh3 Qe3+ 19. Rf2 Nb3 0-1

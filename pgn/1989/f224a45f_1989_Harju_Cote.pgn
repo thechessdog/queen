@@ -1,0 +1,18 @@
+[Event "corr SF-CA"]
+[Site "corr SF-CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Harju"]
+[Black "Cote"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "f224a45f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 g6 4. Bd3 Bg7 5. c3 h5 6. Qc2 c5 7. Nf3 cxd4 8.
+cxd4 Nc6 9. a3 Bh6 10. h3 Qb6 11. Be3 Bxe3 12. fxe3 e6 13. Bxg6 fxg6 14.
+Qxg6+ Kd8 15. Qg7 Qxb2 16. Qxh8 Qc1+ 17. Kf2 Qxh1 18. Qxg8+ Kc7 19. Ng1 Qh2
+20. Nd2 1-0
+

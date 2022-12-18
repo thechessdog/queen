@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Beurden"]
+[Black "Arteaga"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "ada9602d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. Be2 a6 7. O-O Nf6
+8. Kh1 Bb4 9. Nxc6 bxc6 10. f4 O-O 11. e5 Bxc3 12. bxc3 Nd5 13. Bf3 Nxc3
+14. Qd2 Nd5 15. Ba3 Re8 16. Bd6 Qa7 17. Bxd5 cxd5 18. f5 f6 19. exf6 gxf6
+20. Qh6 Qb6 21. Rf4 exf5 22. Qxf6 Qe3 23. Rxf5 1-0
+

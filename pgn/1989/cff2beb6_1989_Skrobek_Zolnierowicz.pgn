@@ -1,0 +1,17 @@
+[Event "Legnica"]
+[Site "Legnica"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Skrobek, Ryszard"]
+[Black "Zolnierowicz, Krzysztof"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "cff2beb6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. e5 dxe5 10. fxe5 Nxb3 11. axb3 Bc5 12. Be3 Nd7 13. Qg4 O-O 14. Bh6 g6
+15. Bxf8 Bxf8 16. Nf3 Qc7 17. Qf4 Bg7 18. O-O-O Nxe5 19. Kb1 b5 20. Rhe1 b4 21.
+Na4 f6 22. Nxe5 fxe5 23. Qc4 1-0

@@ -1,0 +1,17 @@
+[Event "RLPF-ch"]
+[Site "Landau"]
+[Date "1988.??.??"]
+[Round "4"]
+[White "Elsen, Mark"]
+[Black "Krauss, H."]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "abc68a43"]
+[Epoch "Queen"]
+[WhiteID "4608135"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. Na3 O-O
+1/2-1/2

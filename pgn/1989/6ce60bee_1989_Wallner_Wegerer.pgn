@@ -1,0 +1,20 @@
+[Event "Gleisdorf"]
+[Site "Gleisdorf"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Wallner, Walter"]
+[Black "Wegerer, Fred"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6ce60bee"]
+[Epoch "Queen"]
+[WhiteID "1601148"]
+[WhiteCountry "AUT"]
+[BlackID "1601113"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 Ng6 6. Bb2 f6 7. d4 cxd4 8.
+Nxd4 Bc5 9. c3 O-O 10. Nd2 a6 11. Be2 Qc7 12. g3 b5 13. Nxc6 dxc6 14. b4 Be7
+15. Qc2 e5 16. Nb3 Bh3 17. Rfd1 Kh8 1/2-1/2

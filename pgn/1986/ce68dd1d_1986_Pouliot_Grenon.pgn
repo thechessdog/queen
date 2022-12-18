@@ -1,0 +1,17 @@
+[Event "La Baie"]
+[Site "La Baie"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pouliot, Louis"]
+[Black "Grenon, Jacques"]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "ce68dd1d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Nbd7
+8. O-O-O Be7 9. Bc4 h6 10. Bh4 Nb6 11. Bb3 Nxe4 12. Nxe4 Bxh4 13. Nf5 exf5
+14. Nxd6+ Kf8 15. Qb4 Be7 16. Nxc8 Qxd1+ 17. Rxd1 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zoll"]
+[Black "Scholz"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "75c82b1f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f6 8.
+Bf4 g6 9. Bd3 Nf8 10. Nf3 c5 11. dxc5 Nbd7 12. h5 f5 13. Qg3 Nxc5 14. O-O-O
+Nxd3+ 15. Rxd3 Bd7 16. hxg6 Nxg6 17. Rxh7 Rg8 18. Rh6 Kf7 19. Ng5+ Bxg5 20.
+Bxg5 Qf8 21. Nxd5 f4 22. Nxf4 Nxe5 23. Rf6+ 1-0
+

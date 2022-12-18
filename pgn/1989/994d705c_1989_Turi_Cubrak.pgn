@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Turi, S."]
+[Black "Cubrak, S."]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "994d705c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nc3 c5 5. e3 d5 6. Bb5+ Bd7 7. Bxf6 Bxf6
+8. Qd2 Nc6 9. Nxd5 Bg7 10. O-O-O cxd4 11. exd4 O-O 12. Ne3 Qb6 13. Be2 Rfd8
+14. Nd5 Qa5 15. Nxe7+ Kf8 16. Nxc6 Qxd2+ 17. Kxd2 Bxc6 18. c3 b5 19. Rhe1
+b4 20. Bc4 Rac8 21. Kd3 f5 22. Ng5 1-0
+

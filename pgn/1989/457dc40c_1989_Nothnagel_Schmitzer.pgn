@@ -1,0 +1,20 @@
+[Event "Hessen-ch qual-D"]
+[Site "Hessen qual-D"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Nothnagel, Holger"]
+[Black "Schmitzer, Horst"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "457dc40c"]
+[Epoch "Queen"]
+[WhiteID "4615859"]
+[WhiteCountry "GER"]
+[BlackID "4603109"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2 Nd7
+8. Ng3 Bg6 9. Be3 e6 10. c3 Qc7 11. h4 Nb6 12. Bd3 Nd5 13. Qe2 O-O-O 14. O-O-O
+Bd6 15. Ne4 Nf4 1/2-1/2

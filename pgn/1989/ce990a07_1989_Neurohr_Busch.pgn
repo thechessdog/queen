@@ -1,0 +1,27 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neurohr, Stephan"]
+[Black "Busch, Klaus"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "ce990a07"]
+[Epoch "Queen"]
+[WhiteID "4601335"]
+[WhiteCountry "GER"]
+[BlackID "4600460"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 b6 6. Bg2 Bb7 7. d5 exd5 8. Nh4
+Ne4 9. Bxe4 dxe4 10. Qd6 Qf6 11. Qxf6 gxf6 12. Nf5 Bxc3+ 13. bxc3 Nc6 14. Bh6
+Ne5 15. Bg7 Rg8 16. Bxf6 Nxc4 17. O-O-O Rg6 18. Nd6+ Kf8 19. Nxc4 Rxf6 20. Rxd7
+Ba6 21. Nd6 Rxf2 22. Nxe4 Rxe2 23. Ng5 Bc4 24. Nxh7+ Kg7 25. Ng5 Rxa2 26. Kb1
+Re2 27. h4 Rae8 28. Rxa7 Re1+ 29. Rxe1 Rxe1+ 30. Kc2 Re2+ 31. Kc1 Re3 32. Rb7
+Rxc3+ 33. Kd2 Rd3+ 34. Kc2 Rd6 35. Kc3 Bd5 36. Rc7 Kf6 37. g4 Rc6 38. Rb7 Rd6
+39. Rc7 Kg6 40. Rc8 f5 41. gxf5+ Kxf5 42. Nh3 Rh6 43. Rf8+ Ke5 44. Nf4 Be4 45.
+h5 Bf5 46. Nd5 b5 47. Nc7 Bd7 48. Rb8 b4+ 49. Kc4 Rc6 50. Ne8 Rc8 51. Rxc8 Bxc8
+52. Kxc5 b3 53. Nd6 Ba6 54. h6 Bd3 55. Nc4+ Kf6 56. Nd2 b2 57. Kd4 Bc2 58. Kc3
+b1=Q 59. Nxb1 1/2-1/2

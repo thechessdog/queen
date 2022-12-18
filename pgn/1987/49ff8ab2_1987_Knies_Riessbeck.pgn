@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Knies, U."]
+[Black "Riessbeck, J."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "49ff8ab2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 Bxc3+ 6. bxc3 Nc5 7. Nf3
+Nc6 8. Ba3 Qe7 9. Bxc5 Qxc5 10. e3 Nxe5 11. Nxe5 Qxe5 12. Be2 O-O 13. O-O
+d6 14. h4 Bf5 15. Bd3 Bxd3 16. Qxd3 b6 17. a4 Qe7 18. g3 a5 19. Rab1 Rae8
+20. Rb5 Qd8 21. Rd5 Qc8 22. Qf5 Qxf5 23. Rxf5 Re4 24. c5 dxc5 25. Rd1 Rxa4
+26. Rfd5 Rc4 27. Rd7 Rxc3 28. Rxc7 Rb3 29. Kf1 a4 30. Ra1 Rb4 0-1
+

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ady, Jonathan J."]
+[Black "Agnos, Demetrios"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "df79a390"]
+[Epoch "Queen"]
+[WhiteID "6000240"]
+[WhiteCountry "HKG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bd3 e5 6. dxe5 dxe5 7. Nf3 exf4 8.
+Bxf4 O-O 9. O-O Bg4 10. Qd2 Bxf3 11. Rxf3 Nc6 12. Raf1 Ng4 13. Nd5 Nce5 14. Rh3
+c6 15. Nc3 Qb6+ 16. Kh1 Qxb2 17. Rb1 Qxc3 18. Qxc3 Nf2+ 19. Kg1 Nxh3+ 0-1

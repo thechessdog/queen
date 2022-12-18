@@ -1,0 +1,23 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Koch, Jean-Rene"]
+[Black "Chomet, Pascal"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "fde84d05"]
+[Epoch "Queen"]
+[BlackID "600903"]
+[BlackCountry "FRA"]
+[WhiteID "600148"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f3 e5 8. Nb3
+Be6 9. Nd5 Nxd5 10. exd5 Bc8 11. Bd3 Be7 12. O-O O-O 13. c4 Nd7 14. f4 Bf6 15.
+Qc2 g6 16. f5 Bg7 17. Rae1 b6 18. Qf2 Rb8 19. Nd2 e4 20. Nxe4 Ne5 21. f6 Nxd3
+22. Qd2 Nxe1 23. fxg7 Kxg7 24. Bh6+ Kg8 25. Qc3 f6 26. Nxf6+ Rxf6 27. Rxf6 Rb7
+28. Rf8+ Qxf8 29. Bxf8 Bf5 30. Bxd6 Nd3 31. Qf6 h5 32. Qf8+ Kh7 33. Be7 Ne5 34.
+Bf6 Nf7 35. Qg7# 1-0

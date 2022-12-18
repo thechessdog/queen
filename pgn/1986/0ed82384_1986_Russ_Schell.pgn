@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Russ, H."]
+[Black "Schell, B."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0ed82384"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Nc3 Nge7 5. O-O Nd4 6. Nxd4 cxd4 7. Ne2 a6
+8. Bd3 Nc6 9. c3 Bc5 10. b4 Ba7 11. cxd4 d5 12. Bb2 dxe4 13. Bxe4 Nxd4 14.
+Rc1 O-O 15. Bb1 e5 16. Nxd4 Bxd4 17. Qc2 g6 18. Bxd4 Qxd4 19. Qc5 Rd8 20.
+Rc4 Qxd2 21. Qxe5 Be6 22. Re4 Rac8 23. Rfe1 Rc1 24. a3 Rd5 25. Qb8+ Kg7 0-1
+

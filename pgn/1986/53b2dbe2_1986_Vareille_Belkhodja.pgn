@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vareille, Francois"]
+[Black "Belkhodja, Slim"]
+[Result "0-1"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "53b2dbe2"]
+[Epoch "Queen"]
+[BlackID "600229"]
+[BlackCountry "TUN"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nbd7 7. e4 e5 8. O-O
+c6 9. h3 Qa5 10. Re1 exd4 11. Nxd4 Re8 12. Nc2 Ne5 13. Ne3 Be6 14. Bf1 Nxe4 15.
+Nxe4 Qxe1 16. Qxe1 Nf3+ 17. Kh1 Nxe1 18. Nxd6 Re7 0-1

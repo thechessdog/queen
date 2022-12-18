@@ -1,0 +1,23 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Bohm, Hans"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "dbc02fcf"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[BlackID "1000306"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Bg5 Bd7 14. Re1 Kh8 15.
+Na4 Qa5 16. Nc3 a6 17. a3 b5 18. Bc2 Qc7 19. Qd3 Be8 20. Rxe6 Bg6 21. Qd2 Bxc2
+22. Bxf6 Be4 23. Nxe4 dxe4 24. Be5 exf3 25. Bxd6 Qd7 26. d5 Nd8 27. Bxf8 Nxe6
+28. Bb4 Nc7 29. Qf4 fxg2 30. Rd1 Rc8 31. Qd6 Qg4 32. Rc1 h5 33. Rxc7 Qd1+ 34.
+Kxg2 Qg4+ 35. Kf1 1-0

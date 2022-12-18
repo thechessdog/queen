@@ -1,0 +1,22 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Martin, Stefan"]
+[Black "Kohl, Hartmut"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "69c507e9"]
+[Epoch "Queen"]
+[WhiteID "4612868"]
+[WhiteCountry "GER"]
+[BlackID "4643291"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Nxd2 9. Nxd2 Bxg2 10. Kxg2 f5 11. e4 fxe4 12. Ndxe4 Nc6 13. d5 Ne5 14. Qe2 Nf3
+15. Rad1 Qe8 16. Nd2 Nd4 17. Qe5 Nf5 18. dxe6 Bd6 19. Qe4 dxe6 20. Nf3 Qg6 21.
+Nd4 Rae8 22. Ncb5 Bc5 23. Nxf5 exf5 24. Qd5+ Kh8 25. Nxc7 Re2 26. Rd2 f4 27. h4
+Qxg3+ 28. Kh1 Qh3+ 29. Kg1 Bxf2+ 0-1

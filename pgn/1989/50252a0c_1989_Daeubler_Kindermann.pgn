@@ -1,0 +1,21 @@
+[Event "Bad Woerishofen op"]
+[Site "Bad Woerishofen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Daeubler, Heinrich"]
+[Black "Kindermann, Stefan"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "50252a0c"]
+[Epoch "Queen"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+[WhiteID "4606841"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Na6 10. Qd2 b5 11. Nxd6 b4 12. Nce4 Nxe4 13. Nxe4 f5 14. Bg5 Qb6 15.
+Ng3 c4 16. Rc1 c3 17. bxc3 Bxc3 18. Rxc3 bxc3 19. Qxc3 f4 20. Bh6 Qb1+ 21. Kd2
+Rf7 22. Qc6 Bb7 0-1

@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Seret, Jean-Luc"]
+[Black "Bernard, Christophe"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "64bd05c9"]
+[Epoch "Queen"]
+[BlackID "600385"]
+[BlackCountry "FRA"]
+[WhiteCountry "FRA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. Nf3 O-O 6. O-O Bg4 7. Be3 Nc6 8. Nd2
+Bxe2 9. Qxe2 e5 10. d5 Nd4 11. Qd3 c6 12. Bg5 Qc7 13. f4 Nd7 14. fxe5 Bxe5 15.
+Nc4 Bg7 16. Be3 Nb5 17. dxc6 bxc6 18. Nxb5 cxb5 19. Nxd6 Ne5 20. Nxb5 Qb8 21.
+Qe2 a6 22. Nc3 Qxb2 23. Nd5 Qa3 24. Kh1 Rac8 25. Bd4 Rfe8 26. c3 Qd6 27. Rab1
+Nc6 28. Qxa6 Ra8 29. Qb7 Nxd4 30. Qxf7+ Kh8 31. cxd4 Rf8 32. e5 Qc6 33. Rfc1
+Qxc1+ 34. Rxc1 Rxf7 35. e6 Rb7 36. Nc7 Rab8 37. g3 Bf8 38. a4 Rc8 0-1

@@ -1,0 +1,19 @@
+[Event "Norway"]
+[Site "Kristiansand"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Elseth, Roar"]
+[Black "Lauvsnes, Arild"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "e904d637"]
+[Epoch "Queen"]
+[WhiteID "1500210"]
+[BlackID "1500554"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. a4 Qc7 8. Be2
+b6 9. f4 Bb7 10. Bf3 Nbd7 11. Nb3 Be7 12. g4 Nc5 1/2-1/2

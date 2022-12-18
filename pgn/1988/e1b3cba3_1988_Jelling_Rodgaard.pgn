@@ -1,0 +1,20 @@
+[Event "Esbjerg-B"]
+[Site "Esbjerg"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Jelling, Erik"]
+[Black "Rodgaard, John"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, 11.O-O"]
+[HashCode "e1b3cba3"]
+[Epoch "Queen"]
+[WhiteID "1400282"]
+[BlackID "7200013"]
+[WhiteCountry "DEN"]
+[BlackCountry "FAI"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 b6 13. Qc2 Bb7 14. Bd3 f5
+15. Rd1 Kh8 16. Qe2 1/2-1/2

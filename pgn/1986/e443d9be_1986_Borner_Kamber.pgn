@@ -1,0 +1,23 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Borner, Daniel"]
+[Black "Kamber, Bruno"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e443d9be"]
+[Epoch "Queen"]
+[WhiteID "1301659"]
+[BlackID "1300504"]
+[WhiteCountry "SUI"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. f4 b4 13. Nd5 exd5 14. e5 O-O 15.
+exf6 Bxf6 16. Qf3 Nc6 17. Rad1 Rae8 18. Bxd5 Nxd4 19. Bxd4 Bxd4+ 20. Rxd4 Qb6
+21. Rd1 Bb5 22. Qg3 Re2 23. f5 Rfe8 24. c3 bxc3 25. bxc3 R2e3 26. Qh4 Rxc3 27.
+f6 Rd3 28. Bxf7+ Kxf7 29. Qh5+ Kxf6 30. Rf1+ Ke7 31. Re1+ Kd8 32. Rxe8+ Bxe8
+33. Qg5+ Kc7 0-1

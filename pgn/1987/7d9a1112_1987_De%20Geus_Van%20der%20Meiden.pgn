@@ -1,0 +1,18 @@
+[Event "ACCOM op"]
+[Site "ACCOM I"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "De Geus, G."]
+[Black "Van der Meiden, D."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "7d9a1112"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8. Qh5+
+g6 9. Qh6 Bxg5 10. hxg5 Kf7 11. Nge2 Qf8 12. Nf4 Qxh6 13. Rxh6 Nf8 14. O-O-O b6
+15. Be2 Nc6 16. Bf3 Ne7 17. Rdh1 Ra7 18. Nce2 c6 19. g4 a5 20. Ng3 Ng8 21. Nxg6
+Nxg6 22. Rxh7+ Kf8 23. Rxa7 Rxh1+ 24. Nxh1 f4 25. Be2 N8e7 26. Ba6 Bxa6 27.
+Rxa6 Nc8 28. Ra8 Ne7 29. a3 1-0

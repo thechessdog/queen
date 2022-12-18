@@ -1,0 +1,23 @@
+[Event "Voronez"]
+[Site "Voronez"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Pinkas, Karol"]
+[Black "Kochyev, Alexander"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "12bb1b81"]
+[Epoch "Queen"]
+[WhiteID "1100319"]
+[BlackID "4100719"]
+[WhiteCountry "POL"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 b5 7. O-O Bb7 8. Bf3
+Nc6 9. Re1 Bd6 10. h3 Nxd4 11. Qxd4 Be5 12. Qd3 Rc8 13. a3 Ne7 14. Bd2 O-O 15.
+Rac1 Nc6 16. Nd1 Bh2+ 17. Kh1 Ne5 18. Qc3 Qb8 19. Qb3 f5 20. Bb4 Nxf3 21. gxf3
+Rf6 22. Be7 Rf7 23. Bh4 fxe4 24. fxe4 Rcf8 25. Qd3 Qf4 26. Re3 Qxh4 27. Kxh2 d5
+28. Rg3 dxe4 29. Qe3 Rf3 30. Qb6 Qf4 31. Qxe6+ Kh8 32. Qg4 Qe5 33. c4 e3 34.
+Nxe3 Rxg3 0-1

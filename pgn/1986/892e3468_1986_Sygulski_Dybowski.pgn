@@ -1,0 +1,20 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "12"]
+[White "Sygulski, Artur"]
+[Black "Dybowski, Jerzy"]
+[Result "1-0"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "892e3468"]
+[Epoch "Queen"]
+[WhiteID "1100521"]
+[BlackID "1100610"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nh3 d6 7. d5 c6 8. Nf4 e5
+9. dxe6 Qe7 10. h4 Na6 11. h5 Nxh5 12. Nxh5 gxh5 13. Bf4 Qxe6 14. Qxd6 Qxc4 15.
+Nd5 Kh8 16. Be5 Qc5 17. Bxg7+ Kxg7 18. Qe5+ Kg8 19. Rxh5 Bd7 20. Rg5+ Kf7 21.
+Rg7# 1-0

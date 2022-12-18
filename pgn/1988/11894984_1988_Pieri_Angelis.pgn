@@ -1,0 +1,22 @@
+[Event "Geneve op"]
+[Site "Geneva"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Pieri, Filippo"]
+[Black "Angelis, Mihail"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "11894984"]
+[Epoch "Queen"]
+[WhiteID "800465"]
+[WhiteCountry "ITA"]
+[BlackID "4201442"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2 Nd7
+8. Ng3 Bg6 9. c3 Qc7 10. f4 f5 11. Qb3 Nb6 12. Be3 e6 13. O-O-O O-O-O 14. h4 h6
+15. Bxe6+ fxe6 16. Qxe6+ Kb8 17. Qxg6 Bd6 18. Nxf5 Rhg8 19. Qxh6 Nc4 20. Rhf1
+Rxg2 21. Rd2 Rxd2 22. Bxd2 Qb6 23. b3 Ba3+ 24. Kc2 Qb5 25. bxc4 Qxf5+ 26. Kb3
+Qa5 27. Qg5 b5 28. Rb1 Qa4# 0-1

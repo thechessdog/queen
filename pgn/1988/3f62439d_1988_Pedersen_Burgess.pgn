@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Burgess"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "3f62439d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. c3 Qe8 8.
+O-O Bg4 9. Nf3 Qg6 10. d4 exd4 11. Bxc6 bxc6 12. Re1 Rae8 13. Qd3 Bxf3 14. Qxf3
+Rhf8 15. b4 Bb6 16. Qd3 Ng4 17. Re2 0-1

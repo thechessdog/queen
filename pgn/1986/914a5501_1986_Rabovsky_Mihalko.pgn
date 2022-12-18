@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rabovsky"]
+[Black "Mihalko"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "914a5501"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. Bg5 f6 9. Be3 O-O 10. Qd2 f5 11. f3 exf3 12. gxf3 f4 13. Bf2 a6 14. Bd3
+e5 15. Bc4+ Kh8 16. d5 b5 17. Ba2 Nd4 18. Bxd4 exd4 19. Ne2 Nxd5 20. Qxd4
+Ne3 21. Qxd8 Rxd8 22. Kf2 Rd2 23. Bb3 Bf5 24. Rhc1 Re8 25. Ke1 Nf1 26. Kxf1
+Bh3+ 27. Kg1 Rexe2 28. Rd1 Rg2+ 29. Kh1 Rxh2+ 30. Kg1 Rdg2+ 0-1
+

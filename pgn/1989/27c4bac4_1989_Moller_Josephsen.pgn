@@ -1,0 +1,23 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moller, Henning"]
+[Black "Josephsen, Niels"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "27c4bac4"]
+[Epoch "Queen"]
+[WhiteID "1403974"]
+[BlackID "1400991"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 Re8 10. a4 Na6 11. Bb5 Re7 12. Nge2 Nb4 13. O-O a6 14. Bc4 Re8 15. Bg5
+Qc7 16. Na2 Nxa2 17. Rxa2 Rb8 18. a5 b5 19. axb6 Rxb6 20. Nc3 a5 21. Bb5 Bd7
+22. Bxf6 Bxf6 23. Bxd7 Qxd7 24. Rxa5 Reb8 25. Ra2 Qb7 26. Rb1 Rb3 27. Nd1 Qb5
+28. Kf2 Qc4 29. Ra7 Rd3 30. Qe2 Qd4+ 31. Kg3 Rd2 32. Qf1 Qe5+ 33. f4 Qxe4 34.
+Ra3 Qxb1 0-1

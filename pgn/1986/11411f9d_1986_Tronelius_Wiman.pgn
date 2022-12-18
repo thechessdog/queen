@@ -1,0 +1,17 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tronelius"]
+[Black "Wiman"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "11411f9d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Bc5 6. Nxe5 Bxf2+ 7. Kxf2
+Qd4+ 8. Ke1 Qxe5 9. Nc4 Qxe4+ 10. Be2 Qh4+ 11. g3 Qh3 12. Nd6+ Ke7 13. Bc4
+Nf6 14. Be3 Bg4 15. Nf5+ 1-0
+

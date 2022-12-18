@@ -1,0 +1,19 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stoker"]
+[Black "Powell"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "fd1ea77e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be3 cxd4 7. cxd4 e6
+8. Nc3 Qa5 9. Bd3 Bb4 10. Qc2 Be7 11. Qe2 Nd5 12. Bd2 Bb4 13. O-O a6 14.
+Qe4 Nf6 15. Qf4 Qh5 16. Rfe1 Ne7 17. Re5 Qg4 18. Qe3 Bxc3 19. bxc3 Nfd5 20.
+Qe1 Nf4 21. Bf1 Neg6 22. Re3 Nd5 23. Ne5 Qh4 24. Nxg6 fxg6 25. Re5 Qe7 26.
+Bc4 Nc7 27. Bg5 Qd6 28. d5 h6 29. Bh4 O-O 30. dxe6 Rf4 31. e7+ 1-0
+

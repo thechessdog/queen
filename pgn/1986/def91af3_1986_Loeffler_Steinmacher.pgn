@@ -1,0 +1,20 @@
+[Event "Lauda MA"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Loeffler, Stefan"]
+[Black "Steinmacher, Josef"]
+[Result "1-0"]
+[ECO "A55"]
+[Opening "Old Indian"]
+[Variation "main line"]
+[HashCode "def91af3"]
+[Epoch "Queen"]
+[WhiteID "4603257"]
+[WhiteCountry "GER"]
+[BlackID "4619048"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 Be7 6. g3 O-O 7. Bg2 c6 8. O-O
+b6 9. Qe2 a6 10. Rd1 Qc7 11. b4 Re8 12. Bb2 Bf8 13. d5 c5 14. a3 g6 15. h3 Nh5
+16. Bc1 Bg7 17. Ne1 Kh8 18. Be3 f5 19. exf5 Nf4 20. Bxf4 exf4 21. Qxe8+ 1-0

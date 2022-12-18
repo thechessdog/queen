@@ -1,0 +1,18 @@
+[Event "Paris-ch"]
+[Site "Parijs"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Fedorowicz, John"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "de5ea5d9"]
+[Epoch "Queen"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. cxd5 exd5 7. Bg2 Bb4+ 8. Bd2
+Be7 9. O-O O-O 10. Nc3 1/2-1/2

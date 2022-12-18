@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stiefel"]
+[Black "Andreas"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "fb035cd4"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. e4 Nf6 6. Nc3 O-O 7. d4 Nxe4
+8. Nxe4 Re8 9. Qd3 f5 10. Qc4+ Kh8 11. Ng5 Rxe4+ 12. Nxe4 Qe7 13. d5 Nd7
+14. Be3 Re8 15. Bd3 Bb4+ 16. c3 Ne5 17. Qd4 Bc5 18. Nxc5 1-0
+

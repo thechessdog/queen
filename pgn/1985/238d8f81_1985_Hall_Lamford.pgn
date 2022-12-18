@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hall"]
+[Black "Lamford"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "238d8f81"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c5 4. e3 cxd4 5. Qxd4 Nc6 6. Bb5 Qa5+ 7. Nc3 e6
+8. Nf3 Bd7 9. Bxc6 bxc6 10. O-O Qb6 11. Ne5 Qxd4 12. exd4 Ne7 13. f3 f6 14.
+Nxd7 Kxd7 15. Na4 Nf5 16. Bf2 Bd6 17. Rfe1 Rhe8 18. Rad1 h5 19. g4 hxg4 20.
+fxg4 Nh6 21. h3 Nf7 22. Kg2 Ng5 23. Bg3 Ne4 24. Bxd6 Kxd6 25. b4 a5 26. b5
+cxb5 27. Rxe4 dxe4 28. Nc3 b4 29. Nb5+ Kc6 30. c4 bxc3 31. Nxc3 Rab8 32.
+Kg3 Rb7 33. Kf4 Ra8 0-1
+

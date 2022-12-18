@@ -1,0 +1,22 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Henao, Raul Fernando"]
+[Black "Salman, Nachum"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "27c611ef"]
+[Epoch "Queen"]
+[WhiteID "4400054"]
+[WhiteCountry "COL"]
+[BlackID "2001764"]
+[BlackCountry "USA"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 c6 5. a4 d5 6. Nf3 Bg4 7. e5 h5 8. h3 Bxf3
+9. Qxf3 e6 10. Be3 Nd7 11. Bd3 Nh6 12. Bf2 h4 13. O-O Qe7 14. Ne2 Nf5 15. b3
+O-O-O 16. c4 Kb8 17. c5 f6 18. b4 Ka8 19. b5 Rb8 20. a5 cxb5 21. a6 b6 22. Bxb5
+Rbc8 23. Nc3 Rc7 24. Bd3 fxe5 25. Nxd5 exd5 26. Qxd5+ Kb8 27. Be4 Kc8 28. Qa8+
+Nb8 29. cxb6 Nxd4 30. Bxd4 1-0

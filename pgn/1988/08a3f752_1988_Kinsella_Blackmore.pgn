@@ -1,0 +1,18 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kinsella"]
+[Black "Blackmore"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "08a3f752"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Qd5
+8. Nxc6 bxc6 9. dxc5 Ba6 10. Qxd5 cxd5 11. Bf4 O-O-O 12. Nd2 Nf6 13. Be3
+Ng4 14. Bd4 Rde8 15. O-O-O Nxf2 16. Bxf2 e3 17. Bg3 exd2+ 18. Rxd2 Re7 19.
+Rxd5 Bb7 20. Rd2 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Elburg, J."]
+[Black "Seemann, H."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "5ee8dae5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O d6 8.
+a4 Rb8 9. axb5 axb5 10. Nc3 Bg4 11. Be3 O-O 12. h3 Bh5 13. g4 Bg6 14. Nh4
+b4 15. Nxg6 hxg6 16. Nd5 Nh7 17. Ra6 Nd4 18. Bxd4 exd4 19. Ra7 Rc8 20. Rb7
+Nf6 21. Nxf6+ gxf6 22. Rxb4 c5 23. Ra4 Kg7 24. f4 Rh8 25. Qf3 Ra8 26. Rfa1
+Rxa4 27. Rxa4 Qc7 28. Kg2 Qb7 29. Ra1 f5 30. gxf5 gxf5 31. Kh2 Kf8 32. Bd5
+Qd7 33. Ra8+ Bd8 34. exf5 Qe7 35. Rb8 1-0
+

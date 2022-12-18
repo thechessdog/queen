@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vasile, Constantin"]
+[Black "Terreaux, Gilles"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "d988e7bf"]
+[Epoch "Queen"]
+[WhiteID "1200640"]
+[BlackID "1300423"]
+[WhiteCountry "ROU"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nc3 Bxc3+ 7. bxc3 Qe7
+8. Qd5 f6 9. exf6 Nxf6 10. Qd3 d6 11. e3 O-O 12. Be2 Bg4 13. Bg5 Kh8 14. O-O
+Rae8 15. Qd1 Qf7 16. Bxf6 Qxf6 17. Rc1 b6 18. Nd2 Be6 19. f4 Na5 20. e4 Qf7 21.
+f5 Bxc4 22. Nxc4 Nxc4 23. Bh5 g6 24. fxg6 Qxf1+ 25. Qxf1 Rxf1+ 26. Rxf1 hxg6
+27. Bxg6 Re7 28. g4 Kg7 29. Bf5 Ne3 30. Rf3 Nxf5 31. exf5 Re4 32. h3 1-0

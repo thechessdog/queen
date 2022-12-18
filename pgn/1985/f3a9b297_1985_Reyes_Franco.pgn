@@ -1,0 +1,19 @@
+[Event "Villa Gesell tt"]
+[Site "Villa Gesell tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Reyes, Juan"]
+[Black "Franco Ocampos, Zenon"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f3a9b297"]
+[Epoch "Queen"]
+[BlackCountry "PAR"]
+[WhiteID "3800040"]
+[WhiteCountry "PER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. a4 Nd4 7. Nxd4 cxd4 8.
+a5 Qc5 9. b4 Qc7 10. Ne2 Nc6 11. c3 dxc3 12. dxc3 Be7 13. f4 O-O 14. Be3 d6 15.
+Ng3 Bd7 16. Bd3 1/2-1/2

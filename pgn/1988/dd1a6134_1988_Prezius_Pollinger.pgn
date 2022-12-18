@@ -1,0 +1,18 @@
+[Event "corr SWZ/K"]
+[Site "corr SWZ/K"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Prezius"]
+[Black "Pollinger"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "dd1a6134"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 dxc4 6. Bxc4 Nd7 7. Nge2 Ne7 8.
+O-O Nb6 9. Bb3 Ned5 10. Ng3 Bg6 11. f4 Qd7 12. a4 Ne7 13. a5 Nbd5 14. Qf3
+h5 15. Nxd5 Nxd5 16. f5 exf5 17. Nxf5 Bxf5 18. Qxf5 Qxf5 19. Rxf5 g6 20.
+Rf3 Be7 21. Bd2 Rd8 22. Raf1 1-0
+

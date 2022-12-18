@@ -1,0 +1,26 @@
+[Event "corr ch19-GER"]
+[Site "corr ch19-GER"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Risch"]
+[Black "Schaaf"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "bf00fc71"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. Qf3 Be7 12. Rfe1 Rb8 13. Nd1 c5
+14. c3 Rb6 15. b3 h6 16. Bh4 d4 17. Qe2 Qd7 18. c4 g5 19. Bg3 Re8 20. Nb2
+Bd6 21. Qd2 Ng4 22. Na4 Rc6 23. h3 Bxg3 24. hxg4 Bd6 25. Qe2 Rcc8 26. Qe4
+f6 27. Re2 Be5 28. Qg6+ Qg7 29. Qh5 Bf7 30. Qh3 Bg6 31. Nb2 Re7 32. Rae1
+Rce8 33. Qf3 Kf8 34. Kf1 Qf7 35. Bf5 Bxf5 36. Qxf5 Bd6 37. Nd3 Rxe2 38.
+Rxe2 Rxe2 39. Kxe2 Qe7+ 40. Kf1 Kg7 41. Qd5 a5 42. g3 Qc7 43. Kg2 Bf8 44.
+Kf3 Bd6 45. Ke4 Qd7 46. f3 Qe8+ 47. Kf5 Qg6+ 48. Ke6 Bf8 49. Qd7+ Kg8 50.
+Nf2 f5+ 51. Kd5 fxg4 52. Nxg4 h5 53. Ne5 Qf6 54. Qe8 h4 55. gxh4 gxh4 56.
+f4 Qf5 57. Qd8 h3 58. Qh4 d3 59. Kc6 d2 60. Qd8 h2 61. Qd5+ Kh7 62. Kb5 Bg7
+63. Qh1 Qc2 64. Qxh2+ Kg8 65. Qh5 d1=Q 66. Qf7+ Kh7 67. Kxc5 Qh1 68. f5
+Qg1+ 69. Kb5 Qg5 0-1
+

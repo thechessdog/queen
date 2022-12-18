@@ -1,0 +1,20 @@
+[Event "The Hague CSVN"]
+[Site "The Hague CSVN"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Voorn"]
+[Black "Phantom"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "77ea7f20"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Nbd2 c5 7. cxd5 exd5
+8. O-O Nc6 9. dxc5 Qa5 10. Nb3 Qb5 11. Bg5 Be6 12. Re1 Bxc5 13. Bxf6 gxf6
+14. Bf1 Bb4 15. e3 Qb6 16. Nbd2 Ne5 17. Nd4 Bd7 18. a3 Bc5 19. Nc2 Qxb2 20.
+Rb1 Qc3 21. Be2 Ba4 22. Rc1 Bxc2 23. Rxc2 Qxa3 24. Bg4 Nd3 25. Bf5 Nxe1 26.
+Qg4+ Kh8 27. Qh5 Nf3+ 28. Nxf3 Qa1+ 29. Kg2 Qf1+ 30. Kxf1 h6 31. Qxh6+ Kg8
+32. Qh7# 1-0
+

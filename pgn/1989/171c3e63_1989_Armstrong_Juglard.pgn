@@ -1,0 +1,17 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Armstrong, MJ."]
+[Black "Juglard, E."]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon variation"]
+[HashCode "171c3e63"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. Ne2 dxe4 6. a3 Be7 7. Bxf6 gxf6
+8. Nxe4 b6 9. Qd2 Bb7 10. N2c3 f5 11. Ng3 c6 12. Be2 Nd7 13. Bf3 Qc7 14.
+O-O O-O-O 15. Rfe1 Nf6 16. Qe3 f4 0-1
+

@@ -1,0 +1,21 @@
+[Event "corr Poland"]
+[Site "corr Poland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eriksson"]
+[Black "Szota"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c1e3a955"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. Qf3 Ne6 12. Be3 Ng5 13. Qg3 Be6 14.
+Na5 Rb8 15. Ba7 Ra8 16. Nxb7 Qe8 17. Qe3 Qh5 18. Nf5 Bxf5 19. exf5 Nf7 20.
+Na5 Qxf5 21. Nxc6 Bd6 22. Bc5 Qd7 23. Na5 Qb5 24. Nb3 Bxc5 25. Qxc5 Qxc5
+26. Nxc5 Rfb8 27. b3 Rb5 28. Ne4 Nd6 29. c4 Rbb8 30. Nc5 Kf7 31. f4 exf4
+32. Rxf4 Re8 33. Kf1 Re5 34. d4 Re7 35. Re1 a5 36. Rxe7+ Kxe7 37. d5 g5 38.
+Rf3 a4 39. Re3+ Kf7 40. Nxa4 Nxc4 41. Rc3 1-0
+

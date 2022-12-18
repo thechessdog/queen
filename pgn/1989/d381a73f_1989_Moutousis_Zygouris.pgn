@@ -1,0 +1,22 @@
+[Event "Akropolis op"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Moutousis, Konstantinos"]
+[Black "Zygouris, Hristos"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "d381a73f"]
+[Epoch "Queen"]
+[WhiteID "4200071"]
+[BlackID "4200292"]
+[WhiteCountry "GRE"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. Nf5 exf5 13. Qxg7 Rf8 14. Bg5 Nh5
+15. Qh6 Nc6 16. Nd5 fxe4 17. Nxe7 Nxe7 18. Bxe7 Kxe7 19. Qxh5 Be6 20. Rad1 Rac8
+21. Qh4+ f6 22. Rfe1 Bxb3 23. Rxe4+ Be6 24. Qxh7+ Rf7 25. Qf5 Qd7 26. Rde1 Kd8
+27. Rxe6 Rc5 28. Qe4 Rc6 29. c3 d5 30. Qe3 d4 31. Re8+ Kc7 32. cxd4 1-0

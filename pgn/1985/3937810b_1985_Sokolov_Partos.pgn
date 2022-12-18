@@ -1,0 +1,19 @@
+[Event "FIDE (35) 1985-1987"]
+[Site "Biel izt"]
+[Date "1985.07.01"]
+[Round "14"]
+[White "Sokolov, Andrei"]
+[Black "Partos, Charles"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "3937810b"]
+[Epoch "Queen"]
+[WhiteID "627089"]
+[WhiteCountry "FRA"]
+[BlackCountry "CHE"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be3 b6 7. e5 Nfd7 8. Ng5
+h6 9. Nxf7 Rxf7 10. e6 Rf8 11. exd7 Bxd7 12. Qf3 c6 13. O-O-O Qc8 14. h3 Kh7
+15. g4 d5 16. Rg1 Qe8 17. Qg3 Qf7 18. Bd3 c5 19. f5 Kh8 20. Qh4 1-0

@@ -1,0 +1,18 @@
+[Event "corr ch-Anglo-Pacific"]
+[Site "corr ch-Anglo-Pacific"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eisen"]
+[Black "Tennant"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind"]
+[HashCode "54f020c1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4
+8. Qxd4 Bg7 9. Be3 O-O 10. Qd3 Be6 11. O-O Qa5 12. b4 Qxb4 13. Rab1 Qa5 14.
+Rxb7 Bxc4 15. Qxc4 Rfc8 16. Qa6 Qxa6 17. Bxa6 Rxc3 18. Rfb1 Ng4 19. Rxe7
+Nxe3 20. fxe3 Rxe3 1/2-1/2
+

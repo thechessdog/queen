@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Shneider, Aleksandr"]
+[Black "Riessbeck"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "25099c36"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Be3 Bb4+ 7. Nc3 Bxc3+
+8. bxc3 Qh4+ 9. g3 Qe7 10. Bd3 Na6 11. Bc2 Nc5 12. Qd5 Nxe4 13. Qxe4 1-0

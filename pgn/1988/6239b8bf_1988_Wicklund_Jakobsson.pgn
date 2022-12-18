@@ -1,0 +1,19 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wicklund, G."]
+[Black "Jakobsson, A."]
+[Result "0-1"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "6239b8bf"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 d6 6. e4 g6 7. Be2 Nxd4
+8. Qxd4 Bg7 9. O-O O-O 10. Bg5 Be6 11. Rac1 Nd5 12. Qd2 Nxc3 13. bxc3 Rc8
+14. Rb1 Qd7 15. Bh6 Bxh6 16. Qxh6 Bxc4 17. Bxc4 Rxc4 18. Qe3 b6 19. f3 Rfc8
+20. Rfc1 Qc6 21. Rb3 Qc5 22. Qxc5 R4xc5 23. Kf2 d5 24. Ke3 e5 25. exd5 Rxd5
+26. c4 Rdc5 27. Rbc3 b5 28. Kd3 Rd8+ 29. Ke3 Rdc8 30. Kd3 Rxc4 0-1
+

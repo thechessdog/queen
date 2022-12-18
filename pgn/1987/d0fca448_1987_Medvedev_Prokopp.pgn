@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Medvedev, V."]
+[Black "Prokopp, H."]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "d0fca448"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8.
+cxd5 exd5 9. e3 O-O 10. dxc5 Bxc3+ 11. Qxc3 Qxc3+ 12. bxc3 Nd7 13. Rd1 Nf6
+14. Bd3 Bg4 15. Rb1 Bxf3 16. gxf3 Rab8 17. Kd2 Rfc8 18. Rb5 a6 19. Rb2 Rxc5
+20. Bxa6 Ra5 21. Bxb7 Ne8 22. Rhb1 Nd6 23. Ba6 Rxb2+ 24. Rxb2 Rxa6 25. Kd3
+Nc4 26. Rb8+ Kh7 27. Kd4 Rxa2 28. Kxd5 Nd2 29. f4 Nf1 30. c4 Rxf2 31. Rb3
+Rxh2 32. c5 Rd2+ 33. Ke5 Rc2 34. Kd6 Nd2 35. Rb4 Nc4+ 36. Kd7 Nxe3 37. c6
+Nd5 38. Rd4 Nf6+ 39. Kc7 Kg6 40. Kb7 Kf5 41. c7 h5 42. c8=Q+ Rxc8 43. Kxc8
+h4 44. Kd8 Ne4 45. Rd7 Kg6 46. Ke8 Nf6+ 0-1
+

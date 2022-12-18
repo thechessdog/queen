@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Guldberg, T."]
+[Black "Hahn, K."]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "d064131c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 Nc6 7. Bg2 Nf6 8.
+O-O Be7 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd1 d6 12. Be3 Bd7 13. Bxc5 Qxc5 14.
+Qd2 O-O 15. Red1 Ne8 16. Qd4 Qxd4 17. Rxd4 Bc6 18. Rad1 g6 19. g4 Rc8 20.
+R4d3 Rc7 1/2-1/2
+

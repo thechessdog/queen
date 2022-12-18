@@ -1,0 +1,18 @@
+[Event "corr USA rook"]
+[Site "corr USA rook"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bender"]
+[Black "Brooks"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "9538bd9f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. g4 Nxg4 10. hxg4 Bxg4 11. Kg2 Qc8 12. Rg1 Bh5 13. Kh2 g5 14.
+Rg3 f5 15. Qh1 f4 16. Rg1 Qe6 17. Nxg5 Bxg5 18. Rxg5 Qh6 19. Rxe5+ Kd7 20.
+Qf1 Bg4+ 21. Kg1 Bh3 0-1
+

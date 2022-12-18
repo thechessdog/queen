@@ -1,0 +1,19 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kuntze"]
+[Black "Schwind"]
+[Result "1-0"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "6b9eb5d0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Nc3 c6 8.
+b3 b6 9. Bb2 Ba6 10. Nd2 Rc8 11. e4 dxc4 12. Nxc4 b5 13. Ne3 c5 14. d5 b4
+15. Ne2 Nb6 16. Re1 c4 17. bxc4 Nxc4 18. Nxc4 Bxc4 19. d6 Bxd6 20. e5 Bxe5
+21. Bxe5 Qxd1 22. Raxd1 Bxa2 23. Bd6 a5 24. Bxf8 Kxf8 25. Rd2 Bc4 26. Ra1
+Rc5 27. Nd4 Nd5 28. Bf1 1-0
+

@@ -1,0 +1,23 @@
+[Event "POL-chT"]
+[Site "Jachranka"]
+[Date "1987.??.??"]
+[Round "7"]
+[White "Bugajski, Robert"]
+[Black "Woda, Jacek"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "33c6abc2"]
+[Epoch "Queen"]
+[WhiteID "1101528"]
+[BlackID "1100343"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 a6 8. Be2
+Bg7 9. Bg5 h6 10. Bh4 O-O 11. Nd2 b5 12. Qc2 Re8 13. O-O b4 14. Nd1 g5 15. Bg3
+Nxd5 16. exd5 Rxe2 17. Qd3 Re8 18. Nc4 Nd7 19. Nde3 Ne5 20. Bxe5 dxe5 21. Qe4
+Rb8 22. b3 f5 23. Nxf5 Bxf5 24. Qxf5 Qxd5 25. Rad1 Qe6 26. Qxe6+ Rxe6 27. Rd5
+Rc8 28. Re1 e4 29. Nd2 Rce8 30. Rxc5 Bd4 31. Rd5 e3 32. fxe3 Bxe3+ 33. Kf1 Rf8+
+34. Ke2 Bf2+ 0-1

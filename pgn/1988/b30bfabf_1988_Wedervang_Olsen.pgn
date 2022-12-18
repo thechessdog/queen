@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wedervang, Kim"]
+[Black "Olsen, Casper"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "b30bfabf"]
+[Epoch "Queen"]
+[WhiteID "1424521"]
+[BlackID "1409174"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 d6 5. Nf3 Be7 6. a3 O-O 7. Qc2 Re8 8. Nc3
+Bf8 9. Bd3 a6 10. Ng5 g6 11. h4 Nh5 12. O-O-O Bd7 13. f3 Ng3 14. Nxh7 Kxh7 15.
+h5 Nxh1 16. hxg6+ fxg6 17. Bxg6+ Kg7 18. Rxh1 Be6 19. Bxe8 Qxe8 20. Qh7+ Kf6
+21. Ne4# 1-0

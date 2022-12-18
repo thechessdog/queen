@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pollinger"]
+[Black "Preziuso, T."]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "1c101661"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8.
+Be3 Be7 9. h4 Nb6 10. Qd2 Ne5 11. O-O-O a6 12. Bb5+ axb5 13. Ndxb5 Nbc4 14.
+Qe2 Nxe3 15. Qxe3 O-O 16. f4 Nc6 17. e5 d5 18. Ne4 Rxa2 19. Nf6+ gxf6 20.
+gxf6 Bxf6 21. Rdg1+ Kh8 0-1
+

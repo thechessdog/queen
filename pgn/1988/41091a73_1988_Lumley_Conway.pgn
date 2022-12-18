@@ -1,0 +1,21 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lumley"]
+[Black "Conway"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "41091a73"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 Bxc4 9. Bxc4 dxc4 10. e4 Qd7 11. O-O Qb5 12. e5 Nd5 13. Nh5 Rg8 14.
+Qg4 g6 15. Nf4 Nxf4 16. Qxf4 Qa4 17. Bc1 h5 18. Qg5 Nc6 19. Bb2 Ne7 20. Qd2
+O-O-O 21. Qd1 Qxd1 22. Raxd1 Nd5 23. h4 g5 24. hxg5 Rxg5 25. Kh2 Rdg8 26.
+Rg1 Rg4 27. g3 h4 28. Rb1 Rh8 29. Kh3 f5 30. exf6 Nxf6 31. Kg2 hxg3 32.
+fxg3 Rhg8 33. Kf3 Nh5 34. Rbe1 Rxg3+ 35. Rxg3 Rxg3+ 36. Kf2 Rh3 37. Kg1 Nf4
+38. Re4 Nd5 0-1
+

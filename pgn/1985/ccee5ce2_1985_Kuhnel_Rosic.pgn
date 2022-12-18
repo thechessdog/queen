@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kuhnel"]
+[Black "Rosic"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Paulsen attack"]
+[HashCode "ccee5ce2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. d3 Nf6 6. d4 Be7 7. Bd3 O-O
+8. O-O Nc6 9. c3 Re8 10. Bg5 d5 11. Ne3 Be6 12. Nd2 Qd7 13. Bxf6 Bxf6 14.
+f4 Qd6 15. Qh5 g6 16. Qf3 Bd7 17. Kh1 Ne7 18. Rae1 Bg7 19. f5 f6 20. fxg6
+hxg6 21. Re2 Kf7 22. Nec4 dxc4 23. Nxc4 Qd5 24. Rxe7+ 1-0
+

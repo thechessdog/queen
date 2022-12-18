@@ -1,0 +1,18 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1989.12.01"]
+[Round "1"]
+[White "Bosboom, Manuel"]
+[Black "Douven, Rudy"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "67516ee7"]
+[Epoch "Queen"]
+[BlackID "1000195"]
+[BlackCountry "NLD"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. Ngf3 Bg4 5. h3 Bh5 6. g3 Nf6 7. Bg2 dxe4 8.
+dxe4 e5 9. O-O Nbd7 10. Qe1 Bc5 11. b3 O-O 12. Bb2 Rfe8 13. a4 Bb4 14. Qe3 Rad8
+15. Nc4 a5 16. Rad1 Bc5 17. Qe1 Bb4 18. Qe3 Bc5 19. Qe1 Bb4 1/2-1/2

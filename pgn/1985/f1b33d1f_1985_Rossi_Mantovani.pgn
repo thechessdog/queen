@@ -1,0 +1,19 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rossi, C."]
+[Black "Mantovani"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f1b33d1f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qa5 4. Bxc6 bxc6 5. O-O c4 6. e5 Ba6 7. Re1
+O-O-O 8. Nc3 g6 9. b4 cxb3 10. Bb2 bxc2 11. Qxc2 Bg7 12. Re4 Qc7 13. Ra4
+Bb5 14. Nxb5 cxb5 15. Qxc7+ Kxc7 16. Rxa7+ Kb8 17. Ra5 Kc7 18. Rc1+ Kb6 19.
+Ra3 Kb7 20. Rc5 d6 21. Rxb5+ Kc6 22. Nd4+ Kd7 23. Rb7+ Ke8 24. Nc6 Rc8 25.
+exd6 Kf8 26. d7 1-0
+

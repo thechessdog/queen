@@ -1,0 +1,18 @@
+[Event "Peer Gynt"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ulvin, Dag"]
+[Black "Wessel, H."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "109ed970"]
+[Epoch "Queen"]
+[WhiteID "1502557"]
+[WhiteCountry "NOR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nh3 e6 8. Nf4
+Bh7 9. Bc4 Nf6 10. O-O Nd5 11. Bxd5 cxd5 12. Qh5 Qf6 13. Re1 Kd7 14. Nxd5 exd5
+15. Qxd5+ Kc7 16. Re8 Bxc2 17. Nh5 Qf5 18. Bf4+ Kb6 19. Re5 1-0

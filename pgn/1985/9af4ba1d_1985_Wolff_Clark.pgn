@@ -1,0 +1,17 @@
+[Event "corr ch1-USA"]
+[Site "corr ch1-USA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wolff, Patrick"]
+[Black "Clark"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "9af4ba1d"]
+[Epoch "Queen"]
+[WhiteID "2000148"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. exd5 Qxd5 6. Qe2 Kf8 7. Bc4 Qd8 8.
+Nxe5 Nxe5 9. Qxe5 Bxf2+ 10. Kxf2 Qh4+ 11. g3 Qxc4 12. Re1 Bh3 13. b3 1-0

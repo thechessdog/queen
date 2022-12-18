@@ -1,0 +1,19 @@
+[Event "Munich Mephisto-GP"]
+[Site "Munich Mephisto-GP"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Metzen"]
+[Black "Mephisto"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "41e9877a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. Ng3 d4 8.
+Nce2 Bc5 9. h3 Qb6 10. Qd3 O-O 11. f4 Nc6 12. a3 exf4 13. Nxf4 Re8 14. Be2
+Ne5 15. Qb3 Qxb3 16. cxb3 Bd7 17. Kd1 Bc6 18. Bf3 Ned7 19. Re1 Bb6 20. Nd3
+Bb5 21. Nf2 Rac8 22. a4 d3 23. Be3 d2 24. Kxd2 Ba5+ 25. Kd1 Bxe1 26. Kxe1
+Bc6 27. Rc1 a5 28. Bd4 Kh8 29. Kf1 Bb5+ 30. axb5 Rxc1+ 0-1
+

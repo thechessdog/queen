@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "2"]
+[White "Dreier, G."]
+[Black "Niermann, Rainer"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "32398ada"]
+[Epoch "Queen"]
+[BlackID "4623711"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ngf3 Qb6 8. Qb3
+Qa5 9. Be2 Be7 10. O-O O-O 11. Re1 f6 12. Nf1 fxe5 13. fxe5 cxd4 14. Bd2 Ndxe5
+15. Nxe5 Nxe5 16. cxd4 Rxf1+ 17. Kxf1 Qxd2 18. dxe5 Bc5 19. Qa4 Bd7 20. Qd1
+Rf8+ 21. Bf3 Qf2# 0-1

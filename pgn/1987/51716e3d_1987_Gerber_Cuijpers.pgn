@@ -1,0 +1,27 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Gerber, Richard"]
+[Black "Cuijpers, Frans Andre"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "51716e3d"]
+[Epoch "Queen"]
+[WhiteID "1300652"]
+[WhiteCountry "SUI"]
+[BlackID "1000209"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. Ng5 h6
+9. Nge4 b4 10. Nb1 Ba6 11. Nbd2 c3 12. Nc4 Bxc4 13. Bxc4 cxb2 14. Bxb2 Qh4 15.
+Qe2 Nd7 16. O-O Rb8 17. a5 h5 18. f4 g6 19. Rae1 Qd8 20. Ra1 Be7 21. Rf3 Kf8
+22. g3 Kg8 23. h3 Bf8 24. Kg2 Ne7 25. g4 Nd5 26. g5 Be7 27. Kh1 Qc7 28. Rg1 Rh7
+29. Nf6+ Bxf6 30. gxf6 Kh8 31. Ra1 Nf8 32. h4 Kg8 33. Qd2 Qd8 34. Rb3 Rh8 35.
+Kh2 Kh7 36. Bd3 Qc7 37. Be4 Rb5 38. a6 Rb6 39. Rg1 Qd7 40. Bc1 Kg8 41. Qd3 Nc3
+42. f5 Nxe4 43. fxg6 fxg6 44. Qxe4 Kf7 45. Be3 Qd5 46. Qxd5 exd5 47. Rgb1 Nd7
+48. Rxb4 Rxa6 49. Rb7 Ke6 50. Rxd7 Kxd7 51. Rb7+ Ke6 52. Re7+ Kf5 53. f7 Ra2+
+54. Kg3 Ra3 55. Kf2 Ke4 56. Bg5 Rb8 57. Bc1 Ra2+ 58. Kg1 Rc2 59. Bb2 Rbxb2 60.
+f8=Q Rb1+ 61. Qf1 Rxf1+ 62. Kxf1 Kxd4 63. e6 Ke5 0-1

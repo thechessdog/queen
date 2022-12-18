@@ -1,0 +1,21 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Svendsen, Odin"]
+[Black "Ditzler, Juerg"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "7461f3e4"]
+[Epoch "Queen"]
+[WhiteID "1501445"]
+[BlackID "1300571"]
+[WhiteCountry "NOR"]
+[BlackCountry "SUI"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 d5 6. exd5 cxd5 7. Bb5+ Nc6 8. Ne5
+Qd6 9. Qf3 e6 10. Be3 a6 11. Bd3 Nge7 12. g4 Nb4 13. O-O-O f6 14. Rhf1 O-O 15.
+a3 fxe5 16. dxe5 Nxd3+ 17. Rxd3 Bxe5 18. fxe5 Rxf3 19. Rxf3 Qxe5 20. Bh6 Bd7
+21. Rd1 Qxh2 22. g5 Nf5 0-1

@@ -1,0 +1,22 @@
+[Event "Munich op"]
+[Site "Munich"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmaus, Horst"]
+[Black "Plesec, Damjan"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "6f7845d5"]
+[Epoch "Queen"]
+[WhiteID "4622707"]
+[WhiteCountry "GER"]
+[BlackID "14600161"]
+[BlackCountry "SLO"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 Nge7 5. g3 g6 6. Bg2 Bg7 7. O-O d5 8. d3
+O-O 9. Nbd2 b5 10. a4 bxa4 11. Rxa4 Qb6 12. exd5 exd5 13. Nb3 c4+ 14. Be3 Qb5
+15. Nc5 d4 16. Bxd4 Nxd4 17. Qxe7 Nxf3+ 18. Kh1 Re8 19. Qc7 Bg4 20. dxc4 Qb6
+21. Qxb6 axb6 22. Rxa8 Rxa8 23. Nb3 Nxh2 24. Kxh2 Ra2 25. Re1 Rxb2 26. Re8+ Bf8
+27. Be4 Be6 28. Rb8 Bxc4 29. Rxb6 f5 30. Rc6 Bxb3 0-1

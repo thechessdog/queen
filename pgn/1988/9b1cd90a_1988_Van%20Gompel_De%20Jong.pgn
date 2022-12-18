@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Gompel, R."]
+[Black "De Jong, Peter"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9b1cd90a"]
+[Epoch "Queen"]
+[BlackID "1033514"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 Nc6 5. d5 Ne5 6. Bf4 Nxd3+ 7. Qxd3 Qb6 8.
+Qc2 Nxe4 9. Qxe4 Qxb2 10. Bxd6 Qxa1 11. Bxe7 Bxe7 12. d6 Be6 13. Qa4+ Bd7 14.
+Qe4 O-O 15. dxe7 Rfe8 16. Ne2 Bc6 17. Qc2 Bxg2 18. Rg1 Bf3 19. Nc1 Rxe7+ 20.
+Kf1 Rae8 21. Nb3 Re1# 0-1

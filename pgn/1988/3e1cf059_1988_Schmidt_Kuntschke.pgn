@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schmidt, T."]
+[Black "Kuntschke, L."]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "3e1cf059"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 a6 10. Nge2 Nbd7 11. O-O h5 12. a4 b6 13. b4 Bb7 14. a5 b5 15.
+Qb3 h4 16. Nxb5 axb5 17. Bxb5 Ba6 18. Bxa6 Rxa6 19. Qa4 Ra8 20. Rfc1 Nxd5
+21. exd5 e4 22. f4 Bxa1 23. Qxa1 h3 24. Rc6 Nb8 25. Bb6 Qd7 26. Rc3 hxg2
+27. Nd4 Qb7 28. Rg3 Qxd5 29. Rg5 Qc4 30. Rxg2 f6 31. Nf5 Rf7 32. Rxg6+ Kf8
+33. Qd1 1-0
+

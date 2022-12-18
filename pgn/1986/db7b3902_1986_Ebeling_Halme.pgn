@@ -1,0 +1,32 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ebeling, Mika"]
+[Black "Halme, Olavi"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "db7b3902"]
+[Epoch "Queen"]
+[WhiteID "500410"]
+[WhiteCountry "FIN"]
+[BlackID "501298"]
+[BlackCountry "FIN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. h3 c6 5. a4 Nd7 6. Nge2 e5 7. Be3 Ne7 8. g3 O-O
+9. Bg2 Qc7 10. O-O f5 11. Qd2 Nf6 12. Kh2 Be6 13. dxe5 dxe5 14. Rad1 Rad8 15.
+Qc1 Bc4 16. b3 Ba6 17. Rxd8 Rxd8 18. Rd1 b6 19. exf5 gxf5 20. Bg5 Rd6 21. Rxd6
+Qxd6 22. Qe3 h6 23. Qd2 Qxd2 24. Bxd2 Kf7 25. Nc1 Ke6 26. Nd1 Nd7 27. c4 e4 28.
+f3 Nc5 29. Bb4 exf3 30. Bxf3 Ne4 31. Ne2 c5 32. Be1 Be5 33. Kg2 Nc6 34. Ndc3
+Nd4 35. Nxd4+ cxd4 36. Nd5 Bb7 37. Nb4 a5 38. Nd3 Bd6 39. b4 axb4 40. Bxb4 Bxb4
+41. Nxb4 Kd6 42. g4 fxg4 43. hxg4 Kc5 44. Nd3+ Kxc4 45. Ne5+ Kc3 46. Be2 d3 47.
+Bxd3 Nc5+ 48. Kg3 Nxd3 49. Nd7 Kd4 50. Kh4 Ne5 51. Nxb6 Kc5 52. a5 Kb5 53. g5
+Nf3+ 54. Kg3 hxg5 55. Nd7 Kxa5 56. Nf6 Ne5 57. Nh7 g4 58. Kf4 Bf3 59. Ng5 Ng6+
+60. Kg3 Ne5 61. Kf4 Ng6+ 62. Kg3 Be2 63. Ne4 Ne7 64. Kf4 Nd5+ 65. Kg3 Kb4 66.
+Nf2 Nf6 67. Nxg4 Nxg4 68. Kf4 Bd1 69. Ke4 Bc2+ 70. Kd4 Nf6 71. Ke5 Ne4 72. Kd4
+Nd6 73. Kd5 Nc4 74. Kd4 Bg6 75. Kd5 Kc3 76. Ke6 Kd4 77. Kf6 Bc2 78. Ke6 Kc5 79.
+Ke7 Kd5 80. Kf6 Kd6 81. Kf7 Ke5 82. Ke7 Nd6 83. Kd7 Nf5 84. Kc6 Kd4 85. Kb5 Kc3
+86. Kc5 Bb3 87. Kb5 Bg8 88. Kc5 Kb3 89. Kb5 Ka3 90. Ka5 Bc4 91. Kb6 Kb4 92. Kc6
+Bg8 93. Kb6 Bd5 94. Kc7 Kc5 95. Kd7 Bf7 96. Kd8 Kc6 97. Kc8 Ne7+ 98. Kd8 Nd5
+99. Kc8 Bh5 1-0

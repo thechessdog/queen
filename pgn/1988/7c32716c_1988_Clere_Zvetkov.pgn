@@ -1,0 +1,16 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Clere, P."]
+[Black "Zvetkov, A."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "7c32716c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Nf6 5. Nf3 Be7 6. O-O Nxd5 7. c4 Nb4
+8. d4 Bf5 9. Ne1 g5 10. Nc3 c6 11. a3 N4a6 12. Nf3 O-O 13. Bd3 Bxd3 0-1
+

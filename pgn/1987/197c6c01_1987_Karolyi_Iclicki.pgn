@@ -1,0 +1,18 @@
+[Event "OHRA op"]
+[Site "Brussel open"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Karolyi, Tibor"]
+[Black "Iclicki, Willy"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "197c6c01"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "200450"]
+[BlackCountry "LIE"]
+
+1. d4 d5 2. Bg5 Nf6 3. c4 c6 4. Bxf6 gxf6 5. e3 Bf5 6. Bd3 Bxd3 7. Qxd3 dxc4 8.
+Qxc4 Qd5 9. Qxd5 cxd5 10. Nc3 e6 1/2-1/2

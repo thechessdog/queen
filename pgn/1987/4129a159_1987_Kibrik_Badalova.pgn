@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kibrik, Tatyana"]
+[Black "Badalova, T."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "4129a159"]
+[Epoch "Queen"]
+[WhiteID "2006332"]
+[BlackID "4115406"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. fxe5 dxe5 6. d4 exd4 7. cxd4 Bb4+ 8.
+Bd2 Qe7 9. Bxb4 Qxb4+ 10. Qd2 Nc6 11. Nc3 Bg4 12. Bb5 O-O 13. Bxc6 bxc6 14. O-O
+Rad8 15. Rad1 c5 16. e5 Bxf3 17. Rxf3 Rxd4 18. Qe1 Re8 19. Re3 Rxd1 20. Nxd1
+Ng4 21. Qxb4 cxb4 22. Re4 Nxe5 23. Nf2 a5 24. Nd3 f6 25. Nc5 Rd8 26. h3 Rd2 27.
+Na4 Kf7 0-1

@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Konopka, Michael"]
+[Black "Lhagvasuren, Cedend"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "2b32761f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. a4 a6 5. Bxd7+ Qxd7 6. O-O Nf6 7. d3 e6
+8. Nbd2 Qc7 9. Nc4 Nbd7 10. Bf4 e5 11. Bg5 Be7 12. a5 O-O 13. Ne3 Rfe8 14.
+Nd2 h6 15. Bh4 Qc6 16. Ndc4 Bd8 17. Qf3 Nf8 18. Bxf6 Bxf6 19. Nf5 Re6 20.
+Nb6 Rae8 21. Qg4 Kh7 22. Nd5 g6 23. Nfe3 g5 24. Qh5 Qd7 25. Nb6 Qc7 26.
+Ned5 1-0
+

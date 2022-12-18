@@ -1,0 +1,27 @@
+[Event "Gothenburg"]
+[Site "Gothenburg"]
+[Date "1989.01.01"]
+[Round "11"]
+[White "Ziegler, Ari"]
+[Black "Sapis, Witalis"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "770c072c"]
+[Epoch "Queen"]
+[WhiteID "1700987"]
+[WhiteCountry "SWE"]
+[BlackID "1100254"]
+[BlackCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O 8.
+Nf3 Nbd7 9. O-O Nb6 10. Bb3 Nfxd5 11. Re1 Be6 12. Ne5 Nc7 13. Bc2 Nc4 14. Nf3
+Nd5 15. Ng5 Nxc3 16. bxc3 Bd5 17. f4 e6 18. Qg4 Qa5 19. Qg3 Rac8 20. Kh1 Nd6
+21. Bd2 Nc4 22. Bc1 Na3 23. Bxa3 Qxa3 24. Bb3 Bxb3 25. axb3 Qxb3 26. Rec1 a6
+27. Qh3 h6 28. Ne4 Qd5 29. Nc5 Rfd8 30. Rab1 Rc7 31. Qh4 Rdc8 32. Qe1 Bf8 33.
+Ne4 Kg7 34. Rb6 Qxd4 35. Rxb7 Rc4 36. Rb8 R8c7 37. Nf2 Qxf4 38. g3 Qf3+ 39. Kg1
+Rc8 40. Qe5+ Qf6 41. Rxc8 Rxc8 42. Qxf6+ Kxf6 43. Kf1 Ke5 44. Ke2 f5 45. Kd2
+Rc6 46. Rf1 h5 47. h3 Bg7 48. Rb1 Kd6 49. Rb3 e5 50. Nd3 a5 51. Rb7 Bh6+ 52.
+Kc2 e4 53. Nf4 Bxf4 54. gxf4 Ra6 55. c4 a4 56. Rg7 Kc5 57. Kc3 Rb6 58. Rc7+ Kd6
+59. Rg7 Rb3+ 60. Kc2 Rg3 0-1

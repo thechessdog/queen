@@ -1,0 +1,18 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Andres, Miguel"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov three knights game"]
+[HashCode "bd340fcc"]
+[Epoch "Queen"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+[WhiteCountry "EST"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Bb4 4. Nxe5 d6 5. Nd3 Bxc3 6. dxc3 Nxe4 7. Be2 O-O
+8. Nf4 Nd7 9. O-O Ndf6 10. c4 Re8 11. Be3 Bd7 12. Re1 a5 13. Nd5 Nxd5 14. cxd5
+Qf6 15. Qd4 Qxd4 1/2-1/2

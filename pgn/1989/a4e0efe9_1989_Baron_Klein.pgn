@@ -1,0 +1,21 @@
+[Event "MB-JEM-SJRP"]
+[Site "MB-JEM-SJRP"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Baron, J."]
+[Black "Klein, S."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a4e0efe9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 e6 3. Nc3 b6 4. Nf3 Bb7 5. Bb5 Bc6 6. Bxc6 Nxc6 7. O-O cxd4
+8. Nxd4 Bd6 9. Ndb5 Bc5 10. Bf4 Kf8 11. Bd6+ Bxd6 12. Qxd6+ Qe7 13. Rad1
+Rd8 14. Rfe1 h5 15. e5 Rh6 16. f4 f6 17. Rf1 fxe5 18. fxe5+ Nf6 19. exf6
+Rxf6 20. Ne4 Qxd6 21. Nbxd6 Rxf1+ 22. Rxf1+ Kg8 23. c4 Rf8 24. a4 Ne7 25.
+b4 Nf5 26. c5 bxc5 27. b5 Nxd6 28. Nxd6 Ra8 29. a5 Rb8 30. Rb1 Kf8 31. b6
+axb6 32. Rxb6 Ra8 33. a6 Ke7 34. Nb5 Kd8 35. a7 c4 36. Rb8+ Rxb8 37.
+axb8=Q+ Ke7 38. Qd6+ Kd8 39. Qf8# 1-0
+

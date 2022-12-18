@@ -1,0 +1,18 @@
+[Event "corr ch-SF sr"]
+[Site "corr ch-SF sr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gylden"]
+[Black "Susi"]
+[Result "0-1"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "b6d5f72f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 Ne7
+8. Nc3 exd4 9. Nxd4 c5 10. Nde2 Be6 11. Nf4 Bf7 12. O-O Nc6 13. Ncd5 Ne5
+14. c4 c6 15. Qa4 Rb8 16. b3 Qd7 17. Nc3 Rb6 18. Qa3 Be7 19. Rad1 g5 20.
+Bxc5 gxf4 21. Bxb6 f3 0-1
+

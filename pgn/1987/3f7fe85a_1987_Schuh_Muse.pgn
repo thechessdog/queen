@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schuh, Hubert"]
+[Black "Muse, Mladen"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "3f7fe85a"]
+[Epoch "Queen"]
+[BlackID "4600304"]
+[BlackCountry "CRO"]
+[WhiteID "4600894"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 c5 6. Bg2 Nc6 7. Qa4 Bb7 8. dxc5
+bxc5 9. O-O Qb6 10. Nc3 Be7 11. Rd1 O-O 12. Bf4 Rfd8 13. Qb5 1/2-1/2

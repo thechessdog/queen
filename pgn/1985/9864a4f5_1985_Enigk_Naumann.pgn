@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Enigk"]
+[Black "Naumann, T."]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "9864a4f5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. f4 d5 12. Bxd5 Bc5 13. Be3 Qd6 14. Re1
+O-O-O 15. b4 Bb6 16. c3 Ndf5 17. Bb7+ Kxb7 18. Qxd6 Bxe3+ 19. Rxe3 Nxd6 20.
+f5 Nc4 21. Re1 Rd3 22. a4 c6 23. axb5 cxb5 24. Ra2 Rhd8 25. Rae2 Kb6 26.
+Kh2 Rd1 27. Kg3 Rxe1 28. Rxe1 a5 29. bxa5+ Kxa5 30. Kh4 Ka4 31. Kh5 Kb3 32.
+f6 gxf6 33. Kxh6 fxg5 34. Kxg5 Kc2 35. Kxg4 Rd1 36. Rxd1 Kxd1 37. Kf5 Kc1
+38. Kf6 Kxb1 39. g4 Kc2 0-1
+

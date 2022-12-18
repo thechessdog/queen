@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lie, S."]
+[Black "Kweints, A."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "4989b8cf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d3 d5 5. Qc2 a5 6. g3 Bg4 7. Bg2 dxe4 8.
+dxe4 Nd7 9. Be3 Nc5 10. Bxc5 Bxc5 11. Nbd2 Qe7 12. O-O O-O 13. h3 Be6 14.
+b3 Rad8 15. Nc4 Bxc4 16. bxc4 Qe6 17. Qe2 Rd6 0-1
+

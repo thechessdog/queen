@@ -1,0 +1,17 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "MacLeod"]
+[Black "Murey, Jacob"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "40100caa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. f4 Nxe4 10. Nxe4 Bxe4 11. f5 e5 12. Nf3 Be7 13. Qe2 Bc6 14. Be3 Nd7 15.
+Rad1 Qc7 16. Ng5 d5 17. Nxf7 Kxf7 18. Qh5+ Kf8 19. Rxd5 Bg5 20. Qxg5 Bxd5 21.
+Bxd5 Rc8 22. f6 g6 23. Qh6+ 1-0

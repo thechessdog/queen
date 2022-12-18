@@ -1,0 +1,21 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Held, Thomas"]
+[Black "Muelli, Thomas"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "c11b9059"]
+[Epoch "Queen"]
+[WhiteID "1308335"]
+[WhiteCountry "SUI"]
+[BlackID "1306502"]
+[BlackCountry "SUI"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 h5 6. Nh3 c6 7. Be3 Ng4 8. Bxg4
+hxg4 9. Nf4 g5 10. Nfe2 gxh4 11. Qd2 Qa5 12. e5 dxe5 13. dxe5 Bxe5 14. Bd4 Bf5
+15. O-O-O Bxd4 16. Nxd4 Bd7 17. Nb3 Qf5 18. Qd4 Rh5 19. Rhe1 c5 20. Qd6 Qg5+
+21. Kb1 Kf8 22. Qc7 e6 23. Ne4 Qe7 24. Nbxc5 Be8 25. Qf4 Rxc5 26. Qh6+ 1-0

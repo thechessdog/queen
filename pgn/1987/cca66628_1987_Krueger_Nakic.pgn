@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Krueger, H."]
+[Black "Nakic, A."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "cca66628"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 a6 8.
+Qe2 Qc7 9. O-O-O Be7 10. Bb3 Bd7 11. g4 Nxd4 12. Rxd4 Bc6 13. g5 Nd7 14. f4
+Nc5 15. Rhd1 Nxb3+ 16. axb3 Rc8 17. h4 b5 18. f5 e5 19. R4d3 Qb7 20. Nd5
+Bxd5 21. Rxd5 Qc6 22. c3 Bf8 23. Qh5 g6 24. fxg6 fxg6 25. Qg4 Qd7 26. Rxe5+
+Be7 27. Re6 1-0
+

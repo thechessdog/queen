@@ -1,0 +1,21 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stoinev, Metodi"]
+[Black "Todorov, Ognjan"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6b6d4470"]
+[Epoch "Queen"]
+[WhiteID "2901404"]
+[BlackID "2900521"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Nf3
+f5 9. exf6 Rxf6 10. Bg5 Nd7 11. Bb5 Qa5 12. Bxd7 Qxc3+ 13. Ke2 h5 14. Qg3 Bxd7
+15. Bxf6 Nf5 16. Qg5 Bb5+ 17. Kd1 Rf8 18. dxc5 Rxf6 19. Rb1 Nd4 20. Nxd4 Rxf2
+21. Rxb5 Qa1+ 22. Qc1 Qxd4+ 23. Ke1 Rxg2 0-1

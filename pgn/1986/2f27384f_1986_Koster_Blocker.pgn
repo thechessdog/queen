@@ -1,0 +1,22 @@
+[Event "Ohio Congress"]
+[Site "Ohio Congress"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koster, Ed"]
+[Black "Blocker, Calvin"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2f27384f"]
+[Epoch "Queen"]
+[BlackID "2000920"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. Nf3 Bf5
+8. Qe2 e6 9. Bg5 Qa5+ 10. Bd2 Qc7 11. O-O-O O-O-O 12. h3 h6 13. Be3 Nd5 14. Ne5
+Bd6 15. Bd2 Rhe8 16. Rhe1 c5 17. dxc5 Bxc5 18. Bd3 Bd4 19. f4 f6 20. g4 fxe5
+21. gxf5 exf4 22. fxe6 Be3 23. Kb1 Kb8 24. Bf5 Bxd2 25. Rxd2 Ne3 26. Rxd8+ Rxd8
+27. Bg4 Qe5 28. a3 Rd6 29. Rc1 a6 30. c4 g5 31. c5 Rc6 32. b4 Nxg4 33. Qxg4
+Rxe6 34. Qd1 Qe4+ 35. Ka1 Ka7 36. Qd8 Qe5+ 37. Kb1 Qf5+ 38. Ka1 Qf6+ 39. Kb1
+Qxd8 0-1

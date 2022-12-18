@@ -1,0 +1,17 @@
+[Event "Leiden"]
+[Site "Leiden"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Tuuk, J."]
+[Black "Otten, R."]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "44e9807c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8.
+Bd3 h5 9. Qh3 cxd4 10. g4 Nh4 11. cxd4 Nc6 12. Ne2 Bd7 13. Rb1 b6 14. Rg1
+Qe7 15. gxh5 Rxh5 16. Qg4 g6 17. Nf4 Rg5 1/2-1/2
+

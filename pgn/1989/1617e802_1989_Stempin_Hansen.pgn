@@ -1,0 +1,33 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Hansen, Lars Bo"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "1617e802"]
+[Epoch "Queen"]
+[WhiteID "1100068"]
+[BlackID "1400037"]
+[WhiteCountry "POL"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nc3 f5 4. Qc2 Nf6 5. e3 b6 6. Bd3 Bb7 7. f3 O-O 8. Bd2
+c5 9. Nge2 cxd4 10. exd4 Be7 11. a3 Nc6 12. O-O Rc8 13. Be3 Ne8 14. b4 Bf6 15.
+Rad1 Ne7 16. Qb3 Kh8 17. Kh1 g6 18. d5 exd5 19. c5 d4 20. Bxd4 Bxd4 21. Nxd4
+bxc5 22. bxc5 Rb8 23. Qa4 Qc7 24. Rfe1 Nc8 25. Nb3 Nf6 26. Qd4 Qd8 27. Bc4 Ne7
+28. Qd6 Nc6 29. Nd5 Nxd5 30. Qxd5 Qh4 31. Qd3 Rbd8 32. Na5 Nxa5 33. Qc3+ Qf6
+34. Qxa5 Bc6 35. Bb5 Bxb5 36. Qxb5 Qc6 37. Qb2+ Qf6 38. Qb7 Qc6 39. Qxa7 Rfe8
+40. Qa5 Ra8 41. Qc3+ Kg8 42. h3 d5 43. Rxe8+ Rxe8 44. Qd4 Ra8 45. Rb1 Rc8 46.
+Qe5 d4 47. Qxd4 Qxc5 48. Qd7 Qc6 49. Qe7 Re8 50. Qb4 Ra8 51. Qb3+ Kg7 52. Qb2+
+Kg8 53. Qe5 Re8 54. Rb8 Rxb8 55. Qxb8+ Kf7 56. Qf4 Qc3 57. a4 Ke6 58. Kh2 h5
+59. Qb8 Kf7 60. Qd6 Kg7 61. f4 Kh7 62. Qe7+ Kg8 63. Qe5 Qa3 64. Qe6+ Kh7 65.
+Qf7+ Kh6 66. Qg8 Qc3 67. Qd8 Kg7 68. a5 h4 69. Qe7+ Kg8 70. a6 Qg3+ 71. Kg1
+Qxf4 72. a7 Qc1+ 73. Kf2 Qd2+ 74. Kf3 Qd3+ 75. Kf2 Qd2+ 76. Qe2 Qf4+ 77. Kg1
+Qc1+ 78. Qf1 Qc5+ 79. Qf2 Qc1+ 80. Kh2 Qc7+ 81. Kh1 Qc1+ 82. Qg1 Qa3 83. Qd4
+Qc1+ 84. Kh2 Qc7+ 85. Kg1 Qc1+ 86. Kf2 Qc2+ 87. Kf3 Qb3+ 88. Qe3 Qd5+ 89. Kf2
+Kf7 90. Kg1 Qd1+ 91. Kh2 Qa4 92. Qh6 Qa3 93. Qh7+ Ke6 94. Qg8+ Kd7 95. Qb8 f4
+96. Qxf4 1-0

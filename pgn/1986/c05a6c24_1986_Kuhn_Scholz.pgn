@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuhn"]
+[Black "Scholz"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "c05a6c24"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Nf6
+8. h4 h6 9. Nf4 Bh7 10. Qe2 Bd6 11. c3 Qe7 12. O-O Nbd7 13. Bxe6 fxe6 14.
+Nxe6 Kf7 15. Re1 Kg8 16. Qc4 Qf7 17. Bd2 Bxg3 18. fxg3 Bf5 19. Qb3 Bxe6 20.
+Rxe6 Nf8 21. Re7 Qxb3 22. axb3 N8d7 23. Rae1 Kh7 24. g4 Rad8 25. g5 hxg5
+26. hxg5 Nd5 27. R7e4 Kg6 28. Re6+ Kf5 29. R1e4 Rh4 30. Re1 Rg4 31. Kf2 Nf4
+32. Bxf4 Rxf4+ 33. Kg3 Rg4+ 34. Kf3 Rxg5 35. g4+ Rxg4 36. R1e5+ Nxe5+ 37.
+Rxe5+ Kf6 38. Kxg4 1/2-1/2
+

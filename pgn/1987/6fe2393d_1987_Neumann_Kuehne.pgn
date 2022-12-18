@@ -1,0 +1,21 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Neumann, E."]
+[Black "Kuehne, W."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "6fe2393d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nge2 Nbd7 9. Nf4 Qb6 10. Qa4 Rd8 11. Bd3 Nf8 12. O-O h6 13. Qc4 Bd7 14.
+Qc5 Rac8 15. Qxe7 Re8 16. Qa3 Qxd4 17. Be3 Rxe3 18. fxe3 Qxe3+ 19. Kh1 Ng4
+20. Nd1 Qd4 21. Be2 g5 22. Nd3 Rc2 23. Re1 Ng6 24. Qb3 Nxh2 25. Qxc2 Qh4
+26. Kg1 Bd4+ 27. N3f2 Nf4 28. Qb3 g4 29. g3 Nxe2+ 30. Rxe2 Qh5 31. Qxb7
+Nf3+ 32. Kf1 Qh2 33. Re4 Bf5 34. Qb8+ Kg7 35. Qf4 Qg1+ 36. Ke2 Qe1+ 37. Kd3
+Qf1+ 38. Kc2 Ne1+ 39. Kd2 Nf3+ 40. Kc1 Qc4+ 41. Nc3 1-0
+

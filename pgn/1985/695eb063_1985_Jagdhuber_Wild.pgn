@@ -1,0 +1,18 @@
+[Event "Wunsiedel"]
+[Site "Wunsiedel"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jagdhuber"]
+[Black "Wild, Rudolf"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "695eb063"]
+[Epoch "Queen"]
+[BlackID "4615565"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c6 6. Bd3 O-O 7. O-O Nbd7 8. e5
+Nd5 9. Ng5 N7b6 10. f5 Nxc3 11. bxc3 dxe5 12. Nxh7 Kxh7 13. fxg6+ fxg6 14. Qh5+
+Kg8 15. Bxg6 Rxf1+ 16. Kxf1 e6 17. Bg5 Qd5 18. Kg1 Nd7 19. Qh7+ 1-0

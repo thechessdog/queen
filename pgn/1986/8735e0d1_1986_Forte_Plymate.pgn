@@ -1,0 +1,23 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Forte A"]
+[Black "Plymate 5 5"]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical, Steinitz variation"]
+[HashCode "8735e0d1"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O cxd4 7. exd4 Nc6
+8. Nc3 Bb4 9. d5 exd5 10. Nxd5 Nxd5 11. Bxd5 O-O 12. Qb3 Bc5 13. Ng5 Qe7
+14. Qc2 g6 15. Ne4 Bd4 16. Bg5 Qc7 17. Qd2 Be5 18. h3 Re8 19. Nf6+ Bxf6 20.
+Bxf6 Ne7 21. Rae1 Be6 22. Rxe6 Nxd5 23. Rxe8+ Rxe8 24. Qxd5 a6 25. Rd1 b5
+26. Qd8 Rxd8 27. Rxd8+ Qxd8 28. Bxd8 Kg7 29. b4 f5 30. Kf1 Kf7 31. Ke2 Ke6
+32. Kd3 Ke5 33. Bc7+ Ke6 34. Kd4 Kd7 35. Bf4 Kc6 36. Ke5 Kd7 37. Kf6 Kc6
+38. Kg7 g5 39. Bxg5 Kd5 40. Kxh7 Ke4 41. Kg6 Kd5 42. h4 Kc4 43. h5 Kxb4 44.
+Kxf5 Ka3 45. h6 Kxa2 46. h7 Kb3 47. f4 a5 48. h8=Q b4 49. g4 Kc4 50. Qg8+
+Kd4 51. Bf6+ Kc5 52. Ke4 Kb6 53. Bd8+ Ka7 54. Qf7+ Ka6 55. Qc4+ 1-0
+

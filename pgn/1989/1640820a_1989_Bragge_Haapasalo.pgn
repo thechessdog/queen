@@ -1,0 +1,17 @@
+[Event "Tampere Hervanta"]
+[Site "Tampere Hervanta"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bragge, A."]
+[Black "Haapasalo, Jukka Pekka"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "1640820a"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 b6 3. Nf3 Nf6 4. g3 Bb7 5. Bg2 g6 6. O-O Bg7 7. d4 cxd4 8. Nxd4
+Bxg2 9. Kxg2 Qc7 10. b3 O-O 11. e4 Nxe4 12. Nd5 Qe5 13. Bb2 Re8 14. f4 Qd6 15.
+Nb5 Qc6 16. Bxg7 Kxg7 17. Qf3 Nf6 18. Nbc7 Nxd5 19. Nxe8+ Kf8 20. cxd5 Qb7 21.
+Qc3 1-0

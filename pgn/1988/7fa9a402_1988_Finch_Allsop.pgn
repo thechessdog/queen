@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Finch, John "]
+[Black "Allsop"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Tarrasch variation"]
+[HashCode "7fa9a402"]
+[Epoch "Queen"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+Bg4 9. c5 Be7 10. Re1 f5 11. Qb3 b6 12. Ne5 Bh5 13. f3 Nxc5 14. dxc5 Bxc5+ 15.
+Be3 Bxe3+ 16. Rxe3 c5 17. Qc2 f4 18. Re2 g6 19. Nc3 c4 20. Bxg6 hxg6 21. Nxg6
+Rf6 22. Ne7+ Kg7 23. Ncxd5 1-0

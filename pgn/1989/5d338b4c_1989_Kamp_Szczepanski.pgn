@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kamp, Christoph"]
+[Black "Szczepanski, Olaf"]
+[Result "1-0"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "5d338b4c"]
+[Epoch "Queen"]
+[WhiteID "4606949"]
+[BlackID "4610954"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. Qa4+ Bd7 6. Qh4 Nxc3 7. dxc3 Nc6
+8. e4 e5 9. Bg5 Be7 10. Qh6 Bf6 11. Bc4 Qe7 12. Bxf6 Qxf6 13. Ng5 O-O-O 14. O-O
+Be6 15. Nxe6 fxe6 16. Rad1 Rd6 17. Qh3 Rhd8 18. Rxd6 Rxd6 19. Qxh7 Rd2 20. b4
+Nd8 21. Qh3 Qf4 22. Bxe6+ Kb8 23. Bb3 Qxe4 24. Qe3 Qxe3 25. fxe3 Kc8 26. Rf6
+Rd3 27. Kf2 Rxc3 28. Rxg6 Nc6 29. b5 Nb4 30. Kf3 c5 31. bxc6 Nxc6 32. Ke4 a5
+33. h4 a4 34. Bd5 Ne7 35. h5 Kd8 36. Rg5 Nxd5 37. Kxd5 Rxe3 38. h6 Rd3+ 39.
+Kxe5 1-0

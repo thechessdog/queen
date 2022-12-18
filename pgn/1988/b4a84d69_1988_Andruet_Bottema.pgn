@@ -1,0 +1,20 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1988.12.01"]
+[Round "1"]
+[White "Andruet, Gilles"]
+[Black "Bottema, Tom"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "b4a84d69"]
+[Epoch "Queen"]
+[BlackID "1004778"]
+[BlackCountry "NED"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. e3 e5 7. a3 Bxc3+ 8. Qxc3
+O-O 9. dxe5 dxe5 10. Nxe5 Nxe5 11. Qxe5 Re8 12. Qc3 Ne4 13. Qc2 Bf5 14. Bd3 Qg5
+15. O-O Rad8 16. f3 Nd2 17. Bxf5 Qxe3+ 18. Kh1 Qe2 19. Rg1 Re5 20. b4 g6 21.
+Ra2 Rxf5 22. Bxd2 Rh5 23. Bf4 Qe7 24. Qf2 1-0

@@ -1,0 +1,19 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Crepan"]
+[Black "Becx"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "4f330872"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 h6 8.
+cxd4 hxg5 9. dxe5 Nxd5 10. Bxb5+ Bd7 11. Bxd7+ Qxd7 12. d4 Bb4+ 13. Kf1 Rh4
+14. Be3 Re4 15. Qd3 Nf4 16. Qc4 Qg4 17. Nc3 Qxg2+ 18. Ke1 Bxc3+ 19. bxc3
+Qxh1+ 20. Kd2 Qxa1 21. Qc6+ Ke7 22. Qc5+ Kd7 23. e6+ fxe6 24. Qb5+ Kd8 25.
+Qxg5+ Kc8 0-1
+

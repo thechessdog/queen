@@ -1,0 +1,20 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Stein, Bernd"]
+[Black "Rodgaard, John"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "997fa0f9"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[BlackID "7200013"]
+[WhiteCountry "GER"]
+[BlackCountry "FAI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Kf8 8. Bd3
+Ba6 9. Ne2 c5 10. dxc5 bxc5 11. Bxa6 Nxa6 12. O-O Qc7 13. Qa4 Nb8 14. Rb1 Nd7
+15. f4 h5 16. c4 Nb6 17. Qa5 d4 18. Rb5 Rc8 19. Ng3 Nxc4 1/2-1/2

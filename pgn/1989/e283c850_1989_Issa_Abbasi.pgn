@@ -1,0 +1,18 @@
+[Event "Damaskus"]
+[Site "Damaskus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Issa"]
+[Black "Abbasi"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "e283c850"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Be7 8. Re1 Nf6 9. Nc3 Be6 10. Ne2 Qd7 11. c3 O-O-O 12. a4 Bd6 13. Bf4 h5
+14. Bxd6 Qxd6 15. Ng3 Ng4 16. Qf3 h4 17. Nf1 Nh6 18. h3 g5 19. Nh2 Rdg8 20.
+Qf6 g4 21. hxg4 Qxh2+ 22. Kxh2 Nxg4+ 23. Kg1 Nxf6 24. Be2 h3 0-1
+

@@ -1,0 +1,17 @@
+[Event "Matanzas"]
+[Site "Matanzas"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Alonso, Rene"]
+[Black "Barroso, W."]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "4f2284bb"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. cxd5 Nxd5 7. Nf3 e6 8.
+Bd3 Be7 9. O-O O-O 10. Re1 Bf6 11. Be4 Qd6 12. Bg5 Bxg5 13. Nxg5 Nf6 14. d5
+exd5 15. Nxd5 Nxe4 16. Nxe4 Qh6 17. Qc1 Qxc1 18. Raxc1 Be6 19. Nc7 Rad8 20.
+Nxe6 fxe6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "McKone, Peter"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "95cf7091"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. f4 Nf6 2. Nf3 d5 3. g3 Bg4 4. Bg2 e6 5. O-O Bc5+ 6. d4 Be7 7. c4 O-O 8. Nc3
+a6 9. Qb3 dxc4 10. Qxb7 Nbd7 11. Ne5 Rb8 12. Qxa6 Nxe5 13. dxe5 Qd4+ 14. e3 Qd3
+15. exf6 Bc5 16. Re1 Rb6 17. Qa5 Bb4 18. Qg5 Bxc3 19. Qxg7# 1-0

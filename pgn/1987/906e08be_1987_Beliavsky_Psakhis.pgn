@@ -1,0 +1,20 @@
+[Event "Minsk ch-URS"]
+[Site "Minsk ch-URS"]
+[Date "1987.03.01"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Psakhis, Lev"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "906e08be"]
+[Epoch "Queen"]
+[WhiteID "14602377"]
+[WhiteCountry "SLO"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. a5 Nbd7 14. Re1 h5 15.
+Na4 Nh7 16. Bd2 Ng5 17. g3 Nxf3+ 1/2-1/2

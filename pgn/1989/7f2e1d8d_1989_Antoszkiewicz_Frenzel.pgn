@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Antoszkiewicz, G."]
+[Black "Frenzel, L."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "7f2e1d8d"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Ne4
+8. gxf5 Qh4+ 9. Ke2 Qf2+ 10. Kd3 Nc5+ 11. Kc4 a6 12. Nf3 b5+ 13. Nxb5 axb5+
+14. Kxb5 c6+ 15. Kb6 Qh4 16. Nxh4 1-0
+

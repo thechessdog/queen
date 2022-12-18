@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Weiz, W."]
+[Black "Nagler"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8322dcf8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. f4 a6 7. Nf3 Nb6 8.
+Be2 dxe5 9. dxe5 Qxd1+ 10. Bxd1 e6 11. O-O Bc5+ 12. Kh1 O-O 13. b3 Rd8 14.
+Nbd2 f5 15. exf6 gxf6 16. Ne4 Be7 17. Bb2 Nd5 18. g3 Nc6 19. Be2 Kf7 20.
+Rfd1 b5 21. Rac1 Bb7 22. Nc5 Bxc5 23. Rxc5 Nce7 24. Rdc1 Nxf4 25. gxf4 Rd2
+26. Rc7 Bd5 27. Ba3 Re8 28. Re1 Rxe2 29. Rxe2 Bxf3+ 30. Rg2 a5 31. Bd6 f5
+32. Ra7 Rd8 33. Rxe7+ Kf6 34. Kg1 Bxg2 35. Kxg2 Rxd6 36. Rxh7 Rd2+ 37. Kg1
+Rxa2 38. Rb7 b4 39. Rb5 Kg6 40. Rb6 Kh5 41. Rxe6 Kg4 42. Rg6+ Kxf4 43. h4
+a4 0-1
+

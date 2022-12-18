@@ -1,0 +1,22 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Behrhorst, Frank"]
+[Black "Schlosser, Philipp"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "c2a944eb"]
+[Epoch "Queen"]
+[WhiteID "4605322"]
+[WhiteCountry "GER"]
+[BlackID "4600169"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d5 9. cxd5 Nxd5 10. Ncxd5 exd5 11. Be2 Nc6 12. O-O Bf6 13. Be3 Bf5 14. Rc1 g6
+15. Rc5 Ne7 16. Qb3 Be4 17. Qxb7 Rb8 18. Qxa7 Rxb2 19. Bb5 Nf5 20. Qa4 Nxe3 21.
+fxe3 Bg5 22. Rf2 Rxf2 23. Kxf2 Bxf4 24. exf4 Qh4+ 25. Ke3 Qxh2 26. Be2 Qxg2 27.
+Kd2 Qf2 28. Rc3 Rb8 0-1

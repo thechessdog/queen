@@ -1,0 +1,18 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Kronsfoth, Stefan"]
+[Black "Bothmann, J."]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "6105611a"]
+[Epoch "Queen"]
+[WhiteID "24612120"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. e5 g5 5. h3 Nh6 6. d4 Nf5 7. Bd3 Ng3 8. Rg1
+Be6 9. Nbd2 h5 10. Nf1 g4 11. Nxg3 gxf3 12. Bxf4 fxg2 13. Rxg2 Qh4 14. Qd2 Bxh3
+15. Bg5 Bh6 16. Bxh4 Bxd2+ 17. Rxd2 1-0

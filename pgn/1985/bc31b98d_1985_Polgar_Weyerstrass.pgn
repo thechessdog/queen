@@ -1,0 +1,17 @@
+[Event "corr Wcup5"]
+[Site "corr Wcup5"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Polgar, P."]
+[Black "Weyerstrass, Ronald"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Spielmann variation"]
+[HashCode "bc31b98d"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6 fxe6 5. d4 c5 6. Nf3 Nc6 7. dxc5 g6 8. h4
+Nf6 9. h5 gxh5 10. Be2 e5 11. Ng5 Bg4 12. Rxh5 Bxe2 13. Qxe2 Qd7 14. Rxh7 Rxh7
+15. Nxh7 O-O-O 16. Nxf8 Rxf8 17. Nd1 Rh8 18. Ne3 Rh1+ 19. Nf1 Nd4 20. Qd3 Ne4
+21. b4 Qf5 22. Be3 Nxc2+ 0-1

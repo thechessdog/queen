@@ -1,0 +1,18 @@
+[Event "Paris op-2"]
+[Site "Paris"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Heitz, R."]
+[Black "Leroy, Adrien"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller (Therkatz) attack"]
+[HashCode "162ef9e3"]
+[Epoch "Queen"]
+[BlackID "603120"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8.
+O-O Bxc3 9. d5 Bf6 10. Re1 Ne7 11. Rxe4 d6 12. Bg5 Bxg5 13. Nxg5 h6 14. Qh5 O-O
+15. Ne6 fxe6 16. dxe6 Qe8 17. Qg4 d5 18. Bd3 dxe4 19. Qxe4 Qg6 0-1

@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Preussner"]
+[Black "Griesbach, R."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "b3f71628"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8.
+Ng5 e6 9. h4 c5 10. Nxh7 Kxh7 11. h5 Nef6 12. exf6 Nxf6 13. hxg6+ Kg8 14.
+gxf7+ Kxf7 15. dxc5 dxc5 16. Ne4 Rh8 17. Rxh8 Bxh8 18. Nxf6 Qxf6 19. Qh5+
+Kg8 20. Be3 b6 21. Be4 1-0
+

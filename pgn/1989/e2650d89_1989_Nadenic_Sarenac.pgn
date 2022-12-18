@@ -1,0 +1,20 @@
+[Event "corr YUG/M"]
+[Site "corr YUG/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nadenic"]
+[Black "Sarenac"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "e2650d89"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 a6 9. Bb3 Qc7 10. O-O-O O-O 11. Rhg1 b5 12. g4 b4 13. Nxc6 Qxc6 14.
+Nd5 exd5 15. g5 Nxe4 16. Bxd5 Qa4 17. Bxa8 Nc3 18. bxc3 Be6 19. Bd4 bxc3
+20. Bxc3 Rxa8 21. g6 hxg6 22. Rxg6 Qf4+ 23. Bd2 Qd4 24. c3 Qc5 25. Rdg1
+Qa3+ 26. Kd1 Bb3+ 27. Ke1 fxg6 28. axb3 Qxb3 29. Qxe7 Qb1+ 30. Ke2 Qxg1 31.
+Qe6+ 1/2-1/2
+

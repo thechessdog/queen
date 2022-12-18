@@ -1,0 +1,19 @@
+[Event "Mendoza"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ricardi, Pablo"]
+[Black "Garbarino, R."]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "c3e5ffd4"]
+[Epoch "Queen"]
+[WhiteID "100242"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. e3 O-O 8.
+N5c3 e4 9. Be2 Qe7 10. a3 a5 11. Nd2 Rd8 12. Qb3 Bf5 13. Nc4 Ra6 14. Bd2 Nxd5
+15. Nxd5 Rxd5 16. Bxa5 Nc6 17. Bc3 Nb4 18. Ne5 Ra8 19. O-O Be6 20. axb4 Rc8 21.
+Bc4 1-0

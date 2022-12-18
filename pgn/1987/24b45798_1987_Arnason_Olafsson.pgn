@@ -1,0 +1,19 @@
+[Event "Scandinavia"]
+[Site "Scandinavia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Arnason, Jon L"]
+[Black "Olafsson, Helgi"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "24b45798"]
+[Epoch "Queen"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bd3 O-O 10. O-O Nc5 11. Kh1 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "California"]
+[Site "California"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Alsasua, E."]
+[Black "Kirby, J."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "8d70e27b"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Nd7 5. exd5 cxd5 6. Qe2 Qc7 7. g3 Ngf6
+8. Bg2 Bd6 9. O-O Qxc2 10. Nd4 Qc7 11. Nf5 O-O 12. g4 Nc5 13. Nxd6 Qxd6 14.
+g5 Nfd7 15. Nf3 Re8 16. b4 Ne6 17. Bd2 b6 18. Rfe1 Nef8 19. Qd1 f5 20. gxf6
+Nxf6 21. Qb3 Kh8 22. b5 Ng6 23. Rac1 Bf5 24. Rc6 Qd7 25. Ng5 h6 26. Nf3 Nf4
+27. Bxf4 exf4 28. Ne5 Rxe5 29. Rxe5 Bh3 30. Bf3 Qf7 31. Qd1 Bd7 32. Rc2
+Bxb5 33. Rd2 Rc8 34. h3 Rc3 35. Kh2 Qc7 36. Qe2 Ne4 37. Rxd5 Nxd2 38. Rxb5
+Nxf3+ 39. Qxf3 Qc6 40. Rd5 Qe6 41. Rd8+ Kh7 42. Qxf4 Rc2 43. Rd6 Rxf2+ 44.
+Qxf2 Qxd6+ 45. Qg3 Qxg3+ 46. Kxg3 Kg6 47. Kf4 Kf6 48. Ke4 g5 49. d4 h5 50.
+d5 b5 51. d6 Ke6 52. d7 Kxd7 53. Kf5 g4 54. hxg4 hxg4 55. Kxg4 Ke6 56. Kf3
+Kd5 57. Ke3 Kc4 58. Kd2 Kb4 59. Kc2 Ka3 60. Kb1 b4 61. Ka1 a5 62. Kb1 a4
+63. Ka1 b3 0-1
+

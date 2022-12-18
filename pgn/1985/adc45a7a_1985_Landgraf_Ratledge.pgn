@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Landgraf, M."]
+[Black "Ratledge"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "adc45a7a"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 d6 4. fxe5 dxe5 5. Bxe5 Nf6 6. Nf3 O-O 7. Bxf6
+Qxf6 8. c3 Bf5 9. Qb3 Nc6 10. e3 Bd6 11. Be2 Nb4 12. Na3 Nd3+ 13. Bxd3 Bxd3
+14. Nb5 b6 15. Nxd6 Qxd6 16. a4 a5 17. Ra2 Rfe8 18. Rb2 1-0
+

@@ -1,0 +1,22 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Leviatan, Y."]
+[Black "Sokolova, M."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "fa80e718"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Bd6
+8. c3 b6 9. Qe2 Bb7 10. Nf5 Bf8 11. Bf4 Nd5 12. Nd6+ Bxd6 13. Bxd6 N7f6 14.
+Be5 O-O 15. O-O Qe7 16. Ng5 Rad8 17. a3 b5 18. g4 h6 19. Nh3 Nd7 20. Bg3 a6
+21. Rae1 c5 22. g5 hxg5 23. Qh5 N7f6 24. Qxg5 cxd4 25. cxd4 Nd7 26. Qh5 g6
+27. Qh6 Qf6 28. Ng5 Qh8 29. Qxh8+ Kxh8 30. Bd6 N7f6 31. Bxf8 Rxf8 32. f3
+Kg7 33. Be4 Nh5 34. f4 Rd8 35. Bg2 Rc8 36. Rf2 Rc4 37. Bf3 Rxd4 38. Rxe6
+Nhxf4 39. Rd6 f6 40. Rd7+ Kg8 41. Rxb7 fxg5 42. Bxd5+ Rxd5 43. Rc2 Rd8 44.
+Rc6 1-0
+

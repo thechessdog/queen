@@ -1,0 +1,23 @@
+[Event "corr Cities"]
+[Site "corr Cities"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hallier, K."]
+[Black "Muir, A."]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "0e209429"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nce2 h5 13. g3 Rc8 14.
+Nxc6 Bxc6 15. Bg2 Be7 16. Nd4 Bb7 17. Rhe1 Kd7 18. e5 Bxg2 19. Qxg2 Kc7 20.
+exd6+ Bxd6 21. Rd3 Kb8 22. Red1 Bc5 23. Qd2 Rc7 24. Nb3 Be7 25. Qa5 Qxa5
+26. Nxa5 f5 27. c3 h4 28. Nb3 hxg3 29. hxg3 Rh2 30. R1d2 Rh1+ 31. Kc2 Rg1
+32. Rd1 Rxd1 33. Kxd1 Kc8 34. Ke2 Rd7 35. Rxd7 Kxd7 36. Kd3 Kc6 37. c4 Bf6
+38. cxb5+ axb5 39. Nd4+ Kc5 40. Nf3 Bxb2 41. Ng5 Bd4 42. Nxf7 Bf2 43. Ng5
+Kd5 44. Nf3 Bxg3 45. Nd4 b4 46. Nc2 Bxf4 47. Nxb4+ Kc5 48. a3 e5 49. Na6+
+Kd6 50. Nb4 e4+ 51. Kd4 Be5+ 52. Ke3 Bc3 53. Na2 Ba5 0-1
+

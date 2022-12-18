@@ -1,0 +1,20 @@
+[Event "Buenos Aires Konex"]
+[Site "Buenos Aires Konex"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Giardelli, Sergio C."]
+[Black "Hoffman, Alejandro"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "41e5ffa7"]
+[Epoch "Queen"]
+[WhiteID "100099"]
+[WhiteCountry "ARG"]
+[BlackID "100340"]
+[BlackCountry "ARG"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Rd1 Bc6 10. Qxc4 Bd5 11. Qd3 Nc6 12. Nbd2 Nb4 13. Qb1 c5 14. e4 Bc6 15.
+e5 Ne8 16. Ne4 c4 17. Be3 1/2-1/2

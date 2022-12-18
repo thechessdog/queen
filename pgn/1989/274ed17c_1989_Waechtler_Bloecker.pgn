@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Waechtler, Frank"]
+[Black "Bloecker, D."]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "274ed17c"]
+[Epoch "Queen"]
+[WhiteID "4618025"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 f6 6. Bh4 Bg7 7. c3 Nge7 8.
+cxd4 O-O 9. Nc3 d6 10. h3 Bd7 11. O-O Kh8 12. d5 Ne5 13. Nd4 c6 14. dxc6 bxc6
+15. Ba4 Qb6 16. f4 Nc4 17. Bf2 Nxb2 18. Qc2 Nxa4 19. Ne6 Bxe6 20. Bxb6 Nxb6 21.
+Rad1 Nc4 22. Rfe1 Bg8 23. Qa4 Nb2 24. Qa3 Nc4 25. Qa6 f5 26. exf5 Nxf5 27. Ne4
+d5 28. Ng5 Nfe3 29. Rd3 c5 30. Nf3 d4 31. Rc1 Bd5 32. Ne5 Nxe5 33. fxe5 Bxe5
+34. Rxc5 Rf1# 0-1

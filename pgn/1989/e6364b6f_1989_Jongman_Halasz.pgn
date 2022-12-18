@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jongman, H."]
+[Black "Halasz, G."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "e6364b6f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. Nc3 f5 5. Bc4 a6 6. O-O b5 7. Nxb5 axb5
+8. Bxb5+ Bd7 9. Qe2 Bxb5 10. Qxb5+ Nd7 11. Re1 Rb8 12. Qf1 Qf6 13. Nxe5
+Nxe5 14. d4 Ne7 15. dxe5 Bxe5 16. Qc4 f4 17. c3 Rd8 18. Qb5+ Kf7 19. Qe2
+Ng6 20. c4 Rhe8 21. Qc2 f3 22. g3 Bxg3 23. Rxe8 Bxh2+ 24. Kh1 Rxe8 25. Be3
+Re5 26. Qd1 Rh5 0-1
+

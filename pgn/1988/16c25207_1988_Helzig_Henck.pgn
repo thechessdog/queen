@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Helzig, M."]
+[Black "Henck"]
+[Result "0-1"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch"]
+[HashCode "16c25207"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c5 5. cxd5 cxd4 6. Qxd4 Be7 7. e4 Nc6
+8. Qd2 Nxe4 9. Nxe4 exd5 10. Bxe7 Qxe7 11. Qxd5 O-O 12. f3 Nb4 13. Qc4 Bf5
+14. a3 Na6 15. Qd5 Bxe4 16. Qxe4 Qf6 17. Qb1 Rfe8+ 18. Ne2 Nc5 19. Kf2 Ne4+
+20. Ke1 Qh4+ 21. g3 Nxg3 22. hxg3 Qxh1 23. Qf5 Rad8 24. Rc1 Rxe2+ 0-1
+

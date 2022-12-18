@@ -1,0 +1,23 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Rozentalis, Eduardas"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "ecd65e05"]
+[Epoch "Queen"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "12800023"]
+[BlackCountry "LTU"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Qe2 Nd7 6. Nxe5 Nxe5 7. Bxe4 dxe4
+8. Qxe4 Be6 9. Qxe5 Qd7 10. Nc3 O-O-O 11. Be3 Bb4 12. O-O f6 13. Qe4 Bxc3 14.
+bxc3 Bd5 15. Qd3 Qc6 16. f3 h5 17. Rfe1 g5 18. Bd2 g4 19. Re7 gxf3 20. Bf4 Rd7
+21. Rxd7 Qxd7 22. c4 Qg4 23. Bg3 Be4 24. Qe3 fxg2 25. Re1 f5 26. d5 b6 27. Qd4
+Rh7 28. Qe5 Qg6 29. c5 bxc5 30. Rb1 h4 31. Bf4 Rd7 32. Qh8+ Rd8 33. Qxh4 Rxd5
+34. Qh8+ Kd7 35. Qf8 c4 36. a4 Qb6+ 37. Rxb6 Rd1+ 38. Kf2 g1=Q+ 0-1

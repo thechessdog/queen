@@ -1,0 +1,21 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Czerwonski, Aleksander"]
+[Black "Stempin, Pawel"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "cf456792"]
+[Epoch "Queen"]
+[WhiteID "1100459"]
+[WhiteCountry "POL"]
+[BlackID "1100068"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 Nc6 6. d5 Na5 7. Qa4 Bxc4 8. dxe6
+fxe6 9. Nc3 Nd5 10. Bd2 Bb4 11. Ne4 Qe7 12. Bg2 Bxd2+ 13. Nexd2 Ba6 14. Rc1 c5
+15. a3 O-O 16. h4 Rac8 17. Ne5 Qf6 18. f4 d6 19. Nd7 Qg6 20. Ne4 Nxf4 21. Nxf8
+Nxg2+ 22. Kf2 Rxf8+ 23. Kxg2 Bb7 24. Rhf1 Qxe4+ 25. Qxe4 Bxe4+ 0-1

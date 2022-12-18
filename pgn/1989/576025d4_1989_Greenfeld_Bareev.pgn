@@ -1,0 +1,19 @@
+[Event "Vidmar mem"]
+[Site "Ljublana Portoroz"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Greenfeld, Alon"]
+[Black "Bareev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "576025d4"]
+[Epoch "Queen"]
+[WhiteID "2800039"]
+[WhiteCountry "ISR"]
+[BlackID "4100140"]
+[BlackCountry "CAN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Nh4 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr Copa de Maestros"]
+[Site "corr Copa de Maestros"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Laurencena, Alberto"]
+[Black "Copie, J."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "dfad3d66"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 Nf6 5. Nc3 O-O 6. Be3 c6 7. a4 Qc7 8.
+Be2 Nbd7 9. O-O e5 10. dxe5 dxe5 11. a5 Rd8 12. Qc1 Nf8 13. Rd1 Rxd1+ 14.
+Qxd1 Ne6 15. Bf1 Bf8 16. Bc4 Bb4 17. Nd2 Nh5 18. Nb3 Nef4 19. g3 Nxh3+ 20.
+Kg2 Be7 21. Qd2 N5f4+ 0-1
+

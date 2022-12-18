@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Latell, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "symmetrical variation"]
+[HashCode "89a942d9"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. b3 b6 2. Bb2 Bb7 3. e3 d5 4. Bd3 c5 5. Bb5+ Nc6 6. Qf3 Qd6 7. Nc3 O-O-O 8.
+O-O-O d4 9. exd4 Nxd4 10. Ne4 Qg6 11. Bxd4 Bxe4 12. Ba6+ Kc7 13. Be5+ Kc6 14.
+Qe3 Bxg2 15. Bd3 Rxd3 16. Qxd3 Qxd3 17. cxd3 Bxh1 0-1

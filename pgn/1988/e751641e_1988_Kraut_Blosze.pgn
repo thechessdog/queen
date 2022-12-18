@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kraut, Rainer"]
+[Black "Blosze, Erik"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e751641e"]
+[Epoch "Queen"]
+[BlackID "4633989"]
+[BlackCountry "GER"]
+[WhiteID "4600282"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6 8.
+d5 Qd6 9. Nb5 Qe5+ 10. Be3 Na6 11. Rd1 Bg7 12. Nxa7 Rxa7 13. Qxb6 Ra8 14. Bb5+
+Kf8 15. Qd8# 1-0

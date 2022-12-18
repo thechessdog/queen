@@ -1,0 +1,26 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Valkesalmi, Kimmo"]
+[Black "Hentunen, Asko"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "b8662c87"]
+[Epoch "Queen"]
+[WhiteID "500054"]
+[WhiteCountry "FIN"]
+[BlackID "500429"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nf6 9. Nc3 O-O 10. cxd5 Nb4 11. Bc4 Nbxd5 12. Re1 c6 13. Bg5 Nc7 14. Qb3 Rb8
+15. Ne5 Be6 16. Bxe6 fxe6 17. Rad1 Re8 18. Rd3 Nfd5 19. Bc1 Bg5 20. Bxg5 Qxg5
+21. Rg3 Qd8 22. Re4 Rf8 23. Reg4 Ne8 24. Ne2 Rf5 25. Nc3 Qc7 26. h3 Rd8 27. Ne4
+Qe7 28. Qa4 a6 29. Nd3 Nb6 30. Qc2 Rxd4 31. Ndc5 Rdd5 32. b4 Rd8 33. Ng5 Rxg5
+34. Rxg5 Rd5 35. R5g4 Nc8 36. Qe4 e5 37. Qf5 Ncd6 38. Qe6+ Qxe6 39. Nxe6 Nf5
+40. Rf3 Rd6 41. Rxf5 Rxe6 42. Re4 Nf6 43. Rexe5 Rd6 44. Re7 b5 45. Ra7 h6 46.
+Rxa6 Nd5 47. a3 Ne7 48. Re5 Rd7 49. g3 Kf7 50. Kg2 Rc7 51. Rc5 Ke8 52. Ra8+ Kd7
+53. Rf8 Ke6 54. Rc2 1-0

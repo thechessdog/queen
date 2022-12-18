@@ -1,0 +1,23 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Campora, Daniel H."]
+[Black "Jakob, Simon"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "6ed48fe5"]
+[Epoch "Queen"]
+[BlackID "1301110"]
+[BlackCountry "SUI"]
+[WhiteID "100013"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 Qb6 9. Bxc6 Nxc6 10. dxe5 Nxe5 11. Nc3 d6 12. Nxe5 dxe5 13. Be3 Qxb2 14.
+Nd5 O-O 15. Nc7 Be6 16. Nxa8 Rxa8 17. Qa4 a5 18. Reb1 Qc3 19. Qb5 Bf8 20. Qxb7
+Rd8 21. Rc1 Qb4 22. Qxb4 axb4 23. f3 Ra8 24. Bd2 Rxa2 25. Rxa2 Bxa2 26. Rc8 Kg7
+27. Rb8 Bc5+ 28. Kf1 Bc4+ 29. Ke1 b3 30. Bc3 Bd4 31. Bxd4 exd4 32. Rb4 Be6 33.
+Kd2 Kf6 34. Kd3 h6 35. Kxd4 Ke7 36. f4 Kd6 37. Rb6+ Kc7 1-0

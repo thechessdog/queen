@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Neckel"]
+[Black "Knoth"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "e0a84af7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 a6 8.
+a3 b5 9. Bd3 c5 10. dxc5 Bxc5 11. b4 Be7 12. Bb2 Bb7 13. O-O Nbd7 14. Qe2
+Rc8 15. Rfd1 Qc7 16. Rac1 Qb8 17. e4 Rfd8 18. h3 Nf8 19. Bb1 Qa8 20. Nd4
+Ng6 21. Nb3 Qb8 22. Rxd8+ Rxd8 23. g3 Ne5 24. Na5 Rd2 25. Qe3 Rxb2 26. Qb6
+Nc4 27. Qxb7 Qxb7 28. Nxb7 Nxa3 29. Nc5 Nxb1 30. Nxb1 Rxb4 31. Nxa6 Rxe4
+32. Rc8+ Bf8 33. Nd2 Rd4 34. Nb3 Rd1+ 35. Kg2 g6 36. Rb8 Kg7 37. Rxb5 Rb1
+38. Rb7 Ne4 39. Nac5 Bxc5 40. Nxc5 Rxb7 41. Nxb7 e5 42. Nc5 Nxc5 0-1
+

@@ -1,0 +1,21 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1987.09.01"]
+[Round "1"]
+[White "Jukic, Mirko"]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "7bb224af"]
+[Epoch "Queen"]
+[WhiteID "14500175"]
+[WhiteCountry "CRO"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 e6 5. Nc3 Nf6 6. e4 exd5 7. e5 Nfd7 8. Bg5
+Be7 9. Bxe7 Qxe7 10. Nxd5 Qd8 11. Bxc4 Nc6 12. Qa4 Nb6 13. Nxb6 Qxb6 14. O-O
+O-O 15. Qc2 g6 16. Qe4 Na5 17. Bd5 Be6 18. Bxe6 Qxe6 19. Qh4 h5 20. Rad1 Nc6
+21. Rd6 Qf5 22. Re1 Rad8 23. Rxd8 1/2-1/2

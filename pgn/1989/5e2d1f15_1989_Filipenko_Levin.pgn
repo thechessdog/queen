@@ -1,0 +1,23 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Filipenko, Alexander V"]
+[Black "Levin, Felix"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "5e2d1f15"]
+[Epoch "Queen"]
+[WhiteID "4104471"]
+[WhiteCountry "RUS"]
+[BlackID "4650905"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Bxc6 bxc6 7. Nxe5 O-O 8.
+O-O Nxe4 9. Re1 Nd6 10. Bf4 f6 11. Nd3 Nf7 12. Qa4 a5 13. Nd2 Ba6 14. Nc5 Bb5
+15. Qc2 Bxc5 16. dxc5 d6 17. c4 Ba6 18. Nb3 Bb7 19. a4 Re8 20. Qc3 Bc8 21. Nxa5
+Bd7 22. Nb3 Rxe1+ 23. Qxe1 Ne5 24. Qc3 Qe8 25. cxd6 cxd6 26. c5 d5 27. Nd4 Qg6
+28. h3 h5 29. Kh2 Qe4 30. Be3 g5 31. Qc2 Qh4 32. Kg1 g4 33. Bf4 Kg7 34. Qf5
+gxh3 35. Qxd7+ Nxd7 36. Nf5+ Kf7 37. Nxh4 1-0

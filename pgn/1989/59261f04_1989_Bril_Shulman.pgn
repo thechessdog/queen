@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bril, Leonid"]
+[Black "Shulman, Vladlen"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Icelandic gambit"]
+[HashCode "59261f04"]
+[Epoch "Queen"]
+[WhiteID "11600322"]
+[BlackID "11600187"]
+[WhiteCountry "LAT"]
+[BlackCountry "LAT"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Nc3 Ne4 7. d5 Qf6 8.
+Nf3 Nxc3 9. bxc3 Bxc3+ 10. Bd2 Bxa1 11. Bg5 Bc3+ 12. Ke2 Qg6 13. Qb3 Bg4 14. h4
+Qe4+ 15. Be3 Ba5 16. Qa4+ Nc6 17. dxc6 O-O-O 18. Qb3 0-1

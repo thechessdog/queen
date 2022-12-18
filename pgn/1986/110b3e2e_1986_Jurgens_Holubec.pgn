@@ -1,0 +1,21 @@
+[Event "corr CAN-USA"]
+[Site "corr CAN-USA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jurgens"]
+[Black "Holubec"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "110b3e2e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. O-O a6
+8. c4 Nb4 9. Nc3 g6 10. Ne4 b6 11. Nfg5 Nd3 12. Nxf7 Kxf7 13. Qf3+ Ke8 14.
+Qxd3 Bb7 15. Ng5 e6 16. Qg3 Be7 17. d3 h6 18. Nh3 g5 19. f4 Rg8 20. Qg4 Qc7
+21. Bd2 Kd8 22. Rae1 Kc8 23. fxg5 hxg5 24. Rf7 Qd8 25. Ref1 Kb8 26. Nf2 Ka7
+27. Ne4 Bxe4 28. Qxe4 Rc8 29. Qh7 Rh8 30. Qg6 Rg8 31. Rg7 Rf8 32. Rff7 Rxf7
+33. Qxf7 Bf8 34. Qxd7+ Qxd7 35. Rxd7+ Kb8 36. Bxg5 Re8 37. h4 b5 38. Rf7 b4
+39. h5 1-0
+

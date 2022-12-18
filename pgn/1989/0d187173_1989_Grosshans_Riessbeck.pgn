@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grosshans, Ralf"]
+[Black "Riessbeck, J."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "0d187173"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O d6
+8. c3 Bg4 9. Qb3 Na5 10. Qc2 h6 11. d4 exd4 12. h3 hxg5 13. hxg4 dxc3 14.
+Nxc3 c6 15. Bxg5 cxd5 16. Nxd5+ Kf7 17. b4 Bd4 18. Rad1 1-0
+

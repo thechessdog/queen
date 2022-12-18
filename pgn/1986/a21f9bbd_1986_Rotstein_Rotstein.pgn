@@ -1,0 +1,20 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rotstein, Efim"]
+[Black "Rotstein, Arkadij"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "a21f9bbd"]
+[Epoch "Queen"]
+[BlackID "4662997"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8. h3 h6
+9. Qe2 dxc4 10. Bxc4 Bd6 11. Rd1 Qe7 12. e4 e5 13. d5 Nd4 14. Nxd4 exd4 15.
+Rxd4 b5 16. Bd3 Be5 17. Be3 Bb7 18. Bc2 Bxd4 19. Bxd4 c5 20. dxc6 Bxc6 21. e5
+Nd7 22. Qd3 g6 23. Qd2 Nxe5 24. Qe3 Rfe8 25. Qxh6 Qf6 26. Ne2 Bxg2 27. Be3 Bb7
+28. Kf1 0-1

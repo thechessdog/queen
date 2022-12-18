@@ -1,0 +1,23 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hartmann, Gerald"]
+[Black "Schuh, Hubert"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Vitolins variation"]
+[HashCode "3d954815"]
+[Epoch "Queen"]
+[WhiteID "4603729"]
+[WhiteCountry "GER"]
+[BlackID "4600894"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5+ Bd7 7. Qe2 a6 8.
+Bxd7+ Nbxd7 9. g4 h6 10. g5 hxg5 11. Bxg5 Rc8 12. f4 Rh3 13. O-O-O Rhxc3 14.
+bxc3 Qa5 15. Kb1 d5 16. Bxf6 Nxf6 17. Nb3 Qxc3 18. exd5 Ba3 19. Qe5 Ne4 20. Rc1
+f6 21. Qxc3 Nxc3+ 22. Ka1 Bxc1 23. Rxc1 Nxd5 24. f5 exf5 25. Nd4 f4 26. Nf5 Kf8
+27. c4 Ne3 28. Nd6 Rc6 29. Nxb7 f3 30. Nd8 Rd6 31. Nb7 Rd1 32. Rxd1 Nxd1 33. c5
+f2 34. c6 f1=Q 35. c7 Qc4 36. Nd8 Qc1# 0-1

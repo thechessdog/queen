@@ -1,0 +1,18 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rovere, Julio"]
+[Black "Alvarez, Roberto"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "69303a80"]
+[Epoch "Queen"]
+[BlackID "111902"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nge7 8. Nf3
+Nd4 9. O-O O-O 10. Bh6 Nxf3+ 11. Bxf3 Bxh6 12. Qxh6 e5 13. h4 Be6 14. Kg2 f5
+15. h5 Qe8 16. hxg6 Qxg6 17. Qxg6+ hxg6 18. Nb5 Rad8 0-1

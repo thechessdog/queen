@@ -1,0 +1,19 @@
+[Event "SGS DTU 1"]
+[Site "SGS DTU 1"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vermeulen, M."]
+[Black "Van der Snee, W."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "a5917a19"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 Nc6 4. c3 e5 5. dxe5 Nxe5 6. Be2 c6 7. Nf3 Bd6 8.
+Nbd2 O-O 9. b3 Bf5 10. Nxe5 Bxe5 11. Bb2 Ne4 12. Nxe4 Bxe4 13. Bf3 Bf5 14.
+O-O Re8 15. g3 Re6 16. Bg4 Qf6 17. Bxf5 Qxf5 18. Kg2 Rh6 19. Rh1 Re8 20.
+Rb1 Bd6 21. Rc1 Qh3+ 22. Kg1 Bxg3 23. fxg3 Rxe3 24. Qf1 Rxg3+ 25. hxg3
+Qxh1+ 26. Kf2 Rf6+ 27. Ke2 Qh2+ 28. Kd3 Rxf1 29. Rxf1 Qxb2 30. Re1 Kf8 0-1
+

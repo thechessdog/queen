@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cotten, D."]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "ffed4c41"]
+[Epoch "Queen"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. dxe4
+Nxc4 9. Qd4 Nd6 10. e5 Nf5 11. Qa4+ Qd7 12. Qxd7+ Nxd7 13. O-O Bc5 14. Nc3 Nd4
+15. Bf4 O-O 16. Ne4 Ne2+ 17. Kh1 Nxf4 0-1

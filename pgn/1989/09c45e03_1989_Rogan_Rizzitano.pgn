@@ -1,0 +1,19 @@
+[Event "Chicago US Open"]
+[Site "Chicago US Open"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Rogan, M."]
+[Black "Rizzitano, James"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "09c45e03"]
+[Epoch "Queen"]
+[BlackID "2000806"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. d3 e6 7. Be3 Nd4 8. Qd2
+Ne7 9. O-O-O Qb6 10. Rde1 Nec6 11. Bxd4 cxd4 12. Nd1 Bd7 13. c4 dxc3 14. Nexc3
+Nd4 15. f4 Rc8 16. Rhf1 Qa6 17. Kb1 b5 18. Ne3 b4 19. Ne2 b3 20. a3 Nc2 21. Rd1
+Qxa3 0-1

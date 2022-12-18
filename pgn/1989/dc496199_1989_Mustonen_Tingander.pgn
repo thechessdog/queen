@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mustonen"]
+[Black "Tingander"]
+[Result "1-0"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Capablanca variation"]
+[HashCode "dc496199"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Bd3 Nc6
+8. Ne2 b6 9. e4 Ne8 10. e5 Ba6 11. O-O Na5 12. f4 f5 13. exf6 Nxf6 14. f5
+exf5 15. Rxf5 cxd4 16. Bg5 Rf7 17. Nxd4 Nxc4 18. Qf3 Rc8 19. Rf1 Qe7 20.
+Qg3 Rcf8 21. Rxf6 Rxf6 22. Rxf6 Rxf6 23. Bxf6 Qxf6 24. Qc7 b5 25. Qxd7 Qe5
+26. Nf5 Qe1+ 27. Bf1 Qe5 28. h3 Nxa3 29. Nd6 Qe3+ 30. Kh1 Qxc3 31. Qe8# 1-0
+

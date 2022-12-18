@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Di Tolla"]
+[Black "Marini, Luis"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "6be75c2e"]
+[Epoch "Queen"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e5 7. Nf5 Bxf5 8.
+exf5 Nc6 9. Bg5 Be7 10. O-O Nd4 11. f4 O-O 12. Kh1 Rc8 13. Bd3 b5 14. Bxf6 Bxf6
+15. Qh5 b4 16. Nd5 a5 17. g4 exf4 18. c3 Nc6 19. g5 g6 20. fxg6 fxg6 21. Bxg6
+hxg6 22. Qxg6+ Bg7 23. Qe6+ Kh8 24. Rf3 Be5 25. Rh3+ Kg7 26. g6 Bf6 27. Rh7+
+Kxg6 28. Qe4+ Kg5 29. Rg1# 1-0

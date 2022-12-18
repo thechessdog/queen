@@ -1,0 +1,33 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Psion Atari 8mhz"]
+[Black "Expert 4mhz"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation, main line"]
+[HashCode "c6b040f0"]
+[Epoch "Queen"]
+
+1. Nf3 c6 2. d4 d5 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 11. e5 Nd5 12. Bd2 Be7 13. a5 Nb4 14. Ne4
+Nd5 15. Rfc1 Bxe4 16. Qxe4 f6 17. exf6 Rxf6 18. Bd3 g6 19. a6 Qc8 20. Ne5
+Nxe5 21. dxe5 Rf8 22. Qc4 c5 23. Bh6 Rd8 24. Qg4 Kh8 25. axb7 Qxb7 26. Qxe6
+Nf4 27. Bxf4 Rxd3 28. Be3 Bf8 29. Bxc5 Qxb2 30. Rcb1 Qc2 31. Be3 Qc7 32.
+Rc1 Qb7 33. Rab1 Qd7 34. Qxd7 Rxd7 35. h3 Re8 36. f4 Bg7 37. Rd1 Rde7 38.
+Kf2 Kg8 39. Ra1 g5 40. g3 gxf4 41. gxf4 Rf8 42. Kg3 Ra8 43. Kg4 a6 44. Rd6
+a5 45. Rd3 Ra6 46. Rda3 Rg6+ 47. Kf3 Rh6 48. Kg2 Rg6+ 49. Kf2 Rh6 50. Rxa5
+Rxh3 51. Ra7 Bxe5 52. fxe5 Rxe5 53. Bd4 Rhh5 54. Bxe5 Rf5+ 55. Kg3 Rxe5 56.
+Kf4 Re8 57. Rh1 h5 58. Rxh5 Re1 59. Rh4 Rf1+ 60. Ke5 Re1+ 61. Re4 Rc1 62.
+Rf4 Rc5+ 63. Kd4 Rc1 64. Rf3 Re1 65. Re3 Rd1+ 66. Rd3 Re1 67. Rf3 Rd1+ 68.
+Ke5 Rc1 69. Rb7 Rc5+ 70. Kd4 Rc2 71. Rc3 Rd2+ 72. Rd3 Re2 73. Rg3+ Kf8 74.
+Rf3+ Kg8 75. Rc7 Re1 76. Re3 Rd1+ 77. Rd3 Re1 78. Rf3 Re2 79. Re3 Rd2+ 80.
+Rd3 Re2 81. Rh3 Re1 82. Rb7 Rd1+ 83. Ke4 Re1+ 84. Re3 Rf1 85. Rg3+ Kh8 86.
+Rg4 Re1+ 87. Kf5 Re5+ 88. Kf6 Re6+ 89. Kg5 Re5+ 90. Kh6 Rh5+ 91. Kg6 Rh6+
+92. Kf5 Rf6+ 93. Ke5 Rf5+ 94. Ke4 Re5+ 95. Kd4 Rd5+ 96. Kc4 Rc5+ 97. Kd3
+Rc3+ 98. Ke4 Rc4+ 99. Kf5 Rc5+ 100. Kf6 Rc6+ 101. Ke7 Re6+ 102. Kf8 Re8+
+103. Kf7 Rf8+ 104. Ke6 Rf6+ 105. Kd5 Rf5+ 106. Kc6 Rc5+ 107. Kd6 Rd5+ 108.
+Ke6 1/2-1/2
+

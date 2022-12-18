@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marquardt, R."]
+[Black "Rietz, A."]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "6b16bb22"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Qe2 Nxe5 7. Bxe4
+dxe4 8. Qxe4 Be6 9. Qxe5 Qd7 10. O-O O-O-O 11. c3 Bd6 12. Qa5 a6 13. Nd2
+Bd5 14. f3 Qe6 15. Ne4 Bxe4 16. fxe4 Qxe4 17. Qf5+ Qxf5 18. Rxf5 f6 19. Bf4
+Rhe8 20. Kf2 g6 0-1
+

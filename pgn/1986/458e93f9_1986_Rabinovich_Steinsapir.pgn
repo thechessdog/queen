@@ -1,0 +1,25 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rabinovich, N."]
+[Black "Steinsapir, I."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "458e93f9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qe7 6. d4 exd4 7. Qxd4
+Bg4 8. Bf4 Bxf3 9. gxf3 Nf6 10. Nc3 Rc8 11. Rad1 Qc5 12. Ne2 Be7 13. Be5
+Qxd4 14. Nxd4 Nd7 15. Bg3 Nc5 16. Rfe1 O-O 17. f4 Rfd8 18. b3 Rd7 19. Nf5
+Bf8 20. Rxd7 Nxd7 21. Ne3 Re8 22. f3 Bc5 23. f5 g6 24. fxg6 hxg6 25. Bf2
+Ne5 26. Kg2 f6 27. Rd1 Kf7 28. h4 Ke6 29. Ng4 Bd6 30. Bg3 Rh8 31. Nxe5 fxe5
+32. Bf2 a5 33. Kg3 Be7 34. Rh1 a4 35. Be3 axb3 36. axb3 Ra8 37. Kg4 Ra2 38.
+Rh2 c5 39. f4 exf4 40. Bxf4 c6 41. h5 gxh5+ 42. Rxh5 Rxc2 43. Rh6+ Kf7 44.
+Kf5 Bf8 45. Rh7+ Bg7 46. e5 Re2 47. e6+ Kg8 48. Rh3 b5 49. Be3 Bd4 50. Bxd4
+cxd4 51. Kf6 c5 52. e7 Rf2+ 53. Ke6 Re2+ 54. Kd7 Kf7 55. Rf3+ Kg6 56. e8=Q+
+Rxe8 57. Kxe8 Kg5 58. Rf1 c4 59. Rd1 d3 60. Kd7 Kf4 61. Kc6 Ke3 62. Kxb5
+Ke2 63. Kxc4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eriksson, Magnus"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "8766f0ac"]
+[Epoch "Queen"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Qd2 O-O 8.
+O-O-O Re8 9. f3 d6 10. g4 Ne5 11. Be2 a6 12. Rdg1 b5 13. h4 c5 14. Nf5 gxf5 15.
+gxf5 Kh8 16. Bh6 Bxh6 17. Qxh6 Rg8 18. Rg5 Ned7 19. Rd1 Bb7 20. Rxd6 Qe7 21.
+Rd1 Rae8 22. Rdg1 Qf8 23. Rxg8+ Nxg8 24. Qf4 Ngf6 25. a4 b4 26. Nd1 Qe7 27. Qc7
+Ne5 28. Qb6 Rd8 29. f4 Rd6 30. Qa7 Nc6 0-1

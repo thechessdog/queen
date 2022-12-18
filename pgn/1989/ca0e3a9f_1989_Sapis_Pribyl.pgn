@@ -1,0 +1,19 @@
+[Event "Leningrad2"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sapis, Witalis"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "ca0e3a9f"]
+[Epoch "Queen"]
+[WhiteID "1100254"]
+[WhiteCountry "POL"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 d5 4. e3 Bg7 5. Be2 O-O 6. Ne5 c5 7. c3 Nfd7 8. Nxd7
+Nxd7 9. Bf3 cxd4 10. cxd4 e5 11. dxe5 Nxe5 12. Bxe5 Bxe5 13. Nc3 d4 1/2-1/2

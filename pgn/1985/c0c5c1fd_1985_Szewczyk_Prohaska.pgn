@@ -1,0 +1,20 @@
+[Event "corr ol9"]
+[Site "corr ol9"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Szewczyk"]
+[Black "Prohaska"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "c0c5c1fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8
+8. f4 Nxd4 9. Qxd4 Qa5 10. O-O-O e6 11. Bc4 Qc5 12. Bb3 Be7 13. Bxf6 gxf6
+14. Qd3 b5 15. f5 b4 16. fxe6 fxe6 17. Ne2 a5 18. Nd4 Qe5 19. Qa6 Kf7 20.
+Nf5 Rhd8 21. Qe2 Qf4+ 22. Kb1 Bf8 23. Qh5+ Kg8 24. Rd3 Be8 25. Bxe6+ Kh8
+26. Qf3 Qxf3 27. gxf3 Rc5 28. Rg1 Bg6 29. h4 Rc7 30. h5 Bf7 31. Bxf7 Rxf7
+32. Rd5 Ra7 33. h6 Ra6 34. Rd2 Ra7 35. Rdg2 Be7 36. Rg7 Re8 37. Rf7 1-0
+

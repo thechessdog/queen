@@ -1,0 +1,25 @@
+[Event "Lauda"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Stein, W."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "fc2eca8b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d4 Nxd4 9. Bxf7+ Rxf7 10. Nxe5 Rf8 11. Qxd4 c5 12. Qd1 Bb7 13. Nc3 d6 14.
+Ng4 Nxg4 15. Qxg4 Bc8 16. Qd1 Be6 17. Nd5 Bf6 18. c3 Kh8 19. f4 Bh4 20. g3
+Bf6 21. f5 Bxd5 22. Qxd5 Be5 23. Rf1 Qf6 24. Bf4 Rae8 25. Rad1 Bxf4 26.
+Rxf4 Rd8 27. Qe6 Qxe6 28. fxe6 Rfe8 29. e7 Rxe7 30. Rxd6 Rde8 31. Rxa6 g5
+32. Rf5 Rxe4 33. Rxg5 Re2 34. Rf6 Rxb2 35. Rf2 Rb1+ 36. Kg2 c4 37. Rd5 Rc8
+38. Rdd2 b4 39. Rb2 Rxb2 40. Rxb2 bxc3 41. Rc2 Rb8 42. Rxc3 Rb2+ 43. Kh3
+Rxa2 44. Rxc4 Kg7 45. Rc5 Kg6 46. g4 Rb2 47. Kg3 Ra2 48. Kh4 Rb2 49. Rc6+
+Kg7 50. h3 Rb4 51. Kh5 Rb5+ 52. g5 Rb3 53. Rc7+ Kg8 54. h4 Rb6 55. Rc2 Kg7
+56. Rc4 Ra6 57. Kg4 Rb6 58. h5 Ra6 59. Rc7+ Kg8 60. Rc8+ Kg7 61. h6+ Kf7
+62. Rh8 Ra4+ 63. Kh5 Rb4 64. Rxh7+ 1-0
+

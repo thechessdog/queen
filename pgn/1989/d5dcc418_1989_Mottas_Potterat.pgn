@@ -1,0 +1,22 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mottas, Christian"]
+[Black "Potterat, Marc"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "d5dcc418"]
+[Epoch "Queen"]
+[WhiteID "1302167"]
+[BlackID "1301071"]
+[WhiteCountry "SUI"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
+Qc7 9. f4 Be7 10. Kh1 Bc4 11. Be3 Nbd7 12. Qd2 Rc8 13. Rad1 b5 14. a3 O-O 15.
+f5 Rfd8 16. g4 d5 17. exd5 Nc5 18. Bxc4 bxc4 19. Nxc5 Bxc5 20. Bxc5 Qxc5 21. h3
+Qb6 22. g5 Nh5 23. Ne4 Qxb2 24. Nf6+ gxf6 25. gxf6 Nf4 26. Rxf4 exf4 27. Qg2+
+Kf8 28. Qg7+ Ke8 29. Qg8+ Kd7 1-0

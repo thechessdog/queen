@@ -1,0 +1,20 @@
+[Event "Bad Mergentheim op"]
+[Site "Bad Mergentheim"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmidt, Stefan"]
+[Black "Radulov, Ivan"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "c842bc61"]
+[Epoch "Queen"]
+[BlackID "2900300"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. d3 Nge7 6. c4 O-O 7. Nc3 d6 8. h3
+h6 9. Nh2 Nd4 10. Be3 f5 11. Bxd4 exd4 12. Ne2 f4 13. f3 g5 14. Qd2 c5 15. Ba4
+Ng6 16. Kf2 h5 17. Rh1 Ne5 18. Rag1 Kh7 19. Ke1 Be6 20. Kd1 Bxc4 21. Nc1 Be6
+22. Bc2 c4 23. b3 cxd3 24. Nxd3 Nxd3 25. Bxd3 Be5 26. Ke2 Rc8 27. Rc1 Rc3 28.
+Rhd1 Kg7 29. Bc4 Bxc4+ 30. bxc4 Qb6 0-1

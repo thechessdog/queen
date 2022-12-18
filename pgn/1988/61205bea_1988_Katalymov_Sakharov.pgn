@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Katalymov"]
+[Black "Sakharov"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "61205bea"]
+[Epoch "Queen"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 Nf6
+8. e3 g6 9. Nc3 Bg7 10. Ne4 O-O 11. Bxf6 Bxf6 12. Nxf6+ exf6 13. Nf3 d6 14.
+Qa1 Qe7 15. cxd6 Qxd6 16. Qd4 Qe7 17. Be2 Rd8 18. Qf4 Bf5 19. O-O Be4 20.
+Nd4 f5 21. d3 Bd5 22. b5 c5 23. Nc2 Nd7 24. Qc7 Ra8 25. Ra1 Rxa1+ 26. Nxa1
+b6 27. Nc2 Qe6 28. Ne1 Kg7 29. h3 Ba8 30. Bf3 Bxf3 31. Nxf3 Qd5 32. d4 cxd4
+33. Nxd4 f4 34. Qxf4 Ne5 35. Qg5 f6 36. Qg3 Qa2 37. f4 Nc4 38. f5 Nd2 39.
+Ne6+ Kf7 40. Qc7+ Ke8 41. Qd8+ Kf7 42. Qf8# 1-0
+

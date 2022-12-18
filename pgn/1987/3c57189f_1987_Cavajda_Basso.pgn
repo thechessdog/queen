@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cavajda, I."]
+[Black "Basso, G."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3c57189f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O cxd4
+8. cxd4 O-O 9. Nc3 Qd6 10. Ne5 Rd8 11. Nb5 Qb6 12. a4 Rf8 13. a5 Qd8 14.
+Bf3 Na6 15. Nc3 Nb4 16. a6 Nfd5 17. Nxd5 Nxd5 18. Qb3 bxa6 19. Nc6 Qc7 20.
+Nxe7+ Qxe7 21. Bxd5 exd5 22. Qxd5 Rb8 23. Bg5 Qb4 24. Qe4 Be6 25. Ra3 Rfe8
+26. Re3 Qxb2 27. Rg3 Bc4 28. Be7 Qe2 29. Qxe2 Bxe2 30. Bf6 Rb6 31. Bxg7 Rg6
+32. Rxg6 hxg6 33. Be5 Bxf1 34. Kxf1 a5 35. Bd6 a4 36. Bc5 f5 37. g3 Kf7 38.
+h3 Rc8 0-1
+

@@ -1,0 +1,27 @@
+[Event "Agria op"]
+[Site "Eger"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Horvath, Csaba"]
+[Black "Nagl, Franz"]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "3baf0747"]
+[Epoch "Queen"]
+[WhiteID "700118"]
+[BlackID "1601180"]
+[WhiteCountry "HUN"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3
+Ne4 9. Ne5 f5 10. Nd2 Qb6 11. e3 Nxe5 12. dxe5 Bd7 13. Bb2 Nxd2 14. Qxd2 Be8
+15. Rfc1 Bg6 16. cxd5 exd5 17. Bd4 Qd8 18. b4 a6 19. Qb2 Re8 20. a4 Bf8 21. Bc5
+Qd7 22. Bxf8 Rxf8 23. Qd4 Bf7 24. f4 Be6 25. Rab1 Rfc8 26. Bf1 b5 27. a5 Qa7
+28. Rc5 Qf7 29. Rb2 h5 30. Rg2 Rab8 31. Be2 Rb7 32. h3 g6 33. Kf2 Qh7 34. Rc1
+Kf8 35. Ke1 Qe7 36. Bf3 Qe8 37. Kd2 Qe7 38. Rc5 Ke8 39. Kc3 Kd8 40. Qd1 Qd7 41.
+Kb2 Kc7 42. Qd4 Kb8 43. Rc1 Qe7 44. Rgc2 Bd7 45. Ka3 Qe6 46. Qc5 Rh8 47. Qd4
+Rc8 48. Rg1 Rh8 49. Kb2 Rh7 50. Rcg2 Qe7 51. Ka3 Be6 52. g4 hxg4 53. hxg4 Rh3
+54. gxf5 Bxf5 55. Bg4 Rh7 56. Bxf5 gxf5 57. Rg8+ Kc7 58. e6 Qxe6 59. R1g7+ Rxg7
+60. Qxg7+ Kd6 61. Rd8+ 1-0

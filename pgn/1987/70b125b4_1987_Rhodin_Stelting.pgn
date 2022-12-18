@@ -1,0 +1,22 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rhodin, Christian"]
+[Black "Stelting, Thorsten"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "70b125b4"]
+[Epoch "Queen"]
+[BlackID "4605616"]
+[BlackCountry "GER"]
+[WhiteID "4606051"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Kf8
+8. Qf3 h5 9. Bf4 Qe7+ 10. Kf1 Qc7 11. Ne2 Bg4 12. Bxd6+ Qxd6 13. Qb3 Nd7 14. f3
+Bf5 15. Bd3 Bxd3 16. Qxd3 g6 17. Kf2 Kg7 18. Ng3 f5 19. h4 Rhe8 20. Rae1 Nf6
+21. Qd2 Rad8 22. c3 c5 23. Rxe8 Rxe8 24. Rd1 c4 25. Ne2 Qh2 26. Ng3 f4 27. Qxf4
+1-0

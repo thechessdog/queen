@@ -1,0 +1,21 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hermann, Manfred"]
+[Black "Wesseln, Kai"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "b1c49734"]
+[Epoch "Queen"]
+[WhiteID "4600584"]
+[BlackID "4601106"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 b6 6. Bd3 Bb7 7. O-O d5 8. cxd5
+exd5 9. Ne5 Bd6 10. Nb5 Be7 11. Qc2 c5 12. b3 a6 13. Nc3 Nc6 14. Nxc6 Bxc6 15.
+Ne2 Bb7 16. Bb2 g6 17. Rad1 c4 18. bxc4 dxc4 19. Qxc4 Rc8 20. Qb3 Bd5 21. Qa4
+b5 22. Qxa6 Ra8 23. Qxb5 Ra5 0-1

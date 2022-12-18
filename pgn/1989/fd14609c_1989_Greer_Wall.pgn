@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Greer, Ken"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "fd14609c"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Bb5+ Nc6 5. Ngf3 Bd6 6. e5 Bc7 7. c3 Ne7 8. O-O
+a6 9. Ba4 b5 10. Bc2 Bb7 11. Nb3 cxd4 12. cxd4 Bb6 13. Bg5 h6 14. Bxe7 Qxe7 15.
+a3 g5 16. h3 g4 17. hxg4 Rg8 18. Qd2 Rxg4 19. Rfd1 f5 20. exf6 Qxf6 21. Ne5
+Nxe5 22. dxe5 Qg7 23. g3 Rxg3+ 0-1

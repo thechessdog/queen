@@ -1,0 +1,21 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wessman, Richard"]
+[Black "Bergstrom, Christer"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "13014606"]
+[Epoch "Queen"]
+[WhiteID "1700049"]
+[WhiteCountry "SWE"]
+[BlackID "1700154"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 O-O 7. O-O cxd4 8.
+exd4 d5 9. cxd5 Nxd5 10. a3 Be7 11. Bc2 Bf6 12. Ne4 e5 13. Qd3 Re8 14. N2c3
+Nxd4 15. Nxd5 Qxd5 16. Nxf6+ gxf6 17. Qxh7+ Kf8 18. Be4 Qd6 19. f4 Be6 20. fxe5
+Qxe5 21. Bh6+ Ke7 22. Bg7 Ne2+ 23. Kh1 Nf4 24. Rae1 Rad8 25. Bf5 1-0

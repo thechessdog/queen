@@ -1,0 +1,21 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "7"]
+[White "Mora, Federico"]
+[Black "Lagumina, Giulio"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "b8482fd0"]
+[Epoch "Queen"]
+[WhiteID "802549"]
+[WhiteCountry "ITA"]
+[BlackID "800619"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 Nc6 4. c3 Bc5 5. Nf3 d6 6. d3 a6 7. Bb3 Ba7 8. Nbd2
+O-O 9. h3 Be6 10. g4 Bxb3 11. axb3 d5 12. Nf1 dxe4 13. dxe4 Qd6 14. Ng3 Rad8
+15. Bg5 Qd3 16. Bxf6 gxf6 17. Nh4 Ne7 18. Nh5 Qxe2+ 19. Kxe2 Rd6 20. Rad1 Rfd8
+21. Nxf6+ Kg7 22. Nh5+ Kh6 23. Rxd6+ Rxd6 24. Rf1 Re6 25. f4 exf4 26. Rxf4 0-1

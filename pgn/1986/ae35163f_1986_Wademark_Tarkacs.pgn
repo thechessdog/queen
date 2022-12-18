@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wademark, H."]
+[Black "Tarkacs, G."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "ae35163f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Ne2 d5 10. c3 dxe4 11. dxe4 Qxd1 12. Rxd1 e5 13. fxe5 Nxe5 14.
+Nxe5 Bxe5 15. Bg5 f6 16. Be3 b6 17. Nf4 Bg4 18. Rd2 g5 19. Nd5 Nc6 20. Kf2
+Rae8 21. Bf3 Bxf3 22. Kxf3 Bb8 23. Bg1 f5 24. exf5 Rxf5+ 25. Kg2 Kg7 26.
+Rad1 Ne5 0-1
+

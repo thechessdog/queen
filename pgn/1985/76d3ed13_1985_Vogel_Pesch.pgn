@@ -1,0 +1,26 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vogel, Robert"]
+[Black "Pesch, Werner"]
+[Result "0-1"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "76d3ed13"]
+[Epoch "Queen"]
+[WhiteID "4604253"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 Nbd7 6. Be3 c5 7. Nge2 Qa5 8. Nc1
+a6 9. Nb3 Qc7 10. Be2 O-O 11. O-O Rb8 12. Rc1 b6 13. Qd2 Re8 14. Rfd1 Bb7 15.
+Na1 Rec8 16. a3 cxd4 17. Bxd4 Qd8 18. b4 Qf8 19. Be3 Ne5 20. Nd5 Nxd5 21. cxd5
+b5 22. Nb3 Nc4 23. Bxc4 bxc4 24. Na5 c3 25. Qd3 Qe8 26. Ba7 Qa4 27. Bxb8 Rxb8
+28. Qc2 Qxa3 29. Qb3 Qxb3 30. Nxb3 Bc8 31. Nd4 Rxb4 32. Nc6 Rc4 33. Nxe7+ Kf8
+34. Nxc8 Rxc8 35. Kf1 a5 36. Ke2 a4 37. Rc2 a3 38. Ra1 Ra8 39. Kd3 f5 40. Rxc3
+Bxc3 41. Kxc3 fxe4 42. fxe4 Ra4 43. Re1 a2 44. Kb2 Ke7 45. Ka1 Kf6 46. Rf1+ Ke5
+47. Rf7 Rxe4 48. Kxa2 h5 49. Kb3 Kxd5 50. Kc3 Re2 51. g4 Rxh2 52. gxh5 Rxh5 53.
+Rg7 Rg5 54. Kd3 Rg3+ 55. Ke2 Kd4 56. Rg8 d5 57. Ra8 Re3+ 58. Kf2 Re6 59. Ra4+
+Kd3 60. Ra3+ Kd2 61. Ra2+ Kc3 62. Ra3+ Kb4 63. Ra8 d4 64. Rc8 d3 65. Rc7 Kb3
+66. Rc8 d2 67. Rd8 Kc2 68. Rc8+ Kd1 69. Rd8 Rf6+ 70. Ke3 0-1

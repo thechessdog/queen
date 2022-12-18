@@ -1,0 +1,19 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hacker"]
+[Black "Beckmann"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "5cfa8803"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Qd7 10. Be2 O-O-O 11. O-O Kb8 12. d5 exd5 13. Bxb6 cxb6 14.
+cxd5 Bc5+ 15. Kh1 Nb4 16. Bb5 Qe7 17. d6 Qe6 18. Qe2 f6 19. Bc4 Qc8 20. a3
+Nc6 21. Rac1 Bd4 22. e6 Bc5 23. d7 Qc7 24. b4 Be7 25. Nd5 Qd6 26. b5 Na5
+27. Nxe7 Qxe7 28. Nd4 Bg6 29. Qf3 Qc5 30. Qf4+ 1-0
+

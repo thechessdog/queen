@@ -1,0 +1,19 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Robatsch, Karl"]
+[Black "Lau, Ralf"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "401a3950"]
+[Epoch "Queen"]
+[WhiteCountry "AUT"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. Rc1 dxc4 7. e4 c5 8. Bxc4
+cxd4 9. Nxd4 a6 10. O-O b5 11. Bb3 Bb7 12. e5 Ne4 13. Nxe4 Bxe4 14. Re1 Bb7 15.
+Be3 Kh8 16. Qg4 Nd7 17. Red1 Nxe5 18. Qg3 Bd6 19. Bf4 Qb8 1/2-1/2

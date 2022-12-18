@@ -1,0 +1,21 @@
+[Event "Pinerola"]
+[Site "Pinerola"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Caposciutti"]
+[Black "Arlandi, Ennio"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "0d1558ed"]
+[Epoch "Queen"]
+[BlackID "800104"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+d6 9. Re1 Be7 10. Nxc6 bxc6 11. e5 dxe5 12. Rxe5 O-O 13. Re1 Nd5 14. Nxd5 exd5
+15. Bf4 Qa7 16. Qd2 Be6 17. Be5 Rfd8 18. Qf4 Rac8 19. g4 h6 20. Rad1 Qd7 21.
+Qg3 f6 22. Bc3 Bd6 23. Qh4 Bxg4 24. Rd4 Bf5 25. Ra4 Re8 26. Rxe8+ Rxe8 27. Rxa6
+Bxc2 28. Qh5 Kh7 29. Bh3 f5 30. Ra7 Qxa7 31. Qxe8 Bxh2+ 32. Kg2 Be4+ 33. f3
+Qg1# 0-1

@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Krauss, G jr"]
+[Black "Tate, E."]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "7663cc7d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be2 e5 7. Nb3 Be7
+8. Bg5 O-O 9. Qd2 Kh8 10. O-O-O Be6 11. Kb1 Qb8 12. Bxf6 Bxf6 13. Nd5 Bd8
+14. g4 b5 15. f4 a5 16. f5 a4 17. fxe6 axb3 18. cxb3 fxe6 19. Rhf1 Rg8 20.
+Nc3 b4 21. Na4 Nd4 22. Rf7 Ra7 23. Rdf1 Rxf7 24. Rxf7 Nxe2 25. Qxe2 Bg5 26.
+Qd3 Bf4 27. h3 Rd8 28. a3 bxa3 29. bxa3 d5 30. Nc5 dxe4 31. Qxe4 Qc7 32.
+Qc4 Qa5 33. Qb4 Qa8 34. Qb7 Qxa3 35. Rd7 Ra8 36. Na4 Qc1+ 37. Ka2 Qc2+ 38.
+Ka3 Bc1+ 39. Kb4 Bd2+ 40. Ka3 Qc1+ 41. Ka2 Rf8 42. Rxg7 Qc2+ 43. Nb2 Bc1
+44. Ka3 Qxb2+ 45. Ka4 Qa2+ 46. Kb5 Qxb3+ 47. Kc6 Qxb7+ 48. Rxb7 e4 0-1
+

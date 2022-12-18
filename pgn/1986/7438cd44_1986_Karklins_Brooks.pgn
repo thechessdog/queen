@@ -1,0 +1,19 @@
+[Event "Midwest Masters op"]
+[Site "Illinois"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karklins, Andrew"]
+[Black "Brooks, Michael A"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "7438cd44"]
+[Epoch "Queen"]
+[WhiteID "2001730"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 b5 8. a3
+Bb7 9. O-O-O Nbd7 10. Kb1 Rc8 11. Bd2 Qc7 12. Be1 Be7 13. g4 d5 14. Bg2 dxe4
+15. Nxe4 Nd5 16. Bf3 Ne5 17. Rc1 Nf4 18. Qe3 Nc4 19. Qc3 Qe5 0-1

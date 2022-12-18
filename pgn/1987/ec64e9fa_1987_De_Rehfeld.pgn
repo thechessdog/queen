@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Smet"]
+[Black "Rehfeld"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "ec64e9fa"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 Bh3 8.
+O-O O-O-O 9. Nb3 Bxg2 10. Kxg2 f6 11. exf6 Nxf6 12. Qd3 Nb4 13. Qxd4 Qxd4
+14. Nbxd4 Bc5 15. Ne6 Nc2 16. Rb1 Be7 17. Nxd8 Rxd8 18. Bg5 h6 19. Bf4 g5
+20. Be5 Ne4 21. Rbd1 Rf8 22. Nd4 Ne3+ 23. fxe3 1-0
+

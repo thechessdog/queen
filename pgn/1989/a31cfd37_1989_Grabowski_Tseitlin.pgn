@@ -1,0 +1,20 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grabowski, Andrzej"]
+[Black "Tseitlin, Mark D"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "a31cfd37"]
+[Epoch "Queen"]
+[WhiteID "1100408"]
+[WhiteCountry "POL"]
+[BlackID "2800128"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 d6 6. e4 Bxa6 7. Bxa6 Qa5+ 8.
+Nc3 Nxa6 9. e5 dxe5 10. Nf3 Nb4 11. O-O Rd8 12. Nxe5 Qa6 13. Qb3 Nbxd5 14. Bg5
+e6 15. Nxd5 Rxd5 16. Rad1 Be7 17. Rxd5 exd5 18. Bxf6 Bxf6 19. Qb8+ Bd8 20. Re1
+O-O 21. Nd7 1-0

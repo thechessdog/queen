@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mathiesen, Bjarne"]
+[Black "Hansen, Soren Bech"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "379c3e64"]
+[Epoch "Queen"]
+[WhiteID "1433962"]
+[WhiteCountry "DEN"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 b6 4. Nc3 Bb7 5. e3 Be7 6. Bd3 Nc6 7. a3 d6 8. e4
+Nh5 9. Bxe7 Nxe7 10. Ng5 Nf4 11. Qf3 Neg6 12. Nh3 Nxd3+ 13. Qxd3 O-O 14. O-O-O
+c5 15. d5 Ne5 16. Qg3 exd5 17. Nxd5 Bxd5 18. Rxd5 Qf6 19. Qf4 Qg6 20. g3 Rfe8
+21. Rhd1 Re6 22. Ng5 Rf8 23. Nxe6 fxe6 24. Qh4 exd5 25. Rxd5 Nf3 26. Qe7 Qh6+
+27. Kb1 Nd2+ 28. Ka2 Nc4 29. Rf5 Rxf5 30. exf5 Qf6 31. Qe8+ Qf8 32. Qe6+ Qf7
+33. Qc8+ Qf8 34. Qe6+ 1/2-1/2

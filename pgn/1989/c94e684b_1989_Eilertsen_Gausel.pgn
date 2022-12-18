@@ -1,0 +1,21 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eilertsen, Jens B."]
+[Black "Gausel, Einar"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "c94e684b"]
+[Epoch "Queen"]
+[WhiteID "1500910"]
+[WhiteCountry "NOR"]
+[BlackID "1500031"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 f6 6. Bb5 Bd7 7. Bxc6 bxc6 8. O-O
+fxe5 9. Nxe5 Nf6 10. Qe2 Bd6 11. dxc5 Bxc5 12. Nd2 Bd6 13. Ndf3 O-O 14. Bg5 Qc7
+15. Bh4 Ne4 16. Nxd7 Qxd7 17. Nd2 Rf4 18. g3 Nxd2 19. Qxd2 Rf5 20. Bg5 e5 21.
+b4 e4 22. Be3 Raf8 23. Kh1 Bxg3 24. hxg3 Rh5+ 25. Kg1 Rf3 26. g4 Qxg4# 0-1

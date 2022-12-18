@@ -1,0 +1,17 @@
+[Event "Szolnok Mezogep"]
+[Site "Szolnok Mezogep"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dobosz, H."]
+[Black "Hausner, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "ebc25904"]
+[Epoch "Queen"]
+[BlackID "300110"]
+[BlackCountry "CZE"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 c6 7. Qd2 b5 8. Bd3 a6
+9. a3 Nbd7 10. e5 Nd5 11. Nxd5 cxd5 12. O-O Nb6 13. b3 Bf5 14. Bxf5 1/2-1/2

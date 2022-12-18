@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kirillowsky"]
+[Black "Larrass"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Goering variation"]
+[HashCode "812c2027"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. d4 Bd6 12. f4 O-O 13. c3 c5 14.
+Na3 a6 15. Nb5 axb5 16. Bxb5 Be6 17. Bd2 Rfb8 18. a4 Nb3 19. c4 Nxa1 20. d5
+Nxd5 21. cxd5 Bxd5 22. Bc3 Bb3 23. Qg4 Nc2+ 24. Kf2 Nd4 25. Nc6 Be6 26. f5
+Bxf5 27. Qh5 Bg6 28. Qd5 Nxb5 29. axb5 Rxb5 30. Ne5 Rd8 0-1
+

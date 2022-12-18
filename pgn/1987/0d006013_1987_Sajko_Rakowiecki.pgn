@@ -1,0 +1,20 @@
+[Event "Jachranka"]
+[Site "Jachranka"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Sajko, Czeslaw"]
+[Black "Rakowiecki, Tomasz"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "0d006013"]
+[Epoch "Queen"]
+[WhiteID "1102885"]
+[BlackID "1100955"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. Qe2 Be7 10. b3 O-O 11. Bb2 Nc6 12. Nxc6 Bxc6 13. f4 Nd7 14. Rae1 Bf6 15.
+Rf3 g6 16. Rh3 Rc8 17. Nd1 Bxb2 1/2-1/2

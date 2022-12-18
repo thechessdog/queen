@@ -1,0 +1,18 @@
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Weck, U."]
+[Black "Duemmke, Juergen"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "1db88825"]
+[Epoch "Queen"]
+[BlackID "4653807"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. h3 c5 7. Nf3 Nc6 8. cxd5
+Nxd5 9. Nxd5 Qxd5 10. e4 Qxe4+ 11. Qe2 Qxf4 12. d5 Qb4+ 13. Kd1 Rd8 14. Rb1 Bf5
+15. a3 Rxd5+ 16. Kc1 Bh6+ 0-1

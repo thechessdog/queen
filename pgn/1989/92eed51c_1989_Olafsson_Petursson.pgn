@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olafsson, Helgi"]
+[Black "Petursson, Margeir"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "92eed51c"]
+[Epoch "Queen"]
+[WhiteID "2300010"]
+[WhiteCountry "ISL"]
+[BlackID "2300028"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 c5 8. O-O
+O-O 9. Nc3 cxd4 10. Nxd4 Bxg2 11. Kxg2 d5 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Hastings op8889"]
+[Site "Hastings"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Linker, Torsten, Prof. Dr."]
+[Black "Plaskett, H James"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4937e898"]
+[Epoch "Queen"]
+[WhiteID "4601939"]
+[WhiteCountry "GER"]
+[BlackID "400238"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 g6 5. Ne2 Bg7 6. f3 O-O 7. Be3 Nc6 8. Nd2 b6
+9. Nf1 Bb7 10. Qd2 Re8 11. g4 cxd4 12. cxd4 e5 13. d5 Nd4 14. Bxd4 exd4 15.
+O-O-O Nxd5 16. Bb5 Rc8+ 17. Kb1 Nc3+ 18. bxc3 dxc3 19. Qc2 Re5 20. Ba4 b5 21.
+Bb3 Qb6 22. Nf4 a5 23. Bd5 Ba6 24. Ng3 a4 25. Ka1 b4 26. Rb1 Qa5 27. Rhd1 b3
+28. Bxb3 axb3 29. Rxb3 Bc4 30. Rdb1 Qxa2+ 31. Qxa2 c2 32. R3b2 Bxa2 33. Kxa2
+Rb5 34. e5 Ra8# 0-1

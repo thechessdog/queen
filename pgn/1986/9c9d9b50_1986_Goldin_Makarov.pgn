@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Goldin, Alexander"]
+[Black "Makarov, Marat"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "9c9d9b50"]
+[Epoch "Queen"]
+[WhiteID "2019540"]
+[BlackID "4101103"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 c5 6. d5 exd5 7. e5 Nfd7 8. Qxd5
+Nb6 9. Qxd8+ Kxd8 10. Bg5+ Be7 11. O-O-O+ Bd7 12. Ne4 Bxg5+ 13. Nfxg5 Ke7 14.
+Nd6 h6 15. Nge4 Ba4 16. Nf5+ Ke6 17. Nxg7+ Kxe5 18. Re1 Bc6 19. f4+ Kxf4 20.
+Bxc4 Bxe4 21. Rhf1+ Ke5 22. Bd3 N8d7 23. Bxe4 Kd6 24. Rxf7 Raf8 25. Rd1+ Ke5
+26. Re7+ Kf6 27. Nf5 Re8 28. Rd6+ Kg5 29. g3 Rxe7 30. Nxe7 Rf8 31. Rg6+ Kh5 32.
+Bc2 Ne5 33. Bd1+ Nf3 34. Rg8 Rf6 35. Nf5 Rxf5 36. g4+ Kh4 37. gxf5 Ne5 38. Re8
+Nbd7 39. Ba4 Kg5 40. Bxd7 1-0

@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schlosser, Philipp"]
+[Black "Maier, Christian"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "62704e33"]
+[Epoch "Queen"]
+[BlackID "4601955"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 Nbd7 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Rc1 Nxc3 10. Rxc3 c6 11. Be2 O-O 12. O-O dxc4 13. Bxc4 b5 14. Bd3 Bb7
+15. Qe2 b4 16. Rc2 c5 17. Rfc1 Bxf3 18. Qxf3 cxd4 19. Qe4 Nf6 20. Qxd4 Rfd8 21.
+Qc4 a5 22. Be2 a4 23. Bf3 Ra7 24. h3 a3 25. bxa3 bxa3 26. Qb5 Rad7 27. Qa5 Nd5
+28. Rc8 Kh7 29. Rxd8 Rxd8 30. Rc5 g6 31. Qxa3 Rb8 32. Qc1 Rb1 33. Qxb1 Qxc5 34.
+Bxd5 Qxd5 35. a4 Qa5 36. Qc2 h5 37. g3 e5 38. Qc4 f5 39. Qb5 Qe1+ 40. Kg2 e4
+41. a5 Qd1 42. a6 Qf3+ 43. Kg1 Qd1+ 44. Kh2 h4 45. gxh4 Qc2 46. Kg2 f4 47. Qg5
+f3+ 48. Kg3 Qc7+ 49. Qf4 Qe7 50. a7 Qxa7 51. Qxe4 Qc7+ 52. Kxf3 Qh2 53. Qg4 Qe5
+54. Kg2 1-0

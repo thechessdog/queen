@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jerlow"]
+[Black "Lausch, S."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "9f3e9285"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 Rb8 7. Nf3 b5 8. a3
+a5 9. O-O b4 10. axb4 axb4 11. Nd5 e6 12. Ne3 Nge7 13. Nc4 f5 14. e5 dxe5
+15. fxe5 O-O 16. Bf4 Nd5 17. Qd2 Nxf4 18. gxf4 Bh6 19. c3 Ne7 20. Ra5 Nd5
+21. Ne1 Nxf4 22. Rxf4 Bxf4 23. Qxf4 bxc3 24. bxc3 Rb3 25. Rxc5 Rxc3 26. d4
+Ba6 27. d5 Qb8 28. Qd4 Rc1 29. Kf2 Qb4 30. Nd3 Rc2+ 31. Kg3 Rc3 0-1
+

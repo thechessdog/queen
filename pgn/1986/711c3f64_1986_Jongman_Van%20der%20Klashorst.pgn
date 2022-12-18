@@ -1,0 +1,20 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jongman, Riekent"]
+[Black "Van der Klashorst,"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Krejcik variation"]
+[HashCode "711c3f64"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Bc4 Nxe4 3. Bxf7+ Kxf7 4. Qh5+ Kg8 5. Qd5+ e6 6. Qxe4 d5 7.
+Qe2 c5 8. Nf3 Nc6 9. d3 Bd6 10. Nc3 h6 11. Bd2 Kh7 12. d4 cxd4 13. Nxd4
+Nxd4 14. Qd3+ Nf5 15. g4 Rf8 16. O-O-O Qf6 17. h4 Qd4 18. Qe2 Qe5 19. Qd3
+Bd7 20. Ne2 Kg8 21. gxf5 Qxf5 22. Qxf5 Rxf5 23. Be3 Bc6 24. Rhg1 Kh7 25. f4
+e5 26. c4 exf4 27. cxd5 Bxd5 28. Nc3 fxe3 29. Rxd5 Rxd5 30. Nxd5 Rc8+ 31.
+Kb1 0-1
+

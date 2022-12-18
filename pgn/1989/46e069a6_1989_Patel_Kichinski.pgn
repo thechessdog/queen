@@ -1,0 +1,18 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Patel, Kash"]
+[Black "Kichinski, Robert"]
+[Result "1/2-1/2"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "46e069a6"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 f6 6. exf6 Nxf6 7. Bg2 Bg4 8. O-O
+Qd7 9. Bf4 Be7 10. Nbd2 Rd8 11. Re1 O-O 12. Qb3 Na5 13. Qb5 Nc6 14. c5 Nh5 15.
+Ng5 Nxf4 16. gxf4 Bxg5 17. fxg5 Rf5 18. Ne4 Rf4 19. Rad1 Kh8 20. f3 Bh3 21. Nf2
+Bxg2 22. Kxg2 Qf5 23. Qxb7 1/2-1/2

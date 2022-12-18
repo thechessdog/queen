@@ -1,0 +1,23 @@
+[Event "Nordic-chT"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Hoi, Carsten"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "d456dd24"]
+[Epoch "Queen"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteCountry "FIN"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c6 4. Nf3 d5 5. e5 h5 6. Bd3 Nh6 7. Be3 Bg4 8. h3 Bxf3
+9. Qxf3 e6 10. g3 Nd7 11. Nd2 Rc8 12. g4 c5 13. c3 cxd4 14. cxd4 Nb6 15. Ke2 h4
+16. Rhg1 Kf8 17. f5 exf5 18. gxf5 Nxf5 19. Bxf5 gxf5 20. Qg2 Rh7 21. Bh6 Bxh6
+22. Qg8+ Ke7 23. Qxh7 Bxd2 24. Qxh4+ Ke6 25. Qxd8 Rxd8 26. Kxd2 Rh8 27. Rg3 Rh4
+28. Kd3 Nc4 29. b3 Na5 30. Kc3 Nc6 31. Rd3 a5 32. a3 b5 33. b4 a4 34. Rg1 Ne7
+35. Rg2 Ng6 36. Rc2 f4 37. Rf3 Kf5 38. Kd3 Rh8 39. Rc6 Kg5 40. Rf6 Rh7 41. Ke2
+Rg7 42. Rf1 Rh7 43. Rg1+ 1-0

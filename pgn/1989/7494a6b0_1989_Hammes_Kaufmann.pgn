@@ -1,0 +1,18 @@
+[Event "C-JEM-SJRP"]
+[Site "C-JEM-SJRP"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hammes, M."]
+[Black "Kaufmann, R."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "7494a6b0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Nc3 e6 6. Nf3 Be7 7. Be2 O-O
+8. O-O Nc6 9. Be3 Nd7 10. Rc1 Bf6 11. e5 Be7 12. Bf4 f6 13. Bg3 fxe5 14.
+dxe5 b6 15. Bc4 Ndb8 16. Qb3 Kh8 17. Rfd1 Na5 18. Rxd8 Nxb3 19. Rxf8+ Bxf8
+20. Bxb3 1-0
+

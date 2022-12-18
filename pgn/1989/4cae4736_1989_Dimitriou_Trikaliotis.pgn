@@ -1,0 +1,17 @@
+[Event "Akropolis op"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dimitriou, G."]
+[Black "Trikaliotis, Georgios"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "4cae4736"]
+[Epoch "Queen"]
+[BlackID "4200322"]
+[BlackCountry "GRE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Bg5 Qb6 5. Qc2 e6 6. e4 bxc4 7. Bxf6 gxf6 8. Nd2
+Bb7 9. dxe6 fxe6 10. Bxc4 Rg8 11. Ne2 Nc6 12. Ng3 O-O-O 13. Nb3 h5 14. h4 Nb4
+15. Qb1 d5 16. exd5 exd5 17. Be2 c4 18. Nd2 Re8 19. Kf1 Rxe2 20. Qf5+ Qe6 0-1

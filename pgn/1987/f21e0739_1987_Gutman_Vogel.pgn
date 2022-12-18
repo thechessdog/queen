@@ -1,0 +1,23 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gutman, Lev"]
+[Black "Vogel, Robert"]
+[Result "0-1"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "f21e0739"]
+[Epoch "Queen"]
+[WhiteID "4600177"]
+[WhiteCountry "GER"]
+[BlackID "4604253"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Nbd7 11. Re1 Re8 12. Bf1 Ng4 13. Bg5 Qb6 14. Qd2 Nde5
+15. Nxe5 Nxe5 16. a5 Qc7 17. Na4 Nd7 18. Ra3 b5 19. axb6 Nxb6 20. Qa5 Nxd5 21.
+exd5 Qxa5 22. Rxe8+ Bf8 23. Bd8 Qb4 24. Nb6 Rb8 25. Bc7 Rxb6 26. Rxc8 Kg7 27.
+Re3 Rb7 28. g3 Qd2 29. Bd8 Rxb2 30. Rf3 f5 31. Rc7+ Kg8 32. g4 Qd1 33. Rd3
+Qxg4+ 34. Rg3 Qf4 35. Rg2 Rb1 0-1

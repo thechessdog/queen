@@ -1,0 +1,19 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ghitescu, Theodor"]
+[Black "Navrotescu, C."]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "37d2278b"]
+[Epoch "Queen"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Qd2 exd5 9. Qe3+ Kf8 10. Qf4 Bf6 11. h4 Kg7 12. e3 c6 13. Bd3 Nd7 14. O-O-O Nf8
+15. Qg3 h6 16. Nf3 Be6 17. Ne5 Rg8 18. f4 Qc8 19. h5 Bf5 20. hxg6 fxg6 21. Bxf5
+Qxf5 22. Qh2 Rh8 23. g4 Qe6 24. g5 Bxe5 25. gxh6+ Kh7 26. fxe5 Nd7 27. e4 Raf8
+28. Qg2 Nb6 29. Rdf1 dxe4 30. Nxe4 Rxf1+ 31. Qxf1 Qxa2 32. Nf6# 1-0

@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cremer, J."]
+[Black "Schummer, H."]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "060c0921"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. cxd5 exd5 7. Bd3 c6 8.
+Qc2 Nbd7 9. Nf3 h6 10. Bh4 Ne8 11. Bxe7 Qxe7 12. O-O Nd6 13. b4 b5 14. e4
+Bb7 15. exd5 cxd5 16. Rfe1 Qd8 17. Qb3 a6 18. Nxd5 Bxd5 19. Qxd5 Nb6 20.
+Qb3 Nbc4 21. Ne5 Rc8 22. Rec1 Nxe5 23. dxe5 Rxc1+ 24. Rxc1 Nc8 25. Rc6 1-0
+

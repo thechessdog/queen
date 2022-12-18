@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Winter"]
+[Black "Lange"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "55e1c91d"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Bc4 O-O 6. O-O Nc6 7. Qe2 Bg4 8.
+Qe3 Bxf3 9. gxf3 e5 10. Ne2 exd4 11. Nxd4 Nxd4 12. Qxd4 Nh5 13. Qd2 Be5 14.
+Qh6 Qh4 15. f4 Qg4+ 16. Kh1 Qf3+ 17. Kg1 Bxf4 18. Be2 Qxe2 19. Bxf4 Qxe4
+20. Bd2 Qg4+ 21. Kh1 Qf3+ 22. Kg1 Rae8 23. Qg5 Re4 24. h3 Qxh3 25. f3 Re2
+26. Bf4 Nxf4 27. Rf2 Rxf2 28. Kxf2 Qh2+ 29. Kf1 Qe2+ 0-1
+

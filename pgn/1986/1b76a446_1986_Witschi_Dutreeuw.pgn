@@ -1,0 +1,18 @@
+[Event "Brocco"]
+[Site "Brocco"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Witschi"]
+[Black "Dutreeuw, Marc"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "1b76a446"]
+[Epoch "Queen"]
+[BlackID "200042"]
+[BlackCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. d3 d6 7. Bg5 Be7 8.
+Nxf6+ Bxf6 9. Bxf6 Qxf6 10. Qd2 O-O 11. Bc4+ Be6 12. Bxe6+ Qxe6 13. O-O Rxf3
+14. gxf3 Nd4 15. Kh1 Nxf3 16. Qe3 Qh3 0-1

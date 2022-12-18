@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Skara, M."]
+[Black "Gnirk, H."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "8c78d9b0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Neg5 Bd6 7. h4 h6
+8. Nh3 Nf6 9. Be2 Nbd7 10. Bf4 O-O 11. Qd2 Ne4 12. Qe3 Ndf6 13. Ne5 Bd5 14.
+f3 g5 15. hxg5 Nxg5 16. Nxg5 hxg5 17. Bxg5 Be7 18. Bxf6 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bender, K."]
+[Black "Reiter, H."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "cce90daf"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nd7 5. h3 Ngf6 6. Ng3 Ne5 7. Qb3 Qb6
+8. Qxb6 axb6 9. d4 Ng6 10. Nf3 b5 11. Bd3 Be6 12. O-O Bd5 13. a4 Bxf3 14.
+gxf3 e6 15. f4 Rxa4 16. Be3 Bd6 17. c4 Rxa1 18. Rxa1 Kd7 19. f5 Nf4 20.
+Bxf4 Bxf4 21. fxe6+ fxe6 22. cxb5 Bc7 23. Ne4 Bb6 24. Nc5+ Bxc5 25. dxc5
+Rd8 26. Bf1 Nd5 27. Ra4 Rf8 28. Rg4 g6 29. Rh4 h5 30. Ra4 Rf4 31. Ra7 Rg4+
+32. hxg4 1-0
+

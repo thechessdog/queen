@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Keller, S."]
+[Black "Rosing, AJ."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "0a0a0c1c"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8.
+e4 Bg7 9. Be2 O-O 10. O-O Re8 11. a4 g5 12. Nc4 Nxe4 13. Nxe4 Rxe4 14. Nxd6
+Rd4 15. Qc2 Nb6 16. Nxc8 Rxc8 17. Be3 Rb4 18. a5 Rxb2 19. Qf5 Rxe2 20. axb6
+Bxa1 21. Rxa1 Rxe3 22. fxe3 axb6 23. d6 Rc6 24. d7 Rd6 0-1
+

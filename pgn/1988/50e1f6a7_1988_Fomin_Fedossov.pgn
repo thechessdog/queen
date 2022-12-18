@@ -1,0 +1,15 @@
+[Event "Iwantejewka"]
+[Site "Iwantejewka"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fomin, Artem"]
+[Black "Fedossov"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest defence"]
+[HashCode "50e1f6a7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nc3 d6 5. exd6 Bxd6 6. h3 Nxf2 7. Kxf2
+Qh4+ 8. Kf3 Qg3+ 9. Ke4 Bf5+ 10. Kxf5 Qg6# 0-1
+

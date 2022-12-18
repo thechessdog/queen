@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kaeser, Udo, Dr."]
+[Black "Weber, Peter"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "7c13b706"]
+[Epoch "Queen"]
+[BlackID "24694738"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. Be2 Bg7 5. h4 h5 6. Nh3 c5 7. dxc5 Bxh3 8. Rxh3
+Qa5 9. cxd6 Nxe4 10. Bb5+ Nd7 11. Bxd7+ Kxd7 12. dxe7+ Ke8 13. Bd2 Qb4 14. Re3
+Nxd2 15. Qxd2 Bh6 16. Rd1 1-0

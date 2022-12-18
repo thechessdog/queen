@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Blauert, Joerg"]
+[Black "Sehner, Norbert"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "bae77158"]
+[Epoch "Queen"]
+[WhiteID "4600819"]
+[WhiteCountry "GER"]
+[BlackID "4600398"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 Nc6 6. c4 Ndb4 7. d5 exd5 8. cxd5
+Nd4 9. Nxd4 cxd4 10. a3 Qa5 11. Bd2 d3 12. axb4 Qxa1 13. Bxd3 Qxb2 14. O-O Qd4
+15. Qf3 Bxb4 16. Qg3 Bxd2 17. Nxd2 O-O 18. Ne4 h6 19. Nd6 g5 20. Nf5 Qf4 21.
+Qh3 d6 22. e6 fxe6 23. Nxh6+ Kg7 24. dxe6 g4 25. Nxg4 Rh8 26. Qg3 Qxg3 27. fxg3
+Bxe6 28. Ne3 a6 29. Bf5 Rhe8 30. g4 Bf7 31. Kf2 d5 32. Rd1 Rad8 33. Rd4 Kf6 34.
+h4 Ke5 35. Nc2 Be6 36. Bxe6 Rxe6 37. g5 Rf8+ 38. Kg3 Rc6 39. Rd2 Rc3+ 40. Kg4
+Rc4+ 41. Kh3 Re4 42. g3 d4 43. g6 Rd8 44. Rd3 Kf6 45. h5 Kg5 46. g7 Kxh5 47.
+Nxd4 Rg4 48. Ne6 Rxd3 49. Nf4+ Kh6 50. Kxg4 Rd8 51. Ne6 Rg8 0-1

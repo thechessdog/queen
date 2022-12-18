@@ -1,0 +1,24 @@
+[Event "RLNN 8889"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Seeck, K."]
+[Black "Putzbach, G."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "748187f5"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Bf5 3. f3 Nf6 4. Bg5 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bh4 N7b6
+8. exf5 Ne3 9. Qe2 Qxd4 10. Bf2 Nbc4 11. c3 Qe5 12. Bxe3 Qxe3 13. g4 O-O-O
+14. Qxe3 Nxe3 15. Ke2 Nxf1 16. Rxf1 e6 17. fxe6 Re8 18. Kd3 Rxe6 19. Ne2
+Bc5 20. Ng3 Rd8+ 21. Kc2 Re3 22. f4 g6 23. Rd1 Bd6 24. Rhf1 Rde8 25. Rd2
+Re1 26. Rdf2 Bc5 27. Rxe1 Rxe1 28. Re2 Ra1 29. Ne4 Be7 30. Kb3 Rg1 31. Ng3
+Bh4 32. Re8+ Kd7 33. Rf8 Bxg3 34. hxg3 Ke7 35. Rc8 Rxg3 36. Rxc7+ Kf6 37.
+Rxb7 Rxg4 38. Rxa7 h5 39. Rd7 Rxf4 40. a4 h4 41. a5 h3 42. a6 Rf1 43. a7
+Ra1 44. Rd3 g5 45. Rxh3 g4 46. Rh8 Rxa7 47. Rg8 Kf5 48. c4 Kf4 49. Rg7 g3
+50. c5 Kf3 51. Kc4 g2 52. b4 f5 53. Rg5 f4 54. b5 Ra4+ 55. Kd5 Rb4 56. b6
+Kf2 57. Kc6 g1=Q 58. Rxg1 Kxg1 59. Kc7 f3 60. b7 f2 61. b8=Q Rxb8 62. Kxb8
+f1=Q 0-1
+

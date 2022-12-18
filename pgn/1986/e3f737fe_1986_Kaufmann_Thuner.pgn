@@ -1,0 +1,20 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kaufmann"]
+[Black "Thuner, Simon"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "e3f737fe"]
+[Epoch "Queen"]
+[BlackID "1306995"]
+[BlackCountry "SUI"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bg5 c6 6. h3 O-O 7. Qd2 b5 8. Bd3
+Qc7 9. Bh6 e5 10. d5 b4 11. Bxg7 Kxg7 12. Ne2 cxd5 13. Ng3 Bb7 14. Nf5+ Kh8 15.
+Qh6 Rg8 16. Ng5 gxf5 17. Qxf6+ Rg7 18. f3 Kg8 19. exf5 e4 20. fxe4 dxe4 21.
+Nxe4 Bxe4 22. Bxe4 Nd7 23. Qe7 Rc8 24. O-O-O Rxg2 25. Rdg1 Rg7 26. Rxg7+ Kxg7
+27. Rg1+ 1-0

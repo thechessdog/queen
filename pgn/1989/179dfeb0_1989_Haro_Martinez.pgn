@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haro"]
+[Black "Martinez, Gustavo"]
+[Result "0-1"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "179dfeb0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O O-O 8.
+Nc3 Nc6 9. e3 Re8 10. b3 e5 11. dxe5 Bg4 12. Qc2 Nxe5 13. Nxe5 Bxe5 14. Bb2 c6
+15. f3 Be6 16. Rad1 Qe7 17. f4 Bg7 18. e4 Bg4 19. Ne2 Bxb2 20. Qxb2 Qc5+ 21.
+Kh1 Rad8 22. Rd2 Qe3 23. Rfd1 Qxe2 0-1

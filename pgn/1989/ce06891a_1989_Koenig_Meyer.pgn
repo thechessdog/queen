@@ -1,0 +1,20 @@
+[Event "Regionalliga NordN"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Koenig, Wolfgang"]
+[Black "Meyer, Torsten"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "ce06891a"]
+[Epoch "Queen"]
+[WhiteID "4600983"]
+[WhiteCountry "GER"]
+[BlackID "1321560"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O a6 9. f4 Qc7 10. Be2 Bd7 11. Bf3 Rc8 12. Rhe1 Na5 13. Qe2 Nc4 14. Rd3 b5
+15. Bxf6 Bxf6 16. g4 Nxb2 0-1

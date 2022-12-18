@@ -1,0 +1,21 @@
+[Event "Innsbruck"]
+[Site "Innsbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Biro, Andras"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "4be552fc"]
+[Epoch "Queen"]
+[WhiteID "701777"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 Qb6 5. g4 Bd7 6. Na4 Qc7 7. Nc5 e6 8. Nxd7
+Nxd7 9. Bd3 c5 10. c3 Ne7 11. Ne2 h5 12. gxh5 Rxh5 13. f4 g6 14. Be3 Nc6 15.
+Qd2 O-O-O 16. dxc5 Bxc5 17. Bxc5 Nxc5 18. Qe3 Qb6 19. b4 Nxd3+ 20. Qxd3 Rdh8
+21. h3 g5 22. b5 Ne7 23. fxg5 Rxg5 24. O-O-O Rxe5 25. Nd4 Re4 26. Rde1 Rxe1+
+27. Rxe1 Qc7 28. Qf3 Ng6 29. Kb2 Ne5 30. Qf6 Nd3+ 31. Kb1 Qxc3 32. Qxh8+ Kd7
+0-1

@@ -1,0 +1,24 @@
+[Event "Oberursel"]
+[Site "Oberursel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bode, U."]
+[Black "Kuban, G."]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "6981b0d0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 exd4
+8. Nxd4 c5 9. Nb3 Be7 10. Nc3 O-O 11. Bf4 Bg4 12. Qd3 c6 13. Na4 Rb8 14.
+Bd2 Qc8 15. Rae1 Rd8 16. Ba5 Re8 17. c4 Be6 18. Qc2 Ng4 19. h3 Nh6 20. f4
+f6 21. Kh1 Kh8 22. Rd1 Bf8 23. Rfe1 Rb7 24. Qe2 Rbe7 25. Qf1 Qb8 26. Nc3
+Nf7 27. Re3 f5 28. e5 dxe5 29. Nxc5 exf4 30. Rxe6 Rxe6 31. Nxe6 Rxe6 32.
+Rd7 Qe8 33. Rd1 Bd6 34. Bb6 c5 35. Nd5 Re4 36. b3 Qe5 37. Qf3 Ng5 38. Qc3
+Qxc3 39. Nxc3 Re3 40. Rxd6 Nf7 41. Rd7 Kg8 42. Nd5 Re1+ 43. Kh2 g5 44. Bxc5
+Re2 45. Kg1 Rxa2 46. Bd4 Ra3 47. c5 Rxb3 48. c6 Rb1+ 49. Kh2 g4 50. hxg4
+fxg4 51. c7 g3+ 52. Kh3 h5 53. c8=Q+ Kh7 54. Rxf7+ Kh6 55. Qxa6+ Kg5 56.
+Qf6# 1-0
+

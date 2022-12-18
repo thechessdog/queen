@@ -1,0 +1,18 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Langer"]
+[Black "Rutz"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "10a05da7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. Bb5+ c6 7. Nge2 Qe5
+8. Bf4 h5 9. Qh4 Qxb5 10. O-O-O Qa5 11. Qg3 h4 12. Qxg7 Qh5 13. g3 hxg3 14.
+hxg3 Qxh1 15. Rxh1 Rxh1+ 16. Kd2 Ne7 17. a3 e3+ 18. fxe3 Bxc3+ 19. Nxc3
+Rh2+ 20. Ke1 Nd7 21. Ne4 Nf5 22. Nd6+ Nxd6 23. Bxd6 1-0
+

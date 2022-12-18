@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1985.01.01"]
+[Round "11"]
+[White "Paglilla, Carlos"]
+[Black "Darcyl, Tomas"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "4c1fa352"]
+[Epoch "Queen"]
+[WhiteID "100307"]
+[BlackID "100404"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 d6 2. Nf3 c5 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 1/2-1/2

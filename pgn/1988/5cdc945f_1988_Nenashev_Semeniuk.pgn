@@ -1,0 +1,32 @@
+[Event "URS-ch sf"]
+[Site "Riga"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Graf, Alexander (Nenashev)"]
+[Black "Semeniuk, Alexander A"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5cdc945f"]
+[Epoch "Queen"]
+[BlackID "4105389"]
+[BlackCountry "RUS"]
+[WhiteID "4680804"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 b6 11. Bxd6 Re8 12. e3 Ba6 13. Bg3 Nh5 14. a4 f5 15. Bxb8
+Rxb8 16. Nb5 f4 17. Qg4 fxe3 18. fxe3 Bxb5 19. axb5 Qxd5 20. Be2 Re4 21. Rd1
+Rxg4 22. Rxd5 Rxg2 23. Kf1 Rg5 24. Rxg5 hxg5 25. Rg1 Bf6 26. h4 Rf8 27. Ke1 Bd8
+28. Ne5 Kg7 29. hxg5 Bc7 30. Nc4 Ng3 31. Bd3 Rd8 32. Be2 Rd5 33. Bf3 Rxg5 34.
+Kf2 Kf6 35. e4 Bf4 36. Ra1 Bb8 37. e5+ Bxe5 38. Rxa7 Bd4+ 39. Ke1 Rf5 40. Bc6
+Rf1+ 41. Kd2 Rf2+ 42. Kd3 Nh5 43. Nxb6 Nf4+ 44. Kc4 Rc2+ 45. Kb3 Rxb2+ 46. Ka3
+Rb1 47. Ra4 Nd3 48. Be4 Rd1 49. Kb3 Nb4 50. Ra8 Re1 51. Nd7+ Ke7 52. Nxc5 Bxc5
+53. Bxg6 Kd6 54. Rd8+ Kc7 55. Re8 Rf1 56. Re6 Kd7 57. Re2 Nd5 58. Be4 Ne3 59.
+Rh2 Kd6 60. Rh5 Rf4 61. Bc6 Bd4 62. Kb4 Be5+ 63. Ka5 Nc4+ 64. Ka6 Rf2 65. Be4
+Ra2+ 66. Kb7 Rb2 67. Bd3 Rxb5+ 68. Ka6 Ra5+ 69. Kb7 Rb5+ 70. Ka6 Ra5+ 71. Kb7
+Ne3 72. Rh6+ Kd5 73. Be2 Ra2 74. Bf3+ Kc5 75. Rc6+ Kd4 76. Rc8 Nc4 77. Rd8+
+Nd6+ 78. Kc6 Rc2+ 79. Kd7 Rf2 80. Bh1 Rh2 81. Bf3 Rh6 82. Rg8 Nc4 83. Rg4+ Kc5
+84. Rg5 Kb6 85. Rf5 Bd6 86. Bh5 Ne5+ 87. Kd8 Rh7 88. Rf6 Kc5 89. Bg6 Nc6+ 90.
+Ke8 Re7+ 91. Kf8 Re6+ 92. Kf7 Nd8+ 0-1

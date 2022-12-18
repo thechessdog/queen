@@ -1,0 +1,25 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Szabolcsi, Janos"]
+[Black "Kazek, Krzysztof"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "69d8322f"]
+[Epoch "Queen"]
+[WhiteID "701270"]
+[WhiteCountry "HUN"]
+[BlackID "1101919"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 c5 8. e4
+Nxc3 9. bxc3 Nd7 10. Bf4 Be7 11. Bd3 Rc8 12. Qe2 cxd4 13. cxd4 O-O 14. O-O Nf6
+15. a4 Rc3 16. Rfc1 Rxd3 17. Qxd3 Bxe4 18. Qe3 Bxf3 19. Qxf3 Qxd4 20. Be3 Qd7
+21. Qc6 Qxc6 22. Rxc6 Nd5 23. Bd4 Rd8 24. g3 h5 25. a5 Nb4 26. Rc7 Rxd4 27.
+Rxe7 bxa5 28. Rxa5 Rd8 29. Rxh5 Ra8 30. Rb7 Nd5 31. Rh4 a5 32. Ra4 Nc3 33. Ra3
+Nd5 34. Rf3 f5 35. Rfb3 a4 36. Rb8+ Rxb8 37. Rxb8+ Kf7 38. Ra8 Nc3 39. Rc8 Ne4
+40. Rc4 g5 41. Rxa4 Nd2 42. h3 e5 43. Kg2 e4 44. g4 f4 45. Rd4 e3 46. fxe3 fxe3
+47. Rd3 Nc4 48. Rc3 1-0

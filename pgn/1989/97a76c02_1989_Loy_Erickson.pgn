@@ -1,0 +1,16 @@
+[Event "Montana"]
+[Site "Montana"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Loy, J."]
+[Black "Erickson, R."]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "97a76c02"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nxd4 Nge7 6. Bg5 Bg7 7. Nd5
+Bxd4 8. Qxd4 Nxd4 9. Nf6+ Kf8 10. Bh6# 1-0
+

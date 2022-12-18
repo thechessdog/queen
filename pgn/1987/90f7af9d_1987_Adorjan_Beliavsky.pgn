@@ -1,0 +1,19 @@
+[Event "FIDE (36) 1987-1990"]
+[Site "Szirak izt"]
+[Date "1987.07.01"]
+[Round "4"]
+[White "Adorjan, Andras"]
+[Black "Beliavsky, Alexander G"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[HashCode "90f7af9d"]
+[Epoch "Queen"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "14602377"]
+[BlackCountry "SLO"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1
+c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. Ne4 exd4 13. Nxf6+ 1/2-1/2

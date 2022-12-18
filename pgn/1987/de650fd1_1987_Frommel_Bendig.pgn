@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Frommel"]
+[Black "Bendig"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "de650fd1"]
+[Epoch "Queen"]
+
+1. g4 f5 2. gxf5 d5 3. c4 Nf6 4. Qb3 dxc4 5. Qxc4 Bxf5 6. Bg2 c6 7. e4 Bg6
+8. e5 Nd5 9. a3 Nd7 10. Qd4 e6 11. Nf3 Nc5 0-1
+

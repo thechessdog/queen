@@ -1,0 +1,25 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Delanoy, Arnaud"]
+[Black "Malich, Burkhard, Dr."]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "94446350"]
+[Epoch "Queen"]
+[WhiteID "603961"]
+[BlackID "4611330"]
+[WhiteCountry "FRA"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 Nf6 7. O-O Nc6 8.
+Be3 Bb4 9. Na4 O-O 10. Nxc6 bxc6 11. Nb6 Rb8 12. Nxc8 Qxc8 13. Bf4 Ra8 14. Qd4
+Be7 15. Bg5 c5 16. Qd3 Qc7 17. Rad1 Rfd8 18. Qg3 Qxg3 19. hxg3 d6 20. e5 dxe5
+21. Rxd8+ Bxd8 22. Rd1 Be7 23. Bxf6 Bxf6 24. Rd6 a5 25. Ra6 Rxa6 26. Bxa6 e4
+27. c3 Bg5 28. Kf1 Bc1 29. b3 Bb2 30. c4 f5 31. Ke2 Kf7 32. g4 Kf6 33. gxf5
+exf5 34. Bb7 h5 35. Bc6 h4 36. f3 Ke5 37. fxe4 fxe4 38. Ke3 Bd4+ 39. Ke2 Kf4
+40. a3 Bb2 41. a4 Bd4 42. Bd5 g5 43. Bb7 g4 44. Kf1 h3 45. gxh3 gxh3 46. Bc6
+Kf3 0-1

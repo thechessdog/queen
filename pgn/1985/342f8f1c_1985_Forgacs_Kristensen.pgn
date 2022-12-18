@@ -1,0 +1,19 @@
+[Event "Ballerup"]
+[Site "Ballerup"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Forgacs, Gyula"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "342f8f1c"]
+[Epoch "Queen"]
+[WhiteID "701203"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. c3 a6 5. Ba4 Nf6 6. Qe2 e6 7. O-O b5 8. Bc2
+Bb7 9. e5 Nd5 10. d4 cxd4 11. cxd4 Rc8 12. Nc3 Ncb4 13. Be4 Qc4 14. Qd2 Nxc3
+15. Bxb7 Ne2+ 16. Qxe2 Qxe2 17. Bxc8 Qe4 18. Bd2 Qa8 19. Bxb4 Bxb4 20. Rfc1 Ke7
+0-1

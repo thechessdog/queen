@@ -1,0 +1,15 @@
+[Event "Belgorod"]
+[Site "Belgorod"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tabatadze, Tamaz"]
+[Black "Nikolenko, Oleg"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "4b946739"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. O-O O-O 10. Bc2 Bd6 11. Nxd5 exd5 12. Bf4 1/2-1/2

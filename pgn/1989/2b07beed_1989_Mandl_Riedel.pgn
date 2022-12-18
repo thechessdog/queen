@@ -1,0 +1,18 @@
+[Event "BL2-S8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mandl, Robert"]
+[Black "Riedel, F."]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, 7.Qc2"]
+[HashCode "2b07beed"]
+[Epoch "Queen"]
+[WhiteID "4602579"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. Qc2 Nbd7 7. O-O c5 8. dxc5
+Bxc5 9. cxd5 Nxd5 10. a3 a5 11. Ng5 g6 12. Nc3 Qc7 13. Bd2 Be7 14. Nxd5 Qxc2
+15. Nxe7+ Kg7 16. Bc3+ Kh6 17. Ng8+ Kxg5 18. h4+ Kg4 19. Bf3+ Kh3 20. Nh6 1-0

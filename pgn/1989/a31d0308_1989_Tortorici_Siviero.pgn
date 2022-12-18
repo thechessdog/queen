@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tortorici, P."]
+[Black "Siviero, Ge"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "a31d0308"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bg4 6. h3 Bxf3 7. Qxf3 g6
+8. Bd2 Bg7 9. Bc3 Bd4 10. O-O Nf6 11. a4 O-O 12. Ra2 Nd7 13. Bd2 b5 14. Bh6
+Bg7 15. Qe3 e5 16. Nd2 f5 17. exf5 Rxf5 18. Bxg7 Kxg7 19. Ne4 Qe7 20. axb5
+cxb5 21. Rfa1 Qe6 22. Nxc5 Nxc5 23. Qxc5 Rc8 24. Qe3 Rc6 25. b3 Rf6 26. Re1
+Qf5 27. c4 bxc4 28. dxc4 Rfe6 29. Ra5 Kf6 30. f4 g5 31. Rxe5 Rxe5 32. fxe5+
+Ke6 33. Qd2 Qf4 34. Qd5+ 1-0
+

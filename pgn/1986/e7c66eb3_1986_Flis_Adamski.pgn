@@ -1,0 +1,26 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Flis, Jacek"]
+[Black "Adamski, Jan"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "e7c66eb3"]
+[Epoch "Queen"]
+[WhiteID "1100351"]
+[BlackID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+Qc7 9. Nce2 Nbd7 10. c3 O-O 11. Qc2 Rb8 12. h3 b5 13. Bg5 Bb7 14. Rad1 Nc5 15.
+f3 d5 16. e5 Qxe5 17. Bf4 Qh5 18. g4 Qg6 19. Qxg6 hxg6 20. Bxb8 Rxb8 21. Nc1 g5
+22. Ncb3 Na4 23. Rd2 Bd6 24. Re2 Rc8 25. Rd1 Bf4 26. Kf2 Nd7 27. Rc2 Ne5 28.
+Na5 Ba8 29. Ne2 Nc5 30. Nxf4 gxf4 31. Bf1 g5 32. Nb3 Na4 33. Nd4 Nc4 34. Bxc4
+bxc4 35. Rdd2 Nc5 36. Kg2 Bc6 37. b4 cxb3 38. axb3 Bd7 39. Ra2 e5 40. Nf5 Bxf5
+41. gxf5 Nxb3 42. Rxd5 Rxc3 43. Rxe5 Nd4 44. Rd5 Nxf3 45. Kf2 Kg7 46. Rxa6 Nh4
+47. Rd8 Rc2+ 48. Ke1 Ng2+ 49. Kf1 Ne3+ 50. Ke1 f3 51. f6+ Kh7 52. Rd2 Rxd2 53.
+Kxd2 f2 0-1

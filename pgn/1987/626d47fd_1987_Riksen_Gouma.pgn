@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Riksen"]
+[Black "Gouma"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "626d47fd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. Qc2 Rb8 13. a5 Qc7 14. Nc4
+Ne5 15. Nb6 h6 16. f4 Ned7 17. Nxc8 Rbxc8 18. Bd2 c4 19. Kh1 Nc5 20. Bf3
+Nb3 21. Ra4 Nd4 22. Qd1 Nxf3 23. Qxf3 Qe7 24. Re1 Nd7 25. Qe2 Bxc3 26. Bxc3
+b5 27. axb6 Nxb6 28. Rxa6 Nxd5 29. Bd2 c3 30. bxc3 Nxc3 1/2-1/2
+

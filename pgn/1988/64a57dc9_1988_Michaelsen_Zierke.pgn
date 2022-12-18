@@ -1,0 +1,23 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "5"]
+[White "Michaelsen, Nils"]
+[Black "Zierke, Oliver"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "64a57dc9"]
+[Epoch "Queen"]
+[WhiteID "4603028"]
+[WhiteCountry "GER"]
+[BlackID "4607244"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Bd3 h5 12. h3 h4 13. a4 Nh5 14. Ne2 Qe7 15. O-O
+Nd7 16. Ra3 Rb8 17. a5 b5 18. axb6 axb6 19. f4 b5 20. Ra7 Qd8 21. Kh1 Qb6 22.
+Ra1 c4 23. Bc2 Re8 24. Qe1 Nc5 25. Qxh4 Nxe4 26. f5 Bf6 27. Qg4 Nc5 28. Ng3 Ng7
+29. Qf3 g5 30. Ng4 Qd8 31. Ra7 Rb7 32. Ra8 Qe7 33. Bd2 Nd7 34. Ne4 Nh5 35. Nh6+
+Kg7 36. Qxh5 Rh8 37. Qxf7+ 1-0

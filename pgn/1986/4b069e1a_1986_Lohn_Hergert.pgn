@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lohn"]
+[Black "Hergert"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "4b069e1a"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 e6 8.
+Nc3 exd5 9. cxd5 c4 10. Nf3 Bg4 11. Bxc4 Nxc4 12. Qa4+ Nd7 13. Qxc4 Bxf3
+14. gxf3 Nxe5 15. Qa4+ Nd7 16. Bf4 Qe7+ 17. Kf1 Qb4 18. Re1+ Kd8 19. Bc7+
+Kxc7 20. d6+ 1-0
+

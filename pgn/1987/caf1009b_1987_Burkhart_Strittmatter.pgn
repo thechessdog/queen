@@ -1,0 +1,17 @@
+[Event "Endingen HT2"]
+[Site "Endingen HT2"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Burkhart, A."]
+[Black "Strittmatter, Norbert"]
+[Result "1-0"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Pachman variation"]
+[HashCode "caf1009b"]
+[Epoch "Queen"]
+[BlackID "4655664"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 Nbd7 8.
+Ng5 Qe8 9. Nb5 c6 10. Bxf7+ Rxf7 11. Nc7 Qf8 12. Nge6 1-0

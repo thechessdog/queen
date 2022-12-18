@@ -1,0 +1,18 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nagtegaal, J."]
+[Black "De Jong, Peter"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "a2d8eb35"]
+[Epoch "Queen"]
+[BlackID "1033514"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. g3 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bg2 Nf6 6. Nxf6+ exf6 7. Ne2 Bc5
+8. O-O O-O 9. d3 Nd7 10. Be3 Qe7 11. Qd2 Rfe8 12. Bxc5 Qxe2 13. Qc3 Nxc5 14.
+Qxc5 Qe5 15. Qxe5 Rxe5 16. Rae1 Rae8 17. Rxe5 fxe5 18. Be4 Bxe4 19. dxe4 Rd8
+20. f3 1/2-1/2

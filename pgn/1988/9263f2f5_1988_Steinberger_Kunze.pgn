@@ -1,0 +1,18 @@
+[Event "Bundeswehr-ch"]
+[Site "Stetten"]
+[Date "1988.??.??"]
+[Round "7"]
+[White "Steinberger, H."]
+[Black "Kunze, Holger"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "9263f2f5"]
+[Epoch "Queen"]
+[BlackID "4678524"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg6
+8. Bxg6 hxg6 9. c3 Qc7 10. Qb3 e6 11. Nd2 Nd7 12. Ne4 Rh4 13. Ng3 Bd6 14. Qc2
+Bxg3 15. fxg3 Rxh2 0-1

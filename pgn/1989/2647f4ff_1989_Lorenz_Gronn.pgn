@@ -1,0 +1,18 @@
+[Event "IHJM"]
+[Site "IHJM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lorenz, Robin"]
+[Black "Gronn, A."]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "2647f4ff"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. f4 Nge7 8. Nf3
+Nd4 9. O-O O-O 10. e5 Qb6 11. exd6 Nef5 12. Bc1 Nxf3+ 13. Qxf3 Qxd6 14. Ne4 Qc7
+15. c3 Bd7 16. Qf2 b6 17. g4 Ne7 18. Qh4 Bc6 19. f5 f6 20. fxe6 Qe5 21. g5 Nf5
+22. Rxf5 Qxf5 23. e7 Rfe8 24. gxf6 Bxe4 25. Bxe4 Bxf6 26. Qg3 Qd7 27. Bxa8 Rxa8
+28. Qf3 Re8 29. Qxf6 Rxe7 30. Bh6 Rf7 31. Qe5 Re7 32. Qg5 1-0

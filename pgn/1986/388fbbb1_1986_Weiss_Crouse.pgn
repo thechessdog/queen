@@ -1,0 +1,18 @@
+[Event "Iowa"]
+[Site "Iowa"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Weiss, Mitchel"]
+[Black "Crouse"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "388fbbb1"]
+[Epoch "Queen"]
+[WhiteID "2002710"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 dxe4 5. Qxe4 Nf6 6. Qh4 Be7 7. Bg5 Nd5 8.
+Bxe7 Qxe7 9. Qg3 O-O 10. O-O-O Nxc3 11. Qxc3 b6 12. Nf3 Bb7 13. Bc4 c5 14. Rhe1
+cxd4 15. Rxd4 Nd7 16. Qd2 Rfd8 17. Rd1 1-0

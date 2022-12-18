@@ -1,0 +1,18 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mucklow, F."]
+[Black "Crane, L."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence, Paulsen variation"]
+[HashCode "b36f350b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 g6 5. d4 exd4 6. Nd5 Nxd5 7. exd5
+Nb4 8. O-O Bg7 9. Bh6 Bxh6 10. Re1+ Kf8 11. Qxd4 Bg7 12. Qxb4+ Kg8 13. Re2
+a5 14. Qd2 b6 15. Rae1 Bb7 16. Re7 c6 17. Qf4 Qf8 18. dxc6 Bxc6 19. Bxc6
+dxc6 20. Ng5 Bxb2 21. Nxf7 1-0
+

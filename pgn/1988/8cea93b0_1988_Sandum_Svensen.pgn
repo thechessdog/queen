@@ -1,0 +1,19 @@
+[Event "Molde"]
+[Site "Molde"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sandum, Kjell T"]
+[Black "Svensen, Jan Margido"]
+[Result "1-0"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "8cea93b0"]
+[Epoch "Queen"]
+[WhiteID "1504193"]
+[BlackID "1531956"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. d5
+Nc5 9. Qc2 a5 10. b3 b6 11. a3 Bd7 12. Nd2 Bh6 13. Rb1 Nh5 14. b4 axb4 15. axb4
+Na4 16. Bxh5 gxh5 17. Nb3 Qf6 18. Bd2 Kh8 19. Ra1 Nxc3 20. Qxc3 Rac8 21. f4 Rg8
+22. fxe5 Qg6 23. e6+ Bg7 24. exd7 1-0

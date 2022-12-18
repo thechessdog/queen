@@ -1,0 +1,19 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Kargoll"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "58cad9c3"]
+[Epoch "Queen"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 Bf8 6. a4 b6 7. a5 Bb7 8. Nh3 h5
+9. Qd1 Bb4 10. axb6 cxb6 11. Be2 g6 12. O-O a5 13. Na4 Qc7 14. c3 Be7 15. Qb3
+Nd7 16. Bb5 Bc6 17. c4 dxc4 18. Qxc4 Rc8 19. Bg5 Bxb5 20. Qxb5 Bxg5 21. Nxg5
+Kf8 22. d5 exd5 23. e6 Nc5 24. exf7 Qc6 25. fxg8=Q+ Kxg8 26. Qxb6 1-0

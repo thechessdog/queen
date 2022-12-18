@@ -1,0 +1,19 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wirthensohn, Heinz"]
+[Black "Adler, Joel"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "eb3caa63"]
+[Epoch "Queen"]
+[WhiteID "1300059"]
+[WhiteCountry "SUI"]
+[BlackID "1300563"]
+[BlackCountry "SUI"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 b6 4. a3 e6 5. e3 g6 6. d4 Bg7 7. dxc5 bxc5 8. e4
+O-O 9. Bd3 d5 10. exd5 exd5 11. O-O Bb7 12. cxd5 Nbd7 13. Be2 Nb6 14. Be3 Rc8
+15. Rc1 Nfxd5 16. Nxd5 Nxd5 17. Bxc5 Bxb2 18. Rc2 Nc3 19. Qxd8 1/2-1/2

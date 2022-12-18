@@ -1,0 +1,18 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.??.??"]
+[Round "7"]
+[White "Mager, Thomas"]
+[Black "Nuessle"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d5367e18"]
+[Epoch "Queen"]
+[WhiteID "4649486"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 c5 7. d5 b5 8. Nxb5 c4
+9. Bxc4 Nxe4 10. c3 Ba6 11. Qd3 Nc5 12. Qe2 Nbd7 13. Nfd4 Nb6 14. Nc6 Qd7 15.
+O-O Nxc4 16. Qxc4 e6 17. b4 exd5 18. Qxd5 Bxb5 0-1

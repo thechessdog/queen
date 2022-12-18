@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roloff"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "04fe2472"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 Nf5 14. Qxc3
+d4 15. Qc4 Qa5+ 16. Kf2 Ne3 17. Bxe3 dxe3+ 18. Kxe3 Rc8 19. Qc3 Qd5 20. Ng3 Ne7
+21. Qd2 Qc5+ 22. Ke2 Bc6 23. Ke1 Rd8 24. Bd3 Nf5 25. Nh5 Rxg2 26. Nf6+ Ke7 27.
+Qb4 Qxb4+ 28. axb4 Ne3 0-1

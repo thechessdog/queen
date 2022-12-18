@@ -1,0 +1,18 @@
+[Event "corr CA jub"]
+[Site "corr CA jub"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bang"]
+[Black "Richardson"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "aae87049"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 c5 7. d5 h6 8. Bf4
+a6 9. a4 Qa5 10. Bd2 e6 11. Nf3 exd5 12. exd5 Qd8 13. a5 Re8 14. O-O Nbd7
+15. h3 b6 16. axb6 Nxb6 17. Bd3 Kh7 18. Qc2 Bd7 19. Ra3 a5 20. b3 Ng8 21.
+Ne4 1-0
+

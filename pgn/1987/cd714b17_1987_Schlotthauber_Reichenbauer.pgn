@@ -1,0 +1,21 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schlotthauber"]
+[Black "Reichenbauer"]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "cd714b17"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. g3 Qb6 13. Kb1 O-O-O 14.
+Bh3 Kb8 15. Ne2 Bc8 16. c3 d5 17. exd5 Rxd5 18. Qc2 Rhd8 19. Rxd5 Rxd5 20.
+Qxh7 Qe3 21. Ned4 Nxd4 22. Nxd4 Bb7 23. Bg2 Rxd4 24. Bxb7 Rd2 25. Be4 f5
+26. Bxf5 exf5 27. Qxf5 Bf6 28. Rc1 Qf2 29. Rc2 Qg1+ 30. Rc1 Qxh2 31. Rc2
+Qg1+ 32. Rc1 Qf2 33. Rc2 Qf1+ 34. Rc1 Qe2 35. Rc2 Rd1+ 36. Rc1 b4 37. Qc2
+Qxc2+ 38. Kxc2 Rxc1+ 39. Kxc1 bxc3 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nicolas"]
+[Black "Jouy"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "bc2ec83f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nd2 d6 6. exd6 Qf6 7. e3 Nxf2
+8. Kxf2 g5 9. Ne4 Qxb2+ 10. Qe2 Qxa1 11. Bxg5 Bc3 12. dxc7 Nc6 13. Nf3 Be6
+14. Qd3 Qxa2+ 15. Be2 Bb4 16. Bf6 Qa5 17. Bxh8 Qxc7 18. Bf6 Be7 19. Bxe7
+Kxe7 20. Qa3+ Kd7 21. Rd1+ Kc8 22. Qf8+ Nd8 23. Nd6+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Botsch, D."]
+[Black "Edwards, J."]
+[Result "0-1"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "91c66ec6"]
+[Epoch "Queen"]
+
+1. c4 c5 2. g3 e6 3. b3 d5 4. Bb2 d4 5. Bg2 e5 6. d3 Nc6 7. Nd2 Bd6 8. Nh3
+Nge7 9. O-O Bg4 10. f3 Bh5 11. Ne4 O-O 12. Qd2 Bg6 13. f4 exf4 14. Nxf4 Nf5
+15. Nd5 a5 16. Bc1 Nb4 17. Nxb4 axb4 18. Nxd6 Qxd6 19. Qf4 Qe7 20. Bd2 Ra6
+21. g4 Nd6 0-1
+

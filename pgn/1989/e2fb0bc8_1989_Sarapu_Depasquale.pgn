@@ -1,0 +1,19 @@
+[Event "Sydney"]
+[Site "Sydney"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Sarapu, Ortvin"]
+[Black "Depasquale, Chris"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "e2fb0bc8"]
+[Epoch "Queen"]
+[BlackID "3200213"]
+[BlackCountry "AUS"]
+[WhiteCountry "NZL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Nc6 7. Bf4 Ne7
+8. c3 Bd7 9. Bd3 Bc6 10. Qe2 Qd7 11. O-O Ng6 12. Bg3 Bd6 13. Be4 Bxe4 14. Qxe4
+O-O-O 15. d5 Bxg3 16. dxe6 Qxe6 17. Qxe6+ fxe6 18. hxg3 1/2-1/2

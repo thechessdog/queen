@@ -1,0 +1,21 @@
+[Event "corr FIN/K tt"]
+[Site "corr FIN/K tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Olli"]
+[Black "Yrjonen"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "404c455c"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8.
+Nf3 Be7 9. Be3 O-O 10. Bd3 Nc6 11. Bxf5 exf5 12. Qe2 f6 13. e6 Re8 14. O-O
+Bf8 15. d5 Ne7 16. Rad1 Nbc8 17. Nd4 g6 18. Bf4 a6 19. Qf3 Nd6 20. b3 b6
+21. h4 h5 22. Qg3 Kh7 23. b4 Bh6 24. Bxh6 Kxh6 25. c5 bxc5 26. bxc5 Nb7 27.
+Qe3+ Kg7 28. Nc6 Qc8 29. Rfe1 Nd8 30. Nxd8 Rxd8 31. d6 cxd6 32. cxd6 f4 33.
+Qf3 Nf5 34. e7 Qc5+ 35. Kh2 Ne3 36. Ne4 Qe5 37. exd8=Q Rxd8 38. Rc1 g5 39.
+hxg5 1-0
+

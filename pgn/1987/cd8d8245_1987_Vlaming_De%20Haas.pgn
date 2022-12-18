@@ -1,0 +1,23 @@
+[Event "ACCOM op"]
+[Site "ACCOM I"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Vlaming, Jos"]
+[Black "De Haas, Piet"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "cd8d8245"]
+[Epoch "Queen"]
+[WhiteID "1005219"]
+[WhiteCountry "NED"]
+[BlackID "1006606"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Bd3 Bg4 7. h3 Bxf3 8. Qxf3
+Nc6 9. Be3 e5 10. d5 Nd4 11. Qd1 Nh5 12. O-O Nf4 13. g3 Nxd3 14. Qxd3 Nf3+ 15.
+Kg2 f5 16. Kxf3 fxe4+ 17. Kxe4 Qf6 18. Bc1 Qf5+ 19. Ke3 e4 20. Nxe4 Rae8 21. f4
+Qxh3 22. Rg1 Rxf4 23. Kxf4 Qf5+ 24. Ke3 Bh6+ 25. Ke2 Rxe4+ 26. Kd1 Bg7 27. Qf1
+Qg4+ 28. Kc2 Rxc4+ 29. Kb3 Rb4+ 30. Ka3 a5 31. Bf4 Qd7 32. b3 Qf5 33. Qb1 Qxd5
+34. Rd1 Qc5 35. Qc1 Rc4+ 0-1

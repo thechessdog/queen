@@ -1,0 +1,17 @@
+[Event "corr WER/M"]
+[Site "corr WER/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nicklich"]
+[Black "Grzeskowiak"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a830b83c"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 Nc6 6. Bb2 d5 7. cxd5 Nxd5
+8. Nf3 Bg4 9. Be2 Re8 10. O-O Qe7 11. d4 Rad8 12. Qc2 Nxe3 13. fxe3 Qxe3+
+14. Rf2 Bxf3 15. Bxf3 Nxd4 16. Bxd4 Qxd4 17. Nc3 Bxc3 18. Rd1 Qxd1+ 19.
+Bxd1 Re1+ 20. Rf1 Bd4+ 0-1
+

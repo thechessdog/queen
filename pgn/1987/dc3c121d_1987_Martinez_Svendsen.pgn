@@ -1,0 +1,15 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martinez, M."]
+[Black "Svendsen, T."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "dc3c121d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. Bf7+ Ke7 6. d4 Qxg2 7. Qh5
+Qxh1+ 8. Kd2 Nf6 9. Qf5 g6 10. Bxg6 Bh6+ 11. f4 d6 0-1
+

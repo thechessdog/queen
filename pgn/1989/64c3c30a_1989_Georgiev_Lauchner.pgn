@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Georgiev, K."]
+[Black "Lauchner, G."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "64c3c30a"]
+[Epoch "Queen"]
+[WhiteCountry "BGR"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. e3 O-O 6. Bd3 h6 7. O-O b6 8. cxd5
+exd5 9. b3 Be6 10. Bb2 Nbd7 11. Rc1 c5 12. h3 cxd4 13. Nxd4 Nc5 14. Bb1 Rc8 15.
+Qf3 Qd7 16. Rfd1 Qb7 17. Nf5 Bxf5 18. Qxf5 g6 19. Qf4 Kh7 20. Qf3 Rcd8 21. Nb5
+Nfe4 22. Nd4 Ng5 23. Qe2 Nce6 24. Nf3 Ne4 25. Rc2 Bc5 26. Ne5 d4 27. b4 dxe3
+28. Rxd8 Rxd8 29. bxc5 exf2+ 30. Kh2 Nf4 31. Qf1 Rd1 32. Qxd1 Nd2 33. c6 f1=Q
+34. Qxf1 Nxf1+ 35. Kg1 Qa6 36. c7 Ne3 37. Rf2 Ne2+ 38. Kh2 Nd1 39. Rxf7+ Kg8
+40. Rd7 1-0

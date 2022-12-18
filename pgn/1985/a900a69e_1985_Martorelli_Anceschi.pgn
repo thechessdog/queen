@@ -1,0 +1,21 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Anceschi, Vittorio"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "a900a69e"]
+[Epoch "Queen"]
+[BlackID "800708"]
+[BlackCountry "ITA"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 g6 2. d4 Nf6 3. Nc3 d6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Qe2 Qxc5 8. Be3
+Qb4 9. O-O-O Nc6 10. e5 Ng4 11. Nd5 Qa5 12. exd6 O-O 13. Nxe7+ Kh8 14. Nxc6
+bxc6 15. Bd4 Bxd4 16. Nxd4 Qxa2 17. Nb3 Be6 18. h3 Bxb3 19. cxb3 Nh6 20. Qe5+
+Kg8 21. Bc4 Rae8 22. Qc5 Nf5 23. Kc2 1-0

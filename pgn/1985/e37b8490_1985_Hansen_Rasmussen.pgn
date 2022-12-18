@@ -1,0 +1,23 @@
+[Event "Naestved"]
+[Site "Naestved"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Rasmussen, Karsten"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Wade variation"]
+[HashCode "e37b8490"]
+[Epoch "Queen"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O b4 10. Ne4 Be7 11. Nxf6+ Nxf6 12. e4 O-O 13. e5 Nd7 14. Be4 h6 15.
+Be3 Qb8 16. Nd2 c5 17. Qg4 Kh8 18. Qh3 Bxe4 19. Nxe4 Kh7 20. f4 cxd4 21. Bxd4
+Qb5 22. Rad1 Nc5 23. Nd6 Bxd6 24. exd6 Ne4 25. f5 exf5 26. Rxf5 Qe2 27. Rff1 f5
+28. Rc1 Qd2 29. Rfd1 Qf4 30. Rc7 Nf6 31. Be3 Qg4 32. Qxg4 fxg4 33. Bxa7 Rad8
+34. Bc5 1-0

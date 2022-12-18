@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pinternagel"]
+[Black "Risch"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "8a3a75ca"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Na5 11. Bc2 exd4 12. cxd4 c5 13. d5 Nc4 14. Nbd2
+Nxd2 15. Bxd2 Nd7 16. Bf4 f6 17. Bd2 Ne5 18. Nh2 f5 19. exf5 Nc4 20. Bc1
+Bf6 21. Rb1 Re8 22. Re6 Nb6 23. Be4 Rf8 24. g4 Bc8 25. f4 Bxe6 26. fxe6
+Bd4+ 27. Kg2 Ra7 28. Nf3 Bf6 29. g5 Be7 30. f5 Nc4 31. b3 Nb6 32. Be3 Rb7
+33. Qe1 c4 34. Qg3 Kh8 35. Nh4 cxb3 36. Ng6+ Kg8 37. axb3 1-0
+

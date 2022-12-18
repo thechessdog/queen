@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Flear, Glenn C"]
+[Black "Sanabria Cifuentes, Rafael"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "905d7d52"]
+[Epoch "Queen"]
+[WhiteID "400165"]
+[BlackID "4429885"]
+[WhiteCountry "ENG"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 c6 7. O-O a6 8. e5
+dxe5 9. Nxe5 Be6 10. Be3 b5 11. b3 Qa5 12. Rc1 Rd8 13. Bf3 Nfd7 14. Bxc6 Nxc6
+15. Nxc6 1-0

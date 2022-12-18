@@ -1,0 +1,21 @@
+[Event "AdW-Turnier"]
+[Site "Berlin-Ost"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Marszalek, Rafal"]
+[Black "Szitkey, Milan"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "97fd44e3"]
+[Epoch "Queen"]
+[BlackID "14901307"]
+[BlackCountry "SVK"]
+[WhiteID "1101358"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 Nc6 8. O-O
+b6 9. Qe2 Bb7 10. h3 a5 11. a4 Re8 12. Rad1 Nd7 13. e4 cxd4 14. exd5 Nce5 15.
+Bb5 Nxf3+ 16. Nxf3 dxc3 17. bxc3 Bxc3 18. d6 f6 19. Qe6+ Kh8 20. Bxd7 fxg5 21.
+Nxg5 1-0

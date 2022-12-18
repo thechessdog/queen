@@ -1,0 +1,18 @@
+[Event "Naestved"]
+[Site "Naestved"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "9e8d5982"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[BlackID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5 f5 8.
+Bb5+ Nc6 9. a3 Bg7 10. Ne2 O-O 11. O-O Nd4 12. b4 Qc7 13. Nd5 Qd8 1/2-1/2

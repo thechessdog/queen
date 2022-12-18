@@ -1,0 +1,19 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jorgensen, E."]
+[Black "Andersen, F."]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "274a74aa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7
+8. f4 b5 9. Bf3 Bb7 10. e5 Bxf3 11. Nxf3 b4 12. exf6 bxc3 13. fxg7 Bxg7 14.
+b3 Qb6+ 15. Kh1 Nf6 16. Qe1 O-O 17. Be3 Qc6 18. Bd4 Ne4 19. Bxg7 Kxg7 20.
+Qh4 h6 21. f5 Qd5 22. fxe6 fxe6 23. Rfe1 Ng5 24. Nxg5 Qxg5 25. Qxg5+ hxg5
+26. Kg1 Rf5 27. Rxe6 Rd5 28. Rae1 Rc8 29. R1e2 Rd1+ 30. Kf2 d5 1/2-1/2
+

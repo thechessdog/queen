@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gustavsson"]
+[Black "Storaas"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "145eef4a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8.
+Qb3 Qe7 9. e5 dxe5 10. Ba3 Qf6 11. Nbd2 Bf5 12. Bxf7+ Qxf7 13. Qxb7 Rb8 14.
+Qxc6+ Bd7 15. Qe4 Bxc3 16. Rab1 Rc8 17. Qxe5+ Kd8 18. Ne4 Nf6 19. Nfg5 Qe8
+20. Nxf6 1-0
+

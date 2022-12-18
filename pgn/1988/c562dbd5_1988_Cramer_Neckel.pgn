@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Cramer"]
+[Black "Neckel"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "c562dbd5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Ng3 Bd7 13. Bd2 O-O-O 14.
+Rc1 Kb8 15. Qe2 Rde8 16. Be3 Ng4 17. Bb5 Nxe3 18. fxe3 h6 19. e4 Bxg3 20.
+hxg3 Qb6 21. Bxc6 Bxc6 22. exd5 exd5 23. Qd2 Re4 24. Rc5 Rhe8 25. Rfc1 Re2
+26. Qf4+ Ka8 27. R1c2 a6 28. Ne5 R8xe5 0-1
+

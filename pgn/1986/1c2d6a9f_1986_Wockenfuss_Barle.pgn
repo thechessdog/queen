@@ -1,0 +1,23 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Wockenfuss, Klaus"]
+[Black "Barle, Janez"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "1c2d6a9f"]
+[Epoch "Queen"]
+[WhiteID "4600746"]
+[WhiteCountry "GER"]
+[BlackID "14600021"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Nh4 Nc5 11. f4 exf4 12. Rxf4 g5 13. Nf5 Bxf5 14. Rxf5
+Nxe4 15. Qg4 Bc5+ 16. Be3 Bxe3+ 17. Nxe3 Nd6 18. Rf3 Qe8 19. Raf1 h5 20. Qb4
+Qe6 21. Nf5 a5 22. Qc3 Qe5 23. d4 Qe6 24. d5 Qe5 25. Qxe5 fxe5 26. dxc6 e4 27.
+cxb7 Nxb7 28. Rc3 c5 29. Rb3 Nd8 30. Rb6 Rf7 31. Ne7+ Kg7 32. Rg6+ Kh7 33. Rgf6
+Kg7 34. Ng6 1-0

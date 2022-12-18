@@ -1,0 +1,15 @@
+[Event "corr SSKK"]
+[Site "corr SSKK"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tidemalm, G."]
+[Black "Wikstrom, Birger"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a9ae18c8"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. Nf3 Nc6 7. Bb2 Bg4
+8. a3 Be7 9. d4 dxc4 10. Bxc4 Na5 11. Bd3 c5 12. O-O Rc8 13. Nbd2 c4 0-1
+

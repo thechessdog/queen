@@ -1,0 +1,20 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thesing, Matthias"]
+[Black "Fauland, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "b8d828e5"]
+[Epoch "Queen"]
+[BlackID "1600036"]
+[BlackCountry "AUT"]
+[WhiteID "4600720"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. Nbd2 Nc6 6. c3 g5 7. g3 d6 8. Bg2
+g4 9. Nh4 Bd7 10. O-O Be7 11. e4 Qg7 12. f4 gxf3 13. Ndxf3 O-O-O 14. Kh1 Rdf8
+15. Bh3 Qh7 16. Qe2 1/2-1/2

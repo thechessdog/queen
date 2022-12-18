@@ -1,0 +1,23 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "De Boer, Gert-Jan"]
+[Black "Maus, Soenke"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "0ca03104"]
+[Epoch "Queen"]
+[BlackID "4600240"]
+[BlackCountry "GER"]
+[WhiteID "1000233"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Ne8 11. f4 a6 12. a4 b6 13. Nf3 Rb8 14. Bc4 Nc7 15. Qd3
+Re8 16. e5 b5 17. axb5 axb5 18. Nxb5 Nxb5 19. Bxb5 dxe5 20. fxe5 Nxe5 21. Nxe5
+Rxe5 22. Bc4 Bf5 23. Qf3 Re4 24. Ra4 Qd7 25. b3 Rbe8 26. h3 Bd4+ 27. Kh2 Re3
+28. Qf4 Rc3 29. Qh6 Rc2 30. d6 Bg7 31. Qg5 h6 32. Qg3 Rxc1 33. Rxc1 Be5 34.
+Qxe5 Rxe5 35. Rd1 Re3 36. Ra5 Bxh3 37. Rxc5 Bxg2 38. Kxg2 Qg4+ 39. Kf2 Qf3+ 0-1

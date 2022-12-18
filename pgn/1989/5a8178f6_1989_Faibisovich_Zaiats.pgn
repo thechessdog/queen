@@ -1,0 +1,24 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Faibisovich, Vadim Z"]
+[Black "Zaiats, Elena"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "5a8178f6"]
+[Epoch "Queen"]
+[WhiteID "4102703"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4 Qxd4 8.
+Nxd4 c5 9. Nde2 Be6 10. Nf4 Bf7 11. Nfd5 O-O-O 12. Bf4 Bd6 13. Bxd6 Rxd6 14.
+O-O-O Nh6 15. f3 Rhd8 16. h4 Nf5 17. Nxf6 Rxd1+ 18. Rxd1 Rxd1+ 19. Kxd1 Nxh4
+20. Nxh7 Nxg2 21. Ng5 Bg8 22. Ke2 Kd7 23. Kf2 Nf4 24. Kg3 Nh5+ 25. Kg4 g6 26.
+f4 Ke7 27. a3 Nf6+ 28. Kf3 b6 29. Nd1 Bc4 30. Ne3 Bb5 31. c4 Bd7 32. f5 gxf5
+33. Nxf5+ Bxf5 34. exf5 Nd7 35. Ke4 c6 36. a4 Kf6 37. Kf4 b5 38. Ne4+ Ke7 39.
+a5 bxc4 40. Nd2 c3 41. bxc3 Nf6 42. c4 Nd7 43. Ne4 Kf7 44. Ng5+ Ke7 45. Ne6 Kd6
+46. Nd8 Ke7 47. Nxc6+ Kd6 48. Nd8 Ke7 49. Ne6 Kd6 50. Ng5 Ke7 51. Ne4 Kf7 52.
+Nf2 Ke7 53. Ng4 Kd6 54. Ke4 Nf8 55. Nf6 1-0

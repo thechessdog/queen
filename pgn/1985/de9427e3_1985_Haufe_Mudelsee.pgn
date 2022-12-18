@@ -1,0 +1,23 @@
+[Event "corr DFM"]
+[Site "corr DFM"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Haufe"]
+[Black "Mudelsee"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "de9427e3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. Be3 Bg7
+8. Nb3 O-O 9. O-O Be6 10. f4 Qc8 11. Kh1 Rd8 12. Bg1 d5 13. e5 Ne4 14. Bd3
+f6 15. exf6 exf6 16. Ne2 f5 17. c3 Re8 18. Bc2 Bf7 19. Ned4 Qc7 20. Qd3
+Rad8 21. a4 Bh6 22. g3 Rd7 23. a5 a6 24. Nxc6 bxc6 25. Qxa6 d4 26. Bxd4 c5
+27. Be5 Bd5 28. Bxe4 Bxe4+ 29. Kg1 Rxe5 30. fxe5 Be3+ 31. Rf2 f4 32. Re1
+Bd5 33. c4 Bxf2+ 34. Kxf2 fxg3+ 35. hxg3 Bc6 36. Re3 Rd8 37. Nxc5 Rf8+ 38.
+Ke1 Qf7 39. Nd3 Qf1+ 40. Kd2 Ba4 41. Kc3 Qd1 42. Qd6 Qc2+ 43. Kd4 Bb3 44.
+Qd5+ Kg7 45. Rf3 Rxf3 46. Qxf3 Qxc4+ 47. Ke3 Bc2 48. Qf6+ Kg8 49. Qd8+ Kg7
+50. Qd7+ Kh6 51. Qd4 Bxd3 52. Qxd3 Qc5+ 53. Ke2 0-1
+

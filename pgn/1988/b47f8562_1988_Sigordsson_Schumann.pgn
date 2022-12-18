@@ -1,0 +1,21 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sigordsson"]
+[Black "Schumann"]
+[Result "0-1"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "b47f8562"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5 6. cxd5 Nxd5 7. O-O Nb6
+8. e3 Nc6 9. Nc3 a5 10. b3 Nb4 11. Bb2 a4 12. bxa4 N4d5 13. Nxd5 Nxd5 14.
+Qc2 Bd7 15. Rfc1 Bxa4 16. Qc4 c6 17. Qe2 Qb6 18. Bc3 Bb5 19. Qb2 Rfd8 20.
+Ng5 Nxc3 21. Qxc3 e6 22. Qb4 Bf8 23. Qc3 Ra3 24. Qb2 Qa6 25. Ne4 Be7 26.
+Nc5 Qa7 27. Bf1 Bxf1 28. Kxf1 e5 29. Nb3 exd4 30. exd4 Bf6 31. Rc2 c5 32.
+Rd1 cxd4 33. Rcd2 Kg7 34. Qb1 b5 35. Nc1 Qb7 36. Kg1 h5 37. Rd3 Ra4 38. Rb3
+Rd5 39. Nd3 Qd7 40. Nb4 Rf5 41. h4 g5 42. Qe4 Re5 43. Qc6 Qg4 44. Rdd3 Re1+
+45. Kh2 Be5 0-1
+

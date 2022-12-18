@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hutters, Tomas"]
+[Black "Willumsen, Henrik"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "03aef93a"]
+[Epoch "Queen"]
+[BlackID "1405012"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Qc2 Nf6 5. g3 Nbd7 6. Bg2 Bd6 7. O-O O-O 8. Bg5
+h6 9. Bxf6 Qxf6 10. Nbd2 Re8 11. e4 Bf8 12. Rfe1 dxc4 13. Nxc4 b5 14. e5 Qd8
+15. Nd6 Bxd6 16. Qxc6 Nb6 17. exd6 Bd7 18. Qe4 Rc8 19. Ne5 Nd5 20. Rac1 f6 21.
+Nxd7 Rxc1 22. Rxc1 Qxd7 23. Qg6 Rc8 24. Rxc8+ Qxc8 25. Qg4 Qc1+ 26. Bf1 f5 27.
+Qe2 Kf7 28. Qxb5 f4 29. Qc4 Qxb2 30. d7 fxg3 31. hxg3 Nb6 32. d8=N+ Ke8 33. Qc7
+Nd5 34. Qd6 Nc3 35. Nxe6 Qb1 36. Nc7+ Kf7 37. Qe6+ Kf8 38. Qe8# 1-0

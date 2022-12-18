@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Dorfman, Iossif"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "88e48f03"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 e6 8. Be3
+Be7 9. O-O O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bd7 13. Nb3 b6 14. Qe2 Bc8 15. e5
+dxe5 16. fxe5 Nd7 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vogel, Robert"]
+[Black "Wegner, Hannu"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "8a48b7eb"]
+[Epoch "Queen"]
+[WhiteID "4604253"]
+[BlackID "4600509"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Nc6 7. Bd2 O-O 8. Be2
+Re8 9. O-O Bf8 10. Qa4 Bb7 11. Rac1 a6 12. a3 d5 13. cxd5 exd5 14. Bf3 Na7 15.
+Qc2 c5 16. dxc5 bxc5 17. Rfd1 Qc7 18. Na4 Rac8 19. b4 c4 20. Bc3 Ne4 21. Nxe4
+dxe4 22. Bg4 Rcd8 23. Bd4 Nb5 24. Bb6 Rxd1+ 25. Rxd1 Qe5 26. Bd7 Ra8 27. Nc5
+Bxc5 28. bxc5 c3 29. c6 Bc8 30. Qb3 Rb8 31. a4 Rxb6 32. Bxc8 Rb8 33. Rd8+ 1-0

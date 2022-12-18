@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jorgensen, P."]
+[Black "Wawrowski, Z."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "d17cc758"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4
+8. exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O b6 12. Qd3 Bb7 13. Rad1 h6 14.
+Rfe1 Ne7 15. Bf4 Ned5 16. Be5 a6 17. Nxd5 Nxd5 18. Qg3 Qg5 19. Qxg5 hxg5
+20. Bd3 Rac8 21. Rc1 Rfd8 22. Be4 Rxc1 23. Rxc1 f6 24. Bc7 Rc8 25. f3 Rxc7
+26. Rxc7 Nxc7 27. Bxb7 Kf7 28. Kf2 Ke7 29. Ke3 Kd6 30. Kd3 a5 31. a4 e5 32.
+dxe5+ Kxe5 33. Kc4 Kd6 34. b4 axb4 35. Kxb4 Nd5+ 36. Kc4 1/2-1/2
+

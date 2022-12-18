@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kogelov, G."]
+[Black "Georgiev, V."]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "32d63256"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8.
+b3 b5 9. Bf4 bxc4 10. bxc4 Ba6 11. Nbd2 c5 12. Ne5 Nxe5 13. dxe5 Nh5 14.
+Qa4 Bb7 15. Be3 g6 16. Nb3 Qc7 17. cxd5 exd5 18. Nxc5 Bxc5 19. Rfc1 d4 20.
+Bxd4 Bxg2 21. Bxc5 Qb7 22. f3 Bh3 23. g4 Ng7 24. Bxf8 Rxf8 25. Rab1 Qe7 26.
+Qf4 Qh4 27. Qg3 Qxg3+ 28. hxg3 h5 29. Rc7 g5 30. Rxa7 hxg4 31. Kh2 Ne6 32.
+Ra4 f5 33. exf6 1-0
+

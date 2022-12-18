@@ -1,0 +1,16 @@
+[Event "Insular"]
+[Site "Insular"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Solana Suarez, Ernesto"]
+[Black "Plasencia, JC."]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "0c997a7f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. h3 Nc6 5. Bd3 c4 6. Bc2 d5 7. e5 Nd7 8. e6 Nf6
+9. exf7+ Kxf7 10. b3 e5 11. bxc4 dxc4 12. O-O Bc5 13. Qe2 Qd5 14. d3 Re8 15.
+dxc4 Qd6 16. Ng5+ Ke7 17. Rd1 Qc7 18. Nxh7 Nxh7 19. Bxh7 Kf8 20. Bg6 Re6 21.
+Qh5 Ne7 22. Qh8+ Ng8 23. Bh7 Qf7 1-0

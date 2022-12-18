@@ -1,0 +1,22 @@
+[Event "Tel Aviv-A"]
+[Site "Tel Aviv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hickl, Joerg"]
+[Black "Levitt, Jonathan P"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "04dae898"]
+[Epoch "Queen"]
+[WhiteID "4600118"]
+[WhiteCountry "GER"]
+[BlackID "400220"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. exd5 exd5 5. Bd3 c6 6. Qf3 Qf6 7. Be3 Qxf3 8.
+Nxf3 Ne7 9. Nh4 Be6 10. O-O-O Bxc3 11. bxc3 Nd7 12. Rde1 Nf8 13. Re2 Nfg6 14.
+Nf3 O-O 15. h4 Rfe8 16. h5 Nf8 17. Ree1 Bf5 18. Bd2 Bxd3 19. cxd3 Rac8 20. g4
+Ne6 21. Ne5 c5 22. dxc5 Nxc5 23. Kc2 a6 24. d4 Na4 25. h6 g6 26. Nd7 f5 27. Kb3
+b5 28. Nf6+ Kf7 29. Nxe8 Rxe8 30. Bg5 Nc6 31. Rxe8 Kxe8 32. gxf5 1-0

@@ -1,0 +1,17 @@
+[Event "corr ch-North Atlantic"]
+[Site "corr ch-North Atlantic"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Timson"]
+[Black "Ortiz"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f216e61c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8.
+Bd2 Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bd3 b6 13. O-O bxc5 14.
+dxc5 Qa5 15. Rfe1 O-O 16. Re3 Nd7 17. Rg3 h6 18. Qxh6 1-0
+

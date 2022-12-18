@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zezulkin, J."]
+[Black "Kurbedinov"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "c045494b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 Ne5 6. Bb3 h6 7. f4 hxg5
+8. fxe5 Nxe4 9. Bd5 Bb4+ 10. c3 dxc3 11. bxc3 Nxc3 12. Bxf7+ Kxf7 13. O-O+
+Ke8 14. Nxc3 Bxc3 15. Qd3 Bd4+ 16. Kh1 Rh6 17. Qf3 Qe7 18. Bxg5 Rxh2+ 19.
+Kxh2 Qxe5+ 20. Kh1 1-0
+

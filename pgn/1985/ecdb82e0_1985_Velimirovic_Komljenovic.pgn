@@ -1,0 +1,23 @@
+[Event "Pula"]
+[Site "Pula"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Komljenovic, Davor"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "ecdb82e0"]
+[Epoch "Queen"]
+[WhiteCountry "SRB"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 h5 12. O-O-O Ne5 13. Kb1 a6 14. Bg5 b5 15. g4
+hxg4 16. h5 Nxh5 17. Nd5 Re8 18. Rxh5 gxh5 19. Qh2 gxf3 20. Qxh5 Rc4 21. Bxc4
+bxc4 22. Bh6 f2 23. Rh1 e6 24. Bxg7 f1=Q+ 25. Rxf1 Kxg7 26. Nf6 Qxf6 27. Rxf6
+Kxf6 28. Qh4+ Kg7 29. Qg3+ Kf8 30. Qa3 Ke7 31. Qxa6 Rg8 32. a4 Rg4 33. Nb5 Bxb5
+34. Qxb5 f5 35. Qb7+ Kf6 36. exf5 exf5 37. a5 f4 38. a6 f3 39. Qb6 Ke6 40. a7
+Rg8 41. Ka2 Kd5 42. b4 Rf8 43. Qb8 Rxb8 44. axb8=Q Ke4 45. Qxd6 f2 46. Qd1 Ke3
+47. b5 Nd7 48. Ka3 1-0

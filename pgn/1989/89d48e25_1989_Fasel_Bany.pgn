@@ -1,0 +1,18 @@
+[Event "Porz op23"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Fasel, J."]
+[Black "Bany, Jerzy"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "89d48e25"]
+[Epoch "Queen"]
+[BlackID "1100084"]
+[BlackCountry "POL"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. g3 Bb4 5. Bg2 O-O 6. e3 d5 7. Qb3 c5 8. Ne2 Nc6
+9. cxd5 Na5 10. Qc2 cxd4 11. Nxd4 Nxd5 12. O-O Bxc3 13. bxc3 Bd7 14. Rd1 Rc8
+15. Bb2 Nc4 16. Bxd5 exd5 17. Rab1 Qe8 18. Nb3 f4 19. Rxd5 fxe3 20. f4 e2 21.
+Re1 Qe3+ 0-1

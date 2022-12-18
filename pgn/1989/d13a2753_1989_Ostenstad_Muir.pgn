@@ -1,0 +1,28 @@
+[Event "Troll Masters"]
+[Site "Gausdal"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Muir, Andrew J"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "d13a2753"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "2400138"]
+[BlackCountry "SCO"]
+
+1. c4 e6 2. d4 d5 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Nc3 Nb4 12. Qd2 c5 13. Rfd1 Qb6 14. Be3 Rac8 15.
+dxc5 Bxc5 16. Bxc5 Rxc5 17. Qd6 Qxd6 18. Rxd6 Nbd5 19. Nxd5 Nxd5 20. Nd4 Rfc8
+21. e4 Nf6 22. f3 Kf8 23. Nb3 R5c6 24. Rxc6 Bxc6 25. Rc1 Ke7 26. e5 Nd7 27. f4
+Nb8 28. Nd4 Bb7 29. Rxc8 Bxc8 30. b4 Kd7 31. Kf2 Kc7 32. Be4 h6 33. Bh7 Kd8 34.
+Be4 Kc7 35. Bh7 Kd8 36. Bd3 Bb7 37. Ke3 Bd5 38. a3 f6 39. exf6 gxf6 40. Be4
+Bxe4 41. Kxe4 Ke7 42. f5 e5 43. Ne6 Nd7 44. Nc7 Nb6 45. Nxa6 Kd6 46. Nc5 Nc4
+47. a4 bxa4 48. Nxa4 Nd2+ 49. Kd3 Nf1 50. Nc3 Nxh2 51. Ne4+ Ke7 52. b5 Nf3 53.
+b6 Kd7 54. Nc5+ Kc6 55. b7 Kc7 56. Ke4 Nh2 57. Nd7 Kxb7 58. Nxf6 Nf1 59. Nh5
+Kc6 60. Kxe5 Kd7 61. Kf6 Ke8 62. Kg7 Ne3 63. f6 Nf5+ 64. Kg8 Nd6 65. Ng7+ Kd7
+66. f7 1-0

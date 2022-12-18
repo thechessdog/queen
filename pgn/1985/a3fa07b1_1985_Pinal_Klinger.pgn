@@ -1,0 +1,17 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "13"]
+[White "Pinal, Nelson Borges"]
+[Black "Klinger, Josef"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a3fa07b1"]
+[Epoch "Queen"]
+[BlackID "1600010"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O O-O 8. c4
+Qd7 9. Nc3 Rd8 10. dxc5 1/2-1/2

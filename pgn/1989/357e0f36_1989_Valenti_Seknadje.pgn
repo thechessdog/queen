@@ -1,0 +1,18 @@
+[Event "Parijs open I"]
+[Site "Parijs open I"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Valenti, Richard"]
+[Black "Seknadje, Jose"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "357e0f36"]
+[Epoch "Queen"]
+[WhiteID "602752"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Bg5 h6 7. Bh4 O-O 8.
+Ne2 c5 9. dxc5 Bg4 10. O-O g5 11. f3 gxh4 12. fxg4 Bxc5+ 13. Kh1 Nxg4 14. Nxd5
+h3 15. Nef4 hxg2+ 16. Nxg2 Qg5 17. Qxg4 1-0

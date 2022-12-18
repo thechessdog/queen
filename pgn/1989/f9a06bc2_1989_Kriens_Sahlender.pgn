@@ -1,0 +1,20 @@
+[Event "BL2-N8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kriens, Michael"]
+[Black "Sahlender, Frank"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "f9a06bc2"]
+[Epoch "Queen"]
+[BlackID "4604911"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. a3 a5 7. b3 O-O 8. Bb2
+Re8 9. Be2 Ncxe5 10. Nbd2 Bxe3 11. fxe3 Nxe3 12. Qc1 Nxg2+ 13. Kf1 Ne3+ 14. Kg1
+Nxf3+ 15. Nxf3 Ra6 16. Bd3 f5 17. Kf2 Ng4+ 18. Kf1 Re3 19. Qd1 Rd6 20. Bd4
+Rxf3+ 21. Qxf3 Rxd4 22. Bxf5 d6 23. Bxg4 Bxg4 24. Qe3 Qf6+ 25. Kg2 Bd7 26. h3
+Bc6+ 27. Kg1 Qg6+ 28. Kh2 Qg2# 0-1

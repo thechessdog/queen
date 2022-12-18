@@ -1,0 +1,18 @@
+[Event "corr WT/M/GT"]
+[Site "corr WT/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Muller, Peter"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "d707c7a0"]
+[Epoch "Queen"]
+[WhiteID "12916250"]
+[BlackID "503495"]
+[WhiteCountry "GER"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. e4 Nc6 3. Nc3 dxe4 4. d5 Ne5 5. Qd4 Ng6 0-1

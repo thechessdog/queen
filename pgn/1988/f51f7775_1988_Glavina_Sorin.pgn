@@ -1,0 +1,26 @@
+[Event "BCA op"]
+[Site "Buenos Aires"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Glavina, Pablo"]
+[Black "Sorin, Ariel"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f51f7775"]
+[Epoch "Queen"]
+[WhiteID "100234"]
+[BlackID "100196"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Re8 11. Bf4 Nc5 12. Qc2 Nh5 13. Be3 Be5 14. Rad1 Qe7
+15. b4 Ne6 16. Nde2 Nhf4 17. Qd2 Qf6 18. Rc1 g5 19. g3 Ng6 20. Bh3 Nef4 21.
+Bxc8 Raxc8 22. gxf4 gxf4 23. Bd4 Nh4 24. Kh1 Nf3 25. Bxe5 dxe5 26. Qd7 Nxe1 27.
+Rxe1 Kh8 28. Qf5 Qe7 29. Ng1 Rg8 30. Nf3 f6 31. Nh4 Rcd8 32. c5 Rd3 33. Ne2 Rg5
+34. Qc8+ Rg8 35. Nf5 Rxc8 36. Nxe7 Rcd8 37. Ng1 Rd1 38. Rxd1 Rxd1 39. Kg2 Rd4
+40. a3 Rxe4 41. Nc8 Re1 42. Nf3 Ra1 43. Nd6 Rxa3 44. Nd2 b5 45. N2e4 Ra4 46.
+Nxf6 Rxb4 47. Nd7 Rd4 48. Nb8 Rd5 49. Na6 b4 50. Nxb4 Rxc5 51. Nf7+ Kg7 52. Nd8
+Kf6 53. Nbxc6 a5 0-1

@@ -1,0 +1,18 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Brusiani"]
+[Black "Foenander"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "065b6b8a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c6 7. Qd2 a6 8. Bh6
+b5 9. h4 e5 10. d5 cxd5 11. cxd5 Nbd7 12. Nge2 Bxh6 13. Qxh6 Kh8 14. Ng3
+Ng8 15. Qd2 Nb6 16. O-O-O Bd7 17. Kb1 b4 18. Nce2 Nc4 19. Qd3 Bb5 20. Qb3
+Qb6 21. Qxb4 Ne3 22. Rc1 Bd3+ 0-1
+

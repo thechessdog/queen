@@ -1,0 +1,20 @@
+[Event "NWL-I 8687"]
+[Site "NWL-I 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wolfradt, Dirk"]
+[Black "Kluss, Kai"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "8bfec600"]
+[Epoch "Queen"]
+[WhiteID "4695178"]
+[WhiteCountry "GER"]
+[BlackID "4617436"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. e3 b6 5. c4 Bb7 6. Nc3 O-O 7. Bd3 d5 8. Rc1
+Nbd7 9. cxd5 exd5 10. O-O h6 11. Bf4 Nh5 12. Be5 f6 13. Bxc7 Qxc7 14. Nxd5 Qd8
+15. Qb3 Rf7 16. Bg6 Kf8 17. Nf4 1-0

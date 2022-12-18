@@ -1,0 +1,17 @@
+[Event "Zuerich op2"]
+[Site "Zurich op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schladetzky, S."]
+[Black "Batchinsky, B."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "82cc81d5"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bf4 Qb6 8.
+Rb1 c5 9. Be5 Qa5+ 10. c3 cxd4 11. Bxd4 Qxa2 12. Bb5 Qa5 13. Bxd7+ Nxd7 14. O-O
+Qd5 15. Re1 b6 16. Ne5 Bb7 17. f3 Bc5 18. Qa4 b5 19. Qd1 Nxe5 20. Bxc5 Qxc5+
+0-1

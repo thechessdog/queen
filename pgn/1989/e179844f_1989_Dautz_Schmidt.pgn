@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dautz, E."]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "e179844f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bg5 h6 8. Bh4
+Bg7 9. f4 O-O 10. Qc2 Qa5 11. Bd3 Na6 12. a3 Nb4 13. Qd1 Nxd3+ 14. Qxd3 Nxe4
+15. Ne2 Bf5 16. Qc4 Nxc3 17. Nxc3 b5 18. Qb3 b4 19. Ne2 bxa3+ 20. Kf2 Rfe8 21.
+Rxa3 Qd2 22. Qf3 Be4 23. Qg3 Bxb2 24. Re3 Bd4 0-1

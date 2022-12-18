@@ -1,0 +1,19 @@
+[Event "Edinburgh op"]
+[Site "Edinburgh"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "MacKay, Ian D"]
+[Black "Tozer, Richard J D"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "ad363f66"]
+[Epoch "Queen"]
+[BlackID "401340"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 d5 5. Bg2 O-O 6. a3 Be7 7. Nf3 dxc4 8. Qa4
+a6 9. Qxc4 b5 10. Qd3 Bb7 11. b4 Nc6 12. O-O Qb8 13. Bf4 Rc8 14. e4 a5 15. e5
+Nd7 16. d5 exd5 17. Nxd5 Nf8 18. Qxb5 axb4 19. Nd4 Ng6 20. Nxc6 Bxc6 21. Qxc6
+1-0

@@ -1,0 +1,19 @@
+[Event "Wolfsberg"]
+[Site "Wolfsberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Djurkovic, Maks"]
+[Black "Cserna, Laszlo"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "a001732d"]
+[Epoch "Queen"]
+[WhiteID "14601761"]
+[WhiteCountry "SLO"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. g3 Bxf3 6. exf3 d5 7. cxd5 Nxd5 8.
+Bd3 c6 9. O-O Be7 10. Re1 Nxc3 11. bxc3 Nd7 12. f4 g6 13. f5 gxf5 14. Rxe6 fxe6
+15. Qh5+ Kf8 16. Bh6+ Kg8 17. Qxf5 Nf8 18. Bc4 Qe8 19. Re1 Qg6 20. Rxe6 1-0

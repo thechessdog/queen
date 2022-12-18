@@ -1,0 +1,20 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Murato"]
+[Black "Maumey"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch variation"]
+[HashCode "84930150"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. d5 Ne7 6. Nxe5 O-O 7. Bc4 d6 8.
+Nf3 Nxe4 9. O-O Nxc3 10. bxc3 Bxc3 11. Rb1 Ng6 12. Ng5 Ne5 13. f4 Nxc4 14.
+Qd3 f5 15. Qxc3 Nb6 16. Bb2 Rf6 17. Qf3 Rh6 18. Rfe1 Qf8 19. Re2 Bd7 20.
+Rbe1 Re8 21. Rxe8 Bxe8 22. Ne6 Qf7 23. Nxg7 Bd7 24. Qc3 Kf8 25. Qxc7 Kg8
+26. Qc3 Kf8 27. Nxf5 Rg6 28. Nxd6 Qxd5 29. Ne4 Nc4 30. Qb4+ Kf7 31. Ng5+
+Kg8 32. Qe7 1-0
+

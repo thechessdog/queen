@@ -1,0 +1,17 @@
+[Event "Bad Mergentheim"]
+[Site "Bad Mergentheim"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zimmermann"]
+[Black "Browne, Walter S"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "2f2d04a2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Be3 Bb7 13. Qh5 g6 14. Qh3 Nc5 15.
+Rxf7 Rxf7 16. Nxe6 Nxb3 17. Nxd8 Nxa1 18. Nxf7 Kxf7 19. e6+ Kg8 20. Qg3 Nc6 21.
+Qc7 1-0

@@ -1,0 +1,23 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ivkov, Borislav"]
+[Black "Ruzele, Darius"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "ea8ed063"]
+[Epoch "Queen"]
+[WhiteID "900141"]
+[BlackID "12800104"]
+[WhiteCountry "SRB"]
+[BlackCountry "LTU"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+Re8 9. O-O dxc4 10. bxc4 e5 11. Bb2 exd4 12. exd4 Nf8 13. Rad1 Bg4 14. Ne5 Bxe2
+15. Nxe2 Ng6 16. Ng3 Qc7 17. Nf3 Rad8 18. Nf5 Bf8 19. g3 Qa5 20. Rfe1 Rxe1+ 21.
+Rxe1 Ne8 22. Bc3 Qa6 23. Qb3 Nd6 24. Nxd6 Bxd6 25. d5 b5 26. cxb5 Qxb5 27. Qxb5
+cxb5 28. Nd4 a6 29. Nc6 Ra8 30. Bb4 Bxb4 31. Nxb4 f6 32. Nc6 Rf8 33. d6 Ne5 34.
+Rxe5 1-0

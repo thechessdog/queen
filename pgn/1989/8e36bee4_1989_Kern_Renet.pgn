@@ -1,0 +1,19 @@
+[Event "Ostend op"]
+[Site "Ostende"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Kern, Johannes, Dr."]
+[Black "Renet, Olivier"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "8e36bee4"]
+[Epoch "Queen"]
+[BlackID "600040"]
+[BlackCountry "FRA"]
+[WhiteID "4604776"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 d5 5. Bg2 O-O 6. Nf3 b6 7. O-O Bb7 8. Qc2
+Na6 9. a3 Bd6 10. b4 c5 11. dxc5 bxc5 12. b5 Nb8 13. Rd1 Qe7 14. cxd5 exd5 15.
+Bb2 Nbd7 16. Qf5 Rab8 17. e4 dxe4 18. Ng5 Be5 19. Ngxe4 Bxe4 0-1

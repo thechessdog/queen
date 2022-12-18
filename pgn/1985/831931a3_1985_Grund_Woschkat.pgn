@@ -1,0 +1,19 @@
+[Event "corr T5005"]
+[Site "corr T5005"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grund"]
+[Black "Woschkat"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "831931a3"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. f4 d6 6. a3 Bc5 7. f5 g6 8. c3
+Na5 9. Ba2 Ne7 10. d4 Bb6 11. g4 c5 12. Nf3 cxd4 13. cxd4 gxf5 14. gxf5
+Nxf5 15. Nxe5 dxe5 16. Qh5+ Ke7 17. Qf7+ Kd6 18. dxe5+ Kc6 19. Bd5+ Kc5 20.
+Nd2 fxe5 21. Bxe5 Qh4+ 22. Kd1 Ne3+ 23. Kc1 Rd8 24. Bd4+ Kb5 25. Rb1+ Ka4
+26. Bb3+ Kb5 27. Bc4+ Ka4 28. Bb5+ Kxa3 29. Rb3+ Ka2 30. Rb4+ Ka3 31. Ra4#
+1-0
+

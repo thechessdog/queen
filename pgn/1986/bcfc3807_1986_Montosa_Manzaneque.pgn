@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Montosa"]
+[Black "Manzaneque"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "bcfc3807"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Qc2 g5 13. Nc4 Nxc4 14. Bxc4
+Ng4 15. Nd1 Be5 16. h3 Nh2 17. f4 Nxf1 18. fxe5 Ng3 19. Ra3 Nh5 20. Qe2 Nf4
+21. Bxf4 gxf4 22. e6 Qg5 23. h4 Qg7 24. Qh5 Re7 25. Qf5 Qe5 26. Qxe5 dxe5
+27. Rd3 fxe6 28. d6 Rf7 29. d7 Bxd7 30. Rxd7 Rxd7 31. Bxe6+ Rf7 32. Nf2 Re8
+0-1
+

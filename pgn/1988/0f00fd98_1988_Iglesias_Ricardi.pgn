@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Iglesias, Alejandro"]
+[Black "Ricardi, Pablo"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "0f00fd98"]
+[Epoch "Queen"]
+[BlackID "100242"]
+[BlackCountry "ARG"]
+[WhiteID "101346"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 c6 8.
+e3 O-O 9. Qb3 e5 10. Nf3 exd4 11. Nxd4 cxd5 12. Qxd5 Nc6 13. Qxd8 Rxd8 14. Nxc6
+bxc6 15. Rc1 Be6 16. b3 Rab8 17. Ba6 Rb6 1/2-1/2

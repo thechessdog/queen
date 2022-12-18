@@ -1,0 +1,24 @@
+[Event "Lisbon op"]
+[Site "Lisbon op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Damaso, Rui"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "19ed74c0"]
+[Epoch "Queen"]
+[WhiteID "1000110"]
+[BlackID "1900030"]
+[WhiteCountry "NED"]
+[BlackCountry "POR"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 b6 8. Qe2
+Nbd7 9. O-O Bb7 10. e4 h6 11. Bxf6 exf6 12. Ba6 Bxa6 13. Qxa6 dxe4 14. Nxe4 f5
+15. Ned2 g5 16. Nb3 g4 17. Nfd2 cxd4 18. cxd4 Nf6 19. Rfe1 Qd7 20. Nc4 Ne4 21.
+Rad1 Rad8 22. Ne3 Rfe8 23. Qd3 h5 24. Re2 a5 25. a4 Re7 26. Rde1 Rde8 27. Kf1
+f4 28. Nc4 b5 29. axb5 Qxb5 30. Nbxa5 Qd5 31. f3 f5 32. Nb3 g3 33. h3 Kh8 34.
+Nb6 Qxb3 35. Qxb3 Nd2+ 36. Kg1 Rxe2 37. Rxe2 Rxe2 38. Qd1 Bxd4+ 39. Kh1 Rf2 40.
+Kg1 Rf1# 0-1

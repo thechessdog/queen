@@ -1,0 +1,19 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Torvik, D."]
+[Black "Mellen, S."]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "0753f803"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. a3 Bxc3+ 7. bxc3 c6 8.
+Bd3 Re8 9. Qc2 Nbd7 10. O-O Qe7 11. Nd2 e5 12. cxd5 cxd5 13. e4 dxe4 14.
+Nxe4 exd4 15. Bg5 h6 16. Nxf6+ Nxf6 17. Bxf6 Qxf6 18. Rfe1 Bd7 19. cxd4
+Qxd4 20. Qd2 Bf5 21. Rad1 Qxd3 22. Rxe8+ Rxe8 23. Qc1 Qc2 24. Qxc2 Bxc2 25.
+Rc1 Rd8 26. h3 Rd1+ 27. Rxd1 Bxd1 28. g4 b5 29. f4 a5 30. Kf2 b4 0-1
+

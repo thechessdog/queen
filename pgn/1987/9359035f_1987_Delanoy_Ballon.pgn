@@ -1,0 +1,19 @@
+[Event "Guernsey op"]
+[Site "Guernsey"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Delanoy, Arnaud"]
+[Black "Ballon, Gunther"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "9359035f"]
+[Epoch "Queen"]
+[BlackCountry "NED"]
+[WhiteID "603961"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. Bc4 d6 5. d4 g5 6. O-O Bg7 7. g3 Bh3 8. Rf2
+Nc6 9. c3 Nf6 10. gxf4 Nxe4 11. Re2 d5 12. fxg5 Qd7 13. Bxd5 Qg4+ 14. Kh1 Qxf3+
+15. Kg1 Qg4+ 16. Kh1 Bg2+ 0-1

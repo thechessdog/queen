@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meister, Y."]
+[Black "Kuporosov, Viktor"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "3ba22958"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
+Be7 9. Qf3 Qc7 10. O-O-O O-O 11. e5 dxe5 12. Bxf6 exd4 13. Bxe7 Qxe7 14. Qxa8
+Bb7 15. Nd5 exd5 16. Qa7 Nc6 17. Qb6 Rb8 18. Rhe1 Qg5+ 19. Kb1 h6 20. g3 Qf5
+21. Qc7 a5 22. Rxd4 Qxf2 23. Rdd1 1-0

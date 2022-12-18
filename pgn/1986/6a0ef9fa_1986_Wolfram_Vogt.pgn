@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wolfram, R."]
+[Black "Vogt, Lothar"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6a0ef9fa"]
+[Epoch "Queen"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bb3 h6 9. N5f3 c5 10. Be3 Qc7 11. Ne5 Bd6 12. Ngf3 O-O 13. O-O Nbd7 14. Nxd7
+Bxd7 15. c4 Ng4 16. dxc5 Bxh2+ 17. Kh1 Bc6 18. g3 Qe5 19. Rae1 Qh5 20. Kg2 Bg1
+21. Rxg1 Qh2+ 0-1

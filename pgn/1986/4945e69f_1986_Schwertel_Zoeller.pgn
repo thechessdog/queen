@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwertel, G."]
+[Black "Zoeller, K."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "4945e69f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. h3 Bxf3 7. Qxf3 c6
+8. Be3 e6 9. Bd3 Nbd7 10. O-O Be7 11. Rf2 O-O 12. Raf1 Nb6 13. Ne4 Nbd5 14.
+Bg5 Nb4 15. Nxf6+ Bxf6 16. Bxf6 Qxf6 17. Qh5 g6 18. Qc5 Nxd3 19. Qxf8+ Rxf8
+20. Rxf6 1-0
+

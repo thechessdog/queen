@@ -1,0 +1,17 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stroe"]
+[Black "Buckwar"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "f158a981"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Bc4 Qe7 7. O-O g6
+8. f4 Bg7 9. Nc3 Bxc3 10. bxc3 d5 11. exd5 Qc5+ 12. Qd4 Qxd4+ 13. cxd4 Nf6
+14. Re1+ Kf8 15. dxc6 Bf5 16. Ba3+ Kg7 17. Re7 1-0
+

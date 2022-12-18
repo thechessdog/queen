@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Hoi, Carsten"]
+[Black "Fries-Nielsen, Niels Jorgen"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e379b831"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1400320"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. a3 cxd4 10. exd4 Bd6 11. h3 h6 12. Be3 Ne7 13. Bd3 Ned5 14. Bc2 Bd7 15.
+Nxd5 Nxd5 16. Qd3 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Edinburgh op"]
+[Site "Edinburgh"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beaumont, Chris R"]
+[Black "Lyell, Mark"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "e92f4142"]
+[Epoch "Queen"]
+[WhiteID "400424"]
+[BlackID "402354"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 e6 7. e3 Bd6 8. Bg3
+Bxg3 9. hxg3 Qa5 10. Bd3 Bd7 11. a3 Rc8 12. Rc1 Ne7 13. Ne5 Ba4 14. Qe2 Bb3 15.
+g4 Ne4 16. O-O Nxc3 17. bxc3 Ng6 18. Bxg6 hxg6 19. Qb2 Bc4 20. Qxb7 O-O 21.
+Rfe1 Ba6 22. Qb4 Qc7 23. e4 Rb8 24. Qa4 Bb5 25. Qd1 Qa5 26. exd5 exd5 27. a4
+Bxa4 28. Ra1 Bxd1 29. Rxa5 Bb3 30. Nd7 Rfe8 31. Rb1 Rbd8 32. Ne5 f6 33. Nc6 Rc8
+34. Rc5 Bc4 35. Ne7+ Rxe7 36. Rxc8+ Kf7 37. Rbb8 g5 38. Rc5 Re1+ 39. Kh2 Rc1
+40. Rb7+ Kg8 41. Rxa7 Rc2 42. Rcc7 Rxf2 43. Rxg7+ Kf8 44. Rgf7+ Kg8 45. Rfc7
+Ra2 46. Rc8# 1-0

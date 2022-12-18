@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hardarson"]
+[Black "Schiller, Eric"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "1388ae3c"]
+[Epoch "Queen"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bb3 c5 9. Be3 Nbd5 10. O-O-O Nxe3 11. Qxe3 Nd5 12. Ba4+ Bd7 13. Bxd7+ Qxd7 14.
+Qb3 cxd4 15. N1f3 Bd6 16. Kb1 O-O 17. Rxd4 b5 18. Qd3 g6 19. Rd1 Qc7 20. Rh4
+Rac8 21. c3 Be7 22. Rxh7 Qc4 23. Rh4 Qxd3+ 24. Rxd3 a5 25. Re4 a4 26. Rxd5 exd5
+27. Rxe7 b4 28. cxb4 Rc4 29. Ne5 Rf4 30. Nexf7 1-0

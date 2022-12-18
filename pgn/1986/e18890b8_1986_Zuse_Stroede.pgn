@@ -1,0 +1,19 @@
+[Event "corr DJFM"]
+[Site "corr DJFM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zuse"]
+[Black "Stroede"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "e18890b8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. exd5 Bxf5
+8. dxc6 bxc6 9. Qf3 Qd7 10. Bg5 e4 11. Qg3 Bd6 12. Qh4 Be5 13. Nd1 Bxb2 14.
+Nxb2 Qd4 15. Rb1 Qc3+ 16. Bd2 Qxc2 17. Rc1 Qxb2 18. Qg5 Be6 19. Qc5 Qb6 20.
+Qa3 Ng4 21. Qg3 Rd8 22. Bc3 e3 23. fxe3 O-O 24. Bd4 Rxd4 25. exd4 Qxd4 26.
+Be2 Rd8 27. Rb1 Ne3 28. h4 Bc4 0-1
+

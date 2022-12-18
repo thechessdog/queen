@@ -1,0 +1,17 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ziegler, A."]
+[Black "Ornstein, Axel"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "f2f50f0f"]
+[Epoch "Queen"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nbd7 7. Qa4 a6 8. Nc3
+Rb8 9. dxc5 Bxc5 10. Qxc4 b5 11. Qb3 Bb7 12. Bg5 O-O 1/2-1/2

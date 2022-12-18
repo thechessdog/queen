@@ -1,0 +1,19 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ehrenfeucht, Wojcie"]
+[Black "Rakowiecki, Tomasz"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "921da521"]
+[Epoch "Queen"]
+[BlackID "1100955"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 10. c4 Ne3 11. Qd3 Bb4+ 12. Bd2 O-O 13. Rc1 Nxf1 14. Rxf1 f5
+15. exf6 gxf6 16. c5 Qa5 17. a3 Bxd2+ 18. Qxd2 Qa4 19. Nd6 Rb8 20. Rf3 Kh8 21.
+Rc4 1-0

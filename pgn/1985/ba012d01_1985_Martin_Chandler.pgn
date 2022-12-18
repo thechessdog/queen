@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Chandler"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "ba012d01"]
+[Epoch "Queen"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. b3 Nf6 2. Bb2 d5 3. e3 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. O-O e6 7. d3 Be7 8. Nbd2
+O-O 9. Bxc6 Bxc6 10. Ne5 Rc8 11. Qe2 Be8 12. f4 Nd7 13. Nxd7 Qxd7 14. e4 f6 15.
+Rae1 Bf7 16. exd5 Qxd5 17. a4 b6 18. Nc4 Rfe8 19. Qg4 Rc6 20. Ne5 Rcc8 21. Nxf7
+Kxf7 22. f5 Bf8 23. Re3 e5 24. Re4 Kg8 25. Bc1 a6 26. Qe2 b5 27. axb5 axb5 28.
+c4 bxc4 29. bxc4 Qd7 30. Rh4 Rcd8 31. Rh3 e4 32. dxe4 Qd4+ 33. Kh1 Rxe4 34. Re3
+Rde8 35. Re1 R4e5 36. h3 Bd6 37. Rxe5 Rxe5 38. Qf1 Rxe1 39. Qxe1 Qxc4 40. Bb2
+Kf7 41. Qa1 Qd5 42. Qf1 c4 43. Bc3 Be5 44. Bxe5 fxe5 45. Qe2 Kf6 46. Qh5 e4 47.
+Qxh7 Qxf5 48. Qg8 c3 49. g4 Qe5 50. g5+ Kxg5 51. h4+ Kg4 52. Qa2 e3 53. Qe2+
+Kxh4 54. Qe1+ Kh5 55. Qe2+ Kh6 0-1

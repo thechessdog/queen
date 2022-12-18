@@ -1,0 +1,20 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Franke, Johannes"]
+[Black "Bartelborth, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "645ad719"]
+[Epoch "Queen"]
+[WhiteID "4607902"]
+[WhiteCountry "GER"]
+[BlackID "4607570"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bc5 7. Bg2 Ba6 8. c4
+Qd3 9. Qb3 Qxb3 10. axb3 Bb7 11. O-O Nxe4 12. Nxe4 Bxe4 13. Bf4 O-O 14. Rfe1
+Bxf3 15. Bxf3 c6 16. Bxb8 1/2-1/2

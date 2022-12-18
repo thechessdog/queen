@@ -1,0 +1,23 @@
+[Event "RLNS 8990"]
+[Site "RLNS 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Naumann, F."]
+[Black "Kottke, U."]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "2a2187d1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Nf3 Ne4
+8. Qc2 c5 9. dxc5 a5 10. cxd5 exd5 11. Nd2 Bf5 12. Nxe4 Bxe4 13. Qc3 Nc6
+14. Bf4 Re8 15. f3 d4 16. Qd2 Bd5 17. Kf2 Qf6 18. g3 a4 19. Rd1 Ra5 20. Rc1
+Rb5 21. Bg5 Qe5 22. Bf4 Qe7 23. Bh3 h6 24. Rhd1 Rb3 25. Bf5 g5 26. Bd6 Qf6
+27. g4 Rbe3 28. Re1 d3 29. Qxe3 Rxe3 30. Kxe3 Qd4+ 31. Kd2 dxe2+ 32. Kxe2
+Qxb2+ 33. Kf1 Qxa3 34. Re8+ Kg7 35. Bf8+ Kf6 36. Rc2 Qxf3+ 37. Rf2 Qh1+ 38.
+Ke2 Nd4+ 39. Kd2 Nf3+ 40. Kc2 Nd4+ 41. Kd2 Nxf5 42. Bd6 Be6 43. gxf5 Qd5+
+44. Ke1 Qe4+ 45. Re2 Qb4+ 46. Kf2 Kxf5 47. Re5+ Kf6 48. Re3 a3 49. Rf3+ Kg6
+0-1
+

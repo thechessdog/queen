@@ -1,0 +1,23 @@
+[Event "Pohja KvT"]
+[Site "Pohja KvT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ristoja, Aulikki"]
+[Black "Dahl, Ingrid"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "ba513985"]
+[Epoch "Queen"]
+[WhiteID "511420"]
+[BlackID "1500830"]
+[WhiteCountry "FIN"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Bg5 g6 7. Nc3 Bg7 8. e4
+a6 9. a4 O-O 10. Qd2 Re8 11. Bd3 Qc7 12. O-O Nbd7 13. h3 Rb8 14. Bh6 c4 15. Bb1
+Nc5 16. Bxg7 Kxg7 17. Qe3 b5 18. axb5 axb5 19. Nd4 Bd7 20. f4 b4 21. f5 bxc3
+22. Qxc3 Qb6 23. Rf2 Rf8 24. Ra3 Qb4 25. Qf3 c3 26. Qxc3 Qxc3 27. Rxc3 Ncxe4
+28. Bxe4 Nxe4 29. f6+ Kg8 30. Rc7 Nxf2 31. Rxd7 Ne4 32. Nc6 Rxb2 33. g4 Rd2 34.
+g5 Ra8 35. Rd8+ Rxd8 0-1

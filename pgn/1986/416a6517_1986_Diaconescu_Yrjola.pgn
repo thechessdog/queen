@@ -1,0 +1,19 @@
+[Event "corr NBC-Volmac"]
+[Site "corr NBC-Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Diaconescu, Paul"]
+[Black "Yrjola, Jouni"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "416a6517"]
+[Epoch "Queen"]
+[BlackID "500011"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8. e4
+h6 9. Bh4 a6 10. Be2 g5 11. Bg3 Nh5 12. a4 O-O 13. Nd2 Nxg3 14. hxg3 Nd7 15.
+Nc4 Qe7 16. Qc2 Rb8 17. a5 Ne5 18. Nb6 Bd7 19. Nxd7 Qxd7 20. Na4 Rbe8 21. Nb6
+Qe7 22. f3 f5 23. exf5 Nd7 24. Nc4 Rxf5 25. Nxd6 1-0

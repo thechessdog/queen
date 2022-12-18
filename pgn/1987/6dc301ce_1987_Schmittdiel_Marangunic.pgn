@@ -1,0 +1,28 @@
+[Event "Dortmund-A"]
+[Site "Dortmund"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Schmittdiel, Eckhard"]
+[Black "Marangunic, Srdjan"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "150 attack"]
+[HashCode "6dc301ce"]
+[Epoch "Queen"]
+[WhiteID "4600096"]
+[WhiteCountry "GER"]
+[BlackID "14500159"]
+[BlackCountry "CRO"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 b5 6. f3 Nbd7 7. g4 Nb6 8. g5 Nh5
+9. b3 Bg7 10. Nge2 e5 11. a4 bxa4 12. Nxa4 Nxa4 13. Rxa4 Qe7 14. dxe5 dxe5 15.
+Ra5 Be6 16. Bc5 Qc7 17. Qb4 h6 18. Bd6 Qd7 19. Bxe5 hxg5 20. Bxg7 Nxg7 21. Rxg5
+Rd8 22. Kf2 Bh3 23. Bxh3 Rxh3 24. Re5+ Ne6 25. Nf4 Rh6 26. Nxe6 fxe6 27. Kg3
+Kf7 28. h4 Rh5 29. Rxh5 gxh5 30. e5 Rg8+ 31. Kh3 Rg7 32. Qd6 Qe8 33. Rd1 Kg6
+34. Rg1+ Kh7 35. Rxg7+ Kxg7 36. Qc7+ Kh8 37. Qxa7 Qf8 38. Kg3 Qg8+ 39. Kf2 Qd8
+40. Kg3 Qg8+ 41. Kh2 Qd8 42. Kh3 Qf8 43. Qe3 Kh7 44. Kg3 Qf7 45. Qg5 Qe8 46. b4
+Qf7 47. c4 Qe8 48. b5 cxb5 49. cxb5 Qxb5 50. Qxh5+ Kg7 51. Qg5+ Kh7 52. Qe7+
+Kh8 53. Qf6+ Kh7 54. Qxe6 Qf1 55. Qd7+ Kg8 56. Qd5+ Kg7 57. Qd4 Kf7 58. h5 Qe1+
+59. Kf4 Qe2 60. Kg5 Kg8 61. Kg6 Qc2+ 62. Qe4 Qa2 63. e6 Qg2+ 64. Qg4 Qb2 65. e7
+1-0

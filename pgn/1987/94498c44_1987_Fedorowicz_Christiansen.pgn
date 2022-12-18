@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fedorowicz, John"]
+[Black "Christiansen, Larry"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "94498c44"]
+[Epoch "Queen"]
+[BlackID "2000059"]
+[BlackCountry "USA"]
+
+1. Nf3 Nf6 2. g3 d5 3. c4 c6 4. cxd5 cxd5 5. Bg2 g6 6. O-O Bg7 7. d4 O-O 8. Ne5
+e6 9. Nc3 Nfd7 10. f4 Nc6 1/2-1/2

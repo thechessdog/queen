@@ -1,0 +1,20 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Nielsen, Poul Erik"]
+[Black "Jacobsen, Bo"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "a9e06311"]
+[Epoch "Queen"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. b3 d5 2. Bb2 Bg4 3. f3 Bf5 4. e3 Nd7 5. f4 e5 6. fxe5 Qh4+ 7. g3 Qe4 8. Nf3
+Qxc2 9. Qxc2 Bxc2 10. d3 Bxb1 11. Rxb1 Nc5 12. Ke2 Ne6 13. Bh3 Ne7 14. Nd4
+Nxd4+ 15. Bxd4 Nc6 16. Bc3 a5 17. Bg2 Rd8 18. Rhf1 Bb4 19. Bb2 O-O 20. Rf4 Rd7
+21. a3 Bc5 22. Rc1 Bb6 23. Rcf1 Nd8 24. Bh3 Re7 25. Bg4 c6 26. h4 Rfe8 27. d4
+f6 28. a4 fxe5 29. dxe5 Bc5 30. Kd3 Bb4 31. e4 1/2-1/2

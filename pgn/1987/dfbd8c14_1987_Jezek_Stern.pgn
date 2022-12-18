@@ -1,0 +1,19 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jezek"]
+[Black "Stern"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "dfbd8c14"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Bg5 Be6 9. Bxf6 Bxf6 10. Nd5 Nd7 11. Ne3 Nc5 12. Nxc5 dxc5 13. Bg4 Qa5+ 14.
+c3 Rd8 15. Qe2 Bxg4 16. Qxg4 Qb5 17. Nd5 Qxb2 18. O-O Qd2 19. a4 h5 20. Qf3
+Rh6 21. Rfd1 Qg5 22. Rab1 Rd7 23. Ne3 Rc7 24. Qh3 Bd8 25. c4 Re6 26. Nf5 b6
+27. Qxh5 1-0
+

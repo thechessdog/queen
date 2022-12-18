@@ -1,0 +1,18 @@
+[Event "corr T5003"]
+[Site "corr T5003"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Piegeler"]
+[Black "Kellerer"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "604b5546"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Ne7 5. Qh5+ Ng6 6. f4 exf4 7. Nf3 Qe7
+8. e5 fxe5 9. Ng5 Qf6 10. O-O Bc5+ 11. Kh1 d5 12. Bxd5 Nd7 13. Nc3 Qf5 14.
+Be4 Nf6 15. Bxf5 Nxh5 16. Bxg6+ hxg6 17. Nd5 Bd6 18. Ne4 Ng3+ 19. Nxg3 fxg3
+20. h3 Be6 21. Ne3 O-O-O 22. d3 Rhf8 23. Rxf8 Rxf8 24. Kg1 Rf2 25. Rc1 Re2
+26. Nf1 Bd5 0-1
+

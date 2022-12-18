@@ -1,0 +1,20 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Scuderi"]
+[Black "Clere"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "572dab29"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Bg4
+8. c4 Nf6 9. Nc3 dxc4 10. Bxc4 Bxf3 11. Qxf3 Be7 12. Bb5 O-O 13. Bxc6 bxc6
+14. Qxc6 Qxd4 15. Qxc7 Bd6 16. Nb5 Bxc7 17. Nxd4 Rfe8 18. Bd2 Re4 19. Nb5
+Bb6 20. Nc3 Rg4 21. Rae1 a6 22. h3 Rg6 23. Re7 h6 24. Rfe1 Rd8 25. Be3 Ba5
+26. Re5 Bc7 27. Rc5 Bd6 28. Rd1 Bxc5 29. Rxd8+ Bf8 30. Bc5 Nh7 31. Nd5 Re6
+32. Ne7+ Kh8 33. Nc8 Kg8 34. Nb6 1-0
+

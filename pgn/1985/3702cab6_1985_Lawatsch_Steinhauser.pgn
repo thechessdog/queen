@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lawatsch"]
+[Black "Steinhauser"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "3702cab6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. g4 e5 3. g5 Ne4 4. Nf3 d5 5. dxe5 Bc5 6. e3 Nxg5 7. Nxg5 Qxg5
+8. Qxd5 Bd6 9. Bb5+ c6 10. Qxd6 Qg2 11. Rf1 cxb5 12. Nd2 Nc6 13. f4 Bg4 14.
+Qd3 Qxh2 15. Qxb5 O-O-O 16. a3 Qg3+ 17. Rf2 Qxe3+ 0-1
+

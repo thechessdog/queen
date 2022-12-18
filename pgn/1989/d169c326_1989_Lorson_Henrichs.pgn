@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lorson, S."]
+[Black "Henrichs, Thomas"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "d169c326"]
+[Epoch "Queen"]
+[BlackID "4626605"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nf3 Nc6 5. e3 d6 6. Nc3 e5 7. a3 Bxc3 8. Bxc3
+Qe7 9. b4 Nf6 10. d5 axb4 11. axb4 Rxa1 12. Qxa1 Nd8 13. Nd2 Bf5 14. Be2 O-O
+15. O-O h6 16. Re1 Bh7 17. Bf1 Ne8 18. f4 f6 19. Nf3 Nf7 20. Qc1 g5 21. Bb2 Ng7
+22. fxe5 fxe5 23. e4 g4 24. Nd2 Ng5 25. Be2 h5 26. Qc2 Rf4 27. Bd3 h4 28. Rf1
+Qf6 29. Rxf4 Qxf4 30. Bc1 Qe3+ 31. Kf1 g3 32. hxg3 Nh5 0-1

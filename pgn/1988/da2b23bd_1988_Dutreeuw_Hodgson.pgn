@@ -1,0 +1,23 @@
+[Event "Haringey"]
+[Site "Londen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dutreeuw, Marc"]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "da2b23bd"]
+[Epoch "Queen"]
+[WhiteID "200042"]
+[WhiteCountry "BEL"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bxe6 Qxe6 9. Qxe6+ fxe6 10. Nf3 Kf7 11. O-O Nd7 12. b3 Be7 13. Bb2 Rhd8 14.
+Rfd1 b5 15. a4 a6 16. Kf1 Nb6 17. a5 Nd5 18. c4 Nb4 19. Bc3 Rab8 20. Rab1 Rb7
+21. Rb2 Rdb8 22. c5 Nd5 23. Be1 Rd8 24. Rc1 Nf4 25. Rd2 g5 26. g3 Ng6 27. Rcd1
+Rbd7 28. Ke2 Rd5 29. Rd3 g4 30. Ng1 Rh5 31. Ke3 Rxh2 32. Ne2 f5 33. Nc3 Bg5+
+34. Ke2 h5 35. Na2 h4 36. gxh4 Nf4+ 37. Kd2 Nxd3+ 38. Kxd3 Bf6 39. Ke3 g3 0-1

@@ -1,0 +1,24 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wesseln, Kai"]
+[Black "Schneider, Attila"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ab7f69f2"]
+[Epoch "Queen"]
+[WhiteID "4601106"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. e5 dxe5 13. Nxc4 Nb6 14. fxe5 Nfxd5
+15. Nxd5 Qxd5 16. Nd6 Rf8 17. Qxd5 Nxd5 18. Nxc8 Raxc8 19. Bf3 Nc7 20. Bxb7 Rb8
+21. Bf3 Bxe5 22. Rb1 Rfd8 23. Rd1 Rxd1+ 24. Bxd1 Nb5 25. Bb3 Nd4 26. Bc4 Nc2
+27. b3 Bd4+ 28. Kh1 Re8 29. Bh6 Na3 30. Rc1 Nxc4 31. bxc4 f6 32. g4 g5 33. h4
+Kf7 34. h5 Re5 35. Rb1 Bb6 36. Rd1 Ke7 37. Rc1 Re4 38. c5 Bc7 39. c6 Rxg4 40.
+Rd1 Rh4+ 41. Kg2 Be5 42. Rd7+ Ke6 43. Bf8 Rh2+ 44. Kf1 Rxh5 45. Rxa7 Rh1+ 46.
+Kg2 Rc1 47. Ra6 Kd5 0-1

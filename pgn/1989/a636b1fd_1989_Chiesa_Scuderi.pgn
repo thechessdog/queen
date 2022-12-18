@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chiesa, M."]
+[Black "Scuderi, A."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "a636b1fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. c4 Rxc4
+14. O-O Bg7 15. Qb3 Rc5 16. Nbc7+ Kf8 17. Qb6 Bh6 18. b4 Rc2 19. f4 exf4
+20. Rac1 Bg7 21. Kh1 Bd4 22. Qb5 0-1
+

@@ -1,0 +1,17 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tomczak, Rainer"]
+[Black "Lako, Laszlo Dr."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "3.Nd2"]
+[HashCode "cf3e1292"]
+[Epoch "Queen"]
+[WhiteID "4603141"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 g6 4. c3 Bg7 5. Bd3 dxe4 6. Nxe4 Nd7 7. Qe2 Qc7 8. Nh3
+Ngf6 9. Bf4 e5 10. dxe5 Nxe5 11. Bxe5 1-0

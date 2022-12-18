@@ -1,0 +1,22 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Courrier, Arnaud"]
+[Black "Conan, B."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "2443b4e5"]
+[Epoch "Queen"]
+[WhiteID "602450"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. Qe2 c5 3. d3 Nc6 4. g3 d5 5. Bg2 Nf6 6. Nd2 Be7 7. c3 O-O 8. Ngf3
+b5 9. O-O a5 10. Ne1 Ba6 11. f4 b4 12. f5 Qc7 13. g4 h6 14. Bh3 e5 15. Bg2 Rad8
+16. h4 dxe4 17. Nxe4 Nd5 18. g5 f6 19. gxh6 Nf4 20. Qg4 Rf7 21. Nf2 a4 22. Be4
+a3 23. Ng2 axb2 24. Bxf4 bxa1=Q 25. Rxa1 bxc3 26. Qg6 exf4 27. Bxc6 Bf8 28. Be4
+Bb7 29. Nh3 Bxe4 30. dxe4 f3 31. Ngf4 c2 32. h7+ Kh8 33. Qh5 Rd1+ 34. Kf2 Rd2+
+35. Kxf3 Rd3+ 36. Ke2 Rd2+ 37. Kxd2 Qa5+ 38. Ke2 c1=N+ 39. Rxc1 Qxa2+ 40. Kf1
+Qa6+ 41. Kg1 1-0

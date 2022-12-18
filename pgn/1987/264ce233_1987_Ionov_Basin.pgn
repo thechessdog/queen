@@ -1,0 +1,15 @@
+[Event "Uzhgorod"]
+[Site "Uzhgorod"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ionov, Sergey"]
+[Black "Basin, Leonid"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "264ce233"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 g6 6. d5 Bg7 7. g3 O-O 8. Bg2 Na6
+9. O-O Nc5 10. Nd4 exd5 11. cxd5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Narva, Jaan"]
+[Black "Schandorff, Lars"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "6247491b"]
+[Epoch "Queen"]
+[WhiteID "4500148"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+O-O 9. g3 b6 10. b4 bxc5 11. dxc5 a5 12. Rb1 Nc6 13. b5 Ne5 14. f4 Nf3+ 15. Kf2
+Bxc5+ 16. Kxf3 d4 17. Na4 Qd5+ 18. Kf2 d3+ 19. Nxc5 Qxc5+ 20. Nd4 Qxd4+ 21. Be3
+Ne4+ 22. Kf3 Qd5 23. Bxd3 Nd2+ 24. Kf2 Nxb1 0-1

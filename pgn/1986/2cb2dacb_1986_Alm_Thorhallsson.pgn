@@ -1,0 +1,20 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Alm, H."]
+[Black "Thorhallsson, Throstur"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "2cb2dacb"]
+[Epoch "Queen"]
+[BlackID "2300109"]
+[BlackCountry "ISL"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bf4 e6 7. c5 Be7 8. h3
+Ne4 9. Rc1 O-O 10. Nf3 f6 11. Bd3 Nxc3 12. Rxc3 e5 13. dxe5 fxe5 14. Bxe5 Rxf3
+15. Qxf3 Nxe5 16. Qh5 Nxd3+ 17. Rxd3 Be6 18. O-O Bf6 19. b4 d4 20. Rc1 Qd7 21.
+g4 g6 22. Qh6 Bg7 23. Qd2 Rf8 24. f4 Qf7 25. Ra3 Qd7 26. Qd3 a6 27. c6 bxc6 28.
+Qxa6 Bd5 29. Qb6 Qe7 0-1

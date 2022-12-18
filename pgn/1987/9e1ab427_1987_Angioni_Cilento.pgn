@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Angioni, G."]
+[Black "Cilento, F."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "9e1ab427"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. c4 Be7 10. Bd3 O-O 11. O-O a6 12. Nc3 f5 13. f3 Qb6+ 14. Kh1
+Nd7 15. Na4 Qc7 16. Be3 Nc5 17. Nxc5 dxc5 18. Re1 Bd7 19. Rb1 b5 20. Qe2
+Bd6 21. b4 bxc4 22. Bxc4 cxb4 23. Rxb4 Bb5 24. Rc1 Bxb4 0-1
+

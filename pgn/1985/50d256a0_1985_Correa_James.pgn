@@ -1,0 +1,19 @@
+[Event "Mendoza u26 tt"]
+[Site "Mendoza u26 tt"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Correa, Aron Antunes"]
+[Black "James, Stephen"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "50d256a0"]
+[Epoch "Queen"]
+[WhiteID "2100223"]
+[WhiteCountry "BRA"]
+[BlackCountry "WLS"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Be7 7. O-O O-O 8. b3
+b6 9. Bb2 Bb7 10. Qe2 dxc4 11. bxc4 c5 12. Rad1 cxd4 13. exd4 Rc8 14. Rfe1 Re8
+15. Ng5 h6 16. Nxf7 1-0

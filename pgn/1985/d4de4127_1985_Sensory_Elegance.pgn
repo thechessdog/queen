@@ -1,0 +1,25 @@
+[Event "match"]
+[Site "match"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sensory 12"]
+[Black "Elegance"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "d4de4127"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Be7 13. Re1 Qd7 14. Nbd4
+Nxd4 15. cxd4 c5 16. Bd2 Qc7 17. Bf4 Qb6 18. Re2 a5 19. a4 b4 20. Re3 c4
+21. h4 b3 22. Bb1 Qb4 23. Bg5 Nxg5 24. Nxg5 Bxg5 25. hxg5 f4 26. Rc3 g6 27.
+Qd2 Bd7 28. Ra3 Kg7 29. Ra1 Rae8 30. Qe2 Qe7 31. Rc1 Qxg5 32. Qd2 Rb8 33.
+Rc3 Rb4 34. Rg3 Qh4 35. Rf3 Bxa4 36. Ra3 Qg4 37. Rh3 h6 38. Rf3 Kh8 39. Qd1
+Rf7 40. Qf1 Kh7 41. Qe1 Kg8 42. Qe2 Kf8 43. e6 Rf6 44. Re3 Qxe2 45. e7+ Ke8
+46. Rxe2 Rd6 47. Re5 h5 48. Kh2 Ra6 49. Kg1 h4 50. Kh2 Rd6 51. Kh3 g5 52.
+Kg4 c3 53. bxc3 Rc4 54. f3 Bd7+ 55. Kxg5 a4 56. Bg6+ Rxg6+ 57. Kxg6 Rxc3
+58. Ra1 b2 59. Rb1 a3 60. Ree1 Rb3 61. Kg5 a2 62. Kxf4 axb1=Q 63. Rxb1 Bb5
+64. Ke5 Bd3 65. Re1 Rc3 66. Rd1 Bg6 67. Re1 Rc1 68. Re2 b1=Q 1-0
+

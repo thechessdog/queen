@@ -1,0 +1,20 @@
+[Event "Banja Vrucica"]
+[Site "Banja Vrucica"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Filipovic, Branko"]
+[Black "Kelecevic, Nedeljko"]
+[Result "1/2-1/2"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "d0c41290"]
+[Epoch "Queen"]
+[WhiteID "14507951"]
+[WhiteCountry "SUI"]
+[BlackID "14400537"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. Nc4 Nb6 12. Nxb6 Qxb6 13. a4 a6 14. h3 Qd8 15.
+Qc2 Rb8 16. a5 1/2-1/2

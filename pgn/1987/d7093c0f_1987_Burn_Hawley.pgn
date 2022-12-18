@@ -1,0 +1,18 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Burn"]
+[Black "Hawley"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "d7093c0f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6
+8. Nc3 Nc6 9. e3 e5 10. d5 Na5 11. e4 c6 12. Bg5 f6 13. Be3 cxd5 14. Bxb6
+Qxb6 15. Nxd5 Qd8 16. Rc1 Nc6 17. Qb3 Rf7 18. Rfd1 Be6 19. Qa4 Rd7 20. h4
+Kh8 21. Ne3 Bh6 22. Rxd7 Qxd7 23. Rd1 Qf7 24. Nd5 Rd8 25. Qb3 f5 26. Qc3
+Qg7 27. Qd4 Qf7 28. Qc3 Qg7 1/2-1/2
+

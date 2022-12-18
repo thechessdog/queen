@@ -1,0 +1,19 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Halme, Olavi"]
+[Black "Pyhala, Antti"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "b071d607"]
+[Epoch "Queen"]
+[WhiteID "501298"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 Nf6 5. e5 Nfd7 6. Qe2 Nc6 7. Nf3 a6 8. O-O
+g5 9. g4 Bg7 10. d3 h6 11. Bd2 Nd4 12. Nxd4 cxd4 13. Nxd5 exd5 14. e6 Nf6 15.
+exf7+ Kxf7 16. Qe5 Ne4 0-1

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Muth"]
+[Black "Shneider, Aleksandr"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "8b1d1765"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 Nc6 3. Nf3 g5 4. d4 g4 5. Bg5 Be7 6. Bxe7 Qxe7 7. Ng1 Qb4+ 8.
+Nd2 Qxd4 0-1

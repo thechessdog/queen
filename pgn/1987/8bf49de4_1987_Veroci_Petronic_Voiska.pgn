@@ -1,0 +1,18 @@
+[Event "Balatonfured"]
+[Site "Balatonfured"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Veroci_Petronic, Zs"]
+[Black "Voiska, Margarita"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "8bf49de4"]
+[Epoch "Queen"]
+[BlackID "2900602"]
+[BlackCountry "FID"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Na3 cxd4 7. cxd4 Nf5 8. Nc2
+Nb4 9. Nxb4 Bxb4+ 10. Bd2 Qa5 11. Bd3 O-O 12. Bxf5 exf5 13. O-O Be6 14. Be3 h6
+15. h4 Rac8 16. Qb3 Rc7 17. Rac1 Rfc8 18. Rxc7 Rxc7 19. Rc1 1/2-1/2

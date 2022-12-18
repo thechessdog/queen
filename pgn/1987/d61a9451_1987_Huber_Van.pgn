@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Huber"]
+[Black "Van der Kooij"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "d61a9451"]
+[Epoch "Queen"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Nc2 O-O 14. Nce3
+Bg6 15. h4 h6 16. g4 e4 17. Be2 Rc8 18. Nf5 Bxf5 19. gxf5 Ne5 20. Rg1 Kh7 21.
+Qd2 Rc5 22. O-O-O Nd3+ 23. Bxd3 Rxd5 24. f6 Qxf6 25. Bxe4+ Kg8 26. Bxd5 Qxh4
+27. Rg6 Kh8 28. Rxd6 a5 29. Rh1 Qe7 30. Rg6 b4 31. Qxh6+ Bxh6+ 32. Rhxh6# 1-0

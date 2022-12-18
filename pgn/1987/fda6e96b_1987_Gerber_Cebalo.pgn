@@ -1,0 +1,24 @@
+[Event "Martigny"]
+[Site "Martigny"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gerber"]
+[Black "Cebalo, Miso"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "fda6e96b"]
+[Epoch "Queen"]
+[BlackID "14500094"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Rb1 Na6 8. Bd2
+O-O 9. d5 d6 10. Ng3 Bxc3 11. Bxc3 exd5 12. cxd5 Nc7 13. Bxf6 Qxf6 14. Bd3 Bd7
+15. O-O Rfe8 16. b4 Rab8 17. Qb3 Qe5 18. e4 b5 19. Bc2 a5 20. Kh1 axb4 21. axb4
+cxb4 22. Qxb4 Na6 23. Qa3 Nc5 24. Qb4 g5 25. f3 Ra8 26. Ne2 Ra2 27. Rfc1 Rea8
+28. Nc3 R2a7 29. Nxb5 Rb7 30. Qc4 Bxb5 31. Rxb5 Rxb5 32. Qxb5 Qc3 33. Qb1 Kg7
+34. Ba4 Qd4 35. Bc6 Nd3 36. h3 Ra3 37. Rf1 h6 38. Qc2 Rc3 39. Qd2 Rb3 40. Qa5
+Rb2 41. Bd7 Qe5 42. Qa7 Qg3 43. Qg1 Nf2+ 44. Rxf2 Rxf2 45. Bb5 f6 46. Qh2 Qxh2+
+47. Kxh2 f5 48. Kg3 Rb2 49. Bd7 fxe4 50. fxe4 h5 51. Ba4 Kf6 52. Bd1 h4+ 53.
+Kf3 Ke5 54. Ba4 Ra2 55. Bd7 Ra3+ 56. Kg4 Rg3+ 57. Kh5 Kxe4 0-1

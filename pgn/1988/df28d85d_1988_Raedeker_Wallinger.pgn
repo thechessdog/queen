@@ -1,0 +1,19 @@
+[Event "BL2-S8788"]
+[Site "Germany"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Raedeker, Bernd"]
+[Black "Wallinger, Manfred"]
+[Result "1/2-1/2"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[HashCode "df28d85d"]
+[Epoch "Queen"]
+[BlackID "4614216"]
+[BlackCountry "GER"]
+[WhiteID "4614917"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Na6 11. Re1 Nc7 12. a4 b6 13. Ra3 1/2-1/2

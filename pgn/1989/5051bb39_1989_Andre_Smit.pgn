@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andre"]
+[Black "Smit"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "QGD Slav"]
+[Variation "Winawer counter-gambit"]
+[HashCode "5051bb39"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. dxe5 d4 6. Ne4 Qa5+ 7. Bd2 Qxe5
+8. Ng3 Nc6 9. Nf3 Qd5 10. e4 dxe3 11. Bxe3 Bb4+ 12. Bd2 Bxd2+ 13. Nxd2 Nf6
+14. Nf3 Be6 15. Be2 O-O 16. O-O Rad8 17. Qc1 Qa5 18. a3 Bb3 19. Bc4 Bxc4
+20. Qxc4 Ne5 21. Nxe5 Qxe5 22. b4 Rfe8 23. f4 0-1
+

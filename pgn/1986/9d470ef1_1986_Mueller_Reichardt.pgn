@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mueller, F."]
+[Black "Reichardt, H."]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav"]
+[Variation "Winawer counter-gambit"]
+[HashCode "9d470ef1"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 Bd6 5. dxc6 Nxc6 6. d5 Na5 7. e4 Nf6 8.
+Bb5+ Bd7 9. Bxd7+ Qxd7 10. Nge2 1-0
+

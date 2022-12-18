@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bensi, P."]
+[Black "Rivola, F."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "8200beaa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8.
+Bd2 Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bb5+ Bd7 13. Rc1 O-O 14.
+O-O Bxb5 15. Nxb5 Nc6 16. f4 g6 17. Rf3 Qf6 18. Rd1 Rfb8 19. Rc3 b6 20. Nc7
+Ra7 21. Nb5 Raa8 22. Nc7 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "BL2-N8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mende, Andreas"]
+[Black "Tyrtania, Maximilian"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Steiner variation"]
+[HashCode "3c3804a4"]
+[Epoch "Queen"]
+[WhiteID "4631102"]
+[WhiteCountry "GER"]
+[BlackID "4607040"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. dxe5 dxe5 7. Ng5 Nh6 8.
+Ne6 fxe6 9. Qh5+ Kf8 10. Bxh6 Nb6 11. f4 1-0

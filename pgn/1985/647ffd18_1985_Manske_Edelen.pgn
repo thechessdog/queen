@@ -1,0 +1,17 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Manske, J."]
+[Black "Edelen, T."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "647ffd18"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 h6 6. Nf3 e6 7. c5 a6 8.
+Ne5 Be7 9. Qa4+ Nbd7 10. c6 bxc6 11. Nxc6 Qc7 12. Nxe7 Kxe7 13. Nb5 Qc6 14.
+Qa3+ Kd8 15. Nd6 Rf8 16. Bd2 Nb6 17. Nxc8 Rxc8 18. Qxf8+ 1-0
+

@@ -1,0 +1,25 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Petersen, B."]
+[Black "Granberg, N."]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "01c32a48"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Qb3 e6 7. Bd2 b6 8.
+Be2 Bb7 9. O-O Nbd7 10. cxd5 exd5 11. Rfd1 Re8 12. Be1 c6 13. a4 a5 14. Qc2
+Qe7 15. Na2 Ne4 16. Rab1 Qe6 17. b4 axb4 18. Nxb4 Ra7 19. Nd3 Rea8 20. a5
+b5 21. Nf4 Qf6 22. Nd2 Nd6 23. Nb3 Nc4 24. Ra1 Bf8 25. g3 Bd6 26. Ng2 Qe7
+27. e4 Na3 28. Rxa3 Bxa3 29. exd5 cxd5 30. Bxb5 Nf6 31. Nf4 Rc8 32. Qa2 Ba6
+33. Bxa6 Rxa6 34. Nd3 Ne4 35. Ra1 Bd6 36. Nbc5 Nxc5 37. dxc5 Bxc5 38. Qxd5
+Rd6 39. Qf3 Ba7 40. Rb1 Rf6 41. Nf4 Qe5 42. Qd5 Qe8 43. Qb5 Qxb5 44. Rxb5
+Rc1 45. Kf1 Rd6 46. Rd5 Rxd5 47. Nxd5 f5 48. Ke2 Kf7 49. Bd2 Ra1 50. Nb6
+Ke6 51. h4 Rb1 52. Kf3 Bxb6 53. axb6 Rxb6 54. Bh6 Rb4 55. Ke3 Kd5 56. Kf3
+Re4 57. Bc1 Kd4 58. Bh6 Kd3 59. Bg5 Kc2 60. Bh6 Kd1 61. Bg5 Ke1 62. Bh6 Re2
+63. Be3 Kf1 64. g4 fxg4+ 65. Kxg4 Rb2 0-1
+

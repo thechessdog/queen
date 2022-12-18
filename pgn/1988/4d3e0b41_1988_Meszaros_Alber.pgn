@@ -1,0 +1,24 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "9"]
+[White "Meszaros, Andras"]
+[Black "Alber, Horst"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "4d3e0b41"]
+[Epoch "Queen"]
+[BlackID "4602013"]
+[BlackCountry "GER"]
+[WhiteID "700720"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 Nbd7 8.
+Nf3 O-O 9. Bg5 Nb6 10. Qb3 a5 11. a4 Qd6 12. O-O Qb4 13. Ne5 Nfd7 14. Nxd7 Nxc4
+15. Qxb4 axb4 16. Nxf8 bxc3 17. Nxg6 hxg6 18. bxc3 f6 19. Bf4 g5 20. Bc7 Bf5
+21. a5 Rc8 22. Bb6 Nxb6 23. axb6 Rxc3 24. Rfe1 Kf7 25. Rac1 Rxc1 26. Rxc1 Be4
+27. Rc5 f5 28. g4 fxg4 29. d6 exd6 30. Rxg5 Bxd4 31. Rxg4 d5 32. Rg3 Ke6 33. h4
+Be5 34. Re3 Kf5 35. h5 d4 36. Re1 Bg7 37. Rd1 Bf3 38. Ra1 d3 39. Ra2 Bh6 40.
+Ra5+ Ke6 0-1

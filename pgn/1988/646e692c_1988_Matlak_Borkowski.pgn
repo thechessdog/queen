@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Matlak, Marek"]
+[Black "Borkowski, Franciszek"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "646e692c"]
+[Epoch "Queen"]
+[WhiteID "1100122"]
+[WhiteCountry "POL"]
+[BlackID "1100173"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 cxd4 4. cxd4 d5 5. Nc3 Nc6 6. Bf4 Bf5 7. Rc1 e6 8. e3
+Ne4 9. Qb3 Bb4 10. a3 Bxc3+ 11. bxc3 Qb6 12. Qxb6 axb6 13. c4 Rxa3 14. cxd5
+exd5 15. Bb5 Nc3 16. Be2 Kd7 17. Ne5+ Nxe5 18. Bxe5 f6 19. Bg3 b5 0-1

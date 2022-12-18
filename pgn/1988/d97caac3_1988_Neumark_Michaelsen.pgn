@@ -1,0 +1,19 @@
+[Event "FRG-ch qual"]
+[Site "Koenigslutter"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Neumark, Thomas"]
+[Black "Michaelsen, Nils"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d97caac3"]
+[Epoch "Queen"]
+[WhiteID "4604121"]
+[WhiteCountry "GER"]
+[BlackID "4603028"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 b6 10. Bf2 Ba6 11. Re1 Rc8 12. Rb1 Qd7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Laiho"]
+[Black "Mustonen"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "c8e3572e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8.
+Be3 Re8 9. d5 Nc5 10. Nd2 a5 11. a3 Bd7 12. b4 axb4 13. axb4 Rxa1 14. Qxa1
+Na6 15. Qa5 Ng4 16. Ba7 Bh6 17. Nb3 Qh4 18. Bxg4 Bxg4 19. g3 Qh5 20. f3
+Bxf3 21. Qb5 Ra8 22. Qxb7 Rxa7 23. Qxa7 Nc5 24. h3 Nxb3 25. Qxc7 Nd2 0-1
+

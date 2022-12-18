@@ -1,0 +1,19 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmitz, J."]
+[Black "Cremer, J."]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "48ea0f1f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. dxc5 Nd7 9. Qc3 a6 10. Nd6 Qc7 11. Nf3 Qxc5 12. Qxc5 Nxc5 13. Bd3 Nxd3+
+14. cxd3 f6 15. O-O fxe5 16. Rfe1 Nf5 17. Nxf5 Rxf5 18. Rac1 b5 19. Rc7 Rf7
+20. Rec1 Rxc7 21. Rxc7 e4 22. dxe4 dxe4 23. Ne5 a5 24. Nc6 Kf8 25. Kf1 a4
+26. Ke2 e5 27. a3 Be6 28. Ke3 Bd5 29. Nxe5 Rd8 30. Rc5 Ke7 1/2-1/2
+

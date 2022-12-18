@@ -1,0 +1,22 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Lehmann, Klaus"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "4a291af9"]
+[Epoch "Queen"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "4603249"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 Bxc3+ 8.
+bxc3 d6 9. Bd3 h6 10. O-O Nc6 11. f4 Na5 12. e5 Ne8 13. Qe2 f5 14. Ba3 c5 15.
+Rad1 Qc8 16. d5 Qd7 17. Rfe1 Qa4 18. dxe6 Bxc4 19. Nxf5 Rxf5 20. Qe4 d5 21.
+Qxf5 Bxd3 22. Rxd3 Qxa3 23. Qf7+ Kh7 24. f5 c4 25. Rh3 Kh8 26. f6 Qc5+ 27. Ree3
+Nxf6 28. exf6 Qf8 29. Qxf8+ 1-0

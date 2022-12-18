@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petzold"]
+[Black "Moller"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "3d504f04"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 b6 10. Bg5 Bb7 11. Re1 Nbd7 12. Rc1 Rc8 13. Bd3 Bxc3 14.
+bxc3 Qc7 15. Bh4 Qf4 16. Bg3 Bxf3 17. Bxf4 Bxd1 18. Rexd1 Nb8 19. c4 Nc6
+20. d5 exd5 21. cxd5 Nb4 22. Rxc8 Rxc8 23. Bf5 Rc5 24. Bb8 a5 25. Ba7 Rxd5
+26. Rc1 g6 27. Bb1 Nd7 28. a3 Na6 29. f3 Rc5 30. Rxc5 Naxc5 31. Kf2 Kf8 32.
+Ke3 Ke7 33. Ba2 Nb7 34. Kd4 Nd6 0-1
+

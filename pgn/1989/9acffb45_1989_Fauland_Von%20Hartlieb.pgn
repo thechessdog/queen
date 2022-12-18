@@ -1,0 +1,16 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fauland, Alexander"]
+[Black "Von Hartlieb, Justu"]
+[Result "1-0"]
+[ECO "D95"]
+[Opening "Gruenfeld with e3 & Qb3"]
+[HashCode "9acffb45"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Qb3 c6 7. cxd5 cxd5 8. Bd3
+Nc6 9. O-O b6 10. Bd2 Bf5 11. Bxf5 gxf5 12. Rac1 Na5 13. Qc2 Ne4 14. Nxe4 fxe4
+15. Ne5 Rc8 16. Qa4 Qd6 17. Bxa5 bxa5 18. Nc6 Rc7 19. Rc3 f5 20. g3 Rb7 21. b3
+Rc7 22. Rfc1 Rfc8 23. Qb5 e5 24. Ne7+ Qxe7 25. Rxc7 1-0

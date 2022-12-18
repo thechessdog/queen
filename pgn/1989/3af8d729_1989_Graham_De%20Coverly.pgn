@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Graham, D."]
+[Black "De Coverly, Roger D"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3af8d729"]
+[Epoch "Queen"]
+[BlackID "405213"]
+[BlackCountry "END"]
+
+1. e4 c5 2. c3 b6 3. d4 Bb7 4. Bd3 e6 5. Ne2 Qh4 6. Bf4 Ne7 7. Na3 Ng6 8. Bg3
+Qd8 9. O-O h5 10. h3 h4 11. Bh2 Nc6 12. d5 Nce5 13. Bc2 Ba6 14. f4 Nc4 15. Nxc4
+Bxc4 16. b3 Ba6 17. f5 Ne7 18. c4 f6 19. fxe6 dxe6 20. dxe6 Qxd1 21. Raxd1 Nc6
+22. e5 Nxe5 23. Bxe5 fxe5 24. Bg6+ Ke7 25. Rd7+ Kxe6 26. Rff7 1-0

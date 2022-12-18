@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Koronghy"]
+[Black "Szemegyi"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Katalimov variation"]
+[HashCode "eb0551e9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 b6 3. d4 Bb7 4. Bc4 Bxe4 5. Bxf7+ Kxf7 6. Ng5+ Ke8 7. Nxe4
+cxd4 8. Qh5+ g6 9. Qe5 Nf6 10. Nd6# 1-0
+

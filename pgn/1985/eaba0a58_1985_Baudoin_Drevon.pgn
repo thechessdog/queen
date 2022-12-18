@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Baudoin"]
+[Black "Drevon"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "eaba0a58"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 Bb4 7. O-O Bxc3
+8. bxc3 Nge7 9. Qe2 d5 10. Rd1 O-O 11. Rb1 Qa5 12. Rb5 Qxc3 13. exd5 exd5
+14. Bxd5 Bg4 15. Bb2 Nxd5 16. Rbxd5 Bxf3 17. gxf3 Nd4 18. R1xd4 Qc6 19. Rg4
+f6 20. Rh5 Rac8 21. Qd3 Qc2 22. Rxh7 Rf7 23. Rgh4 1-0
+

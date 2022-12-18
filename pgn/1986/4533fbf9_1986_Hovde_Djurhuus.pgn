@@ -1,0 +1,29 @@
+[Event "NOR-ch"]
+[Site "Steinkjer"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Hovde, Frank"]
+[Black "Djurhuus, Rune"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "4533fbf9"]
+[Epoch "Queen"]
+[WhiteID "1500376"]
+[BlackID "1500082"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4
+Nbd7 9. Qd2 Kh7 10. g4 Ne8 11. h4 a6 12. a4 Qa5 13. Nd1 Qxd2+ 14. Kxd2 Ne5 15.
+f3 f5 16. exf5 gxf5 17. g5 Ng6 18. Be3 f4 19. Bf2 h5 20. Bd3 Bf5 21. Bxf5 Rxf5
+22. Nc3 e6 23. dxe6 Nc7 24. b3 Nxe6 25. Nge2 Ne5 26. Rh3 Nc6 27. Re1 Rb8 28.
+Rhh1 Ne5 29. Rh3 Nc7 30. Kc2 b5 31. axb5 axb5 32. cxb5 Nxb5 33. Nxb5 Rxb5 34.
+Nc3 Rb7 35. Ne4 Rb6 36. Rd1 Bf8 37. Nd2 d5 38. Rhh1 Nc6 39. Ra1 Nb4+ 40. Kd1
+Rc6 41. Ra7+ Kg6 42. Re1 Nd3 43. Re2 c4 44. Bd4 Rf7 45. Rxf7 Kxf7 46. bxc4 dxc4
+47. Bc3 Bc5 48. Kc2 Be3 49. Nxc4 Rxc4 50. Kxd3 Rc7 51. Ra2 Rc6 52. Ra4 Kg6 53.
+Bd4 Re6 54. Bc3 Kf5 55. Ra5+ Kg6 56. Ra4 Kf5 57. Re4 Rd6+ 58. Ke2 Rc6 59. Re5+
+Kg6 60. Be1 Ra6 61. Re8 Ra3 62. Re6+ Kf7 63. Rf6+ Kg7 64. Rh6 Bd4 65. Bd2 Be5
+66. Rxh5 Ra6 67. Kd3 Re6 68. Ke4 Bc7+ 69. Kf5 Rc6 70. Rh6 Rxh6 71. gxh6+ Kh7
+72. Bxf4 Ba5 73. Bg5 Bc3 74. f4 Bb4 75. Ke6 Kg8 76. f5 Bf8 77. f6 1-0

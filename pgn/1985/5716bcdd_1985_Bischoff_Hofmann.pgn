@@ -1,0 +1,20 @@
+[Event "Mendoza u26 tt"]
+[Site "Mendoza u26 tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Hofmann, Michael"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "5716bcdd"]
+[Epoch "Queen"]
+[BlackID "1300601"]
+[BlackCountry "SUI"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. Be2 e5 6. O-O Ne7 7. Re1 O-O 8. b4
+a5 9. bxa5 Qxa5 10. Bb2 Qc7 11. a4 Re8 12. Qb1 b6 13. Bf1 Nd7 14. d4 exd4 15.
+Bxd4 Bxd4 16. Nxd4 Bb7 1/2-1/2

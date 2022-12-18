@@ -1,0 +1,25 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hentunen, Asko"]
+[Black "Ebeling, Mika"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "8f92910e"]
+[Epoch "Queen"]
+[WhiteID "500429"]
+[WhiteCountry "FIN"]
+[BlackID "500410"]
+[BlackCountry "FIN"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 6. d3 O-O 7. Bg5 h6 8. Bxf6
+Qxf6 9. Ne4 Bb4+ 10. Nfd2 Qe7 11. O-O f5 12. Nc3 Bxc3 13. bxc3 Kh8 14. Rb1 Nd8
+15. Qc2 c6 16. e3 f4 17. exf4 exf4 18. Rfe1 Qf6 19. Ne4 Qg6 20. Qe2 Bf5 21.
+Rbd1 Ne6 22. Bf3 fxg3 23. fxg3 Nf4 24. Qe3 Nh3+ 25. Kg2 d5 26. cxd5 cxd5 27.
+Nc5 b6 28. Nb3 Rae8 29. Qd4 Rxe1 30. Rxe1 Bxd3 31. Re7 Bf1+ 32. Kxf1 Rxf3+ 33.
+Kg2 Rf2+ 34. Kxh3 Qf5+ 35. Qg4 Rxh2+ 36. Kxh2 Qxg4 37. Rxa7 Qe2+ 38. Kh3 Qc2
+39. Nd4 Qxc3 40. Ra8+ Kh7 41. Ne6 d4 42. Rd8 d3 43. Nd4 Qc7 44. Rd5 Qf7 45. Rd6
+d2 0-1

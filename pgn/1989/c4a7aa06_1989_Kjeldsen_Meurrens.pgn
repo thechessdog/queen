@@ -1,0 +1,23 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kjeldsen, Jens"]
+[Black "Meurrens, Peter"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "St. George (Baker) defence"]
+[HashCode "c4a7aa06"]
+[Epoch "Queen"]
+[WhiteID "1400797"]
+[BlackID "200220"]
+[WhiteCountry "DEN"]
+[BlackCountry "BEL"]
+
+1. e4 a6 2. d4 b5 3. Bd3 Bb7 4. Nf3 Nf6 5. Qe2 c5 6. c3 e6 7. O-O Nc6 8. d5 Ne7
+9. dxe6 fxe6 10. Nbd2 Ng6 11. g3 Qc7 12. b3 Be7 13. c4 O-O 14. Bb2 b4 15. Ng5
+e5 16. f4 exf4 17. e5 Qc6 18. exf6 Qh1+ 19. Kf2 Qxh2+ 20. Ke1 Qxg3+ 21. Kd1
+Qxg5 22. fxe7 Nxe7 23. Qh2 Nf5 24. Rg1 Ng3 25. Qxh7+ Kf7 26. Qh3 Rfe8 27. Kc2
+Re3 28. Qxd7+ Re7 29. Rxg3 Qxg3 30. Qf5+ Kg8 31. Be5 Rf8 32. Qh7+ Kf7 33. Bxf4
+Qg2 34. Qh5+ g6 35. Qxc5 Re2 36. Rg1 Qf2 37. Bxg6+ Kf6 38. Qxf8+ Ke6 39. Bf5#
+1-0

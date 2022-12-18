@@ -1,0 +1,19 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Pyhala, Antti"]
+[Black "Raaste, Eero J."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "c5408581"]
+[Epoch "Queen"]
+[WhiteCountry "FIN"]
+[BlackID "500097"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 Nf5 14. Bf2
+d4 15. Rg1 Qa5 16. g4 Nb4 17. Qd1 d3 0-1

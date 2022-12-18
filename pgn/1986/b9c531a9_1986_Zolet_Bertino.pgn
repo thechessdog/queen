@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zolet"]
+[Black "Bertino"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "b9c531a9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Bd7 9. Bc4 Nc6 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Nde2 b5 14. Nf4
+Nc4 15. Bxc4 Rxc4 16. g4 Qa5 17. gxh5 b4 18. Ncd5 Nxd5 19. Nxd5 Qxa2 20.
+Nxe7+ Kh7 21. hxg6+ fxg6 22. Qxd6 Rxc2+ 23. Kxc2 Qxb2+ 24. Kd3 Bb5# 0-1
+

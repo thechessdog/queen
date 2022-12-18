@@ -1,0 +1,19 @@
+[Event "corr W Germany"]
+[Site "corr W Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Graf"]
+[Black "Traut"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "fddf73cd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be2 e6 7. O-O cxd4
+8. cxd4 Be7 9. Nc3 Qd6 10. Nb5 Qd8 11. Bg5 Nd5 12. Bxe7 Ndxe7 13. Qd2 O-O
+14. Bd3 h6 15. Rfd1 Nd5 16. Rac1 a6 17. Nc3 Ncb4 18. Bb1 Nxc3 19. bxc3 Nd5
+20. c4 Nf6 21. Ne5 Bd7 22. Rc3 Qa5 23. Qd3 Rfd8 24. Ng4 Qf5 25. Nxf6+ gxf6
+26. Qd2 1-0
+

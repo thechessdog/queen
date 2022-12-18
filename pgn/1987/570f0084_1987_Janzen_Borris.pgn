@@ -1,0 +1,15 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Janzen, C."]
+[Black "Borris"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "570f0084"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 d6 3. g3 Bg4 4. Bg2 g6 5. O-O Qc8 6. c3 Bh3 7. Bxh3 Qxh3
+8. Ng5 Qd7 9. Qb3 d5 10. Qxb7 Qc6 11. Qc8# 1-0
+

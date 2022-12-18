@@ -1,0 +1,24 @@
+[Event "Hamilton"]
+[Site "Hamilton"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Norris, Alan J"]
+[Black "Thomson, Craig S M"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c025246c"]
+[Epoch "Queen"]
+[WhiteID "2400162"]
+[BlackID "2400081"]
+[WhiteCountry "SCO"]
+[BlackCountry "SCO"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Be6 7. Ng5 Bg4 8. f3
+Bc8 9. Be3 h6 10. cxd5 Nxd5 11. Nxd5 Qxd5 12. Ne4 e5 13. Nc3 Bb4 14. Kf2 Bxc3
+15. bxc3 exd4 16. cxd4 O-O 17. Qb3 Be6 18. Qxd5 Bxd5 19. Bb5 Nb4 20. Rhc1 Rac8
+21. Rxc8 Rxc8 22. a3 Rc2+ 23. Kg3 Nc6 24. Bxc6 Rxc6 25. Rc1 Ra6 26. Rc3 Kf8 27.
+Bd2 Ke7 28. Rc5 Ke6 29. Ra5 Rxa5 30. Bxa5 Bc6 31. Bb4 g6 32. Kf4 Kd5 33. Ke3
+Kc4 34. g4 h5 35. gxh5 gxh5 36. h4 b6 37. Bd6 b5 38. Bb4 Kb3 39. f4 f5 40. Kd2
+Kc4 41. Bc5 a6 42. Kc2 Be4+ 43. Kb2 Kd3 44. Be7 Kxd4 45. Bd8 1/2-1/2

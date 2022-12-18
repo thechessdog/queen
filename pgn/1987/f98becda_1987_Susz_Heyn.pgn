@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Susz"]
+[Black "Heyn"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "f98becda"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Bd2 Ngxe5 7. Nxe5
+Nxe5 8. Be2 O-O 9. O-O d6 10. Bc3 a5 11. a3 Qe7 12. Nd2 a4 13. Kh1 Bf5 14.
+e4 Bd7 15. f4 Nc6 16. Nf3 Qxe4 17. Bd3 Qe7 18. Re1 Qd8 19. Bxh7+ Kxh7 20.
+Ng5+ Kg6 21. g4 f5 22. Re6+ Bxe6 23. Nxe6 Qe7 24. gxf5+ Kh6 25. Qg4 1-0
+

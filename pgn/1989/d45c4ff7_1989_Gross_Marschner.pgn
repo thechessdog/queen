@@ -1,0 +1,23 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gross, Ladislau, Dr."]
+[Black "Marschner, Juergen"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "d45c4ff7"]
+[Epoch "Queen"]
+[WhiteID "4622979"]
+[WhiteCountry "GER"]
+[BlackID "4604849"]
+[BlackCountry "GER"]
+
+1. b3 Nf6 2. Bb2 d5 3. g3 Bf5 4. Bg2 c6 5. Nf3 e6 6. d3 Be7 7. Nbd2 O-O 8. O-O
+Nbd7 9. Re1 h6 10. e4 Bh7 11. Qe2 a5 12. a3 b5 13. h3 Qb6 14. g4 dxe4 15. dxe4
+Rfd8 16. Rad1 Rac8 17. Nh2 Nf8 18. Ndf1 Ng6 19. Bc1 Qc7 20. Qe3 Nd7 21. Qg3 e5
+22. g5 hxg5 23. Bxg5 Nf6 24. Bf3 Rxd1 25. Rxd1 Rd8 26. Rxd8+ Qxd8 27. h4 Qd6
+28. Ne3 Qxa3 29. h5 Nf4 30. Bxf4 exf4 31. Qxf4 Qa1+ 32. Kg2 Qd4 33. Nf5 Bxf5
+34. Qxf5 Qc5 35. e5 Nd5 36. h6 gxh6 37. Ng4 Bg5 1-0

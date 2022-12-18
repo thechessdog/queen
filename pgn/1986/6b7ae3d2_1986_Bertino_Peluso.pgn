@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bertino, G."]
+[Black "Peluso, A."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "6b7ae3d2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6
+8. Bb5+ Bd7 9. a4 Nc6 10. Nf3 Bg7 11. d5 Ne5 12. Nxe5 Bxe5 13. Bxd7+ Qxd7
+14. a5 Nc8 15. Be3 Nd6 16. O-O O-O 17. Rfe1 Bg7 18. Rac1 Nf5 19. Bc5 Rfd8
+20. Nb5 a6 21. Nc3 Rac8 22. Bb6 Re8 23. Rcd1 Nd6 24. Bd4 Bxd4 25. Rxd4 Rc5
+26. Qb4 Qc7 27. Ra1 Rc8 28. Qa4 Nb5 29. Nxb5 Rxb5 30. b4 Qc3 31. Rad1 Qxd4
+32. Rxd4 Rxb4 0-1
+

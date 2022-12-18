@@ -1,0 +1,18 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Koines"]
+[Result "1-0"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "18312eb5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Bg4 10. Bf4 a6 11. a4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3
+Nd7 15. g4 Nhf6 16. f3 Ne5 17. a5 Rc8 18. Kh1 c4 19. g5 Nfd7 20. Bd4 Qc7
+21. Ra4 Nc5 22. Bxc5 1-0
+

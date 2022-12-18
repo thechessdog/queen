@@ -1,0 +1,19 @@
+[Event "St John"]
+[Site "St John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Scholseth, Tor Kristian"]
+[Black "Andonov, Bogomil"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "aabf6aec"]
+[Epoch "Queen"]
+[WhiteID "1500295"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 a6 3. g3 c5 4. d5 e6 5. Bg2 exd5 6. cxd5 d6 7. Nf3 g6 8. O-O
+Bg7 9. a4 O-O 10. Nc3 Re8 11. Nd2 Nbd7 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15.
+e4 Rf8 16. Re1 Bd7 17. Bf1 f5 18. exf5 Bxf5 19. f4 Nxg3 20. fxe5 Nxf1 21. Rxf1
+Qh4 22. Qe2 Bxh3 23. Rxf8+ Rxf8 24. Be3 Qg3+ 25. Kh1 Bg4 0-1

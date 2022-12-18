@@ -1,0 +1,22 @@
+[Event "NOR-ch"]
+[Site "Steinkjer"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Grotnes, Nils"]
+[Black "Hovde, Frank"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ef758c02"]
+[Epoch "Queen"]
+[WhiteID "1500317"]
+[BlackID "1500376"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. Nf4 d6 11. Be2 a6 12. O-O Bf5 13. b4 Ba7 14. Bb2 h6 15.
+Bd3 Bxd3 16. Nxd3 Nbd7 17. Qf3 Re8 18. Rfe1 Rxe1+ 19. Rxe1 Qf8 20. Ne4 Ne8 21.
+Ng3 f6 22. Qf5 Ne5 23. Nf4 Nc7 24. Rc1 Bb6 25. Ngh5 Re8 26. Bd4 Bxd4 27. Rxc7
+Re7 28. Rc8 Re8 29. Qe6+ 1-0

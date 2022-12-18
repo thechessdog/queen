@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Leisebein"]
+[Black "Schultchen"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "8aad7da4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Bb4 7. Qd3 Nc6
+8. Bd2 Nf6 9. O-O Be7 10. a3 O-O 11. Rad1 d6 12. Nb3 b5 13. f4 b4 14. axb4
+Nxb4 15. Qh3 Nxc2 16. e5 Qb6+ 17. Kh1 Qxb3 18. exf6 Bxf6 19. Bd3 g6 20. Ne4
+Be7 21. Bc3 d5 22. Nf6+ Bxf6 23. Bxf6 h5 24. Qg3 0-1
+

@@ -1,0 +1,21 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roeder, Frank"]
+[Black "Orso, Miklos"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "a4b939fe"]
+[Epoch "Queen"]
+[WhiteID "4602161"]
+[BlackID "700290"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Qc2 Be7 8. Bd2
+O-O 9. e4 Nxc3 10. Bxc3 Nd7 11. Rd1 Qc8 12. Bd3 Ba6 13. O-O Bxd3 14. Rxd3 Qb7
+15. d5 exd5 16. exd5 Bf6 17. Rc1 Nc5 18. Bxf6 Nxd3 19. Qxd3 gxf6 20. Nh4 Rfe8
+21. Qg3+ Kh8 22. Qf4 Rg8 23. Qxf6+ Rg7 24. Nf5 1-0

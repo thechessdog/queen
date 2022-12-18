@@ -1,0 +1,17 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Napoli Costa, A."]
+[Black "Ervetti, G."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "234e1c98"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 5. c4 Nb6 6. Be2 Nc6 7. d5 Bxf3
+8. Bxf3 Ne5 9. Be2 g6 10. f4 Ned7 11. c5 Nc8 12. Qd4 Nf6 13. Bb5+ c6 14.
+dxc6 1-0
+

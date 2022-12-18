@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Graf"]
+[Black "Gschnitzer, Oswald, Dr."]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "607dd396"]
+[Epoch "Queen"]
+[BlackID "4600231"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8. cxb5
+d5 9. e3 O-O 10. Nf3 Qa5 11. Bxf6 Rxf6 12. Qc1 a6 13. Be2 axb5 14. O-O Bxc3 15.
+bxc3 Ba6 16. e4 Nc6 17. exd5 exd5 18. Rd1 Rd8 1/2-1/2

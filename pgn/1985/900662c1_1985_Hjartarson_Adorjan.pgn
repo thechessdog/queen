@@ -1,0 +1,19 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Hjartarson, Johann"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "900662c1"]
+[Epoch "Queen"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 e5 8. Bb5+
+Bd7 9. Bxd7+ Qxd7 10. Nf5 Nc6 11. Rg1 O-O-O 12. Ne3 d5 13. exd5 Nb4 1/2-1/2

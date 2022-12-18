@@ -1,0 +1,20 @@
+[Event "Nikea op"]
+[Site "Greece"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Spasov, Vasil"]
+[Black "Grivas, Efstratios"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "519c22f3"]
+[Epoch "Queen"]
+[WhiteID "2900041"]
+[WhiteCountry "FID"]
+[BlackID "4200039"]
+[BlackCountry "GRE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 b6 10. a4 Ba6 11. Bb5 Bxb5 12. axb5 Qd7 13. Nge2 Ne8 14. O-O Nc7 15.
+Qd3 a6 16. Bf4 Rd8 17. b3 Ra7 18. Bg5 1/2-1/2

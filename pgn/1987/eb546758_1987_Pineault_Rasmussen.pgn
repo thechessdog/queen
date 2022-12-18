@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pineault, D."]
+[Black "Rasmussen, B."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "eb546758"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bc5 7. Bf4 e5
+8. Bg5 Qb6 9. Qd2 Bb4 10. Bxf6 gxf6 11. a3 Bxc3 12. Nd6+ Kd8 13. bxc3 Rg8
+14. Rd1 Qc5 15. Nxc8 d5 16. Qxd5+ Qxd5 17. exd5 Na5 18. Nd6 1-0
+

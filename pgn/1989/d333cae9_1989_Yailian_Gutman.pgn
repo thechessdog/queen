@@ -1,0 +1,18 @@
+[Event "GMA -"]
+[Site "Moskou open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Iailian, Mikhail"]
+[Black "Gutman, Lev"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "d333cae9"]
+[Epoch "Queen"]
+[BlackID "4600177"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c6 6. Be3 d5 7. cxd5 cxd5 8. e5
+Nfd7 9. Bd3 Nxe5 10. dxe5 d4 11. Bd2 dxc3 12. Bxc3 Nc6 13. f4 Qb6 14. Qf3 Nb4
+15. Ne2 Rd8 16. Bb1 Bf5 17. a3 Bc2 18. Nd4 Nd3+ 19. Kd2 Bxb1 20. Raxb1 Nxe5 0-1

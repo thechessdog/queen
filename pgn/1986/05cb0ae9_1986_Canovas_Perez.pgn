@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Canovas Pardo"]
+[Black "Perez Millan"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "05cb0ae9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8.
+Bd3 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Qb3 c6 12. h4 Re8 13. O-O-O a5 14.
+Bb1 Nd7 15. Qc2 Nf8 16. g4 Ne6 17. g5 hxg5 18. hxg5 Nxg5 19. Nxg5 Bxg5 20.
+Rh8+ 1-0
+

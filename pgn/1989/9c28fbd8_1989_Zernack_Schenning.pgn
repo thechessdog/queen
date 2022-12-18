@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zernack, Ulrich"]
+[Black "Schenning, Albert"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "9c28fbd8"]
+[Epoch "Queen"]
+[BlackID "1018680"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. d4 Bb4 6. Bd2 Bxc3 7. Bxc3 Nxe4 8.
+Qf3 d5 9. Be2 Qh4+ 10. g3 fxg3 11. hxg3 Qxg3+ 12. Kd1 Nf2+ 13. Kd2 Qxf3 14.
+Nxf3 Nxh1 15. Rxh1 Nd7 16. Bb4 Nf6 17. Bf8 Rxf8 0-1

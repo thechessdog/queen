@@ -1,0 +1,21 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pirrot, Dieter"]
+[Black "Nemet, Ivan"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d5f513f3"]
+[Epoch "Queen"]
+[WhiteID "4601157"]
+[WhiteCountry "GER"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. Be2 e6 7. Na3 Qd8 8. O-O
+cxd4 9. Nb5 e5 10. cxd4 e4 11. d5 Nb4 12. d6 Nbd5 13. Bg5 exf3 14. Bxf6 Qxf6
+15. Bxf3 Nb6 16. Nc7+ Kd8 17. Nxa8 Nxa8 18. Qa4 Bxd6 19. Rfd1 Ke7 20. Qxa7 Nc7
+21. Bxb7 Qxb2 22. Bxc8 Rxc8 23. Rab1 Qa3 24. Qb7 Qa6 25. Qxa6 Nxa6 26. Rb6 Rd8
+27. Re1+ 1-0

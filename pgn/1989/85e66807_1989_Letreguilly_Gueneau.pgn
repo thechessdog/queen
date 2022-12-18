@@ -1,0 +1,20 @@
+[Event "Frankrijk tt"]
+[Site "Frankrijk tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Letreguilly, Olivier"]
+[Black "Gueneau, Christophe"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "85e66807"]
+[Epoch "Queen"]
+[WhiteID "600997"]
+[WhiteCountry "FRA"]
+[BlackID "605611"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 exd4 6. Nxd4 g6 7. Be3 Bg7 8.
+Qd2 Nf6 9. f3 O-O 10. O-O-O Nxd4 11. Bxd4 Nxe4 12. Nxe4 Bxb5 13. h4 f5 14. Bxg7
+Kxg7 15. Qd4+ Kh6 16. g4 fxe4 17. g5+ Kh5 18. Qg7 1-0

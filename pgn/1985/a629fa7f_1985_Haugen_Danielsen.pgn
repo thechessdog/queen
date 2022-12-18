@@ -1,0 +1,19 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Haugen, Arild"]
+[Black "Danielsen, Ivar"]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Carls' Bremen system"]
+[HashCode "a629fa7f"]
+[Epoch "Queen"]
+[WhiteID "1505076"]
+[WhiteCountry "NOR"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Nc6 4. Bg2 Bb4 5. e3 O-O 6. Nge2 Re8 7. O-O d6 8. a3
+Bxc3 9. Nxc3 Be6 10. Nd5 e4 11. Nxf6+ Qxf6 12. Bxe4 Na5 13. d3 Bxc4 14. Bxh7+
+Kxh7 15. dxc4 Kg8 16. Qc2 Qe6 17. b3 Rad8 18. Bb2 c6 19. Rab1 b5 20. Qc3 Qh3
+21. Qxg7# 1-0

@@ -1,0 +1,23 @@
+[Event "Martigny"]
+[Site "Martigny"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vezzosi, Paolo"]
+[Black "Kovacevic, Vlatko"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "09945bc6"]
+[Epoch "Queen"]
+[WhiteID "800341"]
+[WhiteCountry "ITA"]
+[BlackID "14500078"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. Kh1 Nbd7 8. f4
+Be7 9. Nc3 O-O 10. Qf3 Nc5 11. Be3 Qc7 12. Rac1 Re8 13. b4 Ncd7 14. Nce2 b6 15.
+Qh3 Bb7 16. Ng3 Qc3 17. Nf3 g6 18. Bd2 Qc7 19. Ng5 Nf8 20. Rce1 b5 21. a3 Rad8
+22. Bc1 Qd7 23. e5 Nd5 24. Nxf7 Kxf7 25. f5 exf5 26. e6+ Nxe6 27. Qxh7+ Ng7 28.
+Nxf5 gxf5 29. Rxf5+ Bf6 30. Rxf6+ Nxf6 31. Bg6+ Kf8 32. Qh8+ Ng8 33. Rf1+ Nf5
+34. Bxf5 Qxf5 35. Rxf5+ Ke7 36. Qh7+ Ke6 37. Qf7# 1-0

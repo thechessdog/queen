@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Uppsala"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Renman, Nils-Gustaf"]
+[Black "Hellers, Ferdinand"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "e085086f"]
+[Epoch "Queen"]
+[BlackID "1700022"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Nd2
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Re1 Nh5 13. Nf1 f5 14. Bxh5 gxh5 15.
+Qxh5 Rf8 16. Qg5 Qxg5 17. Bxg5 Nd3 18. Re2 Nxb2 19. Nb5 fxe4 20. Ra3 Nc4 21.
+Rg3 Bf5 22. Be7 Rf7 23. Nxd6 Nxd6 24. Bxd6 b6 25. Be5 Bg6 26. Bxg7 Rxg7 27. Rb3
+Rd7 28. Ne3 Bf7 29. h3 Bxd5 30. Nxd5 Rxd5 31. Rxe4 Rd7 32. Kf1 1/2-1/2

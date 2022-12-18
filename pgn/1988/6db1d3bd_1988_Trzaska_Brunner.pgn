@@ -1,0 +1,22 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Trzaska, Peter"]
+[Black "Brunner, Lucas"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "6db1d3bd"]
+[Epoch "Queen"]
+[WhiteID "4613970"]
+[WhiteCountry "GER"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 c5 5. Qe2+ Be7 6. dxc5 Nf6 7. Nf3 O-O 8.
+O-O Bxc5 9. Bg5 Nc6 10. Nc3 Be6 11. Rad1 h6 12. Bh4 Re8 13. Qd2 a6 14. Rfe1 Rc8
+15. a3 Ba7 16. Re2 Bc5 17. Rde1 Be7 18. Nd1 Qb6 19. Qf4 Nh5 20. Qa4 d4 21. Rxe6
+fxe6 22. Bg6 Bxh4 23. Nxh4 Nf6 24. Bxe8 Rxe8 25. Qc4 Qb5 26. Qxb5 axb5 27. Nf5
+exf5 0-1

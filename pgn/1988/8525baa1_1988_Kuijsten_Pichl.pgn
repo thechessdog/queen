@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kuijsten"]
+[Black "Pichl"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "8525baa1"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 Nf6 6. Bg5 h6 7. Bf4 O-O 8.
+Qd2 Kh7 9. h3 b5 10. a3 a6 11. Rd1 Bb7 12. Nh2 Nbd7 13. Bf3 Qc7 14. Ng4 Ng8
+15. O-O Rad8 16. Qe2 e5 17. dxe5 dxe5 18. Be3 Rfe8 19. g3 Nf8 20. Rxd8 Rxd8
+21. Rd1 Ne6 22. Rxd8 Qxd8 23. Qd2 Nd4 0-1
+

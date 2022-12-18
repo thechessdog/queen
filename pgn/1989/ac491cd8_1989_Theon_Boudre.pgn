@@ -1,0 +1,20 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Theon, Pierre"]
+[Black "Boudre, Jean-Pierre"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "ac491cd8"]
+[Epoch "Queen"]
+[WhiteID "608106"]
+[WhiteCountry "FRA"]
+[BlackID "600237"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Nc3 Bxf3 8.
+Nxd5 Bxd1 9. Nxc7+ Kd7 10. Nxa8 Bh5 11. d5 Nd4 12. Kd2 Nf6 13. Kc3 Ne2+ 14. Kd2
+0-1

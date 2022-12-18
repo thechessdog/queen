@@ -1,0 +1,21 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Lane, Gary W"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "bb73bbf5"]
+[Epoch "Queen"]
+[BlackID "3203301"]
+[BlackCountry "AUS"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 Bg4 7. Be3 O-O-O 8.
+Nbd2 f6 9. Rb1 Ne7 10. b4 Ng6 11. h3 Be6 12. a4 Qd7 13. d4 Bd6 14. b5 axb5 15.
+axb5 exd4 16. Ra1 Kb8 17. Nxd4 cxb5 18. Ra8+ Kxa8 19. Qa1+ Kb8 20. Qa7+ Kxa7
+21. Nc6+ Ka8 22. Ra1+ 1-0

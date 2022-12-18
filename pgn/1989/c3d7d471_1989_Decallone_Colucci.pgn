@@ -1,0 +1,18 @@
+[Event "corr ICCF TT"]
+[Site "corr ICCF TT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Decallone, B."]
+[Black "Colucci, P."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "c3d7d471"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6
+8. h4 h5 9. f3 O-O 10. Qd2 d5 11. Nxc6 bxc6 12. e5 Ne8 13. f4 f5 14. Bd4
+Nc7 15. O-O-O Ne6 16. Na4 Nxd4 17. Qxd4 Qa5 18. Rh3 Rb8 19. Ra3 e6 20. Nc5
+Qb6 21. Ba6 1-0
+

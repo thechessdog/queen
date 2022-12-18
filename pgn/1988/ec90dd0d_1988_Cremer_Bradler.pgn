@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Cremer, J."]
+[Black "Bradler, E."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "ec90dd0d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 a6 10. Nge2 Nbd7 11. O-O Nh5 12. g4 Nf4 13. Nxf4 exf4 14. Bf2
+Ne5 15. Rc1 Nxd3 16. Qxd3 f5 17. exf5 gxf5 18. h3 fxg4 19. hxg4 h5 20. Qg6
+hxg4 21. fxg4 Qd7 22. g5 0-1
+

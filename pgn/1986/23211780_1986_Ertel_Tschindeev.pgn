@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ertel"]
+[Black "Tschindeev"]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "23211780"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. cxd5 exd5 5. Qb3 Nc6 6. Nf3 Nb4 7. e4 Qe7
+8. Ne5 f6 9. Nxd5 Nxd5 10. Bb5+ c6 11. Nxc6 Qxe4+ 12. Kf1 Kf7 13. Bd2 bxc6
+14. Bxc6 Rd8 15. Rc1 Qxd4 0-1
+

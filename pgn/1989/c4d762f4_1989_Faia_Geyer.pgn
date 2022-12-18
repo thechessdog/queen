@@ -1,0 +1,16 @@
+[Event "C-JEM-SJRP"]
+[Site "C-JEM-SJRP"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Faiss, Peter"]
+[Black "Geyer, Ulf, Dr."]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "c4d762f4"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O Nc6 7. d3 d6 8. Bf4
+Re8 9. Qd2 Bf5 10. Bh6 Qd7 11. Bxg7 Kxg7 12. Rfe1 Bh3 13. Rac1 Bxg2 14. Kxg2
+Rab8 15. d4 e6 16. dxc5 dxc5 17. Ne4 Qxd2 18. Nfxd2 Nxe4 19. Nxe4 1/2-1/2

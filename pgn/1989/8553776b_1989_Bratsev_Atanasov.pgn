@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bratsev, K."]
+[Black "Atanasov, B."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "8553776b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+Qc2 Nc6 9. a3 Qa5 10. Rd1 Be7 11. g4 Ne4 12. Bd3 Nxc3 13. Bxh7+ Kh8 14.
+bxc3 Bf6 15. g5 Bxc3+ 16. Ke2 dxc4 17. Bd6 Rd8 18. Qe4 Rxd6 19. Rxd6 Qc7
+20. Rhd1 f6 21. Bg6 1-0
+

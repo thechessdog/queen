@@ -1,0 +1,20 @@
+[Event "Tampere Kaleva"]
+[Site "Tampere Kaleva"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Salokangas, H."]
+[Black "Haanpaa, J."]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "e8f52dc0"]
+[Epoch "Queen"]
+
+1. Nf3 d6 2. d4 f5 3. g3 Nf6 4. Bg2 g6 5. O-O Bg7 6. c4 O-O 7. Nc3 c6 8. d5
+e5 9. dxe6 Bxe6 10. Qd3 Na6 11. Ng5 Bc8 12. Bf4 h6 13. Nf3 Ne8 14. Rad1 Be6
+15. Qe3 Bxc4 16. Bxh6 Bf7 17. Bxg7 Kxg7 18. Qf4 Qf6 19. h4 Nc5 20. Ng5 Ne6
+21. Qb4 Qe7 22. e4 a5 23. Qb6 Ra6 24. Qe3 Nxg5 25. hxg5 fxe4 26. Nxe4 Bd5
+27. Rfe1 Bxe4 28. Bxe4 Qf7 29. Qd4+ Kg8 30. Kg2 d5 31. Bd3 Ra8 32. f4 Ng7
+33. Rh1 Nf5 34. Rh8# 1-0
+

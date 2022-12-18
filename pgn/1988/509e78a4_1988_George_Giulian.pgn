@@ -1,0 +1,18 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "George"]
+[Black "Giulian"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "509e78a4"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nc6 5. cxd5 Qxd5 6. Nf3 e6 7. Nc3 Qd6
+8. Be2 Nf6 9. O-O Be7 10. Nb5 Qd8 11. Bf4 Nd5 12. Bg3 O-O 13. Nc3 b6 14.
+Rc1 Bb7 15. Bd3 Rc8 16. Re1 Nxc3 17. bxc3 Bf6 18. Ne5 Nxe5 19. Bxe5 g6
+1/2-1/2
+

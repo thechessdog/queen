@@ -1,0 +1,33 @@
+[Event "Bielsko Biala"]
+[Site "Bielsko Biala"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Staniszewski, Piotr"]
+[Black "Schulte, Oliver"]
+[Result "1-0"]
+[ECO "A79"]
+[Opening "Benoni"]
+[Variation "classical, 11.f3"]
+[HashCode "a9e2de17"]
+[Epoch "Queen"]
+[WhiteID "1100220"]
+[WhiteCountry "POL"]
+[BlackID "4600444"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Na6 11. f3 Nc7 12. a4 b6 13. Nc4 Ba6 14. Bg5 Qd7 15. Re1
+h6 16. Bh4 Nh5 17. Qd2 g5 18. Bf2 Nf4 19. Bf1 Bxc4 20. Bxc4 a6 21. Bf1 b5 22.
+h4 bxa4 23. hxg5 hxg5 24. g3 Ng6 25. Qxg5 Nb5 26. f4 Nxc3 27. bxc3 Bxc3 28. f5
+Qe7 29. Qg4 Bxa1 30. Rxa1 Qxe4 31. Rxa4 Qxg4 32. Rxg4 Kg7 33. fxg6 f5 34. Ra4
+Re5 35. Ra1 Kxg6 36. Be1 Rae8 37. Kf2 Rxd5 38. Bc3 Kg5 39. Bc4 Rde5 40. Bxe5
+dxe5 41. Rxa6 f4 42. Rc6 fxg3+ 43. Kxg3 Kf5 44. Kf3 e4+ 45. Ke3 Re5 46. Bf7 Kg5
+47. Bg6 Kg4 48. Bxe4 Rg5 49. Rh6 Re5 50. Rg6+ Rg5 51. Bf3+ Kh4 52. Rh6+ Kg3 53.
+Rh1 Re5+ 54. Be4 Rg5 55. Rc1 c4 56. Rxc4 Re5 57. Rc1 Re7 58. Rg1+ Kh2 59. Rg5
+Kh3 60. Kf4 Rf7+ 61. Bf5+ Kh2 62. Kf3 Ra7 63. Be6 Rc7 64. Rg2+ Kh1 65. Ra2 Kg1
+66. Bd5 Rc3+ 67. Kf4 Kf1 68. Bf3 Ke1 69. Ke4 Kf1 70. Kf4 Ke1 71. Rb2 Rc8 72.
+Kg3 Rg8+ 73. Bg4 Re8 74. Rh2 Re7 75. Bf3 Re6 76. Kf4 Rb6 77. Bd5 Ra6 78. Bc4
+Ra3 79. Ke4 Rg3 80. Bd3 Rg8 81. Kf3 Kd1 82. Be4 Rg7 83. Ke3 Rg3+ 84. Bf3+ Kc1
+85. Rf2 Rg8 86. Be4 Rc8 87. Bd3 Rc7 88. Kd4 Kd1 89. Bc4 Rd7+ 90. Kc3 Re7 91.
+Rf3 Re8 92. Rf5 Re7 93. Kd3 Kc1 94. Ra5 Kb2 95. Rb5+ Ka3 96. Kc3 Re3+ 97. Bd3
+Ka4 98. Rg5 Rh3 99. Rg1 Ka5 100. Rg6 1-0

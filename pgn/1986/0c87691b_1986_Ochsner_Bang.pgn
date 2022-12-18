@@ -1,0 +1,19 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.??.??"]
+[Round "9"]
+[White "Ochsner, Thomas"]
+[Black "Bang, Andreas"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0c87691b"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1400290"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 d6 6. c4 Nb4 7. a3 N4c6 8. exd6
+Qxd6 9. d5 Ne5 10. Nc3 exd5 11. Qe2 Nd7 12. Nb5 1-0

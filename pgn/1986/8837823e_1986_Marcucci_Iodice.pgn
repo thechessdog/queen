@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marcucci"]
+[Black "Iodice"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "8837823e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. O-O O-O 9. Nb3 Be6 10. f4 Na5 11. Bf3 Nc4 12. Bd4 Nxb2 13. Qc1 Nc4 14.
+Rd1 Qc7 15. Nb5 Qd7 16. a4 a6 17. Na7 b6 18. e5 Rxa7 19. exf6 Bxf6 20. Bxf6
+exf6 21. f5 Bxf5 22. Rd4 Rc7 23. g4 Ne5 24. Be2 Rxc2 25. Qd1 Rxe2 26. Rxd6
+Nf3+ 27. Kf1 Nxh2+ 28. Kg1 Qe7 29. Qd4 Nf3+ 30. Kf1 Nxd4 0-1
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Scherlitz, Bernd"]
+[Black "Schenning, Albert"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "f0fbf1c6"]
+[Epoch "Queen"]
+[BlackID "1018680"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. d4 Bb4 6. e5 Ne4 7. Qf3 d5 8. exd6
+O-O 9. Bxf4 Nxd6 10. Bb3 Nf5 11. O-O-O Nxd4 12. Qd3 Nxb3+ 13. axb3 Qxd3 14.
+Rxd3 Bf5 15. Rd1 Nd7 16. Nf3 Nf6 17. Na2 a5 18. Rhf1 Nd5 19. Bd2 Bg6 20. Nd4
+Bh5 0-1

@@ -1,0 +1,16 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dede, E."]
+[Black "Posta, M."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "519caf20"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Na6 4. e3 Qf6 5. cxd5 exd5 6. Nxd5 Qd6 7. Qb3 Nh6
+8. Bxa6 bxa6 9. Qc4 Bb7 10. e4 f5 11. Bf4 Qd8 12. Nxc7+ Ke7 13. Qe6# 1-0
+

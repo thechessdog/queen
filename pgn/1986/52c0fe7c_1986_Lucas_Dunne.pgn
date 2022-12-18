@@ -1,0 +1,18 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lucas, R."]
+[Black "Dunne, A."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "52c0fe7c"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. Bb5 d5 3. d4 dxe4 4. d5 a6 5. Ba4 b5 6. Bxb5 axb5 7. dxc6
+Qxd1+ 8. Kxd1 Bf5 9. Nc3 O-O-O+ 10. Ke1 b4 11. Nb5 e5 12. Be3 Ne7 13. Na7+
+Kb8 14. c4 Be6 15. Bc5 Nc8 16. Bxf8 Rhxf8 17. Nxc8 Kxc8 18. a3 b3 19. Rc1
+Rd4 20. c5 Rfd8 0-1
+

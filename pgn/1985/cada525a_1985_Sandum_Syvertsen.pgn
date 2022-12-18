@@ -1,0 +1,23 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sandum, Kjell T"]
+[Black "Syvertsen, David"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "cada525a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. e3 Ba6 5. Bxa6 Nxa6 6. Qe2 Nb8 7. Nbd2 Be7 8.
+h3 c5 9. c3 Nc6 10. O-O d5 11. Ne5 Nxe5 12. Bxe5 O-O 13. Rfe1 a6 14. Rac1 Qd7
+15. e4 Rfc8 16. Qf3 b5 17. Bxf6 Bxf6 18. exd5 cxd4 19. dxe6 fxe6 20. Ne4 Be7
+21. cxd4 Qxd4 22. Qe2 Rxc1 23. Rxc1 Rd8 24. Rc6 Qd1+ 25. Qxd1 Rxd1+ 26. Kh2 Kf7
+27. Rxa6 Re1 28. f3 Re2 29. b3 Rc2 30. Ra5 b4 31. Ra7 h5 32. Nd6+ Kf6 33. Ne8+
+Kf7 34. Nxg7 h4 35. Nh5 Ke8 36. Ra6 Kd7 37. Ra7+ Kd8 38. Ra8+ Kd7 39. Ra4 Bc5
+40. Ra5 Bb6 41. Rb5 Bc5 42. Ra5 Kc6 43. Ra6+ Bb6 44. Ra8 Rc1 45. g4 Rf1 46. Kg2
+Rf2+ 47. Kh1 Rf1+ 48. Kg2 Rf2+ 49. Kh1 Rxf3 50. Kg2 Rf2+ 51. Kh1 Rf1+ 52. Kg2
+Rf2+ 53. Kh1 Kd5 54. Ra4 Bc5 55. Ra8 Rf1+ 56. Kg2 Rf2+ 57. Kh1 Ke4 58. Rc8 Be3
+59. Rc4+ Kf3 60. g5 Rf1+ 61. Kh2 Bg1+ 62. Kh1 Bf2+ 63. Kh2 Bg3+ 64. Nxg3 hxg3#
+0-1

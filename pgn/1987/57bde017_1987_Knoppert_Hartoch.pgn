@@ -1,0 +1,23 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Knoppert, Erik"]
+[Black "Hartoch, Robert G"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "57bde017"]
+[Epoch "Queen"]
+[WhiteID "1000853"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. h3 O-O 7. Be3 c6 8. a4
+Qc7 9. O-O b6 10. Qe2 Bb7 11. Rad1 a6 12. Nh4 b5 13. Nf5 Rfe8 14. Bb3 Bf8 15.
+dxe5 dxe5 16. Bg5 h6 17. Rxd7 Nxd7 18. Qh5 Nc5 19. Nxh6+ gxh6 20. Qg6+ Bg7 21.
+Bxh6 Ne6 22. Bxe6 fxe6 23. f4 Qf7 24. Qg4 Kh7 25. Bxg7 Qxg7 26. Qh5+ Kg8 27. f5
+Rf8 28. g4 Rf7 29. g5 Raf8 30. g6 Rf6 31. Nd1 exf5 32. exf5 Qh8 33. Qg5 Qxh3
+34. Ne3 c5 35. Rd1 Rxf5 36. Nxf5 Qxf5 37. Qxf5 Rxf5 38. Rd8+ Rf8 39. Rd7 Be4
+40. axb5 axb5 41. Rc7 c4 42. Rc5 Bxc2 43. Rxb5 e4 0-1

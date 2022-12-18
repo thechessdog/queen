@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stephan"]
+[Black "Berndt"]
+[Result "0-1"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "cc7550be"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Na6 9. Bxa6 bxa6 10. Nf3 Bf5 11. O-O Rfc8 12. Rc1 Qb7 13. Be5 Qxb2
+14. Bxg7 Kxg7 15. Qd2 Rab8 16. Rxc8 Qxd2 17. Nxd2 Rxc8 18. Nf3 Be6 19. a3
+Rc3 20. Ra1 f6 21. Nd2 Bd5 22. Nf1 f5 23. h3 a5 24. g4 Kf6 25. gxf5 gxf5
+26. Ng3 Bf3 27. Kf1 Rc2 28. Ke1 a4 29. h4 e6 0-1
+

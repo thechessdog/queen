@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Winkler, E."]
+[Black "Matula, E."]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "beaa33cf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 Bb4+ 7. Nc3 cxd5
+8. Bxf4 O-O 9. Be2 dxc4 10. Bxc4 Re8+ 11. Be5 Ng4 12. O-O Nc6 13. Bxf7+
+Kxf7 14. Ng5+ Kg8 15. Qb3+ Be6 16. Nxe6 1-0
+

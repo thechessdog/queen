@@ -1,0 +1,20 @@
+[Event "Hochdahl"]
+[Site "Hochdahl"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kappelt"]
+[Black "Utpatel"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "5...Be7"]
+[HashCode "315b3310"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 exd4 7. Qb3 dxc3
+8. Bxf7+ Kf8 9. Nxc3 Bf6 10. Bb2 Qe7 11. Bd5 Ne5 12. Nxe5 Bxe5 13. O-O c6
+14. Bxg8 Rxg8 15. Rad1 Qe6 16. Qa3+ Ke8 17. f4 Bc7 18. e5 Qc4 19. Rde1 a5
+20. Ne4 Bb6+ 21. Kh1 Qb4 22. Nd6+ Kd8 23. Re4 Qxa3 24. Bxa3 Ba7 25. f5 b5
+26. Bc1 Ba6 27. Bg5+ Kc7 28. Be7 b4 29. Rc1 Rab8 30. f6 gxf6 31. exf6 h5
+32. f7 Rh8 33. Ne8+ Rbxe8 34. Bd6+ Kd8 35. Bc7+ Kxc7 36. Rxe8 1-0
+

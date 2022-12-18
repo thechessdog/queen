@@ -1,0 +1,22 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wechsung"]
+[Black "Lange"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "3721a860"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3
+Qc7 9. Be3 e5 10. Qd2 exd4 11. Bxd4 Re8 12. Rfe1 Nxe4 13. Nxe4 Rxe4 14.
+Bxg7 Kxg7 15. Bd3 Re7 16. Rxe7 Qxe7 17. Re1 Qf6 18. b3 Bxh3 19. gxh3 Qxf3
+20. Qc3+ Kh6 21. Re8 Qxh3 22. Rg8 Qg4+ 23. Kf1 Kg5 24. Qd2+ Qf4 25. Qxf4+
+Kxf4 26. Rg7 f5 27. Rg8 Kg5 28. Kg2 h5 29. Kg3 Kf6 30. f4 Kf7 31. Rc8 Ke6
+32. Kh4 Kd7 33. Rg8 Kc7 34. Kg5 b5 35. Kxg6 bxa4 36. bxa4 Ra7 37. Rg7+ Kb6
+38. Rxa7 Kxa7 39. Kxh5 Kb6 40. Kg6 Nd7 41. Kxf5 Nc5 42. Kg6 Nxa4 43. f5 Nc5
+44. f6 Nd7 45. f7 Ne5+ 46. Kg7 Nxf7 47. Kxf7 d5 48. Ke6 a4 49. c3 Kc5 0-1
+

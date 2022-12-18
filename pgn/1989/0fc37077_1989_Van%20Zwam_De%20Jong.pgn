@@ -1,0 +1,16 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Zwam, B."]
+[Black "De Jong, Peter"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "0fc37077"]
+[Epoch "Queen"]
+[BlackID "1033514"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. Nc3 cxd4 4. Qxd4 Nc6 5. Qd1 e6 6. e4 Bb4 7. Bg5 h6 8. Bd2
+O-O 9. Bd3 d5 10. Nf3 dxe4 11. Bxe4 Bxc3 12. Bxc6 Bxd2+ 0-1

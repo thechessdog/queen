@@ -1,0 +1,17 @@
+[Event "OHRA"]
+[Site "Amsterdam II"]
+[Date "1989.07.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.dc"]
+[HashCode "e5cbb134"]
+[Epoch "Queen"]
+[WhiteCountry "HRV"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O c5 8.
+dxc5 Na6 9. Ng5 Ndb4 10. Nc3 h6 11. Nf3 Bf5 12. Nh4 Qxd1 13. Nxd1 Be6 14. Bd2
+g5 15. Nf3 Nxa2 16. Be3 Rad8 17. Ne1 Rd7 1/2-1/2

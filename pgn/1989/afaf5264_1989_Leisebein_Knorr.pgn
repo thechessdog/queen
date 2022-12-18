@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Leisebein, Peter"]
+[Black "Knorr, B."]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "afaf5264"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. O-O Be7
+8. c4 O-O 9. d4 b5 10. b3 bxc4 11. bxc4 Nb6 12. Ne5 g5 13. Nd2 Re8 14. Qc2 Qc8
+15. Ndf3 Ng4 16. Nxf7 Kxf7 17. Qxh7+ Kf8 18. Nxg5 1-0

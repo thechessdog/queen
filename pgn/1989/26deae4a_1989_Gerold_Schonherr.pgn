@@ -1,0 +1,22 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gerold"]
+[Black "Schonherr"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "26deae4a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Ne2 Nc6 10. a4 Qc7 11. Ba3 b6 12. Qc2 Rd8 13. Ba2 Na5 14.
+dxc5 bxc5 15. O-O Bb7 16. f3 Qe5 17. e4 Nxe4 18. fxe4 Bxe4 19. Qc1 Bd3 20.
+Qf4 Qxf4 21. Rxf4 Bxe2 22. Bxc5 Rd2 23. h3 Rb8 24. Bb4 Nc6 25. Ba3 Rbd8 26.
+Kh2 Ne5 27. Be7 R8d7 28. Bb4 Bf3 29. Rxf3 Nxf3+ 30. Kg3 Ne1 31. Rxe1 Rxa2
+32. a5 Rd3+ 33. Kh2 Rdd2 34. Rg1 Rdc2 35. h4 f5 36. Kh3 h5 37. Kg3 Kf7 38.
+Kf3 a6 39. g3 e5 40. Rd1 Rf2+ 41. Ke3 Rae2+ 42. Kd3 Re4 43. Rg1 Ke6 44. Bc5
+Rf3+ 45. Kc2 Kd5 46. Bb4 Kc4 47. Kb2 Re2+ 48. Kb1 Kb3 49. Bf8 Rff2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maier, Christian"]
+[Black "Schuh, Hubert"]
+[Result "1/2-1/2"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "2a36979c"]
+[Epoch "Queen"]
+[WhiteID "4601955"]
+[BlackID "4600894"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 d6 9. Nxc6 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Bronnum, Jan"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[HashCode "5d1f3d4a"]
+[Epoch "Queen"]
+[BlackID "1400908"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Nc6 6. Bg2 Nc7 7. O-O e5 8. a3
+f6 9. d3 Be7 10. Be3 O-O 11. Rc1 Bd7 12. Nd2 Rb8 13. Nd5 Ne6 14. Nxe7+ Qxe7 15.
+Bd5 1-0

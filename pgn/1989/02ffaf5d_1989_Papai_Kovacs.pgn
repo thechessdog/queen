@@ -1,0 +1,19 @@
+[Event "Szekszard"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Papai, Janos"]
+[Black "Kovacs, Elod"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "02ffaf5d"]
+[Epoch "Queen"]
+[WhiteID "702765"]
+[BlackID "702889"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. d3 b6
+9. a3 Bb7 10. Nbd2 Qc7 11. Rc1 d4 12. e4 1/2-1/2

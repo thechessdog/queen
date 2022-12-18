@@ -1,0 +1,21 @@
+[Event "Poznan-B"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Soltys, Bogdan"]
+[Black "Pedzich, Dominik"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "6b422abb"]
+[Epoch "Queen"]
+[WhiteID "1101404"]
+[WhiteCountry "POL"]
+[BlackID "1100130"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Be3 Nc6 8. h3
+g5 9. Qf3 Ne5 10. Qg3 Be7 11. Be2 a6 12. O-O-O Qc7 13. f4 gxf4 14. Bxf4 Ng6 15.
+Be3 b5 16. g5 hxg5 17. Bxg5 b4 18. Rhf1 bxc3 19. Bxf6 cxb2+ 20. Kb1 Bxf6 21.
+Rxf6 Rf8 22. Bh5 Ne5 23. Nxe6 1-0

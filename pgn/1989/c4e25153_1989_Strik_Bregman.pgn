@@ -1,0 +1,26 @@
+[Event "Alkmaar"]
+[Site "Alkmaar"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Strik, Aart"]
+[Black "Bregman, C."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "c4e25153"]
+[Epoch "Queen"]
+[WhiteID "1021540"]
+[WhiteCountry "NED"]
+
+1. Nc3 e6 2. e4 d5 3. d4 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Nf8 8.
+Nf3 Bd7 9. Qd2 Qe7 10. Bd3 Nc6 11. a3 Ng6 12. Nb5 Rc8 13. Nc3 a6 14. Ne2 Qf8
+15. c3 Na5 16. Qc2 h6 17. Bxg6 fxg6 18. Qxg6+ Qf7 19. Qxf7+ Kxf7 20. Nf4 Nc6
+21. g6+ Ke7 22. Ke2 Rcf8 23. Rh4 Kd8 24. Rah1 Ne7 25. Ng5 Kc8 26. Nf7 Rhg8 27.
+Rg4 b6 28. Rc1 Kb7 29. b3 b5 30. Kd2 Nc6 31. Nd3 Kc8 32. Nc5 Nd8 33. Nxd8 Kxd8
+34. Ke3 Bc8 35. c4 c6 36. cxb5 axb5 37. a4 bxa4 38. bxa4 Re8 39. Rb1 Re7 40.
+Rg3 Kc7 41. Ke2 Kd8 42. Rgb3 Rge8 43. Kd3 Ra7 44. Nb7+ Kc7 45. Nd6 Rf8 46. Nxc8
+Rxc8 47. Ra1 Rca8 48. Rba3 Rb8 49. Kc3 Rb6 50. Rb3 Kb7 51. Rxb6+ Kxb6 52. Rb1+
+Ka5 53. Rb8 Kxa4 54. Re8 Kb5 55. Rxe6 Ra3+ 56. Kd2 Ra2+ 57. Ke3 Ra3+ 58. Kf4
+Rd3 59. f3 Rxd4+ 60. Kg3 c5 61. Re7 c4 62. Rxg7 Kb6 63. e6 c3 64. e7 c2 65.
+e8=Q c1=Q 66. Qb8+ 1-0

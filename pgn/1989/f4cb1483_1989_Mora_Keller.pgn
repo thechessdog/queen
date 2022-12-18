@@ -1,0 +1,26 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "3"]
+[White "Mora, Federico"]
+[Black "Keller, Rudolf"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "f4cb1483"]
+[Epoch "Queen"]
+[WhiteID "802549"]
+[WhiteCountry "ITA"]
+[BlackID "1300679"]
+[BlackCountry "SUI"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. e5 Nfd7 6. Nf3 O-O 7. Be3 c5 8. exd6
+exd6 9. Qd2 Nc6 10. O-O-O Qa5 11. Kb1 Rb8 12. Nb5 Qb6 13. Nxd6 Nxd4 14. Nxc8
+Rbxc8 15. Nxd4 cxd4 16. Bxd4 Bxd4 17. Qxd4 Nc5 18. Bc4 Qc7 19. f5 gxf5 20. Qd5
+Ne6 21. Bd3 Nf4 22. Qxf5 Nxd3 23. Qxd3 Rcd8 24. Qe4 Rfe8 25. Rxd8 Rxd8 26. Qe3
+Rd5 27. Rf1 Qd7 28. b3 Rd1+ 29. Rxd1 Qxd1+ 30. Kb2 b6 31. Qg5+ Kf8 32. Qe5 Kg8
+33. h4 h5 34. a3 Kh7 35. Qe4+ Kg7 36. Kc3 Qa1+ 37. Kb4 Qf6 38. Kb5 Qd6 39. b4
+a5 40. Qc6 Qd2 41. c3 axb4 42. axb4 Qf2 43. Qe4 f6 44. Qf3 Qxh4 45. Kxb6 Qe1
+46. Qc6 Kg6 47. b5 h4 48. c4 Qe5 49. c5 Qe7 50. Ka6 Qe2 51. Qd5 f5 52. c6 Qe7
+53. c7 1-0

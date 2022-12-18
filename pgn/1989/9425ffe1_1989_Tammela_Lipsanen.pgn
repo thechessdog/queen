@@ -1,0 +1,24 @@
+[Event "Tampere op"]
+[Site "Tampere"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Tammela, Kari"]
+[Black "Lipsanen, Esa"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "9425ffe1"]
+[Epoch "Queen"]
+[WhiteID "501018"]
+[WhiteCountry "FIN"]
+[BlackID "500887"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Bxf6 exf6 8.
+Nf3 Bg4 9. Bxc4 Bb4 10. O-O O-O 11. Be2 Qa5 12. h3 Bxf3 13. Bxf3 Bxc3 14. bxc3
+Qxc3 15. Rc1 Qa5 16. Bxc6 bxc6 17. Qc2 Rfd8 18. Rfe1 g6 19. Re7 Qb4 20. Qc5
+Qxd4 21. Qxd4 Rxd4 22. Rxc6 Rd1+ 23. Kh2 Rd2 24. Rcc7 Rf8 25. Rxa7 Rxf2 26. a4
+Ra2 27. a5 f5 28. a6 f4 29. Kg1 Kg7 30. Rec7 g5 31. Rd7 Kg6 32. Rd6+ f6 33. Rc7
+f3 34. gxf3 Rb8 35. Rc1 Rbb2 36. h4 gxh4 37. Rd4 Rg2+ 38. Kf1 Rgf2+ 39. Kg1
+Rg2+ 40. Kf1 h3 41. Rh4 h2 0-1

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stopp"]
+[Black "Schaefer, J."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "671e31a6"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O
+8. Nge2 Nbd7 9. Nf4 Nb6 10. Bb3 Bg4 11. f3 Bc8 0-1
+

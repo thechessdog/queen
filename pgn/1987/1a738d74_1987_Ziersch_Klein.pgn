@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ziersch, H."]
+[Black "Klein, L."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "1a738d74"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. c3 Nxe4 8.
+Nxe5 Nxe5 9. Qe2 d5 10. f3 Nxf3+ 11. Qxf3 Be6 12. d4 O-O 13. Nd2 Nf6 14.
+Qd3 g6 15. Nf3 c5 16. dxc5 Bxc5+ 17. Nd4 Ne4 18. Kh1 Qh4 19. g3 Qh3 20. Bf4
+Rad8 21. Qf3 Bg4 22. Qg2 Qh5 23. Bd1 Bxd4 24. cxd4 Rc8 25. Bxg4 Qxg4 26.
+Rac1 Rxc1 27. Rxc1 Rc8 28. Rxc8+ Qxc8 29. Qe2 Qc4 30. Qxc4 bxc4 31. Kg2 g5
+32. Bc7 f5 33. Kf3 Kf7 34. Ke3 Ke6 35. Ke2 c3 36. Kd3 cxb2 37. Kc2 Nd6 38.
+Kxb2 f4 39. gxf4 gxf4 40. Kc2 f3 41. Kd2 Ne4+ 42. Ke3 f2 43. Ke2 Kd7 44.
+Ba5 Kc6 45. a4 Kd7 46. Bb4 Ke6 47. Ba5 Kf5 48. h3 Ng5 49. Kxf2 Nxh3+ 50.
+Ke3 Kg4 51. Kd3 Kf3 52. Kc3 Nf4 53. Bb6 Ne6 54. Kb4 h5 55. Ka5 h4 56. Kxa6
+h3 57. Kb7 h2 58. a5 h1=Q 59. a6 Qh7+ 60. Kc6 Ke4 61. a7 Nd8+ 0-1
+

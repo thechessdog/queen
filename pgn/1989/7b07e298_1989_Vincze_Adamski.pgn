@@ -1,0 +1,21 @@
+[Event "Kobanya"]
+[Site "Kobanya"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vincze, Istvan"]
+[Black "Adamski, Jan"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "7b07e298"]
+[Epoch "Queen"]
+[WhiteID "701408"]
+[BlackID "1100190"]
+[WhiteCountry "HUN"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 Nc6 10. a3 Bd6 11. Qd3 e5 12. d5 e4 13. Nxe4 Ne5 14. Nxf6+ Qxf6
+15. Qd4 Bd7 16. Be3 Rfc8 17. Bb3 Bb5 18. Qd2 Nf3+ 19. gxf3 Bxe2 20. Qxe2 Qg6+
+21. Kh1 Qh5 0-1

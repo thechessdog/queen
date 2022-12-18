@@ -1,0 +1,19 @@
+[Event "BL2-SW8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Falk, Ulrich, Prof. Dr."]
+[Black "Sandmeier, Toni"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "bf616987"]
+[Epoch "Queen"]
+[WhiteID "4606850"]
+[BlackID "4606060"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 d6 5. d4 Bd7 6. b3 Be7 7. Bb2 O-O 8. d5
+Nb8 9. Be2 a5 10. c5 Na6 11. cxd6 Bxd6 12. O-O Qe7 13. Nd2 Nc5 14. Nc4 Nfe4 15.
+Nxe4 Nxe4 16. Rc1 b5 17. Nxd6 cxd6 18. f4 f6 19. Bd3 1/2-1/2

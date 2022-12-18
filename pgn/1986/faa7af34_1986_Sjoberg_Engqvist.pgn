@@ -1,0 +1,27 @@
+[Event "Vallingby"]
+[Site "Vallingby"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sjoberg, Mats"]
+[Black "Engqvist, Thomas"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "faa7af34"]
+[Epoch "Queen"]
+[WhiteID "1700375"]
+[BlackID "1700332"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Be7
+8. O-O O-O 9. Re1 Bd6 10. Qe4 Qa5 11. d3 Qh5 12. Bf4 Bxf4 13. Qxf4 Nd7 14. Re7
+Qc5 15. Rae1 Ne5 16. R1xe5 fxe5 17. Qxe5 Qxe5 18. Nxe5 Be6 19. Bxe6 fxe6 20.
+Rxb7 Rab8 21. Rxb8 Rxb8 22. b3 Rb5 23. Nc4 g5 24. f3 Kg7 25. a4 Rf5 26. Kf2 h5
+27. Ke3 Kf6 28. Nd6 Rd5 29. Ne4+ Kg6 30. h3 Rd8 31. Nc5 Kf5 32. g4+ hxg4 33.
+hxg4+ Kf6 34. Ne4+ Kg6 35. Nc5 Rh8 36. Nd7 Rh2 37. c3 Kg7 38. Kd4 Rf2 39. Ke3
+Rc2 40. Kd4 a5 41. Kc4 Re2 42. d4 Re3 43. b4 axb4 44. cxb4 Kf7 45. Ne5+ Ke8 46.
+a5 Ke7 47. Nxc6+ Kd6 48. Ne5 Kc7 49. b5 Ra3 50. Kb4 Ra1 51. Nc4 Rf1 52. a6 Rxf3
+53. b6+ Kc8 54. Ne5 Rf1 55. b7+ Kc7 56. Nd7 Rb1+ 57. Kc4 Kxd7 58. a7 Rxb7 59.
+a8=Q 1-0

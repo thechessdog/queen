@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bjerring, Kai"]
+[Black "Hoi, Carsten"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "2f7e711c"]
+[Epoch "Queen"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O Qe7 11. Bb5 Nb6 12. Rhe1 Bd7 13. Nb3 Bxe3 14. Rxe3
+Rfd8 15. Rh3 Nc4 16. Qd3 g6 17. Bxc4 Nb4 18. Qe3 dxc4 19. Qc5 Qxc5 20. Nxc5 Bc6
+21. a3 Rxd1+ 22. Nxd1 Nd5 23. Rf3 Ne7 24. Rf2 Rc8 25. g3 b6 26. Na6 Bb7 27. Nb4
+a5 28. Na2 b5 29. Ne3 Kf8 30. Rd2 Nd5 31. Nxd5 Bxd5 32. Nc3 Bc6 33. Ne2 Ke7 34.
+Rd6 b4 35. Nd4 Bd7 36. axb4 axb4 37. Rb6 b3 38. cxb3 cxb3+ 39. Kd2 h5 40. h4 f6
+41. exf6+ Kxf6 42. Rxb3 Rc4 43. Ke3 Rc1 44. Rb7 Bc8 45. Rb8 Bd7 46. Nf3 Bc6 47.
+Rc8 Rc4 48. Ne5 Re4+ 49. Kf2 Bd5 50. Rc7 Rxe5 51. fxe5+ Kxe5 52. Ke3 Kf5 53.
+Kd4 Bg2 54. Rc5+ 1-0

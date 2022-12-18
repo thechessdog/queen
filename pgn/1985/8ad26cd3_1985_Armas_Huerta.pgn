@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "11"]
+[White "Armas Gutierrez, Jorge Enrique"]
+[Black "Huerta, Ramon"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, Leningrad variation"]
+[HashCode "8ad26cd3"]
+[Epoch "Queen"]
+[WhiteID "3500101"]
+[WhiteCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 cxd4 7. cxd4 Nc6 8. Ne2
+Nb6 9. O-O Bd7 10. Nf3 Be7 11. g3 a5 12. h4 Nb4 13. Bb1 a4 14. a3 Nc6 15. Bd3
+Na5 16. Bd2 Nbc4 17. Bc3 Nb3 18. Rb1 Qb6 19. Bxc4 dxc4 20. Nd2 Bb5 1/2-1/2

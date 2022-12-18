@@ -1,0 +1,17 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "Boguszlavszky, Jevgenyij"]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "3bc3d3c3"]
+[Epoch "Queen"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Nd2 Nxg3 10. hxg3 c6 11. e3 Qf6 12. Bd3 Bf5 13. Qf3 1-0

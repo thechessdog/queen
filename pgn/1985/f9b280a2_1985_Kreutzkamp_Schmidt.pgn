@@ -1,0 +1,18 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kreutzkamp, Reinhold"]
+[Black "Schmidt, Gerhardt"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f9b280a2"]
+[Epoch "Queen"]
+[WhiteID "4606230"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. Bxc3 e4 10. Ne5 Nxe5 11. dxe5 Ne7 12. Qe2 Bf5 13. Rd1 Qc5 14. Qb5+
+Qxb5 15. Bxb5+ 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cunnac"]
+[Black "Sarran"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "f1b2e6b3"]
+[Epoch "Queen"]
+
+1. e4 e6 2. e5 d5 3. c3 c5 4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. f4 Nc6 7. Ne2 Nh6
+8. Ng3 Be7 9. h4 d4 10. Qf3 O-O 11. Ne4 Qd5 12. d3 f5 13. exf6 Bxf6 14. c4
+Qd8 15. h5 Be7 16. Qh3 Nf5 17. g4 Nb4 18. Na3 Ne3 19. Ke2 Rxf4 20. Rg1 Rxe4
+21. dxe4 d3+ 22. Kf2 Bh4+ 0-1
+

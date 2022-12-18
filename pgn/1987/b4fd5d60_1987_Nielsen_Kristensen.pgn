@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Kristensen, Bjarke Hautop"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b4fd5d60"]
+[Epoch "Queen"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. f4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bb5+ Bd7 7. Qe2+ Be7
+8. Bxd7+ Qxd7 9. Nf3 O-O 10. O-O Nc6 1/2-1/2

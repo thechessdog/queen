@@ -1,0 +1,20 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "62c6ad98"]
+[Epoch "Queen"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 Nc6 10. a4 Qd7 11. O-O dxc4 12. bxc4 e5 13. dxe5 Nxe5 14. Nb5 Rad8
+15. Qc2 c6 16. Bb2 Rfe8 17. Rad1 Qe7 18. Nd4 c5 19. Nf5 Qe6 20. e4 Nc6 21. f3
+g6 22. Qc1 Nh5 23. g4 gxf5 24. gxf5 Qe7 25. f6 Qe6 26. Rxd8 Rxd8 27. Qg5+ Kf8
+28. Qxh5 Nd4 29. Bxd4 Rxd4 30. e5 Ke8 31. f4 Bxc4 32. Bg4 Qc6 33. Qxh7 Be6 34.
+Qg8+ 1-0

@@ -1,0 +1,19 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heinsohn, Thomas"]
+[Black "Sapi, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation, 6.O-O"]
+[HashCode "c5f4e3f3"]
+[Epoch "Queen"]
+[WhiteID "4641043"]
+[WhiteCountry "GER"]
+[BlackID "701513"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O Nc6 7. Nc3 a6 8. dxc5
+Qxd1 9. Rxd1 Bxc5 10. a3 Ke7 11. b4 Bd6 12. Bb2 Rd8 13. Kf1 Bd7 14. Bb3 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Holm, Jesper"]
+[Black "Erhard, Steen"]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "574c0863"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. a3 Qe7 7. b4 Nxe5
+8. e3 Ned3+ 9. Bxd3 Nxd3+ 10. Ke2 d5 11. Kxd3 Qf6 12. Nd4 dxc4+ 13. Nxc4
+Bf5+ 14. Ke2 O-O-O 15. Bb2 Qg6 16. Qb3 Qg4+ 17. Kf1 h5 18. Ne5 Qe4 19. Nxf5
+Qxf5 20. Bd4 Be7 21. Qc3 Bd6 22. Rc1 Rhe8 23. Nc4 Re7 24. Nxd6+ Rxd6 25.
+Qc2 Qb5+ 26. Ke1 Rxd4 27. Qc5 1/2-1/2
+

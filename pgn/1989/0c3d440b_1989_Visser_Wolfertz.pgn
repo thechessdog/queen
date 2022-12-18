@@ -1,0 +1,16 @@
+[Event "corr SOK/87"]
+[Site "corr SOK/87"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Visser"]
+[Black "Wolfertz"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "0c3d440b"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 c5 3. bxc5 Nc6 4. e3 Bxc5 5. Nf3 f6 6. d4 Qb6 7. dxc5 Qxb2
+8. Nbd2 Qc3 9. Bc4 Na5 10. Bxg8 Rxg8 11. O-O Qxc5 12. Ne4 Qc7 13. Qd5 Rf8
+14. c4 Nc6 15. Nd6+ Kd8 16. Rfd1 b6 17. Nb5 Qb8 18. Qxc6 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heino"]
+[Black "Makola"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "61d6c85c"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nc6 3. g3 Bf5 4. Bd2 Nf6 5. e3 a6 6. c4 e5 7. dxe5 Ng4 8.
+cxd5 Qxd5 9. Nc3 Qd7 10. Bg2 Bc5 11. O-O Rd8 12. e4 Bg6 13. Bh3 h5 14. Qb3
+h4 15. e6 Qd3 16. Bxg4 hxg3 17. Bf4 gxf2+ 18. Kg2 Bxe4 19. exf7+ Kf8 20.
+Rad1 Bxf3+ 21. Bxf3 Qg6+ 22. Bg3 Qf5 23. Rxd8+ Nxd8 24. h4 Ne6 25. Ne4 Bd4
+26. Qxb7 g5 27. Nxf2 gxh4 28. Bg4 Nf4+ 29. Kf3 Qd5+ 30. Qxd5 Nxd5 31. Bh2
+Ne3 32. Rc1 Nxg4 33. Nxg4 Kxf7 34. Rxc7+ Ke6 35. b4 1-0
+

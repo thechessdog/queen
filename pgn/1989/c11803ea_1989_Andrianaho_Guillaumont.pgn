@@ -1,0 +1,16 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andrianaho, S."]
+[Black "Guillaumont, M."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "c11803ea"]
+[Epoch "Queen"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Bg5 c6 5. f4 Nbd7 6. Nf3 Qa5 7. Bd3 Bg7 8. Qd2
+O-O 9. O-O-O b5 10. Kb1 Nb6 11. e5 Nfd5 12. Nxd5 Qa4 13. Nxe7+ Kh8 14. Bf6 Bxf6
+15. exf6 Nc4 16. Bxc4 bxc4 17. f5 Rb8 18. Qh6 Rxb2+ 19. Kxb2 Qb4+ 20. Kc1 1-0

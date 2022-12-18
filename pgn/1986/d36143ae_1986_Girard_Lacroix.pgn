@@ -1,0 +1,19 @@
+[Event "Mauricie"]
+[Site "Mauricie"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Girard, Robin"]
+[Black "Lacroix, Serge"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "d36143ae"]
+[Epoch "Queen"]
+[BlackID "2605643"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nf6 9. h3 Nb4 10. Be2 Bf5 11. a3 Nc2 12. Nh4 Be4 13. f3 Nxa1 14. fxe4 Nxe4 15.
+Nf5 Bf6 16. Nc3 g6 17. Ne3 Ng3 18. Rxf6 Qxf6 19. Nexd5 Qd8 20. Bf4 Nxe2+ 21.
+Qxe2+ Kd7 22. Bxc7 Qg5 23. Bf4 Qd8 24. Qe5 Rc8 25. Qd6+ 1-0

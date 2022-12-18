@@ -1,0 +1,19 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kivisto, Mikko"]
+[Black "Paavilainen, Jorma"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "2b2d523a"]
+[Epoch "Queen"]
+[WhiteID "5800803"]
+[BlackID "500232"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. f4 Be7 8. O-O
+O-O 9. Be3 d5 10. exd5 exd5 11. Be2 Re8 1/2-1/2

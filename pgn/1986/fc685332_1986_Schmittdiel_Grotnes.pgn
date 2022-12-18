@@ -1,0 +1,21 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Schmittdiel, Eckhard"]
+[Black "Grotnes, Nils"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "fc685332"]
+[Epoch "Queen"]
+[WhiteID "4600096"]
+[BlackID "1500317"]
+[WhiteCountry "GER"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Qb6 5. Nf3 Bd7 6. Qb3 Qxb3 7. axb3 Nc6 8. dxc5
+Bxc5 9. b4 Bb6 10. b5 Nce7 11. h4 h5 12. Bd3 Nh6 13. Be3 Bxe3 14. fxe3 Ng4 15.
+Ke2 f6 16. exf6 gxf6 17. Nbd2 e5 18. e4 f5 19. exd5 e4 20. Bc4 exf3+ 21. Nxf3
+Ng6 22. Rhe1 Ke7 0-1

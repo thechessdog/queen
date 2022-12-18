@@ -1,0 +1,24 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kokkila, Tero"]
+[Black "Franssila, Tommi"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "f3135a69"]
+[Epoch "Queen"]
+[WhiteID "501352"]
+[BlackID "502162"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+Be6 9. a5 Nbd7 10. h3 Be7 11. g4 Qc6 12. Ng5 Bc4 13. Bxc4 Qxc4 14. Ra4 Qc6 15.
+O-O h6 16. Nf3 b5 17. axb6 Nxb6 18. Rb4 Nc4 19. Qd3 Rc8 20. Nd5 Nxe3 21. Nxe3
+Nd7 22. Rc4 Nc5 23. Qd5 Qxd5 24. Nxd5 Rb8 25. b4 Ne6 26. Ra1 h5 27. Rxa6 hxg4
+28. hxg4 Rh6 29. c3 Rg6 30. Nh2 f6 31. f3 Nf4 32. Nxf4 exf4 33. Nf1 Rh6 34. Rc7
+Rh3 35. Kg2 Rh7 36. Nd2 g6 37. Raa7 Kf8 38. Nb3 Rd8 39. Nd4 Re8 40. Ne6+ Kg8
+41. Nxf4 1-0

@@ -1,0 +1,19 @@
+[Event "Arcidosso ch-ITA"]
+[Site "Arcidosso ch-ITA"]
+[Date "1985.01.01"]
+[Round "13"]
+[White "Bellia, Fabrizio"]
+[Black "Zichichi, Alvise"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "fc14a890"]
+[Epoch "Queen"]
+[WhiteID "800511"]
+[BlackID "800481"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 d6 8. O-O
+Bd7 9. Re1 1/2-1/2

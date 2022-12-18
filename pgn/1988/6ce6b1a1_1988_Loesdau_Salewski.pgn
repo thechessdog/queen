@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Loesdau"]
+[Black "Salewski"]
+[Result "0-1"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "6ce6b1a1"]
+[Epoch "Queen"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. d4 d6 7. O-O Qe8 8.
+b3 a5 9. Re1 e5 10. dxe5 dxe5 11. Bb2 e4 12. Nd4 Bc5 13. e3 Bd7 14. Ncb5
+Na6 15. a3 c6 16. Nc3 b5 17. cxb5 cxb5 18. Nce2 Rc8 19. Qd2 b4 20. a4 Bb6
+21. Rab1 Nc5 22. Rec1 Qe7 23. Ba1 Rfd8 24. Rc2 Ng4 25. Nf4 Qf7 26. Bf1 Ne5
+27. Bc4 Nxc4 28. Rxc4 Nxb3 29. Rxb3 Qxc4 30. Qa2 Bxd4 31. Bxd4 Be8 32. h4
+Bf7 0-1
+

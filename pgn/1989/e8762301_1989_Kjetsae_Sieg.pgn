@@ -1,0 +1,21 @@
+[Event "BL2-N8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "?"]
+[White "Kjetsae, Johnny"]
+[Black "Sieg, Martin"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "e8762301"]
+[Epoch "Queen"]
+[BlackID "4614755"]
+[BlackCountry "GER"]
+[WhiteID "4623819"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O b5 10. Bxb5 axb5 11. e5 Bb7 12. Qh3 dxe5 13. Nxe6 Qc6 14. Nxf8
+Nxf8 15. Rhe1 Ne6 16. Rxe5 b4 17. Nb5 O-O 18. Bxf6 Nxf4 19. Qg4 Qxf6 20. Rf5
+Ne2+ 21. Kd2 Rad8+ 22. Kxe2 Qe6+ 0-1

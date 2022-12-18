@@ -1,0 +1,23 @@
+[Event "Benidorm open"]
+[Site "Benidorm open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Timmer, Robert"]
+[Black "Bass, Leonid"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "70c2c92c"]
+[Epoch "Queen"]
+[WhiteID "1001051"]
+[WhiteCountry "NED"]
+[BlackID "2000300"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Bg5 g6 3. e3 Bg7 4. Bd3 Nf6 5. Nd2 O-O 6. f4 c5 7. c3 Qb6 8. Rb1
+Bg4 9. Ngf3 cxd4 10. exd4 h6 11. Bxf6 Qxf6 12. g3 Bh3 13. Ne5 Nc6 14. Qf3 Qe6
+15. Kf2 Nxe5 16. dxe5 f6 17. exf6 Rxf6 18. Rhe1 Qb6+ 19. Qe3 d4 20. cxd4 Re6
+21. Nc4 Rxe3 22. Nxb6 Rxe1 23. Nxa8 Rxb1 24. Bxb1 Bxd4+ 25. Kf3 g5 26. fxg5
+hxg5 27. Be4 b6 28. Nc7 Bxb2 29. Bd5+ Kg7 30. Bc4 Be5 31. Ne6+ Kf6 32. g4 b5
+33. Bb3 Bxh2 34. Nf8 Bf1 35. Nh7+ Kg6 36. Bc2+ Kh6 37. Nf8 Bc4 38. a4 b4 39.
+Nd7 Bd6 0-1

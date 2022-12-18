@@ -1,0 +1,16 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petrovic, Marija"]
+[Black "Pihajlic, Amalija"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "84e7303c"]
+[Epoch "Queen"]
+[BlackID "911011"]
+[BlackCountry "SRB"]
+
+1. Nf3 g6 2. d4 Bg7 3. c3 d6 4. Bg5 Nd7 5. e3 h6 6. Bh4 c6 7. Nbd2 f5 8. Nc4 b5
+9. Nxd6+ Kf8 10. Qb3 1-0

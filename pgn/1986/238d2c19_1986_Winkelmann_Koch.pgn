@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Winkelmann, H."]
+[Black "Koch, H."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "238d2c19"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4 c5
+8. Ne2 Bd7 9. Bf4 Qxd1 10. Rxd1 O-O-O 11. Nbc3 Ne7 12. Rd2 Ng6 13. Bg3 f6
+14. Rad1 Ne5 15. Nd5 Bd6 16. b3 Bg4 17. f3 Bh5 18. Bxe5 fxe5 19. Ng3 Bg6
+20. Nf1 b5 21. Nfe3 Rhf8 22. c4 c6 23. Nb6+ 1-0
+

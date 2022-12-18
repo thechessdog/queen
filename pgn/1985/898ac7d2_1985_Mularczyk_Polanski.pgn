@@ -1,0 +1,19 @@
+[Event "corr Czerniskova mem"]
+[Site "corr Czerniskova mem"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mularczyk"]
+[Black "Polanski"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "898ac7d2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 a6 7. f4 Nbd7 8.
+Qf3 h6 9. Bh4 Qc7 10. O-O-O b5 11. Bd3 b4 12. Nd5 exd5 13. exd5 Be7 14.
+Rhe1 Kf8 15. Re2 Nc5 16. Bf5 Bxf5 17. Nxf5 Bd8 18. Rde1 Rc8 19. g4 g6 20.
+Ne7 Bxe7 21. Rxe7 Ncd7 22. R1e2 Qc4 23. Bf2 g5 24. fxg5 hxg5 25. Bg3 Rh3
+26. b3 Qd4 27. Qf5 Qg1+ 28. Kd2 Rxg3 29. hxg3 Rc5 0-1
+

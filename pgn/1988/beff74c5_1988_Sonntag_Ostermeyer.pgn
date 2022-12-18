@@ -1,0 +1,19 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sonntag, Hans-Hubert"]
+[Black "Ostermeyer, Peter, Dr."]
+[Result "1/2-1/2"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "beff74c5"]
+[Epoch "Queen"]
+[BlackID "4600355"]
+[BlackCountry "GER"]
+[WhiteID "4601025"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 c5 7. Ne2 cxd4 8. exd4
+O-O 9. O-O d5 10. Bg5 Be7 11. Be3 dxc4 12. Bxc4 Nc6 13. a3 Na5 1/2-1/2

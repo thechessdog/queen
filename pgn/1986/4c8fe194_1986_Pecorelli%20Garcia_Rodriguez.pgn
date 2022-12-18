@@ -1,0 +1,21 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pecorelli Garcia, Humberto"]
+[Black "Rodriguez Cespedes, Amador"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "4c8fe194"]
+[Epoch "Queen"]
+[WhiteID "3500233"]
+[WhiteCountry "CUB"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 h6 5. Bh4 b6 6. Nbd2 Bb7 7. c3 Be7 8. Bd3
+O-O 9. Rg1 d5 10. Qb1 Nfd7 11. Bg3 Nc6 12. Bf4 cxd4 13. exd4 Bf6 14. Bb5 Qe7
+15. Bxc6 Bxc6 16. Qc2 Rfc8 17. O-O-O b5 18. Kb1 b4 19. cxb4 Qxb4 20. Qb3 Be7
+21. Qxb4 Bxb4 22. Nb3 a5 23. Nc1 Ba4 24. b3 Bb5 25. Nd3 Ba3 26. Bc1 Bd6 27. a4
+Ba6 28. Bb2 Nf6 29. Nfe1 0-1

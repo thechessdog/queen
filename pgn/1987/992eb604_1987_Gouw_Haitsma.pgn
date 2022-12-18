@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gouw"]
+[Black "Haitsma"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "992eb604"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Ne4 6. Qd3 cxd4 7. Nxd4 Qa5
+8. Nb3 Qf5 9. Qe3 O-O 10. Bg2 Nxc3 11. bxc3 Be7 12. c5 d5 13. cxd6 Bxd6 14.
+O-O Nc6 15. Rd1 Be7 16. Nd4 Nxd4 17. cxd4 Qa5 18. Bd2 Qa4 19. d5 Bf6 20.
+Bc3 Bxc3 21. Qxc3 exd5 22. Bxd5 Qe8 23. e4 Qe7 24. Rab1 Rb8 25. Rdc1 Bh3
+26. Qc7 Qa3 27. Rb3 Qa4 28. Rxb7 Rbc8 29. Qf4 Kh8 30. Re1 1-0
+

@@ -1,0 +1,15 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Honfi, Karoly"]
+[Black "Kovacs"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "2a82ade8"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. b3 d6 3. Bb2 Nf6 4. Nc3 Nc6 5. f4 a6 6. Nf3 b5 7. Bd3 Qb6 8. e5 Nh5
+9. Nd5 Qb7 10. Ng5 e6 11. Qxh5 exd5 12. e6 Qe7 13. O-O g6 14. exf7+ 1-0

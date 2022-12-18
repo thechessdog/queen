@@ -1,0 +1,18 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Haikola, Ilkka"]
+[Black "Heinola, Kari P."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Mokele Mbembe (Buecker) variation"]
+[HashCode "3e995222"]
+[Epoch "Queen"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 Nf6 2. e5 Ne4 3. g3 d6 4. Bg2 Nc5 5. d4 Ne6 6. exd6 cxd6 7. Ne2 Nd7 8. f4
+g6 9. f5 Qa5+ 10. Nbc3 Qxf5 11. Nd5 Nf6 12. Rf1 Qh5 13. Rxf6 Qxh2 14. Rf2 Bg7
+15. Nc7+ 1-0

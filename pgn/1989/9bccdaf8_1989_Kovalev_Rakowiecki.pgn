@@ -1,0 +1,22 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Rakowiecki, Tomasz"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "9bccdaf8"]
+[Epoch "Queen"]
+[WhiteID "13500023"]
+[WhiteCountry "BLR"]
+[BlackID "1100955"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. Rg1 Nb6 10. Qe2 Nxd4 11. Bxd4 e5 12. Bxb6 Qxb6 13. O-O-O Be6 14. Nd5 Qa5
+15. Kb1 Rc8 16. Rg3 Bxd5 17. Rxd5 Rc5 18. Ra3 Qb6 19. Rxc5 dxc5 20. Qg4 O-O 21.
+Bc4 a6 22. Bd5 c4 23. Rf3 c3 24. Rxc3 Qxf2 25. a3 Qxh2 26. Rc7 Bd6 27. Rxb7 Qf4
+28. Qd7 Bc5 29. Qc6 Qf2 30. Rc7 1-0

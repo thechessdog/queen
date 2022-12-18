@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Janzer"]
+[Black "Gerber, Richard"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "c5183eea"]
+[Epoch "Queen"]
+[BlackID "1300652"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nf5 Bxf5 8.
+exf5 d5 9. Bg2 Bb4 10. O-O 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Gausdal Int"]
+[Site "Gausdal Int"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Eilertsen, Jens B."]
+[Black "Hanssen, J."]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "7c69eb29"]
+[Epoch "Queen"]
+[WhiteID "1500910"]
+[WhiteCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. dxc5 Nxc5 10. Bd3 Nc6 11. O-O Nxd3 12. cxd3 O-O 13. d4 f5 14. exf6 Qxf6
+15. Ne5 Nxe5 16. fxe5 Qxf1+ 17. Qxf1 Rxf1+ 18. Rxf1 Bd7 19. Kf2 Kf7 20. Ke3+
+Ke7 21. Rf4 Rc8 22. Rg4 Rg8 23. Ne2 Be8 24. Rg3 Bf7 25. Kd2 Be8 26. Nf4 Bf7 27.
+Rb3 Rb8 28. Rb6 1-0

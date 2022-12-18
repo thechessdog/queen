@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Melton, R."]
+[Black "Vierhuff, C."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f4f08121"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 a6 7. O-O Nf6
+8. Qe2 Bg4 9. Rd1 Bxf3 10. gxf3 e6 11. f4 Qc7 12. f5 Na5 13. Bd3 exf5 14.
+Nd5 Qd8 15. Bg5 fxe4 16. Bxf6 gxf6 17. Qxe4+ Be7 18. Re1 Nc6 19. Nxe7 Nxe7
+20. Qxb7 Rb8 21. Rxe7+ 1-0
+

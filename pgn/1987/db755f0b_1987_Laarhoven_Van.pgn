@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Laarhoven"]
+[Black "Van Arkel"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "db755f0b"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d3 e5 3. f4 Nf6 4. Be2 d5 5. exd5 Nxd5 6. fxe5 Nxe5 7. Bf3 Be7
+8. Bd2 O-O 9. Nc3 Be6 10. Qe2 Nxf3+ 11. Nxf3 Re8 12. O-O Nxc3 13. Bxc3 Bxa2
+14. Qf2 Bd5 15. Rxa7 Rxa7 16. Qxa7 c5 17. Qa4 Bd6 18. Qg4 g6 1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Greer, Ken"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "4ab98a32"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qxd4 Bb6 8. Qg4
+Ne7 9. Bd3 Qc7 10. Nge2 Qxe5 11. O-O Ng6 12. Bxg6 hxg6 13. Bf4 Qh5 14. Qg3 d4
+15. Bxb8 dxc3 16. Nxc3 Bd4 17. Rad1 Bxc3 18. Qxc3 Rxb8 19. Qc7 Qh4 20. Qxb8 1-0

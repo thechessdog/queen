@@ -1,0 +1,21 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marinelli, Tullio"]
+[Black "Krajina, Davor"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "542fd65d"]
+[Epoch "Queen"]
+[WhiteID "800201"]
+[BlackID "14502917"]
+[WhiteCountry "ITA"]
+[BlackCountry "CRO"]
+
+1. d4 e6 2. c4 b6 3. Nc3 Bb7 4. e4 Bb4 5. Bd3 f5 6. Qh5+ g6 7. Qe2 Nf6 8. f3
+fxe4 9. fxe4 Bxc3+ 10. bxc3 Nxe4 11. Nf3 Nf6 12. O-O Qe7 13. Bg5 Rf8 14. Ne5
+Qg7 15. d5 Bc8 16. dxe6 dxe6 17. Rad1 Nfd7 18. Nxg6 Rxf1+ 19. Rxf1 Qg8 20. Qh5
+Nf6 21. Bxf6 hxg6 22. Bxg6+ Kd7 1-0

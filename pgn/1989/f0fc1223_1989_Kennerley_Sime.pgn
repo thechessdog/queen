@@ -1,0 +1,21 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kennerley"]
+[Black "Sime"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f0fc1223"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 Qb6 8.
+Nf3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nf4 O-O 13. Re1 Bd7 14.
+Be3 Ne4 15. Bxe4 Bxf4 16. Bc2 Qc7 17. Qd3 g6 18. a3 Rad8 19. Rac1 Rf6 20.
+Bxf4 Qxf4 21. Qe3 Rdf8 22. Ba4 a6 23. Qxf4 Rxf4 24. Bxc6 bxc6 25. Re3 Rb8
+26. g3 Rff8 27. b4 Rfc8 28. Ne5 Be8 29. Nd3 Bf7 30. Nc5 Rb6 31. Nxe6 Re8
+32. Nc5 Ra8 33. Re7 a5 34. Nd7 Rba6 35. bxa5 Rxa5 36. Rxc6 Rxa3 37. Rf6 Be8
+38. Rf8# 1-0
+

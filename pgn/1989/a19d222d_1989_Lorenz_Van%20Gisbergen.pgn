@@ -1,0 +1,27 @@
+[Event "Hamburg-chIJ"]
+[Site "Hamburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lorenz, Robin"]
+[Black "Van Gisbergen, Stan"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "a19d222d"]
+[Epoch "Queen"]
+[WhiteID "4610725"]
+[WhiteCountry "GER"]
+[BlackID "1002066"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d5 9. d3 Re8 10. exd5 Nxd5 11. Nxe5 Nxe5 12. Qxe5 Nf6 13. Bg5 Ng4 14. Bxe7 Nxe5
+15. Bxd8 Rxd8 16. d4 Nd3 17. Rd1 Nxb2 18. Rd2 Nc4 19. Bxc4 bxc4 20. Na3 Be6 21.
+Rad1 c6 22. Kf1 Rdb8 23. Re1 Rb7 24. Re5 Bd5 25. f3 Rab8 26. Ke1 g6 27. Ree2 h5
+28. Kd1 h4 29. Rf2 f5 30. f4 Kg7 31. g3 Rh8 32. gxh4 Rxh4 33. Kc1 Rh3 34. Nb1
+Kf6 35. Rb2 Rxb2 36. Kxb2 g5 37. Ka3 gxf4 38. Kb4 f3 39. Ka5 Kg5 40. Nd2 Kf4
+41. Nf1 Ke4 42. a4 Kd3 43. Kb4 a5+ 44. Kxa5 Kxc3 45. Ne3 Kxd4 46. Nc2+ Kd3 47.
+Kb6 c3 48. a5 Bb3 49. a6 Rh8 50. Ne1+ Ke3 51. Rxf3+ Kd2 52. a7 Bd5 53. Rf1 Ke2
+54. Rg1 Kf2 55. Rg3 Kxe1 56. Rxc3 f4 57. Rc5 f3 58. Kb7 f2 59. a8=Q Rxa8 60.
+Kxa8 f1=Q 61. Rc1+ Ke2 62. Rxf1 Kxf1 0-1

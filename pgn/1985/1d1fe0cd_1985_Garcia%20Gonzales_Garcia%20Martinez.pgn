@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Garcia Gonzales, Guillermo"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "1d1fe0cd"]
+[Epoch "Queen"]
+[BlackID "3500179"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bd2 Bb7 6. e3 O-O 7. Be2 d5 8. O-O
+dxc4 9. Bxc4 c5 10. a3 Bxc3 11. Bxc3 Ne4 1/2-1/2

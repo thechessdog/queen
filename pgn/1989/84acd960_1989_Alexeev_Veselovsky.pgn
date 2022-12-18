@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Alexeev, Anatoly"]
+[Black "Veselovsky, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "84acd960"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Nf3 Nf6 6. Bg5 O-O 7. Qc2 c6 8. e3
+Nbd7 9. Bd3 Re8 10. O-O Nf8 11. Ne5 Ng4 12. Bxe7 Qxe7 13. Nxg4 Bxg4 14. Bf5 Qg5
+15. Bxg4 Qxg4 16. Qe2 Qxe2 17. Nxe2 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cobbold"]
+[Black "Tanti"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "0d52a41d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Ng5 d5 8.
+exd5 Nd4 9. c4 Bc5 10. Re1 O-O 11. d3 1-0
+

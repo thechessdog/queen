@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Altemir"]
+[Black "Dos Santos"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "778b271f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 a6 5. Bxc6 dxc6 6. d3 Bg4 7. O-O e5
+8. h3 Bxf3 9. Qxf3 Be7 10. Qg3 Qc7 11. Qxg7 Rg8 12. Qh6 O-O-O 13. Bd2 Rg6
+14. Qe3 Rdg8 15. Qf3 Kb8 16. Ne2 Qd7 17. Ng3 Qe6 18. a4 b6 19. a5 b5 20. b3
+Bf8 21. Nf5 Rxg2+ 22. Kh1 R2g6 23. Rg1 Rxg1+ 24. Rxg1 Rxg1+ 25. Kxg1 c4 26.
+bxc4 bxc4 27. dxc4 Qxc4 1/2-1/2
+

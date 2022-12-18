@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sirotkina, Nina"]
+[Black "Bistrikova, Elena"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "2d98812a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. Be3
+Re8 9. dxe5 dxe5 10. h3 Qe7 11. Nd5 Nxd5 12. cxd5 Nd4 13. Rc1 f5 14. Nxd4 exd4
+15. Bxd4 fxe4 16. Bxg7 Qxg7 17. Qb3 Qe5 18. Rc5 Be6 19. Qxb7 e3 20. Qxc7 Qxc7
+21. Rxc7 Bxd5 22. Rd1 exf2+ 23. Kxf2 Rf8+ 24. Kg1 Rae8 25. Bb5 Rd8 26. Rxd5 1-0

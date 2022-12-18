@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Frumkin"]
+[Black "Lawhon"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "8248aff0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 cxd4 7. cxd4 Nc6 8.
+Ndf3 Qb6 9. Nh3 Bb4+ 10. Kf2 Be7 11. b3 f6 12. Be3 fxe5 13. fxe5 O-O 14.
+Nf4 Ncxe5 15. dxe5 Bc5 16. Nxd5 exd5 17. Qxd5+ Kh8 18. Re1 Bxe3+ 19. Rxe3
+Nc5 20. Kg3 Be6 21. Qd6 Qb4 22. Bc4 Rad8 23. Bxe6 Rxd6 24. exd6 Ne4+ 0-1
+

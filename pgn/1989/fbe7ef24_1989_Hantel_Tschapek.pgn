@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hantel"]
+[Black "Tschapek"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "fbe7ef24"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. Nd2 a5 9. a4 O-O 10. O-O b6 11. Ne4 Bb7 12. Nxf6+ Qxf6 13. Be4 Rab8 14.
+f4 cxd4 15. cxd4 Nb4 16. Bxb7 Rxb7 17. Ba3 Nc6 18. Bxd6 Rd8 19. c5 bxc5 20.
+Bxc5 Qg6 21. Qf3 Rd5 22. Rfc1 h5 23. Ra3 Rb2 24. Rac3 Nb4 25. e4 Rd8 26. f5
+exf5 27. exf5 Qg5 28. Qg3 Qxf5 29. Rf3 Qg4 1/2-1/2
+

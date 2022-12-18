@@ -1,0 +1,28 @@
+[Event "Lyon m"]
+[Site "Lyon"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Andruet, Gilles"]
+[Black "Bernard, Christophe"]
+[Result "0-1"]
+[ECO "A94"]
+[Opening "Dutch"]
+[Variation "stonewall with Ba3"]
+[HashCode "b05ab4a0"]
+[Epoch "Queen"]
+[BlackID "600385"]
+[BlackCountry "FRA"]
+[WhiteCountry "FRA"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 5. Nf3 Be7 6. O-O O-O 7. b3 c6 8. Ba3
+Nbd7 9. Qc1 Ne4 10. e3 a5 11. Ne1 b5 12. f3 Nd6 13. Bxd6 Bxd6 14. c5 Bc7 15. f4
+b4 16. a4 Ba6 17. Rf2 Nf6 18. Bf1 Ne4 19. Rg2 Bxf1 20. Kxf1 g5 21. Nd2 Qe7 22.
+Nd3 Kh8 23. Ra2 Rg8 24. Nf3 Qe8 25. Nf2 Nc3 26. Rc2 g4 27. Nd2 Qc8 28. Nb1 Qa6+
+29. Ke1 Ne4 30. Nxe4 fxe4 31. Qd2 Raf8 32. Qe2 Qxe2+ 33. Rcxe2 Rf5 34. Nd2 Rg6
+35. Nf1 Bd8 36. Rgf2 Kg7 37. Rc2 Kf6 38. Rfd2 Rh5 39. Rf2 Kf5 40. Rfd2 Rh3 41.
+Kf2 h5 42. Kg2 Rh6 43. Rf2 h4 44. Rc1 hxg3 45. hxg3 Rh1 46. Rcc2 R6h3 47. Rfe2
+Bf6 48. Rf2 Kg6 49. Rce2 Kh5 50. Re1 R3h2+ 51. Nxh2 Rxe1 52. f5 exf5 53. Rxf5+
+Bg5 54. Nf1 Rb1 55. Rf8 Rb2+ 56. Kg1 Rxb3 57. Rh8+ Bh6 58. Kf2 Rb2+ 59. Ke1 Ra2
+60. Rb8 Rxa4 61. Rb6 Ra2 62. Kd1 Rf2 63. Ke1 Rb2 64. Rxc6 a4 65. Ra6 a3 66. c6
+Rb1+ 67. Ke2 Rc1 68. Nd2 Rc3 69. Ra5 Rxe3+ 70. Kd1 Rd3 71. Rxd5+ Bg5 72. Rxg5+
+Kxg5 73. c7 a2 74. c8=Q a1=Q+ 75. Ke2 Re3+ 0-1

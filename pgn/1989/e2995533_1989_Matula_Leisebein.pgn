@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Matula, E."]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "e2995533"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 Bg7 6. O-O h6 7. c3 Nc6 8. Qb3
+Qe7 9. Re1 g4 10. Nbd2 gxf3 11. Nxf3 Qf6 12. e5 dxe5 13. Nxe5 Nxe5 14. dxe5 Qf5
+15. Bd2 Ne7 16. e6 Bxe6 17. Bxe6 fxe6 18. Rxe6 O-O-O 19. Rxe7 Qc5+ 0-1

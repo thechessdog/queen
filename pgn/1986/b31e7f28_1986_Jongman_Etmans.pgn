@@ -1,0 +1,23 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jongman, Riekent"]
+[Black "Etmans, Maarten"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "Balogh variation"]
+[HashCode "b31e7f28"]
+[Epoch "Queen"]
+[BlackID "1001345"]
+[BlackCountry "NED"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 Bf5 6. f4 d5 7. Be3 e6 8. Nd2
+N8d7 9. Ngf3 c5 10. dxc5 Bxc5 11. Nd4 Bxd4 12. Bxd4 Qh4+ 13. g3 Qh3 14. Qe2 O-O
+15. Qf2 Rfc8 16. O-O-O Rc7 17. Nf1 Rac8 18. Ne3 Be4 19. Rhg1 Nc5 20. Bxc5 Rxc5
+21. Rd4 Nd7 22. c3 b5 23. Bc2 Bxc2 24. Kxc2 Nb6 25. g4 b4 26. Rxb4 Nc4 27. Nxc4
+Rxc4 28. Rxc4 dxc4 29. Qg3 Qh6 30. Rf1 Rd8 31. b4 Qg6+ 32. Kc1 Rd3 33. Rf3 Qe4
+34. Rxd3 cxd3 35. Qf2 g5 36. fxg5 Qxe5 37. Kd2 Qxg5+ 38. Kxd3 Qd5+ 39. Ke3 Qc4
+40. Qd2 Qf1 41. Qe2 Qc1+ 42. Kd3 Kf8 43. a4 Qh1 44. Kc2 Qa1 45. Kb3 Ke7 46. b5
+Qb1+ 47. Ka3 Kd6 48. Qc4 e5 49. Qb4+ Qxb4+ 50. cxb4 f6 51. Kb3 1-0

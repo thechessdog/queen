@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Piegeler"]
+[Black "Dymek"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "e6a5ab78"]
+[Epoch "Queen"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Bb4+ 7. Nc3
+Bxc3+ 8. Bxc3 Nf6 9. Bxf6 Qxf6 10. Ne2 O-O 11. O-O c6 12. Bb3 0-1
+

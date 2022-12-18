@@ -1,0 +1,21 @@
+[Event "Hessen-ch"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Schaefer, Norbert"]
+[Black "Schoebel, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "00a52cbb"]
+[Epoch "Queen"]
+[WhiteID "4606353"]
+[BlackID "4604946"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. Bb2 Bg4 3. c4 c6 4. Qc2 e6 5. e3 Nf6 6. d4 Nbd7 7. Be2 Bxe2 8. Nxe2
+Bd6 9. Nbc3 O-O 10. O-O Qe7 11. Rac1 Rfc8 12. e4 Nxe4 13. Nxe4 dxe4 14. Qxe4
+Nf6 15. Qf3 Ba3 16. Bxa3 Qxa3 17. Nc3 Rd8 18. Rcd1 Qa5 19. Rfe1 Rd7 20. Re5 Qd8
+21. d5 cxd5 22. cxd5 Qc7 23. Ree1 exd5 1/2-1/2

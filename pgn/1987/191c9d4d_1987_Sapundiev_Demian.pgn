@@ -1,0 +1,22 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sapundiev, G."]
+[Black "Demian, V."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "191c9d4d"]
+[Epoch "Queen"]
+
+1. d4 g6 2. e4 Bg7 3. c4 Nc6 4. d5 Nd4 5. Ne2 c5 6. Nbc3 e5 7. d6 Nf6 8. f4
+exf4 9. Nxd4 cxd4 10. Qxd4 O-O 11. Qd3 Nh5 12. Bd2 Qh4+ 13. Kd1 b6 14. Kc2
+Bb7 15. Be2 Rfe8 16. Bf3 Rac8 17. Nb5 Re5 18. Nc7 Nf6 19. Rae1 Ne8 20. Nxe8
+Rexe8 21. Kb1 Ba6 22. Rc1 Qf6 23. Bc3 Qe6 24. Bxg7 Kxg7 25. b3 Qe5 26. Rhd1
+Bb7 27. Qd4 Rc5 28. Kb2 Qxd4+ 29. Rxd4 Rce5 30. b4 Bxe4 31. c5 Bxf3 32.
+gxf3 bxc5 33. Rxc5 Rxc5 34. bxc5 Rc8 35. Rd5 f5 36. h4 Kf6 37. Kc3 h6 38.
+Kc4 g5 39. hxg5+ hxg5 40. Kd4 Rg8 41. Re5 g4 42. Re1 Rc8 43. Rf1 Kg5 44. a4
+gxf3 45. Rxf3 Kg4 46. Rc3 f3 47. c6 dxc6 48. Rc1 f2 49. Ke3 Kg3 50. Ke2 f4
+51. d7 f3+ 0-1
+

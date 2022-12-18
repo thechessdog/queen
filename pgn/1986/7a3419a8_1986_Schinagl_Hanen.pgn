@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schinagl"]
+[Black "Hanen"]
+[Result "0-1"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "7a3419a8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. Bg5 h6 10. Bh4 g5 11. Bg3 Nh5 12. Nd2 Nxg3 13. hxg3 Nd7 14. Nc4
+Qe7 15. Qc2 Ne5 16. Ne3 Re8 17. Bb5 Bd7 18. Bxd7 Qxd7 19. Nf5 Nf3+ 20. Kf1
+Nd4 21. Nxd4 cxd4 22. Ne2 Qb5 23. Qd2 Rxe4 24. f3 Re7 25. Kf2 d3 26. Nc3
+Qb6+ 27. Kf1 Bxc3 28. Qxd3 Re3 29. Qc2 Bd4 30. Rc1 Qb5+ 31. Qc4 Rc8 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hahn, W."]
+[Black "Bierbach, U."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "0f188ff6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Bd6
+8. dxe5 e3 9. Ne4 exf2+ 10. Nxf2 Qe7 11. O-O Bc5 12. Kh1 Qh4 13. Nd3 Bg4
+14. Qb3 Be7 15. Qf7+ Kd7 16. Qxg7 Re8 17. Rf4 Nf6 18. exf6 Rhg8 19. Rd4+
+Ke6 20. f7 1-0
+

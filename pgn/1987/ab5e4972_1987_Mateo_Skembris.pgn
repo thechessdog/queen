@@ -1,0 +1,24 @@
+[Event "Prokuplje"]
+[Site "Prokuplje"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mateo, Ramon"]
+[Black "Skembris, Spyridon"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "ab5e4972"]
+[Epoch "Queen"]
+[WhiteID "6400019"]
+[WhiteCountry "DOM"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2 Nd7
+8. Ng3 Bg6 9. h4 h6 10. h5 Bh7 11. Bd3 Bxd3 12. Qxd3 e6 13. Bf4 Qa5+ 14. c3
+O-O-O 15. O-O Nb6 16. c4 Qa6 17. b3 c5 18. d5 Rxd5 19. Qc3 Rd7 20. Qxf6 Rh7 21.
+Ne4 Bg7 22. Qh4 Bxa1 23. Rxa1 Qa5 24. Qg3 Rh8 25. Nd6+ Rxd6 26. Bxd6 Rd8 27.
+Bf4 Nd7 28. Qg7 f6 29. Bxh6 Qc3 30. Rf1 Qe5 31. Qg6 Rh8 32. g4 Qe2 33. f3 f5
+34. Bg7 Rd8 35. h6 Kc7 36. gxf5 Qe3+ 37. Kh1 Qd3 38. Kg2 e5 39. h7 e4 40. Qg3+
+Kc6 41. h8=Q Rxh8 42. Bxh8 1-0

@@ -1,0 +1,20 @@
+[Event "Moscow1"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bokan, Danko"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "0f46fe3f"]
+[Epoch "Queen"]
+[BlackID "4100638"]
+[BlackCountry "RUS"]
+[WhiteID "909424"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Be7 9. c4 b4 10. Nc2 Rb8 11. Qd3 Nf6 12. Nxf6+ Bxf6 13. Be2 O-O 14. O-O Be6 15.
+b3 a5 16. a3 a4 17. axb4 Nxb4 18. Nxb4 Rxb4 19. bxa4 Bxc4 20. Qc3 1/2-1/2

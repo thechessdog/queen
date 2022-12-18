@@ -1,0 +1,19 @@
+[Event "Royan op"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Apicella, Manuel"]
+[Black "Guidez, Yann Michel"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "c763a518"]
+[Epoch "Queen"]
+[WhiteID "600164"]
+[WhiteCountry "FRA"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 g6 6. Be2 Bg7 7. h3 O-O 8. O-O
+a5 9. Nc3 c6 10. Be3 a4 11. Rc1 a3 12. b4 Be6 13. Qb3 f6 14. Rfd1 N8d7 15. d5
+cxd5 16. cxd5 Bf7 17. Nd4 Qb8 18. Ne6 Rc8 19. Bf4 Ne5 20. Nb5 g5 21. Be3 Nbd7
+22. Rxc8+ 1-0

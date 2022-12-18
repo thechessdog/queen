@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Holsapple, Boyd"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Pelikan variation"]
+[HashCode "35b4894c"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. Nc3 d5 3. f4 Nf6 4. e5 Nfd7 5. Nf3 c5 6. Be2 Nc6 7. O-O Be7 8. d3
+O-O 9. Ng5 a6 10. Rf3 b5 11. Rh3 h6 12. Bf1 Bb7 13. Qg4 Nd4 14. Rxh6 Nf5 15.
+Rh3 b4 16. d4 bxc3 17. Bd3 cxb2 18. Bxf5 bxa1=Q 19. Rh8+ Kxh8 20. Qh5+ 1-0

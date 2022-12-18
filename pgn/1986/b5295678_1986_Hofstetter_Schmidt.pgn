@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hofstetter, Hans Joachim"]
+[Black "Schmidt, H."]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "b5295678"]
+[Epoch "Queen"]
+[WhiteID "4630017"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. dxc5 Nxc5 10. Bd3 Nc6 11. Qd2 b5 12. O-O Bb7 13. Qe3 O-O 14. Bxh7+ Kxh7
+15. Ng5+ Kg6 16. Nxd5 exd5 17. f5+ Kh5 18. Rf4 1-0

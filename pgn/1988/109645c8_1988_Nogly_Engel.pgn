@@ -1,0 +1,19 @@
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "1988.??.??"]
+[Round "1"]
+[White "Nogly, Christoph"]
+[Black "Engel, Berthold"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "109645c8"]
+[Epoch "Queen"]
+[WhiteID "4610156"]
+[BlackID "4604717"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. Nc3 Qa5 6. b6 Ne4 7. Qb3 Bb7 8. f3
+Nxc3 9. bxc3 c4 10. Qxc4 Bxd5 11. Qc8# 1-0

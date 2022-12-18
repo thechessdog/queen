@@ -1,0 +1,24 @@
+[Event "Lombardia opA"]
+[Site "Tr Lombardia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Braunberger, Federico"]
+[Black "Trabattoni, Franco"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "083cc6cf"]
+[Epoch "Queen"]
+[WhiteID "804606"]
+[WhiteCountry "ITA"]
+[BlackID "800430"]
+[BlackCountry "ITA"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Ne4 5. cxd5 Nxc3 6. bxc3 Qxd5 7. Nf3 c5 8.
+Bb5+ Bd7 9. Bxd7+ Nxd7 10. O-O Be7 11. d4 cxd4 12. cxd4 O-O 13. Qe2 h6 14. Rb1
+Nb6 15. Be3 Rfc8 16. Rfc1 Ba3 17. Rxc8+ Rxc8 18. Rb3 Bf8 19. h3 Rc4 20. Nh4 Qe4
+21. Qd3 Qxd3 22. Rxd3 Nd5 23. Nf3 b5 24. Rb3 a6 25. Rb2 Ba3 26. Re2 a5 27. Ne1
+Rb4 28. Nd3 Rb1+ 29. Kh2 Nc3 30. Rc2 b4 31. Bd2 Nd5 32. Nc5 Rb2 33. Rxb2 Bxb2
+34. Nb7 a4 35. Nc5 b3 36. axb3 a3 37. b4 a2 38. Nb3 Bxd4 39. f4 a1=Q 40. Nxa1
+Bxa1 0-1

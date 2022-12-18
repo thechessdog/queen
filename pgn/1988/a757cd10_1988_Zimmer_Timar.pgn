@@ -1,0 +1,16 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zimmer, S."]
+[Black "Timar, Zsolt"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "a757cd10"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Na5 8.
+Qa4+ Bd7 9. Qc2 Qb6 10. Nf3 e6 11. O-O Bb5 0-1

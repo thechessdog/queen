@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "8"]
+[White "Kronsfoth, Stefan"]
+[Black "Radinger, R."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "7d08f0c1"]
+[Epoch "Queen"]
+[WhiteID "24612120"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Bf4 Nc6 6. c3 e6 7. Nf3 Bd6 8. Bg3
+O-O 9. O-O Bxg3 10. hxg3 Qd6 11. Re1 Bd7 12. Nbd2 Rac8 13. Qe2 a6 14. Rac1 Rfd8
+15. Ne5 Na5 16. g4 h6 17. f4 b5 18. g5 hxg5 19. fxg5 Ne8 20. Qh5 g6 21. Nxg6
+Ng7 22. Qh8# 1-0

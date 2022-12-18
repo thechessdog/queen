@@ -1,0 +1,20 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Rohde, Michael"]
+[Black "Benjamin, Joel"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "ab665fb2"]
+[Epoch "Queen"]
+[WhiteID "2000172"]
+[WhiteCountry "USA"]
+[BlackID "2000091"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 Nd4 6. Nxd4 cxd4 7. Bb2 Nc6 8.
+c3 Bc5 9. Qh5 Bb6 10. Ba3 d6 11. e5 dxe5 12. Qxe5 f6 13. Qe4 Kf7 14. Bxc6 bxc6
+15. Qxc6 Qd5 1/2-1/2

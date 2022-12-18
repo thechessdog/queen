@@ -1,0 +1,19 @@
+[Event "Prague op"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gross, Stefan"]
+[Black "Espig, Lutz"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "b26f9272"]
+[Epoch "Queen"]
+[BlackID "4611276"]
+[BlackCountry "GER"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Qf3 Qc7 8. g4
+Nc6 9. Be3 Nxd4 10. Bxd4 e5 11. fxe5 dxe5 12. Qg3 Bd6 13. Bg1 Bb4 14. Bg2 Bxg4
+15. Bd4 O-O-O 16. Bxe5 Qc4 17. Bf3 Bxf3 18. Qxf3 Rhe8 0-1

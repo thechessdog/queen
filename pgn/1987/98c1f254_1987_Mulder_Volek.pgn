@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mulder, B."]
+[Black "Volek, S."]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "98c1f254"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+Qb3 Bxc3+ 9. bxc3 dxc4 10. Qxc4 e5 11. Nb5 a6 12. Nc7 Ra7 13. Nd5 Nxd5 14.
+Bxd5 b5 15. Qe4 Rd7 16. Ba3 Rxd5 17. Bxf8 f5 18. Be7 fxe4 19. Bxd8 Rxd8 20.
+O-O Kf7 21. a4 Bg4 22. axb5 axb5 23. f3 exf3 24. exf3 Be6 25. f4 Bc4 26.
+Rf2 e4 27. Re1 Bd3 28. Ra2 Nc6 0-1
+

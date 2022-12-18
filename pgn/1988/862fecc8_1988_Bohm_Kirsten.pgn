@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bohm"]
+[Black "Kirsten"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "862fecc8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 d5 7. cxd5 exd5 8.
+O-O b6 9. Ng3 Qc7 10. e4 dxe4 11. Ncxe4 Nbd7 12. Qc2 Nd5 13. Nf5 Bb7 14.
+Qe2 N7f6 15. Bg5 Qc6 16. Bxf6 c4 17. Qg4 1-0
+

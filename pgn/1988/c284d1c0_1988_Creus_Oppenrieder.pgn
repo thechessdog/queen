@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Creus"]
+[Black "Oppenrieder"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "c284d1c0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Qb6 7. Nd2 cxd4
+8. exd4 Qxd4 9. Qh5 Qe3+ 10. Be2 Nc6 11. O-O-O d6 12. Bg4 Ne5 13. h3 Bxg4
+14. hxg4 Rc8 15. Rh3 Qf4 16. Rxh4 Rg8 17. Ne2 Qf2 18. g5 Rxg5 19. Qxg5 Qc5
+0-1
+

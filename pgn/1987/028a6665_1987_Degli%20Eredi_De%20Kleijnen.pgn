@@ -1,0 +1,19 @@
+[Event "corr WER"]
+[Site "corr WER"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Degli Eredi, G."]
+[Black "De Kleijnen, Henk"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "028a6665"]
+[Epoch "Queen"]
+[BlackID "1017454"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. e3 Bg7 6. Bd3 O-O 7. O-O c6 8. h4
+Re8 9. Ne2 e5 10. dxe5 Nxe5 11. Nxe5 Rxe5 12. Ng3 Rxg5 13. hxg5 Ng4 14. Be2
+Qxg5 15. c3 Nxe3 16. Qc1 Be5 17. Qxe3 Qxe3 18. fxe3 Bxg3 19. Bd3 Bg4 20. c4 Re8
+21. cxd5 cxd5 22. Rae1 Bxe1 23. Rxe1 h5 24. Kf2 Kg7 25. g3 Kf6 26. a3 g5 27.
+Rh1 Re6 0-1

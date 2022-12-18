@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Unger, Michael"]
+[Black "Pfeiffer"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "077dc312"]
+[Epoch "Queen"]
+[WhiteID "4617479"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 cxd4 9. cxd4 O-O 10. O-O Nc6 11. Be3 Na5 12. Bd3 b6 13. Rc1 Bb7 14. Qd2 Qd7
+15. Bh6 Rac8 16. Bxg7 Kxg7 17. Qb2 Rxc1 18. Rxc1 Rc8 19. Rxc8 Qxc8 1/2-1/2

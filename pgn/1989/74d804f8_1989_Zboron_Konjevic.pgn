@@ -1,0 +1,20 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zboron, K."]
+[Black "Konjevic, D."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "74d804f8"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3
+Na6 9. Bg5 h6 10. Be3 Nb4 11. Qc1 Kh7 12. Nd2 Nd7 13. f4 f5 14. e5 c5 15.
+Nf3 b6 16. Rd1 Bb7 17. Nb5 cxd4 18. Nfxd4 Nc5 19. Bc4 d5 20. Be2 Qb8 21. c3
+Nc6 22. Ra3 Nd8 23. Nc2 Bc6 24. c4 dxc4 25. Bxc5 bxc5 26. Bxc4 g5 27. g3 e6
+28. Rb3 gxf4 29. gxf4 Rg8 30. Kf1 Bxe5 31. fxe5 Qxe5 32. Qe3 Qh2 33. Ne1
+Nf7 34. Rc3 1/2-1/2
+

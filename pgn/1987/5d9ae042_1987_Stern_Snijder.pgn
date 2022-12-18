@@ -1,0 +1,18 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stern, D."]
+[Black "Snijder"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "5d9ae042"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Bd6
+8. dxe5 e3 9. exd6 exd2+ 10. Nxd2 Qxd6 11. O-O Be6 12. Qh5+ g6 13. Qg5 Qd5
+14. Nf3 Qxg5 15. Nxg5 Bd5 16. Re1+ Ne7 17. c4 Bf7 18. b3 h6 19. Ba3 hxg5
+20. Bxe7 Rh7 21. Ba3+ Kd8 22. Rad1+ Kc8 23. Re7 b5 24. Rdd7 1-0
+

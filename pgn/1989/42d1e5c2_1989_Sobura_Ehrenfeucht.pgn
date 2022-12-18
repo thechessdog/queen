@@ -1,0 +1,25 @@
+[Event "Naleczow op"]
+[Site "Naleczow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sobura, Henryk"]
+[Black "Ehrenfeucht, Wojciech"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "42d1e5c2"]
+[Epoch "Queen"]
+[WhiteID "1100734"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+h6 9. Nc2 Bg5 10. Be2 Nf6 11. O-O Be6 12. Qd3 O-O 13. Bxg5 hxg5 14. Qe3 Ne8 15.
+Rfd1 Qf6 16. c5 Qf4 17. cxd6 Qxe3 18. Nxe3 Rd8 19. Bg4 Bxg4 20. Nxg4 Nxd6 21.
+f3 Nc4 22. b3 Nb6 23. Kf2 f6 24. Ne3 Rxd1 25. Rxd1 Rd8 26. Ncd5 Nxd5 27. Nxd5
+Kf7 28. Rc1 Rc8 29. Nb6 Rh8 30. Na4 Rc8 31. Ke3 b5 32. Nb6 Rc7 33. Nd5 Rc8 34.
+Nb4 Ne7 35. Rxc8 Nxc8 36. Nxa6 Ke7 37. Nc7 Kd7 38. Nxb5 Kc6 39. Nc3 Kc5 40. a3
+Ne7 41. Kd3 Ng6 42. g3 Nf8 43. b4+ Kc6 44. a4 Ne6 45. Ne2 g6 46. g4 Kb6 47. Kc4
+Kc6 48. a5 Nc7 49. Nc3 Ne6 50. b5+ Kb7 51. Ne2 Nc7 52. Nc1 Ne6 53. Nb3 Kc7 54.
+Nc5 Nd4 55. b6+ Kc6 56. b7 Kc7 57. a6 Nc6 58. Kd5 Kb6 59. Nd7+ Kc7 60. b8=Q+
+Nxb8 1-0

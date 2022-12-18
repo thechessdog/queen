@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ruhs, J."]
+[Black "Fessling, R."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "e917dcb5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Qa5 8.
+Bd2 Nbc6 9. Be2 Bd7 10. O-O c4 11. Ng5 h6 12. Nh3 O-O-O 13. f4 Rdg8 14. Bf3
+f5 15. Qe2 Nd8 16. Rfb1 g6 17. Rb2 Rg7 18. Qe3 Rhg8 19. Be2 g5 20. g4 fxg4
+21. Bxg4 Nf5 22. Qe2 0-1
+

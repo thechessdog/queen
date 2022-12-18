@@ -1,0 +1,19 @@
+[Event "Oakham"]
+[Site "Oakham"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Horvath, Csaba"]
+[Black "Shovel, K."]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "c04986d2"]
+[Epoch "Queen"]
+[WhiteID "700118"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8. a4
+Bb7 9. b3 cxb3 10. axb5 axb5 11. Rxa8 Bxa8 12. Qxb3 c6 13. e4 Nf6 14. Nc3 Be7
+15. d5 exd5 16. exd5 cxd5 17. Qxb5+ Nbd7 18. Bh3 Qc7 19. Nxd7 Nxd7 20. Re1 Kd8
+21. Nxd5 Bxd5 22. Qxd5 Qd6 23. Qxd6 Bxd6 24. Rd1 Ke7 25. Bxd7 1-0

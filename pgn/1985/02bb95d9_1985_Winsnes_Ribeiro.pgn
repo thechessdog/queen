@@ -1,0 +1,22 @@
+[Event "EU-ch U20"]
+[Site "Groningen"]
+[Date "1985.??.??"]
+[Round "10"]
+[White "Winsnes, Rikard"]
+[Black "Ribeiro, Fernando"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "02bb95d9"]
+[Epoch "Queen"]
+[WhiteID "1700430"]
+[BlackID "1900382"]
+[WhiteCountry "SWE"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qb6 7. a3 Nc6 8. Be3
+e5 9. fxe5 dxe5 10. Nf5 Qa5 11. Ng3 Be6 12. b4 Qc7 13. Nd5 Bxd5 14. exd5 Nd4
+15. c4 b6 16. Bd3 Bd6 17. O-O h5 18. h3 h4 19. Bxd4 hxg3 20. Be3 Nh5 21. Rc1
+Nf4 22. c5 bxc5 23. bxc5 Qc8 24. Rxf4 exf4 25. cxd6 Qd7 26. Bxf4 Qa7+ 27. Kh1
+Qf2 28. Qg4 1-0

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schaefer, Norbert"]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "89d8ccca"]
+[Epoch "Queen"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+[WhiteID "4606353"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d6 5. g3 g6 6. d4 cxd4 7. Nxd4 a6 8. Be3
+Nge7 9. Qd2 Qc7 10. Rd1 Bd7 11. Ndb5 axb5 12. Nxb5 Qa5 13. Nxd6+ Kd8 14. Nxb7+
+1-0

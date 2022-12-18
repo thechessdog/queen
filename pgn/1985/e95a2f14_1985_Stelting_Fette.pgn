@@ -1,0 +1,20 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stelting, Thorsten"]
+[Black "Fette, Martin"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "e95a2f14"]
+[Epoch "Queen"]
+[WhiteID "4605616"]
+[WhiteCountry "GER"]
+[BlackID "4600827"]
+[BlackCountry "GER"]
+
+1. f4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 Nf6 5. c4 c5 6. Nc3 Nc6 7. O-O O-O 8. a3 a6
+9. Rb1 Rb8 10. b4 cxb4 11. axb4 b5 12. c5 dxc5 13. bxc5 Bf5 14. Ra1 b4 15. Rxa6
+Nd4 16. Na4 Nxe2+ 17. Kh1 Nxc1 18. Qxc1 Bd3 19. Ra7 Bxf1 20. Qxf1 b3 21. Nb6 b2
+22. Qb5 Ne4 23. Rd7 Qxd7 24. Qxd7 b1=Q+ 25. Ng1 Nf2# 0-1

@@ -1,0 +1,22 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dallas 68000"]
+[Black "Rebel"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "012d8003"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 Bc5 6. d3 Nxd5 7. cxd5 Ne7
+8. e4 d6 9. d4 exd4 10. Nxd4 c6 11. dxc6 Qb6 12. cxb7 Bxb7 13. Qa4+ Kf8 14.
+Nf3 f5 15. Ng5 Bb4+ 16. Kd1 fxe4 17. Be3 Qa5 18. Qxa5 Bxa5 19. Bc4 d5 20.
+Be2 Bb6 21. Ne6+ Kf7 22. Nc5 Bc6 23. Bh5+ g6 24. Bg4 d4 25. Be6+ Ke8 26.
+Bxd4 Rd8 27. Nb3 e3 28. fxe3 Bxh1 29. Ke2 Bxd4 30. Nxd4 Bb7 31. Rc1 Rf8 32.
+b4 Rf6 33. Bc4 Rc8 34. Bb5+ Kf7 35. Rxc8 Nxc8 36. g4 Rb6 37. a3 Nd6 38. Bd3
+Ba6 39. Nc2 Bxd3+ 40. Kxd3 Ra6 41. h4 Nb5 42. g5 Nxa3 43. Nd4 Rb6 44. Kc3
+Nb5+ 45. Nxb5 Rxb5 46. e4 Ke6 47. Kc4 a6 48. Kd4 Rxb4+ 49. Kc5 0-1
+

@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Winants, Luc"]
+[Black "Kouatly, Bachar"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "951b7415"]
+[Epoch "Queen"]
+[BlackID "600032"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. d5 Na5 10. Bf4 c6 11. dxc6 Qxd1 12. Rfxd1 Nxc6 13. Rac1 e5 14. Bd2
+Nc4 15. b3 Nxd2 16. Nxd2 Be6 1/2-1/2

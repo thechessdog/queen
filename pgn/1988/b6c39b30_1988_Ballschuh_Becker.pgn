@@ -1,0 +1,16 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ballschuh"]
+[Black "Becker"]
+[Result "1-0"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Magnus Smith trap"]
+[HashCode "b6c39b30"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 g6 7. Nxc6 bxc6
+8. e5 Ng4 9. Bf4 d5 10. Nxd5 Bg7 11. e6 Kf8 12. Nc7 1-0
+

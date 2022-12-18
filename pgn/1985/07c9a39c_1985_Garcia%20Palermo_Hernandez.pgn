@@ -1,0 +1,19 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Garcia Palermo, Carlos"]
+[Black "Hernandez, Roman"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "07c9a39c"]
+[Epoch "Queen"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Nd2 e5 9. d5 Ne7 10. Qc2 O-O 11. Rb1 g6 12. h3 Nh5 13. g4 Ng7 14. f4 f5 15. g5
+h5 16. O-O 1/2-1/2

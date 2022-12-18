@@ -1,0 +1,19 @@
+[Event "Moscow-B"]
+[Site "Moscow"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Khenkin, Igor"]
+[Black "Dreev, Aleksey"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[Opening "Dutch defence"]
+[HashCode "dd4f0dee"]
+[Epoch "Queen"]
+[WhiteID "4659600"]
+[WhiteCountry "GER"]
+[BlackID "4100107"]
+[BlackCountry "RUS"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. Qc2 d5 5. Nc3 Bd6 6. Bg5 Be7 7. e3 c6 8. Bd3
+O-O 9. h3 Ne4 10. Bxe7 Qxe7 11. g4 Nd6 12. Ne5 Nd7 13. gxf5 Nxe5 14. dxe5 Nxf5
+15. O-O-O Bd7 16. Rhg1 b5 17. cxb5 cxb5 18. Kb1 Rac8 19. Qe2 1/2-1/2

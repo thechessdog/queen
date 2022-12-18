@@ -1,0 +1,20 @@
+[Event "Haifa etc"]
+[Site "Haifa etc"]
+[Date "1989.11.01"]
+[Round "2"]
+[White "Manor, Ilan"]
+[Black "Groszpeter, Attila"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "aa45c821"]
+[Epoch "Queen"]
+[WhiteID "2800110"]
+[WhiteCountry "ISR"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6 8.
+Ne2 Bh6 9. Bg3 O-O 10. Nf4 Bxf4 11. Bxf4 c5 12. Be2 cxd4 13. exd4 Bd5 14. O-O
+f6 0-1

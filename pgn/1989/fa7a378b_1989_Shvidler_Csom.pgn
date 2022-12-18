@@ -1,0 +1,19 @@
+[Event "Tel Aviv-B"]
+[Site "Tel Aviv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shvidler, Eliahu"]
+[Black "Csom, Istvan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "fa7a378b"]
+[Epoch "Queen"]
+[BlackID "700100"]
+[BlackCountry "HUN"]
+[WhiteID "2800160"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5 7. e4 cxd4 8. Nxd4
+d6 9. O-O Nbd7 10. b3 Qc7 11. Bb2 Be7 12. Qe2 O-O 13. Rae1 1/2-1/2

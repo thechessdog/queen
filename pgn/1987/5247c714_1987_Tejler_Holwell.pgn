@@ -1,0 +1,17 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tejler"]
+[Black "Holwell"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "5247c714"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nc6 4. Be3 Nf6 5. Bb5 Bd7 6. Nge2 Na5 7. Bxd7+
+Qxd7 8. Ng3 Nc4 9. Qe2 Nxb2 10. Qb5 Qxb5 11. Nxb5 Nd5 12. Nxe4 c6 13. Na3
+e5 14. Nb1 Nxe3 15. fxe3 Rd8 16. c3 c5 17. O-O cxd4 18. exd4 exd4 19. Re1
+Be7 20. cxd4 Rxd4 21. Nbc3 O-O 22. g4 Bc5 0-1
+

@@ -1,0 +1,21 @@
+[Event "Moscow-B"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vasiukov, Evgeni"]
+[Black "Danailov, Silvio"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "1ffbc199"]
+[Epoch "Queen"]
+[WhiteID "4100522"]
+[WhiteCountry "RUS"]
+[BlackID "2900114"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+h5 9. gxh5 Nxh5 10. Bg5 Nf6 11. Rg3 a6 12. Nxc6 bxc6 13. Qf3 e5 14. Bc4 Be6 15.
+Bxe6 fxe6 16. O-O-O Rb8 17. h5 Rb7 18. h6 Rf7 19. hxg7 Bxg7 20. Qd3 d5 21. Qxa6
+Qc7 22. Nb5 cxb5 23. Rc3 1-0

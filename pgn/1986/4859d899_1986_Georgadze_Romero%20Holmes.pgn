@@ -1,0 +1,29 @@
+[Event "Benalmadena"]
+[Site "Benalmadena"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Giorgadze, Tamaz"]
+[Black "Romero Holmes, Alfonso"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "4859d899"]
+[Epoch "Queen"]
+[WhiteID "13600028"]
+[WhiteCountry "GEO"]
+[BlackID "2200066"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 b6 6. Bg2 Bb7 7. O-O Bxc3 8. bxc3
+d6 9. d5 e5 10. Nh4 O-O 11. e4 Ne8 12. a4 a5 13. Qd3 Nd7 14. Bd2 Bc8 15. Bh3
+Ndf6 16. Bxc8 Rxc8 17. Bg5 h6 18. Bd2 Nd7 19. Qe2 Kh7 20. Nf5 Ndf6 21. f4 Ng8
+22. Ne3 Nef6 23. Qd3 Re8 24. f5 g5 25. Ng2 Kg7 26. Qe2 g4 27. Kf2 Kf8 28. Rh1
+Ke7 29. h3 h5 30. Ke3 Kd7 31. Kd3 gxh3 32. Rxh3 Qe7 33. Bg5 Qf8 34. Ne1 Qg7 35.
+Nf3 Kc7 36. Rah1 Rb8 37. Qb2 Kb7 38. Qb5 Rec8 39. Qb1 Rc7 40. Qc1 Rcc8 41. Qd2
+Kc7 42. Rh4 Kb7 43. R1h3 Rc7 44. Kc2 Qf8 45. Kb3 Qg7 46. Ka3 Ka7 47. Ne1 Rcc8
+48. Nd3 Rc7 49. Nf2 Rbb7 50. Rh1 Rd7 51. Kb3 Rdc7 52. Kc2 Rd7 53. Qe3 Rdc7 54.
+Kd3 Rd7 55. Rg1 Qf8 56. Rhh1 Qe8 57. Bxf6 Nxf6 58. Qg5 Qe7 59. Qh4 Rb8 60. g4
+hxg4 61. Nxg4 Nxg4 62. Qxe7 Rxe7 63. Rxg4 f6 64. Ke3 Kb7 65. Kf3 Kc7 66. Rg6
+Rf7 67. Rgh6 Rbf8 68. Rh8 Rxh8 69. Rxh8 Rg7 70. Rf8 Rg1 71. Rf7+ Kc8 72. Rxf6
+Kd7 73. Re6 Rc1 74. f6 Rxc3+ 75. Kg4 1-0

@@ -1,0 +1,25 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fokin, Sergey"]
+[Black "Arbakov, Valentin"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "18d82754"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. bxa6 Bxa6 7. Nc3 d6 8. Nd2
+Bg7 9. e4 Bxf1 10. Nxf1 Qa5 11. Nd2 Nfd7 12. Qc2 Qa6 13. Nf3 O-O 14. Ne2 Qa4
+15. b3 Qa5+ 16. Bd2 Qa6 17. Bc3 Bxc3+ 18. Qxc3 Nf6 19. Qc2 Qa5+ 20. Nd2 Na6 21.
+O-O Nb4 22. Qb1 Nbxd5 23. Nc4 Nc3 24. Qc2 Nxe2+ 25. Qxe2 Qc7 26. e5 dxe5 27.
+Qxe5 Qxe5 28. Na5 Rfd8 29. Rfc1 Rd2 30. a4 Rd5 31. Nc4 Rd3 32. Rab1 Rb8 33. Na5
+Ne4 34. Rd1 c4 35. bxc4 Rb2 36. Rf1 Rc2 37. Rbc1 Rdd2 38. Rxc2 Rxc2 39. f3 Nc5
+40. Ra1 Kf8 41. Nc6 Rxc4 42. a5 Na6 43. Nxe5 Rc2 44. Nd7+ Kg7 45. Nb6 e6 46. h4
+Rc5 47. Kf2 Rc2+ 48. Kg3 Rb2 49. Nc4 Rb4 50. Nd6 Rd4 51. Ne4 Rd5 52. Kf2 h6 53.
+g3 f5 54. Nc3 Rd3 55. Ne2 Kf6 56. Ra4 g5 57. h5 Ke5 58. Rc4 Ra3 59. Rc8 Nb4 60.
+f4+ Kf6 61. fxg5+ hxg5 62. Rg8 Nd3+ 63. Kg2 Rxa5 64. Rg6+ Kf7 65. Rxg5 Ra2 66.
+Kf1 Ra8 67. Nd4 Ne5 68. Nxf5 Kf6 0-1

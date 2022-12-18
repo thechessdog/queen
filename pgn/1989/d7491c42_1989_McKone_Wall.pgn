@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "d7491c42"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. Bg5 Be7 8. Rc1
+O-O 9. c5 h6 10. Bh4 Re8 11. Bd3 Qa5 12. O-O g5 13. Bxg5 hxg5 14. Nxg5 Qc7 15.
+Qf3 e5 16. Nxd5 Nxd4 17. Nxf6+ Bxf6 18. Qh5 Bxg5 19. Qh7+ Kf8 20. Qh8+ Ke7 21.
+Qg7 Bf6 0-1

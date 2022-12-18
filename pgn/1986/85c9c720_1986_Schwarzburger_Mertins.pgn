@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwarzburger, L."]
+[Black "Mertins, Klaus"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "85c9c720"]
+[Epoch "Queen"]
+[BlackID "4607422"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 Qd7 4. c3 b6 5. f4 Ba6 6. Bxa6 Nxa6 7. Qd3 Nb8 8. Ne2
+c5 9. O-O Nc6 10. f5 exf5 11. Rxf5 Nge7 12. Rf3 cxd4 13. cxd4 Nb4 14. Qb3 Nf5
+15. Nbc3 Rd8 16. Bg5 Rc8 17. Raf1 g6 18. a3 Nc6 19. Nxd5 Bg7 20. Rxf5 gxf5 21.
+Bh6 Kf8 22. Nf6 Qe7 23. Qe3 Qb7 24. Bxg7+ Kxg7 25. Qg5+ Kf8 26. Qxf5 1-0

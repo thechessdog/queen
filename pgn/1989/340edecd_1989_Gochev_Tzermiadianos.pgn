@@ -1,0 +1,30 @@
+[Event "Akropolis op"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gochev, Mladen"]
+[Black "Tzermiadianos, Andreas"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "340edecd"]
+[Epoch "Queen"]
+[WhiteID "2900718"]
+[BlackID "4200853"]
+[WhiteCountry "FID"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 a6 6. Bxc6 Nxc6 7. Bb2 f6 8. d4
+cxd4 9. Nxd4 Nxd4 10. Qxd4 Be7 11. c4 O-O 12. Nc3 Rb8 13. Rfd1 b5 14. c5 Bb7
+15. b4 Bc6 16. Rd3 Qc7 17. Rad1 Rbd8 18. Qe3 Rf7 19. Qh3 Bf8 20. Qg4 f5 21.
+exf5 Rxf5 22. Ne2 Bd5 23. Rg3 Rf7 24. Nc3 Bc6 25. Ne2 a5 26. a3 Ra8 27. Re3
+axb4 28. Be5 Qa5 29. axb4 Qa2 30. Qd4 Ra4 31. Rf1 Qc2 32. Qc3 Qg6 33. Bg3 Be7
+34. Nd4 Bf6 35. Qd2 Bd5 36. Nf3 Ra2 37. Qd1 Ra1 38. Qd2 Ra2 39. Qd1 Qg4 40. Ne5
+Qxd1 41. Rxd1 Bxe5 42. Rxe5 Rb2 43. Ree1 Rxb4 44. Bd6 Re4 45. Rxe4 Bxe4 46. f4
+h6 47. Kf2 Kh7 48. h4 g6 49. g3 Bd5 50. Rb1 Bc4 51. Ra1 Bd5 52. Ra7 g5 53. h5
+Bc6 54. Rc7 gxf4 55. gxf4 Rf5 56. Rc8 Rxh5 57. Be5 Kg6 58. Rf8 Rh1 59. Rf6+ Kh5
+60. Kg3 Rg1+ 61. Kh3 Re1 62. Kg3 Re2 63. Bd6 Rg2+ 64. Kh3 Rf2 65. Bf8 Rf3+ 66.
+Kh2 Kg4 67. Bxh6 Rf2+ 68. Kg1 Rc2 69. Kf1 Rxc5 70. Ke2 Rc2+ 71. Ke3 Rc3+ 72.
+Kd4 Rc4+ 73. Kd3 Kf3 74. Kd2 Be4 75. Rf7 Rc2+ 76. Kd1 Rh2 77. Bf8 d5 78. Bd6
+0-1

@@ -1,0 +1,20 @@
+[Event "Bayern-chB"]
+[Site "Germany"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Reich, Thomas"]
+[Black "Goetz, Ralph"]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "afdaf64f"]
+[Epoch "Queen"]
+[WhiteID "4601009"]
+[WhiteCountry "GER"]
+[BlackID "4601254"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Ne4 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. fxe5 Nxe5 13. Nf3 Re8 14. Bb5
+Nbd7 15. O-O Kf8 16. Nxe5 Rxe5 17. Bf4 Re4 18. Bd6+ Kg8 19. Rxf7 Kxf7 0-1

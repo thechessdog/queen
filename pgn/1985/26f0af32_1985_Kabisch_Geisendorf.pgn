@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kabisch"]
+[Black "Geisendorf, Lutz"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "26f0af32"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 Qe7+ 6. Be2 dxc4 7. O-O Nf6
+8. Bxc4 O-O 9. Re1 Qd8 10. Ne5 Nbd7 11. Nd2 Nb6 12. b3 Nxc4 13. Ndxc4 Bb4
+14. Bd2 Bxd2 15. Qxd2 Ng4 16. Qf4 Qf6 17. Qxf6 Nxf6 18. Rac1 Nd5 19. Ne3
+Nxe3 1/2-1/2
+

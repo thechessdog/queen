@@ -1,0 +1,17 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Myers"]
+[Black "Steinberg"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "cf64054d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. Nxe5 Qe7 5. d4 Nc6 6. Nc3 Nxe5 7. dxe5
+Qxe5 8. O-O fxe4 9. Nd5 Nxd5 10. Bxd5 c6 11. Bxe4 Bd6 12. g3 O-O 13. Qd3 h5
+14. Bd2 Be7 15. Rae1 Qf6 16. Bc3 Qg5 17. Bh7+ Kf7 18. h4 Qh6 19. Bd2 Qd6
+20. Rxe7+ 1-0
+

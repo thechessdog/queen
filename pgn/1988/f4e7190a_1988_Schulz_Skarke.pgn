@@ -1,0 +1,18 @@
+[Event "corr ch20-DDR"]
+[Site "corr ch20-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Skarke, H."]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "f4e7190a"]
+[Epoch "Queen"]
+[WhiteID "4600649"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Nf3 d6 7. Be2 e6 8. O-O Re8
+9. Qc2 exd5 10. cxd5 Na6 11. Re1 Nb4 12. Qd2 Nxe4 13. Nxe4 Rxe4 14. a3 Na6 15.
+Bxa6 Rxe1+ 16. Qxe1 bxa6 17. Bg5 Qd7 18. b4 Bb7 19. Rd1 c4 20. Qe4 c3 21. Be3
+Qa4 0-1

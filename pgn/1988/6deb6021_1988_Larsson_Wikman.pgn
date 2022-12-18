@@ -1,0 +1,18 @@
+[Event "corr Scandinavian Cup"]
+[Site "corr Scandinavian Cup"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Larsson"]
+[Black "Wikman"]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "6deb6021"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Bg4 12. f3 Na5 13. Bb5 Bd7 14.
+Rb1 Rc8 15. Bf4 a6 16. Bxd7 Qxd7 17. a4 Rc4 18. Rc1 Bxd4+ 19. Nxd4 Rxd4 20.
+Qe1 Nc4 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gunnas, M."]
+[Black "Aulaskari, P."]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "a26496c7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Nxd4 11. Qxd4 Qa5 12. Qg1 Bd7 13. Be1 Rfc8
+14. Kb1 Qc7 15. Bd3 b5 16. g4 b4 17. Ne2 Bc6 18. Ng3 d5 19. e5 Ne4 20. h4
+Bc5 21. Qg2 Nc3+ 22. bxc3 bxc3 23. Ka1 d4 24. Be4 Ba3 25. Rb1 Rab8 26. Bf2
+Bb2+ 27. Rxb2 Rxb2 28. Rb1 Qb6 29. Qg1 Rb8 0-1
+

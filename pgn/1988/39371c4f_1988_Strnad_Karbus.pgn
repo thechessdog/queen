@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Strnad"]
+[Black "Karbus"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "39371c4f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Be3 Nf6 6. h3 O-O 7. Nf3 Re8
+8. O-O Nbd7 9. Bg5 Nf8 10. Nbd2 Ne6 11. Bh4 Nf4 12. Nb3 Bxh3 13. gxh3 Qd7
+14. Bg3 Qxh3 15. Nh4 Re3 16. Qd2 Rxg3+ 17. fxg3 Qxg3+ 18. Kh1 Qxh4+ 19. Kg1
+Nh3+ 20. Kg2 Qg3+ 21. Kh1 Ng4 0-1
+

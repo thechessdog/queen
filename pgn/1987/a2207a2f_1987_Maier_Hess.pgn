@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maier, A."]
+[Black "Hess, J."]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[HashCode "a2207a2f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6
+Qxf6 8. dxc3 Qe5+ 9. Qe2 Qxe2+ 10. Bxe2 d5 11. Bf4 c6 12. Bd3 Be6 13. O-O
+g6 14. Be5 Rg8 15. Rfe1 Bg7 16. Bf4 O-O-O 17. a4 Rge8 18. Be3 d4 19. cxd4
+Bxd4 20. Rab1 Bxe3 21. Rxe3 Rd4 22. b3 a5 23. Rbe1 Red8 24. Rb1 Rb4 25. Re4
+Rxe4 26. Bxe4 Rd4 27. Bd3 Rb4 28. Kf1 Kc7 29. Ra1 Kd6 30. Ke1 c5 31. Kd2 c4
+32. bxc4 Bd7 33. Be4 Rxa4 34. Rxa4 Bxa4 35. Bxb7 Bc6 36. Bxc6 Kxc6 37. Kc3
+Kc5 38. f3 g5 39. g3 a4 40. h3 h6 41. f4 gxf4 42. gxf4 f5 43. Kd3 Kb4 44.
+h4 h5 45. Kd4 a3 46. c3+ Kb3 47. Ke5 a2 48. Kxf5 a1=Q 0-1
+

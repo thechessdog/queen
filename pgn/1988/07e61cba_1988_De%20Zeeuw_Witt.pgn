@@ -1,0 +1,16 @@
+[Event "WGM-Volmac 2"]
+[Site "WGM-Volmac 2"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "De Zeeuw, M."]
+[Black "Witt, R."]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian"]
+[Variation "Chekhover, Zaitsev variation"]
+[HashCode "07e61cba"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qd7 6. Qa4 a6 7. O-O Nf6
+8. e5 axb5 9. Qxa8 dxe5 10. Nc3 e4 11. Rd1 Qf5 12. Nh4 1-0
+

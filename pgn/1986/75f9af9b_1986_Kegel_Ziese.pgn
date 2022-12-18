@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kegel, OH."]
+[Black "Ziese, G."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "75f9af9b"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 Bf5 6. Bd3 Qd7 7. Nc3 Bxd3 8.
+Qxd3 Qc6 9. Nf3 Qxc4 10. Qxc4 Nxc4 11. O-O h6 12. b3 Nb6 13. d5 Na6 14. e6
+g6 15. exf7+ Kxf7 16. Be3 c5 17. dxc6 bxc6 18. Bd4 Rg8 19. Nh4 c5 20. f5 g5
+21. f6 e6 0-1
+

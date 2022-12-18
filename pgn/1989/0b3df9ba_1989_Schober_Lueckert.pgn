@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schober, M."]
+[Black "Lueckert, B."]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "0b3df9ba"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+g3 Bg7 9. Bg2 Nbd7 10. O-O O-O 11. Qc2 Qa5 12. h3 Rfb8 13. Rb1 Nb6 14. Nd2
+Bb7 15. Nb3 Qa6 16. Rd1 Na4 17. a3 Nd7 18. Bd2 Ne5 19. Bf1 Nxc3 20. Bxc3
+Qb6 21. Na1 Bc8 22. Kg2 Qb7 23. e4 Qd7 24. Kh1 Ba6 25. Kg2 Bc8 26. Kh1 Ba6
+27. Bg2 f6 28. b3 Bd3 29. Rxd3 Nxd3 30. Qxd3 Rxa3 31. Qc4 Ra2 32. Kg1 f5
+33. Bxg7 Kxg7 34. Nc2 fxe4 35. Qxe4 Re8 36. Ne3 Rd2 37. Qc4 Kg8 38. Qc3 Rd4
+39. Nc2 Qf5 40. Bf1 Rf8 41. Nxd4 Qxf2+ 42. Kh1 cxd4 43. Qe1 Qa2 44. Kg1 Rf3
+45. Ra1 Rxg3+ 46. Qxg3 Qxa1 47. Qd3 Qb2 48. Qd1 Qc3 49. Bd3 Kg7 50. h4 Kg8
+51. h5 Kg7 52. hxg6 hxg6 53. Kf2 Qc8 54. Bc4 Qh3 55. Qxd4+ Kg8 56. Qf4 Qc3
+57. Qe3 Qb2+ 58. Kg3 1-0
+

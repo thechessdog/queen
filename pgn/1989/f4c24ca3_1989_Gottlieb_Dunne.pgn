@@ -1,0 +1,18 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gottlieb"]
+[Black "Dunne, A."]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "f4c24ca3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. f4 c5 7. d5 e6 8. Nf3
+exd5 9. e5 Ne4 10. cxd5 Nxc3 11. bxc3 Nd7 12. e6 Bxc3+ 13. Bd2 Bxd2+ 14.
+Qxd2 fxe6 15. dxe6 Nf6 16. f5 gxf5 17. Qg5+ Kh8 18. O-O Bxe6 19. Nh4 Ne4
+20. Qh5 Qf6 21. Rad1 Rad8 22. Nf3 Nc3 23. Rd2 Bf7 24. Qh3 Nxe2+ 0-1
+

@@ -1,0 +1,26 @@
+[Event "Ragusa op"]
+[Site "Ragusa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kovacevic, Slobodan"]
+[Black "Sericano, Claudio"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "74f8ff33"]
+[Epoch "Queen"]
+[WhiteID "902152"]
+[WhiteCountry "SRB"]
+[BlackID "800473"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Ne4 6. Bh4 h6 7. c3 d5 8. Nbd2
+g5 9. Bg3 Nxg3 10. hxg3 Bg7 11. Be2 Nc6 12. Nb3 c4 13. Nbd2 e5 14. dxe5 Nxe5
+15. Nxe5 Bxe5 16. Nf3 Bg7 17. Qd2 Be6 18. Qc2 Qc6 19. Rd1 O-O-O 20. Nd4 Bxd4
+21. Rxd4 f5 22. Qd2 Rd7 23. a3 Kc7 24. Bf3 Kc8 25. Qd1 Qb5 26. Rd2 g4 27. Be2
+h5 28. Qb1 Rdh7 29. Rh4 Rd7 30. Bd1 Rd6 31. Bc2 Qd7 32. Rd4 Rb6 33. a4 a5 34.
+Rf4 Kc7 35. Kf1 Kc8 36. Kg1 Kc7 37. Kh2 Rh6 38. Rd4 Qf7 39. Qc1 Rh8 40. Rf4 Qd7
+41. Bd1 Rh7 42. Qd2 Kc8 43. Qc1 Kc7 44. Bc2 Rh8 45. Qb1 Rh7 46. Rd4 Qf7 47. b3
+cxb3 48. Bxb3 Rh8 49. Qd1 Rd8 50. c4 dxc4 51. Rxd8 cxb3 52. Rh8 b2 53. Qc2+ Bc4
+54. Qb1 Bd3 55. Qxd3 b1=Q 56. Qd8+ Kc6 57. Rh6+ Kc5 58. Qd4# 1-0

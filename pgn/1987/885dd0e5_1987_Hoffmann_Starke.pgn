@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hoffmann, Hans"]
+[Black "Starke, Dieter, Dr."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "885dd0e5"]
+[Epoch "Queen"]
+[WhiteID "4602536"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 Bc5 5. e3 a5 6. Nf3 f5 7. exf6 Nxf6 8. Bd3
+O-O 9. Nc3 d6 10. Qc2 Nc6 11. Nd5 Bg4 12. Nxf6+ Qxf6 13. Bxh7+ Kh8 14. Be4 Rae8
+15. O-O Qh6 16. Nd4 Bxd4 17. exd4 Qf6 18. Bxc6 b6 19. Bxe8 1-0

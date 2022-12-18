@@ -1,0 +1,22 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kertesz, A."]
+[Black "Fischer, J."]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "64d4f4f3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 c6 6. Be3 d5 7. e5 Nfd7 8.
+cxd5 cxd5 9. Nxd5 Nc6 10. Qd2 Nb6 11. Nxb6 axb6 12. Ne2 f6 13. f4 Be6 14.
+Nc3 Nb4 15. a3 fxe5 16. fxe5 Nd5 17. Be2 Nxc3 18. bxc3 Bd5 19. Rf1 Bxg2 20.
+Bc4+ Bd5 21. Bxd5+ Qxd5 22. Qa2 Rfd8 23. Ke2 Rac8 24. Qxd5+ Rxd5 25. Bd2
+Rc6 26. Rab1 g5 27. Rb3 b5 28. Bxg5 Rg6 29. Bf4 Rg2+ 30. Kf3 Rc2 31. Ke4 e6
+32. Kd3 Rg2 33. Rfb1 Rd7 34. Rxb5 Rf7 35. Bg3 Rf3+ 36. Kc4 Bf8 37. R5b2
+Rxb2 38. Rxb2 Bxa3 39. Rxb7 Bc1 40. Re7 Bg5 41. Rxe6 Kf7 42. Rc6 h5 43. Kd5
+h4 44. e6+ 1-0
+

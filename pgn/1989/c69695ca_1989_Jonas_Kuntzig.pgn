@@ -1,0 +1,23 @@
+[Event "Regionalliga NordS"]
+[Site "Kreuzberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jonas, Bernhard"]
+[Black "Kuntzig, Wilfried"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "c69695ca"]
+[Epoch "Queen"]
+[BlackID "4614801"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 Nbc6 10. Ne2 cxd4 11. f4 dxc3 12. Qd3 d4 13. Rb1 Nf5 14. h3
+Bd7 15. g4 Nh4 16. Qh7 Nf3+ 17. Kf2 O-O-O 18. Kxf3 Nxe5+ 19. fxe5 Bc6+ 20. Kf2
+Bxh1 21. Rb4 d3 22. cxd3 Rh8 23. Qg7 Rhg8 24. Qf6 Rxd3 25. Nd4 Rd1 26. Qf4 Qd8
+27. Nf3 Rxf1+ 28. Kxf1 Qd3+ 29. Kf2 Qc2+ 30. Bd2 Bxf3 31. Rc4+ Bc6 32. Rxc3 Qa2
+33. Rd3 Rd8 34. Rxd8+ Kxd8 35. Qd4+ Ke8 36. Qd6 Qc2 37. Kg3 Qb3+ 38. Kh4 Qd5
+39. Qb8+ Qd8+ 40. Qxd8+ Kxd8 41. Kg5 Ke8 42. Bb4 a5 43. Bc5 Bf3 44. h4 f6+ 45.
+exf6 Kf7 46. Bb6 a4 47. Bd4 1-0

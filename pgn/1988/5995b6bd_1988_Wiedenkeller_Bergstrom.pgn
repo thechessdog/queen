@@ -1,0 +1,29 @@
+[Event "Norrkoping"]
+[Site "Norrkoeping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wiedenkeller, Michael"]
+[Black "Bergstrom, Christer"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "5995b6bd"]
+[Epoch "Queen"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+[BlackID "1700154"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Nd2 Bxc3 10. bxc3 Nxg3 11. fxg3 Nc6 12. e4 Qe7 13. Bd3 d6 14. O-O O-O-O
+15. Qh5 Rdf8 16. Rf2 f6 17. Raf1 Qg7 18. h3 Kb8 19. Nb3 Ne7 20. a4 f5 21. Qe2
+fxe4 22. Bxe4 Rxf2 23. Rxf2 Bc8 24. a5 Rf8 25. Bf3 Qg6 26. Rf1 Bb7 27. axb6
+axb6 28. c5 Bxf3 29. gxf3 Qf5 30. cxd6 cxd6 31. Kg2 h5 32. Qe4 Nd5 33. Re1 Rc8
+34. Nd2 Rxc3 35. Qxe6 Qxe6 36. Rxe6 Rc2 37. Re2 b5 38. Kf2 b4 39. Ke1 Rc1+ 40.
+Kf2 Rc2 41. Ke1 Rc1+ 42. Kf2 Kc7 43. Re8 Rd1 44. Ke2 Nc3+ 45. Kd3 Nb1 46. Kc2
+Rxd2+ 47. Kxb1 Kc6 48. Rg8 Kd5 49. Rxg5+ Kxd4 50. Rg8 Rf2 51. f4 Kc3 52. Rc8+
+Kb3 53. Kc1 Rf3 54. Rg8 Kc3 55. Rc8+ Kb3 56. Rg8 h4 57. gxh4 Rxf4 58. h5 Rh4
+59. Rh8 Rxh3 60. Kd2 Ka2 61. h6 b3 62. Rh7 Kb2 63. Rh8 Kb1 64. Rh7 b2 65. Rh8
+d5 66. Rh7 d4 67. Rh8 Ra3 68. Rg8 Ka2 69. h7 b1=Q 70. h8=Q Rd3+ 71. Ke2 Qc2+
+0-1

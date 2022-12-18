@@ -1,0 +1,18 @@
+[Event "corr Canada"]
+[Site "corr Canada"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stevenson"]
+[Black "Bergeron"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "de414f02"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Bg5 Nbd7 7. Nf3 Be7
+8. Bd3 dxc4 9. Bxc4 a6 10. O-O b5 11. Bb3 Bb7 12. Re1 O-O 13. Ne5 Rc8 14.
+Nxf7 Rxf7 15. Bxe6 Nf8 16. Bxf7+ Kxf7 17. Qb3+ Rc4 18. a4 Qxd4 19. axb5 Qg4
+20. g3 Ne6 21. f4 Bc5+ 1-0
+

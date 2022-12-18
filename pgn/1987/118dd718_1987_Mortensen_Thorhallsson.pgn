@@ -1,0 +1,20 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Thorhallsson, Throstur"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Icelandic gambit"]
+[HashCode "118dd718"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "2300109"]
+[BlackCountry "ISL"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. Nf3 Nc6 6. d4 Bb4+ 7. Nc3 Ne4 8.
+Bd2 Nxd2 9. Qxd2 Qe7 10. Qe3 O-O-O 11. O-O-O Rhe8 12. d5 Bxc3 13. Qxc3 Nb4 14.
+Qe5 Nxa2+ 15. Kb1 Nb4 16. Be2 Bxd5 17. Qxe7 Rxe7 18. Rhe1 Be4+ 19. Kc1 Na2# 0-1

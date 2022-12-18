@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wijker"]
+[Black "Van Buuren"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Colman variation"]
+[HashCode "0d715726"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Qf3 Rb8 9. Be2 h6 10. Ne4 Nd5 11. b3 Nf4 12. Bb2 Bd6 13. Nxd6+ Qxd6
+14. Qe4 f6 15. d4 O-O 16. Ba3 Qxd4 17. Qxd4 exd4 18. Bxf8 Nxg2+ 19. Kd2
+Kxf8 20. Na3 Nf4 21. Nc4 Nxc4+ 22. Bxc4 c5 23. f3 Bb7 24. Rhf1 Re8 25. Rae1
+Rxe1 26. Kxe1 Ng2+ 27. Kd2 Ne3 28. Rf2 Ke7 29. c3 Nf5 30. Kd3 g5 31. Re2+
+Kf8 32. Re6 Kg7 33. cxd4 cxd4 34. Ke2 d3+ 35. Kf2 d2 36. Be2 Kf7 37. Bc4
+Bd5 0-1
+

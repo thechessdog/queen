@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bruckert"]
+[Black "Jensen, Niels"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "1237ea0b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Be7 6. Qb5+ c6 7. dxc6 bxc6
+8. Qe2 exf3 9. gxf3 O-O 10. d3 Re8 0-1
+

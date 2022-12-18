@@ -1,0 +1,20 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Boudre, Jean-Pierre"]
+[Black "Letreguilly, Olivier"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "5baede6b"]
+[Epoch "Queen"]
+[BlackID "600997"]
+[BlackCountry "FRA"]
+[WhiteID "600237"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Qh4 8.
+c4 O-O-O 9. c5 g5 10. Nc3 Bg7 11. Be3 Rhe8 12. Nxd5 Nf6 13. Nxf6 Bxf6 14. d5
+Bg4 15. Qa4 Kb8 16. d6 Be5 17. g3 Qh3 18. Be4 1-0

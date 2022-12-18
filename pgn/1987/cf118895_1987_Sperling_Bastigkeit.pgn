@@ -1,0 +1,17 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sperling"]
+[Black "Bastigkeit"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "cf118895"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Ne5 O-O
+8. d5 Qd6 9. Qe2 Nxd5 10. Nxf7 Bxc3+ 11. bxc3 Rxf7 12. Bh6 Rf5 13. O-O-O e6
+14. Bxd5 Re5 15. Bxe6+ Rxe6 16. Rxd6 Rxe2 17. Rd8+ Kf7 18. Rf1+ Bf5 19. g4
+Rxc2+ 20. Kd1 Rxh2 21. gxf5 Rxh6 22. fxg6+ Ke7 23. g7 1-0
+

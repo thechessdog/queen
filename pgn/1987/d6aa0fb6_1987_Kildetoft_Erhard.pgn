@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kildetoft, G."]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "d6aa0fb6"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6
+8. Ne5 Qd6 9. d4 f6 10. Nxg6 hxg6 11. Qf3 O-O-O 12. Bxc6 bxc6 13. Qd3 e5
+14. Qxg6 exd4 15. Ne2 Qe6 16. Bf4 Re8 17. Qd3 c5 18. Kd2 c4 19. Qf5 Qxf5
+20. gxf5 Bc5 21. c3 d3 22. Nd4 Bxd4 23. cxd4 Re2+ 24. Kc1 Ne7 25. Be3 Nxf5
+26. a4 Re8 27. Ra3 Nxe3 28. fxe3 R8xe3 29. Rc3 Re4 30. b3 Rxd4 31. Rg1 Rf4
+32. bxc4 dxc4 33. a5 g5 34. a6 Kd7 35. Rd1 Kd6 36. Ra3 Kc5 37. Ra1 Rc2+ 38.
+Kb1 Rff2 39. Rh1 Rb2+ 40. Kc1 Kb4 0-1
+

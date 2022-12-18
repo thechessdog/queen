@@ -1,0 +1,19 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "8"]
+[White "Shvidler, Eliahu"]
+[Black "Ruf, Matthias"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[Opening "English"]
+[Variation "Botvinnik system"]
+[HashCode "2f72c74b"]
+[Epoch "Queen"]
+[WhiteID "2800160"]
+[BlackID "4600541"]
+[WhiteCountry "ISR"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. e4 Nd4 7. Nge2 Bg4 8. Be3
+Bxe2 9. Nxe2 Nxe2 10. Qxe2 Ne7 11. O-O 1/2-1/2

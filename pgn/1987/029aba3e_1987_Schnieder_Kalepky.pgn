@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schnieder"]
+[Black "Kalepky"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "029aba3e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd3 Nbd7 5. Nf3 g6 6. e4 dxe4 7. Nxe4 Bg7
+8. O-O-O Qa5 9. Kb1 Nxe4 10. Qxe4 Nf6 11. Bxf6 Bxf6 12. Bc4 Bf5 13. Qf4 g5
+14. Qe3 e6 15. Ne5 Qc7 16. g4 Bg6 17. f4 gxf4 18. Qxf4 Qe7 19. h4 Bxh4 20.
+Nxg6 fxg6 21. Qh2 Bf6 22. Rhe1 e5 23. g5 Bg7 24. dxe5 Qxg5 25. e6 Bf6 26.
+Qc7 1-0
+

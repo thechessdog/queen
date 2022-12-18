@@ -1,0 +1,19 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Johnson"]
+[Black "Etchels"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "331ad75f"]
+[Epoch "Queen"]
+[WhiteID "25736477"]
+[WhiteCountry "IND"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 c5 8.
+Nb5 Na6 9. Nd6+ Kf8 10. f4 cxd4 11. Bxa6 bxa6 12. Nf3 Rb8 13. O-O Nc5 14. Nxd4
+Bd7 15. f5 Ne4 16. Qf4 Nxd6 17. exd6 Qf6 18. fxe6 Qxf4 19. Rxf4 Ba4 20. Rxf7+
+Kg8 21. Raf1 1-0

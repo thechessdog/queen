@@ -1,0 +1,20 @@
+[Event "Aalborg op"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Vitko, Greg"]
+[Black "Toll, Jose"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "77ba3dfe"]
+[Epoch "Queen"]
+[WhiteID "2002132"]
+[WhiteCountry "USA"]
+[BlackID "3501612"]
+[BlackCountry "CUB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg6
+8. c3 Nd7 9. h4 e6 10. h5 Bxd3 11. Qxd3 Bd6 12. Rh4 f5 13. Bg5 Be7 14. Bxe7
+Qxe7 15. O-O-O Nb6 16. Rhh1 O-O-O 17. Ne5 Rhg8 18. g3 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Burlingame"]
+[Site "Burlingame"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rosenbaum, H."]
+[Black "Wilson"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "f8b27165"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. Bb5+ c6 5. dxc6 Nxc6 6. d4 e4 7. Qe2 Qe7
+8. Nfd2 Nf6 9. Nc3 O-O 10. Bxc6 bxc6 11. O-O Bxh2+ 12. Kh1 Re8 13. g3 Qd7
+14. Re1 Qh3 15. Qf1 Qh5 16. Qg2 Ng4 17. Ndxe4 Bxg3+ 18. Kg1 Bxf2+ 19. Kf1
+Ba6+ 20. Re2 Bxd4 21. Ke1 Bxc3+ 22. bxc3 Qh4+ 23. Kd1 Bxe2+ 24. Qxe2 Qh1+
+0-1
+

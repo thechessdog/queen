@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuntsche"]
+[Black "Hallier"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "c8f85f56"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. f4 Qc7 10. Be3 b5 11. Bf3 Nbd7 12. a3 Bb7 13. Qe1 exf4 14. Bxf4
+Ne5 15. Nd4 Rfd8 16. Nf5 Bf8 17. Bg5 Nfd7 18. Qg3 1-0
+

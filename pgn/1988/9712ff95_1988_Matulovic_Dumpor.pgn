@@ -1,0 +1,19 @@
+[Event "Kassel"]
+[Site "Kassel"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Dumpor, Atif"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "9712ff95"]
+[Epoch "Queen"]
+[BlackID "14400570"]
+[WhiteCountry "SRB"]
+[BlackCountry "BIH"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. c4 a6 10. Nc3 Be7 11. Be3 O-O 12. Qd2 f5 13. f3 Bh4+ 14. g3 Bf6 15.
+Be2 Nd7 16. O-O b6 17. b4 a5 18. a3 Ba6 1/2-1/2

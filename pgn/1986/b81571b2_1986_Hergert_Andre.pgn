@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hergert"]
+[Black "Andre"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "b81571b2"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Nfd7
+8. Be3 Bg6 9. Nxg6 hxg6 10. Qf3 Nc6 11. Bb5 Qh4+ 12. Bf2 Qf6 13. Bxc6 bxc6
+14. Qxc6 Rb8 15. Bg3 Bd6 16. Bxd6 cxd6 17. O-O-O Qf4+ 18. Kb1 Ke7 19. Rhe1
+Kd8 20. Rf1 1-0
+

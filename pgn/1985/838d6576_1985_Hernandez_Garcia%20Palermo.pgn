@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hernandez, Roman"]
+[Black "Garcia Palermo, Carlos"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, Alekhine variation"]
+[HashCode "838d6576"]
+[Epoch "Queen"]
+[BlackID "110124"]
+[WhiteCountry "CUB"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N7f6 12. Nxf6+ Qxf6 1/2-1/2

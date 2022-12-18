@@ -1,0 +1,19 @@
+[Event "Norrkoping"]
+[Site "Norrkoeping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wessman, Richard"]
+[Black "Hartman, Christer"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "f529f4e9"]
+[Epoch "Queen"]
+[WhiteID "1700049"]
+[WhiteCountry "SWE"]
+[BlackID "1700448"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. Be3
+Re8 9. dxe5 dxe5 10. h3 h6 1/2-1/2

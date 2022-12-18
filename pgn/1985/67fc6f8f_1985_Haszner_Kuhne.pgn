@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Haszner"]
+[Black "Kuhne"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "67fc6f8f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Be7 8.
+Be3 O-O 9. f4 Qc7 10. f5 e5 11. Nf3 b5 12. Nd5 Nxd5 13. Qxd5 Bb7 14. Qd3
+Nd7 15. b4 Nf6 16. Nd2 d5 17. exd5 Nxd5 18. a3 Rad8 19. Qb3 Nxe3 20. Qxe3
+Qxc2 21. Nb3 Qe4 22. Qf2 Qc6 23. Rac1 Bh4 24. Rxc6 Bxf2+ 25. Rxf2 Bxc6 26.
+Nc5 Rd2 0-1
+

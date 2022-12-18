@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuehne, W."]
+[Black "Gruetzner, K."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "d3eaddbc"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 a6 7. Qc2 Nc6 8.
+a3 h6 9. h3 dxc4 10. Bxc4 Bd6 11. Bxd6 cxd6 12. O-O b5 13. Bd3 Bb7 14. b4
+Qb6 15. Qe2 Rac8 16. Rfc1 Rc7 17. Rc2 Rfc8 18. Rac1 g5 19. Nh2 Ne7 20. Ng4
+Nxg4 21. Qxg4 f5 22. Qh5 Kg7 23. h4 g4 24. f3 Rxc3 25. Rxc3 Rxc3 26. Rxc3
+Nd5 27. Qe8 Nxc3 28. Qe7+ Kg8 29. Qxe6+ Kg7 30. Qe7+ Kg6 31. h5+ Kxh5 32.
+Qf7+ Kh4 33. Qf6+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Cannes op"]
+[Site "Cannes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Astolfi, Frederic"]
+[Black "Kovacevic, Slobodan"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "e9172347"]
+[Epoch "Queen"]
+[BlackID "902152"]
+[BlackCountry "SRB"]
+[WhiteID "601179"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. Nb5 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. Nf3 Re8 13. fxe5 Nxe5 14. Bb5
+Nbd7 15. Nxe5 Kf8 16. O-O Rxe5 17. Bf4 c4 18. Qd4 Rh5 19. Qxc4 Nb6 20. Qb4+ Kg8
+21. Rac1 Qf8 22. Qb3 Rxd5 23. Be3 Qd6 24. Kh1 Bd4 25. Bxd4 1-0

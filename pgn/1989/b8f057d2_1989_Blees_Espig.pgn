@@ -1,0 +1,24 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Blees, Albert"]
+[Black "Espig, Lutz"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b8f057d2"]
+[Epoch "Queen"]
+[WhiteID "1000217"]
+[WhiteCountry "NED"]
+[BlackID "4611276"]
+[BlackCountry "GER"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O a6 7. Bf4 c6 8. h3 b5
+9. e5 dxe5 10. Nxe5 Bb7 11. Bf3 Qc8 12. Qe2 Nbd7 13. Rad1 e6 14. Nxd7 Qxd7 15.
+Be5 Qe7 16. Rfe1 Rac8 17. a3 Rfd8 18. h4 h5 19. g3 Ba8 20. Bg2 c5 21. Bxa8 Rxa8
+22. Qf3 cxd4 23. Rxd4 Rac8 24. Red1 Rxd4 25. Rxd4 Ng4 26. Bxg7 Kxg7 27. Qe2 Qc5
+28. Qd2 a5 29. Rf4 e5 30. Rf3 Rc7 31. Qd8 Qc6 32. Rd3 b4 33. axb4 axb4 34. Nd5
+Rd7 35. Qe8 Qc5 36. Ne3 Rxd3 37. cxd3 Nxe3 38. fxe3 Qxe3+ 39. Kg2 Qd2+ 40. Kh3
+Qxb2 0-1

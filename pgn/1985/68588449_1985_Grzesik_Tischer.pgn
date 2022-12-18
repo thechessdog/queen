@@ -1,0 +1,18 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grzesik, Frank"]
+[Black "Tischer, Gunter"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "68588449"]
+[Epoch "Queen"]
+[WhiteID "4605764"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. N2g3 Nbd7 8.
+Bd3 Nxe4 9. Nxe4 Nf6 10. O-O Nxe4 1/2-1/2

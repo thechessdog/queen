@@ -1,0 +1,17 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Andres, Miguel"]
+[Black "Pinal, Nelson Borges"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Vitolins variation"]
+[HashCode "0d74d869"]
+[Epoch "Queen"]
+[WhiteCountry "EST"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5+ Nbd7 7. Bg5 a6 8.
+Bxd7+ Bxd7 9. f4 Be7 10. e5 dxe5 11. fxe5 Nd5 12. Bxe7 Nxc3 13. Bxd8 Nxd1 14.
+Rxd1 Rxd8 15. O-O O-O 1/2-1/2

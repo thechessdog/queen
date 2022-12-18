@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Suedel, P."]
+[Black "Hagenbach, T."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "43a4066b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Nc2 O-O 14.
+Nce3 Be4 15. Bd3 Bxd5 16. Nxd5 e4 17. Be2 Qg5 18. Ne3 b4 19. Qxd6 bxc3 20.
+Qxc6 cxb2 21. Rb1 Qa5+ 22. Kf1 Rac8 23. Qxe4 Rc1+ 24. Nd1 Qxa2 25. Bd3 f5
+26. Qf4 Qa1 0-1
+

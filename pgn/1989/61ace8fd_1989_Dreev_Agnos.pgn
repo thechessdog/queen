@@ -1,0 +1,18 @@
+[Event "Arnhem ech-jr"]
+[Site "Arnhem ech-jr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dreev, Aleksey"]
+[Black "Agnos, Demetrios"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "61ace8fd"]
+[Epoch "Queen"]
+[WhiteID "4100107"]
+[WhiteCountry "RUS"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Nbd7 5. f4 h6 6. Bh4 Nh5 7. f5 Bg7 8. Bc4
+Nhf6 9. fxg6 fxg6 10. Nf3 g5 11. Bg3 Nh5 12. Ne5 Nxg3 13. Nf7 Nxh1 14. Nxd6+
+Kf8 15. Qh5 1-0

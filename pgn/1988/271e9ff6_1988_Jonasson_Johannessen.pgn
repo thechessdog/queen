@@ -1,0 +1,29 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jonasson, Benedikt"]
+[Black "Johannessen, Svein"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Kholmov variation"]
+[HashCode "271e9ff6"]
+[Epoch "Queen"]
+[WhiteID "2300338"]
+[WhiteCountry "ISL"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Be6 10. d4 Bxb3 11. Qxb3 Qd7 12. Nbd2 Rfb8 13. Nf1 b4 14. Bg5 bxc3
+15. Qxc3 exd4 16. Nxd4 Nxd4 17. Qxd4 Qb5 18. e5 dxe5 19. Rxe5 Qb4 20. Qxb4 Bxb4
+21. Bxf6 gxf6 22. Rf5 Bd6 23. Rb1 Be5 24. b3 Rb5 25. Ne3 Rd8 26. Kf1 Rd2 27. a4
+Rc5 28. Nc4 Ra2 29. Rd1 Bd4 30. Rf4 Bc3 31. Rd8+ Kg7 32. Rd3 Ra1+ 33. Ke2 Re1+
+34. Kf3 Be5 35. Rg4+ Kf8 36. Re4 Rb1 37. g3 c6 38. Re2 Rd5 39. Rde3 Bd4 40. Rd3
+c5 41. Kg2 Rd7 42. Na5 Rd6 43. Nc4 Re6 44. Kf3 Ke7 45. Rc2 Ree1 46. Re2+ Rxe2
+47. Kxe2 Ke6 48. Ne3 f5 49. Nf1 h5 50. Nd2 Rb2 51. Rf3 Ke5 52. Kd3 Ke6 53. Rf4
+Ra2 54. Rh4 Bxf2 55. Rxh5 Bxg3 56. Rh6+ f6 57. Rh8 f4 58. Ra8 Be1 59. Rxa6+ Kf5
+60. Ne4 Ke5 61. Rxf6 Bb4 62. Rf7 Rb2 63. Re7+ Kd5 64. Rd7+ Ke6 65. Rd8 f3 66.
+Kc4 Rc2+ 67. Kb5 Kf5 68. Ng3+ Kf4 69. Nh5+ Ke3 70. Re8+ Kd4 71. a5 Ra2 72. a6
+f2 73. Rf8 Kd5 74. Kb6 c4 75. bxc4+ Kxc4 76. Rf4+ Kd3 77. a7 Bd2 78. Rxf2 Be3+
+79. Kb7 Rxa7+ 80. Kb8 Bxf2 81. Nf4+ Kd2 82. h4 0-1

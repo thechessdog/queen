@@ -1,0 +1,22 @@
+[Event "SCCC"]
+[Site "SCCC"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Strategist"]
+[Black "Strategist A"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "5a728424"]
+[Epoch "Queen"]
+
+1. d4 f5 2. e4 fxe4 3. Qh5+ g6 4. Qe5 Nf6 5. Nd2 d5 6. f3 Nc6 7. Qg5 Nxd4
+8. Kd1 e6 9. Qf4 Bd6 10. Qe3 e5 11. c3 Nc6 12. fxe4 Nxe4 13. Nxe4 dxe4 14.
+Qxe4 Bc5+ 15. Bd2 Bf5 16. Qe2 Qc8 17. Nf3 Bd6 18. a4 O-O 19. b4 Re8 20. b5
+Nb8 21. Qf2 Qd8 22. Bc4+ Be6 23. Qe2 Bxc4 24. Qxc4+ Kh8 25. Qd5 e4 26. Qxb7
+Nd7 27. Bg5 Qc8 28. Qc6 exf3 29. Ra2 f2 30. Bh4 f1=Q+ 31. Rxf1 Bxh2 32. g4
+Be5 33. Rg1 Rg8 34. Rd2 Nf8 35. Rd8 Qxd8+ 36. Bxd8 Rxd8+ 37. Ke1 Rc8 38.
+Qb7 Bxc3+ 39. Kf1 Ne6 40. Qc6 Bd4 41. Qxe6 Rcf8+ 42. Kg2 Bxg1 43. Qe5+ Rg7
+44. Kxg1 1-0
+

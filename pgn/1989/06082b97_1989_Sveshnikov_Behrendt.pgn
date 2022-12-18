@@ -1,0 +1,20 @@
+[Event "Spring op"]
+[Site "Budapest open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Behrendt, Clemens"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "06082b97"]
+[Epoch "Queen"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "4638603"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qc7 6. Be2 Bd7 7. O-O O-O-O 8. Bf4
+c4 9. b3 Na5 10. Nbd2 Ne7 11. Re1 h6 12. h4 b5 13. b4 Nb7 14. Bh2 a5 15. a3 Rg8
+16. Nf1 a4 17. Ne3 Nf5 18. Nxf5 exf5 19. e6 1-0

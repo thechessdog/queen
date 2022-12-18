@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Turbostar 432"]
+[Black "Sargon III"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "1f56ab6d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. Bxf6 Bxf6
+8. cxd5 exd5 9. Bb5+ Nc6 10. Nge2 O-O 11. Qa4 Qd6 12. O-O Bd7 13. Qb3 Nxd4
+14. Nxd4 Bxd4 15. Rfd1 Bxc3 16. Rxd5 Qf6 17. Qxc3 Qxc3 18. bxc3 Be6 19. Rd3
+Rfd8 20. a3 Kf8 21. Rad1 Ke7 22. Rxd8 Rxd8 23. Rxd8 Kxd8 24. Kf1 Ke7 25.
+Ke2 Kd6 26. Ke3 Bd5 27. g3 f5 28. Kd4 Bf3 29. Bc4 h6 30. Bd3 g6 31. h4 b6
+32. Bc4 g5 33. hxg5 hxg5 34. Bd3 f4 35. gxf4 gxf4 36. Be4 Bg4 37. Bd5 Be2
+38. Bg2 Bb5 39. Bf3 a6 40. Ba8 Be2 41. Bg2 Bb5 42. Bb7 Bf1 43. Ke4 Kc5 44.
+f3 Kb5 45. Bxa6+ Kxa6 46. Kxf4 Kb5 47. Ke5 Kc4 48. f4 Kxc3 49. Kd5 Bc4+ 50.
+Kc6 b5 51. f5 Kb3 52. f6 Ka4 53. Kb6 Bf7 54. Kc5 Bh5 55. Kb6 Be8 56. Ka6
+Bf7 57. Kb6 Bh5 58. Kc5 Be8 59. Kb6 Bg6 60. Kc5 Ka5 61. Kd6 Bh5 62. Kc5 Bf7
+63. Kd6 Bg6 64. Kc5 Ka6 65. Kd6 Kb6 66. Ke7 Kc5 67. Kf8 Kd4 68. Kg8 Ke4 69.
+Kf8 Ke5 70. Kg7 Kf5 71. f7 Bxf7 72. Kxf7 Ke5 73. Ke7 Kd5 74. Kd7 Kc5 75.
+Kc7 Kd5 76. Kb6 Kc4 77. Kc6 Kb3 78. Kxb5 Kxa3 1/2-1/2
+

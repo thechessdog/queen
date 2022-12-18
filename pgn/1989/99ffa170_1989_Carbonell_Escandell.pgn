@@ -1,0 +1,17 @@
+[Event "corr LADAC Superior"]
+[Site "corr LADAC Superior"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Carbonell, Alberto"]
+[Black "Escandell, Juan C"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "99ffa170"]
+[Epoch "Queen"]
+[BlackID "100919"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Re8 11. Bf4 Nc5 12. f3 Qb6 13. Rb1 Ne6 14. Be3 Ng4 15.
+Na4 Nxe3 0-1

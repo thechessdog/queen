@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schenning, Albert"]
+[Black "Meszarosictor"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "0bbef250"]
+[Epoch "Queen"]
+[WhiteID "1018680"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Bb4 5. Nf3 Nc6 6. Nd5 Nxe4 7. O-O O-O 8.
+d4 Nd6 9. Bd3 Re8 10. Bxf4 Ne4 11. Bxc7 1-0

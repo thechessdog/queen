@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Picco, R."]
+[Black "Thielen, D."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "db22dc26"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Nxf6+
+gxf6 8. d4 Bg7 9. c4 a6 10. Ba4 Bg4 11. dxe5 O-O 12. cxd5 Nxe5 13. h3 Bh5
+14. O-O Qe7 15. g4 Bf7 0-1
+

@@ -1,0 +1,21 @@
+[Event "Badajoz"]
+[Site "Badajoz"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "3f20f9fc"]
+[Epoch "Queen"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be2 Bd6 7. Bf3 O-O
+8. Ne2 Qc7 9. h3 Be6 10. O-O Nd7 11. c3 Rfe8 12. b3 Nf8 13. c4 Rad8 14. Qc2 Ng6
+15. Bd2 Qc8 16. Be4 Bxh3 17. gxh3 Qxh3 18. f4 Qg4+ 19. Kf2 Nxf4 20. Bxf4 Bxf4
+21. Nxf4 Qxf4+ 22. Bf3 Rxd4 23. Rad1 Re3 0-1

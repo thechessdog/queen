@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kukulenko, WT."]
+[Black "Ziese, G."]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "f0622afb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 a6 8. Bd3
+b5 9. cxb5 axb5 10. e5 dxe5 11. fxe5 Ng4 12. Bxb5 Nxe5 13. Nxe5 Bxe5 14.
+Bh6 Bg7 15. Bxg7 Kxg7 16. O-O Na6 17. Re1 Bb7 18. Qe2 Nc7 19. Qe5+ Kg8 20.
+Bc4 Re8 21. Rad1 Qd6 22. Qxd6 exd6 23. Ne4 Red8 24. Nf6+ Kg7 25. Re7 Rac8
+26. Nd7 Re8 27. Rde1 Rxe7 28. Rxe7 Re8 29. Rxe8 Nxe8 30. a4 Nc7 31. Nb6 Kf6
+32. Kf2 Ke5 33. Ke3 Bxd5 34. Nxd5 Nxd5+ 35. Kd3 Nb4+ 36. Ke3 d5 37. Bb5
+Nc2+ 38. Kd2 Nd4 39. Be8 Ke6 40. a5 Nb3+ 41. Kc3 Nxa5 42. b4 cxb4+ 43. Kxb4
+Nc4 44. Kc5 Ne3 45. g3 f6 46. Kd4 Nf5+ 47. Kc3 Ke5 48. Kd3 Nd6 49. Bc6 f5
+50. Ke3 g5 51. h3 Ne4 52. Kf3 h5 53. Bb7 g4+ 54. hxg4 hxg4+ 55. Kg2 Nc5 56.
+Bc6 d4 0-1
+

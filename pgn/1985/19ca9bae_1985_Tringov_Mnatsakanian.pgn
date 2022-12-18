@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tringov, Georgi P"]
+[Black "Mnatsakanian, Eduard A"]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "19ca9bae"]
+[Epoch "Queen"]
+[WhiteCountry "BGR"]
+[BlackCountry "ARM"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 a6 9. c3 e5 10. Qb3 Qxb3 11. Nxb3 Be6 12. Nc5 Bxc5 13. Bxc5 O-O-O 14.
+Be2 Kc7 15. b3 Rd7 16. f3 Rhd8 1/2-1/2

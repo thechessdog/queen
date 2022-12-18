@@ -1,0 +1,21 @@
+[Event "Fyn"]
+[Site "Fyn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nielsen, Henning"]
+[Black "Bank Friis, Carsten"]
+[Result "0-1"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "4.Bg5"]
+[HashCode "7a46a059"]
+[Epoch "Queen"]
+[BlackID "1400495"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. Nf3 h6 6. Bf4 dxc4 7. e4 b5 8. a3 Bb7
+9. Be2 Be7 10. O-O a6 11. b3 cxb3 12. Qxb3 O-O 13. Rfd1 Nbd7 14. Ne5 Qb6 15.
+Rd3 c5 16. Nxd7 Nxd7 17. Rg3 cxd4 18. Bxh6 Bf6 19. Rd1 dxc3 20. Rxd7 Bxe4 21.
+Bxg7 Bxg7 22. Qxc3 e5 23. Qxe5 Bg6 24. Qd5 Rae8 25. Kf1 Re6 26. h4 Be4 27. Qd2
+Rg6 28. Rxg6 fxg6 29. f3 Qf6 30. Kg1 Bf5 31. Rd6 Qxh4 32. g4 Qg3+ 33. Kf1 Bxg4
+34. Rxg6 Bh3# 0-1

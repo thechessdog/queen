@@ -1,0 +1,21 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Levin, Felix"]
+[Black "Karasev, Vladimir I"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Byrne (Simagin) variation"]
+[HashCode "b77b2b16"]
+[Epoch "Queen"]
+[WhiteID "4650905"]
+[WhiteCountry "GER"]
+[BlackID "4103971"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8.
+Bf4 Nd7 9. Nd5 Nxd4 10. Bxc7 Nxf3+ 11. gxf3 Qe8 12. Qb4 Ne5 13. Nxe7+ Kh8 14.
+O-O-O Nc6 15. Nxc6 Qxc6+ 16. Qc4 Qxc4+ 17. Bxc4 Bh3 18. Kb1 Rfc8 19. Bxf7 Rxc7
+20. Bd5 Bg2 21. Rhg1 Bxf3 22. Rd3 Rf8 0-1

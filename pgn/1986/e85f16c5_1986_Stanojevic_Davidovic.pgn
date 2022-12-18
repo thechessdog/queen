@@ -1,0 +1,24 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Stanojevic, Branko"]
+[Black "Davidovic, Aleksandar"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "e85f16c5"]
+[Epoch "Queen"]
+[WhiteID "902560"]
+[WhiteCountry "SRB"]
+[BlackID "3200051"]
+[BlackCountry "AUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. O-O Be7 9. Bg5 O-O 10. Nc3 c6 11. Re1 h6 12. Bh4 Re8 13. Qd2 Be6 14. a3 Qd7
+15. Bg3 Bf5 16. Bxf5 Qxf5 17. Re5 Qd7 18. Rae1 Bc5 19. b4 Bd6 20. Rxe8+ Rxe8
+21. Rxe8+ Nxe8 22. b5 Bxg3 23. hxg3 Nc7 24. bxc6 Qxc6 25. Na2 Qc4 26. Nb4 Qc5
+27. Qd3 a5 28. Na6 Nxa6 29. Qxa6 Qxc2 30. Qxa5 Qd1+ 31. Kh2 Qh5+ 32. Kg1 Qd1+
+33. Kh2 g6 34. Qd8+ Kg7 35. a4 d4 36. a5 d3 37. a6 d2 38. a7 Qh5+ 39. Qh4 d1=Q
+40. a8=Q Qc5 41. Qxh6+ Kxh6 42. Qh8+ Kg5 0-1

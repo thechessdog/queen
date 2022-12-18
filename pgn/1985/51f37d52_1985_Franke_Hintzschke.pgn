@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Franke, Heribert"]
+[Black "Hintzschke, I."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "51f37d52"]
+[Epoch "Queen"]
+[WhiteID "4600576"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. f5 a6 13. Bxd7 Bxd7 14. Bg5 f6 15.
+Bf4 Qe7 16. fxg6 hxg6 17. Nh4 Kh7 18. Qf3 Bh6 19. Nxg6 Kxg6 20. Qg3+ Kh7 21.
+Qh4 Qg7 22. Rf3 Bg4 23. Bxh6 Qxh6 24. Qxg4 Rg8 25. Qf5+ Kg7 26. Rh3 1-0

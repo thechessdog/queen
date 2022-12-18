@@ -1,0 +1,19 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmidt, F."]
+[Black "Laengl, Juergen"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "0c1f2c4a"]
+[Epoch "Queen"]
+[BlackID "4650620"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 8. Nxe5
+Nxe5 9. dxe5 Qc7 10. f4 O-O-O 11. a4 Ne7 12. Be3 Nf5 13. Bf2 Bc6 14. Qb3 g5 15.
+g4 gxf4 16. Na3 c4 17. Qd1 Bxa3 18. Rxa3 Rhg8 19. h3 h5 20. Qd2 hxg4 21. Bxg4
+Qh7 0-1

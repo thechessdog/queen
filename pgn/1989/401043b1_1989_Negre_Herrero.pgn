@@ -1,0 +1,19 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Negre, Albert"]
+[Black "Herrero, A."]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "401043b1"]
+[Epoch "Queen"]
+[WhiteID "603856"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. h4 h5 11. O-O-O Ne5 12. Bb3 Qb8 13. Bh6 b5 14. g4 a5 15. Nd5
+Nxd5 16. Bxd5 Ra6 17. Bxg7 Kxg7 18. a3 b4 19. gxh5 bxa3 20. bxa3 Rb6 21. Qxa5
+e6 22. Bb3 Rc8 23. Kd2 Rc5 0-1

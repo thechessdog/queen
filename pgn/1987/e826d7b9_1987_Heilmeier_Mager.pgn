@@ -1,0 +1,18 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.??.??"]
+[Round "2"]
+[White "Heilmeier"]
+[Black "Mager, Thomas"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Gledhill attack"]
+[HashCode "e826d7b9"]
+[Epoch "Queen"]
+[BlackID "4649486"]
+[BlackCountry "GER"]
+
+1. Nc3 Nf6 2. e4 d5 3. e5 Nfd7 4. d4 e6 5. Qg4 a6 6. Bg5 h5 7. Qg3 f6 8. Bd3
+fxg5 9. Bg6+ Ke7 10. Qxg5+ Nf6 11. exf6+ gxf6 12. Qh4 Bd7 13. Nf3 Nc6 14. O-O-O
+Be8 15. Ne5 Nxe5 16. dxe5 Bg7 17. Qb4+ 1-0

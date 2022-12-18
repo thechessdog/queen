@@ -1,0 +1,20 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Friedman, Edward"]
+[Black "Salomon, Miguel"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "c82c49cc"]
+[Epoch "Queen"]
+[WhiteID "2002272"]
+[BlackID "2001080"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. Ne5 Qb6 8.
+Qe2 Be7 9. d4 O-O 10. c3 Nxe5 11. dxe5 Bg4 12. Qf1 Nd5 13. Bd3 Rad8 14. Qf2 Ne3
+15. Bxe3 fxe3 16. Qc2 Rxd3 17. Qxd3 Rd8 18. Qc2 Qxb2 0-1

@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Biro, Andras"]
+[Black "Marosi, Gyorgy"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "7dabcad2"]
+[Epoch "Queen"]
+[WhiteID "701777"]
+[WhiteCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. O-O Bd3 12. d6 exd6 13. Bxb7 Rb8 14. Bg2
+Re8 15. Qd1 Ba6 16. Re1 Qd7 17. b3 Qf5 18. Bf4 1/2-1/2

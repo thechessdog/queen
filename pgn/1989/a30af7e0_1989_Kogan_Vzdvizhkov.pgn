@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kogan, Boris"]
+[Black "Vzdvizhkov, D."]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "a30af7e0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 d5 14. exd5 Bd6 15.
+dxe5 Nxe5 16. Bg5 Bxd5 17. Bxf6 Bxf3 18. Bxd8 Bxd1 19. Bxc7 Nf3+ 20. gxf3 Rxe1
+21. Bxd6 Rxf1+ 22. Kxf1 Bxc2 1/2-1/2

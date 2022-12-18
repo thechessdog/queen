@@ -1,0 +1,16 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Romito, D."]
+[Black "Crippa, A."]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence, Alekhine variation"]
+[HashCode "33b0c31b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 e5 5. Nf3 exd4 6. Qxd4 Qxd4 7. Nxd4 Nf6
+8. f3 Bc5 9. Be3 Nbd7 10. Bxc4 O-O 11. Kf2 Nb6 12. Bb3 Bd7 13. Rhd1 Rad8
+14. Rac1 Bxd4 15. Bxd4 Be6 16. Bc2 Nfd7 17. f4 1-0
+

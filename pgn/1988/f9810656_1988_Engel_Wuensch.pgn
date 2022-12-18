@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Engel"]
+[Black "Wuensch"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "f9810656"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O h6 12. Bh4 Nbd7 13. Kh1 Qc5 14. Bf2
+Qc7 15. Bf3 Nc5 16. e5 dxe5 17. fxe5 Qxe5 18. Nc6 Nce4 19. Nxe4 Nxe4 20.
+Bxe4 Qxe4 21. Nxe7 Kxe7 22. Bc5+ Ke8 23. Qd6 Qh4 24. Rfd1 Qf6 25. Rxb7 1-0
+

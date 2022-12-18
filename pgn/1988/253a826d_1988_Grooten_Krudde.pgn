@@ -1,0 +1,23 @@
+[Event "Dieren open"]
+[Site "Dieren open"]
+[Date "1988.09.01"]
+[Round "2"]
+[White "Grooten, Herman"]
+[Black "Krudde, Fitzgerald"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "253a826d"]
+[Epoch "Queen"]
+[WhiteID "1000330"]
+[WhiteCountry "NED"]
+[BlackID "1001175"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Nd2
+O-O 9. Be2 Re8 10. O-O Nbd7 11. Re1 Ne5 12. Nf1 c4 13. a4 a6 14. h3 Rb8 15. f4
+Nd3 16. Bxd3 cxd3 17. Qxd3 b5 18. axb5 axb5 19. Bd2 b4 20. Na4 Qa5 21. Ng3 h5
+22. Kh2 h4 23. Nh1 Nh5 24. Nf2 f5 25. Qb3 Bd4 26. Be3 Bxe3 27. Qxe3 Qb5 28. Qd4
+Nxf4 29. Qf6 Qd7 30. Qxh4 Nh5 31. exf5 Bb7 32. fxg6 Qf5 33. Ne4 Rf8 34. Nxd6
+Qxd5 35. Nxb7 Rxb7 36. Rad1 Qa5 37. Qc4+ Kh8 38. Rd5 1-0

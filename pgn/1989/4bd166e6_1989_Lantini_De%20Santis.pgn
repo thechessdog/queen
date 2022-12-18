@@ -1,0 +1,21 @@
+[Event "Chianciano tt"]
+[Site "Chianciano"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lantini, Marco"]
+[Black "De Santis, Alessio"]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "4bd166e6"]
+[Epoch "Queen"]
+[WhiteID "801054"]
+[BlackID "803405"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 exd5 6. Bg5 Be6 7. e3 Nc6 8. Bb5
+Be7 9. dxc5 O-O 10. Bxc6 bxc6 11. b4 a5 12. a3 Bg4 13. O-O axb4 14. axb4 Rxa1
+15. Qxa1 Bxf3 16. gxf3 Qd7 17. Ne2 Qf5 18. Bf4 Nh5 19. Qe5 Qg6+ 20. Ng3 Bf6 21.
+Qxh5 0-1

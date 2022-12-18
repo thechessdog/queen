@@ -1,0 +1,19 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lehmann, Klaus"]
+[Black "Rodriguez, Marquez"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "49c12205"]
+[Epoch "Queen"]
+[WhiteID "4603249"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Na6 7. e5 Ne8 8. Bf4
+c5 9. exd6 cxd4 10. dxe7 Qxe7 11. Nb5 d3 12. Bxd3 Bxb2 13. Rb1 Bg7 14. Re1 Qd8
+15. Be3 Nec7 16. Be4 Nxb5 17. Rxb5 Nc7 18. Rb1 Ne6 19. Qxd8 Nxd8 20. Bc5
+1/2-1/2

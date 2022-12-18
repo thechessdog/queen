@@ -1,0 +1,19 @@
+[Event "NDEM Konigslutter"]
+[Site "NDEM Konigslutter"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wegner, Hannu"]
+[Black "Neumark, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "26df17ba"]
+[Epoch "Queen"]
+[WhiteID "4600509"]
+[WhiteCountry "GER"]
+[BlackID "4604121"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ gxf6 7. d4 d6 8.
+O-O Bg7 9. dxe5 1/2-1/2

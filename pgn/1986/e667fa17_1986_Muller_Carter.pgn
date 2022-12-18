@@ -1,0 +1,19 @@
+[Event "corr ch-USA"]
+[Site "corr ch-USA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Muller, T."]
+[Black "Carter, M."]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "e667fa17"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Bd3
+exd5 9. cxd5 Qb6 10. Nd2 Ng4 11. Qf3 f5 12. h3 fxe4 13. Ncxe4 Ne5 14. Qe2
+Rxf4 15. Nc4 Nxc4 16. Bxf4 Nxb2 17. Rb1 Bf5 18. Bc2 Na6 19. Nxd6 Qb4+ 20.
+Bd2 Qh4+ 21. Kf1 Bd7 22. Kg1 Qg3 23. Ne4 Bd4+ 24. Nf2 Rf8 25. Be1 Bb5 26.
+Qxb5 Rxf2 27. Bxf2 Qxf2+ 28. Kh2 Be5# 0-1
+

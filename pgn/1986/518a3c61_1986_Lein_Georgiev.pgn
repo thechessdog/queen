@@ -1,0 +1,20 @@
+[Event "Quebec International"]
+[Site "Quebec International"]
+[Date "1986.01.01"]
+[Round "2"]
+[White "Lein, Anatoly"]
+[Black "Georgiev, Kiril"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "518a3c61"]
+[Epoch "Queen"]
+[WhiteID "2000270"]
+[WhiteCountry "USA"]
+[BlackID "2900017"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Bd6 7. Nc3 O-O 8. cxd5
+exd5 9. b3 Nbd7 10. Nb5 Be7 11. Ne5 a6 12. Nc3 Bd6 13. f4 Ne4 14. Bb2 Ndf6 15.
+Rc1 Nxc3 16. Rxc3 Ne4 17. Rc2 f6 18. Bxe4 dxe4 19. Nc4 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beil, Zdenek"]
+[Black "Nun, Joseph"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "090cae8e"]
+[Epoch "Queen"]
+[WhiteID "300667"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 10. O-O f5 11. exf5 Bxf5 12. Nde4 Na6 13. Bg5 Qb6 14. Qd2 Qb4
+15. Ng3 Bd7 16. Rad1 Bf6 17. Nge4 Qb6 18. Nxf6+ Nxf6 19. Rfe1 Rae8 20. Bxf6
+Rxf6 21. Bc4 Rff8 22. Ne4 Nc7 23. b3 Bf5 24. f3 Bxe4 25. fxe4 Nb5 26. e5 Nd4
+27. e6 Qd8 28. b4 b6 29. bxc5 bxc5 30. Rb1 Qh4 31. Rb7 Re7 32. Reb1 Nf5 33. Bf1
+Nd4 34. Rb8 Ree8 35. Rxe8 Rxe8 36. Rb7 Re7 37. Rb8+ Kg7 38. Qf2 Qxf2+ 39. Kxf2
+Kf6 40. Bc4 Ke5 41. g4 Nc2 42. Rf8 Na3 43. Bb3 c4 44. Rf7 cxb3 45. Rxe7 bxa2
+46. Rf7 a1=Q 47. e7 Qd4+ 48. Kg3 Qe3+ 0-1

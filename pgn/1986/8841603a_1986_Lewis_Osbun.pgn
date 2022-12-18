@@ -1,0 +1,17 @@
+[Event "corr Anglo Pacific"]
+[Site "corr Anglo Pacific"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Osbun"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "8841603a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Bxf6 gxf6 11. exf6 Qe5+ 12. Be2 Ra7 13. Nf3 Qxf6
+14. O-O Rd7 15. Bd3 Bb7 16. Qe2 Bg7 17. Nd2 Qh6 18. Qf2 Bd4 0-1
+

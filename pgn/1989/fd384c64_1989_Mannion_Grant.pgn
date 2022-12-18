@@ -1,0 +1,20 @@
+[Event "St Andrews"]
+[Site "St Andrews"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Mannion, Stephen R"]
+[Black "Grant, Jonathan I M"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "fd384c64"]
+[Epoch "Queen"]
+[WhiteID "2400111"]
+[WhiteCountry "SCO"]
+[BlackID "2400294"]
+[BlackCountry "SCO"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6 7. h4 c5 8. h5 Bf7
+9. f4 Nc6 10. Be3 cxd4 11. Nxd4 Bb4 12. Bb5 Rc8 13. O-O Bxc3 14. bxc3 fxe5 15.
+fxe5 Qh4 16. Qf3 Kd8 17. Nxe6+ Kd7 18. Qxd5+ 1-0

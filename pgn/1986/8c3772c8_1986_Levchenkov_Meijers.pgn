@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Levchenkov, Vitaly"]
+[Black "Meijers, Viesturs"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "8c3772c8"]
+[Epoch "Queen"]
+[WhiteID "11600411"]
+[BlackID "11600314"]
+[WhiteCountry "LAT"]
+[BlackCountry "LAT"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8.
+Re1 Re8 9. c4 c6 10. Nc3 Nxc3 11. bxc3 Bg4 12. Rxe8+ Qxe8 13. Be3 Nd7 14. cxd5
+cxd5 15. Bxh7+ Kh8 16. Bd3 Rc8 17. h3 Bh5 18. g4 Bg6 19. Bxg6 fxg6 20. Qd3 Nf6
+21. Ng5 Ne4 22. Rc1 Bb8 23. f3 Nxg5 24. Bxg5 Rc6 25. Kf2 Qf7 26. Re1 Qc7 27. f4
+Kh7 28. Re3 Ra6 29. Kg3 Rxa2 30. h4 Qf7 31. h5 Ra6 32. Kg2 Ra2+ 33. Kf3 Rh2 34.
+Kg3 Rb2 35. Re7 1-0

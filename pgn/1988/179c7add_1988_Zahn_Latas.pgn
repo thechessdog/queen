@@ -1,0 +1,21 @@
+[Event "Myslenice A"]
+[Site "Myslenice A"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Zahn, Juergen"]
+[Black "Latas, Boguslaw"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "179c7add"]
+[Epoch "Queen"]
+[WhiteID "4612345"]
+[WhiteCountry "GER"]
+[BlackID "1102834"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. a4
+O-O 9. Be3 Be6 10. O-O Nbd7 11. f3 Qc7 12. Nd5 Bxd5 13. exd5 Nb6 14. Bxb6 Qxb6+
+15. Kh1 Nd7 16. a5 Qd8 17. Bd3 Bg5 18. Bf5 Nf6 19. Qd3 g6 20. Bh3 h5 21. g3 h4
+22. Nd2 hxg3 23. hxg3 Nh5 24. Kg2 Bf4 25. g4 Ng3 26. Rf2 Qh4 0-1

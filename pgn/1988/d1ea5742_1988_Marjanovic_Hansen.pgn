@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "d1ea5742"]
+[Epoch "Queen"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. h3 c5 7. Be2 cxd4 8. exd4
+Nc6 1/2-1/2

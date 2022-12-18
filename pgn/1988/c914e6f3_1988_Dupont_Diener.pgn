@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dupont, G."]
+[Black "Diener, R."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "c914e6f3"]
+[Epoch "Queen"]
+
+1. b4 c6 2. c4 Qb6 3. a3 Qd4 4. Qc2 Qxa1 5. Bb2 Qa2 6. e4 Na6 7. Nf3 Nxb4
+8. axb4 Qa6 9. Be2 Qb6 10. Qb3 f6 11. c5 Qc7 12. O-O Nh6 13. d4 e6 14. Nbd2
+b5 15. d5 e5 16. d6 Qd8 17. Nh4 g6 18. f4 Bg7 19. Nf5 Nxf5 20. fxe5 fxe5
+21. Rxf5 Rf8 22. Rh5 Qf6 23. Rxe5+ Kd8 24. Re8+ Kxe8 25. Bxf6 Bxf6 26. Qh3
+Rf7 27. Nf3 a5 28. e5 Bd8 29. e6 dxe6 30. Ne5 Rg7 31. Nxg6 Bg5 32. Bh5 Kd8
+33. Qf3 1-0
+

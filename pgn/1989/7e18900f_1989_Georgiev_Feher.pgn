@@ -1,0 +1,20 @@
+[Event "Cappelle op"]
+[Site "Cappelle"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Georgiev, Krum"]
+[Black "Feher, Gyula"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "7e18900f"]
+[Epoch "Queen"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackID "700533"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 Qb6 6. Na3 Ng6 7. Bb2 a6 8. Nc4
+Qc7 9. Bxc6 Qxc6 10. d4 cxd4 11. Nxd4 Qxe4 12. Re1 Qf4 13. Nb6 Rb8 14. Nd5 f6
+1-0

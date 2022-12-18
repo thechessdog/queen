@@ -1,0 +1,27 @@
+[Event "Lyngby op"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Kruszynski, Wlodzimierz"]
+[Black "Hansen, Lars Bo"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b3b3b240"]
+[Epoch "Queen"]
+[WhiteID "1100670"]
+[WhiteCountry "POL"]
+[BlackID "1400037"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 b6 9. Bf4 Bb7 10. Bf3 Qd7 11. Nge2 Rd8 12. Rc1 Na6 13. Qa3 Bf8 14. Be5 Ne8
+15. O-O Nac7 16. Bxc7 Qxc7 17. Ne4 Qb8 18. N4c3 Nf6 19. Qb3 Rd7 20. Rc2 h5 21.
+g3 Qd8 22. Nf4 Bg7 23. h4 Ne8 24. Rd1 Nd6 25. Bg2 Rc7 26. Re2 Rb8 27. Nb5 Nxb5
+28. Qxb5 Qd6 29. Qd3 Bc8 30. Rde1 Bf5 31. Be4 Bg4 32. f3 Bd7 33. Bxg6 fxg6 34.
+Qxg6 Qxg6 35. Nxg6 Bxd4+ 36. Kg2 Bf6 37. Nxe7+ Kf7 38. d6 Rc5 39. b4 Rc4 40.
+Nd5 Rd4 41. Nf4 Rxd6 42. Nxh5 Bd8 43. Nf4 Rc8 44. h5 Rc3 45. Ng6 Bf6 46. g4 Bc6
+47. Re3 Rdd3 48. Rxd3 Rxd3 49. Rf1 Rc3 50. a4 Bxa4 51. f4 Bc6+ 52. Kh2 Rc2+ 53.
+Kg3 Rc3+ 54. Kh2 Bf3 55. Rg1 a5 56. bxa5 bxa5 57. f5 Bd4 58. Re1 Kf6 59. h6
+Bxg4 60. h7 Kxf5 0-1

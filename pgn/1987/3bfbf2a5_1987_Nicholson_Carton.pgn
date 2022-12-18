@@ -1,0 +1,22 @@
+[Event "Swansea ch-BCF"]
+[Site "Swansea ch-BCF"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Nicholson, John G"]
+[Black "Carton, Niall"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "3bfbf2a5"]
+[Epoch "Queen"]
+[BlackID "2500299"]
+[BlackCountry "IRL"]
+[WhiteID "401730"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8. Bd3
+cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qh6 Rxg2 12. Bf4 Nbc6 13. Ng3 Qb6 14. Rf1 Qb2
+15. Rc1 Nd4 16. Kd1 Nf3 17. Nh5 Ng6 18. Bg3 Ngxe5 19. Nf6+ Ke7 20. Ng8+ Kd7 21.
+Qf8 Rxg3 22. fxg3 Nxd3 23. Qxf7+ Kd6 24. Qf8+ Kc7 25. Rxf3 Qxc1+ 26. Ke2 Qe1+
+27. Kxd3 Qd2# 0-1

@@ -1,0 +1,19 @@
+[Event "corr CA open"]
+[Site "corr CA open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "McHoull"]
+[Black "Bowers"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "951cdc70"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. a3 Nxd2 7. Bxd2
+Bxd2+ 8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. O-O-O O-O-O 12. Be2 Rhe8 13. Rd5
+Nb8 14. Rd2 Nc6 15. Rd5 Nb8 16. Kb1 Bxd5 17. cxd5 Kb7 18. Rd1 Rc8 19. Rd4
+f6 20. exf6 Qxf6 21. Qd3 h6 22. h4 g5 23. Rg4 Rg8 24. hxg5 hxg5 25. e4 Rcf8
+26. Qc4 c6 27. e5 cxd5 28. exf6 dxc4 29. Bxc4 Rh8 30. f7 Nc6 31. Rxg5 1-0
+

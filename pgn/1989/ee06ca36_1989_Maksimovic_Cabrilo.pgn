@@ -1,0 +1,25 @@
+[Event "Pljevlja"]
+[Site "Pljevlja"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maksimovic, Branimir"]
+[Black "Cabrilo, Goran"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ee06ca36"]
+[Epoch "Queen"]
+[WhiteID "901490"]
+[WhiteCountry "SRB"]
+[BlackID "900249"]
+[BlackCountry "SRB"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Ba6 13. Bf4 Bxc4 14. Bxc4 a6 15.
+Re1 Nh5 16. Bc1 Re8 17. Bf1 Qd7 18. Qd3 Rab8 19. h3 b5 20. axb5 axb5 21. Ra7 c4
+22. Qd1 Ra8 23. Nxb5 Qxb5 24. Rxc7 Bxb2 25. Qf3 Rf8 26. Rxc4 Qa5 27. Rd1 Be5
+28. Bh6 Ng7 29. Rdc1 Rae8 30. Qd3 f5 31. exf5 Rxf5 32. Rc8 Rff8 33. Rxe8 Rxe8
+34. Qb5 Qd8 35. Be3 Nf5 36. Bg5 Qa8 37. Qd7 Rf8 38. Rc7 Ng7 39. Be3 Qa1 40. Rc8
+Qd1 41. Bg5 h5 42. Rxf8+ Kxf8 43. Qd8+ Kf7 44. Be7 g5 45. Bxd6 Qxd5 46. Qe7+
+1-0

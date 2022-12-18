@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Naumann"]
+[Black "Kell"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "0cb261b2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 e6
+8. Ng3 Bg6 9. h4 h5 10. Bd3 Bxd3 11. Qxd3 Bd6 12. Rh3 Qc7 13. Ne4 Nd7 14.
+Be3 Rg8 15. O-O-O f5 16. Ng5 Nf6 17. Rf3 O-O-O 18. g3 c5 19. Bf4 cxd4 20.
+Qc2 Bxf4+ 21. gxf4 d3 22. Rfxd3 Rxd3 23. Qxd3 Qxf4+ 24. Kb1 Qxf2 25. Nxf7
+Qb6 26. Ng5 a6 27. Qd6 Qxd6 28. Rxd6 Ne4 29. Nxe4 fxe4 30. Rxe6 Rg4 31. Re5
+Rxh4 32. Kc1 Kd7 33. Kd2 Kd6 34. Rg5 Rh3 35. Ke2 Rh2+ 36. Ke3 Rxb2 37. Rxh5
+Rxa2 38. Kxe4 Rd2 39. Rg5 b6 40. Rg6+ Kc5 41. Rg5+ Kc6 42. Rg8 b5 43. Rg6+
+Rd6 44. Rg8 Kc5 45. Ke3 Kc4 46. Rc8+ Kb3 47. Rc5 Ka4 48. Rc8 Kb3 49. Ke4 a5
+50. Rc5 b4 51. cxb4 axb4 52. Rb5 Kc3 53. Rc5+ Kb2 54. Rb5 b3 55. Ke3 Ka2
+56. Ra5+ Kb1 57. Ra8 b2 58. Ke2 Rd5 0-1
+

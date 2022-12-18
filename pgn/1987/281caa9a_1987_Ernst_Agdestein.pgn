@@ -1,0 +1,26 @@
+[Event "Gausdal zt"]
+[Site "Gausdal zt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Agdestein, Simen"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "281caa9a"]
+[Epoch "Queen"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+[BlackID "1500015"]
+[BlackCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 Nxb3 8. axb3
+f6 9. c4 b4 10. Nh4 Ne7 11. Be3 g6 12. Qd2 exd4 13. Bxd4 Bg7 14. Be3 a5 15. Bh6
+O-O 16. Bxg7 Kxg7 17. Qe3 c5 18. Nd2 g5 19. Nhf3 Ng6 20. Rfd1 Re8 21. Nf1 h5
+22. Qd3 Ra6 23. Ne3 Nf4 24. Qc2 h4 25. Nd5 Nxd5 26. cxd5 h3 27. g3 Ra7 28. Re1
+Rae7 29. Re3 Bg4 30. Rae1 Qd7 31. Nd2 f5 32. Qc4 Bh5 33. Qf1 fxe4 34. Nxe4 g4
+35. Qa6 Bf7 36. Nxd6 Rxe3 37. fxe3 Rd8 38. Nxf7 Qxf7 39. e4 Qf3 40. Qe2 Qxe2
+41. Rxe2 Kf6 42. Kf2 Ke5 43. Ke3 c4 44. bxc4 Rf8 45. c5 a4 46. c6 a3 47. bxa3
+bxa3 48. Rc2 Rc8 49. Kd3 Rc7 50. Kc4 Kxe4 51. Kc5 Ra7 52. Ra2 Ra5+ 53. Kb6 Rxd5
+54. c7 Rd6+ 55. Kb7 1-0

@@ -1,0 +1,20 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "5"]
+[White "Westerinen, Heikki M.J."]
+[Black "Pliester, Leon"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "a6088335"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Bg4 11. h3 Bh5 12. Qe1 Bg6 13. Nd4 Nxd4 14. cxd4 Nxb3
+15. Nxb3 Bd3 16. Qc3 Bc4 17. Re1 Qh4 18. Na5 c5 19. Qf3 Be7 20. Nc6 Rc8 21. g3
+Qxh3 22. Nxe7 Kxe7 23. b3 cxd4 24. bxc4 dxc4 25. e6 fxe6 26. Ba3+ 1-0

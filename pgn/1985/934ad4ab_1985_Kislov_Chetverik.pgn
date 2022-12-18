@@ -1,0 +1,22 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kislov, Sergey"]
+[Black "Chetverik, Maxim"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "934ad4ab"]
+[Epoch "Queen"]
+[WhiteID "4124120"]
+[BlackID "4106784"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8. Rc1
+O-O 9. b3 Nc6 10. d5 Ne5 11. Be2 h6 12. f4 Ned7 13. Nf3 Nf6 14. Nd4 a5 15. O-O
+Nbd7 16. a3 Nc5 17. Kh1 Bd7 18. b4 axb4 19. axb4 Na4 20. Ndb5 Nxc3 21. Nxc3 Ra3
+22. Bd4 Bf5 23. Bf3 h5 24. Ra1 Qa8 25. c5 Ng4 26. Rxa3 Qxa3 27. Bxg7 Ne3 28.
+Qa1 Qxa1 29. Rxa1 Kxg7 30. c6 Nc2 31. Ra4 e6 32. cxb7 Rb8 33. dxe6 1-0

@@ -1,0 +1,23 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Robatsch, Karl"]
+[Black "Cvetkovic, Srdjan"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "640b6fdc"]
+[Epoch "Queen"]
+[BlackID "900621"]
+[BlackCountry "SRB"]
+[WhiteCountry "AUT"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bf4 dxc4 6. e4 Bb4 7. Qc2 b5 8. e5
+Nd5 9. Bg5 Be7 10. Bxe7 Qxe7 11. Nxb5 Qb4+ 12. Nc3 Rb8 13. Nd2 Qxb2 14. Qxb2
+Rxb2 15. Nd1 Rb8 16. Bxc4 c5 17. dxc5 Nxe5 18. Bxd5 Nd3+ 19. Ke2 Nf4+ 20. Kf3
+Nxd5 21. Nc4 Ba6 22. Nd6+ Ke7 23. Ne3 Nxe3 24. Kxe3 Rb2 25. Rhb1 Rhb8 26. Rxb2
+Rxb2 27. a4 Re2+ 28. Kf3 Rc2 29. Nb5 Bb7+ 30. Ke3 a6 31. Nd4 Rc3+ 32. Kd2 Rxc5
+33. g3 Bd5 34. a5 g5 35. Nc2 Bc6 36. Nb4 Bb5 37. Na2 Rd5+ 38. Ke3 Rf5 39. Kd4
+Rxf2 40. Nc3 Bd7 41. Kc5 Rc2 42. Ra3 Rb2 0-1

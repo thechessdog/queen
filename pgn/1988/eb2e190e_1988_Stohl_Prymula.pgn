@@ -1,0 +1,23 @@
+[Event "Hradec Kralove"]
+[Site "Hradec Kralove"]
+[Date "1988.??.??"]
+[Round "7"]
+[White "Stohl, Igor"]
+[Black "Prymula, Roman"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "eb2e190e"]
+[Epoch "Queen"]
+[WhiteID "14900025"]
+[BlackID "301574"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Ne8 11. Nc4 f5 12. exf5 Bxf5 13. Bf4 b5 14. Ne3 Bd7 15.
+Bg3 Nac7 16. Qd2 a5 17. Ne4 Bf5 18. Nxf5 Rxf5 19. Bg4 Rf8 20. Ng5 Qf6 21. Ne6
+Rf7 22. Nxg7 Nxg7 23. Rfe1 Nf5 24. Bxf5 gxf5 25. Bf4 b4 26. Re3 Rg7 27. Rae1 a4
+28. h4 a3 29. bxa3 Rxa3 30. Bg5 Qd4 31. Re8+ Nxe8 32. Rxe8+ Kf7 33. Qe2 Re3 34.
+Rxe3 1-0

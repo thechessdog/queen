@@ -1,0 +1,14 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Belotti, Bruno"]
+[Black "Shneider, Aleksandr"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "5a2727a4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 c5 5. a3 Bxd2+ 6. Bxd2 cxd4 7. Nxd4 d5
+8. cxd5 Qxd5 9. e3 a6 10. Qb3 Qxb3 11. Nxb3 Ne4 12. Bd3 Nxd2 1/2-1/2

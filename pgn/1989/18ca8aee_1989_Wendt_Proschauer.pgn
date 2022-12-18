@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wendt"]
+[Black "Proschauer"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "18ca8aee"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. Rc1 Na5 12. Bd3 e6 13. h4 f5 14.
+Qd2 b6 15. h5 Bb7 16. hxg6 hxg6 17. Bh6 Qf6 18. e5 Qf7 19. Qg5 Rac8 20.
+Rxc8 1-0
+

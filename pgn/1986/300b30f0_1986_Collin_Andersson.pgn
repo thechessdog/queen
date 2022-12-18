@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Collin"]
+[Black "Andersson, Ulf"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "300b30f0"]
+[Epoch "Queen"]
+[BlackID "1700014"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. f4 fxe5 10. fxe5 Nxd4 11. Nxd4 Qh4+ 12. Ke2 Qxd4 13. Nf3 Qg4 14. Kf1 Nxe5
+0-1

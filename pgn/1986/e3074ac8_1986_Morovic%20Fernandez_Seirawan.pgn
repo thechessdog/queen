@@ -1,0 +1,19 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Seirawan, Yasser"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e3074ac8"]
+[Epoch "Queen"]
+[WhiteID "3405400"]
+[BlackID "2000032"]
+[WhiteCountry "CHI"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 1/2-1/2

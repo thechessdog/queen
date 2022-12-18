@@ -1,0 +1,18 @@
+[Event "Belgrade op"]
+[Site "Beograd open"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Marinkovic, Slavisa"]
+[Black "Pantos, Nenad"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "7c348aae"]
+[Epoch "Queen"]
+[WhiteID "903922"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. c3 Nxe4 8. d4
+exd4 9. Re1 d5 10. Ng5 Ne5 11. cxd4 Nc4 12. f3 Be7 13. Bxc4 Nxg5 14. Bxg5 f6
+15. Bd2 dxc4 16. Bb4 1-0

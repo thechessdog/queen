@@ -1,0 +1,16 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mayer, Frank"]
+[Black "Freyer, KH."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b2022a3e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Be7 9. g4 O-O 10. g5 b4 11. Na4 Bd7 12. gxf6 Bxf6 13. Be3 Qa5 14. Nb6 Qxb6 15.
+Nxe6 Qb5 16. Bc4 Qa5 17. Nxf8 Kxf8 18. O-O-O Nc6 19. f4 1-0

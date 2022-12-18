@@ -1,0 +1,17 @@
+[Event "Zalakaros"]
+[Site "Zalakaros"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Malishev, Vasily"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "366061a2"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 Nge7 9. Bd6 O-O 10. Nbd2 a6 11. Bc4 b5 12. Bd5 h6 13. Nb3 Re8 14. Rc1 Nxd5
+15. exd5 Qf6 1/2-1/2

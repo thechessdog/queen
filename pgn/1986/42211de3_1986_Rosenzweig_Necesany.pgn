@@ -1,0 +1,17 @@
+[Event "corr CSR-FSM"]
+[Site "corr CSR-FSM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rosenzweig"]
+[Black "Necesany"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "42211de3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Be7 5. Nc3 Nxe4 6. Nxe4 d5 7. d4 dxc4
+8. d5 Nd4 9. Nxd4 Qxd5 10. Nf3 Qxe4 11. Re1 Qc6 12. Nxe5 Qf6 13. Bd2 O-O
+14. Bc3 Bc5 15. Re2 Qf5 16. Qd5 Bd6 17. Rae1 Be6 18. Qxb7 f6 19. Nc6 Bd5
+20. Rd2 Bxg2 21. Rxd6 Bxc6 22. Rxc6 Qg4+ 1/2-1/2
+

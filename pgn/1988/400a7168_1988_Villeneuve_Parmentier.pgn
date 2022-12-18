@@ -1,0 +1,20 @@
+[Event "Le Touquet op"]
+[Site "Le Touquet op"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Villeneuve, Alain"]
+[Black "Parmentier, Xavier"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "400a7168"]
+[Epoch "Queen"]
+[WhiteID "600415"]
+[WhiteCountry "FRA"]
+[BlackID "601357"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Qc2
+c6 9. Be3 Ng4 10. Bg5 f6 11. Bc1 f5 12. dxe5 Ndxe5 13. Nxe5 Bxe5 14. g3 f4 15.
+Bxf4 Rxf4 16. gxf4 Qh4 0-1

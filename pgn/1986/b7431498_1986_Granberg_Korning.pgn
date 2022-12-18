@@ -1,0 +1,21 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Granberg, N."]
+[Black "Korning, P."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "b7431498"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Nc3 Nxc3 10. bxc3 Bg4 11. Rb1 dxc4 12. Bxc4 b5 13. Be2 a6 14.
+h3 Bf5 15. Bd3 Bxd3 16. Qxd3 Nd7 17. c4 h6 18. Bb2 Nf6 19. Rfc1 Rc8 20. a4
+b4 21. d5 a5 22. c5 Bf4 23. d6 Bxc1 24. Rxc1 Nd5 25. Rc4 Qd7 26. Rg4 Nc3
+27. Bxc3 bxc3 28. Qxc3 f6 29. Qxa5 Qf5 30. Qa7 g5 31. Nd4 Qd5 32. Qd7 Qf7
+33. Qf5 Rfe8 34. Re4 Rxe4 35. Qxe4 Re8 36. Qxc6 Re1+ 37. Kh2 Qc4 38. d7
+Qxd4 39. Qd6 1-0
+

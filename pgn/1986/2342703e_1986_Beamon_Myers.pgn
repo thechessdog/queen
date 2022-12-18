@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Beamon, S."]
+[Black "Myers, D."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "2342703e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. Bd2 Nf6 6. Nxe4 Bxd2+ 7. Nxd2
+Nc6 8. Nf3 O-O 9. g3 Qd6 10. c3 b6 11. Bg2 Bb7 12. Ne5 Nd5 13. Nxc6 Bxc6
+14. Qd2 a5 15. O-O-O Nxc3 16. Bxc6 Nxe2+ 17. Qxe2 Qxc6+ 18. Kb1 Rfd8 19.
+Rc1 Qd5 20. Rhd1 Rd7 21. Rc2 Rad8 0-1
+

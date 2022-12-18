@@ -1,0 +1,22 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Popovych, Orest"]
+[Black "Tisdall, Jonathan D"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "dc1ae0d0"]
+[Epoch "Queen"]
+[WhiteID "2002558"]
+[WhiteCountry "USA"]
+[BlackID "1500066"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 Qa5 10. Bd2 exf4 11. Qe2 Ne5 12. Bb3 Nxf3+ 13. gxf3 Qe5 14. Rg1 O-O
+15. O-O-O Bh3 16. Qf2 Rac8 17. Qh4 Nxe4 18. Qxh3 Nxd2 19. Rxd2 Rxc3 20. bxc3
+Qxc3 21. Rdd1 d5 22. Rxg7+ Kxg7 23. Rd3 Ba3+ 24. Kd1 Qa1+ 25. Kd2 Qc1+ 26. Kc3
+Bb2+ 27. Kb4 Qe1+ 0-1

@@ -1,0 +1,21 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lane"]
+[Black "Down"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4a0d6828"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. Bc4 Nb6 7. Bb3 Nc6 8.
+exd6 Qxd6 9. O-O Bf5 10. Nxd4 Nxd4 11. cxd4 e6 12. Nc3 Be7 13. Qf3 O-O 14.
+d5 Nd7 15. dxe6 fxe6 16. Rd1 Ne5 17. Qg3 Qc5 18. Be3 Qa5 19. Nd5 Ng6 20.
+Nxe7+ Nxe7 21. Rd7 Ng6 22. Rxb7 Rf7 23. Rxf7 Kxf7 24. Rc1 Rc8 25. Rd1 Rd8
+26. Qf3 Rxd1+ 27. Qxd1 Ne5 28. h3 Nd3 29. Qc2 Qe5 30. Qc3 Qe4 31. Qd4 a6
+32. Bc4 a5 33. Qd7+ Kg6 34. Qe8+ Kf6 35. Qd8+ Kg6 36. Bb5 h6 37. Be8+ Kh7
+38. Bf7 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Poenisch, E."]
+[Black "Preusse, G."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "1d1b2607"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. Bd2 b4 11. c3 d5 12. cxb4 dxe4 13. dxe4 Nxb4 14. Nxe5
+Nxe4 15. Qf3 Nd6 16. Qh5 g6 17. Nxg6 hxg6 18. Qxg6+ Kh8 19. Bc3+ 1-0
+

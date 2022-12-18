@@ -1,0 +1,21 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Valguarnera"]
+[Black "Martorelli, Antonio"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "bfc086b2"]
+[Epoch "Queen"]
+[BlackID "801399"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Bf3 Be7 7. g4 d5 8. Nc3
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Qa5+ 11. Kf1 Nd7 12. h4 Nf6 13. Bf3 e5 14. Nb3 Qb5+
+15. Be2 Qc6 16. Rg1 Be6 17. c4 Rd8 18. Qc2 h5 19. gxh5 Bb4 20. Bd2 Bh3+ 21. Ke1
+Bxd2+ 22. Nxd2 Nxh5 23. Bf3 Qc7 24. Rg5 Nf4 25. Be4 g6 26. Nf3 Qa5+ 27. Nd2
+Rxh4 28. Rb1 Ne6 29. b4 Rxd2 30. Kxd2 Qd8+ 31. Kc3 Qd4+ 32. Kb3 Nxg5 33. Bxb7
+Bf5 34. Bc6+ Kf8 0-1

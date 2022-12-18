@@ -1,0 +1,17 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gofshtein, Leonid D"]
+[Black "Vesely, Jiri"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "796d6746"]
+[Epoch "Queen"]
+[BlackID "353280"]
+[BlackCountry "CZE"]
+
+1. d4 Nc6 2. Nf3 d5 3. Bf4 Bg4 4. e3 f6 5. Be2 e6 6. c4 dxc4 7. Nc3 Bd6 8. Bg3
+a6 9. Bxc4 b5 10. Bb3 Bxg3 11. hxg3 Nge7 12. Rc1 e5 13. dxe5 Bxf3 14. Qxf3 Nxe5
+15. Qe4 Nd3+ 16. Ke2 Nxc1+ 17. Rxc1 c5 18. Rd1 Qb8 19. Qe6 c4 20. Rd7 1-0

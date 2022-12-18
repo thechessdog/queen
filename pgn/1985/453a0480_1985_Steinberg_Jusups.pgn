@@ -1,0 +1,17 @@
+[Event "Kuldiga"]
+[Site "Kuldiga"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Steinberg"]
+[Black "Jusups"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "453a0480"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Qg3 Nc5 11. Re1 O-O 12. e5 Ne8 13. Bxe7 Qxe7 14.
+Ne4 b5 15. Nf6+ Kh8 16. Nc6 Qc7 17. Nxh7 Qxc6 18. Qh4 1-0
+

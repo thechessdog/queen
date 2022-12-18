@@ -1,0 +1,25 @@
+[Event "Hamburg HSG/BUE"]
+[Site "Hamburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Michaelsen, Nils"]
+[Black "Stelting, Thorsten"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "372bc467"]
+[Epoch "Queen"]
+[BlackID "4605616"]
+[BlackCountry "GER"]
+[WhiteID "4603028"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 Nb6 12. a4 Bd7 13. Bf3 a6 14. Re1 h5 15. h3
+Nfxd5 16. exd5 Bd4+ 17. Kh2 Qh4 18. Nde4 f5 19. Ng3 Rxe1 20. Qxe1 Re8 21. Qf1
+g5 22. Bxh5 Re7 23. Nce2 Bh8 24. fxg5 Nxd5 25. Bf3 Ne3 26. Bxe3 Rxe3 27. Bd5+
+Kh7 28. Qf2 Qxg5 29. Ra3 Rxa3 30. bxa3 Be5 31. Kh1 Qd2 32. Qf3 Qd1+ 33. Kh2
+Qxa4 34. Qh5+ Kg7 35. h4 f4 36. Qf7+ Kh6 37. Qf8+ Bg7 38. Qxd6+ Kh7 39. Be4+
+Kg8 40. Nxf4 Qd4 41. Qd5+ Qxd5 42. Bxd5+ Kf8 43. Bxb7 a5 44. Bd5 Bb2 45. Ne6+
+Bxe6 46. Bxe6 Ke7 47. Bc4 Bxa3 48. Ne4 Bb4 49. g4 a4 50. g5 a3 1-0

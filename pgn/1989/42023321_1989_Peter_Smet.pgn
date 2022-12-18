@@ -1,0 +1,18 @@
+[Event "corr KMG"]
+[Site "corr KMG"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Peter"]
+[Black "Smet"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "42023321"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 d6 4. c3 Bc5 5. fxe5 dxe5 6. d4 exd4 7. cxd4
+Bb4+ 8. Bc3 Bd6 9. Nf3 f5 10. e3 Qe7 11. Ne5 Bxe5 12. dxe5 Nc6 13. Bb5 Qh4+
+14. g3 Qe4 15. Kf2 Nh6 16. h3 O-O 17. Qb3+ Kh8 18. Nd2 Ng4+ 19. hxg4 fxg4+
+20. Ke2 Qg2+ 21. Kd3 Bf5+ 22. e4 Rad8+ 23. Kc2 Rxd2+ 24. Kc1 Be6 25. Qxe6
+Rc2+ 26. Kb1 Rxc3 0-1
+

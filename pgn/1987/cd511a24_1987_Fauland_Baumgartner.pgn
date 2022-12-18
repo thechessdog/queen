@@ -1,0 +1,20 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fauland, Alexander"]
+[Black "Baumgartner, Heinz"]
+[Result "1-0"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "cd511a24"]
+[Epoch "Queen"]
+[WhiteID "1600036"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. Nf3 d6 2. d4 Bg4 3. c4 c6 4. Nc3 e5 5. dxe5 Bxf3 6. gxf3 dxe5 7. Qxd8+ Kxd8
+8. Bg5+ f6 9. O-O-O+ Kc7 10. Be3 f5 11. f4 Nd7 12. Bh3 Ne7 13. Rhg1 Re8 14. Ne4
+Nd5 15. cxd5 fxe4 16. dxc6 Nc5 17. Bxc5 Bxc5 18. Rxg7+ Kb6 19. c7 exf4 20. f3
+exf3 21. exf3 h5 22. Kb1 a5 23. Rc1 Rc8 24. Rg6+ Kb5 25. Bd7+ 1-0

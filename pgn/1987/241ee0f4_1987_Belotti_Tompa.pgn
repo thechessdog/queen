@@ -1,0 +1,22 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Belotti, Bruno"]
+[Black "Tompa, Janos"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "241ee0f4"]
+[Epoch "Queen"]
+[WhiteID "800040"]
+[WhiteCountry "ITA"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Nb6 9. Rg1 Be7 10. Qd2 Ne5 11. b3 d5 12. f4 Nc6 13. Bb5 Qc7 14. exd5 exd5 15.
+O-O-O Ba3+ 16. Kb1 O-O 17. Bd3 a6 18. Qf2 Re8 19. Ndb5 axb5 20. Bxb6 Qd7 21.
+Nxd5 Qh3 22. Nc7 Bg4 23. Nxe8 Bxd1 24. Nc7 Nb4 25. Rxd1 Nxa2 26. Kxa2 Bc5+ 27.
+Nxa8 Bxf2 28. Bf5 1-0

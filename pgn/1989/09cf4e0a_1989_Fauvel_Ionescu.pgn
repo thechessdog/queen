@@ -1,0 +1,17 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fauvel, J."]
+[Black "Ionescu, Constantin"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "09cf4e0a"]
+[Epoch "Queen"]
+[BlackID "1200089"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. e3 Qa5 6. Ne2 Ne4 7. Bf4 Nxc3 8.
+Nxc3 Bxc3+ 9. bxc3 Qxc3+ 10. Ke2 Qxc4+ 11. Kf3 Qd5+ 12. Ke2 cxd4 0-1

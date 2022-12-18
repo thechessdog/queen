@@ -1,0 +1,17 @@
+[Event "Frunze open"]
+[Site "Frunze open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grabliauskas, V."]
+[Black "Bagaturov, Giorgi"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "55fffd67"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. cxd5 exd5 8.
+e3 c5 9. Bd3 b6 10. Ne2 Ba6 11. O-O Qc8 12. e4 dxe4 13. fxe4 cxd4 14. cxd4 Nbd7
+15. Bf4 Qb7 16. Ng3 Rfd8 17. e5 Nd5 18. Bxa6 Qxa6 19. Bg5 f6 20. Qb3 Qa5 21.
+exf6 1-0

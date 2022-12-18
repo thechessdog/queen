@@ -1,0 +1,21 @@
+[Event "Prague Meta"]
+[Site "Prague"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Bucek, J."]
+[Black "Zalesky, J."]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller (Therkatz) attack"]
+[HashCode "4dca7b81"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Bxc3 9. d5 Bf6 10. Re1 Ne7 11. Rxe4 d6 12. Bg5 Bxg5 13. Nxg5 h6
+14. Qe2 hxg5 15. Re1 Be6 16. dxe6 f6 17. Re3 c6 18. Rh3 Rxh3 19. gxh3 g6
+20. Bd3 Qa5 21. b4 Qe5 22. Qd1 Qc3 23. b5 c5 24. Re3 Qd4 25. Qf3 O-O-O 26.
+Re4 Qa1+ 27. Kg2 d5 28. Ra4 Kb8 29. Bc2 c4 30. Qa3 Nc8 31. Bxg6 Qe5 32. b6
+axb6 33. Ra8+ Kc7 34. Rxc8+ Rxc8 35. Qe7+ Kb8 36. Be8 c3 37. Bd7 c2 38.
+Bxc8 c1=Q 39. Qxb7# 1-0
+

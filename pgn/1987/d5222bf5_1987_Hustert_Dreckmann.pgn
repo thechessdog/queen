@@ -1,0 +1,17 @@
+[Event "NWL-II 8687"]
+[Site "NWL-II 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hustert, Dirk"]
+[Black "Dreckmann, Albert"]
+[Result "0-1"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Maroczy system"]
+[HashCode "d5222bf5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be2 d6 6. O-O a6 7. Nc3 Be7 8. Kh1
+Qc7 9. a4 Nf6 10. f4 O-O 11. Be3 Re8 12. Nb3 b6 13. Bf3 Rb8 14. Qe2 Na5 15.
+Nxa5 bxa5 16. Rab1 Rb4 17. Rfd1 Bb7 18. Bf2 Rc8 19. g4 Qc4 20. Re1 Qxe2 21.
+Rxe2 Rxc3 0-1

@@ -1,0 +1,23 @@
+[Event "Skelleftea"]
+[Site "Skelleftea"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Olesen, Martin"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "fd47657d"]
+[Epoch "Queen"]
+[BlackID "1400860"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 dxe4 7. Bg5 Rg6 8.
+Qh4 Qxd4 9. Ne2 Qe5 10. Bxf6 Qxf6 11. Qxe4 Nc6 12. O-O-O Bd7 13. Nd5 Qg5+ 14.
+f4 Qf5 15. Nxc7+ Ke7 16. Qxf5 exf5 17. Nxa8 Bd6 18. g3 Rg8 19. Nd4 Nxd4 20.
+Rxd4 Bc6 21. Rg1 Bc5 22. c3 Rxa8 23. Bg2 Bxd4 24. cxd4 Kd6 25. Kd2 Bd5 26. Bxd5
+Kxd5 27. Kd3 Re8 28. Rc1 b6 29. Rc7 Re1 30. Rxf7 Rd1+ 31. Kc3 Rc1+ 32. Kd2 Rg1
+33. Rxf5+ Kxd4 34. Re5 a5 35. Re1 Rg2+ 36. Re2 Rg1 37. Rf2 Ra1 38. f5 Rxa2 39.
+Rf4+ Kd5 40. f6 Rxb2+ 41. Kc3 Rb1 42. f7 Rc1+ 43. Kb2 Rc8 44. f8=Q Rxf8 45.
+Rxf8 1-0

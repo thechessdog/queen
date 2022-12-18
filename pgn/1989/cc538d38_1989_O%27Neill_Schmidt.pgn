@@ -1,0 +1,18 @@
+[Event "Haifa etc"]
+[Site "Haifa etc"]
+[Date "1989.11.01"]
+[Round "1"]
+[White "O'Neill, Paul"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "cc538d38"]
+[Epoch "Queen"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+h5 9. g5 Ng4 10. g6 Qxh4 11. gxf7+ Kxf7 12. Rg3 Nxd4 13. Qxd4 Be7 14. Nb5 Rf8
+15. Bd2 Kg8 16. O-O-O Bf6 17. Qxd6 Nxf2 18. Re1 Nxe4 0-1

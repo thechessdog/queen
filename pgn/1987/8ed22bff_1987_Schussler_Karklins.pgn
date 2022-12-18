@@ -1,0 +1,21 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Schussler, Harry"]
+[Black "Karklins, Andrew"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "8ed22bff"]
+[Epoch "Queen"]
+[WhiteID "1700081"]
+[WhiteCountry "SWE"]
+[BlackID "2001730"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 Bf6 10. Bd2 Re8 11. Bc3 Re6 12. Qd2 Qe7 13. Ne3 g6 14. Ng4 Bg7
+15. Ng5 Rd6 16. f4 exf4 17. Bxg7 Qxg5 18. Rxf4 Qc5+ 19. d4 Kxg7 20. Rxf7+ Kg8
+21. Rg7+ 1-0

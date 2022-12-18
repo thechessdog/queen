@@ -1,0 +1,19 @@
+[Event "Andropov"]
+[Site "Andropov"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sakharevich, I."]
+[Black "Starukhin, D."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "e3a3a80a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. f4 a6 11. a4 Re8 12. O-O c4 13. Kh1 Nc5 14. e5 dxe5 15. fxe5
+Rxe5 16. Nxc4 Re8 17. Bg5 h6 18. Bh4 Nce4 19. Nxe4 Rxe4 20. Bg3 Nh5 21. Bxh5
+Rxc4 22. Qb3 Rd4 23. Bf3 a5 24. d6 Rb4 25. Qxf7+ Kxf7 26. Bd5+ Ke8 27. Rae1+
+Be6 28. Rxe6+ Kd7 29. Rf7+ Kc8 30. Rc7+ Kb8 31. Rxg7 Rxb2 32. h3 Ka7 33. Bf4
+Rc8 34. d7 Rc3 35. Re8 Qh4 36. Bb8+ Ka6 37. Re6+ 1-0

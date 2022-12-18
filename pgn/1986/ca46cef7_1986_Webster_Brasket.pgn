@@ -1,0 +1,23 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Webster, PB."]
+[Black "Brasket, C."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "ca46cef7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. f3 Nf6 5. fxe4 c5 6. dxc5 Qxd1+ 7. Kxd1
+Ng4 8. Ke2 Nxe3 9. Kxe3 Bxc5+ 10. Kd2 Nc6 11. Nf3 Bd7 12. Nc3 O-O-O 13. Rd1
+Bb4 14. a3 Ba5 15. Bd3 Bc7 16. Rhf1 f6 17. Kc1 Ne5 18. Nxe5 Bxe5 19. g3
+Bxc3 20. bxc3 e5 21. Rf2 Be6 22. Re1 Rd6 23. Kb2 Kd8 24. Rb1 Rb6+ 25. Kc1
+Rxb1+ 26. Kxb1 Ke7 27. Kc1 Rc8 28. Kd2 Rc5 29. Rf1 Ra5 30. Ra1 Kd6 31. Ke3
+Kc5 32. Kd2 b5 33. Ke3 Ra4 34. Kd2 Bd7 35. Ke3 Bc6 36. Ra2 a5 37. Ra1 Kd6
+38. Rb1 Rxa3 39. Kd2 Kc5 40. h4 b4 41. cxb4+ axb4 42. g4 Ra2 43. g5 fxg5
+44. hxg5 Ba4 45. Kd1 h6 46. gxh6 gxh6 47. Rc1 Kd4 48. Ke1 Kc3 49. Kd1 h5
+50. Be2 Rxc2 51. Bxh5 Rxc1+ 52. Kxc1 b3 0-1
+

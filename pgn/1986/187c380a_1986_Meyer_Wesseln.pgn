@@ -1,0 +1,24 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Meyer, Holger"]
+[Black "Wesseln, Kai"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "187c380a"]
+[Epoch "Queen"]
+[WhiteID "4602587"]
+[WhiteCountry "GER"]
+[BlackID "4601106"]
+[BlackCountry "GER"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 a5 8. Re1
+Qc7 9. h3 e5 10. Bf1 Nbd7 11. Be3 Re8 12. d5 Nc5 13. Nd2 Bd7 14. Nc4 Bf8 15.
+Qf3 Kg7 16. Rad1 Ng8 17. Rd2 Rad8 18. Red1 f6 19. b3 b6 20. Na3 f5 21. exf5
+gxf5 22. dxc6 Qxc6 23. Qxc6 Bxc6 24. Nc4 f4 25. Bxc5 bxc5 26. Nxa5 Ba8 27. Bb5
+Re6 28. Bc4 Rg6 29. Bd5 Ne7 30. Bxa8 Rxa8 31. Nc4 Nf5 32. Kh2 Nd4 33. Nd5 Kh8
+34. f3 Bh6 35. Re1 Rag8 36. Kh1 Bg5 37. a5 Nf5 38. Nc3 Bh4 39. Ra1 Ne3 40. a6
+Nxg2 41. a7 Ne1 42. a8=Q 1-0

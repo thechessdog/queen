@@ -1,0 +1,24 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Perlo, Ger"]
+[Black "Milovanovic"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "c96c142e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bd6
+8. Nbd2 c5 9. Nc4 Nd7 10. a4 b6 11. b3 O-O 12. Bb2 Qe7 13. g3 Re8 14. Nh4
+Nf6 15. f4 Bg4 16. Qd2 Nd7 17. f5 f6 18. Ne3 Bh5 19. g4 Bf7 20. Rf3 c6 21.
+Rg3 b5 22. c4 bxa4 23. bxa4 Rab8 24. Kh1 Qd8 25. Rag1 Qb6 26. Bc3 h6 27.
+Nf3 Kf8 28. h4 Ke7 29. Kg2 Rh8 30. Kf2 Qb3 31. a5 Rbg8 32. Rh3 Kd8 33. Rhh1
+Qb8 34. Rb1 Qa7 35. h5 Kc7 36. Rb3 Rb8 37. Rhb1 Rxb3 38. Rxb3 Rb8 39. Qb2
+Ra8 40. Bd2 Kc8 41. Nd1 Bc7 42. Qa3 Bd8 43. Nb2 Qc7 44. Ng1 Qd6 45. Ne2 Be8
+46. Nc1 Qd4+ 47. Be3 Qd6 48. Ke2 Bf7 49. Kd1 Qc7 50. Bd2 Qd6 51. Bc3 Bg8
+52. Kc2 Bf7 53. Na4 Be8 54. Rb2 Rb8 55. Rxb8+ Kxb8 56. Nb3 Be7 57. Bd2 Kc8
+58. Be3 Qc7 59. Naxc5 Qa7 60. Nxa6 Bxa3 61. Bxa7 Kb7 62. Bc5 1-0
+

@@ -1,0 +1,21 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Zuckerman, Bernard"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "affbe6cc"]
+[Epoch "Queen"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+[BlackID "2000423"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 Qa5 10. Qe2 b5 11. Ba2 bxa4 12. O-O O-O 13. Kh1 Rb8 14. Nd2 Bb7 15.
+Nc4 Qc7 16. fxe5 dxe5 17. Bg5 a3 18. bxa3 Bc5 19. Rad1 Bd4 20. Bxf6 Nxf6 21.
+Rxf6 Bxc3 22. Rd3 Bd4 23. Nd6 Bc6 24. Nxf7 gxf6 25. Rg3# 1-0

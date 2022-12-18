@@ -1,0 +1,20 @@
+[Event "corr EU/H"]
+[Site "corr EU/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Feist"]
+[Black "Berner"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "4b9d3302"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 Qa5 10. Rb5 Qxc3+ 11. Bd2 Qa3 12. Ra5 Qb2 13. Rxc5 Qxa2
+14. O-O Nc6 15. Bc4 Qa3 16. Be3 Bg4 17. h3 Bxf3 18. gxf3 Rad8 19. Bd5 e6
+20. Bxc6 bxc6 21. d5 cxd5 22. exd5 Rd7 23. Qd2 Rfd8 24. Ra5 Qe7 25. Qa2
+exd5 26. Rxa7 d4 27. Rxd7 Qxd7 28. Bg5 Rc8 29. Kg2 Qf5 30. Bh4 d3 31. Re1
+d2 0-1
+

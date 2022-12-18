@@ -1,0 +1,23 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Kristensen, Leif"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e7ef80ef"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "1404571"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bg5 Nb6 10. Bf3 Bg4 11. Bxf6 Bxf3 12. Nxf3 exf6 13. O-O Qd7 14.
+Rfe1 Rfd8 15. Nd2 f5 16. Nf3 Qd6 17. Re2 Bf6 18. Rae1 Kg7 19. Nb5 Qxd5 20. Nc7
+Qxb3 21. axb3 Rac8 22. Ne8+ Rxe8 23. Rxe8 Rc7 24. g3 Nc8 25. R8e3 Nd6 26. Rc3
+Rd7 27. Ne5 Re7 28. Rd1 Nb5 29. Re3 Nxd4 30. Rxd4 Bxe5 31. Rd5 f6 32. Kg2 Rc7
+33. Re2 f4 34. Red2 Rc6 35. Rd7+ Kh6 1-0

@@ -1,0 +1,17 @@
+[Event "Kankaanpaa"]
+[Site "Kankaanpaa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Toikkanen, P."]
+[Black "Makiaho, J."]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "b954b5fc"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. dxc5 Bxc5 5. exd5 Nf6 6. Bc4 O-O 7. Nge2
+exd5 8. Nxd5 Be6 9. Nef4 Bxd5 10. Bxd5 Re8+ 11. Kf1 Nc6 12. g3 Qb6 13. Bxc6
+Qxc6 14. Rg1 Rad8 15. Nd3 h5 16. Bg5 Ng4 17. Rg2 Nxf2 18. Rxf2 0-1
+

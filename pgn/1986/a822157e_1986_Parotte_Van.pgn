@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Parotte"]
+[Black "Van der Meulen"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "a822157e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. e3 e5 5. d5 Na5 6. Qa4+ c6 7. dxc6 Nxc6
+8. Bxc4 Bb4 9. Nf3 Qa5 10. Qb3 Nh6 11. O-O O-O 12. e4 Bg4 13. Nd5 Bxf3 14.
+Qxf3 Qc5 15. Bxh6 Qxc4 16. Qg4 g6 17. b3 f5 18. bxc4 fxg4 19. Bxf8 Bxf8 20.
+Nf6+ Kf7 21. Nxg4 Ke6 22. Rfd1 Nd4 23. Kf1 b6 24. Rd3 Bc5 25. Rh3 h5 26.
+Ne3 Kf7 27. g4 h4 28. Rxh4 Nf3 29. Rh7+ Kg8 30. Rd7 Bd4 31. Rd1 a5 32. Kg2
+Rf8 33. Nf5 gxf5 34. Kxf3 fxg4+ 35. Kxg4 Rxf2 36. h4 Rxa2 37. Rf1 Rc2 38.
+Rf6 Rxc4 39. h5 Rc1 40. h6 1-0
+

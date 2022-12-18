@@ -1,0 +1,18 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Noble"]
+[Black "Zwaneveld"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "c7b3cf67"]
+[Epoch "Queen"]
+[WhiteID "2007010"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. O-O Bc5
+8. d3 O-O 9. c3 h6 10. Bc4+ Kh8 11. Be3 d6 12. Re1 Bg4 13. Bd5 Ne7 14. d4 Nxd5
+15. dxc5 Nf4 16. cxd6 Nxg2 0-1

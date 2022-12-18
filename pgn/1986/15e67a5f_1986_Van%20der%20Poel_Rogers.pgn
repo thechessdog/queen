@@ -1,0 +1,21 @@
+[Event "England"]
+[Site "England"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van der Poel, Henk"]
+[Black "Rogers, Jonathan W"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "15e67a5f"]
+[Epoch "Queen"]
+[WhiteID "1002449"]
+[BlackID "402052"]
+[WhiteCountry "NED"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Ne7 6. Nc3 f6 7. Nc4 Bb4 8. Ne3
+O-O 9. Bc4 Kh8 10. Bd2 Bxc3 11. Bxc3 f5 12. g3 Nd7 13. Bb4 a5 14. Bxe7 Qxe7 15.
+Qd2 Nf6 16. O-O-O Bd7 17. Be2 b5 18. f4 b4 19. h3 a4 20. Bc4 Rfb8 21. Qe2 Qd6
+22. Kb1 1-0

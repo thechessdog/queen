@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gerloff, E."]
+[Black "Grosshans, R."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "9de7fad3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Nxe5
+dxe4 8. Qc4 Qd5 9. Qxd5 Nxd5 10. Bxc6+ bxc6 11. Nxc6 Bc5 12. O-O O-O 13. c3
+Ba6 14. Re1 Bxf2+ 0-1
+

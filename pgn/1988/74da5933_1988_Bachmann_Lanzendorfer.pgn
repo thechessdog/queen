@@ -1,0 +1,16 @@
+[Event "corr ch20-DDR"]
+[Site "corr ch20-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bachmann, A."]
+[Black "Lanzendorfer, J."]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "74da5933"]
+[Epoch "Queen"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nf6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8.
+Re1 c6 9. Bf1 1/2-1/2
+

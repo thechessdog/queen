@@ -1,0 +1,20 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bossi, A."]
+[Black "Wittwer, Moritz"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "edce05d4"]
+[Epoch "Queen"]
+[BlackID "1300709"]
+[BlackCountry "SUI"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Qb6 9. Qb3 Nd7 10. Ne5 Ndxe5 11. Bxe5 f6 12. Bg3 Be7 13. O-O Kf7 14. Na4 Qa5
+15. Bxc6 bxc6 16. Rfc1 Rhc8 17. Nc5 e5 18. e4 Rab8 19. Qf3 Bxe4 20. Nxe4 dxe4
+21. Qxe4 Rxb2 22. dxe5 g6 23. Qc4+ Kg7 24. Qe6 Qd8 25. Rd1 Qf8 26. Rd7 Re8 27.
+exf6+ Qxf6 28. Be5 Rxf2 29. Bxf6+ Rxf6 30. Rxe7+ 1-0

@@ -1,0 +1,26 @@
+[Event "Martigny"]
+[Site "Martigny"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vezzosi, Paolo"]
+[Black "Nemet, Ivan"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "01d799db"]
+[Epoch "Queen"]
+[WhiteID "800341"]
+[WhiteCountry "ITA"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. e5 f6 6. O-O Nh6 7. b3 Be7 8. Bb2
+O-O 9. Nc3 Qe8 10. Ne4 fxe5 11. Nxe5 d6 12. Nc4 Nf5 13. Ne3 e5 14. Nxf5 Bxf5
+15. Ng3 Bg6 16. d3 Qd7 17. Qe2 Rae8 18. Rae1 Bd8 19. Bc3 Bc7 20. Qd1 Rf7 21.
+Bd2 Ref8 22. Qc1 Bb6 23. Be3 h6 24. Kh1 Ba5 25. Bd2 Bd8 26. f4 exf4 27. Rxf4
+Rxf4 28. Bxf4 d5 29. Be3 Be7 30. Qa3 d4 31. Bg1 Bd6 32. Ne4 Bf7 33. Bxd4 cxd4
+34. Qxd6 Qxd6 35. Nxd6 Rd8 36. Nxf7 Kxf7 37. Kg1 Rd5 38. Re4 a5 39. Kf2 Rc5 40.
+Re2 a4 41. Ke1 a3 42. Kd2 Rf5 43. Ke1 Rc5 44. Rf2+ Ke6 45. Kd2 Rh5 46. g3 Kd6
+47. c3 c5 48. Kc2 Re5 49. cxd4 cxd4 50. b4 Re1 51. Kb3 Rc1 52. Rc2 Rb1+ 53.
+Kxa3 Rd1 54. b5 Rxd3+ 55. Kb4 Rd1 56. Rb2 Rc1 57. a4 Kd5 58. a5 Rc4+ 59. Ka3
+Rc3+ 60. Ka2 Rc4 61. b6 1-0

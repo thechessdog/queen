@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schneider, W."]
+[Black "Wegelin, R."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "b5d8cb4b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Bxd5 Nf6 9. Nc3 Qe7 10. d3 exd3+ 11. Be3 Bh6 12. Qxd3 Bxe3 13. Bf7+
+Bd4+ 14. Kd2 Nc6 15. Bb3 Ng4 16. Qf5+ Kd8 17. Qd5+ Bd7 18. Rae1 Qf8 19.
+Qg5+ Bf6 20. Qf4 Bxc3+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knorr, B."]
+[Black "Tiemann, H."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "3b0d7d12"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 h6 7. Ne6 fxe6
+8. dxc6 b4 9. a3 bxa3 10. Nxa3 Bc5 11. Bc4 O-O 12. d3 Bxf2+ 13. Kxf2 Ng4+
+14. Ke2 Qh4 15. Qe1 Rf2+ 16. Kd1 Qh5 17. Bd2 Ne3+ 18. Kc1 Re2 19. Qg3 Nxg2
+20. Rg1 1-0
+

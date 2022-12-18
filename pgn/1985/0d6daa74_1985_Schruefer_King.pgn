@@ -1,0 +1,28 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schruefer, Guenther, Dr."]
+[Black "King, Daniel J"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "0d6daa74"]
+[Epoch "Queen"]
+[WhiteID "4608631"]
+[WhiteCountry "GER"]
+[BlackID "400068"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. a4
+O-O 9. Bg2 b6 10. O-O Bb7 11. h3 Nbd7 12. g4 b5 13. Ng3 b4 14. Nd5 Nxd5 15.
+exd5 Re8 16. a5 Qc7 17. Bd2 Qc5 18. Be3 Qb5 19. Qd2 b3 20. c3 Rac8 21. Rfd1 Nc5
+22. Ra3 Bf8 23. Bf1 Qd7 24. c4 Qd8 25. Bxc5 Rxc5 26. Rxb3 Bc8 27. Ra3 Rc7 28.
+b4 g6 29. g5 h6 30. Ne4 hxg5 31. Qxg5 Be7 32. Qg2 Kg7 33. c5 Rh8 34. c6 Rh4 35.
+Rb3 Bf5 36. Re1 Qa8 37. Rc3 Qa7 38. Rc4 Bxh3 39. Qf3 Bg4 40. Qg3 f5 41. Nxd6 f4
+42. Rxf4 Bxd6 43. Rxg4 Rxg4 44. Qxg4 Rf7 45. Re3 Rf4 46. Qd7+ Qxd7 47. cxd7 Rf8
+48. Rb3 Rd8 49. Bxa6 Rxd7 50. Bb5 Rb7 51. Bc6 Rxb4 52. Rxb4 Bxb4 53. a6 Bc5 54.
+d6 Kf6 55. Kg2 Ke6 56. d7 Ke7 57. f3 Kd8 58. Kf1 Bb6 59. Ke2 Kc7 60. Bb5 e4 61.
+fxe4 g5 62. Kf3 Kd8 63. Kg4 Be3 64. e5 Ke7 65. Kf5 Kd8 66. e6 Ke7 67. Be2 Kd8
+68. Kf6 1-0

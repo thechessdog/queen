@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fiorito"]
+[Black "Van Arkel"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "b49c59e8"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. Bc4 Nf6 3. d4 Nxe4 4. Bxf7+ Kxf7 5. Qh5+ g6 6. Qd5+ e6 7. Qxe4
+Qf6 8. Nf3 d5 9. Qf4 Bb4+ 10. Kd1 Qxf4 11. Bxf4 Bd6 12. Bxd6 cxd6 13. Re1
+Bd7 14. Nc3 Raf8 15. Kd2 Kg7 16. Rad1 1-0
+

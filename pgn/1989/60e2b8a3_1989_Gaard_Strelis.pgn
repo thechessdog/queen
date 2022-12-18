@@ -1,0 +1,15 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gaard, K."]
+[Black "Strelis, V."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "60e2b8a3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bb3 fxe4 5. Nc3 Nf6 6. Nxe5 Nc6 7. Nf7 Qe7
+8. Nxh8 Nd4 9. Nd5 Nxd5 10. Qh5+ g6 11. Qxd5 Nxb3 12. Qxa8 1-0
+

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Malchikov, I."]
+[Black "Badzharani"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "f7b6ddf7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6
+8. Ba4 d6 9. Na3 exd4 10. cxd4 Ne7 11. Bg5 f6 12. Be3 d5 13. Qh5+ g6 14.
+Qh6 Kf7 15. Bb3 Be6 16. Qf4 Rf8 17. Rad1 Bc7 18. Qh4 Kg8 19. Bh6 Rf7 20.
+Bf4 Bb6 21. f3 Qd7 22. Qf2 a5 23. e5 Nf5 24. exf6 Rxf6 25. Be5 Rf7 26. Nb1
+Nd6 27. Nc3 Rf5 28. Qg3 Nf7 29. Bf4 g5 30. Na4 Ba7 31. Bc7 b5 32. Nb6 Bxb6
+33. Bxb6 Rf4 34. Rfe1 h6 35. Re2 a4 36. Bc2 Nd6 37. Rde1 Re8 38. Bc5 Nf7
+39. Bg6 1-0
+

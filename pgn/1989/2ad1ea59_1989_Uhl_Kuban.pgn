@@ -1,0 +1,19 @@
+[Event "Hessen"]
+[Site "Hessen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Uhl, Heinz"]
+[Black "Kuban, Guenther"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "2ad1ea59"]
+[Epoch "Queen"]
+[WhiteID "4619676"]
+[WhiteCountry "GER"]
+
+1. c4 c5 2. Nc3 Nf6 3. g3 e6 4. Nf3 Nc6 5. Bg2 Be7 6. O-O O-O 7. d4 d5 8. cxd5
+Nxd5 9. e4 Nxc3 10. bxc3 cxd4 11. cxd4 Qa5 12. d5 exd5 13. exd5 Rd8 14. Ng5 Bf5
+15. Qe1 Rxd5 16. Bxd5 Qxd5 17. Qd2 Nd4 18. Bb2 Bh3 19. f3 Bxf1 20. Kxf1 Bxg5
+0-1

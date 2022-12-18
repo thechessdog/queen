@@ -1,0 +1,22 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Bogdanovski, Vlatko"]
+[Black "Karlik, Vladimir"]
+[Result "1-0"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "d780f585"]
+[Epoch "Queen"]
+[WhiteID "15000206"]
+[WhiteCountry "MKD"]
+[BlackID "301027"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nbd7 8. Qc2
+exd4 9. Nxd4 c6 10. Rd1 Qe7 11. Bg5 Nc5 12. f3 Re8 13. Rd2 Qe5 14. Be3 Nh5 15.
+Nb3 Nf4 16. Bf1 Bf8 17. Re1 Nce6 18. g3 Ng5 19. Qd1 Nfh3+ 20. Kh1 Qe7 21. c5
+Qf6 22. Bg2 d5 23. exd5 cxd5 24. Nxd5 Qf5 25. g4 Qe5 26. f4 Nxf4 27. Nxf4 Ne4
+28. Rd4 1-0

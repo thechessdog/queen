@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "9"]
+[White "Pribyl, Josef"]
+[Black "Horvath, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "8f97e658"]
+[Epoch "Queen"]
+[WhiteID "300187"]
+[WhiteCountry "CZE"]
+[BlackID "700061"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. c3 b6 6. Nbd2 Bb7 7. Bd3 Nc6 8. O-O
+O-O 9. Re1 cxd4 10. exd4 Nd5 11. Bxe7 1/2-1/2

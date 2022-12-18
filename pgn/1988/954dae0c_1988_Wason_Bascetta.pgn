@@ -1,0 +1,17 @@
+[Event "corr TS90"]
+[Site "corr TS90"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wason"]
+[Black "Bascetta"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "954dae0c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 h6 5. Bh4 c5 6. dxc5 e6 7. Qd3 Qa5
+8. Qb5 Qc7 9. Bxf6 gxf6 10. e4 dxe4 11. Nxe4 Be7 12. O-O-O Qf4+ 13. Nfd2
+O-O 14. c6 bxc6 15. Qxc6 Rb8 16. g3 Qf5 17. Nc4 Ne5 18. Nxe5 Qxe5 19. Nc3
+Bb7 20. Qd7 Ba3 0-1
+

@@ -1,0 +1,24 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gromotka, H."]
+[Black "Teichmann"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "4364cc9a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6
+8. Kh1 d6 9. f4 Be7 10. Be3 O-O 11. Qe1 Bd7 12. Qg3 Nxd4 13. Bxd4 Bc6 14.
+e5 dxe5 15. Bxe5 Qc8 16. Rad1 b5 17. a3 Ne8 18. Bd4 Qc7 19. Bd3 g6 20. Ne4
+f6 21. Rf2 Ng7 22. Nd2 Rad8 23. Nb3 Bd5 24. Qe3 Rc8 25. Be4 Nf5 26. Bxf5
+gxf5 27. Bb6 Qc6 28. Bd4 Rf7 29. Na5 Qa8 30. Kg1 Rg7 31. Rdd2 Kh8 32. b4
+Rcg8 33. g3 h5 34. Qc3 Rg6 35. Kf1 h4 36. Ke1 Rc8 37. Qe3 Bf8 38. Bb2 e5
+39. Qd3 Be4 40. Qd7 Bh6 41. Qf7 Rcg8 42. Qc7 Bf3 43. Rd7 Qe4+ 44. Kf1 R8g7
+45. Rd8+ Kh7 46. Qc8 Rg8 47. Qd7+ R6g7 48. Qd3 Rxd8 49. Qxf3 hxg3 50. hxg3
+Rxg3 51. Qxe4 fxe4 52. fxe5 Rd1+ 53. Ke2 Rgg1 54. Bc3 Rc1 55. Nb3 Rxc2+ 56.
+Bd2 e3 57. Rxf6 exd2 0-1
+

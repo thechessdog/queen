@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Reinert"]
+[Black "Siklosi, Zoltan"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "27012ffa"]
+[Epoch "Queen"]
+[BlackID "700380"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. O-O Nc6 6. Nc3 g5 7. g3 Bh3 8. Rf2
+Bg7 9. Nd5 g4 10. Nh4 fxg3 11. hxg3 Bd4 12. Ne3 Ne5 13. d3 Qg5 14. Nhf5 Nf3+
+15. Kh1 Qh5 16. Nh4 Ne7 17. c3 Be5 18. Nxf3 gxf3 19. Kg1 d5 0-1

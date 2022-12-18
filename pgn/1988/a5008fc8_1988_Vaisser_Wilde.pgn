@@ -1,0 +1,23 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "2"]
+[White "Vaisser, Anatoly"]
+[Black "Wilde, Pierre"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "a5008fc8"]
+[Epoch "Queen"]
+[BlackID "4606132"]
+[BlackCountry "GER"]
+[WhiteID "603252"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. e5 Ne8 11. Qg4 Kh8 12. Nge2 f6 13. a3 Be7 14. Nf4 Nc6 15.
+Qh5 Nxd4 16. Ng6+ Kg8 17. Nxf8 Bxf8 18. exf6 Nxf6 19. Qd1 c5 20. Bg5 Be7 21.
+Ne2 Ne6 22. Bxf6 Bxf6 23. Nc3 Bxc3 24. bxc3 Qd7 25. Qg4 Qf7 26. Re1 Nc7 27. h4
+Rf8 28. Re2 h5 29. Qg5 Qf4 30. Rh3 Kh7 31. Qxh5+ Kg8 32. Rf3 Qh2 33. Rxf8+ Kxf8
+34. Qf3+ Kg8 35. Re7 1-0

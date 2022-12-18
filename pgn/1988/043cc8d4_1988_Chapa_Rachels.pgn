@@ -1,0 +1,22 @@
+[Event "Boston US Open"]
+[Site "Boston US Open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chapa, Eric"]
+[Black "Rachels, Stuart"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "043cc8d4"]
+[Epoch "Queen"]
+[WhiteID "2003325"]
+[WhiteCountry "USA"]
+[BlackID "2000350"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. Nf3 Bg7 6. g3 O-O 7. Bg2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Re8 11. Nd2 Nbd7 12. Re1 Rb8 13. Nc4 Nb6 14. Ne3 Ng4 15.
+Nxg4 Bxg4 16. a5 Nc8 17. Qd3 Qc7 18. Be3 Bf5 19. Qd2 b5 20. axb6 Nxb6 21. Bh6
+Nc4 22. Qf4 Nxb2 23. Bxg7 Kxg7 24. g4 Rb4 25. Qc1 Bxg4 26. Ne4 Qb6 27. Qc3+ Re5
+28. f4 c4+ 29. Nf2 Rb3 30. Qa5 Qxa5 0-1

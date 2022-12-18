@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hesselbarth, KH."]
+[Black "Klatt"]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "7e9ee01f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Ba5 9. cxd5 exd5 10. dxc5 Bxc3 11. bxc3 Bg4 12. c4 Ne5 13. Bb2 Nxf3+ 14.
+gxf3 Bh3 15. cxd5 Bxf1 16. Bxf6 Qxf6 17. Bxf1 Rfd8 18. e4 Rac8 19. Rb1 Rxc5
+20. Rxb7 Qg5+ 21. Kh1 Rc1 22. Qd3 h6 23. Rb1 Rd6 24. Rxc1 Rg6 25. Bh3 Qxc1+
+26. Qf1 Qxa3 27. Qd1 Ra6 28. Bf1 Qa1 29. Qe2 Ra2 30. Qc4 Rc2 31. Qd3 Rxf2
+0-1
+

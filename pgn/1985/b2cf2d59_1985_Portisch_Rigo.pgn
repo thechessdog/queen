@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Rigo, Janos"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "b2cf2d59"]
+[Epoch "Queen"]
+[WhiteID "700487"]
+[BlackID "700371"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. Qc2 Bg4 13. Nxe5 Nxe5 14. dxe5
+Qxe5 15. f4 Qe7 16. c4 Rad8 17. a4 Rd6 18. Ra3 Rfd8 19. e4 Qd7 20. Be2 Bxe2 21.
+Qxe2 Rd1 22. e5 Ng4 0-1

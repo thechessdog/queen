@@ -1,0 +1,15 @@
+[Event "Athens II"]
+[Site "Athens II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kourtesis, Georgios"]
+[Black "Kotronias, Vasilios"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "8a8d82cf"]
+[Epoch "Queen"]
+[WhiteID "4200365"]
+[WhiteCountry "GRE"]
+
+1. g3 d5 2. f4 h5 3. Nf3 h4 4. Nxh4 e5 5. fxe5 Rxh4 0-1

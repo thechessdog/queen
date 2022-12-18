@@ -1,0 +1,25 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thesing, Matthias"]
+[Black "Georges, Sacha"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "a52ed393"]
+[Epoch "Queen"]
+[WhiteID "4600720"]
+[BlackID "1301160"]
+[WhiteCountry "GER"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 e6 7. f4 Be7 8. Qf3
+e5 9. Nxc6 bxc6 10. f5 Qa5 11. O-O-O Rb8 12. Bc4 O-O 13. Bb3 Bb7 14. g4 d5 15.
+g5 d4 16. gxf6 Bxf6 17. Bd2 dxc3 18. Bxc3 Qc7 19. Rdg1 c5 20. Bc4 Qc6 21. Bd5
+Qa4 22. Bxb7 Rxb7 23. a3 Qc4 24. Kb1 Rfb8 25. Rg3 Qa4 26. Kc1 Qc4 27. Rhg1 Qa2
+28. b3 Kh8 29. Bb2 a5 30. Qh5 c4 31. Rh3 Kg8 32. Qxh7+ Kf8 33. Rhg3 cxb3 34. c3
+Ke7 35. Rxg7 Bxg7 36. Rxg7 Rf8 37. Qh4+ Ke8 38. Qf6 Re7 39. Rh7 Rg8 40. Rh8
+Rxh8 41. Qxh8+ Kd7 42. Qf8 f6 43. Qxe7+ Kxe7 44. h4 Kd6 45. h5 Kc5 46. h6 Kc4
+47. h7 Kd3 48. h8=Q Kxe4 49. Qxf6 1-0

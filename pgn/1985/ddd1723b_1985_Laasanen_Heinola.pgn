@@ -1,0 +1,19 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Laasanen, Henry"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "ddd1723b"]
+[Epoch "Queen"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. Nc3 e6 7. e4 Bb4 8.
+Qd3 Qh4 9. e5 O-O-O 10. Be3 f5 11. Qd2 h6 12. Bc4 Bxg2 13. Bxe6+ Kb8 14. Rg1
+Bf3 15. Bxf5 c5 16. a3 Ba5 17. b4 cxd4 18. bxa5 Ne7 19. Be6 Qxh2 20. Rf1 Qxe5
+21. Bh3 dxc3 0-1

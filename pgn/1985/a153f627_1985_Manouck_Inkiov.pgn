@@ -1,0 +1,20 @@
+[Event "BUL-FRA"]
+[Site "BUL-FRA"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Manouck, Thierry"]
+[Black "Inkiov, Ventzislav"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "a153f627"]
+[Epoch "Queen"]
+[WhiteID "600873"]
+[WhiteCountry "FRA"]
+[BlackID "2900033"]
+[BlackCountry "FID"]
+
+1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. Bb2 Be7 5. g3 O-O 6. Bg2 c5 7. e3 Nc6 8. O-O b6
+9. Qe2 Bb7 10. Rd1 dxc4 11. bxc4 Qc7 12. Nc3 a6 13. Rab1 Nd7 14. d3 Rab8 15.
+Ba1 Na7 16. a4 Bf6 17. Nd2 Bxg2 18. Kxg2 Qc6+ 1/2-1/2

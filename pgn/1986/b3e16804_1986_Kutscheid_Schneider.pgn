@@ -1,0 +1,18 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kutscheid"]
+[Black "Shneider, Aleksandr"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "b3e16804"]
+[Epoch "Queen"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Nf3 Bc5 7. Nc3 d6 8.
+Bd3 a5 9. Qe2 Bg4 10. Be3 Nd4 11. Qf2 Ne6 12. Nd2 Bxe3 13. Qxe3 Nc5 14. f5
+Nxd3+ 15. Qxd3 f6 16. Qg3 1-0

@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rovid, Kalman"]
+[Black "Barbulescu, Dan"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "886894eb"]
+[Epoch "Queen"]
+[WhiteID "701831"]
+[WhiteCountry "HUN"]
+[BlackCountry "ROU"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. h4 Bd7 8. h5 O-O-O
+9. Nbd2 Na5 10. g3 f5 11. Nh4 Be7 12. Ng2 Nh6 13. f4 g5 14. fxg5 Nf7 15. Nf3
+Rdg8 16. Rb1 Bxa3 17. Nf4 Be7 18. Nh3 Nb3 19. Bf4 Qd8 20. Kf2 Bxg5 21. Nhxg5
+Nxg5 22. Nxg5 Rxg5 23. Bxg5 Qxg5 24. Bg2 Rg8 25. Rh3 Ba4 26. Qe2 Nc1 27. Qf3
+Bc2 28. Ra1 Be4 0-1

@@ -1,0 +1,22 @@
+[Event "London Peace"]
+[Site "Londen open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Barash, Danny"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "ca8dda59"]
+[Epoch "Queen"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackID "2801760"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. h4
+b5 9. a3 Bb7 10. h5 Be7 11. Rg1 g6 12. Qf3 Qc7 13. Qh3 Rf8 14. f4 Nc5 15. Bg2
+e5 16. Nde2 Ne6 17. hxg6 hxg6 18. f5 Nd4 19. Qd3 Qc4 20. Nxd4 exd4 21. Ne2 Nc6
+22. Bf4 Qxd3 23. cxd3 Ne5 24. O-O-O Bd8 25. Kb1 Bb6 26. Ng3 Kd8 27. Rh1 Bc6 28.
+Bxe5 dxe5 29. Rdf1 Bc5 30. Rc1 1-0

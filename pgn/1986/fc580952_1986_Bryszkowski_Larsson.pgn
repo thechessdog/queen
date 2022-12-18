@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bryszkowski, P."]
+[Black "Larsson, P."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Trifunovic variation"]
+[HashCode "fc580952"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5
+8. dxe5 Nc6 9. f4 Nb4 10. cxd5 Qxd5 11. Bxe4 Qxe4 12. Nc3 Qc4 13. a3 Nd3
+14. Qe2 1-0
+

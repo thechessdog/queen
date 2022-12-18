@@ -1,0 +1,17 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schiller"]
+[Black "Polland"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "74d00ed6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Ng4 10. Rd1 Bf6 11. Qg3 Nxd4 12. Nb5 c5 13. Nbxd4 cxd4
+14. h3 Ne5 15. Nxe5 Qc7 16. Re1 Bxe5 17. Qxe5 Qxc4 18. Bh6 f6 19. Qxe7 Qf7
+20. Bxf8 1-0
+

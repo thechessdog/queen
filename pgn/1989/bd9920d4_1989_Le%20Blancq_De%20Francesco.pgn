@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Le Blancq, Simon"]
+[Black "de Francesco, Klaus"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "bd9920d4"]
+[Epoch "Queen"]
+[BlackID "4613945"]
+[BlackCountry "GER"]
+[WhiteCountry "ZWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 8. dxe5
+Qc7 9. Re1 Nge7 10. Bf4 h6 11. h4 O-O-O 12. Bf1 g6 13. Nbd2 Bg7 14. Nb3 Rdf8
+15. Bh2 Nd8 16. Qe2 g5 17. hxg5 hxg5 18. Nxg5 Rf5 19. f4 Ng6 20. Nh3 Qc6 21.
+Qe3 b6 22. a4 Bh6 23. Bd3 Rxe5 24. Qg3 Rxe1+ 25. Rxe1 c4 26. Nd4 1-0

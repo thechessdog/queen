@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Drasko, Milan"]
+[Black "Klaric, Zlatko"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "c4b18c35"]
+[Epoch "Queen"]
+[WhiteID "900397"]
+[WhiteCountry "MNE"]
+[BlackID "14500248"]
+[BlackCountry "CRO"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 Bb4 6. Nge2 O-O 7. O-O d6 8. d4
+Bxc3 9. Nxc3 e4 10. f3 Qe8 11. a3 exf3 12. Bxf3 Bd7 13. Qd3 Qg6 14. Nd5 Nxd5
+15. cxd5 Ne7 16. Bd2 c6 17. dxc6 1/2-1/2

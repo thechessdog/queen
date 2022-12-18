@@ -1,0 +1,18 @@
+[Event "Plymouth ch-BCF"]
+[Site "Plymouth ch-BCF"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Houston, David"]
+[Black "Lane, Gary W"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "1682bce4"]
+[Epoch "Queen"]
+[BlackID "3203301"]
+[BlackCountry "AUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. c3 O-O 6. d4 Bb6 7. Bg5 h6 8. Bxc6
+hxg5 9. Ba4 Nxe4 10. Nxe5 d5 11. Nd2 Nd6 12. Qh5 Qf6 13. f4 gxf4 14. Bc2 g6 15.
+Qh6 Qxe5 0-1

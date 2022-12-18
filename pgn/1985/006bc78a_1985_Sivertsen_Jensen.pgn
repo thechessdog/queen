@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sivertsen, Palle"]
+[Black "Jensen, Leif"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "006bc78a"]
+[Epoch "Queen"]
+[WhiteID "1405845"]
+[WhiteCountry "DEN"]
+
+1. g3 e5 2. Bg2 g6 3. c4 Bg7 4. Nc3 d6 5. e3 f5 6. d4 c6 7. Nf3 e4 8. Nd2 Nf6
+9. O-O h5 10. f3 exf3 11. Nxf3 O-O 12. Nh4 Qe8 13. Qd3 Nh7 14. e4 Bf6 15. Bh6
+Bxh4 16. Bxf8 Bxg3 17. Qxg3 Kxf8 18. Qxd6+ Kg7 19. Rae1 Qd7 20. Qe5+ Nf6 21.
+exf5 g5 22. Ne4 Qd8 23. Nxg5 Na6 24. Qe7+ Qxe7 25. Rxe7+ Kh6 26. h4 Ng4 27.
+Rh7# 1-0

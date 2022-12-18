@@ -1,0 +1,23 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kroger, Horst"]
+[Black "Carstensen, Volker"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "994e88c4"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 e6 4. Bg5 Be7 5. a3 h6 6. Bh4 b6 7. e3 O-O 8.
+Bd3 Nbd7 9. O-O c5 10. dxc5 Nxc5 11. Be2 Bb7 12. Ne5 Nfe4 13. Bxe7 Qxe7 14.
+Nxe4 Nxe4 15. Bf3 f6 16. Nd3 Nd6 17. Bh5 e5 18. Nb4 Qe6 19. Re1 Rad8 20.
+Qc1 a6 21. Bf3 e4 22. Be2 Ra8 23. c3 a5 24. Nc2 f5 25. Nd4 Qg6 26. Qd1 Nf7
+27. Bh5 Qf6 28. Qd2 Ne5 29. Be2 Rad8 30. Kh1 Ng4 31. Bxg4 fxg4 32. Kg1 h5
+33. a4 Rd7 34. Re2 Rdf7 35. g3 Ba6 36. Nb5 Qc6 37. b4 Bxb5 38. axb5 Qxb5
+39. bxa5 bxa5 40. Qc2 Rc7 41. Ree1 Rfc8 42. Rec1 Rc5 43. Qa4 Qd3 44. Qd7
+Qa6 45. Ra4 R5c7 46. Qxd5+ Kf8 47. Rxa5 Qd3 48. Qxh5 Rxc3 49. Rf5+ Kg8 50.
+Qf7+ 1-0
+

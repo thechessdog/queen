@@ -1,0 +1,24 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fiensch"]
+[Black "Mathes"]
+[Result "1-0"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[HashCode "326a6719"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 h6 9. Bxf6 Nxf6 10. O-O-O e6 11. Rhe1 Bd7 12. f4 O-O-O 13. Bb3 Ne8
+14. f5 Nc7 15. Kb1 Kb8 16. Qf2 Be7 17. Nde2 Bc8 18. Rd3 Bf6 19. Red1 Be5
+20. Nd4 Rhf8 21. g4 Bf6 22. Nf3 Be7 23. Qg3 b5 24. a3 Qb6 25. Nh4 Rd7 26.
+fxe6 Bxh4 27. Qxh4 fxe6 28. Qg3 e5 29. Rf3 Rxf3 30. Qxf3 Ka7 31. Rf1 Qb8
+32. Qf8 Bb7 33. Qf2+ Ka8 34. Qb6 Qd8 35. a4 Kb8 36. a5 Ka8 37. Rf3 Qc8 38.
+h4 d5 39. exd5 Bxd5 40. Nxd5 Nxd5 41. Bxd5+ Rxd5 42. Rc3 Qb7 43. Rc6 Qxb6
+44. Rxb6 Ka7 45. Rg6 Rd7 46. Re6 g5 47. hxg5 hxg5 48. Rxe5 Rg7 49. c3 Kb7
+50. Kc2 Kc6 51. Re6+ Kb7 52. Kd3 Rd7+ 53. Ke3 Rg7 54. Ke4 Rf7 55. Kd5 Rf4
+56. Re7+ Kb8 57. Kc6 b4 58. Rb7+ Kc8 59. Rxb4 1-0
+

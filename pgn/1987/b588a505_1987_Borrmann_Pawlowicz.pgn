@@ -1,0 +1,20 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Borrmann"]
+[Black "Pawlowicz"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "b588a505"]
+[Epoch "Queen"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 d5
+8. d4 Nf6 9. Nc3 b5 10. e3 g6 11. Nf3 Bg7 12. Bd3 O-O 13. Qb1 Nbd7 14. Ne2
+e5 15. Nxe5 Nxe5 16. dxe5 Ng4 17. O-O Nxe5 18. Bc2 Qe7 19. Ng3 Be6 20. e4
+Qh4 21. f3 Ra8 22. Bb2 h5 23. Bb3 Nc4 24. Bxg7 Kxg7 25. Qc1 Qf6 26. Rd1 h4
+27. exd5 cxd5 28. Ne2 h3 29. Nd4 hxg2 30. Nxb5 Rh8 31. Qc3 Ne5 32. Nd4 Qf4
+33. h4 Rxh4 34. Kf2 g1=Q+ 35. Kxg1 Qg3+ 0-1
+

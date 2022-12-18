@@ -1,0 +1,17 @@
+[Event "Groningen-SMB"]
+[Site "Groningen-SMB"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hoeksema, E."]
+[Black "Vanheste, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "bf4534de"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Bd2 Nxd2 6. Nbxd2 Nc6 7. a3 Bxd2+
+8. Qxd2 Qe7 9. Qc3 O-O 10. Rd1 Re8 11. Rd5 b6 12. e3 Bb7 13. Be2 a5 14. O-O Nb8
+15. Rd4 a4 16. Rfd1 Ra5 17. e4 Bc6 18. Bd3 Na6 19. Bc2 Nc5 20. Re1 Ne6 21. Rdd1
+Nf8 22. Qb4 Qc5 1/2-1/2

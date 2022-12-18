@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Alcantara"]
+[Black "Gil"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Anti-Borg (Desprez) opening"]
+[HashCode "2cf92aff"]
+[Epoch "Queen"]
+
+1. h4 Nf6 2. h5 e5 3. h6 g6 4. a4 d5 5. d3 Nc6 6. c3 Bg4 7. a5 Bd6 8. a6 b6
+9. Bg5 Qe7 10. Qa4 Bd7 11. Qh4 1-0
+

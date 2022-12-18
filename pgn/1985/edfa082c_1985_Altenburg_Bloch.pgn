@@ -1,0 +1,18 @@
+[Event "Buer"]
+[Site "Buer"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Altenburg, F."]
+[Black "Bloch"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "edfa082c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Ne4 5. Qc2 Bxc3+ 6. bxc3 Ng5 7. h4 h6
+8. hxg5 Qxg5 9. Nf3 Qf6 10. Ba3 h5 11. Qe4 g5 12. Rb1 c6 13. Qe5 Qxe5 14.
+Nxe5 f6 15. Nf3 g4 16. Nd2 e5 17. Ne4 d5 18. cxd5 cxd5 19. Nxf6+ Kf7 20.
+Nxd5 exd4 21. Nc7 h4 22. cxd4 h3 23. gxh3 1-0
+

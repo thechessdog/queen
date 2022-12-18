@@ -1,0 +1,17 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nikolic, Nebojsa"]
+[Black "Panchenko, Alexander N"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "80134094"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. d4 Bb4+ 5. Bd2 Be7 6. Nf3 c6 7. Qb3 O-O 8. O-O
+b6 9. cxd5 cxd5 10. Rc1 Bb7 11. a4 Nc6 12. a5 Rc8 13. a6 Ba8 14. Na3 Ne4 15.
+Be1 Qd7 16. e3 Bxa3 17. Qxa3 Rc7 18. Bf1 Nd6 1/2-1/2

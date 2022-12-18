@@ -1,0 +1,23 @@
+[Event "RLP HM Mandersd"]
+[Site "RLP HM Mandersd"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Neuberger, Guido"]
+[Black "Lorscheid, Gerhard"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "a598c1b1"]
+[Epoch "Queen"]
+[WhiteID "4642112"]
+[WhiteCountry "GER"]
+[BlackID "4606000"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. Qxd4 dxe5 10. Qf2 e4 11. Nxe4 Nf6 12. Nxf6+ exf6 13. hxg6 hxg6 14. Be3
+Re8 15. Bd3 Qe7 16. Kd2 Qb4+ 17. Kc1 Qa5 18. a4 Nc6 19. Bb5 Bg4 20. Ra3 Rac8
+21. Qh4 Bxf3 22. gxf3 Qb4 23. Rc3 Rxe3 24. Rxe3 Nd4 25. Re8+ Rxe8 26. Bxe8 f5
+27. c3 Ne2+ 28. Kc2 Nxc3 29. Qd8 Na2 30. Bb5+ Bf8 31. Qd5 Qxa4+ 32. Kb1 Qa5 33.
+Qe5 1-0

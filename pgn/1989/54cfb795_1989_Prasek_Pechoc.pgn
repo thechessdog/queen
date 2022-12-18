@@ -1,0 +1,16 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Prasek"]
+[Black "Pechoc"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "54cfb795"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. exd5 Nxd5 5. Qe2 Nc6 6. Bb5 Bd6 7. Bxc6+
+bxc6 8. f4 O-O 9. fxe5 Bxe5 10. Qf2 Re8 11. Ne2 Bg4 12. O-O Bxe2 0-1
+

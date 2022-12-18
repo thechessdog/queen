@@ -1,0 +1,17 @@
+[Event "corr ol11"]
+[Site "corr ol11"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Marcinkiewicz, Jan"]
+[Black "Andrianov, Nikolai"]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[HashCode "4e9c0232"]
+[Epoch "Queen"]
+[BlackID "4101642"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 d6 7. Qd2 h6 8.
+Bxf6 gxf6 9. O-O-O a6 10. f4 Qb6 1/2-1/2

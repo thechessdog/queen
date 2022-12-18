@@ -1,0 +1,16 @@
+[Event "Colorado"]
+[Site "Colorado"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Genz, D."]
+[Black "Boehmer, D."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "f6039db2"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 Nc6 5. e4 Nf6 6. Nc3 Bg4 7. d5 Ne5
+8. Nxe5 Bxd1 9. Bb5+ c6 10. dxc6 Qc7 11. cxb7+ 1-0
+

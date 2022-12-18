@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Feldhausen, H."]
+[Black "Kievelitz, B."]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "81e93722"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. Be3 Bg7
+8. O-O O-O 9. Nb3 Be6 10. f4 Rc8 11. f5 Bd7 12. g4 Ne5 13. Nd2 Rxc3 14.
+bxc3 Bc6 15. Bf3 d5 16. exd5 Nxd5 17. Bd4 Nxc3 18. Bxc3 Nxf3+ 19. Nxf3 Bxc3
+20. Qxd8 Rxd8 21. Rab1 gxf5 22. gxf5 f6 23. Rb3 Ba5 24. Rd3 Bb6+ 25. Kg2
+Rc8 26. Rc3 Kf7 27. Kh3 Bd7 28. Rxc8 Bxf5+ 29. Kh4 Bxc8 30. Kh5 Kg7 0-1
+

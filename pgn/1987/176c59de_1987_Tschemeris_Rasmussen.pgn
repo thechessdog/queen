@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tschemeris, RM."]
+[Black "Rasmussen, P."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "176c59de"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 8.
+Bxh6 Qxb2 9. Nbd2 gxh6 10. O-O Nxd4 11. Nxd4 Qxd4 12. Bb5+ Kd8 13. Qe2 Rg8
+14. Rfd1 Qg4 15. f3 Qh4 16. Ne4 a6 17. Ba4 Be7 18. Qe3 b5 19. Qb6+ 1-0
+

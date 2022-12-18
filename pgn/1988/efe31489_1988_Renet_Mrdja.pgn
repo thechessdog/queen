@@ -1,0 +1,21 @@
+[Event "Geneve op"]
+[Site "Geneva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Mrdja, Milan"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "efe31489"]
+[Epoch "Queen"]
+[WhiteID "600040"]
+[WhiteCountry "FRA"]
+[BlackID "14500337"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Nb3 Nc6 10. Bd3 d5 11. Bxf6 gxf6 12. Na4 Qa3 13. Nb6 Rb8 14. exd5 Na5
+15. Rb1 Qb4 16. Nxc8 Rxc8 17. c3 Rxc3 18. Nxa5 Qxa5 19. Ke2 Bb4 20. Rxb4 Qxb4
+21. Rc1 O-O 22. Rxc3 exd5 23. Bxh7+ Kh8 24. Rh3 Qc5 25. Qe3 1-0

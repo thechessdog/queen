@@ -1,0 +1,21 @@
+[Event "Viernheim"]
+[Site "Viernheim"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Birnbaum, Detlev"]
+[Black "Roeschlau, Bernd"]
+[Result "0-1"]
+[ECO "D72"]
+[Opening "Neo-Gruenfeld, 5.cd, main line"]
+[HashCode "70626eef"]
+[Epoch "Queen"]
+[WhiteID "605093"]
+[BlackID "4602609"]
+[WhiteCountry "FRA"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 O-O 8. O-O
+c6 9. Nbc3 Na6 10. a4 e5 11. d5 cxd5 12. exd5 Bg4 13. a5 Nc4 14. Ra4 Rc8 15. d6
+Qd7 16. Qb3 Bxe2 17. Nxe2 Nc5 18. Qxc4 Nxa4 19. Qb4 Nc5 20. Rd1 e4 21. Nf4 Rfe8
+22. Be3 g5 23. Bh3 f5 24. Nd5 g4 25. Bxc5 gxh3 26. Qb3 Kh8 27. Bb4 Rcd8 28. Nc7
+e3 29. Nxe8 Qc6 30. Qd5 e2 0-1

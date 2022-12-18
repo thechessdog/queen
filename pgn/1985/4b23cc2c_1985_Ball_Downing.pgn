@@ -1,0 +1,25 @@
+[Event "Westland SE MI opB"]
+[Site "Westland SE MI opB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ball, E."]
+[Black "Downing, J."]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "4b23cc2c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bc5 6. Nxe5 Qd4 7. Be3
+Qxe5 8. d4 Bxd4 9. Bxd4 Qxe4+ 10. Kf1 Qd5 11. Nc3 Qc4+ 12. Qe2+ Be6 13.
+Bxf6 gxf6 14. Re1 Qxe2+ 15. Rxe2 O-O-O 16. Ke1 Rhg8 17. g3 Bd5 18. Nxd5
+Rxd5 19. f4 Rgd8 20. Kf2 Rd2 21. Kf3 b5 22. a3 a5 23. a4 Rd1 24. Rxd1 Rxd1
+25. Ke3 Ra1 26. axb5 cxb5 27. b3 a4 28. bxa4 bxa4 29. c3 a3 30. Kd4 Rb1 31.
+Ra2 Rb3 32. h4 Kb7 33. Kc4 Rb2 34. Rxa3 Rg2 35. Rb3+ Kc8 36. Rb5 Rxg3 37.
+Rf5 Kd7 38. Rxf6 Ke7 39. Rh6 Rg4 40. Rxh7 Rxf4+ 41. Kb3 Kf6 42. c4 Kg6 43.
+Rh8 Re4 44. Rc8 Re7 45. Rh8 f5 46. Rf8 Rf7 47. Rxf7 Kxf7 48. Kc3 f4 49. Kd4
+Kg6 50. Ke4 Kh5 51. Kxf4 Kxh4 52. Ke5 Kg4 53. c5 Kg5 54. Ke6 Kf4 55. c6 Ke4
+56. Kd7 Kd5 57. Kxc7 Kc5 58. Kb7 Kd6 59. c7 Kd7 60. c8=Q+ Kd6 61. Qf5 Ke7
+62. Kc6 Ke8 63. Qh7 Kf8 64. Kd6 Ke8 65. Qe7# 1-0
+

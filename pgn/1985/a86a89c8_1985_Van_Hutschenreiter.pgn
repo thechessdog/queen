@@ -1,0 +1,20 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Otte"]
+[Black "Hutschenreiter"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Smyslov variation"]
+[HashCode "a86a89c8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd3 c5 7. O-O dxc4 8.
+Bxc4 Qe7 9. a3 Ba5 10. Qd3 Nbd7 11. Ne4 Bb6 12. Nxf6+ Qxf6 13. Bd2 Rd8 14.
+Rad1 cxd4 15. exd4 h6 16. Qb3 a6 17. Bc3 Ba7 18. Ne5 b5 19. Be2 Bb7 20. Bf3
+Bxf3 21. Nxf3 Qf5 22. Ne5 Rac8 23. Ba5 Nb6 24. Rd3 Rd5 25. Rf3 Qc2 26. Qb4
+Nc4 27. Rc3 Qe2 28. Qe7 Bxd4 29. Qxf7+ Kh8 30. Ng6+ Kh7 31. Rcc1 Rf5 32.
+Qc7 Rxf2 33. Rxf2 Qxf2+ 34. Kh1 Rxc7 35. Bxc7 Ne3 36. Nf4 e5 0-1
+

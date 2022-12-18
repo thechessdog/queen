@@ -1,0 +1,30 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Prandstetter, Eduard"]
+[Black "Danner, Georg"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "f2362947"]
+[Epoch "Queen"]
+[WhiteID "300225"]
+[WhiteCountry "CZE"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 exf4 10. Bxf4 Nbd7 11. Kh1 Ne5 12. Nd4 O-O 13. Qe1 Qc7 14. a4 Rae8
+15. Rd1 Ng6 16. Bg3 Qc5 17. Nf5 Bxf5 18. exf5 Ne5 19. Qd2 Rc8 20. h3 Rfe8 21.
+Qd4 Qxd4 22. Rxd4 Nc6 23. Rdd1 Nb4 24. Rd2 Rxc3 25. bxc3 Ne4 26. Bf4 Bf6 27.
+Bf3 Nxd2 28. Bxd2 Nc6 29. Rb1 Na5 30. Bd5 Rc8 31. Rb6 Be5 32. Rb4 Bxc3 33. Bxc3
+Rxc3 34. Bxb7 Nxb7 35. Rxb7 Kf8 36. Rb6 Ke7 37. Rxa6 Rxc2 38. Kg1 h5 39. Kf1 h4
+40. Rb6 Rc4 41. a5 Rf4+ 42. Ke2 Rxf5 43. a6 Rg5 44. Kf2 Ra5 45. Rb7+ Ke6 46. a7
+Ra3 47. Ke2 g5 48. Kf2 f6 49. Rg7 d5 50. Rb7 d4 51. Rc7 Ke5 52. Kg1 Ra2 53. Kh2
+d3 54. Rd7 Ke4 55. Re7+ Kf4 56. Rd7 Ke3 57. Re7+ Kf2 58. Rd7 Ke2 59. Re7+ Kf1
+60. Kh1 f5 61. Rd7 Ke2 62. Re7+ Kf2 63. Rd7 Ke3 64. Re7+ Kf4 65. Rd7 g4 66.
+hxg4 fxg4 67. Kh2 Ke3 68. Re7+ Kf2 69. Rf7+ Ke1 70. Re7+ Kd1 71. Rd7 d2 72. Re7
+h3 73. Kg3 hxg2 74. Kh2 g1=Q+ 75. Kxg1 Kc2 76. Rc7+ Kd3 77. Rd7+ Ke2 78. Re7+
+Kf3 0-1

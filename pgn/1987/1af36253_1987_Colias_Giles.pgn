@@ -1,0 +1,18 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Giles, Morris"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "1af36253"]
+[Epoch "Queen"]
+[BlackID "2001101"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Kh1 1/2-1/2

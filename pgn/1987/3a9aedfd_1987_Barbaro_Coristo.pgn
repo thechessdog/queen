@@ -1,0 +1,17 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Barbaro, M."]
+[Black "Coristo, G."]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "3a9aedfd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. O-O b6 10. Be3 Na5 11. Bd3 c5 12. Qa4 e5 13. Rad1 Bd7 14.
+dxc5 Bxa4 0-1
+

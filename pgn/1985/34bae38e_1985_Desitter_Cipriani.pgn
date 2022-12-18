@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Desitter"]
+[Black "Cipriani"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "34bae38e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4
+8. Bd3 Qa5 9. Ne2 Ng6 10. O-O dxc3 11. h4 Nc6 12. f4 h5 13. Qg3 Nce7 14.
+Nd4 a6 15. Be3 Nf5 16. Nxf5 exf5 17. Bd4 Kf8 18. Qg5 Be6 19. Bxf5 Bxf5 20.
+Qxf5 Nxh4 21. Qg5 Nxg2 22. e6 f6 23. Bxf6 Qb6+ 24. Kxg2 Rg8 25. Be7+ 1-0
+

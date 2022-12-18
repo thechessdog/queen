@@ -1,0 +1,21 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Litvinov, Vladimir"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "0572c758"]
+[Epoch "Queen"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+[BlackID "34318704"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. a4
+Bb7 9. c3 b4 10. d4 Na5 11. Bc2 d5 12. Nxe5 Nxe4 13. Nd2 f6 14. Nef3 f5 15.
+cxb4 Nc6 16. Nb3 Bxb4 17. Bf4 Re8 18. Ne5 Qh4 19. Qf3 Bd6 20. Bg3 Nxg3 21.
+Qxd5+ 1-0

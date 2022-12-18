@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rause, O."]
+[Black "Scheppeit, B."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c1b28e23"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O Nbd7
+8. Re1 O-O 9. Bf4 b6 10. c4 Qb7 11. d5 Nh5 12. d6 Bf6 13. Bc1 Qa6 14. g4
+Nf4 15. Bxf4 Bxb2 16. Nbd2 Bxa1 17. Qxa1 Nf6 18. Be5 1-0
+

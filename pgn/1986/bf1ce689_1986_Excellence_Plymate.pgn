@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Excellence 3mhz"]
+[Black "Plymate 5 5"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "bf1ce689"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4
+Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 c5 10. O-O-O Qe7 11. Bd3 cxd4 12. Nxd4 O-O 13.
+Qe3 Qc5 14. Qg3 Nf6 15. Nb3 Qb6 16. Nd2 Bd7 17. Nc4 Qc5 18. Ne5 Ba4 19. Kb1
+Rac8 20. Rc1 Rfd8 21. c3 Nh5 22. Qg5 g6 23. Bc4 b5 24. g4 h6 25. Qe3 Qxe3
+26. fxe3 bxc4 27. gxh5 Rc5 28. Ng4 f5 29. Nxh6+ Kg7 30. Rcg1 Kxh6 31. Rxg6+
+Kxh5 32. Rxe6 Rd2 33. b3 cxb3 34. axb3 Bxb3 35. Ra6 Rb5 36. Rg1 Rd8 37. Rg7
+Re8 38. Rg3 Bf7+ 39. Kc2 Rb7 40. c4 Rc7 41. Rh3+ Kg5 42. Rg3+ Kh4 43. Kb2
+Rxc4 44. Rh6+ Bh5 45. Rh7 Rb8+ 46. Ka3 Rc3+ 47. Ka2 Rc5 48. e4 fxe4 49. Re7
+Rc2+ 50. Ka3 Rxh2 51. Re3 Bf3 52. Rxa7 Rg2 53. Rc3 Re8 54. Re3 Kg3 55. Kb4
+Rb8+ 56. Kc5 Rc2+ 57. Kd6 Kf2 58. Raa3 Rd8+ 59. Ke5 Rc5+ 60. Kf6 Rd6+ 61.
+Ke7 Rh6 62. Kf8 Rc7 63. Kg8 Re6 64. Rxf3+ exf3 65. Kf8 Kg2 66. Ra5 f2 67.
+Rg5+ Kh3 68. Rf5 Ra6 69. Rf3+ Kg4 70. Rf7 f1=Q 71. Kg7 Qxf7+ 72. Kh8 Qg7#
+0-1
+

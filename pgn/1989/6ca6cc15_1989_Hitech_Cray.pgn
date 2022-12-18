@@ -1,0 +1,24 @@
+[Event "North American Compu"]
+[Site "North American Compu"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hitech"]
+[Black "Cray Blitz"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "6ca6cc15"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nbd2 Be7 5. Bxf6 Bxf6 6. e4 dxe4 7. Nxe4
+Nd7 8. Nxf6+ Nxf6 9. Qd2 Qd6 10. O-O-O O-O 11. Bc4 b6 12. Ne5 Bb7 13. f4
+Rad8 14. Rhe1 a6 15. Qe2 b5 16. Bb3 Nd5 17. g3 c5 18. dxc5 Qxc5 19. Qh5 Rd6
+20. Nd3 Qb6 21. f5 Ne3 22. fxe6 fxe6 23. Nf4 Rxd1+ 24. Rxd1 Bc8 25. Re1 Nc4
+26. Qe2 g5 27. Nd3 Qc7 28. Qg4 Rf5 29. h4 h6 30. a3 Kf8 31. hxg5 Rxg5 32.
+Qh4 Qxg3 33. Qxh6+ Ke7 34. Qh8 Bb7 35. Qc3 Bd5 36. Qd4 Qd6 37. Rf1 Ne5 38.
+Nxe5 Rxe5 39. Qa7+ Kd8 40. Bxd5 Rxd5 41. Rh1 Rh5 42. Qa8+ Ke7 43. Rg1 Rg5
+44. Rh1 Rh5 45. Rg1 Rg5 46. Qb7+ Kf6 47. Qf3+ Rf5 48. Qa8 Qf4+ 49. Kb1 Qd6
+50. Qh8+ Ke7 51. Qh4+ Ke8 52. Qh7 Rf7 53. Rg8+ Rf8 54. Rg7 Qd5 55. b3 Qd4
+56. Ka2 Qxg7 57. Qxg7 1-0
+

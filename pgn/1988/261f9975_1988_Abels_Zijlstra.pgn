@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Abels"]
+[Black "Zijlstra"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "261f9975"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nd4 5. Nxd4 cxd4 6. d3 Ne7 7. Nd2 a6
+8. Ba4 b5 9. Bb3 Nc6 10. f4 Be7 11. Qh5 Bb7 12. f5 g6 13. Qh3 Bg5 14. Nf3
+Bxc1 15. Raxc1 gxf5 16. exf5 Qe7 17. c3 dxc3 18. Rxc3 O-O 19. Ne5 exf5 20.
+Nxc6 Bxc6 21. Qxf5 Rae8 22. Rcc1 Qe3+ 23. Qf2 1/2-1/2
+

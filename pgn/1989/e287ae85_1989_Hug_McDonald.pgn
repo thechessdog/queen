@@ -1,0 +1,26 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hug, Marcel"]
+[Black "McDonald, Neil"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "e287ae85"]
+[Epoch "Queen"]
+[BlackID "400629"]
+[BlackCountry "ENG"]
+[WhiteID "1300610"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Nbd7 7. O-O e5 8. d5
+Nc5 9. Qc2 a5 10. Bg5 h6 11. Be3 Nfd7 12. Nd2 f5 13. exf5 gxf5 14. f4 Qe7 15.
+Nb3 a4 16. Nxc5 Nxc5 17. Bd3 e4 18. Be2 Bd7 19. Rfd1 Kh8 20. Rab1 Rg8 21. Qd2
+Qf6 22. Bd4 Qxd4+ 23. Qxd4 Bxd4+ 24. Rxd4 Kg7 25. Kf2 h5 26. Rdd1 h4 27. g3 Kf6
+28. Rg1 Rh8 29. Rg2 hxg3+ 30. hxg3 Rh3 31. Ke3 Be8 32. Rbg1 Bh5 33. Bxh5 Rxh5
+34. Nb5 c6 35. dxc6 bxc6 36. Nd4 Ra6 37. Nxf5 d5 38. g4 Rh3+ 39. Rg3 Rxg3+ 40.
+Nxg3 Rb6 41. g5+ Ke6 42. Kd4 Nd3 43. cxd5+ cxd5 44. f5+ Kd6 45. g6 Rb4+ 46. Ke3
+Rb8 47. g7 Rg8 48. f6 Ke6 49. Rf1 Ne5 50. Rf4 a3 51. bxa3 Ra8 52. a4 Kf7 53.
+Nf5 Kxf6 54. g8=Q Rxg8 55. Nh6+ Kg5 0-1

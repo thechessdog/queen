@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Majeric, Zoran"]
+[Black "Ilincic, Zlatko"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "e9a37686"]
+[Epoch "Queen"]
+[WhiteID "14500523"]
+[WhiteCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Nd7 7. O-O f6 8. d4
+Bd6 9. dxe5 Nxe5 1/2-1/2

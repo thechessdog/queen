@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schirmer, M."]
+[Black "Nick, H."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "560b0b7a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 c6 8.
+Qe2 Bxe5 9. dxe5 Nc5 10. Bc2 Be6 11. Rd1 f6 12. Nc3 Nbd7 13. Qh5 g6 14.
+Bxg6 hxg6 15. Qxg6+ Kh8 16. b4 Rf7 17. cxd5 Rg7 18. Qh6+ Rh7 19. Qe3 Bxd5
+20. Nxd5 1-0
+

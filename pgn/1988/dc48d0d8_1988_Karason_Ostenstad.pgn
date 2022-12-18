@@ -1,0 +1,24 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Karason, Askell O"]
+[Black "Ostenstad, Berge"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "dc48d0d8"]
+[Epoch "Queen"]
+[WhiteID "2300567"]
+[WhiteCountry "ISL"]
+[BlackID "1500058"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 a5 6. a3 a4 7. Qc2 Bxc3+ 8. Qxc3
+Bb7 9. Bg5 h6 10. Bh4 d6 11. e3 Nbd7 12. Rd1 g5 13. Bg3 Ne4 14. Qc2 f5 15. Nd2
+Qf6 16. f3 Nxd2 17. Rxd2 f4 18. exf4 gxf4 19. Bf2 Ra5 20. Kd1 Rg8 21. Kc1 Kd8
+22. Be1 Bc6 23. Rd1 Rh5 24. Bc3 Qg6 25. Qf2 e5 26. d5 Bb7 27. Bb4 Bc8 28. Rd2
+Nf8 29. Qe2 Qe8 30. Bc3 Ng6 31. Qf2 Ne7 32. Bd3 Nf5 33. Bxf5 Bxf5 34. Qe1 Kc8
+35. Qd1 Rhg5 36. Rg1 Kb8 37. Re2 R5g7 38. Be1 Qh5 39. h4 e4 40. fxe4 Bg4 41.
+Qxa4 Bxe2 42. c5 dxc5 0-1

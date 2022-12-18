@@ -1,0 +1,20 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lacoste"]
+[Black "Maumey"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "6d80da28"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Bd7 9. Rd1 c5 10. Ne5 Nc6 11. Nxc6 Bxc6 12. Bxc6 bxc6 13. dxc5 Qa5 14.
+Qxc4 Bxc5 15. Nc3 Nd5 16. Bd2 Qb6 17. Be1 a5 18. Rac1 Rac8 19. Ne4 Be7 20.
+Qd4 c5 21. Qc4 f5 22. Nc3 Nf6 23. Nb5 Kh8 24. Bc3 Rfd8 25. Be5 Rd5 26. Rxd5
+exd5 27. Qf4 Qe6 28. Bd6 Qxe2 29. Qxf5 Rf8 30. Rxc5 Nd7 31. Rc8 Rxc8 32.
+Qxd7 Rc1+ 33. Kg2 Qf1+ 34. Kf3 Qh1+ 35. Kg4 h5+ 36. Kxh5 Qf3+ 0-1
+

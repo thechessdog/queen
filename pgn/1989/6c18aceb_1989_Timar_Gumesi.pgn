@@ -1,0 +1,18 @@
+[Event "Hungary tt"]
+[Site "Hungary tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Timar, Zsolt"]
+[Black "Gumesi, Andras"]
+[Result "0-1"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "6c18aceb"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. g3 d5 6. cxd5 Nxd5 7. Bg2 c5 8. O-O
+cxd4 9. Nxd4 Nxc3 10. bxc3 Qa5 11. Qb3 e5 12. Bxb7 exd4 13. Bxa8 dxc3 14. Bf4
+Be6 15. Qc2 Na6 16. Bc6 Nb4 17. Qa4 Nxc6 18. Qxc6 Rc8 19. Qb7 c2 20. Rac1 Qxa2
+21. e4 Bc3 22. Kg2 a5 23. Qa6 a4 24. Qd3 Bg7 25. e5 Bc4 26. Qd7 Bxf1+ 27. Kxf1
+Qc4+ 28. Kg1 a3 29. Qa7 a2 30. Qa3 Rd8 31. Kg2 Bf8 32. Qb2 Ra8 33. Qa1 0-1

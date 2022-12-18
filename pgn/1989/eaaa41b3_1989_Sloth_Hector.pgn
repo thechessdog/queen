@@ -1,0 +1,22 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sloth, Jorn"]
+[Black "Hector, Jonny"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "eaaa41b3"]
+[Epoch "Queen"]
+[WhiteID "1400240"]
+[WhiteCountry "DEN"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 Nd7 4. Bb2 c6 5. Be2 Qb8 6. c4 e5 7. cxd5 cxd5 8. Nc3
+Ngf6 9. h3 Be6 10. Ng5 Bf5 11. g4 Bg6 12. Nf3 h6 13. d4 exd4 14. Nxd4 Bc5 15.
+Nf3 Qd6 16. a3 a6 17. Bd3 O-O 18. Ne2 Rae8 19. O-O Ne4 20. Kg2 f5 21. Nfd4 fxg4
+22. hxg4 Ne5 23. Nf4 Bh7 24. Be2 Ng6 25. f3 Nh4+ 26. Kh3 Ng5+ 27. Kxh4 Rxf4 28.
+exf4 Qxf4 29. Rf2 Be7 30. Nf5 Bxf5 0-1

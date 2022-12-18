@@ -1,0 +1,18 @@
+[Event "corr Copa Latina"]
+[Site "corr Copa Latina"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krnicnuj"]
+[Black "Noseda"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "7a512599"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Ne2 Qc7 10. Bd3 e5 11. O-O e4 12. Bb1 b6 13. Ng3 Bb7 14. a4
+Nbd7 15. f4 Rfe8 16. Ba2 cxd4 17. cxd4 Bd5 18. Nf5 g6 19. Ng3 Bxa2 20. Rxa2
+Rac8 21. f5 g5 22. Nh5 Qc4 23. Raf2 Qd3 24. Nxf6+ Nxf6 25. Qe1 Rc3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1988.01.01"]
+[Round "13"]
+[White "Matlak, Marek"]
+[Black "Twardon, Marian"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "b4664665"]
+[Epoch "Queen"]
+[WhiteID "1100122"]
+[WhiteCountry "POL"]
+[BlackID "1101021"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. a3 Ke7 10. b4 Bd6 11. Bb2 b5 12. Be2 Bb7 13. Nbd2 Nbd7 14. Nb3
+Rhc8 15. Rfc1 Bd5 16. Na5 e5 17. Kf1 h6 18. Ke1 1/2-1/2

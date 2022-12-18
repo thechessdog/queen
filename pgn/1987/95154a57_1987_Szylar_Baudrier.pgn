@@ -1,0 +1,16 @@
+[Event "Rouen"]
+[Site "Rouen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szylar"]
+[Black "Baudrier, J."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "95154a57"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. Nf3 d4 5. e6 dxc3 6. exf7+ Kxf7 7. Ng5+
+Kg6 8. Bd3+ Kxg5 9. dxc3+ Kf6 10. Qf3+ Ke6 11. Bc4+ Ke5 12. Qf4# 1-0
+

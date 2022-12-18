@@ -1,0 +1,21 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gobet, Fernand"]
+[Black "Landenbergue, Claude"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "b1560429"]
+[Epoch "Queen"]
+[BlackID "1300130"]
+[BlackCountry "SUI"]
+[WhiteID "1300083"]
+[WhiteCountry "SUI"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d6 5. Nf3 g6 6. Bf4 Bg4 7. h3 Bxf3 8. Qxf3
+Nc6 9. O-O-O Bg7 10. Bb5 O-O 11. Bxc6 bxc6 12. Qxc6 Rb8 13. h4 Qc8 14. h5 Qg4
+15. g3 g5 16. h6 Bh8 17. f3 Qe6 18. Bxg5 dxe5 19. d5 Qxc6 20. dxc6 f6 21. Be3
+Nc4 22. Bxa7 Rxb2 23. Rh4 1-0

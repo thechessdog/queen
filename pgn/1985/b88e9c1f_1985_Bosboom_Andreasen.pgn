@@ -1,0 +1,20 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Bosboom, Manuel"]
+[Black "Andreasen, Per Naesby"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b88e9c1f"]
+[Epoch "Queen"]
+[WhiteID "1000080"]
+[WhiteCountry "NED"]
+[BlackID "1400886"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 dxc4 8.
+O-O O-O 9. Bxc4 Nbd7 10. Bb3 Nb6 11. Re1 Bg4 12. h3 Bxf3 13. Qxf3 Qd7 14. Bg5
+Rac8 15. Rad1 a5 16. a4 Rc7 17. Nb5 Rcc8 18. d5 h6 19. d6 1-0

@@ -1,0 +1,20 @@
+[Event "Pavlodar"]
+[Site "Pavlodar"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Janovsky, Sergey"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1bd665d4"]
+[Epoch "Queen"]
+[BlackID "4102711"]
+[BlackCountry "RUS"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8. h3
+Bh5 9. c4 Qd7 10. dxc5 Bxc5 11. Qxd7+ Nxd7 12. Nc3 Nde5 13. g4 Bg6 14. Nxe5
+Nxe5 15. Rd1 Bc2 16. Rd2 Bg6 17. Rd1 Bc2 18. Rd2 Bg6 19. Rd1 Bc2 1/2-1/2

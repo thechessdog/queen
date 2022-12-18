@@ -1,0 +1,26 @@
+[Event "JSM JarvSK-KalSK"]
+[Site "JSM JarvSK-KalSK"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mertanen, Janne"]
+[Black "Halme, Olavi"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "534a786e"]
+[Epoch "Queen"]
+[WhiteID "501875"]
+[WhiteCountry "FIN"]
+[BlackID "501298"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 c5 8. Bxe7
+Qxe7 9. Qxg7 Rf8 10. Nf3 Nc6 11. O-O-O cxd4 12. Nxd4 Ncxe5 13. f4 Ng6 14. h5
+Nh8 15. Qg3 Nf6 16. Be2 Bd7 17. Qe3 Rg8 18. Bf3 Kf8 19. Rhe1 Qd6 20. Rg1 Ng4
+21. Qd2 f6 22. f5 e5 23. Ne6+ Bxe6 24. fxe6 d4 25. Ne4 Qxe6 26. Bxg4 Rxg4 27.
+Qh6+ Ke7 28. Qxh7+ Nf7 29. Nc5 Qd5 30. Nb3 Rh8 31. Qf5 Rg5 32. Qf2 Rhxh5 33. g4
+Rh3 34. Rgf1 Qd6 35. Nc5 Rxg4 36. Nxb7 Qc6 37. Na5 Qe6 38. Kb1 Rhg3 39. Rde1
+Rg2 40. Qf3 R4g3 41. Qb7+ Kf8 42. Nb3 Qc4 43. Rc1 Rxc2 44. Qe4 Rxc1+ 45. Rxc1
+Qd3+ 46. Qxd3 Rxd3 47. Nc5 Re3 48. Nxa6 d3 49. b4 Nd6 50. Nc5 Nb5 51. Kb2 d2
+52. Rd1 Na3 53. Nb3 Re1 54. Rxd2 Nc4+ 55. Kc2 Nxd2 56. Kxd2 Rh1 57. a4 Ke7 0-1

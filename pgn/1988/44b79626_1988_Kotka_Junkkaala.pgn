@@ -1,0 +1,18 @@
+[Event "corr Koskinen mem"]
+[Site "corr Koskinen mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kotka"]
+[Black "Junkkaala"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "44b79626"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 Nxd4 5. Nxd4 exd4 6. Qxd4 Qf6 7. e5 Qb6
+8. Qd3 Bh6 9. Nc3 c6 10. Bc4 Bxc1 11. Rxc1 Qxb2 12. O-O Qa3 13. Rcd1 Qe7
+14. Ne4 Kf8 15. Qd4 Nh6 16. e6 Rg8 17. exd7 Bxd7 18. Nf6 Rg7 19. Nxd7+ Kg8
+20. Rfe1 Qg5 21. Nf6+ Kh8 22. Ne8 Nf5 23. Qc3 Kg8 24. Nxg7 Nh4 25. Qg3 1-0
+

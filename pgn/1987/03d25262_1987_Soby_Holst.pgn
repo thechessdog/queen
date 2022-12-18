@@ -1,0 +1,23 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Soby, Frode"]
+[Black "Holst, Per"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "03d25262"]
+[Epoch "Queen"]
+[WhiteID "1407880"]
+[BlackID "1405411"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Ng3
+d5 9. cxd5 exd5 10. Bd3 Re8 11. O-O Nc6 12. Bc2 Qb6 13. Qd3 Qxd4 14. Nf5 Qxd3
+15. Nxe7+ Rxe7 16. Bxd3 d4 17. Nb5 a6 18. Nd6 Bg4 19. Bg5 Be2 20. Bxe2 Rxe2 21.
+Bxf6 gxf6 22. b4 b5 23. Rac1 Ne5 24. Rfd1 d3 25. Kf1 Rc2 26. Ra1 Rd8 27. Nb7
+Rd4 28. Nc5 a5 29. Nb3 Rf4 30. f3 axb4 31. axb4 Rxb4 32. Rab1 Rc3 33. Nd2 Rxb1
+34. Rxb1 Rc2 35. Ne4 Nc4 36. Nxf6+ Kg7 37. Nh5+ Kh6 38. Nf4 Nd2+ 0-1

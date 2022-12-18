@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heinrich, H."]
+[Black "Lauer, F."]
+[Result "0-1"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 13.Bd3"]
+[HashCode "6654466a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 O-O 9. O-O cxd4 10. cxd4 Nc6 11. Be3 Bg4 12. f3 Na5 13. Bd3 Be6 14.
+Qa4 a6 15. d5 b5 16. Qb4 Bxa1 17. Rxa1 Bd7 18. Qd4 f6 19. e5 fxe5 20. Qxe5
+Qb8 21. Qxe7 Re8 22. Qg5 Qe5 23. Qxe5 Rxe5 24. Bd4 Ree8 25. Ng3 Nb7 26. Ne4
+Kf7 27. Nf6 Red8 28. Nxh7 Bf5 29. Ng5+ Kg8 30. Ne4 Kf8 31. g4 Rxd5 32. Bb2
+Rxd3 33. gxf5 gxf5 34. Ng5 Nd6 35. h4 Nc4 36. Bf6 Re8 37. Kh2 Nd2 0-1
+

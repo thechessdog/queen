@@ -1,0 +1,19 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Zapata, Alonso"]
+[Black "Velez, Nestor"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "0d983404"]
+[Epoch "Queen"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. Qe2 Qc7 11. Kh1 Rc8 12. e5 Bxf3 13. Nxf3 dxe5 14. fxe5 Ng4
+15. Ng5 Nh6 16. Nge4 b4 17. Bxh6 gxh6 18. Nd5 Qxc2 19. Ndf6+ Nxf6 20. Nxf6+ Ke7
+21. Rad1 Bg7 22. Rd7+ Kf8 23. Ne4 1-0

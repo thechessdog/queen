@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hagemeister"]
+[Black "Wilken"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "432cf67f"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. d4 Nbd7 7. O-O e5 8.
+e4 c6 9. Qc2 Re8 10. Rd1 Qe7 11. b3 exd4 12. Nxd4 Nc5 13. Bb2 a5 14. a3 Qc7
+15. b4 axb4 16. axb4 Rxa1 17. Bxa1 Ne6 18. Ndb5 cxb5 19. Nxb5 Qe7 20. Nxd6
+Rd8 21. c5 Ne8 22. e5 Ng5 23. h4 Nh3+ 24. Kh2 Nf4 25. Nxc8 Rxc8 26. gxf4
+Bh6 1/2-1/2
+

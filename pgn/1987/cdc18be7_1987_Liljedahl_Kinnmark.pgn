@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Liljedahl, Lennart"]
+[Black "Kinnmark, Ove"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "cdc18be7"]
+[Epoch "Queen"]
+[WhiteID "1700758"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. e3 O-O 6. Bxb4 Qxb4+ 7. Qd2 Qxd2+
+8. Nbxd2 b6 9. Bd3 Bb7 10. O-O d6 11. b4 Nbd7 12. e4 a5 13. a3 axb4 14. axb4
+Rxa1 15. Rxa1 Ra8 16. Rxa8+ Bxa8 1/2-1/2

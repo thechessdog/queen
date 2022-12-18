@@ -1,0 +1,20 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Gunawan, Ronny"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "168382fa"]
+[Epoch "Queen"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "7100035"]
+[BlackCountry "INA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. c3
+Nbc6 9. f4 cxd4 10. cxd4 f6 11. exf6 Rxf6 12. Nf3 Bd7 13. Bd3 Be8 14. Ne5 Qb6
+15. Rd1 a6 16. Nc3 Rc8 17. Ne2 1/2-1/2

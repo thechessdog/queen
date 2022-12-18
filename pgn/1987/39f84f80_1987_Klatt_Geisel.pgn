@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klatt"]
+[Black "Geisel"]
+[Result "0-1"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, 8...Bb7"]
+[HashCode "39f84f80"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 dxc4 3. e3 c5 4. Bxc4 Nf6 5. O-O a6 6. d4 e6 7. Qe2 b5 8.
+Bb3 Bb7 9. Rd1 Nbd7 10. Nc3 b4 11. Na4 Qa5 12. Nd2 cxd4 13. Nc4 Qb5 14.
+exd4 Be7 15. Bf4 O-O 16. Bc2 Rfc8 17. b3 Nd5 18. Bd2 Qc6 19. Be4 a5 20. Ne5
+Nxe5 21. dxe5 Ba6 22. Qh5 g6 23. Qf3 Bb5 24. Bh6 Rd8 25. Rac1 Qa6 26. Rxd5
+exd5 27. Bxd5 Rxd5 28. Qxd5 Rd8 29. Qe4 Bxa4 30. bxa4 g5 31. e6 Qxe6 32.
+Qxe6 fxe6 33. g3 Rd2 34. Rc8+ Kf7 35. Rc7 Kf6 36. Bg7+ Kxg7 37. Rxe7+ Kf6
+38. Ra7 Rxa2 39. Rxa5 g4 40. Ra8 b3 41. Rb8 b2 42. Kg2 Ke5 43. a5 Kd4 44.
+a6 Kc3 0-1
+

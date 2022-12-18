@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Porzig"]
+[Black "Karnitzschky"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "86db9151"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Bg4 9. Re1 Nf6 10. cxd5 Nxd5 11. Nc3 O-O 12. Be4 Nf6 13. d5 Nb8 14.
+d6 Bxd6 15. Bxb7 Nbd7 16. Bxa8 Qxa8 17. h3 Bh5 18. Bg5 Ne5 19. Bxf6 gxf6
+20. Ne4 Bxf3 21. gxf3 f5 22. Nf6+ Kh8 23. Re3 Nc4 24. Qd4 Nxe3 25. Qxe3
+Rg8+ 26. Nxg8 Qxg8+ 27. Kh1 Qg7 28. Rg1 Qe5 29. f4 Qe6 30. Qc3+ f6 31. Qc6
+Qe4+ 32. Qxe4 fxe4 33. f5 Bc5 34. Rg2 a5 35. b3 e3 36. fxe3 Bxe3 37. Rg4
+Bc5 38. Kg2 Bb4 39. Kf3 1-0
+

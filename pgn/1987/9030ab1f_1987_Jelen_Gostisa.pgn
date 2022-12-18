@@ -1,0 +1,20 @@
+[Event "Portoroz / Ljubljana"]
+[Site "Portoroz / Ljubljana"]
+[Date "1987.06.01"]
+[Round "1"]
+[White "Jelen, Iztok"]
+[Black "Gostisa, Leon"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "9030ab1f"]
+[Epoch "Queen"]
+[WhiteID "14600056"]
+[WhiteCountry "SLO"]
+[BlackID "14600722"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+b6 9. a3 cxd4 10. axb4 dxc3 11. Qxd8 Rxd8 12. bxc3 Bb7 13. Bb2 Nc6 14. Be2 Ne4
+15. Rfd1 h6 16. Nd4 a5 17. f3 1/2-1/2

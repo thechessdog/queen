@@ -1,0 +1,16 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Perez, O."]
+[Black "Solorzano, J."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish opening)"]
+[HashCode "f42b9c94"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bd6 4. O-O Nf6 5. d4 Nxe4 6. dxe5 Nxf2 7. Kxf2
+Bc5+ 8. Kg3 O-O 9. Bxc6 bxc6 10. Nc3 h6 11. Ne4 Bb6 12. Bxh6 gxh6 13. Nf6+
+Kg7 14. Nh5+ Kh8 15. h3 d6 16. Qd2 Rg8+ 17. Kh2 dxe5 18. Qxh6# 1-0
+

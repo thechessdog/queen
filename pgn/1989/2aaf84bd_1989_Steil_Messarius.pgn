@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Steil, Jakob"]
+[Black "Messarius, J."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "2aaf84bd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Qf3 Bb7 9. Bg5 Nbd7 10. O-O-O h6 11. Qh3 Rg8 12. Nxe6 fxe6 13. Bxe6 hxg5
+14. Bxg8 Nxg8 15. Qh5+ Ke7 16. Qxg5+ Kf7 17. Qf5+ Ngf6 18. Rhe1 g6 19. Qh3
+b4 20. Nd5 Bxd5 21. exd5 Nc5 22. Rd4 Qc8 23. g4 Rb8 24. Rf4 Bg7 25. Kb1 Qd7
+26. Qf3 g5 27. Rf5 Re8 28. Re3 Qb5 29. b3 Qf1+ 30. Kb2 Rxe3 31. Qxe3 Qd1
+32. Qxg5 Qd4+ 33. Kb1 0-1
+

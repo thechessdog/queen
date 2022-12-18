@@ -1,0 +1,25 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Naumann, F."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "1747735e"]
+[Epoch "Queen"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. e3 cxd4 5. exd4 d5 6. a3 Nc6 7. Nf3 Be7 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O a6 11. Ba2 b5 12. Re1 Bb7 13. Bg5 Nd5 14. Ne4 Bxg5 15.
+Nfxg5 Ra7 16. Rc1 h6 17. Nf3 a5 18. Rc5 b4 19. Bxd5 exd5 20. Ng3 bxa3 21. bxa3
+Nb8 22. Ne5 Nd7 23. Rc3 Nxe5 24. Rxe5 Bc8 25. Rc5 Be6 26. f4 g6 27. f5 gxf5 28.
+Nxf5 Bxf5 29. Rxf5 Rd7 30. Qg4+ Kh7 31. Rfxd5 Rxd5 32. Qe4+ Kg7 33. Rxd5 Qb6
+34. Qe5+ Kh7 35. Rb5 Qd8 36. Rb7 Qc8 37. Rc7 Qg4 38. h3 Qd1+ 39. Kh2 Qd3 40. a4
+Qd1 41. Qe4+ Kg8 42. Rc3 Rd8 43. Rd3 Qxa4 44. Qe5 Qb4 45. Rg3+ Kf8 46. Qg7+ Ke8
+47. Re3+ Kd7 48. Qxf7+ Kc8 49. Qe6+ Kc7 50. Qxh6 Qxd4 51. Re6 Rd6 52. Qh7+ Rd7
+53. Qf5 Rd5 54. Qf7+ Rd7 55. Qf3 Rd5 56. Re1 Qc5 57. Kh1 Qd4 58. Qf8 Rd8 59.
+Qf5 Rd5 60. Rc1+ Kb6 61. Qc8 Kb5 62. Rb1+ 1-0

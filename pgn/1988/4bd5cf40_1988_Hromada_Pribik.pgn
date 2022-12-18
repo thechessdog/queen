@@ -1,0 +1,24 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hromada"]
+[Black "Pribik"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "4bd5cf40"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. Nc3 dxe4 7. Nxe4 Nxe4
+8. dxe4 O-O 9. Bg5 Qc7 10. Qd2 Bg4 11. O-O-O Be7 12. h3 Bh5 13. Bxe7 Qxe7
+14. g4 Bg6 15. Rhe1 Na6 16. Qd6 Rfe8 17. Qxe7 Rxe7 18. Nh4 Nc5 19. Bc4 Kf8
+20. b4 Na4 21. Bb3 Nb6 22. c4 Ke8 23. c5 Nd7 24. Kb2 Rd8 25. f3 Nf8 26. Kc3
+Red7 27. Rxd7 Rxd7 28. Re3 h6 29. Rd3 Rxd3+ 30. Kxd3 Bh7 31. a4 g5 32. Ng2
+Ng6 33. b5 Ne7 34. Kc3 Bg6 35. b6 axb6 36. cxb6 Kd7 37. Kb4 f6 38. Kc5 Nc8
+39. Ne3 Nd6 40. Nc4 Nf7 41. Na5 Nd8 42. Bg8 h5 43. Kb4 hxg4 44. hxg4 Kc8
+45. Kc5 Kd7 46. Bc4 Be8 47. Nb3 Bf7 48. a5 Be6 49. Kb4 Bxc4 50. Kxc4 Nf7
+51. Nc5+ Kc8 52. Ne6 Nd6+ 53. Kc5 Nb5 54. Ng7 Nd4 55. Ne8 Nxf3 56. Nxf6 Nd4
+57. Nh7 1-0
+

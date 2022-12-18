@@ -1,0 +1,23 @@
+[Event "ACM"]
+[Site "ACM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Challenger X"]
+[Black "Hitech"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "62811c36"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. d4 Nxc3 7. bxc3 O-O
+8. Be2 c5 9. O-O Nc6 10. Be3 Qa5 11. Qd3 Bg4 12. Kh1 Bh5 13. Rfb1 Rab8 14.
+dxc5 Bxf3 15. gxf3 Nxe5 16. Qxd5 Nc6 17. Bd4 Qd8 18. Bc4 Qxd5 19. Bxd5 Bg5
+20. Rg1 Bh6 21. Rab1 Rfd8 22. Bxc6 bxc6 23. Be5 Rxb1 24. Rxb1 Re8 25. f4 a5
+26. c4 f6 27. Rb8 Rxb8 28. Bxb8 a4 29. Kg2 g6 30. Kf3 Kf7 31. Bd6 Ke6 32.
+Ke4 Bg7 33. Kd4 f5+ 34. Kd3 Bf6 35. Ke3 Bg7 36. Kd2 Bf6 37. Kd3 h5 38. Ke2
+h4 39. h3 Bb2 40. Bc7 Kd7 41. Ba5 Bd4 42. Bb4 Ke6 43. Be1 Bf6 44. Bd2 Be7
+45. Be3 Bd8 46. Kd3 Kf7 47. Kc3 Bc7 48. Kb4 g5 49. fxg5 Kg6 50. Kxa4 Bh2
+51. Ka5 f4 52. Bxf4 Bxf4 53. Kb6 Kf7 54. Kxc6 1-0
+

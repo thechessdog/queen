@@ -1,0 +1,23 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roeschlau, Bernd"]
+[Black "Theel, Thomas"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b59910e5"]
+[Epoch "Queen"]
+[BlackID "12932868"]
+[BlackCountry "GER"]
+[WhiteID "4602609"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. Re1 h5 12. a4 Ne5 13. Bb5 Bd7 14. f4 Neg4 15. h3
+Nxd5 16. Nxd5 Bd4+ 17. Kf1 Qh4 18. Ke2 Bxb5+ 19. axb5 Nf2 20. Qc2 Qg3 21. Kf1
+Nd3 22. Nf3 Nxe1 23. Nxe1 Rxe4 24. Nf6+ Bxf6 25. Qxe4 Bd4 26. Qf3 Qh4 27. Nc2
+Re8 28. Rxa7 b6 29. Ra8 Qe7 30. Rxe8+ Qxe8 31. Nxd4 cxd4 32. Qd5 Qd7 33. Bd2
+Kf8 34. Bb4 Ke7 35. Qe5+ Qe6 36. Bxd6+ Kd7 37. Qxe6+ 1-0

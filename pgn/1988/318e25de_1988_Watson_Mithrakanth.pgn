@@ -1,0 +1,24 @@
+[Event "Calcutta"]
+[Site "Calcutta"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Watson, William N"]
+[Black "Mithrakanth, Poorna Sharma"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "318e25de"]
+[Epoch "Queen"]
+[WhiteID "400157"]
+[WhiteCountry "ENG"]
+[BlackID "5000130"]
+[BlackCountry "IND"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+Be7 9. Bd3 Be6 10. f5 Bc4 11. O-O Nbd7 12. Kh1 O-O 13. Qe2 Rac8 14. Bg5 Rfe8
+15. Nd2 d5 16. Bxc4 dxc4 17. g4 Bb4 18. Bh4 Bxc3 19. bxc3 h6 20. Rg1 Qc6 21. g5
+hxg5 22. Rxg5 Nh7 23. Rg3 Qh6 24. Nf3 Ndf6 25. Rag1 Nh5 26. Rg4 Kf8 27. Bf2
+N7f6 28. Be3 Nf4 29. Bxf4 exf4 30. Rh4 Nh5 31. Qg2 Rc6 32. e5 Qh7 33. Ng5 Qh6
+34. Nxf7 f3 35. Qxf3 Kxf7 36. Rxh5 Qd2 37. e6+ Kg8 38. Rhg5 Rc7 39. h4 Qxc2 40.
+h5 Qd3 41. Qxd3 cxd3 42. h6 d2 43. Rxg7+ Rxg7 44. Rxg7+ Kh8 45. Rd7 1-0

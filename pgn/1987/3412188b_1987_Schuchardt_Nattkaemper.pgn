@@ -1,0 +1,16 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "10"]
+[White "Schuchardt, M."]
+[Black "Nattkaemper, S."]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "3412188b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. d5 a6 5. Bxc4 b5 6. Bd3 Bb7 7. Nf3 Bd6 8. O-O
+Nf6 9. Bg5 h6 10. Bh4 O-O 11. a3 Re8 12. Nbd2 c6 13. dxc6 Nxc6 14. Qe2 Bc5 15.
+Rac1 Bb6 16. b4 Rc8 1/2-1/2

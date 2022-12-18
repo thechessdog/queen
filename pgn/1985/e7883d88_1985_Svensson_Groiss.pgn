@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Svensson, S."]
+[Black "Groiss, W."]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "e7883d88"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. a3 Qc8 13. b4 Rd8 14. Ra2
+Nbd7 15. Bf4 Nd5 16. e4 Nxf4 17. Qxf4 Nf8 18. Rc2 Bd6 19. Qe3 Qd7 20. Rfc1
+Rdc8 21. Ne1 e5 22. dxe5 Bxe5 23. Rd2 Qe6 24. Nd3 Bd6 25. e5 Bxg2 26. Kxg2
+Qd5+ 27. Qf3 Qxf3+ 28. Kxf3 Be7 29. Nf4 a5 30. Nd5 Bd8 31. Rdc2 Ne6 32. Ke4
+axb4 33. axb4 Ra1 34. Rc6 h5 35. h3 Rca8 36. Rd1 R8a6 37. Rxa6 Rxa6 38. f4
+c6 39. f5 cxd5+ 40. Rxd5 Ng5+ 41. Kd3 Bc7 42. Rc5 Bb6 43. Rc8+ Kh7 44. h4
+Nf3 45. e6 fxe6 46. fxe6 Ne5+ 47. Ke4 Ng6 48. Nc3 Bf2 49. Kf3 Be1 50. Ne4
+Ne7 51. Rc5 Kg6 52. Rxb5 Rxe6 53. Rg5+ Kh6 54. b5 Ba5 55. Nc5 Rf6+ 56. Ke4
+Bc7 57. Na6 Bd8 58. Nc5 g6 59. g4 hxg4 0-1
+

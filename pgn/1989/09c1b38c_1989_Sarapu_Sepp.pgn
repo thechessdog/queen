@@ -1,0 +1,18 @@
+[Event "Tallinn-B"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sarapu, Ortvin"]
+[Black "Sepp, Olav"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "09c1b38c"]
+[Epoch "Queen"]
+[BlackID "4500105"]
+[BlackCountry "EST"]
+[WhiteCountry "NZL"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. h3 c6 8. a4
+a5 9. Be3 Nxe4 10. Nxe4 d5 11. Nxe5 Nxe5 12. dxe5 dxc4 13. Nd6 1/2-1/2

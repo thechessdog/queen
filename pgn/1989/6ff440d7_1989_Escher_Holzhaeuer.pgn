@@ -1,0 +1,20 @@
+[Event "WURT-MM8990"]
+[Site "WURT-MM8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Escher, T."]
+[Black "Holzhaeuer, M."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "6ff440d7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Bf4
+Nd7 8. Nf3 Qb6 9. Qb3 O-O-O 10. Be2 Bg7 11. O-O e6 12. Nd2 e5 13. Be3 Be6
+14. Qa4 exd4 15. cxd4 Bd5 16. Nc4 Bxc4 17. Qxc4 Qc7 18. Qa4 Nb6 19. Qxa7 f5
+20. d5 Nxd5 21. Bc5 b6 22. Qa6+ Qb7 23. Qa3 Kd7 24. Qg3 Bxb2 25. Rab1 bxc5
+26. Bd3 f4 27. Qg4+ Kc7 28. Qf5 Qb4 29. Rfd1 Nc3 30. Rxb2 Qxb2 31. Qxf7+
+Kb6 0-1
+

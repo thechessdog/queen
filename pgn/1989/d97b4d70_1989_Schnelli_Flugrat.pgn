@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schnelli, R."]
+[Black "Flugrat, R."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "d97b4d70"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. g4 Nxg4 3. Nc3 e6 4. e4 Qh4 5. Nh3 Be7 6. Bc4 Nxf2 7. Nxf2 f5
+8. exf5 O-O 9. Bd3 d5 10. Be3 Bb4 11. Qd2 exf5 12. O-O-O f4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Jong, Migchiel"]
+[Black "De Jong, Peter"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "7a6a8b4a"]
+[Epoch "Queen"]
+[WhiteID "1002848"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. g3 d5 2. c4 Nf6 3. Bg2 e6 4. Nc3 c5 5. e3 Nc6 6. Nge2 Ne5 7. O-O Nxc4 8. d3
+Nb6 9. d4 Bd7 10. Qc2 Rc8 11. b3 cxd4 12. Nxd4 Bb4 13. Bb2 Ne4 14. Bxe4 dxe4
+15. a3 Bxc3 16. Bxc3 Nd5 17. Ne2 Bb5 18. Qb2 Bxe2 19. Rfc1 Nxc3 20. Rxc3 Rxc3
+21. Qxc3 O-O 22. Qb4 Qf6 23. Rc1 Qf5 24. Qxb7 h6 25. h3 Rd8 26. g4 Qf3 27. Rc8
+Rxc8 28. Qxc8+ Kh7 29. Qc2 Bd3 30. Qc7 Qxh3 31. Qxf7 Qxg4+ 32. Kh2 Bf1 0-1

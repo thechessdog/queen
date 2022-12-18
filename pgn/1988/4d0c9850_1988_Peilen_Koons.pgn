@@ -1,0 +1,17 @@
+[Event "ESMT prelim"]
+[Site "ESMT prelim"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Peilen, M."]
+[Black "Koons, C."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "4d0c9850"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 Bf5 5. fxe4 Nxe4 6. Qf3 Nxc3 7. bxc3
+Qc8 8. Bc4 Bg6 9. Nh3 Nd7 10. O-O e6 11. Nf4 Nf6 12. d5 Bc5+ 13. Kh1 e5 14.
+Nxg6 fxg6 15. Bb5+ Kd8 16. Bh6 e4 17. Qf4 Nh5 18. Bg5+ Be7 19. Bxe7+ Kxe7
+20. Qe5+ Kd8 21. Rf7 1-0
+

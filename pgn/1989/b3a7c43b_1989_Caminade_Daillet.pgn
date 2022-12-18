@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Caminade, Christian"]
+[Black "Daillet, Emmanuel"]
+[Result "0-1"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "b3a7c43b"]
+[Epoch "Queen"]
+[WhiteID "603287"]
+[BlackID "600792"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 Nf6 2. Nc3 e5 3. Bc4 Nc6 4. f4 Bc5 5. Nf3 d6 6. d3 O-O 7. f5 Nd4 8. Bg5
+c6 9. a4 h6 10. Bh4 d5 11. Ba2 Kh7 12. Qd2 Nxe4 13. dxe4 Nxf3+ 14. gxf3 Qxh4+
+15. Kf1 g6 16. Qg2 gxf5 17. Qg3 Qh5 0-1

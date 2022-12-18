@@ -1,0 +1,32 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "3"]
+[White "Reichenbach, Werner"]
+[Black "Zlatilov, Ivailo"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "3ce10974"]
+[Epoch "Queen"]
+[WhiteID "4604903"]
+[WhiteCountry "GER"]
+[BlackID "2900467"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c3 Nf6 6. d3 e6 7. O-O Nc6 8.
+Re1 Be7 9. Nbd2 O-O 10. Nf1 Ne5 11. Ng3 Rac8 12. h3 Rfd8 13. Qe2 b6 14. Nh2 Qb7
+15. f4 Ng6 16. f5 Nf8 17. Rf1 h6 18. Bd2 N8h7 19. Rae1 b5 20. Bc1 e5 21. c4 Qa6
+22. b3 Qb7 23. Nh1 a5 24. g4 a4 25. h4 axb3 26. axb3 Ne8 27. Nf3 bxc4 28. bxc4
+f6 29. Qg2 Ra8 30. Be3 Rdb8 31. Nf2 Ra2 32. Qg3 Qa7 33. Rb1 Rxb1 34. Rxb1 Ra1
+35. Rxa1 Qxa1+ 36. Kh2 Qf1 37. Qg1 Qe2 38. Kg2 Qxe3 39. Qd1 h5 40. Qa4 Kf7 41.
+gxh5 Qh6 42. Qd1 Kf8 43. Ng1 Qf4 44. Ng4 Ng5 45. hxg5 Qxg5 46. Kg3 Qxh5 47. Nf3
+g5 48. fxg6 f5 49. exf5 Qxf5 50. Qd2 Qxg6 51. Qh6+ Kf7 52. Qxg6+ Kxg6 53. Ne3
+Bg5 54. Nd5 Kf5 55. Kf2 Bf4 56. Nh4+ Kg5 57. Nf3+ Kg4 58. Ke2 Kf5 59. Nh4+ Kg5
+60. Nf3+ Kg4 61. Kf2 Bg5 62. Nh2+ Kf5 63. Nf3 Ng7 64. Nc3 Bf4 65. Ne4 Ke6 66.
+Nh4 Nh5 67. Ke2 Bh6 68. Kd1 Be3 69. Ke2 Bc1 70. Kd1 Be3 71. Ke2 Bh6 72. Kd1 Bf8
+73. Kc2 Nf4 74. Ng5+ Kd7 75. Nhf3 Be7 76. Ne4 Ke6 77. Nc3 Bd8 78. Nd5 Be7 79.
+Nc3 Kf5 80. Nd2 Kg4 81. Nd5 Bf8 82. Ne4 Kf3 83. Nd2+ Kf2 84. Nc3 Ke1 85. Nf3+
+Kf2 86. Nd2 Ng2 87. Nd1+ Ke2 88. Nc3+ Kf2 89. Nd1+ Ke1 90. Ne4 Ke2 91. Nec3+
+Kf1 92. Ne4 Ne1+ 93. Kd2 Bh6+ 94. Kc3 Ke2 95. Nb2 Bc1 0-1

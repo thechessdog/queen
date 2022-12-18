@@ -1,0 +1,22 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1987.08.01"]
+[Round "2"]
+[White "Boersma, Paul"]
+[Black "Beulen, Marcel"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "e63fbf4c"]
+[Epoch "Queen"]
+[BlackID "1001450"]
+[BlackCountry "NED"]
+[WhiteID "1000411"]
+[WhiteCountry "NED"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. d4 Bd6 6. Bd3 O-O 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Nd7 12. Rd1 Qc7 13. O-O e5 14. Bf5
+exd4 15. Nxd4 Nf6 16. Rfe1 Re8 17. Rxe8+ Nxe8 18. Bxc8 Qxc8 19. Nf3 Nf6 20. Qd6
+h6 21. Qe7 Qe8 22. Qxb7 Rb8 23. Qxa7 Rxb2 24. Re1 Re2 25. Rb1 Qe4 26. Rb8+ Kh7
+27. h3 Qxc4 28. Rf8 Rxa2 29. Qxf7 Ra1+ 30. Kh2 Qf4+ 31. g3 Qxf3 0-1

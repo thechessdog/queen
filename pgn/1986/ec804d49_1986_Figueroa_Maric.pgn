@@ -1,0 +1,19 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Figueroa"]
+[Black "Maric"]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti opening"]
+[HashCode "ec804d49"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. d4 Bg4 6. Be2 e6 7. O-O Bd6
+8. e5 Bb4 9. a3 Ba5 10. b4 Qd5 11. bxa5 N6d7 12. Nc3 Qxa5 13. Bd2 O-O 14.
+Nb5 c6 15. Bxa5 b6 16. Nc7 bxa5 17. Nxa8 Na6 18. Bxa6 Rxa8 19. Bd3 Nf8 20.
+h3 Bh5 21. g4 Bg6 22. Bxg6 fxg6 23. Qa4 Rc8 24. Rac1 h5 25. Rxc6 Rb8 26.
+Rfc1 g5 27. Rc8 Rxc8 28. Rxc8 Kf7 29. Qe8+ Kg8 30. Qxf8+ Kh7 31. gxh5 a4
+32. Qh8# 1-0
+

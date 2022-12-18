@@ -1,0 +1,21 @@
+[Event "Jakarta"]
+[Site "Jakarta"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "Ardiansyah, Haji"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "8d704a45"]
+[Epoch "Queen"]
+[BlackID "7100027"]
+[BlackCountry "INA"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. a4
+Be6 9. Nd5 Nbd7 10. f3 Nxd5 11. exd5 Bf5 12. a5 O-O 13. c4 Bh4+ 14. g3 Bg5 15.
+Bxg5 Qxg5 16. Qd2 Qg6 17. Rc1 Rfe8 18. g4 Bb1 19. Qd1 Ba2 20. Nd2 e4 21. f4 Qf6
+22. Qa4 e3 23. Nf3 e2 24. Bxe2 Nc5 25. Qxa2 Nd3+ 26. Kd2 Nxc1 0-1

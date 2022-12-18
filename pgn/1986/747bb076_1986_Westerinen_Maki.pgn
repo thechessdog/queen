@@ -1,0 +1,24 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Maki, Veijo"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "747bb076"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "500046"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. Be2 h6 10. Bh4 Rc8 11. Rhe1 Nxe4 12. Qf4 g5 13. Qxe4 gxh4 14. f4
+Be7 15. Nb3 d5 16. Qf3 b5 17. Bd3 b4 18. Ne2 Qb6 19. Kb1 a5 20. f5 Ne5 21. Qh5
+Nxd3 22. fxe6 Bxe6 23. cxd3 Kd7 24. Nf4 a4 25. Nxd5 Qa7 26. Nd2 Qc5 27. Nc4
+Bxd5 28. Re5 Be6 29. Rxc5 Rxc5 30. Qf3 Kc7 31. Qf4+ Kb7 32. Re1 Rd8 33. Ne5 Ka6
+34. Qxh6 Rd6 35. Qf4 Bd5 36. Qxb4 Rb6 37. Qd4 a3 38. b3 Rcb5 39. Nc4 Bxc4 40.
+Qxc4 1-0

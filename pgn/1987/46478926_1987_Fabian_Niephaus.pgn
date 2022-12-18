@@ -1,0 +1,17 @@
+[Event "Wildbad"]
+[Site "Wildbad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fabian, Helmut"]
+[Black "Niephaus, Walter"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "46478926"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 Nc6 6. Be3 Bf5 7. a3 e6 8. Nf3
+Be7 9. d5 exd5 10. Bxb6 axb6 11. Nxd5 Bf6 12. Nxf6+ Qxf6 13. Qe2+ Be6 14. O-O-O
+O-O 15. Qe3 Na5 16. Nd2 Rfd8 17. Be2 Rd4 18. Ne4 Rxe4 19. Qxe4 Nb3+ 0-1

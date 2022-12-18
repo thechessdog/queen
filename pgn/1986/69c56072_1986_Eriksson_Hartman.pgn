@@ -1,0 +1,22 @@
+[Event "SWE-ch"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eriksson, Anders"]
+[Black "Hartman, Christer"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "69c56072"]
+[Epoch "Queen"]
+[WhiteID "1701053"]
+[WhiteCountry "SWE"]
+[BlackID "1700448"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Be2 g5 6. O-O Rg8 7. d4 d5 8. Qd3
+Rg6 9. Nh4 Rh6 10. Bxh5 Rxh5 11. Nf5 Be6 12. g4 fxg3 13. Qxg3 g4 14. Qd3 Nc6
+15. Be3 Rxf5 16. Rxf5 Nb4 17. Qf1 Nxc2 18. Rf2 Nxe3 19. Qb5+ Qd7 20. Qxb7 Rc8
+21. Qb3 Nf5 22. Qd3 c5 23. Nd2 Bh6 24. Nf1 cxd4 25. a4 Rc4 26. a5 Be3 27. Nxe3
+dxe3 28. Re2 Qc7 29. Rf1 Qxe5 0-1

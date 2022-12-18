@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ackers"]
+[Black "Taylor"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "b8456414"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Nf6 5. Nf3 Nxd5 6. O-O Bd6 7. c4 Nf6
+8. d4 c5 9. Nc3 cxd4 10. Qxd4 Nc6 11. Qd1 O-O 12. Nb5 Bc5+ 13. Kh1 Qxd1 14.
+Bxd1 Ne4 15. Bxf4 Be6 16. Nc7 Bxc4 0-1
+

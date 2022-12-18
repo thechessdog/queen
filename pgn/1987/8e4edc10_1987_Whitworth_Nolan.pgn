@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Whitworth"]
+[Black "Nolan"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "8e4edc10"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 Bc5 4. Nf3 exf4 5. Bb5+ c6 6. d4 Qxd5 7. dxc5
+Qxd1+ 8. Kxd1 cxb5 9. Bxf4 Bg4 10. Bd6 Nd7 11. Re1+ Be6 12. Ng5 O-O-O 13.
+Nxe6 fxe6 14. Rxe6 Nxc5 15. Re5 Rxd6+ 16. Nd2 b6 17. Ke2 Re6 18. Rxe6 Nxe6
+19. Rf1 Nf6 20. Nf3 Re8 21. g3 Nd4+ 22. Kd3 Nxf3 23. Rxf3 Rd8+ 24. Ke2 Kb7
+25. h3 Rd7 26. g4 h6 27. Rf5 b4 28. g5 hxg5 29. Rxg5 a5 30. b3 Ne4 31. Rg4
+Nc3+ 0-1
+

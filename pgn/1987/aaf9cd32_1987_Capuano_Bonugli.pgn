@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Capuano, R."]
+[Black "Bonugli, C."]
+[Result "1/2-1/2"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "aaf9cd32"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Bxf6 Bxf6 12. Ndb5 Qa5 13. Bc4 Ne5
+14. Nxd6 Bc6 15. Bb3 Ng6 16. g3 Bxc3 17. Qxc3 Qxc3 18. bxc3 Ne7 19. Rhe1
+Nc8 20. f5 Nxd6 21. Rxd6 exf5 22. exf5 Rae8 23. Red1 Re7 24. f6 gxf6 25.
+Rxf6 1/2-1/2
+

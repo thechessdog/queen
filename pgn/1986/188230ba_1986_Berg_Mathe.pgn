@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Mathe, Gaspar"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "188230ba"]
+[Epoch "Queen"]
+[BlackID "700240"]
+[BlackCountry "HUN"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. Nc3 d5 5. e3 O-O 6. Be2 a6 7. O-O dxc4 8. a4
+c5 9. Bxc4 cxd4 10. exd4 Bg4 11. Re1 e6 12. h3 Bxf3 13. Qxf3 Qc7 14. Ba2 Nc6
+15. Be3 Nb4 1/2-1/2

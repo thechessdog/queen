@@ -1,0 +1,18 @@
+[Event "Regional-Liga NS"]
+[Site "RLNS 8788"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tribull, Joerg"]
+[Black "Schoenfeld, Dietmar"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "24cc3c80"]
+[Epoch "Queen"]
+[BlackID "4667832"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Be2 b5 11. Bxf6 gxf6 12. Qh5 Nc5 13. a3 Rb8 14. f5 b4 15.
+axb4 Rxb4 16. fxe6 Qa5 17. Qxf7+ 1-0

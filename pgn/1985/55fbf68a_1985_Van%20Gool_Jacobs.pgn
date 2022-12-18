@@ -1,0 +1,22 @@
+[Event "Venlo"]
+[Site "Venlo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Gool, R."]
+[Black "Jacobs, W."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "55fbf68a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. d4 cxd4 6. Nxd4 g6 7. c4
+Bg7 8. Nc3 Nc6 9. Be3 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Nf6 12. Nd5 Qd8 13. Nxf6+
+exf6 14. O-O b6 15. Rfd1 Ke7 16. Rd3 Rc8 17. Rad1 Qc7 18. Rf3 Rhd8 19.
+Qxf6+ Ke8 20. b3 h5 21. Rfd3 Qe7 22. Qd4 f6 23. Qd5 Qf7 24. Qxf7+ Kxf7 25.
+Rxd6 Re8 26. Rd7+ Re7 27. f3 Rc7 28. Rxc7 Rxc7 29. Kf2 Ke6 30. Ke3 g5 31.
+g3 Rg7 32. Rd5 h4 33. g4 Rg8 34. a4 Rc8 35. a5 Rc5 36. axb6 axb6 37. Kd4
+Rc8 38. c5 bxc5+ 39. Rxc5 Rb8 40. Kc4 Rb6 41. b4 Rd6 42. b5 Rd2 43. b6 Rxh2
+44. b7 Rb2 45. Rb5 Rc2+ 46. Kb3 1-0
+

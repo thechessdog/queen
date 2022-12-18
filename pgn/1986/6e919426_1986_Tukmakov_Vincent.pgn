@@ -1,0 +1,20 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tukmakov, Vladimir B"]
+[Black "Vincent, Stephane"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "6e919426"]
+[Epoch "Queen"]
+[WhiteID "14100096"]
+[WhiteCountry "UKR"]
+[BlackID "600954"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Bg4 5. d5 Bxf3 6. exf3 Ne5 7. Bf4 Ng6 8.
+Bxc4 Nf6 9. Bg3 a6 10. O-O b5 11. Nxb5 axb5 12. Bxb5+ Nd7 13. Rc1 Ra7 14. Qd4
+Qb8 15. Qxa7 Qxa7 16. Rxc7 Qxc7 17. Bxc7 Nh4 18. Rc1 Nf5 19. Bb6 1-0

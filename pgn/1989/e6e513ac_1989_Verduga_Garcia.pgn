@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Verduga, Denis Homero"]
+[Black "Garcia, Gildardo"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "e6e513ac"]
+[Epoch "Queen"]
+[BlackID "4400020"]
+[BlackCountry "COL"]
+[WhiteCountry "ECU"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 c5 8. dxc5
+Qc7 9. Nxc4 Bxc5 10. Qb3 Nbd7 11. Nc3 1/2-1/2

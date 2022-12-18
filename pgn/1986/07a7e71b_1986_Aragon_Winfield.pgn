@@ -1,0 +1,16 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Aragon"]
+[Black "Winfield"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "07a7e71b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. Nc3 a6 5. a4 Bb7 6. axb5 axb5 7. Rxa8 Bxa8
+8. Nxb5 Bxe4 9. Bxc4 Bxg2 10. Bf4 Na6 11. Qa4 Nf6 12. Nxc7# 1-0
+

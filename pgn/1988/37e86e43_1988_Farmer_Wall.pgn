@@ -1,0 +1,22 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Farmer, Steve"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "37e86e43"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 Be7 8. Qd2
+Bd7 9. O-O-O Qc7 10. Bd3 O-O 11. f4 Nc6 12. h3 b5 13. g4 Rfc8 14. Rdg1 b4 15.
+Nce2 a5 16. h4 Nxd4 17. Nxd4 Bc6 18. Nxc6 Qxc6 19. Qg2 a4 20. h5 b3 21. a3 bxc2
+22. g5 Rab8 23. Bd4 Ne8 24. g6 e5 25. fxe5 dxe5 26. gxf7+ Kxf7 27. Bxe5 Qh6+
+28. Qd2 Qxd2+ 29. Kxd2 Rb7 30. Bxc2 Rd7+ 31. Kc1 Nf6 32. Bxf6 Bxf6 33. Rf1 Ke6
+34. Rf5 Rb7 35. Kd2 Rxb2 36. Rc1 h6 37. Kd3 Rc3+ 38. Kd2 Rxa3 39. Kd1 Rh3 40.
+Rf1 a3 41. Bb1 Bc3 42. Bc2 Rh2 43. Rf3 Rd2+ 44. Ke1 Rdxc2+ 45. Rxc3 Rxc3 46.
+Rxc3 a2 47. Rc6+ Ke5 0-1

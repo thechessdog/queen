@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Klerk, A."]
+[Black "Luchtmeijer"]
+[Result "1-0"]
+[ECO "B53"]
+[Opening "Sicilian"]
+[Variation "Chekhover, Zaitsev variation"]
+[HashCode "7893e64a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qd7 6. Bxc6 bxc6 7. O-O e5
+8. Qd3 Be7 9. c4 Ba6 10. Rd1 Nf6 11. Bg5 Rd8 12. Nbd2 O-O 13. Nf1 Qe6 14.
+Ne3 Rd7 15. b4 Rfd8 16. Bxf6 Bxf6 17. b5 Bb7 18. bxc6 Bxc6 19. Nd5 Rb8 20.
+Rab1 Rxb1 21. Rxb1 Rb7 22. Nxf6+ Qxf6 23. Rxb7 Bxb7 24. c5 dxc5 25. Qd7 1-0
+

@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rivola, F."]
+[Black "Nobile, S."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "ec80263c"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. b3 c5 3. e3 e6 4. Bb2 Nd7 5. c4 Ngf6 6. d4 cxd4 7. exd4 Bb4+
+8. Nbd2 O-O 9. Bd3 h6 10. O-O a6 11. a3 Be7 12. c5 b6 13. c6 Nb8 14. Rc1
+Ra7 15. b4 Rc7 16. Ne5 b5 17. Nb3 Bd6 18. Qe2 Bxe5 19. dxe5 Nh7 20. Nd4 Qe7
+21. Rc5 Re8 22. Rfc1 f5 23. Qc2 Ng5 24. f3 g6 25. Bxb5 axb5 26. Nxb5 Rxc6
+27. Rxc6 Nxc6 28. Qxc6 Bd7 29. Qc5 Nxf3+ 30. Kh1 Nd2 31. Qxe7 Rxe7 32. Nd6
+Nb3 33. Rc7 d4 34. b5 d3 35. Bc3 1-0
+

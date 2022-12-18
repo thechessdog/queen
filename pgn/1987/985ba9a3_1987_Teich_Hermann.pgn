@@ -1,0 +1,24 @@
+[Event "Bot"]
+[Site "Bot"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Teich, U."]
+[Black "Hermann, Manfred"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[Opening "King's Indian"]
+[Variation "Smyslov system"]
+[HashCode "985ba9a3"]
+[Epoch "Queen"]
+[BlackID "4600584"]
+[BlackCountry "GER"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 d6 4. Nc3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 c6 8. Be2
+Nbd7 9. O-O Qe8 10. h3 Nh7 11. Ne1 f5 12. f4 e5 13. dxe5 dxe5 14. Nc2 Ndf6 15.
+Bg3 exf4 16. exf4 Be6 17. Na3 Rd8 18. Qc2 Ne4 19. Nxe4 fxe4 20. Rad1 Bf5 21. c5
+Qe7 22. b4 b5 23. cxb6 Qxb4 24. Qc4+ Qxc4 25. Nxc4 axb6 26. Bf2 b5 27. Ne5 Bxe5
+28. fxe5 Be6 29. a3 Rd5 30. Rxd5 Bxd5 31. Rd1 Rb8 32. Bc5 Ng5 33. Rf1 Nf7 34.
+Rf6 Nxe5 35. Bd4 Re8 36. Rd6 Bf7 37. Bxe5 Rxe5 38. Rxc6 Kg7 39. Rb6 Be8 40. Kf2
+Rc5 41. h4 Rc3 42. Bxb5 Bxb5 43. Rxb5 Rxa3 44. Re5 Ra2+ 45. Kg3 Re2 46. h5 gxh5
+47. Rxh5 Kg6 48. Re5 h5 49. Re8 Kg5 50. Rg8+ Kf5 51. Rf8+ Kg6 52. Ra8 Kf6 53.
+Ra5 h4+ 54. Kf4 Rxg2 55. Kxe4 Kg6 56. Kf3 h3 57. Ra8 Kg7 58. Ra4 1/2-1/2

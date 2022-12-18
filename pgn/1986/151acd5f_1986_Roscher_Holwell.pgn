@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Roscher"]
+[Black "Holwell"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "151acd5f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 e6 5. fxe4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6
+8. Nf3 O-O 9. Bd3 Bxc3+ 10. bxc3 Qg6 11. O-O Qxe4 12. Bxe4 1-0
+

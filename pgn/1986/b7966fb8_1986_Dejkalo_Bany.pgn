@@ -1,0 +1,21 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dejkalo, Stefan"]
+[Black "Bany, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "b7966fb8"]
+[Epoch "Queen"]
+[WhiteID "1100246"]
+[BlackID "1100084"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Qc7 7. Nc3 e6 8. Bd2
+Nc6 9. Rc1 Be7 10. Nh4 Bg4 11. h3 Bh5 12. g4 Bg6 13. Nxg6 hxg6 14. Be2 Rc8 15.
+Kf1 O-O 16. Qd1 Qd7 17. Kg2 Ne4 18. Be1 Bh4 19. Bd3 f5 20. f3 Bxe1 21. Qxe1
+Nxc3 22. bxc3 e5 23. Qg3 Rce8 24. f4 exf4 25. exf4 Qd6 26. Rhe1 1/2-1/2

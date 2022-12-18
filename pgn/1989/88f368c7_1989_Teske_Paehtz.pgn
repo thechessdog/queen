@@ -1,0 +1,17 @@
+[Event "Zittau"]
+[Site "Zittau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Teske, Henrik"]
+[Black "Paehtz, Thomas"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "88f368c7"]
+[Epoch "Queen"]
+[BlackID "4611349"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
+fxe6 9. Ng5 Bxb5 10. Nxe6 Bxd4 11. Nxd8 Bf2+ 12. Kd2 Be3+ 1/2-1/2

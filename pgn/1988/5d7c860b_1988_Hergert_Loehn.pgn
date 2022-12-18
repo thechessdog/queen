@@ -1,0 +1,18 @@
+[Event "corr Steinitz Gambit"]
+[Site "corr Steinitz Gambit"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hergert, V."]
+[Black "Loehn, C."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "5d7c860b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Nc6 7. Nxc7+
+Kd8 8. Nxa8 f5 9. exf5 Nd4+ 10. Kd3 Bxf5+ 11. Kc3 Qe7 12. a3 Bxc2 13. Qe1
+Qc5+ 14. Bc4 b5 15. Qf1 b4+ 16. axb4 Qxb4+ 17. Kxd4 Bc5+ 18. Kd5 Nf6+ 19.
+Ke6 Re8+ 20. Kf7 Re7+ 21. Kf8 Rd7# 0-1
+

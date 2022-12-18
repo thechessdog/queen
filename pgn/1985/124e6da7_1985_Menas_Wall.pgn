@@ -1,0 +1,19 @@
+[Event "Santa Clara"]
+[Site "Santa Clara"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Menas, Boral"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[Variation "wing gambit deferred"]
+[HashCode "124e6da7"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. b4 cxb4 4. d4 a6 5. Bd3 Bg4 6. Nbd2 Nc6 7. Bb2 b5 8. Qe2
+e6 9. d5 Na7 10. h3 Bxf3 11. Nxf3 e5 12. O-O Ne7 13. Nh2 Ng6 14. g3 Qd7 15. Kg2
+Be7 16. Qh5 Nc8 17. f4 Nb6 18. fxe5 dxe5 19. Bxe5 Nxe5 20. Qxe5 O-O 21. Ng4 Nc4
+22. Qh5 Qd8 23. Rf3 g6 24. Nh6+ Kg7 25. Nf5+ gxf5 26. exf5 Bf6 27. Rf4 Qxd5+
+28. Kh2 Ne3 29. Rg1 Rad8 30. Rh4 Bxh4 31. gxh4+ Kh8 32. Qh6 Qd6+ 0-1

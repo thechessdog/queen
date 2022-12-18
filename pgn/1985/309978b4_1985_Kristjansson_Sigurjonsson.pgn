@@ -1,0 +1,21 @@
+[Event "Vestmannaeyjum"]
+[Site "Vestmannaeyjum"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kristjansson, Bragi"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "309978b4"]
+[Epoch "Queen"]
+[WhiteID "2300346"]
+[WhiteCountry "ISL"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. a4 g6 8. Bd3
+Bg7 9. Nf3 b6 10. O-O Bb7 11. Qe2 Nc5 12. Bd2 O-O 13. b4 Nxd3 14. cxd3 Rc8 15.
+Rfc1 e5 16. Ra2 exf4 17. Rac2 d5 18. Bxf4 dxe4 19. dxe4 Re8 20. e5 Nh5 21. Be3
+Bxf3 22. Qxf3 Rxe5 23. Bf2 Rf5 24. Qe2 Nf4 25. Qd1 Bxc3 0-1

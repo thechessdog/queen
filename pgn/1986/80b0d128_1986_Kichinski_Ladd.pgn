@@ -1,0 +1,22 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Ladd, A."]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan"]
+[HashCode "80b0d128"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 c6 5. Bg2 Nbd7 6. O-O Bd6 7. Nbd2 O-O 8. b3
+Qe8 9. Bb2 Ne4 10. Nxe4 dxe4 11. Ne5 f5 12. e3 Nf6 13. c5 Bxe5 14. dxe5 Nd5 15.
+Qd2 Qe7 16. Rac1 Bd7 17. f3 exf3 18. Bxf3 Qg5 19. Bd4 Be8 20. Bg2 Bh5 21. Qe1
+Bg6 22. h4 Qe7 23. Rc2 h6 24. Rcf2 Rad8 25. a3 Kh8 26. Qe2 Bh7 27. b4 Nc7 28.
+a4 g5 29. Qh5 Qg7 30. hxg5 Qxg5 31. Qxg5 hxg5 32. g4 Kg8 33. gxf5 exf5 34. b5
+cxb5 35. Bxb7 bxa4 36. c6 Rde8 37. Bc5 Rxe5 38. Bd6 Rxe3 39. Bxc7 Rfe8 40. Bd6
+Rb3 41. Ba6 Rc3 42. c7 f4 43. Rg2 Bd3 44. Rxg5+ Kh7 45. c8=Q Rexc8 46. Bxc8
+Bxf1 47. Bf5+ Kh6 48. Rg6+ Kh5 49. Bxf4 Bc4 50. Rh6# 1-0

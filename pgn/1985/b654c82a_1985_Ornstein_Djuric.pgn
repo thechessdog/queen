@@ -1,0 +1,23 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Djuric, Stefan"]
+[Result "1-0"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "b654c82a"]
+[Epoch "Queen"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+
+1. c4 g6 2. d4 Nf6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O a6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Rb8 11. b3 b5 12. Bb2 e6 13. e4 bxc4 14. bxc4 Nd7 15.
+Rab1 Bd4 16. Ne2 Bxb2 17. Rxb2 Rxb2 18. Qxb2 e5 19. Qa3 Kg7 20. Bh3 h5 21. f4
+Qc7 22. Nc1 h4 23. gxh4 Rh8 24. Bxd7 Qxd7 25. f5 Qd8 26. f6+ Kg8 27. Qg3 Qb6
+28. Nd3 Nb7 29. Nf3 Qa5 30. Ndxe5 dxe5 31. Nxe5 Qc7 32. Nc6 Nd6 33. Ne7+ Kh7
+34. h5 g5 35. Qxg5 Ne8 36. e5 Bh3 37. e6 Bxf1 38. exf7 Bd3 1-0

@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Muri"]
+[Black "Schuler"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "14276574"]
+[Epoch "Queen"]
+
+1. b4 c6 2. e3 e5 3. Bb2 Bxb4 4. Bxe5 Nf6 5. Nf3 O-O 6. c4 d5 7. cxd5 cxd5
+8. Be2 Nc6 9. Bb2 Re8 10. O-O Qe7 11. h3 Ne4 12. Qb3 Be6 13. d4 Na5 14. Qa4
+a6 15. a3 Bd6 16. Qxa5 Bc7 17. Qb4 Bd6 18. Qb3 Rad8 19. Nc3 Qf6 20. Nxe4
+dxe4 21. d5 Bxd5 22. Bxf6 Bxb3 23. Nd4 1-0
+

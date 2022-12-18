@@ -1,0 +1,17 @@
+[Event "Haderslev"]
+[Site "Haderslev"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Habekost, Thomas"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "3ecd5f45"]
+[Epoch "Queen"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e4 Nb4 5. Qa4+ N8c6 6. Nf3 Bd7 7. Qd1 Bg4
+8. Bc4 Nd4 9. Ne5 Nd3+ 0-1

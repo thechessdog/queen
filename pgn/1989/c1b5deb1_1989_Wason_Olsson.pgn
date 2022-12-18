@@ -1,0 +1,16 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wason"]
+[Black "Olsson, Ake 1936"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "c1b5deb1"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 c6 6. e5 Nd5 7. Bd2 O-O 8. O-O-O
+Nxc3 9. Bxc3 b5 10. Bd3 a5 11. g4 Qb6 12. b3 b4 13. Bb2 a4 14. h4 axb3 15. axb3
+Ra2 16. Qe4 Be6 17. Qf4 dxe5 18. dxe5 Qa5 19. Nf3 Nd7 0-1

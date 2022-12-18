@@ -1,0 +1,21 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Icelandic gambit"]
+[HashCode "3113c364"]
+[Epoch "Queen"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 e6 4. dxe6 Bxe6 5. d4 Bb4+ 6. Bd2 Qe7 7. Bxb4 Qxb4+
+8. Qd2 Nc6 9. Nc3 O-O-O 10. d5 Bg4 11. f3 Rhe8+ 12. Be2 Bf5 13. O-O-O Na5 14.
+g4 Bg6 15. Nh3 Nd7 16. Nb1 Qb3 17. Bd3 Qxa2 18. Qb4 Re2 19. Bxe2 Nb3+ 20. Qxb3
+Qxb3 21. Rd2 Qe3 0-1

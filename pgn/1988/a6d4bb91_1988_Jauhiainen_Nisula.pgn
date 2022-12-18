@@ -1,0 +1,21 @@
+[Event "Tampere Kaleva"]
+[Site "Tampere Kaleva"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Jauhiainen, Kari"]
+[Black "Nisula, Timo"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a6d4bb91"]
+[Epoch "Queen"]
+[WhiteID "513458"]
+[WhiteCountry "FIN"]
+[BlackID "503568"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 e6 7. Bd3 d6 8. O-O
+Be7 9. Nc3 Nxc3 10. bxc3 dxe5 11. dxe5 O-O 12. Qe2 Qc7 13. Re1 Bd7 14. Ng5 h6
+15. Nh7 Rfd8 16. Qe4 g6 17. Nf6+ Kg7 18. Bxh6+ Kh8 19. Qh4 Bxf6 20. Qxf6+ Kh7
+21. Qg7# 1-0

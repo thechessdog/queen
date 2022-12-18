@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Helmhagen, R."]
+[Black "Sewerin, P."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "7fd5e33d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. Qe2 f5 8.
+exf6 O-O 9. Bxc6 bxc6 10. Qxe4 Re8 11. f7+ Kxf7 12. Ne5+ Kg8 13. O-O d6 14.
+Qxc6 Bf5 15. cxd4 Bb6 16. Qc4+ Be6 17. d5 Bf5 18. Nf3 Re4 19. Qc6 Bd7 20.
+Qc3 c6 21. dxc6 Rc8 22. Ng5 1-0
+

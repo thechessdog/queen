@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Bischoff, Klaus"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "2eb6b8ab"]
+[Epoch "Queen"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. Re1 Be7 10. Nxc6 Bxc6 11. a4 b6 12. Qd4 Nf6 1/2-1/2

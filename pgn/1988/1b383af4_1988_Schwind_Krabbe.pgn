@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schwind"]
+[Black "Krabbe"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "1b383af4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. Nd2 e5
+8. Nc4 Be6 9. Qh5 Bxc4 10. Bxc4 Qc7 11. Bg5 g6 12. Qf3 h6 13. Be3 Bg7 14.
+Bc5 Rh7 15. Bd6 Qd7 16. O-O-O h5 17. Bxe5 Qe7 18. Bxg7 Rxg7 19. Bb3 1-0
+

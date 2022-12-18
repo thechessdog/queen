@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Buecker, Stefan"]
+[Black "Van de Oudeweetering, Arthur"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "e331acfe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. d4 Ne7 7. Bc4 cxd5 8.
+Bxd5 Nbc6 9. O-O O-O 10. Bxc6 bxc6 11. Ng5 Ng6 12. Nge4 Bc7 13. Ne2 Bg4 14.
+N4c3 Qh4 15. Rf2 Rad8 16. Qd3 Ne5 17. Qa6 Bxe2 18. Rxe2 f3 19. dxe5 fxe2 20.
+Qxe2 Rfe8 0-1

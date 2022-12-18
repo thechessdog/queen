@@ -1,0 +1,20 @@
+[Event "Indslev"]
+[Site "Indslev"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rossen, Claus"]
+[Black "Mikkelsen, Peter"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "24b19f6c"]
+[Epoch "Queen"]
+[WhiteID "1403222"]
+[BlackID "1425986"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 b6 2. d4 Bb7 3. c4 Nf6 4. Nc3 g6 5. Qc2 c5 6. d5 Bg7 7. e4 d6 8. g3 Nbd7
+9. Bh3 O-O 10. O-O a6 11. a4 Qc7 12. Be3 Rfe8 13. Rad1 Rad8 14. Ng5 h6 15. Nxf7
+Kxf7 16. Be6+ Kf8 17. e5 Nxe5 18. f4 Bc8 19. fxe5 Bxe6 20. dxe6 dxe5 21. Qxg6
+Rxd1 22. Qf7# 1-0

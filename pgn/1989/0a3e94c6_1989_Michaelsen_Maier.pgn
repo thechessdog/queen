@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Michaelsen, Nils"]
+[Black "Maier, Christian"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "0a3e94c6"]
+[Epoch "Queen"]
+[WhiteID "4603028"]
+[BlackID "4601955"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 Na6 11. e3 Ne8 12. Be2 Nac7 13. a4 b6 14. Qd2 Ba6 15. O-O
+Rb8 16. Rfe1 Bxc4 17. Bxc4 a6 18. e4 b5 19. Bf1 Kh7 20. Bg3 bxa4 21. Rxa4 Rb6
+22. h3 Nb5 23. Nxb5 axb5 24. Ra5 c4 25. f4 Rb7 26. Raa1 Nf6 27. Rad1 Rd7 28.
+Qc2 Re8 29. Bh4 Qc7 30. g4 Qc5+ 31. Bf2 Qb4 32. Bg2 Ng8 33. Re2 Rdd8 34. Bg3
+Ra8 35. e5 Ra2 36. Rde1 Ne7 37. Kh1 Nc8 38. h4 dxe5 39. fxe5 c3 40. Qxc3 Qxg4
+41. Re4 Qd7 42. Qb3 Ra4 43. Rxa4 bxa4 44. Qd3 Kh8 45. Kh2 Ne7 46. e6 fxe6 47.
+Rxe6 Nf5 48. Qe4 1/2-1/2

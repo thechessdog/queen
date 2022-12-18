@@ -1,0 +1,16 @@
+[Event "Mt View,CA"]
+[Site "Mt View,CA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Latell, Jerry"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "02c0356e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bb4 5. O-O Bxc3 6. dxc3 Nxe4 7. Qd5 Nf6
+8. Qxf7# 1-0

@@ -1,0 +1,16 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Mahner, B."]
+[Black "Stanescu, B."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "c81396e6"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bf4 Bg4 11. Be5 Bxf3 12. Nxf3 Nfxd5 13. Bxg7 Kxg7 14.
+O-O Nxc3 15. bxc3 Qd5 16. Rab1 e6 17. Rfe1 Rac8 1/2-1/2

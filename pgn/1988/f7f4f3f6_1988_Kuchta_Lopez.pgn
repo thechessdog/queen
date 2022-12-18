@@ -1,0 +1,21 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kuchta, J."]
+[Black "Lopez Pereyra, Migu"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "f7f4f3f6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bc4 Nc6 6. Nf3 Bf5 7. fxe5 O-O-O
+8. Bb5 Nd4 9. Nxd4 Rxd4 10. O-O Bc5 11. Kh1 Ne7 12. a3 a6 13. Bd3 Be6 14. Ne2
+Rd5 15. Bc4 Rxe5 16. Bxe6+ fxe6 17. d4 Rd5 18. c3 Bd6 19. Rf7 Rf5 20. Qb3 Qd5
+21. c4 Qe4 22. Rxf5 Nxf5 23. Qd1 c6 24. c5 Bc7 25. b4 Rf8 26. Ra2 Ne3 27. Bxe3
+Qxe3 28. Ng1 g6 29. Re2 Qf4 30. Nf3 g5 31. Qd3 g4 32. Re4 Qh6 33. Rxg4 Rxf3 34.
+Rg8+ Rf8 35. Rxf8+ Qxf8 36. Kg1 Qf5 37. Qe2 Qb1+ 38. Kf2 Qf5+ 39. Kg1 Qb1+ 40.
+Kf2 Qf5+ 41. Kg1 h5 42. a4 e5 43. b5 cxb5 44. axb5 axb5 45. d5 e4 46. Qxb5 Qxd5
+47. Qe8+ Bd8 0-1

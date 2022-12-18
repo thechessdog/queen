@@ -1,0 +1,20 @@
+[Event "Balatonbereny op"]
+[Site "Balatonbereny op"]
+[Date "1985.01.01"]
+[Round "11"]
+[White "Mokry, Karel"]
+[Black "Oltean, Dorel"]
+[Result "1-0"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "2c9e3165"]
+[Epoch "Queen"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+[BlackID "1200216"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 a6 8. f4
+b5 9. Bxf6 gxf6 10. Nf5 b4 11. Nd1 Qc7 12. Nde3 e6 13. Ng3 Bh6 14. Ng4 Bf8 15.
+Nxf6+ Ke7 16. Ngh5 1-0

@@ -1,0 +1,21 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Silva Sanchez, Carlos"]
+[Black "Hertneck, Gerald"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "7260d315"]
+[Epoch "Queen"]
+[WhiteID "3400115"]
+[BlackID "4600088"]
+[WhiteCountry "CHI"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. e5 Nfd7 6. Nf3 c5 7. exd6 O-O 8. dxe7
+Qxe7+ 9. Qe2 Qd8 10. Be3 Nc6 11. O-O-O Re8 12. dxc5 Qa5 13. Qf2 Bxc3 14. bxc3
+Nf6 15. Ng5 Qa3+ 16. Kb1 Be6 17. c4 Ng4 18. Qh4 Qb4+ 19. Kc1 h6 20. Nxe6 Nxe3
+21. Nc7 Qc3 22. Qf2 Qa1+ 0-1

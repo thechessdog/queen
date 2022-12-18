@@ -1,0 +1,26 @@
+[Event "Ingolstadt op"]
+[Site "Ingelstadt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Krausser, Helmut"]
+[Black "Salvermoser, Bernd"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "579d2de0"]
+[Epoch "Queen"]
+[WhiteID "4627105"]
+[BlackID "4601491"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O a6 11. a4 Re8 12. f4 c4 13. Kh1 Nc5 14. e5 dxe5 15. fxe5
+Rxe5 16. Nxc4 Rf5 17. Bf3 Ng4 18. Ne3 Nxe3 19. Bxe3 Qe7 20. Re1 Be5 21. Bd4 f6
+22. d6 Qxd6 23. Bxe5 Qxd1 24. Raxd1 fxe5 25. b4 Ne6 26. Bg4 Rf4 27. Nd5 Rd4 28.
+Bxe6+ Bxe6 29. Rxd4 exd4 30. Rxe6 Rd8 31. Re5 d3 32. Nc3 Rc8 33. Rc5 Re8 34.
+Kg1 d2 35. Kf2 Re1 36. Rd5 Rc1 37. Rxd2 Rxc3 38. Rd8+ Kg7 39. Rd7+ Kh6 40. Rxb7
+Rc4 41. Ke3 a5 42. Kd3 Rf4 43. g3 Rf3+ 44. Kc4 axb4 45. Rxb4 Rf2 46. Kb5 g5 47.
+a5 Rxh2 48. a6 Re2 49. a7 Re8 50. Ka6 Kh5 51. Ra4 h6 52. Kb7 Re7+ 53. Kc6 Rxa7
+54. Rxa7 Kg4 55. Ra3 h5 56. Kd5 h4 57. gxh4 gxh4 58. Ke4 h3 59. Ra1 h2 1/2-1/2

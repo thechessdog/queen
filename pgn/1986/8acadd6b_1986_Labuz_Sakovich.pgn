@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Labuz, L."]
+[Black "Sakovich, I."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "8acadd6b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Nf6 6. O-O Bc5 7. Nxe5 O-O
+8. exf5 d5 9. Ne2 Qd6 10. Nxd4 Bxd4 11. Nf3 Ng4 12. c3 Rxf5 13. g3 Bxf2+
+14. Rxf2 Nxf2 15. Kxf2 Rf7 16. d4 Bg4 17. Bf4 Rxf4 18. gxf4 Rf8 19. Qd2
+Rxf4 20. Bd1 Qh6 21. Qd3 Qxh2+ 22. Ke3 Qg3 23. Qf1 g5 24. Qg1 Rxf3+ 25.
+Bxf3 Qxf3+ 26. Kd2 Qe2+ 27. Kc1 h5 28. a4 h4 29. Ra3 h3 30. c4 h2 31. Qh1
+Qxc4+ 32. Kd2 Qxd4+ 0-1
+

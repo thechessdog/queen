@@ -1,0 +1,24 @@
+[Event "Norilsk"]
+[Site "Norilsk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Ruban, Vadim"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "65c1ac7c"]
+[Epoch "Queen"]
+[WhiteID "4100425"]
+[WhiteCountry "RUS"]
+[BlackID "4100387"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. g4 Nf6 6. gxf5 exf5 7. Nf3 Be6 8. Rg1
+dxc4 9. Ne5 Qc7 10. Qf3 Nbd7 11. Nxc4 Qxh2 12. Rh1 Qc7 13. Bd2 Nb6 14. Nxb6
+axb6 15. Bd3 Qd7 16. Rg1 g6 17. a3 b5 18. Ne2 Nd5 19. Qh3 Bg7 20. Rc1 O-O 21.
+Rh1 Bf6 22. Qh2 Rf7 23. f3 Bg5 24. Kf2 Qe7 25. Rcg1 Bd7 26. f4 Bf6 27. Rg3 Qf8
+28. Ng1 c5 29. Nf3 cxd4 30. exd4 Ra4 31. Rh3 Qe7 32. Re1 Qd8 33. Ne5 Rg7 34. b4
+Rxa3 35. Rh1 Ra2 36. Rxh7 Rxd2+ 37. Be2 Rxe2+ 38. Kxe2 Nxf4+ 39. Kf2 Nh5 40.
+Rxh5 gxh5 41. Qxh5 Kf8 42. Rg1 Be6 0-1

@@ -1,0 +1,18 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Genduso, Carmelo"]
+[Black "Baur"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "63084f99"]
+[Epoch "Queen"]
+[WhiteID "4615743"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. Bb3 Qa5 11. O-O-O Rac8 12. Kb1 Ne5 13. Nd5 Qxd2 14. Nxe7+
+Kh8 15. Bxd2 Rcd8 16. Bb4 Be8 17. Rhf1 Rd7 18. Nc8 1-0

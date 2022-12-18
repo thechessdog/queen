@@ -1,0 +1,25 @@
+[Event "Bratislava-Hr Kralov"]
+[Site "Bratislava-Hr Kralov"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ftacnik, Lubomir"]
+[Black "Nun, Jiri"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "6f70f758"]
+[Epoch "Queen"]
+[BlackID "300179"]
+[WhiteID "14900017"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 10. O-O f5 11. exf5 Bxf5 12. Nc4 Na6 13. Bf4 b5 14. Ne3 Bd7 15.
+Bg3 Nac7 16. Qd2 b4 17. Ne4 Nb5 18. Rae1 a5 19. h4 a4 20. Nc4 Bf5 21. Ng5 Nd4
+22. Bd3 Bxd3 23. Qxd3 Rf5 24. Ne6 Nxe6 25. dxe6 d5 26. e7 Qc8 27. Nb6 Qa6 28.
+Qxa6 Rxa6 29. Nc8 Bxb2 30. Nd6 Rxd6 31. Bxd6 Nxd6 32. e8=Q+ Nxe8 33. Rxe8+ Kg7
+34. Rb8 Bc3 35. Rc1 d4 36. Rd1 a3 37. Rc8 h5 38. Kf1 b3 39. axb3 Rf8 40. Rxc5
+a2 41. b4 a1=Q 42. Rxa1 Bxa1 43. b5 Bc3 44. b6 Re8 45. Rc7+ Kf6 46. g4 hxg4 47.
+b7 Re1+ 48. Kg2 Rb1 49. Kg3 Ke5 50. Kxg4 Kd6 51. Rc8 Rxb7 0-1

@@ -1,0 +1,22 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Alber, Horst"]
+[Black "Mukic, Josko"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "43500990"]
+[Epoch "Queen"]
+[WhiteID "4602013"]
+[WhiteCountry "GER"]
+[BlackID "14508478"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Bd2 Nb6 7. e4 O-O 8.
+Be3 Bg4 9. Be2 Bxf3 10. gxf3 e5 11. d5 c6 12. d6 N8d7 13. Qb3 Qf6 14. O-O-O
+Rfb8 15. h4 h6 16. Bf1 Nf8 17. h5 g5 18. Bh3 Nbd7 19. Bg4 Ne6 20. Rd2 b5 21.
+Ne2 a5 22. Ng3 a4 23. Qd3 a3 24. Nf5 axb2+ 25. Rxb2 Ndc5 26. Bxc5 Nxc5 27. Qe3
+Na4 28. Rc2 c5 1-0

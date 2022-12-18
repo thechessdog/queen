@@ -1,0 +1,27 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Mortensen, Erling"]
+[Black "Karlsson, Lars"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Wing gambit"]
+[HashCode "cb624ba6"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 bxa3 6. d4 Nc6 7. c3 f5 8. Bd3 Bd7
+9. g4 Nge7 10. gxf5 Nxf5 11. Ng5 Nce7 12. Nxa3 h6 13. Nh3 Qc7 14. Nb5 Bxb5 15.
+Bxb5+ Kf7 16. Bd2 g6 17. Rg1 a6 18. Bd3 Rg8 19. Nf4 Qc6 20. Qf3 b5 21. Rb1 Rb8
+22. Qh3 Rb7 23. Kf1 Ke8 24. Kg2 g5 25. Nh5 Kd8 26. Kh1 Rg6 27. f4 g4 28. Rxg4
+Rxg4 29. Qxg4 b4 30. cxb4 Qb6 31. Qg1 Rc7 32. Ra1 Qxd4 33. Qxd4 Nxd4 34. Rxa6
+Nf3 35. Be3 Rc3 36. Bb6+ Kc8 37. Be2 Kb7 38. Bc5 Nh4 39. Kg1 Rc2 40. Kf1 Nef5
+41. Bxf8 Nd4 42. Ra7+ Kxa7 43. Bc5+ Rxc5 44. bxc5 Nhf5 45. Ng3 Ng7 46. Bd1 Ka6
+47. Ba4 Ka5 48. Bd7 Nb3 49. f5 Nxf5 50. Nxf5 Nxc5 51. Bxe6 Nxe6 52. Nxh6 Kb4
+53. Ng4 Kc4 54. h4 Ng7 55. Kf2 d4 56. Kf3 Kd5 57. Kf4 d3 58. Ne3+ Kd4 59. Nf1
+Kd5 60. Nd2 Kd4 61. Nf3+ Kd5 62. Ke3 Nf5+ 63. Kf4 d2 64. Nxd2 1/2-1/2

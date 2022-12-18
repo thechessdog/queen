@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Harmon, Clark"]
+[Black "Minev, Nikolay Nikolaev"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "23b27027"]
+[Epoch "Queen"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 cxd4 7. exd4 Be7 8. Nf4
+dxc4 9. Bxc4 O-O 10. O-O Nc6 11. Be3 Bd6 12. Nh5 Be7 13. Ng3 Bd6 14. Nh5
+1/2-1/2

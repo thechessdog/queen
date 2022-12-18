@@ -1,0 +1,16 @@
+[Event "corr SOK/87"]
+[Site "corr SOK/87"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stabenow"]
+[Black "Rettenbacher"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Tuebingen variation"]
+[HashCode "6b01a6e1"]
+[Epoch "Queen"]
+
+1. b4 Nh6 2. d3 Nf5 3. e4 Nd4 4. Bb2 e5 5. Bxd4 exd4 6. a3 c5 7. bxc5 Bxc5
+8. g3 Qa5+ 9. Nd2 O-O 10. Ne2 d5 11. exd5 1-0
+

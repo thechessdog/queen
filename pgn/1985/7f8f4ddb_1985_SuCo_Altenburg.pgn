@@ -1,0 +1,21 @@
+[Event "Bez"]
+[Site "Bez"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "SuCo"]
+[Black "Altenburg, F."]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "5...c6"]
+[HashCode "7f8f4ddb"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Qc2 Qa5
+8. Nf3 Ne4 9. Bd3 Nxg5 10. Nxg5 h6 11. Nf3 Nf6 12. O-O Bd6 13. Qe2 O-O 14.
+Qd2 Re8 15. Ne4 Qd8 16. Nxd6 Qxd6 17. Bc2 Ne4 18. Qd3 Bf5 19. Rfe1 Bh7 20.
+Rac1 Ng5 21. Qd1 Bxc2 22. Rxc2 Nxf3+ 23. Qxf3 Re4 24. h3 Rae8 25. Rec1 R8e6
+26. Qh5 Qe7 27. Rc5 Rg6 28. b4 Qf6 29. b5 Rh4 30. Qe2 Rxh3 31. Rxc6 bxc6
+32. Rxc6 Qh4 33. Rc8+ Kh7 34. Rh8+ Kxh8 35. g3 Rh1+ 36. Kg2 Qh3+ 37. Kf3
+Rf6# 0-1
+

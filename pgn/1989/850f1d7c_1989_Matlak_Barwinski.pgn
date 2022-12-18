@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Matlak, Marek"]
+[Black "Barwinski, Dionizy"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "850f1d7c"]
+[Epoch "Queen"]
+[BlackID "1104365"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 a6 8. a4
+Nbd7 9. e4 Bg7 10. Nc4 Nb6 11. Ne3 O-O 12. Bd3 Bd7 13. O-O Qc7 14. Bd2 Rab8 15.
+a5 Nc8 16. f3 Na7 17. Nc4 Nb5 18. Na4 Nd4 19. b4 Bxa4 20. Qxa4 Nd7 21. Rac1 f5
+22. exf5 Nxf5 23. Bf4 Rf6 24. Bxf5 gxf5 25. Rfe1 Bf8 26. Re6 Rxe6 27. dxe6 b5
+28. axb6 Nxb6 29. Nxb6 Qxb6 30. bxc5 Qb2 31. c6 Qe2 32. Qc4 Qxc4 33. Rxc4 Rc8
+34. c7 a5 35. Rc6 a4 36. Bxd6 Bxd6 37. Rxd6 Rxc7 38. Rd8+ 1-0

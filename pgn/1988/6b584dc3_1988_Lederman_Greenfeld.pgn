@@ -1,0 +1,23 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lederman, Leon"]
+[Black "Greenfeld, Alon"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "6b584dc3"]
+[Epoch "Queen"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+[WhiteID "2800403"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Bd7 10. f4 b5 11. Bd3 Qc7 12. Nf3 Na5 13. Bd4 b4 14. Ne2 b3 15.
+Kb1 bxa2+ 16. Ka1 Be7 17. g4 Nc6 18. g5 hxg5 19. fxg5 Nxd4 20. Nfxd4 Nh7 21. h4
+g6 22. Nf3 Qc5 23. Rdf1 Rb8 24. c3 Nf8 25. Ng3 e5 26. h5 gxh5 27. Rxh5 Rg8 28.
+Nf5 a5 29. Rfh1 Be6 30. Rh8 Rxh8 31. Rxh8 Kd7 32. Nxe7 Kxe7 33. Rg8 Rc8 34. Qe1
+a4 35. Rh8 a3 36. b3 Qxc3+ 0-1

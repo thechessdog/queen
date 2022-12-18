@@ -1,0 +1,19 @@
+[Event "corr WE"]
+[Site "corr WE"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schendel, A."]
+[Black "Szpiszar, L."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "cb8faa37"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. exd5 Nf6 5. Nc3 Bb4 6. Nge2 f3 7. gxf3 Bh3
+8. a3 Bxc3 9. Nxc3 O-O 10. d4 Qe7+ 11. Qe2 Qd7 12. Be3 c6 13. dxc6 Nxc6 14.
+O-O-O Rac8 15. Rhg1 Na5 16. Bb5 Qe7 17. Rxg7+ Kh8 18. Bh6 Qd6 19. Rg2 Rxc3
+20. Bxf8 Qxf8 21. bxc3 Qxa3+ 22. Kb1 Be6 23. d5 Bf5 24. Bd3 Qa4 25. Qe7 Bg6
+26. Bxg6 1-0
+

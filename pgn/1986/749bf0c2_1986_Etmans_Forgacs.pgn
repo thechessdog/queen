@@ -1,0 +1,23 @@
+[Event "Biel op"]
+[Site "Biel op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Etmans, Maarten"]
+[Black "Forgacs, Gyula"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "749bf0c2"]
+[Epoch "Queen"]
+[WhiteID "1001345"]
+[WhiteCountry "NED"]
+[BlackID "701203"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Qe2 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bg4 12. Bxc6 bxc6 13. h3 Bxf3 14. Qxf3
+Qa5 15. a4 Rfb8 16. Ba3 e6 17. Bb4 Qa6 18. Rfb1 Qc4 19. Bd6 Rb3 20. Rxb3 Qxb3
+21. Qd3 Bf8 22. Ra3 Qb2 23. Qd1 Rb8 24. Bxb8 Qxa3 25. Bxa7 Qxc3 26. Bb6 c5 27.
+a5 c4 28. a6 Qb3 29. Qa1 c3 30. a7 c2 31. a8=Q Qb1+ 32. Kh2 Kg7 33. Bd8 Kh6 34.
+h4 Kh5 35. Bg5 1-0

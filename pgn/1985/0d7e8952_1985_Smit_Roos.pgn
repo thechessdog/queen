@@ -1,0 +1,23 @@
+[Event "corr CA jub"]
+[Site "corr CA jub"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Smit"]
+[Black "Roos"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "0d7e8952"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. cxd5 Qa5 7. Qa4+ Qxa4
+8. Nxa4 Na6 9. dxc5 Nxd5 10. Bb5+ Bd7 11. Bxd7+ Kxd7 12. O-O-O Kc6 13. Nf3
+Nxf4 14. exf4 Rhd8 15. Rhe1 Rxd1+ 16. Kxd1 Rd8+ 17. Kc2 Bf6 18. Re4 Kd5 19.
+Re3 Kc6 20. Ne5+ Bxe5 21. fxe5 Rd4 22. b3 Nb4+ 23. Kc3 Rf4 24. Re2 Nd5+ 25.
+Kb2 Rh4 26. g3 Rxh2 27. a3 a5 28. Kc2 h5 29. Nb2 Kxc5 30. Nd3+ Kc6 31. Re4
+b5 32. a4 g5 33. Kd2 h4 34. axb5+ Kxb5 35. Rg4 f6 36. exf6 exf6 37. gxh4
+Rxh4 38. Rg3 Rd4 39. Ke2 Nf4+ 40. Nxf4 Re4+ 41. Kd3 Rxf4 42. f3 Kb4 43. Kc2
+Ka3 44. Rh3 Rh4 45. Rg3 Rb4 46. Rg1 Rxb3 47. f4 gxf4 48. Rg4 Rb4 49. Rg6
+Rc4+ 50. Kd3 Kb3 51. Rxf6 a4 0-1
+

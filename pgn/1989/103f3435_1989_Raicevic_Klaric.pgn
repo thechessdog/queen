@@ -1,0 +1,20 @@
+[Event "Genoa"]
+[Site "Genoa"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Raicevic, Vladimir"]
+[Black "Klaric, Zlatko"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "103f3435"]
+[Epoch "Queen"]
+[WhiteID "900605"]
+[WhiteCountry "SRB"]
+[BlackID "14500248"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 g6 6. Bb5+ Bd7 7. Qe2 Nc6 8.
+Nf3 a6 9. Bxc6 Bxc6 10. O-O Bg7 11. d5 Bd7 12. h3 O-O 13. a4 b5 14. axb5 axb5
+15. Rxa8 Qxa8 16. Qd3 b4 17. Ne2 Bc8 1/2-1/2

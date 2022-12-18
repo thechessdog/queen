@@ -1,0 +1,15 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pakowski, J."]
+[Black "Schneider, K."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "058236cf"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 c6 5. Bd3 Bg6 6. h4 Nbd7 7. h5 Bxd3 8.
+Qf3 Be4 0-1
+

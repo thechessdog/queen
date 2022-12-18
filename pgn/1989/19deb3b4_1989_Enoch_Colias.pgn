@@ -1,0 +1,17 @@
+[Event "Hammond"]
+[Site "Hammond"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Enoch, J."]
+[Black "Colias, Billy"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "19deb3b4"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. d5 Ne4 6. Qd3 Qf6 7. Qxe4 Bxc3+ 8.
+Kd1 Bxb2 9. Bxb2 Qxb2 10. Rb1 Qxa2 11. dxe6 dxe6 12. Rxb7 Bxb7 13. Qxb7 O-O 14.
+Qxa8 Rd8+ 15. Kc1 Qb3 0-1

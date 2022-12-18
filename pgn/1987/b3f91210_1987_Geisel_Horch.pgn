@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Geisel"]
+[Black "Horch"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "b3f91210"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 h6 13. Bxf6 Bxf6 14.
+Bxb5 axb5 15. Ndxb5 Qc6 16. Rxd6 Qc5 17. Rxd7 Kxd7 18. Rd1+ Kc8 19. Nd6+
+Kb8 20. e5 Be7 21. Nxb7 Kxb7 22. Qf3+ Kb8 23. Rd3 Rd8 24. Nd5 Rxa2 25. Kb1
+Qa5 0-1
+

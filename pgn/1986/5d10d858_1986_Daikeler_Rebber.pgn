@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Daikeler, E."]
+[Black "Rebber, C."]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "5d10d858"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. Nxb5 d6 7. Qc2 Nxd5
+8. e4 Nb4 9. Qb3 Bd7 10. Bc4 e6 11. Nf3 Qa5 12. Nc3 Be7 13. O-O O-O 14. Bf4
+N8c6 15. a3 Nd4 16. Nxd4 cxd4 17. Ne2 d5 18. exd5 exd5 19. Bxd5 Qa4 20.
+Nxd4 Qxb3 21. Nxb3 Ra4 22. Bd2 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Goring, H."]
+[Black "Neumarker"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "5646c36a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. f4 exf3 12. Nxf3 Ng4 13. d4 Qc7
+14. Ne5 Nxe5 15. dxe5 Bxe5 16. Bd3 Bxh2 17. Qh5 Bg3+ 18. Kd1 Be6 19. Na3
+O-O-O 20. Bd2 Nb7 21. Kc1 g6 22. Qe2 h5 23. Nc4 Rhe8 24. Qf1 Nc5 25. a4
+Rxd3 26. cxd3 Nb3+ 27. Kc2 Nxa1+ 28. Qxa1 Bxc4 29. dxc4 Re2 30. Kc1 Bf4 0-1
+

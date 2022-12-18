@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nogueiras Santiago, Jesus"]
+[Black "Arencibia, Juan Joel"]
+[Result "1-0"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "32e587a5"]
+[Epoch "Queen"]
+[BlackID "3500136"]
+[BlackCountry "FID"]
+[WhiteCountry "CUB"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 g6 6. Bf4 Bg7 7. e3 Qa5 8.
+Bb5+ Bd7 9. Qb3 O-O 10. Bxd7 Nbxd7 11. Qxb7 Rfc8 12. O-O Ne4 13. Qxd5 1-0

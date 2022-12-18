@@ -1,0 +1,25 @@
+[Event "Edinburgh open"]
+[Site "Edinburgh open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pliester, Leon"]
+[Black "Giulian, Philip M"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "27231bd6"]
+[Epoch "Queen"]
+[BlackID "2400197"]
+[BlackCountry "SCO"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8. hxg5
+c5 9. dxc5 Nxe5 10. Qg3 Nbc6 11. O-O-O Qe7 12. f4 Nd7 13. Nxd5 exd5 14. Re1
+Nde5 15. Nf3 Be6 16. Nxe5 Nxe5 17. Rxe5 g6 18. Qc3 O-O 19. Qe1 Rac8 20. Qh4 h5
+21. gxh6 Qxh4 22. Rxh4 Rxc5 23. Bd3 Rfc8 24. Kd2 d4 25. Rxc5 Rxc5 26. b4 Rc3
+27. f5 Bxf5 28. Rxd4 Ra3 29. Bxf5 gxf5 30. Rd8+ Kh7 31. Rd7 b5 32. Rxf7+ Kxh6
+33. Rxf5 Rxa2 34. Kd3 Kg6 35. Rf2 Rb2 36. Kc3 Rb1 37. Rf8 Kg7 38. Ra8 Ra1 39.
+Kd4 Ra2 40. c3 Ra3 41. Rc8 Kf7 42. Kd5 Ke7 43. Rc7+ Kf6 44. Rc5 Kf5 45. Kc6+
+Ke6 46. g4 Kf6 47. Kb7 Kg6 48. Rc6+ Kg5 49. Rxa6 Rxc3 50. Kb6 Kxg4 51. Kxb5 Kf5
+52. Rh6 Ke5 53. Kb6 Rb3 54. b5 Kd5 55. Ka6 Rb1 56. b6 Rb2 57. Ka7 1-0

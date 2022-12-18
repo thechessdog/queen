@@ -1,0 +1,25 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rebel"]
+[Black "Plymate 5 5"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "8c026833"]
+[Epoch "Queen"]
+
+1. c4 e6 2. d4 d5 3. e3 Nc6 4. Nc3 Bb4 5. Bd2 Nge7 6. a3 Bxc3 7. Bxc3 O-O
+8. Bd3 dxc4 9. Bxc4 Nd5 10. Bd2 e5 11. Qb3 Nb6 12. d5 Ne7 13. e4 Nxc4 14.
+Qxc4 c6 15. dxc6 Nxc6 16. Nf3 Bg4 17. Qc3 Qd6 18. h3 Bxf3 19. Qxf3 Rfd8 20.
+Qe3 Qd4 21. Ra2 Rac8 22. b3 Qd3 23. Qxd3 Rxd3 24. b4 Nd4 25. f3 Rxa3 26.
+Rxa3 Nc2+ 27. Ke2 Nxa3 28. Ra1 Nb5 29. Kd3 Kf8 30. Rc1 Rd8+ 31. Ke3 b6 32.
+h4 h5 33. Ra1 Ke7 34. g3 Rd4 35. Rc1 Kd7 36. Ra1 f6 37. Be1 g6 38. Bd2 Kc6
+39. Rc1+ Kb7 40. Ra1 Rd7 41. Rc1 Nd6 42. Ke2 Ka6 43. Rd1 Nc4 44. Be1 Rxd1
+45. Kxd1 Kb5 46. Kc2 Nd6 47. Kb2 a5 48. bxa5 bxa5 49. Ka2 a4 50. Kb2 Nc4+
+51. Kc2 a3 52. Kb3 Ne3 53. Bc3 Nf1 54. Kxa3 Kc4 55. Ba5 Nxg3 56. Bd8 f5 57.
+Bf6 fxe4 58. Bxe5 Nf5 59. fxe4 Nxh4 60. Bg3 Nf3 61. Bc7 h4 62. e5 Kd5 63.
+e6 Kxe6 64. Kb4 Ne5 65. Kc5 h3 66. Kd4 h2 67. Bxe5 h1=Q 68. Bf4 Qh4 69. Ke3
+Kf5 70. Bb8 Qe4+ 71. Kf2 0-1
+

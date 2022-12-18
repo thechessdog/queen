@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Neumarker"]
+[Black "Trautmann"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a702a2c5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 d6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Be7 11. Rac1 Qb8 12. Bb3 O-O 13. Bg3 Ne5 14.
+Nd4 Bd7 15. f4 Nc6 16. Nf3 Nh5 17. Ne5 Nxg3 18. hxg3 dxe5 19. Rxd7 exf4 20.
+Na4 Rd8 21. Rxd8+ Bxd8 22. gxf4 Qxf4 23. Rf1 Qh4 24. Rf3 Nd4 0-1
+

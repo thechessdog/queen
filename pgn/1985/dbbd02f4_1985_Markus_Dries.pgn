@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Markus"]
+[Black "Dries, J."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "dbbd02f4"]
+[Epoch "Queen"]
+[WhiteID "7106122"]
+[WhiteCountry "INA"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d3 Be7 5. Nbd2 d5 6. Qc2 a5 7. a4 O-O 8. Be2
+b6 9. O-O Bb7 10. Re1 Re8 11. Nf1 Bc5 12. Ng3 Ne7 13. Nxe5 dxe4 14. dxe4 Ng6
+15. Nxg6 Nxe4 16. Bb5 fxg6 17. Bf4 g5 18. Be3 Nxg3 19. Bxe8 1-0

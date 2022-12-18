@@ -1,0 +1,27 @@
+[Event "Gausdal wch-jr"]
+[Site "Gausdal wch-jr"]
+[Date "1986.01.01"]
+[Round "12"]
+[White "Lehtivaara, Petri"]
+[Black "Wahls, Matthias"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "3718306c"]
+[Epoch "Queen"]
+[WhiteID "500682"]
+[WhiteCountry "FIN"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Bxc6 dxc6 7. h3 Nf6 8. Qe2
+O-O 9. d4 cxd4 10. cxd4 a5 11. Re1 a4 12. Bd2 h6 13. Bc3 Be6 14. Nbd2 Ne8 15.
+Ne5 Nd6 16. f4 Nb5 17. Qe3 Qb6 18. Ndf3 Nd6 19. Kh1 Kh7 20. g4 Nc4 21. Nxc4
+Bxc4 22. Ne5 Bxe5 23. fxe5 f6 24. exf6 Rxf6 25. g5 Rf7 26. gxh6 Raf8 27. Qg5
+Qc7 28. Rg1 Qd6 29. Rg3 Be2 30. Qe5 Bf3+ 31. Kg1 Qxe5 32. dxe5 Bxe4 33. e6 Rf3
+34. Rxf3 Rxf3 35. Bg7 Rxh3 36. Kf2 Rf3+ 37. Ke2 Bd5 38. a3 Rf4 39. Ke3 Re4+ 40.
+Kd3 Rxe6 41. Rf1 g5 42. Rf8 Rxh6 43. Bxh6 Kxh6 44. Re8 e6 45. Ke3 Kg6 46. Rg8+
+Kf5 47. Rf8+ Kg4 48. Re8 Kg3 49. Re7 b5 50. Rg7 g4 51. Rg5 c5 52. Rg7 b4 53.
+Ra7 bxa3 54. bxa3 Bb3 55. Rc7 c4 56. Rc5 Kg2 57. Kf4 g3 58. Rg5 Kf2 59. Rxg3
+e5+ 60. Kg4 Bd1+ 61. Kh3 e4 0-1

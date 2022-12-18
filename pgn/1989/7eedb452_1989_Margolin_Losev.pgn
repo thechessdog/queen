@@ -1,0 +1,26 @@
+[Event "Moscow op"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Margolin, Boris"]
+[Black "Losev, Dmitry"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "7eedb452"]
+[Epoch "Queen"]
+[WhiteID "4646193"]
+[BlackID "4105958"]
+[WhiteCountry "GER"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 g6 7. e5 Bg7 8. a4
+O-O 9. Na3 Nf5 10. Nc4 d5 11. exd6 Nxd6 12. Nce5 Nxe5 13. Nxe5 b6 14. Ra3 Bb7
+15. Rh3 Qe7 16. f4 Rad8 17. b3 Qf6 18. Ng4 Qd4+ 19. Kh1 h5 20. Ne3 Qxf4 21. Qe2
+Nf5 22. d3 Nxe3 23. Qxe3 Qxe3 24. Bxe3 Bc3 25. Rb1 Rd5 26. Bh6 Rfd8 27. Be2 Re5
+28. Bf3 Bxf3 29. Rxf3 Re2 30. Rbf1 f6 31. Re3 Rxe3 32. Bxe3 Rd5 33. Bf4 Rf5 34.
+Rf3 e5 35. Bc1 Rxf3 36. gxf3 Kf7 37. Kg2 Ke6 38. Be3 Kd5 39. h3 b5 40. axb5
+axb5 41. Kf1 b4 42. Ke2 Bd4 43. Bc1 Ke6 44. Bd2 g5 45. Bc1 Kf5 46. Kf1 Kg6 47.
+Kg2 Kf5 48. Bd2 Ba1 49. Kf1 g4 50. hxg4+ hxg4 51. fxg4+ Kxg4 52. Kg2 f5 53. Kf1
+Bd4 54. Be1 f4 55. Bf2 0-1

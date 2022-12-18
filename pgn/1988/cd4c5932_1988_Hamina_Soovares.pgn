@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hamina"]
+[Black "Soovares"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "cd4c5932"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nxc6 Qxd1+ 7. Kxd1
+a6 8. Ba4 Bd7 9. Nc3 Bxc6 10. Bxc6+ bxc6 11. Nxe4 e5 12. Ke2 f5 13. Nd2 Nf6
+14. Nc4 Nd7 15. Rd1 h6 16. Bd2 Ke7 17. Bc3 Ke6 18. Rxd7 Kxd7 19. Nb6+ Kc7
+20. Nxa8+ Kb7 21. Rd1 Kxa8 22. Rd8+ Kb7 23. Bb4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Meyers, Viesturs"]
+[Black "Petkevich, Jusefs"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "c5bfccb0"]
+[Epoch "Queen"]
+[BlackID "11600110"]
+[BlackCountry "LAT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 b5 11. Bxf6 Nxf6 12. e5 dxe5 13. fxe5 Nd7 14. Bxb5
+O-O 15. Bc6 Rb8 16. Rhe1 Nb6 17. Rd3 Nc4 18. Na4 Rd8 19. Qf4 Bf6 20. Nf3 Rxd3
+21. Qxc4 Rxf3 22. gxf3 Bxe5 23. Qd3 g6 24. Nc3 Bf4+ 25. Kb1 Qxc6 26. Qd8+ Kg7
+27. Qd4+ e5 28. Rxe5 Qf6 0-1

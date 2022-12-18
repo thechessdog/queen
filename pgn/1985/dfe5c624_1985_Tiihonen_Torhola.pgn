@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tiihonen"]
+[Black "Torhola"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "dfe5c624"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 Nxd5 6. Nb3 cxd4 7. Nbxd4
+Be7 8. Bd3 O-O 9. O-O Bf6 10. c4 Ne7 11. Ne2 Nbc6 12. a3 b6 13. Qc2 Ng6 14.
+Be3 Bb7 15. Rab1 Qc7 16. Ng3 Nce5 17. Nxe5 Bxe5 18. Rfe1 f5 19. Bg5 h6 20.
+Bc1 Bxg2 21. Kxg2 Nh4+ 22. Kf1 Nf3 23. Rxe5 Qxe5 24. h3 f4 25. Ne4 Qh5 26.
+Kg2 Nd4 27. Qa4 Qf3+ 28. Kh2 Rf5 0-1
+

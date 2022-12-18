@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Conquest, Stuart C"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "f7f3e4e6"]
+[Epoch "Queen"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+[BlackID "400181"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 b4 10. c3 Bc5 11. Nd4 Qh4 12. Be3 Nxe5 13. cxb4 Bd6 14. h3 Bxh3 15.
+gxh3 Qxh3 16. Bf4 Ng6 17. Bg3 Nh4 0-1

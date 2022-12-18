@@ -1,0 +1,24 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Schneider, Lars-Ake"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "98c4af52"]
+[Epoch "Queen"]
+[BlackID "1700235"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 Qb6 8. Bf1
+cxd4 9. cxd4 d5 10. e5 Ne4 11. Nc3 Be6 12. Be3 Qxb2 13. Nxe4 dxe4 14. Ng5 Bd5
+15. Qg4 f6 16. Reb1 Qa3 17. Rb5 Nb4 18. Nxh7 Kxh7 19. Qh3+ Kg8 20. Rxd5 Nxd5
+21. Bc4 Qa5 22. Qe6+ Kh7 23. Bxd5 f5 24. g3 Rad8 25. Bxb7 Qc7 26. Ba6 Qb6 27.
+Qc4 Rb8 28. Qf1 e6 29. Bc4 Rfe8 30. Rd1 Qb2 31. d5 Qxe5 32. dxe6 Re7 33. Bf4
+Qb2 34. Bxb8 Qxb8 35. Bb3 Bf6 36. Qc4 Kg7 37. Qd5 Qb4 38. Kg2 Qc3 39. Qd2 Qc5
+40. Qe2 a5 41. h4 Qc3 42. h5 Qc6 43. hxg6 Kxg6 44. Bd5 Qc3 45. Rh1 Bg5 46. Qh5+
+Kf6 47. Qh8+ Rg7 48. Rh7 Kg6 49. Qe8+ Kf6 50. Rxg7 Kxg7 51. Qf7+ Kh6 52. Qxf5
+e3 53. Be4 Qg7 54. Qh3+ 1-0

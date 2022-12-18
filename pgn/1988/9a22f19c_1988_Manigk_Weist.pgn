@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Manigk"]
+[Black "Weist"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "9a22f19c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 f6 8. Be2
+Qc7 9. O-O fxe5 10. Nxe5 Nxe5 11. dxe5 Qxe5 12. Re1 Qd6 13. b3 cxb3 14. c4
+Nf6 15. Qxb3 Be7 16. cxd5 exd5 17. Bb5+ Bd7 18. a4 Ng8 19. Ba3 Qc7 20. Rac1
+Qd8 21. Rxe7+ 1-0
+

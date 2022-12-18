@@ -1,0 +1,21 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Stigar, Petter"]
+[Black "Vadasz, Laszlo"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "5b1798c2"]
+[Epoch "Queen"]
+[WhiteID "1500341"]
+[WhiteCountry "NOR"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 Nbd7 10. Bg5 Nb6 11. Bb3 Bd7 12. d5 exd5 13. Bxd5 Bg4 14. Bxb7
+Qxd1 15. Rfxd1 Bxc3 16. Nxc3 Rab8 17. Rd4 Rxb7 18. Bxf6 Be6 19. Bh4 Rc8 20.
+Rad1 h6 21. h3 Nc4 22. Rd8+ Rxd8 23. Rxd8+ Kh7 24. b3 Na3 25. Bg3 Rb6 26. Rd6
+Rxd6 27. Bxd6 1-0

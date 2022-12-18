@@ -1,0 +1,19 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Dory, Jeno"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "981fe9cd"]
+[Epoch "Queen"]
+[BlackID "700860"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nb3 Bg7 6. Be2 Nf6 7. Nc3 d6 8.
+O-O O-O 9. Be3 Be6 10. f4 Rc8 11. f5 Bd7 12. g4 Ne5 13. Nd2 Rxc3 14. bxc3 Bc6
+15. Bd4 Nxe4 16. Nxe4 Bxe4 17. Rf4 Bc6 18. Qf1 Qa5 19. h4 gxf5 20. Rxf5 Qd5 21.
+Kh2 Qe4 22. Rc1 Bh6 23. Re1 Qxc2 24. Bxe5 dxe5 25. Rxe5 Qd2 26. Rd1 Qf4+ 0-1

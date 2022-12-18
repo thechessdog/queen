@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Beer"]
+[Black "Hughes"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "b1559695"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. g3 Nbd7 9. Bg2 Nb6 10. Nge2 Bf5 11. O-O Bd3 12. d6 Qxd6 13. Bxb7 Rad8
+14. Be3 Qd7 15. Bf3 Qf5 16. Kg2 Nc4 17. Qa4 Ng4 18. Nd1 Nxh2 0-1
+

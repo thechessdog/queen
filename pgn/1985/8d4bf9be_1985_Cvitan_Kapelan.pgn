@@ -1,0 +1,22 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cvitan, Ognjen"]
+[Black "Kapelan, Milorad"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "8d4bf9be"]
+[Epoch "Queen"]
+[BlackID "904147"]
+[BlackCountry "SRB"]
+[WhiteID "14500086"]
+[WhiteCountry "CRO"]
+
+1. Nf3 d5 2. d4 e6 3. c4 Be7 4. g3 Nf6 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Bd6 11. Nbd2 Nbd7 12. Nb3 Rc8 13. Rfd1 Qe7 14. Rac1 Be4
+15. Bxd6 Bxc2 16. Bxe7 Bxd1 17. Rxd1 Rfe8 18. Bc5 Nxc5 19. Nxc5 a5 20. Ne5 Nd5
+21. Nc6 a4 22. a3 g6 23. e3 Ne7 24. Rd2 Kg7 25. Rc2 Nf5 26. Na7 Rb8 27. Bc6
+Red8 28. Nd7 1-0

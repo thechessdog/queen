@@ -1,0 +1,17 @@
+[Event "corr ICCF EU-M-GT"]
+[Site "corr ICCF EU-M-GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pietrzak, J."]
+[Black "Petersen, Arvid"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "13f358fc"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 O-O 5. f4 Nc6 6. Nf3 Nxe5 7. fxe5
+Ng4 8. Bd3 Re8 9. a3 Ba5 10. O-O Nxe5 11. Bxh7+ Kxh7 12. Nxe5 Rxe5 13. d4
+Rg5 14. h4 Rg6 15. Qh5+ Kg8 16. Qxa5 d5 17. Nc3 Be6 18. Ne2 Qxh4 19. Nf4
+Rh6 20. Rae1 g5 21. Nxd5 g4 0-1
+

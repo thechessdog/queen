@@ -1,0 +1,23 @@
+[Event "Biel open"]
+[Site "Biel open"]
+[Date "1989.07.01"]
+[Round "6"]
+[White "Bern, Ivar"]
+[Black "Hess, Ralf E."]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "43c9181d"]
+[Epoch "Queen"]
+[WhiteID "1500171"]
+[WhiteCountry "NOR"]
+[BlackID "4601890"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Ng3 d5 8. b3 Bb7
+9. cxd5 Nxd5 10. Nxd5 exd5 11. Bd3 g6 12. b4 Nd7 13. Qb3 c6 14. e4 dxe4 15. Bc4
+O-O 16. Bh6 Nf6 17. Bxf8 Qxf8 18. O-O Bd6 19. Rfe1 Re8 20. h3 b5 21. Bf1 Qh6
+22. Ra2 e3 23. Rd1 Qf4 24. Rd3 Nd5 25. Re2 Re4 26. Qc2 h5 27. Rb3 Re6 28. fxe3
+Qxg3 29. e4 Qh2+ 30. Kf2 Rf6+ 31. Ke1 Bg3+ 32. Kd2 Rxf1 33. exd5 Bf4+ 34. Kc3
+Rc1 35. dxc6 Bxc6 36. Kb2 Rxc2+ 37. Rxc2 Be4 0-1

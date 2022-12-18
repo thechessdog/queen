@@ -1,0 +1,22 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rother, Christoph"]
+[Black "Vogel, Robert"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "9921adff"]
+[Epoch "Queen"]
+[WhiteID "4602790"]
+[WhiteCountry "GER"]
+[BlackID "4604253"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. d5 Nb8 6. Nf3 c6 7. Be3 Nf6 8. Be2
+O-O 9. O-O Nbd7 10. Qe1 cxd5 11. exd5 Nb6 12. Rd1 Bf5 13. Nd4 Bg4 14. Bf3 Bxf3
+15. Nxf3 Ng4 16. Bd4 Nc4 17. Qe2 Rc8 18. h3 Nh6 19. b3 Na3 20. Qd3 Qa5 21. Bxg7
+Kxg7 22. Ne2 Nxc2 23. Rd2 Qb6+ 24. Kh2 Qe3 25. Qb5 Rc7 26. Rfd1 Rfc8 27. Qa4
+Nf5 28. Neg1 b5 29. Qxb5 Qxf4+ 30. g3 Nxg3 0-1

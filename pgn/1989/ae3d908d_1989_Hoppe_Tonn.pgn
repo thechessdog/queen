@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoppe"]
+[Black "Tonn"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "ae3d908d"]
+[Epoch "Queen"]
+
+1. f4 e5 2. d3 exf4 3. Bxf4 d5 4. Nf3 Nf6 5. Nc3 Bb4 6. Bd2 Bg4 7. e3 O-O
+8. Be2 Re8 9. O-O c6 10. h3 Bh5 11. a3 Ba5 12. Nh2 Bg6 13. Ng4 Nbd7 14. Qe1
+Nxg4 15. Bxg4 d4 16. Ne4 Bxd2 17. Qxd2 Ne5 18. Bf5 Bxf5 19. Rxf5 Qb6 20. b3
+dxe3 21. Qc3 Ng6 22. Raf1 f6 23. Kh1 Rad8 24. Re1 Ne7 25. Rf3 Nd5 26. Qb2
+Qc7 27. c4 Nf4 28. Rfxe3 Kf8 29. Qd2 c5 30. Rf3 Ng6 31. Rfe3 b6 32. Nc3
+Rxe3 33. Qxe3 Qe5 34. Nd5 Re8 35. Qxe5 Nxe5 0-1
+

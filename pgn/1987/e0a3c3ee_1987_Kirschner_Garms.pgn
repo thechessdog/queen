@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kirschner, G."]
+[Black "Garms, I."]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "e0a3c3ee"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Re8 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. Qc2 g6 11. a3 Bd6 12. e4 c6 13. e5 Bf8 14. Re1
+c5 15. Be3 c4 16. Be2 Bf5 17. Qd2 f6 18. exf6 Qxf6 19. Bg5 Qd6 20. Ne5 Nc6
+21. Bf4 Nxe5 22. dxe5 Qc6 23. Rad1 Rad8 24. Bg5 Rd7 25. Qc3 Bg7 26. Bf6 Rf7
+27. Bxg7 Rxg7 28. Rxd5 b5 29. Rxb5 Be6 30. Qb4 Rc7 31. Bf3 Qd7 32. Rd1 Qf7
+33. Rd6 Qf5 34. h3 Qf4 35. Qd2 Qxd2 36. Rxd2 Rf7 37. Rd4 Bxh3 38. Rxc4 1-0
+

@@ -1,0 +1,22 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Frasquet"]
+[Black "Sampietro"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish; Flohr variation"]
+[HashCode "40623a4c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Nf3 Bg7
+8. Bc4 Qc7 9. Qe2 a6 10. O-O O-O 11. e5 dxe5 12. fxe5 Ng4 13. e6 Nde5 14.
+Nxe5 Nxe5 15. exf7+ Nxf7 16. Nd5 Qc5+ 17. Be3 Qd6 18. Rad1 Qe5 19. Bc5 Qxe2
+20. Bxe2 Bxb2 21. Nc7 Bf5 22. Nxa8 Rxa8 23. Bd4 Bxd4+ 24. Rxd4 Rc8 25. Rc4
+Nd6 26. Rxc8+ Bxc8 27. Bd3 b5 28. Kf2 Kg7 29. c3 a5 30. Ke3 a4 31. Kd4 Bd7
+32. Kc5 a3 33. Kb4 Be6 34. Bxb5 Nxb5 35. Kxb5 Bxa2 36. c4 Bb3 37. Kb4 Bc2
+38. Kxa3 Bd3 39. Rc1 e5 40. c5 Bf5 41. c6 Kf6 42. c7 Bc8 43. Rd1 e4 44. Rd8
+Kf7 45. Rxc8 1-0
+

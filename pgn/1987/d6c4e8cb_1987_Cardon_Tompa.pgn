@@ -1,0 +1,19 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cardon, Helmut"]
+[Black "Tompa, Janos"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "d6c4e8cb"]
+[Epoch "Queen"]
+[WhiteID "1000365"]
+[WhiteCountry "NED"]
+[BlackID "700193"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. e5 Ne8 11. Qb3 1/2-1/2

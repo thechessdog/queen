@@ -1,0 +1,16 @@
+[Event "Piombino"]
+[Site "Piombino"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dizdarevic, Emir"]
+[Black "Evangelisti, Claudi"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "f2124f14"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. d4 d5 7. cxd5 exd5 8. Ne5
+O-O 9. Nc3 c5 10. dxc5 bxc5 11. Qb3 Qc7 12. Nxd5 Nxd5 13. Bxd5 Bxd5 14. Qxd5
+Na6 15. Nxf7 1-0

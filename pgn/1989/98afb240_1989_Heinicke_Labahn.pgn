@@ -1,0 +1,16 @@
+[Event "corr SOK/88"]
+[Site "corr SOK/88"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heinicke"]
+[Black "Labahn"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "98afb240"]
+[Epoch "Queen"]
+
+1. b4 c6 2. e4 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. c4 dxc4 6. Bxc4 Qd4 7. Qb3
+Qxa1 8. Bxf7+ Kd8 9. Bxg8 Nd4 10. Qd5+ Bd7 11. Nf3 e6 0-1
+

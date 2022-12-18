@@ -1,0 +1,23 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Strikovic, Aleksa"]
+[Black "Stefanov, Parik"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "279ef2eb"]
+[Epoch "Queen"]
+[BlackID "1200399"]
+[BlackCountry "ROU"]
+[WhiteID "900150"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. e5 Bg7 6. Nc3 Nc6 7. Nf3 Bg4 8. Be2
+Bxf3 9. Bxf3 e6 10. Be3 Nge7 11. g4 O-O 12. O-O f6 13. exf6 Bxf6 14. Bg2 Bg7
+15. f4 a6 16. Na4 Qd6 17. Rc1 Rf7 18. Qd2 Raf8 19. h3 Nc8 20. Nc5 Qe7 21. Kh1
+Nd6 22. b3 Nb5 23. Rfe1 b6 24. Nxa6 Qd6 25. Qd3 Nbxd4 26. b4 e5 27. fxe5 Nxe5
+28. Qd1 Nef3 29. Bxf3 Nxf3 30. Re2 Qg3 31. Qf1 Nd4 32. Qg2 Nxe2 33. Qxe2 Qxh3+
+0-1

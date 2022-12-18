@@ -1,0 +1,17 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Raskin"]
+[Black "Furrer, H."]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "87cc974b"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e5 dxe5 6. dxe5 Qxd1+ 7. Rxd1
+Nfd7 8. Nd5 Bxe5 9. Nf3 Bd6 10. Bxe7 Bxe7 11. Nxc7+ Kd8 12. Nxa8 Bb4+ 13.
+c3 Re8+ 14. Kd2 Bf8 15. Bc4 Re7 16. Rhe1 Bh6+ 17. Kc2 Rxe1 18. Rxe1 1-0
+

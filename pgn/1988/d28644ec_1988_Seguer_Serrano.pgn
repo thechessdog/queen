@@ -1,0 +1,19 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Seguer"]
+[Black "Serrano"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Heath variation"]
+[HashCode "d28644ec"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. b4 Bb6 5. Bb2 Nf6 6. fxe5 Nxe4 7. d4 dxe5
+8. Bd3 Nd6 9. Nxe5 Qh4+ 10. g3 Qh3 11. Qf3 f6 12. Rf1 fxe5 13. dxe5 Bg4 14.
+Qf4 Nc6 15. Qg5 Nf7 16. Rxf7 Kxf7 17. e6+ Kxe6 18. Nc3 Ne5 19. Be4 Bf2+ 20.
+Kxf2 Qxh2+ 21. Ke3 Qxg3+ 22. Kd4 Qf2+ 23. Qe3 Qxe3+ 24. Kxe3 Nc4+ 25. Kf4
+Nxb2 26. Bd5+ Kd6 27. Kxg4 c6 28. Bb3 b5 29. a4 Nxa4 30. Ne4+ Kc7 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gierke"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "8ed66412"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8 Kf7
+8. Bb3 Bg7 9. Qh7 Be6 10. f3 e3 11. g4 Nh6 12. h4 Qd6 13. Rg1 Qh2 14. Rf1 Qxh4+
+15. Kd1 Nd7 16. g5 Qxg5 17. Rh1 Qg2 18. Re1 Qxf3+ 19. Re2 Qf1+ 20. Re1 e2# 0-1

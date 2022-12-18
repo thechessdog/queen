@@ -1,0 +1,24 @@
+[Event "Sheliabinsk"]
+[Site "Sheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ivanov, Jordan"]
+[Black "Ulybin, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "7d6e0953"]
+[Epoch "Queen"]
+[WhiteID "2901250"]
+[WhiteCountry "FID"]
+[BlackID "4101405"]
+[BlackCountry "RUS"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. Bg5
+Bb7 9. e3 Be7 10. Be2 d6 11. O-O Nbd7 12. Rfd1 a6 13. e4 Qc7 14. Rac1 Rac8 15.
+Nd2 h6 16. Be3 Qb8 17. Qb1 Bc6 18. b4 Qa8 19. f3 Rfe8 20. Nb3 Qb8 21. a4 Ba8
+22. c5 a5 23. Nb5 bxc5 24. bxc5 Nxc5 25. Bxc5 dxc5 26. Nxa5 Nh5 27. Nc4 Rcd8
+28. Rxd8 Rxd8 29. Rd1 Nf4 30. Bf1 Bf6 31. g3 Ng6 32. Rxd8+ Qxd8 33. Qd3 Bd4+
+34. Nxd4 cxd4 35. Qb3 Bc6 36. Bd3 Nf8 37. Qb6 Qa8 38. a5 Nd7 39. Qxd4 Bb5 40.
+Nb6 Qxa5 41. Bxb5 1/2-1/2

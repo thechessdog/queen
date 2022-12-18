@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Muller, G."]
+[Black "Gysi, A."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "4d58251c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d5 7. exd5
+Nxd5 8. Nxd5 exd5 9. Bf4 Bb4+ 10. c3 Ba5 11. Nd6+ Kf8 12. Qxd5 Qf6 13. Qd2
+Qe7+ 14. Be2 Be6 15. Nc4 Bxc4 16. Bd6 Re8 17. O-O Bxe2 18. Rfe1 Ba6 19.
+Bxe7+ 1-0
+

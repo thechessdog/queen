@@ -1,0 +1,24 @@
+[Event "Rio Hondo"]
+[Site "Rio Hondo"]
+[Date "1987.01.01"]
+[Round "10"]
+[White "Bronstein, Luis Marcos"]
+[Black "Cifuentes Parada, Roberto"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "12cec526"]
+[Epoch "Queen"]
+[WhiteID "100463"]
+[WhiteCountry "ARG"]
+[BlackID "2253488"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 e6 9. O-O Be7 10. Be3 O-O 11. Qe2 Rfd8 12. Rfd1 b6 13. Rac1 Rac8 14. b3
+Qb7 15. f3 Ne5 16. Kh1 a6 17. a4 Re8 18. Qf2 Bf8 19. Nde2 Nfd7 20. Ng3 Nc5 21.
+Qc2 g6 22. Bd4 Bh6 23. Rb1 Qe7 24. Qe2 Qc7 25. Be3 Bg7 26. Bd4 f6 27. f4 Nc6
+28. Bxc5 dxc5 29. Qg4 f5 30. Qf3 Bxc3 31. Qxc3 Qxf4 32. Rd7 Qe5 33. Qxe5 Nxe5
+34. Rd6 Rc6 35. Rbd1 Kf7 36. Rxc6 Nxc6 37. Rd7+ Re7 38. Rd6 Rc7 39. Kg1 Kf6 40.
+Kf2 Ke5 0-1

@@ -1,0 +1,20 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1985.??.??"]
+[Round "5"]
+[White "Ochsner, Thomas"]
+[Black "Sorensen, Torben"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[HashCode "57a3432b"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1463357"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 Nd7 6. Nxf7 Kxf7 7. Qh5+ Ke6
+8. c4 N5f6 9. d5+ Kd6 10. Qf7 Nb8 11. c5+ Kd7 12. Bb5+ c6 13. dxc6+ bxc6 14.
+O-O Qe8 15. Rd1+ Kc7 16. Bf4+ Kb7 17. Ba6+ 1-0

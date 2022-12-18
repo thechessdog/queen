@@ -1,0 +1,19 @@
+[Event "Szirak"]
+[Site "Szirak"]
+[Date "1985.01.01"]
+[Round "12"]
+[White "Petran, Pal"]
+[Black "Adorjan, Andras"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "7ba9c956"]
+[Epoch "Queen"]
+[WhiteID "700304"]
+[WhiteCountry "HUN"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 dxc4 7. Ne5 Bb4+ 8. Bd2
+cxb3 9. Nc6 b2 10. Nxb4 bxa1=Q 11. Bc3 Qxc3+ 12. Nxc3 c6 0-1

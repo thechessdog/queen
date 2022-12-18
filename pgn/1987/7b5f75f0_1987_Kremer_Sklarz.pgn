@@ -1,0 +1,17 @@
+[Event "Bot"]
+[Site "Bot"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kremer, H."]
+[Black "Sklarz, Gerd"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "7b5f75f0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Qf3 Nge7 7. Ne2 Be6 8.
+Nf4 Qd7 9. Nxe6 fxe6 10. Qh3 O-O-O 11. O-O e5 12. Qxd7+ Kxd7 13. dxe5 Nxe5 14.
+Be2 Rde8 15. f4 Bc5+ 16. Kh1 Nf7 17. Nd2 Nf5 18. Bg4 g6 19. Nb3 Bb6 20. Bd2 Re7
+21. Rae1 Rhe8 22. Rxe7+ Rxe7 23. Re1 Rxe1+ 24. Bxe1 1/2-1/2

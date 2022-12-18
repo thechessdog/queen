@@ -1,0 +1,21 @@
+[Event "Almada"]
+[Site "Almada"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Pereira, Alvaro"]
+[Black "Hodgson, Julian M"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "cdbeafdd"]
+[Epoch "Queen"]
+[WhiteID "1900242"]
+[WhiteCountry "POR"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Ne2 Re8 9. Qc2 g6 10. h4 Be6 11. h5 f5 12. Bh6 g5 13. Bxf5 Qf6 14. Bxh7+ Kh8
+15. Bg6 Bc4 16. Bd3 Bxd3 17. Qxd3 Qxh6 18. O-O-O Nd7 19. Rde1 Nf6 20. Ng3 Bxg3
+21. Qxg3 g4+ 22. Kb1 Ne4 23. Qxg4 Nxf2 24. Rxe8+ Rxe8 25. Qd7 Qe3 0-1

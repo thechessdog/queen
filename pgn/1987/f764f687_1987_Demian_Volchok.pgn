@@ -1,0 +1,21 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Demian, V."]
+[Black "Volchok, A."]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "f764f687"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d6 6. Nc3 Nc6 7. Rb1 Bf5 8.
+d3 Qd7 9. b4 a6 10. b5 axb5 11. cxb5 Na5 12. Re1 d5 13. Qc2 d4 14. Na4 Nd5
+15. Bd2 Qd6 16. e4 dxe3 17. fxe3 Nb6 18. e4 Bg4 19. Bb4 Qd7 20. Nc3 c5 21.
+bxc6 Nxc6 22. Bc5 Bxf3 23. Bxb6 Bxg2 24. Kxg2 Bxc3 25. Qxc3 Rxa2+ 26. Bf2
+Rfa8 27. Red1 Nd4 28. Rb2 Ne2 29. Qb3 Nf4+ 30. Kg1 Ra1 31. Rbb1 R8a3 32.
+Qb4 Rxd3 33. Rxd3 Rxb1+ 34. Qxb1 Qxd3 35. Qxd3 Nxd3 36. Be3 f6 37. Kf1 Kf7
+38. Ke2 Ne5 39. h3 b5 40. Bc5 Nc6 0-1
+

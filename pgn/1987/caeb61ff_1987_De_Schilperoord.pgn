@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Groot, Pieter"]
+[Black "Schilperoord"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "caeb61ff"]
+[Epoch "Queen"]
+[WhiteID "1014498"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. a3 d6 6. Qc2 Bf5 7. Nc3 Nxf2 8.
+Qxf5 Nxh1 9. e6 fxe6 10. Qxe6+ Qe7 11. Qd5 h6 12. g3 O-O-O 13. Nh4 Qf6 14. Qxh1
+g5 15. Bh3+ Kb8 16. Nf5 Rg8 17. Qd5 Ne7 18. Nxe7 Bxe7 19. Be3 Qe5 20. Bd4 Qxd5
+21. Nxd5 1-0

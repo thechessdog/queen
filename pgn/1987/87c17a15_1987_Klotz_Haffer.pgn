@@ -1,0 +1,20 @@
+[Event "Porz"]
+[Site "Porz"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klotz"]
+[Black "Haffer"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "87c17a15"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. Bb5+ Bd7
+8. Nge2 a6 9. Bc4 b5 10. Bb3 c5 11. dxc6 Bxc6 12. Nd4 Bd7 13. Nd5 e5 14.
+O-O Bc5 15. Nxf5 Bxf5 16. Qh5 Qd7 17. Bxe5 Bg4 18. Qg5 Be7 19. Qe3 Nxe5 20.
+Qxe4 Nc6 21. Nb6 Nf6 22. Qe3 Qa7 23. Nxa8 Qxa8 24. Rfe1 Qa7 25. Qg5 Rf8 26.
+Qd2 Qd4 27. Rxe7+ Kxe7 28. Qg5 Kd6 29. h3 Ne4 30. Qxg4 Rxf2 31. Kh1 Rf6 32.
+Kh2 Ne5 33. Qh4 g5 34. Qe1 Rf2 35. Rd1 Nf3+ 36. Kh1 Ng3# 0-1
+

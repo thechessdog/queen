@@ -1,0 +1,18 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Debertshaeuser, Joern"]
+[Black "Zink, M."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "f97748df"]
+[Epoch "Queen"]
+[WhiteID "4622251"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Bf5 6. Qb3 Nc6 7. cxd5 Bd7 8.
+dxc6 Bxc6 9. Bb5 Qd7 10. Nf3 Bxb5 11. Qxb5 Rc8 12. Qxd7+ Nxd7 13. Bf4 g6 14.
+O-O Bg7 15. Rfe1 e6 16. Bd6 Rc6 17. Nb5 Nb6 18. Ne5 1-0

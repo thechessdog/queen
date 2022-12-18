@@ -1,0 +1,23 @@
+[Event "Hofheim"]
+[Site "Hofheim"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Buchal, Stephan"]
+[Black "Wendel, Stephan"]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "8406036a"]
+[Epoch "Queen"]
+[BlackID "4606760"]
+[BlackCountry "GER"]
+[WhiteID "4603915"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Be6 10. O-O-O Ne5 11. h4 b5 12. g5 Nh5 13. Bxb5 Qa5 14. Na4 Qc7 15.
+b3 Rab8 16. Be2 Bd7 17. Nb2 Ng3 18. Rhg1 Nxe2+ 19. Qxe2 Rfc8 20. Kb1 a5 21. a4
+Rb4 22. Rg2 Qb7 23. Ka2 Nc4 24. Nxc4 Rcxc4 25. Qxc4 Rxc4 26. bxc4 Qb4 27. Nb3
+Qxa4+ 28. Kb1 Qxc4 29. Bd4 Bxd4 30. Nxd4 e5 31. Nb3 a4 32. Nc1 Qb4+ 33. Ka1
+Qc3+ 34. Kb1 a3 0-1

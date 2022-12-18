@@ -1,0 +1,18 @@
+[Event "Banholt-Extern"]
+[Site "Banholt-Extern"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Souren, E."]
+[Black "La Gasse"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "c198f52b"]
+[Epoch "Queen"]
+
+1. d4 e5 2. dxe5 Qe7 3. Nf3 Nc6 4. e3 Nxe5 5. Nxe5 Qxe5 6. Nd2 d5 7. Nf3
+Qd6 8. Bd2 Nf6 9. Bc3 Bg4 10. Be2 c6 11. O-O Be7 12. Be5 Qe6 13. Bc3 Ne4
+14. Bxg7 Rg8 15. Bc3 Bh3 16. Ne1 Qf5 17. Bd3 Bh4 18. f3 Bxe1 19. Qxe1 Bxg2
+20. Bxe4 Bxf3+ 0-1
+

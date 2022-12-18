@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Quinque"]
+[Black "Fauth"]
+[Result "1-0"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "6d32ab03"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Bb7 8.
+f3 Nc6 9. Ne2 O-O 10. e4 Ne8 11. O-O Rc8 12. d5 Na5 13. Ng3 Ba6 14. Qe2 Nd6
+15. e5 Ndxc4 16. d6 f5 17. f4 b5 18. Rb1 Rb8 19. Qf2 Qc8 20. Nh5 Kh8 21. g4
+Qc6 22. gxf5 Bb7 23. Qg3 Rf7 24. fxe6 dxe6 25. Re1 g5 26. Qh3 Rg8 27. Be4
+gxf4+ 28. Kf2 Qxe4 29. Rxe4 Bxe4 30. Qxe6 Rff8 31. Nf6 Rg2+ 32. Kf1 Ne3+
+33. Bxe3 fxe3 34. Qe7 Rf2+ 35. Ke1 Rg8 36. Nxg8 Bd3 37. Qf6+ Rxf6 38. Nxf6
+Nc6 39. e6 Ne5 40. Rb2 e2 41. Rxe2 1-0
+

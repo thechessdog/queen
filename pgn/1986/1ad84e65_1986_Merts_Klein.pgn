@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Merts, H."]
+[Black "Klein, G."]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "1ad84e65"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 d5 7. cxd5 Nxd5
+8. Nxd5 Qxd5 9. e4 Qc6 10. Nd4 Bxd4 11. Bb5 Qxb5 12. Qxc8+ Ke7 13. Qxh8
+Qb4+ 14. Bd2 Bxf2+ 15. Ke2 Qxe4+ 16. Kxf2 Qf5+ 17. Ke1 Qe4+ 18. Kd1 Qg4+
+19. Kc2 1/2-1/2
+

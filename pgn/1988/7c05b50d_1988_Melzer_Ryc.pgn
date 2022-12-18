@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Melzer"]
+[Black "Ryc"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "7c05b50d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. d5 Na5 11. h3 Nxb3 12. axb3 Bd7 13. Bg5 h6 14. Bxf6
+Bxf6 15. Nbd2 g6 16. Nh2 Bg7 17. f4 exf4 18. Qf3 g5 19. Re2 Qb8 20. b4 a5
+21. bxa5 b4 0-1
+

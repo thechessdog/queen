@@ -1,0 +1,17 @@
+[Event "URS-ch sf"]
+[Site "Lvov"]
+[Date "1986.01.01"]
+[Round "43"]
+[White "Doroshkievich, Vladimir K"]
+[Black "Karpeshov, Oleg"]
+[Result "0-1"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "2c053412"]
+[Epoch "Queen"]
+[BlackID "4106814"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. Ng5 f6 8. e6
+fxg5 0-1

@@ -1,0 +1,22 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Klaric, Zlatko"]
+[Black "Gasic, Bozidar"]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "d05f4b64"]
+[Epoch "Queen"]
+[WhiteID "14500248"]
+[WhiteCountry "CRO"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 c5 4. e3 Nc6 5. c3 Qb6 6. Qb3 c4 7. Qc2 Bf5 8. Qc1
+h6 9. Bf4 Rc8 10. h3 e6 11. Nbd2 Be7 12. Be2 Qd8 13. Bd1 b5 14. Bc2 Bxc2 15.
+Qxc2 Bd6 16. Bxd6 Qxd6 17. O-O O-O 18. e4 dxe4 19. Nxe4 Nxe4 20. Qxe4 b4 21.
+Rac1 bxc3 22. Rxc3 Nb4 23. Ne5 Nxa2 24. Rg3 f5 25. Qh4 Kh7 26. Ra1 c3 27. bxc3
+Nxc3 28. Qh5 Rc7 29. Qg6+ Kh8 30. Rxc3 Rxc3 31. Qf7 Rfc8 32. Rxa7 Rc1+ 33. Kh2
+R1c7 34. Rxc7 Rxc7 35. Qe8+ Kh7 36. f4 Re7 37. Qa4 Qd8 38. h4 Qe8 39. Qd1 g6
+40. Qc2 Qd8 41. Qc5 Re8 42. Qa3 Qxh4+ 0-1

@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Westerinen, Heikki M.J."]
+[Black "Welin, Thomas"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "3cca5249"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1700324"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. Qd3 dxe4 7. Qxe4 Nf5 8.
+Bf4 Nd7 9. O-O-O Nf6 10. Qe5 c6 11. h3 O-O 12. g4 Ne7 13. Qd6 Nfd5 14. Qxd8
+Rxd8 15. Bg3 Nxc3 16. Nxc3 Bxc3 17. bxc3 b6 18. Bc4 Nd5 19. Kb2 Bb7 20. Rhe1
+Rac8 21. Bf1 b5 22. c4 bxc4 23. Bxc4 c5 24. dxc5 Rxc5 25. Bb3 Rdc8 26. Rd2 Nb6
+27. Rd4 a5 28. a4 Bd5 29. Re2 h6 30. Red2 Nc4+ 31. Bxc4 Rxc4 32. f4 Rb8+ 33.
+Ka3 Rc3# 0-1

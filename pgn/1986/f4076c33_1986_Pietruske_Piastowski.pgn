@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pietruske"]
+[Black "Piastowski"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "f4076c33"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nc2 Bc5 7. Nc3 d6 8.
+Qd3 Be6 9. Be2 Nge7 10. Qg3 O-O 11. Bh6 Ng6 12. Be3 Nd4 13. Bxd4 exd4 14.
+Nd5 Bxd5 15. exd5 Re8 16. Kf1 Qa5 17. a3 d3 18. Bxd3 Qd2 19. b4 Ba7 20. Bf5
+Re5 0-1
+

@@ -1,0 +1,31 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Plachetka, Jan"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "331f3e2c"]
+[Epoch "Queen"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteCountry "HRV"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Nxd4 9. Qxd4 Bc5 10. Qd3 O-O 11. Bg5 b5 12. Rad1 Bb7 13. Bxf6 gxf6 14. Qxd7
+Rac8 15. Qd3 Rfd8 16. Qh3 b4 17. Qg4+ Kh8 18. Na4 Be7 19. b3 Qxc2 20. Nb6 Rc5
+21. Bc4 Rg5 22. Qe2 Qxe2 23. Bxe2 f5 24. Nc4 Bxe4 25. Rxd8+ Bxd8 26. f3 Bd5 27.
+Rd1 f4 28. Nd6 Kg7 29. Bxa6 Bb6 30. Ne4 Re5 31. Bd3 Be3 32. h3 Bc6 33. Nd6 Ra5
+34. Bb1 h5 35. Nc4 Rd5 36. Rxd5 Bxd5 37. Ne5 f5 38. Nd3 Bd2 39. Kg1 Kf6 40. Kf1
+e5 41. Ke2 Bc3 42. Bc2 Bc6 43. h4 Bb5 44. Kd1 Ke6 45. Nf2 Bd7 46. Bd3 Kd5 47.
+Ke2 Bc8 48. Bc4+ Kd4 49. Nh3 Bd7 50. Ba6 Bb2 51. Kd2 Bc6 52. Ke2 Bc1 53. Ng5 e4
+54. Bc4 Be3 55. Ne6+ Ke5 56. Nd8 Bd7 57. Nf7+ Kf6 58. Ng5 Bc6 59. Ne6 Bd7 60.
+Nf8 Bc8 61. Nh7+ Ke5 62. Nf8 Kf6 63. Nh7+ Ke7 64. Ng5 Bb7 65. Nh3 Kf6 66. Bb5
+Ke5 67. Ng5 Bc5 68. Bc4 Be7 69. Nf7+ Kd4 70. Ng5 Bxg5 71. hxg5 Ke5 72. Kf2 h4
+73. Ke2 Bc6 74. Kf2 Be8 75. Ke1 Bh5 76. Be2 Bf7 77. Bc4 Bg6 78. Kd2 Kd4 79. Be2
+Bf7 80. Bf1 Ke5 81. Be2 Bd5 82. Ke1 Bf7 83. Bc4 Bh5 84. Be2 Ke6 85. Bc4+ Ke7
+86. Bd5 h3 87. gxh3 Bxf3 88. h4 Bh5 89. Kd2 Kd6 90. Bg8 Bg6 91. a4 bxa3 92. b4
+f3 0-1

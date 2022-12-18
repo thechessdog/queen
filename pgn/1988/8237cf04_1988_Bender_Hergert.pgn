@@ -1,0 +1,17 @@
+[Event "Saarbrucken"]
+[Site "Saarbrucken"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bender"]
+[Black "Hergert"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "8237cf04"]
+[Epoch "Queen"]
+
+1. Nc3 d6 2. f4 e5 3. fxe5 Nc6 4. exd6 Bxd6 5. Nf3 g5 6. g3 g4 7. Nh4 Nge7
+8. d4 Ng6 9. Ng2 h5 10. e4 h4 11. e5 Be7 12. Bb5 hxg3 13. d5 Rxh2 14. Rg1
+Nxe5 15. dxc6 Nf3+ 16. Kf1 Qxd1+ 17. Nxd1 bxc6 18. Bxc6+ Bd7 19. Bxf3 gxf3
+20. Nf4 Bb5+ 21. Nd3 Bh4 22. Ne3 Rxc2 23. Nxc2 Bxd3+ 24. Ke1 f2+ 0-1
+

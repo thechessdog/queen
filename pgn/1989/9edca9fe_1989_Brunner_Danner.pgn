@@ -1,0 +1,26 @@
+[Event "Bohemians"]
+[Site "Bohemians"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Danner, Georg"]
+[Result "1-0"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "9edca9fe"]
+[Epoch "Queen"]
+[WhiteID "1300024"]
+[WhiteCountry "SUI"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. Nf3 Nf6 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 d6 10. Qd3 Qa5 11. Bd2 Bf5 12. e4 Be6 13. Nd5 Qd8 14. Rac1 a6
+15. b4 Rc8 16. a4 b6 17. Rc2 Nd7 18. Rb1 Ne5 19. Qb3 Nc6 20. Rcc1 Bd4 21. Qd3
+f5 22. Nf4 fxe4 23. Bxe4 Bf5 24. b5 axb5 25. cxb5 Bxe4 26. Qxe4 Ne5 27. Ne6
+Rxc1+ 28. Rxc1 Qa8 29. Qxa8 Bxf2+ 30. Kg2 Rxa8 31. Kxf2 Nd3+ 32. Kf3 Nxc1 33.
+Bxc1 Kf7 34. Ng5+ Kf6 35. Nxh7+ Kf5 36. g4+ Ke5 37. Bf4+ Kd5 38. Be3 Rxa4 39.
+Nf8 e5 40. Nxg6 Ke6 41. h4 d5 42. h5 Kf6 43. Bxb6 Ra3+ 44. Kf2 e4 45. Be3 Ra4
+46. g5+ Kf5 47. Ne7+ Kg4 48. g6 Ra2+ 49. Ke1 Kf3 50. g7 Kxe3 51. Nxd5+ Kd4 52.
+g8=Q Ra1+ 53. Kf2 e3+ 54. Nxe3 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lukats"]
+[Black "Kolegov"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "ca3b9488"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nc6 7. g4 Nxd4 8.
+Qxd4 e5 9. Qd3 Be7 10. g5 Nd7 11. h4 b5 12. Be3 Nc5 13. Qe2 Be6 14. Qf3 O-O
+15. O-O-O Qa5 16. Kb1 Rac8 17. Bh3 Na4 18. Nxa4 Bxa2+ 19. Kc1 Qxa4 20. Bxc8
+Rxc8 21. c3 b4 22. Kd2 bxc3+ 23. bxc3 Rxc3 24. Kxc3 d5 0-1
+

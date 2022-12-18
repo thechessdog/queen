@@ -1,0 +1,17 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kharitonov, A."]
+[Black "Sariego, Wilfredo"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "7671e3e8"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+[BlackCountry "CUB"]
+
+1. Nf3 d5 2. d4 Nc6 3. Bf4 Bf5 4. e3 e6 5. Be2 Bd6 6. c3 Nge7 7. Nbd2 O-O 8.
+O-O Ng6 9. Bg3 Bxg3 10. hxg3 e5 11. dxe5 Ncxe5 12. Qb3 c6 13. Nd4 Bc8 14. c4 c5
+15. N4f3 dxc4 16. Nxc4 Be6 17. Qc3 Nxc4 18. Bxc4 Bxc4 19. Qxc4 Qe7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tippach"]
+[Black "Kobs, S."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "55e9f4a8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 4. Nb5 Na6 5. e3 c6 6. Nc3 Bg7 7. Bxa6 bxa6
+8. Nf3 O-O 9. h3 Bb7 10. g4 Rc8 11. Na4 Nd7 12. Ne5 Nxe5 13. Bxe5 Bxe5 14.
+dxe5 c5 15. f3 Qa5+ 16. Nc3 d4 17. exd4 cxd4 18. Qxd4 Rfd8 19. Qe3 Rc5 20.
+O-O Rxe5 21. Ne4 f5 22. gxf5 gxf5 23. Qg5+ Kh8 24. Nc3 Rg8 25. Qxg8+ Kxg8
+26. Kh2 Qc7 27. f4 Re3 28. Rf2 Rf3 29. Rg2+ Kf7 30. Ne2 Rxf4 31. Nxf4 Qxf4+
+32. Kg1 Qf3 33. Rf2 Qh1# 0-1
+

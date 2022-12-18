@@ -1,0 +1,21 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Trefzer, Erhard"]
+[Black "Scheidegger, Urs"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "114cdf37"]
+[Epoch "Queen"]
+[WhiteID "4682491"]
+[WhiteCountry "GER"]
+[BlackID "1308998"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qh5+
+g6 9. Qd1 Nc6 10. Nf3 Nge7 11. Be2 b6 12. a4 Na5 13. h4 Bd7 14. Bg5 c4 15. Bf6
+Rg8 16. h5 Nac6 17. hxg6 Nxg6 18. Rxh7 Nce7 19. Nh4 Qc6 20. Nxg6 Nxg6 21. Bh5
+Kf8 22. Qd2 f4 23. Qxf4 1-0

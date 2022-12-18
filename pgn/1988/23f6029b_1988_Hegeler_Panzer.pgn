@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hegeler, Frank"]
+[Black "Panzer, Peter, Dr."]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "23f6029b"]
+[Epoch "Queen"]
+[WhiteID "4606485"]
+[BlackID "4604504"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 Nh5 8. Nh2 a5
+9. Be2 Nf4 10. Bf3 f5 11. h4 fxe4 12. Nxe4 Bf5 13. g3 Nh5 14. Bg5 Qe8 15. Ng4
+Bxe4 16. Bxe4 Nd7 17. O-O Nc5 18. Qe2 1/2-1/2

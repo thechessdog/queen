@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Carlsson, J."]
+[Black "Starace, U."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "0f675f9b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. h4 h5 9. f3 O-O 10. Qd2 d5 11. Nxc6 bxc6 12. e5 Ne8 13. g4 hxg4 14. fxg4
+Bxe5 15. O-O-O Nf6 16. h5 Bxg4 17. hxg6 Bxe2 18. g7 Bh5 19. Bd4 1-0
+

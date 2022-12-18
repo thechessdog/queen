@@ -1,0 +1,17 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Windebank, G."]
+[Black "Thorn, J."]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "f42c0347"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O Bxc3 7. bxc3 Re8
+8. d3 e4 9. Nd4 h6 10. Qc2 exd3 11. exd3 Nxd4 12. cxd4 d5 13. Be3 c6 14. h3
+Bf5 15. Qb3 Qd7 16. Kh2 Re7 1/2-1/2
+

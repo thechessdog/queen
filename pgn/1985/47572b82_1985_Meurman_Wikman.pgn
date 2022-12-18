@@ -1,0 +1,21 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Meurman"]
+[Black "Wikman"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "47572b82"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Qa5+ 10. c3 Nxe4 11. Be3 Rb8 12. Qf3 f5 13. Bd3 b4 14. Nb6
+bxc3 15. O-O cxb2 16. Rad1 Qxa3 17. Nxc8 Qxa2 18. Qxf5 Nc3 19. Nb6 Rxb6 20.
+Qc8+ Kf7 21. Bxb6 Nxd1 22. f4 e4 23. Qf5+ Ke8 24. Bxe4 Qc4 25. Qc8+ Kf7 26.
+Bxc6 b1=Q 27. Be8+ Kf6 28. Bd8+ Be7 29. Bxe7+ Kxe7 30. Re1+ Ne3 31. Qd7+
+Kf6 32. Qd8+ Kf5 33. Rxb1 Qd4 34. Qd7+ Kxf4 35. Qf7+ Nf5+ 36. Kh1 g6 37.
+Bd7 Kg5 1/2-1/2
+

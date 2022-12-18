@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Poulsen, Allan"]
+[Black "Schandorff, Lars"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "ba3e95bf"]
+[Epoch "Queen"]
+[WhiteID "1400533"]
+[WhiteCountry "DEN"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 b5 11. Bxb5 axb5 12. Rhe1 b4 13. Ncb5 Qc4 14. e5 Rxa2
+15. Bxf6 Ra1+ 16. Kd2 Rxd1+ 17. Kxd1 gxf6 18. exd6 Nf8 19. dxe7 Kxe7 20. Qg7
+Qd5 21. Kc1 Bd7 22. g4 Bxb5 23. Nf5+ Ke8 24. Qxf6 Ng6 25. Ng7+ Kd7 26. Rd1 1-0

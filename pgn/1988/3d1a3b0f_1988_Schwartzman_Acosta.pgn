@@ -1,0 +1,18 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schwartzman, Gabriel"]
+[Black "Acosta, Mariano"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "3d1a3b0f"]
+[Epoch "Queen"]
+[WhiteID "2011255"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Nc3 c5 8. dxc5
+Bxc5 9. Ne5 1/2-1/2

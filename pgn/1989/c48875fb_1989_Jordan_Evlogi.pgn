@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jordan"]
+[Black "Evlogi"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "c48875fb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8.
+g4 Be7 9. g5 Nfd7 10. h4 Bb7 11. Bh3 Nc6 12. Bxe6 fxe6 13. Nxe6 Qa5 14.
+Nxg7+ Kf7 15. Nf5 Nde5 16. Nxd6+ Bxd6 17. Qxd6 Nxf3+ 18. Ke2 Nce5 19. Bb6
+Qxc3 20. bxc3 Bxe4 21. Qf6+ Kg8 22. h5 Rf8 23. Qe6+ Rf7 1-0
+

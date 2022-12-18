@@ -1,0 +1,18 @@
+[Event "Saarbrucken"]
+[Site "Saarbrucken"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rennenberg, E."]
+[Black "Hergert, V."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "ec3a90e6"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 Nc6 3. Nf3 g5 4. h3 d6 5. d4 dxe5 6. d5 e4 7. Nxg5 Bd6 8.
+Nxe4 Bf5 9. Nbc3 Qh4+ 10. Nf2 Bg3 11. Be3 Nb4 12. Rc1 O-O-O 13. a3 Nc6 14.
+Qd2 Nf6 15. Bg5 Bxf2+ 16. Kd1 Nxd5 17. Nxd5 Qxg5 18. Qxg5 Rxd5+ 19. Qd2
+Rhd8 0-1
+

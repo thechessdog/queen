@@ -1,0 +1,19 @@
+[Event "Las Palmas op"]
+[Site "Las Palmas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sarmiento, Braulio Alfonso"]
+[Black "Lima, Darcy"]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "cc5a1a7a"]
+[Epoch "Queen"]
+[BlackID "2100045"]
+[BlackCountry "BRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+Bd3 O-O 9. Ne2 b6 10. O-O Ba6 11. Ng3 Bxd3 12. Qxd3 Nc6 13. f3 Rc8 14. Bb2 Qd7
+15. Rad1 cxd4 16. cxd4 Ne8 17. e4 Nd6 18. Rfe1 Ne7 19. Bc1 Nc4 20. e5 Rc6 21.
+Bg5 Nb2 22. Qb5 Nxd1 23. Rxd1 Rc7 24. Qb3 Rfc8 25. f4 Rc3 26. Qb1 Rc2 0-1

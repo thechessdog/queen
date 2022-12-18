@@ -1,0 +1,19 @@
+[Event "Elekes mem"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tseitlin, Mikhail S"]
+[Black "Danner, Georg"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "86252dc1"]
+[Epoch "Queen"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+[WhiteCountry "BLR"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Nf3 c5 5. dxc5 Qa5 6. cxd6 Bxc3+ 7. bxc3 Nc6 8.
+Bd2 exd6 9. c4 Qa3 10. Rb1 Nge7 11. Rb3 Qxa2 12. Qc1 Qa6 13. Qb2 Bg4 14. c5 b5
+15. Bxb5 1-0

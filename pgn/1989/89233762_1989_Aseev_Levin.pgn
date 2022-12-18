@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Aseev, Konstantin N"]
+[Black "Levin, Felix"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Kholmov variation"]
+[HashCode "89233762"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Be6 10. d4 Bxb3 11. axb3 exd4 12. cxd4 d5 13. e5 Ne4 14. Nc3 f5 15.
+exf6 Bxf6 16. Nxe4 dxe4 17. Rxe4 Qd5 18. Rf4 Nb4 19. Rg4 c5 20. Bg5 Rad8 21.
+Bxf6 Rxf6 22. Qe2 Rdf8 23. dxc5 Qxc5 24. Rd1 Nc6 25. Rd7 R8f7 26. Qe8+ Qf8 27.
+Rxf7 1-0

@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wason"]
+[Black "Richter, Kurt"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "dc238693"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 a6 7. f4 g6 8. e5 Nh5
+9. Nf3 b5 10. Be2 Bg4 11. Ng5 h6 12. Bxg4 hxg5 13. Bxh5 gxf4 14. O-O dxe5 15.
+Bg4 f5 16. Qe1 Bg7 17. Bxf4 O-O 18. Bxe5 Re8 19. Bxf5 gxf5 20. Bc7 Qd7 21. Qg3
+b4 22. Rae1 bxc3 23. bxc3 Kh7 24. Qh4+ Kg8 25. Rxe8+ Qxe8 26. Re1 Qf8 27. Re7
+Ra7 28. Qe1 Kh7 29. Qe6 c4 30. d6 1-0

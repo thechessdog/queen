@@ -1,0 +1,18 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cermak"]
+[Black "Vondracek"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "72bee0c0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Bxf6 Bxf6 12. Ndb5 Qa5 13. Qxd6 a6
+14. e5 Nxe5 15. Na3 Rad8 16. Qd2 Bc6 17. Qe2 Rxd1+ 18. Nxd1 Ng6 19. Qe3
+Nxf4 20. Rg1 Rd8 21. Qf2 Bg5 0-1
+

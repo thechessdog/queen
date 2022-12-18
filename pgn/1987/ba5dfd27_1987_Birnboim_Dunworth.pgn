@@ -1,0 +1,25 @@
+[Event "London Peace"]
+[Site "Londen open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Birnboim, Nathan"]
+[Black "Dunworth, Christopher N"]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "ba5dfd27"]
+[Epoch "Queen"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+[BlackID "402800"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Qc2 Nbd7 8. b3
+b6 9. Rd1 Bb7 10. Nc3 Qc8 11. e4 Nxe4 12. Nxe4 dxe4 13. Qxe4 c5 14. d5 Bf6 15.
+Rb1 exd5 16. cxd5 Re8 17. Qc2 Ne5 18. Nd2 Qg4 19. Bb2 Rad8 20. f4 Nd7 21. Bf3
+Qg6 22. Qxg6 hxg6 23. Nc4 Bxb2 24. Rxb2 Nf6 25. Rbd2 Rd7 26. Ne5 Rd6 27. Kf2
+Red8 28. Nc4 R6d7 29. d6 Bxf3 30. Kxf3 Ne8 31. a4 f6 32. Ke4 Kf7 33. Kd5 Nc7+
+34. Kc6 Ne6 35. Rd3 Nd4+ 36. Rxd4 cxd4 37. Rxd4 Ke6 38. Re4+ Kf7 39. Re3 Kf8
+40. b4 Rf7 41. a5 Rc8+ 42. Kd5 bxa5 43. Nxa5 Rc1 44. Nb3 Rc8 45. Nc5 Re8 46. d7
+Rb8 47. Kd6 1-0

@@ -1,0 +1,24 @@
+[Event "DSV-Turnier"]
+[Site "Dresden"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kuczynski, Robert"]
+[Black "Lanc, Alois"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2c47e970"]
+[Epoch "Queen"]
+[WhiteID "1100033"]
+[WhiteCountry "POL"]
+[BlackID "14900041"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 a6 6. Bf1 e5 7. c3 Bg4 8. h3
+Bh5 9. d3 Be7 10. Nbd2 Nf6 11. g4 Bg6 12. Nc4 Nd7 13. Ne3 h5 14. Nf5 hxg4 15.
+hxg4 Bxf5 16. exf5 Nf6 17. g5 Nh7 18. g6 fxg6 19. fxg6 Nf8 20. Qb3 Qd7 21. Qf7+
+Kd8 22. Nh2 Qe6 23. Qxe6 Nxe6 24. Re3 Bg5 25. Rh3 Ke7 26. Be3 Bf4 27. Ng4 Rxh3
+28. Bxh3 Rh8 29. Kg2 d5 30. Rh1 d4 31. cxd4 cxd4 32. Bxf4 Nxf4+ 33. Kg3 Kd6 34.
+f3 Nxd3 35. Rd1 Nf4 36. Bf1 Nxg6 37. Nf2 Nge7 38. Ne4+ Kc7 39. Bh3 g6 40. f4
+exf4+ 0-1

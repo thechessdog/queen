@@ -1,0 +1,25 @@
+[Event "PRC-chT"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Lin, Ta"]
+[Black "Liu, Wenzhe"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b650a1cc"]
+[Epoch "Queen"]
+[WhiteID "8600074"]
+[BlackID "8600112"]
+[WhiteCountry "CHN"]
+[BlackCountry "CHN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Nh5 10. Bxd6 Re8 11. a4 Nd7 12. Bg3 Nb6 13. Nxb6 Qxb6 14. Qd2 f5 15.
+Bh4 Qb4 16. Bg5 f4 17. d6 Re5 18. Be7 Bd7 19. g3 Bc6 20. Rg1 f3 21. e3 Nf6 22.
+Bb5 Nd7 23. g4 a6 24. Bxc6 bxc6 25. Rg3 Nb6 26. Nd1 Qe4 27. Rc1 Ra7 28. Qc2
+Qb4+ 29. Kf1 Rd5 30. Nc3 Qc4+ 31. Kg1 Rd3 32. Rxf3 Bxc3 33. Rf4 Qd5 34. bxc3
+Rd2 35. Qb1 Nd7 36. c4 Qd3 37. Qxd3 Rxd3 38. Rb1 Ra3 39. Re4 Rxa4 40. Bd8 Rb4
+41. Re8+ Kf7 42. Re7+ Kf8 43. Rc1 Ra8 44. Rxd7 Ke8 45. Re7+ Kxd8 46. Rxh7 Rab8
+47. e4 R4b7 48. Rxb7 Rxb7 49. Kg2 1-0

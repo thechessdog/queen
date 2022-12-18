@@ -1,0 +1,17 @@
+[Event "Farum"]
+[Site "Farum"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Erhard, Steen"]
+[Black "Petersen, Bjarne"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "57c095f1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 Nd6 5. Nd2 Nc6 6. c3 Bf5 7. g4 Be6 8.
+Nh3 f6 9. e4 Qd7 10. Rg1 h5 11. Nf4 hxg4 12. exd5 Bxd5 13. Nxd5 Rxh4 14.
+Qe2 gxf3 15. Qxf3 O-O-O 16. O-O-O g5 17. Rg3 Nf5 18. Bh3 Qxd5 19. Qxf5+
+Qxf5 20. Bxf5+ Kb8 0-1
+

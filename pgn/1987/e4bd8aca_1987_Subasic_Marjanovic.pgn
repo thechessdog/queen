@@ -1,0 +1,19 @@
+[Event "Zenica"]
+[Site "Zenica"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Subasic, Ilijas"]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "e4bd8aca"]
+[Epoch "Queen"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. Bd3 h6 12. Qh3 b5 13. a3 Rb8 14. f5 Ne5 15.
+Bd2 b4 16. axb4 Rxb4 17. Rhf1 exf5 18. exf5 Bb7 19. Be2 O-O 20. Rf4 Rxf4 21.
+Bxf4 Rc8 22. Rd2 Ne4 23. Nxe4 Bxe4 24. Bd1 Bf6 25. Kb1 Nc4 0-1

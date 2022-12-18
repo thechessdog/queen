@@ -1,0 +1,17 @@
+[Event "Parijs open II"]
+[Site "Parijs open II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Burgisser, C."]
+[Black "Tchimichkian, V."]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "a211a1d7"]
+[Epoch "Queen"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. g3 b6 5. Nc3 Nxe5 6. Nxe5 Bb7 7. Bh3
+O-O-O 8. Bf4 Bxh1 9. e4 Nf6 10. Qd3 g5 11. Qa6+ Kb8 12. Bxd7 Bxe4 13. Nxe4
+Qb4+ 14. Nc3 Qxb2 15. Nc6+ 0-1
+

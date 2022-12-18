@@ -1,0 +1,17 @@
+[Event "Montone"]
+[Site "Montone"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Manca, Federico"]
+[Black "Rossi, Carlo"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Vistaneckis (Nimzovich) variation"]
+[HashCode "f72880d9"]
+[Epoch "Queen"]
+[WhiteID "800171"]
+[WhiteCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ng8 6. h4 h6 7. Be3 b6 8. Nh3 Ba6
+9. Nf4 Bxf1 10. Kxf1 Qd7 11. Qg4 Bf8 12. Rh3 Ne7 13. h5 Nbc6 1-0

@@ -1,0 +1,19 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "5"]
+[White "Heiduk"]
+[Black "Geyer, Thomas"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "418293a5"]
+[Epoch "Queen"]
+[BlackID "4622260"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Be7 6. d5 d6 7. e4 O-O 8. Bd3
+Nbd7 9. Nd4 e5 10. Nf5 g6 11. Nxe7+ Qxe7 12. Bh6 Rfe8 13. O-O Nh5 14. Qd2 f6
+15. Be3 Ng7 16. g3 g5 17. f4 gxf4 18. gxf4 exf4 19. Rxf4 Ne5 20. Bd4 Kh8 21.
+Rh4 Nf3+ 0-1

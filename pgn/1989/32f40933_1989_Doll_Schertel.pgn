@@ -1,0 +1,18 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Doll, Stefan"]
+[Black "Schertel, Stephan"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "32f40933"]
+[Epoch "Queen"]
+[WhiteID "4632559"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 e6 5. O-O Qc7 6. Re1 d6 7. Bf1 Be7 8. d4
+cxd4 9. Nxd4 a6 10. a4 b6 11. g3 Bb7 12. Bg2 O-O 13. Nb3 Ne5 14. Qd4 Nfd7 15.
+Nd2 Rac8 1/2-1/2

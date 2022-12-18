@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rocca"]
+[Black "Calella"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "0543f1ea"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. f4 Nc6 9. g4 e5 10. Nxc6 bxc6 11. f5 d5 12. g5 d4 13. gxf6 Bxf6 14. Bh6
+dxc3 15. Bxf8 cxb2 16. Rb1 Bh4+ 17. Kf1 Qxf8 18. Rxb2 gxf5 19. Rg1+ Kh8 20.
+Bd3 Qc5 21. Qf3 fxe4 22. Qg2 Bh3 23. Bxe4 Qf2# 0-1
+

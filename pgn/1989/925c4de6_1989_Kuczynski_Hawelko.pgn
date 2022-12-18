@@ -1,0 +1,20 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuczynski, Robert"]
+[Black "Hawelko, Marek"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "925c4de6"]
+[Epoch "Queen"]
+[WhiteID "1100033"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. Nc3 e6 5. O-O Nf6 6. Re1 d6 7. Bxc6+ Qxc6 8.
+d4 Be7 9. d5 Qc7 10. dxe6 Bxe6 11. Ng5 Bg4 12. Qd3 h6 13. Nh3 g5 14. f4 O-O-O
+15. fxg5 hxg5 16. Nxg5 d5 17. e5 c4 18. Qg3 Bc5+ 19. Be3 Rdg8 20. exf6 Qxg3 21.
+hxg3 Bxe3+ 22. Rxe3 Rxg5 23. Nb5 Be6 24. Nd6+ Kb8 25. Rxe6 fxe6 26. Nf7 Rgg8
+27. Nxh8 Rxh8 28. f7 Kc7 29. Rf1 Rf8 30. g4 Kd7 31. g5 Ke7 32. g6 1-0

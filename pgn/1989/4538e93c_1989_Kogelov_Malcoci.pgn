@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kogelov, G."]
+[Black "Malcoci, B."]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "4538e93c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 g5 12. Qc2 Ne5 13. Nc4 Nxc4 14. Bxc4
+Ng4 15. Ne2 Qe7 16. Ng3 a6 17. Ra3 Ne5 18. f4 gxf4 19. Rxf4 Nxc4 20. Qxc4
+Be5 21. Nf5 Bxf5 22. Rxf5 Bd4+ 23. Kh1 Qxe4 24. Rg3+ Kh8 25. Qf1 Qxf5 0-1
+

@@ -1,0 +1,20 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Petersen, Holger"]
+[Black "Becker, Sonke"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "7129ad42"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 Ng4
+8. f3 Nxe3 9. Qxe3 Qb6 10. Bb5+ Bd7 11. O-O-O Bxb5 12. Ncxb5 O-O 13. Qd3
+Nc6 14. Nxc6 bxc6 15. Nd4 Rfb8 16. Nb3 a5 17. a4 Qb4 18. e5 Bxe5 19. Qe4
+Qxe4 20. fxe4 Rb4 21. Rhf1 Rxe4 22. Rf3 Rxa4 23. Rdf1 f5 24. h3 Rb4 25. g4
+fxg4 26. hxg4 Rxg4 27. c3 g5 28. Nd2 Bf4 29. R1f2 e5 30. Kc2 Bxd2 31. Kxd2
+Rf4 0-1
+

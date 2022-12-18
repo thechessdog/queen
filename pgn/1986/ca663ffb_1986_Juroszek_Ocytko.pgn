@@ -1,0 +1,21 @@
+[Event "Warsaw op"]
+[Site "Warsaw op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Juroszek, Tadeusz"]
+[Black "Ocytko, Andrzej"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ca663ffb"]
+[Epoch "Queen"]
+[WhiteID "1100300"]
+[WhiteCountry "POL"]
+[BlackID "1101242"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. Nf5 exf5 13. Qxg7 Rf8 14. Bg5 b4 15.
+Bxf6 bxc3 16. Bxe7 Kxe7 17. Qg5+ Ke8 18. exf5 Bc6 19. Rfe1+ Be4 20. Qh4 Kd7 21.
+Rxe4 cxb2 22. Qe7+ Kc6 1-0

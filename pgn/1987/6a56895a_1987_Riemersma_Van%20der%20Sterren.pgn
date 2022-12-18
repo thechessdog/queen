@@ -1,0 +1,24 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Riemersma, Liafbern"]
+[Black "Van der Sterren, Paul"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "6a56895a"]
+[Epoch "Queen"]
+[BlackID "1000071"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Bd3 Rfe8 16. Re2 Nc6 17. Rc2 Qb7 18. d5 Nb4 19. Rxc8 Rxc8 20. Bb1 Qc7 21. Bg5
+Nc2 22. Bxc2 Qxc2 23. Qxc2 Rxc2 24. Rb1 h6 25. Ne3 Rc8 26. Bxf6 Bxf6 27. Kf1 g6
+28. Ke2 h5 29. h4 Bd8 30. g3 f5 31. Nd2 Bb6 32. Kd3 b4 33. f3 Bb5+ 34. Nec4 Bf2
+35. b3 Bxg3 36. exf5 Rc5 37. Rg1 Rxd5+ 38. Kc2 Bxh4 39. Rxg6+ Kf8 40. Nxd6 Bd3+
+41. Kc1 Bg3 42. N2e4 Bf4+ 43. Kb2 Bxe4 44. Nxe4 h4 45. Rf6+ Kg7 46. Rg6+ Kf8
+47. Rf6+ Kg7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr EUR jub"]
+[Site "corr EUR jub"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Deloras"]
+[Black "Boudou"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "1fc27ad2"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 h5 6. d4 g4 7. Nh4 Nc6 8.
+c3 Be7 9. Ng2 h4 10. Bf4 hxg3 11. Bxg3 Nf6 12. Qd3 Nh5 13. e4 Nxg3 14. Qxg3
+Rh3 15. Qf2 g3 16. Qg1 Qd6 17. e5 Qh6 18. Ne3 g2 19. Nxg2 Qc1+ 20. Ke2 Bg4+
+21. Kf2 Rf3+ 22. Ke2 Rxf1+ 0-1
+

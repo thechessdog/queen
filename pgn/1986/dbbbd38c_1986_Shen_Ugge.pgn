@@ -1,0 +1,20 @@
+[Event "corr NAICCC"]
+[Site "corr NAICCC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shen, E."]
+[Black "Ugge, Alexander"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "dbbbd38c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Qe1 Nd4 10. Nxd4 Bxd4+ 11. Be3 Nc6 12. Nd1 Bg7 13. g4 f5 14.
+gxf5 exf5 15. c3 Rb8 16. Qg3 Ne7 17. Nf2 b6 18. Rad1 Be6 19. h4 Bxa2 20.
+Ra1 Be6 21. Rxa7 Nc8 22. Ra3 d5 23. e5 d4 24. cxd4 cxd4 25. Bd2 Bd5 26. Bb4
+Re8 27. Nh3 Bxg2 28. Kxg2 Ne7 29. Bxe7 Qxe7 30. Rfa1 Bf8 31. Ra4 Rec8 32.
+Qf2 Rc5 0-1
+

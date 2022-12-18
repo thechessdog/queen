@@ -1,0 +1,27 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Valkesalmi, Kimmo"]
+[Black "Raaste, Eero J."]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Keres variation"]
+[HashCode "ca07cb1d"]
+[Epoch "Queen"]
+[BlackID "500097"]
+[BlackCountry "FIN"]
+[WhiteID "500054"]
+[WhiteCountry "FIN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. a4 a5 8. Bf4
+O-O 9. Qe2 Nc6 10. c3 Bg4 11. Nbd2 Qd7 12. h3 dxe5 13. dxe5 Be6 14. Bc2 Nd5 15.
+Bh2 f6 16. exf6 exf6 17. O-O Rfe8 18. Qb5 Ne5 19. Qxd7 Nxd7 20. Rfe1 Nc5 21.
+Nd4 Bf7 22. Nb5 Rac8 23. Ne4 Na6 24. Nd2 Bh6 25. Nb3 b6 26. N3d4 Bf4 27. Na7
+Bxh2+ 28. Kxh2 Ra8 29. Nac6 Kf8 30. Red1 Nc5 31. Re1 Rxe1 32. Rxe1 Re8 33.
+Rxe8+ Kxe8 34. b4 axb4 35. cxb4 Na6 36. b5 Nab4 37. a5 Nxc6 38. Nxc6 bxa5 39.
+Nxa5 Nb6 40. h4 Nc4 41. Nc6 Nd6 42. Bd3 Bc4 43. Bxc4 Nxc4 44. Kg3 Kd7 45. Kf4
+Ke6 46. Nd8+ Kd5 47. h5 Nd6 48. hxg6 hxg6 49. Nc6 g5+ 50. Kg4 Nxb5 51. Na5 Nd4
+52. Kh5 c5 53. Kg6 Nc6 54. Nb3 c4 55. Nd2 c3 56. Nb3 c2 57. Kxf6 Kc4 58. Nc1
+Kc3 0-1

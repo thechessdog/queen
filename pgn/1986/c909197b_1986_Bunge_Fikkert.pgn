@@ -1,0 +1,18 @@
+[Event "Utrecht4-Loosdrecht"]
+[Site "Utrecht4-Loosdrecht"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bunge, Lucas"]
+[Black "Fikkert, T."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "c909197b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c6 4. e5 Bb4 5. Bd3 h6 6. f4 Ne7 7. Nf3 Nd7 8. Nh4
+c5 9. dxc5 d4 10. a3 Bxc3+ 11. bxc3 dxc3 12. Qg4 O-O 13. O-O Nxc5 14. Rf3
+Kh8 15. Rg3 Rg8 16. Qh5 Qf8 17. f5 Nxd3 18. f6 Nxc1 19. fxe7 Qxe7 20. Rxc1
+Qc5+ 21. Kh1 Kh7 22. Nf3 f6 23. Qg6+ Kh8 24. exf6 Qc7 25. f7 1-0
+

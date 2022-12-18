@@ -1,0 +1,27 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kruppa, Yuri"]
+[Black "Makarov, Marat"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[HashCode "04c15275"]
+[Epoch "Queen"]
+[WhiteID "14100142"]
+[BlackID "4101103"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a4 Qd7 13. Ng5 Re7 14. d5 Na5 15. Ba2
+h6 16. Ngf3 c6 17. b4 Nc4 18. Bxc4 bxc4 19. Nxc4 Qc7 20. dxc6 Qxc6 21. Na5 Qxc3
+22. Bd2 Qc8 23. Qb1 Rc7 24. Ra3 Rb8 25. Rb3 Ba8 26. b5 axb5 27. axb5 Rc5 28. b6
+Bb7 29. Nxb7 Rxb7 30. Be3 Rc2 31. Ra3 Nd7 32. Ra7 Rc6 33. Rxb7 Qxb7 34. Qb5 Nc5
+35. Rb1 Be7 36. Nd2 Bd8 37. Bxc5 dxc5 38. Nc4 Re6 39. f3 Kh7 40. Kh1 h5 41. Rd1
+Bg5 42. Qxc5 h4 43. Nd6 Qb8 44. Qc7 Qa8 45. b7 Rxd6 46. Qxd6 Qxb7 47. Qxe5 Qb3
+48. Qd5 Qc2 49. f4 Be7 50. Ra1 Kh6 51. Ra6+ g6 52. Qe5 f6 53. Qb8 Qc1+ 54. Kh2
+Bd8 55. Rb6 Qe3 56. Rb1 Qd4 57. Qb4 Qxb4 58. Rxb4 Bc7 59. g3 g5 60. Kg2 hxg3
+61. f5 g4 62. hxg4 Kg5 63. Rb7 1-0

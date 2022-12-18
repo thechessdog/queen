@@ -1,0 +1,20 @@
+[Event "Lima"]
+[Site "Lima"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Reyes, Juan"]
+[Black "Balcazar, M."]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "35d550ea"]
+[Epoch "Queen"]
+[WhiteID "3800040"]
+[WhiteCountry "PER"]
+
+1. e4 e6 2. d3 c5 3. Nf3 d5 4. Nbd2 Nc6 5. g3 Be7 6. Bg2 Nf6 7. O-O O-O 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 Ba6 12. N1h2 Rc8 13. Bf4 b4 14. Bh3 Qc7 15. Ng5
+Bxg5 16. hxg5 Nd4 17. c3 bxc3 18. bxc3 Nc6 19. Bf1 Ne7 20. Qh5 Ng6 21. Ng4 Kh8
+22. Rad1 Qc6 23. Bc1 d4 24. Bg2 Qa4 25. Be4 c4 26. Kg2 Rfd8 27. Rh1 Ndf8 28.
+Nf6 1-0

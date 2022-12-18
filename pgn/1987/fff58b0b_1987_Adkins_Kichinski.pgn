@@ -1,0 +1,16 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Adkins, M."]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian gambit"]
+[HashCode "fff58b0b"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. Nf3 e5 6. Nc3 Bc5 7. b3 O-O 8.
+Be2 e4 9. Ng5 Qd4 10. O-O h6 11. Nh3 Bxh3 12. gxh3 Qe5 13. Bg4 Bd6 14. Re1
+Qxh2+ 15. Kf1 Nd4 16. f3 Bg3 0-1

@@ -1,0 +1,22 @@
+[Event "Tallinn-B"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vooremaa, Andres"]
+[Black "Schandorff, Lars"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "8edbb163"]
+[Epoch "Queen"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+[WhiteID "4500083"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 dxc4 7. Ne5 Bb4+ 8. Bd2
+cxb3 9. axb3 Bxd2+ 10. Qxd2 Nd5 11. O-O O-O 12. f4 Bb7 13. e4 Ne7 14. Nc3 Nbc6
+15. Nxc6 Bxc6 16. Rad1 Bb7 17. Qe3 Qd7 18. g4 f5 19. d5 exd5 20. exf5 Rae8 21.
+Qd3 c6 22. Rfe1 g6 23. fxg6 Nxg6 24. f5 Nf4 25. Qf3 Nxg2 26. Qxg2 Rxe1+ 27.
+Rxe1 Re8 28. Rf1 c5 0-1

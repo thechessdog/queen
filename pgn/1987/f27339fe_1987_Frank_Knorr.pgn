@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Frank"]
+[Black "Knorr, B."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "f27339fe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bxb5 Qxd5 7. Bf1 e4
+8. h4 Bc5 9. c3 h6 10. Bc4 Qxc4 11. Nxf7 Kxf7 12. Qb3 Be6 13. Na3 Bxf2+ 0-1
+

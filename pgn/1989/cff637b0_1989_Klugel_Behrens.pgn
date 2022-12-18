@@ -1,0 +1,17 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Klugel, Jan"]
+[Black "Behrens, Klaus"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "cff637b0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nd7 5. Nf3 cxd4 6. cxd4 Bb4+ 7. Nc3 Ne7 8.
+Bd3 O-O 9. Bxh7+ Kh8 10. Bd3 f6 11. Nh4 Qe8 12. Ng6+ Nxg6 13. Qh5+ Kg8 14.
+Bxg6 1-0
+

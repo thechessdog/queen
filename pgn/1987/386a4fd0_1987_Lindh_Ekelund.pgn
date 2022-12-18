@@ -1,0 +1,18 @@
+[Event "corr SWE/K"]
+[Site "corr SWE/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lindh, B."]
+[Black "Ekelund, K."]
+[Result "0-1"]
+[ECO "A90"]
+[Opening "Dutch defence"]
+[Variation "Dutch-Indian (Nimzo-Dutch) variation"]
+[HashCode "386a4fd0"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+ 5. Nc3 O-O 6. Qb3 c5 7. d5 d6 8.
+Nh3 e5 9. f3 b5 10. cxb5 a6 11. Bd2 axb5 12. Nxb5 Ba6 13. Nc3 Nbd7 14. Nf2
+Rb8 15. e4 fxe4 16. fxe4 Qb6 17. Ncd1 Qa5 18. Bc3 Ng4 19. Nxg4 Bxc3+ 20.
+Qxc3 Rxb2 21. Bf1 Rxf1+ 22. Rxf1 Re2# 0-1
+

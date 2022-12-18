@@ -1,0 +1,21 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Sarosi, Zoltan"]
+[Black "Hartung, Thomas"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "d3d309dd"]
+[Epoch "Queen"]
+[WhiteID "701521"]
+[WhiteCountry "HUN"]
+[BlackID "24668273"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 Nh5 6. Bd2 Nf6 7. e3 O-O 8. Bd3
+dxc4 9. Bxc4 c5 10. O-O b6 11. Qe2 Bb7 12. Rad1 a6 13. dxc5 Bxc5 14. e4 b5 15.
+Bb3 Qc7 16. e5 Ne8 17. Ne4 Be7 18. Rc1 Nc6 19. Bg5 Bxg5 20. Nexg5 h6 21. Qe4 g6
+22. Nxe6 fxe6 23. Qxg6+ Qg7 24. Qxe6+ Kh8 25. Rxc6 Rxf3 26. Qxh6+ 1-0

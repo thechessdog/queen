@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gomez Alonso"]
+[Black "Miras Garcia"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "816e9cc2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 h6 8.
+Bxf6 Qxf6 9. Qxf6 gxf6 10. O-O-O b5 11. a3 Bb7 12. f4 Nd7 13. f5 Ke7 14. g3
+h5 15. Bg2 Bh6+ 16. Kb1 Ne5 17. Rhe1 Ng4 18. fxe6 fxe6 19. Nf5+ Kf8 20.
+Nxh6 Rxh6 21. h3 Ne5 22. Rxd6 Ke7 23. Red1 Rg6 24. Ne2 Rgg8 25. h4 Rad8 26.
+Rxd8 Rxd8 27. Rxd8 Kxd8 28. Nf4 Ke7 29. Nxh5 f5 30. Nf4 Bxe4 31. Bxe4 fxe4
+32. b3 Kf6 33. Kc1 Kf5 34. Kd2 a5 35. Ke3 Ng4+ 36. Ke2 b4 37. a4 Ke5 38.
+Kd2 Nh2 39. Ne2 Nf1+ 40. Ke1 Ne3 41. c4 bxc3 42. Nxc3 Kd4 43. h5 Kxc3 44.
+h6 Nc2+ 45. Ke2 Nd4+ 46. Kf2 e3+ 47. Kg2 e2 48. h7 e1=Q 49. h8=Q Kd3 50.
+Qd8 e5 51. Qd5 Qe4+ 0-1
+

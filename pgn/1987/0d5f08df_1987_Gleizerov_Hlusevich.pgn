@@ -1,0 +1,21 @@
+[Event "Uzhgorod"]
+[Site "Uzhgorod"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gleizerov, Evgeny"]
+[Black "Hlusevich, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "0d5f08df"]
+[Epoch "Queen"]
+[WhiteID "4101332"]
+[BlackID "4104510"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Qb3 Nbd7 8. Nc3
+Nb6 9. c5 Nbd7 10. Qc2 b5 11. b4 a5 12. bxa5 Rxa5 13. Rb1 e5 14. e4 b4 15. Rxb4
+exd4 16. Nxd4 Rxc5 17. Nb3 Rc4 18. Rxc4 dxc4 19. Nd4 Ne5 20. Nce2 Bc5 21. Qc3
+Bg4 1/2-1/2

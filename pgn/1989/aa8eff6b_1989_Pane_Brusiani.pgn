@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pane, A."]
+[Black "Brusiani, A."]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence, 6.Bc4"]
+[HashCode "aa8eff6b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8.
+d4 Nh5 9. Nc3 Ng3 10. Rh2 Nf5 11. Bxf4 Nxh4 12. Bb5+ Kf8 13. Ne4 f6 14.
+Bh6+ Kg8 15. Rxh4 fxe5 16. Rxg4+ Qg5 17. Rxg5+ Kf7 18. Rg7+ Kf8 19. Qf3+
+Bf5 20. Qxf5# 1-0
+

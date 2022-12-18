@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krabbe"]
+[Black "Hirt"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "b0aeffcc"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 Bd6 7. Bg5
+Qf5 8. Bd3 Qa5+ 9. Qd2 Qxd2+ 10. Bxd2 Nd7 11. c4 c5 12. dxc5 Nxc5 13. Bc2
+b6 14. O-O O-O 15. b4 Nd7 16. Rfd1 Rb8 17. Ng5 g6 18. Ne4 Be5 19. Rab1 Nf6
+20. Bh6 Nxe4 21. Bxf8 Nc3 22. Bd6 Bxd6 23. Rxd6 Nxb1 24. Rd8+ Kg7 25. Bxb1
+f5 26. Bc2 a5 27. Ba4 axb4 28. Bc6 Kf6 29. Kf1 Ke7 30. Rh8 Kd6 31. Ba4 Ra8
+32. Bb3 Bb7 33. Rxh7 Be4 0-1
+

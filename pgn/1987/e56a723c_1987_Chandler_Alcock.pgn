@@ -1,0 +1,17 @@
+[Event "corr GBR/K"]
+[Site "corr GBR/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chandler"]
+[Black "Alcock"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "e56a723c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qb3 c5 7. Bg2 Nc6 8.
+O-O Rb8 9. d5 Na5 10. Qc2 Bxd2 11. Bxd2 b5 12. cxb5 Rxb5 13. Ng5 Nb7 14. a3
+Qe7 15. b4 c4 16. a4 1-0
+

@@ -1,0 +1,17 @@
+[Event "Bagneux"]
+[Site "Bagneux"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lipowsky, N."]
+[Black "Forster, R."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "8b017796"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. h3 Bg3 10. Nc3 Ng4 11. Be2 Nf2 12. Bh5+ g6 13. Nxg6 hxg6
+14. Bxg6+ Kd8 15. Qh5 Qf6 0-1
+

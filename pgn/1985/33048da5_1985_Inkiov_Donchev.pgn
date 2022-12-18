@@ -1,0 +1,19 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Inkiov, Ventzislav"]
+[Black "Donchev, Dimitar I."]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Neo-orthodox variation, 7.Bh4"]
+[HashCode "33048da5"]
+[Epoch "Queen"]
+[WhiteID "2900033"]
+[WhiteCountry "FID"]
+[BlackID "2900025"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Nbd7 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 1/2-1/2

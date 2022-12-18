@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Simchen, L."]
+[Black "Roscher, J."]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "1d347c46"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Be3 Bb4+ 7. Nd2
+Qh4+ 8. g3 Qe7 9. Bg2 Na6 10. Ne2 Nc5 11. Qc2 d6 12. Nc3 Bxc3 13. Qxc3 O-O
+14. O-O Bg4 15. b4 Ne6 16. h3 Be2 17. Rfe1 Bh5 18. g4 Nxf4 19. Bxf4 1-0
+

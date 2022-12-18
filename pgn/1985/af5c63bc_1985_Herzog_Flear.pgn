@@ -1,0 +1,17 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Herzog, J."]
+[Black "Flear, Glenn C"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Abrahams variation"]
+[HashCode "af5c63bc"]
+[Epoch "Queen"]
+[BlackID "400165"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 a5 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Qb1 Bxf3 13. gxf3 bxc3 0-1

@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1987.02.01"]
+[Round "1"]
+[White "Arnason, Jon L"]
+[Black "Hjartarson, Johann"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "8df46b01"]
+[Epoch "Queen"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackID "2300044"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Re1 Be6 10. Bf1 Nbd7 11. Nd5 Nxd5 12. exd5 Bf5 13. Bd2 a5 14. a4 Bg5 15.
+c3 Bg6 16. Bb5 Bxd2 17. Qxd2 1/2-1/2

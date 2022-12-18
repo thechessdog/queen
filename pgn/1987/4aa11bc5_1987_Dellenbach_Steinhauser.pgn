@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dellenbach"]
+[Black "Steinhauser"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "4aa11bc5"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. a4 Nf6 13. Nf4 Qd7
+14. a5 Nc8 15. O-O Nd6 16. Re1 Rac8 17. Ra4 Rc7 18. Nd3 Qf5 19. Re3 Rfc8
+20. Ne5 Ng4 21. Rf3 Qb1 22. Nxg4 Qxc1+ 23. Nd1 Rc2 24. Rd3 Nc4 25. Ra1 Qxa1
+26. Qxc2 Qxa5 27. Nge3 Qe1+ 28. Nf1 Nb6 29. Qb3 Qe4 30. Rc3 Rxc3 31. bxc3
+Qxd5 32. Qa3 Nc8 33. Nfe3 Qd6 34. Qb3 Nb6 35. Nb2 e6 36. Na4 Nxa4 37. Qxa4
+a6 38. g3 Qb6 39. Qb3 a5 40. Nc4 a4 0-1
+

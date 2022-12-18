@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Meybohm, Dirk"]
+[Black "Holz, J."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "05798032"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 exf4 4. Bxg7 Qh4+ 5. g3 fxg3 6. Bg2 gxh2+ 7. Kf1
+hxg1=Q+ 8. Kxg1 Qg4 9. Bxh8 f6 10. Nc3 Bxc3 11. dxc3 h5 12. e3 d6 13. Qxg4
+hxg4 14. Bd5 Ne7 15. Bxf6 c6 16. Rh8+ Kd7 17. Rh7 cxd5 18. Rxe7+ Kd8 19.
+Rg7+ Ke8 20. Be7 Nd7 21. Kf2 1-0
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shephard, C."]
+[Black "Stern, W."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "fc136e5b"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 Nxc3 5. bxc3 g6 6. e4 Bg7 7. d4 c5
+8. Bb5+ Nc6 9. O-O cxd4 10. cxd4 O-O 11. Be3 Bg4 12. Bxc6 bxc6 13. Rc1 Qa5
+14. Qd2 Qxd2 15. Nxd2 Rfd8 16. Nb3 a5 17. f3 Be6 18. Nc5 Bxa2 19. Rf2 Be6
+20. Nxe6 fxe6 21. e5 Ra6 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmidt, H."]
+[Black "Neubecker, A."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "b9349e93"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. Nd2 e5 9. Nb3 O-O 10. O-O e4 11. Bc2 Qe7 12. f3 exf3 13. gxf3 Bh3 14.
+Rf2 Rfe8 15. e4 Nh5 16. dxc5 dxc5 17. Qd5 Ne5 18. f4 Qh4 19. fxe5 Re6 20.
+Qd2 Rd8 21. Qxd8+ Qxd8 22. Nxc5 Rg6+ 23. Kh1 Qh4 24. Be3 Ng3+ 0-1
+

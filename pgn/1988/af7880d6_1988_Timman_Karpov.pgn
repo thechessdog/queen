@@ -1,0 +1,20 @@
+[Event "Euwe Memorial"]
+[Site "Amsterdam"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "af7880d6"]
+[Epoch "Queen"]
+[WhiteID "1000012"]
+[WhiteCountry "NED"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d3 e5 3. Nf3 d6 4. d4 Nf6 5. Nc3 Nbd7 6. a4 Be7 7. Bc4 O-O 8. O-O
+Nxe4 9. Bxf7+ Rxf7 10. Nxe4 d5 11. Neg5 Bxg5 12. Bxg5 Qc7 13. Bh4 e4 14. Bg3
+Qd8 15. Ne5 Nxe5 16. Bxe5 Bf5 1/2-1/2

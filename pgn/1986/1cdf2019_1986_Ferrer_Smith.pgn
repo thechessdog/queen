@@ -1,0 +1,23 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ferrer, Lydia"]
+[Black "Smith, Vivian J"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "1cdf2019"]
+[Epoch "Queen"]
+[BlackID "4301935"]
+[BlackCountry "NZL"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. e5 dxe5 6. dxe5 Qxd1+ 7. Nxd1 Ng4 8.
+Bf4 O-O 9. Nc3 c6 10. O-O-O Nxf2 11. Bc4 Nxh1 12. Rxh1 b5 13. Bb3 Na6 14. Be3
+Nc7 15. Rf1 Be6 16. Bxe6 Nxe6 17. Ne4 a5 18. Rd1 Rfd8 19. Rxd8+ Rxd8 20. Nfg5
+Nxg5 21. Bxg5 Bxe5 22. Bxe7 Re8 23. Nf6+ Bxf6 24. Bxf6 Re2 25. Bd8 a4 26. g4
+Rxh2 27. Be7 f5 28. gxf5 gxf5 29. Bb4 Re2 30. b3 axb3 31. axb3 f4 32. Kd1 f3
+33. Bc5 Kf7 34. Kc1 f2 35. Bxf2 Rxf2 36. Kb2 h5 37. Ka3 h4 38. c4 h3 39. cxb5
+cxb5 40. Kb4 h2 41. Kxb5 h1=Q 42. b4 Qd5+ 43. Kb6 Rf6+ 44. Kc7 Rc6+ 45. Kb7
+Qb5+ 0-1

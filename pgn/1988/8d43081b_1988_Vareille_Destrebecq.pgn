@@ -1,0 +1,22 @@
+[Event "Paris op ch"]
+[Site "Paris op ch"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vareille, Francois"]
+[Black "Destrebecq, FA."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "8d43081b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Qd7 10. a4 b6 11. e3 Ba6 12. Rc1 Re8 13. b3 Qe7 14. Be2 Nbd7 15. Qc2
+Qf8 16. O-O h6 17. Bf4 Bxc4 18. bxc4 Ne5 19. h3 Re7 20. Bh2 Ne8 21. e4 Nd7 22.
+Nb5 Be5 23. Bxe5 Nxe5 24. f4 Nd7 25. Bf3 a6 26. Nc3 Rb8 27. Kh2 Qg7 28. g3 f6
+29. Rb1 Kh8 30. Nd1 Nc7 31. Nc3 Rbe8 32. Rf2 Rf8 33. Re2 h5 34. h4 g5 35. Rg2
+Qh6 36. e5 gxf4 37. exd6 Re3 38. dxc7 Rxf3 39. Ne2 fxg3+ 40. Nxg3 Qf4 41. Qe4
+Ne5 42. Qxf4 Rxf4 43. Rb3 Nxc4 44. Rc2 Nd6 45. Rxb6 Nc8 46. Rb8 c4 47. Rcb2 Kh7
+48. d6 c3 49. Rc2 Rd4 50. Nf5 Rd3 51. Kg2 Rd2+ 52. Rxd2 cxd2 53. Ne3 Re8 54. d7
+Rxe3 55. d8=Q 1-0

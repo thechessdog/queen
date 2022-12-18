@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sarran"]
+[Black "Adeline"]
+[Result "1-0"]
+[ECO "A59"]
+[Opening "Benko gambit"]
+[Variation "7.e4"]
+[HashCode "aa63030d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8.
+Kxf1 g6 9. g4 Bg7 10. g5 Nh5 11. Nh3 Qc8 12. Kg2 O-O 13. f4 f5 14. Re1 Bxc3
+15. bxc3 Na6 16. exf5 Rxf5 17. Rxe7 Qf8 18. Qe2 Ng7 19. Bb2 Rf7 20. Re1
+Rxe7 21. Qxe7 Qxe7 22. Rxe7 Nf5 23. Rb7 Rb8 24. Rxb8+ Nxb8 25. Kf3 1-0
+

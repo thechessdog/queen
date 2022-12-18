@@ -1,0 +1,18 @@
+[Event "RLNN 8889"]
+[Site "RLNN 8889"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tomczak, R."]
+[Black "Cording, H."]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "ae850fa5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nc6 5. Bf4 Bf5 6. Nf3 Nge7 7. h3 Ng6
+8. Bh2 Bd6 9. Bd3 Bxd3 10. Qxd3 Bxh2 11. Rxh2 Qe7+ 12. Qe2 Qxe2+ 13. Kxe2
+O-O-O 14. Kd2 Rhe8 15. g3 f6 16. Rhh1 Nce7 17. Rae1 c6 18. Re2 Nf5 19. Rhe1
+Kd7 1/2-1/2
+

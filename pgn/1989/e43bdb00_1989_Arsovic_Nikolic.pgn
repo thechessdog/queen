@@ -1,0 +1,17 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arsovic, Zoran"]
+[Black "Nikolic, Nebosja"]
+[Result "1/2-1/2"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "e43bdb00"]
+[Epoch "Queen"]
+[WhiteID "901679"]
+[WhiteCountry "SRB"]
+
+1. Nf3 d5 2. c4 d4 3. g3 c5 4. b4 cxb4 5. a3 bxa3 6. Bxa3 Nc6 7. d3 e5 8. Qa4
+Bxa3 9. Qxa3 Nf6 10. Bg2 Qe7 11. Nbd2 Qxa3 12. Rxa3 Nd7 1/2-1/2

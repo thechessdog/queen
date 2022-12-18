@@ -1,0 +1,23 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Franzoni, Giancarlo"]
+[Black "King, Daniel J"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "737f02aa"]
+[Epoch "Queen"]
+[WhiteID "1300032"]
+[WhiteCountry "SUI"]
+[BlackID "400068"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 g6 5. Bg2 Nc6 6. d3 Bg7 7. O-O O-O 8. f4
+Rb8 9. h3 Bd7 10. Be3 b5 11. a3 a5 12. a4 bxa4 13. Nxa4 Ne8 14. c3 Nc7 15. Qd2
+Qe8 16. Rfb1 f5 17. Kh2 Kh8 18. e5 Nd8 19. Nxc5 dxc5 20. Bxc5 Bc6 21. d4 Bxg2
+22. Kxg2 Nb7 23. Ba3 Qd7 24. Kh2 Rfc8 25. c4 Na6 26. b3 a4 27. Bc1 Rd8 28. Qc3
+Nbc5 29. dxc5 Qd1 30. Qf3 Rd3 31. Be3 Qc2 32. b4 h5 33. c6 Qxc4 34. Rxa4 Qc2
+35. Rxa6 Qxb1 36. c7 Rf8 37. Rxg6 Qc2 38. Qxh5+ Kg8 39. Bf2 1-0

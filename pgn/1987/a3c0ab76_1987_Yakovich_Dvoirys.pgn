@@ -1,0 +1,17 @@
+[Event "Kursk"]
+[Site "Kursk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Yakovich, Yuri"]
+[Black "Dvoirys, Semen I"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "a3c0ab76"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+b4 9. Na4 Bb7 10. Re1 Be7 11. c3 bxc3 12. Nxc3 O-O 13. f4 Nbd7 14. e5 dxe5 15.
+fxe5 Ne8 16. Nxe6 fxe6 17. Bxe6+ Kh8 18. Qxd7 Bc5+ 19. Be3 Qb6 20. Bxc5 Qxc5+
+21. Kh1 Bxg2+ 22. Kxg2 1/2-1/2

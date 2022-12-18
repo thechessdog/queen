@@ -1,0 +1,19 @@
+[Event "Desisco"]
+[Site "Desisco"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Timman"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "48f1bcdf"]
+[Epoch "Queen"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Qb3 c5 6. a3 Ba5 7. Bf4 Ne4 8. e3
+O-O 9. Bd3 Nxc3 10. bxc3 cxd4 11. exd4 Ba6 12. Bd6 Re8 13. O-O Nc6 14. Qc2 h6
+15. Rfe1 Rc8 16. Re3 Qf6 17. Rae1 Nd8 18. Ne5 Bb7 19. Bb4 Bxb4 20. axb4 Nc6 21.
+Bh7+ Kh8 22. Rf3 1-0

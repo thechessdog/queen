@@ -1,0 +1,22 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sunye Neto, Jaime"]
+[Black "Klinger, Josef"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "7f23d103"]
+[Epoch "Queen"]
+[WhiteID "2100037"]
+[WhiteCountry "BRA"]
+[BlackID "1600010"]
+[BlackCountry "AUT"]
+
+1. c4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 Nf6 5. O-O d5 6. b3 Be7 7. e3 O-O 8. Bb2
+Ne4 9. d3 Bf6 10. Qe2 Bxb2 11. Qxb2 Qf6 12. Qxf6 Nxf6 13. Nc3 d4 14. Na4 Nd7
+15. exd4 cxd4 16. a3 a5 17. Ne1 Rb8 18. Nc2 e5 19. f4 Rd8 20. b4 exf4 21. Rxf4
+axb4 22. axb4 Nde5 23. b5 Ne7 24. Rxd4 Bf5 25. Rxd8+ Rxd8 26. Nb4 Nxd3 27. Rd1
+Rd7 28. Nxd3 Rxd3 29. Rxd3 Bxd3 30. Nb2 1-0

@@ -1,0 +1,22 @@
+[Event "Klaipeda"]
+[Site "Klaipeda"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Bareev, Evgeny"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "9a79c743"]
+[Epoch "Queen"]
+[WhiteID "2805677"]
+[BlackID "4100140"]
+[WhiteCountry "ISR"]
+[BlackCountry "CAN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bg5 O-O 13. Ng3 Bd7 14. Rc1 Qb6 15.
+b3 g6 16. Bb1 Rf7 17. Re1 Ng4 18. h3 Nxf2 19. Kxf2 Nxd4 20. Re3 Raf8 21. Nf1
+Ba3 22. Nd2 e5 23. Ke1 Bb5 24. Bh6 Nxf3+ 25. Nxf3 e4 26. Qxd5 exf3 27. Rc2 fxg2
+28. Rxg2 Bb4+ 29. Kd1 Rd8 0-1

@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sieberg, R."]
+[Black "Schmidt, T."]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "3e84e5a2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. O-O O-O 9. Nb3 Be6 10. f4 Qc8 11. h3 Rd8 12. Nd4 Nxd4 13. Bxd4 Bc4 14.
+f5 d5 15. e5 Ne4 16. f6 exf6 17. exf6 Bf8 18. Bxc4 Qxc4 19. Qd3 Qxd3 20.
+cxd3 Nc5 21. Rfd1 1/2-1/2
+

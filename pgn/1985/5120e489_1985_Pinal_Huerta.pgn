@@ -1,0 +1,16 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pinal, Nelson Borges"]
+[Black "Huerta, Ramon"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "5120e489"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. a3 O-O 13. b4 e5 14. dxe5 Nxe5 15.
+Nfd4 Nfg4 16. h3 1/2-1/2

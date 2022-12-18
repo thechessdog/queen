@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weinitschke"]
+[Black "Ziese"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "8e400d4f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Bg4
+8. h3 Bh5 9. g4 Bg6 10. Qe2 Nd7 11. d4 exd4 12. Nxd4 h5 13. Bf4 hxg4 14.
+hxg4 Bd6 15. e5 Bc5 16. Nf3 Qe7 17. Kg2 O-O-O 18. Ne4 Bb6 19. Rad1 Rde8 20.
+Rh1 Qe6 21. Kg3 Rxh1 22. Rxh1 f6 23. Nc3 fxe5 24. Be3 Bxe3 25. fxe3 e4 26.
+Nh4 Bh7 27. Rf1 g5 28. Nf5 Bxf5 29. gxf5 Qe5+ 30. Kf2 Qxf5+ 31. Ke1 Qh3 32.
+Kd2 g4 33. Rf4 Ne5 34. Nxe4 g3 35. Ng5 Qh1 36. Rg4 Nxg4 37. Qxg4+ Kb8 38.
+Qxg3 Qd5+ 39. Ke2 Rg8 0-1
+

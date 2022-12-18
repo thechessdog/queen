@@ -1,0 +1,21 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Zysk, Robert"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "bd9a92e9"]
+[Epoch "Queen"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackID "4600410"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 c6 5. e3 Bd6 6. Bd3 Nbd7 7. e4 dxe4 8. Nxe4
+Nxe4 9. Bxe4 Bb4+ 10. Bd2 Qa5 11. a3 Bxd2+ 12. Qxd2 Qxd2+ 13. Kxd2 c5 14. dxc5
+Nxc5 15. Bc2 b6 16. b4 Nd7 17. Be4 Rb8 18. Nd4 Bb7 19. Bxb7 Rxb7 20. Rhc1 Ke7
+21. Rc2 Rc8 22. Rac1 Rbc7 23. Nb3 1/2-1/2

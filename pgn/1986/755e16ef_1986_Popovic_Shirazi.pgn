@@ -1,0 +1,25 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Popovic, Petar"]
+[Black "Shirazi, Kamran"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "755e16ef"]
+[Epoch "Queen"]
+[WhiteID "900109"]
+[WhiteCountry "SRB"]
+[BlackID "2000733"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. g3 b6 5. Bg2 Ba6 6. d3 Nc6 7. O-O e6 8. Re1
+Be7 9. c4 Nc7 10. b3 O-O 11. d4 cxd4 12. Nxd4 Nxd4 13. Qxd4 d5 14. exd6 Bf6 15.
+Qf4 Nd5 16. cxd5 Bxa1 17. dxe6 fxe6 18. Qe4 Qf6 19. Qxe6+ Qxe6 20. Rxe6 Rac8
+21. Be3 Bd4 22. Bd5 Kh8 23. d7 Bxe3 24. dxc8=Q Bxf2+ 25. Kg2 Bxc8 26. Re2 Bc5
+27. Nd2 g5 28. Nf3 Ba6 29. Re4 Bd3 30. Rg4 Be3 31. h3 h5 32. Ra4 b5 33. Ra6 g4
+34. hxg4 hxg4 35. Ne5 Bf1+ 36. Kh1 Rf5 37. Nxg4 Bb6 38. Bg2 Be2 39. Nh2 Rf2 40.
+b4 Bc4 41. a3 Ra2 42. Bc6 Ra1+ 43. Kg2 Ra2+ 44. Kh1 Bb3 45. Nf3 Rc2 46. Ne5
+Rxc6 0-1

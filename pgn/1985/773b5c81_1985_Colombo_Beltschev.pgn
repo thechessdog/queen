@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Colombo, A."]
+[Black "Beltschev, B."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "773b5c81"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Nge7 8. h4
+Bd7 9. Bh3 Na5 10. Nbd2 O-O-O 11. O-O h6 12. Rb1 Kb8 13. Re1 Rc8 14. Kg2
+Bb5 15. Nf1 Qc6 16. Qe2 Ba4 17. Ne3 Nb3 18. Kh2 a5 19. Nd2 b5 20. Nxb3 Bxb3
+21. Bd2 Qb7 22. Qf3 g5 23. Qxf7 Bg7 24. Bxe6 Rhf8 25. Qxg7 Rxf2+ 26. Kg1
+Rxd2 27. hxg5 hxg5 28. Bxc8 Qxc8 29. e6 Qxe6 30. Nxc4 1-0
+

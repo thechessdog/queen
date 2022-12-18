@@ -1,0 +1,24 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Gurevich, Dmitry"]
+[Black "Benko, Pal"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "9f2f4b2e"]
+[Epoch "Queen"]
+[WhiteID "2000407"]
+[WhiteCountry "USA"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 O-O 6. Ne2 Re8 7. O-O d5 8. cxd5
+exd5 9. f3 b6 10. a3 Bf8 11. b4 Bb7 12. Bc2 Nb8 13. Rb1 g6 14. Ng3 h5 15. Re1
+Bg7 16. Nh1 Nc6 17. Nf2 a6 18. a4 a5 19. b5 Nb4 20. Bb3 Qd7 21. Ba3 Bf8 22. Bb2
+Rad8 23. e4 dxe4 24. fxe4 Bg7 25. Qf3 Ng4 26. Rbd1 Rf8 27. Na2 Nxa2 28. Bxa2 c6
+29. Nxg4 hxg4 30. Qb3 cxb5 31. axb5 Kh7 32. d5 Bxb2 33. Qxb2 Qd6 34. e5 Qc5+
+35. Qf2 Qxb5 36. Rb1 Qa4 37. d6 Bc8 38. Bxf7 g3 39. Qf6 Bf5 40. Ra1 Qb4 41.
+hxg3 Kh6 42. Rf1 1-0

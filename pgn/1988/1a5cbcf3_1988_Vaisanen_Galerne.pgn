@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vaisanen"]
+[Black "Galerne"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Spielmann variation"]
+[HashCode "1a5cbcf3"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 O-O 7. Qg4 f5 8.
+Qg3 c5 9. Nb5 Nc6 10. Nd6 Bxg5 11. hxg5 cxd4 12. f4 Nc5 13. Qh3 h6 14. gxh6
+Qe7 15. Nf3 gxh6 16. Qxh6 Qg7 17. Qh4 Ne4 18. Rh3 Nxd6 19. Rg3 Ne4 20.
+Rxg7+ Kxg7 21. O-O-O Rh8 22. Qe1 Rh1 23. Nxd4 Nxd4 24. Rxd4 Bd7 25. a4 Rg8
+26. Rd1 b6 27. Qb4 Nc5 28. a5 Rc8 29. Be2 bxa5 30. Qa3 Rhh8 31. g4 1-0
+

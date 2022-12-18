@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Simon"]
+[Black "Maumey"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "1ba22c9c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 O-O 7. e3 d6 8. Bd3
+Bxc3+ 9. bxc3 e5 10. Ne2 Nbd7 11. Qb1 Qc7 12. f4 Ng4 13. O-O Nxe3 14. Rf3
+exf4 15. Nxf4 Ng4 16. Nh5 Nde5 17. Nf6+ Nxf6 18. Rxf6 g6 19. Qc2 b6 20. Re1
+Kg7 21. Rxe5 g5 22. Bxg5 dxe5 23. Qd2 1-0
+

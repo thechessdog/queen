@@ -1,0 +1,18 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zurczak"]
+[Black "Schulz, Jan"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "e1665385"]
+[Epoch "Queen"]
+[BlackID "4606108"]
+[BlackCountry "GER"]
+
+1. Nf3 c5 2. e4 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Be7 7. Qd2 a6 8. f4
+Qc7 9. O-O-O Nbd7 10. Nf3 h6 11. Bh4 b5 12. Bd3 Bb7 13. Rhe1 b4 14. Nb1 Nc5 15.
+e5 dxe5 16. fxe5 b3 17. a3 bxc2 0-1

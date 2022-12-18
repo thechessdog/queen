@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Franke, Heribert"]
+[Black "Fiensch"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "5e8deeef"]
+[Epoch "Queen"]
+[WhiteID "4600576"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 c5 5. Bg2 Nc7 6. Nf3 Nc6 7. O-O e5 8. d3
+Be7 9. Be3 O-O 10. Rc1 Bd7 11. h3 Rc8 12. Kh2 f5 13. Bd2 b6 14. Ng1 f4 15. Nd5
+Nxd5 16. Bxd5+ Kh8 17. Bg2 Bd6 18. Bc3 Nd4 19. Nf3 fxg3+ 20. fxg3 Nf5 21. Nxe5
+Qg5 22. Qe1 Be6 23. e4 Ne3 24. Rxf8+ Rxf8 25. Nf3 Qh6 26. h4 Ng4+ 27. Kg1 Bxg3
+28. Bd2 Bxe1 29. Bxh6 Bf2+ 0-1

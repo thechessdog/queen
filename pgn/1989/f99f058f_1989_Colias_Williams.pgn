@@ -1,0 +1,25 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Williams, Winston"]
+[Result "0-1"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "f99f058f"]
+[Epoch "Queen"]
+[BlackID "5800250"]
+[BlackCountry "SGP"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7 7. e3 c5 8. Bd3
+Nc6 9. O-O Bxc3 10. bxc3 d6 11. Nd2 g5 12. Bg3 h5 13. f3 h4 14. Bf2 h3 15. g3
+Qe7 16. Re1 O-O-O 17. Nb3 Rdg8 18. a4 a5 19. Rb1 Nd7 20. Nd2 f5 21. Kf1 Kc7 22.
+Qe2 Qf6 23. Rb3 e5 24. d5 Ne7 25. Reb1 Ba6 26. Kg1 g4 27. e4 gxf3 28. Nxf3 f4
+29. Kh1 Ng6 30. g4 Rb8 31. g5 Qe7 32. Rg1 Rh7 33. Nd2 Rf8 34. Qf3 Bc8 35. Be2
+Rg8 36. Qd3 Kb7 37. Nf3 Ka7 38. Rgb1 Ngf8 39. R1b2 Ng6 40. Qb1 Ngf8 41. Kg1
+Rxg5+ 42. Nxg5 Qxg5+ 43. Kf1 Qg2+ 44. Ke1 Qxh2 45. Bf3 Rg7 46. Ke2 Rg2 47. Bxg2
+Qxg2 48. Rxb6 Nxb6 49. Rxb6 h2 50. Qb5 Bg4+ 51. Kd3 Qxe4+ 52. Kxe4 h1=Q+ 53.
+Kd3 Qd1+ 54. Ke4 Qf3# 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Olsson, Ake 1936"]
+[Black "Nicklich"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "44df0065"]
+[Epoch "Queen"]
+[WhiteID "1732439"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Bg5 Bb7 11. Qe2 Bxc3 12. bxc3 Nbd7 13. Bh4 Rc8 14. Rac1
+Bxf3 15. gxf3 Re8 16. Ba6 Rc6 17. Bb5 Rc8 18. Kh1 Re7 19. Rg1 Kh8 20. Rxg7 Kxg7
+21. Rg1+ Kh8 22. Qe5 1-0

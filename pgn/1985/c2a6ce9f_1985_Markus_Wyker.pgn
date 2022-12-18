@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Markus"]
+[Black "Wyker"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "c2a6ce9f"]
+[Epoch "Queen"]
+[WhiteID "7106122"]
+[WhiteCountry "INA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. Bg5 Be7 7. Be3 Bf6 8. d5
+Nce7 9. Bxd7+ Qxd7 10. c4 Bg7 11. Nc3 Nh6 12. O-O Ng4 13. Bd2 O-O 14. Qc1 c6
+15. dxc6 bxc6 16. h3 Nf6 17. Re1 Qb7 18. c5 Ne8 19. Na4 Qb5 20. b3 f6 21. cxd6
+Nxd6 22. Nc5 Rf7 23. a4 Qb8 24. b4 f5 25. Ng5 1-0

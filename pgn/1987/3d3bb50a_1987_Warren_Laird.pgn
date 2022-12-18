@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Warren"]
+[Black "Laird"]
+[Result "1-0"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "3d3bb50a"]
+[Epoch "Queen"]
+
+1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6 8.
+d5 Na5 9. Qd3 e5 10. dxe6 Bxe6 11. b3 Kh8 12. Bb2 Nc6 13. Nd5 Bd7 14. Rad1
+Rc8 15. c5 Nxd5 16. Bxg7+ Kxg7 17. Qxd5 Qf6 18. cxd6 Be6 19. Qb5 cxd6 20.
+Rxd6 Rfd8 21. Qxb7+ Ne7 22. Rxd8 Rxd8 23. Qxa7 Rd7 24. Qa6 1-0
+

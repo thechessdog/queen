@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dellert"]
+[Black "Kaden"]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "cf6a858e"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Qb3 Nc6 7. Nxd5 Nd4
+8. Nxf6+ gxf6 9. Qd3 Bf5 10. Be4 Bxe4 11. Qxe4 Qc7 12. Kf1 f5 13. Qd3 Bg7
+14. f3 O-O 15. e3 Ne2 16. Rb1 e4 17. Qb5 a6 18. Qxf5 Qc4 19. Nxe2 exf3 20.
+Qxf3 Qxa2 0-1
+

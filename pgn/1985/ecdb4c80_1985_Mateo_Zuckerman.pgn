@@ -1,0 +1,24 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1985.01.01"]
+[Round "7"]
+[White "Mateo, Ramon"]
+[Black "Zuckerman, Bernard"]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "ecdb4c80"]
+[Epoch "Queen"]
+[WhiteID "6400019"]
+[WhiteCountry "DOM"]
+[BlackID "2000423"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Bc4 Be7 8. Bb3
+O-O 9. Qe2 b5 10. a3 Bb7 11. h4 Qa5 12. O-O-O b4 13. axb4 Qxb4 14. f4 Nc6 15.
+Nxc6 Bxc6 16. e5 dxe5 17. fxe5 Nd7 18. Bxe7 Qxe7 19. Rd6 Rfc8 20. Bc4 Nc5 21.
+Rh3 Nb7 22. Rd4 Qc5 23. Rg4 Qg1+ 24. Nd1 Bb5 25. Rhg3 g6 26. h5 Rxc4 27. hxg6
+hxg6 28. Rxg6+ fxg6 29. Rxg6+ Kf7 30. Rg3 Ke7 31. Qf3 Kd8 32. Qxb7 Rac8 33. c3
+R4c7 34. Qf3 Rd7 35. b3 Rxc3+ 36. Qxc3 Qxd1+ 37. Kb2 Qd2+ 38. Qxd2 Rxd2+ 39.
+Kc3 Rd5 40. Rg5 Kc7 0-1

@@ -1,0 +1,19 @@
+[Event "Royan"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wauthier, Pierre"]
+[Black "Chevallier, Didier"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "d907cb96"]
+[Epoch "Queen"]
+[BlackID "600784"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. Nbd2 d6 7. c3 Nge7 8. O-O
+O-O 9. Re1 Rb8 10. a4 a6 11. Nf1 b5 12. axb5 axb5 13. Be3 b4 14. Qc2 Qb6 15. d4
+cxd4 16. cxd4 Nxd4 17. Nxd4 Bxd4 18. Bxd4 Qxd4 19. Red1 Qb6 20. Qd2 Rd8 21. Qg5
+Nc6 22. e5 Nxe5 23. Ra7 Bd7 24. Rda1 Bc6 25. R1a6 Qc5 26. Bxc6 Nf3+ 27. Bxf3
+Qxg5 0-1

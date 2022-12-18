@@ -1,0 +1,16 @@
+[Event "Wuppertal"]
+[Site "Wuppertal"]
+[Date "1986.10.01"]
+[Round "1"]
+[White "Ingenerf, Stephan"]
+[Black "Sehner, Norbert"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "f65408c5"]
+[Epoch "Queen"]
+[BlackID "4600398"]
+[BlackCountry "GER"]
+
+1. b3 d5 2. Bb2 c6 3. e3 Nf6 4. f4 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O a5 1/2-1/2

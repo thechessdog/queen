@@ -1,0 +1,19 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Corvi, Marco"]
+[Black "Leoncini, Mario"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a6d806bd"]
+[Epoch "Queen"]
+[WhiteID "801895"]
+[BlackID "801712"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. Nf3 Nc6 6. cxd4 e5 7. dxe5 Qxd1+
+8. Kxd1 Bg4 9. Bf4 Bc5 10. Bg3 Nge7 0-1

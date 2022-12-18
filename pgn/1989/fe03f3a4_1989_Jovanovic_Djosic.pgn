@@ -1,0 +1,22 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Jovanovic, Sasa T"]
+[Black "Djosic, Slavoljub"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "fe03f3a4"]
+[Epoch "Queen"]
+[WhiteID "902659"]
+[WhiteCountry "SRB"]
+[BlackID "904821"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. h3 Nbd7 7. Be3 e5 8. d5 a5
+9. Be2 Nc5 10. Nd2 c6 11. O-O Nfd7 12. dxc6 bxc6 13. Nb3 Qe7 14. Nxc5 Nxc5 15.
+Re1 Ne6 16. Qa4 Nd4 17. Bxd4 exd4 18. Qxc6 dxc3 19. Qxa8 Bg4 20. Qxf8+ Kxf8 21.
+hxg4 cxb2 22. Rad1 Qxe4 23. Bd3 Qxg4 24. Bb1 Be5 25. Bd3 h5 26. Bb1 h4 27. Rd3
+Qxc4 0-1

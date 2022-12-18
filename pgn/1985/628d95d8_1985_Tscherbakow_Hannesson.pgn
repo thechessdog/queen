@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tscherbakow, AM."]
+[Black "Hannesson, G."]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "628d95d8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. cxd5 exd5 7. g3 Nc6 8.
+Bg2 Re8 9. O-O Bg4 10. f3 Be6 11. Nf4 Bf5 12. g4 Bxc3 13. bxc3 Be6 14. g5
+Nd7 15. e4 dxe4 16. d5 Bxd5 17. Nxd5 exf3 18. Qxf3 Nce5 19. Qg3 c6 20. Nf4
+Qa5 21. Nh5 Rad8 22. Bf4 g6 23. Nf6+ Nxf6 24. gxf6 Rd3 25. Qg5 Qxc3 26. Qh6
+Qc5+ 27. Kh1 Qf8 28. Qg5 Nd7 29. Rad1 Nc5 30. Rxd3 Nxd3 31. Bg3 a6 32. Qa5
+Qc5 33. Qxc5 Nxc5 34. Bd6 Ne4 35. Be7 Nc3 36. Rc1 Nd5 37. Bxd5 cxd5 38. Kg2
+b5 39. Kf3 h5 40. Kf4 b4 41. Kg5 d4 42. Kh6 a5 43. Rd1 d3 44. h4 Rc8 45.
+Rxd3 Rb8 46. Rd5 Ra8 47. Rb5 Kh8 48. Bc5 Kg8 49. Bd6 Kh8 50. Bc7 a4 51.
+Rxb4 Kg8 52. Rb8+ Rxb8 53. Bxb8 Kh8 54. Bd6 Kg8 55. Ba3 Kh8 56. Bf8 Kg8 57.
+Bg7 1-0
+

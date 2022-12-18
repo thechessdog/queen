@@ -1,0 +1,25 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1986.01.01"]
+[Round "14"]
+[White "Trapl, Jindrich"]
+[Black "Prandstetter, Eduard"]
+[Result "0-1"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "c8cc6ce6"]
+[Epoch "Queen"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Be2 b6 7. O-O Bb7 8. Bd2
+dxc4 9. Bxc4 c5 10. dxc5 Bxc5 11. Qe2 Nbd7 12. Rfd1 Bxf3 13. gxf3 Ne5 14. Ba6
+Qe7 15. a3 Rad8 16. b4 Bd6 17. f4 Ng6 18. Nb5 Bb8 19. Bc3 Nd5 20. Bb2 e5 21. f5
+Qg5+ 22. Kh1 Qxf5 23. Rg1 Qe4+ 24. f3 Qxe3 25. Qxe3 Nxe3 26. Nc3 Nc2 27. Rad1
+Nd4 28. Bb7 Rd7 29. Bc6 Rd6 30. Bb7 Rfd8 31. Kg2 Nf5 32. Kf2 Rxd1 33. Rxd1 Rxd1
+34. Nxd1 Nfe7 35. Ke3 Nf5+ 36. Kf2 Nd6 37. Bd5 Nf4 38. Bb3 Nd3+ 39. Ke3 Nxb2
+40. Nxb2 Kf8 41. Nc4 Nxc4+ 42. Bxc4 f5 43. Be6 g6 44. Kd3 e4+ 45. fxe4 fxe4+
+46. Kxe4 Bxh2 47. a4 Bd6 48. b5 Ke7 49. Bg8 h5 50. Kd5 Bb4 51. Ke5 Bc3+ 52. Kf4
+Kf6 53. Bd5 g5+ 54. Kf3 g4+ 0-1

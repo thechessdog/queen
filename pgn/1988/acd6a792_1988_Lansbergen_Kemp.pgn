@@ -1,0 +1,16 @@
+[Event "ACCOM III"]
+[Site "ACCOM III"]
+[Date "1988.01.01"]
+[Round "6"]
+[White "Lansbergen, A."]
+[Black "Kemp, Rasmus"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "acd6a792"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 b6 6. Nf3 c5 7. Ne5 Nbd7 8. Nc6
+Qc7 9. Nxe7 Kxe7 10. cxd5 Kf8 11. dxe6 fxe6 12. Qb3 Kf7 13. O-O-O cxd4 14. Rxd4
+Nc5 15. Qc4 Ba6 16. Nb5 Bxb5 17. Qxb5 Nb3+ 18. Kb1 Qc1# 0-1

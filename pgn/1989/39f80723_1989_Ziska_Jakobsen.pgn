@@ -1,0 +1,21 @@
+[Event "Aarhus op"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Ziska, Bogi"]
+[Black "Jakobsen, Peter"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "39f80723"]
+[Epoch "Queen"]
+[WhiteID "7200161"]
+[BlackID "1401440"]
+[WhiteCountry "FAI"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. h4 Qa5 12. Kb1 Rfc8 13. Nd5 Qxd2 14. Rxd2
+Bxd5 15. Bxf6 Bxa2+ 16. Kxa2 Bxf6 17. c4 Rc5 18. Rd5 Rac8 19. h5 Rxd5 20. exd5
+b5 21. hxg6 hxg6 22. b3 bxc4 23. Bxc4 Rc5 24. Ka3 Bc3 25. Rc1 Ra5# 0-1

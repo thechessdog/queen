@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Skolarski, H."]
+[Black "Grimm"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "543727f1"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. a3 Bxc3+ 6. Nxc3 dxe4 7. Bb5 Ne7
+8. Bg5 f6 9. Be3 O-O 10. Qd2 a6 11. Bc4 Nf5 12. Nxe4 Nce7 13. Bb3 b6 14. h4
+Kh8 15. g4 Bb7 16. f3 Nxe3 17. Qxe3 f5 18. Ng5 fxg4 19. O-O-O Bxf3 20. Nxe6
+Qd6 21. Rhf1 Nf5 22. Qg5 h6 23. Qd2 Rf6 24. Rde1 Nxh4 25. Re5 Ng6 26. Qh2
+Rxe6 27. Bxe6 Nxe5 0-1
+

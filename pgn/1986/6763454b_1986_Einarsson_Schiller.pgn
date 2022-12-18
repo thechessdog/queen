@@ -1,0 +1,24 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Einarsson, Halldor"]
+[Black "Schiller, Eric"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "6763454b"]
+[Epoch "Queen"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. c5 Ne4 8. Be3
+g6 9. Bd3 Nf6 10. Nf3 Bg7 11. h3 O-O 12. O-O Qc8 13. a3 Bf5 14. b4 a6 15. Re1
+Rd8 16. Na4 Bxd3 17. Qxd3 Qc7 18. Qb3 Re8 19. Nb6 Rad8 20. Bg5 e6 21. Rad1 Ne7
+22. Ne5 Nh5 23. Bc1 Nc6 24. g4 Nxd4 25. Rxd4 Bxe5 26. Rxe5 Qxe5 27. Qd1 Ng3 28.
+fxg3 Qxg3+ 29. Kf1 Qxh3+ 30. Kf2 Qh2+ 31. Kf1 e5 32. Rxd5 Qh1+ 33. Ke2 Qg2+ 34.
+Ke1 Qg1+ 35. Ke2 Qxg4+ 36. Ke1 Qg1+ 37. Ke2 Qxd1+ 38. Rxd1 Rxd1 39. Kxd1 f5 40.
+a4 Kf7 41. b5 axb5 42. axb5 Re6 43. Nd5 f4 44. Nc7 Re7 45. b6 Rd7+ 46. Ke2 Rd8
+47. Bb2 e4 48. Be5 f3+ 49. Ke3 Rd3+ 50. Kxe4 f2 51. Kxd3 f1=Q+ 52. Kd4 h5 53.
+Nd5 Qd1+ 54. Ke4 h4 55. Ne3 Qa4+ 56. Kd5 h3 57. Nf1 Qd1+ 0-1

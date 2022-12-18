@@ -1,0 +1,22 @@
+[Event "Koge"]
+[Site "Koge"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wedervang, Kim"]
+[Black "Olsen, Kjeld"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[HashCode "2000d989"]
+[Epoch "Queen"]
+[WhiteID "1424521"]
+[WhiteCountry "DEN"]
+
+1. b3 f5 2. Bb2 Nf6 3. e3 e6 4. Nf3 Be7 5. c4 O-O 6. Be2 c6 7. O-O d5 8. d3
+Nbd7 9. Nbd2 Ng4 10. h3 Nh6 11. Rc1 Bf6 12. Qc2 Bxb2 13. Qxb2 Qf6 14. Qxf6 Nxf6
+15. cxd5 exd5 16. Rc3 Nf7 17. Rfc1 Re8 18. g3 Bd7 19. b4 a6 20. Nb3 b6 21. Nbd4
+Nd8 22. Bd1 a5 23. Ra3 Ra7 24. bxa5 c5 25. Ne2 Nb7 26. a6 Na5 27. Ba4 Rxa6 28.
+Bxd7 Nxd7 29. Nc3 Nf6 30. Rb1 Re6 31. Nb5 Ne8 32. d4 h6 33. Ne5 g5 34. dxc5
+Rxe5 35. cxb6 Re7 36. Nc3 Rb7 37. Nxd5 Kf7 38. Rb5 Nf6 39. Rbxa5 Rxa5 40. Rxa5
+Nxd5 41. Rxd5 Rxb6 42. Rxf5+ 1-0

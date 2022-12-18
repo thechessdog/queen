@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Duhr"]
+[Black "Biehler, Thomas"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "e57e37c7"]
+[Epoch "Queen"]
+[BlackID "4607082"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Na6 7. a3 Bxc3+ 8.
+Qxc3 Nxc5 9. f3 d5 10. Rd1 Bd7 11. cxd5 Rc8 12. dxe6 fxe6 13. Be5 Nd5 14. Qd4
+Rf7 15. e4 Nb3 16. Qxa7 Ra8 17. Qf2 Qa5+ 18. Rd2 Rc8 0-1

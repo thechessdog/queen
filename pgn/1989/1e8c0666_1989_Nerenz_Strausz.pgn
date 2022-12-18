@@ -1,0 +1,18 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nerenz"]
+[Black "Strausz"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "1e8c0666"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Be7 8.
+O-O Qc7 9. f4 O-O 10. Qe1 b5 11. Bd3 Nbd7 12. e5 Ne8 13. exd6 Nxd6 14. f5
+Nc5 15. f6 Nxd3 16. cxd3 Bxf6 17. Rxf6 gxf6 18. Bh6 Nf5 19. Nxf5 exf5 20.
+Nd5 1-0
+

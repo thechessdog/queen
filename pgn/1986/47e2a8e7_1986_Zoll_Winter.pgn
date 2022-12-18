@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zoll"]
+[Black "Winter"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "47e2a8e7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Qd3 e6 5. e4 Be7 6. e5 Ng8 7. Bxe7 Nxe7
+8. f4 Ng6 9. Qg3 f5 10. h4 Qe7 11. h5 Ngf8 12. Nf3 h6 13. O-O-O Nb6 14. Nh4
+Rg8 15. Be2 Bd7 16. Ng6 Qf7 17. Qh4 Nxg6 18. hxg6 Qf8 19. a3 a6 20. Rdf1 c5
+21. dxc5 Qxc5 22. Qf2 Qa5 23. g4 O-O-O 24. gxf5 exf5 25. Qd4 Be6 26. a4 Nd7
+27. b4 Qc7 28. a5 Nf8 29. Rh3 Nxg6 30. Nb5 Qb8 31. Rc3+ Kd7 32. Rc7+ Ke8
+33. Bh5 Rd7 34. Bxg6+ Kd8 35. Qb6 Rxc7 36. Nxc7 Qxc7 37. Qxe6 Rf8 38. Rd1
+Qc6 39. Rxd5+ Kc7 40. Qe7+ Kb8 41. Qxf8+ Ka7 42. Qc5+ 1-0
+

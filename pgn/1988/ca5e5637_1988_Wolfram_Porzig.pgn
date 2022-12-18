@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wolfram"]
+[Black "Porzig"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "ca5e5637"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Be7 11. Rac1 Qb8 12. Bb3 O-O 13. Bg3 Ne5 14.
+h3 b5 15. Nd4 Bb7 16. f4 Nc6 17. Nxc6 Bxc6 18. a3 Qb7 19. Bc2 Rfd8 20. b4
+Nd7 21. Kh2 Bf6 22. e5 dxe5 23. fxe5 Bg5 24. Qh5 h6 25. Rf1 Nf8 26. Bf4
+Bxf4+ 27. Rxf4 Rd2 28. Be4 Rc8 29. Rcf1 Ng6 30. Rg4 Bxe4 31. Nxe4 Rd5 32.
+Rxg6 fxg6 33. Qxg6 Rf8 34. Qxe6+ Rf7 35. Qe8+ 1-0
+

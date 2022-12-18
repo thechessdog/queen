@@ -1,0 +1,17 @@
+[Event "Kehl HT2"]
+[Site "Kehl HT2"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Baum, H."]
+[Black "Schmitt, T."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "c5b4815d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. b4
+Bf8 9. O-O Bxd3 10. Qxd3 Ne7 11. Na3 Ng6 12. Be3 Qa6 13. Nb5 Kd7 14. c4 Ne7 15.
+Rfd1 Nbc6 16. Qb3 f6 17. cxd5 Nxd5 18. Rxd5+ exd5 19. Qxd5+ Kc8 20. Qe6+ Kb8
+21. Qe8+ 1-0

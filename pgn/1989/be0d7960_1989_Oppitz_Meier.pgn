@@ -1,0 +1,22 @@
+[Event "BL2-N8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Oppitz, Peter"]
+[Black "Meier, Volker"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[HashCode "be0d7960"]
+[Epoch "Queen"]
+[BlackID "4605802"]
+[BlackCountry "GER"]
+[WhiteID "4605500"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. Nf3 c4 12. Be2 Nc6 13. h4 Bd7 14. Rab1 Qc7 15.
+Qf4 f5 16. h5 g5 17. Nxg5 hxg5 18. Qxg5 Bc8 19. h6 Qe7 20. f4 Kd7 21. g4 fxg4
+22. Rbg1 Kc7 23. Bxg4 Bd7 24. Bh5 Raf8 25. Bg6 Be8 26. f5 Qxg5+ 27. Rxg5 exf5
+28. Bxf5 Ne7 29. Rg7 Rf7 30. Rxf7 Bxf7 31. Bg4 Ng8 32. h7 Ne7 33. Rh6 Bg6 0-1

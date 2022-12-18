@@ -1,0 +1,33 @@
+[Event "NRW-Liga I"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lotzien, Hans"]
+[Black "Besser, Hans"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "af3e031f"]
+[Epoch "Queen"]
+[WhiteID "4613163"]
+[BlackID "4601033"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Nf3 g6 5. Bg2 Bg7 6. c3 Nge7 7. d3 d6 8. O-O
+O-O 9. Na3 Rb8 10. Nc2 b5 11. Rb1 b4 12. cxb4 Nxb4 13. Nxb4 Rxb4 14. b3 Nc6 15.
+Bb2 Bxb2 16. Rxb2 e5 17. Qe3 a5 18. Qh6 Qf6 19. Nh4 Nd4 20. f4 Qg7 21. Qxg7+
+Kxg7 22. fxe5 dxe5 23. Rc1 a4 24. Rxc5 axb3 25. Rxe5 bxa2 26. Rxa2 Rb1+ 27. Kf2
+Be6 28. Rd2 Kf6 29. Rc5 Nb3 30. Rcc2 Nxd2 31. Rxd2 Rfb8 32. d4 R8b2 33. Nf3 Bg4
+34. e5+ Kf5 35. h3 Bxf3 36. Rxb2 Rxb2+ 37. Kxf3 Rb3+ 38. Kf2 Rd3 39. Bd5 Rxd4
+40. Bxf7 Kxe5 41. Be8 Rd8 42. Bc6 Rd3 43. Bb5 Rc3 44. Ba6 Kd4 45. Bb7 Rc7 46.
+Ba8 Rf7+ 47. Ke2 g5 48. Bf3 Ra7 49. Bg4 Ra3 50. Kf2 Ke4 51. Bh5 Ra2+ 52. Kg1
+Ke3 53. Bf7 Rb2 54. Bh5 Kd4 55. Bg4 Rd2 56. Kf1 Ke5 57. Kg1 Kf6 58. Bh5 Kg7 59.
+Bf3 Rd4 60. Bh5 Kh6 61. Be8 g4 62. hxg4 Kg5 63. Bh5 Rd2 64. Kf1 h6 65. Kg1 Kf6
+66. Kf1 Ke5 67. Bg6 Kd4 68. Be8 Ke3 69. Bc6 Rd4 70. Kg2 Rxg4 71. Kh3 Rg6 72.
+Bb7 Rb6 73. Bd5 Kd4 74. Bf3 Ke5 75. Kh4 Kf6 76. g4 Rb2 77. Bc6 Rh2+ 78. Kg3 Rc2
+79. Be4 Rc4 80. Bf5 Kg5 81. Be6 Rc3+ 82. Kf2 Kf4 83. Kg2 Rc6 84. Bd7 Rc7 85.
+Be6 Ke5 86. Bf5 Rc3 87. Bd7 Ra3 88. Bc8 Ra8 89. Bd7 Rd8 90. Bf5 h5 91. Kg3 Rh8
+92. Bc2 h4+ 93. Kh3 Kf4 94. Bg6 Kg5 95. Bf5 Ra8 96. Be6 Ra3+ 97. Kh2 Re3 98.
+Bd7 h3 99. Kg1 Re2 100. Kh1 h2 101. Bc6 Kf4 0-1

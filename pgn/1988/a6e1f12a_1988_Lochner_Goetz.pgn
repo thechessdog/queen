@@ -1,0 +1,18 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1988.01.01"]
+[Round "6"]
+[White "Lochner, M."]
+[Black "Goetz, Ralph"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "a6e1f12a"]
+[Epoch "Queen"]
+[BlackID "4601254"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Bxc3+ 7. bxc3 Qe7
+8. Qd5 f6 9. exf6 Nxf6 10. Qd1 d6 11. e3 O-O 12. Rb1 Ne4 13. Qd5+ Kh8 14. Bg5
+Qe8 15. Qd3 Bf5 16. Rb5 Nxf2 17. Rxf5 Nxd3+ 18. Bxd3 Rxf5 19. Bxf5 h6 0-1

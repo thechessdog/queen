@@ -1,0 +1,19 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Andres, Miguel"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "27ec648b"]
+[Epoch "Queen"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 c5 7. Ne2 cxd4 8.
+Qxd4 Qxd4 9. Nxd4 a6 10. O-O O-O 11. Na4 Nbd7 12. c4 Ne5 13. Be2 Bd7 14. Nb6
+Rad8 15. Bf4 Bd6 16. g3 Bc7 1/2-1/2

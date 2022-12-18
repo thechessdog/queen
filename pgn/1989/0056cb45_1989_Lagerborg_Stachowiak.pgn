@@ -1,0 +1,22 @@
+[Event "corr Poland"]
+[Site "corr Poland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lagerborg"]
+[Black "Stachowiak"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "0056cb45"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. h3 d4 14.
+Rb1 O-O-O 15. Nxd4 Be8 16. Nb5 Nxe5 17. Qxc3 Qxc3+ 18. Nxc3 N5c6 19. Kf2
+Nd4 20. Bd3 Bc6 21. Rg1 Nd5 22. Nxd5 Rxd5 23. Be3 a6 24. g4 Nb5 25. Rb3 Rh8
+26. c4 Rxd3 27. Rxd3 Nc7 28. Bb6 Na8 29. c5 Bd5 30. Kg3 Nc7 31. Bxc7 Kxc7
+32. Rd2 Kc6 33. Rc1 Rg8 34. g5 Rh8 35. h4 Kc7 36. f5 Bb3 37. f6 Bd5 38. Kg4
+Be4 39. Rcd1 Bg6 40. Rd7+ Kc6 41. Rd8 Bh5+ 42. Kg3 Rxd8 43. Rxd8 Kxc5 44.
+Rh8 Bg6 45. h5 Bd3 46. g6 1-0
+

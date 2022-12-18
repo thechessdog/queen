@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Daikeler"]
+[Black "Schaefer, Norbert"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "4978ac98"]
+[Epoch "Queen"]
+
+1. d4 e5 2. dxe5 f6 3. exf6 Nxf6 4. Nc3 Bb4 5. Bd2 d5 6. e3 O-O 7. Nf3 Nc6 8.
+Bb5 a6 9. Bxc6 bxc6 10. O-O Bg4 11. a3 Bd6 12. h3 Bh5 13. g4 Nxg4 14. hxg4 Bxg4
+15. Kg2 Qf6 16. Nh2 Bxd1 17. Raxd1 Qg5+ 18. Kh1 Bxh2 19. Kxh2 Rf6 0-1

@@ -1,0 +1,22 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schuh, Franz"]
+[Black "Mainka, Gregor"]
+[Result "0-1"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "4ea1d3d5"]
+[Epoch "Queen"]
+[WhiteID "1600621"]
+[WhiteCountry "AUT"]
+[BlackID "4601319"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Nf6 5. Bxc4 c5 6. O-O Qc7 7. Bb3 e6 8. Nc3
+b5 9. Qe2 Bb7 10. Rd1 Nbd7 11. a3 Bd6 12. h3 O-O 13. Bd2 e5 14. dxe5 Nxe5 15.
+Nxe5 Bxe5 16. Be1 c4 17. Bc2 Rfe8 18. Rac1 Qe7 19. Bb1 Bc7 20. Rd2 h5 21. Qf1
+Qe5 22. g3 h4 23. Ne2 Ne4 24. Bxe4 Qxe4 25. Kh2 Qf3 26. Qg1 hxg3+ 27. Nxg3 Bc6
+28. Rd4 Re6 29. Rc3 Be5 30. Rg4 Qxg4 0-1

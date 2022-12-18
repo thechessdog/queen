@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Ricardi, Pablo"]
+[Black "Szmetan, Jorge"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "09bd7a9d"]
+[Epoch "Queen"]
+[WhiteID "100242"]
+[WhiteCountry "ARG"]
+[BlackID "100366"]
+[BlackCountry "ARG"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O b6 7. Re1 c5 8. e5
+Ng4 9. exd6 exd6 10. Bg5 Nf6 11. Bc4 Bb7 12. dxc5 bxc5 13. Bd5 Nc6 14. Ne4 Rb8
+15. Nxd6 Ba8 16. Ne4 Rb6 17. c3 Nd4 18. Bxa8 1-0

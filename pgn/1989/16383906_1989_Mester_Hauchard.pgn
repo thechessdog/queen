@@ -1,0 +1,25 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "?"]
+[White "Mester, Gyula"]
+[Black "Hauchard, Arnaud"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "16383906"]
+[Epoch "Queen"]
+[BlackID "600113"]
+[BlackCountry "FRA"]
+[WhiteID "704008"]
+[WhiteCountry "HUN"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. d4 Nc6 6. c3 e5 7. dxe5 Qxd1+
+8. Kxd1 Nxe5 9. Bf4 Bd6 10. Bxe5 Bxe5 11. Nf3 Bg4 12. Bd3 O-O 13. Kc2 Bd6 14.
+Ng5 Be7 15. h4 h6 16. Nf3 Bc5 17. Ne5 Be6 18. f4 Rad8 19. b3 Bd5 20. Nf3 Rfe8
+21. Rae1 Bd6 22. f5 Bg3 23. Rxe8+ Rxe8 24. h5 Re3 25. Rh3 Bd6 26. Rh4 Bxf3 27.
+gxf3 Rxf3 28. a4 Rf2+ 29. Kd1 Kf8 30. Rh3 Ke7 31. Ke1 Rg2 32. Kf1 Rg5 33. Kf2
+Kf6 34. b4 Rg4 35. Kf3 Rf4+ 36. Ke3 a5 37. Be4 axb4 38. cxb4 Ke5 39. Bxb7 Rxb4
+40. Ba6 Rxa4 41. Bd3 Ra2 42. Rg3 Bc5+ 43. Kf3 Rf2+ 44. Kg4 Rh2 45. Kf3 Kf6 46.
+Kg4 Bf2 0-1

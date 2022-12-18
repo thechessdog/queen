@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Norell"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "81d3bcdc"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Be7 8.
+Qe2 Nf6 9. Rd1 e5 10. h3 O-O 11. Be3 Be6 12. b4 Rc8 13. Bxe6 fxe6 14. Rac1 a6
+15. a3 Kh8 16. Ng5 Qd7 17. Qa2 Nd8 18. Bb6 d5 19. Rc2 h6 20. Bxd8 Rcxd8 21. Nf3
+Qd6 22. exd5 exd5 23. Re2 e4 24. Nh4 Ng8 25. Rxe4 dxe4 26. Rxd6 Rxd6 27. g3
+Bxh4 28. gxh4 Rf4 29. Ne2 Rg6+ 30. Kf1 Rxh4 31. Qf7 Rf6 32. Qxb7 Rxh3 33. Qxe4
+Rhf3 34. a4 Rxf2+ 35. Ke1 Rf1+ 36. Kd2 R6f2 37. b5 axb5 38. axb5 Nf6 39. Qd4
+Rg2 40. b6 Rff2 41. b7 Rxe2+ 42. Kd3 Re8 43. Qa4 Rb2 44. Qa8 Rg8 45. Kc3 Rb1
+46. Kd4 h5 47. Ke5 Nd7+ 48. Ke6 Rb8 0-1

@@ -1,0 +1,19 @@
+[Event "Wurtemberg"]
+[Site "Wurtemberg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hahnewald, P."]
+[Black "Riedel"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Berger variation"]
+[HashCode "8e3ce64c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c3 Bg4 9. Re1 f5 10. Nbd2 O-O 11. Qb3 Kh8 12. Qxb7 Rf6 13. Qb5 Rb8 14.
+Qa4 Rg6 15. Bb5 Nxd2 16. Nxd2 Rb6 17. Be2 Bh3 18. g3 f4 19. Nf3 Qf8 20. Qd1
+Bd6 21. Bd3 Rf6 22. Ne5 fxg3 23. hxg3 g6 24. f4 Nxe5 25. dxe5 Bc5+ 26. Kh2
+Qh6 27. f5 Rxb2+ 28. Be2 Qh5 29. Kh1 Bg4+ 30. Kg2 Qh3# 0-1
+

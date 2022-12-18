@@ -1,0 +1,16 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rantanen, Yrjo A."]
+[Black "Statuso"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "ea9edb1f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 b4 5. Nf3 Ba6 6. Nbd2 d6 7. e4 e5 8. g3 Be7
+9. b3 O-O 10. Bb2 Nbd7 11. Bg2 Rb8 12. O-O Ng4 13. Ne1 Nh6 14. Nd3 Bg5 15. f4
+exf4 16. gxf4 Bh4 17. Qh5 f5 18. e5 Ng4 19. Nf3 Be7 20. Rae1 g6 21. Qh3 Nb6 22.
+exd6 Bxd6 23. Ng5 Qd7 24. Re6 1-0

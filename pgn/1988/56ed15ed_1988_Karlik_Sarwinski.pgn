@@ -1,0 +1,27 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Karlik, Vladimir"]
+[Black "Sarwinski, Miroslaw"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "56ed15ed"]
+[Epoch "Queen"]
+[WhiteID "301027"]
+[BlackID "1100394"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. d4 d6 2. Nf3 Bg4 3. e3 Nf6 4. Be2 e6 5. O-O Be7 6. c4 O-O 7. Qb3 Qc8 8. Nc3
+c5 9. h3 Bh5 10. d5 exd5 11. cxd5 a6 12. a4 Nbd7 13. e4 Re8 14. Re1 Bf8 15. Nd2
+Bxe2 16. Rxe2 Ne5 17. Nc4 Nxc4 18. Qxc4 Qc7 19. Re1 Nd7 20. f4 g6 21. Bd2 Bg7
+22. Kh1 Re7 23. a5 Nf6 24. b4 cxb4 25. Qxb4 Qd7 26. Rab1 Rae8 27. Kh2 h5 28. g3
+Qd8 29. Re3 Bh6 30. Re2 Rc7 31. Rbe1 Nd7 32. Na4 Rc2 33. Qxb7 h4 34. Qb3 hxg3+
+35. Qxg3 Nf6 36. Qd3 Rxd2 37. Qxd2 Nh5 38. Rf1 Qh4 39. Qe1 Bxf4+ 40. Rxf4 Qxf4+
+41. Kg1 Ng3 42. Rf2 Qxe4 43. Qxe4 Rxe4 44. Nb6 Ne2+ 45. Kg2 Nf4+ 46. Kg3 Nh5+
+47. Kg2 Rd4 48. Kf3 Rf4+ 49. Kg2 Rxf2+ 50. Kxf2 Nf6 51. Kf3 Kf8 52. Nc8 Nxd5
+53. Nxd6 Ke7 54. Nc4 Ke6 55. Kg4 f6 56. h4 Nb4 57. h5 gxh5+ 58. Kxh5 Nc6 59.
+Nb2 Nxa5 60. Nd3 Nb3 61. Kg6 f5 62. Kg5 a5 0-1

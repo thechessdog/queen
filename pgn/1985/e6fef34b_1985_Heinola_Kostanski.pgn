@@ -1,0 +1,17 @@
+[Event "corr WT/M/GT"]
+[Site "corr WT/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heinola"]
+[Black "Kostanski"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "e6fef34b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Bh6 7. Nc3 c6 8. Qd3
+Na6 9. a3 Nf6 10. h5 O-O 11. Bd2 Nxe4 12. Nxe4 Re8 13. O-O-O Bf5 14. Qb3
+Bxe4 15. Qxb7 Nc7 16. Ba5 f3+ 17. Kb1 fxg2 18. Bxg2 Bxg2 19. Rh4 Qxh4 0-1
+

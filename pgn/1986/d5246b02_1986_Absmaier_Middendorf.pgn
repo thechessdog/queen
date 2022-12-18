@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Absmaier, F."]
+[Black "Middendorf, F."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "d5246b02"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Bc5 6. Bc4 Ne7 7. O-O O-O
+8. Bf4 a6 9. e5 Ng6 10. Bg3 b5 11. Bb3 Bb7 12. Qe2 Bxf3 13. Qxf3 Nc6 14.
+Ne4 Bd4 15. Qh5 Ngxe5 16. Rad1 f6 17. Kh1 Qe8 18. Qe2 d5 0-1
+

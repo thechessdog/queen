@@ -1,0 +1,20 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eingorn, Vereslav S"]
+[Black "Balashov, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "4846e36a"]
+[Epoch "Queen"]
+[WhiteID "14100053"]
+[WhiteCountry "UKR"]
+[BlackID "4100263"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Qc2 c5 10. dxc5 Bxc5 11. Nc3 Na6 12. Rad1 d5 13. cxd5 Nb4 14. Qb2 Nbxd5
+15. Ne5 1/2-1/2

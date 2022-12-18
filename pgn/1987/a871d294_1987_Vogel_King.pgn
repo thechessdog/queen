@@ -1,0 +1,21 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vogel, Robert"]
+[Black "King, Daniel J"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "a871d294"]
+[Epoch "Queen"]
+[WhiteID "4604253"]
+[WhiteCountry "GER"]
+[BlackID "400068"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5 8.
+Ba3 Bxc4 9. Bxc4 dxc4 10. e4 Qd7 11. e5 Nd5 12. Qg4 Nc6 13. Qxg7 O-O-O 14. O-O
+h5 15. Qg5 Nxc3 16. Rac1 Qxd4 17. Bb2 Ne2+ 18. Nxe2 Qxb2 19. Nc3 Nb4 20. Na4
+Qxa2 21. Ra1 Qd2 22. Qf6 Qd7 23. Qf4 Qc6 24. Nb2 a5 25. Rfc1 c3 0-1

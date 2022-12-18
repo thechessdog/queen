@@ -1,0 +1,19 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schug"]
+[Black "Munstermann"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "966121c4"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. d5 Nf6 5. Bg5 Bb4 6. Bc4 Bxc3+ 7. bxc3 Qd6
+8. Ne2 O-O 9. O-O b6 10. Ng3 Nbd7 11. Rb1 Bb7 12. Re1 Nxd5 13. Nf5 Qc5 14.
+Bxd5 Bxd5 15. Ne7+ Kh8 16. Qxd5 Qxd5 17. Nxd5 c6 18. Ne7 h6 19. Rbd1 hxg5
+20. Rxd7 Rfd8 21. Red1 Rxd7 22. Rxd7 f6 23. Nxc6 Rc8 24. Rd8+ Rxd8 25. Nxd8
+Kg8 26. Nc6 a5 27. Na7 Kf7 28. c4 Ke6 29. Nc8 Kd7 30. Nxb6+ Kc6 31. Na4 f5
+32. g4 f4 33. Kf1 f3 34. Ke1 1-0
+

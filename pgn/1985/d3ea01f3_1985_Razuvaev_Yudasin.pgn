@@ -1,0 +1,19 @@
+[Event "URS-chI"]
+[Site "Minsk"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Razuvaev, Yuri S"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "d3ea01f3"]
+[Epoch "Queen"]
+[BlackID "2802341"]
+[BlackCountry "ISR"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Qe8 12. Qxe8 Rxe8 13. cxd5 exd5 14. Be3
+Nd7 15. Rac1 Rac8 16. Rc2 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Joecks, Christian"]
+[Black "Roeder, Frank"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, Eliskases variation"]
+[HashCode "4984f64b"]
+[Epoch "Queen"]
+[BlackID "4602161"]
+[BlackCountry "GER"]
+[WhiteID "4604083"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd8 7. O-O a6 8.
+Nb3 b5 9. Be2 Nc6 10. Nbxd4 Nge7 11. Re1 Bb7 12. a4 b4 13. Bd3 Nxd4 14. Nxd4
+Nc6 15. Nxc6 Bxc6 16. Qg4 Bd5 17. Bf4 g6 18. Bg5 Be7 19. Qd4 O-O 20. Bxe7 Qxe7
+21. Qxd5 Qf6 22. Qe5 Qe7 23. Rad1 Rfd8 24. b3 Rd5 25. Qxd5 1-0

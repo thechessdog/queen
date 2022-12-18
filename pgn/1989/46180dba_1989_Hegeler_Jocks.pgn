@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hegeler, Frank"]
+[Black "Joecks, Christian"]
+[Result "1-0"]
+[ECO "A81"]
+[Opening "Dutch defence"]
+[HashCode "46180dba"]
+[Epoch "Queen"]
+[WhiteID "4606485"]
+[WhiteCountry "GER"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. d5 c5 8. Nc3 Na6
+9. Rb1 Rb8 10. b3 Bd7 11. Bd2 Nc7 12. Qc1 b5 13. Bh6 a6 14. Bxg7 Kxg7 15. Nd2
+b4 16. Nd1 e6 17. dxe6 Nxe6 18. Qb2 Qe7 19. Ne3 Qe8 20. Nd5 Bc6 21. Nxf6 Rxf6
+22. Bxc6 Qxc6 23. Nf3 1-0

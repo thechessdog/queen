@@ -1,0 +1,26 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lewis, Andrew"]
+[Black "Freyre, Jorge"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "7959d5dc"]
+[Epoch "Queen"]
+[WhiteID "421618"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6 14. Ne2
+Rc8 15. Rb1 Na5 16. Nd4 Nec6 17. Bd2 Nc4 18. Nxc6 Nxd2 19. Qxd2 Qxc6 20. Bd3
+Qc5 21. Rxb7 Bc6 22. Rb3 d4 23. Rg1 Bd5 24. Rb4 Kf8 25. Kf2 Bc6 26. g3 Rh8 27.
+h4 a5 28. Rb3 Qd5 29. Qe2 Ba4 30. Rb2 Qc5 31. Rgb1 Qxa3 32. Rb8 Ke7 33. R1b7+
+Bd7 34. Rxc8 Rxc8 35. Bb5 Rd8 36. Qc4 Qe3+ 37. Kg2 Qe4+ 38. Kh2 Qxb7 39. Qc5+
+Ke8 40. Bd3 Bc6 41. h5 Rc8 42. Qxa5 Qb1 43. g4 Qh1+ 44. Kg3 Qf3+ 45. Kh4 Qxf4
+46. Qc5 f5 47. exf6 Qxf6+ 48. Kg3 Kd7 49. Qa7+ Rc7 50. Qc5 Qf3+ 51. Kh4 Qf4 52.
+Qa5 Bf3 53. Qb5+ Ke7 54. Qg5+ Qxg5+ 55. Kxg5 e5 56. h6 Kf8 57. Bf5 Rc6 58. Bd7
+Rd6 59. Bc8 e4 60. Bb7 Bxg4 61. Kxg4 d3 62. cxd3 exd3 63. Bf3 d2 64. Bd1 Rxh6
+65. Kf3 Re6 0-1

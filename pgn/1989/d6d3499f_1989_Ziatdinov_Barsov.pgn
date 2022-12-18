@@ -1,0 +1,18 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ziatdinov, Raset"]
+[Black "Barsov, Yuri"]
+[Result "0-1"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "d6d3499f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Qe7 10. Ra2 dxc4 11. Bxc4 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Qb3
+Be6 15. Bxe6 Qxe6 16. c4 Rad8 17. Re2 b6 18. Bb2 Rd7 19. e4 Rfd8 20. e5 Ne8 21.
+f4 Nd6 22. Qf3 Nxc4 23. f5 Qd5 24. Qg3 Qd3 25. Qe1 Nxb2 26. e6 Qd4+ 27. Rff2
+fxe6 28. fxe6 Qxf2+ 29. Kxf2 Nd3+ 30. Kf1 Nxe1 31. exd7 Rxd7 0-1

@@ -1,0 +1,20 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1986.07.01"]
+[Round "6"]
+[White "Gheorghiu, Florin"]
+[Black "Blees, Albert"]
+[Result "1/2-1/2"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "9e7be4b7"]
+[Epoch "Queen"]
+[WhiteID "1200011"]
+[WhiteCountry "ROU"]
+[BlackID "1000217"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 7. Bd3 a6 8. Nge2 c5
+9. e5 Nfd7 10. exd6 cxd4 11. Nxd4 Nc5 12. Nb3 Nxd3+ 13. Qxd3 Nc6 14. O-O Ne5
+15. Qe2 Be6 16. Nd5 1/2-1/2

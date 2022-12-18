@@ -1,0 +1,16 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scheil, D."]
+[Black "Schwertel, G."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "spike attack"]
+[HashCode "bd76bb5d"]
+[Epoch "Queen"]
+
+1. g4 d5 2. Bg2 c6 3. g5 Bf5 4. d3 e6 5. Nf3 Nd7 6. Nbd2 Bd6 7. e4 Bg4 8.
+h4 h6 9. h5 hxg5 10. Nb3 Rxh5 11. Ke2 Ne5 12. Rxh5 Bxh5 0-1
+

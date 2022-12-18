@@ -1,0 +1,21 @@
+[Event "Gjovik"]
+[Site "Gjovik"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Berglund, Jan"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "b28a8a59"]
+[Epoch "Queen"]
+[WhiteID "1714864"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 d6 6. e3 Bg7 7. c3 f5 8. h4
+e6 9. Bc4 exd5 10. Bxd5 Be6 11. Bxe6 fxe6 12. Nd2 Nd7 13. f4 Nf6 14. Qc2 Ng4
+15. Rh3 O-O 16. O-O-O Qa6 17. Nb1 d5 18. a3 b5 19. Qe2 Qb6 20. Nf3 a5 21. h5 b4
+22. h6 Bf6 23. c4 dxc4 24. a4 c3 25. bxc3 bxc3 26. Rg3 Kh8 27. Ng5 c4 28. Rd7
+Bxg5 29. fxg5 Ne5 30. Nxc3 Nxd7 31. Nb5 e5 0-1

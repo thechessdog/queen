@@ -1,0 +1,18 @@
+[Event "Calcutta"]
+[Site "Calcutta"]
+[Date "1986.02.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Agzamov, Georgy"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "8834cb63"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1
+c6 9. Bd3 Nd7 10. O-O b6 11. e4 dxe4 12. Bxe4 Bb7 13. b4 Qc7 14. Qb3 a5 15. a3
+axb4 16. axb4 Qb8 17. Rfd1 Rc8 1/2-1/2

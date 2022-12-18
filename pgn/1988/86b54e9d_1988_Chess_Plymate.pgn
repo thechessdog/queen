@@ -1,0 +1,26 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chess Master 2000 A"]
+[Black "Plymate 5 5"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "86b54e9d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O
+8. Bf3 Nbd7 9. O-O Ne5 10. Qe2 Bd7 11. Rfd1 Nxf3+ 12. Nxf3 Ng4 13. Bd2 Rc8
+14. h3 Ne5 15. Nxe5 Bxe5 16. f4 Bd4+ 17. Be3 Bxc3 18. bxc3 a6 19. Rab1 Bb5
+20. Qd2 Qa5 21. f5 Qxa2 22. Ra1 Qc4 23. Bd4 e5 24. fxe6 fxe6 25. e5 d5 26.
+Qc1 Kh8 27. Rb1 Qe2 28. Re1 Qh5 29. Qd2 Bc6 30. Red1 b5 31. Bc5 Rf7 32. Ra1
+Bb7 33. Bd6 Rc6 34. Rf1 Rf5 35. Be7 Kg8 36. Bf6 Rc4 37. Qe3 Bc8 38. Rab1
+Re4 39. Rxf5 Rxe3 40. Rxh5 gxh5 41. c4 Re2 42. cxd5 exd5 43. c3 Kf7 44. Kf1
+Re4 45. Kf2 Ke6 46. Rb4 Rxb4 47. cxb4 d4 48. g3 h4 49. g4 Bb7 50. Bg7 a5
+51. bxa5 b4 52. Ke1 b3 53. Kd2 Bg2 54. a6 Bxh3 55. Bf6 Bxg4 56. Bxh4 Bf3
+57. Kc1 d3 58. Bg5 Kxe5 59. Kb2 Bd5 60. Kc3 Ke4 61. Bh6 Be6 62. a7 Bd5 63.
+Bd2 h5 64. Bg5 Ba8 65. Kxb3 Kf3 66. Kc3 Ke2 67. Bf4 h4 68. Kd4 d2 69. Ke5
+d1=Q 0-1
+

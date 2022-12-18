@@ -1,0 +1,23 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lunkmoss, Gerhard"]
+[Black "Kuntzig, Wilfried"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "9658111c"]
+[Epoch "Queen"]
+[WhiteID "4641086"]
+[WhiteCountry "GER"]
+[BlackID "4614801"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Bg5 O-O 13. Rc1 h6 14. Bh4 Bd7 15.
+Bg3 Bxg3 16. Nxg3 Qf4 17. a3 g5 18. Bb1 Rf7 19. Qd3 Rg7 20. Ne2 Qd6 21. Rfe1
+Rf8 22. Ng3 Qf4 23. Ne2 Qg4 24. h3 Qh5 25. Ne5 Qe8 26. Ng3 Nxe5 27. dxe5 Nh5
+28. Nxh5 Qxh5 29. Rc7 g4 30. Qe2 Rff7 31. Rxb7 Rg5 32. Rb8+ Kg7 33. Qd3 Rg6 34.
+Qxg6+ Qxg6 35. Bxg6 Kxg6 36. hxg4 1-0

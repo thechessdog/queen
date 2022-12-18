@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Faldon"]
+[Black "Chamberlain"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "9e7d016e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. d3 Bh6
+8. Nc3 Ne7 9. Bxf4 Bxf4 10. Qxf4 Qxf4 11. Rxf4 O-O 12. Raf1 c6 13. e5 d5
+14. exd6 Ng6 15. Rxf7 Rxf7 16. Rxf7 Kh8 17. Ne4 Nd7 18. Ng5 Ndf8 19. Rc7
+Ne5 20. Re7 Nxc4 21. dxc4 Bd7 22. Nxh7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hartung Nielsen, Jens"]
+[Black "Bator, Robert"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "feeed291"]
+[Epoch "Queen"]
+[BlackID "1700405"]
+[WhiteCountry "NLD"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Bf4 dxc4 5. a4 Bb4 6. e3 b5 7. axb5 Qd5 8. b6 a5
+9. Nf3 Nd7 10. Bc7 Qb5 11. Nd2 Bxc3 12. bxc3 Ngf6 13. Rb1 1-0

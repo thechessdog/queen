@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gourmelon"]
+[Black "Bouttier"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Tarrasch variation"]
+[HashCode "416fc2c9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. Bd3 d5 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nc3 O-O
+8. f4 c5 9. Nf3 f5 10. exf6 Rxf6 11. Qd2 Nc6 12. dxc5 Nxc5 13. O-O Nxd3 14.
+cxd3 Qc7 15. Ne2 Bd7 16. Qe3 Qb6 17. Qxb6 axb6 18. Rfc1 Nb4 19. Ne5 Bb5 20.
+Rc3 Ra5 21. Nd4 Bc6 22. g3 Nxa2 23. Ra3 Rxa3 24. bxa3 Nc3 25. Rc1 Nb5 26.
+Nxb5 Bxb5 27. Rb1 Bc6 28. Rxb6 Rf5 29. d4 g5 30. fxg5 Rxg5 31. Kg2 Rf5 32.
+Nxc6 bxc6 33. a4 Rf8 34. a5 Ra8 35. a6 Kf7 36. Rxc6 Kf6 37. Kf3 Ra7 38. Kf4
+h5 39. h3 Ra8 40. g4 hxg4 41. hxg4 Rf8 42. a7 Ra8 43. Ra6 1-0
+

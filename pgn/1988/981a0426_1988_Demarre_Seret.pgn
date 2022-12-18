@@ -1,0 +1,23 @@
+[Event "Issy-Rouen"]
+[Site "Issy-Rouen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Demarre, Jacques"]
+[Black "Seret, Jean-Luc"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "981a0426"]
+[Epoch "Queen"]
+[WhiteID "600741"]
+[WhiteCountry "FRA"]
+[BlackID "600210"]
+[BlackCountry "FRA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. Nf3 O-O 6. O-O c6 7. h3 Nbd7 8. Bf4
+Qa5 9. Nd2 Qc7 10. Bh2 b5 11. b4 e5 12. Nb3 Re8 13. d5 cxd5 14. Nxd5 Nxd5 15.
+Qxd5 Bb7 16. Qxb5 Bxe4 17. Qa5 Qxc2 18. Bb5 Qc8 19. Rfd1 Bf8 20. Rac1 Qd8 21.
+Qxd8 Rexd8 22. Bxd7 Rxd7 23. Nc5 dxc5 24. Rxd7 Bf5 25. Rc7 cxb4 26. Bxe5 a5 27.
+Rb7 Re8 28. f4 a4 29. Ra7 a3 30. Rb7 h5 31. Kh2 Rd8 32. Rcc7 Be4 33. Rd7 Re8
+34. Ra7 Bf5 35. Rxf7 h4 36. Rh7 1-0

@@ -1,0 +1,23 @@
+[Event "Endingen MA"]
+[Site "Endingen MA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weiss, R."]
+[Black "Kurz, E."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "206de8af"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 d5 6. Bb5+ Bd7 7. exd5 Bxb5
+8. Nxb5 Qa5+ 9. N1c3 a6 10. Nd4 Nxd5 11. Bd2 Nxc3 12. Bxc3 Bb4 13. Ne2
+Bxc3+ 14. Nxc3 O-O 15. Qd4 Rd8 16. Qe3 Qb4 17. O-O Nc6 18. Rab1 Nd4 19. Qf2
+Qc4 20. a3 b5 21. Rfe1 a5 22. Re4 f5 23. Re3 b4 24. axb4 axb4 25. b3 Qc6
+26. Na4 Nxc2 27. Re5 Nd4 28. Nc5 Rd5 29. Nd3 Rxe5 30. Nxe5 Qc3 31. h3 Nxb3
+32. f4 Nd4 33. Rd1 Nc6 34. Qb6 Nxe5 35. fxe5 Qxe5 36. Qxb4 Ra1 37. Rxa1
+Qxa1+ 38. Kh2 Qe5+ 39. Kg1 Qe3+ 40. Kf1 h6 41. Qc4 Kh7 42. Qc2 Qf4+ 43. Kg1
+e5 44. Qc7 Qd4+ 45. Kf1 f4 46. Qf7 Qd3+ 47. Kg1 Qb1+ 48. Kf2 Qg6 49. Qf8
+Qf6 50. Qe8 Qf5 51. Kf3 Qd3+ 52. Kf2 Qd4+ 53. Kf1 e4 54. g4 Qd1+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schlenker, Rainer"]
+[Black "Leitner"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "bdf23203"]
+[Epoch "Queen"]
+[WhiteID "4605837"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Rd2 g5 12. fxg5 Ne5 13. Qd1 Nfg4 14. Ndb5
+axb5 15. Nxb5 Qc5 16. Nxd6+ Kf8 17. Nxc8 Rxc8 18. Qe1 Ng6 19. h3 Nxh4 20. hxg4
+Bxg5 21. Kb1 Bxd2 22. Qxd2 Ng6 23. Bd3 Kg7 24. Rf1 Rc7 25. Qe2 Qe5 0-1

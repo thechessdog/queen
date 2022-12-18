@@ -1,0 +1,17 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grun, Holger"]
+[Black "Christoff, Achim"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "73dec75d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 c6 5. Bd3 Bxd3 6. Qxd3 Nbd7 7. Nf3 g6
+8. O-O Bg7 9. Ne5 O-O 10. f4 Ne8 11. Rf3 f6 12. Nxd7 Qxd7 13. Bh4 Nd6 14.
+Ne2 Rac8 15. Bf2 f5 16. Rc1 Ne4 17. c4 e6 18. c5 b5 19. b4 a5 20. Be1 a4
+1/2-1/2
+

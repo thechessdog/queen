@@ -1,0 +1,21 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mikhailov, A."]
+[Black "Koshil, T."]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "8e14ed99"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. h3 Nf6 6. Bd3 dxe4 7. Nxe4 Nxe4
+8. Bxe4 O-O 9. O-O Nd7 10. c3 c5 11. Bc2 cxd4 12. Nxd4 Nc5 13. Be3 Ne6 14.
+Nb3 Qc7 15. f4 Bh6 16. Qf3 a5 17. Rad1 a4 18. Nd4 Bxf4 19. Bxf4 Qxf4 20.
+Qxf4 Nxf4 21. Rxf4 e5 22. Re4 exd4 23. Rexd4 a3 24. bxa3 Rxa3 25. Bb3 Be6
+26. Rb4 Ra7 27. Rd6 Re8 28. c4 Re7 29. Kf2 Kg7 30. Rdb6 h5 31. a4 Rc7 32.
+h4 Bd7 33. Bd1 Bc6 34. Kg3 Ra5 35. Bf3 Rc5 36. Bd5 Bxd5 37. cxd5 Rxd5 38.
+Rxb7 Rd3+ 39. Kh2 1/2-1/2
+

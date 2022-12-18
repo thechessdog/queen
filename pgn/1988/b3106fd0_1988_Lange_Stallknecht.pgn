@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lange, R."]
+[Black "Stallknecht"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b3106fd0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Re1 Nd4 7. Bc4 Nec6
+8. d3 d6 9. Nxd4 Nxd4 10. Rb1 g6 11. b4 Qc7 12. bxc5 dxc5 13. Nb5 Qd8 14.
+Nxd4 cxd4 15. f4 Bg7 16. e5 O-O 17. Ba3 Re8 18. Qf3 Bf8 19. Bxf8 Kxf8 20.
+Qf2 Re7 21. Rb2 b6 22. Re4 Rd7 23. Bb5 Bb7 24. Bxd7 Bxe4 25. Qxd4 Bb7 26.
+Qd6+ Kg7 27. g3 g5 28. Rb4 Bd5 29. a3 Bf3 30. Ba4 gxf4 31. Qxd8 Rxd8 32.
+Rxf4 Bd1 33. Rf1 Rd4 34. Bb3 Be2 35. Rf2 Bd1 36. Kf1 Rd7 37. Ke1 Bg4 38.
+Kd2 Bf5 39. Rf4 Rc7 1-0
+

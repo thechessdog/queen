@@ -1,0 +1,17 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Filen"]
+[Black "Koski"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "1173df11"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 b6 4. Nf3 Bb7 5. Nbd2 Be7 6. Bd3 h6 7. Qe2 d6 8.
+O-O-O Nbd7 9. g4 g5 10. Bg3 Nxg4 11. e4 Ngf6 12. h4 g4 13. Nh2 h5 14. f3
+gxf3 15. Ndxf3 Ng8 16. Rhf1 Nf8 17. c4 Ng6 18. e5 Nxh4 19. exd6 cxd6 20. c5
+Rc8 21. Kb1 Nxf3 22. Bb5+ Kf8 23. Nxf3 bxc5 24. dxc5 Rxc5 25. Nd4 1-0
+

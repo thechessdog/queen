@@ -1,0 +1,22 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nordstrom, Felix"]
+[Black "Kekki, Jorma"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "6313207d"]
+[Epoch "Queen"]
+[WhiteID "1701509"]
+[BlackID "500267"]
+[WhiteCountry "SWE"]
+[BlackCountry "FIN"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Rc1
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c5 12. bxc5 bxc5 13. dxc5 Qa5 14. Qd2 a6
+15. Ne4 Qxd2+ 16. Nexd2 Nc6 17. Be2 Rfe8 18. O-O d4 19. Nc4 dxe3 20. fxe3 Be7
+21. Nb6 Rad8 22. Kf2 Bf6 23. Rfd1 Rxd1 24. Rxd1 Rd8 25. Rb1 Be7 26. Na4 Na5 27.
+Rb6 Rd7 28. Bxa6 Bd8 29. Rxb7 1-0

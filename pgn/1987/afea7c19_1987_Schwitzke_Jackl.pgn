@@ -1,0 +1,20 @@
+[Event "corr DDR/C"]
+[Site "corr DDR/C"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schwitzke"]
+[Black "Jackl"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "afea7c19"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8.
+O-O Nbd7 9. f4 Rc8 10. a4 Be7 11. Be3 O-O 12. Kh1 Bc4 13. Bxc4 Rxc4 14. Qd3
+Rc8 15. a5 exf4 16. Rxf4 Ne5 17. Qe2 Nc4 18. Bd4 Nd7 19. Nd5 Nde5 20. Rd1
+Bg5 21. Rf2 Qe8 22. Bc3 Qe6 23. Rf5 Bd8 24. Rdf1 Qg6 25. h3 Kh8 26. Nd4 Re8
+27. Nf4 Qg3 28. Nf3 Nxf3 29. Rxf3 Qh4 30. Rh5 Qe7 31. Bxg7+ Kxg7 32. Rg3+
+Kh8 33. Rxh7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Copenhagen Obro op"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Lassen, Hans Jorgen"]
+[Black "Bronnum, Jan"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "2f4a41d2"]
+[Epoch "Queen"]
+[BlackID "1400908"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+Nbd7 9. a5 Be7 10. Nd2 b5 11. axb6 Nxb6 12. Nb5 axb5 13. Bxb5+ Bd7 14. Bxb6
+Rxa1 15. Qxa1 Qxb6 16. Nc4 Qb8 0-1

@@ -1,0 +1,26 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van der Heijden, H."]
+[Black "Luijpen, M."]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "edb3ba4c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O cxd4 11. cxd4 Na5 12. Bd3 b6 13. Rc1 e6 14.
+Qa4 Qd7 15. Bb5 Qb7 16. d5 exd5 17. exd5 a6 18. Bc6 Nxc6 19. dxc6 Qc7 20.
+Qb4 b5 21. Bf4 Be5 22. Bxe5 Qxe5 23. Rfe1 a5 24. Qd2 Be6 25. Nc3 Qf5 26.
+Ne4 Bc4 27. Qc3 f6 28. Nd6 Qc5 29. Nxc4 bxc4 30. Qxc4+ Qxc4 31. Rxc4 Rfc8
+32. g3 Kf7 33. Rd1 Ra7 34. Rd7+ Rxd7 35. cxd7 Rd8 36. Rh4 h5 37. Ra4 Rxd7
+38. Rxa5 Rd2 39. a4 Ra2 40. Ra6 Ke7 41. Ra8 Kf7 42. Ra7+ Ke6 43. Kg2 Kf5
+44. a5 Kg5 45. h4+ Kh6 46. a6 Ra3 47. Kf1 Ra2 48. Ke1 Ra1+ 49. Ke2 Ra3 50.
+Kd2 Rf3 51. Ke1 Ra3 52. Ke2 Ra2+ 53. Ke3 Ra3+ 54. Kd4 Rf3 55. Kc5 Rxf2 56.
+Rc7 g5 57. Kb6 Rb2+ 58. Kc6 Kg6 59. a7 Ra2 60. Kb7 Kf5 61. hxg5 fxg5 62.
+Rc6 Rxa7+ 63. Kxa7 h4 64. gxh4 gxh4 65. Kb6 h3 66. Kc5 Kf4 67. Kd4 Kf3 68.
+Rh6 Kg2 69. Ke3 h2 70. Rxh2+ 1/2-1/2
+

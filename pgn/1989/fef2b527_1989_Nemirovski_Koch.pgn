@@ -1,0 +1,24 @@
+[Event "Cannes op"]
+[Site "Cannes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemirovski, Serge"]
+[Black "Koch, Jean-Rene"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "fef2b527"]
+[Epoch "Queen"]
+[WhiteID "600318"]
+[WhiteCountry "FRA"]
+[BlackID "600148"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Qc7 6. Qe2 Nb6 7. Bd3 Nc6 8. Nf3
+d6 9. Bf4 Nd5 10. Bg3 dxc3 11. Nxc3 Nxc3 12. bxc3 Nd4 13. Nxd4 Qxc3+ 14. Qd2
+Qxa1+ 15. Ke2 Bg4+ 16. f3 Qxh1 17. fxg4 Qxg2+ 18. Bf2 Qxg4+ 19. Ke1 a6 20. Bf5
+Qg2 21. Qc2 Qd5 22. e6 Qa5+ 23. Kf1 g6 24. exf7+ Kxf7 25. Qb3+ Ke8 26. Be6 Rb8
+27. Bf7+ Kd7 28. Qh3+ Kc7 29. Ne6+ Kc6 30. Nd4+ Kc7 31. Ne6+ Kc6 32. Qf3+ Kd7
+33. Nc5+ dxc5 34. Qd5+ Kc7 35. Qe5+ Kb6 36. Qxb8 Bg7 37. Qf4 Rf8 38. Bg3 Qb5+
+39. Kg2 Qc6+ 40. Kh3 e5 0-1

@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmid"]
+[Black "Konle, W."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "7d02ab02"]
+[Epoch "Queen"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. a3 dxc4 8.
+Bxc4 O-O 9. h3 Nbd7 10. O-O Nb6 11. Ba2 Nbd5 12. Re1 e6 13. Bg5 Qd6 14. Qd2
+a6 15. Ne5 b5 16. Bxd5 exd5 17. Bf4 Qb6 18. b4 Bf5 19. f3 Rfd8 20. Rac1
+Rac8 21. Ne2 Ne8 22. Ng4 Bxg4 23. hxg4 Rc4 24. Be3 Nc7 25. Red1 Ne6 26. f4
+Re8 27. f5 Nd8 28. Bf2 gxf5 29. gxf5 Bh6 30. Nf4 Re4 31. g3 Bxf4 32. gxf4
+Qf6 33. Rxc4 bxc4 34. Be3 Qxf5 35. Kf2 Re6 36. Rh1 Rg6 37. Qe2 Ne6 38. Qf3
+Qc2+ 39. Kf1 Qb1+ 40. Kf2 Qb2+ 41. Kf1 Nxd4 42. Bxd4 Qxd4 43. f5 Rg5 44.
+Ke2 Qb2+ 45. Kd1 Rg2 46. Ke1 Qc1+ 47. Qd1 Qe3+ 48. Kf1 Qf2# 0-1
+

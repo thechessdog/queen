@@ -1,0 +1,18 @@
+[Event "Rsb Pionier2"]
+[Site "Rsb Pionier2"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hotting, Arend"]
+[Black "Den Heijer"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b8040311"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. d4 Bxf3 7. Qxf3
+cxd4 8. c3 e5 9. cxd4 exd4 10. Rd1 c5 11. Nc3 Qf6 12. Qh3 Qe6 13. Qxe6+
+fxe6 14. Na4 b5 15. Nb6 Rb8 16. Nd5 exd5 17. exd5 Nf6 18. Bf4 Rd8 19. Re1+
+Kf7 20. Bg5 0-1
+

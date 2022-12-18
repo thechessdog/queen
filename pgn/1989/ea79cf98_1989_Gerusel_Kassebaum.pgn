@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gerusel, Mathias"]
+[Black "Kassebaum, Roman"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "ea79cf98"]
+[Epoch "Queen"]
+[WhiteID "4601122"]
+[BlackID "4614208"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8. Nd2
+Nbd7 9. e4 Bxf1 10. Nxf1 Bg7 11. Ne3 Qa5 12. O-O O-O 13. Qe2 Rfb8 14. Nc4 Qa6
+15. Re1 Rb4 16. Na3 c4 17. Nc2 Rb7 18. Rd1 Ne8 19. Nd4 Ne5 20. Be3 Rc8 21. a3
+Nc7 22. Na2 Ra8 23. Rac1 Nd3 24. Rc2 e6 25. Nc1 exd5 26. exd5 Re8 27. Nxd3 cxd3
+28. Qxd3 Qxd3 29. Rxd3 Nxd5 30. g3 Nxe3 31. Rxe3 Ra8 32. Rd3 Ra4 33. Rc8+ Bf8
+34. b4 Kg7 35. Nc6 Ra6 36. Re3 Rbb6 37. Nb8 Ra8 38. Rxf8 Rbxb8 39. Rxb8 Rxb8
+40. Rb3 Kf6 41. b5 Ke6 42. a4 Kd5 43. a5 Kc4 44. a6 Kxb3 45. a7 Ra8 46. b6 Kc4
+47. b7 Rxa7 48. b8=Q Ra1+ 49. Kg2 Ra5 50. Qxd6 Rf5 51. g4 1-0

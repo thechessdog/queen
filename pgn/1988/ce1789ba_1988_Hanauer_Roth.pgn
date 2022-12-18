@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hanauer, A."]
+[Black "Roth, E."]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "ce1789ba"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 Re8 10. Ne3 d6 11. Qc2 Re5 12. Bd2 Ne7 13. f4 exf3 14.
+exf3 Nf5 15. Rae1 Nxe3 16. Bxe3 Bf5 17. Qd2 Qd7 18. Bd4 Rxe1 19. Rxe1 Re8
+20. Bxf6 gxf6 21. b3 Rxe1+ 22. Qxe1 Qe6 23. Qd2 Kg7 24. Kf2 1/2-1/2
+

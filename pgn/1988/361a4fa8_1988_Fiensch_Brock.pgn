@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fiensch"]
+[Black "Brock"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "361a4fa8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be2 Nf6 7. Be3 Be7
+8. O-O O-O 9. f4 Qc7 10. Kh1 a6 11. Qe1 Nxd4 12. Bxd4 b5 13. e5 dxe5 14.
+fxe5 Nd7 15. Ne4 Bb7 16. Nf6+ Nxf6 17. exf6 Bxf6 18. Bxf6 gxf6 19. Rxf6
+Qxc2 20. Qg3+ Kh8 21. Qe5 Qe4 1/2-1/2
+

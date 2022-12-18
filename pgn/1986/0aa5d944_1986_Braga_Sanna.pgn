@@ -1,0 +1,21 @@
+[Event "Cesenatico"]
+[Site "Cesenatico"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Braga, Fernando"]
+[Black "Sanna, Gianlazzaro"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "0aa5d944"]
+[Epoch "Queen"]
+[WhiteID "811408"]
+[WhiteCountry "ITA"]
+[BlackID "800112"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f3 Nxd4 10. Qxd4 Qa5 11. Qd2 Rd8 12. Kb1 Qc7 13. Nb5 Qd7 14. h4 a6
+15. Nd4 Qc7 16. g4 b5 17. h5 Bb7 18. Bd3 Rac8 19. Qe1 b4 20. h6 Ne8 21. Bxe7
+Qxe7 22. hxg7 Nxg7 23. Qxb4 1-0

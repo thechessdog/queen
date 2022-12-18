@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Ribli, Zoltan"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "729f36c8"]
+[Epoch "Queen"]
+[WhiteID "2300044"]
+[BlackID "700010"]
+[WhiteCountry "ISL"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Be7 9. Re1 O-O 10. Nxc6 dxc6 11. e5 Rd8 12. Qe2 Nd5 13. Nd1 b5 14. h4 Bb7 15.
+Qg4 c5 16. Bh6 Bf8 17. h5 Kh8 18. Bg5 Ne7 19. c3 h6 20. Bf4 Bxg2 21. Kxg2 Nd5
+22. Bc1 c4 23. Qe4 Rac8 24. Ne3 f5 25. exf6 Nxf6 26. Qxe6 Qb7+ 27. Kg1 Rc5 28.
+Qh3 Rxh5 29. Qg2 Qc8 30. a4 b4 31. cxb4 Bxb4 32. Rf1 Bc5 33. a5 Rd3 34. Ra4 Qe6
+35. Qf3 Re5 36. Rd1 Bxe3 37. Bxe3 Rxd1+ 38. Qxd1 Ng4 39. Ra3 Qf5 0-1

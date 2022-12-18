@@ -1,0 +1,18 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg op"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Neunzinger"]
+[Black "Moosberger"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "206f82ee"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Be3 cxd4 6. Bxd4 Bd7 7. Nbd2 Nxd4
+8. Nxd4 Ne7 9. Bd3 Qb6 10. N2b3 Nc6 11. Nf3 Rc8 12. a3 Na5 13. Nxa5 Qxa5+
+14. b4 Qc7 15. Qe2 Qc3+ 16. Kd1 Qxa1+ 17. Kd2 Qxh1 18. Bb5 a6 19. Bxd7+
+Kxd7 20. Qe3 Qxg2 21. Ng5 Be7 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eickhoff, H."]
+[Black "Gierse, HD."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "7fa6d79e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O b4 9. Na4 Bb7 10. f4 Bxe4 11. f5 e5 12. Bg5 Nbd7 13. Ne6 fxe6 14. fxe6
+Nb6 15. Bxf6 gxf6 16. Qg4 d5 17. Rad1 h5 18. Qg3 Ra7 19. Rf2 Rg7 20. Qe3
+Nxa4 21. Bxa4+ Ke7 0-1
+

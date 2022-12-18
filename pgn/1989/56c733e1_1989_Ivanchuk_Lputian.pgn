@@ -1,0 +1,20 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1989.05.01"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Lputian, Smbat G"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "56c733e1"]
+[Epoch "Queen"]
+[WhiteID "14100010"]
+[WhiteCountry "UKR"]
+[BlackID "13300024"]
+[BlackCountry "ARM"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. dxc5 Bxc5
+8. O-O Ne7 9. Nb3 Bd6 10. h3 O-O 11. c3 Bc7 12. Be3 Nf5 13. Bc5 Re8 14. Re1
+Rxe1+ 15. Qxe1 a5 16. Bf1 b6 17. Bd4 1/2-1/2

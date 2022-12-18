@@ -1,0 +1,21 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Wedberg, Tom"]
+[Result "0-1"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "432ecdd4"]
+[Epoch "Queen"]
+[WhiteID "1700057"]
+[WhiteCountry "SWE"]
+[BlackID "1700073"]
+[BlackCountry "SWE"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. c4 Bg7 5. Nc3 d6 6. a3 e5 7. O-O a5 8. e3 Nge7
+9. d4 exd4 10. exd4 O-O 11. dxc5 dxc5 12. Nd5 Nxd5 13. cxd5 Nd4 14. Nxd4 Bxd4
+15. Bh6 Re8 16. Qd2 Qb6 17. Rae1 Bd7 18. Rxe8+ Rxe8 19. Re1 Qxb2 20. Rxe8+ Bxe8
+21. Qe1 Qa1 22. Bc1 Bd7 23. d6 Bb2 24. Bd2 Qxe1+ 25. Bxe1 b6 0-1

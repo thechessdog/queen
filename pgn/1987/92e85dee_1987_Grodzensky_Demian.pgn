@@ -1,0 +1,20 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grodzensky, S."]
+[Black "Demian, V."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "92e85dee"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg7 5. h3 Nh6 6. Bf4 f6 7. exd5 cxd5 8.
+Nb5 Na6 9. c4 g5 10. Bh2 Nf5 11. Qa4 O-O 12. cxd5 Kh8 13. Bc4 Qb6 14. O-O
+Bd7 15. Qb3 Rfc8 16. a4 Bf8 17. Rfe1 Qa5 18. d6 exd6 19. Be6 Qd8 20. Qd5
+Ng7 21. Bxd7 Qxd7 22. Nxd6 Rc7 23. Rac1 Bxd6 24. Qxd6 Qxd6 25. Bxd6 Rd7 26.
+Be7 Ne8 27. Bc5 b6 28. Ba3 Kg8 29. Rc6 Nac7 30. g3 Nd5 31. a5 bxa5 32. Ra6
+1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ent"]
+[Black "Dobrinine"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "3fae7c40"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Qb4+ 9. Nd2 Nf4 10. Qe4 g5 11. a3 Qb6 12. Nf3 Bc5 13. Qc2 Be7 14.
+h4 Bb7 15. Nxg5 h6 16. Nxf7 Nxg2+ 17. Bxg2 Kxf7 18. Qf5+ Ke8 19. Be3 Qa5+
+20. b4 Bxb4+ 21. Ke2 Ba6 22. Qg6+ Kd8 23. Qf6+ Kc8 24. Qxh8+ Kb7 25. axb4
+Bxc4+ 26. Kf3 Qd5+ 27. Kg3 Rg8+ 28. Qxg8 Qxe5+ 29. Kg4 Bxg8 30. Rxa7+ Kb8
+31. Rha1 Be6+ 32. Kf3 Bd5+ 33. Ke2 Bc4+ 34. Kd1 Qh5+ 35. Kc1 1-0
+

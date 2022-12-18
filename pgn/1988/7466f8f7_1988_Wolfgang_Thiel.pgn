@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wolfgang"]
+[Black "Thiel"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "7466f8f7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. Qg4 Ne7 7. Qxg7
+Rg8 8. Qxh7 Qd5 9. f3 Rg6 10. Qh8+ Rg8 11. Qh7 f5 12. Kf2 Nbc6 13. Be3 Bd7
+14. c4 Qa5 15. fxe4 O-O-O 16. d5 Qc3 17. dxc6 Nxc6 18. Rd1 Rh8 19. Qg6 Rdg8
+20. Ne2 Qxc2 21. Rd2 Qxe4 22. Qf6 Ne5 23. Qe7 Bc6 24. Bxa7 Rxg2+ 25. Bxg2
+Qxg2+ 26. Ke3 Qe4+ 27. Kf2 Qf3+ 28. Ke1 Qxh1+ 29. Ng1 Nf3+ 30. Kd1 Nxd2 0-1
+

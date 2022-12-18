@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Creus, A."]
+[Black "Sagstroem, SE."]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "ecb373e1"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6
+8. O-O Ngf6 9. Re1 Be7 10. c4 O-O 11. Bxg6 hxg6 12. Bf4 Re8 13. Qc2 c5 14.
+Rad1 cxd4 15. Nxd4 Bb4 16. Bd2 Bxd2 17. Qxd2 a6 18. b4 Qc7 19. c5 Nd5 20.
+a3 N7f6 21. Ne4 Nxe4 22. Rxe4 Nf6 23. Rh4 Rad8 24. Qc2 e5 25. Nf3 Rxd1+ 26.
+Qxd1 Rd8 27. Qe2 Rd5 1/2-1/2
+

@@ -1,0 +1,24 @@
+[Event "Wroclaw"]
+[Site "Wroclaw"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Panczyk, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "442fb5f7"]
+[Epoch "Queen"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+[BlackID "1100211"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Ba6 13. Bg5 Bxc4 14. Bxc4 a6 15.
+Re1 Qd7 16. Bf1 h6 17. Bd2 b5 18. Rb1 b4 19. Na2 Rae8 20. f3 Nh5 21. g4 Nf6 22.
+Kh1 h5 23. g5 Nh7 24. Nc1 Qe7 25. f4 f6 26. gxf6 Nxf6 27. Qf3 Nxe4 28. Qg2 Bd4
+29. Qxg6+ Qg7 30. Qxg7+ Kxg7 31. Nb3 Nxd2 32. Nxd2 Rxe1 33. Rxe1 Bxb2 34. Nc4
+Bc3 35. Re7+ Rf7 36. Rxf7+ Kxf7 37. Nxd6+ Ke7 38. Ne4 Nxd5 39. Nxc5 a5 40. Nb3
+Nb6 41. Bb5 Nd5 42. Nxa5 Nxf4 43. Nb3 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr NLD sr"]
+[Site "corr NLD sr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Hamers"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "e4bd2474"]
+[Epoch "Queen"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+
+1. Nf3 d5 2. d4 Nf6 3. c3 Bf5 4. Nbd2 e6 5. e3 Bd6 6. h3 Nbd7 7. Qb3 Nb6 8. c4
+dxc4 9. Bxc4 O-O 10. Ng5 Nxc4 11. Nxc4 h6 12. Nf3 Be4 13. Ke2 c5 14. g4 cxd4
+15. exd4 Bc7 16. Rd1 Bd5 17. g5 hxg5 18. Bxg5 b5 19. Nfe5 Bxc4+ 20. Nxc4 bxc4
+21. Qxc4 Qd5 22. Qxd5 Nxd5 23. Rac1 Bf4 24. Bxf4 Nxf4+ 25. Kf3 Nxh3 26. Kg3 Ng5
+27. Kh4 f6 28. f4 Ne4 29. Kh5 f5 30. Rg1 Rf6 31. Rg6 Rxg6 32. Kxg6 Rf8 0-1

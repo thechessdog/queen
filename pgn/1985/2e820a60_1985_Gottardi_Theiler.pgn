@@ -1,0 +1,16 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gottardi"]
+[Black "Theiler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "2e820a60"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Ng4 10. Qh3 Bxd4+ 11. Kh1 Bf6 12. Ng5 Bxg5 13. Bxg5 Nge5
+14. Rad1 Bd7 15. Nd5 Re8 16. Bxe7 Rxe7 17. Nf6+ Kf8 18. Qxh7 1-0
+

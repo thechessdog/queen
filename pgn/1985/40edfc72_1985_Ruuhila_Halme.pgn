@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ruuhila"]
+[Black "Halme"]
+[Result "0-1"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "40edfc72"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e3 Bg4 7. Bxc4 e6 8.
+O-O Nb4 9. Qe2 Be7 10. Rd1 O-O 11. a5 Qc7 12. h3 Bh5 13. b3 Rfd8 14. Bb2 b5
+15. Bd3 Nxd3 16. Rxd3 b4 17. Nb1 Rd5 18. a6 Ne4 19. Rd1 Bh4 20. Rf1 Rg5 21.
+g4 Bxg4 22. hxg4 Rxg4+ 23. Kh1 Bxf2 0-1
+

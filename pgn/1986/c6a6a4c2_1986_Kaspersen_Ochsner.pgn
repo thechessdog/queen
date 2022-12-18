@@ -1,0 +1,21 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "7"]
+[White "Kaspersen, Morten"]
+[Black "Ochsner, Thomas"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "c6a6a4c2"]
+[Epoch "Queen"]
+[WhiteID "1402897"]
+[BlackID "1400711"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8. Nh4
+c6 9. cxd5 Nxd5 10. Nf5 Na6 11. e4 Ndc7 12. Nc3 Nc5 13. Bf4 Bg5 14. Qg4 N7e6
+15. Bd6 Bd2 16. Rfd1 Bxc3 17. bxc3 h5 18. Qxh5 Re8 19. Qg4 Qf6 20. e5 Qg5 21.
+Qxg5 Nxg5 22. Bxc5 bxc5 23. f4 1-0

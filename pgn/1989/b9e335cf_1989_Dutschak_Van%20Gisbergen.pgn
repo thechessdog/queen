@@ -1,0 +1,21 @@
+[Event "Hamburg-chIJ"]
+[Site "Hamburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dutschak, Hauke"]
+[Black "Van Gisbergen, Stan"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "b9e335cf"]
+[Epoch "Queen"]
+[WhiteID "4609344"]
+[WhiteCountry "GER"]
+[BlackID "1002066"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 O-O 8. O-O
+d5 9. d3 dxe4 10. dxe4 h6 11. Nh4 Bg4 12. f3 Bc5+ 13. Kh1 Bd7 14. Nd2 Nh5 15.
+Qe1 Nf4 16. Bc2 g6 17. g3 Be7 18. Nf5 gxf5 19. gxf4 exf4 20. Nb3 Bh4 21. Qe2
+Ne5 22. Bxf4 Qf6 23. Qd2 Ng6 24. Rg1 Bc6 25. Nd4 Kh7 26. e5 1-0

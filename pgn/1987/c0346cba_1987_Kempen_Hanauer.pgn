@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kempen, W."]
+[Black "Hanauer, A."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "c0346cba"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8.
+h5 h6 9. a4 Qc7 10. Rh3 Bd7 11. Ba3 cxd4 12. cxd4 Nf5 13. c3 Qa5 14. Ne2
+Rc8 15. g4 Nfe7 16. f4 O-O 17. g5 Kh8 18. gxh6 gxh6 19. Qb3 b6 20. Kf2 Rg8
+21. Ng3 Nxd4 22. cxd4 Qd2+ 23. Ne2 Nf5 24. Ra2 1-0
+

@@ -1,0 +1,22 @@
+[Event "Mazatlan"]
+[Site "Mazatlan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Valvo"]
+[Black "Novikov"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "c1ca9fba"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Be3 O-O 10. f4 Qc7 11. a4 b4 12. Na2 Bb7 13. Nxb4 Bxe4 14. c3
+Qb7 15. Rf2 Nbd7 16. Bc2 Rfc8 17. Bxe4 Nxe4 18. Re2 Bf6 19. f5 Rxc3 20.
+fxe6 Qxb4 21. exd7 Rxe3 22. Nc2 Rxe2 23. Nxb4 Rd2 24. Qc1 Bd4+ 25. Kf1 Rf2+
+26. Ke1 Nc5 27. Qc4 Rf4 28. Qd5 Rd8 29. Qxd6 Re4+ 30. Kf1 g5 31. Re1 Rxe1+
+32. Kxe1 Rxd7 33. Qb8+ Kg7 34. Nc6 Nd3+ 35. Kf1 Bxb2 36. g3 Bf6 37. a5 Rd5
+38. Qc8 Rd6 39. Nb8 Re6 40. Nd7 Bd4 41. Qf8+ Kg6 42. Qg8+ Kh6 43. Qxf7 Re1+
+44. Kg2 Re2+ 45. Kh1 Re1+ 46. Kg2 Rg1+ 0-1
+

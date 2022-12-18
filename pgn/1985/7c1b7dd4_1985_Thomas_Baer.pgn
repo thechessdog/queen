@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thomas"]
+[Black "Baer"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "7c1b7dd4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8.
+dxe5 Bb6 9. Nbd2 Na5 10. Qa3 Nxc4 11. Nxc4 Bc5 12. Qb3 Qg4 13. O-O Qxe4 14.
+Re1 Qc6 15. exd6+ Be6 16. Nfe5 Qa6 17. Nxf7 Kxf7 18. Rxe6 Bxf2+ 19. Kxf2
+Kxe6 20. Nb6+ Kf6 21. Nd7+ Kg6 22. Qe6+ Nf6 23. Ne5+ Kh5 24. Qh3# 1-0
+

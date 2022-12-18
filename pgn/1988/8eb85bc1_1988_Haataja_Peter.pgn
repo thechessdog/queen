@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Haataja, R."]
+[Black "Peter, D."]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "8eb85bc1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. Qb3
+Qe7 9. O-O g4 10. Nh2 f3 11. Nxg4 Bxg4 12. Qxb7 Nxd4 13. Qxa8+ Kd7 14. gxf3
+Bxf3 15. cxd4 Bxd4+ 16. Rf2 Qxh4 17. Bb5+ Ke7 18. Qe8+ Kf6 19. Qd8+ Ne7 20.
+Qxh8+ Ke6 21. Qxd4 Qh1# 0-1
+

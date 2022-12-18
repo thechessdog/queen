@@ -1,0 +1,22 @@
+[Event "Spring op"]
+[Site "Budapest"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Vogt, Lothar"]
+[Black "Cladouras, Panagiotis"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "8c20bf2b"]
+[Epoch "Queen"]
+[WhiteID "4611292"]
+[BlackID "4600959"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Ne3 Nc6 16. a3 exd4 17. Nxd4 Nxd4 18. Qxd4 d5 19. e5 Bc5 20. Qf4 Rfe8 21. Nf1
+Nh5 22. Bxh7+ Kxh7 23. Qxf7 Rxe5 24. Rxe5 Qxe5 25. Qxd7 Bxf2+ 26. Kxf2 Rf8+ 27.
+Kg1 Qe1 0-1

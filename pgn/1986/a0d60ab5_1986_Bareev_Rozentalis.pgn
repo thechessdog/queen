@@ -1,0 +1,24 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bareev, Evgeny"]
+[Black "Rozentalis, Eduardas"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "a0d60ab5"]
+[Epoch "Queen"]
+[WhiteID "4100140"]
+[BlackID "12800023"]
+[WhiteCountry "CAN"]
+[BlackCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. cxd5 exd5 8.
+e3 Bf5 9. Ne2 c5 10. g4 Bg6 11. Nf4 Nbd7 12. h4 h6 13. Nxg6 fxg6 14. Bd3 Qc7
+15. Ke2 Qd6 16. Rb1 b6 17. Qg1 Ne8 18. g5 h5 19. Qh2 Qe6 20. Qh3 Qf7 21. dxc5
+Nxc5 22. Bc2 Nd6 23. Rb4 Rae8 24. Rd1 Nc4 25. Qg3 Re7 26. Rd4 Ne6 27. Rd1 Nc5
+28. Rd4 a5 29. Rb1 Qe6 30. f4 Rfe8 31. Kd1 Ne4 32. Bxe4 dxe4 33. Rb5 Rd7 34. a4
+Qc6 35. Qg2 Rxd4+ 36. cxd4 Rc8 37. Qa2 Qe6 38. Qg2 Kh8 39. f5 gxf5 40. g6 Qf6
+41. Rd5 Kg8 42. Qg5 Qxg5 43. hxg5 h4 44. Rxf5 Rf8 0-1

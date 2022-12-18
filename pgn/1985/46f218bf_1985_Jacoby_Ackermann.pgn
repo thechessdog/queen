@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jacoby, Gisbert"]
+[Black "Ackermann, Hans Werner"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "46f218bf"]
+[Epoch "Queen"]
+[WhiteID "4604768"]
+[BlackID "4605918"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 O-O 8.
+Bd2 Nxc3 9. bxc3 Be7 10. Bh6 g6 11. Bd3 Qa5 12. O-O Qxe5 13. Bxf8 Bxf8 14. Rae1
+Qc5 15. c4 Nc6 16. Nb3 Qa3 17. f4 d6 18. f5 exf5 19. Bxf5 Bxf5 20. Rxf5 Ne5 21.
+Qg3 Bg7 22. Rf4 a5 23. Qf2 a4 24. Nd4 Qxa2 25. Nb5 a3 26. Qb6 Qb2 27. Qxb7 Rf8
+28. Qd5 a2 29. Rff1 Ng4 30. c3 Be5 31. Qd1 Bxh2+ 32. Kh1 Nf2+ 33. Rxf2 Qxf2 34.
+Kxh2 Ra8 35. Nxd6 a1=Q 0-1

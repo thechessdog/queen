@@ -1,0 +1,24 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tomaszewski, Roman"]
+[Black "Nowak, Ignacy"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "c0145322"]
+[Epoch "Queen"]
+[WhiteID "1100637"]
+[BlackID "1100157"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O a6 8. h3
+Rb8 9. Bg5 h6 10. Be3 b5 11. cxb5 axb5 12. Qc1 Kh7 13. Nxb5 Rxb5 14. Qxc6 Rxb2
+15. Rfc1 Kg8 16. Nd2 Bb7 17. Qc3 Rb5 18. a4 Nd5 19. Bxd5 Rxd5 20. Qxc7 Ba6 21.
+Qxd8 Rxd8 22. Ne4 Bxd4 23. Nc3 Bxc3 24. Rxc3 Bxe2 25. Bb6 Ra8 26. a5 Rd3 27.
+Rc7 e5 28. Be3 Rd1+ 29. Rxd1 Bxd1 30. Ra7 Rxa7 31. Bxa7 Kf8 32. Be3 h5 33. f4
+Be2 34. Kf2 Ba6 35. fxe5 dxe5 36. g4 f5 37. gxf5 gxf5 38. Ba7 Kf7 39. h4 f4 40.
+Bb8 Ke6 41. Bc7 Kf5 42. Bb8 e4 0-1

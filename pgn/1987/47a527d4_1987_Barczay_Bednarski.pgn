@@ -1,0 +1,18 @@
+[Event "Myslenice A"]
+[Site "Myslenice A"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Bednarski, Jacek B"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "47a527d4"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. f4 fxe5 10. fxe5 Nxd4 11. Nxd4 Qh4+ 12. g3 Qxd4 13. Nf3 Qb6 14. Qc2 h6
+15. Bg6+ Kd8 16. Bd2 Bb4 1/2-1/2

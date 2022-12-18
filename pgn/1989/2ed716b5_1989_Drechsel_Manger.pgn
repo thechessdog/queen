@@ -1,0 +1,19 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Drechsel"]
+[Black "Manger"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2ed716b5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8.
+Bxf7+ Kxf7 9. Ng5+ Kg8 10. e6 Qe8 11. d5 Nd8 12. O-O h6 13. Ne4 Nxe6 14.
+dxe6 Bxe6 15. Nbc3 g6 16. Be3 Bg7 17. Bd4 Qd7 18. Bxg7 Kxg7 19. Qd4+ Kh7
+20. b3 Rhf8 21. Nd2 Rf5 22. Nf3 Raf8 23. Rae1 Rxf3 24. gxf3 Bh3 25. Re3
+Bxf1 26. Kxf1 e5 27. Qd3 Qe6 28. Qe4 Rf7 29. f4 Qf6 30. Ne2 0-1
+

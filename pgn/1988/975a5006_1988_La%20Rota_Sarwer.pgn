@@ -1,0 +1,16 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "La Rota, Fabio"]
+[Black "Sarwer, J."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "975a5006"]
+[Epoch "Queen"]
+[WhiteID "4400216"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Bg4 6. g3 Nbd7 7. Nd6# 1-0

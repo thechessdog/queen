@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kohn"]
+[Black "Melzer"]
+[Result "1-0"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "aa550b1e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d5 7. cxd5 exd5
+8. e3 c6 9. Bd3 Be6 10. Qc2 Nbd7 11. f4 Nb6 12. Nf3 h6 13. O-O Nc8 14. a4
+Re8 15. f5 Bd7 16. Ne5 Nd6 17. Ba3 Nde4 18. c4 Rc8 19. Qa2 Rxe5 20. dxe5
+Ng4 21. cxd5 Nc3 22. Qc4 Nxe3 23. Qxc3 cxd5 24. Qd4 Nxf1 25. Rxf1 Bc6 26.
+f6 1-0
+

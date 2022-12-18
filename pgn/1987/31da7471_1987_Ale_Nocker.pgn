@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ale"]
+[Black "Nocker"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "31da7471"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 f6 8. Be2
+Qc7 9. O-O fxe5 10. Nxe5 Nxe5 11. dxe5 Qxe5 12. Re1 Qd6 13. b3 Nf6 14. bxc4
+Be7 15. Bf3 O-O 16. Qb3 Bd8 17. Nf1 dxc4 18. Qxc4 Nd5 19. a4 Bb6 20. Ba3
+Rf4 21. Qxc8+ 1-0
+

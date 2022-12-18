@@ -1,0 +1,17 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jellison, D."]
+[Black "Blankenau, Mike"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "f4414b26"]
+[Epoch "Queen"]
+[BlackID "2011603"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 Nxc3 8. bxc3
+Bb7 9. e6 f6 10. Be3 Qd5 11. Qb1 Nc6 12. axb5 axb5 13. Rxa8+ Bxa8 14. Be2 Nd8
+15. Nh4 Qe4 16. Qxb5+ Bc6 17. Qxc4 Qxh4 18. O-O f5 19. Ra1 g6 20. Qxc6+ 1-0

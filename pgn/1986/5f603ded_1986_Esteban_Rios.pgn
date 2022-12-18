@@ -1,0 +1,20 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Esteban"]
+[Black "Rios"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "5f603ded"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. Nb3
+Nc4 15. d5 a5 16. Nbd2 Ba6 17. b3 Nb6 18. Bb2 b4 19. Rc1 Qb7 20. Nf1 Nbd7
+21. Ne3 g6 22. Bb1 Rdc8 23. Qd2 Rxc1 24. Rxc1 Nc5 25. Rxc5 dxc5 26. Nxe5
+Rd8 27. Ba1 Ne8 28. N3g4 f6 29. Nxg6 hxg6 30. Qh6 Bf8 31. Qxg6+ Bg7 32.
+Bxf6 1-0
+

@@ -1,0 +1,15 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Yuneev, Alexey"]
+[Black "Lukin, Andrei M"]
+[Result "1/2-1/2"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Rubinstein variation"]
+[HashCode "ccb053a3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. O-O Ng6 8. Be3
+Be7 9. Nbd2 h6 10. dxe5 Ncxe5 11. Nxe5 Nxe5 12. Bxd7+ 1/2-1/2

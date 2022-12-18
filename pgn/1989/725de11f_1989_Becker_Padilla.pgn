@@ -1,0 +1,16 @@
+[Event "National Open Reserve"]
+[Site "National Open Reserve"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Becker, W."]
+[Black "Padilla, R."]
+[Result "0-1"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "725de11f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 Bc5 5. Nxe5 Qg5 6. Ng4 d5 7. c3 Bxg4
+8. f3 Nxf3+ 9. gxf3 Qh4+ 10. Ke2 Qf2+ 11. Kd3 dxc4+ 12. Kc2 Bxf3 0-1
+

@@ -1,0 +1,24 @@
+[Event "Plymouth ch-BCF"]
+[Site "Plymouth ch-BCF"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Motwani, Paul"]
+[Black "Sugden, John N"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "80fff8e8"]
+[Epoch "Queen"]
+[WhiteID "2400022"]
+[WhiteCountry "SCO"]
+[BlackID "402001"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. c4 e5 3. Nf3 d6 4. d4 Nd7 5. Nc3 g6 6. g3 Bg7 7. Bg2 Ne7 8. O-O O-O
+9. b3 exd4 10. Nxd4 Nc5 11. Bb2 f5 12. Qd2 fxe4 13. Nxe4 Nxe4 14. Bxe4 d5 15.
+cxd5 Nxd5 16. Bg2 Nc7 17. Qb4 Qf6 18. Rae1 a5 19. Qc5 Bf5 20. Qc4+ Rf7 21. Nxf5
+Qxf5 22. Bxg7 Kxg7 23. f4 Re8 24. Rxe8 Nxe8 25. Re1 Nc7 26. Qc3+ Kg8 27. h3 Rd7
+28. Kh2 Kf7 29. Re4 Re7 30. Rxe7+ Kxe7 31. Qg7+ Qf7 32. Qe5+ Kd7 33. Qxa5 Qf6
+34. Qd2+ Kc8 35. h4 Kb8 36. Qd7 h6 37. Qh7 g5 38. hxg5 hxg5 39. Qg8+ Ka7 40.
+Qxg5 Qb2 41. Qe5 1-0

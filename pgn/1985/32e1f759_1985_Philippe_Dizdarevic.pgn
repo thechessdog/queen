@@ -1,0 +1,16 @@
+[Event "Arandjelovac tt"]
+[Site "Arandjelovac tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Philippe"]
+[Black "Dizdarevic, Emir"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "32e1f759"]
+[Epoch "Queen"]
+[BlackID "14400049"]
+[BlackCountry "BIH"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. f3 Qb6 5. Na4 Qa5+ 6. c3 Nbd7 7. Nh3 e5 8. Bd2
+b5 0-1

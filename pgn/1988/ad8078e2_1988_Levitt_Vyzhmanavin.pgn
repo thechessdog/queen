@@ -1,0 +1,19 @@
+[Event "Protvino"]
+[Site "Protvino"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Levitt, Jonathan P"]
+[Black "Vyzhmanavin, Alexei"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "ad8078e2"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O Bxc3 8.
+bxc3 d6 9. Qc2 e5 10. dxc5 dxc5 11. Ng5 h6 12. Ne4 Qe7 13. Nxf6+ Qxf6 14. Be4
+Be6 15. Bd5 Rad8 16. e4 Na5 17. Qe2 b6 18. Bd2 Qg6 19. f4 exf4 20. Rxf4 Rfe8
+21. Raf1 Bxd5 22. cxd5 Rxd5 23. Rxf7 Rxe4 24. Qf2 Nc4 25. Bxh6 Qxh6 26. Rf8+
+Kh7 27. Qf7 Qe6 0-1

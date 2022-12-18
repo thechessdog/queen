@@ -1,0 +1,15 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Palma, D."]
+[Black "Musso, P."]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "533e7f28"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 c5 4. Bg2 Nc6 5. O-O cxd4 6. Nxd4 e5 7. c4 exd4
+0-1
+

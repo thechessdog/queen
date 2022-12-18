@@ -1,0 +1,20 @@
+[Event "Frunze open"]
+[Site "Frunze open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Magomedov, Magaram"]
+[Black "Yuneev, Alexey"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "fa161443"]
+[Epoch "Queen"]
+[WhiteID "4156757"]
+[WhiteCountry "RUS"]
+[BlackID "4104315"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Nc6 7. Bg2 Bd7 8. O-O
+Be7 9. Nxc6 Bxc6 10. a4 O-O 11. Bg5 Qa5 12. Qd2 Rfd8 13. Nd5 Qxd2 14. Nxe7+ Kf8
+15. Bxd2 1/2-1/2

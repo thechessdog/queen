@@ -1,0 +1,19 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grabczewski, Romuald"]
+[Black "Trylski, Antoni"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "1dcf51c3"]
+[Epoch "Queen"]
+[BlackID "1105850"]
+[BlackCountry "POL"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Rg1 Nc6 8. Be3
+a6 9. Be2 Qc7 10. h4 g6 11. g5 hxg5 12. hxg5 Nd7 13. f4 b6 14. Nxc6 Qxc6 15.
+Qd4 Rh3 16. O-O-O Qc5 17. Bf2 Qxd4 18. Bxd4 1/2-1/2

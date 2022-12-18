@@ -1,0 +1,22 @@
+[Event "corr DFSM"]
+[Site "corr DFSM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mergner"]
+[Black "Kling"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "a22015d9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
+8. Be2 Bc5 9. O-O dxc3+ 10. Kh1 O-O 11. Qe1 Nd4 12. Bd1 Nxf3 13. Bxf3 c6
+14. Qg3 Kh8 15. Be4 f5 16. exf6 Rxf6 17. Bg5 Rxf1+ 18. Rxf1 Qg8 19. Qe5 Bb4
+20. Rf4 Qxa2 21. h3 Qe6 22. Qd4 Bd6 23. Rh4 Qe5 24. Qxe5 Bxe5 25. Bxh7 Bf6
+26. Bg6+ Kg8 27. Re4 Bf5 28. Bxf5 Bxg5 29. Rb4 Rb8 30. Be4 a5 31. Rb1 Bf4
+32. Ra1 Ra8 33. Kg1 a4 34. Kf2 Kf7 35. d4 Ke6 36. Ke2 Kd6 37. Kd3 Bd2 38.
+Kc4 b5+ 39. Kb4 Rf8 40. g3 Re8 41. Bf3 Re3 42. Rf1 Be1 43. Bg4 Re4 44. Rf4
+Re7 45. Bf3 Re3 46. Be4 Bxg3 47. Rg4 g5 48. Bf5 Kd5 49. Rxg5 Bd6+ 50. Ka5
+a3 51. Bd7+ Kxd4 52. Bxc6 a2 53. Rd5+ Kc4 54. Rd1 Kc5 55. Bxb5 Re7 0-1
+

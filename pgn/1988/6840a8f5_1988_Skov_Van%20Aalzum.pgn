@@ -1,0 +1,20 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Skov, P."]
+[Black "Van Aalzum, J."]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "6840a8f5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. g3 Nc6 8. c3
+Bh3 9. Rf2 Nf6 10. Qc2 Qd7 11. e5 dxe5 12. dxe5 fxg3 13. Rd2 Qg4 14. exf6
+gxh2+ 15. Kxh2 Qf4+ 16. Kxh3 g4+ 17. Kg2 gxf3+ 18. Kf2 Qxc4 19. fxg7 Rg8
+20. Qh7 Qh4+ 21. Kxf3 Ne5+ 22. Ke3 Qg3+ 23. Ke2 Rxg7 24. Qe4 Kf8 25. Qxb7
+Qg4+ 26. Ke3 Qg1+ 27. Rf2 Ng4+ 28. Kd3 Nxf2+ 29. Kc4 Rg4+ 30. Kb5 Rd8 31.
+Bxh6+ Kg8 0-1
+

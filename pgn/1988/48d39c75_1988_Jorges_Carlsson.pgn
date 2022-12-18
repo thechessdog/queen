@@ -1,0 +1,18 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jorges"]
+[Black "Carlsson"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "48d39c75"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ng8 6. d4 Be7 7. Be2 c6 8.
+Be3 Bf5 9. f4 Nh6 10. g4 Bd7 11. f5 Bh4+ 12. Kd2 Bg5 13. h4 Bxe3+ 14. Kxe3
+O-O 15. Bd3 c5 16. Nb5 Qb6 17. Nd6 Qxb2 18. Ne2 Nxg4+ 19. Kf3 h5 20. Rb1
+Qxa2 21. Rxb7 c4 22. Bxc4 dxc4 23. Qc1 Bc6+ 0-1
+

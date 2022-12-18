@@ -1,0 +1,20 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Jahr, Ulrich"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "7f6288d8"]
+[Epoch "Queen"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+[BlackID "4605977"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. a3 Bxc3+ 7. bxc3 cxd4 8.
+Bd3 Qc7 9. Ne2 Nbc6 10. cxd4 Bd7 11. Qxg7 Rg8 12. Qxh7 Nxd4 13. f4 O-O-O 14.
+Bd2 Nxe2 15. Bxe2 Rxg2 16. Qxf7 Qc5 17. Kd1 Rg1+ 0-1

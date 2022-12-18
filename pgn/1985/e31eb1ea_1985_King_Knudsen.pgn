@@ -1,0 +1,22 @@
+[Event "Kecskemet op"]
+[Site "Kecskemet op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "King, Daniel J"]
+[Black "Knudsen, Per"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "e31eb1ea"]
+[Epoch "Queen"]
+[WhiteID "400068"]
+[BlackID "1400509"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEN"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Nb6 9. Be3 Bxf3 10. gxf3 e6 11. O-O-O Qc7 12. Kb1 O-O-O 13. Bh3 Kb8 14. Nb5
+Qe7 15. Bf4+ e5 16. dxe5 g5 17. Bg3 Bg7 18. Nd6 Rxd6 19. Rxd6 h5 20. e6 Ka8 21.
+Rhd1 h4 22. Rd7 Nxd7 23. Rxd7 Qb4 24. Qxb4 Nxb4 25. Bd6 Nc6 26. Rxf7 Bd4 27. e7
+Nxe7 28. Bxe7 Bxf2 29. Rf8+ 1-0

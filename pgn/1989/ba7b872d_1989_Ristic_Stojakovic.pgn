@@ -1,0 +1,22 @@
+[Event "Zlatibor"]
+[Site "Zlatibor"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ristic, Nenad"]
+[Black "Stojakovic, Branko"]
+[Result "1-0"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, Botvinnik variation"]
+[HashCode "ba7b872d"]
+[Epoch "Queen"]
+[WhiteID "901318"]
+[WhiteCountry "SRB"]
+[BlackID "14500833"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. c4 O-O 6. O-O Nbd7 7. Nc3 c6 8. Qd3
+b6 9. e4 Bb7 10. Rd1 Qc8 11. b3 Rd8 12. e5 Ne8 13. Ng5 Nf8 14. Qf3 f6 15. exf6
+gxf6 16. Nh3 Ng6 17. Nf4 Ng7 18. Bh3 f5 19. Bg2 dxc4 20. bxc4 Bf6 21. Bb2 Nxf4
+22. Qxf4 Rd7 23. Ne4 Be7 24. Ng5 Qd8 25. h4 Bf6 26. Rd2 e5 27. dxe5 Rxd2 28.
+exf6 Rxb2 29. fxg7 Qd2 30. Qxf5 1-0

@@ -1,0 +1,16 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Engqvist, Thomas"]
+[Black "Lowbeer, A."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "8cf00f57"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 h6 8. Bh4
+Bg7 9. e3 Qa5 10. Nd2 a6 11. Nc4 Qc7 12. Bg3 Bf8 13. Qf3 Nh5 14. Ne4 Nxg3 15.
+Qxg3 b5 16. Ncxd6+ Bxd6 17. Nxd6+ Ke7 18. Qe5+ 1-0

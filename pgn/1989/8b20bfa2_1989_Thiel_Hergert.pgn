@@ -1,0 +1,17 @@
+[Event "Saarbrucken"]
+[Site "Saarbrucken"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thiel"]
+[Black "Hergert, V."]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "8b20bfa2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
+e6 9. Bc4 axb5 10. Bxb5 exd5 11. Nxd5 Nxd5 12. Qxd5 Qa5+ 13. Bd2 Qxb5 14.
+Qxa8 Qd3 15. Qa5 Ba6 16. Kd1 Bxb2 17. Rc1 Nc6 18. Qxc5 Bxc1 19. Kxc1 Rb8
+20. Qc2 Qa3+ 21. Kd1 Bd3 22. Qc3 Rb1+ 0-1
+

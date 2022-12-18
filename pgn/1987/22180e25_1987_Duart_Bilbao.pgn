@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Duart Fernandez"]
+[Black "Bilbao Reigadas"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "22180e25"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 e5 12. e4 c4 13. Bxc4 Nxd4 14.
+Nxe5 Qxe5 15. cxd4 Qxe4 16. Re1 Qc6 17. Qf3 Ne4 18. Bf4 Bf5 19. Rac1 Qf6
+20. Be5 Qe7 21. Bd5 Nf6 22. Bxb7 Be6 23. d5 Rab8 24. Bxb8 Rxb8 25. dxe6 Kf8
+26. Rc8+ 1-0
+

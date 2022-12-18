@@ -1,0 +1,21 @@
+[Event "Vantaa SM op"]
+[Site "Vantaa SM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Virtanen, Antti"]
+[Black "Lammi, Jyri"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "677ef249"]
+[Epoch "Queen"]
+[WhiteID "501930"]
+[BlackID "501263"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. Bf4 c6 6. e3 O-O 7. Qc2 Nbd7 8. h3
+b6 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bg3 b5 12. Be2 Qa5 13. O-O Nxc3 14. bxc3 Ba3
+15. Rab1 Ba6 16. Ng5 g6 17. Qe4 Rfc8 18. Qh4 Nf8 19. Ne4 Qd8 20. Nf6+ Kh8 21.
+Be5 Bd6 22. Nxh7+ Bxe5 23. Nf6+ Kg7 24. dxe5 Rc7 25. Rbd1 Qe7 26. Rd6 b4 1-0

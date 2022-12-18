@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Hermlin"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "1b8557fd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O c5 8.
+cxd5 exd5 9. dxc5 bxc5 10. Ne2 Bg4 11. b3 Nc6 12. Bb2 d4 13. exd4 Bxf3 14.
+gxf3 Nxd4 15. Nxd4 cxd4 16. Bxd4 Qd6 17. Rc1 Rac8 18. Rxc8 Rxc8 19. Be3
+1/2-1/2
+

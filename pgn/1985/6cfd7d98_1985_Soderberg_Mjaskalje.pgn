@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Soderberg, P."]
+[Black "Mjaskalje, SM."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "6cfd7d98"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 Bb7 10. f5 e5 11. Nf3 O-O 12. Qe1 Nbd7 13. Bg5 b4 14. Bxf6
+Nxf6 15. Nd5 Bxd5 16. Bxd5 Nxd5 17. exd5 Qb6+ 18. Kh1 Rac8 19. Qe4 Rc7 20.
+Rfd1 Rfc8 21. Rd2 Rc4 22. Qe2 Bf6 23. Ne1 e4 24. Rb1 Kf8 25. b3 Rd4 26.
+Rxd4 Qxd4 27. Qxa6 Rd8 28. Qb5 Qf2 29. g3 Bc3 30. Ng2 Qxc2 31. Rf1 Qd3 0-1
+

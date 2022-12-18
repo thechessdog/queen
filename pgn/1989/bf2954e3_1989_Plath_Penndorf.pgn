@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Plath"]
+[Black "Penndorf"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "bf2954e3"]
+[Epoch "Queen"]
+
+1. d4 e5 2. dxe5 d6 3. Nc3 Nc6 4. e4 Nxe5 5. Bf4 Ng6 6. Qd2 Nxf4 7. Qxf4
+Be7 8. Bc4 Nf6 9. Nf3 O-O 10. Ng5 h6 11. Nxf7 Rxf7 12. Bxf7+ Kxf7 13. O-O
+Kg8 14. Nd5 Nxd5 15. exd5 Bf6 16. c3 Qe8 17. Rfe1 Qb5 0-1
+

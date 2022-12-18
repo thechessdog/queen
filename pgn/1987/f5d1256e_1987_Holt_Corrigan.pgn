@@ -1,0 +1,17 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Holt"]
+[Black "Corrigan"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "f5d1256e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 Nf6 5. dxc5 Nc6 6. Qd2 a5 7. Na3 e5 8.
+Qc3 Be7 9. e4 a4 10. Bf2 O-O 11. Nc4 b5 12. Nxe5 b4 13. Nxc6 bxc3 14. Nxd8
+cxb2 15. Rb1 a3 16. Nxf7 Rxf7 17. Bd4 Ra4 18. c3 Nxe4 19. Bb5 Rxd4 20. cxd4
+Nc3 21. Bc4 Nxb1 22. Ne2 Bd8 0-1
+

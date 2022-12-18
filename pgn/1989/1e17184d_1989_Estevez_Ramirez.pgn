@@ -1,0 +1,16 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Estevez, J."]
+[Black "Ramirez, Juan Manuel"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "1e17184d"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 g6 3. f4 Bg7 4. Nf3 Nf6 5. e5 Nd5 6. c4 Nb6 7. Nc3 Bg4 8. Be3
+N8d7 9. c5 Nc8 10. Be2 O-O 11. O-O dxc5 12. dxc5 e6 13. Qb3 Rb8 14. Rad1 c6 15.
+Ng5 Bxe2 16. Nxe2 Qe7 17. Qc4 h6 18. Ne4 a6 19. Qd4 Rd8 20. Nf6+ Bxf6 21. exf6
+Qe8 22. f5 e5 23. Qh4 gxf5 24. Qg3+ 1-0

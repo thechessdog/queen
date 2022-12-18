@@ -1,0 +1,17 @@
+[Event "Kalamazoo WMU op"]
+[Site "Kalamazoo WMU op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kung, F."]
+[Black "Caron, L."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Damiano variation"]
+[HashCode "7bba507b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d5 5. d3 Bb4+ 6. c3 Ba5 7. dxe4 O-O
+8. Nf3 Re8 9. e5 Be6 10. Be3 b6 11. b4 d4 12. Nxd4 c5 13. Nxe6 Rxe6 14.
+bxa5 bxa5 15. g3 Nd7 16. Bg2 Rb8 17. O-O Rxe5 18. Qa6 Qc7 19. Bf4 1-0
+

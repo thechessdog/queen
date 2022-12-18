@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Huysman, A."]
+[Black "Spoel"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "1f9e4829"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Bg4
+8. Re1 f5 9. c4 Bb4 10. cxd5 Qxd5 11. Nc3 Bxc3 12. bxc3 O-O-O 13. c4 Qf7
+14. d5 Qf6 15. Bf4 Nc3 16. Qc1 Bxf3 17. gxf3 Nb4 18. Bg5 Nxd3 19. Bxf6 Nxc1
+20. Bxc3 1/2-1/2
+

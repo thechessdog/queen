@@ -1,0 +1,23 @@
+[Event "Bad Woerishofen op"]
+[Site "Bad Woerishofen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "32bf2d26"]
+[Epoch "Queen"]
+[WhiteID "1300024"]
+[WhiteCountry "SUI"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Qxd2 d5 9. exd5 Nxd5 10. Bxc6+ bxc6 11. O-O O-O 12. Nc3 Nb6 13. Rfe1 Be6 14.
+Rac1 Re8 15. b3 a5 16. Ne5 c5 17. Nb5 f6 18. Nd3 Bd7 19. Rxc5 Bxb5 20. Rxb5
+Qxd4 21. Rd1 a4 22. Qc2 Rad8 23. h3 axb3 24. Rxb3 Qd7 25. Rc1 Re7 26. Rc3 Qa4
+27. Qb1 Nd5 28. Rc4 Qa3 29. Rd4 Qa7 30. Rc5 Rb8 31. Qc2 Nb6 32. Nb4 Rbe8 33.
+Kh2 Nd7 34. Qc4+ Kf8 35. Rxc7 Qb8 36. Na6 Ne5 37. Nxb8 Nxc4 38. Rxe7 Kxe7 39.
+Nc6+ 1-0

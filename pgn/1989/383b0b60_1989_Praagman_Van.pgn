@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Praagman"]
+[Black "Van der Weyer"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "383b0b60"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. c3 Nxe4 8.
+d4 Be7 9. Re1 d5 10. dxe5 Na5 11. Bc2 O-O 12. Nbd2 Nc4 13. Qe2 Nc5 14. Nd4
+Re8 15. b4 Nd7 16. e6 Nf6 17. exf7+ Kxf7 18. Ne6 Qd6 19. Nf3 Ne4 20. Nfd4
+Rac8 21. Qh5+ 1-0
+

@@ -1,0 +1,22 @@
+[Event "corr DDR tt"]
+[Site "corr DDR tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tutzer"]
+[Black "Wolfram, R."]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "f5b25421"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Qc2 g5 13. Nc4 Nxc4 14. Bxc4
+Ng4 15. Ne2 Qe7 16. Ng3 a6 17. Ra3 Bd7 18. a5 Ne5 19. Be2 Ng6 20. f4 gxf4
+21. Bxf4 Nxf4 22. Rxf4 Bd4+ 23. Kh1 Kh8 24. Bh5 Rf8 25. Raf3 f6 26. Nf5
+Bxf5 27. Rxf5 Rab8 28. Rh3 Rg8 29. Be2 Rg5 30. Rxg5 fxg5 31. Bg4 Rf8 32.
+Rf3 Rf4 33. Bf5 h5 34. Qe2 Qe5 35. g3 Rxf3 36. Qxf3 g4 37. Qb3 Qe7 38. h4
+gxh3 39. Kh2 h4 40. Kxh3 hxg3 41. Qxg3 Bxb2 42. Qg6 Bc1 43. e5 Bd2 44. e6
+Bxa5 45. Qh6+ Kg8 46. Bh7+ Kh8 47. Bg6+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1989.01.01"]
+[Round "13"]
+[White "Soppe, Guillermo"]
+[Black "Contin, Daniel"]
+[Result "1-0"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "10140ee8"]
+[Epoch "Queen"]
+[WhiteID "100323"]
+[WhiteCountry "ARG"]
+[BlackID "803618"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 O-O 7. Bg5 Bxc3+ 8.
+Qxc3 Ne4 9. Bxd8 Nxc3 10. Bc7 Ne4 11. Nd2 Nxc5 12. Bd6 b6 13. Bxf8 Kxf8 14. g3
+Nb4 15. Bg2 d5 16. O-O Ba6 17. Rfc1 Nc6 18. Rab1 Nd4 19. Bf1 dxc4 20. e3 Nf5
+21. Nxc4 Ne4 22. Rd1 Rc8 23. Rbc1 Ke7 24. Nxb6 Rxc1 25. Rxc1 Bxf1 26. Nc8+ 1-0

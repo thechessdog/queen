@@ -1,0 +1,21 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sjodahl, Pontus"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "34fc0a40"]
+[Epoch "Queen"]
+[WhiteID "1700537"]
+[WhiteCountry "SWE"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+h4 exd5 9. e3 O-O 10. Bd3 c5 11. Nxh7 cxd4 12. exd4 Kxh7 13. h5 Kg8 14. hxg6
+Qg5 15. Qe2 Nc6 16. Nxd5 Bg4 17. f3 Rae8 18. gxf7+ Kxf7 19. Be4 Nxd4 20. Qc4 b5
+21. Qc7+ Kg8 22. Nc3 Nxf3+ 23. gxf3 Bxf3 24. Rh8+ Kxh8 0-1

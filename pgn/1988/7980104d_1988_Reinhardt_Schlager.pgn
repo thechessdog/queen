@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Reinhardt, Bernd"]
+[Black "Schlager, Thomas"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "7980104d"]
+[Epoch "Queen"]
+[WhiteID "4606043"]
+[WhiteCountry "GER"]
+
+1. g3 g6 2. Bg2 Bg7 3. d3 e5 4. c4 Nf6 5. Nc3 O-O 6. e3 c6 7. Nge2 d5 8. cxd5
+cxd5 9. d4 e4 10. O-O Nc6 11. Bd2 Bf5 12. b4 Qd7 13. Qb3 Rfd8 14. Na4 b6 15. b5
+Ne7 16. Bb4 Bf8 17. Nac3 Bh3 18. Rfc1 g5 19. a4 Ng6 20. Bxf8 Kxf8 21. Na2 Qg4
+22. Qb4+ Kg7 23. Qe1 Bxg2 0-1

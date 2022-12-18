@@ -1,0 +1,16 @@
+[Event "Quebec Open"]
+[Site "Quebec Open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Regnier, Alain"]
+[Black "Labelle, Jacques"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "0e97b400"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Qa4+ Nbd7 9. Bf4 O-O 10. Bxd6 Nb6 11. Qb5 Qxd6 12. e5 Qe7 0-1
+

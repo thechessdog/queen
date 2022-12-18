@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ploder, U."]
+[Black "Charin, BD."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "54541f80"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Bh4+ 5. Ke2 d6 6. d4 Bg4 7. Bxf4 Qf6
+8. Nd5 Qd8 9. Qd3 c6 10. Ne3 Bg5 11. Bxg5 Qxg5 12. Re1 Ne7 13. Kd1 Bxf3+
+14. gxf3 Ng6 15. Nf5 Qf6 16. Qa3 Kd7 17. Bh3 Kc7 18. e5 dxe5 19. dxe5 Nxe5
+20. Qa5+ b6 21. Qxe5+ 1-0
+

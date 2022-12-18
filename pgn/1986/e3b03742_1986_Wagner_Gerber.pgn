@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wagner"]
+[Black "Gerber, Richard"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e3b03742"]
+[Epoch "Queen"]
+[BlackID "1300652"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 e6 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 O-O 12. Bh6 Ne8 13. Nd5 Bd8 14. Be3 Bd7 15.
+Qf3 Nc6 16. Nc3 Ne5 17. Qh3 Rc8 18. f4 Nc4 19. Bxc4 Rxc4 20. f5 e5 21. Ne6 fxe6
+22. fxe6 Bc6 23. Rxf8+ Kxf8 24. Qxh7 Bf6 25. Rf1 b4 26. g4 bxc3 27. g5 Rxe4 28.
+Qh8+ Ke7 29. gxf6+ gxf6 30. Qh7+ Kd8 31. e7+ Qxe7 32. Bb6+ Kd7 33. Qf5+ Qe6 34.
+Qh7+ Kc8 35. h3 Qd7 36. Qh8 0-1

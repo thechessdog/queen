@@ -1,0 +1,19 @@
+[Event "corr North Atlantic tt"]
+[Site "corr North Atlantic tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Padros"]
+[Black "Douthwaite"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "293ffbcd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 b5 8.
+Bg2 Bb7 9. O-O Be7 10. h3 Nbd7 11. a3 Nc5 12. f3 O-O 13. g4 d5 14. exd5
+Nxd5 15. Nxd5 Bxd5 16. Nc3 Bb7 17. Be3 f5 18. f4 Bxg2 19. Kxg2 exf4 20.
+Qxd8 Raxd8 21. Bxf4 fxg4 22. hxg4 Rd4 23. Rae1 Bh4 24. Bg3 Rxg4 25. Kh3
+Rxg3+ 26. Kxh4 0-1
+

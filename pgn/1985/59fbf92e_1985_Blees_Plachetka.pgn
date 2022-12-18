@@ -1,0 +1,29 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "5"]
+[White "Blees, Albert"]
+[Black "Plachetka, Jan"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "59fbf92e"]
+[Epoch "Queen"]
+[WhiteID "1000217"]
+[WhiteCountry "NED"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 Bxc3 10. bxc3 Qc7 11. Qe2 Nbd7 12. Bg5 b6 13. Rac1 Bb7 14. Bd3 Ng4
+15. Rfe1 h6 16. Bd2 Bxf3 17. Qxf3 Qxh2+ 18. Kf1 Qh5 19. Qg3 Rad8 20. f3 Ngf6
+21. Kf2 Qd5 22. Rh1 Nh5 23. Qh4 Ndf6 24. g4 g5 25. Qh2 Qxa2 26. Rc2 Qb3 27.
+gxh5 Nd5 28. Qe5 Nb4 29. Qb5 Nxd3+ 30. Qxd3 Rxd4 31. Qxd4 Qxc2 32. c4 e5 33.
+Qd5 Rc8 34. Rc1 Qb2 35. Kg3 Rc5 36. Qd8+ Kg7 37. Bxg5 hxg5 38. Qxg5+ Kh7 39.
+Qf5+ Kg8 40. Qg5+ Kh7 41. Qf5+ Kg8 42. Rd1 e4 43. Rd8+ Kg7 44. Qg4+ Kh6 45.
+Rd6+ Kh7 46. Qxe4+ Kg8 47. Qe8+ Kh7 48. Qxf7+ Qg7+ 49. Qg6+ Qxg6+ 50. hxg6+ Kh6
+51. f4 a5 52. Rxb6 a4 53. Ra6 Rxc4 54. f5 Rb4 55. Ra8 Rb7 56. Kf4 Rb4+ 57. Ke5
+Rb5+ 58. Kf6 Rb6+ 59. Kf7 Rb7+ 60. Kg8 a3 61. Rxa3 Rb8+ 62. Kf7 Rb7+ 63. Ke6
+Rb6+ 64. Ke5 Rb5+ 65. Ke6 Rb6+ 66. Kd7 Rf6 67. Rf3 Ra6 68. Rh3+ Kg7 69. Rh7+
+Kg8 70. Ke7 1-0

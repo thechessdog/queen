@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hansen, Curt"]
+[Black "Schmidt, Kristen"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "71019277"]
+[Epoch "Queen"]
+[BlackID "1400436"]
+[WhiteID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 d6 4. g3 Nd7 5. Nc3 e5 6. Bg2 Ngf6 7. O-O O-O 8. e4
+Re8 9. h3 c6 10. Re1 Qb6 11. Na4 Qa6 12. b3 b5 13. Nb2 exd4 14. Nxd4 Bb7 15.
+Bf4 bxc4 16. Nxc4 c5 17. Nb5 Rxe4 18. Nc7 Qc6 19. Rxe4 Nxe4 20. Nxa8 Bxa1 21.
+Nxd6 f5 22. Qxa1 Bxa8 23. Bxe4 fxe4 24. Bh6 e3 25. Qg7# 1-0

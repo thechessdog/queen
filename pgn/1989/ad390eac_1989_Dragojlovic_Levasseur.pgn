@@ -1,0 +1,24 @@
+[Event "Tapolca"]
+[Site "Tapolca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dragojlovic, Andjelko"]
+[Black "Levasseur, Philippe"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "ad390eac"]
+[Epoch "Queen"]
+[WhiteID "918474"]
+[WhiteCountry "SRB"]
+[BlackID "614416"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O Bb4 11. a3 Bc5 12. h4 Qe7 13. Rh3 a6 14. h5 Nb6 15.
+Qf2 Qc7 16. Nb3 Bxe3+ 17. Qxe3 Nc4 18. Bxc4 dxc4 19. Nc5 b5 20. N3e4 Ne7 21. h6
+g6 22. Nf6+ Kh8 23. g4 Rd8 24. Rxd8+ Qxd8 25. Nce4 Nd5 26. Nd6 Qxf6 27. exf6
+Nxe3 28. Rxe3 Kg8 29. Re5 Bd7 30. Rc5 Kf8 31. Rc7 Be8 32. Ne4 Rd8 33. Ng5 Kg8
+34. b3 cxb3 35. cxb3 a5 36. Kc2 a4 37. bxa4 bxa4 38. Kc3 Rb8 39. Kc4 Rd8 40.
+Kc5 Rd5+ 41. Kb6 Rd6+ 42. Kb7 1-0

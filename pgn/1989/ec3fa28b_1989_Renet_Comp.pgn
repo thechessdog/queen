@@ -1,0 +1,18 @@
+[Event "Edmonton blitz"]
+[Site "Edmonton blitz"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Comp Deep Thought"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "ec3fa28b"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bf4 Qa5+ 12. Bd2 Qa4 13. O-O e6 14. Rfe1
+O-O-O 15. b3 Qa3 16. Qe2 Bd6 17. Ne5 Nxe5 18. Bc1 Nf3+ 19. Qxf3 Qa5 20. Bf4
+Bxf4 21. Qxf4 Qc3 22. Red1 Qxc2 23. b4 Qc4 24. Qd2 Rd5 25. Rac1 Qa6 26. Rc5
+Rhd8 27. Qb2 Rxc5 28. bxc5 Rd5 29. Rb1 Rd7 30. Qc3 Qa4 31. Ne2 Qxa2 0-1

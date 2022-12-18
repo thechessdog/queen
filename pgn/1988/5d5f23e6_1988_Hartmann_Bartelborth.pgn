@@ -1,0 +1,23 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Bartelborth, Thomas"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "5d5f23e6"]
+[Epoch "Queen"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+[BlackID "4607570"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Qa5 8. Bd2
+Nbc6 9. a4 Bd7 10. Bd3 f6 11. exf6 gxf6 12. Nh4 O-O-O 13. O-O c4 14. Be2 Ng6
+15. Nxg6 hxg6 16. g3 Rh7 17. Kg2 Rdh8 18. h4 g5 19. h5 e5 20. dxe5 Nxe5 21. f4
+gxf4 22. Rxf4 f5 23. Qf1 Rxh5 24. Bxh5 Rxh5 25. Rh4 Rxh4 26. gxh4 d4 27. Kg3
+Qd5 28. Re1 dxc3 29. Bg5 Ng6 30. Bf4 Bxa4 31. h5 Nf8 32. Qf3 Qg8+ 33. Kf2 Bc6
+34. Qh3 Bd7 35. Qxc3 Nh7 36. Qe5 1-0

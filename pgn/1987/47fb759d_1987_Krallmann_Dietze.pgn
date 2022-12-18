@@ -1,0 +1,24 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Krallmann, Matthias"]
+[Black "Dietze, Frank"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "47fb759d"]
+[Epoch "Queen"]
+[WhiteID "4613848"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Qd2 Qd7 11. Rab1 b6 12. Ne2 Nxf3+ 13. Bxf3 Nc6 14. d4 Rd8
+15. Bf2 Ba6 16. dxc5 dxc5 17. Qxd7 Rxd7 18. e5 Bb7 19. Rbd1 Rad8 20. Nc3 Rxd1
+21. Rxd1 Rxd1+ 22. Nxd1 f6 23. exf6 Bxf6 24. b3 Kf7 25. Ne3 Ke7 26. Nc4 Na5 27.
+Bxb7 Nxb7 28. Kg2 Nd6 29. Nxd6 Kxd6 30. Kf3 Bc3 31. Ke4 e5 32. f5 gxf5+ 33.
+Kxf5 Kd5 34. g4 b5 35. h4 e4 36. g5 a5 37. h5 c4 38. g6 hxg6+ 39. hxg6 cxb3 40.
+cxb3 a4 41. Be3 axb3 42. axb3 Bg7 43. Bg5 Kd4 44. Ke6 e3 45. Kf7 e2 46. Bh4 Bh6
+47. Be1 Kd3 48. Ke6 Bd2 49. g7 Bxe1 50. g8=Q Bc3 51. Qd8+ Kc2 52. Qd5 e1=Q+ 53.
+Kd7 Qe5 0-1

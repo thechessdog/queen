@@ -1,0 +1,17 @@
+[Event "corr Sweden"]
+[Site "corr Sweden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Johansson, Martin"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "4fe02aea"]
+[Epoch "Queen"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 e5 8.
+Bd3 e4 9. Bc4 Qf5 10. Qg3 Bd6 11. Qxg7 Rf8 12. Nb5 Be5 13. O-O-O Ng4 14. Rd8+
+Kxd8 15. Qxf8+ Kd7 16. Bxf7 Nf6 17. Be8+ Kd8 18. Bc6+ Ne8 19. Qxe8# 1-0

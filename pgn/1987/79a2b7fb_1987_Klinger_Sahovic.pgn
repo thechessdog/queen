@@ -1,0 +1,20 @@
+[Event "Nova-Park"]
+[Site "Nova-Park"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klinger, Josef"]
+[Black "Sahovic, Dragutin"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "79a2b7fb"]
+[Epoch "Queen"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. Be3
+b5 9. Bd3 Bb7 10. g4 Nc6 11. O-O-O Be7 12. g5 Nd7 13. Rhe1 O-O-O 14. Nxc6 Qxc6
+15. Bd4 Bf8 16. a3 Nc5 17. Bf1 Kb8 18. Qh5 Rd7 19. b4 Na4 20. Nxa4 bxa4 21. Rd3
+Rc7 22. Rc3 Qd7 23. Qh3 h6 24. Kb2 Rxc3 25. Bxc3 Rg8 26. Bc4 Qc8 27. Ba2 hxg5
+28. fxg5 d5 29. exd5 exd5 30. Be5+ Ka7 31. Qxc8 Bxc8 32. Bxd5 Be6 33. Bd4+ Kb8
+34. Bxe6 fxe6 35. Rxe6 Kc7 36. Re8 1-0

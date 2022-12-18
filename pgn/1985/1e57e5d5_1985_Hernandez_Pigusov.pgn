@@ -1,0 +1,18 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Hernandez, Roman"]
+[Black "Pigusov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "1e57e5d5"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 d5 7. O-O Bb7 8. a3
+Bd6 9. b4 dxc4 10. Bxc4 Nbd7 11. Bb2 Qe7 12. Nb5 a6 1/2-1/2

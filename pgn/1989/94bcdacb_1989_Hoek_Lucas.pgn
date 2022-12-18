@@ -1,0 +1,21 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoek"]
+[Black "Lucas, Fred"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "94bcdacb"]
+[Epoch "Queen"]
+[BlackID "1045130"]
+[BlackCountry "NED"]
+
+1. Nf3 e6 2. e4 c5 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nc6 7. Be3 a6 8. a4
+Be7 9. O-O O-O 10. Nb3 b6 11. f4 Nd7 12. Bf3 Nc5 13. Qd2 Bb7 14. Rad1 Qc7 15.
+Kh1 Rac8 16. Nxc5 bxc5 17. Qf2 Qb6 18. b3 Nd4 19. Rd2 Nxf3 20. gxf3 f5 21. Kg1
+Bf6 22. e5 dxe5 23. Rfd1 exf4 24. Bxf4 Bxc3 25. Rd6 Rc6 26. Qg3 c4+ 27. Kg2 e5
+28. Bh6 e4 29. fxe4 fxe4 30. Qxc3 Qf2+ 31. Kh1 Rc7 32. Be3 Qf3+ 33. Kg1 Rc6 34.
+Rxc6 Qxd1+ 0-1

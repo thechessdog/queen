@@ -1,0 +1,24 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Eschbach, Ralph"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "46e12e76"]
+[Epoch "Queen"]
+[BlackID "2628767"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Nge7 7. Bf4 Ng6 8. Bg3
+Bc5 9. Nbd2 O-O 10. h4 Qc7 11. Re1 Nb4 12. h5 Nxd3 13. cxd3 Ne7 14. Nb3 Bb4 15.
+Rf1 Nf5 16. Bf4 f6 17. g4 fxe5 18. Nxe5 Bd6 19. Rc1 Qb8 20. Qe2 Ne7 21. Bg3 Nc6
+22. f4 Nxe5 23. fxe5 Be7 24. Rxf8+ Bxf8 25. h6 Bd7 26. hxg7 Bxg7 27. Nxd4 Qd8
+28. Qe3 Rc8 29. Rf1 Qe7 30. g5 Rf8 31. Rf6 Bxf6 32. exf6 Qf7 33. Nf3 Qh5 34.
+Ne5 d4 35. Qf4 Qd1+ 36. Kh2 Qh5+ 37. Bh4 Qe2+ 38. Kg3 Qe1+ 39. Kg4 Qg1+ 40. Kh5
+Be8+ 41. Kh6 Qd1 42. f7+ Bxf7 43. Nxf7 Qxd3 0-1

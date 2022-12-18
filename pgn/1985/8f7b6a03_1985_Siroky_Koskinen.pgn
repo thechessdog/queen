@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Siroky, M."]
+[Black "Koskinen, P."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "8f7b6a03"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Qc7 10. Bxf6 Nxf6 11. g4 b5 12. a3 Bb7 13. g5 Nd7 14. O-O-O
+Be7 15. h4 Rc8 16. Bh3 g6 17. h5 d5 18. Bxe6 fxe6 19. hxg6 Bd6 20. e5 Bxa3
+21. bxa3 d4 22. Qh3 Nf8 23. Nxd4 Qe7 24. Ndxb5 axb5 25. Nxb5 Rxc2+ 26. Kxc2
+Qc5+ 27. Nc3 Be4+ 28. Kb2 1-0
+

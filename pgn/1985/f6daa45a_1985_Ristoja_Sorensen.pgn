@@ -1,0 +1,21 @@
+[Event "Pohja"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ristoja, Aulikki"]
+[Black "Sorensen, Henrik"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "f6daa45a"]
+[Epoch "Queen"]
+[WhiteID "511420"]
+[WhiteCountry "FIN"]
+[BlackID "1400827"]
+[BlackCountry "DEN"]
+
+1. d4 g6 2. c4 Bg7 3. e4 c5 4. d5 d6 5. Nc3 Nf6 6. f4 O-O 7. Nf3 Re8 8. e5 dxe5
+9. fxe5 Nfd7 10. Bf4 e6 11. d6 a6 12. Bd3 f6 13. Qe2 Nc6 14. h4 Ndxe5 15. Nxe5
+Nxe5 16. Bxe5 fxe5 17. Ne4 Bd7 18. O-O-O Qa5 19. Ng5 Qxa2 20. Nxh7 Kxh7 21.
+Qh5+ Bh6+ 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "San Bernardino op"]
+[Site "San Bernardino"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Summermatter, Daniel"]
+[Black "Neuenschwander, Arnold"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "d4e18c17"]
+[Epoch "Queen"]
+[WhiteID "1300385"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 d5 5. e3 c5 6. c3 Nbd7 7. Nbd2 Bd6 8. Bd3
+Qc7 9. O-O b6 10. a4 a6 11. Rc1 Bb7 12. c4 Ne4 13. cxd5 Nxd2 14. Qxd2 Bxd5 15.
+e4 Bf4 16. Qe2 Bb3 17. Rc3 Bxa4 18. Ra1 Bc6 19. d5 Bb7 20. dxe6 fxe6 21. Bc4
+Qc6 22. Bd5 Qc7 23. Bxe6 g5 24. Bg3 Bxg3 25. hxg3 O-O-O 26. Rxa6 Rhe8 27. Bf5
+Bxa6 28. Qxa6+ Qb7 29. Qb5 Kb8 30. Ra3 Ne5 31. Ra6 Nxf3+ 32. gxf3 Kc7 33. Qa4
+Qc6 34. Ra7+ Kd6 35. Qd1+ Ke5 36. f4+ gxf4 37. Qf3 fxg3 38. Qxg3+ Kd4 39. Qc3#
+1-0

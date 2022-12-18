@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Domankusic, I."]
+[Black "Schmidt, T."]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "357d3349"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 a5 10. f3 a4 11. Nd4 a3 12. b3 Nxd4 13. Qxd4 Ra5 14.
+Nb5 Bd7 15. Bd2 Bxb5 16. Bxa5 Qxa5 17. Bxb5 Qxb5 18. c4 Rc8 19. Kb1 Qc6 20.
+g4 b5 21. Rc1 b4 22. h4 Qc5 23. Rcd1 h5 24. g5 Nh7 25. f4 f5 26. Rhe1 Nf8
+27. Kc2 Ng6 28. exf5 Qxf5+ 29. Qe4 Qxe4+ 30. Rxe4 Rf8 31. Rxe6 Rxf4 32.
+Rxg6 Rf2+ 33. Kb1 Kf7 34. Rgxd6 Bxd6 35. Rxd6 Rf1+ 36. Kc2 Ra1 37. g6+ Ke7
+38. Rb6 Rxa2+ 39. Kb1 Rb2+ 40. Ka1 Rxb3 41. c5 Rc3 42. Rxb4 Rxc5 43. Rb7+
+Kf6 44. Rb6+ Kf5 45. Ka2 Rc3 0-1
+

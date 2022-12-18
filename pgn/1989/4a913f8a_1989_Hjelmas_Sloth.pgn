@@ -1,0 +1,24 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1989.01.01"]
+[Round "?"]
+[White "Hjelmas, Lars"]
+[Black "Sloth, Jorn"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4a913f8a"]
+[Epoch "Queen"]
+[BlackID "1400240"]
+[BlackCountry "DEN"]
+[WhiteID "1501054"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. e3 e5 7. Bd3 O-O 8. Ne2
+e4 9. Bb1 Be6 10. Ng3 Bxc4 11. Nxe4 Nxe4 12. Bxe4 d5 13. Bd3 Bxd3 14. Qxd3 Nc6
+15. O-O Na5 16. Rb1 f5 17. f3 b6 18. Rb2 Qd6 19. Re2 Rae8 20. Rfe1 Qf6 21. h3
+Nc4 22. e4 fxe4 23. fxe4 Qg6 24. Qc2 c6 25. e5 Qxc2 26. Rxc2 Kf7 27. Rf1+ Ke6
+28. Rcf2 Rxf2 29. Rxf2 c5 30. h4 Rc8 31. h5 cxd4 32. cxd4 Nxe5 33. Bg5 Ng4 34.
+Re2+ Kf5 35. Bd2 Rc2 36. a4 Ra2 37. a5 bxa5 38. Kf1 a4 39. Bb4 Rxe2 40. Kxe2
+Ke4 0-1

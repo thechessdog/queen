@@ -1,0 +1,19 @@
+[Event "Mainz op"]
+[Site "Mainz"]
+[Date "1987.01.01"]
+[Round "6"]
+[White "Immel, Gerhard"]
+[Black "Kienast, Joerg"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "cbe1cbd5"]
+[Epoch "Queen"]
+[BlackID "4616022"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 d6 7. d4 b5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qxd8+ Bxd8 11. Bb3 Bb7 12. Bg5 O-O 13. f3 c5 14. Bxf6
+Bxf6 15. Bd5 Bxd5 16. Nxd5 Bg5 17. Rad1 Rfd8 18. g3 Ra7 19. h4 Rxd5 20. Rxd5
+Be3+ 21. Kg2 b4 22. Rd8# 1-0

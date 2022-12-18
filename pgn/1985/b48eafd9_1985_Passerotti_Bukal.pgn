@@ -1,0 +1,22 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1985.??.??"]
+[Round "2"]
+[White "Passerotti, Pierluigi"]
+[Black "Bukal, Vladimir Sr"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "b48eafd9"]
+[Epoch "Queen"]
+[WhiteID "800309"]
+[WhiteCountry "ITA"]
+[BlackCountry "HRV"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+Nbc6 9. Bd3 f5 10. exf6 Rxf6 11. Bg5 Rf7 12. Qh4 h6 13. Bxe7 Qxe7 14. Qxe7 Rxe7
+15. dxc5 e5 16. Nd2 e4 17. Bb5 Ne5 18. O-O Be6 19. Rae1 Rc8 20. c4 Rxc5 21. f4
+dxc4 22. fxe5 Rxb5 23. Rxe4 Bd5 24. Re3 Rb2 25. Rc1 b5 26. Nf3 Bxf3 27. gxf3 g5
+28. Kf2 Kf7 29. Ke2 Ke6 30. Kd2 Ra2 31. h4 Rd7+ 32. Ke2 Rd5 33. hxg5 hxg5 34.
+a4 b4 35. f4 gxf4 36. Rh3 Kxe5 0-1

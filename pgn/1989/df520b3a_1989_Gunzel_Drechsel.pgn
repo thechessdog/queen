@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gunzel"]
+[Black "Drechsel"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "df520b3a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Ng5 e6 7. N1f3 h6
+8. Nxe6 fxe6 9. Bg6+ Ke7 10. b3 Qa5+ 11. Bd2 Qc7 12. O-O Nd5 13. g3 Kd8 14.
+Re1 N5f6 15. Ne5 Nxe5 16. dxe5 Nd7 17. Bf7 Qb6 18. Qg4 g5 19. Rad1 Bc5 20.
+Be3 Kc7 21. Qxe6 Qb4 22. c3 Qxc3 23. Rc1 Qb4 24. Rxc5 Qxe1+ 25. Kg2 Nxc5
+26. Qd6+ Kb6 27. Qxc5+ Ka6 28. Bc4+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pinal, Nelson Borges"]
+[Black "Pecorelli Garcia, Humberto"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "d657966d"]
+[Epoch "Queen"]
+[BlackID "3500233"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Qb6 9. Ne2 Bb4+ 10. Nc3 f6 11. a3 Be7 12. b4 O-O 13. Be2 a6 14. Qd3 g5 1/2-1/2

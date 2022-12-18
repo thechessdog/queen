@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stegemann, U."]
+[Black "Kirwald, F."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "e9642488"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 Nc6 7. Ne2 e5
+8. O-O Nxd4 9. Nxd4 exd4 10. Nb5 c6 11. Nxd4 O-O 12. Bf4 Qb6 13. c3 Be7 14.
+Qc2 a5 15. h3 a4 16. Rfe1 Bc5 17. Rad1 Ra5 18. b4 axb3 19. Nxb3 Bf5 20. Qd2
+Rfa8 21. Nxa5 Qxa5 22. Re5 1-0
+

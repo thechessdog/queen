@@ -1,0 +1,19 @@
+[Event "corr ch-Baltic"]
+[Site "corr ch-Baltic"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Harju"]
+[Black "Knebel"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "e3e3469c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Qh5 d5 11. Nxd5 Bxa3 12. bxa3 Qa5+ 13. c3 Be6
+14. Qf3 fxe4 15. Nf6+ Ke7 16. Nxe4 f5 17. Nd2 e4 18. Qe3 Rhg8 19. f3 Rad8
+20. fxe4 f4 21. Qxf4 Qxc3 22. Rd1 Ne5 23. h3 Rxg2 24. Qh4+ Ke8 25. Be2
+Rxe2+ 0-1
+

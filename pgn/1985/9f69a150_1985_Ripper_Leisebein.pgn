@@ -1,0 +1,18 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ripper, M."]
+[Black "Leisebein, Peter"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "9f69a150"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Be6 5. Qe2 Nd7 6. d4 Qf6 7. O-O O-O-O 8.
+Nc3 Nb6 9. Bxe6+ fxe6 10. a4 g5 11. a5 Nd7 12. a6 b6 13. Nb5 Kb8 14. Qc4 c5 15.
+dxc5 bxc5 16. Bd2 Nb6 17. Qe2 e5 18. Ba5 Ne7 19. Bxb6 axb6 20. a7+ Kb7 21.
+Nxd6+ Qxd6 22. Rfd1 1-0

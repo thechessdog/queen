@@ -1,0 +1,21 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Stein, Bernd"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "a9aadb7a"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackCountry "DEN"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 d5 5. cxd5 Nxd5 6. a3 Bd6 7. Qc2 O-O 8. Nf3
+Qe7 9. d3 f5 10. Nbd2 Kh8 11. Nc4 Bd7 12. Be2 Rae8 13. O-O Rf6 14. d4 e4 15.
+Nfe5 Bxe5 16. Nxe5 Nxe5 17. dxe5 Rh6 18. g3 Bc6 19. Rfd1 f4 20. Rxd5 Bxd5 21.
+exf4 Qe6 22. g4 Rh3 23. f5 Qh6 24. Bc1 e3 25. Bxe3 Rxe3 26. fxe3 Qxe3+ 27. Kf1
+Qxe5 0-1

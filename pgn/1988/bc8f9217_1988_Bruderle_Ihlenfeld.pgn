@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bruderle"]
+[Black "Ihlenfeld"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "bc8f9217"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Ng5 O-O 10. f4 exd4 11. cxd4 cxd4 12. exd4 Nxd4 13. Bb2 Nf5
+14. Qb1 g6 15. Qc1 Ne8 16. Qc3 f6 17. Rae1 Qc7 18. Rxe8 Rxe8 19. Bxf5 Qb6+
+20. Kh1 d5 21. c5 Qc6 22. Bc2 Rf8 23. Bb3 Bf5 24. Qd4 Rad8 25. h3 h6 26. g4
+Be6 27. Nf3 Qb5 28. Re1 Qd7 29. Nh4 g5 30. Ng6 Rf7 31. Ba4 Qc8 32. f5 Bxf5
+33. Ne7+ 1-0
+

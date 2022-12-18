@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaufmann"]
+[Black "Demmer"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "5dff679d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. Re1 f5
+8. c4 Bxe5 9. dxe5 Nc6 10. f4 Nb4 11. cxd5 Qxd5 12. Bxe4 Qxd1 13. Rxd1 fxe4
+14. Na3 Nd3 15. Rf1 Bg4 16. Bd2 Be2 17. Rfb1 Nxf4 18. Re1 Bd3 19. Re3 Ne2+
+20. Kh1 Rf2 21. Rd1 Re8 22. h3 Rxe5 23. Bb4 Ref5 24. b3 Rf1+ 25. Rxf1 Rxf1+
+26. Kh2 Nd4 27. Re1 Rf2 28. Rc1 Nc6 0-1
+

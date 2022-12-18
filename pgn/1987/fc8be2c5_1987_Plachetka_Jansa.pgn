@@ -1,0 +1,19 @@
+[Event "Namestovo"]
+[Site "Namestovo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "fc8be2c5"]
+[Epoch "Queen"]
+[BlackID "300128"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Bg7 7. Nf3 O-O 8. O-O
+Ne4 9. Nxe4 dxe4 10. Ng5 Qxd4 11. Qxd4 Bxd4 12. Nxe4 Nc6 1/2-1/2

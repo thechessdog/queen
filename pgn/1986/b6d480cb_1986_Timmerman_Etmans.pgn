@@ -1,0 +1,17 @@
+[Event "corr NBC/86"]
+[Site "corr NBC/86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Timmerman, A."]
+[Black "Etmans"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[HashCode "b6d480cb"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. Bc4 c6 7. Nd2 Bg7 8.
+O-O O-O 9. Ndf3 Nd7 10. c3 Nxe5 11. Nxe5 Be6 12. Nd3 Nxc3 13. bxc3 Bxc4 14.
+Re1 Bxd3 15. Qxd3 e5 16. Ba3 Re8 0-1
+

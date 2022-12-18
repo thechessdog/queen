@@ -1,0 +1,20 @@
+[Event "RLP HM Landau"]
+[Site "RLP HM Landau"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Zwick, R."]
+[Black "Roos, Thomas"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "0c420a38"]
+[Epoch "Queen"]
+[BlackID "4604172"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. f3
+O-O 9. h4 d5 10. exd5 Nxd5 11. Nxd5 exd5 12. O-O-O f6 13. Be3 Ne5 14. h5 a6 15.
+h6 g6 16. f4 Ng4 17. f5 g5 18. Be2 Nxe3 19. Qxe3 Bd6 20. Qb3 Kh8 21. Bf3 Re8
+22. Bxd5 Re3 23. c3 Qc7 24. Kb1 Be5 25. Ne6 Qe7 26. Qb6 Bf4 27. Bb3 Bxe6 28.
+fxe6 Qf8 29. Rd7 g4 30. Qxb7 1-0

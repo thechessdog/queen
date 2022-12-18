@@ -1,0 +1,22 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Skrobek, Ryszard"]
+[Black "Pedzich, Dominik"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "63c02adc"]
+[Epoch "Queen"]
+[WhiteID "1100165"]
+[WhiteCountry "POL"]
+[BlackID "1100130"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 Na6 8. f4
+Nc5 9. e5 Nfe4 10. Nxe4 Nxe4 11. O-O O-O 12. c3 Bd7 13. Bc2 f5 14. exf6 Nxf6
+15. Qe2 Qb6 16. Be3 Nd5 17. Rae1 Rae8 18. Nxe6 Nxe3 19. Qxe3 Qxe3+ 20. Rxe3
+Bxe6 21. Rxe6 d5 22. Bb3 Rf5 23. Kh1 Kf7 24. Rfe1 Rxf4 25. Bxd5 Kf8 26. Bxb7
+Rf6 27. R6e2 Rf7 28. Bd5 Rf6 29. Bb3 1-0

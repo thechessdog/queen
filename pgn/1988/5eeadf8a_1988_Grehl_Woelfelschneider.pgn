@@ -1,0 +1,16 @@
+[Event "corr CIF CP1"]
+[Site "corr CIF CP1"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Grehl, Siegfried"]
+[Black "Woelfelschneider, P"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "5eeadf8a"]
+[Epoch "Queen"]
+
+1. b4 d5 2. Bb2 e5 3. Bxe5 d4 4. c3 Nc6 5. Nf3 Nxe5 6. Nxe5 Ne7 7. c4 Qd6
+8. Nd3 Nc6 9. c5 Qf6 10. Na3 a6 11. Rc1 Bf5 12. e3 dxe3 13. fxe3 Bxd3 14.
+Bxd3 Qh4+ 15. g3 Qxb4 16. Rc3 Ne5 17. Nc2 Nxd3+ 18. Rxd3 Qe4 0-1
+

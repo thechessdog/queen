@@ -1,0 +1,23 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Borkowski, Franciszek"]
+[Black "Kuczynski, Robert"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "ce3abaeb"]
+[Epoch "Queen"]
+[WhiteID "1100173"]
+[WhiteCountry "POL"]
+[BlackID "1100033"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 g6 7. Be3 Bg7 8. Qd2
+O-O 9. Bh6 Nc6 10. Bxg7 Kxg7 11. h4 h5 12. f3 Qb6 13. Nb3 a5 14. O-O-O Be6 15.
+f4 a4 16. Nd4 Nxd4 17. Qxd4 Qxd4 18. Rxd4 a3 19. b3 Rfc8 20. Kd2 Rc6 21. Bb5
+Rc5 22. Bd3 Ng4 23. Rf1 f5 24. Na4 b5 25. Nc3 Rac8 26. Nxb5 fxe4 27. Rxe4 Bf5
+28. Rc4 Rxc4 29. bxc4 Be6 30. Re1 Kf6 31. Nxa3 Ra8 32. Nb5 Rxa2 33. c5 Bd7 34.
+Nc3 1-0

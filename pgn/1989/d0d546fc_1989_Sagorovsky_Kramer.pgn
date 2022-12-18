@@ -1,0 +1,17 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sagorovsky"]
+[Black "Kramer"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "d0d546fc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Bg2 Qe6+ 6. Kf1 Nc6 7. h3 Bh5
+8. Nc3 Qd7 9. d3 e6 10. Be3 Nf6 11. g4 Bg6 12. Nh4 Be7 13. Nxg6 hxg6 14.
+Ne4 b6 15. Nxf6+ Bxf6 16. c3 Rc8 17. Be4 Be5 18. Qa4 Rc7 19. Rd1 1/2-1/2
+

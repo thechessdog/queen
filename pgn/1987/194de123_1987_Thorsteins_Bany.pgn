@@ -1,0 +1,20 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Thorsteins, Karl"]
+[Black "Bany, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "194de123"]
+[Epoch "Queen"]
+[BlackID "1100084"]
+[BlackCountry "POL"]
+[WhiteID "2300060"]
+[WhiteCountry "ISL"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 O-O 7. Nf3 c6 8. Qc2
+Nbd7 9. Bd3 Re8 10. g4 Nf8 11. h3 Be6 12. Ng5 Bd6 13. Be5 Bxe5 14. dxe5 N6d7
+15. Bxh7+ Kh8 16. Nxe6 Nxe6 17. Bf5 1/2-1/2

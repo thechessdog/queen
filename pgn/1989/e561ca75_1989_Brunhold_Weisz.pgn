@@ -1,0 +1,20 @@
+[Event "Oberguenzburg"]
+[Site "Oberguenzburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brunhold"]
+[Black "Weisz"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Carlsbad variation"]
+[HashCode "e561ca75"]
+[Epoch "Queen"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nxa3 e6 5. d4 Qa5+ 6. Bd2 Bb4 7. Nf3 Nf6
+8. Nc4 Bxd2+ 9. Ncxd2 Qc3 10. Bd3 O-O 11. O-O Nc6 12. e5 Nd5 13. Ne4 Qb2
+14. Rb1 Qa3 15. Rb3 Qe7 16. Nfg5 Nxd4 17. Nf6+ Nxf6 18. exf6 Qxf6 19. Bxh7+
+Kh8 20. Qh5 Qh6 21. Nxf7+ Rxf7 22. Qxf7 Kxh7 23. Rh3 Qxh3 24. gxh3 Nf5 25.
+Re1 b6 26. Re4 Bb7 27. Rg4 Bd5 28. Rg5 Rc8 29. Rxf5 exf5 30. Qxf5+ g6 31.
+Qxd7+ 1-0
+

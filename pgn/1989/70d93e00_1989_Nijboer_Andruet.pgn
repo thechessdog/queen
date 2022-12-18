@@ -1,0 +1,23 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Andruet, Gilles"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "70d93e00"]
+[Epoch "Queen"]
+[WhiteID "1000063"]
+[WhiteCountry "NED"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Nf3 g6 8. Bd3
+Bg7 9. O-O O-O 10. Qe1 Nb4 11. Qg3 Nh5 12. Qf2 f5 13. e5 Nxd3 14. cxd3 dxe5 15.
+fxe5 b6 16. d4 Bb7 17. Bg5 Qd7 18. Rad1 f4 19. Qh4 Rf7 20. Qg4 Qe8 21. Nh4 b5
+22. a3 a5 23. Ne2 Qc6 24. Bxf4 Nxf4 25. Nxf4 Raf8 26. Qxe6 Qe4 27. Rf3 g5 28.
+Nhg6 gxf4 29. Nxf8 Kxf8 30. Qd6+ Kg8 31. e6 Rf6 32. Qd8+ Rf8 33. e7 Qe2 34.
+exf8=Q+ Bxf8 35. Qg5+ Bg7 36. Rff1 h6 37. Qd8+ Kh7 38. d5 f3 39. gxf3 Qxb2 40.
+Qd7 Ba8 41. Qf5+ 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bortmann, U."]
+[Black "Roscher, J."]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "80c8c659"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. O-O O-O
+8. Nbd2 d6 9. a3 a5 10. Rb1 Re8 11. Ne4 Bf5 12. Bd3 Nxd3 13. Nfg5 Bxe4 14.
+Nxe4 Nxc1 15. Nxc5 dxc5 16. Qxd8 Ne2+ 17. Kh1 Raxd8 18. Rfe1 Rd2 19. g3 Ne5
+0-1
+

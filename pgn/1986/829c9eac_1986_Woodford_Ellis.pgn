@@ -1,0 +1,20 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Woodford"]
+[Black "Ellis"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "829c9eac"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. c4 Nf6 9. Nc3 Nc6 10. Re1 Nb4 11. cxd5 Nbxd5 12. Bg5 Be6 13. a3 c6 14.
+Ne5 Qd6 15. Qe2 Rfe8 16. Bd2 Nb6 17. Ne4 Qxd4 18. Bc3 Qd8 19. Ng5 Bb3 20.
+Ng4 Nbd7 21. Qf3 Nxg4 22. Bxh7+ Kf8 23. Qxg4 Bxg5 24. Qb4+ Re7 25. Qxb3 Qc7
+26. Bb4 c5 27. Rxe7 Kxe7 28. Re1+ Kf8 29. Bc3 Rd8 30. Bb1 Bf4 31. Qc2 g6
+32. h4 Kg8 33. h5 Nf8 34. hxg6 Nxg6 35. Bf6 Rb8 36. Qc3 1-0
+

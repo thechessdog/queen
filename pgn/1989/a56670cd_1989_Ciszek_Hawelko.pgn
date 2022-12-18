@@ -1,0 +1,23 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ciszek, Mieczyslaw"]
+[Black "Hawelko, Marek"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "a56670cd"]
+[Epoch "Queen"]
+[BlackID "1100203"]
+[BlackCountry "POL"]
+[WhiteID "1101668"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Be7 9. f4 Bb7 10. f5 e5 11. Nde2 Nbd7 12. Ng3 h5 13. Qf3 Rc8 14. Re1 h4 15. Nf1
+Rxc3 16. bxc3 Nxe4 17. Be3 Qc8 18. c4 bxc4 19. Ba4 h3 20. Ng3 Nc3 21. Bxd7+
+Qxd7 22. Qf2 Bxg2 23. Bd2 Nb5 24. c3 Bh4 25. a4 Nc7 26. Rab1 O-O 27. Rb4 Nd5
+28. Rxc4 Bd8 29. Be3 Nxe3 30. Rxe3 Bb6 31. Rg4 Qa7 32. Rxg7+ Kxg7 33. f6+ Kg6
+0-1

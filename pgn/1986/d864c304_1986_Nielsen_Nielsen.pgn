@@ -1,0 +1,18 @@
+[Event "Jernbanen"]
+[Site "Jernbanen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nielsen, Jan"]
+[Black "Nielsen, Poul Erik"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence, Steiner variation"]
+[HashCode "d864c304"]
+[Epoch "Queen"]
+
+1. e4 e6 2. c4 b6 3. Nc3 Bb7 4. d4 Bb4 5. Qc2 Qh4 6. Bd3 f5 7. d5 fxe4 8. Bxe4
+Nf6 9. Bf3 Qxc4 10. dxe6 Qxe6+ 11. Be3 Nc6 12. Ne2 d5 13. O-O Ne5 14. Qa4+ Nc6
+15. Nd4 Qd7 16. Rfe1 Bxc3 17. bxc3 O-O 18. Qb3 Ne5 19. Rad1 Nxf3+ 20. Nxf3 c5
+21. Ne5 Qc7 22. Bf4 c4 23. Qc2 Ne4 24. g3 Qe7 25. f3 g5 26. fxe4 gxf4 27. exd5
+fxg3 28. hxg3 Qc5+ 29. Rd4 Rad8 30. Qd1 Bc8 31. Qh5 Rxd5 32. Qg5+ Kh8 33. Nf7+
+Rxf7 34. Qxd5 1-0

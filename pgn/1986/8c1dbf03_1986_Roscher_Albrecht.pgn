@@ -1,0 +1,16 @@
+[Event "corr ICCF-WT"]
+[Site "corr ICCF-WT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Roscher"]
+[Black "Albrecht"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, Botvinnik variation"]
+[HashCode "8c1dbf03"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4
+Nd5 8. Nc3 g5 9. Qe2+ Be7 10. Nxd5 cxd5 11. Qe5 f6 12. Qxd5 1-0
+

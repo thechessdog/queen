@@ -1,0 +1,23 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zysk, Robert"]
+[Black "Ostl, Andreas"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "74bf1792"]
+[Epoch "Queen"]
+[WhiteID "4600410"]
+[WhiteCountry "GER"]
+[BlackID "4602153"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 d5 6. Bg2 c6 7. O-O Nbd7 8. Nbd2
+Rc8 9. Bb2 Be7 10. Re1 c5 11. e4 dxc4 12. d5 c3 13. Bxc3 exd5 14. exd5 O-O 15.
+Nc4 Ne8 16. Bh3 Bf6 17. Bxf6 Nexf6 18. Nce5 Bb5 19. a4 Nxe5 20. Nxe5 Bd7 21.
+Bxd7 Nxd7 22. Nc6 Qf6 23. Ne7+ Kh8 24. Nxc8 Rxc8 25. Qg4 Qd6 26. Rad1 Rd8 27.
+Qe4 Kg8 28. Qe7 Qxe7 29. Rxe7 Kf8 30. d6 a6 31. f4 c4 32. bxc4 Nc5 33. a5 bxa5
+34. Re5 1-0

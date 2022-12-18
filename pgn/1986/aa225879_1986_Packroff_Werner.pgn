@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Packroff"]
+[Black "Wenner, Tobias"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "aa225879"]
+[Epoch "Queen"]
+[BlackID "4619714"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 h6 6. g3 Nc6 7. O-O Bg7 8. c3 Bh3
+9. gxf4 Qd7 10. Rf2 Nf6 11. Qe2 Ng4 12. f5 Nxf2 13. Qxf2 Qe7 14. Bd3 Bf6 15.
+Na3 g4 16. Ne1 Bh4 17. Qe2 g3 18. Bf4 Rg8 19. e5 dxe5 20. dxe5 Qc5+ 0-1

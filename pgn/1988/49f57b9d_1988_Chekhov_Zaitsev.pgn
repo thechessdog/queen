@@ -1,0 +1,20 @@
+[Event "Protvino"]
+[Site "Protvino"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Zaitsev, Igor"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "49f57b9d"]
+[Epoch "Queen"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Nge2 O-O 8.
+Ng3 Bg6 9. h4 h6 10. h5 Bh7 11. Bd3 Bxd3 12. Qxd3 c5 13. O-O-O cxd4 14. exd4
+Bd6 15. Bxd6 Qxd6 16. Qf3 Ne4 17. Ngxe4 dxe4 18. Nxe4 Qc6+ 19. Kb1 Nd7 20. d5
+Qb6 21. Qf5 Rae8 22. Rhe1 Ne5 23. Re3 Nc4 24. Rb3 Qa6 25. d6 Re5 26. Nf6+ gxf6
+27. Rg3+ 1-0

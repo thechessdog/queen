@@ -1,0 +1,20 @@
+[Event "FRA-chB"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lucas, Flavien"]
+[Black "Calin, Miguel"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "9da86373"]
+[Epoch "Queen"]
+[BlackID "612049"]
+[BlackCountry "FRA"]
+[WhiteID "603104"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 9. Be3 Nge7 10. Be2 Nf5 11. O-O Be7 12. Qd3 a6 13. Nc3 Na7 14. Rac1 O-O 15.
+g4 Nh4 16. Nxh4 Bxh4 17. g5 f6 18. f4 h6 19. gxf6 gxf6 20. Qg6+ 1-0

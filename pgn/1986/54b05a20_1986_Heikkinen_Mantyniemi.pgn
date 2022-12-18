@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heikkinen"]
+[Black "Mantyniemi"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "54b05a20"]
+[Epoch "Queen"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bd7 7. Bd3
+Nc6 8. O-O Nb4 9. Re1 Nxd3 10. Qxd3 Bc6 11. Bf4 Bd6 12. Qe3 Qd7 13. Rad1
+Bxf4 14. Qxf4 O-O-O 15. d5 exd5 16. Qxf6 Rhg8 17. Ne5 Qh3 18. g3 Rd6 19.
+Qxf7 Rgd8 20. Nxc6 bxc6 21. Re7 R8d7 22. Rde1 a5 23. Re8+ Kb7 24. Qf8 1-0
+

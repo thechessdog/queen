@@ -1,0 +1,18 @@
+[Event "Mainz op"]
+[Site "Mainz"]
+[Date "1987.01.01"]
+[Round "6"]
+[White "Wissemann, Andreas"]
+[Black "Meyer, B."]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "df16a118"]
+[Epoch "Queen"]
+[WhiteID "4632176"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. e3 Na6 7. b3 Nxc5 8. Bb2
+Nce4 9. Bd3 Nxc3 10. Bxc3 Bxc3+ 11. Qxc3 d5 12. Nf3 b6 13. O-O Bb7 14. Rfd1 Qc7
+15. Rac1 Rac8 16. Qd2 Qe7 17. Rc2 Rfd8 18. Qe2 dxc4 19. Rxc4 Rxc4 1/2-1/2

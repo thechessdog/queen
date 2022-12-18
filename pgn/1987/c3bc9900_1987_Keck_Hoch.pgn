@@ -1,0 +1,24 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Keck, K."]
+[Black "Hoch, D."]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "c3bc9900"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 Qxf6 11. e5 dxe5 12. Ndxb5 O-O-O 13. Ne4 Qxf4
+14. Qxf4 exf4 15. Nbd6+ Kc7 16. Nxf7 Be7 17. Nxd8 Rxd8 18. Bxa6 Ra8 19. Bc4
+Ra4 20. b3 Rxa2 21. Nc3 Ra5 22. Nb5+ Kc8 23. Rhe1 Nd8 24. Nd6+ Kc7 25. Ne4
+Be8 26. Kb2 Bg6 27. Nc3 Bf6 28. b4 Rh5 29. Bxe6 Nxe6 30. Rxe6 Rxh2 31. Rxf6
+gxf6 32. Nd5+ Kc6 33. Nxf4 Be4 34. Re1 f5 35. Re2 Rh4 36. g3 Rh1 37. Rf2
+Rg1 38. Ne2 Rd1 39. Kc3 Kd5 40. Nf4+ Ke5 41. Kc4 Rd7 42. Re2 Rc7+ 43. Kb3
+Rg7 44. Re3 Rg4 45. c4 h6 46. Kc3 Rg7 47. c5 Ra7 48. Kc4 Ra1 49. Nd3+ Kf6
+50. b5 h5 51. b6 Bb7 52. Nb4 Rb1 53. Rb3 Rxb3 54. Kxb3 f4 55. gxf4 h4 56.
+c6 Bxc6 57. Nxc6 h3 58. b7 1-0
+

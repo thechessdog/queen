@@ -1,0 +1,18 @@
+[Event "NRW-Liga I"]
+[Site "Germany"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Bohlmann, E."]
+[Black "Lemanczyk, Thomas"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "6ef3948f"]
+[Epoch "Queen"]
+[BlackID "4625951"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+Qc7 9. Qe2 O-O 10. Be3 Nbd7 11. Rad1 Rb8 12. f4 b5 13. e5 dxe5 14. Nc6 Nb6 15.
+Nxb8 Qxb8 16. fxe5 Nfd7 17. Bd4 Nc4 18. Rde1 Rd8 19. b3 Nc5 20. Qf2 1-0

@@ -1,0 +1,18 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mannelyan"]
+[Black "Magnusson"]
+[Result "1-0"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "c41d1310"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qe7 11. Bb5 Bd7 12. a4 Rfd8 13. Ba3 b6 14.
+Qc2 Rac8 15. e4 e5 16. Rfe1 Qe8 17. dxc5 bxc5 18. Bxc5 Nd4 19. cxd4 Bxb5
+20. axb5 exd4 21. e5 Nd7 22. Ng5 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Eve"]
+[Black "Talbot"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "942d3f50"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 Nbd7 8.
+Qd2 b5 9. cxb5 a6 10. bxa6 Qa5 11. f3 Bxa6 12. Bxa6 Qxa6 13. Nge2 Ne5 14.
+O-O Rfb8 15. b3 c4 16. Nd4 cxb3 17. Nxb3 Rc8 18. Rfc1 Nc4 19. Qe1 Ne5 20.
+Qd2 Nfd7 21. Rab1 Nd3 22. Bxe7 Nxc1 23. Rxc1 Ne5 24. Ne2 Qa7+ 0-1
+

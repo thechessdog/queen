@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Massjurow"]
+[Black "Istratenkow"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Muzio gambit"]
+[HashCode "bb595b9d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. Bc4 g4 6. O-O gxf3 7. d4 d5 8.
+exd5 Bg4 9. Qd2 Nce7 10. Qxf4 Nh6 11. Ne4 f5 12. Nf6+ Kf7 13. d6+ Kxf6 14.
+Qg5# 1-0
+

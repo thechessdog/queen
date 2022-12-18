@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Akesson, Ralf"]
+[Black "Arnason, Throstur"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "0c51c85b"]
+[Epoch "Queen"]
+[WhiteID "1700120"]
+[WhiteCountry "SWE"]
+[BlackID "2300435"]
+[BlackCountry "ISL"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 Bb4 4. Qc2 b6 5. a3 Bxc3 6. Qxc3 Bb7 7. e3 d6 8. b4
+Nbd7 9. Bb2 a5 10. Be2 O-O 11. O-O e5 12. d4 Ne4 13. Qc2 Ng5 14. Nd2 f5 15. c5
+bxc5 16. bxc5 dxc5 17. dxe5 f4 18. exf4 Rxf4 19. Qb3+ Kh8 20. Rad1 Rb8 21. Qe3
+Ne6 22. g3 Qg5 23. Nf3 Qg4 24. Ne1 Qg6 25. Rxd7 Re4 26. Bd3 Rxe3 27. Bxg6 Ng5
+28. Bf5 Rxe1 29. Rxe1 Nf3+ 30. Kf1 Ba6+ 31. Bd3 1-0

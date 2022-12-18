@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wieth_Knudsen, Pete"]
+[Black "Veroci_Petronic, Zs"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "4afcdaab"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Bg4 10. O-O Re8 11. h3 Bxf3 12. Bxf3 Nbd7 13. Re1 a6 14. a4 c4
+15. Be3 Qa5 16. Kh1 Nc5 17. Bxc5 Qxc5 18. e5 dxe5 19. fxe5 Nd7 20. e6 Ne5
+21. exf7+ Nxf7 22. a5 Rad8 23. Rxe8+ Rxe8 24. Qa4 Rd8 25. Ne4 Qb5 26. Qxb5
+axb5 27. Nc5 Bxb2 28. Rb1 c3 29. Be4 Nd6 30. Bc2 Ra8 31. Nd3 Nc4 32. Bb3
+Nd2 0-1
+

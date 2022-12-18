@@ -1,0 +1,21 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wittwer, Moritz"]
+[Black "Gisler, Maurice"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "2c8cfb29"]
+[Epoch "Queen"]
+[WhiteID "1300709"]
+[BlackID "1316435"]
+[WhiteCountry "SUI"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Qe2 Bf5 12. Nxe4 dxe4 13. Ng5 Nxe5 14. Nxe4 Bg4
+15. Qd2 Bb6 16. Qf4 Be2 17. Qxe5 Bxf1 18. Bh6 gxh6 19. Rxf1 c6 20. Nf6+ Kg7 21.
+Nh5+ 1-0

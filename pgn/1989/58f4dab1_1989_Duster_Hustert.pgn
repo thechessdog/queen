@@ -1,0 +1,16 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Duster, T."]
+[Black "Hustert, Dirk"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "58f4dab1"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Nbd2 dxe5 8.
+Nxe5 Bxe2 9. Qxe2 N8d7 10. Nxd7 Nxd7 11. O-O e6 12. d5 e5 13. Ne4 cxd5 14. cxd5
+Be7 15. d6 Bf6 16. Be3 O-O 17. Rfc1 b6 18. Rc7 Qe8 19. Qg4 1-0

@@ -1,0 +1,22 @@
+[Event "Cannes"]
+[Site "Cannes"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gazik"]
+[Black "Bellotti"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "31abf30b"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 e6 7. f4 c5 8. c3 Nc6
+9. Nf3 Qb6 10. Kf2 O-O-O 11. Kg3 Kb8 12. a3 c4 13. Bh3 Na5 14. Nbd2 Ne7 15.
+Rh2 Nb3 16. Nxb3 cxb3 17. Be3 Nc6 18. Qg1 Na5 19. Rd1 Be7 20. f5 Nc4 21.
+Bf4 Ka8 22. Rf2 a5 23. fxe6 Bxe6 24. Nh4 Rdg8 25. Nf5 Qd8 26. Kh2 Bg5 27.
+Qg3 g6 28. hxg6 fxg6 29. Bxg5 hxg5 30. Nd6 Nxd6 31. exd6 Rh4 32. Kg1 Rgh8
+33. Bg2 Qd7 34. Rdf1 Ka7 35. Rf8 R8h7 36. Qe5 Rxg4 37. R1f6 Rxg2+ 38. Kxg2
+Bh3+ 39. Kf2 Qg4 40. Qg3 Qd1 41. Qe5 Qf1+ 42. Ke3 Bf5 43. Rxf5 gxf5 44. Rh8
+f4+ 45. Kd2 Qg2+ 46. Kd3 Qc2# 0-1
+

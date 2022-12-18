@@ -1,0 +1,18 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Eckard, Markus"]
+[Black "Rettig"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "e6affaa9"]
+[Epoch "Queen"]
+[WhiteID "4646991"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Bd3 O-O 6. O-O c5 7. c3 b6 8. Qe2
+Bb7 9. Ne5 Nbd7 10. f4 Ne4 11. Bxe7 Qxe7 12. Nd2 Ndf6 13. Ndf3 Rac8 14. Kh1 Nh5
+15. g4 Nhg3+ 0-1

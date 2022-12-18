@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Josephsen, Niels"]
+[Black "Lindestrom, Torsten"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, 11.O-O"]
+[HashCode "db358f1a"]
+[Epoch "Queen"]
+[WhiteID "1400991"]
+[BlackID "1403150"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 Nbd7 6. e3 c6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Rc1 1/2-1/2

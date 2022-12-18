@@ -1,0 +1,18 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mary, E."]
+[Black "Fauvel, J."]
+[Result "1-0"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "e585a3ae"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8. f4
+Qc7 9. O-O-O Nc6 10. g4 O-O 11. Rg1 Re8 12. Nf3 b5 13. Bxf6 Bxf6 14. f5 Ne5 15.
+Be2 Nxf3 16. Bxf3 Be5 17. g5 d5 18. Kb1 d4 19. Ne2 Rd8 20. g6 h6 21. gxf7+ Qxf7
+22. Qxh6 Bb7 23. Bh5 Qe7 24. fxe6 Qf6 25. Bf7+ Kf8 26. Qh3 Ke7 27. Rgf1 Qg5 28.
+Rf5 Rh8 29. Rxg5 Rxh3 30. Rxe5 Rxh2 31. Nf4 Rah8 32. Ng6+ Kf6 33. Rf5# 1-0

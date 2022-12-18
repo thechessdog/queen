@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fauth, H."]
+[Black "Stieg, H."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "217f17e9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Re1 O-O 12. Nd4 Nxd4 13. cxd4 Nd3 14.
+Re3 Nf4 15. Nf1 Qd7 16. Rg3 Ng6 17. Bg5 Rac8 18. Rc1 c5 19. Bxe7 Qxe7 20.
+Rxc5 Rxc5 21. dxc5 Qxc5 22. Rc3 Qa7 23. Qe1 Re8 24. Rd3 Qb8 25. Rd4 Nxe5
+26. Qb1 Qb6 27. Rf4 g5 0-1
+

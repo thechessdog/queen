@@ -1,0 +1,18 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Serbe"]
+[Black "Wohlhaupt"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "ce3e3e39"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 Be7 5. Bc4 c6 6. d4 d5 7. exd5 Nxd5
+8. O-O Nxc3 9. bxc3 Qa5 10. Bxf4 Qxc3 11. Qe2 b5 12. Bd6 Be6 13. Bxe6 Bxd6
+14. Bxf7+ Kd8 15. Rad1 Nd7 16. Ng5 Kc8 17. Qe6 Kc7 18. Qxd6+ Kxd6 19. Ne4+
+Kc7 20. Nxc3 Nf8 21. Rde1 Rd8 22. Re7+ 1-0
+

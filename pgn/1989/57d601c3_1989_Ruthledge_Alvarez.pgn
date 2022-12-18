@@ -1,0 +1,19 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ruthledge, Timothy"]
+[Black "Alvarez, Roberto"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "57d601c3"]
+[Epoch "Queen"]
+[BlackID "111902"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8. Nd2
+Qa5 9. e4 Bxf1 10. Nxf1 Nxe4 11. Bd2 Nxd2 12. Qxd2 Bg7 13. Ne3 Nd7 14. O-O O-O
+15. Nc4 Qb4 16. Qd3 Ne5 17. Nxe5 Bxe5 18. Rab1 Rfb8 19. Rfc1 f5 20. Rc2 Bxc3
+21. Rxc3 Rxa2 0-1

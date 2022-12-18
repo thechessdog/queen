@@ -1,0 +1,18 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "803b4ac3"]
+[Epoch "Queen"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+[BlackCountry "CUB"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Bf4 Nf6 6. Nf3 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 1/2-1/2

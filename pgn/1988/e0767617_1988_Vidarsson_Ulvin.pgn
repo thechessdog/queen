@@ -1,0 +1,20 @@
+[Event "Peer Gynt"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vidarsson, Jon G"]
+[Black "Ulvin, Dag"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Colorado counter"]
+[HashCode "e0767617"]
+[Epoch "Queen"]
+[WhiteID "2300478"]
+[WhiteCountry "ISL"]
+[BlackID "1502557"]
+[BlackCountry "NOR"]
+
+1. e4 Nc6 2. Nf3 f5 3. exf5 d5 4. Nh4 e5 5. Qh5+ g6 6. fxg6 Nf6 7. Qg5 Be7 8.
+Bb5 Qd6 9. b3 Qb4 10. Bxc6+ bxc6 11. O-O h6 12. g7 Rg8 13. Qg6+ Kd8 14. Nf3 Ba6
+15. Nxe5 1-0

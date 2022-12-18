@@ -1,0 +1,24 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bang, Andreas"]
+[Black "Nielsen, Thomas Bach"]
+[Result "1-0"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "560b8905"]
+[Epoch "Queen"]
+[BlackID "1401785"]
+[BlackCountry "DEN"]
+[WhiteID "1400290"]
+[WhiteCountry "DEN"]
+
+1. Nf3 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d4 d6 7. Nc3 Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. Qb3 h6 11. e4 f4 12. gxf4 exf4 13. Bxf4 Nxe4 14. Ne2 Rxf4
+15. Nxf4 Nd2 16. Qe3 Nxf1 17. Rxf1 Qd6 18. Nd3 Bf5 19. Be4 Rf8 20. Re1 e6 21.
+Bxf5 exf5 22. Qxa7 f4 23. Re6 Qd8 24. f3 Qg5+ 25. Kf1 Qf5 26. Ke2 Bxb2 27. Qxb7
+Bd4 28. Qxc7 Qg5 29. Ne5 Qg2+ 30. Kd3 Bxe5 31. Qxe5 Qxf3+ 32. Kc2 Qg2+ 33. Kb3
+Qg1 34. Kb4 Qb1+ 35. Kc5 Qg1+ 36. Kc6 Qa7 37. Re7 Rc8+ 38. Rc7 Qa4+ 39. Kd6
+Qb4+ 40. c5 Qb8 41. Qe6+ 1-0

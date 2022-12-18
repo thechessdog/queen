@@ -1,0 +1,21 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Palos, Osman"]
+[Black "Makarichev, Sergey"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9f601284"]
+[Epoch "Queen"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. O-O Ne7 6. b3 Ng6 7. Bb2 f6 8. e5
+Be7 9. exf6 gxf6 10. d4 cxd4 11. Qxd4 c5 12. Qg4 Qc7 13. Nc3 Bb7 14. Nb5 Qc6
+15. a4 a6 16. Na3 O-O-O 17. Nc4 Rdg8 18. Qg3 e5 19. Bc1 Nf8 20. Bg5 Ne6 21. h4
+h6 22. b4 cxb4 23. Na5 Qc7 24. Nxb7 hxg5 25. h5 Rxh5 26. Qg4 Rgh8 27. g3 Qxb7
+0-1

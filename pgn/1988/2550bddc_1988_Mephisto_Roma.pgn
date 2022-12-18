@@ -1,0 +1,31 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mephisto MM IV"]
+[Black "Roma 68000"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "2550bddc"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. e3 e6 4. Nf3 Nf6 5. Bd3 Be7 6. b3 O-O 7. Bb2 Nb4 8.
+Be2 c5 9. O-O cxd4 10. Nxd4 dxc4 11. Bxc4 Bd6 12. Nb5 Bc5 13. Nd2 a6 14.
+Bxf6 Qxf6 15. Nc7 Rb8 16. a3 Qd8 17. axb4 Bxb4 18. Nxa6 bxa6 19. Nf3 Bc3
+20. Rc1 Bb2 21. Rc2 Bf6 22. Qe2 Qb6 23. Rd1 Bb7 24. Rcd2 Rfd8 25. e4 Rxd2
+26. Rxd2 a5 27. Ne1 Bc6 28. Rd1 a4 29. bxa4 Bxa4 30. Rc1 Qc7 31. Nf3 Qf4
+32. Nd2 Bg5 33. Ra1 Bc6 34. Ra2 Qe5 35. Bd3 Rb2 36. Rxb2 Qxb2 37. Nf3 Qc1+
+38. Qf1 Qc5 39. Nxg5 Qxg5 40. Qb1 Qd8 41. g3 g6 42. Kg2 Qd4 43. f3 Bd7 44.
+Qb8+ Kg7 45. Be2 Qd2 46. Kf1 Qc1+ 47. Kg2 Qe3 48. Kf1 Qc5 49. Kg2 e5 50. h4
+h6 51. g4 Be6 52. Qd8 Qc2 53. Kf1 Qc1+ 54. Kf2 Qc3 55. g5 hxg5 56. hxg5
+Qc5+ 57. Kg2 Kh7 58. Qf6 Qd4 59. Kf1 Qa1+ 60. Kf2 Qa5 61. Bf1 Qb6+ 62. Kg2
+Qb2+ 63. Kg3 Qc1 64. Bg2 Qe1+ 65. Kh2 Qh4+ 66. Kg1 Qg3 67. Kh1 Bc4 68. Kg1
+Bb3 69. Kh1 Qh4+ 70. Kg1 Qe1+ 71. Kh2 Qa5 72. Qe7 Qc3 73. Qf8 Qd2 74. Qh6+
+Kg8 75. Kg1 Qc1+ 76. Kf2 Qc5+ 77. Kg3 Qg1 78. Qh1 Qe3 79. Qh6 Qd3 80. Kf2
+Bd1 81. Bh1 Qd2+ 82. Kf1 Qe2+ 83. Kg1 Qe3+ 84. Kh2 Qf2+ 85. Kh3 Bxf3 86.
+Bxf3 Qxf3+ 87. Kh2 Qf4+ 88. Kg2 Qxe4+ 89. Kf2 Qd4+ 90. Ke1 e4 91. Qh4 Qe3+
+92. Kd1 Qb3+ 93. Ke1 Qb1+ 94. Kd2 Qd3+ 95. Ke1 Qc3+ 96. Ke2 Qc2+ 97. Ke3
+Qd3+ 98. Kf4 Qf3+ 99. Ke5 e3 100. Kd4 e2 0-1
+

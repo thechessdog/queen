@@ -1,0 +1,24 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Raaste, Eero J."]
+[Black "Tuomala, Timo"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "ec838529"]
+[Epoch "Queen"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+[BlackID "500704"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. a3 O-O 10. Qd2 Nxd4 11. Bxd4 Bxd4 12. Qxd4 Nb8 13. Bd3 Nc6 14. Qf2 Bd7
+15. O-O Ne7 16. Kh1 f6 17. Rae1 Qe8 18. Qc5 b6 19. Qd6 f5 20. Ne2 Rc8 21. Nd4
+Kh8 22. b4 Rc3 23. b5 Ng8 24. Qb4 Qc8 25. Ra1 Nh6 26. a4 Rc7 27. a5 Ng4 28. Qe1
+Rg8 29. axb6 axb6 30. h3 Nh6 31. Ra6 Qf8 32. Nf3 Qc5 33. Ng5 Re8 34. Qe2 Rb8
+35. Kh2 Bc8 36. Ra4 Nf7 37. Qh5 Kg8 38. Nxh7 d4 39. Rf3 Bb7 40. Rg3 Qe7 41.
+Nf6+ Kf8 42. Qh7 1-0

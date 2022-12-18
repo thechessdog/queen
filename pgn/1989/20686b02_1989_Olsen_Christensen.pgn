@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Christensen, Danny"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "20686b02"]
+[Epoch "Queen"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. c3 e6 8.
+Bf4 Bd6 9. Bxd6 Qxd6 10. Ne2 Nd7 11. Ng3 Bg6 12. Qf3 O-O-O 13. b4 Nb6 14. Bb3
+f5 15. a4 h5 16. b5 h4 17. Ne2 Bh5 18. Qd3 Nd5 19. bxc6 Bxe2 20. cxb7+ Kb8 21.
+Qxe2 Nxc3 22. Qe5 Qxe5+ 23. dxe5 Kxb7 24. Rc1 Rc8 25. Kd2 Rhd8+ 26. Ke3 f4+ 27.
+Kf3 Rd3+ 28. Kg4 Rg8+ 29. Kh5 Ne4 30. Bc2 Rd4 31. Bxe4+ Rxe4 32. Rc5 Rb4 33.
+Rhc1 Kb8 34. a5 a6 35. Rc6 Rb5 36. Kxh4 Rb7 37. g3 f3 38. Rxa6 f5 39. g4 Rxg4+
+40. Kh5 Rh7# 0-1

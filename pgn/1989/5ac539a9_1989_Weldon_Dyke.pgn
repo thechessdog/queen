@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Weldon, Charles"]
+[Black "Dyke"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "5ac539a9"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. g3 O-O 6. Bg2 Nbd7 7. b3 c6 8.
+O-O Re8 9. Qc2 Bf8 10. Rd1 b6 11. e4 dxe4 12. Nxe4 Bb7 13. Ne5 Rc8 14. Ng5
+h6 15. Ngxf7 1-0
+

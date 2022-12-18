@@ -1,0 +1,19 @@
+[Event "New York blitz"]
+[Site "New York"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Monson, B."]
+[Black "Comp Mephisto"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "049df34e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Bc4 e6 8.
+Nf3 Bd6 9. h5 Bh7 10. c3 Nd7 11. Qe2 Bxg3 12. fxg3 Ngf6 13. O-O Nxh5 14.
+Bxe6 fxe6 15. Qxe6+ Qe7 16. Qg4 Nhf6 17. Qh4 Be4 18. Bf4 O-O-O 19. Be5 g5
+20. Nxg5 hxg5 21. Qxg5 Rdf8 22. Rae1 Qh7 23. Bxf6 Qh2+ 24. Kf2 Qxg2+ 25.
+Ke3 Rh2 0-1
+

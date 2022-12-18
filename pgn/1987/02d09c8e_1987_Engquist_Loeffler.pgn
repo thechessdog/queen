@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Engquist"]
+[Black "Loeffler"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "02d09c8e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3 7. bxc3 Qxd5
+8. e3 cxd4 9. Qxd4 Qxd4 10. cxd4 e6 11. Nf3 Be7 12. Bg3 Nc6 13. Rb1 O-O 14.
+Nd2 Nb4 15. Rb2 b6 16. Nc4 Ba6 17. Kd2 Rfd8 18. Be2 Rac8 19. Rc1 Nd5 20.
+Rbc2 Bb4+ 21. Kd3 Ba3 0-1
+

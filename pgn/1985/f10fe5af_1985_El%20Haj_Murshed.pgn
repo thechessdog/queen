@@ -1,0 +1,18 @@
+[Event "Wch U20"]
+[Site "Sharjah"]
+[Date "1985.??.??"]
+[Round "1"]
+[White "El Haj, W."]
+[Black "Murshed, Niaz"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f10fe5af"]
+[Epoch "Queen"]
+[BlackID "10200010"]
+[BlackCountry "BAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 Qb6 6. Bxc6 bxc6 7. d4 Ng6 8.
+Be3 Ba6 9. Re1 Qxb2 10. dxc5 Qxa1 11. Qd2 Rb8 12. Na3 Qb2 13. Nc2 Be7 14. Rd1
+O-O 15. Nfd4 Bxc5 0-1

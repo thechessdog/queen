@@ -1,0 +1,15 @@
+[Event "corr BGD-WFT7"]
+[Site "corr BGD-WFT7"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van der Hoek"]
+[Black "Kohler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "531de302"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 e6 7. Bg5 Be7
+8. O-O Nfd7 9. Qd2 Nf6 10. Ne5 Rf8 11. Bh6 Rg8 12. Qf2 Nc6 13. Nxc6 1-0
+

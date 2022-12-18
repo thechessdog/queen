@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zapletal, O."]
+[Black "Magnusson, G."]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "26ae816e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. c4 d5 5. Nc3 c5 6. cxd5 Nxd5 7. Bb5+ Nc6
+8. Qa4 cxd4 9. exd4 O-O 10. O-O Nb6 11. Qa3 Nxd4 12. Nxd4 Bxd4 13. Rd1 e5
+14. Be3 Bg4 15. Be2 Bxe2 16. Nxe2 Nc4 17. Qb3 Na5 18. Qa4 Nc6 1/2-1/2
+

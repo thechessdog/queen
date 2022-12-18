@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Golubev, M."]
+[Black "Serper, Grigory"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "b46b7cfd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O Be7 9. Bg5 Ne5 10. Bb5+ Bd7 11. Bxd7+ Nexd7 12. Be3 Qc7 13. f4 O-O 14. Qe2
+Nb6 15. Rad1 a6 16. Bxb6 Qxb6+ 17. Kh1 Nd7 18. e5 Rad8 19. exd6 Bxd6 20. f5
+Rfe8 21. Ne4 exf5 22. Rxf5 Bf8 23. Rdf1 Qe6 24. R5f4 Ne5 25. Nc3 g6 26. Rd4
+Rxd4 27. Nxd4 Qc4 28. Qxc4 Nxc4 29. b3 Bg7 30. Nce2 Ne3 31. Re1 Nxg2 32. Kxg2
+Bxd4 33. Kf1 Bb6 34. Rd1 Rd8 35. Rxd8+ Bxd8 36. Kf2 f5 37. Ke3 Bb6+ 38. Kd3 Kg7
+39. b4 Kf6 40. c4 Ke5 41. c5 Bc7 42. a4 g5 43. Nd4 g4 44. b5 axb5 45. axb5 Kf6
+46. b6 Bxh2 47. Ke2 h5 48. c6 bxc6 49. Nxc6 h4 50. b7 h3 51. Ke1 Kg5 52. Ke2
+Bd6 53. Kf1 f4 54. b8=Q Bxb8 55. Nxb8 f3 0-1

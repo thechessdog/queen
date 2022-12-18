@@ -1,0 +1,17 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Engelhardt, E."]
+[Black "Semmelroth, H."]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "b3264e97"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. c3 Nbc6 9. Nd6 cxd4 10. cxd4 f6 11. f4 fxe5 12. fxe5 Nf5 13. Nxf5 Rxf5
+14. Nf3 Bd7 15. Bd3 Rf8 16. O-O 1/2-1/2
+

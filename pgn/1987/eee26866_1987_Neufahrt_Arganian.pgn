@@ -1,0 +1,16 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Neufahrt"]
+[Black "Arganian"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "eee26866"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 e5 5. dxe5 Qxd1+ 6. Kxd1 Bg4 7. Bf4
+O-O-O+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bulthaupt, Freerk, Dr."]
+[Black "Hilgert, Wilfried"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "8de79127"]
+[Epoch "Queen"]
+[WhiteID "4644190"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 Bh3 8. O-O
+Bxg2 9. Kxg2 Nge7 10. Qc2 Ng6 11. Qe4 O-O-O 12. Nb3 Qe6 13. Nbxd4 Nxd4 14. Nxd4
+Qxe5 15. Qf5+ Kb8 16. Be3 Qe8 17. Rac1 Ne5 18. Rfd1 g6 19. Qf6 Bd6 20. Bg5 Nc6
+21. c5 Rc8 22. cxd6 Nxd4 23. Rxd4 cxd6 24. Qxd6+ Ka8 25. Rxc8+ Qxc8 26. Qd8
+Qxd8 27. Rxd8+ Rxd8 28. Bxd8 1-0

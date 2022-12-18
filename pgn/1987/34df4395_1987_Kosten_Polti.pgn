@@ -1,0 +1,20 @@
+[Event "Eichgraben"]
+[Site "Eichgraben"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kosten, Anthony C."]
+[Black "Polti"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "34df4395"]
+[Epoch "Queen"]
+[WhiteID "400114"]
+[WhiteCountry "FRA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Nbd2 dxe5 8.
+Nxe5 Bxe2 9. Qxe2 e6 10. O-O Be7 11. Ndf3 N8d7 12. Ng4 Nf6 13. Ne3 O-O 14. b3
+a5 15. a4 Qc7 16. Bb2 Rad8 17. Rad1 Nbd7 18. Rd3 b5 19. axb5 cxb5 20. Rc1 Qb7
+21. Rd2 Nb6 22. d5 exd5 23. c5 Nc4 24. bxc4 dxc4 25. Nf5 Bxc5 26. Bxf6 gxf6 27.
+Rcd1 Rxd2 28. Nxd2 Kh8 29. Ne4 Rg8 30. Nh6 Rg6 31. Rd8+ Kg7 32. Nf5# 1-0

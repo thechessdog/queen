@@ -1,0 +1,19 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vonk"]
+[Black "Raisanen"]
+[Result "1-0"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Smyslov variation"]
+[HashCode "e01e3f98"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Be3 Nfd7 9. O-O-O Nc6 10. h3 Bxf3 11. gxf3 Nb6 12. Qc5 f5 13. d5 Ne5 14.
+f4 Ned7 15. Qa5 Bxc3 16. Qxc3 fxe4 17. h4 Rf6 18. Kb1 Rd6 19. h5 Nxd5 20.
+Rxd5 Rxd5 21. Bc4 Nf6 22. hxg6 Kg7 23. Bxd5 Qxd5 24. Bd4 c5 25. Rxh7+ Kxg6
+26. Rxe7 Qh5 27. Qg3+ Ng4 28. Rg7+ Kh6 29. Rxg4 Rg8 30. f3 1-0
+

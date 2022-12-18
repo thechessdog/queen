@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schott, R."]
+[Black "Netz, E."]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "ef49cd94"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Nf6 5. e5 Nh5 6. Be2 d6 7. exd6 Bxd6
+8. d4 O-O 9. Ne4 Re8 10. Nxd6 Qxd6 11. Ne5 Nc6 12. Bxh5 Nxe5 13. dxe5 Qxe5+
+14. Kf2 Qc5+ 15. Kf1 Bf5 16. Be2 Rad8 17. Bd3 Bxd3+ 18. cxd3 Qb5 19. Kf2
+Rxd3 20. Qc2 Qb6+ 21. Kf1 Qd4 0-1
+

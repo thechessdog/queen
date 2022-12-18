@@ -1,0 +1,29 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Pinkas, Karol"]
+[Result "1-0"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Bogoljubow variation"]
+[HashCode "ebf94f7a"]
+[Epoch "Queen"]
+[WhiteID "1100211"]
+[BlackID "1100319"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Qc2 Bb4 8. Nd2
+a6 9. a3 Ne4 10. Ncxe4 dxe4 11. Bh4 Bxd2+ 12. Qxd2 Qxd2+ 13. Kxd2 c5 14. Bg3
+Ke7 15. Be2 b6 16. dxc5 bxc5 17. b4 Bb7 18. Kc3 Rhc8 19. Rhd1 Nb6 20. Bd6+ Kf6
+21. Kb3 Bc6 22. Rd2 Ba4+ 23. Kc3 cxb4+ 24. axb4 Bb5 25. Rd4 e5 26. Rxe4 Ke6 27.
+Rd1 Nd7 28. Kb3 Bc6 29. Rg4 g6 30. c5 f5 31. Bc4+ Kf6 32. Rh4 h5 33. f4 Re8 34.
+Bc7 exf4 35. exf4 Re3+ 36. Kb2 Ba4 37. Rd6+ Kg7 38. Rh3 Rxh3 39. gxh3 Rc8 40.
+Ba5 Nb8 41. Bd8 Bb5 42. Bf6+ Kf8 43. Bxb5 axb5 44. Bc3 Nc6 45. Rxg6 Ke7 46. Rd6
+Rc7 47. h4 Rc8 48. Kb3 Rc7 49. Rf6 Kd8 50. Rf8+ Ke7 51. Rxf5 Rd7 52. Rxh5 Rd3
+53. Rh7+ Kd8 54. h5 Rh3 55. h6 Nd4+ 56. Kb2 Rxh2+ 57. Kb1 Rh1+ 58. Ka2 Rh2+ 59.
+Kb1 Rh1+ 60. Ka2 Rh2+ 61. Bb2 Nc6 62. Rh8+ Kd7 63. h7 Nxb4+ 64. Kb3 Nc6 65. f5
+Rh3+ 66. Kc2 b4 67. f6 b3+ 68. Kd2 Rh2+ 69. Ke3 Rh3+ 70. Kf4 Nd8 71. Rxd8+ Kxd8
+72. f7 Ke7 73. h8=Q Rxh8 74. Bxh8 Kxf7 75. Bb2 Ke6 76. Ke4 Kd7 77. Kd5 1-0

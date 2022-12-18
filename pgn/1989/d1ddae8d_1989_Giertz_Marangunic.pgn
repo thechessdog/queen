@@ -1,0 +1,23 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Giertz, Niklaus"]
+[Black "Marangunic, Srdjan"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "d1ddae8d"]
+[Epoch "Queen"]
+[BlackID "14500159"]
+[BlackCountry "CRO"]
+[WhiteID "1300580"]
+[WhiteCountry "SUI"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be3 c6 7. a4 a5 8. Be2 Na6
+9. O-O Nb4 10. Nd2 Qc7 11. Ncb1 Bd7 12. c3 Na6 13. Na3 Rab8 14. Nac4 d5 15.
+exd5 Nxd5 16. Bg5 c5 17. Nf3 Rfe8 18. Na3 cxd4 19. Nxd4 Qc5 20. Nb3 Qd6 21. Nc4
+Qe6 22. Ncxa5 Bxc3 23. Bxa6 bxa6 24. bxc3 Nxc3 25. Qd3 Qf5 26. Qxf5 Bxf5 27.
+Nd4 Bd7 28. Nac6 Rb2 29. Nxe7+ Kg7 30. Rac1 Nxa4 31. Nd5 Bb5 32. Nxb5 Rxb5 33.
+Bf6+ Kg8 34. Nc7 1-0

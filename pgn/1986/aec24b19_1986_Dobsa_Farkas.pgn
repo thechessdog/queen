@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dobsa, S."]
+[Black "Farkas, S."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "aec24b19"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. c4 c5 9. Qc3 Bg4 10. e5 Be7 11. Re1 f5 12. Bf4 g5 13. e6 Bf6 14. Be5
+Bxf3 15. e7 Qd7 16. Bxf6 1-0
+

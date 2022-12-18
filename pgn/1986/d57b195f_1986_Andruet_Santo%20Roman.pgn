@@ -1,0 +1,18 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "2"]
+[White "Andruet, Gilles"]
+[Black "Santo-Roman, Marc"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d57b195f"]
+[Epoch "Queen"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Qe7 10. Qe2 O-O 11. Bf4 Ne8 12. g3 b6 13. a4 Ba6 14. Nb5 Ne5 15.
+Bxe5 Bxe5 16. f4 Bd4 17. Nxd4 cxd4 18. Rd1 Bxc4 0-1

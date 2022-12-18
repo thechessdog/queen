@@ -1,0 +1,25 @@
+[Event "Regionalliga NordN"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Homuth, Wolfgang"]
+[Black "Schmidt, Wolfgang"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "ad1ab602"]
+[Epoch "Queen"]
+[WhiteID "4646673"]
+[WhiteCountry "GER"]
+[BlackID "4601173"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5 7. f5 b5 8. Bd2
+b4 9. Nce2 Qb6 10. Ng3 Nbd7 11. Qe2 a5 12. Nf3 Bd6 13. O-O-O a4 14. Bc4 O-O 15.
+Bg5 Bc5 16. Bxf6 Nxf6 17. Nxe5 Ra7 18. Nh5 Kh8 19. Nxf6 gxf6 20. Ng4 b3 21.
+cxb3 axb3 22. axb3 Bd4 23. Qd2 c5 24. Qh6 Rg8 25. h3 Rg7 26. Kc2 Ra2 27. Rxd4
+cxd4 28. Rd1 Bb7 29. Kd3 Rxb2 30. Qxf6 Qxf6 31. Nxf6 Rbxg2 32. Kxd4 Rg1 33. Rd2
+R1g2 34. Rd3 R2g3 35. Rxg3 Rxg3 36. Bxf7 Rxh3 37. Bc4 Kg7 38. Ne8+ Kf8 39. Nd6
+Bc6 40. f6 Rh4 41. Ke5 Rh6 42. b4 Rh1 43. b5 Ba8 44. Kd4 Rd1+ 45. Bd3 h5 46. e5
+Bd5 47. Kxd5 Rxd3+ 48. Ke4 Rd1 49. b6 h4 50. b7 Rb1 51. e6 1-0

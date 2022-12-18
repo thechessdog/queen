@@ -1,0 +1,23 @@
+[Event "Aarhus-C"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Christensen, Jan"]
+[Black "Holst, Per"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Wing gambit"]
+[HashCode "9d2d7432"]
+[Epoch "Queen"]
+[WhiteID "1400916"]
+[BlackID "1405411"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 b6 5. bxc5 bxc5 6. c3 Qd7 7. d4 Ba6 8. Bxa6
+Nxa6 9. O-O Ne7 10. Na3 Nc6 11. Rb1 Rb8 12. Rxb8+ Naxb8 13. Nc2 Be7 14. Ng5 O-O
+15. Qd3 Bxg5 16. Bxg5 h6 17. Bd2 f5 18. Rb1 Qc7 19. Ne1 Nd7 20. Qg3 cxd4 21.
+Bxh6 Qxe5 22. Bf4 Qe4 23. Nd3 e5 24. Re1 exf4 25. Qh3 Rb8 26. Rxe4 dxe4 27. Ne1
+Rb1 28. Kf1 Nce5 29. cxd4 Nd3 30. Ke2 Rxe1+ 31. Kd2 Rd1+ 32. Kc2 Rc1+ 33. Kd2
+Nb6 0-1

@@ -1,0 +1,25 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ruehrig, Volkhard"]
+[Black "Wacker, Peter"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "37bb4cb0"]
+[Epoch "Queen"]
+[BlackID "4615751"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. d4 cxd4
+8. Nxd4 a6 9. c4 Be7 10. Nc3 O-O 11. Be3 Rc8 12. Rac1 Qa5 13. b3 d5 14. exd5
+exd5 15. Bd2 Bb4 16. a3 Bxa3 17. Ra1 Qb6 18. Nf5 Bc5 19. cxd5 g6 20. Ne3 Bxe3
+21. fxe3 Rce8 22. Qf3 Qxb3 23. Rfb1 Qc2 24. Ra2 Qd3 25. Rxb7 Rb8 26. Rxb8 Rxb8
+27. Qf1 Qxf1+ 28. Kxf1 Nc5 29. Ke2 Nce4 30. Nxe4 Nxe4 31. Kd3 f5 32. Ba5 Rb5
+33. Kc4 Kf7 34. Bb4 Rb6 35. Bc5 Rb1 36. Bb4 Rc1+ 37. Kd4 Rd1+ 38. Ke5 Nf6 39.
+Rd2 Rb1 40. Rd4 Rb3 41. Bd2 a5 42. h3 Rb5 43. g4 h6 44. gxf5 gxf5 45. Kd6 a4
+46. Kc6 Rb2 47. Bb4 Rb3 48. d6 Rxe3 49. Rh4 Re4 50. Rxe4 fxe4 51. Bc3 e3 52.
+Bxf6 e2 53. Bc3 1-0

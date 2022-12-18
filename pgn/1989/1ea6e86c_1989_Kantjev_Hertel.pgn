@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kantjev, T."]
+[Black "Hertel, P."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "1ea6e86c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 a6 5. Nge2 Nge7 6. d3 d6 7. O-O O-O 8.
+Be3 Bxe3 9. fxe3 f5 10. Qd2 fxe4 11. Rxf8+ Qxf8 12. Rf1 Qd8 13. Nxe4 Ng6
+14. c4 b6 15. N2c3 Rb8 16. Qe2 Bb7 17. Qh5 Nce7 18. Ng5 h6 19. Ne6 Qd7 20.
+Bh3 Bc8 21. Ne4 1-0
+

@@ -1,0 +1,18 @@
+[Event "URS-ch sf"]
+[Site "Lvov"]
+[Date "1986.01.01"]
+[Round "113"]
+[White "Vainerman, Igor"]
+[Black "Zakharov, Alexander V"]
+[Result "1/2-1/2"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[HashCode "94832c2b"]
+[Epoch "Queen"]
+[WhiteID "14100339"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c6 7. Nf3 Bg4 8. Qb3
+Bxf3 9. gxf3 Qd7 10. cxd5 cxd5 11. Bb5 Nc6 12. Na4 Qf5 13. Bxc6 1/2-1/2

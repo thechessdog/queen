@@ -1,0 +1,20 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "9"]
+[White "Reeh, Oliver"]
+[Black "Rigo, Janos"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "bc99560a"]
+[Epoch "Queen"]
+[WhiteID "4600142"]
+[WhiteCountry "GER"]
+[BlackID "700371"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Ba6 5. e4 Bb4 6. Bd3 Bxc3+ 7. bxc3 d5 8.
+exd5 exd5 9. Ba3 Ne4 10. cxd5 Bxd3 11. Qxd3 Qxd5 12. O-O f5 13. Rfe1 Nc6 14. c4
+Qd7 15. Rxe4+ fxe4 16. Qxe4+ Kd8 17. Ne5 1-0

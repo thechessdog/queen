@@ -1,0 +1,18 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Trepp, Markus"]
+[Black "Kaenel, Hansjuerg"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation, 4...Bg4"]
+[HashCode "be0e07b4"]
+[Epoch "Queen"]
+[BlackID "1300440"]
+[BlackCountry "SUI"]
+[WhiteCountry "CHE"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 Nc6 6. c4 Nb6 7. exd6 cxd6 8.
+O-O g6 9. Nbd2 Bg7 10. h3 Bf5 11. Nb3 O-O 12. d5 Nb4 13. Nbd4 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "corr WE"]
+[Site "corr WE"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Trochet, J."]
+[Black "Schendel, A."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "daa22703"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 cxd5 7. d4 Bd6
+8. Nge2 O-O 9. O-O g5 10. Nxd5 Nc6 11. h4 h6 12. hxg5 hxg5 13. Nec3 Bf5 14.
+g3 Bh3 15. Re1 Nxd5 16. Nxd5 fxg3 17. c3 Be6 18. Qh5 g4 19. Bg5 Ne7 20.
+Nf6+ Kg7 21. Qh7# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Troll Masters"]
+[Site "Gausdal"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Iskov, Gert"]
+[Black "Agdestein, Simen"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "d7030fcc"]
+[Epoch "Queen"]
+[BlackID "1500015"]
+[BlackCountry "NOR"]
+[WhiteID "1400398"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. f4 a6 7. Qf3 Qc7 8. Be3
+b5 9. Bd3 Bb7 10. a3 Nbd7 11. g4 Nc5 12. g5 Nfd7 13. h4 Be7 14. h5 f5 15. gxf6
+Bxf6 16. Qg4 O-O-O 17. Nxe6 Nxe6 18. Qxe6 Bxc3+ 19. bxc3 Rde8 20. Qf5 Rhf8 21.
+Qxh7 Qxc3+ 22. Ke2 Bxe4 23. Bxe4 Qc4+ 24. Bd3 Qd4 25. Rag1 Rxe3+ 26. Kd1 Rxf4
+27. h6 Rf2 28. Qxg7 Rxd3+ 29. Kc1 Rxc2+ 30. Kxc2 Rc3+ 31. Kb1 Rb3+ 32. Ka2 Qd2+
+33. Ka1 Rxa3+ 34. Kb1 Rb3+ 35. Ka1 Qa5# 0-1

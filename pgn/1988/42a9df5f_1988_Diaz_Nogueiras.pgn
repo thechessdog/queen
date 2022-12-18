@@ -1,0 +1,20 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Diaz, Joaquin, Dr."]
+[Black "Nogueiras Santiago, Jesus"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "42a9df5f"]
+[Epoch "Queen"]
+[WhiteID "4663349"]
+[WhiteCountry "GER"]
+[BlackID "3500020"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8. h5
+h6 9. Nf3 Qa5 10. Bd2 cxd4 11. cxd4 Qa4 12. Rh4 b6 13. Qb1 Ba6 14. Qb3 Qxb3 15.
+cxb3 Bxf1 1/2-1/2

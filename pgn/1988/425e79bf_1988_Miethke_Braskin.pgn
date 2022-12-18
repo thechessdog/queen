@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Miethke"]
+[Black "Braskin"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "425e79bf"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5 5. Nf3 Nc6 6. Bc4 h6 7. Qb3 Qf6
+8. Nd5 Qd6 9. Nc7+ Qxc7 10. Bxf7+ Kd8 11. Bxg8 Bb4+ 12. Bd2 Bxd2+ 13. Nxd2
+Nd4 14. Qf7 Nc2+ 15. Kd1 Rxg8 16. Qxg8+ Ke7 17. Qxg7+ Ke8 18. Rc1 1-0
+

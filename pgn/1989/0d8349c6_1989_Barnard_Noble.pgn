@@ -1,0 +1,19 @@
+[Event "corr NZD/K"]
+[Site "corr NZD/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Barnard, B."]
+[Black "Noble, M."]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0d8349c6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+a4 d5 9. exd5 e4 10. Ng5 Bb4 11. Qd4 Qb6 12. Qc4 O-O 13. Be2 Qa5 14. Bd2
+Nb6 15. Qd4 e3 16. Qxe3 Nbxd5 17. Qd4 Rd8 18. Qc4 h6 19. Nf3 Be6 20. Nxd5
+Bxd2+ 21. Nxd2 Bxd5 22. b4 Qb6 23. Qc5 Qe6 24. Nf3 Bxf3 25. gxf3 Re8 26.
+Qf2 Nh5 27. Kf1 Nxf4 28. Bd3 Qh3+ 29. Kg1 Re5 30. Qf1 Qh4 0-1
+

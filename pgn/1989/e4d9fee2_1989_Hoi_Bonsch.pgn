@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Boensch, Uwe"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "e4d9fee2"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "4611268"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nc3 c6 3. Bg5 Bf5 4. Nf3 h6 5. Bh4 Nd7 6. e3 Ngf6 7. Bd3 Bxd3 8.
+Qxd3 1/2-1/2

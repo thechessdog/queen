@@ -1,0 +1,19 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sorensen, Torben"]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "C76"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, fianchetto (Bronstein) variation"]
+[HashCode "a74d0fb5"]
+[Epoch "Queen"]
+[WhiteID "1463357"]
+[BlackID "700312"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. c3 d6 6. d4 Bd7 7. O-O Bg7 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bxd7+ Qxd7 11. Qxd7+ Kxd7 1/2-1/2

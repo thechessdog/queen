@@ -1,0 +1,20 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Singer"]
+[Black "Brandl"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "6c9873e5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 f5 9. Qh3 Nbc6 10. Nf3 Qb6 11. g4 cxd4 12. Rg1 Qc7 13. Bf4 Ng6 14. Qg3
+Nce7 15. g5 Nxf4 16. Qxf4 Qxc3+ 17. Ke2 Ng6 18. Qg3 Bd7 19. a4 Rac8 20. h4
+Rc4 21. h5 Ne7 22. g6 h6 23. Ng5 Qb2 24. Nh7 Rxc2+ 25. Bxc2 Qxc2+ 26. Kf1
+d3 27. Nxf8 Kxf8 28. Kg2 d4 29. Rgc1 Bc6+ 30. Kg1 Qe2 31. Rxc6 Nxc6 32. f4
+d2 33. Qa3+ Ne7 34. Qb3 Qe1+ 35. Kg2 Qxa1 36. Qxe6 Ke8 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vannach"]
+[Black "Helwing"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "08d1074e"]
+[Epoch "Queen"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 Nc6 5. fxe4 e5 6. dxe5 Nxe5 7. Nf3 d6
+8. Bf4 Nxf3+ 9. Qxf3 Be6 10. Bd3 Be7 11. O-O O-O 12. e5 Nd7 13. Qh5 g6 14.
+Bxg6 hxg6 15. Qxg6+ Kh8 16. Qh6+ Kg8 17. Qxe6+ Rf7 18. Bh6 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Klose"]
+[Black "Shneider, Aleksandr"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "b58720fd"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. Be2 Ne7 6. O-O O-O 7. d4 dxe4 8.
+Nxe4 Ng6 9. Nxd6 Qxd6 10. dxe5 Qxd1 11. Bxd1 Bg4 12. Be3 Bxf3 13. Bxf3 Nxe5 14.
+Be2 Nbd7 15. Rad1 Rfd8 16. Rd2 Nb6 17. Rfd1 Rxd2 18. Bxd2 Rd8 19. b3 h6 20. Bf4
+Rxd1+ 21. Bxd1 Ng6 22. Bb8 a6 23. Bg4 Ne7 24. Kf1 Nd7 25. Bxd7 1-0

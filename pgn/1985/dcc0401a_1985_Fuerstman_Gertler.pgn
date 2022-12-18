@@ -1,0 +1,18 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Fuerstman, L."]
+[Black "Gertler, David"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Anderssen (Paulsen, Suhle) counter-attack"]
+[HashCode "dcc0401a"]
+[Epoch "Queen"]
+[BlackID "2017377"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4 7. b4 Bb6 8. Qb3
+Bxf3 9. Bxf7+ Kf8 10. Bxg8 Rxg8 11. gxf3 Qf6 12. c4 d3 13. Nd2 Bd4 14. Rb1 Qf4
+15. Qxd3 Be5 16. Re1 Qxh2+ 17. Kf1 Nd4 0-1

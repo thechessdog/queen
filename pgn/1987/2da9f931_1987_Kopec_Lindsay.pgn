@@ -1,0 +1,20 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kopec, D."]
+[Black "Lindsay"]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "2da9f931"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bf4 c5 5. e3 Qb6 6. Nc3 cxd4 7. Bb5+ Kd8
+8. Nxd4 Nxc3 9. bxc3 f6 10. Qh5 Bd7 11. Bxb8 Bxb5 12. Qxd5+ Bd7 13. Rd1 Ke8
+14. Bg3 e5 15. O-O exd4 16. exd4 Be6 17. Qh5+ Kd8 18. Rb1 Qa6 19. Qf3 Rc8
+20. Rfc1 b5 21. d5 Bd7 22. d6 Bxd6 23. Bxd6 Qxd6 24. Rd1 Qc6 25. Rd5 Re8
+26. Rbd1 Re7 27. Qd3 Rc7 28. h3 Kc8 29. Kh2 Qxc3 30. Qxh7 Qxc2 31. Qg8+ Kb7
+32. a4 Qxf2 33. R1d4 Bc6 34. axb5 Bd7 35. Rd6 Re3 36. Qd5+ Kb8 37. Rg4 Rc1
+0-1
+

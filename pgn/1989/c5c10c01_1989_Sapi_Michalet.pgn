@@ -1,0 +1,20 @@
+[Event "Forli op"]
+[Site "Forli"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Sapi, Laszlo"]
+[Black "Michalet, Guy"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "c5c10c01"]
+[Epoch "Queen"]
+[WhiteID "701513"]
+[WhiteCountry "HUN"]
+[BlackID "603139"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8. e4
+Qa5 9. Bxf6 gxf6 10. Ne2 Nc6 11. cxb5 Qxb5 12. Qd2 Rb8 13. Nxb5 Bxd2+ 14. Kxd2
+Rxb5 15. Rb1 1/2-1/2

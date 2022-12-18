@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Rahls, Peter"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "8e49efe7"]
+[Epoch "Queen"]
+[BlackID "4613023"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+a6 9. h4 Qc7 10. Qe2 b5 11. O-O-O Bb7 12. Nxc6 Qxc6 13. Bd4 Rc8 14. Kb1 b4 15.
+Nd5 a5 16. c4 Ne5 17. b3 a4 18. Bg2 axb3 19. axb3 exd5 20. exd5 Qa6 21. f4 Qa3
+22. Rh3 Be7 23. fxe5 O-O 24. Bb2 Qa6 25. Qe3 Ra8 26. Qd4 Rfe8 27. e6 f6 28. Kc2
+Qa7 29. Qxa7 Rxa7 30. Be4 Rf8 31. Rf1 Ra2 32. Kb1 Rfa8 33. gxf6 Bxf6 34. Rxf6
+gxf6 35. Rg3+ Kf8 36. Bxh7 R8a7 37. Bxf6 1-0

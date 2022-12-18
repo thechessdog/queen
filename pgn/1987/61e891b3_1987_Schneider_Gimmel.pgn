@@ -1,0 +1,16 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "10"]
+[White "Schneider, Lars-Ake"]
+[Black "Gimmel, B."]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "61e891b3"]
+[Epoch "Queen"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. Bxc6+ bxc6
+8. d4 Bd6 9. O-O O-O 10. Nc3 Bg4 11. Qd3 Re8 12. Bd2 Rb8 13. Rab1 Qc7 1/2-1/2

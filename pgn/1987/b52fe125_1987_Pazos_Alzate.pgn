@@ -1,0 +1,17 @@
+[Event "Medellin"]
+[Site "Medellin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pazos, Plinio"]
+[Black "Alzate, Dario"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b52fe125"]
+[Epoch "Queen"]
+[BlackID "4400046"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Be7 7. Nb5 Na6 8. Bd3
+O-O 9. Qe2 1/2-1/2

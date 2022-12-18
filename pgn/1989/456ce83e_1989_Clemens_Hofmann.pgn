@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Clemens"]
+[Black "Hofmann"]
+[Result "0-1"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "456ce83e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. e3 g5 8.
+Bg3 Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Bd3 f5 12. d5 Na6 13. Bxe4 fxe4 14.
+Qxe4 Qf6 15. O-O O-O 16. Qxe6+ Qxe6 17. dxe6 Nc5 18. Nd4 Rfe8 19. a4 a5 20.
+f4 Nxe6 21. Nb5 gxf4 22. exf4 Nc5 23. Rfe1 Kf8 24. Rxe8+ Rxe8 25. Ra2 Re4
+26. f5 Rxc4 27. f6 Rxa4 28. Rxa4 Nxa4 29. Nxc7 Nxc3 30. f7 Ke7 31. Ne6 Kxf7
+32. Nd8+ Ke7 33. Nxb7 Ne2+ 34. Kf2 Nxg3 35. Ke3 a4 36. Kd3 Ne4 37. Kc4 Nc5
+38. Nxc5 dxc5 39. g4 0-1
+

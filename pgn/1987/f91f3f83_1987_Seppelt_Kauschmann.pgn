@@ -1,0 +1,20 @@
+[Event "Steglitz-ch"]
+[Site "Berlin-West"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Seppelt, Alfred"]
+[Black "Kauschmann, Herbert"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "f91f3f83"]
+[Epoch "Queen"]
+[WhiteID "4608291"]
+[BlackID "4606523"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 g6 4. exd5 cxd5 5. Bb5+ Nc6 6. Ne5 Bd7 7. Bxc6 bxc6
+8. Qf3 Nf6 9. g4 Be6 10. g5 Nh5 11. Nxc6 Qd6 12. Nd4 Bg7 13. Ncb5 Qb6 14. Nxe6
+fxe6 15. Qb3 O-O 16. O-O Rab8 17. Nc3 Qd4 18. Qa4 Rb4 0-1

@@ -1,0 +1,22 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Neubecker, A."]
+[Black "Heimbrodt, W."]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "070cd88a"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Be7
+8. Qc2 O-O 9. Nf3 Re8 10. O-O Nf8 11. Bxf6 Bxf6 12. b4 Bg4 13. Nd2 Be7 14.
+Rab1 Bd6 15. e4 dxe4 16. Ncxe4 Bc7 17. Nb3 Re6 18. f4 Rh6 19. Ng5 Be6 20.
+Bc4 Bd5 21. Bxd5 Qxd5 22. Qe4 Qxe4 23. Nxe4 Re8 24. Nec5 Re2 25. Rbe1 Rxe1
+26. Rxe1 Bxf4 27. g3 Bd6 28. Nxb7 Bxb4 29. Re8 Re6 30. Ra8 g6 31. N3a5 Bxa5
+32. Nxa5 Rd6 33. Rxa7 Ne6 34. Nc4 Rxd4 35. Ne5 c5 36. Nxf7 c4 37. Ne5 c3
+38. Ra8+ Kg7 39. Rc8 Rd5 40. Nf3 Nc5 41. Nd4 Kf6 42. Kf2 c2 43. Nxc2 Rd2+
+44. Ke3 Rxc2 45. Rc7 h5 46. Rc6+ Kf5 47. Rc8 Rc4 0-1
+

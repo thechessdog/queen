@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wilterdink"]
+[Black "Faber"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "6965adec"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+f4 b4 9. Na4 Nxe4 10. O-O d5 11. f5 Bd6 12. fxe6 Bxe6 13. Nf5 Bxf5 14. Qxd5
+Qc7 15. Qxa8 Bxh2+ 16. Kh1 Ng3+ 17. Kxh2 Nxf1+ 18. Kg1 Ng3 19. Qf3 O-O 20.
+Bd2 Nc6 21. Be1 Nd4 22. Qe3 Nge2+ 23. Kf1 Qh2 24. c3 Qh1+ 25. Kf2 Qg1# 0-1
+

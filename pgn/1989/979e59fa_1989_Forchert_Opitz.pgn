@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Forchert"]
+[Black "Opitz, E."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "979e59fa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 Nc6 5. e3 b6 6. Nbd2 Be7 7. Bxf6 gxf6
+8. Nc4 d5 9. Ncd2 cxd4 10. Bb5 Bd7 11. exd4 a6 12. Be2 b5 13. b4 e5 14. Nb3
+e4 15. Nfd2 Rg8 16. Nf1 f5 17. Ne3 Be6 18. f4 exf3 19. Bxf3 f4 20. Nc2 Bh4+
+21. Kd2 Ra7 22. Nc5 Bf5 23. a4 bxa4 24. Rxa4 Rg6 25. Rxa6 Rxa6 26. Nxa6
+Bxc2 27. Kxc2 Bf2 28. Qe2+ Be3 29. Qb5 Kf8 30. Qxd5 Nxd4+ 31. cxd4 Qxd5 32.
+Bxd5 Rxa6 33. Kd3 Ke7 34. Rb1 Ra3+ 35. Kc4 Ra2 36. Rd1 Kd6 37. Bf3 Rc2+ 38.
+Kb3 Rc8 39. b5 Rc1 40. Rd3 Rb1+ 41. Kc4 Rc1+ 42. Rc3 Ra1 43. b6 Rb1 44. b7
+Rb2 45. Ra3 1-0
+

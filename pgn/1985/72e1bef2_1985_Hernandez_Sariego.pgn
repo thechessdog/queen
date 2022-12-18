@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "11"]
+[White "Hernandez, Roman"]
+[Black "Sariego, Wilfredo"]
+[Result "0-1"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "72e1bef2"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+[BlackCountry "CUB"]
+[BlackID "3500080"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nbd2 b6 5. e3 Bb7 6. Bd3 O-O 7. O-O c5 8. a3
+Bxd2 9. Bxd2 Be4 10. Bc3 Bxd3 11. Qxd3 d6 12. b4 Nbd7 13. dxc5 dxc5 14. e4 e5
+15. b5 a5 0-1

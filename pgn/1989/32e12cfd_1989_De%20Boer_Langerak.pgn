@@ -1,0 +1,17 @@
+[Event "corr ch17-NLD"]
+[Site "corr ch17-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Boer, R."]
+[Black "Langerak, D."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "32e12cfd"]
+[Epoch "Queen"]
+
+1. d4 e6 2. e4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8.
+g3 f5 9. Ne2 Be7 10. Bh3 a5 11. g4 O-O 12. gxf5 exf5 13. Bg2 Qd8 14. h4
+cxd4 15. Nexd4 Nc5 16. Ng5 h6 17. Qh5 Nxd4 18. Qg6 Bxg5 0-1
+

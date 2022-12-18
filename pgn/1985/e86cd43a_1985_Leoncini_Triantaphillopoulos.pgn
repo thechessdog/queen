@@ -1,0 +1,18 @@
+[Event "Siena"]
+[Site "Siena"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Leoncini, Mario"]
+[Black "Triantaphillopoulos"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "e86cd43a"]
+[Epoch "Queen"]
+[WhiteID "801712"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Ne4 6. Qe2 Nc5 7. cxd4 Ne6 8. d5
+Ncd4 9. Nxd4 Nxd4 10. Qe4 c5 11. Nc3 Be7 12. d6 Bf8 13. Nd5 Ne6 14. f4 Qh4+ 15.
+g3 Qg4 16. Be2 Qg6 17. f5 Ng5 18. Qg4 h5 19. Bxg5 hxg4 20. Nc7# 1-0

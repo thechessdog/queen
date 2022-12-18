@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Geisendorf, Lutz"]
+[Black "Junge"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "77e37e52"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Nc3 Nc6
+8. Qf4 Be7 9. Bd3 Be6 10. Bd2 Bf6 11. Ng5 Bxg5 12. Qxg5 Qxg5 13. Bxg5 f6
+14. Bf4 O-O-O 15. O-O-O Nb4 16. a3 Nxd3+ 17. Rxd3 Nf7 18. Rhd1 Rxd3 19.
+Rxd3 Rd8 20. Rxd8+ Kxd8 21. Nb5 1/2-1/2
+

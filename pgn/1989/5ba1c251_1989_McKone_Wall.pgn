@@ -1,0 +1,15 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone, Peter"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "St. George (Baker) defence"]
+[HashCode "5ba1c251"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 a6 2. d4 b5 3. a4 b4 4. Bc4 e6 5. d5 Bb7 6. dxe6 fxe6 7. Qe2 Nf6 8. e5
+Bxg2 9. exf6 Qxf6 10. Be3 Bxh1 11. Nd2 d5 12. Bb3 Nc6 13. O-O-O d4 0-1

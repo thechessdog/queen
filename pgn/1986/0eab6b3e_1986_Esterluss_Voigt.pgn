@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Esterluss, H."]
+[Black "Voigt, M."]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "0eab6b3e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O b6 7. Nc3 Bb7 8.
+Ne5 Ne4 9. cxd5 exd5 10. Nxe4 dxe4 11. Qc2 Qd5 12. Be3 c5 13. Rfd1 b5 14.
+f3 cxd4 15. Bxd4 Rc8 16. Qxe4 Qxe4 17. fxe4 Na6 18. Nd3 Rc2 19. Bf3 Bg5 20.
+e5 Rc7 21. Bxb7 Rxb7 22. Nc5 Nb4 1-0
+

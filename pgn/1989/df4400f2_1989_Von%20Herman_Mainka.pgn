@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Von Herman, Ulf"]
+[Black "Mainka, Gregor"]
+[Result "0-1"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[HashCode "df4400f2"]
+[Epoch "Queen"]
+[WhiteID "4608500"]
+[BlackID "4601319"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Nf6 5. Bxc4 b5 6. Bd3 Bb7 7. a4 b4 8. Nbd2
+Nbd7 9. e4 Nc5 10. Qe2 Nxd3+ 11. Qxd3 e6 12. e5 Nd7 13. Ne4 c5 14. Bg5 Qb8 15.
+Rd1 c4 16. Qe2 Bd5 17. Ng3 h6 18. Bc1 Qb7 19. h4 a5 20. Nh5 Nb6 21. Rh3 c3 22.
+Nh2 cxb2 23. Bxb2 Nxa4 24. Rc1 Nxb2 25. Qxb2 b3 26. Nf4 a4 27. Nxd5 Qxd5 28.
+Kf1 Bb4 29. Rf3 O-O 30. Ng4 Kh8 31. Qe2 Rac8 32. Rd1 Rc2 33. Qe3 Qc4+ 34. Kg1
+Qe2 35. Qf4 Qxd1+ 36. Kh2 0-1

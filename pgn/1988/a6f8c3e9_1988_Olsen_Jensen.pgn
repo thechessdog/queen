@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Jensen, Jan"]
+[Result "1-0"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "a6f8c3e9"]
+[Epoch "Queen"]
+[WhiteID "1406922"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. Bf4 O-O 6. Qc2 c5 7. Rd1 Nc6 8. dxc5
+Nh5 9. cxd5 Nb4 10. Qb3 Bxc3+ 11. bxc3 Na6 12. Bh6 Ng7 13. Qc4 Qa5 14. d6 Be6
+15. Qd4 Nf5 16. Qf4 Qxc3+ 17. Qd2 Qxd2+ 18. Bxd2 exd6 19. cxd6 Rfd8 20. e4 Nxd6
+21. Bg5 Rd7 22. Ne5 Rdd8 23. Bxa6 bxa6 24. Bxd8 Rxd8 25. O-O Bxa2 26. Nc6 Rd7
+27. e5 Rc7 28. Rxd6 1-0

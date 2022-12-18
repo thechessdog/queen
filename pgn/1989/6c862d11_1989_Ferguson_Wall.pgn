@@ -1,0 +1,16 @@
+[Event "California"]
+[Site "California"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ferguson, Dennis"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "6c862d11"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d3 d5 3. Nc3 Bb4 4. a3 Ba5 5. b4 Bb6 6. Qf3 Ne7 7. Bg5 O-O 8. Qg4
+dxe4 9. Nxe4 f5 10. Nf6+ gxf6 11. Bxf6+ fxg4 0-1

@@ -1,0 +1,22 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marklund, Egon"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "dd26cdab"]
+[Epoch "Queen"]
+[WhiteID "1708694"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6 7. f4 e6 8. Rb1
+Qd8 9. Bb5+ Bd7 10. dxe6 fxe6 11. e5 Bxb5 12. exf6 Bc6 13. fxg7 Bxg7 14. Qh5+
+Kd7 15. Nf3 Qe8 16. Qh3 Na6 17. Kd1 Qg6 18. Re1 Nb4 19. Rb2 Rae8 20. Nh4 Qf6
+21. Rb3 a5 22. a3 a4 23. Rb1 Nd5 24. Ne4 Qd4 25. Nf3 Qc4 26. Nfg5 Re7 27. Nxe6
+Rxe6 28. Nxc5+ Qxc5 29. Rxe6 Kc7 30. Qd3 Bd7 31. Bb4 Nc3+ 32. Bxc3 Bxc3 33. Re3
+Bg4+ 34. Kc1 Qxa3+ 0-1

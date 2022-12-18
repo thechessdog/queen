@@ -1,0 +1,19 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kaiser, Wolfgang"]
+[Black "Brunner, Lucas"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "af298170"]
+[Epoch "Queen"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 Bxc3+ 10. bxc3 Nxg3 11. hxg3 Nc6 12. d5 Na5 13. Rd1 Qe7 14. Nd4
+O-O-O 15. Nb3 Qa3 16. Be2 Kb8 17. g4 Qa4 18. Rd4 c5 19. dxc6 Nxc6 20. Rd1 Ne5
+21. Rd4 Nc6 22. Rd2 1/2-1/2

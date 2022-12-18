@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dietsch, B."]
+[Black "Bosenberg, E."]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "01129edd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. Bxc6 dxc6 7. exf5
+Qe7+ 8. Qe2 Qxe2+ 9. Kxe2 c5 10. g4 h5 11. g5 Bxf5 12. Kd1 Bd6 13. Nh4 Bd7
+14. Re1+ Ne7 15. Ng6 Bg4+ 16. Kd2 c4 17. c3 Rf8 18. Rxe7+ Bxe7 19. Nxf8
+Bxg5+ 20. Ke1 Bxc1 21. Nd2 Bxd2+ 0-1
+

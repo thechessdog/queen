@@ -1,0 +1,16 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Luthi"]
+[Black "Nobs"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "9c9466b4"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 Nc6 7. O-O
+O-O-O 8. Ng5 Rxd4 9. Bxg4+ Nxg4 10. Qf3 Nce5 11. Qh3 e6 12. f4 Bc5 13. Kh1
+Nf2+ 14. Rxf2 Rd1+ 0-1
+

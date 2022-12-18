@@ -1,0 +1,18 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ally, N."]
+[Black "Kagambi, W."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "bf19c188"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 g6 4. Nf3 Bg7 5. Nc3 O-O 6. b3 Nc6 7. Bb2 a6 8.
+Qd2 Nb4 9. Be2 Bf5 10. e4 dxe4 11. Nxe4 Nxc2+ 12. Qxc2 Bxe4 13. Qd2 c6 14.
+h3 e6 15. O-O Bd5 16. Qd1 Ne4 17. Bc1 Rc8 18. Qc2 c5 19. Be3 cxd4 20. Qd3
+dxe3 21. Rad1 exf2+ 22. Rxf2 Nxf2 0-1
+

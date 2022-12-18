@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hickl, Joerg"]
+[Black "Keitlinghaus, Ludger"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "6d39cd84"]
+[Epoch "Queen"]
+[WhiteID "4600118"]
+[WhiteCountry "GER"]
+
+1. g3 c5 2. Bg2 Nc6 3. e4 g6 4. Nc3 Bg7 5. d3 d6 6. f4 e5 7. Nf3 Nge7 8. Be3
+Nd4 9. Qd2 Bg4 10. O-O O-O 11. Kh1 Qd7 1/2-1/2

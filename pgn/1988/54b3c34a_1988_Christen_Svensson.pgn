@@ -1,0 +1,20 @@
+[Event "San Bernardino"]
+[Site "San Bernardino"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Christen, Peter"]
+[Black "Svensson, Bengt"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "54b3c34a"]
+[Epoch "Queen"]
+[WhiteID "1300725"]
+[BlackID "1722891"]
+[WhiteCountry "SUI"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. g3 e6 3. Bg2 Be7 4. O-O Nf6 5. d4 O-O 6. c4 a6 7. Nc3 dxc4 8. Ne5
+c5 9. dxc5 Bxc5 10. Nxc4 Qc7 11. b3 Rd8 12. Qc2 Nbd7 13. Rd1 Re8 14. Na4 Ba7
+15. Ba3 Ng4 16. e3 Bb8 17. Qe2 Nh6 18. Rac1 1-0

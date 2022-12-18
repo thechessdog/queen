@@ -1,0 +1,19 @@
+[Event "Edinburgh ch-BCF"]
+[Site "Edinburgh ch-BCF"]
+[Date "1985.08.01"]
+[Round "11"]
+[White "Gregory, S."]
+[Black "Lewis, David"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "8c4148b7"]
+[Epoch "Queen"]
+[BlackID "1805134"]
+[BlackCountry "WLS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 c4 8. g3 f6 9.
+exf6 gxf6 10. Bf4 O-O-O 11. Nbd2 Nh6 12. Rb1 Nf7 13. Bxc4 dxc4 14. Nxc4 Qb5 15.
+Qe2 Re8 16. O-O e5 17. a4 Qd5 18. Nfxe5 fxe5 19. b5 exf4 20. Qa2 Ne7 21. Rfe1
+Kb8 0-1

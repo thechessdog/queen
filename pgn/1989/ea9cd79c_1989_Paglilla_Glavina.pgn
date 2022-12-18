@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Paglilla, Carlos"]
+[Black "Glavina, Pablo"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "ea9cd79c"]
+[Epoch "Queen"]
+[BlackID "100234"]
+[BlackCountry "ARG"]
+[WhiteID "100307"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. g3 c6 3. Nf3 d5 4. b3 Qb6 5. cxd5 cxd5 6. Bb2 Nc6 7. Bg2 e5 8.
+Nxe5 Nxe5 9. Bxe5 Ng4 10. d4 Bb4+ 11. Kf1 Qe6 12. Bxg7 Rg8 13. Qd3 Qc6 14. Bf3
+Qc1+ 0-1

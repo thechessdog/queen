@@ -1,0 +1,24 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hietanen"]
+[Black "Asomaki, Pekka"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "80dd151a"]
+[Epoch "Queen"]
+[BlackID "502952"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Bb7 10. d4 Re8 11. a4 h6 12. Nbd2 Bf8 13. Bc2 Rb8 14. axb5 axb5 15. d5
+Ne7 16. b3 c6 17. c4 Ng6 18. Nf1 Qc7 19. dxc6 Bxc6 20. cxb5 Rxb5 21. Bd3 Rbb8
+22. Ng3 Qb7 23. Bc2 d5 24. exd5 Bxd5 25. Bb2 Bb4 26. Re3 Bc5 27. Re1 Qb6 28.
+Nh1 Rbd8 29. Bxg6 fxg6 30. Bxe5 Re6 31. Qd3 Bxf3 32. Qxf3 Rde8 33. Bc3 Ne4 34.
+Ba5 Qb8 35. Qd1 Nxf2 36. Nxf2 Bxf2+ 37. Kxf2 Qa7+ 38. Kg3 Rxe1 39. Bxe1 Qc7+
+40. Kf2 Qc5+ 41. Kf1 Rf8+ 42. Qf3 Qb5+ 43. Kf2 Rxf3+ 44. gxf3 Qe5 45. Ra5 Qh2+
+46. Ke3 Qxh3 47. Kf2 g5 48. Ra4 h5 49. Rc4 Qh2+ 50. Kf1 g4 51. fxg4 h4 52. g5
+h3 0-1

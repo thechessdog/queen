@@ -1,0 +1,26 @@
+[Event "Mittelfranken"]
+[Site "Mittelfranken"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heiling, Thomas, Dr."]
+[Black "Steiner, Bruno"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "5681a330"]
+[Epoch "Queen"]
+[BlackID "1602411"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Re8 11. h3 Nbd7 12. Ng3 Qc7 13. Qe2 Nb6 14. Be3 Nfd7 15.
+a5 c4 16. Bc2 Nc5 17. axb6 Qxb6 18. Rab1 Qb4 19. Qd2 Nb3 20. Bxb3 cxb3 21. Nce2
+Qxd2 22. Bxd2 a5 23. Nc1 a4 24. Bb4 Bf8 25. Nd3 Bd7 26. Rfd1 h5 27. f3 Bb5 28.
+Ne2 Bd7 29. Nd4 Bg7 30. Nf4 Bf8 31. Rbc1 Rac8 32. Ba3 Red8 33. Nfe2 Re8 34. Rc3
+Rxc3 35. Nxc3 Rd8 36. Rc1 Bh6 37. Rd1 Bf8 38. Kf2 Be8 39. f4 Bd7 40. Nf3 Be8
+41. e5 dxe5 42. Bxf8 Kxf8 43. fxe5 b5 44. Rd4 Rc8 45. Rb4 a3 46. Rxb3 axb2 47.
+Ne2 Rc5 48. Rxb2 Rxd5 49. Nc3 Rc5 50. Ne4 Rd5 51. Ke3 Ke7 52. Nf6 Rc5 53. Nxe8
+Kxe8 54. Kd4 Rc1 55. Kd5 Rd1+ 56. Kc6 Rc1+ 57. Kd5 Rd1+ 58. Ke4 Rc1 59. Rxb5
+Rc2 60. g3 Rc4+ 61. Kd3 Ra4 62. Rc5 Ke7 63. Rc4 Ra6 64. Ke4 f6 65. Kf4 fxe5+
+66. Nxe5 Rf6+ 67. Ke4 Re6 68. Rc6 g5 69. Kf5 1-0

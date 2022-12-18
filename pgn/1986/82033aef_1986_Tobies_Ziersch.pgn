@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tobies"]
+[Black "Ziersch"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "82033aef"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. Nc3 d6
+8. O-O Nxf3+ 9. Bxf3 Ne5 10. Be2 Qh4 11. b3 Bg4 12. h3 h5 13. Nd5 O-O-O 14.
+b4 Bb6 15. Nxb6+ axb6 16. f4 Bxe2 17. Qxe2 Nd7 18. Bb2 Rhg8 19. a4 g5 20.
+f5 g4 21. Rf4 Qg3 22. hxg4 Rxg4 23. Rxg4 Qxg4 24. Qxg4 hxg4 25. Rd1 Re8 26.
+Kf2 Re4 27. Rd4 Nf6 28. Ke2 Rxd4 29. exd4 d5 30. c5 bxc5 31. dxc5 Ne4 32.
+Ke3 c6 33. Bd4 Kd7 34. Kf4 g3 35. f6 Ke6 36. b5 Nd2 37. Ke3 Nb3 38. Kd3
+Nc1+ 39. Kd2 Nb3+ 40. Kc3 Nc1 41. Be3 Ne2+ 42. Kd3 d4 43. Bd2 Nc3 44. Bxc3
+dxc3 45. Kxc3 Kd7 46. Kd4 Kd8 47. b6 1-0
+

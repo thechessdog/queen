@@ -1,0 +1,27 @@
+[Event "Kolhapur"]
+[Site "Kolhapur"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kouatly, Bachar"]
+[Black "Marjanovic, Slavoljub"]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "ebbb666e"]
+[Epoch "Queen"]
+[WhiteID "600032"]
+[BlackID "900354"]
+[WhiteCountry "FRA"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. Nc3
+Nc6 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Bg4 12. Qa4 Qd7 13. Rfd1 Bh3 14. Nb3 Bxg2
+15. Kxg2 Rfd8 16. Rd2 Bb4 17. Rad1 Qe7 18. Rd3 Ne5 19. Nxd5 Nxd5 20. Rxd5 Rxd5
+21. Rxd5 Nc4 22. Rd4 Nxe3+ 23. fxe3 a5 24. a3 Qxe3 25. axb4 Qxe2+ 26. Kg1 b5
+27. Qa3 Qe3+ 28. Kg2 a4 29. Rf4 g5 30. Rf3 Qe2+ 31. Rf2 Qe4+ 32. Kg1 axb3 33.
+Qxb3 Ra1+ 34. Rf1 Rxf1+ 35. Kxf1 Qh1+ 36. Kf2 Qxh2+ 37. Kf3 Qd2 38. Qc3 Qxc3+
+39. bxc3 Kf8 40. Kg4 Ke7 41. Kf5 Kd6 42. Kf6 Kd5 43. g4 Kc4 44. Kg7 Kxc3 45.
+Kxh6 Kxb4 46. Kxg5 Kc5 47. Kf6 b4 48. g5 b3 49. Kxf7 b2 50. g6 b1=Q 51. g7 Qf5+
+52. Ke8 Qg6+ 53. Kf8 Qf6+ 54. Kg8 Kd6 55. Kh7 Qf7 56. Kh8 Qh5+ 57. Kg8 Kd7 58.
+Kf8 Qe8# 0-1

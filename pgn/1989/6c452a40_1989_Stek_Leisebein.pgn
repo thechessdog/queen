@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stek"]
+[Black "Leisebein"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "6c452a40"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. d4 e4 7. Qe2
+Ngf6 8. Bg5 Qe7 9. Nfd2 O-O-O 10. Nc3 h6 11. Bxf6 Nxf6 12. Ndxe4 Nxe4 13.
+Nxe4 Rhe8 14. Nc3 Qh4 0-1
+

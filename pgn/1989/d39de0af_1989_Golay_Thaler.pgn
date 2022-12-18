@@ -1,0 +1,19 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Golay, P."]
+[Black "Thaler, Matthias"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d39de0af"]
+[Epoch "Queen"]
+[BlackID "1302191"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 Qa5 11. a3 Rb8 12. Ne2 Nxf3+ 13. Bxf3 e5 14. g4 f5 15.
+h3 Be6 16. Kh1 Qc7 17. c3 d5 18. exf5 gxf5 19. fxe5 fxg4 20. hxg4 Rxf3 21. Rxf3
+d4 22. cxd4 Qc6 23. Nf4 Bxg4 24. Kg2 cxd4 25. Bxd4 Bxf3+ 26. Qxf3 Qc2+ 0-1

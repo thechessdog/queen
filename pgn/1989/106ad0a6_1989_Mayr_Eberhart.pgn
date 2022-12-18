@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mayr, F."]
+[Black "Eberhart, A."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "106ad0a6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 d6 6. Bc4 Nf6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 O-O 12. Bh6 Ne8 13. Rad1 Bd7 14.
+Rfe1 b4 15. Nb1 Nc6 16. c3 Kh8 17. Bg5 Nf6 18. Bxf6 gxf6 19. f4 Na5 20. f5
+Nxb3 21. axb3 e5 22. Nf3 Rg8 23. Qh4 Bxf5 0-1
+

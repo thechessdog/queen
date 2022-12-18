@@ -1,0 +1,18 @@
+[Event "corr GB open"]
+[Site "corr GB open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hadfield"]
+[Black "Picken"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "c6462b84"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 Bxc4 9. Bxc4 dxc4 10. e4 Qd7 11. O-O Qb5 12. Qc2 Nbd7 13. f3 O-O-O
+14. Rfb1 Qc6 15. Bc1 h5 16. a4 a5 17. Bg5 h4 18. Nf1 Rde8 19. Ne3 Rh5 20.
+Bxf6 Nxf6 21. Qe2 Nd7 1/2-1/2
+

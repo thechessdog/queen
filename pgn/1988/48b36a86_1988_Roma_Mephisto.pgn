@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roma 68000"]
+[Black "Mephisto MM IV"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "48b36a86"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 d4 7. Nd1 Nbd7
+8. Bd2 e5 9. Be2 Be7 10. O-O O-O 11. Qg3 c5 12. f4 Bd6 13. f5 Be7 14. c3
+Qb6 15. c4 Rfd8 16. Rc1 Re8 17. b3 Rad8 18. Nb2 Rc8 19. Rf2 Qa6 20. Ra1 Rf8
+21. Kh2 Rc6 22. a3 Rfc8 23. Na4 b5 24. Nb2 b4 25. Na4 bxa3 26. Rxa3 Qb7 27.
+Rf1 a6 28. Rfa1 Bd6 29. Bh6 Bf8 30. Bg5 Bd6 31. Bh4 h6 32. Bd1 Qb4 33. Qe1
+Rb8 34. Qxb4 cxb4 35. R3a2 Be7 36. Nb2 Rbb6 37. Kg1 Nc5 38. Na4 Nxa4 39.
+Rxa4 Kf8 40. Bxf6 Bxf6 41. Ra5 Ke8 42. Bh5 Ke7 43. R1a4 Kf8 44. Kf1 Ke7 45.
+Ke2 Kf8 46. g3 Ke8 47. h4 Kf8 48. Kf3 Ke8 49. Ra2 Ke7 50. Kg2 Ke8 51. Kf2
+Kf8 52. R2a4 Ke8 53. Kf3 Kf8 54. Kg2 Ke7 55. Ra1 Ke8 56. Kh2 Ke7 57. Kh3
+Ke8 58. R1a4 Kf8 59. Kh2 Ke7 60. Kg2 Kf8 61. Bg4 Ke7 62. Kf2 Kd7 63. Ke1
+Kd8 64. Rd5+ Ke8 65. Bh5 Ke7 66. Kf2 Ke8 67. Rda5 Kf8 68. Bg4 Ke7 69. Be2
+Kd7 70. Rd5+ Ke7 71. h5 Rb8 72. Bg4 Rbb6 73. Kg2 Rb8 74. Bf3 Rbb6 75. Kh3
+Rb8 76. g4 Rbb6 77. Kg2 Rb8 78. Kg3 Rb7 79. Rda5 Rbb6 80. Bh1 Kd7 1/2-1/2
+

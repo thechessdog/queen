@@ -1,0 +1,21 @@
+[Event "Philadelphia open"]
+[Site "Philadelphia open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Frumkin, Edward"]
+[Black "Schlierkamp, F."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "45a4f6ec"]
+[Epoch "Queen"]
+[WhiteID "2007738"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 Qc7 10. Qe2 exf4 11. Bxf4 O-O 12. O-O h6 13. Kh1 Ne5 14. Bb3 Bg4 15.
+h3 Bd7 16. Rad1 Bc6 17. g4 Rfe8 18. g5 hxg5 19. Bxe5 Nxe4 20. Nxe4 dxe5 21.
+Bxf7+ Kxf7 22. Qc4+ Kg6 23. Rd7 Qc8 24. Qe6+ Kh7 25. Nfxg5+ Bxg5 26. Rxg7+ Kh8
+27. Rh7+ Kxh7 28. Qf7+ Kh8 29. Qh5+ Kg8 30. Qxg5+ Kh8 31. Qh6+ Kg8 32. Rg1+ Kf7
+33. Qf6# 1-0

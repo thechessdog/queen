@@ -1,0 +1,25 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lunkmoss, Gerhard"]
+[Black "Weisskopf, Dirck"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "27ac2ab4"]
+[Epoch "Queen"]
+[WhiteID "4641086"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be3 cxd4
+8. Nxd4 Nxd4 9. Qxd4 Qxd4 10. Bxd4 Bd7 11. Bc4 Bc6 12. f3 e6 13. Kf2 Rd8 14. c3
+b6 15. Rhe1 Bd6 16. Bxg7 Rg8 17. Be5 Bc5+ 18. Bd4 Bxd4+ 19. cxd4 Rxd4 20. Rac1
+Rd2+ 21. Re2 Rxe2+ 22. Bxe2 Kd7 23. Rd1+ Ke7 24. Rd4 Bd5 25. Bc4 Rc8 26. Bxd5
+exd5 27. Ke3 Ke6 28. Kd2 Rc7 29. Rh4 f6 30. Rg4 Ke5 31. Rg8 Kf5 32. Re8 Rg7 33.
+g3 Rd7 34. Kd3 Kg6 35. Kd4 Kf7 36. Rc8 Ke6 37. Rc6+ Kf7 38. b3 Kg6 39. a4 Kf5
+40. h4 h5 41. Rc1 Rg7 42. Rg1 Rd7 43. g4+ Kf4 44. gxh5 Rh7 45. Rg6 Kf5 46. Kxd5
+Rxh5 47. Rg4 Rh7 48. Kd6 Rh8 49. Kc6 Rh7 50. b4 Ke6 51. Re4+ Kf5 52. Rd4 Ke5
+53. Re4+ Kf5 54. Kb5 Rc7 55. Ka6 Kg6 56. b5 Kh5 57. Re8 Kxh4 58. Ra8 Rc4 59.
+Rxa7 Rxa4+ 60. Kxb6 Rf4 61. Ra3 Kg3 62. Ka7 Rxf3 63. Rxf3+ Kxf3 64. b6 1-0

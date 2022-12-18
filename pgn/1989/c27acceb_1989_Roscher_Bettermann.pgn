@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roscher, J."]
+[Black "Bettermann, B."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Reversed Grob (Borg/Basman defence/macho Grob)"]
+[HashCode "c27acceb"]
+[Epoch "Queen"]
+
+1. e4 g5 2. d4 Bg7 3. Bxg5 c5 4. Nf3 Qb6 5. Nc3 Qxb2 6. Nb5 Na6 7. Bd3 cxd4
+8. O-O Qb4 9. Re1 e5 10. Rb1 Qc5 11. Qd2 Ne7 12. Bh6 Rg8 13. Bxg7 Rxg7 14.
+Qh6 Kf8 15. Ng5 Kg8 16. f4 Qc6 17. Nd6 Nc5 18. Bb5 Qc7 19. Ne8 Rxg5 20.
+Nf6+ Kh8 21. Qxh7# 1-0
+

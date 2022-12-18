@@ -1,0 +1,16 @@
+[Event "corr CAN op"]
+[Site "corr CAN op"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van der Ploeg"]
+[Black "Bake"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "f4c64e75"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O c6 8.
+f4 exd4 9. Nxd4 Qb6 0-1
+

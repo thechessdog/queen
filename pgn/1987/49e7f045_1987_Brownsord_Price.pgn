@@ -1,0 +1,21 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brownsord"]
+[Black "Price"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "49e7f045"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Na5 12. Qa4 Nc6 13. Bb5 Rf6 14.
+Bxc6 Rxc6 15. Ne5 Ra6 16. Qb5 Rb6 17. Qd3 Bh5 18. Nf1 Bg6 19. f3 Nd6 20. b3
+Nf7 21. Bf4 Nxe5 22. Bxe5 Qd7 23. f4 a5 24. c4 c6 25. c5 Rba6 26. Re3 Re8
+27. Rae1 Raa8 28. Nd2 Bd8 29. Nb1 b6 30. cxb6 Bxb6 31. Nc3 Qa7 32. Na4 Rac8
+33. Rd1 Qb7 34. Ree1 Ba7 35. Kf1 Qb5 36. Rd2 Bf7 37. Rc1 Red8 38. Nb2 Be8
+39. Qxb5 cxb5 40. Rc7 Rxc7 41. Bxc7 a4 1/2-1/2
+

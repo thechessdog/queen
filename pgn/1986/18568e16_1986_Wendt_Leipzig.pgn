@@ -1,0 +1,21 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wendt"]
+[Black "Leipzig"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "18568e16"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 a6 10. Bd3 O-O 11. Nf3 Re8 12. O-O Nf6 13. h3 c4 14. Bc2
+Nbd7 15. Be3 b6 16. Nd2 Bb7 17. Nxc4 Qc7 18. Bd3 Nc5 19. Rc1 Rac8 20. Bb1
+Nfd7 21. Nd2 Qb8 22. Re1 b5 23. axb5 axb5 24. b4 Na6 25. Qb3 f5 26. Nxb5
+Nf6 27. Nd4 Kh8 28. Ne6 fxe4 29. Nxg7 Bxd5 30. Nxe8 Bxb3 31. Nxf6 Rxc1 32.
+Rxc1 Kg7 33. Nfxe4 Bd5 34. Bd3 Nxb4 35. Bd4+ Kh6 36. Rb1 Bxe4 37. Nxe4 d5
+38. Nf2 Qf8 39. Rxb4 1-0
+

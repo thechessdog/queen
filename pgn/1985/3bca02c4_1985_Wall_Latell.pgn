@@ -1,0 +1,16 @@
+[Event "Palo Alto,CA"]
+[Site "Palo Alto,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Latell, John"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "3bca02c4"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 6. O-O Nd4 7. Nxd4 exd4 8.
+e5 dxc3 9. exf6 cxb2 10. Bxb2 Bxf6 11. Ba3 Be7 12. Re1 1-0

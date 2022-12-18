@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwarzburger, L."]
+[Black "Wallinger, Manfred"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "33bfa51d"]
+[Epoch "Queen"]
+[BlackID "4614216"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. h4
+Nc6 9. h5 d5 10. hxg6 hxg6 11. Nxc6 bxc6 12. exd5 Nxd5 13. Nxd5 Qxd5 14. Qxd5
+cxd5 15. O-O-O Bb7 16. Rh4 e5 17. Rb4 Bc6 18. Bf3 Rfd8 19. Bc5 Rd7 20. g4 Bh6+
+21. Kb1 Rc8 22. c3 Bg5 23. Be2 a5 24. Rb6 Ba4 25. Bb5 Bxd1 0-1

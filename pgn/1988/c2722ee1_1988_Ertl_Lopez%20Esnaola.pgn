@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ertl, R."]
+[Black "Lopez Esnaola, B."]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "c2722ee1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. c3 c6 7. Ba4 Ne7
+8. d3 d5 9. Nd2 Bb6 10. exd5 Qxd5 11. Re1 dxc3 12. bxc3 Be6 13. Ne4 O-O-O
+14. Bg5 Rhe8 15. d4 Qa5 16. Bb3 Bxb3 17. axb3 Qd5 18. Bf4 Bc7 19. Bxc7 Kxc7
+20. Qg4 Ng6 21. Qg3+ Kb6 22. c4 Qxd4 23. c5+ Kb5 24. Qc7 1-0
+

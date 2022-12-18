@@ -1,0 +1,19 @@
+[Event "corr NLD tt"]
+[Site "corr NLD tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Weegenaar"]
+[Black "Backhuys"]
+[Result "1-0"]
+[ECO "A56"]
+[Opening "Vulture defence"]
+[HashCode "ca6e1642"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 Ne4 4. Qc2 Qa5+ 5. Nc3 Nxc3 6. Bd2 e5 7. dxe6 dxe6
+8. Bxc3 Qc7 9. e3 Nc6 10. a3 e5 11. Bd3 g6 12. h4 Bg7 13. O-O-O f5 14. h5
+Bd7 15. g4 O-O-O 16. h6 Bf6 17. gxf5 g5 18. Be4 Be8 19. Bd5 Bf7 20. Ne2
+Rde8 21. Ng3 Bxd5 22. cxd5 Nb8 23. Ne4 Nd7 24. Qa4 Kb8 25. Ba5 b6 26. Bc3
+Rhf8 27. f3 Rc8 28. Rhg1 Rg8 29. d6 Qb7 30. Nxf6 Nxf6 31. d7 Nxd7 32. Rxd7
+Qxf3 33. Qxa7# 1-0
+

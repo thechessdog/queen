@@ -1,0 +1,23 @@
+[Event "FRA-chB"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moulain, Jean Pierre"]
+[Black "Collin, Denis"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "ce7848a3"]
+[Epoch "Queen"]
+[BlackID "603325"]
+[BlackCountry "FRA"]
+
+1. c4 Nf6 2. Nc3 c6 3. d4 d5 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 e5 10. h3 Qe7 11. e4 exd4 12. Nxd4 Nb6 13. Be2 Re8 14. Nf5 Bxf5
+15. exf5 Nbd5 16. Bf3 Rad8 17. a3 Qe5 18. g3 Nxc3 19. bxc3 Ne4 20. Bxe4 Qxe4
+21. Qxe4 Rxe4 22. Rd1 Kf8 23. Bg5 f6 24. Bf4 Ke7 25. Re1 Rxe1+ 26. Rxe1+ Kf7
+27. Rd1 Ke7 28. Re1+ Kf7 29. Be3 Bxa3 30. Ra1 Bd6 31. Rxa7 Rd7 32. c4 g6 33. g4
+gxf5 34. gxf5 Bb8 35. Ra8 Rd8 36. Bb6 Bh2+ 37. Kxh2 Rxa8 38. Kg3 Ra6 39. c5
+Rxb6 40. cxb6 Ke7 41. Kf4 Kd6 42. Kg4 c5 43. f4 c4 44. Kh5 c3 45. Kh6 c2 46.
+Kxh7 c1=Q 47. h4 Qxf4 0-1

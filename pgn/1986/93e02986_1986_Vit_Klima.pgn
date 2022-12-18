@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vit"]
+[Black "Klima"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "93e02986"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Nc6 8. h4
+h5 9. Nf4 Bh7 10. Nxh5 Bxc2 11. Qd2 g6 12. Bg5 Qa5 13. Nf6+ Nxf6 14. Bxf6
+cxd4 15. Bxh8 dxc3 16. bxc3 Be4 17. Rh3 Rd8 18. Bf6 Rd7 19. f3 d4 20. Rd1
+Bd5 21. Kf2 dxc3 22. Qc2 Qc5+ 23. Kg2 Nb4 24. Qe2 Nxa2 25. h5 gxh5 26. Rxh5
+c2 27. Rh8 Bxf3+ 0-1
+

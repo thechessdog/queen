@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heynisch"]
+[Black "Wolf"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "1fda80dc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 exd4
+8. Nxd4 Bd7 9. Nc3 Be7 10. Bf4 O-O 11. e5 Nd5 12. Nxd5 cxd5 13. exd6 Bxd6
+14. Bxd6 cxd6 15. Qd2 Re8 16. Rfe1 Re4 17. c3 Qf6 18. Re2 Rae8 19. Rae1
+R8e5 20. f3 Rxe2 21. Rxe2 Qe7 22. g3 Qe8 23. Kf2 f6 24. Qd3 Qc8 25. f4 Rh5
+26. h4 g5 27. Qf3 1-0
+

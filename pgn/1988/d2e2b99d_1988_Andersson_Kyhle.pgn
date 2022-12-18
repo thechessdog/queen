@@ -1,0 +1,17 @@
+[Event "Norrkoping"]
+[Site "Norrkoeping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andersson, Bjorn"]
+[Black "Kyhle, Bo"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d2e2b99d"]
+[Epoch "Queen"]
+[BlackID "1701150"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Na3 e6 7. Nb5 Qd8 8.
+dxc5 Bxc5 9. Qxd8+ Kxd8 10. Bf4 Nd5 11. Bd6 1/2-1/2

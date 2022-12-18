@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Graf, Juergen"]
+[Black "Maus, Sonke"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "320779d4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+a6 9. Nd2 b5 10. Be2 b4 11. Ncb1 O-O 12. O-O h6 13. Bh4 g5 14. Bg3 Re8 15. Bd3
+h5 16. Nc4 h4 17. Bxd6 Nxe4 18. Bxe4 Rxe4 19. Nbd2 Re8 20. Qh5 Bf5 21. Rfe1 Nd7
+22. Rxe8+ Qxe8 23. Qxg5 Bd3 24. Ne3 a5 25. h3 a4 26. Rc1 Ra6 27. Ndc4 Nf6 28.
+Bxc5 Ne4 29. Qe7 Qc8 30. d6 Nxc5 31. Ne5 Bxe5 32. Qxe5 Rc6 33. Nd5 Qe6 34. Ne7+
+Kh7 35. Qxe6 1-0

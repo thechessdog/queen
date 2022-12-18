@@ -1,0 +1,17 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "De Bruijn"]
+[Black "Kattemolle"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "af130743"]
+[Epoch "Queen"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bg5 Be7 6. Nf5 O-O 7. Nxe7+
+Qxe7 8. Nd5 Qe5 9. Bxf6 gxf6 10. c3 b6 11. Qd3 Bb7 12. O-O-O Na5 13. Qg3+
+Qxg3 14. Nxf6+ Kg7 15. Nh5+ Kh8 16. hxg3 d6 17. Rd4 f5 18. Rdh4 Rf7 19. Nf4
+Nc6 20. e4 Ne5 21. exf5 Rd8 22. Ne6 Rdd7 23. f4 Nc6 24. Ng5 1-0
+

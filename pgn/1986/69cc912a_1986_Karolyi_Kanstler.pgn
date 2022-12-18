@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1986.01.01"]
+[Round "?"]
+[White "Karolyi, Tibor"]
+[Black "Kanstler, Boris"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "69cc912a"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackCountry "ISR"]
+[BlackID "2805359"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. a4 a5 8. Be3
+Nbd7 9. h3 e5 10. dxe5 dxe5 11. Qd2 1/2-1/2

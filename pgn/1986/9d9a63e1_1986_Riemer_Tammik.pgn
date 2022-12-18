@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Riemer, Wolfgang"]
+[Black "Tammik, K."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "9d9a63e1"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 exd4 8.
+Nxd4 Ne5 9. Bb3 c5 10. Nf5 Bxf5 11. exf5 Rc8 12. Bd5 Qd7 13. Rd1 a6 14. Be4 Nc6
+15. Be3 b6 16. Qxa6 Nb4 17. Qb7 Rc7 18. Qxb6 Nxe4 19. Nxe4 Rb7 20. Nxc5 1-0

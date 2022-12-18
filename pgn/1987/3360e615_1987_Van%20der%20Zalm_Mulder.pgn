@@ -1,0 +1,20 @@
+[Event "Leiden Noteboom"]
+[Site "Leiden Noteboom"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van der Zalm, M."]
+[Black "Mulder, B."]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "3360e615"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 b6 7. a3 Be7 8.
+O-O Bb7 9. b4 c5 10. bxc5 bxc5 11. Rb1 Bc6 12. Bb2 dxc4 13. Bxc4 Nbd7 14.
+Nf4 Nb6 15. Bd3 cxd4 16. exd4 Qd6 17. Nh5 Nbd5 18. Nxf6+ Nxf6 19. Re1 Rfd8
+20. Re5 Rab8 21. Qe2 Qd7 22. d5 Nxd5 23. Nxd5 Bxd5 24. Qh5 h6 25. Re3 Qc7
+26. Rg3 Rxb2 27. Rxb2 Qc1+ 28. Bf1 Qxb2 29. Qxh6 Qe5 30. Qc1 Bf6 31. h3 g6
+32. Bd3 Qa1 33. Qxa1 Bxa1 34. h4 Rc8 35. h5 Rc1+ 36. Kh2 Be5 0-1
+

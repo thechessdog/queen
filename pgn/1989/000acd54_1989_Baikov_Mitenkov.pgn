@@ -1,0 +1,19 @@
+[Event "Moscow op"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Baikov, Vladimir"]
+[Black "Mitenkov, Alexey"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "000acd54"]
+[Epoch "Queen"]
+[BlackID "4103874"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Bd2 Be7 8. Qc2
+O-O 9. e4 Nxc3 10. Bxc3 c5 11. dxc5 Bxc5 12. Bd3 Nc6 13. Rd1 Qc7 14. b4 Be7 15.
+Qb2 g6 16. O-O Rfd8 17. b5 Na5 18. Ne5 Bf6 19. Rc1 Rac8 20. Bb1 Qd6 21. f4 Qc5+
+22. Kh1 Bg7 23. Bxa5 1-0

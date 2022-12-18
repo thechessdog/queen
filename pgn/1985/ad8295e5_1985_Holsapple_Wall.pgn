@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "ad8295e5"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. exf5 d5 5. Bb5 Bxf5 6. d3 Bd6 7. b3 Ne7 8. Bb2
+O-O 9. Nc3 Nb8 10. Nxd5 Nxd5 11. Bc4 c6 12. Nxe5 Bxe5 13. Bxe5 Re8 14. f4 Kh8
+15. Qf3 Nb4 16. Kd2 b5 0-1

@@ -1,0 +1,25 @@
+[Event "Nordic-ch"]
+[Site "Torshavn"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ziska, Bogi"]
+[Black "Petursson, Margeir"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "bf8b4a17"]
+[Epoch "Queen"]
+[BlackID "2300028"]
+[BlackCountry "ISL"]
+[WhiteID "7200161"]
+[WhiteCountry "FAI"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 a6 6. Ba4 Nf6 7. Qe2 b5 8. Bc2
+Bg4 9. h3 Bxf3 10. Qxf3 g6 11. Rd1 Bh6 12. Na3 e5 13. d3 Bxc1 14. Raxc1 O-O 15.
+Bb3 Na5 16. d4 Qe7 17. dxc5 dxc5 18. Bd5 Rad8 19. Nc2 Nxd5 20. Rxd5 Rxd5 21.
+exd5 Nc4 22. b3 e4 23. Qe2 Nd6 24. a4 Qe5 25. Ne3 f5 26. Qd2 h5 27. axb5 axb5
+28. b4 f4 29. bxc5 fxe3 30. fxe3 Nc4 31. Qd4 Qg3 32. Qxe4 Nd2 33. Qe6+ Kg7 34.
+Kh1 Nf1 35. Qd6 Qxd6 36. cxd6 Ng3+ 37. Kh2 h4 38. c4 bxc4 39. Rxc4 g5 40. Rg4
+Kg6 41. e4 Nf1+ 42. Kg1 Ne3 43. e5 Rf1+ 44. Kh2 Nxg4+ 45. hxg4 Rd1 46. d7 Rxd5
+0-1

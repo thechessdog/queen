@@ -1,0 +1,19 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Meyers"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "da89e387"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 Bg7 5. dxe5 Nxe5 6. Nxe5 Bxe5 7. f4 Bxc3+
+8. bxc3 d6 9. Qd4 Qf6 10. Be2 Qxd4 11. cxd4 f5 12. e5 Ne7 13. Bf3 Nc6 14. c3
+dxe5 15. fxe5 Bd7 16. Bg5 Kf7 17. e6+ Bxe6 18. d5 Bxd5 19. Bxd5+ Kg7 20. Bxc6
+bxc6 21. O-O-O Rhf8 22. Rd7+ Rf7 23. Rhd1 h6 24. Bxh6+ Kf6 25. Bg5+ Ke6 26.
+Rxf7 1-0

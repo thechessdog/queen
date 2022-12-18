@@ -1,0 +1,23 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Delanoy, Arnaud"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "f50882f7"]
+[Epoch "Queen"]
+[WhiteID "13500023"]
+[WhiteCountry "BLR"]
+[BlackID "603961"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 Rc8 14. Ng3
+Na5 15. Nh5 Rh8 16. Nf6+ Kf8 17. Qd4 Nac6 18. Qxc3 Ng8 19. Qc5+ Kg7 20. Rb3 Rh6
+21. Rg3+ Rg6 22. Bd3 Nxe5 23. Nh5+ Kh7 24. Bxg6+ Nxg6 25. Qd4 e5 26. fxe5 Qc4
+27. Qxc4 Rxc4 28. O-O Be6 29. Nf4 Nxf4 30. Rxf4 Rxf4 31. Bxf4 Ne7 32. Bg5 Ng6
+33. Bf6 1-0

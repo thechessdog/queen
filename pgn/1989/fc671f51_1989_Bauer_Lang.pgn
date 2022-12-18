@@ -1,0 +1,28 @@
+[Event "Wurtemberg"]
+[Site "Wurtemberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bauer, Peter"]
+[Black "Lang, Torsten"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "fc671f51"]
+[Epoch "Queen"]
+[WhiteID "4603877"]
+[BlackID "4619315"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Nd4 5. Nxd4 exd4 6. e5 Nd5 7. Qg4 c6 8.
+Bc4 Qa5+ 9. Kd1 d6 10. Qxd4 dxe5 11. Qxe5+ Be6 12. Re1 O-O-O 13. Bd2 Qb6 14.
+Nc3 Nxc3+ 15. Qxc3 Bxc4 16. Qxc4 Qxf2 17. Qg4+ f5 18. Qf4 Qxg2 19. Qxf5+ Kb8
+20. Re2 Qg1+ 21. Re1 Qb6 22. Qe5+ Bd6 23. Ba5 Bxe5 24. Bxb6 Rde8 25. Bg1 Bxb2
+26. Rb1 Bc3 27. Rxe8+ Rxe8 28. Bf2 Be5 29. h3 Bf4 30. Rb4 g5 31. Ra4 a6 32. Bb6
+Bc7 33. Bxc7+ Kxc7 34. Rg4 Re5 35. Kd2 h5 36. Rg3 Kd6 37. d4 Rf5 38. Kd3 Ke6
+39. Re3+ Kf6 40. c4 Ra5 41. Rf3+ Kg6 42. Ke4 Rxa2 43. Ke5 Re2+ 44. Kd6 Re4 45.
+Kc5 b6+ 46. Kxb6 Rxd4 47. c5 Rf4 48. Re3 Rf6 49. Kxa6 g4 50. hxg4 hxg4 51. Re5
+Rf5 52. Re6+ Kf7 53. Rxc6 g3 54. Rc7+ Kg6 55. Rc8 Kh7 56. Rc7+ Kh6 57. Rc8 Rg5
+58. c6 g2 59. c7 g1=Q 60. Rh8+ Kg7 61. c8=Q Qa1+ 62. Kb7 Qb2+ 63. Kc6 Qf6+ 64.
+Kb7 Rb5+ 65. Kc7 Qc3+ 0-1

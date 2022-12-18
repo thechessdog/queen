@@ -1,0 +1,19 @@
+[Event "Prague zt"]
+[Site "Praag zt"]
+[Date "1985.02.01"]
+[Round "17"]
+[White "Sznapik, Aleksander"]
+[Black "Georgiev, Krum"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "2fe07fe5"]
+[Epoch "Queen"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Be7 8. O-O
+O-O 9. Kh1 Nc6 10. Be3 Bd7 11. Qe1 b5 12. a3 Rc8 1/2-1/2

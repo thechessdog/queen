@@ -1,0 +1,19 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Viard, D."]
+[Black "Sarran"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "e5b93702"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6
+8. Qd3 b6 9. O-O-O O-O 10. N2c3 Nd5 11. Nxd5 exd5 12. Nc3 Bf6 13. Qf3 Be6
+14. Be3 Ne7 15. g4 c5 16. h4 Nc6 17. Ne2 Qd7 18. g5 Bxd4 19. h5 Bg4 20. Qg3
+Rae8 21. Rh4 Re4 22. Bxd4 cxd4 23. Re1 Ne5 24. f4 Nf3 25. Rxg4 Nxe1 26. Rh4
+Rc8 0-1
+

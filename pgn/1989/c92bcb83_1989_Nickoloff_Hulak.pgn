@@ -1,0 +1,25 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Nickoloff, Bryon"]
+[Black "Hulak, Krunoslav"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c92bcb83"]
+[Epoch "Queen"]
+[BlackCountry "HRV"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Qc2 g5 13. Nc4 Nxc4 14. Bxc4 Ng4 15.
+Ne2 Qf6 16. Ng3 Qg6 17. Be2 Be5 18. Bxg4 Bxg4 19. f4 gxf4 20. Bxf4 Bd4+ 21. Kh1
+Re7 22. Ra3 Kh8 23. Qd2 Rg8 24. b4 b6 25. a5 Bd7 26. axb6 axb6 27. bxc5 bxc5
+28. Ra6 Be5 29. Rb6 Rc8 30. Bxe5+ Rxe5 31. Qf4 c4 32. Rb7 Be8 33. Nf5 Qf6 34.
+Qc1 c3 35. Rb6 Rxf5 36. exf5 c2 37. Rb2 Ba4 38. Rb4 Bd7 39. Rb2 Qc3 40. f6 Bf5
+41. Qh6 Rg8 42. Rb8 Bc8 43. Qc1 Qd3 44. Re1 Qc4 45. Qd2 Qc7 46. Ra8 Qb7 47.
+Rea1 Qb1+ 48. Qc1 Qxc1+ 49. Rxc1 Bf5 50. Rxg8+ Kxg8 51. g4 Be4+ 52. Kg1 h6 53.
+h4 Kh7 54. h5 Bf3 55. Rxc2 Bxg4 56. Rg2 Bxh5 57. Rg7+ Kh8 58. Kf2 Bg6 59. Ke3
+Bh5 60. Ke4 Bg6+ 61. Kf4 h5 62. Kg5 Be4 63. Kh6 1-0

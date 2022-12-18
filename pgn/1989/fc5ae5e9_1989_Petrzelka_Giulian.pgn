@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petrzelka"]
+[Black "Giulian"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "fc5ae5e9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Nf4 Nc6 10. Bb5 Qb4 11. Ne2 Nb6 12. Qd3 Qxb2 13. Rb1 Qa3 14.
+Rxh7 Qf8 15. Na4 Nxa4 16. Bxa4 a6 17. Bxc6+ bxc6 18. Rxh8 Qxh8 19. Kd2 a5
+20. Qc3 Qh6+ 21. f4 Kd7 22. Qc5 Ba6 23. Rb3 Qh2 24. Rb6 Bb5 25. c4 dxc4 26.
+d5 cxb6 27. dxc6+ Ke8 28. Qxb5 Qxg2 0-1
+

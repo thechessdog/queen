@@ -1,0 +1,23 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Siekanski, Janusz"]
+[Black "Zolnierowicz, Krzysztof"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "9710afb5"]
+[Epoch "Queen"]
+[BlackID "1100238"]
+[BlackCountry "POL"]
+[WhiteID "1100599"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 b6 5. Bg5 Bb7 6. Qc2 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Be5 Bxc3+ 10. bxc3 f6 11. Nd2 fxe5 12. Nxe4 d5 13. Ng3 Qf6 14. e3 Nd7
+15. Be2 dxc4 16. Bh5+ Ke7 17. O-O b5 18. a4 a6 19. axb5 axb5 20. Qb2 Rxa1 21.
+Rxa1 Rb8 22. Qb4+ Kd8 23. dxe5 Qxe5 24. Rd1 c6 25. Qf8+ Kc7 26. Qe7 Rd8 27. Bf3
+Bc8 28. Bxc6 Rg8 29. Be4 h5 30. Ra1 Rg7 31. Ra7+ Kb8 32. Ra8+ Kc7 33. Qe8 Nb8
+34. Ra7+ 1-0

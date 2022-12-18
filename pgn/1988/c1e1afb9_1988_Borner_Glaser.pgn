@@ -1,0 +1,17 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Borner, U."]
+[Black "Glaser, W."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "c1e1afb9"]
+[Epoch "Queen"]
+
+1. g3 d5 2. f4 Nf6 3. Nf3 Bg4 4. Bg2 Nbd7 5. O-O c6 6. d3 Qc7 7. Qe1 e5 8.
+Nxe5 Nxe5 9. fxe5 Qxe5 10. Nc3 Bc5+ 11. Kh1 O-O 12. Na4 Be3 13. Bxe3 Qxe3
+14. Bf3 Bh3 15. Bg2 Bxg2+ 16. Kxg2 Rae8 17. h3 Qxe2+ 18. Qxe2 Rxe2+ 19. Rf2
+Rfe8 0-1
+

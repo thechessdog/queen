@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zagorovsky"]
+[Black "Bryson"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "60e5e0f9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
+f4 O-O 9. Be3 Qc7 10. a4 Nc6 11. Nb3 b6 12. Kh1 Re8 13. Bd3 Bb7 14. Qf3 Nb4
+15. Nd4 Bf8 16. Rae1 Nd7 17. Bd2 Nc5 0-1
+

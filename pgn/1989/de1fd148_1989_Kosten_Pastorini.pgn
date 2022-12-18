@@ -1,0 +1,20 @@
+[Event "Forli op"]
+[Site "Forli"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kosten, Anthony C."]
+[Black "Pastorini, Mario"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "de1fd148"]
+[Epoch "Queen"]
+[WhiteID "400114"]
+[WhiteCountry "FRA"]
+[BlackID "800759"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bd3 Be7 7. O-O O-O 8. f4
+Nc6 9. Nf3 Nb4 10. a3 Nxd3 11. cxd3 b6 12. b4 Bb7 13. Bb2 Ne8 14. Rc1 f5 15.
+Qb3 fxe4 16. Qxe6+ Kh8 17. Nxe4 Rxf4 18. g3 Bxe4 19. dxe4 1-0

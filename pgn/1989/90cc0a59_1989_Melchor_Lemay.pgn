@@ -1,0 +1,15 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Melchor, Alejandro"]
+[Black "Lemay, F."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "90cc0a59"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+ Ke7
+8. d4 Qd6 9. Bg5+ Kd7 10. Qf5+ Kc6 11. Qxf8 Qxf8 0-1

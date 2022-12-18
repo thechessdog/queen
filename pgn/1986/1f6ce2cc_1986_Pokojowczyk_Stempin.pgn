@@ -1,0 +1,21 @@
+[Event "POL-ch"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "12"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Stempin, Pawel"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "1f6ce2cc"]
+[Epoch "Queen"]
+[WhiteID "1100718"]
+[BlackID "1100068"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Be2 Be7 14. Rb3 Qa5
+15. O-O Qd8 16. Qf4 O-O 17. Qh4 e5 18. Nd1 Be6 19. Rg3 Rf7 20. Ne3 d5 21. exd5
+cxd5 22. Bh5 Nxh5 23. Qxh5 Rxf1+ 24. Kxf1 d4 25. Bh6 Bf6 26. Bxg7 Bxg7 0-1

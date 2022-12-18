@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Karst, F."]
+[Black "Wittel"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "ef3792af"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 7. Bb5 Bd7
+8. O-O a6 9. Bxc6 Bxc6 10. Nd5 Bxd5 11. exd5 Ne7 12. c4 O-O 13. Re1 Ng6 14.
+Be3 Bxe3 15. Rxe3 Re8 16. Rxe8+ Qxe8 17. Nd2 Qe7 18. Qb3 b6 19. Qe3 Re8 20.
+Re1 Kf8 1/2-1/2
+

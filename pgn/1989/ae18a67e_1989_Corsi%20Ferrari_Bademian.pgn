@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Corsi Ferrari, Alej"]
+[Black "Bademian, S."]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "ae18a67e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 Be7 6. Bxe7 Qxe7 7. Bxc6
+Qb4+ 8. c3 Qxb2 9. O-O dxc6 10. Qxd4 f6 11. e5 c5 12. Qe3 f5 13. Nbd2 b6
+14. Qd3 Bd7 15. Nc4 Qb5 16. e6 Bc6 17. a4 Qb3 18. Rfb1 Rd8 19. Qxd8+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Tessenderlo"]
+[Site "Tessenderlo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Rooze"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "205ff518"]
+[Epoch "Queen"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 b6 5. d5 exd5 6. Nc3 Be7 7. Nxd5 O-O 8. Bf4
+Nxd5 9. Qxd5 Nc6 10. Rd1 b5 11. Bd3 Bb7 12. Qh5 g6 13. Qh6 Nb4 14. Be5 1-0

@@ -1,0 +1,16 @@
+[Event "Palo Alto,CA"]
+[Site "Palo Alto,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Latell, Jerry"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "b2dd9819"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. exd5 exd5 7. dxc5 Qa5 8.
+Bd2 Qxc5 9. Qe2+ Ne7 10. Bg5 Qxc3+ 0-1

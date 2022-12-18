@@ -1,0 +1,19 @@
+[Event "Alicante op"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Martin Gonzalez, Angel"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "ba0d3cf0"]
+[Epoch "Queen"]
+[WhiteID "2200031"]
+[WhiteCountry "SWE"]
+[BlackID "2200104"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Qa5 9. Nd2 Be7 10. Be2 Nc6 11. O-O e5 1/2-1/2

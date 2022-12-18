@@ -1,0 +1,21 @@
+[Event "Longueuil"]
+[Site "Longueuil"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Poitras, Luc"]
+[Black "Arsenault, Nicolas"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "a00b2799"]
+[Epoch "Queen"]
+[WhiteID "2601176"]
+[BlackID "2605430"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+Qc7 9. f4 Nbd7 10. Qe2 Nc5 11. e5 Nfd7 12. exd6 Qxd6 13. Be3 Nxb3 14. axb3 Nf6
+15. Rfd1 Qb8 16. Nf3 b5 17. Ne5 Bb7 18. Nxb5 axb5 19. Qxb5+ Kf8 20. Nc6 Rxa1
+21. Rxa1 Qc8 22. Nxe7 Kxe7 23. Ra7 1-0

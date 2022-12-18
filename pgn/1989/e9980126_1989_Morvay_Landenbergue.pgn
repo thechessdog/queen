@@ -1,0 +1,21 @@
+[Event "Tapolca"]
+[Site "Tapolca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Morvay, Miklos"]
+[Black "Landenbergue, Claude"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "e9980126"]
+[Epoch "Queen"]
+[WhiteID "701238"]
+[WhiteCountry "HUN"]
+[BlackID "1300130"]
+[BlackCountry "SUI"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 c5 5. f4 cxd4 6. Qxd4 e6 7. Be3 Nc6 8. Qd2
+Bb4 9. a3 Qa5 10. Nge2 Nb6 11. Bxb6 axb6 12. Rd1 Be7 13. Nc1 Qa7 14. Qf2 O-O
+15. Bd3 f6 16. Qh4 g6 17. Qh6 Rf7 18. O-O Bd7 19. Rf3 Bf8 20. Qh4 fxe5 21. Bxg6
+hxg6 22. Rh3 Bg7 23. Nb5 Qb8 24. Qh7+ Kf8 0-1

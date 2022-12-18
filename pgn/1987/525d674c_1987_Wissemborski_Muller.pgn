@@ -1,0 +1,17 @@
+[Event "Mainz"]
+[Site "Mainz"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wissemborski, Hartmut"]
+[Black "Muller, C."]
+[Result "1/2-1/2"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "525d674c"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 c6 7. Nf3 e6 8. Be2
+Nbd7 9. Ne5 Qa5 10. O-O Nxe5 11. Bxe5 Nd7 12. Bxg7 Kxg7 13. cxd5 exd5 14. Qa4
+Qxa4 15. Nxa4 Nf6 16. Rfc1 Re8 17. b4 a6 18. Nc5 Ne4 19. a4 Nxc5 20. bxc5 a5
+21. Rab1 Re7 1/2-1/2

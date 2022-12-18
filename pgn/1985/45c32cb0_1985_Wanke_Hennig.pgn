@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wanke, R."]
+[Black "Hennig, E."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "45c32cb0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. d4 d5 6. dxc5 dxc4 7. Qxd8+
+Nxd8 8. Na3 Ne6 9. Nb5 Nxg5 10. Bxg5 Nxe4 11. Nxc7+ Kd7 12. Nxa8 Nxg5 13.
+O-O-O+ Kc6 14. Rd6+ Kxc5 15. Rhd1 Ne6 16. R1d5+ Kb4 17. a3+ Ka4 18. Rb6 a5
+19. Rb4+ 1-0
+

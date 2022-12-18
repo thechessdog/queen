@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kargoll, H."]
+[Black "Hetzer, Voltzer"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "9740ea9e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bd6 7. h3
+O-O 8. Be2 Re8 9. O-O Be6 10. c4 Na6 11. a3 Qd7 12. Ne1 Nc7 13. b3 Rad8 14.
+Bd3 Bf5 15. Bb2 Re7 16. Qf3 Bxd3 17. Nxd3 Ne6 18. Rad1 Bc7 19. d5 Ng5 20.
+Qh5 Qd6 21. g3 Re4 22. dxc6 g6 23. Qh6 Nf3+ 24. Kg2 Rh4 25. Qe3 Ng5 26. Ne5
+Qe6 27. Rxd8+ Bxd8 28. gxh4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Columbus,OH Inv"]
+[Site "Columbus,OH Inv"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zelner, Alex"]
+[Black "Kosikov, A."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "a83b754c"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. c3 Nxd4 7. cxd4 Qb6
+8. e5 Nh6 9. Na3 Nf5 10. Nc2 d6 11. a4 O-O 12. a5 Qc6 13. d5 Qc5 14. b4 Qc7
+15. exd6 exd6 16. Ra3 Re8+ 17. Kf2 b6 18. Bb5 Re7 19. Bc6 Bb7 20. Bxb7 Qxb7
+21. Be3 bxa5 22. bxa5 Rc8 23. Re1 Qb2 24. Re2 Rxc2 25. Rxc2 Qxa3 26. Rc8+
+Bf8 27. Bxa7 Rxa7 28. Rxf8+ Kxf8 29. Qh5 Qe3+ 30. Kf1 Rxa5 0-1
+

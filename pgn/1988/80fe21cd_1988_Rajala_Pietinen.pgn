@@ -1,0 +1,21 @@
+[Event "corr Koskinen mem"]
+[Site "corr Koskinen mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rajala"]
+[Black "Pietinen"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "80fe21cd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Ne4 7. Qf3
+Ng5 8. Qg3 Ne4 9. Qe3 Nc5 10. Bc4 Be7 11. Qg3 g6 12. Bh6 d5 13. exd6 cxd6
+14. a3 d5 15. Be2 Bf5 16. Nd2 Qd6 17. Qxd6 Bxd6 18. c4 Nd3+ 19. Bxd3 Bxd3
+20. cxd5 cxd5 21. b4 a5 22. bxa5 Rxa5 23. a4 Bb4 24. Kd1 Ke7 25. Bg7 Rha8
+26. Re1+ Kd8 27. Re3 Bf5 28. Nb3 Rxa4 29. Rxa4 Rxa4 30. Nd4 Ra1+ 31. Ke2
+Re1+ 32. Kf3 Be4+ 33. Kg4 Rxe3 34. fxe3 Bd2 35. Nc6+ Kd7 36. Ne5+ Ke6 37.
+Kf4 g5+ 38. Kxg5 f6+ 39. Bxf6 Bxe3+ 40. Kh4 Bd4 0-1
+

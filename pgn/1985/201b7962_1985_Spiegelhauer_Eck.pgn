@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Spiegelhauer"]
+[Black "Eck"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "201b7962"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. c3 Nf6 6. e5 Nd7 7. Bb5 a6 8.
+Bd3 Qb6 9. O-O cxd4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Nf3 Qa7 13. Qa4 Be7 14.
+Re1 O-O 15. Ng5 Bxg5 16. Bxg5 f5 17. Qh4 Rf7 18. Re3 Nf8 19. Rh3 b5 20. Rc1
+Rc7 21. Re1 Bb7 22. Be7 g6 23. Qf6 Rc6 24. Rh6 Qb8 25. Re3 Qc7 26. Rxh7
+Rc1+ 27. Bf1 Rxf1+ 28. Kxf1 Qc1+ 29. Re1 Qc4+ 30. Kg1 Nxh7 31. Qxg6+ Kh8
+32. Bf6+ Nxf6 33. exf6 Qg4 34. Qh6+ Kg8 35. h3 1-0
+

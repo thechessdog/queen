@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Plymate 5 5"]
+[Black "Chess Master 2000 A"]
+[Result "1-0"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[HashCode "ed6d2180"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O O-O 9. Qb3 Qb6 10. Bd2 Nbd7 11. Ne2 Bxd2 12. Nxd2 Qxb3 13. Bxb3 e5 14.
+dxe5 Nxe5 15. Ng3 Bd3 16. Rfd1 Rad8 17. e4 Ng6 18. Nc4 Bxe4 19. Ne3 Bd3 20.
+h3 Ne5 21. Rd2 Rfe8 22. Rad1 h6 23. f4 Ng6 24. Rxd3 Rxd3 25. Rxd3 Nxf4 26.
+Rc3 Ne6 27. Kf2 Kf8 28. a5 Ng5 29. Rd3 Nge4+ 30. Nxe4 Nxe4+ 31. Ke2 Nc5 32.
+Rc3 Nxb3 33. Rxb3 Rb8 34. Nf5 Re8+ 35. Kd3 Re5 36. Nd4 Rd5 37. Ke4 Rxa5 38.
+Rxb7 Ra6 39. Rc7 Ra2 40. Nxc6 f6 41. Rb7 Ra6 42. Nxa7 Re6+ 43. Kd5 Re2 44.
+g4 Rh2 45. Rb3 Rd2+ 46. Ke6 Re2+ 47. Kd6 Rd2+ 48. Kc7 Kf7 49. Nc6 Kg6 50.
+Kb8 Rc2 51. Ne7+ Kg5 52. Nf5 g6 53. h4+ Kf4 54. Nxh6 Rh2 55. Rb4+ Ke5 56.
+g5 f5 57. Ng8 Rh3 58. Ne7 f4 59. Nxg6+ Kf5 60. Ne7+ Ke5 61. Kc7 f3 62. Nc6+
+Kd5 63. Rd4+ Ke6 64. Rd6+ Kf5 65. Ne7+ Ke4 66. Re6+ Kd3 67. Ng6 f2 68. Ne5+
+Kd2 69. Nc4+ Kd3 70. Rf6 Kxc4 71. Rxf2 Rxh4 72. Rg2 Kd5 73. g6 Rh8 74. Kd7
+Rg8 75. g7 Ke4 76. Ke6 Kf3 77. Kf7 Rb8 78. g8=Q Rxg8 79. Rxg8 1-0
+

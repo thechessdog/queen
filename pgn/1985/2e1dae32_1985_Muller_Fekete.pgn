@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Fekete"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "2e1dae32"]
+[Epoch "Queen"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8. gxf3
+Nd7 9. O-O-O Qa5 10. Kb1 b5 11. Rg1 Nb6 12. Bd3 Nf6 13. f5 b4 14. Ne2 O-O 15.
+Bh6 Rfd8 16. Bxg7 Kxg7 17. f4 c5 18. e5 dxe5 19. fxe5 Nfd5 20. fxg6 fxg6 21.
+Qg5 Nc3+ 22. Nxc3 1-0

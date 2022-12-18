@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Haak"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "280e2037"]
+[Epoch "Queen"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. Nf3 d5 2. c4 d4 3. g3 c5 4. Bg2 Nc6 5. d3 e5 6. O-O Nf6 7. e4 Bg4 8. h3 Bh5
+9. g4 Bg6 10. Nh4 Nd7 11. Nf5 Qc7 12. f4 O-O-O 13. fxe5 Ndxe5 14. Bf4 h5 15.
+Nh4 hxg4 16. Nxg6 fxg6 17. hxg4 Bd6 18. Bxe5 Bxe5 19. Nd2 Bh2+ 20. Kh1 Bf4+ 0-1

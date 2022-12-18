@@ -1,0 +1,15 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer, Ken"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "739473b9"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c6 4. Bd3 Ne4 5. Nf3 Qa5+ 6. Nbd2 Nxg5 7. Nxg5 g6 8.
+Qf3 f5 9. Qh3 Nd7 10. Bxf5 gxf5 11. Qh5+ 1-0

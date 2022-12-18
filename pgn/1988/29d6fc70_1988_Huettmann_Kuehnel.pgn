@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Huettmann, W."]
+[Black "Kuehnel, G."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "29d6fc70"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. Qe2 Nf6
+8. O-O O-O 9. h3 Nc6 10. Be3 Be6 11. c3 Ne4 12. Qc2 f5 13. Nbd2 f4 14. Nxe4
+dxe4 15. Bxe4 fxe3 16. Bxh7+ Kh8 17. fxe3 Rf6 18. e4 Kxh7 19. e5+ Rg6 20.
+Kh2 Qd7 21. Rad1 Bf5 22. Qe2 Rh8 23. d5 Bxh3 24. dxc6 Qg4 25. gxh3 Qxh3+
+0-1
+

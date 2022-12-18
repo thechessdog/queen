@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Skutt, B."]
+[Black "Gerlach"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "38630a69"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be6 7. Bxe6 fxe6
+8. O-O Be7 9. Nxd4 Qd6 10. e5 Qxe5 11. Bf4 Qc5 12. Kh1 Qd5 13. Nc3 Qd7 14.
+Bxb8 Rxb8 15. Qh5+ Kd8 16. Rad1 Kc8 17. Ndb5 1-0
+

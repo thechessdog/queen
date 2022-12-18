@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karker, N."]
+[Black "Blessmann, W."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "f239155b"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 Nc6 6. Be3 h5 7. f3 e5 8. d5
+Ne7 9. Nh3 c6 10. Ng5 O-O 11. O-O cxd5 12. Nxd5 Nfxd5 13. exd5 Nf5 14. Bf2
+Bh6 15. Ne4 Nxh4 16. Nxd6 Nxf3+ 17. Bxf3 Qxd6 18. c4 b6 19. c5 1/2-1/2
+

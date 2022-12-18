@@ -1,0 +1,20 @@
+[Event "corr ICCF/M"]
+[Site "corr ICCF/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grabner, J."]
+[Black "Namark, L."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "5957e8f9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nbc6 12. f4 Bd7 13. O-O O-O-O
+14. Qh4 Qb6+ 15. Qf2 d4 16. a4 Nf5 17. Bxf5 exf5 18. Rd1 Be6 19. Ba3 Bd5
+20. g3 Be4 21. Nc1 Na5 22. Nd3 Nc4 23. Bc5 Qh6 24. Bxd4 Nd2 25. Bxa7 Nf3+
+26. Kf1 Nxh2+ 27. Ke1 Nf3+ 28. Ke2 Qh5 29. Qc5+ Bc6 30. Qxc3 Rxg3 31. Be3
+Ng5+ 0-1
+

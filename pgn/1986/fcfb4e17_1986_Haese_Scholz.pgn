@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Haese, G."]
+[Black "Scholz, G."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "fcfb4e17"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Bd6
+8. dxe5 e3 9. exd6 exd2+ 10. Nxd2 Qf6 11. Qe2+ Qe6 12. Ne4 cxd6 13. Nxd6+
+Ke7 14. Qxe6+ Kxe6 15. Bf4 Ne7 16. O-O-O Kf6 17. Rhe1 Ng6 18. Be3 Rg8 19.
+Bd4+ Kg5 20. Rd3 Kh5 21. Nxc8 Raxc8 22. Rh3+ Kg5 23. Rxh7 c5 24. Bxg7 Nf4
+25. Re7 1-0
+

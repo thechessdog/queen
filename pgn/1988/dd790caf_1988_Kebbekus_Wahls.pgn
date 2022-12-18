@@ -1,0 +1,22 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Kebbekus, Thomas"]
+[Black "Wahls, Matthias"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Sozin variation"]
+[HashCode "dd790caf"]
+[Epoch "Queen"]
+[WhiteID "4606957"]
+[WhiteCountry "GER"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8. a4
+exd4 9. Nxd4 Re8 10. Nf5 Bf8 11. Bg5 d5 12. Bd3 Nc5 13. Qf3 dxe4 14. Bxe4 Ncxe4
+15. Nxe4 Rxe4 16. Rad1 Qa5 17. Nh6+ gxh6 18. Bxf6 Qf5 19. Qc3 Be6 20. Rd3 Rg4
+21. Rfd1 Bd5 22. Rg3 Rg6 23. Re1 a5 24. Ree3 Bb4 25. Qd4 Qxc2 26. h4 Bc5 27.
+Qc3 Qxc3 28. Rxc3 Bb4 29. Rce3 Bd6 0-1

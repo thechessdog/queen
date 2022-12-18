@@ -1,0 +1,26 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Gazarek"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "Nimzovich (Paulsen) variation"]
+[HashCode "9edd3b18"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 dxc6 7. d3 Bg4
+8. h3 Bxf3 9. Qxf3 Nd7 10. Ne2 Re8 11. Ng3 g6 12. Qg4 Nf6 13. Qe2 Bf8 14.
+Bg5 Bg7 15. Qe3 Qd7 16. Bh6 Bh8 17. Rad1 b6 18. Kh1 Qd4 19. Qc1 Rad8 20. f4
+exf4 21. Rxf4 Qe5 22. Rdf1 Rd7 23. Qd2 Nh5 24. Nxh5 Qxh5 25. Rg4 Qe5 26. b3
+Qc3 27. Qd1 a5 28. Bd2 Qd4 29. Qf3 Qe5 30. Bh6 c5 31. a4 Bg7 32. Bxg7 Qxg7
+33. Rf4 Ree7 34. Rf6 Rd6 35. Rf4 h5 36. g4 hxg4 37. hxg4 Rdd7 38. g5 Re5
+39. Qg3 Rde7 40. Kg2 c4 41. bxc4 Rc5 42. Rf6 Ree5 43. Rxf7 Rxg5 44. Rxg7+
+Kxg7 45. Rf4 Rxg3+ 46. Kxg3 c6 47. Rf1 b5 48. axb5 cxb5 49. cxb5 Rxb5 50.
+Ra1 Kf6 51. Kf4 g5+ 52. Kg4 Ke6 53. d4 Kd6 54. c4 Rb4 55. Rxa5 Rxc4 56.
+Rd5+ Ke6 57. Kxg5 Rc1 58. Ra5 Rg1+ 59. Kf4 Rf1+ 60. Ke3 Re1+ 61. Kf3 Rf1+
+62. Ke2 Rh1 63. Ra6+ Kd7 64. Kd3 Rb1 65. e5 Rb2 66. d5 Rb4 67. Ra7+ Kd8 68.
+d6 Rb1 69. Kd4 1-0
+

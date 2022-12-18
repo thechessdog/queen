@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sommerfeld, A."]
+[Black "Wisskirchen, W."]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Horwitz attack"]
+[HashCode "223b84d0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bc5 6. Qe2 Qd8 7. Qg4 Nf6
+8. Qxg7 Rg8 9. Nxc7+ Ke7 10. Nd5+ Nxd5 11. Bg5+ Kd6 12. Qh6+ f6 13. exd5
+Rxg5 14. dxc6 Bxf2+ 15. Kxf2 Qb6+ 16. Ke2 Qxb2 17. Kd2 Qb4+ 18. Kd1 Qd4+
+19. Kc1 bxc6 20. Qf8+ Kc7 21. c3 Rc5 22. Kc2 Rb8 23. Qh6 Rxb1 24. Kxb1 Qxc3
+0-1
+

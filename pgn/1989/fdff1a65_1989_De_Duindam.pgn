@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Coninck"]
+[Black "Duindam"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "fdff1a65"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bg5 O-O
+8. Qd2 c6 9. O-O-O d5 10. Bd3 b5 11. Ne5 Qa5 12. Kb1 b4 13. Ne2 Ba6 14. Ng3
+Bxd3 15. Qxd3 g6 16. h4 c5 17. Qf3 Qd8 18. dxc5 a5 19. Bxf6 Bxf6 20. Rxd5
+Qe7 21. Qe4 Rc8 22. Ng4 Na6 23. Rd7 1-0
+

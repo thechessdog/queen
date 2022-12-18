@@ -1,0 +1,18 @@
+[Event "Compack"]
+[Site "Budapest"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Lengyel, Levente"]
+[Black "Horvath, Jozsef"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "30e39412"]
+[Epoch "Queen"]
+[BlackID "700061"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Nc6 4. Bg2 Bg7 5. e3 e6 6. Nge2 Nge7 7. O-O O-O 8. d4
+cxd4 9. Nxd4 Nxd4 10. exd4 d5 11. cxd5 Nxd5 12. Nxd5 exd5 13. Qb3 Be6 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Grahl, A."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6034a9c9"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 h6 8.
+Nxe6 Qe7 9. O-O fxe6 10. Bg6+ Kd8 11. Bf4 b6 12. c4 a5 13. Re1 Ba6 14. d5 Nc5
+15. dxe6+ Kc8 16. Nd4 Qb7 17. e7 Bxe7 18. Bf5+ 1-0

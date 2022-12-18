@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Miksatko"]
+[Black "Chladek"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "390c33c9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8.
+O-O Nc6 9. a3 Bd6 10. d5 Ne7 11. e4 Ng6 12. f3 Nh5 13. Be3 f5 14. exf5 Ngf4
+15. g3 Nxe2+ 16. Qxe2 Rxf5 17. Ne4 Qe7 18. Bd3 Rf8 19. f4 Nf6 20. fxe5 Qxe5
+21. Nxf6+ Rxf6 22. Rxf6 gxf6 23. Rf1 Qe7 24. Bd4 Qxe2 25. Bxe2 Be5 26. Bxe5
+fxe5 27. Bc4 Bh3 28. Re1 Re8 29. d6+ Kg7 30. dxc7 Rc8 31. Rxe5 Rxc7 32. b3
+Kf6 33. Rd5 a6 34. a4 Bd7 35. a5 Bf5 36. Kf2 Be4 37. Rd4 Re7 38. Ke3 Bd5+
+39. Kf4 Bg2 40. Rd6+ Kg7 41. Be6 Bc6 42. g4 Re8 43. g5 Rf8+ 44. Bf5 Re8 45.
+Rh6 1-0
+

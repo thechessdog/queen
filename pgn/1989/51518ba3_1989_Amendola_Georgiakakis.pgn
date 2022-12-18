@@ -1,0 +1,23 @@
+[Event "Athens op"]
+[Site "Athens"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Amendola, Konstantinos"]
+[Black "Georgiakakis, Ioannis"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "51518ba3"]
+[Epoch "Queen"]
+[WhiteID "4200691"]
+[WhiteCountry "GRE"]
+[BlackID "4200756"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 g6 7. Nf3 Bg7 8. O-O
+O-O 9. h3 Ne4 10. Bxe4 dxe4 11. Ng5 Qd5 12. Nd2 f5 13. h4 e5 14. dxe5 Bxe5 15.
+Bxe5 Nxe5 16. Nb3 Nd3 17. Qd2 h6 18. Nf3 exf3 19. Rfd1 Qe4 20. Qxd3 fxg2 21.
+Qg3 f4 22. Qxg2 Qxg2+ 23. Kxg2 b6 24. Rd6 Kg7 25. Re1 Rf7 26. Nd4 g5 27. hxg5
+Bb7+ 28. f3 hxg5 29. Re5 Kh7 30. Nf5 g4 31. Rh6+ Kg8 32. Rg6+ Kh7 33. Rxg4 Rg8
+34. Rxg8 1-0

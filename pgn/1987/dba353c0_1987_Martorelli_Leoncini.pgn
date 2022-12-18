@@ -1,0 +1,26 @@
+[Event "Gaeta"]
+[Site "Gaeta"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Leoncini"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "dba353c0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Nf6 5. e5 Nd5 6. Qb3 Nc7 7. d4 Nxb5 8.
+Qxb5 cxd4 9. cxd4 a6 10. Qe2 d6 11. d5 Nxe5 12. Nxe5 dxe5 13. Qxe5 f6 14.
+Qd4 e6 15. Nc3 exd5 16. O-O Kf7 17. Bf4 Be6 18. Rad1 Bd6 19. Rfe1 Rc8 20.
+Rxe6 Bc5 21. Rd6 Bxd4 22. Rxd8 Bxf2+ 23. Kxf2 Rhxd8 24. Be3 b5 25. Rd2 Ke6
+26. Ke2 Rd7 27. Kd3 Kf7 28. Bd4 Re8 29. Rf2 f5 30. h3 Ke6 31. Ne2 Kd6 32.
+b4 Re4 33. a3 Kc6 34. Nc3 Re6 35. Rc2 Kb7 36. Kd2 Re8 37. a4 Rc7 38. axb5
+axb5 39. Ra2 Ra8 40. Rxa8 Kxa8 41. Nxd5 Rb7 42. Ke3 Kb8 43. Kf4 Kc8 44. Kg5
+Kd7 45. Kh6 Ke6 46. Nf6 Rc7 47. Nxh7 Rc2 48. Kxg6 Rxg2+ 49. Ng5+ Kd5 50.
+Bc5 f4 51. Kf5 Rc2 52. Kxf4 Rxc5 53. bxc5 b4 54. Ke3 Kxc5 55. Kd3 Kd5 56.
+h4 Ke5 57. Kc4 Kf6 58. Kxb4 Ke7 59. Kc5 Ke8 60. Kd5 Kf8 61. Ke6 Kg7 62. Kf5
+Kh6 63. Kg4 Kg6 64. h5+ Kf6 65. Ne4+ Kg7 66. Kg5 Kf7 67. Nf6 Kg7 68. Ng4
+Kh7 69. h6 Kg8 70. Kg6 1-0
+

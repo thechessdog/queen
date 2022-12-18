@@ -1,0 +1,19 @@
+[Event "Dortmund-A"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Ragozin-Petrosian (`Keres') variation"]
+[HashCode "64294d1b"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d4 Bf6 11. a4 1/2-1/2

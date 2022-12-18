@@ -1,0 +1,18 @@
+[Event "Oakham YM"]
+[Site "Oakham"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Sadler, Matthew D"]
+[Black "Stratil, Ladislav Jr"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "e297caa6"]
+[Epoch "Queen"]
+[WhiteID "400173"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Na6 8. Nc4
+Nc7 9. e4 b5 10. Na5 a6 11. Bg5 Bg7 12. Qf3 Bd7 13. e5 dxe5 14. Nb7 Qe7 15. d6
+Qe6 16. Bxf6 Bxf6 17. Nxc5 1-0

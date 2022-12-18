@@ -1,0 +1,25 @@
+[Event "Lyon"]
+[Site "Lyon"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Van der Wiel, John T.H."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "5b272f6e"]
+[Epoch "Queen"]
+[WhiteID "600040"]
+[WhiteCountry "FRA"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. Nbd2 O-O 8. Nf1
+b5 9. Bc2 d5 10. Qe2 Re8 11. Ng3 dxe4 12. dxe4 Be6 13. Bb3 Qc8 14. O-O Na5 15.
+Bxe6 Qxe6 16. Nf5 Bf8 17. Bg5 g6 18. Bxf6 gxf5 19. Bxe5 fxe4 20. Bxc7 Qc4 21.
+Qxc4 Nxc4 22. Nd4 Rac8 23. Bf4 Nxb2 24. Bd2 Nc4 25. Be1 Red8 26. Nf5 Rd5 27. g4
+h5 28. Ng3 hxg4 29. Nxe4 Bg7 30. Rb1 Re8 31. Ng3 Ne5 32. f4 Nf3+ 33. Kh1 Nxe1
+34. Rbxe1 Rxe1 35. Rxe1 Bxc3 36. Re8+ Kg7 37. Ne4 Rd1+ 38. Kg2 Bd4 39. h3 gxh3+
+40. Kxh3 Ra1 41. Rd8 Be3 42. f5 Rxa2 43. f6+ Kg6 44. Kg4 Bh6 45. Rg8+ Kh7 46.
+Rb8 Ra1 47. Nc3 Rg1+ 48. Kh3 Bf4 49. Rc8 Rc1 0-1

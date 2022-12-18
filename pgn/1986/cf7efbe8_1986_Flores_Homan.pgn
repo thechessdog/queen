@@ -1,0 +1,16 @@
+[Event "Sunnyvale,CA"]
+[Site "Sunnyvale,CA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Flores"]
+[Black "Homan"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Jaffe variation"]
+[HashCode "cf7efbe8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 e5 7. Nf5 O-O
+8. g4 d5 9. exd5 Qxd5 10. Ne7+ 1-0
+

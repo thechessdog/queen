@@ -1,0 +1,22 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Felsberger, Alfred"]
+[Black "Schlosser, Michael"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "82bf22db"]
+[Epoch "Queen"]
+[WhiteID "1600419"]
+[WhiteCountry "AUT"]
+[BlackID "1600184"]
+[BlackCountry "AUT"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 a6 7. a4 b6 8. Bc4 e6
+9. O-O Bb7 10. Nd2 c5 11. dxc5 bxc5 12. Ba2 Nc6 13. Bf4 Nb4 14. Re1 d5 15. exd5
+Nxa2 16. Nxa2 exd5 17. c3 Re8 18. Be5 Qd7 19. Nf3 Bc6 20. Nc1 Qf5 21. Nb3 Ne4
+22. Bxg7 Kxg7 23. Nxc5 Qf6 24. Qd4 Qxd4 25. cxd4 Nxc5 26. Rxe8 Bxe8 27. dxc5
+Rb8 28. Rd1 Rxb2 29. Rxd5 1/2-1/2

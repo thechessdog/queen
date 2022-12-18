@@ -1,0 +1,18 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jandovsky"]
+[Black "Kopecky"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "38a2e969"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Re1 O-O 11. Bg5 Bg4 12. Be2 Re8 13. Qd2 h6
+14. Bf4 Ng6 15. Bg3 Qf6 16. Bxd6 Qxd6 17. c3 Qf6 18. h3 Bxf3 19. Bxf3 Nf4
+20. Re3 Ne5 21. Rae1 Nxh3+ 22. Kf1 Nf4 23. Nc5 Re7 24. g3 Nc4 0-1
+

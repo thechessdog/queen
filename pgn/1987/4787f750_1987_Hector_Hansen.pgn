@@ -1,0 +1,20 @@
+[Event "Gausdal zt"]
+[Site "Gausdal zt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hector, Jonny"]
+[Black "Hansen, Jacob Brendstrup"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "4787f750"]
+[Epoch "Queen"]
+[WhiteID "1700090"]
+[WhiteCountry "SWE"]
+
+1. Nc3 d5 2. d4 e6 3. e4 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8. hxg5
+c5 9. Nf3 Nc6 10. dxc5 Ndxe5 11. Nxe5 Nxe5 12. Qg3 Ng6 13. O-O-O Bd7 14. Bd3
+Qb8 15. Qe3 Qe5 16. Nxd5 exd5 17. Qxe5+ Nxe5 18. Rde1 f6 19. gxf6 gxf6 20. f4
+O-O-O 21. fxe5 fxe5 22. Rxe5 h6 23. Rxd5 Rdg8 24. Rdh5 Rxg2 25. Rxh6 Rxh6 26.
+Rxh6 Rg5 27. c6 1-0

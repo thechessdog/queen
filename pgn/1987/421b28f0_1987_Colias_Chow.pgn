@@ -1,0 +1,21 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Chow, Albert"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "421b28f0"]
+[Epoch "Queen"]
+[BlackID "2002167"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. O-O
+cxd4 9. cxd4 f5 10. Nb3 a5 11. Nf4 a4 12. Qh5+ g6 13. Nxg6 hxg6 14. Qxh8 axb3
+15. Bg5 Qxd4 16. Bb5 Kf7 17. Bxc6 bxc6 18. Rfe1 Bb7 19. Qh7+ Bg7 20. Bh6 Rg8
+21. Bxg7 Rxg7 22. Qh8 Nf8 23. axb3 Qxb2 24. Ra7 Qxb3 25. Rea1 c5 26. Qh3 Qb6
+27. Qh8 d4 28. h4 d3 29. Ra8 Bxa8 30. Rxa8 1-0

@@ -1,0 +1,20 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Nilsen, K."]
+[Black "Kvassheim, R."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "3d78f933"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Be3 Ngf6 6. Bd3 Nxe4 7. Bxe4
+Nf6 8. Bf3 Bf5 9. g4 Be4 10. Bxe4 Nxe4 11. Qd3 Qd5 12. c4 Nxf2 13. Kxf2
+Qxh1 14. Bf4 g5 15. Be5 Bg7 16. Bxg7 Qxh2+ 17. Kf1 Rg8 18. Be5 Qh1 19. Re1
+O-O-O 20. Qa3 f6 21. Bg3 e5 22. Qxa7 Rgf8 23. Kf2 Qh6 24. Nf3 Qg6 25. dxe5
+fxe5 26. Qa8+ Kc7 27. Bxe5+ Kb6 28. c5+ Kb5 29. Qxb7+ Kxc5 30. Bd4+ Kd6 31.
+Qe7+ Kd5 32. Qc5# 1-0
+

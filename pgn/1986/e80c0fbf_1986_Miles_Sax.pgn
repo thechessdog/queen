@@ -1,0 +1,25 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Miles, Anthony J"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "e80c0fbf"]
+[Epoch "Queen"]
+[WhiteCountry "ENG"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 Ne4 7. Qd3 Qa5 8.
+Nb3 Qf5 9. Qe3 Nc6 10. Bg2 Nd6 11. c5 Nc4 12. Qd3 Qxd3 13. exd3 N4a5 14. Nxa5
+Nxa5 15. Be3 d6 16. cxd6 Bd7 17. O-O Bxd6 18. Ne4 Be7 19. Rfc1 Nc6 20. Nc5 Bxc5
+21. Bxc5 Nd8 22. Bd4 O-O 23. Rc7 Bb5 24. Bc5 Re8 25. d4 a6 26. Re1 Rb8 27. Ba7
+Ra8 28. Bc5 Rb8 29. Ba7 Ra8 30. Bb6 Rb8 31. b3 Bc6 32. d5 exd5 33. Rxe8+ Bxe8
+34. Bxd5 Bc6 35. Re7 h6 36. Bxc6 Nxc6 37. Rc7 Nb4 38. Ba7 Ra8 39. a3 Rxa7 40.
+axb4 a5 41. bxa5 Rxa5 42. Rxb7 Ra1+ 43. Kg2 Rb1 44. Kf3 h5 45. h4 Rb2 46. b4 g6
+47. b5 Kg7 48. b6 Kf6 49. Ke3 Ke6 50. Rb8 Kf6 51. Kd4 Rxf2 52. Ra8 Rb2 53. Kc5
+Ke6 54. Kc6 Rc2+ 55. Kb7 Rc3 56. Ra5 Rxg3 57. Ka7 Rb3 58. b7 f6 59. b8=Q Rxb8
+60. Kxb8 1-0

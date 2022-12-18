@@ -1,0 +1,20 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirby, J."]
+[Black "Lewark, J."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "8f536529"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. h3 Re8
+8. Bg5 Nbd7 9. Nc3 c6 10. Nh4 h6 11. Nf5 Bf8 12. Bf4 Nb6 13. Ne2 Nc4 14.
+Rb1 Ne4 15. Neg3 Qf6 16. Nxe4 dxe4 17. Bxc4 Bxf5 18. Qd2 Qg6 19. Qe3 b5 20.
+Bb3 Rac8 21. Rbd1 c5 22. dxc5 Bxc5 23. Qg3 Qxg3 24. Bxg3 Be6 25. Bxe6 Rxe6
+26. c3 g5 27. Rd5 b4 28. cxb4 Bxb4 29. a3 Bf8 30. Re5 Rxe5 31. Bxe5 Rc2 32.
+Rd1 Bc5 33. Bd4 Bxd4 34. Rxd4 f5 35. Rb4 Rc1+ 36. Kh2 Rf1 37. Kg3 0-1
+

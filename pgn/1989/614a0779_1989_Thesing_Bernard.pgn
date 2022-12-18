@@ -1,0 +1,24 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thesing, Matthias"]
+[Black "Bernard, Christophe"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "614a0779"]
+[Epoch "Queen"]
+[WhiteID "4600720"]
+[WhiteCountry "GER"]
+[BlackID "600385"]
+[BlackCountry "FRA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 c6 6. a4 O-O 7. Be3 a5 8. Be2 Na6
+9. O-O Nc7 10. Qc1 d5 11. e5 Nfe8 12. Nh2 b6 13. Qd2 f6 14. f4 f5 15. Nf3 Qd7
+16. Kh2 Ba6 17. Rg1 Bxe2 18. Nxe2 Ne6 19. g4 N8c7 20. gxf5 Rxf5 21. Ng3 Rf7 22.
+Nh4 Raf8 23. Raf1 c5 24. c3 cxd4 25. cxd4 g5 26. fxg5 Rxf1 27. Nxf1 Qxa4 28. g6
+hxg6 29. Nxg6 Rf7 30. Ng3 Qb4 31. Qxb4 axb4 32. Nf5 Kh7 33. Nfxe7 Rf3 34. Rg3
+Rxg3 35. Kxg3 Nb5 36. Nf4 Nbxd4 37. Bxd4 Nxd4 38. Nd3 b3 39. Kg4 b5 40. Nxd5
+Kg6 41. Ne7+ Kf7 42. Nf5 Nc6 43. Nxg7 Kxg7 44. Kf5 1-0

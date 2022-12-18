@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Engbersen, J."]
+[Black "Simmelink, J."]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "f051d138"]
+[Epoch "Queen"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Nbd7 8.
+Bg2 Be7 9. O-O b5 10. a3 Bb7 11. b3 Nc5 12. f3 d5 13. exd5 Nxd5 14. Nxd5 Bxd5
+15. Nc3 Bb7 16. Qe2 Qd4+ 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr NLD/1"]
+[Site "corr NLD/1"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Baars"]
+[Black "Dalmolen"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "3f64608b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6
+8. Qh5+ g6 9. Qe2 Qh4 10. g3 Qh3 11. Qxe4 Be6 12. Nf3 O-O-O 13. Ng5 Bf5 14.
+Qe2 Qg2 15. Qf3 Qxf3 16. Nxf3 Bd3 17. Be3 Ne7 18. Ne5 Bxe5 19. dxe5 Nd5 20.
+Bd4 Rhe8 21. f4 g5 22. Kd2 Bxb1 23. Raxb1 gxf4 24. gxf4 Nxf4 25. Kc2 c5 26.
+Bxc5 Rxe5 27. Bd4 Re2+ 28. Kb3 Ne6 29. Kc4 Nxd4 30. cxd4 Rd2 31. Rhd1
+R8xd4+ 0-1
+

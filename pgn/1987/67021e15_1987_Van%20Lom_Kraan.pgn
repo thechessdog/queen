@@ -1,0 +1,20 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Lom, Rob"]
+[Black "Kraan, W."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "67021e15"]
+[Epoch "Queen"]
+[WhiteID "1015230"]
+[WhiteCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 g6 6. Nc3 Bg7 7. Be2 O-O 8. O-O
+Nc6 9. c5 b6 10. Bb5 Bb7 11. Bxc6 Bxc6 12. b4 bxc5 13. bxc5 Ne4 14. Qc2 Qa5 15.
+Bd2 Nxd2 16. Qxd2 Rab8 17. Rfe1 Rfe8 18. Ne5 Bxe5 19. Rxe5 Rb7 20. Rae1 e6 21.
+f4 Reb8 22. Qe3 Qd8 23. Rxe6 fxe6 24. Qxe6+ Kg7 25. Qxc6 Qa5 26. Re3 Qa3 27.
+Qxd5 Qc1+ 28. Kf2 Rb2+ 29. Ne2 Rxe2+ 30. Kxe2 Rb2+ 31. Kf3 Qd1+ 32. Kg3 1-0

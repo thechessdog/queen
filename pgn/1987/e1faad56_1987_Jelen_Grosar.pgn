@@ -1,0 +1,20 @@
+[Event "Portoroz / Ljubljana"]
+[Site "Portoroz / Ljubljana"]
+[Date "1987.06.01"]
+[Round "1"]
+[White "Jelen, Iztok"]
+[Black "Grosar, Aljosa"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "e1faad56"]
+[Epoch "Queen"]
+[WhiteID "14600056"]
+[WhiteCountry "SLO"]
+[BlackID "14600170"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rfd1 Ne4 12. Bg3 Nxg3 13. hxg3 cxd4 14. Nxd4 Nf6
+15. Rac1 Bb4 1/2-1/2

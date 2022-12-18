@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hallier, K."]
+[Black "Wollmann, Andreas"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "196060aa"]
+[Epoch "Queen"]
+[BlackID "4657772"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nfd2 Qg5 8.
+dxc5 Nf6 9. O-O Bh3 10. g3 O-O-O 11. Qe2 Bxf1 12. Kxf1 Qf5 13. Kg2 h5 14. h3
+Rd3 15. Nf1 Qf3+ 16. Qxf3 exf3+ 17. Kg1 Rd1 0-1

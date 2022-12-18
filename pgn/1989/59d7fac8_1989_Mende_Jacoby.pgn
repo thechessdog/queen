@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mende, Andreas"]
+[Black "Jacoby, Florian, Prof. Dr."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "59d7fac8"]
+[Epoch "Queen"]
+[BlackID "4610423"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 Be6 8. g4
+d5 9. g5 Nxe4 10. Nxe4 dxe4 11. Qxd8+ Kxd8 12. Be3 Kc7 13. Bg2 Nc6 14. O-O-O h6
+15. Nc3 hxg5 16. Nxe4 f6 17. Bc5 Bxc5 18. Nxc5 Bf5 19. c3 Rad8 20. b4 Bc8 21.
+a4 b6 22. Nb3 Rxd1+ 23. Rxd1 Rh4 24. Rd3 Bf5 25. Re3 Rf4 26. Re2 Rh4 27. a5
+bxa5 28. Bxc6 Kxc6 29. Nxa5+ Kc7 30. Nb3 Rxh3 31. Kb2 Bd3 32. Rd2 e4 33. Nc5 g4
+34. Ne6+ Kb6 35. Nf4 Rf3 36. Nd5+ Kb7 37. Kb3 g3 38. fxg3 Rxg3 39. Nf4 g5 40.
+Nh5 Rf3 41. Ng7 g4 42. Ne6 g3 43. Rg2 Bf1 44. Rg1 g2 45. Nc5+ Kc6 46. Nxe4 f5
+47. Nd2 Rf2 48. Kc2 f4 49. Kd1 f3 0-1

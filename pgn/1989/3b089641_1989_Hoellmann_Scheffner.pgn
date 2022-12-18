@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoellmann, Ludger"]
+[Black "Scheffner, Axel, Dr."]
+[Result "0-1"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "3b089641"]
+[Epoch "Queen"]
+[WhiteID "4606507"]
+[BlackID "4602803"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c6 6. d3 d5 7. Nbd2 Nbd7 8. Rb1
+a5 9. b3 e5 10. Qc2 Re8 11. e4 dxe4 12. dxe4 Nc5 13. Ba3 Qd3 14. Qxd3 Nxd3 15.
+Rfd1 Ng4 16. Rf1 Bh6 17. Rbd1 Be6 18. Ra1 Rad8 19. Rfb1 Ngxf2 20. Nf1 f6 21.
+Ne1 Nh3+ 22. Bxh3 Bxh3 23. Rd1 Nxe1 24. Rxe1 Rd3 25. Bc5 Kf7 26. Bb6 a4 27.
+bxa4 Be6 28. Ne3 Bxe3+ 29. Rxe3 Bxc4 30. Rc1 Rxe3 31. Bxe3 Bd3 32. a5 Bxe4 33.
+Rc4 Bd3 34. Rb4 Ba6 35. Bb6 Re7 36. Rh4 h5 37. Rb4 Rd7 38. Rb2 Rd1+ 39. Kf2 Bc4
+40. Be3 Ba6 41. Bb6 Ke6 42. Kf3 g5 43. Ke3 f5 44. Rc2 f4+ 45. gxf4 gxf4+ 46.
+Kf2 h4 47. Bc7 h3 48. Bb6 Rf1# 0-1

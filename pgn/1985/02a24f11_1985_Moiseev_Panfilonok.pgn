@@ -1,0 +1,20 @@
+[Event "Kasan"]
+[Site "Kasan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Moiseev, Viktor"]
+[Black "Panfilonok, V."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "02a24f11"]
+[Epoch "Queen"]
+[WhiteID "4101464"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 c4 6. b3 cxb3 7. Bb5+ Bd7 8.
+Qe2+ Be7 9. Ne5 Nf6 10. Ba3 Bxb5 11. Qxb5+ Nbd7 12. axb3 Bxa3 13. Rxa3 Qb6 14.
+Qxb6 Nxb6 15. O-O O-O 16. c4 Nfd7 17. Nd3 Rfe8 18. c5 Nc8 19. b4 Ne7 20. b5 Nf5
+21. Nf3 Re4 22. Rfa1 Nxd4 23. Rxa7 Rb8 24. c6 Nxb5 25. cxd7 Nxa7 26. Rxa7 Kf8
+27. Rxb7 Ra8 28. g3 Re7 29. Nd4 Rd8 30. Nc5 Re1+ 31. Kg2 Rc1 32. Nc6 1-0

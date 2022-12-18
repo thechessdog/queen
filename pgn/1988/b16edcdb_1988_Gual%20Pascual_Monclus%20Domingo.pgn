@@ -1,0 +1,20 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Gual Pascual, Antonio"]
+[Black "Monclus Domingo, Angel"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b16edcdb"]
+[Epoch "Queen"]
+[WhiteID "2200589"]
+[WhiteCountry "ESP"]
+[BlackID "2216043"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Rd1 Nbd7 12. Ne5 Rc8 13. Bd2 Bxc3 14. bxc3 Ne4
+15. Ba6 1/2-1/2

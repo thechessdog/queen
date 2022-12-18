@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mescheder"]
+[Black "Mathes"]
+[Result "1/2-1/2"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "ceac8544"]
+[Epoch "Queen"]
+
+1. Nf3 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. b3 d6 7. d4 Qe8 8.
+Nc3 a5 9. Bb2 Na6 10. e3 c6 11. Qe2 Bd7 12. e4 fxe4 13. Nxe4 Qh5 14. Rfe1
+Nxe4 15. Qxe4 Rae8 16. g4 Qf7 17. Re2 Qf4 18. Rd1 Qxe4 1/2-1/2
+

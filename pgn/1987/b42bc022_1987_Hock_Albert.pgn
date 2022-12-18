@@ -1,0 +1,20 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hock, Martin"]
+[Black "Albert, Thomas"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "b42bc022"]
+[Epoch "Queen"]
+[WhiteID "4619757"]
+[BlackID "4614291"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. Nc3 b5 6. Bb3 b4 7. Nd5 fxe4 8. O-O
+exf3 9. Qxf3 Nf6 10. d4 Rb8 11. Re1 Nxd4 12. Rxe5+ Ne6 13. Bg5 Be7 14. Nf4 Rb5
+15. Bxf6 Bxf6 16. Rxe6+ dxe6 17. Ba4 O-O 18. Bxb5 axb5 0-1

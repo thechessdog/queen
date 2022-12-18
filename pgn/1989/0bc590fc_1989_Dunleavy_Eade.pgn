@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dunleavy"]
+[Black "Eade"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "0bc590fc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Bg5 c5 9. O-O-O cxd4 10. Rxd4 Qb6 11. e5 Be6 12. Qe2 Ng4 13. Nd5 Rfc8+
+14. Kb1 Bxd5 15. Rxd5 Qe6 16. Qd2 Nb4 17. Ra5 Qf5+ 18. Ka1 Nc2+ 19. Kb1
+Na3+ 20. Ka1 Qb1# 0-1
+

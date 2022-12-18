@@ -1,0 +1,21 @@
+[Event "Kotov mem"]
+[Site "Odessa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Pyhala, Antti"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "1d400132"]
+[Epoch "Queen"]
+[WhiteID "4100425"]
+[WhiteCountry "RUS"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Qe2 f5 8.
+dxe5 O-O 9. Rd1 Qe8 10. Nc3 Nxc3 11. Qc4+ Kh8 12. Qxc3 f4 13. Bxc6 dxc6 14. b3
+Qg6 15. Rd4 Bh3 16. Ne1 Bxg2 17. Bxf4 c5 18. Rc4 Bc6+ 19. Bg3 b5 20. Rxc5 Bxc5
+21. Qxc5 Qe4 22. Kf1 Rad8 23. Rc1 Kg8 24. Nd3 Bd7 25. f4 Bh3+ 26. Kf2 Rd4 27.
+Rg1 Bg4 28. Rg2 Qf3+ 29. Kg1 Bh3 30. Ne1 Qd1 0-1

@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Schultz, Jesper"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "dd40f426"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+
+1. e4 Nc6 2. Nf3 e6 3. d4 d5 4. e5 b6 5. c3 a5 6. Bb5 Bd7 7. Bg5 Be7 8. Bxe7
+Ngxe7 9. Bd3 Bc8 10. Qe2 Nb8 11. O-O Ba6 12. Nbd2 Bxd3 13. Qxd3 Na6 14. a3 O-O
+15. Ng5 Nf5 16. f4 h6 17. g4 hxg5 18. gxf5 gxf4 19. f6 1-0

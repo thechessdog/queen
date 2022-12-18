@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Scheglmann"]
+[Black "Lohwasser"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "7fb36678"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3
+d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 Be6 11. f4 c6 12. Ne2 Qb6+ 13. Kh1 Ng4
+14. f5 Bd7 15. Ng3 Nf2+ 16. Rxf2 Qxf2 17. Qg4 Rfb8 18. Nh5 Kf8 19. Bh4 1-0
+

@@ -1,0 +1,14 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Gaeta"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "78846018"]
+[Epoch "Queen"]
+
+1. g4 d5 2. e3 e5 3. f4 Qh4+ 4. Ke2 Bxg4+ 5. Nf3 Bxf3+ 6. Kxf3 Qh5+ 0-1
+

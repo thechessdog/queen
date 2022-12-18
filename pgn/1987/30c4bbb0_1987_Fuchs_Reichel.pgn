@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Reichel"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lipke variation"]
+[HashCode "30c4bbb0"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 Ng4 6. Nc3 Nc6 7. d5 Nce5 8.
+h3 Nxf3+ 9. exf3 Qh4+ 10. Kd2 Bf4+ 11. Ke2 Qf2+ 12. Kd3 Ne5+ 13. Ke4 f5+ 14.
+Kxf4 Ng6+ 15. Kg5 Qh4# 0-1

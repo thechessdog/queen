@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tendick, F."]
+[Black "Zoeller, K."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "18e9c81a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 e5 7. dxe5 Qa5
+8. Qd2 Nxe5 9. Bxf6 gxf6 10. Bd3 Be6 11. Nge2 O-O-O 12. O-O Nc4 13. Qf4
+Nxb2 14. Rf3 Bd6 15. Qc1 Nxd3 16. cxd3 Bg4 17. Rf2 Bc5 18. d4 Rxd4 19. Nxd4
+Bxd4 20. Nd5 Bxa1 21. Ne7+ Kb8 22. Qxa1 Rd8 23. Qxf6 Rd1+ 24. Rf1 Qc5+ 25.
+Kh1 Qxe7 26. Qh8+ Qd8 27. Qe5+ Kc8 0-1
+

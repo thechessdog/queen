@@ -1,0 +1,20 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[HashCode "deb5b3ab"]
+[Epoch "Queen"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 Bf6 8. Rc1
+Bxd4 9. Nxd4 Nxc3 10. Bxb7 Nxd1 11. Rxd1 e5 12. Nf5 g6 13. Ng7+ Ke7 14. Bxa8 h6
+15. Bc3 f6 16. f4 exf4 17. O-O Kf7 18. Nh5 gxh5 19. Rxf4 d6 20. Bxf6 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Naestved open"]
+[Site "Naestved open"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Bareev, Evgeny"]
+[Black "Zsinka, Laszlo"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "86ece2cd"]
+[Epoch "Queen"]
+[WhiteID "4100140"]
+[WhiteCountry "CAN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. Qc2 Bb7 7. Ng3 Qh4 8. Bd3
+f5 9. O-O Bxc3 10. bxc3 O-O 11. Ne2 Rf6 12. Bxe4 Bxe4 13. Qd1 Bf3 0-1

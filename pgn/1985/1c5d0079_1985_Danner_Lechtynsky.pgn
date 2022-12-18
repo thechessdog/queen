@@ -1,0 +1,23 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Lechtynsky, Jiri"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "1c5d0079"]
+[Epoch "Queen"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Qd3 a6 11. Rd1 b5 12. Ba2 c4 13. Qe2 Qe8 14. Bd2 Bb7 15. b3
+cxb3 16. Bxb3 Rc8 17. Qd3 Bb6 18. Bc2 g6 19. Rab1 Qe7 20. Nxb5 axb5 21. Qxb5
+Nd7 22. Ba4 Rc7 23. e4 Bxd4 24. Qd3 Nc5 25. Qc2 Bxf2+ 26. Kxf2 Nd4 27. Nxd4
+Nxe4+ 28. Kg1 Rxc2 29. Bxc2 Nxd2 30. Rxd2 Rd8 31. Rbd1 Qc5 32. Kf1 Rxd4 33.
+Rxd4 Qxc2 34. R4d2 Qc5 35. h3 Ba6+ 0-1

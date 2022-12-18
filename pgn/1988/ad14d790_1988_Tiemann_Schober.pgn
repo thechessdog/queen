@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tiemann"]
+[Black "Schober"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "ad14d790"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. exd5 exd5 6. Bb5 Bd7 7. Bg5 Qe7+
+8. Qe2 O-O-O 9. Bxf6 Qxf6 10. Nxd5 Qd6 11. Bxc6 Bxc6 12. Ne3 Bxf3 13. Qxf3
+Qxd4 14. O-O Bd6 15. Qxf7 Qxb2 16. Qf5+ Kb8 17. Rab1 Qe5 18. Qxe5 Bxe5 19.
+Nc4 Bd4 20. Na5 Bb6 21. Nc4 Bd4 22. Na5 Bb6 23. Nc4 Bc5 24. Na5 Rd2 25. c4
+Bb6 26. Nb3 Rxa2 27. c5 Ba5 28. Rfd1 Kc8 29. h4 Bb4 30. Rd4 a5 31. Re4 Rf8
+32. Re7 Bc3 33. Rc1 Bf6 34. Re4 Rd8 35. Rcc4 Ra3 36. Nc1 Rc3 37. Kh2 Rxc4
+38. Rxc4 Rd4 0-1
+

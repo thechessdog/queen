@@ -1,0 +1,24 @@
+[Event "Bled op"]
+[Site "Bled"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Mencinger, Vojko"]
+[Black "Brumen, Dinko"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "8a865b77"]
+[Epoch "Queen"]
+[WhiteID "14600099"]
+[WhiteCountry "SLO"]
+[BlackID "14501490"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+Be6 9. Be2 Nd4 10. O-O Bg5 11. Be3 Bxe3 12. fxe3 Nxe2+ 13. Qxe2 Nf6 14. h3 Rc8
+15. Qd3 O-O 16. Rf2 Qe7 17. Rd1 Rfd8 18. Nd5 Bxd5 19. exd5 Nd7 20. e4 Qh4 21.
+Qf3 Rf8 22. g3 Qg5 23. b3 g6 24. h4 Qd8 25. Qe2 Qa5 26. Nb1 b5 27. cxb5 Qxb5
+28. Qg4 h5 29. Qg5 Qb4 30. Qe3 Kg7 31. Kg2 Nf6 32. Re2 Ng4 33. Qd2 Qc5 34. Rf1
+Rc7 35. Rf3 Rfc8 36. Rc3 Qxc3 37. Nxc3 Rxc3 38. Qe1 Rc1 39. Qb4 Rd1 40. Qxd6
+Rcc1 0-1

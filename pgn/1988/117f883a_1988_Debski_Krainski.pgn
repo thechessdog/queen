@@ -1,0 +1,17 @@
+[Event "corr ch-Krakow"]
+[Site "corr ch-Krakow"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Debski, A."]
+[Black "Krainski, J."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "117f883a"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 e6 5. Nf3 Be7 6. d4 O-O 7. Ne4 b6
+8. c3 a5 9. h4 Nd7 10. Neg5 N7f6 11. Bd3 Bb7 12. Ne5 c5 13. Qc2 h6 14. Bh7+
+Kh8 15. Nexf7+ Rxf7 16. Nxf7# 1-0
+

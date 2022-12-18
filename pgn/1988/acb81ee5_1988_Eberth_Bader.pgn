@@ -1,0 +1,18 @@
+[Event "Eger Grand Prix"]
+[Site "Eger Grand Prix"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Eberth, Zoltan"]
+[Black "Bader, M."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "acb81ee5"]
+[Epoch "Queen"]
+[WhiteID "702668"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. b4
+Bxf2+ 9. Kf1 Be3 10. a4 Bxc1 11. Qxc1 h6 12. Na3 a6 13. Nc2 Qc7 14. Qe3 Nge7
+15. Kf2 O-O 16. b5 axb5 17. axb5 Na5 18. b6 Qc8 0-1

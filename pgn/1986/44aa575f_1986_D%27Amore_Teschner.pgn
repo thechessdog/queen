@@ -1,0 +1,21 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "D'Amore, Carlo"]
+[Black "Teschner, Rudolf"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "44aa575f"]
+[Epoch "Queen"]
+[WhiteID "800066"]
+[WhiteCountry "ITA"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 e5 6. Nb3 Nc6 7. c4 d6 8. O-O
+Be7 9. Nc3 Be6 10. Nd5 Rc8 11. Be3 Bxd5 12. cxd5 Nb8 13. Qd2 O-O 14. Qb4 Qd7
+15. Na5 b5 16. a4 bxa4 17. f3 Ne8 18. Rfc1 Nf6 19. Rc2 Rxc2 20. Bxc2 Qb5 21.
+Qc3 Bd8 22. Nc4 Qd7 23. Bxa4 Qe7 24. Qb4 Bc7 25. Qb7 Nh5 26. Rc1 Nf4 27. Rc2
+Ng6 28. b4 h5 29. Nd2 1-0

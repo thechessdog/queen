@@ -1,0 +1,22 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zapolskis, A."]
+[Black "Aulaskari, P."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "10d2d25d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bh5 7. d3 f6 8.
+Be3 e5 9. Nbd2 Bd6 10. a4 g5 11. Nb3 Qe7 12. c3 Qf7 13. Nxc5 Bxf3 14. Qxf3
+b6 15. Nxa6 Rxa6 16. b4 Ne7 17. b5 cxb5 18. axb5 Rxa1 19. Rxa1 Nc8 20. Ra8
+O-O 21. Qf5 Qc7 22. h4 gxh4 23. Bh6 Re8 24. Qxf6 Bf8 25. Qg5+ Kh8 26. Qh5
+Qe7 27. Bg5 Qe6 28. Rb8 Bg7 29. Rb7 Rf8 30. Qxh4 Rf7 31. Rb8 h6 32. Be3 Kh7
+33. Qh3 Qxh3 34. gxh3 Rc7 35. c4 Kg6 36. Kg2 Kf7 37. f4 Ke7 38. fxe5 Ke6
+39. Bxb6 Nxb6 40. Rxb6+ Kxe5 41. Kf3 Bf8 42. Ke2 Kd4 43. Rf6 Rc8 44. Rf5
+Rd8 45. b6 Be7 46. Rb5 Bc5 47. b7 Ba7 48. c5 Bb8 49. c6 Bc7 50. Rf5 1-0
+

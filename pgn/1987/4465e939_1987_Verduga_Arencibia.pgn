@@ -1,0 +1,18 @@
+[Event "Medellin"]
+[Site "Medellin"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Verduga, Denis Homero"]
+[Black "Arencibia Rodriguez, Walter"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "4465e939"]
+[Epoch "Queen"]
+[BlackID "3500012"]
+[WhiteCountry "ECU"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bxa6
+Nxa6 9. O-O b5 10. dxc5 Naxc5 11. Nf3 Qc7 12. Re1 Ne4 1/2-1/2

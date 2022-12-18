@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gruchaz, B."]
+[Black "Kaplan, L."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "5779c49b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Ne2 d6 3. g3 g6 4. Bg2 Bg7 5. c3 Nc6 6. d4 cxd4 7. cxd4 e5 8.
+d5 Nce7 9. Nbc3 Nf6 10. Qa4+ Bd7 11. Qb4 Qb6 12. Qxb6 axb6 13. f3 O-O 14.
+Be3 h5 15. b4 Rfc8 16. Kd2 Ra3 17. Rhc1 Rc4 18. Nb1 Rxe3 19. Kxe3 Bh6+ 20.
+f4 exf4+ 21. gxf4 Rxc1 22. Nxc1 Ng4+ 23. Kd3 Nxd5 24. Ne2 Nf2+ 25. Kd2 Nxf4
+26. Nxf4 Bxf4+ 27. Kc2 Ng4 28. Bh1 Bxh2 29. Nc3 h4 30. Kd2 b5 31. Nd5 Kg7
+32. Ke2 h3 33. Rc1 g5 34. Rc7 Ne5 35. Ne3 g4 36. Rxb7 g3 37. Kf1 g2+ 38.
+Bxg2 hxg2+ 39. Kxg2 Bf4 40. Nf5+ Bxf5 41. exf5 Kf6 42. Rxb5 Kxf5 43. a4 Ke6
+44. a5 Kd7 45. a6 Kc8 46. a7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Artishevsky"]
+[Black "Basin, Leonid"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "a221c302"]
+[Epoch "Queen"]
+[BlackID "4102070"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O e5 7. c3 Nge7 8. Nh4
+Be6 9. f4 Qd7 10. Be3 O-O 11. Nf3 Rad8 12. Na3 Bg4 13. Rf2 d5 14. Qe1 exf4 15.
+gxf4 d4 16. cxd4 Bxf3 17. Rxf3 Nxd4 18. Rh3 Qxh3 19. Bxh3 Nf3+ 20. Kf2 Nxe1 21.
+Rxe1 b6 0-1

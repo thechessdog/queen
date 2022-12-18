@@ -1,0 +1,17 @@
+[Event "ACCOM III"]
+[Site "ACCOM III"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jansen, Josef"]
+[Black "Nibbering, S."]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "60e90de0"]
+[Epoch "Queen"]
+[WhiteID "4625960"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 d6 5. e4 exd5 6. cxd5 Be7 7. Nf3 Bg4 8. Qa4+
+Qd7 9. Bb5 1-0

@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Meinsohn, Pierre"]
+[Black "Renet, Olivier"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "1a8d2ea1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. O-O Nc6 8. c3
+d5 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bxe7 Qxe7 12. f4 O-O 13. Nf3 f6 14. exf6 Nxf6
+15. Qe2 g6 16. Rad1 Kg7 17. Ng5 Rad8 18. Bc2 e5 19. f5 Bc8 20. e4 h6 21. Nf3
+dxe4 22. Nh4 Rxd1 23. Bxd1 gxf5 24. Rxf5 Qd8 25. Rf1 Bg4 26. Qc2 Qd3 27. Qa4
+Bxd1 28. Nf5+ Kg6 29. Rxd1 Kxf5 30. Rxd3 exd3 31. g4+ Kg5 32. Qd1 c4 33. h3 Rd8
+0-1

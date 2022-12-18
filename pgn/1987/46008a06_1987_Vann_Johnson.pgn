@@ -1,0 +1,20 @@
+[Event "Slough"]
+[Site "Slough"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vann, Monica S"]
+[Black "Johnson"]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "46008a06"]
+[Epoch "Queen"]
+[WhiteID "471178"]
+[BlackID "25736477"]
+[WhiteCountry "ENG"]
+[BlackCountry "IND"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bf5 4. d3 e6 5. O-O Be7 6. Nh4 Bg4 7. Qe1 e5 8. f3
+Be6 9. f4 exf4 10. Nd2 fxg3 11. Qxg3 Nh5 12. Qf3 Bc5+ 13. Kh1 Qxh4 14. Nb3 Bd6
+15. h3 Ng3+ 16. Kg1 Nxf1 17. Kxf1 0-1

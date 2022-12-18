@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Franks"]
+[Black "Otte, Lars"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "01cd2051"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Be3 Bg7
+8. Bc4 Nc6 9. Ne2 O-O 10. O-O Bg4 11. f3 Bd7 12. Rb1 Rc8 13. d5 Na5 14. Bb5
+Bxb5 15. Rxb5 Nc4 16. Bf2 b6 17. Qd3 a6 18. Rb3 b5 19. Rbb1 e6 20. a4 exd5
+21. axb5 1/2-1/2
+

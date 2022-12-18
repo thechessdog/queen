@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lehnert"]
+[Black "Cherek"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berlin variation"]
+[HashCode "d60a34b3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Nc5 10. Bc2 Bg4 11. Nbd2 Be7 12. Re1 d4 13. Nb3 d3 14. Bb1
+Nxb3 15. axb3 Bf5 16. Bf4 O-O 17. b4 Qd7 18. Qd2 a5 19. bxa5 Nxa5 20. e6
+fxe6 21. Ne5 Qd5 22. Ba2 Nc4 23. Bxc4 bxc4 24. h3 Rxa1 25. Rxa1 Bd6 26. Re1
+Bxh3 27. gxh3 Rf5 28. Bg3 Bxe5 29. Rxe5 Rxe5 30. Bxe5 Qxe5 31. h4 Qf5 32.
+Qe3 Qg4+ 33. Kf1 Kf7 34. Qe5 d2 0-1
+

@@ -1,0 +1,20 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thesing, Matthias"]
+[Black "Kraut, Rainer"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "ba636601"]
+[Epoch "Queen"]
+[WhiteID "4600720"]
+[BlackID "4600282"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. h3 h6 8. c4
+c6 9. Nc3 Be6 10. cxd5 cxd5 11. Be3 Nc6 12. Rc1 Re8 13. a3 Rc8 14. Re1 a6 15.
+Bb1 b5 16. b4 Bb8 17. Qd3 Qd6 1/2-1/2

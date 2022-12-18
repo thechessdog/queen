@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kriegel, H."]
+[Black "Andreas, G."]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "e1cb741e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Ne4 5. Qc2 f5 6. g3 b6 7. Bg2 O-O 8.
+Nd2 d5 9. cxd5 exd5 10. O-O Na6 11. Ndxe4 dxe4 12. a3 Be7 13. Rd1 Bb7 14.
+Bf4 Qd7 15. Bh3 Qe6 16. Rac1 Bd6 17. Qd2 Rae8 18. Nb5 Qd5 19. Nxd6 e3 20.
+fxe3 Qh1+ 21. Kf2 Qxh2+ 22. Ke1 cxd6 23. Bf1 g5 24. Bxd6 Re6 25. Bc7 Nxc7
+26. Qc3 Qxg3+ 27. Kd2 Nd5 28. Qb3 Qxe3+ 29. Qxe3 Nxe3 30. Rc7 Nxd1 0-1
+

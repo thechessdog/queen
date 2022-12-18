@@ -1,0 +1,24 @@
+[Event "Tampere Elo op"]
+[Site "Tampere ELO"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Ristoja, Aulikki"]
+[Black "Laine, Heikki"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "ee8cdbc7"]
+[Epoch "Queen"]
+[WhiteID "511420"]
+[WhiteCountry "FIN"]
+[BlackID "500631"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O 7. Nf3 e6 8. h3 exd5
+9. cxd5 Re8 10. Bd3 Nxe4 11. Nxe4 f5 12. Qe2 fxe4 13. Bxe4 Bf5 14. Ng5 Qxg5 15.
+fxg5 Rxe4 16. Be3 Bd4 17. Bxd4 Rxe2+ 18. Kxe2 cxd4 19. Rhd1 d3+ 20. Ke3 Na6 21.
+g4 Re8+ 22. Kd4 Re4+ 23. Kxd3 Rxg4+ 24. Ke3 Rxg5 25. Rd4 Rg3+ 26. Kf2 Rxh3 27.
+b4 Ra3 28. Rc4 Kg7 29. Kg1 Kf7 30. Rd4 h5 31. Kf2 Kf6 32. b5 Nc7 33. Rd2 Nxb5
+34. Rb2 a6 35. Rc1 h4 36. Re1 Nc3 37. Rxb7 Rxa2+ 38. Kg1 h3 39. Rh7 Nxd5 40.
+Rf1 Kg5 41. Rd1 Nf6 0-1

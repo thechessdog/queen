@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weinitschke, Gunter"]
+[Black "Breuer"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "343c07ac"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 exd5
+8. Bb5+ Nbd7 9. O-O O-O 10. Re1 Nb6 11. Ne5 Bf5 12. g4 Be6 13. Bd3 Nc4 14.
+g5 Ne8 15. h4 Ned6 16. Qh5 g6 17. Nxg6 hxg6 18. Bxg6 fxg6 19. Qxg6+ Kh8 20.
+Qh6+ Kg8 21. Qxe6+ 1-0
+

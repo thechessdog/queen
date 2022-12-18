@@ -1,0 +1,20 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Novik, Maxim"]
+[Black "Semeniuk, Alexander A"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "c2a3adb9"]
+[Epoch "Queen"]
+[BlackID "4105389"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Nc6 7. Be3 Be7 8. Qf3
+O-O 9. Bd3 e5 10. fxe5 Nxe5 11. Qe2 d5 12. O-O-O Nxd3+ 13. Qxd3 dxe4 14. Nxe4
+Re8 15. Ng5 h6 16. h4 Qd5 17. c4 Qa5 18. Rdf1 Qxa2 19. Nb3 b6 20. Bd4 hxg5 21.
+Kc2 Bb7 22. Re1 Bb4 23. hxg5 Bxe1 24. Nd2 Qa4+ 25. b3 Qa2+ 26. Bb2 Rad8 27.
+Rxe1 Rxd3 0-1

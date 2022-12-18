@@ -1,0 +1,22 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Sznapik, Aleksander"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "0287c1e0"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "1100050"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. O-O Nd7 8. e5 c5
+9. exd6 cxd4 10. Ne2 Qb6 11. a4 b4 12. dxe7 Nxe7 13. f5 O-O 14. fxg6 fxg6 15.
+Nf4 Nf5 16. Ng5 Ne5 17. a5 Qa7 18. Nge6 Ne3 19. Bxe3 dxe3 20. Be2 g5 21. Nh5
+Rf2 22. Rxf2 exf2+ 23. Kh1 Qe3 24. Nhxg7 g4 25. Bf1 Nf3 26. Qe2 Qh6 27. h3 Rf8
+28. Nxf8 1-0

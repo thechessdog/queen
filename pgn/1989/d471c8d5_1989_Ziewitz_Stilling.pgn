@@ -1,0 +1,22 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ziewitz"]
+[Black "Stilling"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "d471c8d5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Nd2 O-O 10. d5 Ne7 11. Qc2 g6 12. f4 Ng4 13. Nf3 exf4 14. exf4
+Nf5 15. Re1 Nh4 16. Ng5 h6 17. Ne4 Bf5 18. Bd2 Nxg2 19. Kxg2 Qh4 20. Rh1
+Bxe4+ 21. Bxe4 f5 22. Raf1 fxe4 23. Qxe4 Rae8 24. Qd3 Kg7 25. h3 Nf6 26.
+Rb1 b6 27. Rbe1 Nh5 28. Rxe8 Rxe8 29. Rf1 Re4 30. Rf3 Rxf4 31. Bxf4 Nxf4+
+32. Rxf4 Qxf4 33. Qe2 Qg5+ 34. Kh1 h5 35. Qe6 Qf6 36. Qd7+ Kh6 37. Qxa7
+Qxc3 38. Qxb6 Qa1+ 39. Kg2 Qxa2+ 40. Kg1 Qa1+ 41. Kg2 Qe5 42. Qb8 Kg5 43.
+Qf8 Qb2+ 44. Kg1 Qf6 45. Qc8 Kf4 46. Qe6 Qe5 47. Qxg6 Qg5+ 0-1
+

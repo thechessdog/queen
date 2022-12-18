@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petersen, Soren Boeck"]
+[Black "Hansen, Lars"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "d75112a7"]
+[Epoch "Queen"]
+[WhiteID "1401262"]
+[WhiteCountry "DEN"]
+[BlackID "1402528"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Nxe5 d6 5. Nf3 d5 6. Bd3 Nc6 7. Nbd2 Nxd2 8.
+Bxd2 Bg4 9. c3 Bd6 10. Qe2+ Qe7 11. Qxe7+ Nxe7 12. Ne5 Bh5 13. Bc2 f6 14. Nd3
+Bg6 1/2-1/2

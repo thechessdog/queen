@@ -1,0 +1,18 @@
+[Event "Lacona"]
+[Site "Lacona"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mantovani, R."]
+[Black "Gross, Georg"]
+[Result "0-1"]
+[ECO "B57"]
+[Opening "Sicilian"]
+[Variation "Sozin, Benko variation"]
+[HashCode "88f47eb5"]
+[Epoch "Queen"]
+[BlackID "4606906"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Ndb5 a6 8.
+Be3 Qa5 9. Nd4 g6 10. Qd2 Bg7 11. O-O-O Ng4 12. Nxc6 bxc6 13. Rhe1 O-O 14. Bb3
+Rb8 15. Na4 Rb4 16. Bb6 Qxa4 0-1

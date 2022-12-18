@@ -1,0 +1,19 @@
+[Event "Belgrade op"]
+[Site "Belgrade"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Ristic, Nebojsa"]
+[Black "Zelcic, Robert"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "bf4511c0"]
+[Epoch "Queen"]
+[BlackID "14500310"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 Bg7 8. Qd2
+h6 9. Bf4 g5 10. Qe3+ Kf8 11. Bg3 Nh5 12. Qd2 f5 13. e3 Bf6 14. Bd3 Kg7 15. Qc2
+Rf8 16. O-O-O Na6 17. a3 Nxg3 18. hxg3 Bd7 19. e4 Nb4 20. axb4 cxb4 21. e5 dxe5
+22. Bxf5 Bxf5 23. Qxf5 Qc8 24. Qe4 bxc3 25. Rxh6 Kf7 26. Nxe5+ 1-0

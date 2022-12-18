@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dougherty, M."]
+[Black "Feith, M."]
+[Result "1-0"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "0a63588f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. Qc2 Nbd7 7. e3 c5 8.
+cxd5 exd5 9. Rd1 Qb6 10. Bd3 h6 11. h4 Re8 12. Kf1 Qc6 13. Ne5 Nxe5 14.
+dxe5 Ng4 15. Bb5 Qe6 16. Bxe7 Rxe7 17. Nxd5 Qxe5 18. Nxe7+ Qxe7 19. Be2 Nf6
+20. Bf3 Rb8 21. g3 b6 22. Kg2 Bb7 23. Qf5 g6 24. Qf4 Nh5 25. Qxb8+ 1-0
+

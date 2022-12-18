@@ -1,0 +1,21 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Doroshkievich, Vladimir K"]
+[Black "Raetsky, Alexander"]
+[Result "1-0"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "92b0a77b"]
+[Epoch "Queen"]
+[BlackID "4103203"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Bf4 e5 8. Bg3
+Bd4 9. e3 Bxc3+ 10. Qxc3 Nc6 11. Bd3 d5 12. Bxe5 Nxe5 13. Qxe5 dxc4 14. Bxc4
+Re8 15. Qb5 Bd7 16. Qb3 Qa5+ 17. Kf1 Ne4 18. Nf3 Nd6 19. Bd3 Rac8 20. Ke2 Bc6
+21. Qb4 Bxf3+ 22. gxf3 Qe5 23. Rad1 g6 24. Bxg6 Nc4 25. Be4 Kh8 26. Rd5 Qf6 27.
+Rg1 Rxe4 28. fxe4 Ne5 29. f4 1-0

@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Flechsig"]
+[Black "Ritter"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Botvinnik system (anti-Meran)"]
+[HashCode "99d79b38"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. a4 b4 8. Nb1
+h6 9. Bh4 g5 10. Bg3 Nxe4 11. Bxc4 Bb7 12. Qb3 g4 13. Nfd2 Qxd4 14. f3 Nxg3
+15. hxg3 Qe5+ 16. Kf1 Qxg3 17. Ne4 Qf4 18. Nbd2 Nd7 19. Re1 gxf3 20. Nxf3
+c5 21. Bxe6 Bxe4 22. Rh4 Qf6 23. Rexe4 Be7 24. Rhf4 Qg7 25. Rxf7 Qg6 26.
+Bxd7+ 1-0
+

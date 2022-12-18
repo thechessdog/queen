@@ -1,0 +1,19 @@
+[Event "Fuzesabony"]
+[Site "Fuzesabony"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eberth, Zoltan"]
+[Black "Boros, L."]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "4005f40b"]
+[Epoch "Queen"]
+[WhiteID "702668"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Nc3 Nxc3 11. bxc3 Bf5 12. Nh4 Bd7 13. Rb1 Rb8 14. Ba3 Re8
+15. Qd2 Qc7 16. c4 dxc4 17. Rec1 Rbd8 18. Rxc4 Be6 19. Rc5 a6 20. Bxc6 bxc6 21.
+Bb4 Rb8 22. Rbc1 Qb7 23. a3 Bd5 1/2-1/2

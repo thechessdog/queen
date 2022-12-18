@@ -1,0 +1,18 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Svendsen, T."]
+[Black "Strelis, V."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "eab031fd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 Qf6 4. Nc3 Qxf5 5. Qe2 d6 6. d4 Nc6 7. d5 Nce7
+8. Qc4 c6 9. Bd3 Qg4 10. O-O Nf6 11. dxc6 Nxc6 12. Nb5 Qd7 13. Re1 Be7 14.
+Qh4 O-O 15. Ng5 h6 16. Ne4 Ng4 17. Qh3 Nb4 18. Nbc3 d5 19. Ng3 e4 20. Bb5
+Qd6 21. Ngxe4 dxe4 22. Bc4+ Kh8 23. Nxe4 Qd4 24. Qb3 Nc6 25. c3 Qe5 26. f4
+Bc5+ 0-1
+

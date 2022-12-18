@@ -1,0 +1,20 @@
+[Event "London Peace"]
+[Site "Londen open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "Rechlis, Gad"]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Byrne (Simagin) variation"]
+[HashCode "7e402e1e"]
+[Epoch "Queen"]
+[WhiteID "2000075"]
+[WhiteCountry "USA"]
+[BlackID "2800047"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8.
+Be2 Bg4 9. d5 Bxf3 10. gxf3 Ne5 11. Qb3 c6 12. f4 Ned7 13. dxc6 bxc6 14. Be3
+Qa5 15. O-O 1/2-1/2

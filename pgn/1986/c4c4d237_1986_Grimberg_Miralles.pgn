@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grimberg, Gilbert"]
+[Black "Miralles, Gilles"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "c4c4d237"]
+[Epoch "Queen"]
+[WhiteID "600474"]
+[WhiteCountry "FRA"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+O-O 9. a3 dxc4 10. Bxc4 Be7 11. Qd3 a6 12. Rd1 b5 13. Ba2 b4 14. Ne4 a5 15. Bc4
+bxa3 16. bxa3 a4 17. Bb5 Bd7 18. N4c3 Nb8 19. Bc4 Bc6 20. Nf4 Nbd7 21. Qh3 Rc8
+22. Nxe6 fxe6 23. Bxe6+ Kh8 24. d5 Bb7 25. d6 Re8 26. Bxd7 Rxc3 27. dxe7 Qc7
+28. Be3 Rxe7 29. Bxa4 h6 30. Qh4 Re4 31. Qg3 Rxa4 32. Rd6 Rg4 33. Qe5 Rxg2+ 0-1

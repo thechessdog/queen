@@ -1,0 +1,18 @@
+[Event "Ludwigshafen"]
+[Site "Ludwigshafen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Drueke, V."]
+[Black "Lixfeld"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "1aeddeb5"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nc3 Bb4 5. f3 Bxc3+ 6. bxc3 exf3 7. Nxf3
+h6 8. Bd3 Nf6 9. Ne5 Qe7 10. O-O Bd7 11. Qf3 Bc6 12. Nxc6 bxc6 13. Rab1 Nd5
+14. Bd2 Rf8 15. c4 Nb6 16. Bb4 Qd7 17. d5 Nc8 18. dxe6 Qxe6 19. Rbe1 Qxe1
+20. Rxe1+ Kd8 21. Bxf8 1-0
+

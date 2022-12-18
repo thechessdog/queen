@@ -1,0 +1,23 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Szymczak, Zbigniew"]
+[Black "Sapis, Witalis"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "d19317d9"]
+[Epoch "Queen"]
+[WhiteID "1100424"]
+[WhiteCountry "POL"]
+[BlackID "1100254"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8. Nxc6
+Bxc6 9. Bxc6+ bxc6 10. Qa4 cxd4 11. Qxc6+ Nd7 12. Qxc4 Bc5 13. Nd2 O-O 14. Ne4
+Bb6 15. Bd2 Rc8 16. Qb3 Nc5 17. Nxc5 Bxc5 18. Rac1 Qb6 19. Qxb6 Bxb6 20. Rxc8
+Rxc8 21. Rc1 Rxc1+ 22. Bxc1 Kf8 23. Kf1 Ke7 24. e3 a6 25. Ke2 Kd6 26. b3 Kd5
+27. exd4 Bxd4 28. Be3 Bb2 29. Kd3 f5 30. f3 h5 31. h3 g6 32. g4 hxg4 33. hxg4
+Bf6 34. Bf2 1/2-1/2

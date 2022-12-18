@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Poor, Istvan"]
+[Black "Fochtler, Ekkehard"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "1c58bf85"]
+[Epoch "Queen"]
+[WhiteID "703761"]
+[WhiteCountry "HUN"]
+[BlackID "4613430"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. d3 d6 6. h3 O-O 7. c3 Bb6 8. Nbd2
+Ne7 9. Nc4 Ng6 10. Nxb6 axb6 11. Re1 Kh8 12. Bc4 Bd7 13. Kh2 Bc6 14. Qb3 Ba4
+15. Qa3 Bc2 16. Qxa8 Qxa8 17. b3 b5 18. Bxb5 c6 19. Bc4 b5 20. Re2 Bd1 0-1

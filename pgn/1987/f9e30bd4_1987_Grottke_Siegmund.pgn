@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grottke"]
+[Black "Siegmund"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "f9e30bd4"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. b4 Bb6 7. e5 a5 8. Na4
+Ba7 9. Ng3 Bd7 10. Nc5 axb4 11. axb4 Nbc6 12. Rb1 O-O 13. Be2 Bxc5 14. bxc5
+b6 15. cxb6 cxb6 16. O-O Qc7 17. c3 Rfb8 18. Bd3 Na5 19. Ba3 Nc8 20. Nh5 g6
+21. Qd2 f5 22. Qh6 1-0
+

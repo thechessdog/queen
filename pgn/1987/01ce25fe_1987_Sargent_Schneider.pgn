@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sargent, J."]
+[Black "Schneider, W."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "01ce25fe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Be7 6. dxe4 O-O 7. Nc3 Re8
+8. Be3 Bb4 9. Bg5 Bxc3+ 10. bxc3 c6 0-1
+

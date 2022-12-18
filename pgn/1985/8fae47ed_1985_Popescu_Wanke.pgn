@@ -1,0 +1,22 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Popescu"]
+[Black "Wanke"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "8fae47ed"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe4 6. Qe2 Nxe5 7. d4
+Qe7 8. Re1 Bxd4 9. Qxe4 O-O 10. c3 d5 11. Qe2 Bg4 12. Qf1 Bb6 13. Bf4 f6
+14. Nd2 c6 15. Bd3 Qd7 16. Bc2 Rae8 17. Be3 Bc7 18. Bc5 Bd6 19. Bxd6 Qxd6
+20. f3 Bh5 21. Rad1 Qc5+ 22. Kh1 Qb6 23. Nb3 Nc4 24. Rxe8 Rxe8 25. Re1 Rxe1
+26. Qxe1 Qe3 27. Qxe3 Nxe3 28. Na1 Bg6 29. Bxg6 hxg6 30. Kg1 Nd1 31. Kf1
+Nxb2 32. Ke2 Kf7 33. Nb3 Na4 34. Kd3 c5 35. Na5 b6 36. Nc6 a5 37. Kc2 c4
+38. Nd4 f5 39. g3 Kf6 40. Kd2 g5 41. Nb5 Ke5 42. Nd4 Nc5 43. Ke3 f4+ 44.
+Ke2 Ne6 45. Nb5 d4 46. Kd2 Kd5 47. Na3 Kc5 0-1
+

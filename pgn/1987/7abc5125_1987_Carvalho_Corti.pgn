@@ -1,0 +1,20 @@
+[Event "Chile"]
+[Site "Chile"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Carvalho"]
+[Black "Corti"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "7abc5125"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O b6 10. Ng3 Ba6 11. f4 Bxd3 12. Qxd3 Nbd7 13. Bd2 a6 14. a4
+Qc7 15. Rae1 Rfe8 16. Kh1 c4 17. Qf3 Nc5 18. e5 Nfd7 19. e6 Nf6 20. f5 Nd3
+21. fxg6 fxg6 22. Re2 Ne5 23. Rxe5 dxe5 24. Nge4 Rf8 25. d6 Nxe4 26. dxc7
+Rxf3 27. gxf3 Nxd2 28. Rd1 Rc8 29. Nd5 Kf8 30. Rxd2 Ke8 31. h4 Bf8 32. Kg2
+b5 33. Kh3 Bc5 34. axb5 axb5 35. Kg4 Be7 36. h5 gxh5+ 37. Kxh5 1-0
+

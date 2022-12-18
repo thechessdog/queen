@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sorrentino"]
+[Black "Bencini"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "7a2e3eff"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 dxc4 6. Bxc6+ bxc6 7. bxc4
+Nf6 8. Qc2 O-O 9. c5 Be7 10. Bxe5 Qd5 11. Nf3 Bg4 12. d4 Bxf3 13. gxf3 Qxf3
+14. Rg1 g6 15. Nd2 Qd5 16. Qc4 Qd7 17. Ke2 Ng4 18. Nf3 Nxe5 19. Nxe5 Qd5
+20. Qxd5 cxd5 21. Nd7 Rfd8 22. c6 a5 23. Rab1 Bb4 24. Rgc1 Kg7 25. Rb3 Re8
+26. Rcb1 g5 27. a3 Bd6 28. h3 a4 29. Rb5 Bxa3 30. Rxd5 Be7 31. Ra1 a3 32.
+Ra2 f6 33. Nc5 Kg6 34. Kd3 Ra5 35. Kc4 Rb8 36. Kc3 Rb6 37. Rd7 Bd6 38. Nb7
+Rxc6+ 39. Kd3 Ra8 40. Nxd6 cxd6 41. Rb7 Rca6 42. Ke4 Ra5 43. f4 h6 44. fxg5
+hxg5 45. Kf3 d5 46. Rb3 Kf5 47. Kg3 Ke4 48. Kg4 R5a6 49. h4 f5+ 50. Kxg5
+Rg8+ 51. Kh5 Rgg6 52. Rf2 Rh6+ 53. Kg5 Rag6# 0-1
+

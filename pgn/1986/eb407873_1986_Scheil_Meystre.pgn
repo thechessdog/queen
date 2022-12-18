@@ -1,0 +1,15 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scheil, D."]
+[Black "Meystre, G."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "eb407873"]
+[Epoch "Queen"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 c6 4. Qb3 Qc7 5. cxd5 cxd5 6. Nc3 e6 7. Qa4+ 1-0
+

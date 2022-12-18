@@ -1,0 +1,29 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemirovski, Serge"]
+[Black "Miralles, Gilles"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2d4c4d9d"]
+[Epoch "Queen"]
+[WhiteID "600318"]
+[WhiteCountry "FRA"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Nb6 6. Bb3 d5 7. cxd4 Bf5 8. Nc3
+e6 9. Nge2 Nc6 10. O-O Be7 11. Ng3 Bg6 12. f4 f5 13. Na4 Rc8 14. Be3 Nxa4 15.
+Bxa4 O-O 16. Rc1 Na5 17. Qe2 Qb6 18. Qb5 Nc4 19. Qxb6 Nxb6 20. Bb5 a6 21. Bd3
+Nc4 22. Bxc4 dxc4 23. Ne2 Rfd8 24. Nc3 Be8 25. Rfd1 Bc6 26. Bf2 b5 27. a3 Kf7
+28. Be1 Rd7 29. Kf2 Bd8 30. g3 a5 31. Ke3 Bb6 32. Ne2 Bb7 33. Nc3 Ba6 34. Ne2
+Rcd8 35. Bc3 Bb7 36. Rd2 Be4 37. Rcd1 Bd3 38. Kf2 Rd5 39. Ke3 Ke8 40. Kf2 Bxe2
+41. Kxe2 Kd7 42. Ke3 Kc6 43. Ke2 R5d7 44. Ke3 Rb8 45. Rc2 Kd5 46. Be1 Rc7 47.
+Bc3 Rc6 48. Be1 Rb7 49. Bc3 Bd8 50. Be1 b4 51. a4 Bb6 52. Bf2 Ba7 53. Be1 g6
+54. Rcc1 Rg7 55. Rc2 h6 56. Rcc1 g5 57. h3 Bb6 58. Rc2 Rgc7 59. Bf2 Rb7 60. Be1
+Bd8 61. Kf3 Rg7 62. Ke3 Be7 63. Kf3 Rg8 64. Ke3 b3 65. Rc3 Bb4 66. Ra1 Rc7 67.
+Rac1 Bxc3 68. Bxc3 Rcg7 69. Be1 h5 70. fxg5 Rxg5 71. Kf4 h4 72. gxh4 Rg2 73.
+Rb1 Rh2 0-1

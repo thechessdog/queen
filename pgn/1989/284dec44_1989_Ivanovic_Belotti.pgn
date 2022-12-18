@@ -1,0 +1,22 @@
+[Event "Aosta op"]
+[Site "Aosta"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Belotti, Bruno"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "284dec44"]
+[Epoch "Queen"]
+[WhiteID "900095"]
+[WhiteCountry "MNE"]
+[BlackID "800040"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Ngf6 10. Bxh7 Nxh7 11. Qe2 e6 12. Bd2 Be7 13. O-O-O O-O 14. Ne4 Ndf6
+15. Nxf6+ Nxf6 16. Kb1 Qd5 17. Be3 a5 18. Ne5 a4 19. f3 a3 20. b3 Rad8 21. g4
+Qa5 22. c4 c5 23. Bd2 Qc7 24. g5 hxg5 25. Bxg5 Ne4 26. Qxe4 Bxg5 27. h6 gxh6
+28. f4 f5 29. Qg2 Qg7 30. fxg5 hxg5 31. Rh5 g4 32. Rdh1 1-0

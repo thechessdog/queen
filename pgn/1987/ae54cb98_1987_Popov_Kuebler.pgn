@@ -1,0 +1,16 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Popov, J."]
+[Black "Kuebler, A."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "ae54cb98"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Qb6 4. Nc3 Qxb2 5. Bd2 Qb6 6. e4 d6 7. f4 g6 8.
+e5 dxe5 9. fxe5 Ng8 10. Nf3 a6 11. Bc4 Bg7 12. O-O Nh6 13. Rb1 Qa7 14. Bxh6
+Bxh6 15. d6 e6 16. Ne4 Nd7 17. Qe1 b5 18. Qh4 Bf8 19. Nfg5 Nxe5 20. d7+ 1-0
+

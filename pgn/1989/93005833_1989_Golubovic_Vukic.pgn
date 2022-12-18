@@ -1,0 +1,23 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Golubovic, Zoran"]
+[Black "Vukic, Aleksandar"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "93005833"]
+[Epoch "Queen"]
+[BlackID "14503212"]
+[BlackCountry "CRO"]
+[WhiteID "902446"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+h4 c5 9. h5 cxd4 10. hxg6 hxg6 11. Qf3 Qa5 12. Ne2 dxc3 13. Bh6 c2+ 14. Kf1 Nc6
+15. Bxg7 Qd2 16. g4 Kxg7 17. Qh3 Be6 18. Qh7+ Kf6 19. g5+ Qxg5 20. f4 Qg4 21.
+e5+ Nxe5 22. fxe5+ Kxe5 23. Rh4 Qf3+ 24. Ke1 Rh8 25. Qg7+ Qf6 26. Qxf6+ exf6
+27. Rxh8 Rxh8 28. Bxe6 Rh1+ 29. Kd2 Rxa1 30. Bxf7 g5 31. Bh5 Kf5 32. Bf7 g4 33.
+Kxc2 Ke4 0-1

@@ -1,0 +1,15 @@
+[Event "Belgorod"]
+[Site "Belgorod"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shahtahtinsky, A."]
+[Black "Savchenko, Stanislav"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "e41ee651"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 O-O 8. Qc2
+Nbd7 9. Nf3 Re8 10. O-O Nf8 11. Rab1 g6 12. b4 1/2-1/2

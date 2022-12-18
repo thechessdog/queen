@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fiebig, G."]
+[Black "Engel, R."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "7260a068"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. a3 Nxd2 7. Bxd2
+Bxd2+ 8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. Be2 O-O-O 12. Rc1 g5 13. c5 h5
+14. cxb6 axb6 15. O-O g4 16. Nd4 Qxe5 17. Nxc6 Qxc3 18. Ne7+ Kb8 19. Rxc3
+1-0
+

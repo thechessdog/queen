@@ -1,0 +1,20 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1985.08.01"]
+[Round "1"]
+[White "Kleszczewski, Nick"]
+[Black "Conquest, Stuart C"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f0526bcb"]
+[Epoch "Queen"]
+[BlackID "400181"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nc6 5. dxc5 d5 6. exd5 Nxd5 7. Bc4 e6 8. Bxd5
+exd5 9. Be3 Qh4+ 10. Bf2 Qg5 11. g3 h5 12. h4 Qf6 13. Qxd5 Bf5 14. Kf1 Rd8 15.
+Qb3 Be7 16. Na3 Rd2 17. Re1 O-O 18. Nc4 Bc2 19. Nxd2 Bxb3 20. axb3 Rd8 21. Ne4
+Qe6 22. c4 Qe5 23. Nc3 Qf5 24. Nd5 Bf6 25. Kg2 Qc2 26. Nxf6+ gxf6 27. Nh3 Ne5
+28. Nf4 Rd2 29. Rhf1 Qxb3 30. Nxh5 0-1

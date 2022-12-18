@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Poetzschmann, R."]
+[Black "Schild, H."]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Richter attack"]
+[HashCode "a0aef010"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qf3 Be7 10. Bd3 Rb8 11. Qxc6+ Bd7 12. Qa6 Qb6 13. O-O Qxa6
+14. Bxa6 Nd5 15. Bxe7 Kxe7 16. Nxd5+ exd5 17. b3 Rb6 18. Be2 d4 19. Rad1
+Bf5 20. f4 Bxc2 21. Rd2 d3 22. Bxd3 Bxd3 23. Rxd3 e4 24. Rd4 f5 25. Rc1 Rb7
+26. Rc5 g6 27. g4 fxg4 28. Kf2 Kf6 29. Rc6+ Kf7 30. Rxe4 Rd8 31. Re2 Rbd7
+32. Ra6 h5 33. Ree6 Rd2+ 34. Kg3 g5 35. fxg5 R8d3+ 36. Kf4 Rf3+ 0-1
+

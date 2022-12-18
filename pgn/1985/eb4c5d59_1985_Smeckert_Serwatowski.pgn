@@ -1,0 +1,22 @@
+[Event "Westland SE MI opB"]
+[Site "Westland SE MI opB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Smeckert, D."]
+[Black "Serwatowski, F."]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "eb4c5d59"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Be2 Nf6 5. Nf3 Bd6 6. Bg5 O-O 7. O-O Re8
+8. c4 c5 9. Nc3 h6 10. Bxf6 Qxf6 11. Nxd5 Qd8 12. dxc5 Bxc5 13. Re1 Be6 14.
+Qb3 b6 15. Rad1 Nc6 16. a3 Bf5 17. Nb4 Qf6 18. Nxc6 Qxc6 19. Nd4 Qf6 20.
+Nxf5 Qxf5 21. Qf3 Qc8 22. Bd3 Rxe1+ 23. Rxe1 g6 24. b4 Bd4 25. Bxg6 fxg6
+26. Qd5+ Kh7 27. Qxd4 Qf8 28. Qd7+ Qg7 29. Qxg7+ Kxg7 30. c5 Rc8 31. Re7+
+Kf6 32. Rxa7 bxc5 33. bxc5 Rxc5 34. g3 Ke6 35. Kg2 Rc3 36. a4 Ra3 37. a5 h5
+38. a6 g5 39. Ra8 Kf6 40. a7 Kg7 41. h3 Kh7 42. Kf1 Ra1+ 43. Ke2 Kg6 44.
+Rg8+ Kf6 45. a8=Q 1-0
+

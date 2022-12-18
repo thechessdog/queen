@@ -1,0 +1,19 @@
+[Event "Oland"]
+[Site "Oland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ekdahl, E."]
+[Black "Ronneland, Daniel"]
+[Result "0-1"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "f2d277cb"]
+[Epoch "Queen"]
+[BlackID "1702130"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Be2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. Nbd2
+Bd7 9. c4 cxd4 10. exd4 Rc8 11. cxd5 Nxd5 12. Ne4 Qb6 13. a3 Rfd8 14. b4 Be8
+15. Qb3 Na5 16. Qa2 Nf4 17. Rfe1 Rc2 18. Bf1 Bc6 19. Rac1 Bd5 20. Qb1 Rxc1 21.
+Qxc1 f5 22. Nc5 e5 23. Nxe5 Bg5 24. Qc2 Qh6 25. f3 Bh4 26. Rc1 Qg5 27. bxa5
+Nh3+ 28. Kh1 Nf2+ 29. Kg1 Qe3 30. Bc4 Nd1+ 31. Kh1 Qe1+ 32. Bf1 Qxf1# 0-1

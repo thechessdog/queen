@@ -1,0 +1,24 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Bischoff, Klaus"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "a0a0ce44"]
+[Epoch "Queen"]
+[WhiteID "4606965"]
+[WhiteCountry "GER"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 Na6 8. g4
+Nc5 9. Qe2 g6 10. g5 Nh5 11. Rg1 a6 12. f4 O-O 13. Be3 Bd7 14. f5 Nxb3 15. axb3
+Re8 16. O-O-O Bf8 17. Qf3 Rc8 18. Rgf1 Qc7 19. Rd2 Bc6 20. Qh3 Qd7 21. Rdf2
+exf5 22. Nxf5 Qe6 23. Qh4 gxf5 24. Qxh5 Bxe4 25. Bd4 Rc7 26. Qh4 Rec8 27. Qf4
+b5 28. Kb1 Rxc3 29. Bxc3 Rxc3 30. bxc3 Qxb3+ 31. Kc1 Qxc3 32. Qg3 Qa1+ 33. Kd2
+Qd4+ 34. Kc1 Bg7 35. Rd1 Qb2+ 36. Kd2 Qxc2+ 37. Ke1 Bc3+ 38. Rfd2 Bb4 39. Qe3
+Qc4 40. Kf2 Bc5 0-1

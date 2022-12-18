@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "a492eef4"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Qe2 Ndf6 6. Nxf6+ Nxf6 7. Nf3 Bg4
+8. Be3 Qa5+ 9. c3 e6 10. h3 Bh5 11. g4 Bg6 12. Ne5 Be4 13. f3 Bd5 14. Bd2 Qb6
+15. c4 Qxb2 16. Rc1 Bxf3 17. Nxf3 Qxa2 18. Bg2 Bd6 19. O-O O-O 20. Ra1 Qc2 21.
+Rfc1 Qg6 22. Nh4 1-0

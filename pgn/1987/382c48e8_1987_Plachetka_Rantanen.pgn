@@ -1,0 +1,20 @@
+[Event "Namestovo"]
+[Site "Namestovo"]
+[Date "1987.01.01"]
+[Round "9"]
+[White "Plachetka, Jan"]
+[Black "Rantanen, Yrjo A."]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "382c48e8"]
+[Epoch "Queen"]
+[WhiteID "14900068"]
+[WhiteCountry "SVK"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. c3 Bd7 6. d4 Bb6 7. Bg5 Nf6 8. Na3
+h6 9. Bxf6 Qxf6 10. Nc4 exd4 11. cxd4 O-O 12. d5 Ne5 13. Nfxe5 Bxb5 14. Ng4 Qg6
+15. Nxb6 axb6 16. Re1 Bd7 17. f3 Bxg4 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hracek, Zbynek"]
+[Black "Ostrowski, Leszek"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "08cd2447"]
+[Epoch "Queen"]
+[WhiteID "300071"]
+[WhiteCountry "CZE"]
+[BlackID "1100572"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Nd2 Nxg3 10. hxg3 Bf8 11. Qa4 Bg7 12. O-O-O Qe7 13. g4 a6 14. Kb1 Nc6
+15. Rc1 O-O 16. Qd1 Rfb8 17. Bd3 b5 18. c5 d6 19. Ne2 dxc5 20. Rxc5 e5 21. Qc1
+exd4 22. Rxc6 dxe3 23. Ne4 Qd7 24. Rc3 b4 25. Nc5 Qxg4 26. Rc4 Qxg2 27. Nxb7
+Rxb7 28. Be4 Qxf2 29. Bxb7 Rb8 30. Bxa6 Qxe2 31. Rxb4 1-0

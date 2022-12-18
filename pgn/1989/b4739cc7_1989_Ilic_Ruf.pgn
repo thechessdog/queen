@@ -1,0 +1,23 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "7"]
+[White "Ilic, Zoran"]
+[Black "Ruf, Matthias"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "b4739cc7"]
+[Epoch "Queen"]
+[WhiteID "15001350"]
+[BlackID "4600541"]
+[WhiteCountry "MKD"]
+[BlackCountry "GER"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 c6 4. g3 e5 5. Nge2 Be6 6. Bg2 Qc8 7. h3 Be7 8. Be3
+Bc4 9. b3 Ba6 10. O-O O-O 11. Re1 Nbd7 12. Na4 b5 13. Nb2 Bb7 14. c4 b4 15. Nd3
+c5 16. d5 Ne8 17. f4 Bf6 18. f5 Qd8 19. Qd2 h6 20. h4 Be7 21. Bf3 Nef6 22. Kg2
+Kh7 23. Rh1 Ng8 24. g4 Re8 25. g5 Bf8 26. Ng3 a5 27. a4 bxa3 28. Rxa3 a4 29.
+bxa4 Ba6 30. Rc1 Rb8 31. a5 Rb7 32. Bh5 g6 33. Bf3 h5 34. Qe2 Qb8 35. Bxh5 gxh5
+36. Qxh5+ Nh6 37. g6+ Kg8 38. Bxh6 Nf6 39. gxf7+ Rxf7 40. Qg6+ 1-0

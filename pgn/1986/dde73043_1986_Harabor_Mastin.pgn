@@ -1,0 +1,19 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Mastin, Olin jr"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "dde73043"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nf3 Re8 9. Bb5 Nbd7 10. O-O a6 11. Bd3 Nb6 12. Bg5 Nbxd5 13. Ne5 Qb6 14.
+Nxd5 Qxb3 15. axb3 Nxd5 16. Bd2 Be6 17. Rfc1 Rec8 18. Be4 Rab8 19. Bd3
+Rxc1+ 20. Rxc1 Rc8 21. Rxc8+ Bxc8 22. Be4 Be6 23. Bf3 Nc7 24. Bxb7 Bxb3 25.
+g3 Bd5 26. Bxd5 Nxd5 27. Kg2 e6 28. h3 1/2-1/2
+

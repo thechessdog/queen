@@ -1,0 +1,21 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Papacek, Stepan"]
+[Black "Spacek, Petr"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "78d28d55"]
+[Epoch "Queen"]
+[WhiteID "301035"]
+[BlackID "300314"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5 7. f5 Nbd7 8. Nf3
+Nc5 9. Qe2 Nxd3+ 10. cxd3 Bd6 11. Bd2 Nd7 12. O-O Qb6+ 13. Kh1 Qxb2 14. Rab1
+Qa3 15. d4 O-O 16. d5 Nf6 17. Rb3 Qa5 18. dxc6 bxc6 19. Nd5 Qxa2 20. Nxf6+ gxf6
+21. Qe3 Ba6 22. Rc1 Rfb8 23. Rbc3 1/2-1/2

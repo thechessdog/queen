@@ -1,0 +1,22 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vasile"]
+[Black "Kallinger"]
+[Result "0-1"]
+[ECO "E86"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.Nge2 c6"]
+[HashCode "07b85f8a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8.
+Qd2 Nbd7 9. O-O-O a6 10. Kb1 b5 11. Nc1 Qc7 12. d5 b4 13. N3e2 cxd5 14.
+cxd5 a5 15. g4 Ba6 16. Ng3 Bxf1 17. Rhxf1 Nb6 18. Bxb6 Qxb6 19. Nd3 Rfc8
+20. Rc1 Nd7 21. h4 Qb5 22. Rxc8+ Rxc8 23. Rc1 Rxc1+ 24. Nxc1 Nc5 25. h5 Bf6
+26. b3 Bh4 27. Nge2 Kg7 28. Qe3 h6 29. Kc2 Bg5 30. Qg1 a4 31. Qd1 axb3+ 32.
+axb3 Qa6 33. Kb1 Be3 34. hxg6 fxg6 35. Qe1 Nd3 36. Qd1 Nxc1 37. Nxc1 Bd4
+38. Qe1 Qa1+ 39. Kc2 Qc3+ 40. Qxc3 bxc3 41. Ne2 h5 42. Nxd4 exd4 43. gxh5
+gxh5 44. b4 h4 45. b5 h3 46. b6 h2 47. b7 h1=Q 48. b8=Q Qg2+ 0-1
+

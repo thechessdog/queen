@@ -1,0 +1,27 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1986.01.01"]
+[Round "66"]
+[White "Jovic, Ljubomir"]
+[Black "Popchev, Milko"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Chinese variation"]
+[HashCode "8af35a03"]
+[Epoch "Queen"]
+[BlackID "2900165"]
+[BlackCountry "FID"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. g4 h5 6. g5 Nfd7 7. f4 c5 8. Nf3
+cxd4 9. Nxd4 Nc6 10. Nb3 Bxc3+ 11. bxc3 Qb6 12. Qd3 Nc5 13. Nxc5 Qxc5 14. Rb1
+Qa5 15. Rb5 Qc7 16. c4 a6 17. Qc3 e5 18. Rd5 Be6 19. Be3 O-O-O 20. Rd2 Rhe8 21.
+O-O exf4 22. Rxf4 Ne5 23. Rd4 Bg4 24. Bxg4+ hxg4 25. Kg2 Rh8 26. Bf2 Nf3 27.
+Rxg4 Nxd4 28. Bxd4 Rhe8 29. Rf4 Re6 30. Kf3 Qc6 31. Bf6 Rd7 32. Qd4 Qc5 33. c3
+Re8 34. Qd5 Qxd5 35. cxd5 b5 36. Ke3 Kb7 37. Kd3 Rc8 38. a4 bxa4 39. Rf2 a5 40.
+Ra2 Ka6 41. Rxa4 Rb7 42. Ra2 Rb3 43. Bd4 Rb7 44. Rf2 a4 45. Ra2 Ka5 46. e5 dxe5
+47. Bxe5 Rb3 48. Rf2 Rb7 49. c4 a3 50. Bd6 Ka4 51. Kd4 Re8 52. Rf3 Rb3 53. Rxf7
+Ra8 54. Rf1 a2 55. Ra1 Rb2 56. Kc3 Rg2 57. Be5 Re8 58. Bf6 Ree2 59. d6 Rc2+ 60.
+Kd3 Rgd2+ 61. Ke4 Rxd6 62. c5 Rdd2 63. Ke5 Re2+ 64. Kd6 Kb5 65. h4 Rcd2+ 66.
+Kc7 Kxc5 67. h5 gxh5 68. g6 Rg2 69. g7 Rdf2 70. Be5 Kd5 71. Re1 Rf7+ 72. Kb6
+Rfxg7 0-1

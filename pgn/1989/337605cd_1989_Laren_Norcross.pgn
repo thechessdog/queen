@@ -1,0 +1,18 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Laren, P."]
+[Black "Norcross, J."]
+[Result "1-0"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "337605cd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 exd5 6. Bg5 cxd4 7. Bxf6
+gxf6 8. Qxd4 Be6 9. e3 Nc6 10. Qd2 Bb4 11. Rc1 O-O 12. Be2 Qa5 13. O-O Rad8
+14. a3 Bd6 15. Rfd1 d4 16. exd4 Bb3 17. Qh6 Ne7 18. Ne4 Nd5 19. Nxd6 Rxd6
+20. Bd3 1-0
+

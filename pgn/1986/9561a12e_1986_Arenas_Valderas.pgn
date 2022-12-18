@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Arenas"]
+[Black "Valderas"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "9561a12e"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Nf3 Bg4 6. Be3 Bxf3 7. gxf3 d5 8.
+exd5 Nb4 9. Bb5+ Kf8 10. Bc4 Nf6 11. Qd2 Nbxd5 12. O-O-O Nxe3 13. Qxe3 Bh6
+14. d5 Qd6 15. Rd4 Nh5 16. Ne2 f5 17. Kb1 Qb6 18. Qe6 Qd6 19. Qe3 Bg7 20.
+Rd3 Qb4 21. a3 Qxb2# 0-1
+

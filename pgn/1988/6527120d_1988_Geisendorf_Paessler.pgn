@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Geisendorf, L."]
+[Black "Paessler, H."]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "6527120d"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O Re8 7. Nd5 Bf8
+8. d3 Nxd5 9. cxd5 Nd4 10. e4 c6 11. Nxd4 exd4 12. dxc6 dxc6 13. Bf4 Be6
+14. Qd2 a5 15. b3 Qd7 16. Qb2 a4 17. Rfb1 a3 18. Qc2 c5 19. Qd1 b5 20. Bd2
+Ra7 21. Be1 c4 22. bxc4 bxc4 23. dxc4 d3 24. Rc1 Bc5 25. Bc3 Rd8 26. Qd2 f6
+27. Rcb1 Ra4 28. Rb5 Rxc4 29. Rab1 Qc6 30. Rb8 Rxb8 31. Rxb8+ Kf7 32. Ba5
+Rc2 0-1
+

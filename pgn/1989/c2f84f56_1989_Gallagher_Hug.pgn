@@ -1,0 +1,24 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gallagher, Joseph G."]
+[Black "Hug, Marcel"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c2f84f56"]
+[Epoch "Queen"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+[BlackID "1300610"]
+[BlackCountry "SUI"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Re1 Qc7 8. Bf4
+Nbd7 9. e5 dxe5 10. Nxe5 Nxe5 11. Bxe5 Qa5 12. Bc4 Bf5 13. a3 b5 14. Bb3 Qb6
+15. h3 Rad8 16. a4 b4 17. a5 Qb7 18. Na4 Qc8 19. Qf3 Nd5 20. Bxg7 Kxg7 21. c4
+bxc3 22. bxc3 Qc7 23. Nc5 Rd6 24. Qg3 Re8 25. Re5 Bc8 26. h4 f6 27. Ree1 Rdd8
+28. Qxc7 Nxc7 29. Ba4 Nb5 30. a6 e5 31. Bxb5 cxb5 32. Rab1 exd4 33. Rxe8 Rxe8
+34. cxd4 Rd8 35. Rxb5 Rd6 36. Rb4 Bxa6 37. Ra4 Bb5 38. Rxa7+ Kh6 39. Rb7 Bc6
+40. Rb6 Kh5 41. d5 Rxd5 42. Rxc6 Kxh4 43. Ne6 1-0

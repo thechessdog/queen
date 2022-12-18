@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gschnitzer, Oswald, Dr."]
+[Black "Portisch, Gabor"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d4779167"]
+[Epoch "Queen"]
+[BlackID "702110"]
+[BlackCountry "HUN"]
+
+1. d4 e6 2. c4 c5 3. d5 Nf6 4. Nf3 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 b6 10. O-O Ba6 11. a4 Bxe2 12. Qxe2 a6 13. Nc4 Ra7 14. Bf4 Ne8 15.
+Rfe1 f6 16. Ra3 Qc7 17. Qg4 Rf7 18. Qe6 Bf8 19. Qxe8 Re7 20. Bxd6 Rxe8 21. Bxc7
+Rxc7 22. f4 Nd7 23. e5 fxe5 24. fxe5 Bg7 25. e6 Bd4+ 26. Kh1 Nf6 27. d6 Rc6 28.
+Raa1 Bxc3 29. bxc3 b5 30. axb5 axb5 31. d7 1-0

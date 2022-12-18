@@ -1,0 +1,18 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jakob, Simon"]
+[Black "Landenbergue, Claude"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "a2a1d46f"]
+[Epoch "Queen"]
+[WhiteID "1301110"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Nc5 10. Re1 Ng4 11. Nb3 Qf6 12. f3 Ne5 13. Nxc5 dxc5 14. Qe2 Nc6
+15. Nd5 Qd8 16. Bf4 Nd4 17. Qd2 c6 18. Nc7 Rb8 19. Na6 bxa6 20. Bxb8 Nxf3+ 0-1

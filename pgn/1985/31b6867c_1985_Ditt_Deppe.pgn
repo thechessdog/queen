@@ -1,0 +1,20 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ditt, Egon"]
+[Black "Deppe, Arne"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "31b6867c"]
+[Epoch "Queen"]
+[BlackID "4665473"]
+[BlackCountry "GER"]
+[WhiteID "4603400"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 b6 8. Nf3
+Bd6 9. Bg5 Qf5 10. c5 Qe4+ 11. Be2 bxc5 12. dxc5 Be7 13. O-O Nd7 14. Nd4 Ne5
+15. Re1 Bd7 16. Nxe6 Bxg5 17. Nxg5 Qf5 18. Bg4 Qxg4 19. Rxe5+ Kf8 20. Qd5 1-0

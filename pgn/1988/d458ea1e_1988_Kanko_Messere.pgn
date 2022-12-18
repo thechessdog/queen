@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kanko, Ilkka"]
+[Black "Messere, K."]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "d458ea1e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O Nd4 11. Ng5 h6 12. e5 dxe5 13. fxe5 Nd7 14. Rxf8+ Qxf8
+15. Bxg6 Nxe5 16. Bh7+ Kh8 17. Qh5 Bd7 18. Be4 Qe8 19. Qh3 Bc6 20. Bf4 Bxe4 21.
+Bxe5 1-0

@@ -1,0 +1,18 @@
+[Event "Torre Blanca"]
+[Site "Torre Blanca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cortes Moyano, Julio"]
+[Black "Sorin, Ariel"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "bf8dd6ee"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. d3 d6 8. Nd5
+Na5 9. Nxe7 Qxe7 10. Bd2 Nxb3 11. axb3 O-O 12. O-O Ne8 13. Ne1 f5 14. f3 f4 15.
+c3 Rf6 16. Kf2 d5 17. b4 dxe4 18. fxe4 Rh6 19. Nf3 Nf6 20. Kg1 g5 21. Nxg5 Rg6
+22. Nf3 Kh8 23. Nh4 Rg7 24. Qe1 Bd7 25. d4 Rag8 26. dxe5 Nh5 27. Kh1 Rg4 28.
+Nf5 Bxf5 29. exf5 Rxg2 30. Bxf4 Nxf4 31. Rxf4 Qg5 32. Rf2 Qg4 33. e6 Rxf2 0-1

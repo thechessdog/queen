@@ -1,0 +1,21 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Frenkel, Filipp"]
+[Black "Rao, Vivek"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "6919c9d5"]
+[Epoch "Queen"]
+[BlackID "2000989"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. b4 cxd4 5. a3 Nc6 6. f4 a5 7. b5 Nce7 8. Nf3 Nf5
+9. Bd3 Ngh6 10. Nbd2 a4 11. Qe2 Bc5 12. O-O Ne3 13. Re1 Nxc2 14. Bb2 Nxa1 15.
+Rxa1 Nf5 16. g4 Ne7 17. Bxd4 Qb6 18. Qe3 Bxd4 19. Nxd4 h5 20. h3 hxg4 21. hxg4
+Bd7 22. N2f3 Rc8 23. Rc1 Rxc1+ 24. Qxc1 Rh4 25. Kg2 Rh8 26. Qc3 f6 27. Qb4 Rf8
+28. Qxa4 fxe5 29. fxe5 Qc5 30. Qa8+ Qc8 31. Qa5 Qb8 32. Qb6 Qc8 33. a4 Qc3 34.
+Be2 Qe3 35. Qc5 Ng6 36. Bd1 Nf4+ 37. Kg3 Rh8 38. g5 Nd3 39. Qc2 Qf4+ 0-1

@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Trautmann"]
+[Black "Kohn"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "a0c2dcb8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Bg4 9. Re1 Nf6 10. cxd5 Bxf3 11. Qxf3 Qxd5 12. Qg3 Qxd4 13. Qxc7 O-O
+14. Rd1 Rfc8 15. Qg3 Nb4 16. Nc3 Nxd3 17. Rxd3 Qc4 18. b3 Qa6 19. Bb2 Ba3
+20. Bxa3 Qxa3 21. Rad1 h6 22. Nb5 Qxa2 23. Nd6 Rc5 24. Nxb7 Rg5 25. Qf3 Qc2
+26. h4 Re5 27. Nd6 Rf8 28. Nf5 Ne4 29. Rd5 Rxd5 30. Rxd5 Nf6 31. Rd6 Qe4
+32. Nxh6+ Kh7 33. Qf5+ g6 34. Qxf6 Kxh6 35. h5 Re8 36. hxg6 fxg6 37. f4 Re7
+38. Qg5+ Kh7 39. Rxg6 1-0
+

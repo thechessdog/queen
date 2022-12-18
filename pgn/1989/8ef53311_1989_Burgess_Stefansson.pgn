@@ -1,0 +1,23 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Burgess, Graham K"]
+[Black "Stefansson, Hannes"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "8ef53311"]
+[Epoch "Queen"]
+[WhiteID "400696"]
+[WhiteCountry "ENG"]
+[BlackID "2300087"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 Nbd7 11. h3 a6 12. a4 Rb8 13. a5 Qc7 14. Ra3 b5 15.
+axb6 Rxb6 16. Re1 Rb4 17. Bxa6 Bxa6 18. Rxa6 Ne5 19. Nf3 Nxf3+ 20. Qxf3 Nd7 21.
+Qd1 Nb6 22. Qc2 Qb7 23. Ra2 f5 24. Bd2 Bxc3 25. bxc3 Rbxe4 26. Rb1 Qc7 27. Qb3
+Nc4 28. f3 Nxd2 29. Rxd2 Re1+ 30. Rxe1 Rxe1+ 31. Kf2 Qe7 32. c4 f4 33. g3 Rh1
+34. Rd1 Rh2+ 0-1

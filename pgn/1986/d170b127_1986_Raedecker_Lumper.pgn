@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Raedeker, Bernd"]
+[Black "Lumper, Thomas"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "d170b127"]
+[Epoch "Queen"]
+[BlackID "4602560"]
+[BlackCountry "GER"]
+[WhiteID "4614917"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. h3 O-O 7. c3 a6 8. Bxc6
+bxc6 9. d4 cxd4 10. cxd4 d6 11. Nc3 Rb8 12. Na4 Bd7 13. Bf4 Qa5 14. e5 Nd5 15.
+Bg3 c5 16. dxc5 Qxa4 17. Qxd5 Be6 18. Qd2 dxc5 19. b3 Qb4 20. Rad1 h6 21. Bf4
+Kh7 22. Rc1 Rfc8 23. Rc2 c4 24. bxc4 Rxc4 25. Rxc4 Qxc4 26. a3 Rb3 27. Rc1 Qd5
+28. Rc3 Qxd2 29. Bxd2 Rb1+ 30. Kh2 Bd5 31. Bf4 g5 32. Bg3 Rb3 33. Rxb3 Bxb3 34.
+Nd4 Bd5 35. f3 Kg6 36. Kg1 h5 37. Kf2 h4 38. Bh2 e6 39. Ke3 Bf8 40. a4 Bc4 41.
+g3 Bf1 42. gxh4 gxh4 43. Kf4 Bxh3 44. Nc6 Bf5 45. Ke3 Bc2 46. a5 Ba4 0-1

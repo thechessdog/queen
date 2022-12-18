@@ -1,0 +1,21 @@
+[Event "HUN-ch op"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kosztolanczi, Gyula"]
+[Black "Freisler, Pavel"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "e22f64a2"]
+[Epoch "Queen"]
+[WhiteID "705438"]
+[BlackID "301477"]
+[WhiteCountry "HUN"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8. fxe5
+dxe5 9. d5 Nb4 10. Nxe5 Nxe4 11. Nxe4 Bxe5 12. Bg5 f6 13. Bh6 Re8 14. Bc4 Bxh2+
+15. Kxh2 Rxe4 16. Rf4 Qd6 17. g3 Bf5 18. Rxe4 Bxe4 19. Qd4 Re8 20. Re1 Nxc2 21.
+Qxe4 Rxe4 22. Rxe4 g5 23. Re6 Ne3 24. Be2 Qd8 25. Rxe3 Qxd5 26. Re8+ 1-0

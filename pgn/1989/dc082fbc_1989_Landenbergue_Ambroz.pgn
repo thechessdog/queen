@@ -1,0 +1,19 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Landenbergue, Claude"]
+[Black "Ambroz, Jan"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "dc082fbc"]
+[Epoch "Queen"]
+[WhiteID "1300130"]
+[WhiteCountry "SUI"]
+[BlackID "300209"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+b6 9. b4 O-O 10. g3 1/2-1/2

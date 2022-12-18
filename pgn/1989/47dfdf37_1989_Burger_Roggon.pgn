@@ -1,0 +1,16 @@
+[Event "corr BdF/JHZ"]
+[Site "corr BdF/JHZ"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Burger, H."]
+[Black "Roggon, B."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "47dfdf37"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nbd7 9. Qh4 c5 10. dxc5 Nxc5 11. Bh6 Bf5 12. Ng5 Bxh6 13. Qxh6 Qd4+
+14. Rf2 Qxf2+ 0-1
+

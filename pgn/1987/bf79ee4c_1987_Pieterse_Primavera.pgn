@@ -1,0 +1,24 @@
+[Event "Lacona"]
+[Site "Lacona"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pieterse, Gert"]
+[Black "Primavera, Roberto"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "bf79ee4c"]
+[Epoch "Queen"]
+[WhiteID "1000357"]
+[BlackID "800643"]
+[WhiteCountry "NED"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. Nc3 axb5 7. d6 Ra6 8. Bf4
+Rxd6 9. Bxd6 exd6 10. e3 b4 11. Nb5 d5 12. a3 c4 13. a4 b3 14. Be2 Bb4+ 15. Kf1
+O-O 16. h4 d6 17. Nfd4 Ne4 18. Bf3 f5 19. Ne2 Bb7 20. Nbc3 Qa5 21. Bxe4 fxe4
+22. h5 g5 23. h6 Nd7 24. Rh5 Ne5 25. Rxg5+ Kh8 26. Rg7 Ba8 27. Rc1 Qd8 28. Nf4
+Qh4 29. Qh5 Qxh5 30. Nxh5 Nd3 31. Re7 Kg8 32. Nxe4 dxe4 33. Rxc4 Rxf2+ 34. Kg1
+Bc5 35. Rc3 Rxb2 36. Re8+ Kf7 37. Rxa8 Bxe3+ 38. Kh2 Kg6 39. Ng7 Bf4+ 40. Kh3
+Nf2+ 41. Kh4 Rb1 42. Rb8 Rh1+ 43. Rh3 Nxh3 44. gxh3 Rg1 45. Ne6 Bg3+ 46. Kg4
+Be5+ 0-1

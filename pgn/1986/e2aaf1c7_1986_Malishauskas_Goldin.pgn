@@ -1,0 +1,22 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Malisauskas, Vidmantas"]
+[Black "Goldin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "e2aaf1c7"]
+[Epoch "Queen"]
+[WhiteID "12800031"]
+[BlackID "2019540"]
+[WhiteCountry "LTU"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Bb4 7. Bd2 Nf6 8. Bg2
+Nc6 9. Nb3 Be7 10. O-O d6 11. f4 O-O 12. g4 Nd7 13. g5 Re8 14. Kh1 b5 15. Rf3
+g6 16. Qe1 Bf8 17. Rd1 Bg7 18. Bc1 b4 19. Ne2 a5 20. c3 Ba6 21. Bd2 a4 22. Nbc1
+f5 23. gxf6 Nxf6 24. Ng3 bxc3 25. Bxc3 Rad8 26. Nd3 Bc4 27. Nb4 Nxb4 28. Bxb4
+Qb8 29. b3 1/2-1/2

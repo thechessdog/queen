@@ -1,0 +1,16 @@
+[Event "Pfeddersheim"]
+[Site "Pfeddersheim"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Siebenhaar, E."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "609f76fe"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nf3
+Nb4 9. Na3 e6 10. d5 exd5 11. c5 Nd7 12. Qa4 a5 13. Be2 c6 14. O-O Be6 15. Nd4
+Bxc5 16. Kh1 Bxd4 17. Bxd4 O-O 18. Nc2 c5 19. Bf2 Nb6 20. Qb3 d4 0-1

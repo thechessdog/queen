@@ -1,0 +1,20 @@
+[Event "Villa Gesell tt"]
+[Site "Villa Gesell tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Salazar, G."]
+[Black "Ricardi, Pablo"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "7b389682"]
+[Epoch "Queen"]
+[BlackID "100242"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 Rb8 6. f4 b5 7. Nf3 e6 8. Qe2
+Nge7 9. O-O O-O 10. Be3 Nd4 11. Qf2 b4 12. Nd1 Nec6 13. c3 bxc3 14. bxc3 Nxf3+
+15. Bxf3 Ba6 16. Qc2 Qa5 17. Rc1 Qa3 18. e5 Rb6 19. Rf2 Rfb8 20. h4 Ne7 21. g4
+Bb7 22. Rb1 Bxf3 23. Rxb6 Rxb6 24. Rxf3 d6 25. d4 cxd4 26. Bxd4 Rb8 27. Kg2 Nc6
+28. exd6 Bxd4 29. cxd4 Qxf3+ 30. Kxf3 Nxd4+ 31. Ke4 Nxc2 0-1

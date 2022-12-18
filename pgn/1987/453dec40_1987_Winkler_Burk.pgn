@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Winkler, E."]
+[Black "Burk, D."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "453dec40"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Nc3 Nxd6 7. e4 Nxe4
+8. Bd3 Nxf2 9. Bxf5 Nxh1 10. Nf3 g6 11. Bh3 Bc5 12. Ne4 O-O 13. Bg5 Be7 14.
+Rd1 Nd7 15. Rxd7 1-0
+

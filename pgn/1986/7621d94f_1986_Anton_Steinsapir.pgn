@@ -1,0 +1,18 @@
+[Event "corr Wch"]
+[Site "corr Wch"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Anton"]
+[Black "Steinsapir"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "7621d94f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. e4 a5 9. h3 h6 10. O-O Qc7 11. Qe2 b6 12. Re1 O-O 13. d5 Ne7 14. Nh4 g5
+15. Nf5 Nxf5 16. exf5 e5 17. Bc2 Bxf5 18. h4 g4 19. Bxh6 Rfe8 20. Qe3 Bg6
+21. Qf4 Nh5 22. Qxg4 Kh7 23. Bf4 f5 24. Qg5 Kg7 25. Re3 1-0
+

@@ -1,0 +1,21 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Watson, William N"]
+[Black "Karolyi, Tibor"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "805230c5"]
+[Epoch "Queen"]
+[WhiteID "400157"]
+[WhiteCountry "ENG"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 a6 5. d4 cxd4 6. Nxd4 Nf6 7. Be2 Qc7 8. Be3
+e6 9. Qd2 Na5 10. O-O-O Be7 11. g4 Nc4 12. Bxc4 Qxc4 13. Qg2 Nd7 14. Kb1 Qc7
+15. Nf5 exf5 16. Nd5 Qc6 17. gxf5 Bf6 18. Nxf6+ gxf6 19. Qg7 Rf8 20. Rhe1 b5
+21. e5 Bb7 22. Rxd6 Qg2 23. Bb6 Ke7 24. Re6# 1-0

@@ -1,0 +1,20 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Graf, Alexander (Nenashev)"]
+[Black "Nasybullin, Vladislav"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "dd21df7f"]
+[Epoch "Queen"]
+[BlackID "13700057"]
+[BlackCountry "KAZ"]
+[WhiteID "4680804"]
+[WhiteCountry "DEU"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Qb3 Bxb5 13. Nxb5 O-O 14.
+O-O Rd8 15. Rad1 Nd7 1/2-1/2

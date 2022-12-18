@@ -1,0 +1,23 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wunsch, Rainer"]
+[Black "Heinemann, Dieter"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "8c26aa6a"]
+[Epoch "Queen"]
+[WhiteID "4603613"]
+[WhiteCountry "GER"]
+[BlackID "4631072"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Bd3 O-O 10. Nf3 a6 11. a4 Nf6 12. h3 Nbd7 13. O-O Re8 14. Re1 Nf8 15.
+Bc4 N6d7 16. Bd2 b6 17. Re2 Bb7 18. Qf1 Qc7 19. Rae1 Re7 20. e5 dxe5 21. fxe5
+Nxe5 22. d6 Nxf3+ 23. gxf3 Bd4+ 24. Kh1 Rxe2 25. dxc7 Rf2 26. Qxf2 Bxf2 27. Re7
+Ne6 28. Kg2 Bh4 29. Rd7 Rc8 30. Bxe6 fxe6 31. Bh6 Bc6 32. Rg7+ Kh8 33. Ne4 Bxe4
+34. fxe4 Bg5 35. Rd7 Rxc7 36. Bg7+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hecker"]
+[Black "Hemling"]
+[Result "0-1"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "be1a10f9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. e3 Bxc3+ 8.
+bxc3 d6 9. Bd3 Nbd7 10. O-O Qe7 11. Qe2 g5 12. Bg3 Ne4 13. Qc2 f5 14. Nd2
+Nxd2 15. Qxd2 h5 16. f3 h4 17. Be1 O-O-O 18. a4 h3 19. Bg3 g4 20. Be2 hxg2
+21. Rf2 Rh3 22. Kxg2 Rdh8 23. Kg1 Rxg3+ 24. hxg3 Qh7 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lindestroem, T."]
+[Black "Van Dalfsen, P."]
+[Result "0-1"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "b8abac45"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qd3 b6 8.
+cxd5 exd5 9. Nc3 Bb7 10. Ne5 c6 11. Bf4 Re8 12. Rac1 c5 13. Rfd1 c4 14. Nb5
+cxd3 0-1
+

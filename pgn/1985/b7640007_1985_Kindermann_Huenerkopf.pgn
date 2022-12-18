@@ -1,0 +1,24 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Huenerkopf, Heinz"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b7640007"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. Re1 Nbd7 10. Bf1 b5 11. g3 h5 12. h3 Nf8 13. f4 h4 14. g4 exf4 15. Bxf4
+Ng6 16. Bh2 Ne5 17. Bg2 Qd7 18. Nd4 Rc8 19. Nd5 Bd8 20. Nf5 Kf8 21. Nf4 Ne8 22.
+b3 g6 23. Nd4 Bb6 24. Kh1 Bxd4 25. Qxd4 Rxc2 26. Nd3 f6 27. Nb4 Nc6 28. Nxc6
+Qxc6 29. Rf1 Ke7 30. Rad1 Rf8 31. Qa7+ Bd7 32. Bf3 Qc5 33. Qxa6 Bc6 34. Bg1 Qe5
+35. Qa7+ Bd7 36. Rf2 Rxf2 37. Qxf2 Bc6 38. Bh2 Qe6 39. Qa7+ Qd7 40. Qd4 Rf7 41.
+Bg2 Ba8 42. a4 bxa4 43. bxa4 Kf8 44. a5 1-0

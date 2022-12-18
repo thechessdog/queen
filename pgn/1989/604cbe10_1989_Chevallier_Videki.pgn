@@ -1,0 +1,21 @@
+[Event "Cannes op"]
+[Site "Cannes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chevallier, Didier"]
+[Black "Videki, Sandor"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "604cbe10"]
+[Epoch "Queen"]
+[BlackID "700479"]
+[BlackCountry "HUN"]
+[WhiteID "600784"]
+[WhiteCountry "FRA"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Be7 10. d5 exd5 11. Bxb6 axb6 12. cxd5 Nb4 13. Bb5+ c6 14. dxc6 bxc6
+15. Ba4 b5 16. Bb3 Nd3+ 17. Kf1 Nxb2 18. Qd4 O-O 19. Nxb5 cxb5 20. Qxb2 Bd3+
+21. Kf2 Qb6+ 22. Kg3 Qg6+ 23. Kf4 h5 24. Rad1 Qe4+ 25. Kg3 h4+ 0-1

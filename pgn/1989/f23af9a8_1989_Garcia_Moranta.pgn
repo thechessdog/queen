@@ -1,0 +1,18 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Garcia, E."]
+[Black "Moranta, P."]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "f23af9a8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 cxd4 5. Bb5+ Bd7 6. dxe6 Qe7 7. Bxd7+
+Nxd7 8. Ne2 Qxe6 9. O-O O-O-O 10. Nxd4 Qf6 11. N2f3 Qb6 12. c3 Bc5 13. Qb3
+Bxd4 14. Nxd4 Kb8 15. Bf4+ Kc8 16. Qxb6 Nxb6 17. Nb5 Rd7 18. Nxa7+ Kd8 19.
+Rad1 Nf6 20. Bg5 Re8 21. Rxd7+ 1-0
+

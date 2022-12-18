@@ -1,0 +1,21 @@
+[Event "HMC III-Asten"]
+[Site "HMC III-Asten"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Vugt"]
+[Black "Swinkels"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "bfdf1544"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qd5 8. c4 Qd6 9. Qh5+ g6 10. Qe5+ Kf7 11. Qxh8 Nf6 12. c5 Qxc5 13. Bc4+ Be6
+14. Bxe6+ Kxe6 15. b4 Qxc6 16. Bb2 Nd5 17. O-O Re8 18. Qxh7 Nf4 19. Qh4 Bd6
+20. Qg4+ Kf7 21. f3 Qb6+ 22. Kh1 e3 23. dxe3 Qxb4 24. exf4 Qxb2 25. f5 Rg8
+26. a4 g5 27. Qc4+ Kf8 28. Rad1 Rh8 29. Rxd6 cxd6 30. Qc8+ Kf7 31. Qe6+ Kg7
+32. Qg6+ Kf8 33. Re1 Rxh2+ 34. Kxh2 Qh8+ 35. Kg1 Qd4+ 36. Kf1 Qd3+ 37. Re2
+Qd1+ 38. Kf2 Qd4+ 39. Kf1 Qd1+ 40. Kf2 Qd4+ 1/2-1/2
+

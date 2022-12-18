@@ -1,0 +1,19 @@
+[Event "Mogliano Veneto"]
+[Site "Mogliano Veneto"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gallo"]
+[Black "Govoni, Fausto"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "bce96b48"]
+[Epoch "Queen"]
+[BlackID "801879"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. g4 Rb8 11. Nxc6 bxc6 12. Bxa7 Rb7 13. Bd4 e5 14. Bxe5 Nxe4
+15. fxe4 Bxe5 16. exd5 Rxb2 17. Kxb2 Qb6+ 18. Bb5 Qxb5+ 19. Kc1 Qb4 20. Qd3
+Bxc3 21. Rdg1 Re8 0-1

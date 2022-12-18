@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ploder, U."]
+[Black "Glosse, J."]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "aa2f0de9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5
+8. Qxd5 Qb6 9. Bc4 Bxf2+ 10. Ke2 O-O 11. Rf1 Bc5 12. Ng5 Nd4+ 13. Ke1 Ne6
+14. Ne4 d6 15. exd6 Bd7 16. Nxc5 Nxc5 17. Be3 Qxb2 18. Bd4 Rfe8+ 19. Kf2
+Qxc2+ 20. Kg1 Ne6 21. Rf2 Qa4 22. Bb2 Rac8 23. Bb3 Qg4 24. Qxb7 Ng5 25. Kh1
+Rf8 26. Bd5 Be6 27. Bxe6 Qxe6 28. Qxa7 Ne4 29. Rff1 Rc2 30. Bd4 Qg6 31. Bf2
+Qxd6 32. a4 h6 33. Kg1 Qg6 34. a5 Rd8 35. a6 Rdd2 36. Qb8+ Kh7 37. a7 Rxf2
+38. Rxf2 Rxf2 39. g3 Qh5 40. Qg8+ Kxg8 0-1
+

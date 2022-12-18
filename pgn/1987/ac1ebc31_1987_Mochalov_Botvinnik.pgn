@@ -1,0 +1,20 @@
+[Event "Minsk-B"]
+[Site "Minsk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mochalov, Evgeny V"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "ac1ebc31"]
+[Epoch "Queen"]
+[WhiteID "13500074"]
+[WhiteCountry "BLR"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 O-O 7. O-O Ba6 8. Ne5
+Ra7 9. Qc2 c5 10. dxc5 Bxc5 11. Bc3 d5 12. cxd5 Nxd5 13. Be4 f5 14. Bd3 Bb7 15.
+e4 Nc6 16. Nxc6 Bxc6 17. Nd2 Nxc3 18. Qxc3 Rd7 19. Bc4 Rxd2 20. Bxe6+ Kh8 21.
+exf5 Rxf5 0-1

@@ -1,0 +1,19 @@
+[Event "World Cup"]
+[Site "Rotterdam"]
+[Date "1989.06.01"]
+[Round "1"]
+[White "Salov, Valery"]
+[Black "Sokolov, Andrei"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "9a92fdb7"]
+[Epoch "Queen"]
+[WhiteID "4100069"]
+[WhiteCountry "RUS"]
+[BlackID "627089"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 d5 8. cxd5
+Nxd5 9. Bg2 O-O 10. O-O Nd7 11. Nxd5 exd5 12. Rc1 1/2-1/2

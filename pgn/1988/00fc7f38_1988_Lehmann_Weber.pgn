@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lehmann, Karl"]
+[Black "Weber, Siegfried"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "00fc7f38"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 Ne7 6. Bd3 Nd7 7. h4 h6 8. h5
+g5 9. e5 c5 10. Nf1 Nc6 11. Ne3 cxd4 12. cxd4 O-O 13. Ng4 f5 14. exf6 Nxf6
+15. Nge5 Ne4 16. Nxc6 bxc6 17. O-O Qb6 18. Qc2 Ba6 19. Bxa6 Qxa6 20. Be3
+Rac8 21. Rfe1 Qb7 22. Ne5 c5 23. Qa4 Bxe5 24. dxe5 Qxb2 25. f3 d4 26. Rab1
+Nc3 27. Qc4 Qxa2 28. Qd3 Rf5 29. Ra1 Qd5 30. Bd2 c4 31. Qc2 Nb5 32. Ra5 c3
+33. Rb1 Rc5 34. Raxb5 Rxb5 35. Rxb5 Qxb5 36. g4 Qb2 37. Qa4 Rf8 38. Qc6 Qb6
+39. Qe4 1-0
+

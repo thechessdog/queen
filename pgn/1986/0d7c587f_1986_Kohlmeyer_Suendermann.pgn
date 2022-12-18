@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kohlmeyer"]
+[Black "Suendermann"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "0d7c587f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Qg4 f6 10. Nf4 f5 11. Qh5+ Qf7 12. Nxe6 g6 13. Nxc7+ Kd8 14.
+Qf3 Kxc7 15. Nxd5+ Kd8 16. Bc4 Qe8 17. Qe3 Nc6 18. O-O-O Nf8 19. Qg5+ Ne7
+20. Nf6 Qc6 21. Bb3 Ne6 22. Bxe6 Qxe6 23. d5 Qxe5 24. d6 Qe6 25. dxe7+ Kxe7
+26. Rhe1 1-0
+

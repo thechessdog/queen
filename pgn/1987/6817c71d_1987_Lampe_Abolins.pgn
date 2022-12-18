@@ -1,0 +1,18 @@
+[Event "corr ch15-Latvia"]
+[Site "corr ch15-Latvia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lampe"]
+[Black "Abolins, I."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "6817c71d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8.
+b4 Ne4 9. Qc2 Nc6 10. b5 Nxd4 11. Nxd4 Bxc5 12. Nxe4 Bxd4 13. Ng5 g6 14.
+Rb1 e5 15. Rb3 Bf5 16. Qd1 Rc8 17. Bd3 e4 18. Bb1 Bg4 19. f3 exf3 20. Nxf3
+Re8+ 21. Kf1 Qh4 22. Nxh4 Bxd1 23. Bd2 Be2+ 24. Ke1 Bc4+ 25. Kd1 Bf6 0-1
+

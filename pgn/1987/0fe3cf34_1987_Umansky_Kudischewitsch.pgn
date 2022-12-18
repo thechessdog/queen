@@ -1,0 +1,18 @@
+[Event "Yaroslavl"]
+[Site "Yaroslavl"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Umansky, Mikhail"]
+[Black "Kudischewitsch, Dav"]
+[Result "1-0"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[HashCode "0fe3cf34"]
+[Epoch "Queen"]
+[WhiteID "4680812"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. g4
+Nd5 9. Qd2 c5 10. e4 cxd4 11. exd5 Bd3 12. Bxd3 cxd3 13. Qf4 Qxd5 14. Qxf7+ Kd8
+15. Qxg7 Rf8 16. Qxf8+ 1-0

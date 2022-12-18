@@ -1,0 +1,23 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "3"]
+[White "Stull, Norbert"]
+[Black "Renet, Olivier"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "45943f86"]
+[Epoch "Queen"]
+[WhiteID "4000137"]
+[WhiteCountry "LUX"]
+[BlackID "600040"]
+[BlackCountry "FRA"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 6. d3 h6 7. O-O O-O 8. Na4
+Bf5 9. a3 a5 10. Nxc5 dxc5 11. Be3 Qd6 12. Nd2 Rfe8 13. Qb3 b6 14. Rad1 Rad8
+15. Rfe1 Qe6 16. Ne4 Bxe4 17. Bxe4 Nxe4 18. dxe4 Nd4 19. Bxd4 exd4 20. f3 h5
+21. Rd3 Qh3 22. Qd1 Rd6 23. e3 Red8 24. e5 R6d7 25. e4 Qe6 26. b3 a4 27. f4
+axb3 28. Qxb3 Ra8 29. a4 Rdd8 30. Qd1 Qxc4 31. f5 Re8 32. Qxh5 Rxe5 33. Qf3
+Rxa4 34. f6 Qe6 35. fxg7 Ra2 36. Ra3 Rxa3 37. Qxa3 Kxg7 38. Qf3 f5 0-1

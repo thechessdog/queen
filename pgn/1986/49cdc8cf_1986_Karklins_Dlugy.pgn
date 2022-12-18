@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karklins, Andrew"]
+[Black "Dlugy, Maxim"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "49cdc8cf"]
+[Epoch "Queen"]
+[BlackID "2000075"]
+[BlackCountry "USA"]
+[WhiteID "2001730"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bg5 Ngf6 6. Qd3 Nxe4 7. Qxe4 Qa5+
+8. Bd2 Qb6 9. O-O-O Nf6 10. Qe5 Be6 11. Ba5 Ng4 12. Qe1 Qxa5 13. Qxa5 Nxf2 14.
+d5 Bd7 15. dxc6 Bxc6 16. Bb5 Nxd1 17. Bxc6+ bxc6 18. Qc7 Rd8 19. Qxc6+ Rd7 20.
+Nf3 g6 21. Rxd1 Bh6+ 22. Kb1 1-0

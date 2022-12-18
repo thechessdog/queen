@@ -1,0 +1,20 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Faure"]
+[Black "Gerber, Richard"]
+[Result "0-1"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Reti-Tartakower variation"]
+[HashCode "4c5848b0"]
+[Epoch "Queen"]
+[BlackID "1300652"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8.
+Nb3 Nc6 9. O-O Be6 10. f4 Qc8 11. h3 Rd8 12. Nd4 Nxd4 13. Bxd4 Bc4 14. Rf2 e5
+15. Be3 d5 16. Bxc4 Qxc4 17. fxe5 Nxe4 18. Nxe4 dxe4 19. Qf1 Rac8 20. Bg5 Rd7
+21. Qxc4 Rxc4 22. Bf6 Bh6 23. Re1 Bd2 24. Ree2 e3 25. Rf3 Rxc2 26. Kh2 Rdc7 27.
+Bg5 Bc1 28. Rxc2 Rxc2 29. e6 fxe6 30. Bh6 Rf2 0-1

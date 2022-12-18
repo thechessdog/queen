@@ -1,0 +1,17 @@
+[Event "Regional-Liga NN"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kappus, Stephan"]
+[Black "Billen, Detlev"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "5cf3412c"]
+[Epoch "Queen"]
+[WhiteID "12906875"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Be7 8.
+O-O O-O 9. Ne5 Re8 10. Re1 c5 11. c3 cxd4 12. cxd4 Nd5 13. Bxh7+ 1-0

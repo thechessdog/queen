@@ -1,0 +1,17 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stone, Raymond"]
+[Black "Witt"]
+[Result "1-0"]
+[ECO "A98"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with Qc2"]
+[HashCode "9f912bed"]
+[Epoch "Queen"]
+[WhiteID "2600285"]
+[WhiteCountry "CAN"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. c4 O-O 6. Nc3 d6 7. O-O Qe8 8. Qc2
+Nc6 9. d5 Nb4 10. Qb3 Na6 11. dxe6 Bxe6 12. Qxb7 Nc5 13. Qxc7 Rc8 14. Qa5 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hafner, M."]
+[Black "Lange"]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[HashCode "52fef0d4"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. e4 c6 6. Nge2 d5 7. cxd5 cxd5
+8. exd5 Bf5 9. d4 exd4 10. Qxd4 Bxc3+ 11. Nxc3 h6 12. O-O Re8 13. Bf4 Qd7
+14. Be5 Nh5 15. Bf3 Bg6 16. Bxh5 Bxh5 17. Bxg7 Kh7 18. Rfe1 Rg8 19. Ne4 Qh3
+20. Nf6+ Kxg7 21. Nxh5+ Kh7 22. Nf6+ 1-0
+

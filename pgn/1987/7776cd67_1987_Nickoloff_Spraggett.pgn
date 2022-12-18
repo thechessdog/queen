@@ -1,0 +1,18 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nickoloff, Bryon"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "7776cd67"]
+[Epoch "Queen"]
+[BlackID "2600013"]
+[BlackCountry "CAN"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Rc1
+Bb7 9. Bd3 dxc4 10. Bxc4 Nbd7 1/2-1/2

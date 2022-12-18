@@ -1,0 +1,17 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pedersen, Eigil"]
+[Black "Ringsborg, A."]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "d9f42c8c"]
+[Epoch "Queen"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Bb5+ Nbd7 6. Nc3 a6 7. Qa4 g6 8.
+Nf3 Bg7 9. O-O O-O 10. Bxd7 Bxd7 11. Qb3 b5 12. d4 Bf5 13. Re1 Qd6 14. a3 Rfd8
+15. Bg5 Nxd5 16. Nxd5 Qxd5 17. Qxd5 Rxd5 18. Bxe7 Bg4 19. Ne5 Rxd4 1/2-1/2

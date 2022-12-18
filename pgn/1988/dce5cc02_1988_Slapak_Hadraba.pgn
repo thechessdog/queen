@@ -1,0 +1,20 @@
+[Event "corr ch22-CSSR"]
+[Site "corr ch22-CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Slapak"]
+[Black "Hadraba"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "dce5cc02"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nc3 O-O 6. Nf3 Nbd7 7. O-O e5 8.
+e4 exd4 9. Nxd4 Nc5 10. h3 Re8 11. Re1 a5 12. Bg5 h6 13. Bf4 Nfd7 14. Be3
+a4 15. Rb1 c6 16. Qc2 Qa5 17. b4 axb3 18. axb3 Qb4 19. Re2 Ne6 20. Nxe6
+Rxe6 21. Na4 Qa5 22. Bd2 Qd8 23. Bc3 Bxc3 24. Nxc3 Qf6 25. f4 h5 26. Rf2 h4
+27. g4 g5 28. e5 dxe5 29. Ne4 Qg7 30. fxg5 Nf8 31. Rd1 b6 32. Rd8 Bb7 33.
+Qd1 1-0
+

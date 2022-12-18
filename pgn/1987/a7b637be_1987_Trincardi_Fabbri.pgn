@@ -1,0 +1,20 @@
+[Event "Reggio Emilia tt"]
+[Site "Reggio Emilia tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Trincardi"]
+[Black "Fabbri"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "a7b637be"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Ne2 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. a4 Re8 13. f3 Rc8 14. Ng3
+cxd4 15. cxd4 Nb4 16. Qb3 Nc6 17. Bd2 Na5 18. Bxa5 bxa5 19. Rfc1 Qe7 20.
+Rxc8 Rxc8 21. Nf1 g6 22. Rb1 Kg7 23. Qb5 Rc2 24. Qxa5 Qa3 25. Rd1 Qb3 26.
+Rd2 Rc1 27. Kf2 Qc4 28. Re2 Ra1 29. Nd2 Qc1 30. Nb3 Qf1+ 31. Kg3 Qxe2 32.
+Nxa1 Qxe3 33. Nc2 Ne4+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Stanescu, B."]
+[Black "Suhl, Dirk"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "a634c8d9"]
+[Epoch "Queen"]
+[BlackID "4623070"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. h3 Bxf3 12. Bxf3 Nbd7 13. Bf4 Qc7 14. Qd2 Rfe8 15.
+Rfe1 Rac8 16. Rac1 Ne5 17. Be2 Qa5 18. Bh6 Bh8 19. f4 Ned7 20. Bf3 c4 21. Kh1
+Nc5 22. e5 Nb3 23. Qc2 Nxc1 24. Qxc1 Nd7 25. e6 Nc5 26. exf7+ Kxf7 27. Rxe8
+Rxe8 28. f5 Nd3 29. fxg6+ hxg6 30. Qg5 Bf6 0-1

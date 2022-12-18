@@ -1,0 +1,17 @@
+[Event "RLN/N"]
+[Site "RLN/N"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zierke, O."]
+[Black "Hoyer, Thomas"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "28965be7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. Nc3 axb5 7. d6 Bg7 8. dxe7
+Qa5 9. Nd2 c4 10. a4 Qb4 11. Nxb5 Nd5 12. e4 c3 13. exd5 Qxe7+ 14. Qe2 cxd2+
+15. Bxd2 Qxe2+ 16. Bxe2 O-O 17. Bc3 Bh6 18. O-O Bb7 19. Bc4 Na6 20. Rfe1 Rfd8
+21. Nd6 Bc8 22. Nxf7 Kxf7 23. d6+ Kf8 24. Re7 Nc5 25. Rxh7 Ke8 26. Rxh6 Ne6 27.
+Rh8+ Nf8 28. Re1# 1-0

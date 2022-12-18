@@ -1,0 +1,24 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Buecker, Stefan"]
+[Black "Wahls, Matthias"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "5e15556e"]
+[Epoch "Queen"]
+[WhiteID "4601424"]
+[WhiteCountry "GER"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Rb8 10. Bf2 e5 11. fxe5 Nxe5 12. Nxe5 Bxe5 13. Qd2 Be6 14. Be3 b5
+15. a3 a5 16. Rae1 Qc7 17. a4 bxa4 18. Bh6 Rfe8 19. Nxa4 Bd7 20. Ra1 Bxa4 21.
+Rxa4 Rxb2 22. Qxa5 Qxa5 23. Rxa5 Rxc2 24. Bf3 Rc3 25. Bd1 Bg7 26. Ba4 Rf8 27.
+Bxg7 Kxg7 28. Bb5 Rb3 29. Bc4 Rb7 30. Ra6 Rd7 31. Bb5 Rdd8 32. Ra7 Ng8 33. Bc4
+Nf6 34. Ra6 Ng4 35. Rb1 Ne5 36. Bb5 Rb8 37. Rxd6 Nf3+ 38. Kf2 Nd4 39. Rxd4 cxd4
+40. Rb3 0-1

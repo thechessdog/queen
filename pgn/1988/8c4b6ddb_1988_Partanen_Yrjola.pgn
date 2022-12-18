@@ -1,0 +1,22 @@
+[Event "Helsinki SM"]
+[Site "Helsinki SM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Partanen, Juha"]
+[Black "Yrjola, Jouni"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "8c4b6ddb"]
+[Epoch "Queen"]
+[WhiteID "500313"]
+[WhiteCountry "FIN"]
+[BlackID "500011"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e3 Nc6 6. Be2 cxd4 7. exd4 e6 8.
+Nf3 Qb6 9. a3 Bg7 10. O-O f5 11. Na4 Qd8 12. c3 b6 13. b3 O-O 14. Nb2 Bh6 15.
+Ra2 Kh8 16. Re1 Qd6 17. Nd3 f6 18. Bf1 Bd7 19. Nb4 Na5 20. c4 dxc4 21. bxc4
+Rfc8 22. c5 bxc5 23. dxc5 Qxd1 24. Rxd1 Ba4 25. Re1 e5 26. Nh4 Rxc5 27. Nxf5
+Bf8 28. Nd3 Rc3 29. f4 Bc2 30. Rxc2 Rxc2 31. fxe5 fxe5 32. a4 Nc6 33. Nxe5 Nxe5
+34. Rxe5 Bc5+ 35. Kh1 Rc1 36. Ng3 Rf8 0-1

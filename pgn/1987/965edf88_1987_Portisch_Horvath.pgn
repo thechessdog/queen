@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Horvath, Maria"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "965edf88"]
+[Epoch "Queen"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "1601660"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O a6 8. c5
+Bxc3 9. bxc3 Qe7 10. c4 dxc4 11. Bxc4 e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Qd4
+Qxd4 15. exd4 Rd8 16. Rd1 Be6 1/2-1/2

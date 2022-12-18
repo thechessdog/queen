@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pajukari"]
+[Black "Ekenlov"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "0061f2b1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Nxb3 11. Nxb3 Be7 12. Be3 O-O 13. Nbd4 Nxd4 14.
+Nxd4 c5 15. Nc6 Qc7 16. Nxe7+ Qxe7 17. f4 f5 18. exf6 Rxf6 19. f5 1-0
+

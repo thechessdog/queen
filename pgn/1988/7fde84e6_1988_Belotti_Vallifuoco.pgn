@@ -1,0 +1,23 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Belotti, Bruno"]
+[Black "Vallifuoco, Giacomo"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "7fde84e6"]
+[Epoch "Queen"]
+[WhiteID "800040"]
+[WhiteCountry "ITA"]
+[BlackID "800228"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Be7 7. g5 Nfd7 8. Rg1
+Nc6 9. Be3 O-O 10. Qd2 Nb6 11. O-O-O d5 12. exd5 exd5 13. h4 Ne5 14. Rg3 Re8
+15. Nb3 Be6 16. Bxb6 axb6 17. Nxd5 Rxa2 18. Qf4 Ng6 19. Qe4 Bxd5 20. Rxd5 Qa8
+21. Qc4 Ra1+ 22. Kd2 Ra4 23. Qc7 Rxh4 24. Bb5 Rd8 25. Rgd3 Rxd5 26. Rxd5 Rg4
+27. Qxb6 Bxg5+ 28. Kc3 Bf6+ 29. Kd2 h5 30. Bd7 Rg5 31. Rc5 Qa2 32. Qxb7 Qxb2
+33. Bf5 Nf8 34. f4 Rg3 35. Rc7 Bc3+ 36. Ke2 Qb1 0-1

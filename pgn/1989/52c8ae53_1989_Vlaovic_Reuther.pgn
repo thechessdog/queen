@@ -1,0 +1,21 @@
+[Event "Dortmund op"]
+[Site "Dortmund op"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Vlaovic, Djordje"]
+[Black "Reuther, Egon"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "52c8ae53"]
+[Epoch "Queen"]
+[WhiteID "904732"]
+[WhiteCountry "SRB"]
+[BlackID "4606310"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. Re1 Nbd7 10. Bg5 Nc5 11. Qf3 Be7 12. Rad1 Nxb3 13. axb3 O-O 14. Qg3 b4
+15. e5 bxc3 16. exf6 Bxf6 17. Nf3 Bxg5 18. Rxd6 Qf6 19. Qxg5 Bxf3 20. Qxf6 gxf6
+21. gxf3 Rfc8 22. Rb1 cxb2 23. Rxb2 Rc3 24. f4 f5 1/2-1/2

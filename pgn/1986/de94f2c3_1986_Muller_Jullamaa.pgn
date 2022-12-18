@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Muller, M."]
+[Black "Jullamaa"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "de94f2c3"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5
+Nc6 8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Bd3 g5 12. Nxg5 Rg8 13. Nge4 O-O-O
+14. Nxf6 Qxf6 15. Be4 Nb4 16. O-O Bg4 17. Qb3 Be6 18. Qa4 Bd7 19. Qa5 Rg5
+20. Bxb7+ Kxb7 21. Ne4 Bc6 22. Nxf6 Rxg2+ 23. Kh1 Rxf2+ 24. Kg1 Rg2+ 25.
+Kh1 Rdg8 0-1
+

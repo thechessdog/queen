@@ -1,0 +1,21 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Fischer, T."]
+[Black "Schebler, G."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "b7d187c5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e4 dxe4 6. Qe2 Nc6 7. O-O-O
+Nxd4 8. Qe3 c5 9. Bb5+ Bd7 10. Nxe4 Be7 11. Bxd7+ Qxd7 12. Nxc5 Qc6 13.
+Rxd4 Qxc5 14. Re4 Rc8 15. Qxc5 Rxc5 16. Nf3 Kd7 17. Rd1+ Bd6 18. Red4 Rc6
+19. Nd2 Kc8 20. Ne4 Be5 21. Rd7 Re8 22. Ng3 Rc7 23. R7d3 b6 24. c3 g6 25.
+Kc2 Kb7 26. Nf1 Bf4 27. g3 Re2+ 28. Kb3 Rc5 29. gxf4 Rb5+ 30. Kc4 Rc5+ 31.
+Kd4 Rxf2 32. Ke3 Rxb2 33. R1d2 Rb1 34. Ng3 f5 35. Rd7+ Ka6 36. Kd3 Rc1 37.
+Ne2 Rh1 38. Nd4 Rf1 39. Rxf7 Rxf4 40. Rxh7 Rf1 41. Kc2 f4 42. Rf7 g5 43.
+Re2 1-0
+

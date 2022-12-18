@@ -1,0 +1,21 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Liang, Jinrong"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "abebf7c0"]
+[Epoch "Queen"]
+[BlackID "8600066"]
+[BlackCountry "CHN"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Rd1 Ne4 11. cxd5 Nxc3 12. bxc3 exd5 13. Rxd5 Qxa3 14. Ng5 g6
+15. Bc4 Bf5 16. Rxf5 gxf5 17. O-O Ne7 18. Be5 Qa5 19. Qe2 Qb6 20. Be6 Qxe6 21.
+Nxe6 fxe6 22. Qc4 b6 23. Qxe6+ Rf7 24. Ra1 a5 25. g3 a4 26. Bd4 a3 27. Bxc5
+bxc5 28. Qb3 1-0

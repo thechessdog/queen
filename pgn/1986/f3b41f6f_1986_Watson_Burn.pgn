@@ -1,0 +1,19 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Watson, R."]
+[Black "Burn, M."]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "f3b41f6f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Bb4 6. Bd3 Bxd3 7. Qxd3
+Nc6 8. Ne2 Qd7 9. a3 Bxc3+ 10. Nxc3 Ne7 11. Ne2 c6 12. Nf4 g6 13. O-O O-O
+14. Rac1 Rfd8 15. c4 Kg7 16. b3 Rac8 17. h3 Qd6 18. c5 Qd7 19. b4 a6 20. a4
+Ra8 21. Rb1 h5 22. Rb2 Ra7 23. Rfb1 Qf5 24. Qb3 Rda8 25. b5 axb5 26. axb5
+Ra3 27. Qd1 h4 28. bxc6 bxc6 29. Rb7 R3a7 30. Qb3 g5 31. Rxa7 Rxa7 32. Nd3
+Ng6 33. Nb4 Rb7 34. Rb2 Ne7 35. Qd3 Qxd3 36. Nxd3 Rxb2 37. Nxb2 1/2-1/2
+

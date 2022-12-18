@@ -1,0 +1,30 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1986.??.??"]
+[Round "4"]
+[White "Petrovic, Vojislav"]
+[Black "Smagin, Sergey"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "42e46b55"]
+[Epoch "Queen"]
+[WhiteID "905780"]
+[BlackID "4100425"]
+[WhiteCountry "SRB"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Bb1 Rfe8 16. Ng3 h6 17. Bd2 Nc4 18. Bc3 Bf8 19. Qe2 g6 20. d5 h5 21. Bd3 Bh6
+22. b3 Nb6 23. Bd2 Bf4 24. Nf1 Bxd2 25. Qxd2 Qc3 26. Rec1 Qxd2 27. N3xd2 a5 28.
+a3 Rc5 29. b4 axb4 30. axb4 Rxc1 31. Rxc1 Ra8 32. Rc7 Ra3 33. Rb7 Nbxd5 34.
+Bxb5 Bxb5 35. Rxb5 Nc3 36. Rb8+ Kg7 37. f3 d5 38. exd5 Nfxd5 39. h4 Ra2 40. Kh2
+f6 41. Rb7+ Kh6 42. Kh1 Rb2 43. Nc4 Rb1 44. Nd2 Rxb4 45. Rxb4 Nxb4 46. Ne3 Nbd5
+47. Nxd5 Nxd5 48. Ne4 Kg7 49. Kg1 Kf7 50. Kf2 Ne7 51. g3 Nf5 52. Ke2 Ke7 53.
+Kf2 Nd6 54. Nc5 Nc4 55. Ne4 Nb6 56. Nc3 Ke6 57. Ne4 Ke7 58. Nc3 f5 59. Ke3 Kd6
+60. Ne2 Kd5 61. Kd3 e4+ 62. Ke3 Ke5 63. f4+ Kd5 64. Nc3+ Ke6 65. Kd4 Nd7 66.
+Ne2 Nf6 67. Kc5 Nd7+ 68. Kd4 Kd6 69. Nc3 Nf6 70. Nb5+ Kc6 71. Nc3 Ng4 72. Nxe4
+fxe4 73. Kxe4 Kd6 74. f5 Ke7 75. fxg6 Kf6 76. Kf4 Kxg6 77. Ke4 Kf6 78. Kf4 Ne5
+0-1

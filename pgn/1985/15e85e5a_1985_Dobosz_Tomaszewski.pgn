@@ -1,0 +1,20 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1985.01.01"]
+[Round "14"]
+[White "Dobosz, Henryk"]
+[Black "Tomaszewski, Roman"]
+[Result "1-0"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7...b5"]
+[HashCode "15e85e5a"]
+[Epoch "Queen"]
+[WhiteID "1100114"]
+[WhiteCountry "POL"]
+[BlackID "1100637"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Qe2 b5 8. Bd3
+cxd4 9. exd4 Bb7 10. a4 b4 11. Nbd2 Nbd7 12. Nc4 Nd5 13. Ng5 N7f6 14. Ne5 Rg8
+15. Nexf7 Qd7 16. Bf5 Be7 17. Bxe6 Qc6 18. Ne5 Nc3 19. Bf7+ Kf8 20. Qf3 1-0

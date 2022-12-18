@@ -1,0 +1,19 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kochyev, Alexander"]
+[Black "Pribyl, Josef"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "fad38df5"]
+[Epoch "Queen"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. Nd2 Qa5 5. d5 Nxd2 6. Qxd2 Qxd2+ 7. Kxd2 e5
+8. dxe6 dxe6 9. c3 Be7 10. Bg3 O-O 11. Kc2 Bd7 12. Nf3 Rd8 13. Ne5 Ba4+ 14. b3
+Be8 15. e4 Nc6 1/2-1/2

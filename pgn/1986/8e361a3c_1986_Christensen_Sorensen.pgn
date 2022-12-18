@@ -1,0 +1,20 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Christensen, Jan"]
+[Black "Sorensen, Henrik"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "8e361a3c"]
+[Epoch "Queen"]
+[WhiteID "1400916"]
+[BlackID "1400827"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. Qe2 b5 7. Qxe4 d5 8. Qe3
+bxa4 9. Nxe5 Nxe5 10. O-O Be6 11. Qxe5 Qd6 12. Qe2 Be7 13. b3 Qd7 14. Nc3 axb3
+15. axb3 Qc6 1/2-1/2

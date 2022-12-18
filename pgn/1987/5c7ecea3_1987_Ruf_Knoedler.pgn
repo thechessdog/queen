@@ -1,0 +1,20 @@
+[Event "Wuerttemberg-ch"]
+[Site "WURT ch"]
+[Date "1987.01.01"]
+[Round "8"]
+[White "Ruf, Matthias"]
+[Black "Knoedler, Dieter, Dr."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "5c7ecea3"]
+[Epoch "Queen"]
+[WhiteID "4600541"]
+[WhiteCountry "GER"]
+[BlackID "4606531"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Nc3 g6 9. f3 Bg7 10. Be3 O-O 11. O-O Rac8 12. b3 Rfd8 13. Rc1 Ne5 14. Qd2 b6
+15. Bg5 Nc6 16. Nxc6 Rxc6 1/2-1/2

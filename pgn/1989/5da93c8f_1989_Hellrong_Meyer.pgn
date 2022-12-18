@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hellrong"]
+[Black "Meyer, Th"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "5da93c8f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. e3 Bf5 5. Bd3 Bxd3 6. Qxd3 Nbd7 7. Nf3 e6
+8. O-O Be7 9. dxc5 Nxc5 10. Qb5+ Ncd7 11. Rfe1 O-O 12. e4 dxe4 13. Nxe4 Qc7
+14. c3 a6 15. Qe2 Rfe8 16. Nxf6+ 1/2-1/2
+

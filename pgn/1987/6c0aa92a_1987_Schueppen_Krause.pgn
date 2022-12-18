@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schueppen"]
+[Black "Krause"]
+[Result "1-0"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "6c0aa92a"]
+[Epoch "Queen"]
+
+1. d4 f5 2. c4 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 e6 7. Nc3 Be7 8.
+Bg5 O-O 9. Bxf6 Bxf6 10. e3 Nc6 11. O-O Bd7 12. a3 Rc8 13. Rc1 Na5 14. Nd2
+Rc7 15. Na2 Rxc1 16. Qxc1 Qb6 17. Qb1 Rc8 18. Rc1 Rxc1+ 19. Qxc1 Be7 20. b4
+Nc6 21. Nb3 a5 22. Nc5 Bxc5 23. Qxc5 Qxc5 24. bxc5 Na7 25. Nc3 Bc6 26. f3
+Nb5 27. Nxb5 Bxb5 28. e4 fxe4 29. fxe4 Bc6 30. exd5 exd5 31. Kf2 Kf8 32.
+Ke3 g5 33. Bf3 h6 34. Bg4 Kf7 35. Kf3 Kg6 36. Bc8 h5 37. h4 Kf6 38. hxg5+
+Kxg5 39. Ke3 Kf6 40. Kf4 Kg6 41. g4 hxg4 42. Kxg4 Kf6 43. Kf4 Ke7 44. Ke5
+Kd8 45. Be6 Kc7 46. Bxd5 Be8 47. Ke6 Bd7+ 48. Ke7 Ba4 49. Be4 b6 50. cxb6+
+Kxb6 51. d5 Kc5 52. d6 Kc4 53. Bg6 Kb3 54. Be8 Bxe8 55. Kxe8 Kxa3 56. d7 a4
+57. d8=Q Ka2 58. Qd2+ Kb3 59. Qd1+ Kb4 60. Qa1 1-0
+

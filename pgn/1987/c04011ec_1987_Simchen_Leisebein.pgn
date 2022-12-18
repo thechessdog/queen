@@ -1,0 +1,17 @@
+[Event "corr BGD-WFT3"]
+[Site "corr BGD-WFT3"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Simchen"]
+[Black "Leisebein"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "c04011ec"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Ne4
+8. Bb5+ c6 9. O-O Bd6 10. gxf5 Bxe5 11. Qf3 Bxd4+ 12. Kh1 exf5 13. Nxe4 O-O
+14. Qxf5 cxb5 15. c3 Bb6 16. Nf6+ Qxf6 17. Qxf6 gxf6 18. Bh6 Re8 19. Rg1+
+Bxg1 20. Rxg1+ Kh8 1/2-1/2
+

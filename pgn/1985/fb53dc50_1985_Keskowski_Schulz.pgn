@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Keskowski"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "fb53dc50"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ne2 b5 8. Nf3 Qb6
+9. g3 a5 10. Bh3 b4 11. c4 Nxd4 12. Nexd4 cxd4 13. cxd5 Bc5 14. Ng5 Bb7 15.
+Nxf7 Bxd5 16. Nxh8 Bxh1 17. Qh5+ g6 18. Qxh7 O-O-O 19. Bd2 Bf3 20. Qxg6 Rxh8
+21. Bxe6 Qb5 22. Bxd7+ Kxd7 23. Qg7+ Kc6 24. Qf6+ Kb7 25. Qg7+ Be7 26. Qxe7+
+Ka8 0-1

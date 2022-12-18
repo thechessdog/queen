@@ -1,0 +1,18 @@
+[Event "Concord,CA"]
+[Site "Concord,CA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Salazar, Adriana"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "cc54fd7c"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+[BlackID "4400518"]
+[BlackCountry "COL"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 Bxb1 5. Rxb1 Qa5+ 6. Bd2 Qxa2 7. Bc3 Qa6 8.
+c5 1-0

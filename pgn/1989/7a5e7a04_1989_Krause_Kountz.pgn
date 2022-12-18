@@ -1,0 +1,23 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1989.??.??"]
+[Round "7"]
+[White "Krause, Dieter"]
+[Black "Kountz, Jochen"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "7a5e7a04"]
+[Epoch "Queen"]
+[WhiteID "4668472"]
+[BlackID "4626184"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nf6 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. g4 Qg6 12. Nxe6 fxe6 13. Rxe6+ Kd7 14. Nd5
+Rhe8 15. Rxe8 Rxe8 16. Bf4 Qe4 17. Nxc7 Rc8 18. Qd2 g5 19. Bg3 Rxc7 20. Bxc7
+Kxc7 21. Qxg5 Ne5 22. Qg7+ Kc6 23. f7 Qxg4+ 24. Qxg4 Nxg4 25. Re1 d3 26. cxd3
+cxd3 27. Re8 d2 28. Rc8+ Kb6 29. Rd8 Nxf2 30. f8=Q d1=Q+ 31. Kg2 Qg4+ 32. Kf1
+Bxf8 0-1

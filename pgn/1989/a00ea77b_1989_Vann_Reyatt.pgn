@@ -1,0 +1,19 @@
+[Event "Earley"]
+[Site "Earley"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vann, Monica S"]
+[Black "Reyatt, G."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "a00ea77b"]
+[Epoch "Queen"]
+[WhiteID "471178"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Be2 Nc6 5. O-O g6 6. d3 Bg7 7. Nc3 Nge7 8. Ng5
+Bxe2 9. Qxe2 h6 10. Nf3 O-O 11. Nh4 Nd4 12. Qf2 Nec6 13. f5 g5 14. Nf3 Nxf3+
+15. Qxf3 Kh7 16. f6 Nd4 17. Qf2 Bh8 18. Nd5 c6 19. Ne7 Qd7 20. c3 Nb5 21. Qg3
+Bxf6 22. Rxf6 Qxe7 23. Bxg5 Qxf6 24. Bxf6 Rg8 25. Qf3 Rg6 26. Rf1 Rag8 27. Qf5
+Nc7 28. h4 h5 29. Qxh5+ Rh6 30. Qxf7+ 1-0

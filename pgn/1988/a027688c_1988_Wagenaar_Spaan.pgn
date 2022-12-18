@@ -1,0 +1,17 @@
+[Event "ACCOM I"]
+[Site "ACCOM I"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wagenaar, J."]
+[Black "Spaan, Martijn"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "a027688c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 c5 6. d5 e6 7. Nf3 exd5 8. cxd5
+Nxe4 9. Nxe4 Re8 10. Be2 Rxe4 11. O-O d6 12. Bd3 Re8 13. Qc2 Na6 14. Bd2 Qb6
+15. Kh1 Qxb2 16. Rab1 Qxc2 17. Bxc2 Nc7 18. Bb3 Bf5 19. Rbd1 Bd3 20. Rfe1 c4
+0-1

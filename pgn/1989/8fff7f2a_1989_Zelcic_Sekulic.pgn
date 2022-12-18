@@ -1,0 +1,23 @@
+[Event "Belgrade op"]
+[Site "Belgrade"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zelcic, Robert"]
+[Black "Sekulic, Dusan"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "8fff7f2a"]
+[Epoch "Queen"]
+[WhiteID "14500310"]
+[WhiteCountry "CRO"]
+[BlackID "903671"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8.
+Nxd4 Bd7 9. Bxc6 bxc6 10. Be3 Qe7 11. Re1 O-O 12. f3 Ng5 13. Qd2 h6 14. Kh1
+Rfb8 15. Nc3 Rxb2 16. Nb3 Bxe3 17. Qxe3 Rxc2 18. Nd4 Rb2 19. Nb3 Qb4 20. Qc1
+Rf2 21. Qe3 Qh4 22. Qd4 Nxf3 23. Qxh4 Nxh4 24. Re2 Rxe2 25. Nxe2 Ng6 26. Nc5
+Nxe5 27. Rb1 Kf8 28. Na6 Bf5 29. Rb2 Bd3 30. Nc5 Bxe2 31. Rxe2 Rb8 32. h3 Rb5
+33. Na6 d4 34. Nxc7 d3 0-1

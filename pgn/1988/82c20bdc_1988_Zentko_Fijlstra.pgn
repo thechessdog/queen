@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zentko, L."]
+[Black "Fijlstra, E."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "82c20bdc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8.
+a3 Bxc3 9. bxc3 Be4 10. Be2 Nc6 11. Nd2 Bg6 12. f3 d6 13. Nb3 e5 14. e4 Qc7
+15. Re1 Nd7 16. Bf1 f5 17. exf5 Bxf5 18. Be3 Rae8 19. Qd2 cxd4 20. cxd4 e4
+21. fxe4 Bxe4 22. Bf4 Nd8 23. c5 bxc5 24. Bc4+ Kh8 25. dxc5 Nxc5 26. Qxd6
+Qxd6 27. Bxd6 Nxb3 28. Bxb3 Rf6 29. Bc7 Nf7 30. Bd5 Ng5 31. h4 1-0
+

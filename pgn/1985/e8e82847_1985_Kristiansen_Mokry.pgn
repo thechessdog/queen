@@ -1,0 +1,24 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Mokry, Karel"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "e8e82847"]
+[Epoch "Queen"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Nbd7 8. f4
+b5 9. Bf3 Bb7 10. a3 Rc8 11. Qe1 Rc4 12. Be3 h5 13. Kh1 e5 14. Nb3 Ng4 15. Bd2
+Be7 16. Qe2 Qc7 17. a4 b4 18. Nd5 Bxd5 19. exd5 O-O 20. Na5 Rxc2 21. Nc6 Nc5
+22. Bxg4 hxg4 23. Qe3 a5 24. Rad1 e4 25. f5 Bf6 26. Qf4 Re8 27. Be3 Nd3 28.
+Qxg4 Rxc6 29. dxc6 Qxc6 30. Bh6 Qd7 31. b3 Bc3 32. Be3 f6 33. Rxd3 exd3 34.
+Qc4+ Qf7 35. Qxd3 Qxb3 36. Bb6 d5 37. Bxa5 Qc4 38. Qxc4 dxc4 39. h3 Re1 40.
+Rxe1 Bxe1 41. Bb6 b3 0-1

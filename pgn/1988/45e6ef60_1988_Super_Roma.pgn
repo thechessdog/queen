@@ -1,0 +1,28 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Super Constellation"]
+[Black "Roma 68000"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "45e6ef60"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd2 O-O 8.
+Bd3 dxc4 9. Bxc4 b6 10. O-O Ba6 11. Bxa6 Nxa6 12. Qa4 Qc8 13. Rac1 Qb7 14.
+Bg5 Be7 15. Ne5 Rac8 16. Nd7 Rfd8 17. Nxf6+ gxf6 18. Bh4 Nb4 19. Rfd1 a5
+20. Qb5 Qc6 21. Qxc6 Nxc6 22. d5 Ne5 23. Bg3 Nc4 24. dxe6 fxe6 25. Rxd8+
+Rxd8 26. Bc7 Rd7 27. b3 Rxc7 28. Nb5 Rd7 29. bxc4 Bc5 30. Nc3 Rd2 31. Ne4
+Rxa2 32. Nxf6+ Kg7 33. Ne4 Ba3 34. Rb1 Rc2 35. Ng5 Rxc4 36. Nxe6+ Kf6 37.
+Nd8 Ke7 38. Rd1 Rc8 39. Nb7 Bb4 40. Kf1 Rb8 41. Nxa5 bxa5 42. Rd4 Ke6 43.
+Ke2 Rg8 44. g3 Rc8 45. Rh4 Rc7 46. Kd3 Rf7 47. Kc4 Be7 48. Rh6+ Kf5 49.
+Rh5+ Ke4 50. Rxa5 Rxf2 51. Ra7 Rf7 52. Rc7 Rg7 53. Rc6 Bg5 54. Rc8 Kf3 55.
+Kd5 Rd7+ 56. Ke6 Rd2 57. Rf8+ Kg4 58. h4 Be3 59. Rg8+ Kf3 60. Rg7 h6 61.
+Kf5 Rh2 62. Re7 Rh3 63. g4 Rxh4 64. Re5 Rh2 65. Rb5 Rc2 66. Rb3 Rc5+ 67.
+Kg6 Re5 68. Kf6 Rg5 69. Ke6 Rxg4 70. Kf5 h5 71. Rb8 h4 72. Rh8 Kg3 73. Re8
+Rf4+ 74. Kg6 Rf3 75. Kh5 h3 76. Rg8+ Kf2 77. Rb8 h2 78. Rb2+ Kg3 79. Rxh2
+Kxh2 0-1
+

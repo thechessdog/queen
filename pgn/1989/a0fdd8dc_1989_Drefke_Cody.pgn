@@ -1,0 +1,16 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Drefke"]
+[Black "Cody, Philip"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "a0fdd8dc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. c4 Be7 6. Ng5 O-O 7. Nxe4 Nxe4
+8. Qxe4 Re8 9. Be2 Bd6 10. Qf3 Qh4 11. h3 Qxc4 12. Nc3 Qb4 13. O-O Nd7 14.
+a3 Qd4 15. Qd3 Qf4 16. Qg3 Qxg3 17. fxg3 Bxg3 18. Bf3 Be5 0-1
+

@@ -1,0 +1,17 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pigg, C."]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "c6892717"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 d5 2. e5 c5 3. f4 Nc6 4. Nf3 Bg4 5. Be2 e6 6. c3 Bxf3 7. Bxf3 Qb6 8. d3
+O-O-O 9. O-O Nge7 10. Nd2 Nf5 11. Nb3 c4+ 12. Kh1 cxb3 13. axb3 Be7 14. Re1 h5
+15. d4 h4 16. b4 a6 17. Qb3 Rdg8 18. Be2 g5 19. Ra2 gxf4 20. Bxf4 Bg5 21. Bxg5
+Rxg5 22. Rea1 Ng3+ 23. hxg3 hxg3+ 24. Kg1 Nxd4 25. cxd4 Qxd4+ 0-1

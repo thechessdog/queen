@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Borges Mateos, Juan"]
+[Black "Gavrikov, Viktor"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "c83a0259"]
+[Epoch "Queen"]
+[BlackID "24131849"]
+[BlackCountry "RUS"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Nh5 10. e3 Bg7 11. Bb5+ Kf8 12. Qc2 a6 13. Bd3 Nxg3 14. fxg3 b5 15.
+O-O Ra7 16. Rf2 Nd7 17. a4 b4 18. Ne4 Nb6 19. Raf1 a5 20. Nfd2 g4 21. Nc4 Nxc4
+22. Qxc4 h5 23. Nxc5 Rc7 24. Ne6+ Bxe6 25. dxe6 Rxc4 26. Rxf7+ Kg8 27. e7 Qc8
+28. Bxc4 Kh7 29. b3 Qc5 30. Bb5 Qxe3+ 31. Kh1 Kg6 32. Bd7 d5 0-1

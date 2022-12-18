@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Arroyo"]
+[Black "Perez Garcia"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "f1becf5e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bc4
+O-O 8. O-O Bg4 9. Be3 Nd7 10. h3 Bh5 11. g4 Bg6 12. Nh4 Re8 13. Nxg6 hxg6
+14. Qd3 Nb6 15. Bb3 Nd5 16. c4 Nf4 17. Bxf4 Bxf4 18. Rae1 Qd7 19. Re4 Rxe4
+20. Qxe4 Bd2 21. d5 f5 22. dxc6 bxc6 23. gxf5 gxf5 24. Qc2 f4 25. f3 Re8
+26. Rd1 Re2 27. Rxd2 Rxd2 28. Qe4 Qxh3 29. Qe8+ Kh7 30. Bc2+ f5 31. Bxf5+
+Qxf5 32. Qe1 Qg5+ 0-1
+

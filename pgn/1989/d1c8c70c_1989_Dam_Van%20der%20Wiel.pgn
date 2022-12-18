@@ -1,0 +1,20 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Dam, Ruurd"]
+[Black "Van der Wiel, John T.H."]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "d1c8c70c"]
+[Epoch "Queen"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nf3 Bg7 8. Bg2
+O-O 9. O-O Nbd7 10. Bf4 Qe7 11. h3 h6 12. e4 g5 13. Be3 b5 14. a3 Nxe4 15. Nxe4
+Qxe4 16. Nxg5 Qg6 17. Ne6 fxe6 18. dxe6 Nb6 19. Bxa8 Nxa8 20. e7 Re8 21. Qd5+
+Be6 22. Qxd6 Nb6 23. Bxc5 Nc4 24. Qc6 Ne5 25. Qg2 Qf5 26. f4 Nd3 27. Bxa7 Bd7
+28. Qh2 Rxe7 29. g4 Qe4 30. Bb6 Bd4+ 31. Bxd4 Qxd4+ 32. Rf2 Re2 0-1

@@ -1,0 +1,19 @@
+[Event "FIDE (36) 1987-1990"]
+[Site "Subotica izt"]
+[Date "1987.06.01"]
+[Round "10"]
+[White "Alburt, Lev"]
+[Black "Marjanovic, Slavoljub"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation"]
+[HashCode "c93356d2"]
+[Epoch "Queen"]
+[WhiteID "2000156"]
+[WhiteCountry "USA"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. dxc5 Qxd1+ 7. Kxd1 Bxc5
+8. b3 b6 9. Bb2 Nbd7 10. Ke2 Bb7 11. Nbd2 Ke7 12. Rhg1 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Risch, H."]
+[Black "Heitmann, H."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "511da8ed"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. Qd3 O-O
+8. Bf4 Nd5 9. Bd2 b6 10. c4 Ba6 11. h4 Nd7 12. Ng5 N5f6 13. Nf4 e5 14. dxe5
+Nxe5 15. Qg3 Qd7 16. Nfe6 Ne4 17. Nxe4 Qxe6 18. O-O-O Nxc4 19. Bc3 Qh6+ 20.
+Ng5 f6 21. Qxc7 Bc5 22. Bd3 fxg5 23. hxg5 Qxg5+ 24. Bd2 Qe7 25. Bxh7+ Kf7
+26. Qg3 Ne5 27. Bc3 Rfc8 28. Rh5 g5 29. Rxg5 Be3+ 30. fxe3 Rxc3+ 31. Kb1
+1-0
+

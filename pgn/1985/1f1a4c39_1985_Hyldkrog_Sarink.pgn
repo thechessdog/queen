@@ -1,0 +1,25 @@
+[Event "corr CA jub"]
+[Site "corr CA jub"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hyldkrog"]
+[Black "Sarink"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "1f1a4c39"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bxf3 10. gxf3 Rd8 11. Rxd8+ Kxd8 12. Be3 Bd6 13. Nd2
+Nf6 14. Nc4 Kd7 15. Rd1 Re8 16. a4 b5 17. Na5 Rb8 18. c4 bxc4 19. Nxc4 Ke6
+20. Rd3 Nd7 21. b3 c5 22. Rc3 Rf8 23. Kg2 Rf6 24. Na5 Rg6+ 25. Kf1 Rf6 26.
+Ke2 Rg6 27. Nb7 Rg2 28. Bxc5 Nxc5 29. Nxc5+ Bxc5 30. Rxc5 Kd6 31. Rd5+ Ke6
+32. Ra5 Rxh2 33. Rxa6+ Kd7 34. b4 Rh1 35. b5 Rb1 36. Ra8 Rb2+ 37. Kf1 Rb4
+38. Kg2 Kd6 39. Ra6+ Kd7 40. Kg3 Rb2 41. Ra8 Rb4 42. Rh8 Rxa4 43. Rxh7 Rb4
+44. Rxg7+ Kd6 45. Rg6+ Kd7 46. Rg5 Rxb5 47. f4 exf4+ 48. Kxf4 Rb2 49. f3
+Rc2 50. Rg7+ Ke6 51. Rg6+ Kf7 52. Ra6 c5 53. Kf5 c4 54. e5 c3 55. Rc6 Ke7
+56. f4 Rc1 57. e6 c2 58. Rc7+ Kd8 59. Rd7+ Ke8 60. Rd2 Ke7 61. Rh2 Ra1 62.
+Rxc2 Ra5+ 63. Kg6 Kxe6 64. Re2+ Kd7 65. f5 Ra1 66. f6 1-0
+

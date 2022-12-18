@@ -1,0 +1,18 @@
+[Event "Neckargemund"]
+[Site "Neckargemund"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Lochmeyer, G."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "01c3a140"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 Qh4+ 4. g3 fxg3 5. hxg3 Qf6 6. Nc3 Bd6 7. Qe3
+Nc6 8. Nge2 Nge7 9. d4 Bb4 10. Bd2 d6 11. O-O-O Bg4 12. Bg2 Bxe2 13. Nxe2
+Bxd2+ 14. Rxd2 h6 15. Rh5 Ng6 16. e5 dxe5 17. dxe5 Qe7 18. Nc3 O-O 19. Nd5
+Qe6 20. Nf6+ gxf6 21. Bd5 1-0
+

@@ -1,0 +1,20 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Adorjan, Andras"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "bf716f83"]
+[Epoch "Queen"]
+[WhiteID "700096"]
+[WhiteCountry "HUN"]
+[BlackID "700037"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Bf4 Qe7 12. h3 h6 13. e4 g5 14. Bd2 Nh7 15. Qc2
+Re8 16. Rae1 Qd8 17. Nd1 1/2-1/2

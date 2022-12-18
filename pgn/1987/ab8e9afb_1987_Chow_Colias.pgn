@@ -1,0 +1,21 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chow, Albert"]
+[Black "Colias, Billy"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "ab8e9afb"]
+[Epoch "Queen"]
+[WhiteID "2002167"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O Nc6 8.
+Nb3 O-O 9. Bg5 Be6 10. Kh1 Na5 11. Nd5 Bxd5 12. exd5 Nxb3 13. axb3 Ne4 14. Bc1
+Qc7 15. f3 Nc5 16. b4 Nd7 17. c3 Rfe8 18. f4 a6 19. Qb3 b5 20. Be3 Qb7 21. Ra5
+Nb6 22. Bxb6 Qxb6 23. Qa2 e5 24. dxe6 Rxe6 25. Bxb5 Rd8 26. Bc6 d5 27. Rxa6 Qe3
+28. Bxd5 Qe1 29. Rg1 Re2 30. Ra8 Qh4 31. Bxf7+ Kf8 32. Bg8 Rxa8 33. Qf7# 1-0

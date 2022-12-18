@@ -1,0 +1,20 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1985.09.01"]
+[Round "1"]
+[White "Bischoff, Klaus"]
+[Black "Lau, Ralf"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "58ba67ea"]
+[Epoch "Queen"]
+[WhiteID "4600045"]
+[BlackID "4600134"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 Ne4 8. Bd2
+O-O 9. Nxe4 Bxe4 10. Bc3 Bf6 11. Rc1 d6 12. Qd2 Qc7 13. Qe3 Qb7 14. Rfd1 cxd4
+15. Bxd4 Be7 16. b3 Nd7 17. Ba1 1/2-1/2

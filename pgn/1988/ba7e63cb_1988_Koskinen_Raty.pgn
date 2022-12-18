@@ -1,0 +1,17 @@
+[Event "corr SF jub"]
+[Site "corr SF jub"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Raty"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "ba7e63cb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 b6
+8. Qf3 O-O 9. Ne2 Nc6 10. O-O Bb7 11. Rd1 Ne5 12. Bxf7+ Rxf7 13. Qg3 Bxe4
+14. Bf4 Nc4 0-1
+

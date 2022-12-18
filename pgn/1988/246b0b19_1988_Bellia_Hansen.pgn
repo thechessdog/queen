@@ -1,0 +1,22 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Bellia, Fabrizio"]
+[Black "Hansen, Lars Bo"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "246b0b19"]
+[Epoch "Queen"]
+[BlackID "1400037"]
+[BlackCountry "DEN"]
+[WhiteID "800511"]
+[WhiteCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Ng8 5. Ngf3 c5 6. c3 Nc6 7. Bd3 Bd7 8. O-O
+cxd4 9. cxd4 Qb6 10. Nb3 Nb4 11. Bb1 Ba4 12. Ng5 Be7 13. Qh5 g6 14. Qf3 Bxg5
+15. Bxg5 Bxb3 16. Qxb3 Nc6 17. Qh3 Qxd4 18. Bxg6 Qxe5 19. Bh5 Qxg5 20. Qxe6+
+Qe7 21. Qh3 Qf6 22. Rae1+ Nge7 23. Re6 Qg7 24. Rfe1 O-O 25. Rxe7 Nxe7 26. Rxe7
+Rae8 27. Bxf7+ Qxf7 28. Qg3+ Qg6 0-1

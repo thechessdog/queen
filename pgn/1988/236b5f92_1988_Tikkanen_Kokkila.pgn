@@ -1,0 +1,20 @@
+[Event "JSM EtVaS-KSY"]
+[Site "JSM EtVaS-KSY"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tikkanen, Kari"]
+[Black "Kokkila, Tero"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "236b5f92"]
+[Epoch "Queen"]
+[WhiteID "500534"]
+[BlackID "501352"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 d5 7. cxd5 Nxd5 8. O-O
+cxd4 9. Nxd4 Nxc3 10. bxc3 Qa5 11. Qb3 Na6 12. Ba3 Re8 13. e3 Rb8 14. Rfc1 Bd7
+15. c4 b6 16. Rab1 Nc5 17. Qc3 Qxc3 18. Rxc3 Rbc8 19. Rcc1 Nd3 20. Rc3 Nc5 21.
+Rcc1 Nd3 22. Rc3 1/2-1/2

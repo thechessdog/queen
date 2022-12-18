@@ -1,0 +1,20 @@
+[Event "corr CAAPE"]
+[Site "corr CAAPE"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Parodi, Pedro"]
+[Black "Cranbourne, Carlos"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "72afd57e"]
+[Epoch "Queen"]
+[BlackID "101060"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O Qc5 12. Na4 Qc7 13. Nb6 Ra7 14. Qe3 e5 15.
+Nb5 axb5 16. Bxb5+ Nc6 17. Nxc8 Rxa2 18. Nxe7 Kxe7 19. Bxc6 Qxc6 20. fxe5 dxe5
+21. Bxf6+ gxf6 22. Rb6 Qxc2 23. Rxb7+ Ke8 24. Qh3 Qc5+ 25. Kh1 Rd2 26. Ra1 Rd8
+27. Qb3 1-0

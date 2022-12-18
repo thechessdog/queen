@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meiers, C."]
+[Black "Beck, H."]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "07e075f8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 O-O 7. O-O Ngxe5
+8. Nxe5 Nxe5 9. b3 Re8 10. Nc3 a5 11. Bb2 Ra6 12. Ne4 Rh6 13. Nxc5 Qh4 14.
+h3 d6 15. Nd3 Bxh3 16. gxh3 Qxh3 0-1
+

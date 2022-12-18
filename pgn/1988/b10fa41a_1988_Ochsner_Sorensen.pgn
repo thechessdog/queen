@@ -1,0 +1,21 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1988.??.??"]
+[Round "7"]
+[White "Ochsner, Thomas"]
+[Black "Sorensen, Torben"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "b10fa41a"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1463357"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Qe2 Nc5 12. Nd4 Nxb3 13. Nxc6 Nxc1 14. Raxc1 Qd7
+15. Nxe7+ Qxe7 16. f4 g6 17. g4 d4 18. cxd4 Qd7 19. Qf2 Rad8 20. Ne4 Qxd4 21.
+Nf6+ Kg7 22. b3 a5 23. Rxc7 a4 24. Qxd4 Rxd4 25. f5 Rc8 26. fxe6 1-0

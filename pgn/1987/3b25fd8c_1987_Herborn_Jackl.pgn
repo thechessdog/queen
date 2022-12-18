@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Herborn"]
+[Black "Jackl"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "3b25fd8c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bb3 c5 9. dxc5 Bxc5 10. Qb5+ Nbd7 11. Qe2 Nb6 12. N1f3 O-O 13. Bf4 Nbd5
+14. Bg3 Qa5+ 15. Nd2 Bb4 16. Rd1 Bd7 17. c3 Bxc3 18. bxc3 Nxc3 19. Nc4 Qxg5
+20. Qd2 Qxd2+ 21. Rxd2 Nce4 22. Rd4 Nxg3 23. hxg3 Rac8 24. Rh2 Bc6 25. Ne5
+Bd5 26. Ng4 Nxg4 27. Rxg4 Bxb3 28. axb3 Rfd8 29. Rhh4 h6 30. Rb4 Rd7 31. g4
+e5 32. Ke2 f6 33. Rh1 Kf7 34. Kf3 Rc3+ 35. Ke2 Rcd3 36. Rc1 Ke6 37. Rc2
+R3d4 38. Rb5 Rxg4 0-1
+

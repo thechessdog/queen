@@ -1,0 +1,24 @@
+[Event "Philadelphia open"]
+[Site "Philadelphia open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dauvergne, Peter"]
+[Black "Shahade, Michael"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f0f90d58"]
+[Epoch "Queen"]
+[WhiteID "2600536"]
+[WhiteCountry "AUS"]
+[BlackID "2001870"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. b4 Bb6 11. Na4 Re8 12. Nxb6 axb6 13. h3 d6 14. Be3 Ne4 15.
+Nf4 Ng3 16. Rg1 Qf6 17. Be2 Bf5 18. Qd4 Nd7 19. Qxf6 Nxf6 20. Bb5 Bd7 21. Bxd7
+Nxd7 22. Kd2 Nf5 23. Rge1 b5 24. Ne2 Nxe3 25. fxe3 Nb6 26. Nc3 Nc4+ 27. Kd3
+Nxa3 28. Ne4 Ra6 29. Rac1 Nc4 30. Nc3 Rb6 31. Ra1 h6 32. Ra7 Rc8 33. Rb1 Nxe3
+34. Re1 Nxg2 35. Re7 Nf4+ 36. Ke3 Ng6 37. Rexb7 Rxb7 38. Rxb7 Rxc3+ 39. Kd2
+Rxh3 40. Rb8+ Kh7 41. Rxb5 Nf4 0-1

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Aseev, Konstantin N"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "0bf581f4"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Bc5 6. c3 O-O 7. O-O b5 8. Bb3
+Re8 9. d3 h6 10. h3 d5 11. Rd1 d4 12. Nbd2 Bb6 13. Nf1 Na5 14. Bc2 c5 15. cxd4
+exd4 16. N3h2 c4 17. Qf3 Nc6 18. e5 Nd5 19. dxc4 bxc4 20. Qe4 f5 21. Qf3 Nxe5
+22. Qg3 Qf6 23. Bf4 Ng6 24. Bd2 d3 25. Ba4 Re2 26. Qf3 Bb7 27. Ne3 Bxe3 0-1

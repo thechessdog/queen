@@ -1,0 +1,23 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cremer, J."]
+[Black "Wundt, H."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "85135b05"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+a3 Bb7 9. Qe2 Be7 10. O-O-O Nbd7 11. g4 Rc8 12. Bg2 O-O 13. e5 Bxg2 14.
+Qxg2 dxe5 15. Nc6 Qe8 16. fxe5 Nd5 17. Bxe7 Nxe7 18. Nxe7+ Qxe7 19. Rhe1
+Rfd8 20. Rd3 Nb6 21. Red1 Rxd3 22. Rxd3 Nc4 23. Qe2 Qc7 24. Rh3 Qxe5 25.
+Qxe5 Nxe5 26. g5 Rc4 27. Re3 f6 28. a4 bxa4 29. Ne4 Nd3+ 30. Kb1 Nb4 31. c3
+Nd5 32. Re1 Rc6 33. gxf6 gxf6 34. Ka2 Kf7 35. Ka3 Nb6 36. Kb4 f5 37. Ng5+
+Ke7 38. Nxh7 Rc4+ 39. Ka5 Nd7 40. Ng5 Nc5 41. Re2 Kf6 42. Nh7+ Kg6 43. Nf8+
+Kf7 44. Nh7 Rg4 45. h4 Rxh4 46. Ng5+ Kf6 47. Kb6 Nd7+ 48. Kc6 Nf8 49. Nf3
+Rc4+ 0-1
+

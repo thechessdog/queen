@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lafont"]
+[Black "Yvinec"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "c4066d55"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Qd4 Ng6 6. Bb5+ Bd7 7. Bc4 f5
+8. f3 e5 9. dxe6 Bc6 10. Be3 Qxd4 11. Bxd4 a6 12. fxe4 O-O-O 13. Nge2 fxe4
+14. O-O Nf6 15. Rxf6 gxf6 16. Bxf6 Bc5+ 17. Kh1 Rd2 18. Bxh8 Nxh8 19. Bb3
+Ng6 20. Ng3 e3 21. Nge4 Nf4 22. Rg1 e2 23. Nxe2 Rxe2 24. Nxc5 Nxg2 0-1
+

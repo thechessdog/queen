@@ -1,0 +1,22 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petersen, Holger"]
+[Black "Schumacher, Horst"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "05093a34"]
+[Epoch "Queen"]
+[BlackID "4660730"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 Nd7 9. O-O-O Nf6 10. Bd3 Ng4 11. Bf4 Bd7 12. h3 Nf6 13. g4 Bc6 14. Be2
+Ne4 15. Qe3 d5 16. Rh2 g5 17. Be5 f6 18. Bd4 Bd6 19. Rg2 Bf4 20. Qxf4 gxf4 21.
+g5 fxg5 22. h4 h6 23. hxg5 hxg5 24. Rh1 Kf7 25. Rh7+ Ke6 26. Ne5 Nf6 27. Rh6
+Qe7 28. Bg4+ Kd6 29. Nd3 b6 30. Be5+ Qxe5 31. Nxe5 Kxe5 32. f3 Kd6 33. c4 dxc4
+34. Rd2+ Kc5 35. Rg6 Nxg4 36. Rxg5+ Kb4 37. c3+ Ka4 38. Rd4 Ne3 39. b3+ Ka3 40.
+bxc4 Rad8 0-1

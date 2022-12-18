@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sandler, Leonid"]
+[Black "Gervits"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "69c469d9"]
+[Epoch "Queen"]
+[WhiteID "3201805"]
+[WhiteCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Nc6 6. Bg2 d5 7. a3 Bxc3+ 8. bxc3
+O-O 9. cxd5 Qxd5 10. O-O Qc4 11. dxc5 Qxc3 12. Bf4 Rd8 13. Qc1 Qxc1 14. Rfxc1
+Nd5 15. Bd6 b6 16. e4 Nde7 17. e5 bxc5 18. Rxc5 Bd7 19. Rb1 Nf5 20. Bc7 Rdc8
+21. Rb7 h5 22. Nd2 Nce7 23. Ra5 Nd5 24. Bxd5 exd5 25. Raxa7 Rxa7 26. Rxa7 1-0

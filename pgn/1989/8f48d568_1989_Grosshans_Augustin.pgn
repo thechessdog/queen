@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grosshans, R."]
+[Black "Augustin, H."]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "8f48d568"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. Nf3 Nc6 7. e3 Be6
+8. a3 Bxd2+ 9. Nxd2 Nxd2 10. Bxd2 d4 11. Rd1 Qh4 12. Be2 O-O 13. O-O dxe3
+14. Bxe3 Nxe5 15. Rd4 Qf6 16. Rf4 Qg6 17. Qxg6 Nxg6 18. Rd4 1/2-1/2
+

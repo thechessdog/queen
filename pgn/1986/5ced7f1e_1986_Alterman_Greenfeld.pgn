@@ -1,0 +1,24 @@
+[Event "Israel"]
+[Site "Israel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Alterman, Vladimir I"]
+[Black "Greenfeld, Alon"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5ced7f1e"]
+[Epoch "Queen"]
+[WhiteID "2800225"]
+[WhiteCountry "ISR"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d5 9. cxd5 Nxd5 10. Nfxd5 exd5 11. Be2 Nc6 12. Bf3 Be6 13. O-O Rc8 14. Re1 Qd7
+15. Be3 Na5 16. Bf4 Rfe8 17. Na4 b6 18. Nc3 Bf6 19. Be2 Nc4 20. Bxc4 Rxc4 21.
+Be5 Be7 22. Qd3 Rec8 23. h3 Bf8 24. Re2 Bf5 25. Qg3 R8c6 26. Qe3 f6 27. Bg3 Re6
+28. Qf3 Rxe2 29. Nxe2 Rc2 30. Nc3 Rxb2 31. Nxd5 Be6 32. Qc3 Rb5 33. Nc7 Rb3 34.
+Qe1 Bf7 35. a4 Rxg3 36. fxg3 Qxc7 37. Qe3 Qe7 38. Qc3 Qb4 39. Qe3 Bd5 40. Rf1
+Qxa4 0-1

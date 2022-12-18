@@ -1,0 +1,23 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Seifert, Henryk"]
+[Black "Weglarz, Leszek"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "785e1830"]
+[Epoch "Queen"]
+[WhiteID "1100963"]
+[BlackID "1100432"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 f6 7. Bf4 d6 8. Nxd4
+Nge7 9. Bc4 Nxd5 10. Bxd5 Ne5 11. O-O Qe7 12. Qe2 c6 13. Bb3 Bd7 14. a4 O-O-O
+15. a5 a6 16. Qd2 h5 17. f3 h4 18. Rad1 h3 19. g3 Kb8 20. Be3 Rhe8 21. Ne2 Be6
+22. Bxe6 Qxe6 23. Bb6 Rd7 24. b3 f5 25. f4 Ng4 26. e5 Kc8 27. Qc1 dxe5 28. Rxd7
+Qxd7 29. Rd1 Qe7 30. Qd2 e4 31. b4 e3 32. Qd6 Bf6 33. Rd3 Qxd6 34. Rxd6 Rg8 35.
+c3 Rg7 36. Bxe3 Re7 0-1

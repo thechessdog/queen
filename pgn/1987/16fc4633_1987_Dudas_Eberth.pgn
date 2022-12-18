@@ -1,0 +1,19 @@
+[Event "Mezokovesd"]
+[Site "Mezokovesd"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dudas, J."]
+[Black "Eberth, Zoltan"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "16fc4633"]
+[Epoch "Queen"]
+[BlackID "702668"]
+[BlackCountry "HUN"]
+
+1. e3 d5 2. Qf3 Nf6 3. h3 e5 4. c3 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. d3 Bd6 8. Nd2
+Qd7 9. Ne2 e4 10. dxe4 dxe4 11. Nxe4 Bxe4 12. Qxe4+ Nxe4 13. O-O O-O-O 14. b3
+g5 15. Bb2 g4 16. h4 g3 17. f3 Nf2 18. c4 Qe7 19. Bd4 Qxh4 20. Rxf2 gxf2+ 21.
+Kf1 Qh1+ 22. Kxf2 Qh4+ 23. Kf1 Rhg8 24. Bxa7 Qh1+ 25. Ng1 Qxg2+ 26. Ke1 Bb4#
+0-1

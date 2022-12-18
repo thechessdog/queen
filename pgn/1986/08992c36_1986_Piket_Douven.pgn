@@ -1,0 +1,25 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Douven, Rudy"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "08992c36"]
+[Epoch "Queen"]
+[BlackID "1000195"]
+[BlackCountry "NED"]
+[WhiteID "1000055"]
+[WhiteCountry "NED"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. Bf4 Bd6 8. Bg3
+O-O 9. e3 a6 10. Bd3 Re8 11. Rc1 Qe7 12. O-O Bxg3 13. hxg3 Nbd7 14. b4 Qd6 15.
+Ne2 Ne4 16. Qc2 Rac8 17. Rfd1 Ndf6 18. Bxe4 Nxe4 19. Nf4 f6 20. Nd2 Nxd2 21.
+Rxd2 Re7 22. Qb3 Ra8 23. Rdc2 Kh8 24. Rc3 Rc8 25. a4 Rd8 26. Kf1 Rc8 27. Ke2
+Kg8 28. Kd1 Rf7 29. Kd2 Qd7 30. a5 g5 31. Nd3 Kg7 32. Nb2 Qd6 33. axb6 Qxb6 34.
+Na4 Qd6 35. Rc5 h5 36. Nc3 c6 37. Nxd5 Qe6 38. Qc2 Rh8 39. Nc3 h4 40. gxh4 Rxh4
+41. Qf5 Qe8 42. Ne2 Qb8 43. Kc3 Bc8 44. Qf3 a5 45. bxa5 Rb7 46. Qxc6 Rb3+ 47.
+Kd2 Qb4+ 48. Nc3 Bb7 49. Qd7+ Kg6 50. Qf5+ Kh5 51. g4+ 1-0

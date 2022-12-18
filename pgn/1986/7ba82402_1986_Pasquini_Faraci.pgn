@@ -1,0 +1,19 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pasquini"]
+[Black "Farachi, Francesco"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "7ba82402"]
+[Epoch "Queen"]
+[BlackID "803960"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O 8. f3
+Nc6 9. Qd2 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4 14. Nce2 Qb8
+15. h5 Rfc8 16. c3 b5 17. hxg6 hxg6 18. Bh6 Bh8 19. g4 b4 20. Bg5 bxc3 21. Nxc3
+Nxe4 22. fxe4 Bxd4 23. Qh2 Rxc3+ 24. bxc3 Rxc3+ 25. Kd2 Rc2+ 0-1

@@ -1,0 +1,19 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Smart, Leslie"]
+[Black "Kinsman, Andrew P H"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "85fcbacc"]
+[Epoch "Queen"]
+[BlackID "401110"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. Qxg7
+Rg8 9. Qxh7 Bc7 10. Nb5 a6 11. Nxd4 Bxe5 12. Bb2 Qc7 13. Ngf3 Bxd4 14. Bxd4
+Nbc6 15. Bf6 e5 16. Bd3 e4 17. Ng5 Rf8 18. Be2 Qf4 19. Bxe7 Nxe7 20. Nh3 Qf6
+0-1

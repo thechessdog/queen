@@ -1,0 +1,19 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Petersen, Kim Fuglsang"]
+[Black "Simonsen, Jesper"]
+[Result "1-0"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "bdd79635"]
+[Epoch "Queen"]
+[BlackID "1402226"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 e6 4. Bg2 g6 5. d3 Bg7 6. Be3 Nd4 7. Qd2 Ne7 8. Nd1
+d6 9. c3 Ndc6 10. Bh6 O-O 11. h4 Re8 12. h5 Bh8 13. hxg6 fxg6 14. Nf3 Rb8 15.
+Ng5 d5 16. Nxh7 dxe4 17. Bxe4 Nf5 18. Bg5 Qc7 19. Nf6+ Bxf6 20. Bxf6 Qd6 21.
+Qg5 1-0

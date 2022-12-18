@@ -1,0 +1,26 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Lehtivaara, Risto"]
+[Black "Hodgson, Julian M"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "ea878aa6"]
+[Epoch "Queen"]
+[WhiteID "500275"]
+[WhiteCountry "FIN"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. a4 g6 5. h3 Bg7 6. Be3 O-O 7. g4 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Nf3 h5 11. Bc4 hxg4 12. Ng5 Rf8 13. Bc5 Bh6 14. h4 Bxg5
+15. hxg5 Nh5 16. Bxf8 Kxf8 17. O-O-O Ke7 18. Ne2 Nd7 19. Ng3 Nb6 20. Nxh5 Nxc4
+21. Nf6 Be6 22. b3 Nb6 23. Rdg1 Nd7 24. Nxg4 a5 25. f3 b5 26. axb5 cxb5 27. Kb2
+a4 28. Ne3 a3+ 29. Kc3 Kd6 30. Kb4 Nb8 31. Rd1+ Kc6 32. Nd5 Na6+ 33. Kxa3 Nc7+
+34. Kb4 Nxd5+ 35. exd5+ Bxd5 36. Rxd5 Kxd5 37. Kxb5 Rb8+ 38. Ka4 f5 39. gxf6
+Rf8 40. Kb5 Rb8+ 41. Ka4 Kc5 42. Ka3 Ra8+ 43. Kb2 Rf8 44. Re1 Kd6 45. Ra1 Ke6
+46. c4 Kxf6 47. b4 Ke6 48. Rg1 Rxf3 49. Rxg6+ Kf5 50. Rg8 e4 51. b5 Ke5 52. b6
+Rf7 53. Kc3 Re7 54. Rg5+ Kd6 55. c5+ Kd7 56. Rg6 1-0

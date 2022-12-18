@@ -1,0 +1,19 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Du Chattel, Flip"]
+[Black "Dekker, Andries"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "07cde616"]
+[Epoch "Queen"]
+[BlackID "1001329"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. Bg2 Nf6 5. e5 Nfd7 6. f4 Nc6 7. Nf3 b6 8. O-O
+Ba6 9. d3 Be7 10. h4 Qc7 11. a4 Bb7 12. Ng5 Bxg5 13. Nb5 Qb8 14. Nd6+ Ke7 15.
+hxg5 Qc7 16. c3 Nd8 17. d4 Ba6 18. Rf2 Nb7 19. Nxf7 Kxf7 20. f5 Raf8 21. g6+
+Kg8 22. fxe6 Rxf2 23. Kxf2 Nxe5 24. Bxd5 hxg6 25. e7+ Kh7 26. Qh1# 1-0

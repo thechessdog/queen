@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Runstedler"]
+[Black "Roach"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Tarrasch variation"]
+[HashCode "4f573f78"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 Bg4 9. cxd5 f5 10. Nc3 Nd7 11. h3 Nxc3 12. bxc3 Bh5 13. Be2 h6 14. c4
+Re8 15. c5 Bf8 16. c6 bxc6 17. dxc6 Nb6 18. Bf4 g5 19. Be5 Nd5 20. Bc4 Bf7
+21. Rb1 Rb8 22. Qc2 Rxb1 23. Rxb1 g4 24. Qxf5 gxf3 25. Rb8 Rxe5 26. Qxf7+
+Kxf7 27. Rxd8 Re1+ 28. Kh2 Bd6+ 29. Rxd6 cxd6 30. c7 fxg2 31. Kxg2 Re8 32.
+Bxd5+ Ke7 33. Bb7 Kd7 34. c8=Q+ Rxc8 35. Bxc8+ Kxc8 36. Kf3 Kd7 37. d5 Ke7
+38. Ke4 Kf6 39. Kf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Teipelke"]
+[Black "Pilgenroether"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "cb716ec7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2
+exd5 9. cxd5 a6 10. a4 Qa5 11. Ra3 Nbd7 12. Nh3 Ne5 13. Nf2 Nfd7 14. Be7
+Nb6 15. Bxf8 Nec4 16. Bxc4 Nxc4 17. Qe2 Nxa3 18. Bxg7 Kxg7 19. Qd3 b5 20.
+bxa3 b4 21. axb4 cxb4 22. Na2 b3+ 23. Qc3+ 1-0
+

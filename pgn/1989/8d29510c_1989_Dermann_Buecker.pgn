@@ -1,0 +1,16 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dermann, G."]
+[Black "Buecker, Peter"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "8d29510c"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Bg5 h6 5. Bh4 dxc4 6. Qa4+ Nbd7 7. e3 a6 8.
+Qxc4 b5 9. Qc6 Ra7 10. Nbd2 Bb7 11. Qc2 c5 12. a4 b4 13. Nb3 cxd4 14. Nfxd4 Ra8
+15. f3 1/2-1/2

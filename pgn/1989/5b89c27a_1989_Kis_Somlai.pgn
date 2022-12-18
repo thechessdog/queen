@@ -1,0 +1,18 @@
+[Event "Szekszard"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kis, Joseph"]
+[Black "Somlai, Laszlo"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "5b89c27a"]
+[Epoch "Queen"]
+[BlackID "700495"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bg5 Nc6 6. e3 Ne4 7. Nxe4 dxe4 8.
+Qd2 Qd5 9. Bf4 e5 10. Ne2 Bb4 11. Nc3 Bxc3 12. bxc3 exf4 13. exf4 O-O 14. Be2
+Na5 0-1

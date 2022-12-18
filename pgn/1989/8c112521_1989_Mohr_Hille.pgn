@@ -1,0 +1,20 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mohr, Georg"]
+[Black "Hille, Ralph Ingo"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "3.Nd2"]
+[HashCode "8c112521"]
+[Epoch "Queen"]
+[BlackID "4614089"]
+
+1. e4 c6 2. d4 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 Nh6 6. Bd3 O-O 7. h3 f6 8. O-O
+Nf7 9. c4 Na6 10. Re1 Nc7 11. Qe2 dxe4 12. Bxe4 f5 13. Bc2 Bxd4 14. Nxd4 Qxd4
+15. Nf3 Qd6 16. b3 e5 17. Bb2 e4 18. Rad1 Qf4 19. Bc1 exf3 20. Qe7 Nd5 21. Rxd5
+Qxc1 22. Rxc1 cxd5 23. cxd5 f4 24. d6 Bf5 25. Bxf5 Rae8 26. Re1 Rxe7 27. dxe7
+Re8 28. Bd7 Nd6 29. Bxe8 Nxe8 30. Rd1 Kf7 31. Rd7 b5 32. Rxa7 fxg2 33. Kxg2 Nd6
+34. Kf3 g5 35. e8=Q+ Kxe8 36. Rxh7 1-0

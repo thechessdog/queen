@@ -1,0 +1,20 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "3cd679c8"]
+[Epoch "Queen"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be2 Bd6 7. Bf3 O-O
+8. Ne2 Re8 9. O-O Qc7 10. h3 Nd7 11. c4 Nf8 12. Nc3 Ng6 13. c5 Bf8 14. b4 Be6
+15. Be3 Rad8 16. Qa4 Nh4 17. Be2 Bxh3 0-1

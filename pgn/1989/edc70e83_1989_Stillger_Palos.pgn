@@ -1,0 +1,19 @@
+[Event "Porz op22"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stillger, Bernhard"]
+[Black "Palos, Osman"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "edc70e83"]
+[Epoch "Queen"]
+[WhiteID "4610768"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. f4 Bc5 8. c3
+d6 9. Kh1 h5 10. Nd2 Ng4 11. N2f3 e5 12. fxe5 dxe5 13. Ng5 exd4 14. cxd4 Qxh2#
+0-1

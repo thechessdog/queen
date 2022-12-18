@@ -1,0 +1,26 @@
+[Event "Den Haag"]
+[Site "Den Haag"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Vliet"]
+[Black "Chiptest"]
+[Result "1-0"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "b58ebd91"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bh4 c5 5. dxc5 Nc6 6. e3 Qa5+ 7. Nbd2
+Qxc5 8. c3 Bf5 9. Be2 Qb6 10. Nb3 O-O-O 11. O-O Kb8 12. a4 Na5 13. Nxa5
+Qxa5 14. Qb3 Rd6 15. Rfd1 Bg4 16. Qb5 Qxb5 17. axb5 g5 18. Bg3 Nxg3 19.
+hxg3 f6 20. Ra4 Bd7 21. Rda1 a6 22. Ra5 axb5 23. Bxb5 Bxb5 24. Rxb5 b6 25.
+Kf1 Kb7 26. Rb4 e5 27. Rba4 Kc6 28. Ra7 g4 29. Ne1 h5 30. Rf7 Bh6 31. Nc2
+Kc5 32. Ke2 Kc4 33. Ra3 Kb5 34. Rc7 Rc6 35. Rd7 Rc5 36. Nb4 d4 37. exd4
+exd4 38. Rxd4 Re8+ 39. Kd3 Re1 40. Kc2 Rc4 41. Rd5+ Rc5 42. Rd6 Re2+ 43.
+Kb3 Rd2 44. Rxf6 Bg7 45. Rf4 Be5 46. Rf7 Rc4 47. Nc2 Rc6 48. Ra4 Rf6 49.
+Rxf6 Bxf6 50. Rf4 Be7 51. Nd4+ Ka6 52. Rf5 Bc5 53. Rf4 Be7 54. Ka2 Bd6 55.
+Rf5 Bc5 56. Nb3 Re2 57. Nxc5+ bxc5 58. Ka3 Kb6 59. b3 Rc2 60. c4 Kc6 61.
+Rf6+ Kd7 62. Ka4 Ke7 63. Rf5 Ke6 64. Rf8 Kd6 65. Kb5 Rb2 66. Rd8+ Ke6 67.
+Kxc5 Rxf2 68. b4 Rxg2 69. Rd3 Rf2 70. b5 Rf5+ 71. Kc6 h4 72. gxh4 Rf4 73.
+c5 Rf3 74. Rd5 Rf5 75. Rd6+ Ke5 76. b6 g3 77. b7 Rf8 78. Rg6 Rh8 1-0
+

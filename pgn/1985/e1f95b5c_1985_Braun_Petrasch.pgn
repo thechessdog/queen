@@ -1,0 +1,20 @@
+[Event "Bayern-chB"]
+[Site "Germany"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Braun, Thomas"]
+[Black "Petrasch, Klaus"]
+[Result "0-1"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "e1f95b5c"]
+[Epoch "Queen"]
+[WhiteID "16238656"]
+[BlackID "4635108"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. Bb2 Bb7 11. Qe2 Re8 12. Rad1 Rc8 13. Nd2 dxc4 14. Nxc4 e5
+15. dxc5 e4 16. Bb1 Ba6 17. Ba2 Ne5 18. c6 Re6 0-1

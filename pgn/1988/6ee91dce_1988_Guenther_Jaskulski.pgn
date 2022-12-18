@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Guenther, O."]
+[Black "Jaskulski, K."]
+[Result "1/2-1/2"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "6ee91dce"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 Nf6 5. Nc3 Bf5 6. Ne5 e6 7. Qa4+ Nbd7
+8. dxe6 Bxe6 9. Nxc4 a6 10. Nd2 b5 11. Qc2 g6 1/2-1/2
+

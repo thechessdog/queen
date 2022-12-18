@@ -1,0 +1,20 @@
+[Event "San Giorgio"]
+[Site "San Giorgio"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Iotti"]
+[Black "Martorelli"]
+[Result "0-1"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "30b68578"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8.
+e3 c6 9. b3 Re8 10. Bb2 e4 11. Nd2 d5 12. cxd5 cxd5 13. Qe2 Nf8 14. Rfc1 a6
+15. Na4 h5 16. Rc2 h4 17. Qf1 hxg3 18. hxg3 Ng4 19. Rac1 Bf5 20. Ba3 Qg5
+21. Qe2 Qh5 22. Nf1 Ne6 23. Nb6 Rad8 24. Rc7 Ng5 25. Be7 Nf3+ 26. Bxf3 exf3
+27. Qxf3 Be4 28. Qxe4 dxe4 29. Bxd8 Rxd8 30. Rxb7 Qf5 31. Rc2 Bxd4 32. exd4
+e3 0-1
+

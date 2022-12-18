@@ -1,0 +1,19 @@
+[Event "corr ICCF EU/III"]
+[Site "corr ICCF EU/III"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schendel, A."]
+[Black "Heinke, Steph"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "1ab6c258"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 exf6 6. cxd5 Qxd5 7. Nc3
+Bb4 8. e3 O-O 9. Bd3 Bg4 10. O-O Bxc3 11. bxc3 Rae8 12. Be2 Ne7 13. Qb3 a6
+14. Rab1 b5 15. c4 bxc4 16. Bxc4 Qe4 17. Nd2 Qg6 18. Rfc1 Nf5 19. Bxa6 Qg5
+20. Qb4 Bh3 21. g3 Nxe3 22. fxe3 Qxe3+ 23. Kh1 Re4 24. Rxc7 Rxd4 25. Qxf8+
+Kh7 26. Qxf7 Rg4 27. Rd7 Rg5 28. Bd3+ f5 29. Bc4 Qe5 30. Qg8+ 1-0
+

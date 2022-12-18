@@ -1,0 +1,20 @@
+[Event "Smolensk"]
+[Site "Smolensk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tiviakov, S."]
+[Black "Mentov"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "9fae1ca3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 O-O 8.
+O-O d6 9. d4 Bg4 10. Rd1 Qc8 11. Be3 Na5 12. Bc2 Nc4 13. Bc1 c5 14. d5 h6
+15. a4 Bxf3 16. Qxf3 Qg4 17. Qxg4 Nxg4 18. Bd3 Na5 19. axb5 axb5 20. Bxb5
+Nb3 21. Rxa8 Rxa8 22. Na3 Nxc1 23. Rxc1 Kf8 24. Bc6 Ra6 25. Nc4 Bg5 26. Re1
+Ke7 27. g3 h5 28. f3 Nh6 29. h4 Bf6 30. b4 cxb4 31. cxb4 Ra2 32. b5 Rc2 33.
+b6 1-0
+

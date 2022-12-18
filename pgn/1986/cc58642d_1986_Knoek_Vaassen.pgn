@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Knoek"]
+[Black "Vaassen"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "cc58642d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 c6 6. Nc3 Ne7 7. Bd3 dxc4
+8. Bxc4 O-O 9. O-O Nd7 10. Re1 Nb6 11. Bb3 Bg4 12. h3 Bh5 13. a3 Ned5 14.
+Nxd5 Nxd5 15. Bxd5 cxd5 16. Qb3 Bxf3 17. Qxf3 Qd7 18. Bf4 Bxf4 19. Qxf4
+Rfe8 1/2-1/2
+

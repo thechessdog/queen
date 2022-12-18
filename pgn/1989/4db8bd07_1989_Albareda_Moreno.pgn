@@ -1,0 +1,18 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Albareda, Miguel"]
+[Black "Moreno, J."]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "4db8bd07"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. Bh3 b4 14. Nce2 Nc5
+15. Kb1 Bb7 16. Ng3 a5 17. Rhe1 a4 18. f5 e5 19. f6 exd4 20. fxe7 b3 21. cxb3
+axb3 22. a3 Qxe7 23. Nf5 Bxe4+ 24. Rxe4 Qxe4+ 25. Qxe4+ Nxe4 26. Rxd4 Nxg5 27.
+Bg2 Ra6 28. Nxd6+ Ke7 29. Nb7 Re6 30. Kc1 Rc8+ 0-1

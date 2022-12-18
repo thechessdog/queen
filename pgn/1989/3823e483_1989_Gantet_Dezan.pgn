@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gantet, Gerard"]
+[Black "Dezan, Pierre"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "3823e483"]
+[Epoch "Queen"]
+[WhiteID "601098"]
+[BlackID "600911"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. f4 c5 2. Nf3 d5 3. e3 g6 4. Bb5+ Bd7 5. Qe2 Bg7 6. Ne5 Nf6 7. b3 O-O 8. Bxd7
+Nfxd7 9. Bb2 Nxe5 10. fxe5 Nc6 11. d4 f6 12. c4 cxd4 13. exd4 fxe5 14. Nd2 Nb4
+15. Nf3 e4 16. Ne5 Bxe5 17. dxe5 Nd3+ 18. Kd1 Rf2 19. Qg4 Nxb2+ 20. Ke1 Nd3+
+21. Kd1 Qa5 22. Qe6+ Kh8 0-1

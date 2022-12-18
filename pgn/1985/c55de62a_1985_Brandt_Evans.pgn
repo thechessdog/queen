@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Brandt, B."]
+[Black "Evans, D2."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "c55de62a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Qa4+ Bd7 6. Qb3 Na6 7. Nc3 Nc5 8.
+Qc2 g6 9. Nf3 Rc8 10. Ne5 a6 11. d4 Bf5 12. Qd1 Nce4 13. Nxe4 Bxe4 14. Qa4+ Nd7
+15. Bd2 Qc7 16. Bxa6 bxa6 17. Rc1 Qb7 18. Rxc8+ Qxc8 19. Ke2 f6 20. Rc1 Qb7 21.
+Nxd7 1-0

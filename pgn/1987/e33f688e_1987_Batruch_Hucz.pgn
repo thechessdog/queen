@@ -1,0 +1,24 @@
+[Event "Chorzow"]
+[Site "Chorzow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Batruch, K."]
+[Black "Hucz, A."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "e33f688e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4
+g6 8. c4 Bg7 9. Be3 Nf6 10. f3 O-O 11. Nc3 Rfc8 12. b3 Qd8 13. Rc1 Nxd4 14.
+Bxd4 Rc6 15. Qd2 Qa5 16. Rcd1 b6 17. Rfe1 e6 18. Qb2 Qa6 19. Nd5 exd5 20.
+exd5 Rc7 21. Bxf6 Bf8 22. h4 b5 23. h5 bxc4 24. hxg6 fxg6 25. bxc4 Qb6+ 26.
+Qxb6 axb6 27. Re4 Rxa2 28. Bd8 Rb7 29. Rb1 Ra6 30. Kf1 Rd7 31. Bg5 Rda7 32.
+Be3 Ra1 33. Rxa1 Rxa1+ 34. Kf2 Rb1 35. Re8 Kf7 36. Rb8 Bg7 37. Rb7+ Kf8 38.
+Rxb6 Rxb6 39. Bxb6 Ke7 40. Ke3 Kd7 41. Ke4 Bf6 42. g4 Be7 43. f4 Ke8 44. f5
+Kf7 45. Be3 Bf8 46. g5 Be7 47. Bb6 Bf8 48. Bd8 Bg7 49. Bf6 Bf8 50. Bc3 Be7
+51. Bd4 Bd8 52. c5 dxc5 53. Bxc5 Ke8 54. Ke5 gxf5 55. Ke6 Bxg5 56. d6 Kf8
+57. d7+ Kg7 58. Be7 1-0
+

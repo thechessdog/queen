@@ -1,0 +1,19 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Miralles, Gilles"]
+[Black "Simic, Radoslav"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "d5ea8bca"]
+[Epoch "Queen"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+[BlackID "900184"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 1/2-1/2

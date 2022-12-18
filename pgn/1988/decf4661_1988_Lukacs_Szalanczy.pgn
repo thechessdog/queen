@@ -1,0 +1,24 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Szalanczy, Emil"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "decf4661"]
+[Epoch "Queen"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Ne8 11. Re1 Rb8 12. Kh1 Bd7 13. f4 b5 14. a4 Nac7 15.
+axb5 Nxb5 16. Bxb5 Bxb5 17. e5 a6 18. Nf3 Rb7 19. Be3 Re7 20. Bf2 Bh6 21. Bg3
+Ng7 22. Bh4 Bxf4 23. g3 g5 24. gxf4 gxh4 25. Ne4 f6 26. Nxf6+ Rxf6 27. exf6
+Rxe1+ 28. Qxe1 Qxf6 29. Qxh4 Qxh4 30. Nxh4 Kf7 31. Kg1 Kf6 32. Kf2 Ne8 33. Ng2
+Nc7 34. Ne3 Bd3 35. Rd1 Be4 36. Nc4 Bxd5 37. Nxd6 Ke6 38. Nc8 Nb5 39. Re1+ Kf6
+40. Re5 Be6 41. Rxc5 Nd4 42. Nd6 1-0

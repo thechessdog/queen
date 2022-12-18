@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Whiteley, Andrew Jonathan"]
+[Black "Dunn, Andrew"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "442af18d"]
+[Epoch "Queen"]
+[BlackID "401960"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 Qh4 5. Be3 Bc5 6. Qd3 Nxf2 0-1

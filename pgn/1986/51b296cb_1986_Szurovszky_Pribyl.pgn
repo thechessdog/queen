@@ -1,0 +1,26 @@
+[Event "Tapolca"]
+[Site "Tapolca"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Szurovszky, Elek"]
+[Black "Pribyl, J."]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "51b296cb"]
+[Epoch "Queen"]
+[WhiteID "702412"]
+[WhiteCountry "HUN"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. e5 Ne4 6. Qf3 Nxc3 7. Bd2 Bf5 8. Bxc3
+Qd5 9. Qxd5 cxd5 10. O-O-O e6 11. Nf3 Nc6 12. Bd3 Bxd3 13. Rxd3 Be7 14. Re1
+dxe5 15. fxe5 O-O 16. Kb1 Rfc8 17. Bd2 b5 18. g4 a5 19. h4 a4 20. g5 a3 21. b3
+Nb4 22. Bxb4 Bxb4 23. Ree3 Ra7 24. c3 Rac7 25. Kc2 Be7 26. Nd2 g6 27. Kd1 h6
+28. Rg3 hxg5 29. hxg5 Kg7 30. b4 Rh8 31. Rh3 Rxh3 32. Rxh3 Bxg5 33. Nb1 Ra7 34.
+Kc2 Bf4 35. Rh1 f5 36. exf6+ Kxf6 37. Kb3 g5 38. Nxa3 Rxa3+ 39. Kxa3 g4 40. Rg1
+g3 41. Kb3 Kf5 42. a4 bxa4+ 43. Kxa4 Kg4 44. Kb5 Be3 45. Re1 Kf3 46. Kc6 g2 47.
+Kd7 Bf2 48. Rb1 Ke4 49. Kxe6 g1=Q 50. Rxg1 Bxg1 51. b5 Bh2 52. b6 Bg3 53. b7
+Bb8 54. c4 dxc4 55. d5 c3 56. d6 c2 57. d7 c1=Q 58. d8=Q Qc4+ 59. Kd7 Qd5+ 60.
+Kc8 Qe5 61. Qe7 Qxe7 0-1

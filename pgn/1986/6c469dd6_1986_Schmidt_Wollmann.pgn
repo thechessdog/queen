@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmidt, T."]
+[Black "Wollmann, Andreas"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "6c469dd6"]
+[Epoch "Queen"]
+[BlackID "4657772"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Nxe5 Nxe4 6. Qe2 Nxe5 7. Qxe4 Qe7
+8. d4 Nc6 9. Qg4 h5 10. Qd1 Nxd4 11. b4 Bb6 12. Re1 Ne6 13. c4 Bd4 0-1

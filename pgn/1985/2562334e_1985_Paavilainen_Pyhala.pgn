@@ -1,0 +1,21 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Paavilainen, Jorma"]
+[Black "Pyhala, Antti"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2562334e"]
+[Epoch "Queen"]
+[WhiteID "500232"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be2 e6 7. O-O Be7 8. c4
+Qf5 9. Nc3 cxd4 10. Nxd4 Nxd4 11. Qxd4 e5 12. Qd3 O-O 13. Qxf5 Bxf5 14. Be3
+Rfc8 15. Rac1 b6 16. Rfd1 Be6 17. Bf3 Rab8 18. Nd5 Nxd5 19. Bxd5 Bxd5 20. Rxd5
+a6 21. Rxe5 Bf6 22. Re4 Bxb2 23. Rb1 Ba3 24. Rxb6 Rxb6 25. Bxb6 f5 26. Rd4 Rc6
+27. c5 1/2-1/2

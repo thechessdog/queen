@@ -1,0 +1,20 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pils, Walter"]
+[Black "Kargl, Kurt"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[Opening "Queen's Indian"]
+[Variation "Marienbad system"]
+[HashCode "83e6532c"]
+[Epoch "Queen"]
+[WhiteID "1600192"]
+[BlackID "1600460"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. dxc5 bxc5 6. c4 g6 7. Nc3 Bg7 8. O-O
+O-O 9. Qc2 Nc6 10. Rd1 d6 11. a3 Rb8 12. Rb1 Bc8 13. h3 Bd7 14. e3 Qc8 15. Kh2
+Na5 16. b3 Qa6 17. Nd2 Nc6 18. Nce4 Rfd8 19. g4 Qb6 1/2-1/2

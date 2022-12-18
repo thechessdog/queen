@@ -1,0 +1,25 @@
+[Event "San Bernardino"]
+[Site "San Bernardino"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Cebalo, Miso"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "3c7eb135"]
+[Epoch "Queen"]
+[BlackID "14500094"]
+[BlackCountry "CRO"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d6 9. Be2 Nbd7 10. O-O a6 11. b4 b6 12. a4 Rb8 13. Be3 Re8 14. Nd3 Bb7 15. a5
+Bf8 16. axb6 Nxb6 17. Nb2 Qc7 18. Qd2 Rec8 19. Rfc1 Qd8 20. h3 h6 21. Bf1 Be7
+22. Nca4 Ne4 23. Qe1 Nxa4 24. Nxa4 Bf6 25. Nc3 Nxc3 26. Qxc3 Ra8 27. Qd2 Qd7
+28. Ra3 Kf8 29. Qd3 Qc6 30. Rd1 Qe4 31. Qxe4 Bxe4 32. Rda1 Bb7 33. f4 Rab8 34.
+Kf2 Ke7 35. Be2 Be4 36. Rb3 Rc6 37. Ra5 Rcb6 38. Ra4 Bc2 39. Rba3 Bxa4 40. Rxa4
+Rxb4 41. Rxa6 d5 42. g4 g5 43. f5 R8b6 44. Ra5 dxc4 45. d5 R6b5 46. Ra7+ Ke8
+47. dxe6 fxe6 48. Ra6 Re5 49. Ra8+ Kf7 50. Ra7+ Ke8 51. Ra8+ Bd8 52. f6 Rd5 53.
+Bf3 Rb2+ 54. Ke1 Re5 0-1

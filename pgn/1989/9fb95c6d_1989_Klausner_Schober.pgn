@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Klausner"]
+[Black "Schober"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "9fb95c6d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 Bd7 5. Nf3 Qe7 6. Bb5 f6 7. Bf4 O-O-O 8.
+O-O Qf7 9. exf6 gxf6 10. Qd2 Nge7 11. a4 Nf5 12. Bxc6 bxc6 13. Qd3 Kb7 14.
+a5 Be8 15. b4 Bd6 16. Bg3 h5 17. b5 h4 18. Rfb1 c5 19. b6 hxg3 20. bxc7+
+Kxc7 21. Qa6 gxf2+ 22. Kxf2 Rd7 23. Qxa7+ Kd8 24. Qb6+ Ke7 25. a6 Qg6 26.
+a7 Bg3+ 27. Ke2 Bxh2 28. Rg1 Qg4 29. a8=Q Nxd4+ 30. Kf1 Nxf3 31. Qxc5+ Bd6
+32. Nxd5+ Kf7 33. Qc3 Nh2+ 34. Kf2 Be5 35. Qcc6 Bd4+ 36. Ke1 exd5 37. Ra4
+Re7+ 0-1
+

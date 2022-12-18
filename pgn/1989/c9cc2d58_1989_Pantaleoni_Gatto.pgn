@@ -1,0 +1,17 @@
+[Event "corr Porreca mem"]
+[Site "corr Porreca mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pantaleoni"]
+[Black "Gatto"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "c9cc2d58"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 h6 10. Ne2 Ke8 11. Ned4 g5 12. Nxf5 Bxf5 13. Nd4
+Bg6 14. f4 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Crispin, T."]
+[Black "Ilic"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "32deb81a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 b6 5. Bg2 Bb7 6. Ne2 c5 7. b3 Nc6 8. Bb2
+Be7 9. h3 Qc7 10. O-O O-O-O 11. a4 h5 12. Nc3 a6 13. exd5 exd5 14. Re1 Bd6
+15. Nf3 Rhe8 16. Rxe8 Rxe8 17. d4 h4 18. dxc5 Bxc5 19. gxh4 Qg3 20. Qf1 Ne4
+21. Nxe4 dxe4 22. Ne1 Qxh4 23. Kh1 Ne5 24. Bxe5 Rxe5 25. Rd1 Rg5 26. b4 Qh5
+27. Rd2 Bxb4 28. Qc4+ Bc5 29. a5 Rxg2 30. Nxg2 Qxh3+ 31. Kg1 e3 32. fxe3
+Kb8 33. Qf4+ Ka7 34. axb6+ Bxb6 35. Rd7 Qxg2# 0-1
+

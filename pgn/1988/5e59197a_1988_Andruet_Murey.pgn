@@ -1,0 +1,25 @@
+[Event "Royan"]
+[Site "Royan"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andruet, Gilles"]
+[Black "Murey, Jacob"]
+[Result "0-1"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[HashCode "5e59197a"]
+[Epoch "Queen"]
+[BlackID "2803585"]
+[BlackCountry "ISR"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 h6 7. Be3 e5 8. d5 Na6
+9. Bd3 Nc5 10. Bc2 a5 11. Qd2 Kh7 12. Nge2 Ncxe4 13. Nxe4 Nxe4 14. Bxe4 f5 15.
+Bd3 f4 16. Bxf4 exf4 17. Nxf4 Qg5 18. g3 Bf5 19. h4 Rae8+ 20. Kf1 Bxd3+ 21.
+Qxd3 Qf5 22. Qxf5 Rxf5 23. Ne6 Be5 24. Kg2 c6 25. Rad1 a4 26. Rd2 cxd5 27. cxd5
+Rc8 28. f4 Bh8 29. g4 Rf6 30. h5 Kg8 31. Kf3 g5 32. f5 Rf7 33. Rhh2 a3 34. b3
+Rc3+ 35. Ke4 b5 36. Rc2 b4 37. Rxc3 bxc3 38. Kd3 Rb7 39. Kc4 Rb8 40. b4 Rc8+
+41. Kb3 Kf7 42. Rc2 Ke7 43. Kxa3 Rc4 44. Kb3 Rxg4 45. a4 Rg1 46. b5 g4 47. Nf4
+Kd7 48. Ne2 Rd1 49. Rc1 Rxd5 50. Rg1 Rd2 51. Nc1 d5 52. a5 Rb2+ 53. Ka4 Rb1 54.
+b6 d4 55. Rxg4 Rxc1 56. Rg8 Be5 57. f6 Bxf6 58. b7 Ra1+ 59. Kb5 c2 0-1

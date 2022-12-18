@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Reeh, Oliver"]
+[Black "Schlosser, Philipp"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "ee3ed0c1"]
+[Epoch "Queen"]
+[WhiteID "4600142"]
+[WhiteCountry "GER"]
+[BlackID "4600169"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Nf3 Nbd7 8. a4
+e6 9. Bd3 b6 10. O-O Bb7 11. Qe1 Nc5 12. Kh1 Rc8 13. Bd2 Be7 14. b4 Nxd3 15.
+cxd3 O-O 16. Rc1 Qb8 17. Qg3 Rc7 18. Nd4 Rfc8 19. b5 Bf8 20. Na2 Rxc1 21. Bxc1
+d5 22. e5 Nd7 23. Bd2 axb5 24. axb5 Qa7 25. Nb4 Qa4 26. f5 Bxb4 27. fxe6 Bxd2
+28. Nf5 g6 29. exd7 Rf8 30. e6 fxe6 31. d8=Q Rxd8 32. Ne7+ Kg7 33. Qc7 Bf4 34.
+Qxd8 e5 35. Qd7 1-0

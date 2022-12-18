@@ -1,0 +1,21 @@
+[Event "England"]
+[Site "England"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mobbs, M."]
+[Black "De Coverly, Roger D"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "06c42ca6"]
+[Epoch "Queen"]
+[BlackID "405213"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. Be2 Qc7 8. O-O
+Nbd7 9. Qd2 b5 10. a3 Bb7 11. Nh2 a5 12. b4 e5 13. d5 cxd5 14. Nxb5 Qc6 15.
+exd5 Nxd5 16. Nf3 Nxe3 17. fxe3 axb4 18. axb4 d5 19. Ra5 Qb6 20. c4 Rxa5 21.
+bxa5 Qc5 22. Rb1 Bh6 23. Qa2 e4 24. Nfd4 Bxe3+ 25. Kh1 Ba8 26. Nb3 Qc8 27. Nd6
+Qc6 28. Qa3 Nc5 29. Nb5 Nd3 30. Bxd3 exd3 31. N3d4 Qxc4 32. Rb4 d2 33. Rxc4
+d1=Q+ 34. Kh2 Qg1+ 0-1

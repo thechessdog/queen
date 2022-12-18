@@ -1,0 +1,20 @@
+[Event "corr ch-CA"]
+[Site "corr ch-CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Julien"]
+[Black "Hansen, Bjarne"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "3280c973"]
+[Epoch "Queen"]
+[BlackID "1403176"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5 8. a3
+Bd6 9. cxd5 exd5 10. b4 Ne4 11. Qc2 Nxc3 12. Qxc3 Nd7 13. Qc2 Nf6 14. Bb2 Ne4
+15. Ne5 Qh4 16. f3 Nf6 17. b5 g6 18. a4 Nh5 19. f4 a5 20. Rac1 Rfe8 21. f5 f6
+22. Nf3 Qg4 23. fxg6 Bc8 24. gxh7+ Kg7 25. Ne5 Qh4 26. Qxc7+ Bxc7 27. Rxc7+ Kh6
+28. Nf7+ Kg7 29. Bc1 f5 30. Ne5+ Bd7 31. Rxd7+ Re7 32. Rxe7+ Qxe7 1-0

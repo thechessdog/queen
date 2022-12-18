@@ -1,0 +1,22 @@
+[Event "Pisticci"]
+[Site "Pisticci"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Vallifuoco, Giovann"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "84148ec9"]
+[Epoch "Queen"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Nc3 e6 7. d4 cxd4
+8. Qxd4 Be7 9. b3 O-O 10. Bb2 Qa5 11. Rfe1 Ne5 12. Nxe5 dxe5 13. Qa4 Qc5 14.
+Qb5 Rfd8 15. Qxc5 Bxc5 16. Nb5 a6 17. Nc3 Rac8 18. Re2 Bd4 19. Nd1 Bxb2 20.
+Nxb2 Nd7 21. a4 f6 22. Nd3 b5 23. axb5 axb5 24. h3 Nc5 25. Nxc5 Rxc5 26. Ra7
+Rd4 27. Kh2 Rd6 28. c4 bxc4 29. bxc4 Rxc4 30. Rb2 Rc8 31. Rbb7 g5 32. Rg7+ Kf8
+33. Rxh7 Kg8 34. Kg3 Rd2 35. f3 Ra2 36. Rhg7+ Kf8 37. Raf7+ Ke8 38. Kg4 Rxg2+
+39. Kh5 Rh2 40. Kg6 Rxh3 41. Rg8# 1-0

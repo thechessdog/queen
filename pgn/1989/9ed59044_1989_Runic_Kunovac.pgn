@@ -1,0 +1,23 @@
+[Event "Zlatibor"]
+[Site "Zlatibor"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Runic, Zoran"]
+[Black "Kunovac, Daniel"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "9ed59044"]
+[Epoch "Queen"]
+[WhiteID "14401410"]
+[BlackID "907332"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Nc3 Nge7 7. d3 h6 8. a4
+d6 9. Bc4 O-O 10. Nd2 Kh7 11. Nd5 Nxd5 12. Bxd5 Ne7 13. Nc4 f5 14. c3 f4 15. f3
+Rb8 16. a5 Ng8 17. b4 cxb4 18. cxb4 Nf6 19. Bb2 Nxd5 20. exd5 Qf6 21. d4 exd4
+22. Re4 Qg5 23. Bxd4 Bh3 24. Re2 Bxd4+ 25. Qxd4 Rfe8 26. Rd2 Rbd8 27. Qxa7 Re7
+28. Qf2 Rc8 29. Rc1 Bd7 30. h4 Qg3 31. Rdc2 Bb5 32. Re2 Qxf2+ 33. Kxf2 Rxe2+
+34. Kxe2 Rxc4 35. Rxc4 Bxc4+ 36. Kd2 Kg7 37. Kc3 Bb5 0-1

@@ -1,0 +1,16 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Haagen"]
+[Black "Christensen"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "46c3afb6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 c5 3. c3 Nc6 4. Bf4 Qb6 5. Qb3 Qxb3 6. axb3 cxd4 7. Nxd4
+Nxd4 8. cxd4 e6 9. Nc3 Bb4 10. Bd2 Bd7 11. Na4 Bxd2+ 12. Kxd2 Bxa4 13. bxa4
+Nf6 14. f3 Rc8 1/2-1/2
+

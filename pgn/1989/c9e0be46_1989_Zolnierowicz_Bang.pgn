@@ -1,0 +1,22 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zolnierowicz, Krzysztof"]
+[Black "Bang, Andreas"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "c9e0be46"]
+[Epoch "Queen"]
+[WhiteID "1100238"]
+[WhiteCountry "POL"]
+[BlackID "1400290"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Na6 9. Bf4 Qa5 10. Rd1 Nb4 11. Bc7 b6 12. Bc4 Bf5 13. Rd2 Nc2+ 14. Ke2
+Nxd4+ 15. Rxd4 Ne8 16. Bxb6 axb6 17. Rd2 Nd6 18. Bd3 Rfc8 19. Bxf5 gxf5 20. Rc2
+Bxc3 21. bxc3 Nb5 22. Kd3 Nxc3 23. Rxc3 Rxc3+ 24. Qxc3 Qxd5+ 25. Kc2 Qxa2+ 26.
+Kd1 Qb1+ 0-1

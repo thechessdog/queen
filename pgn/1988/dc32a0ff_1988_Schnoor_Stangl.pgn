@@ -1,0 +1,22 @@
+[Event "Bad Woerishofen op"]
+[Site "Bad Woerishofen"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Schnoor, Joachim"]
+[Black "Stangl, Markus"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "dc32a0ff"]
+[Epoch "Queen"]
+[WhiteID "24682195"]
+[WhiteCountry "GER"]
+[BlackID "4600274"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 O-O 10. O-O Qb6+ 11. Kh1 exf4 12. Bxf4 Qxb2 13. Nd5 Nxd5 14. Bxd5
+Qb6 15. e5 dxe5 16. Nxe5 Nxe5 17. Bxe5 Be6 18. Rb1 Qc5 19. Bxe6 fxe6 20. Qd4
+Rxf1+ 21. Rxf1 Qxd4 22. Bxd4 Rc8 23. c3 Rc4 24. Re1 Bd6 25. a5 e5 26. Bb6 Rxc3
+27. g3 Kf7 0-1

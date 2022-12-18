@@ -1,0 +1,23 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Barlov, Dragan"]
+[Black "Sitanggang, Salor"]
+[Result "1-0"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "fadec93d"]
+[Epoch "Queen"]
+[BlackID "7100051"]
+[BlackCountry "INA"]
+[WhiteID "900214"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Nc6 7. O-O e5 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 h6 11. Bd2 f5 12. b4 Nf6 13. f3 g5 14. c5 Ng6 15. Rc1
+Kh8 16. Nf2 Nf4 17. Re1 Nxe2+ 18. Qxe2 f4 19. g4 fxg3 20. hxg3 a6 21. Ncd1 Ng8
+22. Ne3 Bd7 23. g4 Ne7 24. Nf5 Bb5 25. Qd1 Ng6 26. c6 Nh4 27. Re3 Nxf5 28. gxf5
+bxc6 29. a4 cxd5 30. axb5 axb5 31. Rec3 Ra7 32. Qb3 d4 33. Rc6 h5 34. Kg2 Bf6
+35. Qe6 Kh7 36. Rh1 1-0

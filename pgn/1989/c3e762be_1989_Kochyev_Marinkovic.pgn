@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kochyev, Alexander"]
+[Black "Marinkovic, Ivan"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "c3e762be"]
+[Epoch "Queen"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. Bf4 Be6 10. e3 h6 11. h4 Nd5 12. Nxd5 Bxd5 13. Qc2 f5 14. Rfd1 e6
+15. Qc5 1/2-1/2

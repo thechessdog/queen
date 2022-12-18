@@ -1,0 +1,23 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Tolnai, Tibor"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "c6e34c57"]
+[Epoch "Queen"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+[BlackID "700126"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e6 7. d4 cxd4
+8. Qxd4 Be7 9. c4 O-O 10. Nc3 a6 11. b3 Rc8 12. Bb2 Qc7 13. Rac1 Rfd8 14. h3
+Qb8 15. Qd3 Ne5 16. Qe2 Nxf3+ 17. Qxf3 b5 18. cxb5 axb5 19. Qe2 b4 20. Nb5 Nxe4
+21. Qg4 Bf8 22. Nd4 Nc5 23. Re3 Qa8 24. Ra1 Qd5 25. Rd1 Qb7 26. h4 Ra8 27. Ra1
+h6 28. Nc2 Rdb8 29. Rg3 Qe4 30. Qd1 f5 31. Qd2 f4 32. Re1 fxg3 33. Rxe4 Nxe4
+34. Qd4 gxf2+ 35. Kf1 d5 36. Qe5 Rb7 37. Nd4 Rf7 38. Nf3 Rxa2 0-1

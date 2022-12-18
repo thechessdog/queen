@@ -1,0 +1,19 @@
+[Event "California"]
+[Site "California"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Powell, Charles"]
+[Black "Kichinski, Robert"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "7b880d69"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. c4 c5 6. dxc5 Qa5+ 7. Nc3 O-O 8. a3
+dxc4 9. Bxc4 Qxc5 10. Qe2 Nbd7 11. e4 Nb6 12. Bd3 e5 13. Rc1 Bd8 14. Nb5 Qe7
+15. Bd2 a5 16. Be3 Nbd7 17. O-O b6 18. Nh4 Nc5 19. Nf5 Bxf5 20. exf5 e4 21. Bc4
+Qe5 22. g4 Be7 23. g5 Nfd7 24. Qg4 Kh8 25. Bd4 Qb8 26. f4 exf3 27. Rce1 Bd6 28.
+Qh5 Be5 29. Bxf7 Bxh2+ 30. Qxh2 Qxh2+ 31. Kxh2 Rxf7 32. Nd6 Rff8 33. Re7 1-0

@@ -1,0 +1,16 @@
+[Event "Guernsey op"]
+[Site "Guernsey"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Harris, R."]
+[Black "Wilcox, R."]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "f537dd31"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O 8.
+O-O h5 9. a3 h4 10. b4 Bh3 11. Bb2 Bxg2 12. Kxg2 hxg3 13. fxg3 Qh3+ 14. Kf2 Nh6
+15. Rh1 Ng4+ 16. Ke1 Qg2 17. Rf1 Ne3 18. Qa4 Nxf1 19. Nxf1 d3 0-1

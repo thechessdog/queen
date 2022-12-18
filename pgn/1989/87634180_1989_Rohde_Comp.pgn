@@ -1,0 +1,21 @@
+[Event "Harvard Cup-1"]
+[Site "Boston rapid"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rohde, Michael"]
+[Black "Comp Chiptest"]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "87634180"]
+[Epoch "Queen"]
+[WhiteID "2000172"]
+[WhiteCountry "USA"]
+
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. d3 e5 5. a3 c5 6. g3 cxb4 7. Bg2 Nc6 8. O-O Bf5
+9. Nh4 Be6 10. Nd2 bxa3 11. Qa4 Bd7 12. Qb3 Qb6 13. Bxa3 Qxb3 14. Nxb3 Bxa3 15.
+Rxa3 g5 16. Nf3 Nge7 17. Nfd2 O-O-O 18. Ne4 Rhf8 19. Nbc5 Bf5 20. Rb1 b6 21.
+Na6 Bg4 22. c5 Bxe2 23. cxb6 axb6 24. Rxb6 Rd5 25. Nac5 Nd8 26. Ra8+ Kc7 27.
+Rbb8 Kc6 28. Na6 Bxd3 29. Nb4+ Kc7 30. Nxd3 Ra5 31. Rxa5 Kxb8 32. Ndc5 Nec6 33.
+Nd7+ 1-0

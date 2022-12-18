@@ -1,0 +1,21 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Poulenard, Raphael"]
+[Black "Pytel, Krzysztof"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "f526af65"]
+[Epoch "Queen"]
+[WhiteID "601136"]
+[BlackID "600199"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+c6 9. Qc2 Qe7 10. d5 c5 11. h3 Ne8 12. Bd3 Ndf6 13. Kh2 Nh5 14. Qd1 f5 15. exf5
+gxf5 16. Ng5 Nhf6 17. f3 Nc7 18. Nb5 Nxb5 19. cxb5 h6 20. Ne6 Bxe6 21. dxe6
+Qxe6 22. Qc2 Nd7 23. Be3 d5 24. g4 e4 25. gxf5 Qd6+ 0-1

@@ -1,0 +1,17 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Holst, Per"]
+[Black "Hansen, John"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "40549d20"]
+[Epoch "Queen"]
+[WhiteID "1405411"]
+[WhiteCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. d4 O-O 7. O-O Ne4 8. Bd2
+f5 9. d5 Bf6 10. Qc2 Nd6 11. dxe6 dxe6 12. Rad1 Qe7 13. b3 1/2-1/2

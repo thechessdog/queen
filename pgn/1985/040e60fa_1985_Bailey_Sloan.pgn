@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bailey"]
+[Black "Sloan"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "040e60fa"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Nxc3 6. bxc3 d4 7. Nf3 Nc6
+8. Be2 Be7 9. O-O O-O 10. Qe1 f6 11. exf6 Bxf6 12. c4 Re8 13. Nd2 Bh4 14.
+g3 Nb4 15. gxh4 Nxc2 16. Qg3 Rxe2 17. Qf3 Qe8 18. Rb1 Qe3+ 19. Kh1 h6 20.
+Qf7+ Kh7 21. Rg1 Rxh2+ 22. Kxh2 Qh3# 0-1
+

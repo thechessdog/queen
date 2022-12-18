@@ -1,0 +1,19 @@
+[Event "corr Nielsen mem"]
+[Site "corr Nielsen mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Ingerslev, Aage"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "0c95dd27"]
+[Epoch "Queen"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O b6 9. Ng5 Qd7 10. f4 Na5 11. e4 h6 12. e5 dxe5 13. Nxf7 Qxf7 14. fxe5 Bb7
+15. exf6 O-O-O 16. d5 gxf6 17. Bf4 exd5 18. Bf5+ Rd7 19. cxd5 Bxd5 20. Bg3 Be6
+21. Qf3 Rb7 22. Be4 1-0

@@ -1,0 +1,22 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reimer, Evi"]
+[Black "Sutter, Olivier"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "bf7539c7"]
+[Epoch "Queen"]
+[BlackID "1300474"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. h3 g5 13. Nf3 Nxf3+ 14. Bxf3 Nd7 15.
+g3 Ne5 16. Bg2 g4 17. hxg4 Nxg4 18. Bf3 Ne5 19. Kg2 Qf6 20. Be2 Bd7 21. Rh1 Ng6
+22. Rh5 Re5 23. Qh1 Rxh5 24. Qxh5 Qe5 25. Qh2 f5 26. Bf4 Nxf4+ 27. gxf4 Qe7 28.
+f3 Bxc3 29. bxc3 fxe4 30. fxe4 Qxe4+ 31. Kf2 Rf8 32. Qg3+ Kh8 33. Rg1 Qxf4+ 34.
+Qxf4 Rxf4+ 35. Ke3 Rxa4 36. Bh5 h6 37. Bf7 Bf5 38. Be6 Bxe6 39. dxe6 d5 40. e7
+Re4+ 0-1

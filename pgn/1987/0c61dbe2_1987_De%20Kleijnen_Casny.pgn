@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Kleijnen, H."]
+[Black "Casny, G."]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "0c61dbe2"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 e6 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Bg4 6. Bb5+ Nc6 7. Qe2+
+Qe7 8. Qxe7+ Bxe7 9. O-O f6 10. c4 O-O-O 11. Bxc6 bxc6 12. h3 Bh5 13. cxd5
+cxd5 14. b3 Bd6 15. Bb2 Kb7 16. Rac1 Ne7 17. dxc5 1-0
+

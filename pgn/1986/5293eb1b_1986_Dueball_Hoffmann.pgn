@@ -1,0 +1,25 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dueball, Juergen"]
+[Black "Hoffmann, Hans"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "5293eb1b"]
+[Epoch "Queen"]
+[WhiteID "4600185"]
+[WhiteCountry "GER"]
+[BlackID "4602536"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Bg2
+Nc6 9. Be3 Nde5 10. Nxc6 bxc6 11. f4 Nc4 12. Bc1 h6 13. b3 Nb6 14. h4 hxg5 15.
+hxg5 Rxh1+ 16. Bxh1 a5 17. a4 d5 18. Qd4 dxe4 19. Qxd8+ Kxd8 20. Nxe4 Nd5 21.
+Bd2 Kc7 22. Bf3 f5 23. gxf6 gxf6 24. c4 Nb4 25. O-O-O f5 26. Ng5 Ra6 27. Rh1
+Bd6 28. Nf7 c5 29. Rh7 Bd7 30. Ne5 Bxe5 31. fxe5 Ra7 32. Bxb4 cxb4 33. Kd2 Kb6
+34. Ke3 Rc7 35. Kd4 Bc6 36. c5+ Kb7 37. Bxc6+ Kxc6 38. Rh6 Re7 39. Kc4 Re8 40.
+Rf6 Re7 41. Rf8 Rg7 42. Rc8+ Kb7 43. Re8 Rg3 44. Rxe6 Rc3+ 45. Kb5 Rxb3 46. c6+
+Kc7 1-0

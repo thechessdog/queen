@@ -1,0 +1,17 @@
+[Event "LOTS"]
+[Site "LOTS"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ardaman"]
+[Black "Kogan"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "7c52da10"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. Bg5 h6 6. Bxf6 Qxf6 7. a3 Bxc3+
+8. Nxc3 Qd8 9. Qd2 dxe4 10. Nxe4 Nd7 11. O-O-O Nf6 12. Bb5+ c6 13. Bd3 Qxd4
+14. Qf4 1/2-1/2
+

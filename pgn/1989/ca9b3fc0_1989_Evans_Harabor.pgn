@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Evans, Jonathon"]
+[Black "Harabor, M."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "ca9b3fc0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. f3 Nbd7 4. e4 dxe4 5. Bc4 exf3 6. Nxf3 Nb6 7. Bb3
+Bf5 8. O-O e6 9. Bf4 Be7 10. Nh4 Bg4 11. Nf3 c5 12. dxc5 Bxc5+ 13. Kh1 O-O
+14. Qxd8 Raxd8 0-1
+

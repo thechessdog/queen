@@ -1,0 +1,18 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Drazan"]
+[Black "Jacek"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "138aa9c9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2
+O-O-O 8. Nc3 Qd7 9. Be3 Bxf3 10. Bxf3 Nxd4 11. O-O Nxf3+ 12. Qxf3 Kb8 13.
+Rfd1 Qe7 14. Nd5 Qe8 15. Nxc7 Kxc7 16. Rac1+ Kb8 17. Bf4+ Ka8 18. Rxd8+
+Qxd8 19. Rc7 Qxc7 20. Bxc7 Nf6 21. Qb3 1-0
+

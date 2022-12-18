@@ -1,0 +1,17 @@
+[Event "Taylor SE MI op"]
+[Site "Taylor SE MI op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Conley, S."]
+[Black "Kulbacki, James"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "32ff0e89"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Nxc3 7. Qg4 Qxe7 8.
+Qxg7 Qb4 9. Qxh8+ Kd7 10. a3 Qxb2 11. Rd1 Nxd1 12. Kxd1 Qb1+ 13. Ke2 Qxc2+ 14.
+Ke3 Qc1+ 15. Ke2 Nc6 16. Nf3 b6 0-1

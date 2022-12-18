@@ -1,0 +1,17 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Tietz, George"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "e7e61a2f"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. Qb3
+Qe7 9. e5 dxe5 10. Ba3 Qf6 11. cxd4 exd4 12. Nbd2 Nge7 13. Ne4 Qg6 14. Bxe7
+Nxe7 15. Neg5 O-O 16. Nxf7 Rxf7 17. Ne5 1-0

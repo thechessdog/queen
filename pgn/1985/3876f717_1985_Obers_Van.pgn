@@ -1,0 +1,17 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Obers"]
+[Black "Van der Vorsst"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "3876f717"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 d5
+8. e5 Bg4 9. a3 Ba5 10. b4 Bb6 11. Be3 O-O 12. Bd3 Nxe5 13. dxe5 d4 14.
+Bxh7+ Kxh7 15. Ng5+ Kg8 16. Qxg4 dxe3 17. Qh5 Qd2+ 0-1
+

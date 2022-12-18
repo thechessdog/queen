@@ -1,0 +1,18 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sulava, Nenad"]
+[Black "Nikolic, Boban"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "c8457d5e"]
+[Epoch "Queen"]
+[BlackID "905380"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 c5 6. Nf3 Nc6 7. O-O cxd4 8.
+Nxd4 d5 9. cxd5 Bxc3 10. Nxe6 Bxe6 11. dxc6 Be5 12. cxb7 Rb8 13. Qxd8 Rfxd8 14.
+Be3 Bd5 15. Rfd1 Rxb7 16. Bxd5 Nxd5 17. Rac1 a6 18. b3 Rbd7 0-1

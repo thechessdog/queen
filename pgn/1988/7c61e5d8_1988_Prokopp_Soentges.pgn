@@ -1,0 +1,23 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Prokopp, H."]
+[Black "Soentges, KH."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "7c61e5d8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bd3 Be6 12. Qh5 Bg7 13. O-O Nb8 14.
+Nb4 f4 15. c3 Nd7 16. h3 O-O 17. Rad1 Nf6 18. Qf3 Qe7 19. Rd2 Rfc8 20. Bb1
+a5 21. Nd5 Qb7 22. Qd3 Bxd5 23. exd5 Rc5 24. c4 bxc4 25. Nxc4 Rd8 26. b3 a4
+27. Rfd1 Rxd5 28. Qf5 Rxd2 29. Rxd2 Qc7 30. Rd1 axb3 31. axb3 h6 32. Bc2
+Rd7 33. Ra1 Qb7 34. b4 Rd8 35. Rb1 Qc7 36. Nd2 d5 37. b5 e4 38. Bd1 e3 39.
+b6 Qb8 40. fxe3 fxe3 41. Nf1 Re8 42. Be2 Ne4 43. b7 Nc3 44. Bh5 Rf8 45. Re1
+d4 46. Qf3 Qc7 47. Ng3 Be5 48. Nf5 Kh7 49. Kh1 Rb8 50. Nxh6 Kxh6 51. Bxf7
+Ne2 0-1
+

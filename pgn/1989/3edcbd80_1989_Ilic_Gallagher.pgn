@@ -1,0 +1,19 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "10"]
+[White "Ilic, Zoran"]
+[Black "Gallagher, Joseph G."]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "3edcbd80"]
+[Epoch "Queen"]
+[WhiteID "15001350"]
+[WhiteCountry "MKD"]
+[BlackID "1303422"]
+[BlackCountry "SUI"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+c6 9. b3 Re8 10. h3 Qe7 1/2-1/2

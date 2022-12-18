@@ -1,0 +1,27 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "1"]
+[White "Jakob, Simon"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "97ec42b7"]
+[Epoch "Queen"]
+[WhiteID "1301110"]
+[BlackID "15001350"]
+[WhiteCountry "SUI"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 e6 5. Nc2 b6 6. Nc3 a6 7. e4 d6 8. Be2
+Bb7 9. f3 Nbd7 10. O-O Be7 11. Be3 Qc7 12. Rc1 O-O 13. Qe1 Rac8 14. Qf2 Bd8 15.
+Nd4 Qb8 16. Nb3 Bc7 17. g3 Rfe8 18. Nd2 Qa8 19. Na4 Nc5 20. Nxc5 dxc5 21. Nb1
+Red8 22. Rfd1 h6 23. Nc3 Be5 24. Rxd8+ Rxd8 25. Rd1 Bc6 26. Rxd8+ Qxd8 27. Qe1
+g5 28. Qd2 Qxd2 29. Bxd2 Kg7 30. Nd1 g4 31. Bc3 gxf3 32. Bxf3 Bd4+ 33. Bxd4
+cxd4 34. Nf2 a5 35. Kg2 Nd7 36. Nd3 e5 37. g4 f6 38. b4 axb4 39. Nxb4 Ba4 40.
+Kf2 Nc5 41. Ke2 b5 42. cxb5 Bxb5+ 43. Kd2 Be8 44. Nd3 Nxd3 45. Kxd3 Bb5+ 46.
+Kc2 Bc4 47. a3 Kf7 48. Kd2 Ke7 49. Bd1 Kd6 50. Ba4 Be6 51. Bd1 Kc5 52. Kd3 Bc4+
+53. Kd2 Bf1 54. Bb3 Kb5 55. Bc2 Kc4 56. Ba4 Bg2 57. Bc6 Kb3 58. a4 Kb4 59. Kd3
+Bh3 60. Bd7 Bf1+ 61. Kd2 Bc4 0-1

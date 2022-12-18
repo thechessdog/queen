@@ -1,0 +1,17 @@
+[Event "Celle"]
+[Site "Celle"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zivkovic, V."]
+[Black "Astengo, Marcello"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "5bd78083"]
+[Epoch "Queen"]
+[BlackID "803928"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 O-O 5. e3 d6 6. h3 Re8 7. Bc4 Nc6 8. O-O
+Nd7 9. Bxf7+ Kh8 10. Bxe8 Qxe8 11. c3 1-0

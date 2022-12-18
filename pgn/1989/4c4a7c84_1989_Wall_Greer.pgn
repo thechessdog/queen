@@ -1,0 +1,19 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer, Ken"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[Variation "reversed Alekhine"]
+[HashCode "4c4a7c84"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. g3 e5 2. Nf3 e4 3. Nd4 c5 4. Nb3 d5 5. Bg2 f5 6. O-O Nf6 7. d3 Bd6 8. Nc3
+O-O 9. Nb5 Be5 10. Nxc5 Qb6 11. d4 Qxb5 12. dxe5 Qxc5 13. exf6 Rxf6 14. Be3 Qb5
+15. a4 Qc4 16. b3 Qc7 17. Qxd5+ Be6 18. Qb5 Nc6 19. Bf4 Qf7 20. Rad1 a6 21. Qb6
+h6 22. Rd2 g5 23. Bc7 Rc8 24. Bd8 Rg6 25. Rfd1 f4 26. Bxe4 fxg3 27. Bxg6 gxh2+
+28. Kh1 Qxg6 29. Qxb7 1-0

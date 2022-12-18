@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zelkind, Mike"]
+[Black "Broderson, B."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "af21de5c"]
+[Epoch "Queen"]
+[WhiteID "2006812"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3
+Nf5 9. Bxf5 exf5 10. Nxd5 Qd8 11. Nc3 Bb4 12. d5 Bxc3+ 13. bxc3 Nb8 14. Ba3 Bd7
+15. O-O g5 16. e6 1-0

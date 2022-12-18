@@ -1,0 +1,23 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chiptest"]
+[Black "Pohl"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "3c8110b3"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Bg4 7. f3 Bh5
+8. O-O Bg6 9. Re1 Nge7 10. a3 Ba5 11. Bxg6 hxg6 12. b4 Bb6 13. b5 Na5 14.
+Bg5 f6 15. Nf4 Kf7 16. Ne6 Qd7 17. Bf4 Rae8 18. Qd3 Nc4 19. Nc5 Qf5 20. Ne2
+Qxd3 21. cxd3 Nd6 22. Bxd6 cxd6 23. Nxb7 Nf5 24. g4 Rxe2 25. Rxe2 Bxd4+ 26.
+Kg2 Nh4+ 27. Kg3 Bxa1 28. Nxd6+ Kg8 29. Re8+ Kh7 30. Rxh8+ Kxh8 31. Kxh4
+Kg8 32. Nc8 Bd4 33. Ne7+ Kf7 34. Nxd5 g5+ 35. Kg3 Ke6 36. Nb4 Bc5 37. Nc2
+Kd5 38. Kg2 Bd6 39. h3 Kc5 40. a4 Kb6 41. Ne3 Be5 42. Nc4+ Kc5 43. Nxe5
+fxe5 44. Kf2 Kb4 45. Ke3 Kxa4 46. Kd2 Kxb5 47. Kc3 Kc5 48. Kb3 Kd4 49. Kc2
+a5 50. Kd2 a4 0-1
+

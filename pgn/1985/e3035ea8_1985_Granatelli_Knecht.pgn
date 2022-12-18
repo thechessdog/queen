@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Granatelli"]
+[Black "Knecht"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "e3035ea8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8.
+a4 Qa5 9. Bd2 Nbc6 10. Bb5 c4 11. O-O f6 12. Qe1 O-O-O 13. Bc1 fxe5 14.
+dxe5 Rdf8 15. Nd4 a6 16. Ba3 Rf7 17. Qe3 h5 18. Rfb1 Qc7 19. Bxa6 Nd8 20.
+a5 Bc6 21. Bd6 Qd7 22. Nb5 1-0
+

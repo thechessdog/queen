@@ -1,0 +1,18 @@
+[Event "corr DDR jub"]
+[Site "corr DDR jub"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schafer, M."]
+[Black "Timmerman, G."]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "82d3e238"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+b5 9. a3 bxc4 10. Bxc4 c5 11. b4 Nfd7 12. Qd2 a5 13. Ra2 Nb6 14. Bd3 axb4
+15. axb4 cxb4 16. Rxa8 bxc3 17. Qa2 Nxa8 18. Qxa8 Bh6 19. Bxh6 Qh4+ 20. Kf1
+Qxh6 21. Qxb8 c2 0-1
+

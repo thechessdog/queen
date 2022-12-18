@@ -1,0 +1,20 @@
+[Event "Hayward"]
+[Site "Hayward"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lawless, K."]
+[Black "Cortez, S."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "0768fe3d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2
+O-O-O 8. Be3 Bb4+ 9. Nc3 Nge7 10. O-O Qh5 11. h3 Bxh3 12. gxh3 Qxh3 13. Ng5
+Qh4 14. Kg2 Rxd4 15. Qc2 Rg4+ 16. Bxg4+ Qxg4+ 17. Kh2 Qh4+ 18. Nh3 Ne5 19.
+Qe4 Ng4+ 20. Kg2 f5 21. Qe6+ Kb8 22. Bg5 Qh5 23. Bxe7 Re8 24. Rad1 Bd6 25.
+Rxd6 cxd6 26. Qxd6+ Ka8 27. Nd5 Rc8 28. Nc7+ Kb8 29. Na6+ Ka8 30. Qb8+ Rxb8
+31. Nc7# 1-0
+

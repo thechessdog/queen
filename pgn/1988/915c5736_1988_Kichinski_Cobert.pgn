@@ -1,0 +1,27 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Cobert, P."]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "915c5736"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4 h5 6. Nh3 c6 7. Ng5 b5 8. Be3 Ng4
+9. Qd2 Nxe3 10. Qxe3 Qb6 11. Rd1 Na6 12. Qf4 f6 13. Nf3 Bh6 14. Qg3 Kf7 15. e5
+Bf5 16. exf6 exf6 17. O-O d5 18. Ne1 Rhe8 19. Bd3 Bxd3 20. Nxd3 Qxd4 21. Qd6
+Qb6 22. Rfe1 Rad8 23. Qg3 Qc7 24. Qf3 f5 25. g3 Qd6 26. Ne2 Nc5 27. Nxc5 Qxc5
+28. c3 Qe7 29. Nd4 Qf6 30. Kf1 Re4 31. Re2 Rde8 32. Rde1 Bd2 33. Rd1 Rxe2 34.
+Nxe2 Bh6 35. Nd4 Bf8 36. Qf4 Bd6 37. Qh6 Rh8 38. Qd2 Bc5 39. Qf4 Bxd4 40. Rxd4
+Re8 41. Qc7+ Re7 42. Qc8 Qe6 43. Qh8 Qf6 44. Qh6 Qg7 45. Qf4 Qe5 46. Qh6 a5 47.
+Qd2 Kg7 48. a3 a4 49. Qd1 Re6 50. Qd2 Rd6 51. Rb4 Kh7 52. Qd3 Rf6 53. Qd2 Kg7
+54. Rf4 Re6 55. Rd4 Kh7 56. Rb4 Qg7 57. Rd4 Qh6 58. f4 Qf8 59. Kf2 Qe7 60. Rd3
+Kg7 61. Kf1 Kf7 62. Kf2 Qc5+ 63. Rd4 Re8 64. Kf1 Qe7 65. Kf2 Qe6 66. Rd3 Qe4
+67. Rf3 Re6 68. Qd1 Ke7 69. Qd2 Kd6 70. Qd1 c5 71. Rd3 Kc6 72. Rf3 c4 73. Qd2
+Kc5 74. Qd1 d4 75. cxd4+ Qxd4+ 76. Qxd4+ Kxd4 77. Rc3 Re4 78. Rf3 Kc5 79. Rc3
+b4 80. axb4+ Kxb4 81. Kf3 Rd4 82. Ke2 Rd3 0-1

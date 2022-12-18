@@ -1,0 +1,20 @@
+[Event "Tampere ch"]
+[Site "Tampere ch"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Paldanius, Pekka"]
+[Black "Nisula, Timo"]
+[Result "1-0"]
+[ECO "E05"]
+[Opening "Catalan"]
+[Variation "open, classical line"]
+[HashCode "ea4ffa2f"]
+[Epoch "Queen"]
+[WhiteID "500356"]
+[WhiteCountry "FIN"]
+[BlackID "503568"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 dxc4 6. Na3 Nbd7 7. Nxc4 c5 8.
+O-O O-O 9. Bd2 Nb6 10. Ba5 Qd5 11. Nfe5 Qd8 12. Qb3 cxd4 13. Nxb6 axb6 14. Bxb6
+Qd6 15. Nc4 1-0

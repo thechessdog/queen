@@ -1,0 +1,19 @@
+[Event "corr SCO-POL"]
+[Site "corr SCO-POL"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kujawski, K."]
+[Black "Hind, A."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "cda8e13f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 g6 5. Nc3 Bg7 6. Bd2 d6 7. O-O-O Nf6
+8. f3 O-O 9. g4 d5 10. Qe1 d4 11. Nce2 Be6 12. a3 Rc8 13. Kb1 d3 14. Nc3
+dxc2+ 15. Kxc2 b5 16. Be3 Qa5 17. Bxb5 Ne5 18. Kb1 Rxc3 19. Qxc3 Qxb5 20.
+Qb4 Qa6 21. Qxe7 Qc4 22. Rd8 Nfd7 23. Bc1 Qd3+ 24. Ka1 Qb3 25. Kb1 Nc4 26.
+Rxd7 Bxd7 27. Qb4 Qd3+ 28. Ka1 Nxa3 0-1
+

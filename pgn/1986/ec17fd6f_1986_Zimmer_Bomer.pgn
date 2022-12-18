@@ -1,0 +1,15 @@
+[Event "corr BGD-WFT3"]
+[Site "corr BGD-WFT3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zimmer"]
+[Black "Bomer"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "ec17fd6f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 Bf5 5. Qe2 c6 6. O-O-O e6 7. f3 exf3
+8. Nxf3 Be7 9. Ne5 Bg4 10. Nf3 1-0
+

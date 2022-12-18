@@ -1,0 +1,21 @@
+[Event "Oberursel"]
+[Site "Oberursel"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Zimmermann, Frank"]
+[Black "Werner, Dimo"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1fd12c80"]
+[Epoch "Queen"]
+[BlackID "4601696"]
+[BlackCountry "GER"]
+[WhiteID "4607066"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bf5 11. Nge2 Bd3 12. d6 exd6 13. O-O Bc4 14. Qa3
+Qd7 15. Bf4 Rfd8 16. Rfd1 h6 17. h3 Ba6 18. Rac1 Rac8 19. Ng3 Nc4 20. Qb3 g5
+21. Bd2 Nxd2 22. Rxd2 Rc7 23. Qd1 d5 24. Rdc2 b6 1/2-1/2

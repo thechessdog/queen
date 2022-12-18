@@ -1,0 +1,23 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Passerotti, Pierluigi"]
+[Black "Bellia, Fabrizio"]
+[Result "1-0"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "d5e5121d"]
+[Epoch "Queen"]
+[WhiteID "800309"]
+[WhiteCountry "ITA"]
+[BlackID "800511"]
+[BlackCountry "ITA"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 e5 6. d4 O-O 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Nd3 Kh8 13. Be3 c6 14. h3 b5 15. Nb4
+bxc4 16. Bxc4 Bb7 17. dxc6 Nxc6 18. Nxc6 Bxc6 19. Qd3 fxe4 20. fxe4 Qd7 21. Rf2
+Qb7 22. Ba6 Qd7 23. Raf1 Ng8 24. Bc4 Rxf2 25. Rxf2 Rf8 26. b4 Rxf2 27. Bxf2 Nf6
+28. b5 Bb7 29. a4 h5 30. g5 Nh7 31. h4 Nf8 32. a5 Ne6 33. Qh3 Bc8 34. Qxe6 Qxe6
+35. Bxe6 Bxe6 36. Bxa7 Bc4 37. b6 Ba6 38. Nb5 d5 39. Nc7 Bc8 40. a6 1-0

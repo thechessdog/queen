@@ -1,0 +1,22 @@
+[Event "Gausdal Peer Gynt"]
+[Site "Gausdal Peer Gynt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fant, Goran"]
+[Black "Schmittdiel, Eckhard"]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[HashCode "d6e5c2db"]
+[Epoch "Queen"]
+[WhiteID "1703188"]
+[WhiteCountry "SWE"]
+[BlackID "4600096"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. g3 f5 5. Bg2 Nf6 6. d3 O-O 7. Rb1 a5 8. a3
+Nxd5 9. Bxd5+ Kh8 10. b4 axb4 11. axb4 e4 12. c5 c6 13. Bc4 b6 14. Be3 bxc5 15.
+bxc5 Na6 16. Qa4 Bb7 17. Qc2 Qa5+ 18. Bd2 Qc7 19. d4 d5 20. cxd6 Bxd6 21. Nh3
+c5 22. dxc5 e3 23. cxd6 exd2+ 24. Kd1 Qxd6 25. Rg1 Be4 26. Bd3 Nb4 27. Qxd2
+Nxd3 28. exd3 Bf3+ 29. Ke1 Rfe8+ 30. Kf1 Ra2 31. Ng5 Qd5 32. Qe3 Be2+ 33. Ke1
+Qa5+ 0-1

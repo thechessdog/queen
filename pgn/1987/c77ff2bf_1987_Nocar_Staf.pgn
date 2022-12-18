@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nocar, S."]
+[Black "Staf, G."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "c77ff2bf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d4 fxe4 5. Bxc6 dxc6 6. Nxe5 Qh4 7. O-O
+Bd6 8. f3 exf3 9. Nxf3 Qh5 10. Bg5 Ne7 11. Bxe7 Kxe7 12. Qd3 Be6 13. Nc3
+Rae8 14. Ne4 h6 15. c4 Kd8 16. Nxd6 cxd6 17. Rac1 Kc7 18. Qa3 c5 19. b4 Kb8
+20. bxc5 dxc5 21. d5 Bg4 22. Qxc5 Qg6 23. Qf2 Bxf3 24. Qxf3 Re4 25. c5 Qg4
+26. Qxg4 Rxg4 27. Rf7 Re8 28. Rb1 b6 29. cxb6 axb6 30. Rxb6+ Kc8 31. d6 1-0
+

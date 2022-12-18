@@ -1,0 +1,24 @@
+[Event "Jurmala"]
+[Site "Jurmala"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Toshkov, Tihomir"]
+[Black "Romanishin, Oleg M"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "d904388f"]
+[Epoch "Queen"]
+[WhiteID "2900122"]
+[WhiteCountry "FID"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 10. O-O f5 11. exf5 Bxf5 12. Nc4 Na6 13. Bf4 Nb4 14. Qd2 Qd7 15.
+h3 b5 16. Ne3 Bd3 17. Bg3 Bxe2 18. Qxe2 Rb8 19. a3 Na6 20. a4 Bxc3 21. bxc3
+Nac7 22. axb5 Nxb5 23. Qb2 Nf6 24. Rfb1 Qc7 25. Qc2 Rfe8 26. Qd3 c4 27. Nxc4
+Ne4 28. Rxb5 Rxb5 29. Re1 Nf6 30. Re6 Rxe6 31. dxe6 Rd5 32. Qf3 Qe7 33. Bh4 g5
+34. Ne3 Rc5 35. Qa8+ Qe8 36. Qf3 Qxe6 37. Bg3 Ne4 38. c4 a5 39. h4 a4 40. hxg5
+Rxg5 41. Nd5 Nxg3 42. fxg3 a3 0-1

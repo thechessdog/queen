@@ -1,0 +1,21 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fette, Martin"]
+[Black "Westerinen, Heikki M.J."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "198d6e64"]
+[Epoch "Queen"]
+[WhiteID "4600827"]
+[WhiteCountry "GER"]
+[BlackID "500020"]
+[BlackCountry "FIN"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 e6 5. f4 b6 6. Nf3 Be7 7. f5 c5 8. fxe6
+fxe6 9. Ng5 Bxg5 10. Qh5+ g6 11. Qxg5 Nc6 12. Qh6 Nxd4 13. Bd3 Nxe5 14. O-O Qd7
+15. Bg5 Nxd3 16. cxd3 Nf5 17. Qh3 O-O 18. g4 Nd6 19. Rxf8+ Kxf8 20. Rf1+ Kg8
+21. Qf3 Bb7 22. Qf6 Nf7 23. Bh4 Re8 0-1

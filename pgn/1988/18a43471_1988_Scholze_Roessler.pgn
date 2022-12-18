@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Scholze"]
+[Black "Roessler"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "18a43471"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6 14.
+h4 Na5 15. Rb1 Nf5 16. Rh3 O-O-O 17. h5 Rg4 18. h6 Rh8 19. h7 Qc5 20. Rb4
+Bc6 21. Na4 Qg1 22. Be3 Nxe3 23. Qxe3 Qxe3+ 24. Rxe3 Rxh7 25. Kf2 Nc4 26.
+Bxc4 dxc4 27. g3 Rh2+ 28. Ke1 b5 29. Nb6+ Kc7 30. Nxc4 bxc4 31. Rxc4 Kd7
+32. Rd3+ Bd5 33. Rc5 Rg8 34. Rcc3 Rb8 35. Rd1 Rbh8 36. Rd2 Rh1+ 37. Ke2 Rg1
+38. Re3 Rh3 39. c4 Rh2+ 40. Kd3 Bxc4+ 41. Kc3+ Rxd2 42. Kxd2 Ra1 43. Rc3
+Bb5 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kliesch, B."]
+[Black "Pankratov, VP."]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "50e54007"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 a6 12. h3 g5 13. Re1 Ne5 14. Nf3
+Nxf3+ 15. Bxf3 h6 16. Bd2 Nd7 17. Rb1 Ne5 18. Be2 Ng6 19. Bf1 Bd4 20. Ne2
+Rxe4 21. Nxd4 Rxd4 22. Qc2 Bf5 23. Qxf5 Rxd2 24. b4 Nh4 25. Qg4 Qf6 26. Qg3
+Rc8 27. bxc5 dxc5 28. Red1 Rxd1 29. Rxd1 Nf5 30. Qf3 Qe5 31. Bd3 Nd6 32.
+Qh5 Kg7 33. h4 c4 0-1
+

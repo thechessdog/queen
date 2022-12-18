@@ -1,0 +1,20 @@
+[Event "Speyer ch-RLPF"]
+[Site "Speyer ch-RLPF"]
+[Date "1986.01.01"]
+[Round "10"]
+[White "Osieka, Udo"]
+[Black "Feibert, Fred"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "44167d29"]
+[Epoch "Queen"]
+[WhiteID "4607155"]
+[WhiteCountry "GER"]
+[BlackID "4610750"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 Bg4 5. c4 d4 6. exd4 Nxd4 7. Bxd4 Bxf3 8.
+Qxf3 Qxd4 9. Qxb7 Rd8 10. Qc6+ Rd7 11. Qc8+ Rd8 12. Qc6+ Rd7 13. Qc8+ Rd8 14.
+Qc6+ Rd7 1/2-1/2

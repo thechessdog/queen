@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lebedev"]
+[Black "Neimanis"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "1eb1a60e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. O-O Nxe4 7. d4
+exd4 8. Re1 f5 9. Ng5 Be7 10. Nxe4 fxe4 11. Qh5+ g6 12. Qh6 Bf5 13. g4 Bxg4
+14. Qg7 Qd5 15. Nc3 dxc3 16. Qxh8+ Bf8 17. Qf6 Qf5 18. Qxf5 gxf5 19. bxc3
+Bd6 20. f4 O-O-O 0-1
+

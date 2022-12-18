@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hergert, V."]
+[Black "Holwell, J."]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[HashCode "9ab6cbc5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. d4 Qe7 5. O-O fxe4 6. Nxe5 Nxe5 7. dxe5
+Qxe5 8. Bxg8 Rxg8 9. Nc3 d5 10. Qxd5 Qxd5 11. Nxd5 Bd6 12. Nc3 Bf5 13. Nxe4
+O-O-O 14. Re1 Be5 0-1
+

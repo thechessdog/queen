@@ -1,0 +1,19 @@
+[Event "Byelorechensk"]
+[Site "Byelorechensk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schabanov"]
+[Black "Belikov, V."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "f8a8fbbb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 a6 6. Bxc6 Nxc6 7. Bb2 d5
+8. exd5 Qxd5 9. Re1 b6 10. Nc3 Qd7 11. Na4 Qc7 12. d4 cxd4 13. Nxd4 b5 14.
+Nc3 Be7 15. Qg4 Nxd4 16. Qxg7 Rf8 17. Qxd4 Bb7 18. Rad1 Rg8 19. Ne4 Rd8 20.
+Qa7 Rxg2+ 21. Kf1 Rxd1 22. Rxd1 Rxh2 23. Rd2 f5 24. Qd4 Rh1+ 25. Ke2 Bxe4
+26. c4 0-1
+

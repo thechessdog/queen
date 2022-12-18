@@ -1,0 +1,21 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Valvo, Michael J"]
+[Black "Silman, Jeremy D"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "ee6d8cbf"]
+[Epoch "Queen"]
+[WhiteID "2000954"]
+[WhiteCountry "USA"]
+[BlackID "2000814"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. d5 Nd4 11. Qd1 e5 12. dxe6 Qf6 13. Be3 O-O-O 14. Bg2
+Nc4 15. Rc1 Nxe3 16. fxe3 Qh4+ 17. Kf1 Nxe6 18. Nd5+ Kb8 19. f4 Bd6 20. Qf3 Rd7
+21. Ke2 Re8 22. Rc4 g5 23. Nf6 Rde7 24. Nxe8 Nxf4+ 25. Kf1 1-0

@@ -1,0 +1,16 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Suarez, AB."]
+[Black "Riemer, Wolfgang"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "71314fda"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Na3 Bg4 7. Bc4 Bxf3 8.
+gxf3 Qd7 9. Be3 cxd4 10. cxd4 e6 11. Nc2 Rc8 12. Qe2 Qc7 13. Bd3 Nb4 0-1

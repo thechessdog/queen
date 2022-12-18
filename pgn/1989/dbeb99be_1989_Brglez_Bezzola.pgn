@@ -1,0 +1,23 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brglez, Rado"]
+[Black "Bezzola"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "dbeb99be"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. Qd2 b6 11. e3 Ba6 12. a4 Bxc4 13. Bxc4 a6 14. O-O Nd7 15.
+Qe2 a5 16. Rad1 Ne5 17. Bb5 f5 18. Nb1 g5 19. Bxe5 Bxe5 20. Na3 Ra7 21. Bxe8
+Qxe8 22. Nc4 Raf7 23. Rd2 f4 24. Qh5 Qe7 25. Re1 Bd4 26. Qd1 fxe3 27. fxe3 Re8
+28. Ree2 Be5 29. Rf2 Rxf2 30. Rxf2 Rf8 31. Rxf8+ Kxf8 32. g3 Kg7 33. Qf3 Qe8
+34. b3 b5 35. axb5 Qxb5 36. Nxe5 dxe5 37. Qf5 Qxb3 38. Qxg5+ Kf7 39. Qxe5 a4
+40. d6 a3 41. Qe7+ Kg6 42. d7 a2 43. Qe4+ Kh6 44. Qf4+ Kg6 45. d8=Q a1=Q+ 46.
+Kg2 Qba2+ 47. Kh3 Qe6+ 48. g4 Qae5 49. Qg8+ Qxg8 50. Qxe5 Qc8 51. Kg3 c4 52. h4
+c3 53. Qe7 h5 54. gxh5+ Kh6 55. Qf6+ Kh7 56. Qg6+ Kh8 57. Qh6+ Kg8 58. Qg6+ Kh8
+1/2-1/2

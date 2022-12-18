@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Oirschot, C."]
+[Black "Vojna, A."]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "322d3a12"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4
+8. Nxa4 Ne4 9. f3 Bd7 10. fxe4 Bxa4 11. Bxb8 dxc4 12. Rc1 Rxb8 13. Rxc4 Bb5
+14. Rc2 Bc6 15. Nf3 Bxe4 16. Bb5+ Kf8 17. Rd2 Bf6 18. Kf2 Kg7 19. Rc1 Rhd8
+0-1
+

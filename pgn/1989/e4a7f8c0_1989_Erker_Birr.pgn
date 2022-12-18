@@ -1,0 +1,23 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1989.??.??"]
+[Round "10"]
+[White "Erker, Egon, Dr."]
+[Black "Birr, Beate"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "e4a7f8c0"]
+[Epoch "Queen"]
+[WhiteID "4606175"]
+[BlackID "4608909"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bc2 c4 8. d4
+cxd3 9. Qxd3 d6 10. a4 b4 11. Bb3 Qc7 12. cxb4 Bg4 13. Nc3 Rb8 14. Ng5 Ne5 15.
+Qg3 Qd7 16. h3 Be6 17. Nxe6 fxe6 18. b5 Nf6 19. Rd1 Nh5 20. Qh2 O-O 21. Be3 Rf3
+22. Ne2 Rxe3 23. fxe3 Qa7 24. Bxe6+ Kh8 25. Nd4 Bh6 26. Ra3 Rf8 27. Bg4 Nc4 28.
+b6 Qxb6 29. Rb3 Bxe3+ 30. Kh1 Qxd4 31. Bxh5 Qxd1+ 32. Bxd1 Rf1+ 33. Qg1 Rxg1+
+34. Kh2 Rxd1 35. Rc3 0-1

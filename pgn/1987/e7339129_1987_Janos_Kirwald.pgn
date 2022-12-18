@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Janos, J."]
+[Black "Kirwald, F."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[HashCode "e7339129"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Neg5 h6 7. Nxf7
+Kxf7 8. Ne5+ Kf6 9. Qg4 g5 10. h4 Kg7 11. hxg5 h5 12. Qf4 Be8 13. Bd2 Nc6
+14. Nxc6 Qd6 15. Ne5 Ne7 16. O-O-O Nd5 17. Qe4 c6 18. g4 h4 19. f4 1-0
+

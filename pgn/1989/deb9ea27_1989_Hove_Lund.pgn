@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hove, Esben Kjems"]
+[Black "Lund, Henning"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "deb9ea27"]
+[Epoch "Queen"]
+[WhiteID "1401505"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Ne4 4. Bh4 d5 5. e3 Bg7 6. Bd3 c5 7. c3 b6 8. Nfd2
+Nd6 9. O-O O-O 10. f4 Bf5 11. Nf3 Nd7 12. Ne5 Nf6 13. Be2 h5 14. Nd2 Rc8 15. h3
+Qc7 16. g4 hxg4 17. hxg4 Be4 18. Qe1 b5 19. a3 Nc4 20. Nexc4 bxc4 21. g5 Ne8
+22. Nxe4 dxe4 23. f5 cxd4 24. exd4 Nd6 25. Bg3 gxf5 26. Rxf5 Qb7 27. Bxd6 exd6
+28. Rb1 d5 29. Qg3 Rfd8 30. Bh5 Rc7 31. Rbf1 Rdd7 32. Qh2 Re7 33. g6 f6 34. Bg4
+Qc6 35. Re5 Bf8 36. Qh3 Rxe5 37. dxe5 Bg7 38. exf6 Bxf6 39. Be6+ 1-0

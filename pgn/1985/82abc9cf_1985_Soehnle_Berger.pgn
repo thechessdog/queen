@@ -1,0 +1,18 @@
+[Event "Badenweiler op"]
+[Site "Badenweiler op"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Soehnle, Juergen"]
+[Black "Berger, Johann Nepomuk"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "82abc9cf"]
+[Epoch "Queen"]
+[BlackCountry "AUT"]
+
+1. d4 e6 2. e4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Be2 f6 8. exf6 Nxf6
+9. Nbd2 Qc7 10. O-O Bd6 11. Re1 O-O 12. Nf1 Ne4 13. Be3 Ne7 14. Ng5 Nf6 15. Ng3
+h6 16. Nf3 Ng4 17. Qc1 Nxe3 18. fxe3 Bxg3 19. hxg3 Qxg3 20. Qd2 Ng6 21. Bf1
+Rxf3 0-1

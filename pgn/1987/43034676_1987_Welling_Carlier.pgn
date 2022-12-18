@@ -1,0 +1,19 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Welling, Gerard"]
+[Black "Carlier, Bruno"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "43034676"]
+[Epoch "Queen"]
+[WhiteID "1000446"]
+[WhiteCountry "NED"]
+[BlackID "1000314"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 g6 5. Qd3 Bg7 6. O-O-O O-O 7. e4 dxe4 8.
+Nxe4 c5 9. Nxf6+ Nxf6 10. dxc5 Qa5 11. Qb5 Qxa2 12. Bc4 Bd7 13. Bxa2 Bxb5 14.
+Rhe1 e6 15. Bf4 Bc6 16. Bd6 Rfe8 17. Rd3 Ne4 18. Re2 b6 0-1

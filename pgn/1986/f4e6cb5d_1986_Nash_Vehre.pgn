@@ -1,0 +1,18 @@
+[Event "Findlay,OH"]
+[Site "Findlay,OH"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nash, Bob"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "f4e6cb5d"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 e5 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd2 O-O
+8. Bd3 Re8 9. f3 d5 10. Qe2 Bxc3 11. Bxc3 dxe4 12. Bxe4 Nd5 13. Rd1 Qe7 14. O-O
+Nxc3 15. bxc3 f5 16. Rfe1 Qc5+ 17. Kh1 fxe4 18. Rd3 Ba6 19. c4 exd3 20. Qxe8+
+Rxe8 0-1

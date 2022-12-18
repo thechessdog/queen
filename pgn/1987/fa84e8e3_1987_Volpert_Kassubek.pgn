@@ -1,0 +1,16 @@
+[Event "Unterfranken-ch"]
+[Site "Unterfranken"]
+[Date "1987.01.01"]
+[Round "8"]
+[White "Volpert, Gilbert"]
+[Black "Kassubek, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "fa84e8e3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 e5 6. dxe5 Qxe5+ 7. Be2 Nf6
+8. Nf3 Bb4+ 9. Nbd2 Qe7 10. O-O O-O 11. a3 Ba5 12. Nc4 Bc7 13. Ne3 Nc6 14. Bd2
+Re8 15. Bc3 Bb6 1/2-1/2

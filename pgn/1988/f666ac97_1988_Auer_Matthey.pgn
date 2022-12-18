@@ -1,0 +1,20 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Auer"]
+[Black "Matthey"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "exchange variation"]
+[HashCode "f666ac97"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Nf3 d5 7. c5 N6d7 8.
+Nc3 c6 9. Be2 b6 10. cxb6 axb6 11. O-O Bd6 12. Re1 O-O 13. Bd3 f5 14. Bg5
+Nf6 15. Rc1 h6 16. Bxf6 Qxf6 17. Qb3 Ra7 18. Re2 f4 19. Ne4 Qd8 20. Ne5
+Bxe5 21. dxe5 Kh8 22. Nd6 f3 23. Rec2 Qg5 24. g3 Ba6 25. Bxa6 Rxa6 26. e6
+Qf6 27. Re1 Ra7 28. Rc3 Qe7 29. Rxf3 Qxd6 30. e7 Re8 31. Re6 Qxe6 32. Rf8+
+Qg8 0-1
+

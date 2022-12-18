@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Minev, Nikolay Nikolaev"]
+[Black "Akamine, Nathan"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, Saemisch variation"]
+[HashCode "9d709872"]
+[Epoch "Queen"]
+[WhiteCountry "BGR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Be7 8.
+Bd3 Nf8 9. h3 Ne6 10. Be5 O-O 11. Qc2 g6 12. O-O-O Ng7 13. g4 b5 14. Rdg1 Nd7
+15. h4 a5 16. h5 b4 17. Na4 Ba6 18. hxg6 fxg6 19. Bxg6 hxg6 20. Qxg6 Bf6 21.
+Ng5 Bd3 22. Qxd3 1-0

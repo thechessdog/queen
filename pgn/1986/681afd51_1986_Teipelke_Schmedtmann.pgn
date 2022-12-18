@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Teipelke, H."]
+[Black "Schmedtmann, R."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "681afd51"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. cxd5 exd5 8.
+a3 Bxc3+ 9. bxc3 cxd4 10. cxd4 O-O 11. O-O Re8 12. Ng3 Bd7 13. Rb1 b6 14.
+Bb2 Rc8 15. Qe2 Qe7 16. Rbe1 Na5 17. f3 Nc4 18. Bc1 Nxa3 19. e4 Qb4 20. Qf2
+dxe4 21. fxe4 Qb3 22. Bxa3 Qxd3 23. e5 Qxa3 24. Re3 Qe7 0-1
+

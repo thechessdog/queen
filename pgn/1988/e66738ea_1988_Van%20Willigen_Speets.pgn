@@ -1,0 +1,22 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Willigen, J."]
+[Black "Speets, CJ."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "e66738ea"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Nf6 9. cxd5 Nxd5 10. Nc3 Ncb4 11. Re1 Be6 12. Be4 Nxc3 13. bxc3 Nd5
+14. Qc2 c6 15. Bxh7 Qd6 16. Rb1 b6 17. Bd2 g6 18. Bxg6 fxg6 19. Qxg6+ Kd7
+20. c4 Rag8 21. Qe4 Bf6 22. cxd5 Qxd5 23. Rb4 Rg4 24. Qxe6+ Qxe6 25. Rxe6
+Kxe6 26. d5+ Kf5 27. Rxg4 Kxg4 28. h3+ Kf5 29. dxc6 Rd8 30. g4+ Ke4 31. Kg2
+Rc8 32. h4 b5 33. Kg3 Rxc6 34. g5 Bc3 35. Kg4 b4 36. h5 Kd3 37. Bxc3 bxc3
+38. g6 Rc4+ 39. Kg3 c2 40. Ne1+ Ke4 41. Nxc2 Rc5 42. f3+ Kd3 43. Ne1+ Ke2
+44. Kg4 1-0
+

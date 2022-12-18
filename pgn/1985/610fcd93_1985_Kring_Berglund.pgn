@@ -1,0 +1,16 @@
+[Event "corr SSKK"]
+[Site "corr SSKK"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kring, E."]
+[Black "Berglund, P."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "610fcd93"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Nc6 5. Bxg8 Rxg8 6. Qh5+ Kf8 7. Ne2 d5
+8. f4 Be6 9. O-O Qe7 10. c3 Bd6 11. d3 dxe4 12. dxe4 Bc4 13. Nd2 Bxe2 14.
+Qxe2 exf4 15. Nf3 Re8 16. Rae1 Bc5+ 17. Nd4 Qe5 0-1
+

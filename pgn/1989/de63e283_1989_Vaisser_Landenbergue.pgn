@@ -1,0 +1,21 @@
+[Event "Biel open"]
+[Site "Biel open"]
+[Date "1989.07.01"]
+[Round "8"]
+[White "Vaisser, Anatoly"]
+[Black "Landenbergue, Claude"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "de63e283"]
+[Epoch "Queen"]
+[BlackID "1300130"]
+[BlackCountry "SUI"]
+[WhiteID "603252"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. Ne5
+Nfd7 9. Nf3 c6 10. O-O Ba6 11. Bxa6 Nxa6 12. Qa4 Qc8 13. Bd2 Bd6 14. Rac1 Qb7
+15. e4 b5 16. Qb3 dxe4 17. Nxe4 Be7 18. Bg5 Bxg5 19. Nfxg5 Nb6 20. Nxh7 Rfd8
+21. Nhg5 Qd7 22. Rxc6 Qd5 23. Qf3 Rac8 24. Rf6 Qxa2 25. Rxf7 Rf8 26. b3 1-0

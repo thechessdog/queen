@@ -1,0 +1,16 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Regan, N."]
+[Black "Jackson, R."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "57818c35"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 e6 3. f4 d5 4. Bb5+ Bd7 5. exd5 exd5 6. Qe2+ Be7 7. Nxd5
+Bxb5 8. Qxb5+ Nc6 9. Qxb7 Na5 10. Qxa8 Qxa8 11. Nc7+ 1-0
+

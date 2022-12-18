@@ -1,0 +1,21 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "5"]
+[White "Blauert, Joerg"]
+[Black "Del Rio, Roland"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "250e8c8a"]
+[Epoch "Queen"]
+[WhiteID "4600819"]
+[WhiteCountry "GER"]
+[BlackID "4606442"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O Be6 10. Na3 Rc8 11. Nb5 Qd7 12. Bxe6 Qxe6 13. Nbxd4 Nxd4 14. Nxd4
+Qc4 15. Be3 g6 16. b3 Qa6 17. Qg4 Bg7 18. Nf5 Bxc3 19. Nxe7 Kxe7 20. Rfe1 Kf8
+21. Bh6+ Bg7 22. Qd4 Rg8 23. Qd6# 1-0

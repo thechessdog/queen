@@ -1,0 +1,17 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Skrobek, Ryszard"]
+[Black "Chochulski, A."]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f246f146"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ngf3 Nc6 7. Bd3 cxd4 8. Nb3
+Qb6 9. O-O Nb4 10. Kh1 Nxd3 11. cxd3 Nb8 12. Nfxd4 a5 13. a4 Bd7 14. Be3 Nc6
+15. f5 Nxd4 16. Nxd4 exf5 17. e6 fxe6 18. Nxf5 Qa6 19. Nxg7+ Bxg7 20. Qh5+ Ke7
+21. Qg5+ Kd6 22. Qxg7 1-0

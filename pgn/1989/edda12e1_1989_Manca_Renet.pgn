@@ -1,0 +1,23 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Manca, Federico"]
+[Black "Renet, Olivier"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "edda12e1"]
+[Epoch "Queen"]
+[WhiteID "800171"]
+[WhiteCountry "ITA"]
+[BlackID "600040"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bb5 g6 5. O-O Bg7 6. d3 Nge7 7. Be3 d6 8. d4
+exd4 9. cxd4 O-O 10. Nc3 Qb6 11. dxc5 dxc5 12. Qd6 Bxc3 13. bxc3 Be6 14. Bxc6
+Nxc6 15. Rfb1 Qd8 16. Qxc5 Qd3 17. Ng5 Bxa2 18. Rxb7 Rfc8 19. h4 Bc4 20. h5 a5
+21. Nxh7 Kxh7 22. hxg6+ Kxg6 23. Qg5+ Kh7 24. Qh5+ Kg8 25. Qg4+ Kh7 26. g3 Qd6
+27. Kg2 Qg6 28. Rh1+ Kg7 29. Bh6+ Kf6 30. Qf4+ Ke6 31. Bg5 Rh8 32. Qg4+ Ke5 33.
+f4+ Kxe4 34. Qf3+ 1-0

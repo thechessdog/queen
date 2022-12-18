@@ -1,0 +1,19 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Seaholm, R."]
+[Black "Coffey, A."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "2b7f4e39"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 b6 3. d5 d6 4. Nf3 g6 5. Bf4 Bg7 6. e5 dxe5 7. Bxe5 Nf6 8.
+c4 O-O 9. Nbd2 b5 10. b3 bxc4 11. bxc4 e6 12. dxe6 Bxe6 13. Be2 Nbd7 14.
+Bc3 Nb6 15. O-O h6 16. Rb1 Qc8 17. Qc1 Qa6 18. Rb5 Nfd7 19. Bxg7 Kxg7 20.
+Qc3+ Kh7 21. Bd3 Qc8 22. Ne4 Qc7 23. Rd1 a6 24. Rxc5 Qf4 25. Ng3 Nxc5 26.
+Nh5 Nxd3 27. Qg7# 1-0
+

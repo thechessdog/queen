@@ -1,0 +1,17 @@
+[Event "Primorsko op"]
+[Site "Primorsko"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Skacelova Zahorovska, Libuse"]
+[Black "Krishan, L."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7f4f5940"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. Bxc3 e4 10. Ne5 Nxe5 11. dxe5 Ne7 12. Qe2 O-O 13. Rd1 Qc6
+14. Rd6 Qa4 15. Rd4 Qxa2 16. Qxe4 Nc6 17. Bc4 Bf5 18. Bxa2 1-0
+

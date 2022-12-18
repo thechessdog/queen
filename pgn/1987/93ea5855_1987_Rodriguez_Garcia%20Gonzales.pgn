@@ -1,0 +1,19 @@
+[Event "Camaguey-A"]
+[Site "Camaguey"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "93ea5855"]
+[Epoch "Queen"]
+[WhiteID "3500039"]
+[WhiteCountry "ESP"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Be2 Bd6 7. O-O O-O 8.
+Nbd2 Bf5 9. Nxe4 Bxe4 10. Bg5 Qd7 11. Qd2 Nc6 12. c3 h6 13. Bf4 Rfe8 14. Bxd6
+Qxd6 1/2-1/2

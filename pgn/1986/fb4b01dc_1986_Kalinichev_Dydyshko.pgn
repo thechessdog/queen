@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kalinitschew, Sergey"]
+[Black "Dydyshko, Viacheslav"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "fb4b01dc"]
+[Epoch "Queen"]
+[WhiteID "4637321"]
+[BlackID "13500031"]
+[WhiteCountry "GER"]
+[BlackCountry "BLR"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 Nh5 12. g3 a6 13. Re1 f5 14. Bf3 Nf6 15. Bb2
+Qc7 16. Qe2 Re8 17. Rad1 Bb7 18. Bg2 Rad8 19. Nb3 Bc8 20. Nd2 Bb7 21. Rc1 Qb8
+22. Rc2 d5 23. exd5 e4 24. a3 cxd5 25. cxd5 Nexd5 26. Nxd5 Nxd5 27. Bxg7 Kxg7
+28. Rec1 Re7 29. Nf1 f4 30. Qe1 Qe5 31. Rc5 f3 32. Bh1 Qf6 33. Rd1 Nc3 34. Rxc3
+Rxd1 35. Qe3 Red7 0-1

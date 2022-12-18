@@ -1,0 +1,17 @@
+[Event "corr ICCF EU-M"]
+[Site "corr ICCF EU-M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Diener"]
+[Black "Neckar, Lubomir"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a69e79d6"]
+[Epoch "Queen"]
+[BlackID "300705"]
+[BlackCountry "CZE"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 O-O 5. a3 Ba5 6. Bb2 d5 7. c4 c5 8. cxd5
+Nxd5 9. Qc2 Re8 10. Qxc5 Nc6 11. Nf3 Bg4 12. Be2 Rc8 13. Qb5 Nf4 14. O-O a6 15.
+Qc4 Nd4 16. Qa4 Nfxe2+ 17. Kh1 b5 18. Qd1 Nxf3 19. h3 Qd6 20. g3 Nxg3+ 0-1

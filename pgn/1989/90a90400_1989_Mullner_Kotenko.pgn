@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mullner, I."]
+[Black "Kotenko, G."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "90a90400"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+a4 Be7 9. Bc4 Qa5 10. Bd2 exf4 11. Qe2 O-O 12. Nd5 Qd8 13. Bxf4 Nxd5 14.
+Bxd5 Nf6 15. O-O Qb6+ 16. Be3 Qxb2 17. Qd2 Nxd5 18. exd5 Bf6 19. Nd4 Qb6
+20. Ne6 Qb2 21. Nxf8 Kxf8 22. Rab1 Qa3 23. Rxf6 gxf6 24. Bd4 1-0
+

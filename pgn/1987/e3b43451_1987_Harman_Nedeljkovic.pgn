@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Harman, C."]
+[Black "Nedeljkovic, A."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "e3b43451"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4
+8. exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O b6 12. Qd3 Bb7 13. Rad1 h6 14.
+Bc1 Ne7 15. Qh3 Qc8 16. Ba2 Qc6 17. Rfe1 Rfd8 18. Rd3 Ba6 19. Rg3 Rxd4 20.
+Rxg7+ Kxg7 21. Qxh6+ Kg8 22. Qxf6 Nf5 23. Rxe6 Qd7 24. h4 Bd3 25. Qg5+ Kh8
+26. Qh5+ Kg8 27. Rg6+ Ng7 28. Rxg7+ Kxg7 29. Bh6+ Kh8 30. Bg5+ 1-0
+

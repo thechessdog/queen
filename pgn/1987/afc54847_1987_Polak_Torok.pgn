@@ -1,0 +1,18 @@
+[Event "Lang mem-A 7th"]
+[Site "Brno"]
+[Date "1987.07.21"]
+[Round "4"]
+[White "Polak, Tomas"]
+[Black "Torok, Francisco"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "afc54847"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qh5
+8. d5 Bxf3 9. gxf3 O-O-O 10. Be2 e6 11. Bf4 Bb4 12. Rc1 Qxd5 13. Qa4 Qd4
+14. O-O Bxc3 15. Qa3 Qxf4 16. Rxc3 Kb8 17. Rfc1 Qb4 18. Qxb4 Nxb4 19. Rc7
+Nh6 0-1
+

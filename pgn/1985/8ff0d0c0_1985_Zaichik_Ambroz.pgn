@@ -1,0 +1,20 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zaichik, Gennadi"]
+[Black "Ambroz, Jan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "8ff0d0c0"]
+[Epoch "Queen"]
+[WhiteID "13600109"]
+[WhiteCountry "USA"]
+[BlackID "300209"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8. O-O
+O-O 9. cxd5 exd5 10. Nc3 Bb7 11. Ne5 Na6 12. Bg5 c5 13. e3 Nc7 14. Rc1 Rc8 15.
+dxc5 bxc5 16. Re1 Ba8 17. Nd3 Na6 18. Bxf6 1/2-1/2

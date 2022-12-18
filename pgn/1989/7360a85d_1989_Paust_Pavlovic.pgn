@@ -1,0 +1,19 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Paust, Wolf Dieter"]
+[Black "Pavlovic, Milos"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "7360a85d"]
+[Epoch "Queen"]
+[BlackID "900389"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Qf3 Bd6 13. Rxd5 Re8 14. Qxf7+
+Kh8 15. Kf1 cxd5 16. d3 Bg4 17. Be3 Qh4 18. Qxd5 Qxh2 19. f3 Qh1+ 20. Kf2 Bh2
+21. Nd2 Qxa1 22. Nf1 Qxb2+ 23. Bd2 Bf4 0-1

@@ -1,0 +1,18 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gurgenidze, Bukhuti"]
+[Black "Azmaiparashvili, Zurab"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[HashCode "407dfead"]
+[Epoch "Queen"]
+[BlackID "13601326"]
+[BlackCountry "GEO"]
+[WhiteCountry "GEO"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Qd2 O-O 6. Bh6 Bxh6 7. Qxh6 c5 8.
+O-O-O Ng4 9. Qh4 e5 10. Qxd8 Rxd8 11. dxe5 Be6 12. Ne4 Nd7 0-1

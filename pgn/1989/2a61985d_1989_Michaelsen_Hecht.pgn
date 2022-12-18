@@ -1,0 +1,19 @@
+[Event "Bundesliga 8889"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Michaelsen, Nils"]
+[Black "Hecht, Hans-Joachim"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "2a61985d"]
+[Epoch "Queen"]
+[WhiteID "4603028"]
+[BlackID "4600320"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 c5 5. a3 Bxd2+ 6. Bxd2 cxd4 7. Nxd4 d5
+8. cxd5 Qxd5 9. e3 Bd7 10. Be2 e5 11. Bf3 Ne4 12. Qb3 Qxb3 13. Nxb3 Nxd2 14.
+Kxd2 Bc6 15. Rac1 1/2-1/2

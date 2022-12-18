@@ -1,0 +1,22 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Lee, M."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence, Steiner variation"]
+[HashCode "e4b78ec0"]
+[Epoch "Queen"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+
+1. e4 e6 2. c4 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 e5 6. Nc3 Bc5 7. f3 c6 8. g4
+Na6 9. Nge2 Be6 10. a3 Bxc4 11. Ng3 Bb3+ 12. Ke1 Nc7 13. Bg5 f6 14. Bd2 Ne7 15.
+Rc1 Bd4 16. Nf5 Nxf5 17. gxf5 O-O-O 18. h4 Rd7 19. Rh2 Rhd8 20. h5 h6 21. Bh3
+Kb8 22. f4 exf4 23. Bxf4 Re8 24. Kf1 Be5 25. Bxe5 Rxe5 26. Rg2 Rd3 27. Bg4 Ne8
+28. Be2 Rd4 29. Kg1 Nd6 30. Rxg7 Nxe4 31. Nxe4 Rexe4 32. Bf3 Rf4 33. Rc3 Ba2
+34. Rg6 Rxf5 35. Rxh6 Rg5+ 36. Kf2 Rf4 37. Ke3 Rff5 38. Bd1 Bd5 39. Rh8+ Kc7
+40. h6 Rg3+ 41. Kd2 Rf2+ 42. Ke1 Rxc3 43. Kxf2 Rh3 44. Bg4 Rh1 45. h7 Be4 46.
+Rc8+ 1-0

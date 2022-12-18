@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rizzo"]
+[Black "Crispino"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "c5234ffe"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3
+cxd5 9. cxd5 Ne8 10. Qd2 f5 11. O-O-O f4 12. Bf2 a6 13. Kb1 b5 14. Nge2 Nd7
+15. Ka1 Nc5 16. Bc2 Bd7 17. Nc1 b4 18. Nb1 Qb6 19. Nd3 Rb8 20. Rc1 Qa5 21.
+Na3 Nxd3 22. Bxd3 Qd8 23. Nc4 a5 0-1
+

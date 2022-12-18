@@ -1,0 +1,19 @@
+[Event "London op"]
+[Site "London"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Potts, Alan W"]
+[Black "Bell, Stephen D"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "4d3b14b1"]
+[Epoch "Queen"]
+[WhiteID "401250"]
+[WhiteCountry "ENG"]
+[BlackID "400416"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 c5 5. g3 O-O 6. Bg2 cxd4 7. Nxd4 d5 8.
+cxd5 Nxd5 9. Qb3 Qb6 10. Nb5 Qxb5 0-1

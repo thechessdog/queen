@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Gruenberg, Rainer"]
+[Black "Dankert, Peter"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "f29491cc"]
+[Epoch "Queen"]
+[WhiteID "4601262"]
+[WhiteCountry "GER"]
+[BlackID "4605357"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. b4 Bb6 11. Na4 Re8 12. Nxb6 axb6 13. d6 Nc6 14. Bb2 Ne5
+15. Qc2 b5 16. O-O-O Nc4 17. Ng3 1/2-1/2

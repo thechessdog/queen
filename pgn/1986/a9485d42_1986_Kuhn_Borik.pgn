@@ -1,0 +1,29 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuhn, Daniel"]
+[Black "Borik, Otto"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "a9485d42"]
+[Epoch "Queen"]
+[BlackID "4600762"]
+[BlackCountry "GER"]
+[WhiteID "1270950"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 g6 6. c4 Bg7 7. Nc3 Ne7 8. O-O
+e5 9. Be3 d6 10. Nd2 O-O 11. f4 exf4 12. Bxf4 Be6 13. Nf3 h6 14. Qe2 Qd7 15.
+Rae1 Rae8 16. Kh1 g5 17. Bg3 Ng6 18. Qd2 Rd8 19. b3 Rfe8 20. Na4 Qe7 21. e5 d5
+22. Qa5 g4 23. Nd2 h5 24. Qxc5 Qg5 25. Qe3 Qxe3 26. Rxe3 Bh6 27. Re2 h4 28. Be1
+Nf4 29. Rxf4 Bxf4 30. Bxh4 Rb8 31. Nc5 Bxd2 32. Rxd2 Kg7 33. Kg1 Kg6 34. Kf2
+Rh8 35. Kg3 Rh5 36. Rf2 Rxe5 37. Nxe6 Rxe6 38. Kxg4 dxc4 39. dxc4 Re4+ 40. Rf4
+f5+ 41. Kf3 Rxf4+ 42. Kxf4 Re8 43. Kf3 a5 44. h3 a4 45. bxa4 Re4 46. Bf2 Rxc4
+47. a5 Ra4 48. Bb6 Rxa2 49. g4 Ra4 50. gxf5+ Kxf5 51. Ke3 Ke5 52. Kf3 Kd5 53.
+Bd8 c5 54. h4 c4 55. h5 c3 56. h6 c2 57. Bg5 Rxa5 58. Bc1 Ke6 59. Ke2 Kf7 60.
+Kd3 Rc5 61. Kd4 Rc7 62. Kd3 Kg6 63. Kd4 Kh7 64. Kd3 Rc6 65. Kd4 Rxh6 66. Kc3
+Rc6+ 67. Kb2 Kg6 68. Bd2 Kf5 69. Kc1 Ke4 70. Bg5 Kd3 71. Bd2 Rb6 72. Bb4 Rb7
+0-1

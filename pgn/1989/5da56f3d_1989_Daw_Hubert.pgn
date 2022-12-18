@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Daw"]
+[Black "Hubert"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit, Zukertort defence"]
+[HashCode "5da56f3d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Bg4+ 7. Nf3
+Nce7 8. Bxf4 O-O-O 9. Ke3 Qh5 10. Bc4 Nf5+ 11. Kf2 Bd6 12. Bxd6 Nxd6 13.
+Bb3 Nf6 14. h3 Nfe4+ 15. Kg1 Bxf3 16. Qxf3 Qxf3 17. gxf3 Nxc3 18. bxc3 Nb5
+19. c4 Nxd4 20. Kf2 Rhe8 21. Rad1 Re2+ 22. Kf1 Rde8 23. Rg1 Nf5 24. Ba4
+R8e3 25. Rg5 g6 0-1
+

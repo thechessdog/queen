@@ -1,0 +1,22 @@
+[Event "Lillafured"]
+[Site "Lillafured"]
+[Date "1989.06.01"]
+[Round "1"]
+[White "Polajzer, Danilo"]
+[Black "Blees, Albert"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "4f4eed90"]
+[Epoch "Queen"]
+[WhiteID "14600218"]
+[WhiteCountry "SLO"]
+[BlackID "1000217"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. Kh1 Nc5 13. e5 dxe5 14. fxe5 Rxe5 15.
+Nxc4 Re8 16. Bg5 h6 17. Bf4 Nfe4 18. Nb5 g5 19. Bc7 Qe7 20. Bh5 Rf8 21. Qe2 g4
+22. Rae1 Qh4 23. Bxf7+ Rxf7 24. Rxf7 g3 25. Rxg7+ Kxg7 26. h3 Nd3 27. Nbd6 Bxh3
+28. gxh3 Nef2+ 29. Kg2 Qxh3+ 30. Kf3 g2# 0-1

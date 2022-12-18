@@ -1,0 +1,19 @@
+[Event "Lillafured"]
+[Site "Lillafured"]
+[Date "1989.06.01"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Halasz, Tamas"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "2ce0520a"]
+[Epoch "Queen"]
+[BlackID "700266"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Nf6 7. Qb3 Qd7 8.
+Ng5 Ne5 9. Bb5 c6 10. f4 cxb5 11. fxe5 dxe5 12. Be3 a5 13. Rd1 a4 14. Qc2 Qc6
+15. O-O Be7 0-1

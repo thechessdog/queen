@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Steffen"]
+[Black "Wilken"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "f09ceef9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Ngf3 O-O 9. O-O Bxc5 10. Qd3 Nc6 11. a3 Qb6 12. Nb3 Ne5 13. Nxe5
+Bxb5 14. c4 dxc4 15. Nxc4 Rad8 16. Qc2 Bxf2+ 17. Rxf2 Bxc4 18. Nd2 Ng4 19.
+Nxc4 Rd1+ 20. Qxd1 Qxf2+ 21. Kh1 Qh4 0-1
+

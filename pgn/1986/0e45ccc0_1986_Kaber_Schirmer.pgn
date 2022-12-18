@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kaber, C."]
+[Black "Schirmer, M."]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "0e45ccc0"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. d5 exd5 11. cxd5 Nb4 12. Nd4 Bd7 13. Qb3 c5 14. dxc6
+bxc6 15. Be2 O-O 16. O-O Qc7 17. e6 fxe6 18. Nxe6 Bxe6 19. Qxe6+ Kh8 20.
+Rad1 Rxf1+ 21. Rxf1 Bd6 0-1
+

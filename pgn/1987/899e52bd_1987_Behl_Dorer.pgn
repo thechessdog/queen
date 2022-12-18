@@ -1,0 +1,25 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Behl, W."]
+[Black "Dorer, M."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "899e52bd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+f4 Bb7 9. f5 e5 10. Nde2 Nbd7 11. Ng3 Be7 12. Bg5 h5 13. Bxf6 Nxf6 14. Qd3
+h4 15. Nf1 b4 16. Nd5 Nxd5 17. Bxd5 Bxd5 18. Qxd5 Rc8 19. O-O-O Qc7 20. Qd3
+Qc4 21. Kb1 a5 22. Ne3 Qxd3 23. cxd3 h3 24. g3 Kd7 25. b3 Rc5 26. Nd5 f6
+27. d4 Rc6 28. Ne3 Ke8 29. Nc4 a4 30. Rc1 axb3 31. axb3 Ra6 32. Kb2 Kf7 33.
+Ra1 Rha8 34. Rxa6 Rxa6 35. Rd1 Ra8 36. Rd3 g6 37. fxg6+ Kxg6 38. Ne3 Rb8
+39. Nf5 Bf8 40. d5 Kh5 41. Rf3 Kg4 42. Rf1 Kg5 43. Nh4 Bg7 44. Nf3+ Kh5 45.
+Nd2 Kg6 46. Nc4 Rd8 47. Na5 Rd7 48. Nc6 Rf7 49. Kc2 Rb7 50. Kd3 Bh6 51. Rf2
+Bc1 52. Rc2 Bg5 53. Ke2 f5 54. Rc4 fxe4 55. Rxb4 Rxb4 56. Nxb4 Bd8 57. Nc2
+Bb6 58. b4 Kf6 59. Ne3 Bd4 60. Nc4 Ke7 61. Nd2 Bc3 62. b5 Bd4 63. Nxe4 Kd7
+64. Kf3 1-0
+

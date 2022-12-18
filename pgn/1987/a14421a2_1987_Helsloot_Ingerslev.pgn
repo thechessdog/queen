@@ -1,0 +1,20 @@
+[Event "corr Nielsen mem"]
+[Site "corr Nielsen mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Helsloot, J."]
+[Black "Ingerslev, Aage"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, hedgehog variation"]
+[HashCode "a14421a2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. dxe5 Nxe5
+8. Bxd7+ Qxd7 9. Nd4 O-O 10. Nf5 Bd8 11. f3 g6 12. Nh6+ Kh8 13. b3 Qc6 14.
+Bb2 Nc4 15. Bc1 Ne5 16. Qd2 Ng8 17. Nxg8 Kxg8 18. Kh1 f5 19. Bb2 f4 20. Nd5
+Rf7 21. Rad1 g5 22. c4 Bf6 23. Nxf6+ Rxf6 24. Qc3 b6 25. Rd5 Re6 26. Rc1 a5
+27. a3 Kf7 28. h3 h5 29. b4 axb4 30. axb4 Rae8 31. c5 bxc5 32. bxc5 R8e7
+33. Qb3 1-0
+

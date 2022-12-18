@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Szklarczyk, J."]
+[Black "Welz, P."]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "12576c35"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 a6 6. exd5 axb5 7. dxc6 c4
+8. cxb7 Bxb7 9. O-O Nf6 10. c3 Qd5 11. Re1 Bd6 12. Nf1 Ng4 13. h3 h5 14.
+Ne3 Nxe3 15. Rxe3 g5 16. Ne1 f5 17. Qf3 g4 18. Qxd5 Bxd5 19. h4 f4 20. Re5
+Bxe5 21. dxe5 O-O 22. g3 fxg3 23. fxg3 Be4 24. Bf4 Rad8 25. Kf2 Rd5 26. Ke3
+Bf5 27. Rc1 Ra8 28. a3 Kf7 29. Nc2 Bxc2 30. Rxc2 Rad8 31. Ke4 Rd1 32. Re2
+R8d3 33. Be3 Kg6 34. Kf4 Rf1+ 35. Ke4 Rdd1 36. Bf4 Rde1 37. Rxe1 Rxe1+ 38.
+Kd4 Rb1 0-1
+

@@ -1,0 +1,19 @@
+[Event "Chianciano tt"]
+[Site "Chianciano tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rigo, Janos"]
+[Black "Martinovic, Slobodan"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "62eab2d3"]
+[Epoch "Queen"]
+[WhiteID "700371"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Kh1 d6 8. f4
+g6 9. Nc3 Bg7 10. e5 dxe5 11. fxe5 Qxe5 12. Nb3 Qc7 13. Bf4 Qb6 14. Bd6 Qxd6
+0-1

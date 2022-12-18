@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fernandes, Antonio"]
+[Black "Gimeno"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "8a441ac4"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e4 Nf6 4. d3 Bc5 5. Nf3 d6 6. Nc3 Ng4 7. d4 Nxd4 8. Bc4
+Nxf2 9. Kxf2 Nxf3+ 10. Kf1 Nh4 11. Be2 Qg5 12. Bf3 Nxf3 13. Qxf3 Bg4 14. Qg3
+Qd2 15. Rc1 O-O 16. h3 f5 0-1

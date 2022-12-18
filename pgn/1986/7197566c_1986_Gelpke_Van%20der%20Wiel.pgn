@@ -1,0 +1,22 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gelpke, Peter"]
+[Black "Van der Wiel, John T.H."]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "7197566c"]
+[Epoch "Queen"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+[WhiteID "1000373"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+dxc4 9. bxc4 e5 10. O-O Re8 11. Bb2 Qe7 12. Rfe1 e4 13. Nd2 Nf8 14. f3 exf3 15.
+Bxf3 Ng4 16. Nf1 Qg5 17. Qd2 Bf5 18. Rad1 Rad8 19. g3 Qg6 20. Qg2 Bb4 21. e4
+Bc8 22. h3 Nh6 23. g4 Ne6 24. Qf2 Ng5 25. Qg3 f5 26. e5 fxg4 27. Bxg4 Nxg4 28.
+hxg4 Bxg4 0-1

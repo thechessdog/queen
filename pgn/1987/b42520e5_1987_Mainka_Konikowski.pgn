@@ -1,0 +1,23 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Mainka, Gregor"]
+[Black "Konikowski, Jerzy"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "b42520e5"]
+[Epoch "Queen"]
+[WhiteID "4601319"]
+[WhiteCountry "GER"]
+[BlackID "4601467"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. Qe2 Nbd7 10. b3 g6 11. Bb2 Bg7 12. Rad1 O-O 13. Bb1 Qc7 14. f4 Rfe8 15.
+Nf3 Rad8 16. Rd2 Nh5 17. Qf2 f5 18. exf5 exf5 19. Nd5 Bxd5 20. Rxd5 Bxb2 21.
+Qxb2 Nxf4 22. Rd2 Ne5 23. Nd4 Ne6 24. Nxe6 Rxe6 25. h3 Rde8 26. Rd5 Nd7 27. Qc3
+Nf6 28. Rd4 Re3 29. Qd2 R8e6 30. Rd1 Qc5 31. b4 Qe5 32. Rf1 Re1 33. Qf2 Rxf1+
+34. Kxf1 Qh2 0-1

@@ -1,0 +1,33 @@
+[Event "Haringey"]
+[Site "Londen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Conquest, Stuart C"]
+[Black "Dutreeuw, Marc"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "62aab5aa"]
+[Epoch "Queen"]
+[WhiteID "400181"]
+[WhiteCountry "ENG"]
+[BlackID "200042"]
+[BlackCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Nb8 13. dxe5 dxe5 14. Qe2 Nbd7 15.
+Nf1 Nc5 16. Ng3 Qd7 17. Bg5 Qe6 18. b4 Na4 19. Bb3 Qc6 20. Rac1 h6 21. Bd2 Qd7
+22. Bxa4 bxa4 23. c4 c5 24. a3 Qc7 25. Bc3 Rac8 26. Nd2 Rcd8 27. Qd1 h5 28.
+Qxa4 g6 29. Qc2 Rd7 30. Ngf1 Qc6 31. Rb1 Qd6 32. Qb2 Bh6 33. Rbd1 Qc7 34. f3
+Rd3 35. Kh1 h4 36. Rb1 Bf4 37. bxc5 Bc8 38. Nb3 Be6 39. Nc1 Rd7 40. Ne2 Nh5 41.
+Nxf4 exf4 42. Qb4 Rd3 43. Red1 Rxd1 44. Rxd1 Rb8 45. Qa5 Qxa5 46. Bxa5 Bxc4 47.
+Nd2 Bb5 48. Kg1 Rc8 49. Rc1 Ng3 50. Kf2 Ne2 51. Re1 Nd4 52. Bb6 f6 53. Ra1 Nc6
+54. a4 Bd3 55. Ra3 Ne5 56. Rc3 Kf7 57. Nb3 f5 58. exf5 Bxf5 59. Nd4 Bd7 60. a5
+Nc6 61. Rd3 Ne5 62. Rd1 g5 63. Ke2 Re8 64. Kd2 Nc6 65. Nc2 Bf5 66. Rc1 Re7 67.
+Re1 Rd7+ 68. Kc1 Rd5 69. Rd1 Ke6 70. Re1+ Kf7 71. Re2 Bd3 72. Rd2 Ke6 73. Kb2
+Bb5 74. Rxd5 Kxd5 75. Kc3 Bf1 76. Ne1 Ke6 77. Bc7 Kd5 78. Bd6 Ke6 79. Bc7 Kd7
+80. Bb6 Ke7 81. Bc7 Ke6 82. Kd2 Kd7 83. Bb6 Nd4 84. Kc3 Ne6 85. Kb4 Kc6 86. Ba7
+Kd5 87. Bb6 Nd4 88. Kc3 Nc6 89. Kd2 Kd4 90. Nc2+ Kc4 91. Ne1 Kb4 92. Kc2 Nd4+
+93. Kb2 Kb5 94. Kc3 Ne6 95. Nc2 Bxg2 96. Nd4+ Nxd4 97. Kxd4 Bxf3 98. Bd8 g4 99.
+Bg5 g3 100. Bxf4 Kxa5 0-1

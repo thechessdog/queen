@@ -1,0 +1,19 @@
+[Event "Mainz op"]
+[Site "Mainz"]
+[Date "1989.??.??"]
+[Round "3"]
+[White "Dischinger, Frank"]
+[Black "Bayer, W."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "b57d9a3b"]
+[Epoch "Queen"]
+[WhiteID "4601114"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Bb4+ 5. c3 dxc3 6. bxc3 Be7 7. exf6 Bxf6
+8. Be2 O-O 9. O-O d6 10. Qc2 Bg4 11. Be3 c5 12. Rd1 Qe7 13. Na3 Nc6 14. Rab1
+Rab8 15. Bf4 Rbd8 16. Re1 Rfe8 17. Ba6 Qd7 18. Rxb7 Bxf3 19. Rxe8+ Rxe8 20.
+Rxd7 1-0

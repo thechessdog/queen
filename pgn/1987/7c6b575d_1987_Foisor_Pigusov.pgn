@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Pigusov, Evgeny"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "7c6b575d"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteID "1200143"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 d6 7. e4 Bg7 8. Bd3
+a6 9. h3 b5 10. a3 O-O 11. O-O Re8 12. Re1 Ra7 13. Bf4 Rae7 14. Rc1 Qb6 15. b4
+Nbd7 16. Qd2 c4 17. Be3 Qb7 18. Bc2 Nf8 19. Nd4 Nxe4 20. Bxe4 Rxe4 21. Nxe4
+Rxe4 22. Ne2 Re8 23. Nc3 Bf5 24. Bd4 Bxd4 25. Qxd4 Qb8 26. Qf6 Nd7 27. Rxe8+
+Qxe8 28. Qxd6 Ne5 29. Qf6 Nd3 30. Rd1 h5 31. Qd4 Qe5 32. Qxe5 Nxe5 33. Re1 f6
+34. f4 Nd3 35. Re8+ Kf7 36. Ra8 Nxf4 37. Ra7+ Ke8 38. Rxa6 Ke7 39. Kf2 1-0

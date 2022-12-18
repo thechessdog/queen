@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Weimer, H."]
+[Black "Lummer, J."]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "0a067f1a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Qc2 Bd6 6. Nf3 Nbd7 7. O-O O-O 8.
+Nbd2 Re8 9. e4 Nxe4 10. Nxe4 dxe4 11. Qxe4 e5 12. Bg5 f6 13. Bd2 exd4 14.
+Qxd4 Ne5 15. Bc3 Qc7 16. c5 Nxf3+ 17. Bxf3 Be5 18. Qd3 Bxc3 19. Qxc3 Be6
+20. Rfe1 Rad8 1/2-1/2
+

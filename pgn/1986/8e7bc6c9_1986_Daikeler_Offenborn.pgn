@@ -1,0 +1,19 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Daikeler"]
+[Black "Offenborn"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8e7bc6c9"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Bc4 Nf6 4. Bg5 e5 5. d5 c6 6. Nc3 Bb4 7. Bxf6 Qxf6
+8. Ne2 e3 9. O-O exf2+ 10. Rxf2 Bc5 11. Ne4 Bxf2+ 12. Nxf2 O-O 13. Ne4 Qg6
+14. N2g3 a6 15. Qf3 cxd5 16. Bxd5 Qb6+ 17. Qf2 Qxf2+ 18. Kxf2 Rd8 19. Rd1
+Nc6 20. c4 Be6 21. Nc3 Nd4 22. Kg1 Rab8 23. Re1 f6 24. b3 Bxd5 25. cxd5 b5
+26. b4 Rbc8 27. Rc1 f5 28. Kf2 Rc4 29. a3 Rdc8 30. d6 Rxc3 31. Rxc3 Rxc3
+32. Nxf5 Nxf5 33. d7 Rd3 0-1
+

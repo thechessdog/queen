@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nicht, D."]
+[Black "Heinel, S."]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "cca960b7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O h6 12. Bh4 Nbd7 13. Bg3 Nc5 14. Bf3
+Qa5 15. e5 dxe5 16. Nc6 Qc7 17. Nxe7 Qxe7 18. fxe5 Nfd7 19. Rb4 Nd3 20. Rg4
+N3xe5 21. Rxg7 Qf8 22. Bxe5 Nxe5 23. Rg3 Nxf3+ 24. Rfxf3 Qc5+ 25. Kh1 f5
+26. Qe2 Rf8 27. Re3 Rf7 28. Qh5 Qe7 29. Qxh6 Rh7 30. Qg6+ Qf7 31. Qg5 Qe7
+32. Qg8+ 1-0
+

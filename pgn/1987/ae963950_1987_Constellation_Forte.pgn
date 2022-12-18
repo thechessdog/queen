@@ -1,0 +1,24 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Constellation 2 0"]
+[Black "Forte A"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "ae963950"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 Nc6 4. e4 d5 5. cxd5 exd5 6. exd5 Nxd5 7. d4 Bb4
+8. Bd2 Nce7 9. Be2 O-O 10. Nxd5 Bxd2+ 11. Qxd2 Nxd5 12. O-O Re8 13. Rfe1
+Bg4 14. h3 Bh5 15. Rac1 Qf6 16. Ne5 Bxe2 17. Rxe2 Qa6 18. a3 Re6 19. Rce1
+Rae8 20. Qc2 Qb5 21. Re4 h6 22. R4e2 c6 23. Nd3 Rxe2 24. Rxe2 Rxe2 25. Qxe2
+Qc4 26. Qe8+ Kh7 27. Qe4+ g6 28. Kh2 f5 29. Ne5 Qc1 30. Nd3 fxe4 31. Nxc1
+e3 32. fxe3 Nxe3 33. Nd3 Nf1+ 34. Kg1 Ng3 35. Kf2 Nf5 36. Nc5 b6 37. Ne6 g5
+38. Ke2 Kg6 39. Kd3 h5 40. Nd8 Ne7 41. Ke4 Kf6 42. g3 a6 43. b4 b5 44. g4
+h4 45. Nb7 Nd5 46. Nc5 Nc3+ 47. Kd3 Nd5 48. Nxa6 Nf4+ 49. Ke4 Nxh3 50. Nb8
+Ng1 51. Ke3 Nh3 52. Nxc6 Nf4 53. Kf3 Nd5 54. Na7 Nc3 55. Nc8 Nb1 56. Nb6
+Nxa3 57. Nd5+ Ke6 58. Ne3 Nc4 59. Nxc4 bxc4 60. b5 Kd7 61. Ke4 h3 62. Kf3
+c3 63. Ke2 h2 64. Kd3 h1=Q 65. Kxc3 Qf3+ 66. Kc4 Qxg4 0-1
+

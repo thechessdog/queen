@@ -1,0 +1,17 @@
+[Event "RLN/N"]
+[Site "RLN/N"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Piegenschke, M."]
+[Black "Billen, D."]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b840aca8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. f4 Nd7 8.
+Nf3 c5 9. c3 Qb6 10. Nbd2 Ne7 11. h5 O-O-O 12. g4 f6 13. a3 fxe5 14. dxe5
+c4 15. Qe2 Nc5 16. Qe3 Nd3+ 17. Ke2 Qxe3+ 18. Kxe3 Nc6 19. Nd4 Bc5 0-1
+

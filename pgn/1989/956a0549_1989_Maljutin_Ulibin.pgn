@@ -1,0 +1,21 @@
+[Event "URS-qual U20"]
+[Site "Jurmala"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maljutin, Evgeni"]
+[Black "Ulybin, Mikhail"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "956a0549"]
+[Epoch "Queen"]
+[WhiteID "4103645"]
+[WhiteCountry "RUS"]
+[BlackID "4101405"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Ne2 c5 6. c3 Nc6 7. d4 Qb6 8. g3
+cxd4 9. cxd4 f6 10. Bh3 Bb4+ 11. Kf1 fxe5 12. Bxe6 e4 13. Ng5 h6 14. Nf7 Rf8
+15. a3 Be7 16. Nf4 Nf6 17. Ne5 Qxd4 18. Qxd4 Nxd4 19. Bxc8 Rxc8 20. Nfg6 Nb3
+21. Rb1 Nxc1 0-1

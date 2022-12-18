@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Myers, D."]
+[Black "Chaney, R."]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "6c4dd93a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. h4 Nh6 10. Nb3 Bxc4 11. Bg5 Be7 12. Rc1 Be6 13. Nc5 Qe8 14.
+Bxe7 Qxe7 15. Qa4 Bd5 16. Nxb7 Kxb7 17. Qb5+ Kc8 18. Rc5 Kd7 19. Rxd5+ 1-0
+

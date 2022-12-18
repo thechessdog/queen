@@ -1,0 +1,20 @@
+[Event "Geneve op"]
+[Site "Geneva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kudrin, Sergey"]
+[Black "Stanojevic, Branko"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "5156a443"]
+[Epoch "Queen"]
+[WhiteID "2000164"]
+[WhiteCountry "USA"]
+[BlackID "902560"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 g6 7. N1f3 Bg7 8.
+Qe2 O-O 9. Ne5 Nxe5 10. dxe5 Nd5 11. Bd2 f6 12. Nxh7 Nf4 13. Bxf4 Kxh7 14. Qh5+
+Kg8 15. Qxg6 Qa5+ 16. b4 1-0

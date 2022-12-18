@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hernaez"]
+[Black "Van der Stichele"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "1c5559a9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Be7 7. dxc5
+Nf6 8. Nb3 O-O 9. Be3 Re8 10. Nf3 Bxc5 11. Nxc5 Qa5+ 12. Qd2 Qxb5 13. O-O-O
+b6 14. Nb3 Nc6 15. Nfd4 Qc4 16. f3 Rac8 17. h4 Nb4 18. a3 Nxc2 19. Qxc2 Qa4
+20. Qxc8 Rxc8+ 0-1
+

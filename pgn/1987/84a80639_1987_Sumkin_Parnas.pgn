@@ -1,0 +1,20 @@
+[Event "corr EU/FSM"]
+[Site "corr EU/FSM"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sumkin"]
+[Black "Parnas"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "84a80639"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 Nf6 6. h3 a6 7. Bf1 g5 8.
+d4 g4 9. hxg4 Bxg4 10. dxc5 dxc5 11. Qxd8+ Rxd8 12. Nfd2 Rg8 13. Na3 b5 14.
+c4 b4 15. Nc2 Ne5 16. Ne3 Bh6 17. Nd5 Bf3 18. Kh1 Bxd2 19. Bxd2 Nxe4 20.
+Be3 Rd6 21. Bxc5 Rdg6 22. Nf4 Rh6+ 23. Kg1 Bd1 24. Re3 Nf3+ 25. Rxf3 Bxf3
+26. Bxb4 Rh4 27. Nd5 e6 28. Nc7+ Kd7 29. Nxa6 Ng5 30. Nc5+ Ke8 31. Bd3 Nh3+
+32. Kf1 Rxg2 33. Ke1 Rg1+ 34. Bf1 Rxf1+ 35. Kxf1 Ng5 0-1
+

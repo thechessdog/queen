@@ -1,0 +1,17 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Barbero, Gerardo Fabián"]
+[Black "Bauer, W."]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "2aa6ca46"]
+[Epoch "Queen"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. g3
+Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 Qc7 12. Rd1 Rae8 13. h3 e6 14. dxe6 fxe6
+15. Ng5 Re7 16. Bf4 Ne5 17. Nge4 1-0

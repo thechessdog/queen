@@ -1,0 +1,18 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Alvarez, Roberto"]
+[Black "Imperiale, Horacio"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "0ea432fe"]
+[Epoch "Queen"]
+[WhiteID "111902"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Bc5 7. e5 Ng8 8. c3
+dxc3 9. Nxc3 Nge7 10. Ne4 Ba7 11. Re1 O-O 12. Bg5 Qe8 13. Nf6+ gxf6 14. exf6
+Bc5 15. Bxc6 Nxc6 16. Rxe8 Rxe8 17. Qd5 d6 18. Bf4 Kh8 19. Qxf7 Rg8 20. Bh6 1-0

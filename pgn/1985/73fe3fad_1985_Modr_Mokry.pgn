@@ -1,0 +1,18 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Modr, Bretislav"]
+[Black "Mokry, Karel"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "73fe3fad"]
+[Epoch "Queen"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 Qb6 5. Qb3 Nc6 6. e3 d5 7. Nbd2 Be7 8. Be2
+h6 9. Bf4 Qxb3 10. axb3 cxd4 11. exd4 g5 12. Bc7 Bd8 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Hallein op"]
+[Site "Hallein"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Schneider, Martin"]
+[Black "Ploechl, Clemens"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "2dc2e179"]
+[Epoch "Queen"]
+[WhiteID "1608932"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. Qd2 e6 8. Nd1
+Ne7 9. c3 Ndc6 10. Bh6 O-O 11. h4 d5 12. h5 dxe4 13. hxg6 e3 14. gxh7+ Kh8 15.
+Bxg7+ Kxg7 16. Qxe3 Nf5 17. Qxc5 1-0

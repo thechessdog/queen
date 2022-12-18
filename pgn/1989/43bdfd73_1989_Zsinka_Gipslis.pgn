@@ -1,0 +1,17 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Zsinka, Laszlo"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Ragozin variation"]
+[HashCode "43bdfd73"]
+[Epoch "Queen"]
+[BlackCountry "LVA"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 Nc6 7. O-O dxc4 8.
+Bxc4 Bd6 9. e4 e5 10. d5 Ne7 11. Re1 a6 12. h3 Ng6 13. Bf1 h6 14. Be3 1/2-1/2

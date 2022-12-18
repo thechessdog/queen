@@ -1,0 +1,18 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Owens, J."]
+[Black "Graves, J."]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "12546e58"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Qf3 Nbd7 8.
+Be3 Qc7 9. a4 b6 10. Bd3 Bb7 11. f5 e5 12. Nde2 h5 13. Nd5 Bxd5 14. exd5
+Nc5 15. Bxc5 Qxc5 16. Nc3 Qb4 17. O-O Qxb2 18. Rfb1 Qxc3 19. Bb5+ axb5 20.
+Qxc3 1-0
+

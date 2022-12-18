@@ -1,0 +1,19 @@
+[Event "corr RUM/K"]
+[Site "corr RUM/K"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Berecz, G."]
+[Black "Vasile, C."]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "3c99da0e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O
+8. O-O h5 9. a3 h4 10. b4 hxg3 11. hxg3 Bh3 12. e6 fxe6 13. b5 Nb8 14. Ne5
+Qe8 15. Bxh3 Rxh3 16. Kg2 Rh5 17. f4 Nd7 18. Ndf3 Nxe5 19. Nxe5 Nf6 20. Qa4
+Kb8 21. Bd2 Nd7 22. Nxd7+ Qxd7 23. Rh1 Rxh1 24. Rxh1 e5 25. Qc2 exf4 26.
+Bxf4 Bxa3 0-1
+

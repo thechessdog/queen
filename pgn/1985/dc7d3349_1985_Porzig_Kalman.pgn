@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Porzig, H."]
+[Black "Kalman"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "dc7d3349"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. e3 O-O 8.
+cxd5 exd5 9. Bxf6 Bxf6 10. b4 Re8 11. Rc1 c6 12. Bd3 g6 13. O-O Nd7 14. Qb3
+Nf8 15. b5 c5 16. dxc5 bxc5 17. Be2 d4 18. Rfd1 Ne6 19. Bc4 Rc8 20. Ne2 Qb6
+21. exd4 cxd4 22. Nexd4 Bxd4 23. Nxd4 Nxd4 24. Qh3 Ne2+ 25. Bxe2 Rxc1 26.
+Rxc1 Rxe2 27. Qg3 Qxb5 0-1
+

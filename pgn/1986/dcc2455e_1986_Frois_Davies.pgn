@@ -1,0 +1,20 @@
+[Event "Portugal"]
+[Site "Portugal"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Frois, Antonio"]
+[Black "Davies, Nigel R"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "dcc2455e"]
+[Epoch "Queen"]
+[BlackID "404420"]
+[BlackCountry "WLS"]
+[WhiteID "1900080"]
+[WhiteCountry "POR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c5 7. dxc5 dxc5 8.
+Qxd8 Rxd8 9. Be3 b6 10. Rfd1 Nc6 11. Rxd8+ Nxd8 12. Rd1 Bb7 13. e5 Ng4 14. Bg5
+Ne6 15. Bxe7 Nxe5 16. Nxe5 Bxe5 17. Bc4 Re8 18. Bh4 g5 1/2-1/2

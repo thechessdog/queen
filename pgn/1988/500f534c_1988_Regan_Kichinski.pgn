@@ -1,0 +1,16 @@
+[Event "Lockheed"]
+[Site "Lockheed"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Regan, Natasha K"]
+[Black "Kichinski, Robert"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Centre game"]
+[HashCode "500f534c"]
+[Epoch "Queen"]
+[WhiteID "403067"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Nf6 4. Qe2 Qe7 5. e5 d5 6. exf6 Qxe2+ 7. Bxe2 1-0

@@ -1,0 +1,18 @@
+[Event "World Cup"]
+[Site "Skelleftea"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "Hubner, Robert"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "1db834d9"]
+[Epoch "Queen"]
+[WhiteCountry "LVA"]
+[BlackCountry "DEU"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+cxd4 9. Rd1 Be7 10. exd4 O-O 11. Nc3 Nb4 12. Bg5 Nfd5 13. Bxe7 Nxe7 14. Qe4
+Ned5 15. Ne5 b6 1/2-1/2

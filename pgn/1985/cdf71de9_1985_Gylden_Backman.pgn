@@ -1,0 +1,19 @@
+[Event "corr ch-SF snr"]
+[Site "corr ch-SF snr"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gylden, Y."]
+[Black "Backman, T."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "cdf71de9"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nc3 e6 7. Be3 Na6 8.
+exd6 cxd6 9. Nf3 Be7 10. Be2 O-O 11. Rc1 Nd7 12. O-O Nc7 13. Bd3 Bg6 14.
+Ng5 Nf6 15. d5 Bxd3 16. Qxd3 h6 17. Nf3 a6 18. Bb6 Qd7 19. Bxc7 Qxc7 20.
+dxe6 fxe6 21. Qe2 Kf7 22. Rce1 Qd7 23. Nd4 e5 24. fxe5 dxe5 25. Qxe5 Bd6
+26. Qd5+ Kg6 27. Re6 Rad8 28. Qe4+ 1-0
+

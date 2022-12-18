@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sieber, W."]
+[Black "Glasewald, S."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "d764acac"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 d6 5. Nf3 Nc6 6. Qc2 Bf5 7. Nbd2 Nxd2
+8. Qxd2 dxe5 9. e3 Qf6 10. Qc3 Be7 11. Be2 O-O 12. O-O Rfd8 13. Rd1 Rxd1+
+14. Bxd1 Rd8 15. Bc2 Bxc2 16. Qxc2 Qg6 17. e4 Nd4 18. Nxd4 exd4 19. Qd3 c5
+20. Bd2 h6 21. f4 Qc6 22. Rf1 a6 23. e5 b5 24. Rc1 Rb8 25. b4 bxc4 26. Rxc4
+Qa4 27. Be1 cxb4 28. axb4 Qa1 29. Kf2 Rd8 30. Bd2 Bh4+ 31. g3 Be7 32. Rc7
+Re8 33. e6 Qh1 34. exf7+ Kxf7 35. Qf5+ Kg8 36. Qh5 Kf8 37. f5 1-0
+

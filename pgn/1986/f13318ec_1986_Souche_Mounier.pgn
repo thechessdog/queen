@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Souche"]
+[Black "Mounier"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "f13318ec"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Qa5+
+8. Nc3 Bb4 9. Qc2 Nbd7 10. O-O Bd6 11. e4 dxe4 12. Rfe1 O-O 13. Nxe4 Nxe4
+14. Rxe4 f5 15. Re6 Qc7 16. Be7 Bxe7 17. Rxe7 Qd6 18. Bc4+ Kh8 19. Rae1 b5
+20. R1e6 Qb4 21. Bd3 c5 22. a3 Qa5 23. Ng5 c4 24. Rh6 gxh6 25. Rxh7+ Kg8
+26. Bxc4+ Rf7 27. Bxf7+ Kf8 28. Rh8+ Ke7 29. Re8+ Kd6 30. Re6+ Kd5 31. Ra6+
+Kxd4 32. Nf3# 1-0
+

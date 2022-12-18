@@ -1,0 +1,16 @@
+[Event "Val Thorens ch-FRA"]
+[Site "Val Thorens ch-FRA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Giffard, Nicolas"]
+[Black "Degraeve, Jean Marc"]
+[Result "1-0"]
+[ECO "A84"]
+[Opening "Dutch defence, Rubinstein variation"]
+[HashCode "91cbd732"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 d5 5. Be2 c6 6. f4 Bd6 7. Nf3 O-O 8. O-O Ne4
+9. Bd2 Bd7 10. Be1 Be8 11. Nxe4 dxe4 12. Ng5 Qd7 13. c5 Be7 14. Bc4 Rf6 15. Qb3
+Bf7 16. g4 Bd8 17. Nxf7 1-0

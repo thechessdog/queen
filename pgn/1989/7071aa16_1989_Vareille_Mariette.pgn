@@ -1,0 +1,18 @@
+[Event "Frankrijk tt"]
+[Site "Frankrijk tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vareille, Francois"]
+[Black "Mariette, Christian"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "7071aa16"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8. a4
+Qa5 9. Nc4 Qb4 10. e3 Ne4 11. Bd2 Nxd2 12. Qxd2 Nd7 13. Ne4 Qxd2+ 14. Kxd2 f5
+15. Nexd6+ Ke7 16. a5 Bg7 17. g3 Be5 18. Nxc8+ Raxc8 19. Bg2 Rhd8 20. Kc2 Bc7
+21. d6+ Bxd6 22. Nxd6 Kxd6 23. Bxb7 Rc7 24. Rhd1+ Ke7 25. Bxa6 Ra8 26. Be2 Ne5
+27. Kc3 Rca7 28. Rd5 1-0

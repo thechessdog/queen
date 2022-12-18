@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schulze, Ulrich"]
+[Black "Ostojic, Predrag"]
+[Result "1/2-1/2"]
+[ECO "D79"]
+[Opening "Neo-Gruenfeld, 6.O-O, main line"]
+[HashCode "b5238cc1"]
+[Epoch "Queen"]
+[WhiteID "4600525"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. Nf3 g6 2. d4 Bg7 3. g3 c5 4. c3 cxd4 5. cxd4 Nf6 6. Bg2 O-O 7. O-O d5 8. Ne5
+Nfd7 9. f4 Nxe5 10. fxe5 Nc6 11. Nc3 Be6 12. Kh1 Qd7 13. e4 Bg4 14. e6 Bxd1 15.
+exd7 Bg4 16. Bg5 f6 17. Be3 Bxd7 18. Nxd5 1/2-1/2

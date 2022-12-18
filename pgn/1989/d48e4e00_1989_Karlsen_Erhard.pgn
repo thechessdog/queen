@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Karlsen, Peter"]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d48e4e00"]
+[Epoch "Queen"]
+[WhiteID "1429477"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be3 O-O 8. Qb3
+a5 9. Nxd5 Nxd5 10. cxd5 a4 11. Qb4 Qxd5 12. Bc4 Nc6 13. Qc3 Qh5 14. Be2 Bg4
+15. Rd1 e5 16. dxe5 Nxe5 17. Nxe5 Bxe2 18. Rd5 Rad8 19. Rxd8 Rxd8 20. f4 Bxe5
+21. fxe5 Rd1+ 22. Kf2 Rxh1 23. Qc8+ Kg7 24. e6 Rf1+ 0-1

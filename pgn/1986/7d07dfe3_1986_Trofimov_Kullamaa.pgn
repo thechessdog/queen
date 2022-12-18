@@ -1,0 +1,25 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Trofimov"]
+[Black "Kullamaa"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "7d07dfe3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qf3 c5 14. Bg5
+c4 15. Bc2 Nd7 16. Bxe7 Qxe7 17. Nd2 Nc5 18. Nf1 Rad8 19. Rad1 Rxd1 20.
+Rxd1 Rd8 21. Rxd8+ Qxd8 22. Qe3 Qd6 23. h4 h6 24. Ng3 Bc8 25. f3 Be6 26.
+Nf1 a5 27. a3 Na6 28. Nd2 b4 29. axb4 axb4 30. Bd1 bxc3 31. bxc3 Qa3 32.
+Be2 Qc1+ 33. Kf2 Qb2 34. Nf1 Qb5 35. Qd2 Qc5+ 36. Ne3 Nc7 37. Qa2 Nb5 38.
+Qa5 Qc6 39. Qb4 Nd6 40. g4 g6 41. Qa5 Nb5 42. Ke1 Qc5 43. Nf1 Kg7 44. Bd1
+Bd7 45. g5 hxg5 46. hxg5 f6 47. gxf6+ Kxf6 48. Be2 Be6 49. Bd1 Bh3 50. Ba4
+Qa3 51. Qxb5 Qxc3+ 52. Nd2 Qe3+ 53. Kd1 c3 54. Qc6+ Kg5 55. Nb1 Qd3+ 56.
+Kc1 Qxf3 57. Nxc3 Bd7 58. Qc4 Bxa4 59. Nxa4 Qe3+ 60. Kc2 Qf2+ 61. Kb3 Kf4
+62. Qf7+ Ke3 63. Qxg6 Kd3 64. Nb2+ 1-0
+

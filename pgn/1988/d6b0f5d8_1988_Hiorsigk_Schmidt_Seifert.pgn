@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hiorsigk"]
+[Black "Schmidt_Seifert"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "d6b0f5d8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Nf3 Ne7 8.
+a4 O-O 9. Bd3 Nbc6 10. Bxh7+ Kh8 11. Ng5 g6 12. h4 Nxe5 13. h5 f6 14. hxg6
+cxd4 15. Qh5 Qxc3+ 16. Kd1 1-0
+

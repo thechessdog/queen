@@ -1,0 +1,23 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moulain, Jean"]
+[Black "Daillet, E."]
+[Result "0-1"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "d53b4a40"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Nbd7 10. Re1 Re8 11. a4 a6 12. Nd2 Rb8 13. Nc4 Nb6 14. Na3
+Bd7 15. e4 Nc8 16. Qd3 Ng4 17. h3 Ne5 18. Qe2 f5 19. f4 Nf7 20. Kh2 fxe4
+21. Bxe4 Bf5 22. Nab1 b5 23. axb5 axb5 24. Nd2 Nb6 25. Qd1 b4 26. Na4 Ra8
+27. Ra2 Bd7 28. b3 Bxa4 29. bxa4 Qd7 30. a5 Qb5 31. Nb3 c4 32. Rae2 Na4 33.
+Nd4 Qxa5 34. Nc6 Qb5 35. Bg2 Rxe2 36. Qxe2 b3 37. f5 Nc3 38. Ne7+ Kh8 39.
+Qe6 Ne5 40. Bg5 Rf8 41. fxg6 Qd7 42. gxh7 Qxe6 43. dxe6 b2 44. Nd5 Nd3 45.
+e7 Nxe1 46. exf8=Q+ Bxf8 47. Nxc3 Nxg2 48. Kxg2 d5 49. Kf3 d4 50. Bd2 Bb4
+51. Bg5 Bxc3 52. Kg4 b1=Q 53. h4 Qe4+ 54. Kh5 Kxh7 55. g4 0-1
+

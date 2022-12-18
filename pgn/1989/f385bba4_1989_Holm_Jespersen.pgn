@@ -1,0 +1,18 @@
+[Event "Gladsaxe"]
+[Site "Gladsaxe"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Holm, Jesper"]
+[Black "Jespersen, Claus Mosby"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "f385bba4"]
+[Epoch "Queen"]
+[BlackID "1416464"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 Nd7 4. Bb2 Ngf6 5. h3 Bh5 6. Be2 e6 7. c4 c6 8. O-O
+Bd6 9. Nc3 Qe7 10. a3 g5 11. Nxg5 Rg8 12. Bxh5 Rxg5 13. Bf3 O-O-O 14. Kh1 Ne5
+15. cxd5 exd5 16. d4 Rdg8 17. Rg1 Nfg4 18. Qe2 Rh5 19. dxe5 Nxf2+ 20. Qxf2 Qxe5
+21. g4 Rxh3+ 22. Kg2 Rh2+ 23. Kf1 Rxf2+ 24. Kxf2 d4 25. exd4 Qxd4+ 26. Ke1 0-1

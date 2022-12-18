@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Helbig, W."]
+[Black "Seifert, J."]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "72203490"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Bd3 O-O 9. h3 Re8 10. O-O a6 11. a4 Qc7 12. Nd2 Nbd7 13. f4 c4 14. Bxc4 Nc5
+15. Re1 Bd7 16. Qf3 Re7 17. Bd3 Rae8 18. Ra2 Nfxe4 19. Ndxe4 Bf5 20. Bd2
+Bxe4 21. Bxe4 f5 22. Bc2 Rxe1+ 23. Bxe1 Rxe1+ 24. Kf2 Bxc3 25. bxc3 Re7 26.
+g4 Ne4+ 27. Bxe4 Rxe4 28. gxf5 Qc5+ 29. Kg3 gxf5 30. Rg2 Qxd5 31. Kh4+ Kh8
+32. Qg3 Qf7 33. Qg5 Qf8 34. Rf2 Re6 0-1
+

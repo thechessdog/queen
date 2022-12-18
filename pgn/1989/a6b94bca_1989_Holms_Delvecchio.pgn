@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Holms"]
+[Black "Delvecchio"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "a6b94bca"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bg4 7. Bf4
+Nd7 8. Be2 Qa5+ 9. c3 e5 10. dxe5 fxe5 11. Bg3 O-O-O 12. Qc2 Be7 13. O-O
+Rhg8 14. b4 Qc7 15. h3 Bh5 16. Kh1 Bg6 17. Bd3 Qd6 18. Rad1 Qe6 19. Rfe1 f5
+20. Nxe5 Nxe5 21. Rxe5 Qf6 22. Rxf5 Qe6 23. Re5 Qd7 24. Re3 b5 25. a4 Bg5
+26. f4 Bf6 27. f5 Bf7 28. axb5 cxb5 29. Qf2 Qc6 30. Ree1 1-0
+

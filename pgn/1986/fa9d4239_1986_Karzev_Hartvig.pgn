@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karzev, VN."]
+[Black "Hartvig, Ove Weiss"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "fa9d4239"]
+[Epoch "Queen"]
+[BlackID "1402420"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. Nf4 h6 12. h4 Rc8 13. O-O Qd7 14. Re1 Rfd8
+15. Qa3 g5 16. hxg5 Nc4 17. Qxa7 hxg5 18. Nfe2 Bh3 19. b3 Bxg2 20. Kxg2 Nxd5
+21. Ne4 Ncb6 22. Qa5 Rc2 23. N2c3 Qf5 24. Nxd5 Rxd5 25. Qb4 Rxd4 26. Qxb6 Rxe4
+27. Be3 Qd5 28. Kg1 Rg4 29. Kh2 Be5 30. Bxg5 Rxg3 31. Qd8+ Qxd8 32. Rxe5 Qd4
+0-1

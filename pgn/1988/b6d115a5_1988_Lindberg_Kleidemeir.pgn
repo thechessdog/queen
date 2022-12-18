@@ -1,0 +1,16 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lindberg, G."]
+[Black "Kleidemeir, Paul"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "b6d115a5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Ne7 4. Nf3 dxe4 5. Nxe4 b6 6. Bb5+ Nd7 7. Ne5 h6
+8. Qf3 f5 9. Qh5+ 1-0
+

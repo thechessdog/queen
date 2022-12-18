@@ -1,0 +1,20 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1989.04.01"]
+[Round "1"]
+[White "Brenninkmeijer, Joris"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[HashCode "488309ca"]
+[Epoch "Queen"]
+[WhiteID "1000047"]
+[WhiteCountry "NED"]
+[BlackID "1000055"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Na6 7. e3 Nc7 8. Bd3
+Ne6 9. Bh4 Be7 10. Nf3 g6 11. O-O O-O 12. Rab1 Ng7 13. b4 a6 14. a4 Nf5 15.
+Bxf6 Bxf6 16. b5 axb5 1/2-1/2

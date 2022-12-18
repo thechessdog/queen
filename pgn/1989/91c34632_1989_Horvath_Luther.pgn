@@ -1,0 +1,15 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Horvath, Csaba"]
+[Black "Luther, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "91c34632"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. g3 f5 8.
+Nc3 f6 9. Nge2 Nc6 10. d5 Nb4 11. Bg2 1/2-1/2

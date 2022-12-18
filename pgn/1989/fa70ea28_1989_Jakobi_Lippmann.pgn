@@ -1,0 +1,17 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jakobi, Axel"]
+[Black "Lippmann, Peter"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "fa70ea28"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 4. Nf3 Bg7 5. e4 O-O 6. Be2 e6 7. O-O Nc6 8.
+Bg5 h6 9. Be3 Nh5 10. Qd2 Kh7 11. g4 Nf6 12. g5 Ng4 13. gxh6 Nxe3 14. hxg7
+Nxf1 15. gxf8=Q Qxf8 16. Rxf1 e5 17. dxe5 dxe5 18. Nd5 Bh3 19. Ng5+ 1-0
+

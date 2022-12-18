@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Holland, J."]
+[Black "Anderton, D."]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "14878a72"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 dxe4 5. Qxe4 Nf6 6. Qh4 c5 7. dxc5
+Bxc3+ 8. bxc3 Qa5 9. Qb4 Nc6 10. Bb5 Qc7 11. Nf3 O-O 12. Bxc6 Qxc6 13. O-O
+Nd5 14. Qd4 f6 15. Rd1 b5 16. c4 bxc4 17. Qxc4 Ba6 18. Qe4 Qc8 19. Bd2 Bb7
+20. Nd4 e5 1/2-1/2
+

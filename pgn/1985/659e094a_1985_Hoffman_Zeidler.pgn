@@ -1,0 +1,19 @@
+[Event "Mendoza"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hoffman, Alejandro"]
+[Black "Zeidler, Sven P."]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "659e094a"]
+[Epoch "Queen"]
+[BlackID "1800604"]
+[BlackCountry "WLS"]
+[WhiteID "100340"]
+[WhiteCountry "ARG"]
+
+1. d4 f5 2. Bg5 h6 3. Bh4 c5 4. e4 Qb6 5. Nc3 g5 6. Qh5+ Kd8 7. Bxg5 Qxb2 8.
+Kd2 cxd4 9. Nd5 d3 10. Bf4 e5 11. Qxf5 Qxc2+ 12. Ke1 Bb4+ 13. Nxb4 Qc3+ 14. Kd1
+Qxa1+ 15. Bc1 Ne7 16. Qf6 Rg8 17. Nf3 1-0

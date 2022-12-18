@@ -1,0 +1,22 @@
+[Event "Manhattan"]
+[Site "Manhattan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lein, Anatoly"]
+[Black "London, Dimitri"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "a5661a05"]
+[Epoch "Queen"]
+[BlackID "2000881"]
+[WhiteID "2000270"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 c6 7. O-O a6 8. Qc2 b5
+9. Rd1 Nbd7 10. e5 Ne8 11. Bf4 bxc4 12. Bxc4 Nb6 13. Bb3 Bg4 14. Qe2 Nc7 15. h3
+Bf5 16. Ng5 Nbd5 17. Bg3 a5 18. Nge4 Nxc3 19. Nxc3 Qd7 20. Ba4 d5 21. Bf4 Rab8
+22. Rac1 Rb4 23. b3 Rb6 24. Qd2 Ra8 25. Ne2 Nb5 26. Rc5 f6 27. Rdc1 Be6 28. Qe3
+Bf7 29. Kh2 Na7 30. Rxa5 Re8 31. e6 Bxe6 32. Rxa7 Qxa7 33. Qxe6+ 1-0

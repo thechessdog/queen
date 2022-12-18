@@ -1,0 +1,20 @@
+[Event "Taylor SE MI op"]
+[Site "Taylor SE MI op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dowling, John"]
+[Black "Moody, David W"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[HashCode "0222a7a6"]
+[Epoch "Queen"]
+[WhiteID "2017164"]
+[WhiteCountry "USA"]
+[BlackID "30910722"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. a3 Bxc3+ 8. bxc3
+Nxc3 9. Qg4 Kf8 10. h4 Nd7 11. Bd3 c5 12. Rh3 h5 13. Qf4 c4 14. Bg6 f6 15. Nf3
+Ke7 16. Bd2 Rh6 17. Qg3 Nf8 18. exf6+ 1-0

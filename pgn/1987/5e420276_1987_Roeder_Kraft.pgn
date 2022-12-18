@@ -1,0 +1,20 @@
+[Event "Bayern-ch"]
+[Site "Bayern"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Roeder, Frank"]
+[Black "Kraft, Volker"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5e420276"]
+[Epoch "Queen"]
+[WhiteID "4602161"]
+[BlackID "4606221"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 Qxd4 7. Be3 Qxd1+
+8. Rxd1 Bg4 9. Be2 Nf6 10. Nb5 Rc8 11. Nxa7 Nxa7 12. Bxg4 Nxg4 13. Bxa7 e5 14.
+h3 Nf6 15. a3 Bc5 1/2-1/2

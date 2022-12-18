@@ -1,0 +1,23 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Valkesalmi, Kimmo"]
+[Black "Dorfman, Iossif"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ddb00c06"]
+[Epoch "Queen"]
+[WhiteID "500054"]
+[WhiteCountry "FIN"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nc6 5. Be3 d5 6. e5 Nd7 7. e6 fxe6 8. dxc5
+Nf6 9. Bd3 g6 10. Ne2 Bg7 11. Nd2 O-O 12. Qa4 e5 13. O-O-O Bf5 14. Ne4 e6 15.
+g4 Bxe4 16. fxe4 Nxg4 17. Bg1 Nf2 18. Bxf2 Rxf2 19. h4 Qa5 20. Qxa5 Nxa5 21.
+Rdf1 Raf8 22. Rxf2 Rxf2 23. Kd1 Rf3 24. Nc1 Nc4 25. Ke2 Re3+ 26. Kf2 Bh6 27.
+Bxc4 dxc4 28. Rd1 Rxe4 29. Rd8+ Kf7 30. Ne2 Bf8 31. Rc8 Rxh4 32. b4 cxb3 33.
+axb3 a5 34. Rc7+ Kf6 35. Kf3 h5 36. Ng3 e4+ 37. Nxe4+ Ke5 38. Ng5 Kf5 39. Nh7
+Bh6 40. c6 bxc6 41. Rxc6 g5 0-1

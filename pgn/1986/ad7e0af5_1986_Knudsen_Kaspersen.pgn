@@ -1,0 +1,21 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "8"]
+[White "Knudsen, Per"]
+[Black "Kaspersen, Morten"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "ad7e0af5"]
+[Epoch "Queen"]
+[WhiteID "1400509"]
+[WhiteCountry "DEN"]
+[BlackID "1402897"]
+[BlackCountry "DEN"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O c5 5. b3 Nc6 6. Bb2 Be7 7. d3 O-O 8. Nbd2
+b6 9. e4 Bb7 10. Qe2 Rc8 11. a4 a6 12. e5 Ne8 13. Ne1 b5 14. f4 c4 15. dxc4
+bxc4 16. bxc4 Na5 17. Rb1 Nxc4 18. Bd4 Nxd2 19. Qxd2 Bc6 20. Bh3 Bxa4 21. f5
+Rc6 22. Rb7 Nc7 23. f6 Bc5 24. Bxc5 1-0

@@ -1,0 +1,20 @@
+[Event "corr Tch-SF"]
+[Site "corr Tch-SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Redsven"]
+[Black "Viitanen"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "908fb4f4"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 6. Bd3 Bg7 7. f4 O-O 8. e5
+Ne8 9. Nf3 Bg4 10. O-O a6 11. Rae1 Ra7 12. f5 Bxf5 13. Bxf5 gxf5 14. Nh4
+dxe5 15. Nxf5 f6 16. Bh6 e6 17. Nxg7 Nxg7 18. dxe5 Qxd2 19. Bxd2 f5 20. Bh6
+Nd7 21. Rf3 Re8 22. Rd3 Rc7 23. b3 Nf8 24. Ne2 Rd7 25. Nf4 Rxd3 26. cxd3
+Ng6 27. Nxg6 hxg6 28. Rc1 Rc8 29. b4 Ne8 30. Kf2 Kf7 31. Bg5 Kf8 32. a3 Kf7
+33. h3 Kf8 34. Ke3 a5 35. Kd4 axb4 36. axb4 Kf7 37. Kc5 Nc7 38. Ra1 1-0
+

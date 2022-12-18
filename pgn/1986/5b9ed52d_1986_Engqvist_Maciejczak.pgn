@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Engqvist, Thomas"]
+[Black "Maciejczak, A."]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "5b9ed52d"]
+[Epoch "Queen"]
+[WhiteID "1700332"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8. e3
+O-O 9. Nd2 a6 10. a4 Nbd7 11. Be2 Qc7 12. Qc2 Rb8 13. a5 b5 0-1

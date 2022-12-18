@@ -1,0 +1,19 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Domingue, P."]
+[Black "Santa, Robert"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "ee7fcf73"]
+[Epoch "Queen"]
+[BlackID "14502259"]
+[BlackCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 b4 7. Nd5 Nxe4 8. d3
+Nc5 9. O-O Nxb3 10. axb3 d6 11. Bg5 f6 12. Bh4 Be6 13. c4 bxc3 14. Nxc3 Be7 15.
+Re1 O-O 16. d4 Bg4 17. Re4 f5 18. Re3 Bxh4 19. d5 Nd4 20. Qd3 Nxf3+ 21. gxf3
+Bh3 22. Ne2 Qg5+ 23. Kh1 Qg2# 0-1

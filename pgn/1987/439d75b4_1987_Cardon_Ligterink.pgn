@@ -1,0 +1,20 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cardon, Helmut"]
+[Black "Ligterink, Gert"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "439d75b4"]
+[Epoch "Queen"]
+[WhiteID "1000365"]
+[WhiteCountry "NED"]
+[BlackID "1000179"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. O-O Nc6 10. Bc2 Re8 11. Qd3 g6 12. Rd1 Bd7 13. Nxd5 exd5 14. Qf3
+Rc8 15. Be3 Be6 16. Nf4 Qd7 17. Nxe6 1/2-1/2

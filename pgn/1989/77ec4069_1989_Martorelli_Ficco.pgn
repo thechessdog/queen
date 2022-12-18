@@ -1,0 +1,19 @@
+[Event "Naples"]
+[Site "Naples"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Ficco"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "77ec4069"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 cxd4 6. cxd4 Qb6 7. Nc3 Nxd4
+8. Nxd4 Qxd4 9. Qe2 e6 10. O-O Ne7 11. Be3 Qb4 12. Bd2 Qxb2 13. Rab1 Qa3
+14. Nd5 Nxd5 15. exd5 Qxa2 16. Bc4 Qc2 17. Rfc1 Qf5 18. Bb4 Bf6 19. Rb3 Be7
+20. Qb2 Rg8 21. Bxe7 Kxe7 22. Qa3+ Ke8 23. Rbc3 Qe5 24. Bb5 Kd8 25. d6 Qxb5
+26. Qxa7 Qa6 27. Qc5 Qa5 28. Qxc8+ Rxc8 29. Rxc8# 1-0
+

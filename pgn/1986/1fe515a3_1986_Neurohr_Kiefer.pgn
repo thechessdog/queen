@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Neurohr, Stefan"]
+[Black "Kiefer, Gerhard"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "1fe515a3"]
+[Epoch "Queen"]
+[BlackID "4606965"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8. cxd5
+exd5 9. a3 Bd6 10. b4 a6 11. Qb3 Nbd7 12. a4 c6 13. Bb2 b5 14. a5 Qe7 15. Ba3
+Ne4 16. Rae1 Rae8 17. Bxe4 dxe4 18. Nd2 Nf6 19. f3 exf3 20. Rxf3 Bxh2+ 21. Kxh2
+Ng4+ 22. Kg1 Qh4 23. Qb1 c5 24. d5 Qh2+ 25. Kf1 Qh1+ 26. Ke2 Qxg2+ 27. Kd1 Ne5
+28. Rff1 Bxd5 29. Re2 Qh3 30. Nxd5 Nc4 31. Bb2 Nxd2 32. Kxd2 Rd8 33. e4 Qb3 34.
+Rg1 Rfe8 35. Rxg7+ Kf8 36. Rg8+ 1-0

@@ -1,0 +1,17 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sarre, S."]
+[Black "Dahm, W."]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "4b84fb65"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 bxc6
+8. O-O Nf6 9. Qe2 d5 10. Bg5 Be7 11. Kh1 Nxe4 12. Bxe4 Bxg5 13. Bd3 O-O 14.
+Qh5 h6 15. Ne2 e5 16. h4 Bf6 17. f3 Qe7 0-1
+

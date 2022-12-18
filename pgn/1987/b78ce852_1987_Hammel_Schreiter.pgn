@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hammel, R."]
+[Black "Schreiter, U."]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "b78ce852"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 Nc6 7. c3 Qb6 8.
+g3 cxd4 9. cxd4 Bb4+ 10. Kf2 g5 11. fxg5 Ndxe5 12. Nxe5 Nxe5 13. Be3 Nc4
+14. Bxc4 dxc4 15. Nf3 Qb5 16. Rc1 b6 17. Qe2 Ba6 18. Ne5 Rc8 19. Rhd1 Qd5
+20. a3 Be7 21. Bf4 b5 22. Qe3 1/2-1/2
+

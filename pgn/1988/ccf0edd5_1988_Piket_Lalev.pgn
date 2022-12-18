@@ -1,0 +1,23 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Lalev, Dimitar"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "ccf0edd5"]
+[Epoch "Queen"]
+[WhiteID "1000055"]
+[WhiteCountry "NED"]
+[BlackID "2900254"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. Nf3 c5 3. c4 dxc4 4. d5 e6 5. Nc3 exd5 6. Qxd5 Qxd5 7. Nxd5 Bd6 8.
+e4 Nc6 9. Bxc4 Nf6 10. O-O Be6 11. Re1 O-O-O 12. Bg5 Ne5 13. Nd2 Nxc4 14. Nxc4
+Bxd5 15. exd5 Bc7 16. Ne3 Rhe8 17. Rec1 b6 18. b4 Bd6 19. Nf5 Be5 20. Rab1 Rxd5
+21. Ne3 Bxh2+ 22. Kxh2 Rxg5 23. Rc2 Re4 24. a4 Rh4+ 25. Kg1 Rgh5 26. g4 Rh1+
+27. Kg2 R5h2+ 28. Kg3 Ne4+ 29. Kf4 Rxb1 30. Kxe4 Rxb4+ 31. Ke5 Rh6 32. Nc4 Kc7
+33. f4 Re6+ 34. Kd5 Rxa4 35. g5 Re1 36. f5 Rd1+ 37. Ke5 Kc6 38. f6 Rd5+ 39. Kf4
+gxf6 0-1

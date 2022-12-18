@@ -1,0 +1,22 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "2"]
+[White "Prueske, Wolfgang"]
+[Black "Tolnai, Tibor"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f291189a"]
+[Epoch "Queen"]
+[WhiteID "4667271"]
+[WhiteCountry "GER"]
+[BlackID "700126"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 e6 6. Na3 a6 7. Nc4 Qd8 8. Nce5
+Nxe5 9. dxe5 Qc7 10. a4 Ne7 11. Bf4 Bd7 12. Bc4 Bc6 13. O-O h6 14. h4 g5 15.
+hxg5 Ng6 16. Bg3 hxg5 17. Re1 Be7 18. Qd3 Rd8 19. Qe3 Nh4 20. Bxh4 gxh4 21. Bd3
+h3 22. gxh3 Rxd3 23. Qxd3 Rxh3 24. Re3 c4 25. Qe2 Bc5 26. Kg2 Rh4 27. Kg3 Rh8
+28. Re4 f5 29. Rh4 Qg7+ 30. Kf4 Bxf3 0-1

@@ -1,0 +1,20 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Stempin, Pawel"]
+[Result "1/2-1/2"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "fac38235"]
+[Epoch "Queen"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackID "1100068"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Nd2 c6 7. Qxc4 e5 8.
+Ngf3 Bd6 9. O-O O-O 10. Qc2 exd4 11. Nxd4 Ne5 12. Nf5 Bxf5 13. Qxf5 Re8 14. Nb3
+Qe7 15. Qc2 Bc7 16. Bg5 1/2-1/2

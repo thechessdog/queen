@@ -1,0 +1,25 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Barbeau, Sylvain"]
+[Black "Lesiege, Alexandre"]
+[Result "1-0"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "375bc23b"]
+[Epoch "Queen"]
+[BlackID "2600170"]
+[BlackCountry "CAN"]
+[WhiteID "2600099"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 Nxf3+ 6. Qxf3 Be7 7. Qg3 O-O
+8. Qxe5 Re8 9. d3 Bb4 10. Qg5 h6 11. Qh4 b5 12. Bb3 d5 13. O-O Bxc3 14. bxc3
+dxe4 15. Qg3 Bf5 16. Bxh6 Nh5 17. Qg5 Qxg5 18. Bxg5 exd3 19. cxd3 Bxd3 20. Rfd1
+Bg6 21. Rd7 Nf6 22. Rxc7 Rec8 23. Rxc8+ Rxc8 24. Bxf6 gxf6 25. Rc1 a5 26. a3 a4
+27. Bd1 Bd3 28. f4 Kf8 29. Kf2 Ke7 30. Bf3 Bc4 31. h4 f5 32. Ke3 Kf6 33. Rd1
+Bb3 34. Rd6+ Kg7 35. Rc6 Re8+ 36. Kd4 Bc4 37. h5 Rd8+ 38. Ke5 Rd3 39. h6+ Kh7
+40. Kxf5 Rxc3 41. Kg5 Re3 42. Rb6 Re6 43. Rxe6 Bxe6 44. Be4+ Kh8 45. Kf6 Kg8
+46. f5 Bc4 47. g4 Kh8 48. g5 Kh7 49. Ke5 Bb3 50. f6+ Kh8 51. Kd4 1-0

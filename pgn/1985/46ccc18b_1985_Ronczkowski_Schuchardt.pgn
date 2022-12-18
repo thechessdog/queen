@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ronczkowski, M."]
+[Black "Schuchardt, G."]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "46ccc18b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 d6 6. g3 Qe7 7. Bg2 c5
+8. dxc5 dxc5 9. Bf4 Nc6 10. Ne5 Bd7 11. Rb1 Nxe5 12. Bxb7 Rd8 13. Bxe5 Bc8
+14. Qa4+ Kf8 15. Bxc8 Rxc8 16. Qa6 Qe8 17. O-O Ne4 18. Rb7 f6 19. Rxa7 1-0
+

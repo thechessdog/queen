@@ -1,0 +1,20 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stein, Leonid"]
+[Black "Schiller, Eric"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "0406c5eb"]
+[Epoch "Queen"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nc3 c6 3. Nf3 Bf5 4. Nh4 g6 5. Nxf5 gxf5 6. Bg5 Qc7 7. Qd3 e6 8. f3
+Bd6 9. O-O-O Bxh2 10. Kb1 h6 11. Bh4 Bg3 12. e4 Bxh4 13. Rxh4 Qe7 14. Rh3 fxe4
+15. fxe4 dxe4 16. Nxe4 Nf6 17. Nxf6+ Qxf6 18. Qb3 Qe7 19. Be2 Qc7 20. Bh5 Kd8
+21. Rf3 Qb6 22. Qa3 Nd7 23. Rxf7 1-0

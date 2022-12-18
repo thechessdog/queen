@@ -1,0 +1,23 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Lindsay, Fred"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "54ec14b7"]
+[Epoch "Queen"]
+[BlackID "2001969"]
+[BlackCountry "USA"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nc6 5. Bb5 dxe4 6. a3 Ba5 7. Qg4 Nf6 8.
+Qxg7 Rg8 9. Qh6 Rg6 10. Qh4 Rg4 11. Qh6 Qxd4 12. O-O-O Rg6 13. Qh4 Bd7 14. Nge2
+Qe5 15. Bf4 Qf5 16. h3 Rxg2 17. Ng3 Rxg3 18. Bxc6 Rg6 19. Bxd7+ Nxd7 20. Ne2
+Bb6 21. Rhg1 Bc5 22. Rxg6 hxg6 23. Qh8+ Bf8 24. Be3 O-O-O 25. Qh4 Bg7 26. Nc3
+Bf6 27. Qh7 Bxc3 28. bxc3 Qf6 29. Bd4 e5 30. Bxe5 Nxe5 31. Rxd8+ Qxd8 32. Qg7
+Nc4 0-1

@@ -1,0 +1,21 @@
+[Event "Cannes op"]
+[Site "Cannes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moisan, Fabrice"]
+[Black "Chevallier, Didier"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "377f8c13"]
+[Epoch "Queen"]
+[WhiteID "601330"]
+[BlackID "600784"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. Qd2 Rb8 8. h3 b5
+9. Nd1 b4 10. Ne2 e5 11. f4 Ne7 12. O-O f5 13. fxe5 dxe5 14. Nf2 O-O 15. Bg5
+Qd6 16. Bxe7 Qxe7 17. b3 f4 18. Nxd4 cxd4 19. gxf4 Bh6 20. Qe1 Bxf4 21. Nd1 Qg5
+22. Kh1 Qh5 23. Nf2 Bg3 24. Qd2 Qh4 25. Kg1 Bf4 26. Qe1 Be3 0-1

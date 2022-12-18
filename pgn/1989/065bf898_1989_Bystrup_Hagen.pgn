@@ -1,0 +1,16 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bystrup, Ole"]
+[Black "Hagen, Kresten Skytte"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence, Alekhine variation"]
+[HashCode "065bf898"]
+[Epoch "Queen"]
+[BlackID "1418629"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 e6 5. Bxc4 b5 6. Be2 Nf6 7. Nf3 b4 8. e5
+bxc3 9. exf6 cxb2 10. fxg7 bxa1=Q 11. gxh8=Q Qa5+ 12. Bd2 Qxd1+ 13. Bxd1 Qxa2
+14. Bb4 Nd7 15. Ne5 Qb1 16. Bxf8 Nxf8 17. O-O Ba6 18. Be2 Qb7 19. Bf3 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gramsch"]
+[Black "Fechner, J."]
+[Result "0-1"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "5b4b69ca"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Qc2 c5 8.
+Rd1 Qc8 9. b3 cxd4 10. Nxd4 Bxg2 11. Kxg2 d5 12. Nd2 Qb7 13. Kg1 Rc8 14.
+Qd3 Nbd7 15. Qf3 Bb4 16. Nb5 a6 17. Ba3 Ne5 18. Qh1 Bxa3 19. Nxa3 Qa7 20.
+Nf3 Ng6 21. cxd5 Nxd5 22. Rdc1 b5 23. Kg2 Qb7 24. Qe1 Ne5 25. e4 Nxf3 26.
+Kxf3 Nf6 27. Qe3 Qe7 28. Rxc8+ Rxc8 29. Rc1 Rd8 30. Nc2 e5 31. Qc3 Qb7 32.
+Re1 Nxe4 33. Qxe5 Nd2+ 34. Kg4 g6 35. Qe7 Qc8+ 36. Kf4 Qf5+ 37. Ke3 Qf3#
+0-1
+

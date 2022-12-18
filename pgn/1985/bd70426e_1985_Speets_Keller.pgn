@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Speets, CJ."]
+[Black "Keller, S."]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "bd70426e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+Bd3 Nbd7 9. O-O b5 10. Qe1 Bb7 11. a3 Be7 12. fxe5 dxe5 13. Qg3 Nh5 14. Qe1
+Nc5 15. b4 Nxd3 16. cxd3 O-O 17. Bb2 Nf4 18. Qe3 f6 19. g3 Ne6 20. Rac1 Qd7
+21. Ne2 Rac8 22. Rxc8 1/2-1/2
+

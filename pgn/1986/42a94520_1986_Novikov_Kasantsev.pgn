@@ -1,0 +1,16 @@
+[Event "Perm"]
+[Site "Perm"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Novikov, Igor"]
+[Black "Kasantsev"]
+[Result "1-0"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "42a94520"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 c5 8. cxd5
+cxd4 9. dxe6 dxc3 10. exd7 cxb2 11. dxc8=Q bxa1=Q 12. Bxh7+ 1-0

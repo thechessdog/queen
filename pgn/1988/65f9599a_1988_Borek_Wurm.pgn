@@ -1,0 +1,20 @@
+[Event "Lienz"]
+[Site "Lienz"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Borek, Jutta"]
+[Black "Wurm"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "65f9599a"]
+[Epoch "Queen"]
+[WhiteID "1601628"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Bc5 10. Bxc5 Nxc5 11. c3 O-O 12. Bc2 Qe7 13. Nbd2 a5 14. Nd4 Nxd4
+15. cxd4 Nd7 16. f4 f5 17. Nf3 h6 18. Qe1 c5 19. Nh4 Kh7 20. g4 g6 21. Qg3 Rg8
+22. Kh1 Qf7 23. gxf5 Bxf5 24. Nxf5 gxf5 25. Qh3 Raf8 26. Rg1 Rxg1+ 27. Rxg1
+cxd4 1-0

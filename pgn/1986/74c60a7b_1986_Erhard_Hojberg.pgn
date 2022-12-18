@@ -1,0 +1,18 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Erhard, Steen"]
+[Black "Hojberg, Karsten"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "74c60a7b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. c5 c6 6. b4 b6 7. Bf4 a5 8. b5
+Bb7 9. e3 bxc5 10. bxc6 Bxc6 11. Bb5 Qc8 12. Qa4 Ne4 13. Nxe4 Bxb5 14. Qxb5
+dxe4 15. Ne5 cxd4 16. O-O Ra7 17. Rab1 Qa6 18. Qa4 f6 19. Rb8+ Ke7 20. Qa3+
+Qd6 21. Nc6+ 0-1
+

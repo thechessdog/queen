@@ -1,0 +1,20 @@
+[Event "Leningrad tt"]
+[Site "Leningrad"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Agapov, Konstantin"]
+[Black "Ivanov, Sergey"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "589e9d78"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Ndb5 Nxe4 12. Nxe4 Bxh4 13. Nbxd6 Rb8 14. g3
+Bf6 15. g4 Bd4 16. c3 f5 17. gxf5 exf5 18. Bc4+ Kh8 19. Nf7+ Rxf7 20. Bxf7 fxe4
+21. cxd4 Bf5 22. Qe3 Nb4 23. Kb1 Nd3 24. Rhg1 Qb6 25. Rxd3 exd3 26. Qe5 d2+ 27.
+Qxf5 Qxd4 28. Qg4 Qe4+ 29. Ka1 Qe1+ 30. Qd1 Qf2 31. Bg6 Rd8 32. Bc2 Re8 33. Bb1
+Kg8 34. Qb3+ Kf8 35. Rd1 Rd8 36. Qb4+ Kg8 37. Qc4+ Kf8 38. Bg6 Rd7 39. Qe6 Qe1
+40. Rxe1 dxe1=Q+ 41. Qxe1 1-0

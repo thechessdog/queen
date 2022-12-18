@@ -1,0 +1,23 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Behrmann, Joachim"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "3dff4197"]
+[Epoch "Queen"]
+[WhiteID "4607589"]
+[WhiteCountry "GER"]
+[BlackID "4600436"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. d5 Na5 8. Nfd2
+c5 9. Nc3 e6 10. Qc2 exd5 11. cxd5 Re8 12. b3 b5 13. Bb2 Bf5 14. e4 Bd7 15. h3
+Rc8 16. f4 Qb6 17. Kh2 b4 18. Nd1 c4 19. bxc4 Bb5 20. e5 Nxc4 21. Nxc4 Bxc4 22.
+Rf2 dxe5 23. fxe5 Nxd5 24. Qd2 Qe6 25. Bxd5 Qxd5 26. Qxb4 Bxe5 27. Bxe5 Qxe5
+28. Nb2 Bd5 29. Rd1 Rc3 30. Nd3 Qc7 31. Nf4 Ba8 32. Qb5 Bc6 33. Qg5 Qe5 34. Qh4
+Qe4 35. Re2 Rc2 0-1

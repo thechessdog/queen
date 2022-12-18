@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schreiber, H."]
+[Black "Reinhardt, W."]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "b8a0a211"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. Qd3 cxd4 9. cxd4 Nc6 10. e4 Nb6 11. Be3 O-O 12. Nh3 f5 13. Be2 fxe4 14.
+fxe4 Bd7 15. Nf2 Be8 16. O-O Bg6 17. Rad1 Nd5 18. Qd2 Nxe3 19. Qxe3 Qb6 20.
+Qc3 Rad8 21. d5 exd5 22. exd5 Na5 23. Bf3 Rd6 24. Kh1 Rf4 25. Nd3 Rc4 26.
+Qe5 Rc8 27. Bg4 Re8 28. Be6+ Rdxe6 29. dxe6 Rxe6 30. Qc5 Qxc5 31. Nxc5 Re8
+32. Rd7 b6 33. Rxa7 Nc4 34. Nd7 Be4 35. Kg1 Bd5 36. Rd1 Be6 37. Rd3 1-0
+

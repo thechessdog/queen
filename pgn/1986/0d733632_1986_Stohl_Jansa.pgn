@@ -1,0 +1,19 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1986.01.01"]
+[Round "10"]
+[White "Stohl, Igor"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "0d733632"]
+[Epoch "Queen"]
+[WhiteID "14900025"]
+[WhiteCountry "SVK"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. d5 Nb4 8. Re1
+e6 9. a3 Na6 10. dxe6 Bxe6 11. Nd4 Bd7 12. Be3 Nc5 13. f3 a5 1/2-1/2

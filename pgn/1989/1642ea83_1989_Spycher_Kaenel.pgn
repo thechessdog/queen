@@ -1,0 +1,22 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "11"]
+[White "Spycher, B."]
+[Black "Kaenel, Hansjuerg"]
+[Result "1/2-1/2"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "1642ea83"]
+[Epoch "Queen"]
+[BlackID "1300440"]
+[BlackCountry "SUI"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O Nc6 8. d5
+Na5 9. Nd2 c5 10. Qc2 Bd7 11. Rb1 a6 12. b3 b5 13. Bb2 Rb8 14. Ba1 Qc7 15. h3
+Rb7 16. Rbe1 Rfb8 17. Nd1 bxc4 18. bxc4 Ne8 19. Bxg7 Nxg7 20. e4 Rb4 21. a3
+R4b7 22. Re3 fxe4 23. g4 e5 24. Bxe4 Rf8 25. Rg3 Rbb8 26. h4 Kh8 27. Kg2 Rf4
+28. Ne3 Nb3 29. Nxb3 Ba4 30. Rb1 Bxb3 31. Rxb3 Rxb3 32. Qxb3 Rxe4 33. Qa4 a5
+34. Qc6 Qd8 35. Qb7 h5 36. Qf7 Qe8 37. Qxe8+ Nxe8 38. gxh5 gxh5 39. Rg6 Rf4 40.
+Re6 Rf8 41. Rh6+ Kg7 42. Rxh5 1/2-1/2

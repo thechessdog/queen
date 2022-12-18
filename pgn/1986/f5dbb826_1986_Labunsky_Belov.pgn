@@ -1,0 +1,18 @@
+[Event "Andropov"]
+[Site "Andropov"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Labunsky"]
+[Black "Belov"]
+[Result "1/2-1/2"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "f5dbb826"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. O-O g5 6. g3 Nc6 7. gxf4 gxf4 8.
+d4 Bh3 9. Rf2 Qf6 10. Nc3 Nge7 11. Nd5 Rg8+ 12. Kh1 Nxd5 13. Bxd5 O-O-O 14.
+Bxc6 bxc6 15. Ng1 Bg4 16. Qd3 Qe6 17. d5 cxd5 18. exd5 Qg6 19. Qa6+ Kb8 20.
+Qb5+ Kc8 21. Qa6+ 1/2-1/2
+

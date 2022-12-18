@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Shterengas, V."]
+[Black "Tetiushkin, A."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "a8bf2e67"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nbc6 12. Bf4 Bd7 13. O-O d4 14.
+Rfe1 Qa5 15. Ng3 O-O-O 16. Ne4 Nf5 17. Qxf7 Rdf8 18. Qh5 Qd5 19. Ng3 Nce7
+20. Be4 Qc5 21. Bg5 Nxg3 22. Bxe7 Qxe7 23. fxg3 Qc5 24. Kh1 Rh8 25. Qg5 Bc6
+26. Bxc6 Qxc6 27. Rf1 Rxf1+ 28. Rxf1 Rd8 29. h4 d3 30. cxd3 Rxd3 31. Qe7
+Rd7 32. Qe8+ Kc7 33. Kh2 c2 34. Rc1 Qc4 35. Qg6 Rd2 36. Qg5 Qd5 37. Qe7+
+Kc6 38. Qd6+ Qxd6 39. exd6 Kxd6 40. h5 Ke7 41. g4 Kf6 42. h6 Kg6 43. g5 b5
+44. Kg3 a5 45. Kf3 b4 46. axb4 axb4 47. Ke3 Rxg2 48. Kd3 b3 49. Kc3 Rg3+
+50. Kb2 Rd3 0-1
+

@@ -1,0 +1,16 @@
+[Event "Fremont,CA"]
+[Site "Fremont,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "McDaniel"]
+[Black "Ladd"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob"]
+[Variation "Fritz gambit"]
+[HashCode "b931f696"]
+[Epoch "Queen"]
+
+1. g4 d5 2. Bg2 Bxg4 3. c4 c6 4. Qb3 Qc8 5. cxd5 cxd5 6. Nc3 e6 7. Nxd5
+exd5 8. Bxd5 Be6 9. Qxb7 Bxd5 10. Qxc8+ 1-0
+

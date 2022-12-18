@@ -1,0 +1,17 @@
+[Event "Spring "]
+[Site "Budapest open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Landenbergue, Claude"]
+[Black "Hector, Jonny"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "12609a1d"]
+[Epoch "Queen"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. c4 c6 2. e4 e5 3. Nf3 f5 4. exf5 e4 5. Nd4 Qb6 6. Nb3 a5 7. d4 d6 8. Qh5+
+Kd8 9. Bg5+ Nf6 10. Qf7 1-0

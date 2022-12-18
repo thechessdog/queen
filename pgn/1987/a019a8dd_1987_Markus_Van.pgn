@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Markus"]
+[Black "Van de Kooy"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "a019a8dd"]
+[Epoch "Queen"]
+[WhiteID "7106122"]
+[WhiteCountry "INA"]
+
+1. g3 e5 2. c4 c6 3. Bg2 d5 4. cxd5 cxd5 5. d4 e4 6. Nc3 Nc6 7. Nh3 Nf6 8. Bg5
+Be7 9. O-O Be6 10. Nf4 Qc7 11. e3 O-O-O 12. Qa4 a6 13. Bxf6 gxf6 14. a3 b6 15.
+Rfc1 Nb8 16. Nb5 1-0

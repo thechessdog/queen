@@ -1,0 +1,29 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shulman, Vladlen"]
+[Black "Galdunts, Sergey"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "d1899956"]
+[Epoch "Queen"]
+[WhiteID "11600187"]
+[WhiteCountry "LAT"]
+[BlackID "13300067"]
+[BlackCountry "ARM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Re1 Nd7 8.
+d4 exd4 9. Qxd4 O-O 10. Nc3 Bf6 11. Qd3 Ne5 12. Nxe5 Bxe5 13. Qxd8 Rxd8 14. f4
+Bd6 15. Be3 f5 16. e5 Be7 17. Red1 Be6 18. Kf2 Kf7 19. a3 a5 20. Ke1 Rxd1+ 21.
+Rxd1 a4 22. Ne2 c5 23. Nc1 Ra5 24. c3 Rb5 25. Rd2 Bc4 26. Kd1 Ke6 27. g3 Ra5
+28. Nd3 b6 29. Nf2 Ra8 30. Ke1 h6 31. h4 g6 32. Kd1 Rg8 33. Nh3 Bd5 34. Ke1 Rh8
+35. Kd1 Be4 36. Ke1 Rf8 37. Nf2 Bd5 38. Nh3 Rb8 39. Nf2 Rh8 40. Nh3 b5 41. Nf2
+c4 42. Kd1 Bf3+ 43. Kc2 c5 44. Kb1 b4 45. Ka2 Rg8 46. Ka1 b3 47. Kb1 g5 48.
+hxg5 hxg5 49. Nh3 gxf4 50. Bxf4 Rh8 51. Rh2 Rh5 52. Be3 Kxe5 53. Bg1 Rh8 54.
+Kc1 Bf8 55. Nf4 Rg8 56. Bf2 Ke4 57. Ne6 Bd6 58. Rh4+ Bg4 59. Nxc5+ Kf3 60. Bd4
+Bxg3 61. Rh8 Rxh8 62. Bxh8 Bf4+ 63. Kb1 Be3 64. Nd7 Ke4 65. Nf6+ Kd3 66. Bg7
+Bf3 67. Nd7 Be4 68. Ne5+ Kd2+ 69. Ka1 Kc2 70. Nxc4 Bc1 71. Bf6 Bd3 72. Ne3+
+Bxe3 73. c4 f4 74. c5 f3 75. Bh4 0-1

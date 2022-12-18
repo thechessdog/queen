@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1985.01.01"]
+[Round "5"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Thorsteins, Karl"]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "93fc45e8"]
+[Epoch "Queen"]
+[BlackID "2300060"]
+[BlackCountry "ISL"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Re1 O-O 10. h3 a6 11. Bf1 b5 12. a4 b4 13. Nd5 Nxd5 14. exd5 Na5 15. Bd2
+Rb8 16. Re4 b3 17. Qe1 Nb7 18. cxb3 Nc5 19. Rb4 Rxb4 20. Bxb4 Nxb3 21. Ra3 Nd4
+22. Nxd4 exd4 23. a5 Bf6 24. Bc4 Bb7 25. Qf1 Qa8 26. Bxd6 Rc8 27. Bf4 Bxd5 28.
+Bxd5 Qxd5 29. Qxa6 Ra8 30. Qb6 Qe4 31. Bd2 Qe2 32. Qc6 Re8 33. a6 Bh4 34. g3
+Qd1+ 35. Kg2 Re2 36. Qc1 1-0

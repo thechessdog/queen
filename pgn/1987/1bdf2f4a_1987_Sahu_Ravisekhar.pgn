@@ -1,0 +1,20 @@
+[Event "New Delhi"]
+[Site "New Delhi"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sahu, Sekhar Chandra"]
+[Black "Ravisekhar, Raja"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Fraser attack"]
+[HashCode "1bdf2f4a"]
+[Epoch "Queen"]
+[WhiteID "5000157"]
+[BlackID "5000076"]
+[WhiteCountry "IND"]
+[BlackCountry "IND"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nf3 Qxe4+ 6. Be2 Bb4+ 7. c3 Bc5
+8. O-O Nge7 9. Bd3 Qg4 10. b4 Bd6 11. Na3 Ne5 12. Nb5 Nxf3+ 13. Qxf3 Qxf3 14.
+gxf3 Ng6 15. Nxd6+ cxd6 16. Re1+ Kd8 17. Bxg6 1/2-1/2

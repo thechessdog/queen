@@ -1,0 +1,22 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Borgo, Giulio"]
+[Black "Belotti, Bruno"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "a90547d3"]
+[Epoch "Queen"]
+[BlackID "800040"]
+[BlackCountry "ITA"]
+[WhiteID "800180"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Be3 b5 8. Qf3
+Bb7 9. Bd3 Nbd7 10. g4 b4 11. Nce2 Nc5 12. Ng3 Rc8 13. g5 Nfd7 14. O-O g6 15.
+Qg4 Bg7 16. f5 exf5 17. exf5 O-O 18. f6 Re8 19. fxg7 Rxe3 20. Ndf5 Ne5 21. Nh6+
+Kxg7 22. Nh5+ gxh5 23. Nf5+ Kh8 24. Qxh5 Ncxd3 25. Nxe3 Qb6 26. Qh3 Rxc2 27.
+Rf6 Qc6 0-1

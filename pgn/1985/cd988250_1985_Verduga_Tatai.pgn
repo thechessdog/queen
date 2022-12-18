@@ -1,0 +1,18 @@
+[Event "Capablanca mem-B"]
+[Site "Capablanca mem-B"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Verduga, Denis Homero"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "cd988250"]
+[Epoch "Queen"]
+[BlackCountry "ITA"]
+[WhiteCountry "ECU"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. a3 e6 6. Rb1 a5 7. d3 Nge7 8. e4 O-O
+9. Nge2 d6 10. O-O Rb8 11. Be3 Nd4 12. b4 axb4 13. axb4 Ndc6 14. bxc5 dxc5 15.
+Nb5 Ra8 16. Ned4 Nxd4 17. Qd2 1/2-1/2

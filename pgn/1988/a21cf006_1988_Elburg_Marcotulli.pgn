@@ -1,0 +1,17 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Elburg, J."]
+[Black "Marcotulli, G."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "a21cf006"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. O-O
+Nf6 9. hxg5 Nh5 10. Ne5 hxg5 11. Nxf7 Ng3 12. Nxd8 Rh1+ 13. Kf2 Nxf1 14.
+Bxf1 Kxd8 15. Qf3 Be6 16. g3 Rh2+ 17. Kg1 Rh6 18. Bg2 Kd7 19. d5 1-0
+

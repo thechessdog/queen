@@ -1,0 +1,25 @@
+[Event "FRG Hochschul-ch"]
+[Site "Mannheim"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Kettner, Juergen"]
+[Black "Zuse, Peter"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "76e188d3"]
+[Epoch "Queen"]
+[WhiteID "4676718"]
+[WhiteCountry "GER"]
+[BlackID "4605306"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Nbd7 7. g4 d5 8. Nb3
+Nxe4 9. Nxd5 e6 10. Nf4 Be7 11. Bg2 Nd6 12. Qe2 Qc7 13. Nh5 g6 14. Ng7+ Kd8 15.
+O-O-O Rg8 16. Bd4 Nb6 17. Rd3 Nbc4 18. f4 Bf8 19. Bf6+ Kd7 20. Rxd6+ Bxd6 21.
+Rd1 Rb8 22. f5 Rxg7 23. Bxg7 b5 24. Nd4 Rb6 25. Nxe6 Qa7 26. Nf4 Bb7 27. Nd5
+Bxd5 28. Bxd5 Bf4+ 29. Kb1 Nd2+ 30. Ka1 Rd6 31. Bxf7 Qc5 32. Bc3 b4 33. Be6+
+Kd8 34. Bf6+ Kc7 35. c3 a5 36. Bd4 Qc6 37. Be5 Bxe5 38. Qxe5 Qb6 39. cxb4 axb4
+40. Rc1+ Kb8 41. Rc5 Nf3 42. Qh8+ Rd8 43. Rc8+ Ka7 44. Qg7+ Ka6 45. Rc1 Qc5 46.
+Qh6 g5 47. Bc4+ Ka5 48. Qa6# 1-0

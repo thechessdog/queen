@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mielcarek, K."]
+[Black "Schuetze, M."]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "5eb28b6c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d3 f6 7. Be3 Be6
+8. Nbd2 c5 9. Nc4 Bxc4 10. dxc4 Qxd1 11. Raxd1 Rd8 12. Rxd8+ Kxd8 13. Rd1+
+Kc8 14. Ne1 b6 15. g3 Ne7 16. f4 Nc6 17. c3 Bd6 18. f5 Rd8 19. g4 a5 20. a4
+g6 1/2-1/2
+

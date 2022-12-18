@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Geisendorf"]
+[Black "Schuld"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "1bb179bb"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2
+Be6 8. Bb3 Nd7 9. Bf4 Nb6 10. O-O-O Nd5 11. Bg3 O-O-O 12. h3 Bf5 13. Qxe7
+Bxe7 14. Ne2 Rhe8 15. Rhe1 Bf8 16. Nf4 Rxe1 17. Rxe1 Nxf4 18. Bxf4 Rxd4 19.
+Re8+ Rd8 20. Rxd8+ Kxd8 21. Bxf7 1/2-1/2
+

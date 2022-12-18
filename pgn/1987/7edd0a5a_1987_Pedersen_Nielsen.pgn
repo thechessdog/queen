@@ -1,0 +1,22 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pedersen, Karl"]
+[Black "Fries-Nielsen, Niels Jorgen"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "7edd0a5a"]
+[Epoch "Queen"]
+[WhiteID "1400525"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Bxc6 dxc6 7. Re1 c4 8. b3
+cxb3 9. axb3 e5 10. Na3 b5 11. d4 exd4 12. cxd4 Ne7 13. Nc2 O-O 14. Ba3 Re8 15.
+Ne3 h6 16. Qc2 Kh7 17. Rad1 Bd7 18. h4 a5 19. Bc5 a4 20. Ra1 axb3 21. Qxb3 Kg8
+22. Ne5 Bxe5 23. dxe5 Rxa1 24. Rxa1 Nc8 25. Rd1 Qc7 26. f4 Be6 27. Qc3 Rd8 28.
+Rxd8+ Qxd8 29. f5 Ba2 30. g3 Bb1 31. e6 Bxe4 32. Qe5 gxf5 33. e7 Nxe7 34. Bxe7
+Qd7 35. Bf6 Qe6 36. Qd4 Kh7 37. h5 Bf3 38. Kf2 Bxh5 39. Qd8 Bg4 40. Ng2 Qe2+
+41. Kg1 Qd1+ 42. Qxd1 1/2-1/2

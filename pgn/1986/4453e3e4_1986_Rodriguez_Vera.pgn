@@ -1,0 +1,18 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "4453e3e4"]
+[Epoch "Queen"]
+[WhiteCountry "ESP"]
+[BlackCountry "CUB"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Bb3 Nc6 8. Qe2
+Qc7 9. Nc3 Bd6 10. Bd2 O-O 11. Rac1 b6 12. dxc5 Bxc5 13. Na4 Be7 14. Bc3 b5 15.
+Nc5 Bxc5 16. Bxf6 Bd6 17. Bh4 Bb7 18. Rfd1 1/2-1/2

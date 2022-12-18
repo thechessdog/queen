@@ -1,0 +1,21 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Fedder, Steen"]
+[Black "Reinert, Mads"]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "13b07b9a"]
+[Epoch "Queen"]
+[WhiteID "1400126"]
+[WhiteCountry "DEN"]
+[BlackID "1400487"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. Be2 O-O 12. Qc2 Nbd7 13. a4 b4 14. Nd1 Re8 15. O-O
+b3 16. Qxb3 g5 17. Bg3 Nxe4 18. Nxe4 Rxe4 19. Qc2 Rb4 20. Bxd6 Bb7 21. Ne3 Rxb2
+22. Qd1 Nb6 1/2-1/2

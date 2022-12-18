@@ -1,0 +1,19 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Balashov, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "43087152"]
+[Epoch "Queen"]
+[BlackID "4100263"]
+[BlackCountry "RUS"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bb3 Nc6 7. Nf3 Bg4 8.
+Ng5 Bxd1 9. Bxf7+ Kd7 1/2-1/2

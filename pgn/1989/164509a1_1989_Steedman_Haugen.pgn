@@ -1,0 +1,22 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Steedman, Jim"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "164509a1"]
+[Epoch "Queen"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 b6 11. O-O Ba6 12. Kh1 f5 13. Ng5 Qf6 14. Ne6 Rc8 15.
+Ra3 Nf8 16. e5 Qe7 17. Nxg7 Kxg7 18. g4 fxg4 19. Qxg4 Bb7 20. Bc4 a6 21. e6
+Qxe6 22. f5 Qf6 23. Bg5 Qd4 24. Rf4 h5 25. Qg2 Re8 26. f6+ Kf7 27. Rxd4 Re1+
+28. Bf1 cxd4 29. Ne4 Bxd5 30. Nxd6+ Ke6 31. Rf3 Nbd7 32. Qh3+ Kxd6 33. Qg3+ Ne5
+34. Qxe1 Bxf3+ 35. Bg2 Ne6 36. Bxf3 Nxf3 37. Bf4+ Kd5 38. Qe2 Nfg5 39. Qe5+ Kc4
+40. Bxg5 1-0

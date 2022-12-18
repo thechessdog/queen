@@ -1,0 +1,27 @@
+[Event "Munich op"]
+[Site "Munich"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Plesec, Damjan"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "83e5eaf8"]
+[Epoch "Queen"]
+[WhiteID "14600161"]
+[BlackID "4600436"]
+[WhiteCountry "SLO"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. d3 Nc6 3. f4 d6 4. Nf3 g6 5. g3 Bg7 6. c3 f5 7. Bg2 Nf6 8. Qe2 O-O
+9. O-O Rb8 10. Nbd2 Qd7 11. Nb3 b6 12. exf5 gxf5 13. Re1 Re8 14. d4 Bb7 15. Be3
+e6 16. Rad1 Qc7 17. Bc1 Ne4 18. Be3 Ne7 19. Nfd2 Nxd2 20. Qxd2 Nd5 21. Bf2 c4
+22. Na1 Nf6 23. Bxb7 Qxb7 24. Qe2 b5 25. Nc2 Ne4 26. Rf1 a5 27. Be1 Re7 28. Ne3
+d5 29. a3 Bf6 30. Rf3 Rg7 31. Nf1 Qf7 32. Nd2 Qh5 33. Nxe4 dxe4 34. Rf2 Qxe2
+35. Rxe2 h5 36. Kf2 Rd7 37. Red2 b4 38. axb4 axb4 39. Ra1 Kf7 40. Ra4 h4 41.
+Rxb4 Rxb4 42. cxb4 Rxd4 43. Rc2 h3 44. Ke2 Rd3 45. Bc3 Bd4 46. b5 Bb6 47. Be5
+Rxg3 48. Rxc4 Rg2+ 49. Kd1 Rxh2 50. Rc6 Rxb2 51. Rxb6 Rxb5 52. Rxb5 h2 53. Ke2
+h1=Q 54. Rb7+ Ke8 55. Rb2 Qf3+ 56. Ke1 Qd3 57. Rd2 Qe3+ 58. Re2 Qg1+ 59. Kd2
+Kd7 60. Re1 Qf2+ 61. Re2 Qb6 62. Ke1 Qg1+ 63. Kd2 Kc6 64. Re1 Qf2+ 65. Re2 Qa7
+66. Re3 Kd5 67. Rc3 Qf2+ 68. Kc1 e3 0-1

@@ -1,0 +1,20 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Maus, Sonke"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "eb73ca42"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "4600240"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 e5 5. d5 Nbd7 6. a4 c4 7. Bc2 b6 8. Na3 Ba6
+9. Qe2 Nc5 10. Nb5 Rc8 11. Nf3 Qd7 12. Nd2 Be7 13. Nxc4 O-O 14. Nd2 g6 15. c4
+Nh5 16. g3 f5 17. exf5 Rxf5 18. b4 Nxa4 19. Bxa4 1-0

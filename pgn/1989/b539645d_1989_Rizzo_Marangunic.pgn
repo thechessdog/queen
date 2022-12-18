@@ -1,0 +1,22 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rizzo, Marina"]
+[Black "Marangunic, Srdjan"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "b539645d"]
+[Epoch "Queen"]
+[BlackID "14500159"]
+[BlackCountry "CRO"]
+[WhiteID "102687"]
+[WhiteCountry "ARG"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. h3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bg5 c6 11. Bc4 h6 12. Bh4 Qe7 13. Qf3 g5 14. Bg3 b5 15.
+Bb3 Bb7 16. Qe2 Rfd8 17. f3 Nh5 18. Bf2 Nf4 19. Qe3 Bf8 20. Rad1 a5 21. a3 b4
+22. axb4 axb4 23. Na4 Ba6 24. Rfe1 Ne2+ 25. Kh2 Nd4 26. Nb6 Rab8 27. Na4 c5 28.
+c4 bxc3 0-1

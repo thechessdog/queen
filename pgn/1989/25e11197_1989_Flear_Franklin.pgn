@@ -1,0 +1,21 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Flear, Glenn C"]
+[Black "Franklin, Michael J"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "25e11197"]
+[Epoch "Queen"]
+[WhiteID "400165"]
+[WhiteCountry "ENG"]
+[BlackID "400793"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 Nh5 5. Nh3 c5 6. d5 Qh4+ 7. Nf2 Qxc4 8. e4
+Bxc3+ 9. bxc3 Qxc3+ 10. Bd2 Qd4 11. Qc1 exd5 12. Bc3 Qa4 13. Qg5 d4 14. Bd2 O-O
+15. Qxh5 c4 16. Be2 Nc6 17. O-O b5 18. Ng4 Re8 19. Nh6+ gxh6 20. Bxh6 Re6 21.
+f4 Qa3 22. Rf3 d3 23. f5 Qc5+ 24. Kh1 dxe2 25. Qg5+ Rg6 26. fxg6 1-0

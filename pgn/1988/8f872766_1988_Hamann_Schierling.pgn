@@ -1,0 +1,18 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hamann, Frank"]
+[Black "Schierling, Eckhard"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "8f872766"]
+[Epoch "Queen"]
+[BlackID "4676629"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. g3 e6 5. Bg2 b5 6. O-O Bb7 7. Ne5 Bd6 8. Nc3
+Bxe5 9. dxe5 Qc7 10. Ne4 Ne7 11. Nd6+ Kf8 12. a4 Nd7 13. axb5 Nxe5 14. Nxb7
+Qxb7 15. Bf4 Qxb5 16. Qd6 0-1

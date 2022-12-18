@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Vries, Sylvia"]
+[Black "Hotting"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[HashCode "4616ffd7"]
+[Epoch "Queen"]
+[WhiteID "1001639"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qe2 Nc6 7. Ncb5 axb5 8.
+Qxb5 Bd7 9. Qc4 Nxe4 10. Bd3 Qa5+ 11. Kf1 Qd2 12. Bxd2 Nxd2+ 13. Kg1 Nxc4 14.
+Bxc4 Nxd4 15. c3 Be6 16. Bd3 Nb3 0-1

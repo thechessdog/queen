@@ -1,0 +1,23 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fradkin, Boris"]
+[Black "Luther, Thomas"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "d036f549"]
+[Epoch "Queen"]
+[BlackID "4611420"]
+[BlackCountry "GER"]
+[WhiteID "4103297"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Ne2 Nbd7 10. O-O e5 11. a4 Qc7 12. Ba2 b6 13. Ba3 Ba6 14. c4 Rfe8
+15. d5 e4 16. Ng3 Qe5 17. Qc2 Qg5 18. Rae1 h5 19. f4 exf3 20. gxf3 h4 21. Qf5
+Re5 22. Qh3 hxg3 23. f4 Qh5 24. Qxh5 Rxh5 25. hxg3 Ne4 26. Kg2 Ndf6 27. Bb2 Ng4
+28. Rh1 Rxh1 29. Rxh1 Re8 30. Kf3 f5 31. Rh5 Nef6 32. Bxf6 Rxe3+ 33. Kg2 Nxf6
+0-1

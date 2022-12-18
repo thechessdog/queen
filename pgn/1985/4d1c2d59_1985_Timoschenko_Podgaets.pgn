@@ -1,0 +1,21 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Timoshchenko, Gennadi"]
+[Black "Podgaets, Mikhail"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "4d1c2d59"]
+[Epoch "Queen"]
+[BlackCountry "UKR"]
+[WhiteCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 Nc6 7. Nge2 a6 8. Qd2
+Re8 9. h4 h5 10. Qe3 Bd7 11. O-O-O b5 12. e5 Na5 13. Nf4 Bf5 14. cxb5 axb5 15.
+Bxb5 dxe5 16. Bxe8 exf4 17. Qxf4 Nd5 18. Nxd5 Qxd5 19. g4 hxg4 20. fxg4 Nb3+
+21. axb3 Qg2 22. Qxf5 gxf5 23. Ba4 Bxd4 24. Rxd4 Qxh1+ 25. Rd1 Qe4 26. gxf5 f6
+27. Bd2 Qxf5 28. Bc3 Qf4+ 29. Kb1 Qe4+ 30. Kc1 Qxh4 31. Re1 Kf7 32. Kb1 Rxa4
+33. bxa4 Qxa4 0-1

@@ -1,0 +1,19 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gajic, D."]
+[Black "Novakovic, Nemanja"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "96ed320e"]
+[Epoch "Queen"]
+[BlackID "916757"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. Bc4 Nxc3 7. bxc3 e6 8.
+O-O Be7 9. Rb1 O-O 10. Be3 cxd4 11. cxd4 Nb4 12. Ne5 Nd5 13. Bd2 Nb6 14. Bb5
+Qc7 15. Bd3 Bf6 16. Re1 Rd8 17. c4 Qd6 18. Bxh7+ Kxh7 19. Qh5+ Kg8 20. Qxf7+
+1-0

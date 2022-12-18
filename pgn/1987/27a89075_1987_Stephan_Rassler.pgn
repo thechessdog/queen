@@ -1,0 +1,17 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stephan"]
+[Black "Rassler"]
+[Result "1/2-1/2"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "27a89075"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Na6 9. Bxa6 bxa6 10. Nf3 Bf5 11. O-O Rfc8 12. Bg3 Rc2 13. b3 Qa5
+14. a3 Qc3 15. b4 Rc8 16. h3 Qb2 17. Re1 R8c3 18. Kh2 Rxa3 19. Rxa3 1/2-1/2
+

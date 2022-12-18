@@ -1,0 +1,17 @@
+[Event "corr BDH/H"]
+[Site "corr BDH/H"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hauernheim_Thoma, W"]
+[Black "Remling"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "4cdddc30"]
+[Epoch "Queen"]
+
+1. g4 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Qb3 Ne7 6. Nc3 Nbc6 7. Nxd5 Nd4
+8. Qc4 Nxd5 9. Bxd5 Nc2+ 10. Kd1 Nxa1 11. Bxf7+ Ke7 12. Nf3 b5 13. Qe4 Qc7
+14. Bd5 Rb8 15. d4 Qc2+ 16. Qxc2 Nxc2 17. Kxc2 exd4 18. Nxd4 Bd7 19. Kd3
+Rc8 20. e4 Bxg4 21. Nc6+ Kd7 22. Ne5+ 1-0
+

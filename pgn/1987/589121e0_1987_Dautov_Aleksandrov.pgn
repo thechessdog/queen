@@ -1,0 +1,17 @@
+[Event "Byelorussia"]
+[Site "Byelorussia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dautov, Rustem"]
+[Black "Aleksandrov, A."]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "589121e0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. e5 cxd4 8. Nxd4
+Qa5 9. exf6 Bxc3+ 10. bxc3 Qxg5 11. fxg7 Qxg7 12. Qf3 O-O 13. Bxc4 Bd7 14. Qxb7
+Qe5+ 15. Be2 Bc6 16. Qe7 Bd5 17. O-O Qg7 18. g3 Rc8 19. c4 Bxc4 20. Bxc4 Qxd4
+21. Bxe6 Rf8 22. Qg5+ Kh8 23. Rad1 1-0

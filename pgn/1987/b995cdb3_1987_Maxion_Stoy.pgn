@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "10"]
+[White "Maxion, Dirk"]
+[Black "Stoy, Ulf"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "b995cdb3"]
+[Epoch "Queen"]
+[WhiteID "4601777"]
+[WhiteCountry "GER"]
+[BlackID "12982288"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3 Nc6 7. Be2 Ng4 8. Bg1
+e5 9. d5 Ne7 10. h3 Nh6 11. fxe5 dxe5 12. Bc5 1/2-1/2

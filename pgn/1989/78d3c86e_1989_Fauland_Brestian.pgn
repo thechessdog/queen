@@ -1,0 +1,19 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Fauland, Alexander"]
+[Black "Brestian, Egon"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "78d3c86e"]
+[Epoch "Queen"]
+[WhiteID "1600036"]
+[WhiteCountry "AUT"]
+[BlackID "1600028"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 1/2-1/2

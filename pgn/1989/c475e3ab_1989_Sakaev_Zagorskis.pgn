@@ -1,0 +1,17 @@
+[Event "Kramatorsk"]
+[Site "Kramatorsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sakaev, Konstantin"]
+[Black "Zagorskis, A."]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "c475e3ab"]
+[Epoch "Queen"]
+[WhiteID "4104226"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Bd7 8. a4
+Rb8 9. a5 Nb4 10. Na3 Bb5 11. Ne5 c5 12. dxc5 Qxd1 13. Rxd1 1/2-1/2

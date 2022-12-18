@@ -1,0 +1,18 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Strausz"]
+[Black "Pohl"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "4e060e88"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O f5 12. f4 Bf6 13. c3 Nd7 14. Be3
+exf4 15. Bxf4 Ne5 16. Be3 a6 17. Nd4 g6 18. a5 Qe7 19. Qd2 Bd7 20. Rae1
+Rac8 21. b3 Rfe8 22. Bd1 Qd8 23. c4 Rc5 24. Nf3 0-1
+

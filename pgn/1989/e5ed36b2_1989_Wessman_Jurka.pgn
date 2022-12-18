@@ -1,0 +1,17 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wessman, Richard"]
+[Black "Jurka, Miroslav"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "e5ed36b2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. g3 Be7 8. Bg2
+O-O 9. O-O Re8 10. Bf4 c6 11. Ne5 Nbd7 12. Qa4 Nxe5 13. dxe5 Nd7 14. Rad1 Bf8
+15. b4 Nxe5 16. b5 Qf6 17. bxc6 Bxc6 18. Qb3 d4 19. Nd5 Bxd5 20. Bxd5 Rad8 21.
+Rxd4 Ng6 22. Rfd1 Rd7 23. Qb5 Rde7 24. Bg5 1-0

@@ -1,0 +1,18 @@
+[Event "corr WT/H"]
+[Site "corr WT/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Izmailow, WI."]
+[Black "Mokrys, CP."]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "8a68d2e3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 c5 6. cxd5 exd5 7. dxc5 Nbd7
+8. Rc1 Qa5 9. Bd2 Qxc5 10. a3 Bxc3 11. Bxc3 Ne4 12. e3 Nxc3 13. Rxc3 Qd6
+14. Qd4 O-O 15. Bd3 f6 16. e4 Nb6 17. O-O Be6 18. e5 fxe5 19. Nxe5 Bf5 20.
+Nc4 Nxc4 0-1
+

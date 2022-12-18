@@ -1,0 +1,26 @@
+[Event "Spring op"]
+[Site "Budapest open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bezold, Michael"]
+[Black "Veingold, Aleksandr"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "429a6eb8"]
+[Epoch "Queen"]
+[WhiteID "4601718"]
+[WhiteCountry "GER"]
+[BlackID "4500032"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d5 6. Bd3 h6 7. Bxf6 exf6 8.
+exd5 Re8+ 9. Be2 Bf5 10. Nc4 Qxd5 11. O-O Be4 12. Ne3 Qd6 13. c3 Nd7 14. Qb3 f5
+15. Rad1 f4 16. Nc4 Qe6 17. Ncd2 Qxb3 18. Nxb3 a5 19. Bd3 Bd5 20. Nfd2 a4 21.
+Nc1 c6 22. Rfe1 b5 23. Bb1 Rxe1+ 24. Rxe1 c5 25. Nd3 cxd4 26. cxd4 g5 27. Nb4
+Nb6 28. Nxd5 Nxd5 29. Nf3 b4 30. h3 a3 31. Be4 Rd8 32. bxa3 bxa3 33. Bxd5 Rxd5
+34. Rd1 f5 35. Rd3 g4 36. Nd2 Rxd4 37. Rxd4 Bxd4 38. Kf1 Kg7 39. f3 h5 40. Nc4
+Bc5 41. Ne5 Bd6 42. Nc4 Bb4 43. fxg4 fxg4 44. hxg4 hxg4 45. g3 fxg3 46. Kg2 Kg6
+47. Kxg3 Kg5 48. Ne3 Bd6+ 49. Kg2 Kf4 50. Nxg4 Kxg4 51. Kf2 Kf4 52. Ke2 Ke4 53.
+Kd2 Kd4 54. Kc2 Kc4 55. Kb1 Kc3 56. Ka1 Bf4 57. Kb1 Be5 58. Ka1 Kc2# 0-1

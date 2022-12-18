@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Perenyi, Bela"]
+[Black "Summermatter, Daniel"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "cd284d95"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+[BlackID "1300385"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8. Bd3
+cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nbc6 12. Bf4 Bd7 13. O-O O-O-O 14. Bg3
+d4 15. Rfe1 Qa5 16. Rab1 a6 17. Qxf7 Rdf8 18. Qh7 Rh8 19. Qe4 Nf5 20. Nf4 Rh6
+21. Qf3 Rfh8 22. Bxf5 exf5 23. e6 Be8 24. Nd5 b5 25. Ne7+ 1-0

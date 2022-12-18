@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Timmerman, G."]
+[Black "Wiersma, T."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "603efb6e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 dxc3 11. f4 Bd7 12. Nd4 a6 13. Qd3 Nbc6 14.
+Nxc6 Bxc6 15. h3 d4 16. Rg1 O-O-O 17. g4 Qb6 18. Qg3 Rh8 19. Qf2 Ng6 20.
+Rg3 Nh4 21. Be2 Qc5 22. Rb1 Qd5 23. Kd1 Qh1+ 24. Bf1 Bf3+ 25. Ke1 d3 26.
+cxd3 Rxd3 27. Qc5+ Kb8 28. Qg1 Rd1+ 29. Kf2 Qxg1+ 30. Rxg1 c2 31. Ra1 Be4
+32. Rg3 Nf3 33. Be2 Nd2 34. Rc3 Rc8 35. Rxc2 Bxc2 36. Bxd1 Nb3 37. Ra2 Bxd1
+38. Be3 Nc5 39. Bxc5 Rxc5 40. Kg3 Rc3+ 41. Kh4 Rf3 42. Rd2 Bb3 43. Kg5 Rxh3
+44. Rd7 Rh7 45. Kf6 Rh6+ 46. Ke7 Rh4 47. Rd8+ Kc7 48. Rd3 Bc4 49. Rd4 Be2
+50. g5 Bh5 51. Rd7+ Kc6 52. Rd6+ Kc5 53. f5 exf5 54. Rh6 Kd5 55. Kf6 f4 56.
+e6 fxe6 57. g6 f3 58. g7 Rf4+ 59. Kg5 Rg4+ 0-1
+

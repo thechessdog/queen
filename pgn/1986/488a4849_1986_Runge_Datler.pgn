@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Runge"]
+[Black "Datler"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "488a4849"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Bh6 7. Kf2 cxd4
+8. Qxd4 Rg8 9. c3 Nc6 10. Qd2 Qb6 11. b3 Ne5 12. Be2 Bxe3+ 0-1
+

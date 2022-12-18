@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tordera"]
+[Black "Sala"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "031c4d94"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Qd7 11. Nbd2 Rad8 12. d5 Nb8 13. a4 c6 14. c4 Qc7
+15. axb5 axb5 16. dxc6 Bxc6 17. cxb5 Bxb5 18. Nb1 Na6 19. Nc3 Bc4 20. Bxc4
+Qxc4 21. Bg5 Nb4 22. Ra4 Rb8 23. Na2 d5 24. Nxe5 Qc7 25. Bxf6 gxf6 26. exd5
+Nxa2 27. Nc6 Rxb2 28. Qd4 Rb4 29. Nxe7+ Qxe7 30. Rxe7 Rxd4 31. Rxd4 Nc3 32.
+Rg4+ Kh8 33. d6 f5 34. d7 1-0
+

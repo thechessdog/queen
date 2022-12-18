@@ -1,0 +1,21 @@
+[Event "BL2-W8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thiel, Thomas"]
+[Black "Emunds, Hans Georg"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "2b8886b6"]
+[Epoch "Queen"]
+[BlackID "4617541"]
+[BlackCountry "GER"]
+[WhiteID "4615964"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Bg5 h5 13. Rhe1 Re8 14. Kb1 Rc5
+15. f4 Nc6 16. Nxc6 Bxc6 17. Bxf6 Bxf6 18. e5 Bg7 19. exd6 Bxc3 20. bxc3 Qxd6
+21. Qf2 Rd5 22. Rxd5 1-0

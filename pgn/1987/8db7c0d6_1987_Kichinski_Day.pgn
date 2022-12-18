@@ -1,0 +1,23 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Day, M."]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "8db7c0d6"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 e6 5. e4 exd5 6. cxd5 a6 7. a4 g6 8. Nf3 Bg4
+9. Be2 Bg7 10. O-O O-O 11. Bg5 h6 12. Bh4 g5 13. Bg3 Nh5 14. Nd2 Nxg3 15. fxg3
+Bd4+ 16. Kh1 Bxe2 17. Qxe2 Nd7 18. Nc4 Qc7 19. Ne3 Bxe3 20. Qxe3 Rae8 21. Qf3
+Qd8 22. Rf2 Qe7 23. Raf1 Kg7 24. Qh5 f6 25. Re2 Qf7 26. Qf3 Ne5 27. Qf5 Qg6 28.
+b3 Qh5 29. h3 Rf7 30. g4 Qg6 31. Nd1 Nd3 32. g3 Re5 33. Qf3 Nb4 34. Rfe1 Rfe7
+35. Ne3 Kh7 36. Nf5 Rd7 37. Qc3 Qf7 38. Re3 Qg6 39. Rf1 Qf7 40. Qc4 Qg6 41.
+Ref3 Qe8 42. Nxd6 Rxd6 43. Qxc5 Qe7 44. Qxb4 Rxe4 45. Qc5 Re2 46. Kg1 Qe5 47.
+Qc7+ Kg6 48. Qxb7 Qd4+ 49. Kh1 Qb2 50. Rxf6+ Rxf6 51. Rxf6+ Qxf6 52. Qc6 Qxc6
+53. dxc6 Rc2 0-1

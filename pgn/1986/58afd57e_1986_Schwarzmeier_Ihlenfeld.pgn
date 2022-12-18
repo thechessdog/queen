@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwarzmeier, J."]
+[Black "Ihlenfeld, E."]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "58afd57e"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 a6 8. a4
+Bg7 9. Be2 O-O 10. O-O Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. e5 dxe5 14. d6 Qe6
+15. Re1 Nbd7 16. Bxb7 Ra7 17. Bc6 Rb8 18. Bxd7 Nxd7 19. Qd2 Rab7 20. Rab1
+Rb6 21. Bg3 Rxd6 22. Qe2 f5 23. Rbd1 Rd4 24. f3 Rdb4 25. Qd2 0-1
+

@@ -1,0 +1,17 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gehlen"]
+[Black "Bruderle"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "be743d41"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nc6 6. c3 Nge7 7. Qc2 Bg4
+8. Nbd2 Qd7 9. O-O f6 10. b4 g5 11. Re1 Kf7 12. b5 Nd8 13. Bb2 Ne6 14. h3
+h5 15. hxg4 hxg4 16. Rxe6 Qxe6 17. Ne1 f5 18. c4 Rae8 19. Nf1 f4 0-1
+

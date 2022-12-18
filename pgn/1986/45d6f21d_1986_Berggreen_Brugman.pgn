@@ -1,0 +1,20 @@
+[Event "corr NBC-Volmac"]
+[Site "corr NBC-Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Berggreen"]
+[Black "Brugman"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "45d6f21d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. Nf3 Qa5+ 6. Nc3 Ne4 7. Bd2 Nxd2
+8. Qxd2 cxd4 9. Nxd4 Nc6 10. e3 Rb8 11. O-O O-O 12. Rfd1 d6 13. Nxc6 bxc6
+14. Bxc6 Bg4 15. f3 Rfc8 16. Bd5 Bh3 17. Nb5 Qb6 18. Nd4 e6 19. Be4 Rxc4
+20. Nb3 d5 21. Bd3 Rb4 22. Rac1 a5 23. Rc2 Bh6 24. Re1 e5 25. Kh1 Ra4 26.
+Nc1 d4 27. b3 dxe3 28. Qc3 Rd4 29. g4 Qf6 30. Qc6 Qh4 31. Rg1 Rbd8 32. Qb5
+Bf4 33. Qa6 e4 0-1
+

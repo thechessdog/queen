@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knorr, B."]
+[Black "Roscher, J."]
+[Result "1-0"]
+[ECO "A47"]
+[Opening "Queen's Indian defence"]
+[HashCode "752a51de"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e5 4. dxe5 Ne4 5. Qd5 Bb7 6. Qxb7 Nc6 7. e6 Bb4+
+8. Bd2 Bxd2+ 9. Nbxd2 Nc5 10. exd7+ 1-0
+

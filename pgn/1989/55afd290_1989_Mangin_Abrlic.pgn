@@ -1,0 +1,17 @@
+[Event "Val Maubuee open"]
+[Site "Val Maubuee open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mangin, P."]
+[Black "Abrlic, D."]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "55afd290"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 c6 6. Be3 b5 7. a3 Qc7 8. Be2 a5
+9. d5 Ba6 10. dxc6 b4 11. axb4 axb4 12. Nd5 Nxd5 13. exd5 Bxb2 14. Rb1 Bc3+ 15.
+Bd2 Bxe2 16. Qxe2 O-O 17. O-O Bxd2 18. Qxd2 Kg7 19. Rxb4 Ra7 20. Rfb1 Nxc6 21.
+dxc6 Qxc6 22. Qd4+ 1-0

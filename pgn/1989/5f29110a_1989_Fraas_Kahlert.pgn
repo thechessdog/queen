@@ -1,0 +1,19 @@
+[Event "RLNN 8889"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fraas, H."]
+[Black "Kahlert, T."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "5f29110a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. e4 Bg7 7. Be3 O-O
+8. Rd1 Nc6 9. d5 Ne5 10. Be2 e6 11. f4 Ng4 12. Bxg4 Qh4+ 13. g3 Qxg4 14. d6
+cxd6 15. Rxd6 e5 16. Kf2 exf4 17. Bxf4 Be6 18. Qb5 Nc4 19. Rd3 f5 20. h3
+Qh5 21. Nf3 fxe4 22. Qxh5 gxh5 23. Nxe4 Bf5 24. Rc1 Bxe4 25. Rd7 Bxf3 26.
+Rxc4 Bc6 0-1
+

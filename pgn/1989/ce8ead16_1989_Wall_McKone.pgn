@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "McKone, Peter"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "ce8ead16"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Be7 4. Ne2 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Nbc3 Qe6
+8. O-O b6 9. Nb5 Na6 10. Re1 Qg6 11. Ng3 Bb7 12. f3 h5 13. Rxe5 h4 14. Nf5 h3
+15. g3 Kf8 16. Nxe7 Qf6 17. Qe2 Bxf3 18. Qe1 1-0

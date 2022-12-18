@@ -1,0 +1,18 @@
+[Event "Findlay,OH"]
+[Site "Findlay,OH"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nash, Bill"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "8556a672"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. Nf3 b6 7. e3 O-O 8. Bd3
+Nc6 9. O-O Ba6 10. Qe2 d5 11. cxd5 Bxd3 12. Qxd3 exd5 13. c4 dxc4 14. Qxc4 Na5
+15. Qd3 c4 16. Qc2 Qd5 17. Bb2 Rfc8 18. Rfe1 c3 19. e4 cxb2 20. Qxc8+ Rxc8 21.
+exd5 bxa1=Q 0-1

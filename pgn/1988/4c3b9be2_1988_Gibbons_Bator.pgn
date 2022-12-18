@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gibbons"]
+[Black "Bator"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Alekhine gambit"]
+[HashCode "4c3b9be2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nxe4 6. Bxe4 Bf5 7. Bxf5
+Qa5+ 8. c3 Qxf5 9. Ne2 e6 10. Ng3 Qg6 11. O-O Bd6 12. f4 O-O 13. f5 exf5
+14. Nxf5 Nd7 15. Bf4 1-0
+

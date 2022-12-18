@@ -1,0 +1,18 @@
+[Event "BL2-W8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schultze, JM."]
+[Black "Kesseler, Heiko"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "7126d32b"]
+[Epoch "Queen"]
+[BlackID "12976857"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Qc2 Nxd2 10. Qxd2 d6 11. e4 Nd7 12. Rad1 Rc8 13. Rfe1 e5 14. Bh3 exd4
+15. Nd5 c5 16. Bxd7 Qxd7 17. Nxf6+ gxf6 18. Nh4 Qg4 19. Nf5 1/2-1/2

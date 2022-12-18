@@ -1,0 +1,18 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Vries, S."]
+[Black "Nuyten, C."]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "cc6eb6d3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. Nf3 Nc6 6. dxc5 Bxc5 7. Bg5 a6
+8. e3 O-O 9. Be2 b6 10. O-O Be7 11. a3 h6 12. Bh4 Bb7 13. Rfd1 Qc7 14. Bg3
+d6 15. b4 Nh5 16. Rd2 Nxg3 17. hxg3 Rac8 18. Rad1 Rfd8 19. Qb1 Ne5 20. Nxe5
+dxe5 21. Qb2 Rxd2 1/2-1/2
+

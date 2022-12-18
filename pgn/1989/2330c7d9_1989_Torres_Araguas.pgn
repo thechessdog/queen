@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Torres"]
+[Black "Araguas"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "2330c7d9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8.
+d5 exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 b6 12. Bg2 Nc6 13. b4 Bb7 14. O-O Re6
+15. Bf4 Rb8 16. b5 Na5 17. Nd4 Re8 18. Bxb7 Nxb7 19. Nf5 Rc8 20. Qf3 Rc5
+21. Bg5 Nxd6 22. Nxd6 Bxd6 23. Ne4 Be5 24. Nxc5 Bxa1 25. Rxa1 bxc5 26. Rd1
+d6 27. Bxf6 gxf6 28. Qb7 Re7 29. Qa6 Rd7 30. a4 d5 31. a5 d4 32. b6 axb6
+33. axb6 Rd6 34. Rb1 d3 35. Qa7 d2 36. b7 d1=Q+ 37. Rxd1 Rxd1+ 38. Kg2 Rb1
+39. Qa8 Qf8 40. Qc8 Rb4 0-1
+

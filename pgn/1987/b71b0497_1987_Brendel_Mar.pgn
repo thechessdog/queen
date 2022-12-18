@@ -1,0 +1,19 @@
+[Event "San Jose"]
+[Site "San Jose"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brendel, Oliver"]
+[Black "Mar, Craig"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "b71b0497"]
+[Epoch "Queen"]
+[WhiteID "4602048"]
+[BlackID "2000571"]
+[WhiteCountry "GER"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 a5 5. Bg2 d5 6. cxd5 exd5 7. Nc3 O-O 8.
+Nf3 Ne4 9. O-O c6 10. Rc1 Bf5 11. Bf4 Nxc3 12. bxc3 Ba3 13. Qb3 Bxc1 14. Rxc1
+Qc8 0-1

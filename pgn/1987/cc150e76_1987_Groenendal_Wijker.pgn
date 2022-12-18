@@ -1,0 +1,18 @@
+[Event "corr NLD vet"]
+[Site "corr NLD vet"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Groenendal"]
+[Black "Wijker"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "cc150e76"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. dxc6 bxc4 7. Nc3 Bf5
+8. Qe2 Bxc2 9. Qxe5+ Be7 10. O-O O-O 11. Re1 Bd6 12. Qb5 Rb8 13. Qxc4 Bd3
+14. Qa4 Bc5 15. Nf3 Rb4 16. Qa5 Qd6 17. Ne5 Bxf2+ 18. Kxf2 Rf4+ 19. Kg3
+Nh5+ 20. Kh3 Qd4 21. Nf3 Qf2 22. Qxh5 Bf5+ 23. Qxf5 Rxf5 0-1
+

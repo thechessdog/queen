@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rimpineva"]
+[Black "Haapasalo"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "f378b178"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Ng5 O-O 10. f4 exd4 11. cxd4 cxd4 12. exd4 d5 13. Bb2 Nb4 14.
+Be2 dxc4 15. Bxc4 Nbd5 16. Qb3 h6 17. Nh3 Nb6 18. Be2 Be6 19. Qa3 Qd7 20.
+Nf2 Rfe8 21. Rfe1 Nc4 22. Bxc4 Bxc4 23. Rxe8+ Rxe8 24. Qxa7 Re2 25. Bc3 Ng4
+26. Be1 Qe8 27. Qa5 Qe3 28. Qc3 Rxf2 0-1
+

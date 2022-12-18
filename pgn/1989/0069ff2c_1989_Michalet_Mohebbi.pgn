@@ -1,0 +1,27 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Michalet, Guy"]
+[Black "Mohebbi, Jafar"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "0069ff2c"]
+[Epoch "Queen"]
+[WhiteID "603139"]
+[BlackID "604542"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. Nf3 Nf6 2. d4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 d5 7. cxd5 exd5 8. Nc3
+O-O 9. Bg5 Nbd7 10. Ne5 c6 11. Nd3 Re8 12. e3 h6 13. Bxf6 Nxf6 14. Rc1 Bd6 15.
+Re1 Ne4 16. Nxe4 dxe4 17. Nf4 c5 18. dxc5 Bxc5 19. Qb3 Rc8 20. Bh3 Rc6 21. Red1
+Rd6 22. Rxd6 Bxd6 23. Rd1 Qe7 24. Qa4 Ra8 25. Ne2 a6 26. Qb3 b5 27. Nd4 g6 28.
+a4 bxa4 29. Qxa4 Qc7 30. Qb3 Rd8 31. Bf1 Bf8 32. Ra1 Rd6 33. Qa4 Bg7 34. Rd1
+Qd7 35. Qb4 Kh7 36. b3 Bf8 37. Qa5 Rd5 38. Qa1 Bg7 39. Bxa6 Bxa6 40. Qxa6 Bxd4
+41. Qc4 Qg4 42. Rxd4 Rf5 43. b4 Qf3 44. Qc2 h5 45. h4 Re5 46. Qd1 Qf5 47. Rd8
+Re7 48. Qd4 Qe5 49. Qxe5 Rxe5 50. Rd2 g5 51. hxg5 Kg6 52. Rb2 Rb5 53. Kf1 Kxg5
+54. Ke1 Kg4 55. Kd2 f5 56. Kc3 f4 57. exf4 e3 58. fxe3 Kxg3 59. Kc4 Rb8 60. b5
+h4 61. b6 h3 62. Kc5 Kf3 63. Kc6 Rg8 1-0

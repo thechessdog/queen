@@ -1,0 +1,21 @@
+[Event "Bohemians-B"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Summermatter, Daniel"]
+[Black "Zolnierowicz, Krzysztof"]
+[Result "0-1"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "ef41fd95"]
+[Epoch "Queen"]
+[WhiteID "1300385"]
+[WhiteCountry "SUI"]
+[BlackID "1100238"]
+[BlackCountry "POL"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Bf4 Bb4 12. Rc1 Bg4 13. Ncb5 Qd7 14. Qb3 Ba5
+15. Rfd1 Bb6 16. Nf3 Rfe8 17. Rc2 Bf5 18. Rcd2 Na5 19. Qb4 Nc4 20. Qxc4 dxc4
+21. Rxd7 Bxd7 0-1

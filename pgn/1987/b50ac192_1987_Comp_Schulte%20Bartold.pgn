@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Comp Leonardo2"]
+[Black "Schulte Bartold, Claus"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b50ac192"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Nc3 a6 6. Be2 d6 7. d3 Nd4 8. Bg5
+f6 9. Be3 Nec6 10. Kh1 Be7 11. Nxd4 cxd4 12. Bd2 dxc3 13. Bxc3 O-O 14. Bh5 d5
+15. Qg4 Bb4 16. Bxb4 Nxb4 17. Qe2 d4 18. Rfc1 Nc6 19. c3 g6 20. Bf3 Ne5 21.
+Rab1 dxc3 22. Rxc3 Bd7 23. Rbc1 Bc6 24. Bg4 Nxg4 25. Qxg4 f5 26. Qe2 fxe4 27.
+dxe4 Qd4 28. f3 Rad8 29. g3 Rf7 30. a3 Qd2 31. Qc4 Qxb2 32. Qxe6 Rd2 33. Qc8+
+Kg7 34. Qh3 Rxf3 35. Rxf3 Qxc1+ 36. Qf1 Qxf1+ 37. Rxf1 Bxe4+ 0-1

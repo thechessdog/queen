@@ -1,0 +1,18 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Widenmann, A."]
+[Black "Andersen, I."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "0b56b537"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 b5 7. O-O Bb7 8.
+Re1 d6 9. Bg5 Nd7 10. a4 bxa4 11. Rxa4 Ngf6 12. Rc4 Qb8 13. Nd5 Nxd5 14.
+exd5 Bxd5 15. Nxe6 Bxe6 16. Rxe6+ fxe6 17. Qh5+ g6 18. Qxg6+ hxg6 19. Bxg6#
+1-0
+

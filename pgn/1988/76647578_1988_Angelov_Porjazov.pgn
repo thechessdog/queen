@@ -1,0 +1,18 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Angelov"]
+[Black "Porjazov, Petar"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "76647578"]
+[Epoch "Queen"]
+[BlackID "2900432"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 9. Bb2 Nxb4 10. axb4 Qxb4+ 11. Qd2 Rc2 12. Bc3 Qb3 13. Qe3 Nh6 14. Be2 Nf5
+15. Qd3 Rc1+ 16. Bd1 Bb5 17. Qxb5+ Qxb5 18. Kd2 Rxd1+ 0-1

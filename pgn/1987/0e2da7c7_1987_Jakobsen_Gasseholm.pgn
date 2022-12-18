@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jakobsen, Peter"]
+[Black "Gasseholm, Finn"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "0e2da7c7"]
+[Epoch "Queen"]
+[WhiteID "1401440"]
+[BlackID "1402390"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Be2 Re8 13. Qc2 Nf6 14. Nd2 Bg4 15.
+Bb5 Nxb5 16. axb5 a6 17. bxa6 bxa6 18. f5 Nh5 19. Nf3 Bxf3 20. Rxf3 gxf5 21.
+Rxf5 Bd4+ 22. Kf1 Qh4 23. g3 Nxg3+ 24. hxg3 Qh1+ 25. Ke2 Bxc3 26. Be3 Qxa1 27.
+Qxc3 Rab8 28. Rg5+ Kf8 29. Qg7+ Ke7 30. Re5+ dxe5 31. Qxe5+ Kd7 32. Qf5+ Kd8
+33. Bg5+ Kc7 34. Bf4+ Kb6 35. b4 Qb2+ 36. Bd2 cxb4 37. Kd3 Ka5 0-1

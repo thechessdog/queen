@@ -1,0 +1,18 @@
+[Event "Csopak"]
+[Site "Csopak"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Karsa, Laszlo"]
+[Black "Lovass, Imre"]
+[Result "1/2-1/2"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "b0232a42"]
+[Epoch "Queen"]
+[WhiteID "700274"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 b6 7. Ne2 Ba6 8. Ng3
+Qc7 9. d5 exd5 10. cxd5 Bxf1 11. d6 Qc6 12. Kxf1 Ne4 13. Qg4 Nxg3+ 14. hxg3
+Qxd6 15. Bb2 Nc6 16. Qxg7 O-O-O 17. c4 1/2-1/2

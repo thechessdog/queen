@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Weidlich"]
+[Black "Neumann"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "6a6a86e4"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. g3 Nf6 3. c4 e6 4. Bg2 Be7 5. O-O O-O 6. d4 c5 7. cxd5 exd5 8.
+Nc3 Nc6 9. Bg5 cxd4 10. Nxd4 Re8 11. Rc1 h6 12. Be3 Be6 13. Nxc6 bxc6 14.
+Na4 Qa5 15. Qc2 Rac8 16. Nc5 Bg4 17. f3 Bh5 18. Qa4 Qxa4 19. Nxa4 Bb4 20.
+Kf2 Rc7 21. Bc5 Bxc5+ 22. Nxc5 g5 23. b4 Bg6 24. Rfd1 Bf5 25. Rc3 Rce7 26.
+Bf1 Rb8 27. Rd4 Kg7 28. Nb3 Rb6 29. a3 Nd7 30. Rd1 Ne5 31. Rdc1 Bd7 32. e3
+f5 33. h3 Nf7 34. Nd4 Nd8 35. b5 cxb5 36. Rc7 Kf6 37. Rxa7 Ne6 38. Nxb5
+Bxb5 39. Rxe7 Bxf1 40. Rxe6+ Kxe6 41. Kxf1 Rb3 42. Ra1 f4 43. a4 Kd6 44. a5
+Kc7 45. a6 Kb8 46. exf4 gxf4 47. g4 Rxf3+ 48. Kg2 Rg3+ 49. Kh2 h5 50. Rg1
+hxg4 51. hxg4 Re3 52. g5 Ka7 53. g6 Re8 54. Kg2 Kxa6 55. Kf3 Kb5 56. Kxf4
+Kc4 1/2-1/2
+

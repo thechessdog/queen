@@ -1,0 +1,20 @@
+[Event "Warzsawa"]
+[Site "Warzsawa"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Przewoznik, Jan"]
+[Black "Flis, Jacek"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "ec887ac6"]
+[Epoch "Queen"]
+[WhiteID "1100149"]
+[WhiteCountry "POL"]
+[BlackID "1100351"]
+[BlackCountry "POL"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. Bd2 Nbd7 8.
+Qg3 Qb6 9. O-O-O d4 10. Ne2 O-O-O 11. f4 Nc5 12. Qh2 Na4 13. b3 Bc5 14. Re1
+Nxe4 15. dxe4 d3 16. Qg3 Bf2 17. bxa4 dxe2 18. Qxf2 Qxf2 19. Rxe2 Qd4 0-1

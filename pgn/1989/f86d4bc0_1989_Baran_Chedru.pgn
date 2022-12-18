@@ -1,0 +1,18 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Baran, P."]
+[Black "Chedru"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "f86d4bc0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+Re1 Be6 9. dxe5 Nc5 10. Nc3 Nxb3 11. cxb3 d4 12. Ne4 Bb4 13. Bd2 Bxd2 14.
+Qxd2 O-O 15. Rac1 Qd7 16. Rc5 Rab8 17. Nf6+ gxf6 18. exf6 Kh8 19. Qh6 Rg8
+20. Ng5 1-0
+

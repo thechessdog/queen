@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hernaez"]
+[Black "Garces, Napoleon"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "c5d7de50"]
+[Epoch "Queen"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O b5 10. e5 dxe5 11. Ndxb5 axb5 12. Bxb5+ Kf8 13. Qxa8 Bb7 14. Qa4
+h6 15. Bxf6 Bxf6 16. fxe5 Bxe5 17. Qh4 Bd6 18. Rxd6 Qxd6 19. Rd1 g5 20. Rxd6
+gxh4 21. Rb6 Bxg2 22. Rxb8+ Kg7 23. Rxh8 Kxh8 24. a4 e5 25. Bd3 Kg7 26. Be4 Bh3
+27. b4 f5 28. b5 fxe4 29. b6 Bc8 30. Nxe4 Kg6 31. Nd6 Ba6 32. b7 Bxb7 33. Nxb7
+Kf5 34. Kd2 1-0

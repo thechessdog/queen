@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lamein"]
+[Black "Stock"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "b0fffc3c"]
+[Epoch "Queen"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8.
+f3 d6 9. e4 Nbd7 10. Bd3 Nf8 11. Ne2 g5 12. Bf2 Ng6 13. g3 Bh3 14. Qa4+ Qd7
+15. Qxd7+ Bxd7 16. a4 a5 17. Kd2 Kd8 18. Be3 Nh5 19. Rhb1 Kc7 20. Rf1 Rag8
+21. Kc2 f6 22. Kb3 Ne7 23. Bc2 f5 24. exf5 Bxf5 25. g4 Bxc2+ 26. Kxc2 Nf4
+27. Ng3 Rf8 28. Ne4 Neg6 29. Kd2 Ng2 30. Bg1 Rf7 31. Be3 N6h4 32. Ke2 Rhf8
+33. Nd2 Nf4+ 34. Bxf4 exf4 35. Ne4 Re7 0-1
+

@@ -1,0 +1,17 @@
+[Event "Salzburg"]
+[Site "Salzburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nagel"]
+[Black "Fossmeier, U."]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "566871e5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O Nd7 7. Nxd7
+Bxd7 8. Qe2 O-O 9. Bxe4 Qh4 10. Bxh7+ Qxh7 11. h3 Bf5 12. Qf3 Be4 13. Qg4
+Rae8 14. Bf4 Bxg2 15. Kxg2 Re4 16. Bxd6 Rxg4+ 17. hxg4 cxd6 18. Nc3 f5 0-1
+

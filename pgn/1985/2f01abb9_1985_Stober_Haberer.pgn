@@ -1,0 +1,17 @@
+[Event "Donaueschingen"]
+[Site "Donaueschingen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stober, W."]
+[Black "Haberer, M."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "2f01abb9"]
+[Epoch "Queen"]
+
+1. e4 d6 2. f4 Nf6 3. Nc3 g6 4. e5 dxe5 5. fxe5 Nd5 6. d4 Bg7 7. Nxd5 Qxd5
+8. Nf3 c5 9. c3 Nc6 10. Bb5 cxd4 11. Bxc6+ bxc6 12. cxd4 Ba6 13. Be3 O-O
+14. b3 Rad8 15. Kf2 f6 16. Re1 fxe5 17. dxe5 Qe4 18. Qc1 Bxe5 19. Bg5 Qd4+
+20. Be3 Rxf3+ 21. gxf3 Qh4+ 0-1
+

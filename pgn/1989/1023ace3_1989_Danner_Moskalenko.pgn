@@ -1,0 +1,17 @@
+[Event "Dornbirn"]
+[Site "Dornbirn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Moskalenko, Viktor"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "1023ace3"]
+[Epoch "Queen"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bh4 Na6 11. Na5 0-1

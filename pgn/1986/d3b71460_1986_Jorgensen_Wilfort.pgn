@@ -1,0 +1,15 @@
+[Event "Farum"]
+[Site "Farum"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jorgensen, Michael"]
+[Black "Wilfort, Jorgen"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian defence"]
+[HashCode "d3b71460"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. c4 Bb4+ 6. Bd2 Qb6 7. Nb5 Bc5
+8. Qe2 a6 9. N5a3 Qxb2 10. Bc3 Qc1+ 11. Qd1 Bxf2+ 12. Ke2 Qe3# 0-1
+

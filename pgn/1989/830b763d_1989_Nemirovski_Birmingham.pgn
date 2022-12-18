@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemirovski, Serge"]
+[Black "Birmingham, Eric"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "830b763d"]
+[Epoch "Queen"]
+[WhiteID "600318"]
+[WhiteCountry "FRA"]
+[BlackID "600555"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nf3 Bg7 7. Bc4 O-O 8.
+Nc3 Nbd7 9. d6 exd6 10. O-O Nb6 11. Bb3 Bf5 12. Bf4 Ne4 13. Rc1 Rc8 14. Nxe4
+Rxc1 15. Qxc1 Bxe4 16. Qe3 Re8 17. Ng5 Bd5 18. Qh3 h6 19. Nf3 g5 20. Bd2 Bxb3
+21. axb3 Qd7 22. Qh5 Nd5 23. Ne1 Qf5 24. h3 Re4 25. Nc2 Rh4 26. Qd1 Nf4 27. g3
+Qxh3 0-1

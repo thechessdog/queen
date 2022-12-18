@@ -1,0 +1,19 @@
+[Event "Plymouth ch-BCF"]
+[Site "Plymouth ch-BCF"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Foster, Nick"]
+[Black "Varley, Peter"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "d9895e29"]
+[Epoch "Queen"]
+[BlackID "1800159"]
+[BlackCountry "WLS"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 d6 4. e3 Qe7 5. Nc3 f5 6. g3 Nf6 7. Nge2 Be6 8. Bg2
+Bf7 9. O-O g5 10. f4 gxf4 11. exf4 e4 12. Nd5 Bxd5 13. cxd5 Nb4 14. Nd4 Nbxd5
+15. Nxf5 Qd7 16. Bxe4 O-O-O 17. Qf3 h5 18. Bxd5 Qxf5 19. Bxb7+ Kb8 20. Qc6 Bg7
+21. Bd4 Qa5 22. b4 Qa3 23. Ba6 1-0

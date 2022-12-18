@@ -1,0 +1,18 @@
+[Event "Denver"]
+[Site "Denver"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Barnett, D."]
+[Black "Fishbein, Alexander"]
+[Result "0-1"]
+[ECO "E93"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, main line"]
+[HashCode "7188e5ec"]
+[Epoch "Queen"]
+[BlackID "2000377"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5
+a6 9. O-O Qe8 10. Nd2 h6 11. Be3 Nh7 12. f3 f5 13. Bf2 f4 14. Rc1 g5 15. b4
+Ndf6 16. c5 Qg6 17. Nc4 g4 18. Bh4 g3 19. h3 Qh5 20. Bxf6 Bxh3 0-1

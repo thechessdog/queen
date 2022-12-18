@@ -1,0 +1,18 @@
+[Event "Eppingen MB"]
+[Site "Eppingen MB"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Gutperle, M."]
+[Black "Jaeschke, Benno"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "ca894a73"]
+[Epoch "Queen"]
+[BlackID "4605128"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 b6 6. Bg2 Bb7 7. O-O cxd4 8. Nxd4
+Bxg2 9. Kxg2 O-O 10. Bf4 Bxc3 11. bxc3 d5 12. Qa4 Qd7 13. Nb5 a6 14. Qa3 dxc4
+15. Nd6 Qc6+ 16. f3 Nd5 17. Rad1 Nxf4+ 18. gxf4 f5 19. Qb4 1/2-1/2

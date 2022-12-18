@@ -1,0 +1,24 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Villeneuve, A."]
+[Black "Ducic"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "96d606a6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Bxc3+ 6. bxc3 d6 7. Ne2 b6
+8. O-O Bb7 9. f3 Nbd7 10. e4 h6 11. Be3 e5 12. Ng3 Qe8 13. Qe1 Kh8 14. Nf5
+Rg8 15. g4 Nh7 16. h4 f6 17. Rf2 Ndf8 18. a4 Ne6 19. a5 h5 20. Rg2 hxg4 21.
+Rxg4 g6 22. Nh6 Rg7 23. Kh2 Bc8 24. axb6 cxb6 25. Rg2 Qd7 26. Qd2 Qe7 27.
+Kh1 Qd7 28. Rag1 Nhf8 29. Be2 Rh7 30. Rh2 Ng7 31. Bf1 Qe7 32. c5 exd4 33.
+Qxd4 Nge6 34. cxd6 Qd8 35. Qd2 Bb7 36. h5 g5 37. Nf5 Nd7 38. Bc4 Nec5 39.
+Bd5 Qb8 40. Rxg5 Bxd5 41. Qxd5 Qb7 42. Qxb7 Nxb7 43. Bd4 Nbc5 44. Rg6 Rf8
+45. h6 Ne6 46. Rg7 Rg8 47. Rxg8+ Kxg8 48. Ra2 a5 49. Be3 Nec5 50. Kg2 Kf7
+51. Kf2 Ke6 52. Bxc5 Nxc5 53. Ke3 a4 54. Kd4 Ra7 55. Kc4 a3 56. Nd4+ Kf7
+57. Nb5 Ra4+ 58. Kd5 Ra5 1-0
+

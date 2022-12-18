@@ -1,0 +1,17 @@
+[Event "Kehl HT1"]
+[Site "Kehl"]
+[Date "1989.??.??"]
+[Round "11"]
+[White "Hoenninger, Martin"]
+[Black "Kayser, M."]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "9efa51b3"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Bxc3+ 6. Nxc3 c5 7. dxc5 Nbc6
+8. Bg5 a6 9. Bd3 d4 10. Na4 Qa5+ 11. c3 Ne5 12. Nb6 Qxc5 13. Nxa8 Nxd3+ 14.
+Qxd3 Qxg5 15. O-O O-O 1-0
+

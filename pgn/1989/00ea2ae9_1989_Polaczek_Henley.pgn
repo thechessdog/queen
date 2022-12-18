@@ -1,0 +1,24 @@
+[Event "World op"]
+[Site "Philadelphia"]
+[Date "1989.??.??"]
+[Round "4"]
+[White "Polaczek, Richard"]
+[Black "Henley, Ron"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "00ea2ae9"]
+[Epoch "Queen"]
+[WhiteID "200026"]
+[WhiteCountry "BEL"]
+[BlackID "2000318"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 b6 12. Bg2 Nc6 13. O-O Ba6 14. Re1 Rc8 15.
+Bf4 Ne5 16. Qa4 Bxe2 17. Rxe2 Nd3 18. Rd2 Nc5 19. Qd1 Nce4 20. Nxe4 Nxe4 21.
+Rd4 Nc5 22. Bd5 Qf6 23. Qd2 h6 24. h4 Ne6 25. Re4 Nc5 26. Rb4 Kh8 27. Rd1 Ne6
+28. Kg2 Nc5 29. Ba2 Rc6 30. Qd5 Re6 31. Bg5 hxg5 32. hxg5 Qg6 33. Rh1+ Kg8 34.
+Bb1 f5 35. Bxf5 Rxd6 36. Qf3 Rd3 37. Qg4 Qe8 38. g6 Bd6 39. Qh4 Rxg3+ 40. fxg3
+Re2+ 41. Kh3 Qe5 42. Rf4 Be7 43. Qh7+ Kf8 44. Qh8# 1-0

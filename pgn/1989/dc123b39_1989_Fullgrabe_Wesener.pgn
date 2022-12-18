@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fullgrabe"]
+[Black "Wesener"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "dc123b39"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. f4 Bd7 7. Nf3 Qb6 8. a3
+Bxc3 9. Bxc3 Nbc6 10. Qd2 O-O 11. O-O-O c4 12. g4 a5 13. Bh3 Qc7 14. f5 b5
+15. f6 Ng6 16. fxg7 Kxg7 17. Qg5 Qd8 18. Bd2 Qxg5 19. Bxg5 b4 20. Bg2 bxa3
+21. bxa3 Rab8 22. h4 Rb6 23. h5 Nge7 24. Bf6+ Kg8 25. Kd2 Rfb8 26. Ke3 Rb2
+27. Rd2 Ra2 28. Kf4 Rxa3 29. Kg5 Nc8 30. Kh6 c3 31. Rf2 Rb2 32. Ng5 Nxd4
+33. Nxh7 Nxc2 34. Bg7 f5 35. exf6 Nd6 36. f7+ Nxf7+ 37. Kg6 Nh8+ 38. Bxh8
+Be8+ 39. Kh6 Bf7 40. Bg7 1-0
+

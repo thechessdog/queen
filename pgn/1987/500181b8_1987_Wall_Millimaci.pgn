@@ -1,0 +1,15 @@
+[Event "Mt View,CA"]
+[Site "Mt View,CA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Millimaci"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "500181b8"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qb4 7. O-O-O e5
+8. Nb5 Na6 9. Bg5 e4 10. Bxf6 exf3 11. Rd8# 1-0

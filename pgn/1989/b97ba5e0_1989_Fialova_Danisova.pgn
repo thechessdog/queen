@@ -1,0 +1,16 @@
+[Event "CSR-ch (Women)"]
+[Site "Frenstat"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fialova, D."]
+[Black "Danisova, D."]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b97ba5e0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. Na3 Nge7 7. Nc2 O-O 8.
+Bxc6 Nxc6 9. d4 exd4 10. cxd4 Nxd4 11. Ncxd4 cxd4 12. Qb3 Qe7 13. Re1 Qf6 14.
+Qd5 a5 15. e5 Qf5 16. Qxd4 1-0

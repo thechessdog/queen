@@ -1,0 +1,18 @@
+[Event "Gausdal zt"]
+[Site "Gausdal zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Ernst, Thomas"]
+[Result "1/2-1/2"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "f073de32"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nd2 bxc4 5. e4 d6 6. Bxc4 g6 7. Ne2 Bg7 8. Nc3
+O-O 9. O-O 1/2-1/2

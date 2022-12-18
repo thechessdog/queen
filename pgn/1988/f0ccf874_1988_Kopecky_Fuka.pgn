@@ -1,0 +1,21 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kopecky"]
+[Black "Fuka"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "f0ccf874"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8.
+e4 Bg7 9. Be2 O-O 10. O-O Re8 11. a4 a6 12. Qc2 Ne5 13. Ra3 Qe7 14. h3 g5
+15. Nf3 Nxf3+ 16. Bxf3 g4 17. hxg4 Bxg4 18. Be2 h6 19. f3 Bd7 20. g3 Bh3
+21. Rd1 Nh5 22. Kh2 Bd7 23. Rh1 f5 24. Kg2 Qf7 25. Bd3 c4 26. Bxc4 Rac8 27.
+Bd3 Qg6 28. Qf2 f4 29. Ne2 Nxg3 30. Nxg3 Bd4 31. Bxf4 Bxf2 32. Kxf2 Qf6 33.
+Ne2 Kf7 34. Rb3 Bxa4 35. Rxb7+ Re7 36. Rxh6 Qg7 37. Rxe7+ Kxe7 38. e5 Bc2
+39. Re6+ Kf7 40. Rxd6 Qh8 41. Rh6 Qd8 42. e6+ Kg7 43. Rh7+ Kg8 44. Be5 1-0
+

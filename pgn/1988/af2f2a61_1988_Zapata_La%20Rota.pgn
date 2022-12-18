@@ -1,0 +1,29 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "La Rota, Fabio"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "af2f2a61"]
+[Epoch "Queen"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+[BlackID "4400216"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Ne2 Qc7
+8. Ng3 O-O 9. O-O Rd8 10. Qh5 Be6 11. Bxe6 fxe6 12. Re1 Qf7 13. Qg4 f5 14. Qh4
+Nd7 15. Bf4 Be7 16. Bg5 Nf6 17. c3 h6 18. Bxf6 Bxf6 19. Qf4 Rd5 20. Re2 c5 21.
+dxc5 Rxc5 22. Rae1 Rc6 23. Rd1 Rac8 24. Qf3 Rd8 25. Red2 Rxd2 26. Rxd2 Qc7 27.
+Nf1 Bg5 28. Rd3 Rb6 29. b3 Ra6 30. a4 Rc6 31. c4 a5 32. Qd1 Rb6 33. g3 Qc6 34.
+Nd2 Kh7 35. Nb1 Qc5 36. Nc3 Bf6 37. Nb5 Rc6 38. Rd7 b6 39. Qf3 Rc8 40. Rd6 Qe5
+41. Qe3 Qa1+ 42. Kg2 e5 43. Qf3 Rf8 44. Rxb6 Qb1 45. Nc3 Qc2 46. Nd5 Bg5 47. h4
+Bc1 48. Rb7 Bb2 49. Ne3 Qb1 50. Ra7 Kh8 51. g4 Ba3 52. Rb7 e4 53. Qf4 fxg4 54.
+Qxg4 Qb2 55. Nd1 Qe5 56. Rb5 Qa1 57. Rd5 Bb4 58. Qxe4 Qa2 59. Qd3 Be7 60. h5
+Qa1 61. Ne3 Qe1 62. Qd2 Qb1 63. Qd3 Qb2 64. Rf5 Rb8 65. Rxa5 Rxb3 66. Qe4 Bf8
+67. Rb5 Qa3 68. Qe8 Kg8 69. Nf5 Rf3 70. Qe4 Rb3 71. Qe6+ Kh7 72. Qg6+ Kh8 73.
+Qf7 Rh3 74. Nxh6 1-0

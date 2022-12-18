@@ -1,0 +1,21 @@
+[Event "Tampere Elo op"]
+[Site "Tampere ELO"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Paldanius, Pekka"]
+[Black "Yrjola, Jouni"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "e05d5676"]
+[Epoch "Queen"]
+[WhiteID "500356"]
+[WhiteCountry "FIN"]
+[BlackID "500011"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 c5 6. d5 exd5 7. exd5 O-O 8. Bd3
+b5 9. b3 bxc4 10. bxc4 d6 11. Bf4 Nbd7 12. Bxd6 Re8+ 13. Kf1 Bxc3 14. Qxc3 Ne4
+15. Bxe4 Rxe4 16. f3 Re8 17. Kf2 Ba6 18. Rc1 Nb6 19. Bxc5 Nxc4 20. Qd4 Qa5 21.
+d6 Qxa2+ 22. Kg3 Ne3 23. Qf4 Qxg2+ 24. Kh4 h6 25. Nh3 Bc8 0-1

@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Guillot, M."]
+[Black "Spangler"]
+[Result "1-0"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, Smyslov variation"]
+[HashCode "f3c30255"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8.
+Bb3 Bb7 9. Nc3 Nbd7 10. Rd1 Bd6 11. e4 cxd4 12. Rxd4 Qb8 13. Rxd6 Qxd6 14.
+e5 Qb8 15. exf6 Nxf6 16. Bxe6 Bxf3 17. gxf3 fxe6 18. Qxe6+ Kf8 19. Bh6 Qd8
+20. Bf4 Ne8 21. Nd5 Ra7 22. Be3 1-0
+

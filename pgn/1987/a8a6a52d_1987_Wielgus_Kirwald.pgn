@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wielgus, J."]
+[Black "Kirwald, F."]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "a8a6a52d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Qe7 6. Nc3 Qe6 7. Nd5 Qf5
+8. e3 Bb4+ 9. Nxb4 Nxb4 10. Nd4 Qg6 11. a3 Nc6 12. Bd3 Qh5 13. Be2 d6 14.
+exd6 1-0
+

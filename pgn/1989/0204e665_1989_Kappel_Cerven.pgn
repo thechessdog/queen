@@ -1,0 +1,17 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kappel"]
+[Black "Cerven"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "0204e665"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qe7 8. Nxh8 Qg5+ 9. Kxe4 d5+ 10. Kd3 e4+ 11. Kc3 d4+ 12. Kb3 Na5+ 13.
+Kb4 Nxc4 14. d3 a5+ 15. Kxc4 b5+ 16. Kxd4 0-1
+

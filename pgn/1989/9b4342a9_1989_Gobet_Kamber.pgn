@@ -1,0 +1,23 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gobet, Fernand"]
+[Black "Kamber, Bruno"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "9b4342a9"]
+[Epoch "Queen"]
+[WhiteID "1300083"]
+[BlackID "1300504"]
+[WhiteCountry "SUI"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+O-O 9. a4 Be6 10. O-O Nbd7 11. Nd5 Bxd5 12. exd5 h6 13. a5 Re8 14. Be3 e4 15.
+Ra4 Bf8 16. Rb4 Nc5 17. Qd2 Qd7 18. Rd1 Rac8 19. Nxc5 dxc5 20. Rb6 c4 21. d6
+Re5 22. Qb4 Nd5 23. Rxb7 Qc6 24. Rxd5 Rxd5 25. Rb6 Rd1+ 26. Bf1 Qd7 27. Bd2 e3
+28. fxe3 Qf5 29. Be1 c3 30. Bxa6 Rxe1+ 31. Kg2 Qd5+ 32. Kh3 Qf5+ 33. Kg2 Qxc2+
+34. Kh3 Qf5+ 35. Kg2 Rb1 36. Bxc8 0-1

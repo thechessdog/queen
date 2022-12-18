@@ -1,0 +1,23 @@
+[Event "ch-Wereld Teams"]
+[Site "Luzern"]
+[Date "1985.11.01"]
+[Round "5"]
+[White "Nascimento, Alexandre"]
+[Black "Renet, Olivier"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "8ae931dc"]
+[Epoch "Queen"]
+[WhiteID "10100024"]
+[WhiteCountry "ANG"]
+[BlackID "600040"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Na6 10. e3 Ne8 11. Qd2 f5 12. h4 Nac7 13. a4 b6 14. Be2 Ba6 15. Bg5
+Qd7 16. O-O Nf6 17. Qc2 Bxc4 18. Bxc4 a6 19. Be2 b5 20. Bf3 Rfb8 21. a5 Qf7 22.
+Rfd1 Nd7 23. Rd2 Ne5 24. Be2 Ne8 25. g3 Nf6 26. Bxf6 Qxf6 27. Kg2 Re8 28. Rc1
+Rac8 29. Qb1 Nd7 30. b3 Qd8 31. Ra2 Bf6 32. Qc2 Ne5 33. h5 Qe7 34. Rh1 c4 35.
+b4 0-1

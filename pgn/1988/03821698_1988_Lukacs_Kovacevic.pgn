@@ -1,0 +1,29 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1988.04.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Kovacevic, Vladimir"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "03821698"]
+[Epoch "Queen"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackID "906662"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Ra3 g5 13. Qc2 g4 14. Nc4 Nxc4 15.
+Bxc4 Nh5 16. g3 Be5 17. Nd1 Ng7 18. Ne3 Qf6 19. Bd3 Qg6 20. Bd2 Rb8 21. Bc3 Qh6
+22. Nc4 Bxc3 23. bxc3 b6 24. Raa1 Ba6 25. Nd2 Bxd3 26. Qxd3 Re7 27. f3 gxf3 28.
+Rxf3 a6 29. Raf1 Ne8 30. Nc4 f6 31. Ne3 Qg6 32. Nf5 Ra7 33. Rf4 Kh8 34. Qf3 Qf7
+35. Rg4 Qf8 36. Qe3 b5 37. axb5 Rxb5 38. Nh6 Rg7 39. Rgf4 Rbb7 40. Qf3 Rg6 41.
+Ng4 a5 42. e5 dxe5 43. Nxe5 Rg5 44. Nc6 Rd7 45. c4 a4 46. Qa3 Qh6 47. Qxc5 Qh3
+48. R4f3 Rdg7 49. Qa3 h5 50. Re1 Nc7 51. Re7 h4 52. Rxg7 Rxg7 53. Qf8+ Kh7 54.
+Qxf6 hxg3 55. Qxg7+ Kxg7 56. Rxg3+ Qxg3+ 57. hxg3 Na6 58. Nd4 a3 59. Nc2 a2 60.
+Kf2 Kf6 61. Ke3 Ke5 62. g4 Nc7 63. Kd3 Ne8 64. g5 Nc7 65. Kc3 Kf5 66. Kd4 Kxg5
+67. Ke5 Na6 68. Na1 Kg6 69. Ke6 Nc5+ 70. Kd6 Ne4+ 71. Ke7 Ng3 72. c5 Nf5+ 73.
+Ke6 Nd4+ 74. Kd7 Nf3 75. c6 Ne5+ 76. Ke6 Nc4 77. c7 Nb6 78. d6 1-0

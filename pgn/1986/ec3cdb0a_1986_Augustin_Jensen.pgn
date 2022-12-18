@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Augustin, H."]
+[Black "Jensen, Niels"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "ec3cdb0a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Qxd5 6. Nfd2 Be7 7. Nc3 Qa5
+8. Nc4 exd3 9. Qxe7+ 1-0
+

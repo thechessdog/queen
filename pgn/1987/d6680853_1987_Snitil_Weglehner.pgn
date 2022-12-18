@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Snitil"]
+[Black "Weglehner"]
+[Result "0-1"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "d6680853"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. d4 cxd4 5. Nxd4 Nc6 6. e3 Bb4 7. Qc2 O-O
+8. a3 Be7 9. Nf3 d5 10. b3 d4 11. exd4 Nxd4 12. Nxd4 Qxd4 13. Bb2 Qh4 14.
+g3 Qh5 15. Bg2 e5 16. O-O Bf5 17. Ne4 Bxe4 18. Bxe4 Ng4 19. h4 f5 20. Bxb7
+Rad8 21. Qe2 e4 22. Bd5+ Kh8 23. Kg2 Bd6 24. Kh3 Rde8 25. Kg2 f4 26. Qc2
+f3+ 27. Kg1 Qf5 28. Bd4 Ne5 29. Kh2 Nd3 30. Be3 Qg4 31. Rg1 Qxh4# 0-1
+

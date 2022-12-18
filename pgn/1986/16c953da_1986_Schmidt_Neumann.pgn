@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmidt, T."]
+[Black "Neumann, E."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "16c953da"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 h5
+8. Ng3 Bg4 9. f3 Be6 10. Bd3 h4 11. Ne2 Bc8 12. Be3 Nd7 13. Qd2 e6 14. O-O
+Nb6 15. c4 h3 16. g3 Qe7 17. a3 Bg7 18. b4 Bd7 19. a4 Nc8 20. c5 Qf8 21.
+Nc3 f5 22. b5 Ne7 23. a5 Qg8 24. a6 b6 25. cxb6 axb6 26. Rfb1 f4 27. Bxf4
+Bxd4+ 28. Be3 Qg5 29. f4 Qc5 30. Bxd4 Qxd4+ 31. Kf1 Nd5 32. Nxd5 Qxd5 33.
+Kg1 cxb5 0-1
+

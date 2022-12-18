@@ -1,0 +1,17 @@
+[Event "Tacoma"]
+[Site "Tacoma"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rasmussen, Karsten"]
+[Black "Hoock"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "697127b2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. f4 Bg7 5. Nf3 O-O 6. Bc4 c5 7. e5 Ne8 8. dxc5
+Nc6 9. O-O dxc5 10. Qe1 Nc7 11. Be3 b6 12. Rd1 Bd7 13. Ne4 Qc8 14. Neg5 Be6 15.
+Qh4 h6 16. Nxe6 Nxe6 17. f5 g5 18. Qh5 Nf4 19. Bxf4 gxf4 20. f6 exf6 21. exf6
+Bxf6 22. Qxh6 Bg7 23. Qh5 Ne7 24. Ng5 1-0

@@ -1,0 +1,17 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Thompson, D."]
+[Black "Fischvogt, Eric"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b5ba0905"]
+[Epoch "Queen"]
+[BlackID "30930782"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 d6 7. Nc3 Nxc3 8.
+bxc3 Bg4 9. Rb1 Rb8 10. d5 Nxe5 11. Nxe5 Bxd1 12. Bb5+ Qd7 13. Nxd7 1-0

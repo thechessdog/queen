@@ -1,0 +1,19 @@
+[Event "Naples"]
+[Site "Naples"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vallifuoco, Giacomo"]
+[Black "Martorelli, Antonio"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "eb0fadfb"]
+[Epoch "Queen"]
+[WhiteID "800228"]
+[BlackID "801399"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 a6 11. Re1 Rb8 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "9"]
+[White "Ostergaard, Jens"]
+[Black "Riis, Soren Moller"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "c01d1a6c"]
+[Epoch "Queen"]
+[WhiteID "1400606"]
+[BlackID "1400576"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Ne5 13. f4 Neg4 14. Nc4 Nxe4
+15. Nxe4 Bd4+ 16. Kh1 Nxh2 17. f5 Nxf1 18. Bg5 Rxe4 19. Bxd8 Rxe2 20. Qb3 Bxf5
+21. Nxd6 Rxb2 22. Qa3 Ne3 23. Nxf5 Nxf5 24. Bc7 Rd2 25. Re1 Bf2 26. Rf1 Re8 27.
+Bf4 Re4 28. Qf3 Rxf4 29. Qxf4 Ng3+ 30. Kh2 Nxf1+ 31. Kh1 Bg3 32. Qxf1 h5 33.
+Qf3 h4 34. Kg1 c4 35. d6 Rxd6 36. Kf1 Re6 0-1

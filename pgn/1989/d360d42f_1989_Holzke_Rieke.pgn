@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Holzke, Frank"]
+[Black "Rieke, Theo"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "d360d42f"]
+[Epoch "Queen"]
+[WhiteID "4600428"]
+[BlackID "4620216"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe5 6. d4 Bb6 7. dxe5 Nxe4
+8. Qf3 Ng5 9. Qg3 Ne6 10. Be3 c6 11. Bd3 Bxe3 12. Qxe3 d5 13. exd6 Qxd6 14. Nc3
+Qf4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Biel II"]
+[Site "Biel II"]
+[Date "1988.07.01"]
+[Round "8"]
+[White "Franzoni, Giancarlo"]
+[Black "Zapata, Alonso"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "b00a226e"]
+[Epoch "Queen"]
+[WhiteID "1300032"]
+[WhiteCountry "SUI"]
+[BlackID "4400011"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e6 4. g3 d5 5. exd5 exd5 6. Bg2 d4 7. Nd5 Nf6 8.
+Nef4 Bd6 9. Qe2+ Ne5 10. Nxf6+ Qxf6 11. Qb5+ Kf8 12. O-O g5 13. Nd5 Nf3+ 14.
+Kh1 Qf5 15. Qe2 g4 16. d3 h5 17. Bf4 Qxd5 18. Qe4 Qxe4 0-1

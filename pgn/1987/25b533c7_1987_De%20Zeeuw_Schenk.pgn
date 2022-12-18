@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Zeeuw, Maarten"]
+[Black "Schenk, Andre"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "25b533c7"]
+[Epoch "Queen"]
+[BlackID "1026062"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 dxe4 5. Qxe4 Nf6 6. Qh4 Nc6 7. Nf3 Nd5 8.
+Bg5 Nce7 9. a3 Bxc3+ 10. bxc3 Nxc3 11. Bd3 Bd7 12. Ne5 Bb5 13. Qh5 Rf8 14. Qxh7
+Qxd4 15. Nf3 Qc5 16. Qxg7 Bxd3 17. cxd3 Ncd5 18. O-O f6 19. Bh6 Rg8 20. Qh7
+O-O-O 21. Qe4 Qd6 22. Rfe1 e5 23. d4 f5 0-1

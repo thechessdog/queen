@@ -1,0 +1,18 @@
+[Event "Prague op"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gil, K."]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "934514e7"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 b6 10. Bd2 Bb7 11. Rfd1 cxd4 12. Nxd4 Qe7 13. a3 Bxc3 14. Bxc3 Nc5
+15. Bb4 a5 16. Be1 Rfc8 17. Nb5 Bd5 18. Bxd5 Nxd5 19. e4 Nf4 20. Qf3 e5 21. Rd6
+Rd8 22. Rad1 Rxd6 23. Rxd6 Rd8 24. Rxb6 h5 25. Bxa5 Rd3 0-1

@@ -1,0 +1,23 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lanc, Alois"]
+[Black "Enders, Peter"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "c880f3e3"]
+[Epoch "Queen"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackID "4611314"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4 8.
+Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 dxc3 11. f4 Nbc6 12. Qd3 Bd7 13. Rb1 Nf5 14. Qxc3
+d4 15. Qc4 O-O-O 16. Bd2 f6 17. exf6 Nd6 18. Qb3 Ne4 19. Qd3 Nxd2 20. Qxd2 e5
+21. fxe5 Qxe5 22. Rb3 Qxf6 23. Nf4 Bf5 24. Be2 Bxc2 25. Qxc2 Qxf4 26. Rf1 Qe5
+27. Rf7 Rxg2 28. Rfxb7 Rg1+ 29. Kd2 Qf4+ 30. Kd3 Qe3+ 31. Kc4 d3 32. Bxd3 Rg4+
+33. Kb5 Rd5+ 34. Kxc6 Qe6# 0-1

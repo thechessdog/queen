@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ardizzone, Stefano"]
+[Black "Bernei, Andras"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "30367483"]
+[Epoch "Queen"]
+[WhiteID "802565"]
+[BlackID "700959"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. cxd5 exd5 7. Ne2 c4 8. Bc2
+O-O 9. O-O Nc6 10. Ng3 Re8 11. f3 Rb8 12. Nce2 h5 13. Nh1 Bf8 14. Nf2 b5 15. a3
+g6 16. e4 dxe4 17. fxe4 Ng4 18. Nh3 Nxd4 19. Nxd4 Bc5 20. Kh1 Qxd4 21. Qf3 Ne5
+22. Qf4 Bxh3 23. gxh3 Rb7 24. Rb1 Nd3 25. Bxd3 Qxd3 26. Bd2 Qxe4+ 27. Qxe4 Rxe4
+28. Bc3 Bd4 29. Bxd4 Rxd4 30. b3 cxb3 31. Rxb3 b4 32. Rf6 a5 33. Ra6 Rd5 34.
+Kg2 Kg7 35. axb4 axb4 36. Kf3 Rc5 37. Ke4 Rc2 38. Ra4 Rxh2 0-1

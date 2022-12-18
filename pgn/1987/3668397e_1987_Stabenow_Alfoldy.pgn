@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stabenow"]
+[Black "Alfoldy"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "3668397e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be2 cxd4 7. Qxd4 Nc6
+8. Qxd5 Nxd5 9. O-O e5 10. Re1 f6 11. Bc4 Be6 12. Nd4 Kf7 13. Nxe6 Kxe6 14.
+Rd1 Rd8 15. a4 Bc5 16. b4 Ba7 17. b5 Na5 18. Ba2 Rd7 19. Na3 Rhd8 20. bxa6
+bxa6 21. Nc4 Nxc3 22. Rxd7 Rxd7 23. Nb6+ Nxa2 24. Nxd7 Nc3 25. Nf8+ Kf7 26.
+Bd2 Nb3 27. Ra3 Nxd2 28. Rxc3 Bxf2+ 29. Kh1 Kxf8 30. Rc8+ Kf7 31. Ra8 e4
+32. g3 Bc5 33. Rc8 e3 0-1
+

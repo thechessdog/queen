@@ -1,0 +1,24 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bassi, G."]
+[Black "Gaido, P."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "acad894d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3
+Qf6 8. Qxf6 Nxf6 9. d3 Bd6 10. Nd2 Nd7 11. Nc4 Bc5 12. Kh2 O-O-O 13. f4
+exf4 14. Bxf4 f6 15. c3 Nb6 16. Nxb6+ cxb6 17. d4 Bd6 18. Rae1 Bxf4+ 19.
+Rxf4 Rhe8 20. Kg3 Re7 21. Rh4 h6 22. e5 fxe5 23. Rhe4 Rd5 24. dxe5 Rd2 25.
+R1e2 Rxe2 26. Rxe2 Kd7 27. Rd2+ Ke6 28. Kf4 Rf7+ 29. Ke4 Rf1 30. Rd6+ Ke7
+31. Rg6 Re1+ 32. Kf5 Rf1+ 33. Kg4 Kf7 34. Rd6 Ke7 35. Rd2 Ke6 36. Rd8 Kxe5
+37. Rd7 Rf2 38. g3 Rxb2 39. Rxb7 Kf6 40. a4 a5 41. Rc7 c5 42. Rc6+ Kf7 43.
+Kf5 Rf2+ 44. Ke5 Rc2 45. Rc7+ Kg8 46. g4 Rxc3 47. h4 Kh7 48. g5 hxg5 49.
+hxg5 Kg6 50. Rc6+ Kxg5 51. Rxb6 Rc4 52. Rb5 Rxa4 53. Rxc5 Kg4 54. Rc1 g5
+0-1
+

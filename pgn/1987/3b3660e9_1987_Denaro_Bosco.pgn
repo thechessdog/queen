@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Denaro"]
+[Black "Bosco"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "3b3660e9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. b3 a6 12. Ba3 Qa5 13. Qb2 Nb4 14. Nd5
+Nfxd5 15. Bxd5 Nxd5 16. Rxd5 Qb6 17. Nxe5 dxe5 18. Bxe7 Re8 19. Rxe5 Be6
+20. Rg5 g6 21. Bf6 Qc7 22. Qd2 Qd7 23. Rd5 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Rutgersson"]
+[Result "1-0"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "52c14589"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nc3 Nf6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5
+8. Ndb5 Bb4 9. Nd6+ Ke7 10. Ne4 Nf6 11. Bg5 Bxc3+ 12. bxc3 d5 13. Qd4 dxe4
+14. Qxe5 Kf8 15. Rd1 Qe7 16. Be2 h6 17. Be3 b6 18. c5 Nd7 19. Qc7 Ke8 20.
+Bb5 Qd8 21. Qxd8+ Kxd8 22. c6 1-0
+

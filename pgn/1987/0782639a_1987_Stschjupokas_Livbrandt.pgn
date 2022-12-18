@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stschjupokas, AP."]
+[Black "Livbrandt, L."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0782639a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 Qxd5 5. Nf3 Nc6 6. Be3 cxd4 7. cxd4 Nf6
+8. Nc3 Qd6 9. Bd3 Be7 10. O-O O-O 11. Rc1 Rd8 12. Bb1 b6 13. Qa4 Bb7 14.
+Rfd1 a6 15. d5 exd5 16. Bxb6 Re8 17. Qb3 Ne5 18. Nxe5 Qxe5 19. Bd4 Qb8 20.
+Re1 Bc6 21. Qc2 g6 22. Rxe7 Rxe7 23. Bxf6 Re6 24. Bd4 Qb4 25. Qd2 Rae8 26.
+h3 Bb7 27. a3 Qd6 28. Rf1 h5 29. Qh6 1-0
+

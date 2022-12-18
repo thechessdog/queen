@@ -1,0 +1,20 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Nisman, Boris I"]
+[Black "Bogdanovski, Vlatko"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c6a04c25"]
+[Epoch "Queen"]
+[WhiteID "4104196"]
+[WhiteCountry "RUS"]
+[BlackID "15000206"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 g6 5. Nf3 Bg7 6. h3 O-O 7. O-O Nbd7 8. Nbd2
+a6 9. a4 b6 10. Qe2 e6 11. Re1 Bb7 12. Nf1 Qc7 13. Bf4 Nh5 14. Bh2 e5 15. dxc5
+Nxc5 16. Bc2 1/2-1/2

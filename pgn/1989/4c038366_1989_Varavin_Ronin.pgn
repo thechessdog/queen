@@ -1,0 +1,22 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Varavin, Viktor"]
+[Black "Ronin, V."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "4c038366"]
+[Epoch "Queen"]
+[WhiteID "4101766"]
+[WhiteCountry "RUS"]
+[BlackID "4107128"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 e6 3. d3 d5 4. Nd2 Nc6 5. g3 Nge7 6. Ngf3 g6 7. Bg2 Bg7 8. O-O
+b6 9. Re1 a5 10. a4 Ba6 11. Nf1 Ra7 12. e5 Qb8 13. Qe2 h6 14. h4 b5 15. N1h2
+bxa4 16. Ng4 Qb5 17. Nf6+ Kd8 18. c4 dxc4 19. dxc4 Qxc4 20. Qd1+ Nd5 21. Nd2
+Qb5 22. Nde4 Bxf6 23. Nxf6 Nd4 24. Nxd5 exd5 25. Be3 Qd3 26. Bxd4 Qxd4 27. Qf3
+f5 28. Rad1 Qc4 29. Rxd5+ Ke7 30. e6 Bb5 31. Qe3 Rd8 32. Rd7+ 1-0

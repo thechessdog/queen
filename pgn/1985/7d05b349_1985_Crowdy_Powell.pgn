@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Crowdy, S."]
+[Black "Powell, W."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "7d05b349"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Qc2 O-O 10. e4 fxe4 11. fxe4 Qh4+ 12. g3 Qf6 13. Bd3 Qxc3+
+14. Qxc3 Nxc3 15. Bf4 Rd8 16. Bc2 Bd7 17. Ne2 Nxe2 18. Kxe2 Na6 19. Bd6
+Rac8 20. Rhd1 Bb5+ 21. Bd3 Bxd3+ 22. Rxd3 Nxc5 23. Bxc5 Rxd3 24. Kxd3 Rxc5
+25. Kd4 Ra5 26. Rc1 e5+ 27. Kc4 Rxa3 28. Kd5 Ra5+ 29. Ke6 h6 30. Rc7 Rb5
+31. g4 a5 32. h4 a4 33. g5 hxg5 34. hxg5 Rb6+ 35. Ke7 a3 36. Rc8+ Kh7 37.
+Kf7 Rc6 38. Ra8 Rc3 0-1
+

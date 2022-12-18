@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Poleshchuk, Nikolai"]
+[Black "Gunnas, M."]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "895e01e5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Qe1 Be7 13. Bd3 Qb6 14.
+Kb1 O-O-O 15. Nd5 exd5 16. exd5 Bxd5 17. Qxe7 Bxg2 18. Bf5+ Kb8 19. Rhg1
+Bd5 20. Rg3 Rhe8 21. Qxf6 Re2 22. Rgd3 Be6 23. a3 Rd7 24. Bxe6 fxe6 25. f5
+Qc5 26. Rc3 Qxf5 27. Qh8+ Ka7 28. Qc8 Rb7 29. Rxd6 b4 30. Rd7 1-0
+

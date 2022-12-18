@@ -1,0 +1,24 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Woda, Jacek"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "e5276e0d"]
+[Epoch "Queen"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+[WhiteID "1100343"]
+[WhiteCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Ne2 Bd6 7. Bf4 O-O
+8. Qd2 Na6 9. Ng3 Bxf4 10. Qxf4 Nb4 11. O-O-O Nxa2+ 12. Kb1 Nb4 13. c3 Nd5 14.
+Qf3 Be6 15. Bd3 b5 16. Rhe1 Rb8 17. Qh5 g6 18. Qh6 f5 19. Re5 b4 20. Bxf5 Bxf5+
+21. Rxf5 f6 22. c4 gxf5 23. Nxf5 Qd7 24. Qh3 Kh8 25. cxd5 cxd5 26. g4 b3 27.
+Qh6 Rf7 28. Qf4 Qc7 29. Qxc7 Rxc7 30. Ne3 Rb5 31. Re1 Kg8 32. Nf5 Kf8 33. Nd6
+Rb8 34. Nf5 Re8 35. Ne3 Rc2 36. Rf1 Rd2 37. Nxd5 Ree2 38. Nxf6 Rxf2 39. Nxh7+
+Kg7 0-1

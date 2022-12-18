@@ -1,0 +1,23 @@
+[Event "Ballarat"]
+[Site "Ballarat"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rogers, Ian"]
+[Black "Hamilton, Robert"]
+[Result "1-0"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "dcbef71b"]
+[Epoch "Queen"]
+[BlackID "2600234"]
+[BlackCountry "CAN"]
+[WhiteID "3200019"]
+[WhiteCountry "AUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Qe8 11. a3 Bd7 12. b3 Nh7 13. Rb1 Ng5 14. f3 f5 15. Bf2 Qe7
+16. b4 axb4 17. axb4 h5 18. Qb3 Kh7 19. Qb2 Bf6 20. Ra1 h4 21. Ra5 h3 22. g3
+fxe4 23. Ncxe4 Bf5 24. O-O Bxe4 25. fxe4 Nf7 26. c5 Bg5 27. c6 Rad8 28. cxb7
+Nb8 29. Bg4 c6 30. Qc2 cxd5 31. exd5 Qxb7 32. Ra7 Qxd5 33. Ne4 Kh6 34. Bxh3 Nc6
+35. Rxf7 Rxf7 36. Nxg5 1-0

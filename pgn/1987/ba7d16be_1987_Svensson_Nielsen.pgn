@@ -1,0 +1,18 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Svensson, Gert"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "ba7d16be"]
+[Epoch "Queen"]
+[WhiteID "1701533"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. cxd4 Bb4+ 8.
+Kf1 d5 9. Qa4 Qd7 10. e6 fxe6 11. Ne5 Qd6 12. Bxc6+ bxc6 13. a3 Bc5 14. Nd3 O-O
+15. dxc5 Nxc5 16. Nxc5 Qxc5 17. Ke2 Rxf2+ 18. Kd3 e5 0-1

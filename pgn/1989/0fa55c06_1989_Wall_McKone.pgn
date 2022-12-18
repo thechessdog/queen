@@ -1,0 +1,15 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "McKone, Peter"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "0fa55c06"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. Nc3 f5 2. d4 Nf6 3. Bg5 h6 4. Bxf6 exf6 5. e4 Bb4 6. Qh5+ Kf8 7. Bc4 Qe7 8.
+Ne2 fxe4 9. O-O-O c6 10. Nf4 1-0

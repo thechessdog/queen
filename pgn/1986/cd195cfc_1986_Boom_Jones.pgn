@@ -1,0 +1,19 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Boom, W."]
+[Black "Jones, C."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "cd195cfc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Be3 Qa5 9. Qd2 Nc6 10. Rc1 O-O 11. d5 Rd8 12. Qb2 Ne5 13. Nxe5 Bxe5 14.
+f4 Bg7 15. Kf2 a6 16. Be2 e6 17. Rhd1 exd5 18. Rxd5 Rxd5 19. exd5 Qc7 20.
+Bf3 Bf5 21. Rd1 Rd8 22. Qa3 c4 23. Qb4 b5 24. d6 Qb8 25. a4 Bd3 26. axb5
+axb5 27. Ra1 1-0
+

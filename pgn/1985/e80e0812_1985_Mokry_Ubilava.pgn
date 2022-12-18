@@ -1,0 +1,20 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Mokry, Karel"]
+[Black "Ubilava, Elizbar"]
+[Result "1/2-1/2"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "e80e0812"]
+[Epoch "Queen"]
+[WhiteID "306070"]
+[WhiteCountry "CZE"]
+[BlackID "13600052"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+f4 h6 9. Bxf6 gxf6 10. Nf5 Qa5 11. Bd3 Nb4 12. Ne3 f5 13. Nxf5 Bxf5 14. exf5
+Bg7 15. O-O Nxd3 1/2-1/2

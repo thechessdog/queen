@@ -1,0 +1,18 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Lazic, Marina"]
+[Black "Markovic, Miroljub"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "a5ea5a3b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. Nf3 Bg7 6. e4 O-O 7. Be2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Nbd7 13. Nc4 Ne8 14. f4 Bd4+
+15. Kh1 f6 16. Qd3 f5 17. Be3 Bg7 18. Rae1 Nb6 19. e5 Rc8 20. e6 Nxc4 21. Qxc4
+Qb6 22. Qe2 Qb3 23. Qd2 b5 24. axb5 axb5 25. Ra1 Nf6 26. Rfd1 b4 27. Na4 Ne4
+28. Qe2 Ra8 0-1

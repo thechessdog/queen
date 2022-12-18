@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mertala"]
+[Black "Nieminen"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "acfdaf5b"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 e5 7. dxe5 dxe5 8.
+fxe5 Ng4 9. Bg5 Qd7 10. Nd5 Kh8 11. Qd2 c6 12. Nf6 Qc7 13. O-O-O Nxe5 14.
+h4 Nbd7 15. Nxd7 Bxd7 16. h5 Kg8 17. Bh6 Ng4 18. Bxg7 Kxg7 19. hxg6 hxg6
+20. Bc4 b5 21. Qd4+ Nf6 22. Rh7+ Kxh7 23. Qxf6 1-0
+

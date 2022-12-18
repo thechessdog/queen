@@ -1,0 +1,25 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Thorsteinsson, Thor"]
+[Black "Vigfusson, Thrainn"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5b062914"]
+[Epoch "Queen"]
+[BlackID "2300486"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. g3
+d5 9. cxd5 Nxd5 10. Bg2 Nxc3 11. bxc3 Nc6 12. O-O Na5 13. Be4 Bd7 14. Qd3 h6
+15. Rb1 a6 16. c4 Qc8 17. Bd2 f5 18. Bf3 Qxc4 19. Qe3 Bg5 20. Nf4 Nc6 21. Rfc1
+Qxd4 22. Rxb7 Rac8 23. Kg2 Qxe3 24. Bxe3 Ne5 25. Rd1 Bb5 26. Bd4 Bxf4 27. gxf4
+Nf7 28. Re1 Rfd8 29. Ba1 Rd6 30. Re7 Re8 31. Rc7 Rd7 32. Rec1 Red8 33. Bh5 Nd6
+34. Be5 Kh7 35. Bf3 Nf7 36. Ba1 Rxc7 37. Rxc7 Rd7 38. Rc8 Nd6 39. Rb8 Nc4 40.
+a4 Bxa4 41. h4 Bb5 42. h5 Nd2 43. Ba8 Ra7 44. Kg3 Rd7 45. Rc8 Rd3+ 46. Kh2 Nc4
+47. Bc6 Rd1 48. Bc3 Rc1 49. Be8 Bxe8 50. Rxc4 Bxh5 51. Rc7 Bf7 52. Be5 Rxc7 53.
+Bxc7 g5 54. Kg3 Kg6 55. Kf3 Be8 56. Ke3 Bc6 57. Bd8 Bd5 58. Ba5 Kf7 59. fxg5
+hxg5 60. f4 g4 61. Be1 Ke7 62. Kd4 Kd6 63. Bf2 Kc6 0-1

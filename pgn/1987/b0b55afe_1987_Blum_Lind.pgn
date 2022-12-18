@@ -1,0 +1,23 @@
+[Event "Hassel"]
+[Site "Hassel"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Blum, Gernot"]
+[Black "Lind, Jan"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "b0b55afe"]
+[Epoch "Queen"]
+[WhiteID "4602030"]
+[WhiteCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e6 4. f4 Be7 5. Nf3 c6 6. Bd3 Nbd7 7. O-O Qc7 8. e5
+Nd5 9. Nxd5 cxd5 10. Qe1 Nf8 11. b3 Bd7 12. c4 Bc6 13. Bd2 dxc4 14. bxc4 d5 15.
+c5 Bd8 16. a4 f5 17. exf6 Bxf6 18. f5 Qe7 19. fxe6 Nxe6 20. Bc3 O-O 21. Kh1
+Rae8 22. Qd2 Ng5 23. Nxg5 Bxg5 24. Rxf8+ Rxf8 25. Qc2 h6 26. Re1 Qd7 27. a5 a6
+28. Rf1 Rxf1+ 29. Bxf1 Bb5 30. Qb1 Bf4 31. Bxb5 axb5 32. Qe1 Kf7 33. Qf2 Qf5
+34. g3 g5 35. gxf4 gxf4 36. Bd2 f3 37. Bxh6 b4 38. Bd2 b3 39. Bc3 Qd3 40. Ba1
+Qd1+ 41. Qg1 Qe2 42. Qg4 Qe1+ 43. Qg1 f2 44. Qxe1 fxe1=Q+ 45. Kg2 Qxa1 46. h4
+Qxd4 47. h5 b2 48. h6 b1=Q 49. h7 Qc2+ 50. Kg3 Qcc3+ 51. Kg2 Qdd2+ 52. Kf1
+Qcc1# 0-1

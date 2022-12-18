@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Meyer, B."]
+[Black "Jonsson, K."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "c090eb8b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Ra2 Ng6 9. Bd3 cxd4 10. cxd4 Nc6 11. Nf3 Bd7 12. O-O O-O-O 13. c3 f5 14.
+Qg5 Rdg8 15. a4 Nge7 16. Ba3 h6 17. Qd2 g5 18. Bd6 Qd8 19. Rb1 Na5 20. c4
+dxc4 21. Bxe7 Qxe7 22. Qxa5 cxd3 23. d5 exd5 24. Rxb7 Kxb7 25. Rb2+ Bb5 26.
+Qxb5+ Kc7 27. Qb7+ Kd8 28. Qb8+ Kd7 29. Rb7+ Kc6 30. Rc7+ Qxc7 31. Qb5# 1-0
+

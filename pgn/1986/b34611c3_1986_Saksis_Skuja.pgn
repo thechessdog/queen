@@ -1,0 +1,18 @@
+[Event "Latvia Tch"]
+[Site "Latvia Tch"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Saksis"]
+[Black "Skuja"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Vitolins variation"]
+[HashCode "b34611c3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5+ Bd7 7. Bg5 Be7
+8. Qf3 a6 9. Bxd7+ Nbxd7 10. O-O-O Ne5 11. Qh3 O-O 12. f4 Nc6 13. e5 Nd5
+14. Bxe7 Qxe7 15. Nxd5 exd5 16. Nf5 Qc7 17. exd6 Qa5 18. Rd3 Qxa2 19. Rg3
+g6 20. Ra3 1-0
+

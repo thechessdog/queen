@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cuno"]
+[Black "Reimann"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "e514b10a"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 exf4 4. Bxg7 Qh4+ 5. g3 fxg3 6. Bg2 Nf6 7. Nf3
+Qg5 8. Bxh8 gxh2 9. Bxf6 Qxg2 10. Rxh2 Qg3+ 11. Rf2 d5 12. Be5 1-0
+

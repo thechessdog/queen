@@ -1,0 +1,19 @@
+[Event "Blackpool ch-BCF"]
+[Site "Blackpool ch-BCF"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Bellin, Robert"]
+[Black "Norwood, David R"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "6f154b8a"]
+[Epoch "Queen"]
+[WhiteID "400343"]
+[WhiteCountry "ENG"]
+[BlackID "400106"]
+[BlackCountry "AND"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. h3 O-O 6. Be3 c6 7. a4 a5 8. Be2
+Nbd7 9. O-O Qc7 10. Qd2 e5 11. dxe5 1/2-1/2

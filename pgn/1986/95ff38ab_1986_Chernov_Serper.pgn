@@ -1,0 +1,22 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Chernov, Vadim"]
+[Black "Serper, Grigory"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack, Schofman variation"]
+[HashCode "95ff38ab"]
+[Epoch "Queen"]
+[WhiteID "1210629"]
+[WhiteCountry "ROU"]
+[BlackID "2012642"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. f4 g6 3. Nf3 Bg7 4. Nc3 Nc6 5. Bc4 e6 6. f5 Nge7 7. fxe6 fxe6 8. d3
+d5 9. Bb3 b5 10. a3 c4 11. Ba2 O-O 12. O-O h6 13. Qe1 g5 14. Kh1 a6 15. Qg3 Nd4
+16. h4 gxh4 17. Qxh4 Nxc2 18. Bxh6 Nxa1 19. Bg5 Ng6 20. Qh5 Qe8 21. exd5 Ne5
+22. Qxe8 Rxe8 23. Nxe5 Bxe5 24. Rxa1 Bxc3 25. bxc3 exd5 26. Rf1 Ra7 27. dxc4
+dxc4 28. Bb1 Rf7 29. Kg1 Re2 30. Bf4 Bb7 0-1

@@ -1,0 +1,19 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Koppe"]
+[Black "Klemm"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "fa16c9c2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Nc6 12. Nxc6 Qxc6 13. Qg4 Bb7
+14. Be2 Rc8 15. Bf3 Qb6 16. Rxd7 Kxd7 17. Qf4 Ke8 18. Bh5 Qc7 19. Rf1 g6
+20. Bd1 h6 21. Bf6 Rg8 22. Rf2 Bc5 23. Rd2 g5 24. Qg3 b4 25. Na4 Ba7 26.
+Rd6 Rg6 27. Qd3 Bd5 28. b3 Rxf6 29. Rxd5 Rf2 30. Rd6 Be3+ 31. Kb2 Bf4 0-1
+

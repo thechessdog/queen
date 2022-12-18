@@ -1,0 +1,33 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Curdo, John"]
+[Black "Rolletschek, Heinrich"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "0ff5ef02"]
+[Epoch "Queen"]
+[BlackID "1600079"]
+[BlackCountry "AUT"]
+[WhiteID "2001705"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. Be3
+Qe7 9. Re1 Nf6 10. Nbd2 O-O 11. Bg5 h6 12. Bh4 Qe8 13. dxe5 dxe5 14. Nf1 Rd8
+15. Qe2 Nb8 16. Bc2 Bc6 17. Rad1 Rd7 18. Rxd7 Nbxd7 19. Rd1 Nh5 20. Ne3 Nf4 21.
+Qe1 Nb6 22. Rd8 Qxd8 23. Bxd8 Rxd8 24. c4 Ne6 25. Nd5 Nc8 26. Qa5 Rd7 27. Kf1
+Nd6 28. Nd2 f6 29. b4 Kf7 30. Bb3 Nd4 31. Bd1 h5 32. Ba4 Bh6 33. b5 axb5 34.
+cxb5 Bxd2 35. Qxd2 Nxe4 36. Qh6 Bxd5 37. Qh7+ Ke6 38. Qxg6 Nc3 39. Qe8+ Re7 40.
+Qc8+ Kf7 41. b6 Be6 42. Qxb7 cxb6 43. Qa8 Bxa2 44. Bc6 Bc4+ 45. Ke1 Nxc6 46.
+Qxc6 b5 47. Qf3 Nd5 48. Qxh5+ Ke6 49. Qg4+ f5 50. Qg8+ Kd7 51. Qg6 f4 52. h4
+Nb4 53. Kd2 Nd3 54. f3 Nc5 55. h5 Ne6 56. Qf5 Rg7 57. h6 Rxg2+ 58. Kc3 Ke7 59.
+h7 Rh2 60. Qg6 Nd8 61. Qg5+ Kd7 62. Qxe5 Nf7 63. Qxf4 Rh1 64. Qf5+ Ke7 65. f4
+Rh6 66. Qc5+ Kf6 67. Qd4+ Kg6 68. Qe4+ Kg7 69. Qd4+ Kxh7 70. Qe4+ Kg7 71. Qd4+
+Kg6 72. Qe4+ Kf6 73. Kb4 Rh5 74. Kc3 Rd5 75. Kb4 Nd8 76. Qh1 Nc6+ 77. Kc3 Nd4
+78. Qe4 Ne6 79. Qh7 Nxf4 80. Qh8+ Kf5 81. Qh7+ Ke5 82. Qg7+ Ke4 83. Qh7+ Ke3
+84. Qa7+ Ke2 85. Qe7+ Kd1 86. Qh4 Rd3+ 87. Kb4 Rb3+ 88. Kc5 Nd3+ 89. Kd4 Rb2
+90. Qd8 Kc2 91. Qa5 Rb3 92. Qa2+ Nb2 93. Qa1 Rd3+ 94. Kc5 Kb3 95. Qe1 Rd5+ 96.
+Kb6 b4 0-1

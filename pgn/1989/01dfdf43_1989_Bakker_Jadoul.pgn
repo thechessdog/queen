@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bakker, Piet"]
+[Black "Jadoul, Michel"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "01dfdf43"]
+[Epoch "Queen"]
+[WhiteID "1024469"]
+[BlackID "200034"]
+[WhiteCountry "NED"]
+[BlackCountry "BEL"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. Nf3 O-O 5. e3 d5 6. c4 c5 7. cxd5 Nxd5 8.
+Be2 Nc6 9. Bb2 Qe7 10. O-O Rd8 11. a3 Ba5 12. Qa4 Bf5 13. d3 Rac8 14. Rd1 Nxe3
+15. fxe3 Qxe3+ 16. Kf1 Re8 17. Ng1 c4 18. d4 Re4 19. Bc1 Rf4+ 20. Nf3 Rxf3+ 0-1

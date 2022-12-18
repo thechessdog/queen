@@ -1,0 +1,28 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Motgomery"]
+[Black "Franke, C."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "e046f1e1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O
+8. e5 Ne8 9. c3 dxc3 10. Nxc3 d6 11. exd6 Nxd6 12. Bf4 Bd7 13. Nd5 Re8 14.
+Qd2 Bf8 15. Bc2 f6 16. Nxc7 Qxc7 17. Qd5+ Kh8 18. Qh5 g6 19. Bxg6 Bg4 20.
+Qxg4 hxg6 21. Qxg6 Qg7 22. Nh4 Nf7 23. Qf5 Bb4 24. Rxe8+ Rxe8 25. Qd7 Re4
+26. Qh3 Kg8 27. Qf3 Re8 28. h3 Nfe5 29. Qb3+ Kh8 30. a3 Bc5 31. Bg3 Nd4 32.
+Qd1 Qg5 33. Kh2 Ng6 34. Nxg6+ Qxg6 35. Rc1 Bb6 36. Rc4 Qe4 37. Qh5+ Kg7 38.
+Rb4 Re6 39. Qd1 Bc5 40. Qg4+ Qxg4 41. Rxb7+ Re7 42. Rxe7+ Bxe7 43. hxg4 Nb3
+44. f3 Nd2 45. Bf4 Nc4 46. Bc1 Bc5 47. b4 Be3 48. Bxe3 Nxe3 49. a4 Nd5 50.
+Kg3 Nxb4 51. Kf4 Nd3+ 52. Kf5 Kf7 53. g5 fxg5 54. Kxg5 Ne1 55. Kf4 Nxg2+
+56. Ke5 Ke7 57. f4 Kd7 58. f5 Nh4 59. f6 Ng6+ 60. Kd5 Nh8 61. Kc5 Kc7 62.
+a5 Nf7 63. Kd5 Ng5 64. Kc4 Kc6 65. Kb4 Kd5 66. Kb3 Kc5 67. Ka4 Kc4 68. Ka3
+Kb5 69. Kb3 Kxa5 70. Ka3 Kb5 71. Kb3 a5 72. Ka3 a4 73. Ka2 Kb4 74. Kb2 a3+
+75. Ka2 Ka4 76. Ka1 Kb3 77. Kb1 Nf7 78. Ka1 Ne5 79. Kb1 a2+ 80. Ka1 Nc4 81.
+f7 Na3 82. f8=Q Nc2# 0-1
+

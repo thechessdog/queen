@@ -1,0 +1,20 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Engqvist, Thomas"]
+[Black "Winge, Stefan"]
+[Result "1-0"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "28526ad7"]
+[Epoch "Queen"]
+[WhiteID "1700332"]
+[WhiteCountry "SWE"]
+[BlackID "1700898"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 b6 7. Qb3 dxc4 8. Bxc4
+c5 9. Ne5 e6 10. bxc5 bxc5 11. Ba3 Nfd7 12. Nxf7 Rxf7 13. Bxe6 Ne5 14. dxe5
+Bxe6 15. Qxe6 Nd7 16. O-O Bxe5 17. Rac1 Qa5 18. Bb2 Rb8 19. Ba1 Bg7 20. Ne4 1-0

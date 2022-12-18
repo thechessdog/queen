@@ -1,0 +1,22 @@
+[Event "Tecklenburg"]
+[Site "Tecklenburg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Quillan, Gary"]
+[Black "Schlosser, Michael"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "03fea2b0"]
+[Epoch "Queen"]
+[WhiteID "401153"]
+[BlackID "1600184"]
+[WhiteCountry "ENG"]
+[BlackCountry "AUT"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8. dxe5
+dxe5 9. f5 gxf5 10. exf5 e4 11. Nxe4 Bxf5 12. Nxf6+ Qxf6 13. Ne5 Nxe5 14. Bxf5
+Qb6+ 15. Kh1 Rad8 16. Qh5 Ng6 17. Bg5 Rd5 18. Rae1 Qxb2 19. Be7 Rb8 20. Qf3 Ra5
+21. Bxg6 fxg6 22. Qf7+ Kh8 23. Bf6 Bxf6 24. Qxc7 Rg8 25. Qxa5 Bc3 26. Rb1 Qxc2
+27. Qc7 1-0

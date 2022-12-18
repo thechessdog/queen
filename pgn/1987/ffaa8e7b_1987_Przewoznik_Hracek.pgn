@@ -1,0 +1,20 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Przewoznik, Jan"]
+[Black "Hracek, Zbynek"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "ffaa8e7b"]
+[Epoch "Queen"]
+[BlackID "300071"]
+[BlackCountry "CZE"]
+[WhiteID "1100149"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 Bf5 4. c4 c6 5. Nc3 e6 6. Bd3 Bxd3 7. Qxd3 Be7 8. O-O
+Nbd7 9. e4 dxe4 10. Nxe4 Qc7 11. Re1 Rd8 12. Bg5 O-O 13. Qc2 Rfe8 14. Rad1 Nxe4
+15. Bxe7 1/2-1/2

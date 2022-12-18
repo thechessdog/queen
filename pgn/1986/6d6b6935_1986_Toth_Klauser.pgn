@@ -1,0 +1,23 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Klauser, Markus"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "6d6b6935"]
+[Epoch "Queen"]
+[WhiteID "736112"]
+[BlackID "1300334"]
+[WhiteCountry "ITA"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Nd2 e5 9. Nb3 b6 10. O-O e4 11. Be2 O-O 12. f4 Qd7 13. Bd2 Ne7 14. Be1 Ng4 15.
+Qd2 f5 16. Bg3 Qe6 17. h3 Nh6 18. Qb2 a5 19. Nd2 Rb8 20. Nb1 Ba6 21. Na3 Qd7
+22. Rab1 Rfc8 23. Rfd1 Nf7 24. Nb5 cxd4 25. cxd4 d5 26. cxd5 Nxd5 27. Bf2 Nb4
+28. Na3 Bxe2 29. Qxe2 Nd3 30. Nb5 Rc4 31. Be1 Rbc8 32. Na3 R4c6 33. Rd2 Rc3 34.
+Nc2 b5 35. Na1 a4 36. Rc2 0-1

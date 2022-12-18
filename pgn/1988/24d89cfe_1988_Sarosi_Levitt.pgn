@@ -1,0 +1,24 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Sarosi, Zoltan"]
+[Black "Levitt, Jonathan P"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "24d89cfe"]
+[Epoch "Queen"]
+[WhiteID "701521"]
+[WhiteCountry "HUN"]
+[BlackID "400220"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Be2 dxc4 10. bxc4 Nc6 11. Qa4 Na5 12. O-O Qd7 13. Nb5 Ne4 14. Qc2 Nd6
+15. a4 Rfc8 16. Rb1 Ndxc4 17. Bxc4 Nxc4 18. Qxc4 c6 19. Qd3 cxb5 20. axb5 Bb7
+21. Bb2 a6 22. Rfc1 axb5 23. Rxc8+ Rxc8 24. Rc1 Rxc1+ 25. Bxc1 Qc6 26. Qf1 b4
+27. Bb2 Qc2 28. Qc1 Qxc1+ 29. Bxc1 Kf8 30. Bd2 b3 31. Bc3 Ke7 32. f3 Kd6 33. e4
+f5 34. exf5 exf5 35. Kf2 Kd5 36. Ke3 g5 37. g3 Kc4 38. Bb2 f4+ 39. gxf4 gxf4+
+40. Ke2 h5 41. h4 Bd5 42. Ba1 b5 43. Bb2 b4 0-1

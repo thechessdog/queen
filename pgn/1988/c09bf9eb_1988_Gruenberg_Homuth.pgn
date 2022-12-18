@@ -1,0 +1,22 @@
+[Event "Regional-Liga NN"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gruenberg, Rainer"]
+[Black "Homuth, Manfred"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "c09bf9eb"]
+[Epoch "Queen"]
+[WhiteID "4601262"]
+[WhiteCountry "GER"]
+[BlackID "4623444"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8. Bg5
+O-O 9. Qd2 a6 10. a4 Nbd7 11. Nh3 Ne5 12. Nf2 Qa5 13. Ra3 Bd7 14. Be2 h5 15.
+O-O Rfb8 16. h3 Be8 17. f4 Ned7 18. Bh4 Nh7 19. g4 hxg4 20. hxg4 g5 21. fxg5
+Ne5 22. Nfd1 Ng6 23. Bg3 Qd8 24. e5 Nxe5 25. Ne4 b5 26. Bxe5 Bxe5 27. Rh3 Qe7
+28. Bd3 Bd7 29. Rh6 Bd4+ 30. Kg2 Kg7 31. Qf4 Nxg5 32. Nxg5 Kxh6 33. Ne6+ 1-0

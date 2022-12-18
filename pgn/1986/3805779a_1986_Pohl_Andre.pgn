@@ -1,0 +1,18 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pohl"]
+[Black "Andre"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "3805779a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Be4
+8. Rg1 Bxc2 9. Qxc2 Qxd4 10. Nf3 Qb6 11. Bd2 Nbd7 12. O-O-O O-O-O 13. Na4
+Qf2 14. Bg2 Nb6 15. Nxb6+ Qxb6 16. Ne5 Bc5 17. Rgf1 Rhf8 18. g5 Bd6 19. Nc4
+Qa6 20. gxf6 g6 21. Nxd6+ Rxd6 22. Bf4 Rfd8 23. Bxd6 Rxd6 24. Kb1 h5 25.
+Qxg6 fxg6 26. f7 1-0
+

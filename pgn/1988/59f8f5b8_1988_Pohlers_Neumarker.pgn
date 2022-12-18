@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pohlers, J."]
+[Black "Neumarker"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "59f8f5b8"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 Bxc3+ 7. bxc3
+dxc6 8. Qxd8+ Kxd8 9. Bg5 Ke7 10. f3 c5 11. e4 h6 12. Bh4 g5 13. Bg3 Ne8
+14. h4 g4 15. Be2 Rg8 16. Bf4 h5 17. fxg4 Bxg4 18. Bg5+ Ke6 19. Bxg4+ hxg4
+20. Rf1 Nd6 21. Rf6+ Ke5 22. O-O-O Rxg5 23. hxg5 b6 24. Rd5+ Kxe4 25. Rd1
+Rg8 26. g3 Nxc4 27. Rf4+ 1-0
+

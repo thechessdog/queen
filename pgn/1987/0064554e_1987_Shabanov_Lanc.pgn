@@ -1,0 +1,28 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Shabanov, Yuri"]
+[Black "Lanc, Alois"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "0064554e"]
+[Epoch "Queen"]
+[BlackID "14900041"]
+[BlackCountry "SVK"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Bxc6 dxc6 6. d3 e5 7. a4 Bg4 8.
+Nbd2 Qe7 9. Nc4 f6 10. h3 Be6 11. Be3 Nh6 12. Nfd2 Nf7 13. Nb3 Bxc4 14. Bxc5
+Qe6 15. dxc4 Qxc4 16. Qg4 Nh6 17. Qf3 b6 18. Be3 O-O 19. Nd2 Qxc2 20. Qe2 Rad8
+21. Rfc1 Qd3 22. Qxd3 Rxd3 23. Rxc6 f5 24. Nc4 f4 25. Bd2 Nf7 26. Bc3 Rfd8 27.
+f3 Nd6 28. Nxd6 R3xd6 29. Rxd6 Rxd6 30. Kf1 Kf7 31. Ke2 Ke6 32. b4 Rc6 33. Kd3
+a6 34. Kc2 Bf6 35. Kb3 Bh4 36. b5 axb5 37. axb5 Rc5 38. Bb4 Rc7 39. Ra8 Rc1 40.
+Bc3 Rb1+ 41. Kc4 Be1 42. Bxe1 Rxe1 43. Rb8 Rc1+ 44. Kb3 Rb1+ 45. Kc4 Rc1+ 46.
+Kd3 Rd1+ 47. Ke2 Rd6 48. Rb7 h5 49. h4 Kf6 50. Ke1 Ke6 51. Ke2 Kf6 52. Kf1 Ke6
+53. Kg1 Rd1+ 54. Kh2 Rd6 55. Rg7 Kf6 56. Rc7 Ke6 57. Rb7 Kf6 58. g4 fxg3+ 59.
+Kxg3 Ke6 60. Kf2 Kf6 61. Rc7 Rd2+ 62. Kg3 Rd6 63. Kh3 Ke6 64. Kg2 Rd7 65. Rc3
+Rd1 66. Rc7 Rd7 67. Rxd7 Kxd7 68. f4 exf4 69. Kf3 Kd6 70. Kxf4 Kc5 71. Kg5 Kxb5
+72. e5 Kc6 73. Kf6 1-0

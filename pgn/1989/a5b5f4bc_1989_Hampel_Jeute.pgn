@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hampel"]
+[Black "Jeute"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "a5b5f4bc"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Nf6 5. d5 Nb8 6. e4 e6 7. Bxc4 exd5
+8. exd5 Be7 9. O-O O-O 10. Re1 Bg4 11. Qd3 Nbd7 12. Bf4 Nb6 13. Bb3 Bd6 14.
+Bg5 Nbd7 15. Ne4 Nc5 16. Nxc5 Bxc5 17. Bc2 Qxd5 18. Qc3 1/2-1/2
+

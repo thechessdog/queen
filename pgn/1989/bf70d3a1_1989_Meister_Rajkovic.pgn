@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meister, Peter"]
+[Black "Rajkovic, Dusan"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "bf70d3a1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O 10. Rd1 d6 11. Bf4 Qb6 12. Qc2 Rd8 13. Rd2 h6 14. h3 Nc6 15. Be3
+Nb4 16. Qb3 Qa6 17. Nb5 Rac8 18. Rdd1 Be4 19. Ne1 Bxg2 20. Nxg2 d5 21. Bf4 dxc4
+22. Qxc4 Rd4 0-1

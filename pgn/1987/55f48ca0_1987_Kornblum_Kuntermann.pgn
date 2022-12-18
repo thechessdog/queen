@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kornblum"]
+[Black "Kuntermann"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "55f48ca0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 Be7 8.
+Nxe5 Nxe5 9. dxe5 Bb7 10. c3 O-O 11. Be3 d5 12. exd6 Bxd6 13. Nd2 Nxd2 14.
+Qxd2 Qh4 15. f4 Rad8 16. Qf2 Qxf2+ 1/2-1/2
+

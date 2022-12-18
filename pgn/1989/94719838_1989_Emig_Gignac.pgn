@@ -1,0 +1,20 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Emig"]
+[Black "Gignac"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "94719838"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bd3 Rb8 13. Re1 Qe7 14. Bc2
+Nf6 15. e5 Nfe8 16. h3 b6 17. Bd3 Bb7 18. Bb1 Qd7 19. f5 dxe5 20. fxg6 fxg6
+21. Nxe5 Qd6 22. Qe2 Ba6 23. Nb5 Nxb5 24. axb5 Bxb5 25. Qxb5 Bxe5 26. Bh6
+Rf7 27. Ra4 Nf6 28. Qc6 b5 29. Qxd6 Bxd6 30. Re6 bxa4 31. Rxd6 a3 32. Rc6
+Rfb7 33. Bc1 axb2 34. Bf4 Re8 0-1
+

@@ -1,0 +1,17 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Meskanen, Vesa"]
+[Black "Hergott, Deen"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "443a6f72"]
+[Epoch "Queen"]
+[WhiteID "503126"]
+[WhiteCountry "FIN"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 a6 5. Bc4 b5 6. Bb3 Bb7 7. Qe2 c5 8. dxc5
+dxc5 9. Nxb5 Qa5+ 10. Nc3 Bxc3+ 11. Kf1 Bg7 12. Qc4 Qb5 13. Ba4 Bc6 0-1

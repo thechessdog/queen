@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Knoek"]
+[Black "Blokland"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5629f3f2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nf3 Nbd7 9. Bc4 Nb6 10. O-O Nxc4 11. Qxc4 e6 12. dxe6 Bxe6 13. Qd3 Rc8
+14. Be3 Bc4 0-1
+

@@ -1,0 +1,21 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heyken, Enno"]
+[Black "Baldauf, Markus"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "5c64b1ee"]
+[Epoch "Queen"]
+[WhiteID "4600401"]
+[BlackID "4604326"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Qe8 11. g4 Nh7 12. Nf1 Ng5 13. Bxg5 hxg5 14. Qd2 Qe7 15. h4
+gxh4 16. g5 f6 17. gxf6 Qxf6 18. O-O-O Qxf2 19. Kb1 Nc5 20. Nh2 Rf4 21. Nf3
+Nxe4 22. Nxe4 Rxe4 23. Rh2 Qe3 24. Nxh4 Qxd2 25. Rxd2 Bf6 0-1

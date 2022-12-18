@@ -1,0 +1,17 @@
+[Event "Mexico DF m1"]
+[Site "Mexico"]
+[Date "1985.08.23"]
+[Round "5"]
+[White "Velasco Gutierrez, Jose L"]
+[Black "Lopez, A."]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "fa5b6c28"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O cxd4 8.
+exd4 dxc4 9. Bxc4 Qb6 10. Qb3 Nc6 11. d5 Bxc3 12. dxc6 Ba5 13. Rd1 Qc7
+1/2-1/2
+

@@ -1,0 +1,17 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bosboom, Manuel"]
+[Black "Bertholee, Rob"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "ab98f9ca"]
+[Epoch "Queen"]
+[BlackID "1000489"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Be7 4. Bd3 dxe4 5. Nxe4 Nd7 6. Nf3 Ngf6 7. Nxf6+ Bxf6
+8. Qe2 O-O 9. h4 Re8 10. Qe4 g6 11. Bg5 c5 12. O-O-O cxd4 13. Bxf6 1/2-1/2

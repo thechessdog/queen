@@ -1,0 +1,20 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wanner, Georges"]
+[Black "Erker, Egon, Dr."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "11cbfcdc"]
+[Epoch "Queen"]
+[WhiteID "634417"]
+[BlackID "4606175"]
+[WhiteCountry "FRA"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Bb4 7. f3 d5 8. Bb5
+Bd7 9. Qd3 Ne5 10. Qe2 Rc8 11. Bd2 Nc4 12. exd5 Bxb5 13. Ndxb5 Nxd2 14. Qxd2
+Nxd5 15. O-O-O a6 16. Rhe1 O-O 17. Re4 axb5 18. Rxb4 Nxb4 0-1

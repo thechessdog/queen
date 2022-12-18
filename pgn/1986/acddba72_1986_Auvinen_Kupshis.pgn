@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Auvinen, J."]
+[Black "Kupshis, A."]
+[Result "1/2-1/2"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "acddba72"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. Nc4 Nb6 13. Na3 Bd7 14. Bd2
+Rb8 15. Qc2 Ng4 16. a5 Nc8 17. h3 Nh6 18. Nc4 Bb5 19. b3 f5 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Quebec Open"]
+[Site "Quebec Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Spraggett, Grant"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "48853a64"]
+[Epoch "Queen"]
+[BlackID "2600510"]
+[BlackCountry "CAN"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Qb6 7. Nxf6+ Qxf6
+8. e4 cxd4 9. e5 Qf5 10. Qxd4 Qxc2 11. Bd3 Qc7 12. O-O Nc6 13. Qf4 d5 14. Rac1
+Qb6 15. Rc3 Be6 16. Rfc1 a6 17. h4 h6 18. a3 Kd7 19. b4 Rac8 20. Rc5 Na7 21.
+Nd4 Rxc5 22. bxc5 Qc7 23. Bc2 Nc6 24. Ba4 h5 25. Rb1 f6 26. Rxb7 1-0

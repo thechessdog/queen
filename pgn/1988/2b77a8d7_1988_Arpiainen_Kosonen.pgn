@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Arpiainen"]
+[Black "Kosonen"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[HashCode "2b77a8d7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d3 Bb7 9. c3 h6 10. Nbd2 Re8 11. d4 exd4 12. cxd4 d5 13. e5 Nh7 14. Nf1 Na5
+15. Bc2 Ng5 16. Nxg5 Bxg5 17. f4 Bh4 18. g3 Be7 19. Qd3 Bb4 20. Qh7+ Kf8
+21. f5 Ke7 22. Qxg7 Bxe1 23. Bxh6 Kd7 24. Bg5 1-0
+

@@ -1,0 +1,22 @@
+[Event "Eichgraben"]
+[Site "Eichgraben"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Flear, Christine"]
+[Black "Jurkovic"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "d3c56efc"]
+[Epoch "Queen"]
+[WhiteID "602604"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 a6 10. Be2 O-O 11. Nf3 Re8 12. O-O Nf8 13. Nd2 Nbd7 14. Kh1 Rb8 15.
+Rb1 Qc7 16. Re1 Bd4 17. Qc2 Nf6 18. h3 Bd7 19. b3 b5 20. axb5 Bxb5 21. Bb2 Bxe2
+22. Nxe2 Bxb2 23. Rxb2 N8d7 24. Ra2 Rb4 25. Nc3 Nh5 26. Rxa6 Nxf4 27. Nc4 Nb6
+28. Na2 Nfxd5 29. Qd1 Nxc4 30. exd5 Ne3 31. Nxb4 Nxd1 32. Rxe8+ Kg7 33. Nc6 Qb7
+34. Ra7 Qb5 35. Re1 Nf2+ 36. Kg1 Nd3 37. Rf1 Qxb3 38. Raxf7+ Kh6 39. Ne7 Ne5
+40. Ng8+ Kg5 41. Rxh7 Qe3+ 42. Kh2 Qe2 43. h4+ Kg4 44. Nf6# 1-0

@@ -1,0 +1,20 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hakulinen, Esko"]
+[Black "Hokkanen, Petri"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "379fd2a1"]
+[Epoch "Queen"]
+[BlackID "501239"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 b5 5. cxb5 a6 6. bxa6 Bxa6 7. Nc3 d6 8. g3
+Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 Qb6 12. h3 Rfb8 13. Rb1 Bc4 14. Nd2 Ba6 15.
+b3 Qc7 16. Rd1 Nb6 17. Bb2 Ra7 18. Nde4 Nbd7 19. Nxf6+ exf6 20. Ne4 f5 21. Bxg7
+Kxg7 22. Nc3 Nf6 23. e4 fxe4 24. Bxe4 Re8 25. Bg2 Qa5 26. Qb2 Kg8 27. a3 Bc8
+28. b4 1-0

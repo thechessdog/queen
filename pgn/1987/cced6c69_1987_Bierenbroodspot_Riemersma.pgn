@@ -1,0 +1,20 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bierenbroodspot, Pa"]
+[Black "Riemersma, Liafbern"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "cced6c69"]
+[Epoch "Queen"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Bh6 Bxh6 14. Qxh6 Rxc3
+15. bxc3 Qc7 16. Kb1 Rc8 17. g4 a5 18. gxh5 a4 19. hxg6 axb3 20. gxf7+ Kxf7 21.
+cxb3 Qxc3 22. Rhg1 Bh3 23. Qf4 Rc4 24. Qd2 Qxd2 25. Rxd2 Rxd4 26. Rxd4 Nxf3 27.
+Rgd1 Nxd4 28. Rxd4 Bg2 29. e5 dxe5 30. Rc4 e4 31. Kc2 e3 32. Kd1 Bf3+ 33. Ke1
+Nd5 34. Kf1 e2+ 0-1

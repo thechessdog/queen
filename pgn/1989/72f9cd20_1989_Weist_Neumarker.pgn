@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Weist"]
+[Black "Neumarker"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "72f9cd20"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 exd4 13. Nxd4 Ne7 14. b3
+c5 15. N4f3 Ng6 16. Bb2 h6 17. Re3 Nf4 18. Qf1 d5 19. exd5 Qxd5 20. Rae1
+Rxe3 21. Rxe3 c4 22. bxc4 bxc4 23. Nxc4 Qh5 24. Re5 Nxh3+ 25. gxh3 Qxf3 26.
+Kh2 Qf4+ 27. Kg1 Ng4 28. hxg4 Qxg4+ 29. Kh2 Qh4+ 30. Qh3 Qxf2+ 0-1
+

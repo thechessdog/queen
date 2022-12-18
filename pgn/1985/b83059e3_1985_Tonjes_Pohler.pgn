@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tonjes, J."]
+[Black "Pohler, M."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "b83059e3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. g4 d5 3. g5 Ne4 4. f3 Nd6 5. Nc3 Nf5 6. Bh3 Nc6 7. Bxf5 Bxf5
+8. e4 dxe4 9. fxe4 Qxd4 10. exf5 Qh4+ 11. Kf1 e5 12. Nf3 Qh3+ 13. Kf2 Bc5+
+14. Be3 Bxe3+ 15. Kxe3 O-O 16. Ne4 Rad8 17. Qf1 Qxf5 18. Nh4 Qg4 19. Nf5
+Kh8 20. Rg1 Qh5 21. h4 Nb4 22. Rg2 Nd5+ 23. Kf2 Qg6 24. Ke1 Nf4 25. Neg3
+Qb6 26. Rb1 Qa5+ 27. b4 Qxa2 28. Rd1 Rxd1+ 29. Kxd1 Qb1+ 30. Kd2 Qxf1 31.
+Nxf1 Nxg2 0-1
+

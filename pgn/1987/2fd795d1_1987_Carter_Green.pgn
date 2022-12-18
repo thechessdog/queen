@@ -1,0 +1,20 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Carter"]
+[Black "Green"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "2fd795d1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. Nxe5 Qg5 6. d4 Qxg2 7. Qf3 Qxf3
+8. Nxf3 dxe4 9. Ng5 Be7 10. Nxe4 Nf6 11. Nxf6+ Bxf6 12. Bf4 Kd8 13. O-O Ne7
+14. Nd2 Nd5 15. Bg3 Bh3 16. Rfe1 h5 17. Bf1 Bxf1 18. Kxf1 Re8 19. Rxe8+
+Kxe8 20. Re1+ Kd8 21. Nf3 g5 22. Be5 g4 23. Bxf6+ Nxf6 24. Ne5 Nd5 25.
+Nxf7+ Kd7 26. Re5 Nf6 27. Ke2 Rf8 28. Ng5 c6 29. c4 a6 30. Ne6 Rf7 31. Nc5+
+Kd6 32. Rf5 1-0
+

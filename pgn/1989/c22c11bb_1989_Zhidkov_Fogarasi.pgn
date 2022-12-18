@@ -1,0 +1,15 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zhidkov, Valery S"]
+[Black "Fogarasi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "c22c11bb"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 c5 6. Bxc4 a6 7. a4 Nc6 8. O-O
+Be7 9. Qe2 cxd4 10. Rd1 e5 11. exd4 exd4 12. Nxd4 Nxd4 13. Qe5 Qd6 1/2-1/2

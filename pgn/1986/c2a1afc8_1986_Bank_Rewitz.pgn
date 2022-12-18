@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bank Friis, Carsten"]
+[Black "Rewitz, Poul"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c2a1afc8"]
+[Epoch "Queen"]
+[BlackID "1401033"]
+[BlackCountry "DEN"]
+[WhiteID "1400495"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bd3 b6 9. Ne5 Bb7 10. Bb5+ c6 11. Nxc6 Qd5 12. c4 Qxg2 13. Ne5+ Kd8 14. Rf1
+Bb4+ 15. Ke2 Ng4 16. Qd3 Nxh2 17. Rg1 Qxg1 18. Bg5+ Qxg5 19. Nxf7+ Ke7 20. Nxg5
+Rhf8 21. Qxh7 Bf3+ 22. Kd3 1-0

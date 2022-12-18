@@ -1,0 +1,27 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Osbun, E."]
+[Black "Callaghan, R."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "4e316bf5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+Nf4 O-O 9. Be3 Nc6 10. cxd5 Nxd5 11. Ncxd5 exd5 12. Be2 Re8 13. O-O g5 14.
+Nh5 f5 15. f4 Bd6 16. Bf2 Be6 17. Qd2 g4 18. Bd3 Qe7 19. Rae1 Qf7 20. Ng3
+Re7 21. Ne2 Qf6 22. Bb5 Rae8 23. Nc1 Bf7 24. Nd3 Rxe1 25. Rxe1 Rxe1+ 26.
+Nxe1 Bc7 27. Nc2 Qd6 28. g3 Bb6 29. Bd3 Qf6 30. Qc3 Be6 31. b4 Qd8 32. Na1
+Qc7 33. Kg2 Nd8 34. Qb2 Nf7 35. Nb3 Nd6 36. Nc5 Qf7 37. Bc2 Bd8 38. Bb3 b6
+39. Nd3 Nc4 40. Qa2 Bc8 41. Ne5 Nxe5 42. dxe5 Kf8 43. Bd4 Ba6 44. Qd2 Qd7
+45. Bc2 Kf7 46. Qd1 h5 47. h3 Qc8 48. hxg4 fxg4 49. Bh7 Qc4 50. Bc2 Qa2 51.
+Bf2 Kf8 52. Bb3 Qxa3 53. Qxd5 Bb7 54. Qxb7 Qxb3 55. Qd7 Be7 56. f5 Qxb4 57.
+Qc8+ Kg7 58. f6+ Bxf6 59. exf6+ Kxf6 60. Qc6+ Kf7 61. Qd5+ Ke7 62. Qb7+ Kd6
+63. Qxa7 b5 64. Qe3 Qb1 65. Qh6+ Kd7 66. Qxh5 Qe4+ 67. Kh2 b4 68. Qb5+ Ke6
+69. Kg1 Qb1+ 70. Qf1 Qe4 71. Qa6+ Kd5 72. Qb7+ Ke5 73. Qe7+ Kd5 74. Qc5+
+Ke6 75. Be3 Qd3 76. Qd4 Qb1+ 77. Kf2 Qf5+ 78. Bf4 1-0
+

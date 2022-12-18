@@ -1,0 +1,17 @@
+[Event "Parijs open II"]
+[Site "Parijs open II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marquet, D."]
+[Black "Gorintin, A."]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "d80f3f9b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Re1 a6 6. Ba4 b5 7. Bb3 Bg4 8. c3
+g6 9. h3 Bh5 10. d4 Bg7 11. g4 Nxg4 12. hxg4 Bxg4 13. Bxf7+ Kd7 14. Bd5 Bxf3
+15. Qxf3 Rf8 16. Qg4+ Ke8 17. Bxc6+ Ke7 18. d5 Rf6 19. Bg5 Kf8 20. Bxf6 Qxf6
+1-0

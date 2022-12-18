@@ -1,0 +1,23 @@
+[Event "corr SSKK"]
+[Site "corr SSKK"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tidemalm, G."]
+[Black "Johansson, R."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "88457d53"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. e3 Nc6 5. f4 Qe7 6. Nf3 Nxe5 7. fxe5
+Ng4 8. c3 Bc5 9. d4 Bb6 10. Qd3 d6 11. exd6 Qxe3+ 12. Be2 cxd6 13. Na3 Qf2+
+14. Kd2 Bf5 15. Qxf5 Qe3+ 16. Kc2 Qxe2+ 17. Kb3 Qe6+ 18. Qxe6+ fxe6 19.
+Rae1 Kd7 20. Ng5 Rae8 21. Nc4 Bc7 22. Rhf1 Nf6 23. Nd2 h6 24. Nge4 Nxe4 25.
+Nxe4 Rhf8 26. c4 Bb6 27. c5 dxc5 28. dxc5 Bc7 29. g3 Kc6 30. Rxf8 Rxf8 31.
+Kc4 Rf5 32. Rd1 Rd5 33. Rd3 Rxd3 34. Kxd3 Kd5 35. h4 g6 36. g4 Bd8 37. h5
+gxh5 38. gxh5 Be7 39. Nc3+ Kxc5 40. Ne4+ Kb4 41. Kd4 Ka3 42. Ke5 Kxa2 43.
+Kxe6 Bb4 44. Kf6 Kb3 45. Kg6 a5 46. Kxh6 a4 47. Kg6 a3 48. h6 a2 49. h7
+a1=Q 50. Nf6 Qxf6+ 51. Kxf6 b5 52. Kf5 Bc3 53. Ke4 Kc2 54. Kd5 b4 55. Kc4
+b3 0-1
+

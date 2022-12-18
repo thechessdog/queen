@@ -1,0 +1,17 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grunke"]
+[Black "Simon"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "b477a5b4"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8.
+Nc3 Nf5 9. Bb5 Bb4 10. Bxc6+ bxc6 11. O-O Ba6 12. Re1 O-O 13. g4 Ne7 14.
+Re3 Ng6 15. a3 Be7 16. Na4 Qc7 17. Rc3 f6 18. exf6 Rxf6 19. Ne1 Rxf2 0-1
+

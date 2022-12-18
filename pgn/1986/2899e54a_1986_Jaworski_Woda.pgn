@@ -1,0 +1,21 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jaworski, Miroslaw"]
+[Black "Woda, Jacek"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "2899e54a"]
+[Epoch "Queen"]
+[WhiteID "1101579"]
+[BlackID "1100343"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 g6 6. e4 d6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Nd7 14. e6 fxe6 15.
+dxe6 Qxe6 16. Re1 Nde5 17. Ne4 Nxf3+ 18. Bxf3 Bd4+ 19. Kh1 Qxe4 20. Qb3+ Be6
+0-1

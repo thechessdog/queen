@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Geisendorf, Lutz"]
+[Black "Miethke"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "b936afef"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 Nh6 10. h3 Qg6 11. Qf3 f5 12. Rad1 c5 13. Bxh6 cxd4
+14. Bf4 fxe4 15. Qxe4 Bf5 16. Qe5 Bd6 17. Qxd4 Bxh3 18. Qe4 Bxf4 0-1
+

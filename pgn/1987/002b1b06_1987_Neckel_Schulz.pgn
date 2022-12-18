@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Neckel, W."]
+[Black "Schulz, Klaus-Juergen"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "002b1b06"]
+[Epoch "Queen"]
+[BlackID "4600649"]
+[BlackCountry "DEU"]
+
+1. c4 e6 2. Nc3 Bb4 3. a3 Bxc3 4. bxc3 Nf6 5. g3 O-O 6. Bg2 c5 7. d4 Nc6 8. Nf3
+Qa5 9. Bd2 Ne4 10. Qc2 Nxd2 11. Nxd2 cxd4 12. cxd4 Nxd4 13. Qd3 Nc6 14. O-O Qc7
+15. f4 b6 16. Rfd1 Ba6 17. e4 Na5 18. e5 Rad8 19. Rac1 d5 0-1

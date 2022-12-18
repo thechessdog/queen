@@ -1,0 +1,19 @@
+[Event "Nordic-ch"]
+[Site "Gjovik"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Helmers, Knut J"]
+[Black "Yrjola, Jouni"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "93baf87a"]
+[Epoch "Queen"]
+[WhiteID "1500023"]
+[WhiteCountry "NOR"]
+[BlackID "500011"]
+[BlackCountry "FIN"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 Na5 11. e4 c6 12. Bg5 f6 13. Be3 cxd5 14. exd5 Re8 15.
+Nd2 f5 16. Bxb6 Qxb6 17. Qa4 Rd8 18. b4 1/2-1/2

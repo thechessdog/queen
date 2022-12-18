@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kerekes"]
+[Black "Kiss"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "faf04172"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 13. Bd3 h5 14.
+Rhf1 Qc5 15. f5 b4 16. Ne2 Bh6 17. Qe1 e5 18. Rf3 a5 19. Rh3 Bg5 20. Ng3 h4
+21. Ne2 Ke7 22. Ng1 a4 23. Nf3 Bf4 24. Rxh4 Rxh4 25. Nxh4 a3 26. b3 Qd4 27.
+c3 bxc3 28. Kc2 Bd2 29. Qe2 Ra4 30. Nf3 Qc5 31. g4 Bf4 32. h4 Be3 33. Ne1
+Rb4 34. Qg2 d5 35. Kb1 dxe4 36. Bc2 Rd4 37. g5 Rxd1+ 38. Bxd1 Qd4 39. Bh5
+c2+ 40. Qxc2 Bd2 41. g6 Kf8 42. Qxc6 Qb2# 0-1
+

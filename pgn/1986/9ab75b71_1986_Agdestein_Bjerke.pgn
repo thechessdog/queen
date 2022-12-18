@@ -1,0 +1,18 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Agdestein, Espen"]
+[Black "Bjerke, Richard"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "9ab75b71"]
+[Epoch "Queen"]
+[WhiteID "1500201"]
+[BlackID "1500252"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nf3 b6 6. Nc3 Bb7 7. Bd3 d6 8. d5
+Nd7 9. Nb5 Kd8 10. Nc3 g5 11. O-O Bg7 12. Re1 1/2-1/2

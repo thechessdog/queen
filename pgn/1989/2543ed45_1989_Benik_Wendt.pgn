@@ -1,0 +1,23 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Benik"]
+[Black "Wendt"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "2543ed45"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 Qb6 13. Qe1 Kh8 14. Rd1
+Ne5 15. Nd5 Bxd5 16. exd5 Ng6 17. c4 Nxf4 18. Rxf4 Rae8 19. Qf1 Kg8 20. Bg4
+a5 21. h3 Bd8 22. Nd4 Qxb2 23. Qd3 Nxg4 24. Rxg4 Bf6 25. Nf5 Qf2 26. Qf1
+Qxf1+ 27. Rxf1 h5 28. Rg3 Be5 29. Rb3 g6 30. Nh4 Re7 31. Nf3 Bf4 32. Re1
+Rxe1+ 33. Nxe1 Rc8 34. Nd3 Bg3 35. Nb2 h4 36. Kg1 a4 37. Nxa4 Rxc4 38. Nc3
+Be5 39. Ne2 Rc2 40. Kf1 Rxa2 41. Rxb7 Ra5 42. Kf2 Rxd5 43. Ke3 Kg7 44. Nf4
+Bxf4+ 45. Kxf4 Rd2 46. Kf3 Kf6 47. Ra7 Ke6 48. Ra8 g5 49. Ra7 f6 50. Ra8
+Rd3+ 51. Ke2 Rb3 52. Ra6 Ke5 53. Ra5+ d5 54. Ra8 Kf4 55. Ra4+ Kg3 0-1
+

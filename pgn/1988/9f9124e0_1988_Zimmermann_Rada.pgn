@@ -1,0 +1,18 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zimmermann, H."]
+[Black "Rada, H."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "9f9124e0"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 7. bxc3 c5
+8. e3 Qa5 9. Qd2 Nc6 10. Ne2 Bd7 11. O-O Rc8 12. Qb2 b6 13. Bd2 O-O 14. Qb3
+cxd4 15. Bxc6 Bxc6 16. exd4 Qf5 17. Nf4 g5 18. d5 gxf4 19. dxc6 f3 20. Kh1
+Rxc6 21. Rae1 Qh3 22. Rg1 Bxc3 23. Bxc3 Qxh2+ 24. Kxh2 Rh6# 0-1
+

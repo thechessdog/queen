@@ -1,0 +1,16 @@
+[Event "corr CDN-NLD"]
+[Site "corr CDN-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Haan, Bote"]
+[Black "Vosselman"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "0a5cf1ce"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Ne5 Nf6 5. Be2 d5 6. Bh5+ Ke7 7. Nf7 Qe8
+8. Nxh8 Qxh5 9. Qxh5 Nxh5 10. g4 Nf6 11. d3 Nxg4 12. Bg5+ Nf6 13. Nc3 c6
+14. dxe4 dxe4 15. Nxe4 Bxf5 16. f3 0-1
+

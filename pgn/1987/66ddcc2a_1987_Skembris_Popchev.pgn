@@ -1,0 +1,24 @@
+[Event "Prokuplje"]
+[Site "Prokuplje"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Skembris, Spyridon"]
+[Black "Popchev, Milko"]
+[Result "1-0"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Haberditz variation"]
+[HashCode "66ddcc2a"]
+[Epoch "Queen"]
+[WhiteID "4200020"]
+[WhiteCountry "GRE"]
+[BlackID "2900165"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. axb5 axb5 8. Rxa8
+Bxa8 9. bxc4 bxc4 10. Bxc4 Nf6 11. O-O Be7 12. Qa4+ Bc6 13. Bb5 Bxb5 14. Qxb5+
+c6 15. Qa4 O-O 16. Ba3 Ne4 17. Rc1 Bxa3 18. Qxa3 Qd5 19. Nc3 Nxc3 20. Qxc3 f6
+21. h3 Re8 22. Qc2 Rc8 23. Qb1 Qd6 24. Qb7 Qd7 25. Qa8 Qe8 26. Qa4 Qe7 27. Rb1
+Nd7 28. Rb7 Qe8 29. Nd2 Nf8 30. Ne4 Ra8 31. Nd6 Qd8 32. Qxc6 Ra1+ 33. Kh2 Ra8
+34. f4 Rb8 35. Nf7 Qe8 36. Qxe8 Rxe8 37. Kg3 Ng6 38. Rc7 Kf8 39. Nd6 Ra8 40. f5
+Ne7 41. fxe6 Ra6 42. Nc8 Nd5 43. Rd7 1-0

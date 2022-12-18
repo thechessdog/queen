@@ -1,0 +1,23 @@
+[Event "Kasan"]
+[Site "Kasan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Totsky, L."]
+[Black "Estrin, Yakov Borisovich"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "bc60dbfe"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 e6 6. Be2 Be7 7. O-O Nf6 8.
+Be3 Bd7 9. Ndb5 Qb8 10. a4 O-O 11. f4 Nb4 12. Bf3 Rd8 13. Qe2 e5 14. Rad1 a6
+15. Na3 b5 16. axb5 axb5 17. Naxb5 Nxc2 18. Qxc2 Bxb5 19. Nxb5 Qxb5 20. Be2 Qa4
+21. Qxa4 Rxa4 22. fxe5 dxe5 23. Rxd8+ Bxd8 24. Rc1 Ra8 25. Bd3 Ng4 26. Bc5 Rc8
+27. b4 Bb6 28. Bc4 Bxc5+ 29. bxc5 Kf8 30. Bd5 Ke7 31. h3 Nf6 32. Kf2 Rc7 33.
+Ke3 Nd7 34. c6 Nb8 35. g4 f6 36. h4 Kd6 37. Rf1 Nxc6 38. g5 fxg5 39. hxg5 Ne7
+40. Bf7 Rc3+ 41. Kf2 Nc6 42. Rh1 Nd4 43. Bg8 Rf3+ 44. Kg2 Rf4 45. Bxh7 Rg4+ 46.
+Kf2 Rxg5 47. Ra1 Rh5 48. Ra6+ Kc5 49. Bg8 Rg5 50. Ra3 Nb5 51. Rd3 Nd6 52. Rd5+
+Kc6 53. Kf3 Rh5 54. Be6 Rg5 55. Rd1 Kc7 56. Rd5 Ne8 57. Bf5 g6 58. Rxe5 gxf5
+59. Rxe8 fxe4+ 1/2-1/2

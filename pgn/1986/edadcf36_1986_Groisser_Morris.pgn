@@ -1,0 +1,16 @@
+[Event "Taylor SE MI op"]
+[Site "Taylor SE MI op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Groisser, D."]
+[Black "Morris, Ja"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "edadcf36"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 Nbd7 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Be7
+8. h4 c5 9. dxc5 Nxc5 10. Qb5+ Qd7 11. Bxf6 gxf6 12. O-O-O O-O-O 13. Nd4
+Qxb5 14. Ndxb5 Kb8 15. h5 Rhg8 16. g3 a6 17. Nd4 b5 18. Nc6+ 1-0
+

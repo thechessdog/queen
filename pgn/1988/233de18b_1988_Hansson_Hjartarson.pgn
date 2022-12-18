@@ -1,0 +1,25 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Hjartarson, Bjarni"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "233de18b"]
+[Epoch "Queen"]
+[BlackID "2300672"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 Nc5 11. Nc3 Nxb3 12. cxb3 Qd7 13. Be3 O-O 14. Rac1 Na5
+15. Qd2 Bb4 16. Qc2 c5 17. Ng5 Bf5 18. Rxd5 Bxc2 19. Rxd7 Bf5 20. Rc7 Rad8 21.
+Bxc5 Bxc5 22. Rxc5 Rd2 23. b4 Nc4 24. b3 Nb2 25. Nf3 Rd7 26. Ne1 Rd2 27. Nf3
+Rd7 28. Ne1 Rd2 29. Rd5 Rd8 30. Rxd8+ Rxd8 31. h3 g5 32. g4 Bg6 33. Nf3 h6 34.
+h4 gxh4 35. Nxh4 Rd4 36. f3 Nd3 37. Rd1 h5 38. Nxg6 fxg6 39. Ne2 Rd5 40. Nc3
+Rd4 41. gxh5 Nxe5 42. Rxd4 Nxf3+ 43. Kf2 Nxd4 44. hxg6 Kg7 45. Nd5 Nc6 46. Ke3
+Kxg6 47. Kf4 Kf7 48. Kf5 a5 49. bxa5 Nxa5 50. Ke5 Nb7 51. Nc7 Ke7 52. Nxb5 Kd7
+53. Kd5 Kc8 1-0

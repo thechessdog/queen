@@ -1,0 +1,22 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lopez Pereyra, Migu"]
+[Black "Haigh, R."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "7b85a0af"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. c3 Nxe4 6. Qe2 f5 7. d3 Nc5 8. Nxe5
+Qe7 9. Nxc6 Nxd3+ 10. Kd1 Qxe2+ 11. Kxe2 Nxc1+ 12. Rxc1 dxc6 13. Bb3 Bd6 14.
+Re1 Kd7 15. Kf1 b6 16. Nd2 a5 17. Kg1 Ba6 18. Be6+ Kd8 19. Bxf5 g6 20. Bg4 h5
+21. Bf3 Kd7 22. Ne4 Raf8 23. Rad1 Rf5 24. Rd2 Re8 25. Red1 Re6 26. h4 Rfe5 27.
+Nxd6 Re1+ 28. Rxe1 Rxe1+ 29. Kh2 cxd6 30. Kg3 a4 31. Rd4 b5 32. a3 Rb1 33. Rd2
+d5 34. Kf4 Ke7 35. Kg5 Kf7 36. g4 Re1 37. Kf4 Bc8 38. gxh5 gxh5 39. Bxh5+ Kf6
+40. Re2 Rh1 41. Bf3 Rxh4+ 42. Kg3 Rh3+ 43. Kg2 Bd7 44. Re3 Rh4 45. Kg3 Rc4 46.
+Be2 Rc5 47. Bd3 d4 48. cxd4 Rd5 49. Rf3+ Kg5 50. Rf7 Rxd4 51. f4+ Kh6 52. Rh7#
+1-0

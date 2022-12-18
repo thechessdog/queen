@@ -1,0 +1,17 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Woschkat, K."]
+[Black "Nikodem, J."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "cd23fd1c"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. Nc3 Ng4 5. Bxg7 Rg8 6. Bd4 c5 7. Nd5
+Nc6 8. Bb2 d6 9. e4 Be6 10. Bb5 a6 11. Bxc6+ bxc6 12. Nxb4 cxb4 13. d4 Nf6
+14. Qf3 d5 15. e5 Ne4 16. g3 Qa5 17. Qb3 c5 18. a3 bxa3+ 19. c3 cxd4 20.
+Rxa3 Qc7 21. cxd4 Rb8 22. Qa4+ Bd7 0-1
+

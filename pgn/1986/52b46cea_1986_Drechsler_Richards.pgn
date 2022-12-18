@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Drechsler, A."]
+[Black "Richards, B."]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "52b46cea"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 a6 5. Qa4 b5 6. Nxb5 Bd7 7. Nc3 Nxd4
+8. Qd1 Nxf3+ 9. exf3 Be6 10. Qa4+ Qd7 11. Bf4 Nf6 12. Rd1 Qxa4 13. Nxa4 Nd5
+14. Be3 Nxe3 15. fxe3 Bd7 16. Nc5 Bb5 17. a4 e6 18. axb5 Bxc5 19. bxa6 Rxa6
+20. Bxc4 Rb6 21. b3 Bxe3 22. Ra1 Ke7 23. Ke2 Bd4 24. Ra2 Rd8 25. Rd1 e5 26.
+Rd3 Rh6 27. h3 Rg6 28. Kf1 Rdd6 29. Re2 f5 30. Rd1 Rg3 31. Bg8 Kf8 32. Bc4
+Rdg6 33. Red2 c5 34. Bd3 Rf6 35. Bc4 g5 36. Ra2 e4 37. Ra8+ Ke7 38. Rg8
+exf3 0-1
+

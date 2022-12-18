@@ -1,0 +1,19 @@
+[Event "Saragossa,ESP"]
+[Site "Saragossa,ESP"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Temprano, J."]
+[Black "Roche, A."]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "00519841"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Bb4 7. Nxc6
+bxc6 8. e5 Nd5 9. Bd2 O-O 10. Bd3 Qa5 11. Nxd5 Bxd2+ 12. Qxd2 Qxd5 13. Qe3
+Rb8 14. O-O Rxb2 15. Rad1 Qa5 16. Qh3 g6 17. Rfe1 f6 18. Bxg6 hxg6 19. Qh6
+Kf7 20. exf6 Qb4 21. Qg7+ Ke8 22. Rxe6+ dxe6 23. Qc7 Rb1 24. f7+ Rxf7 25.
+Qd8# 1-0
+

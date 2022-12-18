@@ -1,0 +1,18 @@
+[Event "corr ch17-SU"]
+[Site "corr ch17-SU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Barash"]
+[Black "Kopilov"]
+[Result "1/2-1/2"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "e472143e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Bxf6 gxf6 9. Be2 Nc6 10. Qd3 Nxd4 11. Qxd4 Qc5 12. Qd3 Bd7 13. O-O-O O-O-O
+14. Kb1 Kb8 15. Rhf1 h5 16. a3 Rc8 17. Bf3 Rc7 18. h4 Bh6 19. Be2 Bf8 20.
+Qd4 Be7 21. Qd3 1/2-1/2
+

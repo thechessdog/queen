@@ -1,0 +1,18 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wierzbicki, S."]
+[Black "Taylor, Timothy"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "784c19e4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nb4 9. Be2 dxc4 10. Bxc4 O-O 11. Ne5 Nd6 12. Bb3 Nf5 13. a3 Nd5 14. Nd2 Be6 15.
+Ne4 Nf6 16. Bxe6 fxe6 17. Ng5 Qd5 18. Nef3 h6 19. Nh3 g5 20. Nhxg5 hxg5 21.
+Bxg5 Bd6 22. Re1 Nh7 23. Qd2 Nxd4 24. Qxd4 Rxf3 25. Qxd5 exd5 26. gxf3 Nxg5 27.
+Kg2 Kf7 28. f4 Ne6 29. f5 Nf4+ 30. Kf3 Rh8 0-1

@@ -1,0 +1,21 @@
+[Event "Dieren op"]
+[Site "Dieren"]
+[Date "1986.01.01"]
+[Round "8"]
+[White "Westerinen, Heikki M.J."]
+[Black "Kuijf, Marinus"]
+[Result "0-1"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "e997b999"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1000110"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. Re1 Be7 10. Nxc6 Bxc6 11. Qg4 h5 12. Qe2 Nf6 13. Bf4 h4 14. a4 Kf8 15.
+Bf3 Rc8 16. Rad1 Nd7 17. Nd5 Bxd5 18. exd5 e5 19. c4 g6 20. b4 Bd8 21. Qb2 Bf6
+22. Be3 hxg3 23. hxg3 Kg7 24. Be2 Nb6 25. Bxb6 Qxb6 26. Kg2 Rh2+ 0-1

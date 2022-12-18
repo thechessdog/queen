@@ -1,0 +1,17 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Emilio, A."]
+[Black "Navarrete, J."]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "7ec9651c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Re1 O-O 6. Bxc6 bxc6 7. Nxe5 Re8
+8. Nf3 Bc5 9. d4 Bb6 10. e5 Nd5 11. c4 Ne7 12. c5 Ba5 13. Re3 Rb8 14. Qa4 Rb5
+15. Rb3 Rxb3 16. axb3 Bb6 17. cxb6 axb6 18. Bg5 d6 19. Nbd2 b5 20. Qa8 Qd7 21.
+Bxe7 Rxe7 22. exd6 cxd6 23. Ra7 1-0

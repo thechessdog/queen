@@ -1,0 +1,19 @@
+[Event "corr BdG-OB"]
+[Site "corr BdG-OB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schirmer, M."]
+[Black "Weiz, W."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "99a8abd7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Qh4 9. Ng3 Nc6 10. Qf3 Nde7 11. Bxb5 Bd7 12. d3 Rb8 13. a4 Qf6 14.
+Qxf6 gxf6 15. O-O h5 16. Ne4 Bg7 17. f4 Bg4 18. fxe5 fxe5 19. Nf6+ Bxf6 20.
+Rxf6 Bd7 21. b4 Nd8 22. Bxd7+ Kxd7 23. Ra6 Nc8 24. Be3 Rb7 25. Nd2 Ne6 26.
+Nc4 f6 27. Rf1 Ke7 28. Na5 1-0
+

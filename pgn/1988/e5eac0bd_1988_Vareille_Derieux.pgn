@@ -1,0 +1,18 @@
+[Event "Meudon-Zoo"]
+[Site "Meudon-Zoo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vareille, Francois"]
+[Black "Derieux, C."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "e5eac0bd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8.
+e4 Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Bd3 Re8 12. O-O a6 13. a4 Bd7 14. Bd2 Rb8
+15. Rb1 Nh5 16. f4 Bd4 17. Kh1 f5 18. Nxf5 Bxf5 19. exf5 Qh4 20. Be1 Qf6
+21. fxg6 hxg6 22. Qg4 Kg7 23. Bh4 1-0
+

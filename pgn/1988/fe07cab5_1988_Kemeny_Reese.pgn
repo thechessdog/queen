@@ -1,0 +1,18 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kemeny, Matthias"]
+[Black "Reese, August"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "fe07cab5"]
+[Epoch "Queen"]
+[WhiteID "4643020"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d4 Nxd4 8.
+Bxf7+ Kxf7 9. Nxe5+ Kf8 10. Qxd4 c5 11. Qd3 Bb7 12. f3 Qc7 13. Bf4 d6 14. Ng4
+Rd8 15. Nc3 Qc6 16. Rad1 Ke8 17. Qe3 Kf7 18. e5 c4 19. exd6 Bxd6 20. Bxd6 1-0

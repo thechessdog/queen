@@ -1,0 +1,25 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "11"]
+[White "Comp Leonardo1"]
+[Black "Derlich, Karin"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "6930e7f0"]
+[Epoch "Queen"]
+[BlackID "4608690"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. d3 e6 7. Bf4 Be7 8.
+Nbd2 O-O 9. Qe2 Rc8 10. Nc4 Nb6 11. Nxb6 Qxb6 12. b3 d5 13. Rfd1 Qc6 14. Ne5
+Qa6 15. Qe3 Rfd8 16. f3 c4 17. bxc4 dxc4 18. dxc4 Rxd1+ 19. Rxd1 Qxa2 20. Qb3
+Qa6 21. Kh1 h6 22. g3 Bc5 23. Qd3 Bb6 24. Qc3 Qa5 25. Qxa5 Bxa5 26. Ra1 Bb6 27.
+Rb1 Nh5 28. Nd7 Nxf4 29. Nxb6 axb6 30. gxf4 Rc6 31. Rb4 Kf8 32. Kg2 Ke7 33. Kg3
+Kd6 34. e5+ Kc5 35. c3 Rc7 36. Kf2 Rd7 37. Ke2 Rd8 38. Ra4 Rd7 39. h3 Rd8 40.
+h4 Rd7 41. Rb4 f6 42. Ra4 fxe5 43. fxe5 Rf7 44. Ke3 g5 45. Ra8 Kxc4 46. hxg5
+hxg5 47. Ra3 b5 48. Ra5 Rf5 49. Ke4 Rf4+ 50. Ke3 Kc5 51. Ra1 b4 52. cxb4+ Rxb4
+53. Rg1 Kd5 54. Rxg5 Rb3+ 55. Ke2 b5 56. Rh5 Rc3 57. f4 Rc7 58. Rh8 Rb7 59.
+Rd8+ Ke4 0-1

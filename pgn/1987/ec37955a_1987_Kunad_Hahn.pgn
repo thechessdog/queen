@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kunad"]
+[Black "Hahn"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "ec37955a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. f4 b5
+8. Be3 Qc7 9. Nd2 Nf6 10. Qe2 e5 11. f5 c5 12. b3 Bd7 13. O-O Be7 14. a4 c4
+15. bxc4 bxa4 16. Nb1 Bb4 17. Bd2 Bc6 18. Bxb4 Qb6+ 19. Qf2 Qxb4 20. Qe1
+Qxe1 21. Rxe1 Nd7 22. Nc3 Nc5 23. Kf2 Rb8 24. Ke3 Kd7 25. Be2 Rhd8 26. h4
+Rb2 27. Bd3 Kc7 28. Nd5+ Kd7 29. Kd2 Rdb8 30. Kc3 R2b7 31. g4 Kd6 32. f6 g6
+33. Ne7 Bd7 34. Rad1 Kc7 35. Bf1 a3 36. Nd5+ Kd8 37. Ra1 Bxg4 38. Kd2 Kd7
+39. Bd3 Kd6 40. Rxa3 Rb1 41. Rxb1 Rxb1 42. Ra2 h5 43. Nc3 Rh1 44. Na4 Rh2+
+45. Kc3 Nxd3 46. Kxd3 Rh3+ 47. Kd2 Bc8 48. c5+ Kc7 49. Nb6 Rxh4 50. Nxc8
+Kxc8 51. Kd3 Kb7 52. Kc4 Rxe4+ 53. Kd5 Rd4+ 54. Kxe5 Rd2 0-1
+

@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Coleman, David J"]
+[Black "Decker, Arnold Sheldon"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "3046fe25"]
+[Epoch "Queen"]
+[WhiteID "402087"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 a6 3. c4 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 g6 7. Be2 Bg7 8. Be3
+O-O 9. O-O Nc6 10. f4 Bd7 11. Qd2 b5 12. cxb5 Nxd4 13. Bxd4 Bxb5 14. Nxb5 axb5
+15. Bf3 Ra4 16. Qe3 Ng4 17. Qd2 Rxd4 0-1

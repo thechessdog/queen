@@ -1,0 +1,23 @@
+[Event "Brilon"]
+[Site "Brilon"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Reeh, Oliver"]
+[Black "Schulte, Oliver"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "190b6ff6"]
+[Epoch "Queen"]
+[BlackID "4600444"]
+[BlackCountry "GER"]
+[WhiteID "4600142"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 b6 10. Bxd6 Re8 11. Bg3 Ne4 12. Nxe4 Rxe4 13. e3 b5 14. Nd2 Rb4 15.
+b3 c4 16. Rc1 Bb2 17. Rc2 c3 18. Nb1 Qa5 19. Be5 Bf5 20. Bd3 Bxd3 21. Qxd3 Qxa2
+22. Bxc3 Bxc3+ 23. Rxc3 Nd7 24. O-O Ne5 25. Qd2 Qxd2 26. Nxd2 Rd8 27. f4 Ng4
+28. Rd3 Nf6 29. Ra1 Rxd5 30. Rxd5 Nxd5 31. Kf2 f5 32. Rxa7 h6 33. Ke2 Nf6 34.
+Ra6 Kg7 35. Rxf6 1-0

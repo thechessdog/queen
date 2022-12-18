@@ -1,0 +1,20 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lalic, Bogdan"]
+[Black "Semkov, Semko"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "5c986e5f"]
+[Epoch "Queen"]
+[WhiteID "409081"]
+[WhiteCountry "CRO"]
+[BlackID "2900068"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O a6 10. Bxc6 bxc6 11. Na4 c5 12. dxc5 Nxc5 13. Nd4 Bg6 14. Nxc5 Bxc5
+15. Rc1 1/2-1/2

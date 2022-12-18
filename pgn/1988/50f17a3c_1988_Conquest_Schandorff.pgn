@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Conquest, Stuart C"]
+[Black "Schandorff, Lars"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "50f17a3c"]
+[Epoch "Queen"]
+[WhiteID "400181"]
+[WhiteCountry "ENG"]
+[BlackID "1400070"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. O-O
+Re8 9. Ne5 Bb7 10. Qa4 Bd6 11. f4 c5 12. Bd2 a6 13. Be1 b5 14. Qd1 c4 15. Bc2
+Nbd7 16. Bh4 Be7 17. Qf3 Nf8 18. Bxf6 Bxf6 19. Rad1 Be7 20. Qh5 g6 21. Qg4 Bf6
+22. Qg3 Qd6 23. e4 b4 24. Ng4 Bg7 25. e5 Qd8 26. Ne2 f5 27. Bxf5 h5 28. Bxg6 h4
+29. Qe3 Nxg6 30. f5 Bc8 31. Nh6+ Kh7 32. fxg6+ Kxg6 33. Nf7 Qe7 34. Nf4+ Kh7
+35. Nxd5 1-0

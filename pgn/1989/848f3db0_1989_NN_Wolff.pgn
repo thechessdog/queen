@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Wolff, G."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "848f3db0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Bb4+ 6. c3 O-O 7. dxe4 Nxe4
+8. cxb4 Re8 9. Be3 Qe7 10. a3 b6 11. Nc3 Bg4 12. Qc4 Nxf2 13. Rg1 Qxe3+ 14.
+Qe2 Nd3+ 15. Kd1 Bxf3 16. gxf3 0-1
+

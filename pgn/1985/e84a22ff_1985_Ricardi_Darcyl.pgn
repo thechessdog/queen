@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1985.01.01"]
+[Round "15"]
+[White "Ricardi, Pablo"]
+[Black "Darcyl, Tomas"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "e84a22ff"]
+[Epoch "Queen"]
+[WhiteID "100242"]
+[WhiteCountry "ARG"]
+[BlackID "100404"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 1/2-1/2

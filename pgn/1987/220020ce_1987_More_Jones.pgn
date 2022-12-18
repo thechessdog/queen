@@ -1,0 +1,21 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "More"]
+[Black "Jones"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "220020ce"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Be2 Rg8 7. Bf3
+Bf5 8. Ne2 e5 9. Ng3 Bg6 10. h4 h6 11. h5 Bh7 12. Be3 Na6 13. a3 Qd7 14. c3
+Nc7 15. Qd2 Ne6 16. Ne4 Be7 17. dxe5 Qxd2+ 18. Nxd2 fxe5 19. Bxh6 Nc5 20.
+O-O O-O-O 21. b4 e4 22. Be2 Nd3 23. f3 Rd6 24. Be3 exf3 25. Bxf3 Ne5 26.
+Be2 Bg5 27. Bxg5 Rxg5 28. Ra2 Bd3 29. Bxd3 Rxd3 30. h6 Rh3 31. Ne4 Rg6 32.
+Rf5 Nf3+ 33. Kf2 Nh4 34. Rg5 Rd3 35. h7 Rd8 36. Re2 Rh6 37. Rg7 Rg6 38.
+Rxg6 Nxg6 39. Nf6 Rd6 40. Re8+ 1-0
+

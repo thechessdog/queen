@@ -1,0 +1,19 @@
+[Event "Tr Lombardia"]
+[Site "Tr Lombardia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bozzi, Gianni"]
+[Black "Castiglioni, Gianca"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c3fb4cf7"]
+[Epoch "Queen"]
+[WhiteID "802433"]
+[WhiteCountry "ITA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. f3 h6 5. Bh4 c5 6. e4 cxd4 7. Bxf6 gxf6 8.
+Qxd4 dxe4 9. O-O-O Qb6 10. Qxb6 axb6 11. Bb5 exf3 12. Nxf3 e6 13. Rhe1 Kd8 14.
+Re4 Bc5 15. b4 f5 16. Rc4 Be3+ 17. Kb1 f6 18. Rxc8+ Kxc8 19. Bxd7+ Kc7 20. Bxe6
+f4 21. Rd7+ Kc6 22. b5+ Kc5 23. Ne1 Kb4 24. Kb2 Bc1+ 25. Kxc1 Kxc3 26. Nd3 Rhe8
+27. Nxf4 Rad8 28. a3 Rxd7 29. Ne2# 1-0

@@ -1,0 +1,22 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Mortensen, Erling"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "2fad98c5"]
+[Epoch "Queen"]
+[WhiteID "1400045"]
+[BlackID "1700065"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. h4 Nc4 13. Bxc4 Rxc4 14. g4 Qa5
+15. Nb3 Qa6 16. Kb1 Rfc8 17. Bd4 e5 18. Be3 Bxg4 19. fxg4 Rxc3 20. bxc3 Nxe4
+21. Qg2 Nxc3+ 22. Kc1 Qa3+ 23. Kd2 d5 24. Ke1 Nxd1 25. Kxd1 Qxa2 26. Qxd5 Qxc2+
+27. Ke1 Rc3 28. Qd8+ Bf8 29. Bh6 Qe4+ 30. Kd1 Rd3+ 0-1

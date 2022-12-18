@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wiedenkeller, Michael"]
+[Black "Bator, Robert"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "e1f7402e"]
+[Epoch "Queen"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+[BlackID "1700405"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 Nc6 7. a3 Nxd2
+8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. b4 O-O 12. Bd3 a5 13. b5 Nd8 14. O-O Ne6
+15. Qc2 Bxf3 16. gxf3 Qh4 17. Be4 Rae8 18. f4 Kh8 19. Kh1 g5 20. fxg5 Nxg5 21.
+Bg2 Re6 22. f4 Nh3 23. Rf3 1-0

@@ -1,0 +1,18 @@
+[Event "Porz op22"]
+[Site "Porz op"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Mossakowski, Florian"]
+[Black "Nehlert, Peter"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller (Therkatz) attack"]
+[HashCode "b36cd3c5"]
+[Epoch "Queen"]
+[WhiteID "4630297"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8.
+O-O Bxc3 9. d5 Bf6 10. Re1 Ne7 11. Rxe4 d6 12. Bg5 Bxg5 13. Nxg5 Bf5 14. Qf3
+Qd7 15. Bb5 Qxb5 16. Qxf5 Qd7 17. Qxf7+ Kd8 18. Rae1 Ng6 19. Re8+ 1-0

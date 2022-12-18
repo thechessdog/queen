@@ -1,0 +1,21 @@
+[Event "Fuhlenbrock"]
+[Site "Fuhlenbrock"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rosenschild"]
+[Black "Moll"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "88352cfd"]
+[Epoch "Queen"]
+
+1. f4 Nf6 2. Nf3 e6 3. b3 d5 4. Bb2 c5 5. e3 Nc6 6. Bb5 Be7 7. O-O O-O 8.
+d3 Ng4 9. Qe1 Bf6 10. d4 Nb4 11. Bd3 Nxd3 12. cxd3 b6 13. h3 Nh6 14. g4 Be7
+15. Nbd2 Ba6 16. g5 Nf5 17. Ne5 Rc8 18. Ndf3 Qe8 19. Rf2 f6 20. gxf6 gxf6
+21. Rg2+ Kh8 22. e4 fxe5 23. exf5 Rxf5 24. Nxe5 Bf6 25. dxc5 bxc5 26. Qh4
+d4 27. Qh6 Bxe5 28. fxe5 Qf7 29. Kh2 Bb7 30. Rag1 Bxg2 31. Rxg2 Rf2 32.
+Rxf2 Qxf2+ 33. Kh1 Qf1+ 34. Kh2 Qe2+ 35. Kh1 Qd1+ 36. Kh2 Qe2+ 37. Kh1 Qf3+
+38. Kh2 Rf8 39. Qxe6 Qf4+ 40. Kh1 Qf1+ 41. Kh2 Rf2+ 42. Kg3 Rg2+ 43. Kh4
+Qf4+ 0-1
+

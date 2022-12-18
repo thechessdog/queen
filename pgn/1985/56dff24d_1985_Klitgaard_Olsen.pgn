@@ -1,0 +1,27 @@
+[Event "Tarnby"]
+[Site "Tarnby"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klitgaard, Ebbe"]
+[Black "Olsen, Kim"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "56dff24d"]
+[Epoch "Queen"]
+[WhiteID "1414941"]
+[BlackID "1406922"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. d3 Bb4 7. Bd2 Nc6 8. e3
+O-O 9. Nge2 Re8 10. O-O e4 11. dxe4 dxe4 12. a3 Ba5 13. Qc2 Qd3 14. Qxd3 exd3
+15. Nf4 Be6 16. Nxe6 fxe6 17. b4 Bb6 18. Ne4 Red8 19. Rfc1 Rac8 20. Nc5 Bxc5
+21. Rxc5 a6 22. Rac1 Rd6 23. a4 Nd7 24. R5c3 Nb6 25. a5 Nd7 26. Be4 Nf6 27. Bg2
+e5 28. e4 Re8 29. Rc4 Nd4 30. Kf1 Ng4 31. h3 Nh2+ 32. Ke1 Rf8 33. Rc8 Nhf3+ 34.
+Bxf3 Nxf3+ 35. Kd1 Nd4 36. Rxf8+ Kxf8 37. Be3 Nf3 38. Bc5 Ke7 39. Bxd6+ Kxd6
+40. Rc3 Ng5 41. Rxd3+ Ke6 42. f3 Nxh3 43. Ke2 Ng5 44. Ke3 h5 45. Rd8 Nf7 46.
+Rd1 g5 47. Rh1 g4 48. Rxh5 gxf3 49. Kxf3 Nd6 50. Rh6+ Ke7 51. Rxd6 Kxd6 52. Kg4
+Kc6 53. Kf5 Kb5 54. g4 Kxb4 55. g5 Kxa5 56. g6 b5 57. g7 b4 58. Kxe5 Ka4 59.
+g8=Q a5 60. Kd4 b3 61. Kc3 Ka3 62. Qxb3# 1-0

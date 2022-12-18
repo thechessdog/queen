@@ -1,0 +1,16 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Strand"]
+[Black "Jensen, Jacob"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "9295539e"]
+[Epoch "Queen"]
+[BlackID "1703404"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. Bc4 Qg5 5. Nxf7 Qxg2 6. Rf1 Bg4 7. Nxh8 Bxd1
+8. Bxg8 Nc6 9. Nc3 Bxc2 10. Bf7+ Kd8 11. Ne2 Bd3 12. Rg1 Qf3 0-1

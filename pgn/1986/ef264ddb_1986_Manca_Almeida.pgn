@@ -1,0 +1,17 @@
+[Event "Groningen ech-jr"]
+[Site "Groningen ech-jr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Manca, Federico"]
+[Black "Almeida, R."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ef264ddb"]
+[Epoch "Queen"]
+[WhiteID "800171"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 e5 5. d5 Be7 6. Ne2 O-O 7. c4 Na6 8. Nbc3
+Ne8 9. O-O Nac7 10. Be3 Bg5 11. f4 exf4 12. Nxf4 Nf6 1/2-1/2

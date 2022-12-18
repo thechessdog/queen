@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nocci, R."]
+[Black "Tortorici, P."]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "f9ad53dc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 h6 10. Bh4 Bd7 11. Nf3 Qa5 12. Kb1 Rfc8 13. Rg1 b5 14.
+Bxf6 Bxf6 15. e5 dxe5 16. Qxd7 b4 17. Bb5 bxc3 18. Bxc6 Rab8 19. Bb7 Qb4
+0-1
+

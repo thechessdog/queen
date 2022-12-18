@@ -1,0 +1,19 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vaisser, Anatoly"]
+[Black "Pigusov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "8dbd308c"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Nbd7 9. Nge2 Re8 10. O-O Nf8 11. Bxf6 Bxf6 12. b4 a6 13. Na4 Be7 14. Nc5 Bd6
+15. Bf5 b6 16. Bxc8 Rxc8 17. Nd3 Rc7 18. Qd2 Nd7 1/2-1/2

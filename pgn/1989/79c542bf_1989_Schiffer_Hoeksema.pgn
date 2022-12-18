@@ -1,0 +1,22 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1989.12.01"]
+[Round "5"]
+[White "Schiffer, Kai Uwe"]
+[Black "Hoeksema, Hendrik Pieter"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "79c542bf"]
+[Epoch "Queen"]
+[BlackID "1000454"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc7
+8. d4 cxd4 9. Qxd4 Nc6 10. Nxc6 Qxc6 11. Bg5 e6 12. Bxf6 gxf6 13. Nc3 Rg8 14.
+g3 f5 15. Rad1 Rg4 16. Qd3 Be7 17. Qe3 h5 18. Qh6 h4 19. Qh8+ Bf8 20. h3 Rc4
+21. gxh4 Rc8 22. Rd3 b5 23. Rfd1 b4 24. Qf6 Be7 25. Qh8+ Bf8 26. Ne2 f4 27. Nd4
+Qb6 28. h5 R4c5 29. Qf6 Be7 30. Qh8+ Bf8 31. R1d2 Qb7 32. Nf3 Rxc2 33. Rxc2
+Rxc2 34. Qf6 Qb6 35. Nd4 Rc1+ 36. Kh2 f3 37. Qxf3 Bd6+ 38. Kg2 Qd8 39. Qc6+ Kf8
+40. Nf3 Rxc6 0-1

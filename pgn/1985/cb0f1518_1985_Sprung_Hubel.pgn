@@ -1,0 +1,18 @@
+[Event "Donaueschingen wmn"]
+[Site "Donaueschingen wmn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sprung, D."]
+[Black "Hubel, M."]
+[Result "1/2-1/2"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "cb0f1518"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nc6 4. Bf4 Nf6 5. Nc3 Bg4 6. e3 e6 7. Bxc4 Bb4
+8. O-O O-O 9. Rc1 h6 10. Be2 Bxc3 11. Rxc3 Nd5 12. Rc1 Nxf4 13. exf4 Qd6
+14. Qd2 Bxf3 15. Bxf3 Nxd4 16. Qe3 c5 17. Be4 Rfe8 18. Bb1 e5 19. fxe5 Rxe5
+20. Qa3 a6 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bricard, Emmanuel"]
+[Black "Klaric, Zlatko"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "ffd061ae"]
+[Epoch "Queen"]
+[BlackID "14500248"]
+[BlackCountry "CRO"]
+[WhiteID "600245"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Qe2 cxd5 5. fxe5 Nc6 6. Na3 Bxa3 7. bxa3 Nh6 8.
+Bb2 d4 9. Nf3 O-O 10. Qc4 Be6 11. Qc5 Bd5 12. O-O-O Nf5 13. Bc4 Be4 14. Bb3 Rc8
+15. d3 Na5 16. Qxa7 Bxf3 17. gxf3 Qc7 0-1

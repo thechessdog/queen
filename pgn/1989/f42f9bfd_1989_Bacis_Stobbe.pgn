@@ -1,0 +1,17 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bacis, Jean Franc"]
+[Black "Stobbe, A."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "f42f9bfd"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. bxa5
+dxc3 9. Qxg7 Rg8 10. Qxh7 Nbc6 11. f4 Qxa5 12. Nf3 Qc5 13. Ng5 Rxg5 14. fxg5
+Qd4 15. Bb5 Ng6 16. Qh3 Bd7 17. Be3 Qxe5 18. O-O d4 19. Bxc6 Bxc6 20. Bf2 Nf4
+21. Qh7 Ke7 0-1

@@ -1,0 +1,23 @@
+[Event "Krefeld open"]
+[Site "Krefeld open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "van der Veen, Heinz"]
+[Black "Keitlinghaus, Ludger"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "5e8ba1d9"]
+[Epoch "Queen"]
+[WhiteID "4607791"]
+[WhiteCountry "GER"]
+[BlackID "4600479"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nf6 6. Bg2 Be7 7. O-O b6 8. Re1
+Bb7 9. e5 Nd7 10. Nf1 g5 11. c4 g4 12. cxd5 gxf3 13. dxe6 Ndxe5 14. exf7+ Nxf7
+15. Bxf3 O-O 16. Be4 Ng5 17. Bxg5 Bxg5 18. Qh5 Rf7 19. h4 Bf6 20. Bd5 Qxd5 21.
+Qxd5 Nd4 22. Qh5 Nf3+ 23. Kg2 Nxe1+ 24. Kh3 Nxd3 25. f4 Re8 26. Nd2 Rfe7 27.
+Nf3 Nf2+ 28. Kh2 Bxf3 29. g4 Re2 30. Rg1 R8e3 31. f5 Be5+ 32. Rg3 Nxg4+ 33. Kh3
+Rh2# 0-1

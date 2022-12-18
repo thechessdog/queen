@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ahrendt"]
+[Black "Roloff"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "bd661b15"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. Be2 Qb6 13. a4 O-O-O 14. a5
+Qa6 15. O-O c5 16. d5 exd5 17. Nxd5 Qd6 18. Nf4 Qe5 19. h4 Bh6 20. Bf3 Bxg5
+21. Bxb7+ Kc7 22. Nh3 Bxh4 23. a6 Qxf6 24. Qd5 Qd6 25. Qxf7 Rhf8 26. Qh7
+Bf6 27. Rad1 Bd4 28. Qc2 Ne5 29. Qe4 Nf3+ 30. gxf3 Qg3+ 0-1
+

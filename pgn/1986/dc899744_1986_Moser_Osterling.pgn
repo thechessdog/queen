@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Moser"]
+[Black "Osterling"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "dc899744"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Qe2 exd4 7. e5 O-O 8.
+cxd4 Re8 9. Be3 Nd5 10. Nc3 Ba5 11. Rc1 Nce7 12. O-O Bxc3 13. bxc3 c6 14.
+Bd3 d6 15. Ng5 g6 16. c4 Nc7 17. Ne4 dxe5 18. Nf6+ Kg7 19. Nxe8+ Qxe8 20.
+dxe5 Nf5 21. Bg5 Nd4 22. Bf6+ Kg8 23. Qd2 c5 24. Rb1 b6 25. h4 Qd7 26. Qh6
+Ne8 27. Be4 Bb7 28. Rfe1 Nf5 29. Qg5 Bxe4 30. Rxe4 Qd3 31. Rbe1 Nd4 32. h5
+Nc2 33. e6 fxe6 34. hxg6 1-0
+

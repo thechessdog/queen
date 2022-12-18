@@ -1,0 +1,18 @@
+[Event "Cape d'Agde"]
+[Site "Cape d'Agde"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Belotti"]
+[Black "Sokolowski"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "86f7325d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 Bg7
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 e6 13. O-O b6
+14. Rbc1 Bb7 15. Rc7 Bxe4 16. Ng5 Bd5 17. Bb4 Rd8 18. Rfc1 e5 19. Be7 Re8
+20. Bb5 Rxe7 21. Rxe7 Nc6 22. Bxc6 Rc8 23. Re8+ 1-0
+

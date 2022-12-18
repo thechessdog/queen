@@ -1,0 +1,18 @@
+[Event "ACCOM I"]
+[Site "ACCOM I"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Egmond, J."]
+[Black "Martinez, A."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "79960011"]
+[Epoch "Queen"]
+[BlackID "3301567"]
+[BlackCountry "BOL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Nb5 Nc6 8. f4
+a6 9. Nd6+ Bxd6 10. exd6 Nxc3 11. bxc3 Qh4+ 12. g3 Qf6 13. Qd2 b5 14. Rb1 Bb7
+15. Bg2 Rb8 16. O-O Na5 17. a4 Nc4 18. Qd3 Bxg2 19. Kxg2 h5 20. Qxc4 1-0

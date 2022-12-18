@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Botvinnik, Mikhail"]
+[Black "Perevertkin, Vladim"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "989f3117"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Re1 Re8 13. h3 Qc7 14. Bc4 a6 15.
+Be3 Rb8 16. Bf2 Nb6 17. Bf1 Bd7 18. a5 Nc8 19. e5 Bf5 20. Rc1 h5 21. Ne4 Bxe4
+22. Rxe4 Qxa5 23. f5 gxf5 24. Rh4 Qd8 25. Rxh5 dxe5 26. Bxc5 Nxd5 27. Bc4 Ncb6
+28. Ba2 Qf6 29. Nh4 Rbd8 30. Qe1 e4 31. Qg3 f4 32. Qg4 Qxb2 33. Nf5 Re6 34. Rb1
+Qc3 35. Bd4 Rg6 36. Bxg7 Rxg4 37. Rh8# 1-0

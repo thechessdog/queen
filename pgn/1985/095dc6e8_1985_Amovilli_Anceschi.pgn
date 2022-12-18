@@ -1,0 +1,16 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Amovilli"]
+[Black "Anceschi, Vittorio"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "095dc6e8"]
+[Epoch "Queen"]
+[BlackID "800708"]
+[BlackCountry "ITA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. f3 c6 6. Qd2 b5 7. Bh6 Bxh6 8. Qxh6
+Qa5 9. Bd3 b4 10. Nb1 b3+ 11. Qd2 Qxa2 0-1

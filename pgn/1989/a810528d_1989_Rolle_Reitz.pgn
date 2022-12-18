@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rolle"]
+[Black "Reitz"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "a810528d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ndf3 cxd4 7. Nxd4 Nc6
+8. Ngf3 Nxd4 9. Nxd4 Qh4+ 10. g3 Qd8 11. Bd3 Nc5 12. f5 Qb6 13. fxe6 Nxd3+
+14. Qxd3 fxe6 15. Nb3 Bd7 16. Be3 Qb5 17. Qd2 b6 18. O-O-O Qc4 19. Rhf1 Bb4
+20. c3 Rf8 21. Rxf8+ Bxf8 22. Qc2 g6 23. Qf2 Qe4 24. Rf1 Qf5 25. Qe2 Qh3
+26. Rf4 Bh6 27. Rh4 Bxe3+ 28. Qxe3 Qf1+ 29. Kd2 Qb1 30. Rxh7 Qxb2+ 31. Ke1
+O-O-O 32. Nd4 Qb1+ 33. Ke2 Rf8 34. Nf3 Bb5+ 35. Kd2 Qf1 0-1
+

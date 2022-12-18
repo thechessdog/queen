@@ -1,0 +1,17 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirby, John"]
+[Black "Menas, Boral"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "ad8d615b"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 e5 6. dxe5 Qxd1+ 7. Kxd1
+Ng4 8. Nh3 Nxe5 9. Bf4 Ng6 10. Be3 Bxh3 11. gxh3 Nd7 12. Bc4 O-O-O 13. Ke2
+Nge5 14. Bb3 Bc5 15. Nf5 Bxe3 16. fxe3 Nc5 17. Nxg7 Rhg8 18. Rhg1 Ne4 19.
+Raf1 Rd2+ 20. Ke1 Rgd8 21. c3 Nd3# 0-1
+

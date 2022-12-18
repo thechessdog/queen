@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Korman"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "857d8824"]
+[Epoch "Queen"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Be7 7. Bb3 O-O 8.
+Be3 Na6 9. f3 Nc5 10. Qd2 a6 11. g4 Qc7 12. O-O-O b5 13. g5 Nfd7 14. g6 Ne5 15.
+gxh7+ Kh8 16. Qe2 b4 17. Nb1 a5 18. f4 a4 19. fxe5 axb3 20. exd6 Bxd6 21. Nxb3
+Ba6 22. Qh5 Nd3+ 23. Kd2 Nxb2 24. Rdg1 Rfd8 0-1

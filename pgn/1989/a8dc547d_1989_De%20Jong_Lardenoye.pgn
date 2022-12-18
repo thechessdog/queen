@@ -1,0 +1,19 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Lardenoye, B."]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "a8dc547d"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. f3 Nc6 8. Qd2
+a6 9. O-O-O Rb8 10. g4 Nd7 11. Kb1 O-O 12. f4 Nxd4 13. Bxd4 e5 14. Be3 exf4 15.
+Bxf4 Ne5 16. h3 b5 17. Nd5 Bb7 18. b3 Re8 19. Bg2 a5 20. Nxe7+ Qxe7 21. Qxd6
+Ng6 22. Qxe7 1-0

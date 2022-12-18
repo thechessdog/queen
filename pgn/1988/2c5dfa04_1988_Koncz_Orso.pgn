@@ -1,0 +1,27 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Koncz, Imre"]
+[Black "Orso, Miklos"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "2c5dfa04"]
+[Epoch "Queen"]
+[WhiteID "704148"]
+[BlackID "700290"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Ng5 O-O 10. f4 exd4 11. cxd4 h6 12. Nf3 Re8 13. d5 Nb4 14. a3 Nxd3
+15. Qxd3 Qe7 16. Re1 Qe4 17. Qxe4 Nxe4 18. Rb1 b6 19. Rb2 Ba6 20. Rc2 Rab8 21.
+a4 Bc8 22. Bd2 Re7 23. Re2 Bd7 24. Ra2 a5 25. Be1 Bc8 26. Rab2 Ba6 27. Rec2
+Rbb7 28. Rb3 Kf8 29. Nd2 Ke8 30. Rcb2 Nxd2 31. Bxd2 Bxc4 32. Rxb6 Bxd5 33. Rxb7
+Bxb7 34. Bxa5 Bc6 35. Rb8+ Kd7 36. Rd8+ Ke6 37. Bc3 f6 38. a5 Rb7 39. Rc8 Be4
+40. g3 Rb3 41. Re8+ Kf5 42. Bd2 d5 43. h3 h5 44. a6 Ra3 45. Re7 Rxa6 46. Rxg7
+Bf3 47. Kf2 Ke4 48. Re7+ Kd3 49. Kxf3 Kxd2 50. Rd7 d4 51. exd4 c4 52. Rc7 c3
+53. g4 c2 54. Ke4 h4 55. g5 fxg5 56. fxg5 Ra3 57. Rxc2+ Kxc2 58. g6 Rxh3 59. d5
+Rd3 0-1

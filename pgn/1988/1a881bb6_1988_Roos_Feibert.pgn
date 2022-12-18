@@ -1,0 +1,21 @@
+[Event "RLP HM Landau"]
+[Site "RLP HM Landau"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Roos, Thomas"]
+[Black "Feibert, Fred"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "1a881bb6"]
+[Epoch "Queen"]
+[WhiteID "4604172"]
+[WhiteCountry "GER"]
+[BlackID "4610750"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Nf6 5. Nc3 Nbd7 6. Bd3 Be7 7. b3 O-O 8. O-O
+b6 9. Bb2 Bb7 10. Qe2 Re8 11. Rfd1 Rc8 12. Rac1 Qc7 13. Ne5 Nxe5 14. dxe5 dxc4
+15. exf6 cxd3 16. Qg4 Bxf6 17. Nb5 h5 18. Qxh5 Qd8 19. Bxf6 gxf6 20. Nxa7 Ra8
+21. Nxc6 Bxc6 22. Rxc6 Rxa2 23. Rc4 Ra5 24. Qh6 1-0

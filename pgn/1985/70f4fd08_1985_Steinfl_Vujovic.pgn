@@ -1,0 +1,24 @@
+[Event "Bagni di Lucca"]
+[Site "Bagni di Lucca"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Steinfl"]
+[Black "Vujovic"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "70f4fd08"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. c4 Ne5 6. Nf3 Nxd3+ 7. Qxd3 b6
+8. O-O Bb7 9. Nc3 d6 10. Rd1 Qc8 11. e5 dxe5 12. Nxe5 f6 13. Ng6 Qg4 14.
+Nf4 Nh6 15. c5 Qc8 16. cxb6 g5 17. Nfd5 axb6 18. Nxb6 Qc6 19. Qd7+ Qxd7 20.
+Nxd7 Bg7 21. Nc5 Bc8 22. b4 Kf7 23. a4 Nf5 24. N3e4 h6 25. Bb2 Re8 26. a5
+Bf8 27. b5 Nd6 28. b6 Rb8 29. Nxd6+ exd6 30. Nd3 Re4 31. a6 Rxb6 32. a7 Bb7
+33. a8=Q Bxa8 34. Rxa8 Rb3 35. Ra3 Rb5 36. g3 h5 37. Kg2 h4 38. Bc3 Kg6 39.
+Re1 d5 40. Ra6 Bg7 41. Ne5+ Kh7 42. Nd7 f5 43. Rxe4 dxe4 44. Nf6+ Bxf6 45.
+Rxf6 hxg3 46. hxg3 g4 47. Kf1 Rc5 48. Bd2 Kg7 49. Rd6 Kf7 50. Ke2 Ke7 51.
+Ra6 Rc2 52. Ke3 Kf7 53. Bb4 Rc4 54. Ba5 Ra4 55. Kf4 Ra2 56. Ra7+ Ke6 57.
+Bb6 Rb2 58. Be3 Rb5 59. Ra6+ Kf7 60. Kg5 1-0
+

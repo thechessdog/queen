@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Flugge"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "cd4326df"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 O-O-O 14.
+Qxc3 d4 15. Qb2 Nf5 16. Rg1 f6 17. g4 Nh4 18. Rg3 fxe5 19. fxe5 Nxe5 20. Nxd4
+Bc6 21. Nxc6 Nef3+ 0-1

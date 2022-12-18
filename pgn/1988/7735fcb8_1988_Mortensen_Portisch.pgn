@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Portisch, Ferenc"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "7735fcb8"]
+[Epoch "Queen"]
+[BlackID "700487"]
+[BlackCountry "HUN"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4 8.
+Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Qxc3 Nf5 14. Rb1
+Rc8 15. Bd2 a6 16. Ng3 Nxg3 17. hxg3 b5 18. Qc5 Ne7 19. Qxc7 Rxc7 20. Bd3 Rxg3
+21. Rh8+ Rg8 22. Rxg8+ Nxg8 23. Kf2 f5 24. Rh1 Kf7 25. g4 Kg6 26. gxf5+ exf5
+27. Ke3 Be6 28. Kd4 Nh6 29. Bb4 Rc8 30. Rg1+ Kf7 31. Rg5 Ng4 32. Bc5 Nh6 33.
+Be2 1-0

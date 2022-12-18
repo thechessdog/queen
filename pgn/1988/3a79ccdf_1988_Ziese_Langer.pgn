@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ziese"]
+[Black "Langer"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "3a79ccdf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 Nge7 7. d4 h6 8.
+Bb3 Ng6 9. Ne1 Na5 10. Bc2 Be7 11. Nd3 Bg5 12. f4 exf4 13. Nxf4 Nxf4 14.
+Bxf4 Nc4 15. Qc1 Qe7 16. b3 Nb6 17. c4 Bg4 18. Nc3 c6 19. Qd2 Bh5 20. Rae1
+O-O-O 21. Qf2 Bxf4 22. Qxf4 g5 23. Qf2 Bg6 24. a4 Qc7 25. a5 Nd7 26. b4
+Rhe8 27. Qd2 Kb8 28. b5 Ka8 29. Ra1 cxb5 30. cxb5 Rc8 31. Ra3 d5 32. bxa6
+bxa6 33. Ba4 Bxe4 34. Rxf7 Qd6 35. Rb3 Re7 36. Rxe7 Qxe7 37. Qe3 Qd6 38.
+Nxe4 1-0
+

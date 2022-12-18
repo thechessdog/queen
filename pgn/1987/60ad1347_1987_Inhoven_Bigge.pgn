@@ -1,0 +1,18 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "3"]
+[White "Inhoven, Stefan"]
+[Black "Bigge, M."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "60ad1347"]
+[Epoch "Queen"]
+[WhiteID "4652673"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Kg2 O-O 12. Bd3 g6 13. Be3 fxe5 14. Nxe5 Ndxe5
+15. dxe5 Qxe3 16. Qb3 Nxe5 17. fxe5 Rf2+ 18. Kh3 Qh6+ 0-1

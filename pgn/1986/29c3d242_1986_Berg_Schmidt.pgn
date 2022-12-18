@@ -1,0 +1,26 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Schmidt, Kristen"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "29c3d242"]
+[Epoch "Queen"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "1400436"]
+[BlackCountry "DEN"]
+
+1. Nf3 c5 2. e4 Nc6 3. Bb5 Na5 4. d4 a6 5. Bd3 cxd4 6. Nxd4 e6 7. O-O Nf6 8. e5
+Nd5 9. Nd2 Qc7 10. N2f3 d6 11. c4 Nb4 12. Qa4+ Bd7 13. Nxe6 Qb6 14. Nc7+ Qxc7
+15. Qxb4 dxe5 16. Qc3 Nc6 17. c5 Be7 18. Re1 f6 19. Be3 O-O 20. Rad1 Kh8 21.
+Be4 Bg4 22. h3 Be6 23. Bd5 Bxd5 24. Rxd5 Rad8 25. Rxd8 Rxd8 26. b4 f5 27. Ng5
+Bxg5 28. Bxg5 Rd4 29. a3 f4 30. f3 Qd7 31. Bh4 Rd3 32. Qc1 Qd5 33. Kh2 Qb3 34.
+Re4 Rd1 35. Qc4 Qb1 36. Re1 Rxe1 37. Bxe1 Qxe1 38. Qf7 Qg3+ 39. Kh1 Qe1+ 40.
+Kh2 Qg3+ 41. Kh1 h6 42. Qxb7 Qg6 43. Qxa6 e4 44. b5 exf3 45. gxf3 Qb1+ 46. Kg2
+Qc2+ 47. Kf1 Qd3+ 48. Kg1 Qe3+ 49. Kg2 Qe2+ 50. Kg1 Qe1+ 51. Kg2 Qg3+ 52. Kf1
+Qxf3+ 53. Ke1 Qe3+ 54. Kd1 Qd3+ 55. Kc1 Nd4 0-1

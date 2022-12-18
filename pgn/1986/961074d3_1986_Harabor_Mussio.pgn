@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Mussio, John"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "961074d3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+a4 O-O 9. Be3 Be6 10. O-O Nbd7 11. f4 exf4 12. Rxf4 Qc7 13. Nd5 Bxd5 14.
+exd5 Nb6 15. c4 Nfd7 16. a5 Nc8 17. Rf2 Bf6 18. Qd2 Be5 19. Bd3 Ne7 20.
+Raf1 b6 21. axb6 Nxb6 22. Na5 Nd7 23. b4 Bf6 24. Qc2 g6 25. Rxf6 1-0
+

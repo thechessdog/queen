@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wolff, Patrick"]
+[Black "Freyer"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "22695509"]
+[Epoch "Queen"]
+[WhiteID "2000148"]
+[WhiteCountry "USA"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8. Nf3
+cxd4 9. Qxd4 Bd7 10. exf6 gxf6 11. Bd2 Nc6 12. Qg4 Nge7 13. Qg7 Rf8 14. Qxh7
+O-O-O 15. Qd3 e5 16. Nh4 Rg8 17. g3 f5 18. Be2 f4 19. c4 e4 20. Qc3 d4 21. Qb3
+e3 22. fxe3 fxg3 23. O-O-O gxh2 24. Nf3 Rg2 25. Bf1 Rf2 26. Nxd4 Bg4 27. Re1
+Nf5 28. Qd3 Ng3 29. Qg6 Ne5 0-1

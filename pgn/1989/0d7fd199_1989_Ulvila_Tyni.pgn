@@ -1,0 +1,18 @@
+[Event "Tampere Kaleva"]
+[Site "Tampere Kaleva"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ulvila, Ismo"]
+[Black "Tyni, Jukka Pekka"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "0d7fd199"]
+[Epoch "Queen"]
+[WhiteID "511196"]
+[WhiteCountry "FIN"]
+
+1. d4 e6 2. c4 b6 3. Nf3 Nf6 4. g3 Ba6 5. Qc2 c5 6. Bg2 Nc6 7. dxc5 Bxc5 8. O-O
+O-O 9. b3 Rc8 10. Rd1 d5 11. Nc3 Qe7 12. cxd5 exd5 13. Bg5 Bxf2+ 14. Kxf2 Qc5+
+15. Ke1 Ne4 16. e3 Nb4 17. Qb2 Nxg5 0-1

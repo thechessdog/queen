@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Leis"]
+[Black "Issakainen"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "179fb0ef"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3
+Nxc5 8. f3 a5 9. e4 O-O 10. Bg5 Nfxe4 11. Qxg7+ Kxg7 12. Bxd8 Rxd8 13. fxe4
+Nxe4 14. Nf3 b6 15. Bd3 Nc5 16. Bc2 a4 0-1
+

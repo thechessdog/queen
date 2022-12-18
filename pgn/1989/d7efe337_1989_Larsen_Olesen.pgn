@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Larsen, Peter"]
+[Black "Olesen, Martin"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "d7efe337"]
+[Epoch "Queen"]
+[BlackID "1400860"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bf8 6. b4 c5 7. bxc5 bxc5 8. a4 Ba6
+9. Nb5 cxd4 10. Ne2 Nc6 11. f4 Nh6 12. Nexd4 Nxd4 13. Qxd4 Nf5 14. Qd3 Bc5 15.
+Nd6+ Bxd6 16. Qxa6 Bb4+ 17. Bd2 Bxd2+ 18. Kxd2 O-O 19. Bd3 Qe7 20. Bxf5 Qb4+
+21. Ke3 exf5 22. Qd3 Rac8 23. Rhb1 Qc5+ 24. Kf3 d4 25. Ra3 Qc6+ 26. Kg3 f6 27.
+Rb5 Qe4 28. e6 Rxc2 29. Qxe4 fxe4 30. Rd5 Rc3+ 31. Rxc3 dxc3 32. Rc5 f5 33.
+Rxc3 Re8 34. Rc6 g6 35. Kf2 Re7 36. Ke3 Kg7 37. g4 fxg4 38. Kxe4 Kf6 39. Kd5 h5
+40. a5 h4 41. Rc8 Rxe6 42. Rf8+ Kg7 43. Rc8 Re2 44. Rc7+ Kf6 45. Rxa7 Rxh2 46.
+Rc7 Ra2 47. Rc5 g3 48. Ke4 g2 0-1

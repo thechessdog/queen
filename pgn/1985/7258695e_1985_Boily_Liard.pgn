@@ -1,0 +1,16 @@
+[Event "Charlesbourg"]
+[Site "Charlesbourg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Boily, Bertrand"]
+[Black "Liard, Serge"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "7258695e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. c4 O-O 5. Bg2 c6 6. d5 cxd5 7. cxd5 Qa5+
+8. Nc3 Nxd5 9. Bd2 Nxc3 10. Qc2 Qa4 11. b3 Qe4 0-1
+

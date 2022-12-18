@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wallinger, M."]
+[Black "Gierse, HD."]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "bf75027e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Nbd7 7. Bd3 Qc7
+8. Nf3 g6 9. O-O Bg7 10. a4 O-O 11. Qe1 e5 12. Qh4 exf4 13. Bxf4 b6 14. Kh1
+Bb7 15. Bh6 Rae8 16. Rf2 Bxh6 17. Qxh6 Ng4 18. Qh4 Nxf2+ 19. Qxf2 Ne5 0-1
+

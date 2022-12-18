@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Knorich, W."]
+[Black "Weschke, W."]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "f57cf3f1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 dxe4 5. f3 exf3 6. Nxf3 Be7 7. Bd3 O-O
+8. O-O b6 9. Qe1 Bb7 10. Qh4 g6 11. Ne5 Nbd7 12. Nxd7 1-0
+

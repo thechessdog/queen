@@ -1,0 +1,19 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Shrentzel, Israel"]
+[Black "Lev, Ronen"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "7ec6b47d"]
+[Epoch "Queen"]
+[BlackID "2800063"]
+[BlackCountry "ISR"]
+[WhiteID "2800314"]
+[WhiteCountry "ISR"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 cxd4 8. exd4
+Nc6 9. Nc3 Be7 10. Re1 O-O 11. Bg5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wilms"]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "ab5a1680"]
+[Epoch "Queen"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. a3 a5 6. b3 g6 7. Qc2 Nc5 8. Nc3
+Bg7 9. Bg5 Nd4 10. Qc1 Nxf3+ 11. exf3 f6 12. exf6 Bxf6 13. Qe3+ Kf7 14. Qf4
+Re8+ 15. Ne4 Nxe4 16. fxe4 Rxe4+ 17. Qxe4 Bc3+ 18. Bd2 Bxa1 19. Be2 d5 20. cxd5
+Bf5 21. Qf4 Kg7 22. O-O Bb2 23. Re1 Bxa3 24. Bc3+ Kg8 25. d6 1-0

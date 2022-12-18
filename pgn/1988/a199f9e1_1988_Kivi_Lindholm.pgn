@@ -1,0 +1,18 @@
+[Event "corr Koskinen mem"]
+[Site "corr Koskinen mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kivi"]
+[Black "Lindholm"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "a199f9e1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 a6 5. Nge2 Bc5 6. O-O O-O 7. h3 d6 8.
+d3 Ne8 9. Kh2 Ne7 10. f4 f5 11. d4 exd4 12. Nxd4 c6 13. Be3 Nf6 14. Qd3
+Bxd4 15. Bxd4 d5 16. Bxf6 Rxf6 17. e5 Rf7 18. Ne2 Ng6 19. c4 Be6 20. Rfd1
+Ne7 21. Qa3 Qd7 22. Nd4 Rd8 23. Qd6 1-0
+

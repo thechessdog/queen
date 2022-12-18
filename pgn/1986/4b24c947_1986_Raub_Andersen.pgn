@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Raub, H."]
+[Black "Andersen, K."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "4b24c947"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. Bd2 Nxc5
+8. a3 Bxc3 9. Bxc3 Nce4 10. e3 b6 11. Be2 Nxc3 12. Qxc3 Ba6 13. O-O Rc8 14.
+Rac1 d5 15. b3 b5 16. Qb4 bxc4 17. bxc4 Qc7 18. cxd5 Qxc1 19. Bxa6 Nxd5 20.
+Qa4 Qc2 21. Qh4 Rc3 0-1
+

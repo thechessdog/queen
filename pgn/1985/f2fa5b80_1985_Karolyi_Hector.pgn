@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Hector, Jonny"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "f2fa5b80"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "1700090"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. O-O O-O 8.
+Nc3 a5 9. b3 Nxf3+ 10. Bxf3 Ne5 11. Be4 Ra6 12. g3 Rh6 13. Na4 Ba7 14. Bg2 d6
+15. Qe2 Re8 16. f3 Qg5 17. Nc3 Qh5 18. Bh1 Nxc4 0-1

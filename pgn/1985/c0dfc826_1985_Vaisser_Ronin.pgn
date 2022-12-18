@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vaisser, Anatoly"]
+[Black "Ronin, V."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "c0dfc826"]
+[Epoch "Queen"]
+[BlackID "4107128"]
+[BlackCountry "RUS"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 b6 6. a3 Ba5 7. Rb1 Na6 8. Bd2
+O-O 9. Ng3 d5 10. cxd5 cxd4 11. exd4 Bxc3 12. bxc3 Qxd5 13. a4 1/2-1/2

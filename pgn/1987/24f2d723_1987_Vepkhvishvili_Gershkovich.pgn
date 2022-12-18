@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vepkhvishvili, Varl"]
+[Black "Gerskovic, Eduard"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "24f2d723"]
+[Epoch "Queen"]
+[BlackID "14100975"]
+[BlackCountry "UKR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. f4 O-O 6. g4 c5 7. d5 e6 8. dxe6
+fxe6 9. h4 Nc6 10. g5 Ne8 11. h5 Nd4 12. hxg6 hxg6 13. Qd3 c4 14. Qh3 Nxc2+ 15.
+Kd1 Nxa1 16. f5 exf5 17. Qh7+ Kf7 18. Rh6 Ke7 19. Rxg6 Be6 20. Nf3 Bf7 21. Rxg7
+Nxg7 22. g6 Qa5 23. Qxg7 fxe4 24. Bg5+ Kd7 25. Nxe4 Qd5+ 26. Nfd2 Qf5 27. gxf7
+Qxf7 28. Qd4 d5 29. Bg4+ Kc6 30. Qc5# 1-0

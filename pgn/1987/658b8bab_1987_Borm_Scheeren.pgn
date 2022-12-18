@@ -1,0 +1,21 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Borm, Frans"]
+[Black "Scheeren, Peter"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "658b8bab"]
+[Epoch "Queen"]
+[WhiteID "1000225"]
+[BlackID "1000136"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Qa4+ Nbd7 6. Nc3 g6 7. g4 h6 8.
+Bg2 Bg7 9. h4 Kf8 10. g5 hxg5 11. hxg5 Rxh1 12. Bxh1 Nh5 13. Nge2 Ne5 14. d4
+Nd3+ 15. Kf1 Bh3+ 16. Bg2 Qc8 17. Ne4 Qf5 18. Bxh3 Qxh3+ 19. Kg1 Ne1 20. Nd2
+Qg2# 0-1

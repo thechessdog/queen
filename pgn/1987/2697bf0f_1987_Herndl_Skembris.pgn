@@ -1,0 +1,23 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Herndl, Harald"]
+[Black "Skembris, Spyridon"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "2697bf0f"]
+[Epoch "Queen"]
+[WhiteID "1600656"]
+[WhiteCountry "AUT"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Re1 Bd7 14. Bg5 Kh8 15.
+Bf1 a6 16. Qd2 Nh5 17. Be3 Qc7 18. h3 Nf4 19. Qd1 Rf6 20. g3 Ng6 21. Bg2 Raf8
+22. Rc1 Bxg3 23. fxg3 Rxf3 24. Bxf3 Qxg3+ 25. Bg2 Nh4 26. Re2 Nxg2 27. Rxg2
+Qxe3+ 28. Kh2 Nxd4 29. Ne2 Nxe2 30. Rxe2 Qf4+ 31. Kg1 Qg3+ 32. Rg2 Qe3+ 33. Kh2
+Rf3 0-1

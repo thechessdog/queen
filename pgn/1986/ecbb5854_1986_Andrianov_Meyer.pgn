@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Andrianov, N."]
+[Black "Meyer, B."]
+[Result "1-0"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "ecbb5854"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Nc6 7. Nf3 Na5
+8. Qd3 c5 9. O-O Qb6 10. Nc3 Rd8 11. Bg5 Be7 12. Rab1 Bc6 13. dxc5 Qxc5 14.
+Qc2 Nc4 15. b4 Qf5 16. Qxf5 exf5 17. b5 Be4 18. Rbc1 Nd6 19. Be3 b6 20. Nd4
+Bxg2 21. Kxg2 Rd7 22. Bf4 1-0
+

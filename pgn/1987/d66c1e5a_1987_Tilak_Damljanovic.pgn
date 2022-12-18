@@ -1,0 +1,22 @@
+[Event "Kolhapur"]
+[Site "Kolhapur"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tilak, Sharad S"]
+[Black "Damljanovic, Branko"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "d66c1e5a"]
+[Epoch "Queen"]
+[WhiteID "5000165"]
+[WhiteCountry "IND"]
+[BlackID "900125"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Bd3 Qb6 13. f5 b4 14. Ne2 e5
+15. Bc4 Rc8 16. Bd5 Bb5 17. Kb1 a5 18. c4 Ba6 19. g4 Rg8 20. Rhg1 Rc7 21. h3 h5
+22. Ng3 hxg4 23. Nh5 Be7 24. Qh6 Bxc4 25. Bxc4 Rxc4 26. hxg4 b3 27. Nxf6+ Bxf6
+28. Qxf6 bxa2+ 29. Ka1 Rc2 0-1

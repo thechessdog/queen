@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zschalich"]
+[Black "Fortser"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "aa94dd68"]
+[Epoch "Queen"]
+
+1. b4 c6 2. c4 d5 3. e3 Bf5 4. Bb2 e6 5. a4 Nf6 6. b5 a6 7. Nf3 Nbd7 8. Nd4
+Bg6 9. bxc6 bxc6 10. Nxc6 Qc7 11. Bxf6 Nxf6 12. cxd5 Nxd5 13. Nd4 e5 14.
+Nf3 Nb4 15. Na3 Rc8 16. Bc4 Nd3+ 17. Bxd3 Bxd3 18. Ng1 Bb4 19. f3 O-O 20.
+Kf2 Rfd8 21. Ra2 Qc5 22. Qa1 Bg6 0-1
+

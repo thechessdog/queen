@@ -1,0 +1,20 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Urbanek, Paul Gerhard"]
+[Black "Kessler, M."]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "fd567cd3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Bb5+ Nbd7 9. O-O O-O 10. h3 a6 11. Bd3 b5 12. Bg5 h6 13. Bh4 Qc7 14. Rc1
+Re8 15. Re1 c4 16. Bb1 Nc5 17. a3 Bd7 18. Bc2 Nh5 19. Qd2 g5 20. g4 Nf4 21.
+Bg3 Nfd3 22. Bxd3 Nxd3 23. Rcd1 Nxe1 24. Rxe1 a5 25. Nd4 Qc5 26. Nf5 Bxf5
+27. exf5 Rxe1+ 28. Qxe1 b4 29. Ne4 Qxd5 30. axb4 axb4 31. f6 Bf8 32. f3
+Qd4+ 0-1
+

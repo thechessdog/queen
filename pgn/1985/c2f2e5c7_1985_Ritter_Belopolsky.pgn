@@ -1,0 +1,20 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Ritter, Mark"]
+[Black "Belopolsky, Boris"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "c2f2e5c7"]
+[Epoch "Queen"]
+[WhiteID "2002965"]
+[BlackID "2002388"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Bd2 Nc6 7. dxc5 Nxe5 8. Bb5+
+Nc6 9. Nf3 Ne7 10. O-O O-O 11. Ne2 Bc7 12. Ng3 e5 13. c3 a6 14. Be2 f5 15. Re1
+f4 16. Nf1 Nf5 17. Bc1 e4 18. N3d2 Nh4 19. Qb3 Kh8 20. g3 e3 21. fxe3 f3 0-1

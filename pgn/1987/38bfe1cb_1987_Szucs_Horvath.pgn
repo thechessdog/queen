@@ -1,0 +1,21 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szucs, T."]
+[Black "Horvath, Sandor"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "38bfe1cb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Ne4 7. Qg4 Nxc3
+8. a3 Bf8 9. bxc3 Nc6 10. Nxc6 dxc6 11. Bg5 Qa5 12. Qg3 b6 13. Be2 Ba6 14.
+Bxa6 Qxa6 15. Qd3 Qxd3 16. cxd3 Be7 17. Bxe7 Kxe7 18. Ke2 Rhd8 19. Ke3 Rd5
+20. f4 Rad8 21. Rhd1 g5 22. g3 gxf4+ 23. gxf4 f6 24. Ke4 Rg8 25. Rg1 Rg6
+26. Rxg6 hxg6 27. Rg1 Kf7 28. exf6 Ra5 29. Ra1 Kxf6 30. d4 Rh5 31. Ra2 Rh3
+32. Rc2 b5 33. a4 bxa4 34. Ra2 Rxc3 35. Rxa4 Rc2 36. Rxa7 Re2+ 37. Kf3 Rxh2
+38. Ra5 Rh3+ 39. Ke4 Rc3 40. Rc5 Rxc5 41. dxc5 e5 42. fxe5+ Ke6 0-1
+

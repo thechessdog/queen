@@ -1,0 +1,21 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schulte, Oliver"]
+[Black "Koepf, Ulrich"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "2fe23100"]
+[Epoch "Queen"]
+[BlackID "4604784"]
+[BlackCountry "GER"]
+[WhiteID "4600444"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qb3 c5 6. e3 Nc6 7. a3 Bxc3+ 8. Qxc3
+O-O 9. Bd3 Qe7 10. O-O Bb7 11. Rb1 d6 12. b4 Nd7 13. Bb2 f6 14. Qc2 g6 15. Bc3
+e5 16. dxc5 dxc5 17. Be4 Rfc8 18. Rbd1 Nf8 19. Bd5+ Kg7 20. bxc5 Qxc5 21. Qe4
+Qe7 22. g4 Ne6 23. g5 Nxg5 24. Nxg5 fxg5 25. c5 Qxc5 26. Bb4 Nxb4 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Druganow, W."]
+[Black "Pantelejew, E."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "e5054e96"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 Bb4+ 7. Nc3 cxd5
+8. Bxf4 O-O 9. c5 Ne4 10. Qc2 Re8 11. O-O-O Qa5 12. Nxd5 Nc6 13. Nc7 Bf5
+14. Bd3 Qxa2 15. Nxa8 Na5 16. Rdf1 Nb3+ 17. Kd1 Na1 18. Qb1 Qb3+ 19. Kc1
+Nc3 20. bxc3 Qxc3+ 21. Kd1 Bxd3 0-1
+

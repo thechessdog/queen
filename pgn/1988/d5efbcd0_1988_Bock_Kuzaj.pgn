@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bock, O."]
+[Black "Kuzaj"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "d5efbcd0"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2
+Qc7 8. h3 Bh5 9. O-O Nd7 10. d5 cxd5 11. Qxd5 Bg6 12. Nh4 e6 13. Qf3 O-O-O
+14. Nxg6 hxg6 15. Be3 Bc5 16. Bxc5 Qxc5 17. b4 Qc7 18. c4 f5 19. Qe3 Kb8
+20. Rfc1 g5 21. Qxg5 Rdg8 22. Qe3 f4 23. Qc3 e5 24. Kf1 e4 25. f3 Ne5 26.
+fxe4 Rg3 27. Qd4 Rhg8 28. Bf3 Nxf3 29. gxf3 Rxf3+ 30. Ke2 Re3+ 31. Kf2 Qe7
+32. Rh1 Rd8 0-1
+

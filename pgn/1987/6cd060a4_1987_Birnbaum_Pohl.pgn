@@ -1,0 +1,21 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Birnbaum, D."]
+[Black "Pohl, W."]
+[Result "1-0"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "6cd060a4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Nbd7 10. Nd2 a6 11. a4 Rb8 12. Nc4 Ne8 13. a5 Ne5 14. Nb6
+Nc7 15. Bd2 Bd7 16. Rc1 Bb5 17. Re1 Na8 18. Nca4 Re8 19. b4 Bxa4 20. Nxa4
+cxb4 21. Bxb4 Nc7 22. e4 Nb5 23. f4 Nd7 24. Bh3 Nf8 25. Nb6 Bd4+ 26. Kh1
+Bxb6 27. axb6 Qxb6 28. Qb3 Nc7 29. Qc3 Nb5 30. Qd2 Qd8 31. e5 dxe5 32. fxe5
+b6 33. Qa2 a5 34. Bd2 Nd4 35. e6 fxe6 36. dxe6 Qe7 37. Bf4 Rbc8 38. Rxc8
+Rxc8 39. Bd6 Rc2 40. Qxc2 Nxc2 41. Bxe7 Nxe1 42. Bd8 a4 43. Bxb6 1-0
+

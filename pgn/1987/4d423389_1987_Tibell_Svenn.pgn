@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tibell, Ingemar"]
+[Black "Svenn, Gosta"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "4d423389"]
+[Epoch "Queen"]
+[WhiteID "1712608"]
+[WhiteCountry "SWE"]
+[BlackID "1700553"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. b3 Nf6 3. e3 Bf5 4. Bb2 e6 5. d4 Bd6 6. Bd3 Ne4 7. O-O Nd7 8. c4
+c6 9. Nc3 O-O 10. Qc2 Nxc3 11. Bxc3 Bxd3 12. Qxd3 f5 13. Ne5 Nf6 14. f3 Qe7 15.
+Rad1 Rfd8 16. Qe2 Rac8 17. Be1 Qc7 18. Bg3 c5 19. Rc1 b6 20. Rfd1 Qb7 21. Bh4
+Re8 22. cxd5 exd5 23. Qd3 f4 24. exf4 cxd4 25. Bxf6 gxf6 26. Ng4 Rxc1 27. Rxc1
+Kg7 28. Qf5 Qf7 29. Rc6 Re6 30. h4 h5 31. Nf2 Qd7 32. Qc2 Re1+ 33. Kh2 Bxf4+
+34. g3 Bd6 35. Nd3 Re3 36. Nf4 Bxf4 37. gxf4 d3 38. Qc3 Qf5 39. Rc7+ Kh6 0-1

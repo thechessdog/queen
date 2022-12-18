@@ -1,0 +1,16 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kurylo, A."]
+[Black "Maslowski, Tomasz"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "9524b1b1"]
+[Epoch "Queen"]
+[BlackID "1102850"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. a4 g6 7. Be2 Bg7 8. Be3
+O-O 9. O-O d5 10. exd5 Nb4 11. Bh6 Bxh6 0-1

@@ -1,0 +1,17 @@
+[Event "Volmac-BSG"]
+[Site "Volmac-BSG"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Peek, Marcel"]
+[Black "Piket, Jeroen"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "6e83a491"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. Qa4+ Qd7 8.
+Qc2 Bd6 9. e4 Nxc3 10. bxc3 O-O 11. Bd3 Ba6 12. Bxa6 Nxa6 13. O-O c5 14. d5
+exd5 15. exd5 f6 16. c4 Rae8 17. Be3 Rf7 18. Qb3 Rfe7 19. a4 Nb4 20. Ne1 Re4
+21. Nd3 Rh4 22. h3 Rxh3 23. gxh3 Qxh3 24. Rfe1 Bh2+ 25. Kh1 Re4 0-1

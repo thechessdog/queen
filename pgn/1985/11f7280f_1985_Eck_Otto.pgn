@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eck"]
+[Black "Otto"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "11f7280f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 e6 6. Ne2 c5 7. c3 Nc6 8.
+Be3 Nge7 9. Ng3 Qb6 10. Nd2 cxd4 11. cxd4 Nb4 12. Qb3 Qb5 13. O-O-O Rc8+
+14. Kb1 Nec6 15. Rc1 Kd7 16. Rxc6 Qxc6 17. Ne2 a5 18. Rc1 Qa6 19. Nc3 Qd3+
+20. Ka1 b5 21. Qd1 a4 22. a3 Nc6 23. Qf3 Nxd4 24. Qxf7+ Be7 25. Bxd4 Qxd4
+0-1
+

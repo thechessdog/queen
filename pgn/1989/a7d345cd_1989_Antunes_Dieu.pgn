@@ -1,0 +1,31 @@
+[Event "Royan op"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Antunes, Antonio"]
+[Black "Dieu, Bruno"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "a7d345cd"]
+[Epoch "Queen"]
+[WhiteID "1900013"]
+[WhiteCountry "POR"]
+[BlackID "603759"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bc5 7. Bd3 e5 8. Qe2
+O-O 9. Nxe5 Re8 10. Ndf3 Ng4 11. Nxg4 Bxg4 12. h3 Bxf3 13. Qxf3 Nc6 14. O-O Re6
+15. Bf4 Qe7 16. c3 Ne5 17. Bxe5 Rxe5 18. Kg2 Re6 19. Rad1 a5 20. a3 Rd8 21. Qe2
+Rh6 22. f4 Qd7 23. Qg4 Qxg4 24. hxg4 Rhd6 25. Rf3 b5 26. b4 Bb6 27. e5 Rd5 28.
+g5 c5 29. bxc5 Bxc5 30. a4 bxa4 31. Kf1 Ba3 32. c4 Rd4 33. Bxh7+ Kxh7 34. Rxd4
+Rxd4 35. Rxa3 Rxc4 36. Kg2 Kg6 37. Kh3 Kf5 38. Re3 Rc6 39. Ra3 Rc4 40. Rd3 Ke4
+41. Rd1 g6 42. Re1+ Kd5 43. e6 fxe6 44. Re5+ Kd4 45. Rxe6 a3 46. Rxg6 a2 47.
+Rd6+ Kc3 48. Rd1 Kb2 49. g6 Rc1 50. Rd2+ Rc2 51. Rd1 Rc1 52. Rxc1 Kxc1 53. g7
+a1=Q 54. g8=Q Qc3 55. Qe8 Qc5 56. Qe5 Qc8+ 57. g4 Qa8 58. f5 a4 59. f6 a3 60.
+Qf4+ Kc2 61. Qc4+ Kd2 62. Qf4+ Kc2 63. Qf2+ Kd3 64. f7 a2 65. f8=Q Qxf8 66.
+Qxf8 a1=Q 67. Qf3+ Kc4 68. g5 Kc5 69. Qd3 Qh1+ 70. Kg4 Kb4 71. g6 Qg1+ 72. Kf4
+Qc1+ 73. Ke4 Qh1+ 74. Ke5 Qh8+ 75. Kf5 Qc8+ 76. Kg5 Qc1+ 77. Kf6 Qc6+ 78. Ke5
+Qe8+ 79. Kf4 Qb8+ 80. Kg4 Qe5 81. Qf5 Qe2+ 82. Kg5 Ka3 83. Qc5+ Ka2 84. Qd5+
+Ka1 85. Qd4+ Ka2 86. g7 Qg2+ 87. Kf4 Qf1+ 88. Kg3 Qf7 89. Qf2+ 1-0

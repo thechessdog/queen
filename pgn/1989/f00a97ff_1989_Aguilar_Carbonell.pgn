@@ -1,0 +1,19 @@
+[Event "corr LADAC Superior"]
+[Site "corr LADAC Superior"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Aguilar, Pedro"]
+[Black "Carbonell, Alberto"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "f00a97ff"]
+[Epoch "Queen"]
+[WhiteID "3300650"]
+[WhiteCountry "BOL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8. Nd2
+O-O 9. e3 h6 10. Bh4 a6 11. a4 Nbd7 12. Be2 Qc7 13. a5 Rb8 14. Nc4 b5 15. axb6
+Nxb6 16. Nxd6 Rd8 17. Nxc8 Qxc8 18. Bxa6 Qd7 19. Bb5 Qb7 20. Bc6 Qe7 21. O-O
+Rbc8 22. Qb3 Nbxd5 23. Nxd5 1-0

@@ -1,0 +1,21 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Selfe"]
+[Black "Black"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "05bf5408"]
+[Epoch "Queen"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be3 c5 7. dxc5 Qa5 8.
+Bd3 Ng4 9. Bd2 Qxc5 10. Qe2 Nf6 11. O-O-O Bg4 12. h3 Bxf3 13. Qxf3 Nc6 14.
+g4 Rac8 15. Kb1 Qb6 16. h4 h5 17. gxh5 Nxh5 18. Na4 Qd4 19. Nc3 e6 20. Rhg1
+a6 21. Rg5 Qf6 22. Rxh5 gxh5 23. Qxh5 Qg6 24. Qf3 Nd4 25. Qf2 f5 26. e5
+dxe5 27. fxe5 Rfd8 28. Rg1 Qh5 29. Bg5 Qf3 30. Qh2 Rd7 31. h5 Kh7 32. h6
+Bh8 33. Bf6 Bxf6 34. exf6 Kh8 35. Rg7 Rcd8 36. a3 Nb5 37. Rxd7 Rxd7 38.
+Qb8+ Kh7 39. Qe8 Rxd3 40. f7 Nxc3+ 41. bxc3 Qd1+ 42. Kb2 Rd8 43. f8=Q 1-0
+

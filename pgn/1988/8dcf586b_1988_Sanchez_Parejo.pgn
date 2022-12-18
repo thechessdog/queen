@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sanchez"]
+[Black "Parejo"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "8dcf586b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. exd5 Qxd5 6. Qe2 Kf8 7. Bc4 Qd6
+8. b4 Bb6 9. Ba3 Nd8 10. Nxe5 Ne7 11. d4 1-0
+

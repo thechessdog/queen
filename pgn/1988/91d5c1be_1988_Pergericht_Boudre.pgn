@@ -1,0 +1,18 @@
+[Event "Val Maubuee"]
+[Site "Val Maubuee"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pergericht, Daniel"]
+[Black "Boudre, Jean-Pierre"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "91d5c1be"]
+[Epoch "Queen"]
+[BlackID "600237"]
+[WhiteCountry "BEL"]
+[BlackCountry "FRA"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. f3 f5 5. exf5 Nh6 6. fxe6 Nf5 7. Bd3 Qh4+ 8. Kf1
+Nxd4 9. Be4 Bxe4 10. Qxd4 Bc5 11. exd7+ Kf7 12. Qd2 Bd3+ 0-1

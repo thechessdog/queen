@@ -1,0 +1,23 @@
+[Event "Olomouci"]
+[Site "Olomouci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kolasinski, Marek"]
+[Black "Zvolanek, Lubomir"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "91f8f2df"]
+[Epoch "Queen"]
+[BlackID "303496"]
+[BlackCountry "CZE"]
+[WhiteID "1102397"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 Re8 7. O-O Nc6 8. a3
+Bf8 9. b4 e5 10. cxd5 Nxd5 11. Nxd5 Qxd5 12. b5 Na5 13. Bb2 e4 14. Bc2 Bg4 15.
+h3 Bh5 16. a4 a6 17. g4 Bg6 18. Nf4 Qg5 19. Qe2 b6 20. Ba3 axb5 21. axb5 f5 22.
+Bxf8 Kxf8 23. f3 Kg8 24. fxe4 fxg4 25. Qg2 g3 26. Bd3 Bf7 27. e5 Rad8 28. Rf3
+Nb3 29. Rxg3 Qh6 30. Re1 Kh8 31. Kh2 Nxd4 32. Rg1 Ne6 33. Nxe6 Bxe6 34. Be4 Re7
+35. Rf1 Bc4 36. Rf5 Bxb5 37. Rgg5 g6 38. Rf6 Red7 39. Rfxg6 0-1

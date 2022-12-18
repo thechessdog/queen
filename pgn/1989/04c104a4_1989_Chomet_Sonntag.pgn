@@ -1,0 +1,22 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chomet, Pascal"]
+[Black "Sonntag, Hans-Hubert"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "04c104a4"]
+[Epoch "Queen"]
+[WhiteID "600903"]
+[WhiteCountry "FRA"]
+[BlackID "4601025"]
+[BlackCountry "DEU"]
+
+1. b3 d5 2. Bb2 Bf5 3. g3 e6 4. Bg2 Nf6 5. Nf3 h6 6. O-O Be7 7. c4 O-O 8. d3 a5
+9. a3 c6 10. Nbd2 Nbd7 11. Qc2 Bh7 12. Bc3 b5 13. cxb5 cxb5 14. b4 Rc8 15. Qb2
+Nb6 16. Bd4 Na4 17. Qb3 axb4 18. axb4 Qd6 19. Rfb1 Nd7 20. Ra2 e5 21. Ba1 Bf5
+22. Rc2 Be6 23. Rxc8 Rxc8 24. Qd1 d4 25. Ne1 Ba2 26. Rc1 Rxc1 27. Qxc1 Qxb4 28.
+Qc8+ Nf8 29. Ndf3 Qb1 0-1

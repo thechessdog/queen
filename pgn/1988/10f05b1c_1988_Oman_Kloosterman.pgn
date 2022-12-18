@@ -1,0 +1,17 @@
+[Event "corr CDN"]
+[Site "corr CDN"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Oman"]
+[Black "Kloosterman"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "10f05b1c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5 dxe4 5. Nxe5 Qg5 6. Qa4 Qxg2 7. Bxc6+
+bxc6 8. Qxc6+ Ke7 9. Qxc7+ Kf6 10. Qxf7+ Kxe5 11. d4+ Kd6 12. Bf4+ Kc6 13.
+Qc7+ Kd5 14. Qe5+ Kc4 15. Nd2+ Kd3 16. Qb5+ Kc2 17. Qb3+ Kd3 18. c4+ Kxd4
+19. Qe3# 1-0
+

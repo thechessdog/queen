@@ -1,0 +1,25 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ahman, H."]
+[Black "Tuominen, H."]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "2a116c85"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 d6
+8. Nc3 Nbd7 9. e4 e5 10. d5 O-O 11. Bc2 a5 12. Ne2 Nc5 13. Ng3 Ba6 14. Qe2
+g6 15. b3 h6 16. h4 Bc8 17. h5 g5 18. Nd2 Ne8 19. Ndf1 Ng7 20. Ne3 Bd7 21.
+O-O f6 22. a3 Qe7 23. b4 Nb7 24. Rfc1 Ra7 25. Bd1 f5 26. exf5 Nxf5 27.
+Nexf5 Bxf5 28. Bc2 Bxc2 29. Qxc2 Qf7 30. f3 Rfa8 31. Rab1 Rf8 32. Rb3 Raa8
+33. Qe4 Kh8 34. Re3 Qf4 35. Ne2 Qxe4 36. Rxe4 axb4 37. axb4 Ra4 38. Rb1 Ra3
+39. Kf2 Rfa8 40. Re3 Ra2 41. Rbb3 Kg7 42. Rec3 Kf6 43. g4 Ra1 44. Rb2 R1a2
+45. Rbb3 Ra1 46. Ke3 R8a2 47. Nc1 Rg2 48. Ra3 Rxa3 49. Rxa3 Rc2 50. Nd3
+Rxc4 51. Ra8 Ke7 52. Rh8 Nd8 53. Rxh6 c5 54. bxc5 bxc5 55. Rg6 Nf7 56. h6
+Rc2 57. Nf2 Rc3+ 58. Ke2 Rc2+ 59. Kf1 c4 60. h7 c3 61. Re6+ Kd7 62. Rf6 Nh8
+63. Ne4 1-0
+

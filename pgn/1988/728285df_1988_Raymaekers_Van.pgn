@@ -1,0 +1,16 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Raymaekers"]
+[Black "Van der Wijk"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "728285df"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. d4 Bg4 7. dxe5
+Qxd1 8. Rxd1 Ng6 9. Be3 Nxe5 10. Nbd2 f5 11. Nxe5 1-0
+

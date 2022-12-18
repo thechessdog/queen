@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dahlgrun, Anja"]
+[Black "Fredericia, Louise"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3dd98fed"]
+[Epoch "Queen"]
+[BlackID "1404113"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. Bd3
+Nbd7 9. Be3 Nc5 10. O-O b5 11. a3 Bb7 12. Rae1 O-O-O 13. b4 Ncd7 14. Ncxb5 axb5
+15. Nxb5 Qb8 16. Qe2 Qa8 17. Qd2 Nxe4 18. Bxe4 Bxe4 19. Qc3+ Kb7 20. Qc7+ Ka6
+21. Na7 1-0

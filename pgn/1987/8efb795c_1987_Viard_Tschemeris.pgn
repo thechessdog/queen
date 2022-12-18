@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Viard, D."]
+[Black "Tschemeris, RM."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "8efb795c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Nf3 Qa5 9. Bd2 c4 10. h4 f5 11. Qg5 Nbc6 12. Be2 Qa4 13. Bd1 b5 14. Rh3 a5
+15. Rg3 Rf7 16. Qh5 g6 17. Qh6 f4 18. Bxf4 Nf5 19. Rxg6+ hxg6 20. Qxg6+ Ng7
+21. Ng5 Rxf4 22. h5 Rf5 23. Qh7+ Kf8 24. Qh8+ Ke7 25. Qxg7+ Kd8 26. h6 Ra7
+27. Qg8+ Kc7 28. h7 Rb7 29. h8=Q Rb8 30. Qhh7+ 1-0
+

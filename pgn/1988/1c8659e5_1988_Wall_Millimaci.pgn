@@ -1,0 +1,17 @@
+[Event "Mt View,CA"]
+[Site "Mt View,CA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wall, B."]
+[Black "Millimaci, S."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1c8659e5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nc6 4. cxd4 e6 5. Nf3 Bb4+ 6. Nc3 Nge7 7. Be2 O-O
+8. O-O d5 9. exd5 exd5 10. a3 Qa5 11. Bd2 Bd6 12. b4 Qc7 13. Rc1 Nxd4 14.
+Nxd5 Nxf3+ 15. Bxf3 Bxh2+ 16. Kh1 Qd6 17. Nxe7+ Qxe7 18. Kxh2 1-0
+

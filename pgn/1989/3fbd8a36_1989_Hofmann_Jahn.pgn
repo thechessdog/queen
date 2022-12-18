@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Jahn"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "3fbd8a36"]
+[Epoch "Queen"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Bg7 5. d4 Nf6 6. d5 Nb4 7. Be2 d6 8. e4
+O-O 9. O-O e6 10. a3 Na6 11. dxe6 fxe6 12. Bg5 Qb6 13. Qd2 Qc6 14. e5 dxe5
+15. Nxe5 Ne4 16. Nxc6 Nxd2 17. Ne7+ Kf7 18. Nxc8 Raxc8 19. Bxd2 1-0
+

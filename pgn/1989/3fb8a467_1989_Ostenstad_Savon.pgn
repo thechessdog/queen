@@ -1,0 +1,20 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Ostenstad, Berge"]
+[Black "Savon, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "3fb8a467"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "14138786"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Qc2
+h6 9. Rd1 Nh7 10. dxe5 dxe5 11. Rb1 c6 12. Be3 Re8 13. Qd2 h5 14. c5 Qe7 15. b4
+Ndf8 16. h3 1/2-1/2

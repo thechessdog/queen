@@ -1,0 +1,19 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lobo, R."]
+[Black "Whitehead, Jay E"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "29ff8629"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. O-O
+d5 9. Ne5 Bb7 10. Bc3 Na6 11. Nd2 c5 12. e3 Rc8 13. Re1 Qc7 14. cxd5 Nxd5 15.
+Bb2 cxd4 16. exd4 Nc3 17. Qg4 Bxg2 18. Kxg2 Qb7+ 19. Kg1 Nb4 20. Bxc3 Rxc3 21.
+Red1 Rc2 22. a3 Na2 23. Ndc4 Nc3 24. Re1 b5 25. Ne3 Rd2 26. Rac1 Ne4 27. Nc6
+Nxf2 0-1

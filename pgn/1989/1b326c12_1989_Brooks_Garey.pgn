@@ -1,0 +1,18 @@
+[Event "Texas"]
+[Site "Texas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brooks, Michael A"]
+[Black "Garey"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Bradford attack"]
+[HashCode "1b326c12"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5 7. Qg4 g6 8. Nf3
+Nc6 9. Bd2 a6 10. Bd3 b5 11. h4 h5 12. Qg3 Qe7 13. O-O-O Nb6 14. Ng5 Nb4 15.
+Kb1 Nxd3 16. cxd3 Bd7 17. Rc1 b4 18. Ne2 Bb5 19. f5 gxf5 20. Nf4 Rc8 21. Nh7
+Bd4 22. Nf6+ Kd8 23. Be3 Bxe3 24. Qxe3 Qb7 25. N4xh5 Na4 26. Nf4 Ke7 27. h5
+Rcd8 28. Qg3 Qb8 29. Qg7 1-0

@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van den Berg, John"]
+[Black "Laarhoven"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "ee7af2dd"]
+[Epoch "Queen"]
+[WhiteID "1001434"]
+[WhiteCountry "NED"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Ne4 5. Nf3 Bc5 6. d4 Bb4 7. Qc2 c5 8. Bd3
+Qa5 9. O-O Nxc3 10. a3 Nc6 11. axb4 Qxa1 12. bxc3 cxb4 13. cxd5 exd5 14. Bd2
+Qe1 15. Rxe1 1-0

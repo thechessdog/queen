@@ -1,0 +1,26 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mascarinas, Rico"]
+[Black "Mikavica, Mirko"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "c9b05084"]
+[Epoch "Queen"]
+[BlackID "908657"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 c6 6. Qb3 dxc4 7. Qxc4 O-O 8. e4
+b5 9. Qb3 a5 10. e5 a4 11. Qc2 Bf5 12. Bd3 Bxd3 13. Qxd3 Nfd7 14. Qe3 Nb6 15.
+O-O Na6 16. Rac1 Nc4 17. Qe2 h6 18. Bh4 Nb4 19. Rfd1 a3 20. b3 Nb2 21. Rd2 Qd7
+22. Qe4 Rfc8 23. Qb1 Qe6 24. Re1 g5 25. Bg3 Qg6 26. Ne4 Rd8 27. h4 g4 28. Nh2
+h5 29. f4 e6 30. Bf2 Rd5 31. Nf1 Rad8 32. g3 Kh8 33. Kg2 Bf8 34. Nc3 Qxb1 35.
+Rxb1 R5d7 36. Be3 Nd5 37. Nxd5 Rxd5 38. Kf2 c5 39. dxc5 Be7 40. Rxd5 Rxd5 41.
+Ke2 Bf8 42. Rc1 Kg7 43. Bd2 Nd3 44. Rd1 Nxc5 45. Ne3 Rd7 46. Be1 Rxd1 47. Nxd1
+f6 48. exf6+ Kxf6 49. Bc3+ Kf7 50. Ne3 Ne4 51. Be1 Bg7 52. Nc2 Bb2 53. Kd3 Nc5+
+54. Ke3 Nxb3 55. axb3 a2 56. Kd3 a1=Q 57. Nxa1 Bxa1 58. Bc3 Bxc3 59. Kxc3 Kf6
+60. Kd4 Kf5 61. b4 Kf6 62. Ke4 Ke7 63. Ke5 Kd7 64. Kf6 Kd6 65. Kg5 Kd5 66. Kxh5
+Kc4 67. Kxg4 Kxb4 68. h5 1-0

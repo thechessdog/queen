@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Antoszkiewicz, Gerh"]
+[Black "Eger, A."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "dbfa5cb2"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 dxe4 6. dxe4 b6 7. c3 O-O 8.
+e5 Ng4 9. h3 Nh6 10. Qc2 f5 11. exf6 Bxf6 12. Be2 Bb7 13. O-O Nd7 14. Ne4
+Nf7 15. Bf4 e5 16. Be3 Nd6 17. Nxd6 cxd6 18. Nd2 d5 19. Nb3 Qe7 20. Rad1
+Rad8 21. Rfe1 Nc5 22. Nc1 Kh8 23. Bf1 Qd7 24. Ne2 d4 25. cxd4 Qd5 0-1
+

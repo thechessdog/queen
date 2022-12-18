@@ -1,0 +1,18 @@
+[Event "Geneve YM"]
+[Site "Geneve"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Faure, Jean"]
+[Black "Skembris, Spyridon"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "a275907d"]
+[Epoch "Queen"]
+[BlackID "4200020"]
+[BlackCountry "GRE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 a5 9. a4 Na6 10. Bf3 Nb4 11. Be3 Bf5 12. Kd2 Ra6 13. Nge2 Rb6 14. Rag1
+Nbxd5 15. Nb5 e5 16. g4 Be6 17. Qd1 e4 18. Bg2 Nxg4 19. h3 Ndxe3 0-1

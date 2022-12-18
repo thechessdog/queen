@@ -1,0 +1,17 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zurek"]
+[Black "Carlsson"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "1642b3d1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Be3 Ne7 9. Re1 Bxf3 10. Qxf3 Qxf3 11. gxf3 Ng6 12. Nd2 Be7 13. Kf1 O-O-O
+14. Ke2 Nf4+ 15. Bxf4 exf4 16. Rad1 h4 17. c3 Rxd3 18. Kxd3 1-0
+

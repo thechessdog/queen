@@ -1,0 +1,17 @@
+[Event "Parijs open II"]
+[Site "Parijs open II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martin, C."]
+[Black "Broudin, E."]
+[Result "0-1"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "f1de2141"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. a3 Bxc3+ 8. bxc3
+Nbd7 9. dxe6 fxe6 10. Qxd6 Qb6 11. Qxb6 Nxb6 12. e3 O-O 13. Bd3 Na4 14. Ne2 Nb2
+15. Nf4 g5 16. Ng6 Nxd3+ 17. Ke2 Rd8 18. Rad1 gxh4 19. Nxh4 Ne4 20. Kf3 Nexf2
+0-1

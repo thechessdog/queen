@@ -1,0 +1,24 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grotnes, Nils"]
+[Black "Renman, Nils-Gustaf"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "69a0be07"]
+[Epoch "Queen"]
+[WhiteID "1500317"]
+[WhiteCountry "NOR"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 a5 10. a3 Bxc3 11. Nxc3 a4 12. Bd3 Bd7 13. Rc1 b6 14. Na2 Nc6 15.
+Bb5 O-O 16. Bxc6 Bxc6 17. O-O Bb5 18. Rfe1 Bc4 19. Nb4 bxc5 20. dxc5 Qa5 21.
+Qd4 Rfc8 22. c6 Qb5 23. Rc3 Rxc6 24. Nxc6 Qxc6 25. Rg3 g6 26. Rh3 Qd7 27. Qh4
+h5 28. Rg3 d4 29. Qxh5 d3 30. Qh6 Qd4 31. Rh3 Qg7 32. Qxg7+ Kxg7 33. Rc1 Rd8
+34. Rd1 d2 35. Re3 f5 36. f4 e5 37. fxe5 f4 38. Rf3 Be2 39. Rff1 g5 40. Kf2 Bh5
+41. Rg1 Rd3 42. g4 fxg3+ 43. hxg3 Bg4 44. Rgf1 Rf3+ 45. Kg2 Rxf1 46. Rxd2 Rd1
+47. Rc2 Rd4 48. Rc3 Rd2+ 49. Kf1 Rxb2 50. Re3 Re2 0-1

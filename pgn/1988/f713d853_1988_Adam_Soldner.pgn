@@ -1,0 +1,20 @@
+[Event "corr DDR-FSM"]
+[Site "corr DDR-FSM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Adam"]
+[Black "Soldner"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "f713d853"]
+[Epoch "Queen"]
+[WhiteID "7110219"]
+[WhiteCountry "INA"]
+
+1. b4 e6 2. Bb2 Nf6 3. b5 d5 4. e3 a6 5. a4 Be7 6. Nf3 O-O 7. c4 axb5 8. axb5
+Rxa1 9. Bxa1 c5 10. Be2 Nbd7 11. O-O Qc7 12. d3 b6 13. Nbd2 Bb7 14. Bb2 Ne8 15.
+Qb3 Nd6 16. Ra1 Rd8 17. Ne5 f6 18. cxd5 fxe5 19. dxe6 c4 20. Nxc4 Nc5 21. Qc3
+Nxc4 22. Qxc4 Bd5 23. Qc3 Bd6 24. f4 Nxe6 25. fxe5 Qxc3 26. Bxc3 Be7 27. Ra7
+Bg5 28. Kf2 Rc8 29. Bb4 Rc2 30. g3 Nc7 31. e4 Nxb5 32. exd5 Nxa7 33. e6 Nb5 34.
+Kf1 Rb2 35. e7 Kf7 0-1

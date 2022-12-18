@@ -1,0 +1,26 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Herndl, Harald"]
+[Black "Titz, Heimo"]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "4cd018c5"]
+[Epoch "Queen"]
+[BlackID "1601520"]
+[BlackCountry "AUT"]
+[WhiteID "1600656"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Re1 O-O 10. h3 Be6 11. Bf1 Rc8 12. Nd5 Bxd5 13. exd5 Nb8 14. c4 Nbd7 15.
+b4 Nh7 16. Qb3 b6 17. Nh2 f5 18. f4 Bf6 19. fxe5 Bxe5 20. Bb2 Qf6 21. Bxe5 Nxe5
+22. Rac1 Ng5 23. c5 bxc5 24. bxc5 Rb8 25. Qa3 dxc5 26. Qxc5 Ne4 27. Qxa7 Ra8
+28. Qd4 Rxa2 29. Rcd1 Rc2 30. Qa7 Rfc8 31. Qd4 Qd6 32. Re3 Rc1 33. Ree1 Rxd1
+34. Rxd1 Rc2 35. Qe3 Rc3 36. Qd4 Rc2 37. Qe3 Ng6 38. Bd3 Rc3 39. Qd4 Nf4 40.
+Bf1 Qg6 41. g4 Rxh3 42. d6 Rxh2 43. Kxh2 Qxg4 44. d7 Qh4+ 45. Kg1 Qg3+ 46. Kh1
+Qh4+ 47. Kg1 Qg4+ 48. Kh2 Qg3+ 49. Kh1 Qf3+ 50. Kh2 Qh5+ 51. Kg1 Qg6+ 52. Kh2
+Qg3+ 1-0

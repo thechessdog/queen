@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Andresen, S."]
+[Black "Fleischer, P."]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "819f8172"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+
+8. Nxc3 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O h6 12. Ba2 Ne7 13. Bf4 b6 14.
+Qf3 Ba6 15. Rfe1 Ng6 16. Be5 Nxe5 17. dxe5 Nd7 18. Rad1 Qc7 19. Qg3 Rad8
+20. Rd6 Nc5 21. Bb1 Kh8 22. Rc1 Nb7 23. Rxd8 Nxd8 24. Qe3 Qe7 25. Ne4 Bb7
+26. Nf6 Nc6 27. Qe4 g6 28. Qh4 Kg7 29. Rxc6 Rd8 30. Rc1 1-0
+

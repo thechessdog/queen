@@ -1,0 +1,20 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Simeonov, Stefan"]
+[Black "Liangov, Petar"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b5ed2844"]
+[Epoch "Queen"]
+[WhiteID "2900513"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4
+Nc5 9. O-O Be7 10. e5 Nfe4 11. Nxe4 Nxe4 12. Qf3 dxe5 13. Ba4+ Kf8 14. fxe5
+Qxd4+ 15. Kh1 f5 16. Bb3 Bc5 17. c3 Nf2+ 18. Kg1 Qe4 19. Qg3 Qe2 20. Qf3 Qxf3
+21. gxf3 Nd3+ 22. Kg2 Nxc1 23. Raxc1 Ke7 24. Rcd1 Bd7 25. Rd2 Rad8 26. Rfd1 Bc8
+0-1

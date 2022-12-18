@@ -1,0 +1,17 @@
+[Event "Chernovtsi"]
+[Site "Chernovtsi"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Botechko"]
+[Black "Semashev"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "9bf920af"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Bxd5 cxd5 13. Qf3 Bd6 14.
+Re3 Qg5 15. g3 Bg4 16. Qg2 Rae8 17. d4 Qh5 18. Qf1 Bh3 19. Qe1 Qf3 0-1
+

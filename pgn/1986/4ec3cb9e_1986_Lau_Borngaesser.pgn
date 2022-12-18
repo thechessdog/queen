@@ -1,0 +1,21 @@
+[Event "Solingen"]
+[Site "Solingen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Borngaesser, Rene"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "4ec3cb9e"]
+[Epoch "Queen"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackID "4600940"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Ne2 O-O 7. O-O c6 8. a3
+Bd6 9. Bf4 Bxf4 10. Nxf4 Qd6 11. Qf3 Bg4 12. Qg3 Qd8 13. Rfe1 Nbd7 14. Re5 Qb6
+15. Rg5 Qxb2 16. Rb1 Qxa3 17. Ncxd5 Kh8 18. Nxf6 Nxf6 19. h3 Bd7 20. Rxg7 Rg8
+21. Rxg8+ Rxg8 22. Qh4 1-0

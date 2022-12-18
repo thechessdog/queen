@@ -1,0 +1,23 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "2"]
+[White "Domont, Alexandre"]
+[Black "Tolnai, Tibor"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "c32ce0fc"]
+[Epoch "Queen"]
+[WhiteID "1300172"]
+[WhiteCountry "SUI"]
+[BlackID "700126"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5 8.
+Nd2 Bc5 9. Nc4 Qe7 10. Be3 Nf6 11. Qe1 b5 12. Bxc5 Qxc5 13. b4 Qd4 14. Na5 c5
+15. bxc5 Qxc5 16. a4 b4 17. Nb3 Qe7 18. c3 Be6 19. cxb4 Bxb3 20. Qc3 Qe6 21.
+Rfb1 Rc8 22. Qxb3 Rc1+ 23. Rxc1 Qxb3 24. Bxa6 O-O 25. b5 Nxe4 26. a5 Qb2 27. b6
+Qxf2+ 28. Kh1 Qe3 29. h3 g5 30. Bc8 g4 31. Bxg4 f5 32. b7 fxg4 33. Rc8 Nf2+ 34.
+Kg1 Nd1+ 35. Kh1 Qe1+ 36. Kh2 g3# 0-1

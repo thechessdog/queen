@@ -1,0 +1,24 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mikhailov"]
+[Black "Baumbach"]
+[Result "0-1"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[HashCode "7c0821ff"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. Be2 Bg7 9. Bg5 O-O 10. Qe3 Be6 11. O-O Qa5 12. a3 Rfc8 13. Nd5 Bxd5 14.
+exd5 Qc5 15. Rac1 Qxe3 16. Bxe3 a5 17. b3 Ne4 18. Rc2 b5 19. Rfc1 b4 20. a4
+Nc5 21. Rb1 Bc3 22. g3 Kf8 23. Kg2 Rab8 24. h4 h5 25. f3 Kg7 26. g4 Rh8 27.
+g5 Rhe8 28. f4 e5 29. Kf3 exf4 30. Bxf4 Be5 31. Be3 f6 32. Bd1 fxg5 33.
+hxg5 Rf8+ 34. Kg2 Bf4 35. Bd4+ Kh7 36. Re2 Rbe8 37. Rbb2 Bxg5 38. Rxe8 Rxe8
+39. Rf2 Re4 40. Bxc5 dxc5 41. Rf7+ Kh6 42. Rc7 Rd4 43. Be2 Rd2 44. Kf3 Rb2
+45. Bd1 h4 46. Rxc5 Rb1 47. Bc2 Rc1 48. Bd3 h3 49. Rc8 Bf6 50. Ke2 Bc3 51.
+Kf2 Bd4+ 52. Kg3 Rc3 53. Kxh3 Rxb3 54. Kg2 Rxd3 55. d6 Be5 56. c5 b3 57.
+Rb8 b2 0-1
+

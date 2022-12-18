@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Walther, L."]
+[Black "Tiunikov, EV."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "0cf7e1e8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 g5 9. Nc4 Qg7 10. hxg4 hxg4 11. Nxg5 Qh6 12. f3 Bc5+ 13. Be3 g3 14.
+Nh3 Bxe3+ 15. Nxe3 Qxe3+ 16. Kh1 Ne7 17. Qc1 Rxh3+ 18. gxh3 Qe2 0-1
+

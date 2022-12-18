@@ -1,0 +1,17 @@
+[Event "corr ch14-NLD"]
+[Site "corr ch14-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Raijmaekers"]
+[Black "Nederkoorn, Corneli"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "68f5d9f3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. e6 Qh4+ 12. g3 Nxg3 13. hxg3 Qxg3+
+14. Kd2 Bxc3+ 15. bxc3 Qg2+ 16. Qe2 Qxd5+ 17. Kc2 Qxe6 1-0
+

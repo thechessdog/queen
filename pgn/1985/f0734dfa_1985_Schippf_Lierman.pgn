@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schippf"]
+[Black "Lierman"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "f0734dfa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 h6 4. Bh4 Bb4+ 5. Nc3 c5 6. d5 b5 7. dxe6 fxe6 8.
+Qc2 O-O 9. e4 Qa5 10. Bxf6 Rxf6 11. cxb5 d5 12. Rd1 Qxa2 13. Qd2 Qa5 14.
+exd5 Bb7 15. dxe6 Rxe6+ 16. Nge2 Re8 17. Qd3 a6 18. bxa6 Nxa6 19. f3 Kh8
+20. Kf2 c4 21. Qxc4 Rac8 22. Qb5 Bc5+ 23. Nd4 Qd8 0-1
+

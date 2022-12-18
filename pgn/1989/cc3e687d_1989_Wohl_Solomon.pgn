@@ -1,0 +1,22 @@
+[Event "Sydney"]
+[Site "Sydney"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Wohl, Aleksandar H."]
+[Black "Solomon, Stephen J"]
+[Result "0-1"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "cc3e687d"]
+[Epoch "Queen"]
+[WhiteID "3200345"]
+[WhiteCountry "AUS"]
+[BlackID "3200043"]
+[BlackCountry "AUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. a4 Bb7 12. Nbd2 c5 13. Bc2 Re8 14. Nf1 d5 15.
+dxe5 Nxe4 16. Bf4 f6 17. Ne3 fxe5 18. Nxd5 Nxf2 19. Kxf2 exf4 20. Nxe7+ Rxe7
+21. Qd3 g6 22. Rxe7 Qxe7 23. Re1 Qd8 24. axb5 axb5 25. Qxb5 Bxf3 26. Kxf3 Qh4
+27. Re4 Qg3+ 28. Ke2 Qxg2+ 29. Kd3 Qf1+ 30. Re2 f3 0-1

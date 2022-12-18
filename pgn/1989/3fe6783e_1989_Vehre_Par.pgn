@@ -1,0 +1,20 @@
+[Event "Ashland,OH"]
+[Site "Ashland,OH"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Par Excellence"]
+[Result "0-1"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Katalimov variation"]
+[HashCode "3fe6783e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 b6 3. d4 cxd4 4. Nxd4 Bb7 5. Nc3 Nf6 6. e5 Nd5 7. Nxd5 Bxd5 8.
+Be3 e6 9. c4 Bb7 10. Nf3 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 Bxf3 13. gxf3 Nc6 14. f4
+O-O 15. Bg2 Rc8 16. Rd1 Qh4 17. Qxd7 Rfd8 18. Qb7 Rxd1+ 19. Kxd1 Rd8+ 20. Ke1
+Qg4 21. Bd5 Nd4 22. Kd2 Qxf4+ 23. Kc3 exd5 24. Qxa7 dxc4 25. Qb7 Ne2+ 26. Kb4
+c3+ 27. Kb3 Qd2 28. Rb1 c2 29. Ra1 Rd3+ 30. Kc4 Rd4+ 31. Kb5 Qa5+ 32. Kc6 Qc5#
+0-1

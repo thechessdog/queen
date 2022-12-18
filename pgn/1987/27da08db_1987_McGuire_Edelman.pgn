@@ -1,0 +1,23 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "11"]
+[White "McGuire, Robert"]
+[Black "Edelman, Daniel"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "27da08db"]
+[Epoch "Queen"]
+[WhiteID "2010330"]
+[WhiteCountry "USA"]
+[BlackID "2000660"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Bg5 O-O 13. Rc1 Bd7 14. Bb1 Be8 15.
+Bh4 Bh5 16. Bg3 Bxf3 17. gxf3 Nh5 18. Kg2 g6 19. a3 a6 20. Re1 Rf6 21. Ng1 Nf4+
+22. Kh1 Qb6 23. Ne2 Nxe2 24. Bxd6 Nxc1 25. Qxc1 Qxd4 26. Bc5 Qh4 27. Qe3 Re8
+28. Ba2 Qh5 29. f4 d4 30. Bxd4 Nxd4 31. Qxd4 Qf3+ 32. Kg1 Rxf4 33. Qb6 Rg4+ 34.
+Kf1 Qh1+ 0-1

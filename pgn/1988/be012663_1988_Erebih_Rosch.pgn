@@ -1,0 +1,17 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Erebih"]
+[Black "Rosch, Hermann"]
+[Result "0-1"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "be012663"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. Bf4 a6 10. a4 Nh5 11. Be3 f5 12. exf5 Bxf5 13. Nd2 Nf6 14. h4 h5 15. f3
+Qe7 16. Kf2 Nbd7 17. Nc4 Ne5 18. Nxe5 Qxe5 19. Bd3 Ng4+ 20. fxg4 Bxd3+ 21. Qf3
+hxg4 0-1

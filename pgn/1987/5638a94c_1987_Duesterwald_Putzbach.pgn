@@ -1,0 +1,22 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "6"]
+[White "Duesterwald, Marc"]
+[Black "Putzbach, Gerd"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "5638a94c"]
+[Epoch "Queen"]
+[WhiteID "4619064"]
+[WhiteCountry "GER"]
+[BlackID "4611128"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nh6
+8. O-O c5 9. Ne5 Nd7 10. Qh5 Qe7 11. Nd3 O-O 12. f4 Rb8 13. a4 b6 14. f5 Nf6
+15. Qg5 Kh8 16. Rae1 Nfg8 17. Qf4 Bd7 18. g4 f6 19. e5 fxe5 20. Nxe5 Qd8 21.
+Ne4 Ne7 22. f6 Nc6 23. Qg5 gxf6 24. Nxf6 Nxg4 25. Ng6+ Kg7 26. Nxf8+ Kh8 27.
+Qg8# 1-0

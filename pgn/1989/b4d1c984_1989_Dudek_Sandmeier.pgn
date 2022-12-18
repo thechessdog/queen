@@ -1,0 +1,19 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dudek, Richard"]
+[Black "Sandmeier, Toni"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "b4d1c984"]
+[Epoch "Queen"]
+[WhiteID "4643968"]
+[WhiteCountry "GER"]
+[BlackID "4606060"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 Bb4+ 10. Bd2 1/2-1/2

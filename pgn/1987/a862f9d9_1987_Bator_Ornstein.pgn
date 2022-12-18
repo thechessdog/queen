@@ -1,0 +1,25 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bator, Robert"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "a862f9d9"]
+[Epoch "Queen"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteID "1700405"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 Nge7
+8. Qh5 Be6 9. Rb1 b6 10. Nf3 Qd7 11. Ne5 Nxe5 12. Qxe5 f6 13. Qg3 O-O 14. O-O
+Bf5 15. c4 Bxd3 16. Qxd3 c6 17. a4 Rfe8 18. Bd2 Nf5 19. a5 bxa5 20. c5 Re4 21.
+c3 Rae8 22. f3 Re2 23. Rf2 Rxf2 24. Kxf2 h5 25. Qa6 Qc7 26. g3 h4 27. Bf4 hxg3+
+28. hxg3 Qd7 29. Bd2 Qc7 30. Bf4 Qd7 31. Bd2 Ne7 32. Qd3 Qh3 33. Qf1 Qf5 34.
+Ra1 a4 35. Qe2 Kf7 36. Rxa4 Nc8 37. Qd1 Qh3 38. Qf1 Qh2+ 39. Qg2 Qxg2+ 40. Kxg2
+Re2+ 41. Kh3 Rxd2 42. Ra6 Ne7 43. Rxa7 Rc2 44. Ra3 Ke6 45. Kg4 g6 46. Kf4 g5+
+47. Ke3 Rg2 0-1

@@ -1,0 +1,17 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Perenyi, Bela"]
+[Black "Hever"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "9b703743"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. g4 h6 8. Qf3
+e5 9. Nf5 Be6 10. O-O-O g6 11. g5 hxg5 12. Nxd6+ Bxd6 13. Bxg5 Qc7 14. Qxf6 Rh5
+15. Bb5+ Nd7 16. Nd5 Qa5 17. Bxd7+ Kxd7 18. Nb6+ Qxb6 19. Qe7+ Kc8 20. Rxd6 1-0

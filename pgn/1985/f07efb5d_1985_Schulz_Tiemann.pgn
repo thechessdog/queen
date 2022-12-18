@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schulz, M."]
+[Black "Tiemann, H."]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "f07efb5d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Be6 5. Bxe6 fxe6 6. d4 Qf6 7. e5 Qf5
+8. O-O g5 9. Nc3 Nc6 10. b4 dxe5 11. Nxe5 Nxe5 12. dxe5 Bxb4 13. Nb5 Ba5
+14. Qh5+ Qg6 15. Qf3 Ne7 16. Ba3 Nc6 17. Rab1 Bb6+ 18. Kh1 O-O-O 19. Rb3
+Nd4 20. Nxd4 Rxd4 21. Bc5 Rd5 0-1
+

@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Chiburdanidze, Maia"]
+[Black "Bareev, Evgeny"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "8c94de64"]
+[Epoch "Queen"]
+[WhiteID "13600036"]
+[WhiteCountry "GEO"]
+[BlackID "4100140"]
+[BlackCountry "CAN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 dxe4 5. Qxe4 Nf6 6. Qh4 c5 7. dxc5 Bxc3+ 8.
+bxc3 Qa5 9. Qb4 Qc7 10. Nf3 Nc6 11. Bb5 e5 12. Bg5 Bd7 13. Bxc6 Bxc6 14. Bxf6
+gxf6 15. O-O-O Bxf3 16. gxf3 Rc8 17. Rd5 Rd8 18. Rd6 Rxd6 19. cxd6 Qb6 20. Rd1
+Qxb4 21. d7+ Ke7 22. cxb4 Rd8 23. c4 f5 24. f4 f6 25. Kc2 Rxd7 26. Rxd7+ Kxd7
+27. Kc3 Kc6 28. Kd3 b6 29. b5+ Kd6 30. Kc3 Kc5 31. a3 1-0

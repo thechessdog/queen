@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hirtsgaard, Niels"]
+[Black "Knudsen, Bjarne"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "eee8fdba"]
+[Epoch "Queen"]
+[WhiteID "1401351"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 Bxc3+ 10. bxc3 Nxg3 11. fxg3 c5 12. Bd3 Qc7 13. O-O Nc6 14. Bg6 Rf8
+15. Nd2 d6 16. Rf6 Ne7 17. Raf1 Nxg6 18. Qxg6 O-O-O 19. Rxf7 Rxf7 20. Rxf7 1-0

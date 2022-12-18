@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ott, Frank"]
+[Black "Lau, Ralf"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "7bf3d8ad"]
+[Epoch "Queen"]
+[WhiteID "4605519"]
+[WhiteCountry "GER"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. Nc3 Bg7 3. g3 c5 4. Bg2 d6 5. d3 Nc6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Bd2 Rb8 10. Rb1 b6 11. a3 Bb7 12. b4 Nd4 13. Ne2 Nxf3+ 14. Bxf3 Qc7 15.
+c3 f5 16. Qc2 c4 17. Nd4 cxd3 18. Qxd3 Bxd4+ 19. Qxd4 fxe4 20. Bxe4 Nf5 21. Qd3
+Bxe4 22. Qxe4 Rfe8 23. Rfe1 Rbc8 24. Rbc1 Qc4 25. Qxc4 Rxc4 26. g4 Nh6 27. h3
+Nf7 28. Re2 e5 29. fxe5 dxe5 30. a4 Rd8 31. Kg2 Rd3 32. Rf1 e4 33. Rfe1 Ne5 34.
+Bh6 Nf3 35. Rc1 g5 36. Kf2 Rd6 0-1

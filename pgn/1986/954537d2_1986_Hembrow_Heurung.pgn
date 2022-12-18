@@ -1,0 +1,18 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hembrow, J."]
+[Black "Heurung, D."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "954537d2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bc4
+Qc7 8. Be3 e6 9. h3 Nd7 10. Qd2 Bd6 11. O-O-O O-O-O 12. Ne1 Rhg8 13. g3 Be4
+14. Rg1 Nb6 15. Bd3 f5 16. a3 Nd5 17. c4 Nxe3 18. Qxe3 Bf4 19. gxf4 Rxg1
+20. f3 Bxd3 21. Qxg1 Qxf4+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "Budapest Alfoldi mem"]
+[Site "Budapest Alfoldi mem"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Mije, Alexandra"]
+[Black "Szaday, Laszlone"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "a1c0069b"]
+[Epoch "Queen"]
+[BlackID "704601"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4 g6
+8. b3 Bg7 9. Bb2 Nf6 10. f3 O-O 11. Na3 a6 12. c4 Nh5 13. Nac2 b5 14. cxb5 axb5
+15. Qd2 Ra6 16. Kh1 Rfa8 17. a3 Na5 18. Nb4 e5 19. Nxa6 exd4 20. Qxa5 Qb7 21.
+Qd2 Rxa6 22. Bxd4 Bf8 23. Bb2 Qe7 24. Qc3 Ng7 25. Rfd1 Qh4 26. Rd5 Qf2 27. b4
+h5 28. Rad1 h4 29. R5d2 Qa7 30. Rd5 Qf2 31. Qd2 Qa7 32. Rc1 Ne6 33. Rc8 Qe7 34.
+Qh6 Ng7 35. Qxg7# 1-0

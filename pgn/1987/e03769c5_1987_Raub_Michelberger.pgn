@@ -1,0 +1,18 @@
+[Event "Endingen HT1"]
+[Site "Endingen HT1"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Raub, J."]
+[Black "Michelberger"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "e03769c5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 Bg7
+8. Rb1 O-O 9. Be2 Nc6 10. d5 Bxc3+ 11. Bd2 Bxd2+ 12. Qxd2 Na5 13. h4 Bg4
+14. h5 gxh5 15. Ne5 Bxe2 16. Qxe2 Qd6 17. Qxh5 h6 18. Ng4 Qg6 19. Nxh6+ Kg7
+20. Qe5+ Qf6 21. Nf5+ Kg8 22. Qg3+ 1-0
+

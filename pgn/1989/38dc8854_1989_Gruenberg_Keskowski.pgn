@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gruenberg"]
+[Black "Keskowski, T."]
+[Result "1-0"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[HashCode "38dc8854"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Bg5 Bb7 12. Nbd2 h6 13. Bh4 Re8 14. Bg3 Bf8
+15. d5 Nc5 16. Bc2 c6 17. dxc6 Bxc6 18. Nh2 d5 19. exd5 Qxd5 20. Ndf3 e4
+21. Qxd5 Bxd5 22. Nd4 Nd3 23. Bxd3 exd3 24. Nhf3 b4 25. cxb4 Bxb4 26. Red1
+Be4 1-0
+

@@ -1,0 +1,20 @@
+[Event "Farum"]
+[Site "Farum"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thomsen, Frode"]
+[Black "Erhard, Steen"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "3da15a88"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nge2 dxc4 7. Ng3 Be6
+8. Be2 Nc6 9. Be3 Bg7 10. Bf3 Nd5 11. O-O O-O 12. Nge4 Nxc3 13. bxc3 Bd5
+14. Nc5 b6 15. Na6 Bxf3 16. Qxf3 Qc8 17. Nb4 Nxb4 18. cxb4 Rd8 19. Rfd1 e6
+20. h3 Rd5 21. a4 Qd7 22. b5 Rc8 23. a5 Rxb5 24. axb6 axb6 25. Ra8 Ra5 26.
+Rxa5 bxa5 27. Rb1 Qd5 28. Qxd5 exd5 29. Rb5 Ra8 30. Rxd5 a4 31. Rc5 a3 32.
+Bc1 a2 0-1
+

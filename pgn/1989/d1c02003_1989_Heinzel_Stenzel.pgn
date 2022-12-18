@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heinzel, Olaf"]
+[Black "Stenzel, Thomas"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "d1c02003"]
+[Epoch "Queen"]
+[WhiteID "4626664"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bf3 Nc6 7. Be3 e5 8. d5
+Nd4 9. Bxd4 exd4 10. Nce2 Re8 11. Nxd4 Nxe4 12. Nge2 Ng5 13. O-O Nxf3+ 14. Nxf3
+Bxb2 15. Rb1 Bg7 16. Ned4 Re4 17. Re1 Re7 18. Qb3 h6 19. Rxe7 Qxe7 20. Re1 Qd8
+21. Qb5 Bd7 22. Qxb7 Qb8 23. Rb1 Qc8 24. Nc6 Bf6 25. Nfd4 Kg7 26. Kf1 Bf5 27.
+Qxc8 Bd3+ 28. Ke1 Rxc8 29. Rc1 Re8+ 30. Kd1 Bf1 31. g3 Re4 32. Kd2 Bxd4 33.
+Rxf1 Bc5 34. Kd3 f5 35. Nd8 Kf6 36. Ne6 Bb6 37. Rb1 c6 38. Nf4 g5 39. Ne2 cxd5
+40. cxd5 Bxf2 41. Rb7 Re3+ 42. Kd2 Ra3 43. Rh7 Rxa2+ 44. Kd3 Kg6 45. Re7 Ra3+
+46. Kd2 Bc5 47. h3 a5 48. Re6+ Kg7 49. Re7+ Kf6 50. Re6+ Kf7 51. Rxh6 a4 52. h4
+g4 53. Rh8 Rf3 54. Ra8 a3 55. h5 Kg7 56. Kc2 f4 57. Nxf4 Rxf4 58. gxf4 g3 59.
+h6+ Kh7 0-1

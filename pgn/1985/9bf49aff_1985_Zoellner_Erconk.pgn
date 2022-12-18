@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zoellner"]
+[Black "Erconk"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Rauzer variation"]
+[HashCode "9bf49aff"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Nf3 Qc7 8.
+Qd4 Ne7 9. Bd3 b6 10. O-O cxb2 11. Bxb2 Nd7 12. Qg4 Ng6 13. h4 Kf8 14. Rfe1
+a5 15. h5 Ne7 16. Ng5 Kg8 17. Nxe6 fxe6 18. Qxe6+ Kf8 19. h6 gxh6 20. Qxh6+
+Ke8 21. e6 Rf8 22. exd7+ Kxd7 23. Bb5+ 1-0
+

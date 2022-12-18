@@ -1,0 +1,21 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Dongen, Patrick"]
+[Black "Roos, Louis"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ba224035"]
+[Epoch "Queen"]
+[WhiteID "602418"]
+[WhiteCountry "FRA"]
+[BlackID "600288"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. h4
+cxd4 9. cxd4 Be7 10. h5 f6 11. Bd3 O-O 12. Ne2 Bb4+ 13. Bd2 fxe5 14. fxe5 Ncxe5
+15. dxe5 Nxe5 16. Bxh7+ Kxh7 17. Qc2+ Kg8 18. O-O-O Bxd2+ 19. Rxd2 Nxf3 20. h6
+Nxd2 21. hxg7 Rf1+ 0-1

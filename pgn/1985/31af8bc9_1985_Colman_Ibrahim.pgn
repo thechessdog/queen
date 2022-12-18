@@ -1,0 +1,20 @@
+[Event "Mendoza"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Colman, Gustavo"]
+[Black "Ibrahim, Hamouda"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "31af8bc9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 b6 7. O-O Bb7
+8. Bg5 Be7 9. Nxf6+ Nxf6 10. Ne5 O-O 11. c3 Qd5 12. f3 Qd8 13. Qc2 h6 14.
+Bd2 c5 15. Kh1 cxd4 16. Rad1 Qd5 17. cxd4 Qxd4 18. Bc3 Qf4 19. Qf2 Bd6 20.
+Qg3 Qxg3 21. hxg3 Nd5 22. Rfe1 Nxc3 23. bxc3 Ba3 24. Rd2 Rac8 25. Rc2 Rc5
+26. Nd7 Rh5+ 27. Kg1 Rd8 28. Rd2 Rxd7 29. Bh7+ Kxh7 30. Rxd7 Bc5+ 31. Kf1
+Ba6+ 0-1
+

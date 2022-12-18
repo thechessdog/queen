@@ -1,0 +1,18 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bensiek, N."]
+[Black "Kribbe, W."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Morphy variation"]
+[HashCode "0c29ffa2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Nxd5 6. Nxd5 Qh4+ 7. Kf1
+Bd6 8. Nf3 Qg4 9. e5 c6 10. Nf6+ gxf6 11. exd6 Be6 12. d4 Rg8 13. Qe2 Nd7
+14. Ne1 f3 15. Nxf3 O-O-O 16. b3 Rde8 17. Qf2 Bd5 18. h3 Qf5 19. Nh4 Qh5
+0-1
+

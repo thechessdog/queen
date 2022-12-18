@@ -1,0 +1,20 @@
+[Event "Noviki-A"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Horvath, Jozsef"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "42a40102"]
+[Epoch "Queen"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteID "700061"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6 8.
+Qg4 Nf6 9. Qxg7 Rg8 10. Qh6 Rg6 11. Qh3 e5 12. Qh4 Rg4 13. Qh6 Rg6 14. Qh4 Rg4
+15. Qh6 Rg6 1/2-1/2

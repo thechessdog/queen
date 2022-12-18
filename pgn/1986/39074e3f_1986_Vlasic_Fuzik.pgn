@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vlasic"]
+[Black "Fuzik"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "39074e3f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d4 fxe4 5. Nxe5 Nxe5 6. dxe5 c6 7. Nc3
+cxb5 8. Nxe4 d5 9. exd6 Nf6 10. Bg5 Qa5+ 11. Nc3 Be6 12. Qe2 Kd7 13. Bxf6
+gxf6 14. O-O b4 15. Rfe1 Re8 16. Nd5 Bf7 17. Qg4+ Be6 18. Rxe6 Rxe6 19. Re1
+Qxa2 20. b3 1-0
+

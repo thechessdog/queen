@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Roethel"]
+[Black "Micheel"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "30d497ee"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3
+Nd7 8. Qd2 b6 9. Bb5 O-O 10. O-O-O Bb7 11. Rhe1 Be7 12. Qf4 Nf6 13. Bd3 Nd5
+14. Qe5 Nb4 15. Kb1 Bd5 16. Nc3 Bxf3 17. gxf3 Nxd3 18. Rxd3 Bb4 19. Rg1 g6
+20. Ne2 Be7 21. f4 Bf6 22. Qh5 Bg7 23. Qg4 a5 24. h4 h5 25. Qh3 Qd6 26. Qf3
+a4 27. Qe4 Ra5 28. Rg5 Rfa8 29. c3 c6 30. Ng1 Bh6 31. Re5 Bg7 32. Rg5 Bf6
+33. Rxa5 Rxa5 34. Nf3 Rf5 35. Ne5 Bxh4 36. Rf3 Qd5 37. Qxd5 cxd5 38. Kc2
+Kg7 39. Kd2 Bf6 40. Nd7 Bd8 41. Ke2 Bc7 42. Ne5 Bxe5 43. dxe5 g5 44. Rg3
+Kg6 0-1
+

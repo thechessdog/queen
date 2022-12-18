@@ -1,0 +1,21 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gwaltney"]
+[Black "Myers"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "f7702050"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7
+8. Qc2 O-O 9. Nge2 Re8 10. O-O-O Qa5 11. Kb1 b5 12. Ng3 h6 13. Bxf6 Nxf6
+14. Nce2 Bd7 15. Nf5 Bf8 16. h4 Qb6 17. h5 a5 18. Rc1 a4 19. Nf4 b4 20. Qe2
+b3 21. a3 c5 22. dxc5 Bxc5 23. Qf3 Re5 24. g4 Bc6 25. Rhe1 Rae8 26. Ne2 d4
+27. Qh3 dxe3 28. f4 Rd5 29. Rc3 Rxd3 30. Rxd3 Be4 31. Nc1 Rd8 32. Rd1 Qb5
+33. Qf1 Nxg4 34. Ng3 Bxd3+ 35. Nxd3 Bb6 36. Nb4 Qxf1 37. Rxf1 Rd2 38. Ne4
+Rh2 39. Nd3 Nf2 40. Nexf2 exf2 41. Kc1 Rxh5 42. Kd2 Bd4 43. Ke2 Rh3 0-1
+

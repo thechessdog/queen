@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sorensen, Jens"]
+[Black "Hansen, Ole"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "e6c62a85"]
+[Epoch "Queen"]
+[WhiteID "1412817"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Qc7 6. c3 a6 7. Bxc6 bxc6 8. d4
+cxd4 9. cxd4 Nf6 10. Nc3 O-O 11. Bg5 d6 12. Rc1 Qb7 13. e5 dxe5 14. Nxe5 Bf5
+15. Na4 Rac8 16. Nc5 Qxb2 17. g4 Nxg4 18. Nxg4 Bxd4 19. Ne3 e5 20. Qb3 Rb8 21.
+Qxb2 Rxb2 22. Bf6 Rxa2 23. Nxf5 Bxf2+ 24. Kh1 gxf5 25. Rg1+ 1-0

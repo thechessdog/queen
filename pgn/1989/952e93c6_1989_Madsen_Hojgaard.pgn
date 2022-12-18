@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Madsen, Peter"]
+[Black "Hojgaard, Kristian"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "952e93c6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 6. Qe2 Nxe3 7. Qxe3 exf3
+8. Ngxf3 Be7 9. Bd3 Nc6 10. c3 O-O 11. O-O g6 12. Kh1 Bf6 13. Ne4 Bg7 14.
+Rad1 b6 15. Bc4 Ne7 16. Nfg5 Nd5 17. Qg3 Qe7 18. Nxh7 Rd8 19. Bxd5 exd5 20.
+Nef6+ Bxf6 21. Nxf6+ Kg7 22. Rde1 Be6 23. Qe5 Kf8 24. Nxd5 Qh4 25. Qxe6 f5
+26. Nf6 1-0
+

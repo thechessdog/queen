@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bittner"]
+[Black "Sarran"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "74da3dc5"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. d3 e5 7. f4 exf4 8.
+Bxf4 Ne6 9. Nh3 Nxf4 10. Nxf4 Be7 11. Nfd5 O-O 12. Qb3 Nc6 13. O-O Rb8 14.
+Nf4 Nd4 15. Qd1 Ne6 16. Qa4 a6 17. Ncd5 b5 18. Qe4 Re8 19. Nh5 Bg5 20. Qf5
+Rb7 21. h4 Nf4 22. Qxg5 Qxg5 23. hxg5 Nxh5 24. Kf2 Rb8 25. Rac1 c4 26. dxc4
+bxc4 27. Rxc4 Rxb2 28. Bf3 Be6 29. g4 Bxd5 30. Bxd5 Rbxe2+ 31. Kg1 Ng3 32.
+Rf3 1-0
+

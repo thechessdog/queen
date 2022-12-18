@@ -1,0 +1,22 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ott, Wolfgang"]
+[Black "Seppeur, Reinhold"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "ac735dd2"]
+[Epoch "Queen"]
+[WhiteID "4604148"]
+[BlackID "4605586"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Qc7 12. Nd5 Bxd5 13. exd5 Rfc8 14. Rc1
+Qd7 15. g4 b5 16. h4 Qb7 17. Bg2 Rc4 18. c3 b4 19. cxb4 Ne4 20. fxe4 Rxd4 21.
+Qe3 Rxb4 22. b3 a5 23. Bf1 a4 24. Bc4 axb3 25. axb3 Ra3 26. Rh3 Qa8 27. Rc3
+Ra1+ 28. Kc2 Qa2+ 0-1

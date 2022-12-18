@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Belenguer"]
+[Black "Serrano"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "10c9336c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Bb7 8.
+f3 O-O 9. Ne2 Nc6 10. e4 Ne8 11. O-O Na5 12. Ng3 cxd4 13. cxd4 Rc8 14. f4
+Nxc4 15. f5 f6 16. Rf4 b5 17. Bxc4 Rxc4 18. Rh4 Qb6 19. Be3 e5 20. Qh5 exd4
+21. Qxh7+ Kf7 22. Bf2 Qc6 23. Rf1 d3 24. Qh5+ Ke7 25. Qd1 Rc3 26. Nh5 Kd8
+27. Nf4 Nd6 28. Nxd3 Nxe4 29. Rg4 Nxf2 30. Nxf2 Re8 31. Rxg7 Ree3 32. Qd4
+Rg3 33. Rxd7+ Kc8 34. Rd8+ Kc7 35. Rd7+ Qxd7 36. Qf4+ Qd6 37. hxg3 Qxf4 38.
+gxf4 Rxa3 39. Rc1+ Kb6 40. g4 Rg3+ 41. Kf1 Bf3 42. Re1 Bxg4 43. Re6+ Ka5
+44. Rxf6 Rf3 45. Ke1 Rxf4 46. Nxg4 Rxg4 47. Kd2 b4 48. Rf7 a6 49. f6 Rf4
+50. Rf8 Ka4 51. f7 a5 52. Kc1 Rf2 53. Kd1 Kb3 54. Ra8 Rxf7 55. Rxa5 Kb2 56.
+Rb5 Rd7+ 0-1
+

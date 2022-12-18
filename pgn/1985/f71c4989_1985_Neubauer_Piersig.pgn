@@ -1,0 +1,19 @@
+[Event "corr WER/H"]
+[Site "corr WER/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Neubauer"]
+[Black "Piersig"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f71c4989"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. Be3 a6 12. b4 b5 13. Bb3 Be6 14. Nd5
+Bxd5 15. exd5 Nxb4 16. a3 Nd3 17. Rxd3 e4 18. Rc3 exf3 19. gxf3 Nh5 20. Rc6
+Bf6 21. Rac1 Qd7 22. Kg2 g6 23. a4 Rfe8 24. Qd3 Be5 25. Qd2 Qf5 26. Bc2 Qf6
+27. Rb1 Nf4+ 0-1
+

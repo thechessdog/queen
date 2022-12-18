@@ -1,0 +1,19 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1989.??.??"]
+[Round "7"]
+[White "Simeonov, Stefan"]
+[Black "Dimitrov, Vladimir"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "57466e5d"]
+[Epoch "Queen"]
+[WhiteID "2900513"]
+[BlackID "2900050"]
+[WhiteCountry "FID"]
+[BlackCountry "FID"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. bxa5
+dxc3 9. h4 h5 0-1

@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rewitz, Poul"]
+[Black "Jorgensen, Per"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "deeb7b19"]
+[Epoch "Queen"]
+[WhiteID "1401033"]
+[BlackID "1451227"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 d6 5. e3 Bg7 6. Ne2 f5 7. c3 Nd7 8. Ng3
+Nf6 9. Bb5+ Kf8 10. Bc4 Bd7 11. a4 a6 12. a5 Rg8 13. O-O Qc7 14. Nd2 e6 15. Nf3
+Bh6 16. Qb3 Ke7 17. Rfd1 Rg7 18. Ne5 exd5 19. Nxd7 dxc4 20. Nxf6 cxb3 21. Nd5+
+Kd7 22. Nxc7 Kxc7 23. Nxf5 Rg6 24. Ra3 Re8 25. Rxb3 Bf8 26. f3 Bh6 27. Kf2 Rge6
+28. c4 Rf6 29. Nxd6 1-0

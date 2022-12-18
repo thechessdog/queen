@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jacobe"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "fd3b561a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bd2 Bb7 7. e3 O-O 8. Rc1
+c5 9. a3 Bxc3 10. Bxc3 Ne4 11. dxc5 Nxc3 12. Rxc3 bxc5 13. Be2 Nc6 14. O-O Rb8
+15. Bd3 f5 16. Bb1 Qe7 17. e4 f4 18. e5 g5 19. h3 Qg7 20. Re1 h5 21. Qd6 g4 22.
+Nd2 Nd4 23. Qxc5 Nf3+ 24. Nxf3 gxf3 25. g3 fxg3 26. Kf1 Qg5 27. Qd4 Bc6 28. b4
+Rf4 29. Qd3 gxf2 30. Qh7+ Kf8 31. Kxf2 Qh4+ 32. Kf1 Qxh3+ 33. Kf2 Qh4+ 34. Kf1
+Qxe1+ 35. Kxe1 f2+ 0-1

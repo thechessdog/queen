@@ -1,0 +1,23 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Franzoni, Giancarlo"]
+[Black "Hofman, Ron"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "45a8b11a"]
+[Epoch "Queen"]
+[WhiteID "1300032"]
+[WhiteCountry "SUI"]
+[BlackID "1001353"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+a5 9. O-O Nb6 10. Nf3 Bd7 11. Nf4 a4 12. Nh5 h6 13. Bd2 Nc8 14. Rc1 Qb6 15. Bc3
+N8e7 16. Qd2 Nf5 17. Bb1 Qd8 18. g3 Qe7 19. Rfe1 Kd8 20. Qe2 g6 21. Nf6 Kc8 22.
+a3 Kb8 23. Bb4 Nxb4 24. axb4 Qd8 25. b5 Bb4 26. Red1 Ne7 27. Bd3 Nc8 28. Ne1
+Nb6 29. Nc2 Qe7 30. Nxb4 Qxb4 31. Qc2 Rd8 32. Qc5 Qa5 33. b4 axb3 34. Qd6+ Ka7
+35. Ra1 1-0

@@ -1,0 +1,19 @@
+[Event "Cannes op"]
+[Site "Cannes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kelecevic, Nedeljko"]
+[Black "Fayard, Alain"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, 4.Nc3"]
+[HashCode "ef3e6cf3"]
+[Epoch "Queen"]
+[WhiteID "14400537"]
+[WhiteCountry "SUI"]
+[BlackID "600857"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 e6 5. Qa4+ Nbd7 6. e4 a6 7. Bg5 Rb8 8.
+Qxc4 b5 9. Qd3 b4 10. Nb1 Be7 11. Nbd2 O-O 12. e5 Nd5 13. Bxe7 Qxe7 14. Qe4 f5
+15. exf6 N5xf6 16. Qh4 c5 17. Bd3 e5 18. Bxh7+ Kh8 19. Bc2+ 1-0

@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dokhoian, Yury"]
+[Black "Neverov, Valeriy"]
+[Result "1-0"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "b09bee7f"]
+[Epoch "Queen"]
+[WhiteID "4100476"]
+[BlackID "14100150"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 b6 7. Bd3 a6 8. d5 c5
+9. a4 e6 10. Nge2 exd5 11. cxd5 Nbd7 12. Ng3 h5 13. O-O Nh7 14. f4 h4 15. Nh1
+f5 16. Nf2 Re8 17. Bd2 Ndf6 18. Qc2 fxe4 19. Nfxe4 Ng4 20. Nf2 Nxf2 21. Rxf2
+Bf5 22. Bxf5 gxf5 23. Qxf5 Bd4 24. Ne4 Qe7 25. Re1 Qg7 26. Bc3 Re7 27. Bxd4
+cxd4 28. Rc1 d3 29. Nxd6 Qf6 30. Qxf6 Nxf6 31. Nf5 Re4 32. d6 Rae8 33. Rd1 Ng4
+34. Ne7+ Kf7 35. Rf3 1-0

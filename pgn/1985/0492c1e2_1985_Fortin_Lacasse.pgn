@@ -1,0 +1,20 @@
+[Event "corr ch-Quebec"]
+[Site "corr ch-Quebec"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fortin"]
+[Black "Lacasse"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "0492c1e2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. d4 Ne7 7. Bd3 cxd5
+8. O-O Nbc6 9. Ne2 Bg4 10. c3 Ng6 11. Qb3 Qd7 12. Qxd5 Be6 13. Qb5 a6 14.
+Qa4 O-O 15. Qc2 Rac8 16. a3 b5 17. Ne5 Bxe5 18. dxe5 Ncxe5 19. Bxg6 Nxg6
+20. Nxf4 Bc4 21. Rd1 Qa7+ 22. Kh1 Rce8 23. Nd3 Qe7 24. Bd2 Qe2 25. Nc1 Qg4
+26. Be1 f5 27. h3 Qh5 28. b3 Bd5 29. Rxd5 Rxe1+ 30. Kh2 Ne5 31. Rxe5 Rxe5
+32. Nd3 Re2 33. Qd1 f4 0-1
+

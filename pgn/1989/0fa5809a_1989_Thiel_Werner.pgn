@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thiel, Thomas"]
+[Black "Werner, Dimo"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "0fa5809a"]
+[Epoch "Queen"]
+[WhiteID "4615964"]
+[BlackID "4601696"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. a4 a5 13. Bf4 Nf6 14. d6
+exd6 15. Nb5 Nc8 16. Rc1 Ra6 17. O-O Nh5 18. Be3 d5 19. Nf4 Nxf4 20. Bxf4 Rc6
+21. Rc5 Ne7 22. Bc7 Qd7 23. Bxa5 Bxd4 24. Rxc6 Nxc6 25. Nxd4 Nxa5 26. Qd1 Re8
+27. b3 Nc6 28. Qd3 Qc7 29. h3 Qb6 30. Nb5 Qc5 31. Qd2 d4 32. b4 Qxb4 1/2-1/2

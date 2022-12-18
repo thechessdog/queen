@@ -1,0 +1,18 @@
+[Event "Bologna op"]
+[Site "Bologna op"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Leonardo"]
+[Black "Bassi, G."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "657be588"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. dxc5 Qxd1+ 6. Kxd1 e5 7. Be3
+Nd5 8. b4 a5 9. Bc4 Bg4+ 10. Ke1 Nxe3 11. fxe3 axb4 12. cxb4 Nc6 13. Bb5
+O-O-O 14. Bxc6 Rd1+ 15. Kf2 bxc6 16. e4 Be7 17. a3 Rhd8 18. h3 Be6 19. g4
+Bh4+ 20. Kf3 R8d3+ 21. Kg2 Re3 22. Nc3 Rxa1 23. Nge2 Rxa3 0-1
+

@@ -1,0 +1,19 @@
+[Event "Paris-ch"]
+[Site "Parijs"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Murey, Jacob"]
+[Black "Fedorowicz, John"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "136f6e48"]
+[Epoch "Queen"]
+[BlackID "2000083"]
+[BlackCountry "USA"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. f4 Bg7 8. Nf3
+Qa5 9. Kf2 O-O 10. h3 e6 11. e4 exd5 12. e5 Ne4+ 13. Nxe4 dxe4 14. Ng5 c4 15.
+Nxe4 d5 16. Nd6 f6 0-1

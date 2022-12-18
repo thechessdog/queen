@@ -1,0 +1,23 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wolitzer, D."]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "85ec0c6a"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8. Re1
+Nc5 9. Bxc6 dxc6 10. Nxd4 O-O 11. Nc3 Ne6 12. Nf5 Nc5 13. Qxd8 Bxd8 14. Nd4 Re8
+15. Bf4 Ne6 16. Nxe6 Bxe6 17. Rad1 Be7 18. a3 a5 19. Ne4 Rad8 20. Be3 b6 21.
+Bg5 Bxg5 22. Nxg5 Bf5 23. c3 h6 24. Nf3 c5 25. h3 Kf8 26. Rd2 Rxd2 27. Nxd2 Rd8
+28. Nc4 Be6 29. Re4 Rd1+ 30. Kh2 Rb1 31. Ne3 Rxb2 32. f4 g6 33. Kg3 Rb3 34. Kf2
+Rxa3 35. g4 Rxc3 36. f5 Bb3 37. e6 fxe6 38. fxe6 Ke7 39. Ke2 a4 40. Kd2 Rxe3
+41. Rxe3 c4 42. Kc3 c5 43. Kb2 b5 44. Re5 b4 45. Rxc5 c3+ 46. Kb1 Bxe6 47. Rb5
+a3 48. Rb7+ Kf6 49. h4 b3 50. g5+ hxg5 51. hxg5+ Ke5 52. Rb5+ Bd5 53. Ra5 a2+
+54. Kc1 b2+ 0-1

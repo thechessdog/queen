@@ -1,0 +1,23 @@
+[Event "Timisoara Wch jr"]
+[Site "Timisoara Wch jr"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sans"]
+[Black "Shayak"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "b55b3ab7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 Nbd7 6. a3 Bxc3+ 7. bxc3 b6
+8. cxd5 exd5 9. Bd3 O-O 10. O-O Bb7 11. c4 dxc4 12. Bxc4 c5 13. a4 cxd4 14.
+Ba3 dxe3 15. Bxf8 exf2+ 16. Rxf2 Qxf8 17. Rc1 Bxf3 18. Qxf3 Ne5 19. Qb7
+Nxc4 20. Rxc4 Qe8 21. Qc6 Qxc6 22. Rxc6 Ne4 23. Rf4 Nc5 24. Rc4 h6 25. Kf1
+Rd8 26. Rc7 a5 27. Rc6 Rd1+ 28. Ke2 Rb1 29. Ke3 Kf8 30. Rc7 Rb2 31. Kf3 Ra2
+32. h4 g6 33. g3 Ra3+ 34. Kg2 Ra2+ 35. Kh3 Nxa4 36. Rf4 Ke8 37. Rfxf7 Nc5
+38. Rh7 Ne6 39. Rh8+ Nf8 40. Rc8+ Kd7 41. Rcxf8 a4 42. Ra8 b5 43. Rxh6 b4
+44. Rxg6 Kc7 45. Ra7+ Kb8 46. Rf7 Rc2 47. Rg8+ Rc8 48. Rxc8+ Kxc8 49. Rf4
+b3 50. Rxa4 1-0
+

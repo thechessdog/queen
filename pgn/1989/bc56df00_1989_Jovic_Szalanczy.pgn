@@ -1,0 +1,27 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jovic, Ljubomir"]
+[Black "Szalanczy, Emil"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "bc56df00"]
+[Epoch "Queen"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nd5 e6 7. Ne3 Nge7 8. f4
+O-O 9. Nf3 Nd4 10. Nh4 e5 11. fxe5 dxe5 12. c3 Ndc6 13. O-O Be6 14. Nhf5 Qd7
+15. Nxg7 Kxg7 16. Qd2 f6 17. c4 Qd4 18. Kh1 Nb4 19. Nd5 Bxd5 20. Qh6+ Kh8 21.
+Be3 Qxd3 22. Bxc5 Ng8 23. Qh4 Bxc4 24. Bxb4 Rf7 25. Rfd1 Qe2 26. Rd2 Qe3 27. g4
+Be6 28. Rd6 Re8 29. h3 Rd7 30. Rad1 Rxd6 31. Rxd6 Qc1+ 32. Qe1 Qxb2 33. g5 Qxa2
+34. gxf6 Nxf6 35. Bc3 Nd7 36. Qg3 Kg8 37. Bxe5 Nxe5 38. Qxe5 Bf7 39. Qf4 Qa3
+40. Rd7 Rf8 41. Rxb7 Qa1+ 42. Kh2 Bd5 43. Qxf8+ Kxf8 44. exd5 a5 45. Rxh7 a4
+46. Ra7 Qe5+ 47. Kh1 Qa1+ 48. Kh2 a3 49. Ra8+ Ke7 50. Ra7+ Kf6 51. Ra6+ Kf5 52.
+d6 a2 53. Ra5+ Ke6 54. Bd5+ Kxd6 55. Rxa2 Qe5+ 56. Kg1 Qe1+ 57. Kh2 Kxd5 58.
+Rg2 Qe5+ 59. Kh1 Qe4 60. Kh2 Qf4+ 61. Kh1 Qf5 62. Rg4 Ke5 63. Kh2 Kf6 64. Kg3
+Qd3+ 65. Kh2 Kf5 66. Kg2 Qe3 67. Kh2 Qe2+ 68. Rg2 Qh5 69. Ra2 Qd1 70. Rf2+ Kg5
+71. Kg2 Qd5+ 72. Kg3 Qe5+ 73. Kg2 Kh4 0-1

@@ -1,0 +1,24 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stieg, H."]
+[Black "Pajukari, S."]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "6150f894"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 g6 6. Nc3 dxe5 7. fxe5 Bg7 8.
+Be3 Nc6 9. Be2 O-O 10. Qd2 a5 11. Rd1 a4 12. Nb5 Na5 13. Qb4 Bd7 14. Na3
+Bf5 15. Nf3 Nc6 16. Qd2 Bg4 17. O-O Qd7 18. Nc2 Rad8 19. c5 Nd5 20. Bb5
+Nxe3 21. Qxe3 Qd5 22. Bxa4 Bxf3 23. Bxc6 bxc6 24. Qxf3 Qxa2 25. Nb4 Qxb2
+26. Nxc6 Rde8 27. Rb1 Qd2 28. Qb3 e6 29. Rf2 Qg5 30. Qb7 Ra8 31. Re2 Ra3
+32. Rf1 Bh6 33. Qxc7 Qg4 34. Rb2 Be3+ 35. Kh1 Qf4 36. Rbb1 Rb3 37. Qe7 Rxb1
+38. Rxb1 Qe4 39. Qb7 Qh4 40. Qb3 Bxd4 41. Qb4 Bf2 42. Qxh4 Bxh4 43. g3 Bg5
+44. h4 Bd2 45. Ne7+ Kg7 46. c6 Ba5 47. Rb7 h5 48. c7 Bxc7 49. Rxc7 Kh6 50.
+Rc8 Rxc8 51. Nxc8 g5 52. Nd6 Kg6 53. Kg2 f6 54. exf6 Kxf6 55. Ne4+ Kg6 56.
+Nxg5 e5 57. Kf2 1-0
+

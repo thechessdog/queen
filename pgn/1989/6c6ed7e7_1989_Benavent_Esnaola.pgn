@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Benavent"]
+[Black "Esnaola"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "6c6ed7e7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d6 7. Qb3 Na5
+8. Bxf7+ Ke7 9. Qd5 c6 10. Qg5+ Nf6 11. e5 Kxf7 12. exf6 gxf6 13. Qh5+ Kg8
+14. Nbd2 Qe7+ 15. Kd1 d5 16. Re1 Qf7 17. Qh4 Nc4 18. Bxf6 Bf5 19. Rc1 b5
+20. Rxc4 dxc4 21. Ne5 Qd5 22. Qg3+ Bg6 23. Nxg6 Qh5+ 24. f3 Qxg6 25. Qe5
+Bg7 26. Bxg7 Qxg7 27. Qe6+ Qf7 28. Qd6 h5 29. Re6 Qf5 30. Rf6 1-0
+

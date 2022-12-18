@@ -1,0 +1,28 @@
+[Event "Lyngby open"]
+[Site "Lyngby open"]
+[Date "1988.10.01"]
+[Round "5"]
+[White "Thuesen, Mogens"]
+[Black "Krudde, Fitzgerald"]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "1ec0cbbe"]
+[Epoch "Queen"]
+[WhiteID "1400878"]
+[WhiteCountry "DEN"]
+[BlackID "1001175"]
+[BlackCountry "NED"]
+
+1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. d4 c6 7. Qc2 Nbd7 8. b3
+b5 9. Nc3 Ba6 10. c5 b4 11. Nd1 Ne4 12. Re1 e5 13. Nxe5 Nxe5 14. Bxe4 dxe4 15.
+dxe5 Qd5 16. Bf4 g5 17. Bc1 Qxe5 18. Bb2 Qe6 19. Ne3 f5 20. Rad1 f4 21. Ng2 Qf5
+22. g4 Qe6 23. Rd4 e3 24. f3 Rad8 25. Re4 Rd2 26. Qxd2 exd2 27. Rxe6 dxe1=Q+
+28. Nxe1 Bxc5+ 29. Kf1 Kf7 30. Rxc6 Bb6 31. Rf6+ Ke7 32. Rxf8 Kxf8 33. Nd3 Bb7
+34. Nxb4 a5 35. Nc2 Bd5 36. Bd4 Bd8 37. Bc5+ Kf7 38. Nd4 Bf6 39. Nf5 a4 40.
+Nd6+ Ke6 41. Nc4 Bc3 42. Kf2 axb3 43. axb3 Bc6 44. Bb6 Bd5 45. Bd8 Bd4+ 46. Ke1
+h6 47. Kd2 Bg1 48. h3 Bd4 49. Kd3 Bf2 50. Ba5 Bb7 51. Bc3 Bc5 52. b4 Bf8 53. b5
+Kd5 54. Nb6+ Ke6 55. Kc4 Kf7 56. Bb4 Bg7 57. Na4 Be5 58. Nc5 Ba8 59. Nd7 Bc7
+60. b6 Bd8 61. Kb5 Bd5 62. Ne5+ Ke8 63. Nc6 Bb3 64. Nxd8 Kxd8 65. Kc6 Ba4+ 66.
+Kb7 1-0

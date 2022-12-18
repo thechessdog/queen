@@ -1,0 +1,33 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Hoi, Carsten"]
+[Black "Hvenekilde, Jorgen"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "8042ad81"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "1400649"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. h3 c5 7. d5 e6 8. Bd3 exd5
+9. exd5 Re8+ 10. Be3 a6 11. a4 b6 12. O-O Ra7 13. Qd2 Rae7 14. Bf4 Qc7 15. Rfe1
+Nh5 16. Rxe7 Rxe7 17. Bh2 f5 18. Re1 Bf6 19. Kf1 Rxe1+ 20. Qxe1 Qe7 21. Qxe7
+Bxe7 22. Nd2 Kf7 23. a5 bxa5 24. Nb3 Nd7 25. Nxa5 Ne5 26. Be2 Ng7 27. Na4 Nd7
+28. Ke1 Ne8 29. Kd2 Bd8 30. Nc6 Bc7 31. Kc3 Bb7 32. Bf3 Nef6 33. b3 g5 34. Bxd6
+Bxd6 35. Nd8+ Ke7 36. Nxb7 g4 37. hxg4 fxg4 38. Be2 Ne4+ 39. Kd3 Nxf2+ 40. Ke3
+g3 41. b4 cxb4 42. c5 Bb8 43. d6+ Kf6 44. c6 Ba7+ 45. Kf4 Nf8 46. d7 Ne6+ 47.
+Kxg3 Ne4+ 48. Kf3 N4g5+ 49. Kg4 Bb8 50. d8=Q+ Nxd8 51. Nxd8 Bc7 52. Nb7 Nf7 53.
+Bxa6 Ne5+ 54. Kh5 Nxc6 55. Bd3 Kg7 56. Nac5 Nd4 57. Na6 Be5 58. Nxb4 Ne6 59.
+Be4 Nf8 60. Nc6 Bc3 61. Nd6 Bd2 62. Ne5 Kf6 63. Ng4+ Kg7 64. Nf5+ Kh8 65. Ne5
+Ne6 66. Kg4 Nf8 67. Nd6 Bc3 68. Kf5 Bb2 69. Ne8 Bc3 70. Nf6 Bb2 71. Bd5 Bc3 72.
+Nf7+ Kg7 73. Ne8+ Kg8 74. Ng5+ Kh8 75. Ne6 Nxe6 76. Kxe6 Kg8 77. Ke7+ Kh8 78.
+Kf7 h5 79. Kg6 h4 80. Be6 Be5 81. Nf6 Bc3 82. Ne4 Bb4 83. Ng5 Be7 84. Nf3 Bd8
+85. Kh5 Kg7 86. Nxh4 Kf6 87. Bb3 Bb6 88. g4 Be3 89. Nf3 Bc1 90. g5+ Kg7 91. Nd4
+Bb2 92. Nf5+ Kh7 93. g6+ Kh8 94. Kg4 Bc3 95. Kf3 Bb2 96. Ke4 Bc3 97. Be6 Bb2
+98. Kd5 Be5 99. Kc6 Bc3 100. Kd7 Bb2 101. Ke8 Bc3 102. Kf7 Bg7 103. Bd5 1-0

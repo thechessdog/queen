@@ -1,0 +1,19 @@
+[Event "Lenk"]
+[Site "Lenk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Nemet, Ivan"]
+[Result "1-0"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Browne variation"]
+[HashCode "37d3941e"]
+[Epoch "Queen"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Be2 g5 12. fxg5 Ne5 13. Qg3 Rg8 14. Nf3 hxg5
+15. Nxg5 Bd7 16. Rhf1 O-O-O 17. Qe1 Rdf8 18. Nh7 Nxh7 19. Bxe7 Rxg2 20. Bxd6
+Qa5 21. Nd5 Qxa2 22. Qc3+ Nc6 23. Nb6+ Kd8 24. Bxf8 Nxf8 25. Rxf7 Ke8 26. Rxf8+
+Kxf8 27. Qh8+ 1-0

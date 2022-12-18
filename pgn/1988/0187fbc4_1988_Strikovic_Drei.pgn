@@ -1,0 +1,20 @@
+[Event "Forli open"]
+[Site "Forli open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Strikovic, Aleksa"]
+[Black "Drei, Andrea"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0187fbc4"]
+[Epoch "Queen"]
+[WhiteID "900150"]
+[WhiteCountry "SRB"]
+[BlackID "800805"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. Na3 Be6 10. Nb5 Qd7 11. Bxe6 Qxe6+ 12. Be3 Rc8 13. Nfxd4 Nxd4 14. Qxd4
+a6 15. Na7 1-0

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Laufer"]
+[Black "Philip"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "099578d6"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Re1 f6 12. Bh4 Qb6 13. Bxc6 bxc6
+14. c4 Bg4 15. Rc1 Nf5 16. c5 Bxc5 17. Nxc5 Nxh4 18. Qd4 Nxf3+ 19. gxf3 Bf5
+20. Qf4 g6 21. Re7 Rf7 22. Na4 Qb8 23. Qxb8+ Rxb8 24. Rxf7 Kxf7 25. Rxc6
+Rc8 26. Rxc8 Bxc8 27. Nc3 Ke6 28. b4 Ba6 29. a4 d4 30. Ne4 Be2 31. b5 f5
+32. Nd2 Kd5 33. f4 Kc5 34. Nb3+ Kc4 35. Na5+ Kc3 36. f3 d3 37. Kf2 d2 0-1
+

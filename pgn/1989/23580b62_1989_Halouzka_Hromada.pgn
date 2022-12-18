@@ -1,0 +1,23 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Halouzka"]
+[Black "Hromada"]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch with e3"]
+[HashCode "23580b62"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bc4 cxd4
+8. exd4 Be7 9. O-O O-O 10. Re1 Ncb4 11. Ne4 Nf6 12. a3 Nbd5 13. Qd3 b6 14.
+b4 Bb7 15. Neg5 Rc8 16. Bd2 h6 17. Nh3 Bd6 18. Ne5 Rc7 19. Bb3 Re8 20. Ba4
+Ree7 21. g4 Qc8 22. g5 hxg5 23. Nxg5 Nc3 24. Bd7 Rexd7 25. Nxd7 Qxd7 26.
+Bxc3 Qc6 27. d5 Qxc3 28. Qxc3 Rxc3 29. dxe6 fxe6 30. Rxe6 Bf8 31. h3 Nh7
+32. Nxh7 Rxh3 33. f3 Kxh7 34. Re3 Rh5 35. Kg2 a5 36. Rb1 Rg5+ 37. Kf2 Rb5
+38. Reb3 Bd5 39. R3b2 Be7 40. Rd2 axb4 41. axb4 Be6 42. Re2 Bh4+ 43. Ke3
+Bg5+ 44. Kf2 Bf5 45. Rb3 Bf4 46. Re1 Kg6 47. Rh1 Kf6 48. Rh8 Bd6 49. Rh4
+Kg5 50. Rd4 Be5 51. Rd8 Kf4 0-1
+

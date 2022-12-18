@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kichev, V."]
+[Black "Pietila, H."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "d64b5aad"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Ne2 e6 5. Ng3 Bg6 6. h4 h5 7. Be2 c5 8. c3
+Nc6 9. Qb3 Qc7 10. Bf4 cxd4 11. cxd4 Bb4+ 12. Nc3 Nge7 13. a3 Ba5 14. O-O
+a6 15. Rac1 O-O 16. Bxh5 Bxh5 17. Nxh5 Nf5 18. Ne2 Nxh4 19. Bg5 Ng6 20. Qe3
+Rfc8 21. Bf6 Qd7 22. Bxg7 Bd8 23. Qh6 Qe8 24. Rc3 Nxd4 25. Nxd4 Rxc3 26.
+bxc3 Be7 27. Nf6+ Bxf6 28. exf6 Rc8 29. Re1 Rxc3 30. Nf5 1-0
+

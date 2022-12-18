@@ -1,0 +1,18 @@
+[Event "Ufr"]
+[Site "Ufr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Widera, H."]
+[Black "Muller, Sebastian"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "1316cc75"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Nc3 d5 8.
+Ne5 c6 9. Be3 Nbd7 10. Nxd7 Qxd7 11. cxd5 cxd5 12. h3 Rac8 13. Rc1 Rfd8 14.
+a3 Ne8 15. Bf4 Nd6 16. Bxd6 Bxd6 17. e4 dxe4 18. Nxe4 Rxc1 19. Qxc1 Be7 20.
+Qc2 h6 21. Rd1 Rc8 1/2-1/2
+

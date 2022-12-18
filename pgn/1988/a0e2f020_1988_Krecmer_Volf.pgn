@@ -1,0 +1,23 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Krecmer"]
+[Black "Volf"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "a0e2f020"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. c3 Nbd7 7. Bc4 h6 8.
+Bh4 c6 9. Bb3 Qc7 10. O-O e5 11. Re1 g5 12. Bg3 Nh5 13. Nxe5 Nxe5 14. dxe5
+Nxg3 15. exd6 Qxd6 16. hxg3 Rd8 17. Qh5 Be6 18. Rad1 a5 19. Nf3 Qe7 20. Nd4
+Bxb3 21. axb3 Bxd4 22. cxd4 Kg7 23. Qf3 a4 24. Qc3 axb3 25. Qxb3 Rd7 26.
+Re3 Rad8 27. Qb6 Qd6 28. b4 c5 29. Qxd6 Rxd6 30. d5 c4 31. b5 Rb6 32. Rc3
+Rxb5 33. Rxc4 Rd7 34. Rcd4 Rb3 35. Kf1 Kf6 36. Ke2 Ke5 37. R1d3 Rb1 38. f3
+f5 39. exf5 Kxf5 40. g4+ Kf6 41. Rd2 Rd6 42. g3 Rh1 43. Ke3 h5 44. gxh5
+Rxh5 45. g4 Rh1 46. Re4 Rb1 47. Kd4 b6 48. Re8 Rb4+ 49. Ke3 Rb3+ 50. Ke4
+Rb4+ 51. Rd4 Rb1 52. Rf8+ Ke7 53. Rb8 Re1+ 54. Kf5 Re3 55. Re4+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "Belgium"]
+[Site "Belgium"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Wit, Johannes"]
+[Black "Winants, Luc"]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "bf48e79c"]
+[Epoch "Queen"]
+[BlackID "200018"]
+[BlackCountry "BEL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Qxd4 Qc7 12. Be2 b5 13. e5 dxe5 14. Qxe5
+Qb8 15. Bf3 Bb7 16. Nxb5 O-O 17. Nc7 Bxf3 18. gxf3 Ra7 19. Nxe6 1-0

@@ -1,0 +1,28 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1985.07.01"]
+[Round "3"]
+[White "Piket, Jeroen"]
+[Black "Pliester, Leon"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "70f90d6b"]
+[Epoch "Queen"]
+[WhiteID "1000055"]
+[WhiteCountry "NED"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nc6 6. Nf3 Bg4 7. O-O e6 8. Be3
+Bb4 9. Be2 Ba5 10. Qb3 Bb6 11. Nc3 O-O 12. Rfd1 Nce7 13. h3 Bh5 14. Bg5 f6 15.
+exf6 gxf6 16. Bh6 Rf7 17. Nxd5 Nxd5 18. Ne5 fxe5 19. Bxh5 Qh4 20. Bxf7+ Kxf7
+21. Qf3+ Ke7 22. Be3 Rf8 23. Qg4 Qxg4 24. hxg4 Nxe3 25. fxe3 exd4 26. exd4 Rf4
+27. g3 Bxd4+ 28. Kh1 Rxg4 29. Rac1 Be5 30. Rd3 Bxg3 31. Rxg3 Rxg3 32. Rxc7+ Kf6
+33. Rxb7 Rg7 34. Rb8 e5 35. b4 e4 36. Re8 Re7 37. Rf8+ Ke5 38. Kg2 Rc7 39. Kf2
+Rc2+ 40. Ke3 Rc3+ 41. Ke2 Rc2+ 42. Ke3 Rc3+ 43. Ke2 h5 44. Rh8 Kd4 45. Rd8+ Kc4
+46. Re8 Kxb4 47. Rxe4+ Rc4 48. Re7 a5 49. Rb7+ Ka4 50. Rb3 Rc2+ 51. Kd1 Rh2 52.
+Kc1 h4 53. Kb1 Rg2 54. Rc3 Kb4 55. Rb3+ Kc4 56. Ra3 Rg5 57. Kc2 Rh5 58. Rh3 Rh8
+59. Kc1 Rh7 60. Kc2 Kd4 61. Kd2 Ke4 62. Ke2 a4 63. Ke1 Kf4 64. Kf2 Kg4 65. Rc3
+Rf7+ 66. Kg2 Rf4 67. Rc5 Rd4 68. a3 h3+ 69. Kh2 Rd2+ 70. Kg1 Rd3 71. Kh2 Rxa3
+72. Rc4+ Kf5 73. Rd4 Ke5 74. Rd8 Rc3 75. Ra8 a3 76. Rd8 Ke4 0-1

@@ -1,0 +1,21 @@
+[Event "corr NBC Volmac"]
+[Site "corr NBC Volmac"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Berta, Matyas"]
+[Black "Bergraser, Volf"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "46459fa5"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 e6 6. Nf3 Be7 7. c5 O-O 8. b4
+Ne4 9. Qc2 Nc6 10. b5 Nxd4 11. Nxd4 Bxc5 12. Nxe4 Bxd4 13. Nc3 Bd7 14. Qd2 Bb6
+15. Ba3 Qf6 16. Bb4 Rfc8 17. Rc1 a5 18. bxa6 bxa6 19. Nd1 Qe5+ 20. Be2 Rxc1 21.
+Qxc1 Qe4 22. Qa3 Bb5 23. Nc3 Qxg2 24. Rf1 Bxe2 25. Nxe2 Qxh2 26. Qg3 Qxg3 27.
+Nxg3 Rc8 28. Kd2 Rc4 29. a3 f6 30. f3 Bc7 31. Ne2 g5 32. Rh1 Kg7 33. Kd3 Be5
+34. Rc1 a5 35. Bxa5 Rxc1 36. Nxc1 Bb2 37. Ne2 Bxa3 38. Ng3 Bc5 39. Bd2 Kg6 40.
+Bc3 h5 41. Be1 g4 42. fxg4 hxg4 43. Bd2 e5 44. Be1 f5 0-1

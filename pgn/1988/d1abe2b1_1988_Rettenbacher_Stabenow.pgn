@@ -1,0 +1,15 @@
+[Event "corr SOK/87"]
+[Site "corr SOK/87"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rettenbacher"]
+[Black "Stabenow"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "d1abe2b1"]
+[Epoch "Queen"]
+
+1. b4 e6 2. Bb2 Nf6 3. b5 a6 4. c4 d5 5. e3 dxc4 6. Bxc4 axb5 7. Bxb5+ Bd7
+8. a4 Bxb5 9. axb5 Rxa1 10. Bxa1 Qd5 11. Qa4 Nfd7 12. Nf3 Nb6 0-1
+

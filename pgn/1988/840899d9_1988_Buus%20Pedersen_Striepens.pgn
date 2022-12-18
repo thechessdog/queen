@@ -1,0 +1,15 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Buus Pedersen, H."]
+[Black "Striepens, B."]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "840899d9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 Qxb6 6. Nc3 d6 7. e4 g6 8. Nf3
+Nbd7 9. Be2 Bg7 10. O-O O-O 11. Nd2 Qc7 12. h3 Nb6 13. f4 Bb7 0-1
+

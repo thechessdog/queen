@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pedersen, Karl"]
+[Black "Olesen, Martin"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e4e49338"]
+[Epoch "Queen"]
+[WhiteID "1400525"]
+[BlackID "1400860"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. Nf3 Nd7 7. a3 dxc4 8. Bxc4
+Nb6 9. Bd3 h6 10. Ne4 Ned5 11. Qe2 Be7 12. O-O O-O 13. Re1 Nd7 14. Bd2 c5 15.
+dxc5 Bxc5 16. Rad1 Be7 17. Nf6+ N7xf6 18. Bxf5 exf5 19. exf6 Bxf6 20. Bb4 Nf4
+21. Qc4 1-0

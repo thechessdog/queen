@@ -1,0 +1,25 @@
+[Event "Capablanca mem-B"]
+[Site "Capablanca mem-B"]
+[Date "1985.01.01"]
+[Round "12"]
+[White "Tatai, Stefano"]
+[Black "Hernandez, Roman"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "4e1efcaf"]
+[Epoch "Queen"]
+[WhiteCountry "ITA"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 exd5 8. a3
+cxd4 9. axb4 dxc3 10. Nxc3 Bg4 11. f3 Bh5 12. O-O Nc6 13. b5 Nb4 14. Bb1 a5 15.
+bxa6 bxa6 16. Ne2 Bg6 17. Bd2 Qe7 18. Nd4 Nd3 19. Bxd3 Bxd3 20. Re1 Rfe8 21.
+Bc3 Bg6 22. Qd2 h5 23. Qf2 Nd7 24. Nc6 Qd6 25. Na5 Nc5 26. Qh4 Rac8 27. Qd4 Ne6
+28. Qd2 h4 29. Rad1 Red8 30. Nb7 Qe7 31. Nxd8 Rxd8 32. Ba5 Rd7 33. Qb4 Qg5 34.
+Qg4 Qxg4 35. fxg4 h3 36. gxh3 Be4 37. Kf2 Nc5 38. Kg3 Nb3 39. Bc3 Rc7 40. Rf1
+a5 41. Rf4 a4 42. Be5 Rc6 43. h4 Nc5 44. Rd2 Nd3 45. Rxd3 Bxd3 46. Rxa4 Rc2 47.
+Rf4 Be4 48. Rf2 Rc1 49. h5 Rg1+ 50. Kh4 Rb1 51. Bd4 Bd3 52. Kg3 Be4 53. Kf4 f6
+54. Kg3 Kh7 55. Kh4 Kh6 56. Bc5 Rg1 57. Bf8 Kh7 58. Bd6 Kg8 59. b4 Kf7 60. Bc5
+Rb1 61. Ra2 Rb3 62. Ra7+ Kg8 63. h6 gxh6 64. Kh5 Rb2 65. Bd6 Rg2 66. Kxh6 1-0

@@ -1,0 +1,23 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "Douven, Rudy"]
+[Result "0-1"]
+[ECO "E78"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, with Be2 and Nf3"]
+[HashCode "22baef6d"]
+[Epoch "Queen"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000195"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. Be2 cxd4 8. Nxd4
+Nc6 9. Nc2 Nd7 10. O-O Nc5 11. Bf3 a5 12. Ne3 a4 13. Rb1 Nd4 14. Ne2 Nxf3+ 15.
+gxf3 Bd7 16. Bd2 b5 17. Bc3 Bxc3 18. Nxc3 bxc4 19. Nxc4 Bc8 20. b4 axb3 21.
+axb3 Ba6 22. Nd5 Bxc4 23. bxc4 e6 24. Ne3 Ra3 25. Qc1 Rd3 26. Rb5 Qf6 27. Nc2
+Qc3 28. Nb4 Qd4+ 29. Kh1 Rc3 30. Qb1 Rc8 31. Rb6 Nb3 32. Nc6 Qxb6 33. Ne7+ Kf8
+34. Nxc8 Qc5 35. Qe1 Rc1 0-1

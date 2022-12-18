@@ -1,0 +1,19 @@
+[Event "candidates"]
+[Site "candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Harriman"]
+[Black "Rowley"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "461d1b88"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. Ne4 Be7 14.
+Be3 Nf5 15. Qc2 O-O 16. Rad1 Nxe3 17. fxe3 Qc8 18. h3 Rd8 19. Nh2 Rxd1 20.
+Qxd1 Rb8 21. Qf3 Nd8 22. Qg3 Kf8 23. Nf3 Rb6 24. Nd4 Rg6 25. Qf3 Qd7 26. e6
+Qd5 27. exf7 Nxf7 28. Nf6 Qxf3 29. Ne6# 1-0
+

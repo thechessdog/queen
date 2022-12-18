@@ -1,0 +1,17 @@
+[Event "Pancevo"]
+[Site "Pancevo"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Peev, Peicho Chonev"]
+[Black "Radlovacki, Jovan"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "1fb5bac8"]
+[Epoch "Queen"]
+[BlackID "907430"]
+[BlackCountry "SRB"]
+[WhiteCountry "BGR"]
+
+1. d4 f5 2. Bg5 g6 3. Nc3 Nh6 4. h4 Nf7 5. Nf3 d5 6. Bf4 Bg7 7. e3 c6 8. Qd2
+Nd7 9. O-O-O Qa5 10. Kb1 e5 11. dxe5 Ndxe5 12. Nxe5 Nxe5 13. h5 Nf7 14. Nb5 1-0

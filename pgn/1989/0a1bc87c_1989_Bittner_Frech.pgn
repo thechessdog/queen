@@ -1,0 +1,21 @@
+[Event "Kehl HT1"]
+[Site "Kehl HT1"]
+[Date "1989.01.01"]
+[Round "11"]
+[White "Bittner, Thomas"]
+[Black "Frech, Sven"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "0a1bc87c"]
+[Epoch "Queen"]
+[WhiteID "4640942"]
+[WhiteCountry "GER"]
+[BlackID "1321382"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Rb8 8. Nge2
+e5 9. O-O Be6 10. f4 Nge7 11. fxe5 Nxe5 12. Bh6 O-O 13. Bxg7 Kxg7 14. Nf4 Qd7
+15. Rad1 N7c6 16. Nce2 b6 17. b3 Rbd8 18. c3 Bg4 19. d4 cxd4 20. cxd4 Bxe2 21.
+Qxe2 Ng4 22. e5 h5 23. e6 fxe6 24. Nxe6+ Kg8 25. Nxf8 Rxf8 26. Qc4+ 1-0

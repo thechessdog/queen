@@ -1,0 +1,19 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "4fc363cc"]
+[Epoch "Queen"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackID "1700014"]
+[BlackCountry "SWE"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 g6 4. g3 b6 5. Bg2 Bb7 6. b3 Bg7 7. Bb2 O-O 8. O-O
+d5 9. Nxd5 Nxd5 10. Bxg7 Kxg7 11. cxd5 Qxd5 12. d4 Na6 13. dxc5 Nxc5 14. Qxd5
+Bxd5 15. Nd4 Bxg2 16. Kxg2 1/2-1/2

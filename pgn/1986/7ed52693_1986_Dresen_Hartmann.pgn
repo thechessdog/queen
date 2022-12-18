@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dresen, Ulrich"]
+[Black "Hartmann, Wolfram"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[HashCode "7ed52693"]
+[Epoch "Queen"]
+[WhiteID "4603664"]
+[WhiteCountry "GER"]
+[BlackID "4604008"]
+[BlackCountry "GER"]
+
+1. g3 c5 2. Bg2 g6 3. c4 Bg7 4. Nc3 Nc6 5. Nf3 e5 6. d3 Nge7 7. O-O d6 8. a3 a5
+9. Bd2 O-O 10. Rb1 Rb8 11. Ne1 Be6 12. Nc2 d5 13. cxd5 Nxd5 14. Ne3 Nxe3 15.
+Bxe3 c4 1/2-1/2

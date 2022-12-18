@@ -1,0 +1,19 @@
+[Event "Lyngby open"]
+[Site "Lyngby open"]
+[Date "1988.10.01"]
+[Round "5"]
+[White "Luik, Helmuth"]
+[Black "Sydor, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "ef02362c"]
+[Epoch "Queen"]
+[WhiteID "4500121"]
+[WhiteCountry "EST"]
+[BlackID "1100475"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8. Qe2
+dxc4 9. Bxc4 Bd6 10. e4 e5 11. dxe5 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Wolf"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "8195ff61"]
+[Epoch "Queen"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 g4 6. Bxf4 gxf3 7. Qxf3 Nc6 8.
+O-O Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Kg7 11. Be5+ 1-0

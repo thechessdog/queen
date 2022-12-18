@@ -1,0 +1,18 @@
+[Event "Santa Monica"]
+[Site "Santa Monica"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Wickersham"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "42c02f85"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 d6 5. Nf3 Nc6 6. Bc4 Nf6 7. e5 dxe5
+8. Qxd8+ Nxd8 9. Nb5 Nc6 10. Nc7+ Kd8 11. Nxa8 e6 12. O-O Bd6 13. Rd1 Ke7
+14. Ng5 Nd4 15. Be3 h6 16. Nf3 Nc2 17. Bxa7 Nxa1 18. Rxa1 Bd7 19. Nb6 Bc6
+20. Bb3 Bc5 21. Nc8+ 1-0
+

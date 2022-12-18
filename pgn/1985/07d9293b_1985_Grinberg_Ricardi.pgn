@@ -1,0 +1,24 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Grinberg, Ricardo"]
+[Black "Ricardi, Pablo"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "07d9293b"]
+[Epoch "Queen"]
+[BlackID "100242"]
+[BlackCountry "ARG"]
+[WhiteID "100544"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. a4
+Be7 9. Bc4 O-O 10. Qe2 b6 11. O-O Bb7 12. fxe5 Nxe5 13. Nxe5 dxe5 14. Bg5 Nd7
+15. Bxe7 Qxe7 16. Bd5 Nc5 17. Rf5 Kh8 18. Bxb7 Nxb7 19. Nd5 Qd6 20. b4 Nd8 21.
+Qe3 Rb8 22. a5 bxa5 23. Rxa5 Ne6 24. Rf1 Nf4 25. c3 Nxd5 26. Rxd5 Qe6 27. Rfd1
+f6 28. Qd3 Qg4 29. h3 Qg6 30. Rd6 Ra8 31. Ra1 Qg5 32. b5 a5 33. b6 h5 34. c4 f5
+35. exf5 Rxf5 36. c5 e4 37. Qxe4 Raf8 38. Rad1 Rxc5 39. R6d5 Rxd5 40. Rxd5 Qc1+
+41. Kh2 Qh6 42. b7 h4 43. Qe5 1-0

@@ -1,0 +1,20 @@
+[Event "BL2-W8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Odendahl, Reiner"]
+[Black "Hess, Ralf E."]
+[Result "1/2-1/2"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "dcacb9aa"]
+[Epoch "Queen"]
+[BlackID "4601890"]
+[BlackCountry "GER"]
+[WhiteID "4613570"]
+[WhiteCountry "GER"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. d3 e5 5. Bg2 Bb4+ 6. Bd2 a5 7. Na3 Nf6 8. Nc2
+Qd6 9. O-O O-O 10. a3 Bxd2 11. Qxd2 a4 12. e3 Bg4 13. exd4 Bxf3 14. Bxf3 Nxd4
+15. Nxd4 Qxd4 16. Rfe1 Rfd8 17. Rad1 Ra6 18. Qc3 1/2-1/2

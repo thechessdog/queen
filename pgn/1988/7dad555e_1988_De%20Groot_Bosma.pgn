@@ -1,0 +1,14 @@
+[Event "ACCOM III"]
+[Site "ACCOM III"]
+[Date "1988.01.01"]
+[Round "5"]
+[White "De Groot, N."]
+[Black "Bosma, B."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "7dad555e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Qf6+ 7. Kg1 Ne7
+8. dxe5 Qb6+ 0-1

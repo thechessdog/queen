@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Dongen, Patrick"]
+[Black "Miralles, Gilles"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ff3c3885"]
+[Epoch "Queen"]
+[WhiteID "602418"]
+[WhiteCountry "FRA"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 d6 7. a3 Bd7 8. Bd3
+Bc6 9. O-O Nd7 10. Re1 Be7 11. Nbd2 dxe5 12. dxe5 Nc5 13. Ne4 Nc3 14. Nxc3 Nxd3
+15. Rf1 Nxc1 16. Rxc1 Qb6 17. b4 Rd8 18. Qe2 a6 19. Nd2 O-O 20. Nc4 Qa7 21. Na5
+Be8 22. Rfd1 Rxd1+ 23. Rxd1 b6 24. Nc4 Qc7 25. Qd3 f6 26. exf6 Bxf6 27. Ne4 Bb5
+28. Nxf6+ gxf6 0-1

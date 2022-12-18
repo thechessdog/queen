@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Drobusch"]
+[Black "Leisebein"]
+[Result "0-1"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "d999b5d2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5
+8. Bxc7 Bf5 9. Qb3 Qxb3 10. axb3 Nc6 11. Ba5 Nxa5 12. Rxa5 Rfc8 13. Bc4 a6
+14. Kd2 b5 15. Bd3 Bxd3 16. Kxd3 Rc1 17. Ke2 Rac8 18. g3 R8c2+ 19. Kf3 Rf1
+20. Rxa6 Rcxf2+ 21. Ke4 Rxb2 22. Ra8+ Bf8 23. Rb8 Rxb3 0-1
+

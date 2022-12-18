@@ -1,0 +1,17 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Schulz, M."]
+[Black "Comp Leonardo1"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "96b66126"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. bxa6 O-O 8.
+Bd3 Bxa6 9. Bxa6 Nxa6 10. Nge2 Qa5 11. O-O Nc7 12. e4 e6 13. Bd2 Qb4 14.
+Qb3 Rfb8 15. f3 Qxb3 16. axb3 Rxa1 17. Rxa1 Rxb3 18. Bc1 Nfe8 19. Ra2 Nb5
+20. Ra8 1-0
+

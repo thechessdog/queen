@@ -1,0 +1,18 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Scharfschwerdt"]
+[Black "Heck"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "19c37753"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bb4 5. Ng5 d5 6. exd5 Nxd5 7. Nxf7
+Kxf7 8. Nxd5 Be6 9. Qh5+ g6 10. Qf3+ Kg7 11. Nxb4 Bxc4 12. Nxc6 bxc6 13.
+Qxc6 Bd5 14. Qc5 Bxg2 15. Rg1 Bd5 16. d3 Qd6 17. Qe3 Rhf8 18. Qh6+ Kg8 19.
+b3 Qf6 20. Be3 e4 1-0
+

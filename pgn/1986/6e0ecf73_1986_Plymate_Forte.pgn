@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Plymate 5 5"]
+[Black "Forte A"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Classical variation"]
+[HashCode "6e0ecf73"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nc3 Nf6 4. Nf3 d6 5. d4 exd4 6. Nxd4 O-O 7. O-O Nbd7
+8. Bg5 Ne5 9. Bb3 h6 10. Bxf6 Qxf6 11. Nd5 Qd8 12. c4 Re8 13. Nf5 Bxf5 14.
+exf5 c6 15. Nc3 Qh4 16. Qc1 Nxc4 17. Bxc4 Qxc4 18. Qc2 d5 19. b3 Qb4 20. a3
+Qh4 21. Nxd5 Bxf2+ 22. Rxf2 cxd5 23. f6 Rac8 24. Qd2 Re5 25. fxg7 Rc7 26.
+Qb4 Qxb4 27. axb4 a6 28. Rf6 Kxg7 29. Rd6 Rc2 30. Kh1 Ree2 31. Rg1 Rb2 32.
+Rxd5 Rxb3 33. Rd4 Rbb2 34. h4 h5 35. Kh2 Rbd2 36. Rxd2 Rxd2 37. Rb1 Rd5 38.
+Rc1 Rd4 39. Rb1 Rxh4+ 40. Kg3 Rg4+ 41. Kh3 Rg5 42. Ra1 f6 43. Ra2 Rg4 44.
+Rb2 f5 45. Rb3 f4 46. Rb2 Rg3+ 47. Kh2 Rg5 48. Rc2 Kg6 49. Rf2 Kf5 50. Re2
+Rg6 51. Ra2 h4 52. Rc2 Rc6 53. Rd2 Kg4 54. Rd8 Rg6 55. Re8 Rb6 56. Re4 Kf5
+57. Rc4 Rc6 58. Rd4 b6 59. Kh3 Rc3+ 60. Kxh4 Rb3 61. Rc4 Rg3 62. Rc7 Rxg2
+63. Rf7+ Ke5 64. Re7+ Kf6 65. Re8 Rb2 66. Rf8+ Ke5 67. Kg5 Rxb4 68. Rf5+
+Kd6 69. Rxf4 Rxf4 70. Kxf4 Kc5 71. Ke3 Kb4 72. Kd2 Kb3 73. Kd3 a5 74. Kd2
+b5 75. Kd1 Kb2 0-1
+

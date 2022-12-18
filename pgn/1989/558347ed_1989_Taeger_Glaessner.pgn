@@ -1,0 +1,19 @@
+[Event "Bad Germany"]
+[Site "Bad Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Taeger, Winfried"]
+[Black "Glaessner, Robert"]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "558347ed"]
+[Epoch "Queen"]
+[WhiteID "4602650"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 e6 5. Nc3 exd5 6. cxd5 d6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Na6 10. Nd2 Nc7 11. Nc4 b6 12. Nxd6 Ba6 13. Qa4 Qxd6 14. Bf4 Qd7 15.
+Qxd7 Nxd7 16. Bxc7 Bxc3 17. bxc3 Bxe2 18. Rfe1 Rac8 19. Rxe2 Rxc7 20. Re7 a5
+21. d6 Ra7 22. Rae1 b5 1-0

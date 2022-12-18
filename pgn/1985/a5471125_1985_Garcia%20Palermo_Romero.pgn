@@ -1,0 +1,20 @@
+[Event "Benasque"]
+[Site "Benasque"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Garcia Palermo, Carlos"]
+[Black "Romero Holmes, Alfonso"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "a5471125"]
+[Epoch "Queen"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+[BlackID "2200066"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bd2 Nxe5 6. Bc3 Bg7 7. e3 Qe7 8. h4
+g4 9. Ne2 d6 10. Nf4 Be6 11. Nd2 f5 12. Qc2 Nbc6 13. g3 Qf7 14. Bg2 Bxc4 15.
+Nxc4 Qxc4 16. Bd5 Qc5 17. Ne6 1-0

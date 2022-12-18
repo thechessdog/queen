@@ -1,0 +1,21 @@
+[Event "Oakham House"]
+[Site "Oakham House"]
+[Date "1988.01.01"]
+[Round "6"]
+[White "Chow, Albert"]
+[Black "Stone, Raymond"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c5f1274c"]
+[Epoch "Queen"]
+[WhiteID "2002167"]
+[BlackID "2600285"]
+[WhiteCountry "USA"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 10. O-O f5 11. exf5 Bxf5 12. Nc4 Na6 13. Bf4 Nb4 14. Qd2 Qd7 15.
+h3 h5 16. Bg5 Nc2 17. g4 hxg4 18. hxg4 Nxa1 19. gxf5 Qxf5 20. Rxa1 Qxf2+ 21.
+Kh1 Bxc3 22. bxc3 Rf7 23. Bh6 Qh4+ 0-1

@@ -1,0 +1,24 @@
+[Event "Lang mem-C 6th"]
+[Site "Brno"]
+[Date "1986.07.26"]
+[Round "8"]
+[White "Cucka, Josef"]
+[Black "Vesely, Ivan"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "0accab3e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. Nd2 a6 11. a4 Nbd7 12. O-O Rb8 13. Kh1 Qc7 14. g4 Nf8
+15. g5 N6d7 16. h4 c4 17. f5 Bxc3 18. bxc3 gxf5 19. exf5 Ne5 20. Ne4 Rd8
+21. Nf6+ Kh8 22. Be3 b5 23. axb5 Rxb5 24. Bd4 Nfd7 25. Nxd7 Rxd7 26. Bf3
+Bb7 27. Qd2 Qd8 28. Qf4 Kg8 29. Be4 Qa8 30. Bxe5 Bxd5 31. Bxd5 Qxd5+ 32.
+Qf3 Qxf3+ 33. Rxf3 dxe5 34. Rxa6 Rb2 35. Ra1 Rdd2 36. f6 Rh2+ 37. Kg1 Rbg2+
+38. Kf1 h6 39. Rf5 Rc2 40. Kg1 Rcg2+ 41. Kf1 Rc2 42. Kg1 e4 43. gxh6 Rcg2+
+44. Kf1 e3 45. Rg5+ Rxg5 46. Ra8+ Kh7 47. hxg5 Rc2 48. Re8 e2+ 49. Rxe2
+Rxc3 50. Re5 Rh3 51. Rc5 Kg6 52. Kg2 Rh4 53. Kg3 Rd4 54. Rc8 Kxg5 55. h7
+Rg4+ 56. Kf3 Rf4+ 57. Ke3 c3 58. h8=Q 1-0
+

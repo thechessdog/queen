@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hartman, Christer"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "1a02f693"]
+[Epoch "Queen"]
+[WhiteID "1700448"]
+[WhiteCountry "SWE"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Bd7 9. e6 fxe6 10. Nxe6 Bxc3+ 11. bxc3 Qc8 12. Qd4 Nf6 13. Bxd7+ Nbxd7 14. f5
+Nc5 15. Nxc5 Qxc5 16. Qxc5 dxc5 17. O-O O-O 18. fxg6 hxg6 19. Bg5 Ne4 20. Rxf8+
+Rxf8 21. Bxe7 Rf7 22. Bh4 Nxc3 23. Bf2 b6 24. a4 Rf4 25. a5 Rc4 26. axb6 axb6
+27. Kf1 Kf7 28. Ra3 Ke6 29. Ke1 Kd5 30. Rb3 b5 31. Be3 b4 32. Bd2 Ne4 33. h4
+Rxc2 34. Bxb4 cxb4 35. Rxb4 Rxg2 36. Rb8 Kd4 37. Rg8 Ke3 38. Kf1 Rg4 0-1

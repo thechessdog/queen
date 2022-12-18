@@ -1,0 +1,20 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Zsinka, Laszlo"]
+[Black "Kamp, Christoph"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "51ca8cc1"]
+[Epoch "Queen"]
+[BlackID "4606949"]
+[BlackCountry "GER"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. a3 Nxd2 7. Bxd2 Bxd2+
+8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. Be2 O-O-O 12. O-O-O Rhe8 13. Rd5 Na5 14.
+b4 Bxd5 15. cxd5 Nb7 16. d6 Nxd6 17. exd6 Qxd6 18. Rd1 Qc6 19. Qxc6 dxc6 20.
+Rxd8+ Rxd8 21. Ne5 1-0

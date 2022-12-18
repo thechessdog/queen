@@ -1,0 +1,17 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Telkamp, R."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "efa7a161"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Bc4 Bg7 6. Be3 e6 7. Nb5 Bxb2 8.
+Nd6+ Ke7 9. Nb5 d6 10. Bf4 e5 11. Bg5+ f6 12. Qd5 Qd7 13. Qf7+ Kd8 14. Bxf6+
+Nxf6 15. Qxf6+ Qe7 16. Qxh8+ Kd7 17. N1c3 Bxa1 18. Nd5 Qg5 19. Nf6+ Ke7 20.
+Qg7+ Kd8 21. Qc7# 1-0

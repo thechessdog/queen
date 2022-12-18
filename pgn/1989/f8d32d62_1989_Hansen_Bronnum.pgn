@@ -1,0 +1,19 @@
+[Event "Helsingor"]
+[Site "Helsingor"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hansen, Soren Bech"]
+[Black "Bronnum, Jan"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "f8d32d62"]
+[Epoch "Queen"]
+[BlackID "1400908"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 b5 6. a4 c6 7. Ne5 Nd5 8. O-O
+Bb7 9. axb5 cxb5 10. b3 cxb3 11. Qxb3 a6 12. e4 Nf6 13. d5 exd5 14. exd5 Bxd5
+15. Qe3 Qe7 16. Bxd5 Nxd5 17. Qe4 Nb6 18. Be3 N8d7 19. Bxb6 Rc8 20. Bd4 f6 21.
+Qb7 Rd8 22. Nc6 1-0

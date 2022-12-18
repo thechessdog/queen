@@ -1,0 +1,19 @@
+[Event "Moscow-B"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Makarichev, Sergey"]
+[Black "Kaidanov, Gregory"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "f8c7cd73"]
+[Epoch "Queen"]
+[WhiteID "4100468"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. Bb2 Be7 5. e3 O-O 6. g3 c5 7. Bg2 Nc6 8. O-O
+Re8 9. d4 b6 10. Ne5 Bb7 11. Nc3 Rc8 12. cxd5 exd5 13. Rc1 cxd4 14. exd4 Nxe5
+15. dxe5 Ne4 16. Nxe4 dxe4 17. Rxc8 1/2-1/2

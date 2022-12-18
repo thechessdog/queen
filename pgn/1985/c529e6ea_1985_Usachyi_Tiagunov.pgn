@@ -1,0 +1,17 @@
+[Event "corr Wch16 sf"]
+[Site "corr Wch16 sf"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Usachyi, MV."]
+[Black "Tiagunov, G."]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "c529e6ea"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. f4 a5 10. a4 exf4 11. Bxf4 Be6 12. Bf3 Ne5 13. Nd4 Nxf3+ 14.
+gxf3 Nh5 15. Bg3 Nxg3 16. hxg3 Qb6 1-0
+

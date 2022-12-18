@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sokanski, W."]
+[Black "Schikov, G."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "efcfc75f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 c5 4. c3 Nc6 5. f4 Bg4 6. Ne2 e6 7. Nd2 Bd6 8.
+O-O O-O 9. Qe1 cxd4 10. exd4 Bf5 11. Bxf5 exf5 12. Rf3 Re8 13. Qf1 Re7 14.
+Ng3 Qd7 15. Qd3 g6 16. Ndf1 h5 17. Bd2 Rae8 18. Ne3 Ne4 19. Nxd5 Re6 20.
+Nxe4 fxe4 21. Qxe4 Bf8 22. f5 Rd6 23. Qd3 Rxd5 24. fxg6 f5 25. Rh3 Re4 26.
+Rxh5 Ne5 27. Qh3 Nxg6 28. Rf1 f4 29. Rxd5 Qxd5 30. Qg4 Qe6 31. Qxe6+ Rxe6
+32. Rf2 Bd6 33. Kf1 b5 34. Rf3 Kg7 35. g3 fxg3 36. hxg3 Rf6 37. Ke2 Rxf3
+38. Kxf3 Kf6 39. Be1 Ne7 40. g4 1-0
+

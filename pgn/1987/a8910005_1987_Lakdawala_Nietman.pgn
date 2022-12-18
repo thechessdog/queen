@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Lakdawala, Cyrus"]
+[Black "Nietman, Mike"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "a8910005"]
+[Epoch "Queen"]
+[WhiteID "2001756"]
+[WhiteCountry "USA"]
+[BlackID "30904803"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. e4 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 Be7
+8. Bd3 b6 9. Qe2 O-O 10. Bxf6 Bxf6 11. Qe4 1-0

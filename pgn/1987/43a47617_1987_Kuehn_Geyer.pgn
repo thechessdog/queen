@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuehn"]
+[Black "Geyer"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "43a47617"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. dxc5 Bxc5 7. Nb3 Ba7
+8. Bd3 Qe7+ 9. Be2 Be6 10. O-O Nc6 11. Bg5 Qd7 12. Nfd4 Nge7 13. Nxe6 fxe6
+14. c4 O-O 15. Bxe7 Nxe7 16. cxd5 exd5 17. Bf3 Rad8 18. Nd4 Rf4 19. Ne2 Rf6
+20. Rc1 Rh6 21. Qd3 Bb8 22. Ng3 Ng6 23. Bxd5+ Kh8 24. Rfd1 Nf4 25. Qf3 Nxd5
+26. Rxd5 Rd6 27. Rxd6 Bxd6 28. Ne4 Bf4 29. Nc5 Qc7 30. Rd1 Rxd1+ 31. Qxd1
+Bxh2+ 32. Kh1 h6 33. Ne6 Qd6 34. Qxd6 Bxd6 35. Kg1 Kh7 36. Kf1 Kg6 37. Ke2
+Kf5 38. Nxg7+ Ke4 39. Nh5 Be5 40. b3 b5 41. f3+ Kd4 42. f4 Bd6 43. Kf3 Kc3
+44. Nf6 Kb2 45. Nd5 Kxa2 46. b4 a5 47. bxa5 Ka3 48. a6 Bc5 49. f5 b4 50. f6
+b3 51. f7 b2 52. Nc3 Kb3 53. Nb1 Kc2 54. a7 Bxa7 55. Na3+ 1-0
+

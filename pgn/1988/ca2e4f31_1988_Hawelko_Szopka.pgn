@@ -1,0 +1,21 @@
+[Event "Lublin"]
+[Site "Lublin"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Hawelko, Marek"]
+[Black "Szopka, Dariusz"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "ca2e4f31"]
+[Epoch "Queen"]
+[WhiteID "1100203"]
+[WhiteCountry "POL"]
+[BlackID "1101420"]
+[BlackCountry "POL"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 b5 8. e5
+dxe5 9. Nxe5 b4 10. Na4 Be6 11. Nc5 Bf5 12. Bf3 Nd5 13. a3 bxa3 14. Rxa3 Nb4
+15. Rc3 a5 16. Rc4 Ra7 17. c3 Nd5 18. Ra4 Qd6 19. Qb3 Nd7 20. Nxc6 Nxc5 21.
+dxc5 Qxc6 22. Bxd5 Qc8 23. c6 1-0

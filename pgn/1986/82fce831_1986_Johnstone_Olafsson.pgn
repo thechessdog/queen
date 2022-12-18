@@ -1,0 +1,26 @@
+[Event "Winnipeg"]
+[Site "Winnipeg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Johnstone"]
+[Black "Olafsson, Helgi"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "82fce831"]
+[Epoch "Queen"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1 Bxe7
+8. Be3 Bf5 9. Nf3 O-O-O+ 10. Ke1 Bc5 11. Bb5 Rhe8 12. Bxc6 bxc6 13. Nd4 Nxc3
+14. bxc3 Rxd4 15. cxd4 Bxd4 16. Kd2 Bxa1 17. Bxa7 Kb7 18. Be3 Ra8 19. a3 Bb2
+20. Ke2 Rd8 21. Nd2 Bd3+ 22. Kf3 Bxa3 23. Ra1 Ra8 24. Nb3 Bc4 25. Nc5+ Bxc5 26.
+Rb1+ Kc8 27. Bxc5 Ra5 28. Bd4 Ra3+ 29. Kf4 f6 30. h4 h6 31. Re1 Ra4 32. Ke3 Bd5
+33. g3 Kd7 34. Bc5 Ke6 35. Kd3+ Kf5 36. Re7 g5 37. hxg5 fxg5 38. Rh7 Kg6 39.
+Rh8 h5 40. Bd4 Be6 41. Be3 h4 42. gxh4 gxh4 43. Rh6+ Kf7 44. Bg5 Bf5+ 45. Ke3
+h3 46. Rxc6 h2 47. Rc1 Re4+ 48. Kd2 Rg4 49. Rh1 Rxg5 50. Rxh2 Rg4 51. Ke3 Re4+
+52. Kf3 Ra4 53. Kg3 Ra3+ 54. f3 Be4 55. Rh8 Rxf3+ 56. Kh2 Bd5 57. Rd8 Rf5 58.
+Kg3 Rf3+ 59. Kh2 Rd3 60. Rd7+ Kf6 61. Rd6+ Kf5 62. Rd7 Kf4 63. Rd6 Rd2+ 64. Kg1
+Ke3 65. Rf6 Rg2+ 66. Kf1 Rg4 0-1

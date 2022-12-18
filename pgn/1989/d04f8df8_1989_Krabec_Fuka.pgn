@@ -1,0 +1,19 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Krabec"]
+[Black "Fuka"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d04f8df8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Qc7
+8. Qe2 Bd6 9. Nxf7 O-O 10. Nxd6 Qxd6 11. O-O b6 12. Re1 Re8 13. b3 Bb7 14.
+Bb2 Nf8 15. Ne5 Rad8 16. Rad1 Re7 17. Nc4 Qb8 18. Ba3 Ree8 19. Qe5 Ba8 20.
+Rd2 Rd5 21. Qxb8 Rxb8 22. c3 c5 23. dxc5 Rbd8 24. Red1 bxc5 25. f3 Ng6 26.
+Bxc5 1-0
+

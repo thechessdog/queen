@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grupe, H."]
+[Black "Vonthron, Horst"]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "51c1adee"]
+[Epoch "Queen"]
+[BlackID "4600495"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 Nc6 7. Qd2 a6 8. Nge2
+e5 9. d5 Na5 10. Nc1 c5 11. Rb1 b6 12. b4 Nb7 13. Nd3 Nh5 14. Be2 f5 15. O-O
+Qf6 16. Na4 b5 17. Nb6 bxc4 18. Nxa8 cxd3 19. Bxd3 cxb4 20. Bxa6 Nc5 21. Bxc8
+Rxc8 22. Nb6 1-0

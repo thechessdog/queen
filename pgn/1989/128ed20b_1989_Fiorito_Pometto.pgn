@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fiorito, M."]
+[Black "Pometto, H."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "128ed20b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5
+8. Ne4 Qh4 9. Ng3 Bg4 10. f3 e4 11. cxd4 Bd6 12. Bxb5+ Kd8 13. O-O exf3 14.
+Qb3 Nb4 15. a3 Rb8 16. Ba4 Nc6 17. Qd5 Ne7 18. Qxf7 Ng6 19. Qxg7 fxg2 20.
+Re1 c6 21. Re5 Nxe5 22. Qxh8+ Kc7 0-1
+

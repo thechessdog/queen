@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Verdier, P."]
+[Black "Ditmer, R."]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "40a51ca2"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 Bxc4 9. Bxc4 dxc4 10. O-O Qd7 11. e4 Qb5 12. f4 Nc6 13. d5 O-O-O 14.
+Qe2 exd5 15. e5 Rde8 16. Qf3 Nd7 17. Rfd1 g6 18. Rxd5 Qa4 19. Ne4 Qxa3 20.
+Rxd7 Kxd7 21. Nf6+ Ke7 22. Qxc6 Qc5+ 23. Qxc5+ bxc5 24. Nxe8 Rxe8 25. Rb1
+Kd7 26. Rd1+ Ke6 27. Kf2 Rb8 28. Rd2 h5 29. Kf3 a5 30. h3 a4 31. g4 hxg4+
+32. hxg4 g5 33. Ke4 gxf4 34. Rh2 f3 35. Rh6+ Ke7 36. Kxf3 Rb3 37. Rc6 Rxc3+
+38. Ke4 Kd7 39. Rf6 Ke7 40. Rc6 Kd7 41. Rf6 1/2-1/2
+

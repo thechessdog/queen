@@ -1,0 +1,17 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Spigel"]
+[Black "Sawyer"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "6004506b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. d4 fxe4 4. Ng5 d5 5. Nxe4 dxe4 6. Qh5+ Kd7 7. dxe5
+Qe7 8. Bc4 Qb4+ 9. Nd2 g6 10. Qg4+ Kd8 11. Qxe4 Nc6 12. a3 Qe7 13. Bxg8
+Qxe5 14. Bd5 Bg7 15. O-O Bf5 16. Qxe5 Bxe5 17. Nf3 Bg7 18. Bg5+ Kc8 19. c3
+h6 20. Be3 g5 21. Rad1 Ne7 22. Bc4 a5 23. Rfe1 Ng6 24. Nd4 1-0
+

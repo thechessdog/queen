@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Longwitz, A."]
+[Black "Russ, W."]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "23730f22"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1 9. Rxd1 Ng6 10. Nc3 Bd6 11. Be3 b6 12. Nd5 Be6 13. Nxb6 Bxh2+
+14. Kxh2 cxb6 15. Rd6 Rb8 16. Rad1 Ke7 17. Rxb6 1-0
+

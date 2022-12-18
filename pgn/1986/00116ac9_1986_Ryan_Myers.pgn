@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ryan, R."]
+[Black "Myers, D."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "00116ac9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3
+Nge7 8. Qh5 Be6 9. Ne2 Qd7 10. O-O h6 11. Re1 Bg4 12. Qh4 O-O-O 13. h3 Bf5
+14. Qg3 g5 15. Bxf5 Nxf5 16. Qd3 Na5 17. a4 Nc4 18. Be3 Rde8 19. Nc1 Nfxe3
+20. fxe3 Re4 21. Nb3 Qe7 22. Kf2 Re8 23. Nd2 Rxe3 24. Rxe3 Nxe3 25. Nf3 Nc4
+26. Re1 Qd7 27. Rxe8+ Qxe8 0-1
+

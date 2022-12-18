@@ -1,0 +1,22 @@
+[Event "Gausdal Peer Gynt"]
+[Site "Gausdal Peer Gynt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gudmundsson, Elvar"]
+[Black "Jensen, Jacob Bjerre"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "7c99d250"]
+[Epoch "Queen"]
+[WhiteID "2300206"]
+[WhiteCountry "ISL"]
+[BlackID "1401513"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 Ba6 6. Qc2 exd5 7. cxd5 g6 8. Nc3
+Bg7 9. g3 O-O 10. Bg2 d6 11. O-O Re8 12. Re1 Nbd7 13. Bf4 Qe7 14. b4 Rac8 15.
+b5 Bb7 16. Nd2 c4 17. Rac1 Ng4 18. Qa4 g5 19. Qxa7 gxf4 20. Qxb7 Nxf2 21. Nde4
+Bxc3 22. Rxc3 Nxe4 23. Bxe4 Qxe4 24. Qxd7 Qd4+ 25. Kh1 Qxc3 26. Rg1 f3 27. Qg4+
+Kh8 28. Qxf3 Qxf3+ 29. exf3 c3 0-1

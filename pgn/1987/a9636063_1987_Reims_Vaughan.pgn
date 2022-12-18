@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Reims"]
+[Black "Vaughan"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "a9636063"]
+[Epoch "Queen"]
+
+1. d4 c5 2. Bf4 cxd4 3. Bxb8 Rxb8 4. Qxd4 b6 5. Nc3 Bb7 6. e4 e6 7. O-O-O
+Nf6 8. e5 Nd5 9. Ne4 Rc8 10. c3 Nb4 11. Nd6+ Bxd6 12. exd6 Qg5+ 13. Kb1
+Qg6+ 14. Bd3 Nxd3 15. Qh4 Nb4+ 16. Ka1 Nc2+ 17. Kb1 Na3+ 18. Ka1 Qb1+ 19.
+Rxb1 Nc2# 0-1
+

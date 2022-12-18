@@ -1,0 +1,16 @@
+[Event "corr Czerniak mem"]
+[Site "corr Czerniak mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Seczek, K."]
+[Black "Probola, R."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "4d16bc64"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. c3 d5 7. exd5 Nxd5
+8. Re1 Bg4 9. h3 Bh5 10. Bb5 Bd6 11. g4 Bg6 12. Bxc6 bxc6 13. Nxe5 Qh4 14.
+Kg2 Rae8 15. Nf3 Qf6 16. d4 Be4 17. Rh1 Nf4+ 18. Bxf4 Qxf4 0-1
+

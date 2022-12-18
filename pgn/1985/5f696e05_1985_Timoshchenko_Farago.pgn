@@ -1,0 +1,18 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1985.??.??"]
+[Round "1"]
+[White "Timoshchenko, Gennadi Anatolyevich"]
+[Black "Farago, Ivan"]
+[Result "1/2-1/2"]
+[ECO "A63"]
+[Opening "Benoni"]
+[Variation "fianchetto, 9...Nbd7"]
+[HashCode "5f696e05"]
+[Epoch "Queen"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "SVN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Nbd7 10. h3 a6 11. a4 Rb8 12. Rb1 Qc7 13. b3 b5 1/2-1/2

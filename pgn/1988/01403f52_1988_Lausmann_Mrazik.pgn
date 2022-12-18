@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lausmann"]
+[Black "Mrazik"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "01403f52"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 c5 5. exd5 exd5 6. Be2 Nf6 7. O-O Be7
+8. Re1 O-O 9. dxc5 Bxc5 10. Nb3 Ba7 11. c3 Qd6 12. Nfd4 Nc6 13. Bd3 Bd7 14.
+Nf5 Bxf5 15. Bxf5 g6 16. Bc2 Rfe8 17. Bd2 Bxf2+ 18. Kxf2 Rxe1 19. Bxe1 Qxh2
+20. Qf3 Ne5 21. Qh3 Neg4+ 22. Kf1 Qxh3 23. gxh3 Ne3+ 24. Kf2 Nxc2 25. Rc1
+Nxe1 0-1
+

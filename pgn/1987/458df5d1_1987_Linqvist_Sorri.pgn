@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Linqvist"]
+[Black "Sorri, Kari Juhani"]
+[Result "1-0"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "458df5d1"]
+[Epoch "Queen"]
+[BlackID "500216"]
+[BlackCountry "FIN"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Nf3 e4 5. Nd4 Qb6 6. e3 d5 7. Qc2 Bd7 8. a3 Be7
+9. b4 O-O 10. Bb2 Qc7 11. c5 Bg4 12. d3 exd3 13. Bxd3 Nbd7 14. h3 Be6 15. f4
+Nb8 16. g4 h6 17. Qg2 Nh7 18. h4 Qc8 19. g5 h5 20. f5 Bd7 21. f6 Bd8 22. fxg7
+Re8 23. g6 Rxe3+ 24. Kf2 1-0

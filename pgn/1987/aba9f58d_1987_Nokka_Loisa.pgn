@@ -1,0 +1,21 @@
+[Event "Jyvaskyla SM"]
+[Site "Jyvaskyla SM"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nokka, Risto"]
+[Black "Loisa, Antti"]
+[Result "1-0"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "aba9f58d"]
+[Epoch "Queen"]
+[WhiteID "500941"]
+[BlackID "503789"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 Nh5 10. g4 Nf4 11. O-O-O Na6 12. Nge2 g5 13. h4 b5 14. hxg5 b4 15. Nb5
+Bd7 16. Nxf4 Qa5 17. Kb1 exf4 18. Bd4 Bxb5 19. Qh2 f6 20. Qxh7+ Kf7 21. gxf6
+Rg8 22. Qh5+ 1-0

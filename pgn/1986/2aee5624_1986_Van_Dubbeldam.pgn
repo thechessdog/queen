@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van Schijndel"]
+[Black "Dubbeldam"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "2aee5624"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7
+8. O-O O-O 9. Be3 a5 10. Nd2 Be6 11. Nc4 b5 12. Nxb5 Nxe4 13. f3 Nf6 14.
+Ncxd6 Nd5 15. Bc5 Nd4 16. Bxd4 exd4 17. Nc4 Nf4 18. Kh1 Qd5 19. Nd2 d3 20.
+Bxd3 Qg5 21. g3 Nxd3 22. Nc7 Nxb2 0-1
+

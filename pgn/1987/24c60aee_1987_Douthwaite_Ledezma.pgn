@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Douthwaite, Brian"]
+[Black "Ledezma Alvarez"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "24c60aee"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. b4 Bxb4 5. Bb2 d6 6. c3 Ba5 7. O-O Bd7 8.
+d4 exd4 9. cxd4 f6 10. Nh4 g6 11. Nd2 Bb6 12. Nc4 Qe7 13. e5 dxe5 14. dxe5
+fxe5 15. Bxc6 Bxc6 16. Nxe5 Qxh4 17. Nxc6 bxc6 18. Bxh8 Rd8 19. Qf3 Rd5 20.
+Rae1+ Ne7 21. Bf6 1-0
+

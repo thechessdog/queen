@@ -1,0 +1,18 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Tejler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "481d0b66"]
+[Epoch "Queen"]
+[WhiteID "1403176"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 c6 5. Bxf6 exf6 6. Nxe4 Qe7 7. Qe2 Be6 8.
+O-O-O Qc7 9. Nf3 Be7 10. Qe3 O-O 11. Bd3 Qa5 12. c4 Qxa2 13. Nc3 Qa5 14. d5
+cxd5 15. cxd5 Bc5 16. Bxh7+ Kh8 17. Qe4 g6 18. Bxg6 fxg6 19. dxe6 Qb5 20. Qxg6
+Nc6 21. Rd5 1-0

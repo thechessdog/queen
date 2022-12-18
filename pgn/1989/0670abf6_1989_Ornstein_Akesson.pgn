@@ -1,0 +1,20 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Akesson, Ralf"]
+[Result "1/2-1/2"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, Botvinnik variation"]
+[HashCode "0670abf6"]
+[Epoch "Queen"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. d4 O-O 6. Nc3 Nbd7 7. O-O c6 8. Qd3
+b6 9. Rd1 Ba6 10. b3 c5 11. Bb2 Rc8 12. Nb5 Bxb5 13. cxb5 Ne4 14. Ne5 Nxe5 15.
+dxe5 Qe8 16. Bxe4 dxe4 17. Qc4 Rc7 1/2-1/2

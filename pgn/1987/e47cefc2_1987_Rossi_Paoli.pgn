@@ -1,0 +1,21 @@
+[Event "Reggio Emilia8788-B"]
+[Site "Reggio Emilia"]
+[Date "1987.01.01"]
+[Round "6"]
+[White "Rossi, Carlo"]
+[Black "Paoli, Enrico"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e47cefc2"]
+[Epoch "Queen"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 e5 8. d4 d6
+9. dxc5 dxc5 10. Qe2 Ng6 11. Rd1 Qc7 12. a4 Rb8 13. axb5 axb5 14. Na3 Qb7 15.
+Be3 Be7 16. Rd5 Nf4 17. Qd2 Nxd5 18. exd5 Nd4 19. cxd4 cxd4 20. Bg5 f6 21. d6
+Bxd6 22. Nxb5 Be7 23. Ra7 Qb6 24. Rxe7+ Kxe7 25. Qb4+ Kd8 26. Nxe5 Be6 27. Be4
+Rc8 28. Bd2 Re8 29. h3 fxe5 30. Bg5+ Kd7 31. Qa4 Rb8 32. Nxd4+ Kd6 33. Nc6 Bd5
+34. Nxb8 Rxb8 35. Be3 Qb5 36. Qa3+ Ke6 37. Bxh7 Ra8 38. Qc3 Qc4 39. Qd2 Ra1+
+40. Kh2 Qf1 41. Bg8+ 1-0

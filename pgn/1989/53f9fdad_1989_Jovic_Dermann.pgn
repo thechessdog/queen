@@ -1,0 +1,23 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jovic, Ljubomir"]
+[Black "Dermann, Guido"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "53f9fdad"]
+[Epoch "Queen"]
+[BlackID "4602501"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8. hxg5
+c5 9. g6 f5 10. Qh5 h6 11. O-O-O cxd4 12. Nce2 Nxe5 13. Nxd4 O-O 14. f4 Ng4 15.
+Re1 Qf6 16. Ngf3 Bd7 17. Ne5 Nxe5 18. fxe5 Qe7 19. g4 Nc6 20. gxf5 exf5 21. Nf3
+Rac8 22. Kb1 Be6 23. a3 b5 24. c3 Rb8 25. Rh2 a5 26. Ng5 b4 27. Nh7 bxc3 28.
+Nf6+ gxf6 29. g7 Qxg7 30. exf6 Qxf6 31. Bd3 Kh7 32. b4 axb4 33. Reh1 bxa3+ 34.
+Kc1 a2 35. Rxa2 Ra8 36. Rah2 Ra1+ 37. Bb1 Rb8 38. Qxh6+ Qxh6+ 39. Rxh6+ Kg7 40.
+Rh7+ Kf6 41. R7h6+ Ke5 42. Re1+ Kd4 43. Rh4+ Kc5 44. Kc2 Nd4+ 45. Kxc3 Rb3+ 46.
+Kd2 Rbxb1 0-1

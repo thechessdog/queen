@@ -1,0 +1,19 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Otte"]
+[Black "Kohlers"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "8eccfe22"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Be2 c5 9. d5 e6 10. O-O exd5 11. exd5 Bf5 12. a3 Re8 13. Bg5 Qd7 14. Qh4
+Rxe2 15. Bxf6 Rxb2 16. Ne5 Qc7 17. Rad1 Rb6 18. Bxg7 Kxg7 19. f4 f6 20. Nc4
+Rb3 21. d6 Qf7 22. Rde1 Be6 23. Rxe6 Qxe6 24. Re1 Qxc4 25. Re7+ Qf7 26.
+Rxf7+ Kxf7 27. Qxh7+ Ke6 28. Qe7+ 1-0
+

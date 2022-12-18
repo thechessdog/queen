@@ -1,0 +1,16 @@
+[Event "Nova-Park"]
+[Site "Nova-Park"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zormann"]
+[Black "Horn, Peter"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "7c2e5a6b"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. d4 Nxc3 5. bxc3 g6 6. Nf3 Bg7 7. Bf4 O-O 8.
+Qd2 Re8 9. Bh6 Bh8 10. Bc4 Nc6 11. Qf4 e6 12. O-O Qd6 13. Qh4 Bd7 14. Rfe1 Na5
+15. Bd3 Nc6 16. Rad1 e5 17. Bc4 Be6 18. d5 Rad8 19. dxe6 Qxd1 20. exf7# 1-0

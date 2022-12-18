@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eveleens"]
+[Black "Schilperoord"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Gunderam attack"]
+[HashCode "7b6b0eef"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5 Nc6 6. Bb5 Bd7 7. Nc3 b6 8.
+Nf3 bxc5 9. dxc5 e6 10. Bxc6 Bxc6 11. b4 a5 12. b5 d4 13. Qxd4 Qxd4 14.
+Nxd4 Bxg2 15. Rg1 Bxc5 16. Nxe6 1/2-1/2
+

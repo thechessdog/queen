@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lazarev, V."]
+[Black "Moiseev, Viktor"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ceea2239"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
+Be7 9. Qf3 Qb6 10. O-O-O Qb7 11. Rhe1 b4 12. Nf5 exf5 13. Bxf6 Bxf6 14. exf5+
+Kf8 15. Qd3 Nc6 16. Qxd6+ Be7 17. Qd5 Bg5+ 18. f4 Bxf4+ 19. Kb1 g6 20. f6 Bg4
+21. Re7 Be6 1-0

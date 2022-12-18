@@ -1,0 +1,16 @@
+[Event "Forli"]
+[Site "Forli"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Caranzano"]
+[Black "Reiano"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "73f72953"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Bb4 6. Qd3 Nc6 7. Nxc6
+bxc6 8. Bd2 Ba6 9. b3 d5 10. e3 O-O 11. Be2 dxc4 12. bxc4 Qxd3 13. Bxd3
+Rfd8 14. Ke2 Rd7 15. Nd1 Bxd2 16. Kxd2 Bxc4 0-1
+

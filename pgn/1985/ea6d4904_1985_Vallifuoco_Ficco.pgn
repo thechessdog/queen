@@ -1,0 +1,17 @@
+[Event "Portici"]
+[Site "Portici"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vallifuoco, Gv"]
+[Black "Ficco"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ea6d4904"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8.
+e4 a6 9. a4 Bg7 10. Be2 O-O 11. f4 Re8 12. O-O Qc7 13. Kh1 Rb8 14. Ra2 c4
+15. e5 dxe5 16. Nxc4 e4 17. f5 Nh5 18. d6 Qc5 19. Be3 Qc6 20. Na5 1-0
+

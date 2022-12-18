@@ -1,0 +1,19 @@
+[Event "Agria op"]
+[Site "Eger"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Horvath, Zoltan"]
+[Black "Nemeth, Zoltan"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2566eaa9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e5 4. O-O Nge7 5. Re1 g6 6. c3 Bg7 7. a4 O-O 8. Bf1
+d6 9. Na3 h6 10. Nc2 Be6 11. d4 cxd4 12. cxd4 Bb3 13. Qd3 Bxc2 14. Qxc2 Nxd4
+15. Nxd4 exd4 16. Ra3 Rc8 17. Qd1 Qc7 18. Rh3 Kh7 19. Bd3 Ng8 20. g4 Rfe8 21.
+g5 d5 22. gxh6 Bf6 23. Bd2 dxe4 24. Rxe4 Rxe4 25. Bxe4 Qd7 26. Rb3 b6 27. a5 b5
+28. Qf3 Rc5 29. Qh3 Qe7 30. Qg2 Bh4 31. Rh3 Re5 32. Bd3 f5 33. f4 Rc5 34. b4
+Rc7 35. Bxb5 Rc2 36. Rd3 Be1 37. Ba4 Rb2 38. Kf1 Rb1 39. Rb3 Ra1 0-1

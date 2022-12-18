@@ -1,0 +1,23 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kauppi"]
+[Black "Eronen"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[HashCode "3d63a2e9"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 e6 4. cxd5 exd5 5. Bf4 Bb4 6. Qc2 Ne4 7. Bd2 Nxd2
+8. Qxd2 b6 9. a3 Be7 10. Nf3 O-O 11. e3 a5 12. Bd3 Be6 13. O-O c5 14. dxc5
+bxc5 15. b3 Bf6 16. Rac1 Qb6 17. Bc2 Bxc3 18. Qxc3 Nd7 19. Ng5 Nf6 20. Qd3
+g6 21. Qc3 Bd7 22. a4 Rac8 23. Rb1 Rfd8 24. Rfd1 h6 25. Nf3 Bg4 26. Qe5
+Bxf3 27. gxf3 d4 28. Kh1 Rd5 29. Qf4 Rh5 30. Rg1 Rd8 31. exd4 Rxd4 32. Qe3
+Qd6 33. Rg2 Rdh4 34. f4 Rxf4 35. Rd1 Rd4 36. Qf3 Qd5 37. Qxd5 Rhxd5 38. Re1
+Rd2 39. Rc1 Re5 40. f3 Ree2 41. Rxe2 Rxe2 42. Kg1 Kf8 43. Bd1 Rd2 44. Bc2
+Ke7 45. Re1+ Kd6 46. Rd1 Rxd1+ 47. Bxd1 Ke5 48. Kf2 Kd4 49. Be2 Nd5 50. Bc4
+f6 51. Kg3 g5 52. Bb5 Kc3 53. Bc4 Ne3 54. Be6 Nf1+ 55. Kg4 Nxh2+ 0-1
+

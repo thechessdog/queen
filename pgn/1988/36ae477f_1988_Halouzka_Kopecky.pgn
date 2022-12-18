@@ -1,0 +1,22 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Halouzka"]
+[Black "Kopecky"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "36ae477f"]
+[Epoch "Queen"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 c5 4. Nbd2 cxd4 5. Nxd4 Be7 6. N2b3 b6 7. Qd3
+O-O 8. O-O-O Bb7 9. Bxf6 Bxf6 10. c3 d5 11. Kb1 Nd7 12. e3 Nc5 13. Qc2 Qe7
+14. f3 g6 15. Nc1 e5 16. Ndb3 Rfd8 17. Qf2 Ne6 18. h4 a5 19. a3 Bc6 20. h5
+Ba4 21. Re1 Qc7 22. hxg6 hxg6 23. Bd3 b5 24. Rh4 Bxh4 25. Qxh4 Kg7 26. Qg4
+Qd6 27. Bf5 Bxb3 28. Nxb3 Nc5 29. Bc2 Nxb3 30. Bxb3 b4 31. cxb4 axb4 32. a4
+d4 33. exd4 exd4 34. Qe4 Ra7 35. Qd3 Re7 36. Rd1 Rdd7 37. Bc4 Re3 38. Qd2
+Qc5 39. b3 Rc3 40. g4 Qe5 41. f4 Qe4+ 42. Kb2 d3 43. Kb1 Qd4 44. Qe1 Qxf4
+45. Rd2 Qxg4 46. Qe5+ f6 47. Qe8 Rc2 0-1
+

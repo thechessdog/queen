@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fortin, M."]
+[Black "Richardson, R."]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein; Rubinstein counter-gambit"]
+[HashCode "32df486f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5
+8. Qxd5 d6 9. exd6 Qb6 10. Bc4 Bxf2+ 11. Ke2 O-O 12. Rd1 Be6 13. Qe4 Rae8
+14. Kf1 Bd7 15. Qd5 Be6 16. Qe4 Bd7 17. Qd5 Be6 1/2-1/2
+

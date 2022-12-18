@@ -1,0 +1,16 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roeschlau, B."]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "dba331fa"]
+[Epoch "Queen"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. d4 c5 2. d5 g6 3. Nf3 Bg7 4. c4 Nf6 5. Nc3 O-O 6. e4 d6 7. Be2 b5 8. cxb5 a6
+9. b6 Nfd7 10. O-O Nxb6 1/2-1/2

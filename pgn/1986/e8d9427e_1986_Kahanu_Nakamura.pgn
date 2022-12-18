@@ -1,0 +1,18 @@
+[Event "Hawaii"]
+[Site "Hawaii"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kahanu"]
+[Black "Nakamura"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "Hobbs gambit"]
+[HashCode "e8d9427e"]
+[Epoch "Queen"]
+
+1. f4 g5 2. f5 d5 3. g4 h5 4. e3 hxg4 5. Qxg4 Nf6 6. Qxg5 Rh5 7. Qf4 Rxf5
+8. Qa4+ Bd7 9. Qb3 Ne4 10. Bh3 e5 11. Bxf5 Qh4+ 12. Kd1 Bxf5 13. Nf3 Nf2+
+14. Ke2 Bg4 15. Rf1 e4 16. Rxf2 Bxf3+ 17. Ke1 Nd7 18. Nc3 Bd6 19. Nxd5 Bxh2
+20. Nxc7+ Bxc7 21. Qxb7 Bg3 22. Qxa8+ Ke7 23. d4 Bxf2+ 24. Kd2 Be1# 0-1
+

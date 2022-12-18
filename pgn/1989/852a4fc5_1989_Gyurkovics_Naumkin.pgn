@@ -1,0 +1,21 @@
+[Event "Spring op"]
+[Site "Budapest open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gyurkovics, Miklos"]
+[Black "Naumkin, Igor"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "852a4fc5"]
+[Epoch "Queen"]
+[WhiteID "701874"]
+[WhiteCountry "HUN"]
+[BlackID "4101715"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Be7 5. a3 O-O 6. Qc2 d6 7. Be2 Re8 8. O-O
+Bf8 9. d3 g6 10. b4 Bg7 11. Rb1 Ng4 12. b5 Ne7 13. h3 Nf6 14. a4 Nf5 15. Re1 h5
+16. Ba3 Nh7 17. Bf1 g5 18. Nh2 g4 19. hxg4 hxg4 20. Nxg4 Qh4 21. Qd1 Re6 22. e4
+Nd4 23. g3 Rg6 24. Nh2 Ng5 25. Nd5 Qxh2+ 26. Kxh2 Rh6+ 27. Bh3 Ngf3+ 0-1

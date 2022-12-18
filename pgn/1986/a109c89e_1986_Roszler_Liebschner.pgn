@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Roszler"]
+[Black "Liebschner"]
+[Result "0-1"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "a109c89e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. e3 Bxc3+ 8.
+bxc3 e5 9. f3 Nbd7 10. Bd3 Qa5 11. Qb3 Nb6 12. Ne2 Bd7 13. a4 O-O-O 14. O-O
+Kb8 15. Bxf6 gxf6 16. f4 h5 17. fxe5 fxe5 18. Rxf7 Rdf8 19. Rxf8+ Rxf8 20.
+Ng3 h4 21. Ne4 h3 22. Nxd6 hxg2 23. Kxg2 Qa6 24. a5 Nc8 25. Nxc8 Qh6 26.
+Qc2 Qh3+ 27. Kh1 Bg4 28. Be4 Rf1+ 29. Rxf1 Qxf1# 0-1
+

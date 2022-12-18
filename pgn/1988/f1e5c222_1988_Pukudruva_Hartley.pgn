@@ -1,0 +1,17 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pukudruva"]
+[Black "Hartley"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "f1e5c222"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qf3 Bc5 4. d3 d5 5. Bxd5 c6 6. Bb3 Bg4 7. Qg3 Nbd7
+8. Be3 h5 9. Bxc5 h4 10. Qe3 Qa5+ 11. Bb4 Qxb4+ 12. c3 Qa5 13. Nd2 O-O-O
+14. f3 h3 15. g3 Nc5 16. Bc2 Qb5 17. Nc4 Be6 18. a4 Qa6 19. Qxc5 1-0
+

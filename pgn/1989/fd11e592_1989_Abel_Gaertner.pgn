@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Abel, Lajos"]
+[Black "Gaertner"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "fd11e592"]
+[Epoch "Queen"]
+[WhiteID "701424"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Qd2 c5 7. dxc5 dxc5 8.
+Bc4 Nc6 9. O-O a6 10. a4 Bg4 11. Qf4 Qc8 12. Bxf6 Bxf3 13. Bxg7 Kxg7 14. Qxf3
+Nd4 15. Qf4 Nxc2 16. Qe5+ Kg8 17. Nd5 1-0

@@ -1,0 +1,18 @@
+[Event "Mendrisio op"]
+[Site "Mendrisio"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mutzner, Andreas"]
+[Black "Friedli, K."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "9f41d5c0"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 g6 7. Nf3 Bg4 8. Qb3
+Na5 9. Qa4+ Bd7 10. Qc2 Bg7 11. Nbd2 O-O 12. O-O a6 13. a4 Nh5 14. Bg3 Nxg3 15.
+hxg3 f6 16. b4 Nc6 17. Qb3 e6 18. c4 e5 19. cxd5 Nxd4 20. Nxd4 exd4 21. Nf3 f5
+22. Rad1 Be8 23. Bc4 Qd6 24. Nxd4 Bf7 25. Ne6 Bxe6 26. dxe6 Qe7 27. Rd7 Qf6 28.
+e7+ Kh8 29. exf8=Q+ Bxf8 30. Bg8 1-0

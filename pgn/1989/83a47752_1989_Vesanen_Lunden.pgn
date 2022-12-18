@@ -1,0 +1,25 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vesanen"]
+[Black "Lunden"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "83a47752"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8.
+e6 Bxb5 9. exf7+ Kd7 10. Nxb5 Qa5+ 11. Nc3 cxd4 12. Nxd4 Bxd4 13. Qxg4+ Qf5
+14. Qf3 Nc6 15. Ne4 Qe6 16. Be3 Bxe3 17. Qxe3 Kc7 18. Kf2 Raf8 19. Ng5
+Qxe3+ 20. Kxe3 Kd7 21. c3 h6 22. Ne4 Rxf7 23. Rad1 b6 24. g3 Rhf8 25. h4
+Rf5 26. Rd2 Nd8 27. Rhd1 Nb7 28. b3 b5 29. Rd4 Rc8 30. g4 Rf7 31. Rd5 Rcf8
+32. R5d4 Kc6 33. c4 b4 34. h5 gxh5 35. g5 Rxf4 36. gxh6 Rf3+ 37. Ke2 R3f4
+38. Ng5 Rf2+ 39. Ke3 Rg2 40. Rf4 Rh8 41. Nf7 Rh7 42. Rh1 Rg3+ 43. Kf2 Rg6
+44. Rxh5 Rf6 45. Ke3 Kd7 46. Rb5 Nc5 47. Ng5 Rhxh6 48. Rxf6 exf6 49. Nf3
+Kc7 50. Rxb4 a6 51. Ng1 f5 52. Kf3 f4 53. Ne2 Rh8 54. Nxf4 Rf8 55. a3 Nd3
+56. c5 Nxb4 57. axb4 dxc5 58. Ke4 Rb8 59. bxc5 Rb4+ 60. Ke5 Kc6 61. Nd3
+Rxb3 62. Kd4 Kb5 0-1
+

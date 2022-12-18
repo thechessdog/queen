@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gatica, Jorge"]
+[Black "Federau, Jurgen"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "403e09e6"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2 a6
+8. f4 c5 9. Nf3 Nc6 10. dxc5 Qxc5 11. O-O-O O-O 12. Bd3 f6 13. exf6 Nxf6
+14. Rde1 Bd7 15. Kb1 b5 16. Ne5 Rae8 17. h3 Bc8 18. g4 Nb4 19. Rhf1 Nxd3
+20. cxd3 Nd7 21. h4 Nxe5 22. Rxe5 Qd4 1/2-1/2
+

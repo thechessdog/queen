@@ -1,0 +1,20 @@
+[Event "Balatonbereny open"]
+[Site "Balatonbereny open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Peric, Slavisa"]
+[Black "Huzman, Alexander"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "056ebee8"]
+[Epoch "Queen"]
+[BlackID "2803828"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Ne8 11. Nc4 f5 12. exf5 Bxf5 13. Bf4 b5 14. Ne3 Bd7 15.
+Bg3 Nac7 16. Qc2 b4 17. Ne4 Bf5 18. f3 Bd4 19. Bf2 Bxe4 20. fxe4 Rxf2 21. Kxf2
+Qh4+ 22. g3 Qxh2+ 23. Kf3 Ng7 24. Bd3 Rf8+ 25. Nf5 Qxc2 26. Bxc2 gxf5 27. Kg2
+Bxb2 28. Rab1 Bd4 29. exf5 Nge8 0-1

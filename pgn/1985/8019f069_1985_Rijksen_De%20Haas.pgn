@@ -1,0 +1,23 @@
+[Event "Alkmaar open"]
+[Site "Alkmaar open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rijksen, H."]
+[Black "De Haas, M."]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "8019f069"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Bd3 O-O 9. O-O Bg4 10. h3 Bxf3 11. Qxf3 Nbd7 12. Bf4 Ne8 13. Nb5 Ne5 14.
+Bxe5 Bxe5 15. Rab1 a6 16. Nc3 b5 17. a3 Ng7 18. Ne2 f5 19. exf5 Nxf5 20.
+Qg4 Qf6 21. Bxf5 Qxf5 22. Qxf5 Rxf5 23. f4 Bg7 24. Rfd1 Raf8 25. g4 R5f7
+26. Rf1 Re8 27. Ng3 Re3 28. Kg2 Rfe7 29. f5 Be5 30. Rf3 Rxf3 31. Kxf3 Bxg3
+32. Kxg3 gxf5 33. gxf5 Re3+ 34. Kg4 Rd3 35. Re1 Kf7 36. Re6 Rxd5 37. Kg5 a5
+38. h4 b4 39. axb4 axb4 40. h5 c4 41. Rf6+ Ke7 42. Rh6 c3 43. bxc3 bxc3 44.
+Rxh7+ Kd8 45. Rh8+ Kd7 46. Rh7+ Kc6 47. Rh8 Kb7 48. Rh7+ Kb6 49. Rh8 c2 50.
+Rc8 Rc5 51. Rxc5 Kxc5 52. f6 c1=Q+ 53. Kg6 Qg1+ 54. Kh7 Qg5 55. f7 0-1
+

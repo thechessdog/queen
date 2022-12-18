@@ -1,0 +1,19 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pavlov, Mircea"]
+[Black "Oltean, Liviu"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "41220807"]
+[Epoch "Queen"]
+[WhiteID "1200160"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nf3 b5 12. e5 dxe5 13. fxe5 Nd5 14. Nxd5
+Bxh4 15. Nxh4 exd5 16. Qxd5 Qg5+ 17. Kb1 O-O 18. Nf3 Qf4 19. e6 Bxe6 20. Qxc6
+Rfc8 21. Rd4 Qf6 22. Qb7 1-0

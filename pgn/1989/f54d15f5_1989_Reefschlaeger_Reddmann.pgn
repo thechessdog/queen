@@ -1,0 +1,18 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reefschlaeger, Helmut, Dr."]
+[Black "Reddmann, Hauke, Dr."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "Mafia defence"]
+[HashCode "f54d15f5"]
+[Epoch "Queen"]
+[WhiteID "4600878"]
+[WhiteCountry "GER"]
+[BlackID "4603540"]
+
+1. e4 c5 2. f4 e5 3. Bc4 Nc6 4. Nf3 exf4 5. d3 Bd6 6. O-O g5 7. b4 Qf6 8. c3
+Nge7 9. d4 cxd4 10. cxd4 Bxb4 11. e5 Qg7 12. Nxg5 Qxg5 13. Rxf4 d5 0-1

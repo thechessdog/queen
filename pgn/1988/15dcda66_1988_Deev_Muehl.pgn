@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Deev, Andrei"]
+[Black "Muehl, T."]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "15dcda66"]
+[Epoch "Queen"]
+[WhiteID "4102690"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 Nf5 14. Bf2
+Qa5 15. Qxc3 Qa4 16. Qb3 Qa5+ 17. Qc3 Qa4 18. Qb3 Qa5+ 19. Qc3 1/2-1/2

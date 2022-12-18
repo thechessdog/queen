@@ -1,0 +1,25 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Toth, Bela"]
+[Result "0-1"]
+[ECO "D68"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical, 13.d1c2 (Vidmar)"]
+[HashCode "97e8a9d2"]
+[Epoch "Queen"]
+[BlackID "736112"]
+[WhiteID "4600029"]
+[WhiteCountry "GER"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 Nbd7 7. Nf3 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Nxc3 12. Rxc3 e5 13. Qc2 exd4 14. exd4
+Nb6 15. Re1 Qd8 16. Bd3 h6 17. Qd2 Nd5 18. Rb3 a5 19. Bc2 Nb4 20. Bb1 Be6 21.
+Rxb4 axb4 22. Qd3 Re8 23. Qh7+ Kf8 24. Qh8+ Ke7 25. Qxg7 Ra5 26. Qxh6 Kd7 27.
+Qd2 Bxa2 28. Ne5+ Kc8 29. Qxb4 Bxb1 30. Rxb1 Rb5 31. Qc3 Qd5 32. Ra1 Rb3 33.
+Ra8+ Kc7 34. Rxe8 Rxc3 35. bxc3 Qe4 36. h4 f6 37. h5 Qe1+ 38. Kh2 fxe5 39. Rxe5
+Qxf2 40. Kh3 Qd2 41. g3 Qxc3 42. h6 Qxd4 43. Re7+ Kb6 44. h7 c5 45. g4 c4 46.
+Kh4 c3 47. Re6+ Ka7 48. Re8 c2 49. h8=Q Qxh8+ 50. Rxh8 c1=Q 51. Re8 0-1

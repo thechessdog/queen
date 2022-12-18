@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mozny, Milos"]
+[Black "Blatny, Pavel"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, lesser Simagin (Spassky) variation"]
+[HashCode "c75c8c97"]
+[Epoch "Queen"]
+[WhiteID "300454"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nc6 7. Nc3 Bf5 8. d5
+Na5 9. Nd4 Bd7 10. b3 c5 1/2-1/2

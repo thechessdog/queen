@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scherf"]
+[Black "Nicklich"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "8e4c623d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Nf3 e6 5. e4 h6 6. Bxf6 Nxf6 7. e5 Ne4
+8. Qd3 Nxc3 9. Qxc3 a5 10. Qd2 Bd7 11. Be2 Bb4 12. c3 Be7 13. a4 O-O 14.
+O-O c6 15. b4 b5 16. axb5 cxb5 17. bxa5 Rxa5 18. Qb2 Qc7 19. Rxa5 Qxa5 20.
+Ra1 Qc7 21. Ne1 Rc8 22. Nd3 Qxc3 23. Qxc3 Rxc3 24. Ra7 Ba3 25. Rxd7 b4 26.
+Rd8+ Kh7 27. Rb8 b3 28. Kf1 g6 29. Ke1 Kg7 30. f3 Kh7 31. Nf2 1-0
+

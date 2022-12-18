@@ -1,0 +1,18 @@
+[Event "corr ICCF Cup"]
+[Site "corr ICCF Cup"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wolski"]
+[Black "Quandt"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky, Simagin variation"]
+[HashCode "c28a265b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8.
+e5 dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Nc6 12. Nxc6 Qxc6 13. Qd3 h6 14.
+Bh4 Bb4 15. Be2 Qc7 16. Qe4 Bxc3 17. Qxa8 Bxe5 18. Rxd7 Qxd7 19. Rd1 Bd6
+20. Rxd6 1-0
+

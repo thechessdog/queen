@@ -1,0 +1,20 @@
+[Event "Corrientes zt"]
+[Site "Corrientes zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Milos, Gilberto"]
+[Black "Reyes, Juan"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "819790ba"]
+[Epoch "Queen"]
+[BlackID "3800040"]
+[BlackCountry "PER"]
+[WhiteID "2100029"]
+[WhiteCountry "BRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Nbd2 Bc5 7. Bc4 Qe7 8.
+O-O d6 9. c3 Be6 10. b4 Bb6 11. Qe2 Nh5 12. Bxe6 Nf4 13. Qc4 Nxe6 14. Nh4 g6
+15. Ndf3 O-O 16. Ng5 0-1

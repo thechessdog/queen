@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Rivera"]
+[Black "Serrano"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "79b51b16"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. e3 g5 8. Bg3
+Ne4 9. dxe6 Nxc3 10. exf7+ Kxf7 11. Qf3+ Qf6 12. Qxa8 Nc6 13. a3 Ba6 14.
+Qxh8 Qxh8 15. axb4 Ne4 16. O-O-O bxc4 17. Rxd7+ Ke6 18. Rc7 Nxb4 19. Rxa7
+c3 20. Rxa6+ Nxa6 21. Nf3 cxb2+ 22. Kb1 Nc3+ 23. Kxb2 Na4+ 0-1
+

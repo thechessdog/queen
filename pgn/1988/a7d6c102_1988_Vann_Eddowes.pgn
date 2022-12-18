@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vann, Monica S"]
+[Black "Eddowes, E."]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "a7d6c102"]
+[Epoch "Queen"]
+[WhiteID "471178"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Re1 O-O 6. Bxc6 dxc6 7. Nxe5 Re8
+8. Nd3 Bg4 9. Qxg4 Nxg4 10. h3 Nxf2 11. Nxf2 Qh4 12. Rf1 Rxe4 13. d3 Bxf2+ 14.
+Rxf2 Re1+ 15. Rf1 Qd4+ 16. Kh2 Rxf1 17. Nc3 Qe5+ 18. g3 Rf2+ 0-1

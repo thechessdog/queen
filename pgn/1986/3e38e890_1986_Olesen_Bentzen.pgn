@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Olesen, Martin"]
+[Black "Bentzen, Eric"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "3e38e890"]
+[Epoch "Queen"]
+[WhiteID "1400860"]
+[BlackID "1402153"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 c5 6. Nbd2 Nc6 7. e4 b6 8. Re1
+Bb7 9. e5 Nd7 10. Nf1 b5 11. c4 bxc4 12. dxc4 d4 13. h4 h6 14. N1h2 Qc7 15. a3
+O-O-O 16. Bf4 d3 17. Qxd3 Ndxe5 18. Qe2 Nxf3+ 19. Nxf3 Bd6 20. Bxd6 Rxd6 21. b4
+Rhd8 22. bxc5 Rd3 23. Rab1 Na5 24. Ne5 Rb3 25. Bxb7+ Qxb7 26. c6 Qc7 27. c5 Rd5
+28. Nxf7 Qxc6 29. Nd6+ Kc7 30. Qxe6 Qxc5 31. Rbc1 Rc3 32. Qc8+ Kb6 33. Rxc3
+Qxd6 34. Re6 1-0

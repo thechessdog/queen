@@ -1,0 +1,20 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Linde, M."]
+[Black "Abcouwer, J."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "8755b60a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Bg4 7. Be3 Nge7
+8. h3 Bf5 9. a3 Ba5 10. Qd2 Qd7 11. Nf4 O-O-O 12. O-O-O Rhe8 13. f3 Bxd3
+14. Qxd3 Bxc3 15. Qxc3 Nf5 16. Bf2 g5 17. Nd3 Re2 18. Rhe1 Rxe1 19. Rxe1
+Re8 20. Nc5 Qd8 21. Qb3 Rxe1+ 22. Bxe1 b6 23. Qb5 Qe8 24. Nd3 Qe6 25. Bd2
+Nfxd4 26. Qa6+ Kb8 27. c3 Nb3+ 28. Kc2 Nca5 29. Nf2 Nxd2 30. Kxd2 Nc4+ 31.
+Kc1 Qe1+ 32. Kc2 Qxf2+ 33. Kb3 Qxb2+ 34. Ka4 Qxa3+ 35. Kb5 c6+ 0-1
+

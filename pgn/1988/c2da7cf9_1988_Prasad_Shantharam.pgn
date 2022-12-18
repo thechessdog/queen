@@ -1,0 +1,18 @@
+[Event "India ch-IND"]
+[Site "India ch-IND"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Prasad, Devaki V"]
+[Black "Shantharam, KV."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "c2da7cf9"]
+[Epoch "Queen"]
+[WhiteID "5000050"]
+[WhiteCountry "IND"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 Ne7 8. Nb5
+Bc7 9. Qxg7 Rg8 10. Qxh7 a6 11. Nxc7+ Qxc7 12. Bb2 Qxe5+ 13. Ne2 Qf6 14. f4
+Nbc6 15. O-O-O e5 16. Qd3 e4 17. Qd2 Nf5 18. g3 Ne3 19. Qxe3 1-0

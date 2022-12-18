@@ -1,0 +1,18 @@
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shabanov, Yuri"]
+[Black "Vitolinsh, Alvis"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "d470664d"]
+[Epoch "Queen"]
+[BlackCountry "LVA"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 Be7 8.
+Bb2 O-O 9. c4 Re8 10. d4 cxd4 11. Nxd4 d5 12. cxd5 exd5 13. e5 Bc5 14. f4 Qb6
+15. Qd3 Ne4 16. Nd2 f6 17. exf6 Ndxf6 1/2-1/2

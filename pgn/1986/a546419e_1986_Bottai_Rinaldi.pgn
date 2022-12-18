@@ -1,0 +1,18 @@
+[Event "corr TS87"]
+[Site "corr TS87"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bottai"]
+[Black "Rinaldi"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "a546419e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Nxd4 11. Bxd4 e5 12. Be3 Qa5 13. Qxd6 Rfd8 14.
+Nd5 Ne8 15. Qc5 b5 16. Ne7+ Kh8 17. Bxf7 Nc7 18. Nxg6+ hxg6 19. Qe7 Bf8 20.
+Qf6+ 1-0
+

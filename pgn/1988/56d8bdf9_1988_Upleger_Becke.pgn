@@ -1,0 +1,18 @@
+[Event "Regional-Liga NN"]
+[Site "Germany"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Upleger, Martin"]
+[Black "Becke, W."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "56d8bdf9"]
+[Epoch "Queen"]
+[WhiteID "4606736"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Qb3 Nb6 8.
+d5 Bg7 9. Be3 Na6 10. Rd1 O-O 11. Be2 Qd6 12. Nf3 Nc5 13. Qa3 Nca4 14. Qxd6
+exd6 15. Nxa4 Nxa4 16. b3 Nc3 17. Rd2 Nxe2 18. Kxe2 b6 19. Nd4 1/2-1/2

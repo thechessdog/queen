@@ -1,0 +1,18 @@
+[Event "Jachranka"]
+[Site "Jachranka"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jaworski, Miroslaw"]
+[Black "Kozlowski, Waldemar"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "ba767f95"]
+[Epoch "Queen"]
+[WhiteID "1101579"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Qa4 Be7 6. Bg2 Bb7 7. O-O O-O 8. Nc3
+c5 9. dxc5 Bxc5 10. Bf4 a6 11. Rad1 Qc8 12. Ng5 Bxg2 13. Kxg2 Qb7+ 14. f3 d5
+15. cxd5 exd5 16. b4 Be7 17. Qb3 h6 18. Nh3 Nc6 19. Nxd5 1/2-1/2

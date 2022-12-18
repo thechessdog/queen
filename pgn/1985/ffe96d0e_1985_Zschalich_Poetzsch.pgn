@@ -1,0 +1,17 @@
+[Event "corr DDR-M"]
+[Site "corr DDR-M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zschalich, A."]
+[Black "Poetzsch, A."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ffe96d0e"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 Nc6 5. Bb2 O-O 6. e3 d5 7. cxd5 Nxd5
+8. Nf3 Re8 9. Be2 Rxe3 10. fxe3 Nxe3 11. Qb3 Nxg2+ 12. Kf2 Bh3 13. d4 Qe7
+14. Ne5 Nxd4 15. Qxf7+ Qxf7+ 16. Nxf7 Nxe2 17. Ng5 Bc5+ 18. Kxe2 Nf4+ 19.
+Kd1 Rd8+ 20. Kc2 Bf5+ 21. Kb3 h6 0-1
+

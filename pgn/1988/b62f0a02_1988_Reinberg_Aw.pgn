@@ -1,0 +1,17 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Reinberg, J."]
+[Black "Aw, O."]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "b62f0a02"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. d3 h6 6. Be3 Bxe3 7. fxe3 O-O
+8. O-O d6 9. h3 Na5 10. Bb3 Nxb3 11. axb3 a6 12. d4 Nd7 13. Qd2 f6 14. Ne2
+Re8 15. Ng3 Nf8 16. c4 Bd7 17. Rf2 g6 1/2-1/2
+

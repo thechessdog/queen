@@ -1,0 +1,18 @@
+[Event "San Spiritus"]
+[Site "San Spiritus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sariego, Wilfredo"]
+[Black "Arencibia, Juan Joel"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "780b594f"]
+[Epoch "Queen"]
+[BlackID "3500136"]
+[BlackCountry "FID"]
+[WhiteCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 Ne7 5. Qg4 O-O 6. e5 c5 7. Nf3 Nf5 8. Bg5
+f6 9. exf6 Rxf6 10. Bxf6 Qxf6 11. O-O Nh6 12. Qh5 Nd7 13. a3 Ba5 14. b4 1-0

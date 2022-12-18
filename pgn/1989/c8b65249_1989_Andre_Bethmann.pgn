@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andre, K."]
+[Black "Bethmann, J."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "c8b65249"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. c3 Nxe4 6. Qe2 Nc5 7. Bxc6 dxc6
+8. Qxe5+ Qe7 9. d4 Nd3+ 10. Kf1 Nxe5 11. Nxe5 Be6 12. Nd2 O-O-O 13. b3 c5
+14. Ba3 Qf6 15. Ndf3 cxd4 16. Bb2 Qf5 17. cxd4 f6 18. Rc1 fxe5 19. Nxe5 Bd6
+20. g4 Qf4 21. h3 Bxe5 22. dxe5 Rd2 0-1
+

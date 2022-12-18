@@ -1,0 +1,17 @@
+[Event "Westland SE MI op"]
+[Site "Westland SE MI op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Noren, Kevin"]
+[Black "Libby, D."]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "c4c307a7"]
+[Epoch "Queen"]
+[WhiteID "2093170"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d5 4. cxd5 Qxd5 5. Nc3 Qd8 6. e4 c6 7. Bc4 e6 8. O-O
+Bg7 9. Bg5 h6 10. Be3 O-O 11. h3 b5 12. Bd3 Nbd7 13. e5 Ne8 14. Qd2 h5 15. Ne4
+Nc7 16. Bg5 f6 17. exf6 Nxf6 18. Nxf6+ Rxf6 19. Bxg6 Bh6 20. Bxf6 1-0

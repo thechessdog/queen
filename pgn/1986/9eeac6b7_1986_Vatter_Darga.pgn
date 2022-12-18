@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vatter, Hans-Joachim"]
+[Black "Darga, Klaus"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9eeac6b7"]
+[Epoch "Queen"]
+[BlackID "4600150"]
+[BlackCountry "GER"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Qd8 7. Nc2 Be7 8. Bd3
+Nbd7 9. Qe2 O-O 10. O-O b6 11. Bg5 Bb7 12. Rad1 Qc7 13. Rfe1 Rfd8 14. Bh4 Nf8
+15. Ne5 Nd5 16. Bg3 Bd6 17. dxc5 Qxc5 18. Nd4 Bxe5 19. Bxe5 Ng6 20. Bxg6 hxg6
+21. Qg4 Ne7 22. h4 Nc6 23. Nxc6 Rxd1 24. Rxd1 Bxc6 25. Qd4 Qd5 1/2-1/2

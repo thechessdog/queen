@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jank"]
+[Black "Kieszlich"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "83d8eaf0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Nf4 g6 10. Bd3 Nc6 11. Bxg6 Ndxe5 12. dxe5 Qg5 13. Bxf7+ Kxf7
+14. Qh5+ Qxh5 15. Rxh5 Bd7 16. O-O-O Rag8 17. Ne4 Rg7 18. Nc5 Bc8 19. c3 b6
+20. Ncd3 Re8 21. Rh6 Re7 22. g3 Ke8 23. Nh5 Rgf7 24. Nf6+ Kd8 25. f4 Ba6
+26. Nf2 Be2 27. Re1 Bb5 28. Nh3 Rg7 29. Ng5 Bd3 30. Re3 Bg6 31. g4 d4 32.
+Reh3 dxc3 33. bxc3 Kc8 34. Ngxh7 Bxh7 35. Rxh7 Rxh7 36. Nxh7 Rd7 37. Nf8
+Re7 38. Rh6 Nd8 39. g5 Rf7 40. Rf6 Re7 41. Kd2 Kb7 42. Ke3 1-0
+

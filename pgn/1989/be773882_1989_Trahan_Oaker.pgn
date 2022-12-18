@@ -1,0 +1,23 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Trahan"]
+[Black "Oaker"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "be773882"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. dxc5 Nc6 10. g3 f6 11. exf6 Qxf6 12. Bb5 Nxc5 13. O-O Bd7 14.
+Nxd5 Qxb2 15. Bxc6 Bxc6 16. Ne7+ Kh8 17. Nxc6 bxc6 18. Qd4 Qxd4+ 19. Nxd4
+Rfb8 20. Nxc6 Rb2 21. Nd4 h6 22. Rfb1 Rab8 23. Rxb2 Rxb2 24. a3 Rb6 25. Re1
+Rd6 26. Nf3 Kg8 27. Kf2 Kf8 28. Re5 Nd7 29. Ra5 a6 30. Ra4 Rc6 31. Nd4 Rd6
+32. c3 e5 33. fxe5 Nxe5 34. h3 Nd3+ 35. Ke2 Nc5 36. Rc4 Ne6 37. Ke3 Kf7 38.
+Rc6 Nxd4 39. Rc7+ Kf6 40. cxd4 g6 41. Rc3 Re6+ 42. Kd3 Ke7 43. d5 Re1 44.
+Kd4 Rh1 45. Kc5 Kd7 46. h4 Rb1 47. a4 g5 48. hxg5 hxg5 49. Rc4 Rf1 50. a5
+Rf6 51. Rg4 1-0
+

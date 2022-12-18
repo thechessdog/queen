@@ -1,0 +1,21 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Bass, Leonid"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "4ad18608"]
+[Epoch "Queen"]
+[WhiteID "1300024"]
+[WhiteCountry "SUI"]
+[BlackID "2000300"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb3 Bg7 9. Nf3 O-O 10. O-O Nc6 11. d5 Na5 12. Re1 Bg4 13. h3 Bxf3 14. Qxf3 Nxb3
+15. axb3 Re8 16. Bg5 Bxc3 17. bxc3 Qxd5 18. Qxd5 Nxd5 19. c4 f6 20. cxd5 fxg5
+21. Rac1 Rad8 1/2-1/2

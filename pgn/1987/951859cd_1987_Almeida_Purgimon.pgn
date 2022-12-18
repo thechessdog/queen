@@ -1,0 +1,15 @@
+[Event "Andorra zt"]
+[Site "Andorra zt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Almeida, R."]
+[Black "Purgimon, J."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Milner-Barry gambit"]
+[HashCode "951859cd"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O
+f6 9. b4 Be7 10. Bf4 Rc8 11. Nbd2 Qd8 12. a3 f5 13. c4 g5 14. Nxg5 1-0

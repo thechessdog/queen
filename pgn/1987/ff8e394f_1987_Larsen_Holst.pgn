@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Larsen, Ernst"]
+[Black "Holst, Per"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "ff8e394f"]
+[Epoch "Queen"]
+[BlackID "1405411"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. c4 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. a3
+Be7 9. b4 c5 10. dxc5 bxc5 11. b5 a6 12. bxa6 Bxa6 13. Bb2 Nc6 14. Qc2 d4 15.
+exd4 cxd4 16. Rfe1 Ra7 17. Rad1 Qb6 1/2-1/2

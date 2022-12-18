@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Peruzzi"]
+[Black "Dosi"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "0d9af9d5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Rb1 Nc6 9. Nxc6 bxc6 10. Qf3 d5 11. e5 Nd7 12. Bd3 Bb4 13. Rd1 Ba5 14. Ke2
+Qxb2 15. Ne4 dxe4 16. Qxe4 Qc3 17. Rhf1 Rb8 18. a3 Bb7 19. Kf2 Bb6+ 20. Kg3
+Bd4 21. Rb1 h6 22. Rb4 hxg5 0-1
+

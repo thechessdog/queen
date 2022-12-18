@@ -1,0 +1,22 @@
+[Event "Mendrisio op"]
+[Site "Mendrisio"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Franke, Heribert"]
+[Black "Kljako, Damir"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "d46dc8eb"]
+[Epoch "Queen"]
+[WhiteID "4600576"]
+[BlackID "14500698"]
+[WhiteCountry "GER"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nf3 Be7 4. Nbd2 d5 5. e3 c5 6. c3 O-O 7. Bd3 b6 8. Ne5
+Bb7 9. Qf3 Nbd7 10. O-O Nxe5 11. dxe5 Nd7 12. Qh3 g6 13. Bh6 Re8 14. f4 Bf8 15.
+Bg5 Be7 16. Nf3 f5 17. g4 Bxg5 18. Nxg5 Nf8 19. Qg3 fxg4 20. Qxg4 Re7 21. h4
+Qd7 22. h5 Bc6 23. hxg6 hxg6 24. Rf2 Rg7 25. Rh2 Re8 26. Kf2 Ree7 27. Rah1 Rh7
+28. Nxh7 1-0

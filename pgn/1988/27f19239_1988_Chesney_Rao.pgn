@@ -1,0 +1,19 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chesney, W."]
+[Black "Rao, Vivek"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "27f19239"]
+[Epoch "Queen"]
+[BlackID "2000989"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 O-O 8. h3
+a6 9. g4 b5 10. g5 Nfd7 11. Qd2 Bb7 12. f3 Nc6 13. h4 Nb6 14. O-O-O Na5 15. h5
+Re8 16. hxg6 hxg6 17. Rh4 Nac4 18. Bxc4 Nxc4 19. Qh2 e5 20. Rh7 Nxe3 21. Rxg7+
+Kf8 22. Qh7 1-0

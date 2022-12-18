@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stevenson"]
+[Black "Jasinski"]
+[Result "1-0"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "3c425821"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Bg5 e5 7. Bxf6 Qxf6
+8. Nd5 Qd8 9. Nb5 Rb8 10. Nbc7+ Kd7 11. Qg4+ 1-0
+

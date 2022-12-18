@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fischer, Ernst"]
+[Black "Popp, K."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[HashCode "e51a34f5"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 c6 8.
+Rc1 Nd7 9. Bd3 O-O 10. O-O Re8 11. h3 Nf8 12. e4 dxe4 13. Bxe4 Qb6 14. Qd2
+Rd8 15. Rfd1 Bxd4 16. c5 Qxc5 17. Nxd4 e5 18. Nb3 Rxd2 19. Nxc5 Rxb2 20.
+Rd8 b6 21. Bxc6 1-0
+

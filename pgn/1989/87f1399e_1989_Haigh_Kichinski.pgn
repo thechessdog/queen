@@ -1,0 +1,17 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haigh, R."]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "87f1399e"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. d4 exd4 5. Qxd4 Nf6 6. Nc3 cxd5 7. Bd2 Nc6 8.
+Bb5 Be7 9. Nf3 O-O 10. Qf2 d4 11. Ne2 Ne4 12. Qg1 Nxd2 13. Nxd2 Qb6 14. Bd3
+Qxb2 15. Rb1 Qxa2 16. Nxd4 Bc5 17. Bc4 Re8+ 18. Kd1 Bg4+ 19. Kc1 Ba3+ 0-1

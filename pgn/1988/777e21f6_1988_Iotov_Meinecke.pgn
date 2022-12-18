@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Iotov, VD."]
+[Black "Meinecke, W."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "777e21f6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6
+8. Nc3 Qa5 9. h3 Bh5 10. d5 Rd8 11. Qb3 Bxf3 12. gxf3 Nd4 13. Qxb7 exd5 14.
+Be3 Nxe2 15. Kxe2 Rd7 16. Qb8+ Qd8 17. Qxd8+ Kxd8 18. Rad1 Nf6 19. Rhg1 g6
+20. Bd4 Bg7 21. Rg5 h6 22. Bxf6+ Bxf6 23. Rgxd5 Re8+ 24. Kf1 Re7 25. f4 Kc8
+26. Rxd7 Rxd7 27. Rxd7 Kxd7 28. Ke2 Bd4 29. f3 Ke6 30. Kd3 Bb6 31. Kc4 Kf5
+32. Nd5 Bf2 33. b4 g5 34. a4 gxf4 35. b5 Ke5 36. a5 Be3 37. a6 Kd6 38. b6
+axb6 39. Kb5 1-0
+

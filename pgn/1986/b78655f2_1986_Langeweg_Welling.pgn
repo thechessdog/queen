@@ -1,0 +1,19 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Welling, Gerard"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav accepted"]
+[HashCode "b78655f2"]
+[Epoch "Queen"]
+[BlackID "1000446"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. Ne5 Nbd7 6. f4 e6 7. e4 Bb4 8. Qf3
+c5 9. Be3 Qa5 10. Nxc4 Bxc3+ 11. Kf2 cxd4 12. Bc1 Qc5 13. Bd3 b5 14. e5 bxc4
+15. exf6 Nxf6 0-1

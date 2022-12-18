@@ -1,0 +1,22 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kristensen, Kaare Hove"]
+[Black "Hazai, Laszlo Dr."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "f834906e"]
+[Epoch "Queen"]
+[WhiteID "1400940"]
+[WhiteCountry "DEN"]
+[BlackID "700177"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 Bd7 9. Be3 O-O-O 10. Nc3 Ne7 11. a4 a5 12. Rfe1 Re8 13. f3 Ng6 14. Bf2
+Bb4 15. Re3 Ne5 16. b3 h5 17. Nce2 Bd2 18. Rd1 Bxe3 19. Bxe3 f5 20. Ng3 fxe4
+21. Nxe4 b6 22. Rd2 c5 23. Ne2 Bc6 24. N2c3 Rd8 25. Re2 c4 26. Bf4 Rhe8 27. Ng5
+Ng6 28. Rxe8 Bxe8 29. Be3 cxb3 30. cxb3 Rd3 0-1

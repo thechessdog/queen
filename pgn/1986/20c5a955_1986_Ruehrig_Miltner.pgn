@@ -1,0 +1,23 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ruehrig, Volkhard"]
+[Black "Miltner, Arndt"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "20c5a955"]
+[Epoch "Queen"]
+[BlackID "4602366"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. b3 Bg4 7. Bb2 e6 8.
+Qe2 Nd7 9. O-O-O Bd6 10. Qe4 Bf5 11. Qe3 Qe7 12. Nh4 Bg6 13. Kb1 Rg8 14. Be2 a5
+15. a4 Kd8 16. f4 f5 17. Nf3 Bh5 18. g3 Kc7 19. Rhe1 Bc5 20. d4 Ba3 21. Ne5
+Bxe2 22. Rxe2 Bb4 23. c4 Nf6 24. d5 exd5 25. cxd5 Rgd8 26. Nxf7 Qxf7 27. Qe5+
+Rd6 28. Qxf5 Rxd5 29. Rxd5 Qxd5 30. Re5 Qd1+ 31. Ka2 Nd5 32. Qxh7+ Kb6 33. Qh5
+Qc2 34. Rxd5 Bc3 35. Rb5+ Ka6 36. Rxa5+ Bxa5 37. Qe5 Rd8 38. Ka3 Rd3 39. Qe6
+Kb6 40. f5 Bb4+ 41. Ka2 Bc3 42. a5+ Ka7 0-1

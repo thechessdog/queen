@@ -1,0 +1,15 @@
+[Event "Predeal"]
+[Site "Predeal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Foisor"]
+[Black "Marin, Mihail"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "a1b72d9a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Bf4 Nc6 6. Nf3 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 Rfc8 1/2-1/2

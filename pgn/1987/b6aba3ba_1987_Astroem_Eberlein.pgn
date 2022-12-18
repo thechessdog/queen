@@ -1,0 +1,18 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Astrom, Robert"]
+[Black "Eberlein, Wolfgang"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "b6aba3ba"]
+[Epoch "Queen"]
+[BlackID "4604377"]
+[BlackCountry "GER"]
+
+1. Nf3 b6 2. e4 Bb7 3. d3 e6 4. b3 Be7 5. Bb2 Bf6 6. e5 Be7 7. Nbd2 f6 8. d4 c5
+9. c3 Nh6 10. Bd3 Nf7 11. Qc2 f5 12. Rg1 h5 13. h3 h4 14. g4 hxg3 15. Rxg3 g5
+16. Bxf5 exf5 17. Qxf5 Qc7 18. c4 cxd4 19. Bxd4 Rf8 20. e6 dxe6 21. Qg6 Nc6 22.
+Bg7 Rg8 23. Nxg5 0-1

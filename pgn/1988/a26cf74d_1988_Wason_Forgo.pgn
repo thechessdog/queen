@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wason, P."]
+[Black "Forgo, F."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "a26cf74d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bc1 e5
+8. exf5 Bb4+ 9. Kf2 Qh4+ 10. g3 Qxd4+ 11. Qxd4 exd4 12. Bd3 O-O 13. Ne2 c5
+14. Rd1 N7f6 15. Nf4 Rad8 16. Nxd5 Nxd5 17. Bd2 Bxd2 18. Rxd2 Rfe8 19. Re2
+Rxe2+ 20. Bxe2 b6 21. a3 Kf8 22. Bd3 Re8 23. Re1 Rxe1 24. Kxe1 Ke7 25. Kf2
+Kf6 26. g4 Ne3 27. Kg3 c4 28. Be2 b5 29. Kf4 Nxc2 30. h4 d3 31. Bd1 Nxa3
+0-1
+

@@ -1,0 +1,20 @@
+[Event "Regional-Liga NN"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sperlich, Olaf"]
+[Black "Hohlfeld, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "bfc7289a"]
+[Epoch "Queen"]
+[WhiteID "4603583"]
+[WhiteCountry "GER"]
+[BlackID "4674111"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2 Qc7
+8. Be3 e6 9. Qd2 Nd7 10. h3 Bh5 11. O-O-O O-O-O 12. Qc3 Bg6 13. Qb3 Nb6 14. Nh4
+Nd5 15. Nxg6 hxg6 16. Kb1 Nxe3 17. fxe3 f5 18. Bf3 Qb6 19. Qxb6 1/2-1/2

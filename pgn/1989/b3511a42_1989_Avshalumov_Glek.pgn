@@ -1,0 +1,17 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Avshalumov, Alex"]
+[Black "Glek, Igor"]
+[Result "0-1"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "b3511a42"]
+[Epoch "Queen"]
+[BlackID "4100484"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 c6 6. Bg2 d5 7. Ne5 dxc4 8. Nxc4
+Be6 9. Qd3 Na6 10. a3 Nd5 11. Ne4 Nb6 12. Ne5 Qc8 13. O-O Rd8 14. Qc3 Bd5 15.
+e3 c5 16. Nxc5 Bxg2 17. Kxg2 Nd5 18. Qa5 Nxc5 19. Nxf7 b6 0-1

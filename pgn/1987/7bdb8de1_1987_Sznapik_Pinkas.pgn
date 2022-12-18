@@ -1,0 +1,25 @@
+[Event "Wroclaw ch-POL"]
+[Site "Wroclaw ch-POL"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Pinkas, Karol"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "7bdb8de1"]
+[Epoch "Queen"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "1100319"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 Bg4 12. h3 Bh5 13. Qe2 Ne6 14. Re1 Nf4 15.
+Qe3 g5 16. Nb3 Bg6 17. Bxg6 hxg6 18. Nh2 Qd7 19. Qf3 Ne6 20. Ng4 Rh7 21. Be3
+O-O-O 22. Red1 Nb8 23. Rd2 c6 24. a4 bxa4 25. Rxa4 c5 26. Ra5 Qc6 27. Qd1 Rhh8
+28. Nf6 Bxf6 29. exf6 Nd7 30. Qa1 Qb6 31. Qa2 Kb7 32. Rxd5 Nxf6 33. Nxc5+ Nxc5
+34. Bxc5 Qe6 35. Qb3+ Kc7 36. Bd4 Rxd5 37. Rxd5 Nxd5 38. Bxh8 Qe1+ 39. Kh2 Qe4
+40. Bd4 Qf4+ 41. g3 Qf3 42. Qc4+ Kd7 43. Qxa6 g4 44. Qb7+ Ke6 45. Qc8+ Kd6 46.
+Qxg4 1-0

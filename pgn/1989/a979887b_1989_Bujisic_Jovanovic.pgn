@@ -1,0 +1,23 @@
+[Event "Belgrade op"]
+[Site "Belgrade"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Bujisic, Vlastimir"]
+[Black "Jovanovic, Sasa M"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "a979887b"]
+[Epoch "Queen"]
+[BlackID "922862"]
+[BlackCountry "SRB"]
+[WhiteID "914843"]
+[WhiteCountry "MNE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 e6 10. Bf4 Qa5+ 11. c3 Ngf6 12. b4 Qd5 13. h5 Bd6 14. Bxd6 Qxd6
+15. Rh4 b5 16. a4 a6 17. Kf1 O-O 18. a5 c5 19. Qd2 cxb4 20. cxb4 Rac8 21. Nh2
+Ne5 22. Rd1 Rfd8 23. d5 Qxd5 24. Qxd5 Nxd5 25. Ne4 Ne3+ 26. fxe3 Rxd1+ 27. Ke2
+Rg1 28. Kf2 Rb1 29. Nc5 Rxb4 30. Rxb4 Rxc5 31. Rd4 Nc6 32. Rd6 b4 33. Rd3 Nxa5
+34. Rd8+ Kh7 35. Rd7 b3 36. Rxf7 b2 37. Ng4 Rf5+ 0-1

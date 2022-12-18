@@ -1,0 +1,21 @@
+[Event "Plymouth ch-BCF"]
+[Site "Plymouth ch-BCF"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Norwood, David R"]
+[Black "Beaumont, Chris R"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "8099f6b7"]
+[Epoch "Queen"]
+[WhiteID "400106"]
+[WhiteCountry "AND"]
+[BlackID "400424"]
+[BlackCountry "ENG"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. Qd2 b5 6. Bd3 Bg7 7. f4 O-O 8. Nf3
+Bg4 9. O-O-O Nbd7 10. h3 Bxf3 11. gxf3 Qa5 12. Kb1 Nb6 13. Nd5 Qa4 14. Nxe7+
+Kh8 15. Nxc6 b4 16. Bxf6 Bxf6 17. d5 a5 18. h4 Rfc8 19. h5 Rxc6 20. dxc6 Qxc6
+21. hxg6 1-0

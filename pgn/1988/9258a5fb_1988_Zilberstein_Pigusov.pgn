@@ -1,0 +1,19 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zilberstein, Valery I"]
+[Black "Pigusov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "9258a5fb"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. Qc2 c5 7. O-O Nc6 8. dxc5
+d4 9. a3 a5 10. Bg5 Bxc5 11. Nbd2 h6 12. Bxf6 Qxf6 13. Ne1 Qe7 14. Nd3 Bd7
+1/2-1/2

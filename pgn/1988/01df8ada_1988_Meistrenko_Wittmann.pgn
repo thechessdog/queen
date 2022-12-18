@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Meistrenko, VV."]
+[Black "Wittmann, Walter"]
+[Result "1-0"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[HashCode "01df8ada"]
+[Epoch "Queen"]
+[BlackID "1600060"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 c6 7. O-O a6 8. e4 Bg4
+9. Qb3 b5 10. e5 Nfd7 11. exd6 exd6 12. Bg5 Qc7 13. cxb5 axb5 14. Rfe1 Na6 15.
+Be7 Rfe8 16. Ng5 1-0

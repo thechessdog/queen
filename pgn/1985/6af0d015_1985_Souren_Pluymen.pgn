@@ -1,0 +1,23 @@
+[Event "Voerendaal"]
+[Site "Voerendaal"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Souren, E."]
+[Black "Pluymen, J."]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "6af0d015"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. a4 e6 5. e3 Nf6 6. Bxc4 c5 7. O-O Nc6 8.
+Nc3 Na5 9. b3 Be7 10. d5 Nxc4 11. bxc4 exd5 12. cxd5 O-O 13. e4 Bg4 14. h3
+Bxf3 15. Qxf3 Bd6 16. Qe2 Re8 17. f4 Nxe4 18. Nxe4 f5 19. Bb2 Rxe4 20. Qh5
+Qd7 21. g3 Rae8 22. Rf2 c4 23. Ba3 Re1+ 24. Kg2 Bxa3 25. Rxa3 Qxd5+ 26.
+Raf3 Qd1 27. g4 Rg1+ 28. Kh2 Rh1+ 29. Kg3 Rg1+ 30. Kh4 Qd8+ 31. Qg5 Qxg5+
+32. Kxg5 fxg4 33. hxg4 h6+ 34. Kh5 Rh1+ 35. Kg6 Re6+ 36. Kf5 Rf6+ 37. Ke5
+Rd1 38. g5 hxg5 39. fxg5 Rxf3 40. Rxf3 Rd3 41. Rf1 b5 42. axb5 axb5 43. Kf5
+Rd8 44. Ke6 c3 45. Ke7 Rb8 46. Kd7 b4 47. Kc7 Rf8 48. Rb1 c2 49. Rc1 b3 50.
+Re1 b2 0-1
+

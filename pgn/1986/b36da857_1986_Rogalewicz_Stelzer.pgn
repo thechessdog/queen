@@ -1,0 +1,20 @@
+[Event "Untergrombach-Ingber"]
+[Site "Untergrombach-Ingber"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rogalewicz"]
+[Black "Stelzer"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "b36da857"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Qb3
+Qc7 8. Ne2 Nd7 9. Be3 e6 10. c4 h5 11. Nc3 h4 12. O-O-O Bd6 13. Be2 O-O-O
+14. Bf3 Bxh2 15. d5 Bf4 16. dxc6 Bxe3+ 17. fxe3 bxc6 18. Qa4 Nc5 19. Qa3
+Nd3+ 20. Kc2 Nf2+ 21. e4 Nxd1 22. Rxd1 Rxd1 23. exf5 Rdd8 24. fxe6 fxe6 25.
+Ne4 h3 26. Nc5 Qb6 27. gxh3 Rxh3 28. b4 Rg8 29. Qe3 Rh2+ 30. Kb3 e5 31. Qd3
+Qd8 32. Qf5+ Kb8 33. Qe6 Qd1+ 34. Bxd1 Rg3+ 35. Ka4 Rxa2# 0-1
+

@@ -1,0 +1,23 @@
+[Event "New York Manhattan"]
+[Site "Manhattan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shapiro, Daniel E"]
+[Black "Bonin, Jay"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "32f605c4"]
+[Epoch "Queen"]
+[WhiteID "2001780"]
+[WhiteCountry "USA"]
+[BlackID "2000644"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 Nd5 10. Qd3 O-O 11. a3 Nxc3 12. bxc3 Be7 13. f4 b6 14. Ng3 Bb7 15.
+f5 e5 16. Nh5 Kh8 17. f6 Bxf6 18. Nxf6 gxf6 19. Bh6 Rg8 20. d5 Ne7 21. Rad1 Qd6
+22. Bb3 Rad8 23. Rf2 f5 24. Bc1 f4 25. a4 Bc8 26. c4 f6 27. Ba2 Nf5 28. Bb1 Qc5
+29. Ba3 Qe3 30. Bb4 Rg7 31. Re1 Qxd3 32. Bxd3 Nh4 33. Kh1 Rdg8 34. Bf1 Bh3 35.
+d6 Nxg2 36. Rc1 Ne1 0-1

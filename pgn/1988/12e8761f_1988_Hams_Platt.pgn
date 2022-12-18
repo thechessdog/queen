@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hams"]
+[Black "Platt"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[HashCode "12e8761f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qb3 Qxb3 7. axb3 Bg4
+8. Nbd2 e6 9. Bb5 Nd7 10. O-O Be7 11. Bxc6 bxc6 12. Ra6 1-0
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fernandez Oliva"]
+[Black "Funes Castro"]
+[Result "1-0"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "742974fc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5
+8. Nf3 Nc6 9. dxc5 Qa5+ 10. Nd2 Nxd2 11. Bxd2 Qxc5 12. e3 O-O 13. b4 Qd6
+14. Bd3 dxc4 15. Bxc4 a6 16. Bd3 f5 17. Bc3 Rd8 18. Rd1 Qe7 19. O-O Bd7 20.
+f4 Rf8 21. e4 fxe4 22. Bxe4 g6 23. Bxg6 Rad8 24. Be4 Rf7 25. Qe2 Be8 26.
+Rxd8 Qxd8 27. Qg4+ Kf8 28. Qxe6 Qb6+ 29. Kh1 Qe3 30. Qd6+ Kg8 31. Bd3 Qe7
+32. Qh6 b5 33. Rf3 Rf8 34. Bxh7+ 1-0
+

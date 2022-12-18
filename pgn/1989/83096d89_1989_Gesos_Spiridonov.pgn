@@ -1,0 +1,19 @@
+[Event "Athens op"]
+[Site "Athens"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gesos, Pavlos"]
+[Black "Spiridonov, Nikola"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "83096d89"]
+[Epoch "Queen"]
+[WhiteID "4200055"]
+[BlackID "2900238"]
+[WhiteCountry "GRE"]
+[BlackCountry "FID"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. Be3 exf4 8. Bxf4
+Qb6 9. Na4 Qa5+ 10. Nc3 Qb4 11. a3 Qxb2 12. Na4 Bxf3 13. gxf3 1-0

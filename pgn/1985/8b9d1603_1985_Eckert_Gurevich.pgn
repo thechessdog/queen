@@ -1,0 +1,23 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eckert, Doug"]
+[Black "Gurevich, Dmitry"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "8b9d1603"]
+[Epoch "Queen"]
+[WhiteID "2001993"]
+[WhiteCountry "USA"]
+[BlackID "2000407"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 d6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Re1 Nbd7 14. a5 Rfd8 15.
+Na4 Rab8 16. h3 Ne5 17. Nb6 Nfd7 18. Nxd7 Nxd7 19. Qd2 b6 20. axb6 Rxb6 21. Bg5
+Bf6 22. Bxf6 Qxf6 23. Ra2 Rdb8 24. Qc3 Ne5 25. Re3 Rxb2 26. Rxa6 Ng4 27. hxg4
+Rb1+ 28. Qe1 Qd4 29. Ra2 Qxe3 30. fxe3 Rxe1+ 31. Kf2 Reb1 32. Ke2 R1b2+ 33.
+Rxb2 Rxb2+ 34. Kd3 Rb4 0-1

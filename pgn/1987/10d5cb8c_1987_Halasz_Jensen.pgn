@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Halasz, G."]
+[Black "Jensen, Niels"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "10d5cb8c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 dxe4 4. Bc4 Qg5 5. Bxf7+ Ke7 6. d4 Qxg2 7. Rf1
+Nd7 8. Bb3 Nxe5 9. dxe5 Bh3 10. Nd2 g6 11. Qe2 Bh6 12. Qc4 Bxd2+ 13. Kxd2
+Qf3 14. Ke1 Bxf1 15. Bg5+ Ke8 16. Kxf1 Qf5 17. Rd1 Ne7 18. Bxe7 1-0
+

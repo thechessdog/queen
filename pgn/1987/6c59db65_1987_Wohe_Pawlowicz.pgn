@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wohe"]
+[Black "Pawlowicz"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "6c59db65"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. Bg2 Ng6
+8. Nxg6 hxg6 9. d3 Rxh2 10. Kf2 Bxg3+ 11. Kxg3 Qh4+ 12. Kf4 Qf2+ 13. Ke5
+Nd7+ 14. Ke4 f5+ 15. Kd5 Qc5+ 16. Ke6 Qe5# 0-1
+

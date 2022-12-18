@@ -1,0 +1,19 @@
+[Event "Tampere Kaleva"]
+[Site "Tampere Kaleva"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Terho, Jarmo"]
+[Black "Torhola, Simo"]
+[Result "0-1"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "212e0c2c"]
+[Epoch "Queen"]
+[WhiteID "507342"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 c6 5. e3 Nbd7 6. Nf3 Bg7 7. c5 O-O 8. b4 a6
+9. Be2 Re8 10. h4 e5 11. h5 exd4 12. Nxd4 a5 13. hxg6 fxg6 14. a3 axb4 15. axb4
+Rxa1 16. Qxa1 Ne5 17. O-O Qe7 18. Qa7 h6 19. Bxf6 Qxf6 20. b5 Qg5 21. f4 Qg3
+22. fxe5 Qxe3+ 23. Kh1 Qxd4 24. bxc6 Qh4+ 25. Kg1 Bxe5 26. Rd1 Bg3 0-1

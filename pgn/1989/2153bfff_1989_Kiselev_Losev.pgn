@@ -1,0 +1,23 @@
+[Event "URS-ch sf"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kiselev, Sergey"]
+[Black "Losev, Dmitry"]
+[Result "1-0"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Kotov variation"]
+[HashCode "2153bfff"]
+[Epoch "Queen"]
+[WhiteID "24194905"]
+[WhiteCountry "RUS"]
+[BlackID "4105958"]
+[BlackCountry "RUS"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Be3 e5 6. d5 Nce7 7. Nf3 f5 8. exf5
+gxf5 9. Ng5 Nf6 10. f4 Ng6 11. fxe5 Ng4 12. Bd2 Bxe5 13. Qf3 h6 14. Ne6 Qh4+
+15. g3 Nxh2 16. Rxh2 Bxg3+ 17. Kd1 Bxh2 18. Nxc7+ Kd8 19. Nxa8 f4 20. Kc2 Bf5+
+21. Kb3 Ne5 22. Qg2 Qg3 23. Qe2 Bd3 24. Qh5 Kc8 25. Bxd3 Qxd3 26. Qxh2 Qxc4+
+27. Ka3 b5 28. b4 Kb7 29. Qxf4 Rc8 30. Qe3 Kxa8 31. Rc1 Qg4 32. Kb3 Rf8 33. Qe4
+Qg3 34. Re1 Rf3 35. Re3 Nc4 36. Qe8+ Kb7 37. Qc6+ Kb8 38. Re8# 1-0

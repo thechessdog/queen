@@ -1,0 +1,20 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Rodriguez Talavera, Juan Carlos"]
+[Black "Campos Lopez, Mario"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "7e0ce79e"]
+[Epoch "Queen"]
+[BlackID "5100100"]
+[BlackCountry "MEX"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. Qb3
+Bxc3+ 9. bxc3 Nc6 10. cxd5 Na5 11. Qc2 Nxd5 12. Ba3 Re8 13. Qd3 Bd7 14. Rc1 Rc8
+15. Nb3 Nc4 16. Bc5 Bb5 17. O-O b6 18. Nd4 Ba6 19. Bb4 Bb7 20. Nc2 a5 21. Ba3
+Qf6 22. Rfd1 Ba8 23. Kf1 Red8 24. Bxd5 Rxd5 25. Nd4 e5 26. Qf5 Qd8 27. Be7 exd4
+28. Bxd8 Rxf5 29. Rxd4 Rd5 0-1

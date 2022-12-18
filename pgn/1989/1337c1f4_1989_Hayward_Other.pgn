@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hayward, A."]
+[Black "Other, AN."]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "double Muzio gambit"]
+[HashCode "1337c1f4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5
+8. Bxf7+ Kxf7 9. d4 Qxd4+ 10. Be3 Qf6 11. Nc3 fxe3 12. Qh5+ Ke6 13. Qd5+
+Ke7 14. Rxf6 Nxf6 15. Qe5+ Kf7 16. Rf1 Be7 17. Nd5 Re8 18. Qh5+ Kf8 19.
+Nxf6 Bxf6 20. Qh6+ Kg8 21. Qxf6 e2 22. Qf7+ 1-0
+

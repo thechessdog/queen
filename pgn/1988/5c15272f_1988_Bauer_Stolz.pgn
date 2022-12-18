@@ -1,0 +1,20 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bauer"]
+[Black "Stoltz, Gösta"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[HashCode "5c15272f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1 Nbc6 11. Nf3 dxc3 12. Bf4 Qb6 13. Be3 d4 14. Bg5
+Bd7 15. Qh4 Qb2 16. Rc1 Qxa3 17. Bd3 O-O-O 18. Nxd4 Ng6 19. Bxg6 Nxd4 20. Be7
+Qb2 21. Qxd4 Bc6 22. Bd6 Rxg6 23. Qxa7 Rxd6+ 24. exd6 Rg5 25. d7+ Kxd7 26. Qe3
+f6 27. h4 Rd5+ 28. Ke2 Rd2+ 29. Qxd2+ cxd2 30. Kxd2 Bxg2 31. Rhg1 Qd4+ 32. Ke2
+Qe4+ 33. Kd2 Kc6 34. Rce1 Qf4+ 35. Kc3 Qxf2 36. Rxe6+ Kc5 37. Rd1 Qxh4 38. Rdd6
+Bd5 0-1

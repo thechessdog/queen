@@ -1,0 +1,23 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brunner, Lucas"]
+[Black "Kraut, Rainer"]
+[Result "1/2-1/2"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "classical variation"]
+[HashCode "05afb6c0"]
+[Epoch "Queen"]
+[WhiteID "1300024"]
+[WhiteCountry "SUI"]
+[BlackID "4600282"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. dxc5 Qxd1+ 7. Kxd1 Bxc5
+8. a3 a6 9. b4 Bd6 10. Bb2 Nbd7 11. Ke2 b5 12. Bd3 Bb7 13. Nbd2 Ke7 14. Rhg1 h6
+15. h3 Rac8 16. Rac1 g6 17. Bb1 Bb8 18. g3 Rhd8 19. Rgd1 Rxc1 20. Rxc1 Rc8 21.
+Rxc8 Bxc8 22. Nb3 Bb7 23. Nfd2 h5 24. h4 Ng4 25. f4 f5 26. e4 Ngf6 27. e5 Nd5
+28. Na5 Ba8 29. Bd4 N5b6 30. Ndb3 Na4 31. Bc2 Bc7 32. Ke3 Ndb6 33. Nc5 Nxc5 34.
+Bxc5+ Kd7 35. Kd4 Bd5 36. Bd1 Na4 37. Bxa4 bxa4 38. Ba7 Bxa5 1/2-1/2

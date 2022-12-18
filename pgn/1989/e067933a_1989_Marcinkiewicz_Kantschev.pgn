@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marcinkiewicz, J."]
+[Black "Kantschev, T."]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "e067933a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Nxc6 bxc6 9. e5 Qa5 10. exf6 Bxc3+ 11. bxc3 Qxc3+ 12. Qd2 Qxa1 13. O-O Qxf6
+14. Ba3 Qd8 15. Be4 d5 16. cxd5 cxd5 17. Qc3 f6 18. Qg3 Kf7 19. Bd3 e5 0-1
+

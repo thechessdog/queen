@@ -1,0 +1,19 @@
+[Event "corr CAN-NOR"]
+[Site "corr CAN-NOR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Motard"]
+[Black "Otterstad"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "310a10f6"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2
+Nd7 8. Ng3 Bg6 9. h4 h5 10. Be2 Qa5 11. b4 Qc7 12. Nxh5 e5 13. Ng3 O-O-O
+14. h5 Bh7 15. O-O Bd6 16. Bg4 exd4 17. Qxd4 Be5 18. Qxa7 Bxc3 19. Be3 Bxa1
+20. Rxa1 Qb8 21. Qa4 f5 22. b5 c5 23. Bf4 Nb6 24. Nxf5 Bxf5 25. Bxf5+ Rd7
+26. Qe4 Qa7 27. Qe5 1-0
+

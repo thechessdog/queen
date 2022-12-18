@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Magnusson, G."]
+[Black "Gude Fernandez, A."]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "75c16dc4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 a6 10. Be2 O-O 11. Nf3 Re8 12. O-O Nf8 13. h3 Nbd7 14. e5
+dxe5 15. Ne4 f5 16. Nd6 e4 17. Ng5 Bd4+ 18. Kh1 Re7 19. Bc4 Kg7 20. Nxf5+
+gxf5 21. d6 Re8 22. Nf7 Qf6 23. Ra3 Nb6 24. Rg3+ Ng6 25. Ne5 Qxd6 26. Be3
+Bxe5 0-1
+

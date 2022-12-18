@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Neumark, Thomas"]
+[Black "Schumacher, Norbert"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "cddccd04"]
+[Epoch "Queen"]
+[WhiteID "4604121"]
+[BlackID "4611110"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. Be3
+Nd4 9. O-O O-O 10. Rb1 Rb8 11. Qd2 b6 12. a4 Qd7 13. Bxd4 cxd4 14. Nb5 a6 15.
+Nbxd4 Qxa4 16. c3 Qd7 17. Nc2 Bb7 18. Rfe1 Nc6 19. Qf2 b5 20. d4 Na5 21. g4 f5
+22. gxf5 exf5 23. e5 dxe5 24. dxe5 Rbd8 25. Ncd4 Qe7 26. Ng5 Rd7 27. Ra1 Nc4
+28. Bxb7 Rxb7 29. Nc6 Qe8 30. Rxa6 h6 31. Nf3 g5 32. b3 Rc7 33. Nfd4 Qc8 34.
+Rea1 gxf4 35. bxc4 Bh8 36. Qg2+ 1-0

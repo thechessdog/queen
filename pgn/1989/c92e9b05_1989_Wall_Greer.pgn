@@ -1,0 +1,19 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer, Ken"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "c92e9b05"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nc3 bxc4 5. e4 d6 6. Nf3 g6 7. Bxc4 Bg7 8. O-O
+O-O 9. Bg5 Nbd7 10. Qc1 Re8 11. Bh6 Bh8 12. Ng5 Ng4 13. Ne6 fxe6 14. dxe6 Nde5
+15. Bd5 Rb8 16. Qf4 Nxh6 17. Qxh6 Rf8 18. f4 Ng4 19. Qh3 Bd4+ 20. Kh1 Nf2+ 21.
+Rxf2 Bxf2 22. Rf1 Rxf4 23. Ne2 Rf6 24. Ng3 Rxb2 25. e5 Rf8 26. Ne4 Be3 27. Nf6+
+exf6 28. exf6 Rf2 29. f7+ Kg7 30. Rxf2 Bxf2 31. Qc3+ Bd4 32. Qg3 Be5 33. Qg4
+Qa5 0-1

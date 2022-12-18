@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wolfram"]
+[Black "Patzold"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "7b4b750c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Nf3 Qa5 9. Bd2 Qa4 10. Bd3 Nbc6 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Ng5 Qxc2
+14. h4 cxd4 15. cxd4 Qf5 16. Be3 f6 17. g4 Qg6 18. Qxg6 Nxg6 19. Nf3 fxe5
+20. Nxe5 Ngxe5 21. dxe5 Nxe5 22. g5 Nf3+ 23. Ke2 d4 24. Bc1 e5 0-1
+

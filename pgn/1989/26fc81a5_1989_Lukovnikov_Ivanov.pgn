@@ -1,0 +1,17 @@
+[Event "ch-URS, leger "]
+[Site "Simferopol"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lukovnikov, A."]
+[Black "Ivanov, Ale"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "26fc81a5"]
+[Epoch "Queen"]
+[BlackID "34188638"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Nxe4 11. Bd5 Qd7 12. dxe5 Ng5 13. Bxg5 Bxg5 14. h3 1-0

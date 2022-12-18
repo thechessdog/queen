@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beutel, H."]
+[Black "Nebel, L."]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Lewis counter-gambit"]
+[HashCode "5a7169da"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 d5 4. Bxd5 Nf6 5. Qa4+ Nbd7 6. d4 exd4 7. cxd4 c6
+8. Bxf7+ Kxf7 9. dxc5 Re8 10. Qc4+ Kf8 11. Nc3 Ne5 12. Qe2 Nd3+ 13. Kf1
+Nxc5 14. Be3 Ncxe4 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Soltau"]
+[Black "Schutz"]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "c8ab1b4d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8.
+b3 b6 9. Rd1 Bb7 10. Nc3 Rc8 11. e4 c5 12. exd5 exd5 13. Bb2 dxc4 14. d5
+cxb3 15. axb3 Ne8 16. Rxa7 Nd6 17. Ne4 Ra8 18. Rxb7 Nxb7 19. d6 Nxd6 20.
+Nxd6 Bf6 21. Bxf6 Qxf6 22. Ne4 Qe7 23. Nfg5 Rad8 24. Rxd7 1-0
+

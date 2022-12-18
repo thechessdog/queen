@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Prokopp, H."]
+[Black "Ahman, H."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "85d69150"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Qc4 Nc5 11. Rd1 d5 12. exd6 cxd6 13. Be3
+Ba6 14. Qg4 f5 15. Qf4 d5 16. Nd4 Qd7 17. Nb3 Nxb3 18. axb3 Bc8 19. Qd4 Bf6
+20. Qd2 Bxc3 21. bxc3 Qf7 22. Re1 Re8 23. Rxa7 Rxa7 24. Bxa7 Rxe1+ 25. Qxe1
+h6 26. Bd4 f4 27. f3 1/2-1/2
+

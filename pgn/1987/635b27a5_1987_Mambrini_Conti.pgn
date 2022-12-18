@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mambrini, A."]
+[Black "Conti, E."]
+[Result "1-0"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[HashCode "635b27a5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. e3 Bxc3+ 8.
+bxc3 e5 9. f3 Qa5 10. Qd2 Ne4 11. fxe4 Nd7 12. Bd3 Qa4 13. Nf3 Nb6 14. Qe2
+Bg4 15. O-O g5 16. Bg3 f6 17. Rab1 Qd7 18. Qb2 Ke7 19. Nd4 cxd4 20. cxd4
+Nc8 21. dxe5 fxe5 22. Bxe5 Rf8 23. Bf6+ 1-0
+

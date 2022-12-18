@@ -1,0 +1,18 @@
+[Event "Berlin Neukoelln"]
+[Site "Berlin-West"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Weber, Siegfried"]
+[Black "Cladouras, Panagiotis"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "e68dbb7a"]
+[Epoch "Queen"]
+[BlackID "4600959"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Bd6 5. d4 Nf6 6. c4 O-O 7. Be2 Re8 8. O-O
+c5 9. dxc6 Nxc6 10. Nc3 Bb8 11. d5 Ne7 12. Ne1 g5 13. g3 Ng6 14. Nd3 Bh3 15.
+Rf2 fxg3 16. hxg3 Bxg3 17. Bxg5 Bxf2+ 18. Nxf2 Qd6 0-1

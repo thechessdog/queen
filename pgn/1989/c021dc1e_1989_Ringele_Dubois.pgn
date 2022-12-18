@@ -1,0 +1,19 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ringele, JR."]
+[Black "Dubois, Jean"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "c021dc1e"]
+[Epoch "Queen"]
+[BlackID "26052890"]
+[BlackCountry "FRA"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 c5 7. Be3 cxd4 8. c5
+Nd5 9. Bxd4 Nc6 10. Bc3 Bf5 11. Nf3 e6 12. Bb5 Bxc5 13. Bxc6+ bxc6 14. Qa4 O-O
+15. Bd4 Bxd4 16. Qxd4 c5 17. Qf2 Nb4 18. O-O Nc2 19. Nbd2 Nxa1 20. Rxa1 Qd5 21.
+Nf1 Bg6 22. Ne3 Qe4 23. h3 Rad8 24. Ng4 h5 25. Ne3 Rd3 26. Nc2 Rxf3 0-1

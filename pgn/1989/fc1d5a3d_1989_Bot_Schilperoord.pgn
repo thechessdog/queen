@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bot"]
+[Black "Schilperoord"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "fc1d5a3d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Nf6 5. e5 dxe5 6. dxe5 Qa5+ 7. Nc3 Ne4
+8. e6 fxe6 9. Ne5 Nd6 10. Qh5+ Kd8 11. Bxd7 Bxd7 12. Bd2 Qb4 13. Nxd7 Kxd7
+14. O-O g6 15. Qh3 h5 16. Rfe1 Qg4 17. Qxg4 hxg4 18. Ne4 b6 19. Bf4 Bh6 20.
+Bg3 Rhf8 21. Rad1 Bf4 22. Bxf4 Rxf4 23. Rd2 Rc8 24. Rde2 Nf7 25. Re3 e5 26.
+h4 gxh3 27. Rxh3 Nd6 28. Rhe3 Rcf8 29. f3 Nc4 30. Rd3+ Kc6 31. Rc3 Nxb2 32.
+Rb1 Na4 33. Ra3 b5 34. c4 a6 35. Kf2 Rxe4 0-1
+

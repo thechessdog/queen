@@ -1,0 +1,17 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Robatsch, Karl"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "d5480a2e"]
+[Epoch "Queen"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 c5 5. a3 Bxd2+ 6. Bxd2 cxd4 7. Nxd4 d5
+8. e3 O-O 9. cxd5 Nxd5 10. Qc2 e5 11. Nf3 Nc6 12. Bd3 1/2-1/2

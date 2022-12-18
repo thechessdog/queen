@@ -1,0 +1,20 @@
+[Event "IHJM"]
+[Site "IHJM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Baumer, L."]
+[Black "Stenner, P."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "e9dbca7e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Bd6
+8. h4 h6 9. Nf4 Ne7 10. Ngh5 O-O 11. Be3 Nd5 12. c3 Nd7 13. Qe2 Qc7 14. Qf3
+Kh8 15. O-O-O e5 16. Nxd5 cxd5 17. Bxd5 Qa5 18. Ng3 Rab8 19. h5 Bh7 20. Bb3
+Rfc8 21. Ne4 Nf6 22. Nc5 exd4 23. Bxd4 Rxc5 24. Bxf6 Rf5 25. Bxg7+ Kg8 26.
+Bxf7+ Rxf7 27. Bf6 Qc7 28. Rh4 Kf8 29. Rhd4 Be5 30. Bxe5 Qxe5 31. Qg3 Qxg3
+32. fxg3 Re8 33. Rf4 0-1
+

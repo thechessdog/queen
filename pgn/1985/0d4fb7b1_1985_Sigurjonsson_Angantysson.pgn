@@ -1,0 +1,21 @@
+[Event "Borgarnes"]
+[Site "Borgarnes"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Sigurjonsson, Gudmundur"]
+[Black "Angantysson, Haukur"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9.c3"]
+[HashCode "0d4fb7b1"]
+[Epoch "Queen"]
+[WhiteID "2300079"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 g5 10. a4 Rb8 11. axb5 axb5 12. Nbd2 Nxd2 13. Bxd2 h6 14. Nd4 Qd7 15.
+Qe2 Nxd4 16. cxd4 g4 17. Rfc1 c6 18. Bc2 h5 19. Ra6 Be7 20. Bd3 Rc8 21. Raxc6
+Rxc6 22. Rxc6 O-O 23. Ra6 Rb8 24. Qe3 Qc8 25. Ra7 Bf8 26. Qg5+ Bg7 27. Qxh5 Ra8
+28. Qh7+ Kf8 29. Bb4+ Ke8 30. Qg8+ 1-0

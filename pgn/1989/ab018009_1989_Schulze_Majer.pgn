@@ -1,0 +1,23 @@
+[Event "WURT-MM8990"]
+[Site "WURT-MM8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schulze, A."]
+[Black "Majer, W."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ab018009"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 dxc5 5. Qxd8+ Kxd8 6. e5 Nfd7 7. Nf3 e6
+8. Ng5 Nxe5 9. f4 h6 10. fxe5 hxg5 11. Bxg5+ Be7 12. Bf4 Nc6 13. Na3 a6 14.
+Be2 b5 15. Rd1+ Kc7 16. O-O Bd7 17. Bg3 Be8 18. Bf3 Rd8 19. Nb1 Bg5 20.
+Rxd8 Nxd8 21. a4 bxa4 22. Na3 Bb5 23. Rd1 Be7 24. Bf2 c4 25. Be2 Bxa3 26.
+bxa3 Nc6 27. Bc5 Rd8 28. Bd6+ Kc8 29. Rf1 f6 30. Bg4 f5 31. Bh5 Rh8 32. Bf3
+Nd8 33. Rd1 Nf7 34. Rd4 Rd8 35. Be2 Nxd6 36. exd6 Kd7 37. Bxc4 Rc8 38.
+Bxb5+ axb5 39. Rd3 Rc6 40. Rg3 Kxd6 41. Kf2 Rc4 42. Ke2 g5 43. Kd2 g4 44.
+Rd3+ Ke7 45. Re3 Rc5 46. Kc2 Kf6 47. Rd3 Rd5 48. Rg3 Re5 49. Kd2 Kg5 50. h3
+Kh4 0-1
+

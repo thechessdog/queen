@@ -1,0 +1,23 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dubois"]
+[Black "Veen"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "503f5d00"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nf3 Ne7 7. a3 Bxc3 8.
+Bxc3 a5 9. Bd3 Ba6 10. O-O Bxd3 11. Qxd3 c5 12. b3 Nbc6 13. Rfe1 Nf5 14. g4
+Nfxd4 15. Nxd4 Nxd4 16. Bxd4 cxd4 17. Qxd4 b5 18. c4 dxc4 19. Qxd7+ Kxd7
+20. bxc4 bxc4 21. Rec1 Rhc8 22. Rab1 Rc7 23. Rb5 c3 24. f3 a4 25. Kf2 c2
+26. Ke2 Rc3 27. Rb7+ Ke8 28. Rb2 Rac8 29. h4 g6 30. h5 gxh5 31. gxh5 h6 32.
+f4 R8c4 33. Kd2 Rf3 34. Rcxc2 Rxc2+ 35. Kxc2 Rxf4 36. Rb8+ Ke7 37. Rh8 Rf5
+38. Rxh6 Rxe5 39. Rh8 Re3 40. Kb2 Rb3+ 41. Ka2 Rh3 42. h6 Rh2+ 43. Kb1 f5
+44. h7 Kf7 45. Ra8 Rxh7 46. Rxa4 Kf6 47. Kc2 e5 48. Rb4 f4 49. Kd2 Rh2+ 50.
+Ke1 Ra2 0-1
+

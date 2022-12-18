@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arnason, Jon L"]
+[Black "Brekka, Martin"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "61309458"]
+[Epoch "Queen"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackID "7200129"]
+[BlackCountry "FAI"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Nc5 b6 6. Nb3 e6 7. Nf3 Nf6 8. g3
+Qc7 9. Bg2 Bd6 10. Qe2 O-O 11. Ne5 Bxe5 12. dxe5 Nd5 13. O-O Nd7 14. f4 Rac8
+15. g4 Bg6 16. f5 exf5 17. gxf5 Nxe5 18. fxg6 Nxg6 19. Qf2 Nf6 20. Bf4 Qe7 21.
+Bg5 1-0

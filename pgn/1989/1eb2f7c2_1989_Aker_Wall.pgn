@@ -1,0 +1,18 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Aker"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "1eb2f7c2"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Bb4+ 7. Bd2 Qe7 8. a3
+Bxd2+ 9. Nbxd2 O-O-O 10. O-O h5 11. Qb3 Qd7 12. Rfe1 Nge7 13. Ne4 b6 14. c5
+Bxf3 15. Bxf3 Nxe5 16. cxb6 Nxf3+ 17. Qxf3 axb6 18. Qxf7 h4 19. Qc4 hxg3 20.
+fxg3 Qh3 0-1

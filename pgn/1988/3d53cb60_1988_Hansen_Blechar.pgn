@@ -1,0 +1,18 @@
+[Event "corr ch4-USA"]
+[Site "corr ch4-USA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Blechar"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "3d53cb60"]
+[Epoch "Queen"]
+
+1. b3 d5 2. Bb2 Bg4 3. h3 Bh5 4. d3 c5 5. Nd2 f6 6. c4 d4 7. Ngf3 Qc7 8. b4 e5
+9. g4 Bg6 10. Qa4+ Nd7 11. bxc5 Bxc5 12. Bg2 Ne7 13. O-O O-O 14. Nh4 f5 15.
+Rab1 fxg4 16. hxg4 Rf4 17. Nxg6 Nxg6 18. Bd5+ Kh8 19. Bf3 Nb6 20. Qb3 Qc8 21.
+Rfd1 Rxg4+ 22. Kf1 Nf4 23. Ne4 Rg6 24. Nxc5 Qxc5 25. Ba3 Qc8 26. c5 e4 27. dxe4
+d3 28. Ke1 Qh3 29. cxb6 Rd8 30. Kd2 Nxe2 31. Rh1 Qxf3 32. Bb2 Rc6 0-1

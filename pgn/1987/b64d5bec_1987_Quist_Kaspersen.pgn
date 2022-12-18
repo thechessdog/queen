@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bove Quist, Viggo"]
+[Black "Kaspersen, Morten"]
+[Result "0-1"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "b64d5bec"]
+[Epoch "Queen"]
+[BlackID "1402897"]
+[BlackCountry "DEN"]
+[WhiteID "1403656"]
+[WhiteCountry "DEN"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 Nf6 4. Nc3 d5 5. Bf4 O-O 6. e3 c5 7. dxc5 Be6 8. Nd4
+Nc6 9. Nxc6 bxc6 10. Qa4 Nh5 11. Bg5 h6 12. Bh4 d4 13. O-O-O dxc3 14. Rxd8
+cxb2+ 15. Kb1 Rfxd8 16. f3 Rab8 17. Be2 Nf4 18. Qc2 Nxg2 19. e4 Nxh4 20. Rd1
+Ng2 21. Qa4 Ne3 22. Re1 Rd2 23. Qa5 Rbd8 24. a3 R8d7 25. f4 Rxe2 26. f5 Rxe1+
+27. Qxe1 0-1

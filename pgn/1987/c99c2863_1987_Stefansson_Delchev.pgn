@@ -1,0 +1,19 @@
+[Event "Innsbruck"]
+[Site "Innsbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stefansson, Hannes"]
+[Black "Delchev, A."]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "c99c2863"]
+[Epoch "Queen"]
+[WhiteID "2300087"]
+[WhiteCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 g6 7. O-O Bg7 8.
+Be3 O-O 9. Nb3 Be6 10. f4 Na5 11. Nd4 Bc4 12. Bd3 e5 13. Nb3 d5 14. Nxa5 Qxa5
+15. Bxc4 dxc4 16. fxe5 Rad8 17. exf6 Rxd1 18. Raxd1 Bh8 19. Bh6 Bxf6 20. Rxf6
+Re8 21. Rfd6 Qc5+ 22. Kf1 f5 23. Rd7 g5 24. Rg7+ Kh8 25. Rdd7 1-0

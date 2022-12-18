@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaminski, Uwe"]
+[Black "Kristiansen, Jens"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "67beff80"]
+[Epoch "Queen"]
+[WhiteID "4611381"]
+[BlackID "1400061"]
+[WhiteCountry "GER"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. a4 Nbd7 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Qxd5 Nxe5 12. Qxd8 Rxd8 13. Nxe5 Bxe5 14. c3
+Be6 15. Be3 Bd5 16. Rfd1 Bc6 17. Bb5 Bd5 18. Be2 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Woerz, M."]
+[Black "Borchert, Reinhard"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "dcd3a238"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Bxc6 bxc6 8.
+Nc3 Be7 9. Re1 O-O 10. Qd3 Rb8 11. b3 h6 12. Bd2 Ne8 13. Rad1 Bf6 14. f4 Bxd4+
+15. Qxd4 Qh4 16. g3 Qh5 17. Qxa7 Bh3 18. Qxb8 Qc5+ 19. Kh1 Qf2 20. Re2 Bg2# 0-1

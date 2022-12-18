@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Norevall, Ulf"]
+[Black "Carlqvist"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "26fe1cf7"]
+[Epoch "Queen"]
+[WhiteID "1705555"]
+[WhiteCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bf5 11. O-O a5 12. d6 exd6 13. Bxb7 Rb8 14. Bf3
+Nbd5 15. Qd1 Nb4 16. Ng3 Bd3 17. Be2 Bxe2 18. Ngxe2 d5 19. b3 Re8 20. h3 Ne4
+21. Na4 Rc8 22. a3 Nc6 23. Ra2 Nd6 24. Bb2 Nf5 25. Bc3 Qd6 26. Qd2 Re4 27. Rb1
+Rce8 28. Qd1 Ncxd4 29. Bxd4 Nxd4 30. Nac3 Nxe2+ 31. Nxe2 Qe6 32. Kf1 Qa6 33.
+Rd2 Bc3 34. Rc2 d4 0-1

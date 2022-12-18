@@ -1,0 +1,18 @@
+[Event "Badalona"]
+[Site "Badalona"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lanzani"]
+[Black "Armengol"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "507c2e45"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Qa5+ 13. c3 Qa4
+14. Ndc7+ Kd8 15. Qd5 Bd7 16. Nxa8 Ne7 17. Qxd6 Qxe4+ 18. Kf1 Qc4+ 19. Kg1
+Qxb5 20. Rd1 Qc6 21. Qxe5 Rg8 22. Qa5+ 1-0
+

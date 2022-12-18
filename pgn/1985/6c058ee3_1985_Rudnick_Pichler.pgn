@@ -1,0 +1,20 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rudnick"]
+[Black "Pichler, Juergen"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "6c058ee3"]
+[Epoch "Queen"]
+[BlackID "4600363"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. h3 O-O 11. Nh2 c6 12. dxc6 e3 13. Bxe3 Bxe3 14. fxe3 Ne4
+15. O-O Ng3 16. Qd2 Nxf1 17. Nxf1 bxc6 18. Qxd8 Rxd8 19. Nc3 Bf5 20. Rc1 Rd7
+21. Kf2 Rad8 22. Ke2 Bg6 23. Na4 f5 24. g4 fxg4 25. hxg4 Rf8 26. Nd2 Rdf7 27.
+Rf1 Rxf1 28. Nxf1 Bxc2 29. Nc3 Bd3+ 0-1

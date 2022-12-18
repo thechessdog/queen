@@ -1,0 +1,16 @@
+[Event "Tuzla"]
+[Site "Tuzla"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Mujic, Hamza"]
+[Black "Ivanov, Sergey"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "13ae9286"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 h6 6. Bh4 c6 7. e3 Nbd7 8. Be2
+O-O 9. O-O dxc4 10. Bxc4 b5 11. Bd3 a6 12. Bxf6 Nxf6 13. Ne4 Nd7 14. Rc1 Qb6
+15. Bc2 f5 16. Ng3 Bb7 17. b4 Nf6 18. Ne5 Rfd8 19. Nh5 Nd5 20. Nxg7 1-0

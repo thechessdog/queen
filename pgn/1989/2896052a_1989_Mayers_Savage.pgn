@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mayers, Dan"]
+[Black "Savage, N."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "2896052a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Qe2 e4 5. Qxe4+ Be7 6. dxc6 Nxc6 7. Bb5 Nf6
+8. Bxc6+ bxc6 9. Qxc6+ Bd7 10. Qf3 O-O 11. Qd1 Re8 12. Nf3 Bc5+ 13. Kf1
+Bb5+ 14. d3 Ng4 15. Nc3 Nf2 16. Qd2 Ba6 17. Na4 Be3 18. Qc3 Rc8 19. Qa3
+Nxh1 20. Bxe3 Rxe3 21. Nc5 Rxf3+ 22. gxf3 Qd4 23. Ne4 Rxc2 24. Qxa6 Qe3 25.
+d4 Qxf3+ 26. Ke1 Qxe4+ 27. Kf1 Qg2+ 28. Ke1 Qd2+ 29. Kf1 Qf2# 0-1
+

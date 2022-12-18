@@ -1,0 +1,19 @@
+[Event "corr LADAC Superior"]
+[Site "corr LADAC Superior"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Alvarez, Roberto"]
+[Black "Carbonell, Alberto"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "7b490015"]
+[Epoch "Queen"]
+[WhiteID "111902"]
+[WhiteCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+Qa5 9. Bd2 Qa4 10. Ra2 c4 11. h4 Qb5 12. Ra1 Qb2 13. Rc1 Qxa3 14. h5 a5 15. h6
+g6 16. Be2 Nd7 17. O-O Qa4 18. Qg5 Re8 19. g4 Qc6 20. Nh4 a4 21. f4 Qc7 22. f5
+Kh8 23. fxe6 fxe6 24. Rf7 Qd8 25. Rcf1 1-0

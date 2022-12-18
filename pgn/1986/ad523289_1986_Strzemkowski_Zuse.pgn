@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Strzemkowski, W."]
+[Black "Zuse, P."]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "ad523289"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8.
+O-O Be7 9. Re1 Be6 10. Bf1 O-O 11. h3 Rc8 12. Nd5 Bxd5 13. exd5 Nb8 14. c4
+Nbd7 15. b4 b6 16. Be3 Nh7 17. Rc1 f5 18. c5 bxc5 19. bxc5 f4 20. cxd6 fxe3
+21. dxe7 exf2+ 22. Kxf2 Qxe7 23. d6 Qd8 24. Kg1 Qb6+ 25. Kh1 Rxc1 26. Qxc1
+Rf6 27. Bc4+ Kh8 28. Bb3 Qxd6 29. Rd1 Qc5 30. Qxc5 Nxc5 31. Rd8+ Rf8 32.
+Nxe5 Rxd8 33. Ng6# 1-0
+

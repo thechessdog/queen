@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hampel, J."]
+[Black "Fechner, J."]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "b82a1247"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Ne2 Qc7 10. Bd3 e5 11. O-O e4 12. Bc2 b6 13. f3 Bb7 14. Ng3
+exf3 15. gxf3 Nbd7 16. e4 cxd4 17. cxd4 Rac8 18. Rf2 Rfe8 19. Nf5 Nh5 20.
+e5 Qc3 21. Rb1 Bxf3 22. Qd3 Qe1+ 23. Rf1 Qe2 24. Nh6+ Kf8 25. Qxe2 1-0
+

@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone, Peter"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "8bbbc1cd"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d3 e5 3. Nf3 d6 4. Nbd2 Nf6 5. c3 Qb6 6. Be2 Bg4 7. O-O h5 8. d4
+Bxf3 9. Nxf3 Nxe4 10. dxe5 d5 11. Nd4 Nd7 12. Bxh5 Nxe5 13. Be3 Qxb2 14. f4 Nc4
+15. Bf2 Rxh5 16. Qxh5 Nxf2 17. Rfe1+ Ne4 18. Rxe4+ dxe4 19. Re1 O-O-O 20. Qf5+
+Kb8 21. Qxe4 Qxc3 22. Rb1 Bc5 23. Rxb7+ Ka8 0-1

@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nitsche"]
+[Black "Guldner"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "32579914"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 b6 13. O-O e6
+14. Rfc1 Ba6 15. Bxa6 Nxa6 16. Rb3 Rfc8 17. Rxc8+ Rxc8 18. Ra3 Nb8 19. Rxa7
+Nc6 20. Rd7 h6 21. Kf1 Na5 22. d5 exd5 23. exd5 Rc2 24. Rd8+ 1-0
+

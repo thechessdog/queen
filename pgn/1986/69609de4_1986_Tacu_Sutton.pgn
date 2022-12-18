@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tacu"]
+[Black "Sutton"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "69609de4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Nf3 Bb7 8.
+Bd3 O-O 9. O-O Ne4 10. Nd2 Nxd2 11. Bxd2 f5 12. f3 Nc6 13. Qe2 Qf6 14. d5
+Ne5 15. e4 Rae8 16. Bc2 Ba6 17. f4 Nxc4 18. e5 Qg6 19. dxe6 dxe6 20. Bc1
+Bb7 21. Ra2 Na5 22. Bd3 Bd5 23. c4 Bb7 24. Be3 Rd8 25. Rd1 Rd7 26. Bc2 Rfd8
+27. Rxd7 Rxd7 28. Ba4 Rd8 29. Rd2 Rxd2 30. Qxd2 h6 31. Qd8+ Kh7 32. g3 Qg4
+0-1
+

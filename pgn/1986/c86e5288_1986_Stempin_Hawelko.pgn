@@ -1,0 +1,22 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Hawelko, Marek"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "c86e5288"]
+[Epoch "Queen"]
+[BlackID "1100203"]
+[BlackCountry "POL"]
+[WhiteID "1100068"]
+[WhiteCountry "POL"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. a4 Nbd7 8. Be2
+e5 9. dxe5 dxe5 10. O-O Qe7 11. Qd3 Re8 12. a5 Nc5 13. Qc4 Bf8 14. Ng5 Nfd7 15.
+b4 Ne6 16. Nxe6 Qxe6 17. Qxe6 Rxe6 18. Rab1 Re8 19. Rfd1 b5 20. Nxb5 cxb5 21.
+Bxb5 a6 22. Bxd7 Bxd7 23. Rxd7 Rec8 24. b5 axb5 25. Rxb5 f6 26. Rdb7 Bd6 27.
+R7b6 Bc7 28. Rc6 Bd8 29. Rxc8 Rxc8 30. a6 Kf8 31. a7 Bc7 32. Rc5 1-0

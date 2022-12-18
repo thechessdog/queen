@@ -1,0 +1,24 @@
+[Event "Vrsac"]
+[Site "Vrsac"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Popovic, Petar"]
+[Black "Kapelan, Milorad"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "84a687a1"]
+[Epoch "Queen"]
+[WhiteID "900109"]
+[WhiteCountry "SRB"]
+[BlackID "904147"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 dxc4 10. Bxc4 O-O 11. Nc3 Nxc3 12. bxc3 Nd5 13. Qd3 c6 14. Bb3 Re8
+15. Ne5 Bf8 16. Bd2 Be6 17. Rae1 g6 18. Qf3 Bg7 19. h3 Rc8 20. Rd1 b5 21. Rfe1
+Qc7 22. Rc1 Qd6 23. c4 bxc4 24. Nxc4 Qb8 25. Ne5 Qb6 26. Nxc6 Rxc6 27. Rxc6
+Qxc6 28. Bxd5 Qc2 29. Be3 Rd8 30. Bxe6 fxe6 31. Rc1 Qxa2 32. Rc7 Rf8 33. Qb7
+Qa1+ 34. Rc1 Qa2 35. Qe7 Rf7 36. Rc8+ Bf8 37. Qe8 g5 38. Rc6 Re7 39. Qh5 Qb1+
+40. Rc1 Qe4 41. Rc8 h6 42. Qxh6 Rg7 43. Re8 g4 44. hxg4 Qxg4 45. Qxe6+ 1-0

@@ -1,0 +1,16 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Baroin, B."]
+[Black "Schulze, P."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "fc8c7f76"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Nc6 6. Bb5 Bd7 7. Nf3 Bb4
+8. Bxc6 Bxc3+ 9. Bd2 Bxd2+ 10. Qxd2 Qxd2+ 11. Nxd2 Bxc6 0-1
+

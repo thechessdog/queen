@@ -1,0 +1,29 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kripp, Wolfgang"]
+[Black "Orwatsch, Gerhard"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "776f08d2"]
+[Epoch "Queen"]
+[WhiteID "4621220"]
+[WhiteCountry "GER"]
+[BlackID "4638204"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. c4 g6 3. Nc3 Bg7 4. d4 d6 5. Be2 Nh6 6. Be3 f6 7. Qd2 Nf7 8. f4 O-O
+9. h4 e5 10. h5 exf4 11. hxg6 fxe3 12. gxf7+ Rxf7 13. Qxe3 f5 14. O-O-O fxe4
+15. Nh3 h6 16. Nf4 Qg5 17. g3 Bf5 18. Rh5 Qe7 19. g4 Bh7 20. d5 Nd7 21. Ne6 Nf8
+22. Nxg7 Rxg7 23. Rxh6 Rd8 24. dxc6 bxc6 25. c5 Rg6 26. cxd6 Rdxd6 27. Rxd6
+Rxd6 28. Rxd6 Qxd6 29. Bc4+ Kh8 30. Nxe4 Qe5 31. Qg5 Qxg5+ 32. Nxg5 Bg6 33. Kd2
+Nd7 34. Ke3 Ne5 35. Be2 Kg7 36. Kd4 Kf6 37. Nh3 Bf7 38. a3 Nd7 39. Bc4 c5+ 40.
+Kc3 Bg6 41. Nf4 Be4 42. Bd5 Bb1 43. Bb7 Kg5 44. Nd5 Ne5 45. Bc8 Ba2 46. Nc7
+Nxg4 47. Bxg4 Kxg4 48. Na6 c4 49. a4 Kf5 50. Kb4 Ke6 51. Nc7+ Kd7 52. Nb5 a6
+53. Nc3 Bb3 54. Kc5 Kc7 55. a5 Kb7 56. Ne4 Bc2 57. Nd6+ Kc7 58. Nxc4 Bd1 59.
+Ne3 Be2 60. Nd5+ Kb7 61. Kd6 Bf3 62. Nf6 Bg2 63. Nd7 Bf3 64. Nc5+ Ka7 65. Kc7
+Be2 66. Nd7 Bf3 67. Ne5 Bd1 68. Nc6+ Ka8 69. Kb6 Be2 70. Nb4 Bf1 71. Nxa6 Be2
+72. Nc7+ Kb8 73. a6 Bxa6 74. Nxa6+ Ka8 75. Kc7 1-0

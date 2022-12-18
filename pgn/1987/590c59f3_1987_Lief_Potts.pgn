@@ -1,0 +1,22 @@
+[Event "Philadelphia open"]
+[Site "Philadelphia open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lief, Adam"]
+[Black "Potts, Kenneth"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "590c59f3"]
+[Epoch "Queen"]
+[WhiteID "2003252"]
+[WhiteCountry "USA"]
+[BlackID "2003988"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+O-O 9. Bd3 dxc4 10. bxc4 Nc6 11. Bb2 e5 12. O-O exd4 13. Ne4 Re8 14. Ng3 dxe3
+15. fxe3 Ne5 16. Bxe5 Rxe5 17. Qf3 Qf8 18. Nf5 Rd8 19. Qf4 Re6 20. Rad1 Rd7 21.
+g4 Bb7 22. g5 Nh5 23. Qg4 g6 24. Nh6+ Kg7 25. Nxf7 Qe8 26. Nh6 Rxe3 27. Bxg6
+Rg3+ 28. Qxg3 Nxg3 29. Bxe8 Re7 30. hxg3 1-0

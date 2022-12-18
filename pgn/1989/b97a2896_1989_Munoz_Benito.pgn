@@ -1,0 +1,18 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Munoz, J."]
+[Black "Benito, C."]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "b97a2896"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. e3 c5 6. a3 Bxc3+ 7. bxc3 d5 8. Bd3
+Nbd7 9. cxd5 Nxd5 10. Qc2 N5f6 11. O-O Qc7 12. h3 b6 13. Re1 Bb7 14. e4 h6 15.
+Nd2 Rfc8 16. Nc4 cxd4 17. cxd4 b5 18. Ne3 Qxc2 19. Nxc2 Bxe4 20. Bxe4 Nxe4 21.
+Ne3 a5 22. Bb2 Nb6 23. d5 Nxd5 24. Nxd5 exd5 25. f3 Ng5 26. Red1 Rc2 27. Rab1
+Rd8 28. Bxg7 Kxg7 29. Rxb5 Ne6 30. a4 Nf4 0-1

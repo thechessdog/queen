@@ -1,0 +1,22 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Pirttimaki, Timo"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "b253c326"]
+[Epoch "Queen"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. a3 Ne8 11. b4 f5 12. Nb3 b6 13. Bd2 Nf6 14. f3 Bd7 15. Qc2 f4
+16. a4 g5 17. bxc5 bxc5 18. Nb5 Ne8 19. Na5 Qc8 20. Rab1 h5 21. Na3 g4 22. Rb7
+Rf6 23. Rfb1 Rg6 24. Nb5 gxf3 25. Bxf3 Bh3 26. Kh1 Bxg2+ 27. Bxg2 Rxg2 28. Kxg2
+Qg4+ 29. Kf2 Qh4+ 30. Kf1 Qh3+ 31. Ke1 Qg4 32. h3 Qg1+ 33. Ke2 Qg2+ 34. Kd1 f3
+35. Be1 Nf6 36. Nxd6 Rf8 37. R1b2 Qxh3 38. Rxe7 Ng4 39. Qd3 Bh6 40. Nf5 Rxf5
+41. exf5 Ne3+ 42. Qxe3 Bxe3 43. Rb8# 1-0

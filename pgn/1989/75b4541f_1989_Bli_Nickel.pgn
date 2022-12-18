@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bli"]
+[Black "Nickel"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "75b4541f"]
+[Epoch "Queen"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Ne2 b6 6. Nf4 Ba6 7. Bxa6 Nxa6 8.
+Qg4 Bf8 9. Be3 c5 10. Nh3 Ne7 11. Qd1 Nc6 12. Ne2 cxd4 13. Bxd4 Nxd4 14.
+Nxd4 Bc5 15. c3 Rc8 16. O-O Bxd4 17. Qxd4 Rc4 18. Qd2 Qc7 19. Rfe1 b5 20.
+Rac1 O-O 21. f3 Rc8 22. Nf4 b4 23. Ne2 bxc3 24. bxc3 Qxe5 25. Rb1 Qc7 26.
+Rb5 Rb8 27. Reb1 Rxb5 28. Rxb5 Rc5 29. Qb2 Rxb5 30. Qxb5 Qb6+ 31. Nd4 Nc7
+32. Qxb6 axb6 33. a4 Kf8 34. Kf2 Ke7 35. Ke3 Kd6 36. Kd3 Na6 37. Nb5+ Kc6
+38. Nd4+ Kd7 39. c4 Nc5+ 40. Kc3 Nxa4+ 41. Kb4 Nc5 42. cxd5 exd5 43. Kb5
+Ne6 0-1
+

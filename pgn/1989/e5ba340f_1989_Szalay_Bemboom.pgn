@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szalay"]
+[Black "Bemboom"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Maroczy attack"]
+[HashCode "e5ba340f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 h5 7. f5 Bxf5 8.
+Nxf5 Qa5+ 9. Bd2 Qxf5 10. Bd3 Qg4 11. Nf3 e6 12. O-O Nf6 13. Qe1 Bd6 14.
+Qf2 Nbd7 15. Rae1 c5 16. c3 cxd4 17. cxd4 Rc8 18. Ne5 Nxe5 19. dxe5 Bc5 20.
+Be3 Bxe3 21. Rxe3 Nd5 22. Qxf7+ Kd8 23. Re4 Qg5 24. Qxe6 1-0
+

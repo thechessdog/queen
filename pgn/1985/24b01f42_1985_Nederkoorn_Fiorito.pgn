@@ -1,0 +1,17 @@
+[Event "corr ch14-NLD"]
+[Site "corr ch14-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nederkoorn"]
+[Black "Fiorito"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "24b01f42"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 e5 6. Nf3 exd4 7. Qxd4
+Nf6 8. Bc4 Bb4+ 9. Bd2 Bxd2+ 10. Nbxd2 Qxd4 11. Nxd4 a6 12. O-O O-O 13.
+Rfe1 g6 14. Bb3 Nbd7 15. Rac1 0-1
+

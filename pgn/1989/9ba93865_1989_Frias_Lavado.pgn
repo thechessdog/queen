@@ -1,0 +1,19 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Frias, A."]
+[Black "Lavado, M."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "9ba93865"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Bg4 7. h3 Bxf3
+8. Qxf3 h6 9. Nd2 b5 10. O-O Be7 11. Rd1 O-O 12. Nf1 c5 13. Qg3 Nxe4 14.
+dxe4 Qe8 15. Bxh6 Bf6 16. Bg5 Qc6 17. Ne3 Bxg5 18. Qxg5 f6 19. Qf5 Qe8 20.
+Qd7 Qg6 21. Qg4 Qe8 22. Rd7 Rf7 23. Rad1 Qf8 24. Rxf7 Qxf7 25. Rd7 Qf8 26.
+Nf5 g5 27. Qh5 1-0
+

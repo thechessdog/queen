@@ -1,0 +1,19 @@
+[Event "CSR-ch int"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "15"]
+[White "Haba, Petr"]
+[Black "Conquest, Stuart C"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "d12d007e"]
+[Epoch "Queen"]
+[WhiteID "300160"]
+[WhiteCountry "CZE"]
+[BlackID "400181"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. f3 e6 9. Nc3 Be7 10. Be3 O-O 1/2-1/2

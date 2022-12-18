@@ -1,0 +1,18 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Di Grezia, Carmelo Ernesto Franco"]
+[Black "Alvarez, Roberto"]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "84f73c14"]
+[Epoch "Queen"]
+[BlackID "111902"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. O-O-O Rc8 10. g4 Ne5 11. Be2 h5 12. g5 Nh7 13. f4 Nc4 14. Bxc4 Rxc4 15.
+Qd3 Qc8 16. f5 O-O 17. Rdf1 a6 0-1

@@ -1,0 +1,18 @@
+[Event "Alicante"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gabaldon, Miguel"]
+[Black "Quintana"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "82708b13"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 c6 7. e3 Be7
+8. Qc2 Nf8 9. Bd3 Be6 10. O-O Ng6 11. Rab1 O-O 12. b4 Rc8 13. Na4 Ng4 14.
+Bxe7 Qxe7 15. Nc5 Kh8 16. Nxe6 fxe6 17. h3 Rxf3 18. hxg4 Qh4 19. gxf3 Rf8
+20. Kg2 1-0
+

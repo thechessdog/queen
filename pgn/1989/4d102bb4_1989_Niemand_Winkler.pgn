@@ -1,0 +1,21 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Niemand, G."]
+[Black "Winkler, F."]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "4d102bb4"]
+[Epoch "Queen"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Bb5 Qb6 5. a4 a6 6. Be2 e5 7. d3 Bf5 8. Nf3
+Qc7 9. Nbd2 Nf6 10. c4 d4 11. Nf1 O-O-O 12. e4 Bxe4 13. dxe4 d3 14. Bxd3
+Nb4 15. Nxe5 Bd6 16. Nxf7 Qxf7 17. Bb1 Be5 18. Qe2 Bxb2 19. Qxb2 Ng4 20. f3
+Qd7 21. Qd2 Qe7 22. Qc3 Qd6 23. Nd2 Ne5 24. O-O Qxd2 25. Qxe5 Qe3+ 26. Kh1
+Rhe8 27. Qg3 Qxb3 28. e5 g6 29. Be4 Re7 30. Qg5 Rc7 31. Qg4+ Kb8 32. Qe6
+Rd4 33. Rfc1 Qe3 34. Rd1 Qe2 35. Rxd4 cxd4 36. c5 Nc2 37. Rg1 Ne3 38. Qg8+
+Ka7 39. Qd8 Nd1 40. h3 Nf2+ 41. Kh2 Rxc5 42. Rb1 1-0
+

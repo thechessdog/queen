@@ -1,0 +1,26 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rantanen, Yrjo A."]
+[Black "Thomsen, Torbjorn"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c5946945"]
+[Epoch "Queen"]
+[WhiteID "500038"]
+[WhiteCountry "FIN"]
+[BlackID "7200030"]
+[BlackCountry "FAI"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. cxd5 Nxd5 8.
+Bd3 Be7 9. O-O Bf6 10. Be4 O-O 11. a3 a6 12. Re1 b5 13. Nxd5 exd5 14. Bxh7+
+Kxh7 15. Qc2+ Kg8 16. Qxc6 Bg4 17. Ne5 Bxe5 18. Rxe5 Re8 19. Bg5 f6 20. Rxd5
+Qa5 21. Be3 Rac8 22. Qd6 Red8 23. Qb4 Qxb4 24. Rxd8+ Qf8 25. Rxf8+ Kxf8 26. f3
+Be6 27. Rc1 Rxc1+ 28. Bxc1 Ke7 29. Bd2 Bd5 30. Kf2 Ke6 31. h4 g6 32. Ba5 Bb3
+33. Bd8 Bc4 34. Ke3 Bd5 35. Kf4 Bb3 36. Kg4 Bd5 37. h5 gxh5+ 38. Kxh5 Bc4 39.
+Kg4 Bf1 40. g3 Bc4 41. Kf4 Bb3 42. g4 Bc4 43. Ke3 Bb3 44. f4 f5 45. g5 Kd7 46.
+Ba5 Bf7 47. d5 Bxd5 48. Kd4 Be4 49. Ke5 Ke7 50. Bb4+ Kf7 51. Kd6 Kg6 52. Kc7
+Kh5 53. Kb6 Kg4 54. Bd6 Bd3 55. Kxa6 1-0

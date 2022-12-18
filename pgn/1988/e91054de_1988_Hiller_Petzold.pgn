@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hiller"]
+[Black "Petzold"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "e91054de"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 Nd4 10. Rb1 d5 11. Bxd4 cxd4 12. Ne2 Qb6 13. Kh1 Bd7 14. c3
+dxc3 15. bxc3 Qa6 16. e5 Bb5 17. Nc1 Nf5 18. Re1 h5 19. Bf1 Rfc8 20. Qb3
+Ba4 21. Qxb7 Qxb7 22. Rxb7 Rxc3 23. Nb3 Bf8 24. Nbd4 Nxd4 25. Nxd4 Bc5 26.
+Nb5 Rc2 27. Rc7 Bxb5 28. d4 Bxf1 29. Rxf1 Rb8 30. dxc5 Rbb2 31. Ra1 Rxh2+
+32. Kg1 Rbg2+ 33. Kf1 Rxa2 34. Rxa2 Rxa2 35. c6 Rc2 36. Rxa7 Rxc6 37. Ra8+
+Kg7 38. Ra7 Rc2 39. Rb7 h4 40. Rb3 hxg3 41. Rxg3 f6 42. f5 exf5 43. e6 Rc4
+44. Rb3 Re4 0-1
+

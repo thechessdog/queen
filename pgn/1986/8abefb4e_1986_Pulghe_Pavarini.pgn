@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pulghe"]
+[Black "Pavarini"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "8abefb4e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Ne7 6. O-O O-O 7. c4 c5 8.
+Qc2 dxc4 9. Bxh7+ Kh8 10. Qe4 Ng8 11. dxc5 f5 12. Qxc4 Qc7 13. Bxg8 f4 14.
+cxd6 Qxd6 15. Bxf4 Qg6 16. Bxb8 Rxb8 17. Bd5 Bg4 18. Nbc3 Rbe8 19. Rfe1 Rf6
+20. Nf4 Rxe1+ 21. Rxe1 Rxf4 22. Qxf4 Bf5 23. Qh4+ Qh7 24. Re8# 1-0
+

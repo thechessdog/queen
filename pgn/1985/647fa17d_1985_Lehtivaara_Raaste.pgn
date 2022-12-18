@@ -1,0 +1,22 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lehtivaara, Risto"]
+[Black "Raaste, Eero J."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "647fa17d"]
+[Epoch "Queen"]
+[BlackID "500097"]
+[BlackCountry "FIN"]
+[WhiteID "500275"]
+[WhiteCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. exd5 exd5 7. b4 Bb6 8. g3
+a5 9. b5 a4 10. Bg2 O-O 11. O-O c6 12. Rb1 Nd7 13. Qd3 Re8 14. Bf4 Nf8 15. Rb2
+Bf5 16. Qd2 Neg6 17. Be3 Nd7 18. Rfb1 Ba5 19. bxc6 bxc6 20. Bf1 Nb6 21. Nc1 Nc4
+22. Bxc4 dxc4 23. N1a2 Bg4 24. f4 Qe7 25. Bf2 Bf3 26. Qe3 Qxe3 27. Bxe3 Rxe3
+28. Kf2 Rae8 29. Rb8 Bg4 0-1

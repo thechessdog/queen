@@ -1,0 +1,23 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Klinger, Josef"]
+[Black "Van der Werf, Mark"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "27fb136d"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[WhiteCountry "AUT"]
+[BlackID "1000470"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. cxd5 Nxd5 6. Nc3 e6 7. Nf3 Be7 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Bf6 11. Be4 Qd6 12. Qd3 g6 13. Bh6 Bg7 14. Bxg7 Kxg7
+15. Rad1 Bd7 16. Ne5 Rad8 17. Qd2 Nf6 18. Bf3 Be8 19. Qe3 Nb4 20. Qf4 Bc6 21.
+Bxc6 Nxc6 22. Rd3 Nh5 23. Qd2 Nb4 24. Nb5 Qe7 25. Rf3 Nd5 26. Nxa7 Ra8 27. Nb5
+Rxa2 28. Na3 Qb4 29. Qxb4 Nxb4 30. Rb3 Nc6 31. Rxb7 Nxd4 32. Kf1 Nf6 33. g4 Kg8
+34. Rd1 Rd8 35. g5 Nh5 36. Nxf7 Rd5 37. Rc1 Nc6 38. Rxc6 Ra1+ 39. Kg2 1-0

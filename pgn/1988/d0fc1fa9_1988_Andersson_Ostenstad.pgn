@@ -1,0 +1,17 @@
+[Event "Troll Masters"]
+[Site "Gausdal"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Andersson, KA."]
+[Black "Ostenstad, Berge"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "d0fc1fa9"]
+[Epoch "Queen"]
+[BlackID "1500058"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 dxc4 6. e3 Be6 7. Ne5 c5 8. dxc5
+Nbd7 9. Qa4 O-O 10. Nxd7 Nxd7 11. Bxc4 Nxc5 12. Qb4 Bxc4 0-1

@@ -1,0 +1,29 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Karner, Hillar"]
+[Black "Kiik, Kalle"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "0df01e85"]
+[Epoch "Queen"]
+[BlackID "4500075"]
+[BlackCountry "EST"]
+[WhiteID "4500202"]
+[WhiteCountry "EST"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. g3 b6 6. Bg2 Bb7 7. Qa4+ c6 8. cxd5
+exd5 9. Ne5 O-O 10. O-O Qc8 11. Bf4 c5 12. dxc5 Bxc5 13. Rad1 d4 14. Bxb7 Qxb7
+15. Nb5 Nc6 16. Nxc6 Qxc6 17. Qc4 Qd7 18. Be5 Qf5 19. Bxf6 Qxf6 20. b4 Be7 21.
+Nxd4 Rac8 22. Qb3 Rfd8 23. e3 h5 24. b5 h4 25. Nc6 Re8 26. Rd4 Qg6 27. Qd3 Qxd3
+28. Rxd3 Bc5 29. Rfd1 hxg3 30. hxg3 a6 31. a4 axb5 32. axb5 Ra8 33. Kg2 Ra2 34.
+R1d2 Rea8 35. Ne5 Rxd2 36. Rxd2 f6 37. Nc6 Ra3 38. Rd7 Rb3 39. Nd8 Rxb5 40. Ne6
+g5 41. Rg7+ Kh8 42. Rf7 Kg8 43. Rxf6 Be7 44. Rh6 Kf7 45. Nc7 Rb2 46. Rh7+ Kf8
+47. Ne6+ Ke8 48. Nc7+ Kf8 49. Nd5 Bc5 50. Rh5 b5 51. Rxg5 b4 52. Nc3 Be7 53.
+Rf5+ Ke8 54. Nd5 Bd6 55. Rf6 Bf8 56. Rb6 Kd7 57. Nf4 Kc7 58. Rf6 Bd6 59. Ne6+
+Kc6 60. Ng5 Kd5 61. e4+ Kc5 62. Nf7 Bc7 63. Ng5 Bd6 64. Nf3 Re2 65. Rf5+ Kb6
+66. e5 Bc5 67. Ng1 Re1 68. Nh3 b3 69. Rf3 Be3 70. Nf4 b2 71. Nd5+ Kc5 72. Nc3
+Kc4 73. e6 Bd2 74. Nb1 Bb4 0-1

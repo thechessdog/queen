@@ -1,0 +1,25 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1988.04.01"]
+[Round "1"]
+[White "Goregliad, Sergei"]
+[Black "Drasko, Milan"]
+[Result "0-1"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "3870c24b"]
+[Epoch "Queen"]
+[WhiteID "2002884"]
+[WhiteCountry "USA"]
+[BlackID "900397"]
+[BlackCountry "MNE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 Re8 6. a3 Bf8 7. d5 a5 8. Ng3
+Na6 9. Be2 Nc5 10. O-O exd5 11. cxd5 c6 12. Bf3 a4 13. Rb1 g6 14. e4 cxd5 15.
+exd5 d6 16. Be3 Bd7 17. Qd4 Nb3 18. Qf4 Re5 19. Rbd1 Qe7 20. Qh4 Ne8 21. Qb4
+Rxe3 22. fxe3 Qxe3+ 23. Kh1 b5 24. Be2 Bg7 25. Rf3 Qe5 26. Bxb5 Bxb5 27. Qxb5
+Nc5 28. Qe2 Qxe2 29. Ngxe2 Rb8 30. Rd2 Be5 31. Nc1 Bxc3 32. bxc3 Rb1 33. Rf1
+Nc7 34. Kg1 Ne4 35. Rd3 Rb2 36. Re1 f5 37. c4 Rc2 38. Rd4 Rc3 39. Nd3 Rxa3 40.
+c5 Nb5 41. Rb4 Rxd3 42. Rxb5 dxc5 43. Ra5 a3 44. d6 h5 45. d7 Rxd7 46. Rxa3 Kg7
+47. Ra6 h4 48. Rc6 Rd2 49. g4 h3 50. gxf5 Rg2+ 51. Kf1 Nd2# 0-1

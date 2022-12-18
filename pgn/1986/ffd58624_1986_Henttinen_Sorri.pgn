@@ -1,0 +1,20 @@
+[Event "JSS LahSK-EspSK"]
+[Site "JSS LahSK-EspSK"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Henttinen, Markku I.O."]
+[Black "Sorri, Kari Juhani"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "ffd58624"]
+[Epoch "Queen"]
+[WhiteID "500240"]
+[WhiteCountry "FIN"]
+[BlackID "500216"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 b5 6. a4 Nd5 7. Ne5 Nxc3 8. bxc3
+Bb7 9. Qf3 Qd5 10. e4 Qe6 11. Rb1 Nd7 12. Nxc4 c5 13. Nd2 Rb8 14. Bxb5 Bc6 15.
+d5 1-0

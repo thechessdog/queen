@@ -1,0 +1,19 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Wolitzer, D."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "0d6135ba"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. O-O Nxe5 7. fxe5 Bxb5 8. d3
+Be7 9. Nc3 Bd7 10. Qe1 Qc7 11. Qg3 g6 12. Ng5 Nh6 13. Nxe6 Bxe6 14. Bxh6 O-O-O
+15. Bg7 Rhg8 16. Bf6 Bxf6 17. Rxf6 a6 18. a4 h5 19. Qg5 h4 20. h3 Rh8 21. Re1
+Rh5 22. Qf4 g5 23. Qf3 g4 24. hxg4 Rxe5 25. Rxe5 Qxe5 26. a5 Bxg4 27. Qxg4+ Kb8
+28. Qf4 1-0

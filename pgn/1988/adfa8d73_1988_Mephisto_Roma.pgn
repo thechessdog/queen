@@ -1,0 +1,22 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mephisto MM IV"]
+[Black "Roma 68000"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "adfa8d73"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nf3 Nf6 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Bb5 Nd7 9. Qa4 Rc8 10. O-O a6 11. Bxc6 Rxc6 12. Rfc1 Be7 13. Ne2 b5 14. Qd1
+Rc4 15. b3 Rxc1 16. Rxc1 O-O 17. Ng3 Bg6 18. Qe2 Qa5 19. Rc6 Re8 20. a4 h6
+21. Bc7 Qb4 22. Rxa6 bxa4 23. bxa4 Qb7 24. Be5 Rc8 25. Qb5 Qxb5 26. axb5
+Rc1+ 27. Nf1 Bd3 28. Nd2 Bb4 29. Rc6 Re1 30. b6 Bxd2 31. h3 Rxf1+ 32. Kh2
+Rb1 33. Rc8+ Kh7 34. Rc7 Nxe5 35. dxe5 Rxb6 36. g4 Be1 37. Rxf7 Kg8 38. Rf4
+Bc2 39. g5 h5 40. Kg1 Bc3 41. g6 Bxe5 42. Rf7 Bxg6 43. Ra7 Rb2 44. Ra8+ Kh7
+45. Rf8 Bd6 46. Rd8 Bf5 47. Kg2 Be7 0-1
+

@@ -1,0 +1,19 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "5"]
+[White "Stempin, Pawel"]
+[Black "Dybowski, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "4a11684b"]
+[Epoch "Queen"]
+[WhiteID "1100068"]
+[BlackID "1100610"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 f5 2. Nc3 Nf6 3. Bg5 g6 4. Bxf6 exf6 5. e3 d5 6. Bd3 c6 7. Qf3 Na6 8. h3
+Nb4 9. Nge2 Bd6 10. g4 Nxd3+ 11. cxd3 Qe7 12. O-O-O fxg4 13. hxg4 Be6 14. Nf4
+O-O-O 15. Rh6 Bf7 16. Kd2 1/2-1/2

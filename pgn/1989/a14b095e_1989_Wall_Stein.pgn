@@ -1,0 +1,19 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Stein, Alan"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "a14b095e"]
+[Epoch "Queen"]
+[BlackID "2007150"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. h3 a6 8. Bd3
+Nc6 9. Nf3 Qb6 10. Bd2 Bd7 11. g4 O-O-O 12. g5 Nh5 13. Nd5 Qa7 14. Be3 Bd4 15.
+Nxe7+ Kb8 16. Nxc6+ Bxc6 17. Bxd4 1-0

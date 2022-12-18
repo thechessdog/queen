@@ -1,0 +1,20 @@
+[Event "Corrientes zt"]
+[Site "Corrientes zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gamarra Caceres, Ca"]
+[Black "Ricardi, Pablo"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ca8e1516"]
+[Epoch "Queen"]
+[BlackID "100242"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. b4 Bb6 11. Na4 Re8 12. Nxb6 axb6 13. d6 Nc6 14. g3 Ne4 15.
+Bb2 Re6 16. Bg2 Nxd6 17. Bd5 Re8 18. O-O b5 19. Nf4 Nc4 20. Bc3 N4e5 21. Nh5 d6
+22. Nxg7 Kxg7 23. f4 Ne7 24. Qh5 Nxd5 25. fxe5 Be6 26. Bd4 dxe5 27. Bxe5+ f6
+28. Rxf6 Nxf6 29. Qg5+ Kf7 30. Qh5+ 0-1

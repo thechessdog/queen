@@ -1,0 +1,20 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Gaida"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "Zinnowitz variation"]
+[HashCode "a5d30282"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Bg5 c5 7. d5 Nbd7 8.
+Qd2 Re8 9. g4 Qa5 10. h4 Ne5 11. Be2 a6 12. h5 e6 13. hxg6 fxg6 14. O-O-O
+exd5 15. Bxf6 Bxf6 16. Qh6 d4 17. Nd5 Bg7 18. Qg5 Qd8 19. Qf4 Be6 20. Qg3
+b5 21. cxb5 axb5 22. Bxb5 Rxa2 23. Bxe8 Qxe8 24. Qh4 Bxd5 25. exd5 Qa4 26.
+Qxh7+ Kf7 27. Nh4 Ra1+ 28. Kd2 Qb4+ 29. Ke2 Qxb2+ 30. Rd2 d3+ 31. Ke3 Qd4#
+0-1
+

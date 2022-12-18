@@ -1,0 +1,29 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kuzmin, Alexey"]
+[Black "Tsarev, V."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2afdd97d"]
+[Epoch "Queen"]
+[WhiteID "4100794"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. h3 Bh5 6. c3 a6 7. Bxc6+ bxc6 8. d4
+Nf6 9. Re1 cxd4 10. cxd4 e6 11. g4 Bg6 12. d5 cxd5 13. exd5 e5 14. Nxe5 dxe5
+15. Rxe5+ Be7 16. d6 O-O 17. Rxe7 Ne4 18. Bf4 Qb6 19. Qe2 Nxd6 20. Nc3 Nb5 21.
+Nd5 Qa5 22. Qe5 f6 23. Qe6+ Kh8 24. Qe1 Qa4 25. b3 Qa3 26. Qc1 Qxc1+ 27. Rxc1
+Rad8 28. Nc7 Rf7 29. Rxf7 Bxf7 30. Nxa6 h5 31. Be3 Nd4 32. Rc7 Nf3+ 33. Kf1 Bg6
+34. Nc5 h4 35. a4 Bc2 36. Kg2 Ne1+ 37. Kf1 Nf3 38. Rd7 Rxd7 39. Nxd7 Bxb3 40.
+a5 Bc4+ 41. Kg2 Ne1+ 42. Kg1 Nf3+ 43. Kh1 Kh7 44. Nc5 Bd5 45. a6 Ng5+ 46. Kh2
+Nf3+ 47. Kg2 Ng5+ 48. Kg1 Nf3+ 49. Kf1 Nh2+ 50. Ke2 Nf3 51. a7 Ng1+ 52. Kf1
+Nxh3 53. Nd7 Kg6 54. Nb6 Bf3 55. a8=Q Bxa8 56. Nxa8 f5 57. gxf5+ Kxf5 58. Nb6
+Nf4 59. Nc4 g5 60. Bc1 h3 61. Ne3+ Ke4 62. Ng4 Kf5 63. f3 Nd3 64. Bd2 Nc5 65.
+Kf2 Ne4+ 66. fxe4+ Kxe4 67. Kg3 h2 68. Nxh2 g4 69. Ba5 Kd3 70. Bb6 Ke4 71. Ba7
+Kd5 72. Bb8 Ke4 73. Bc7 Kd5 74. Bd8 Ke4 75. Be7 Kd5 76. Bf8 Ke4 77. Bg7 Kd5 78.
+Bh8 Ke4 79. Bb2 Kd5 80. Bc1 Ke4 81. Bd2 Kd5 82. Be1 Ke4 83. Bf2 Kd5 84. Bg1 Ke4
+85. Nxg4 1-0

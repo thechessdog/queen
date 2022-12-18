@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lanzani, M."]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c36a4f64"]
+[Epoch "Queen"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Ba6 13. Bf4 Nh5 14. Bxh5 Bxc4 15.
+Be2 Bxe2 16. Qxe2 f5 17. Qd2 fxe4 18. Nxe4 Rf5 19. Nc3 Qd7 20. Rad1 Re8 21. Bg3
+Bd4 22. Ne2 Rxd5 23. Qc2 Be5 24. f4 Bg7 25. f5 Rxf5 26. Bxd6 Rxf1+ 27. Kxf1
+Qf7+ 28. Kg1 Nd5 0-1

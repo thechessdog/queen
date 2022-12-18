@@ -1,0 +1,15 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zazo, J."]
+[Black "Olaverri, J."]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "ec1b84f5"]
+[Epoch "Queen"]
+
+1. e4 d5 2. d4 c6 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 e5 6. Bg5 exd4 7. Qe2+ Be6
+8. Nf3 Bb4+ 9. Nd2 O-O 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Viljanen"]
+[Black "Autere"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "f75a1701"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 Nd7 9. Be3 e6 10. h3 Bxf3 11. Qxf3 Qe7 12. Bb5 Nb4 13. Rf2 c6 14. Bc4
+Nd5 15. Raf1 Nxe3 16. Qxe3 d5 17. Bd3 a6 18. Ne2 c5 19. c3 b5 20. g4 cxd4
+21. cxd4 Rac8 22. f5 exf5 23. gxf5 Qh4 24. e6 Bh6 25. exf7+ Kg7 26. Qe6
+Qg5+ 27. Kh2 1-0
+

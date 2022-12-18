@@ -1,0 +1,20 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gutschow, Christian"]
+[Black "Krull, Gunter"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "376df4a9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 Nc6 7. Bd3 Bb4+
+8. Nc3 Nge7 9. O-O Qd8 10. Be3 O-O 11. a3 Bd6 12. Bc2 a6 13. Qd3 Ng6 14.
+Rad1 Bc7 15. Rfe1 b5 16. Bg5 Qd7 17. d5 exd5 18. Nxd5 Kh8 19. Qc3 Bb7 20.
+Nb6 Qg4 21. h3 b4 22. hxg4 bxc3 23. Nxa8 Bxa8 24. bxc3 h6 25. Bxg6 fxg6 26.
+Be7 Nxe7 27. Rxe7 Bxf3 28. gxf3 Ba5 29. Rd3 Rc8 30. Ra7 Rc6 31. c4 g5 32.
+Rdd7 Bc3 33. Rac7 Re6 34. c5 a5 35. Re7 Rf6 36. Rxg7 Rxf3 37. Rgf7 1-0
+

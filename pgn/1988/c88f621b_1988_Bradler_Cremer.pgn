@@ -1,0 +1,18 @@
+[Event "corr BRD"]
+[Site "corr BRD"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bradler, E."]
+[Black "Cremer, J."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "c88f621b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 O-O-O
+14. Be3 Nf5 15. h3 d4 16. Bf2 Qa5 17. g4 Qd5 18. Rh2 Nfe7 19. Bg2 Qa2 20.
+Qb5 b6 21. Nxd4 Na5 22. Qa6+ Kb8 0-1
+

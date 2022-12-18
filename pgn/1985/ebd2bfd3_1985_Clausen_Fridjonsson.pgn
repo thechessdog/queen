@@ -1,0 +1,17 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Clausen, Steen"]
+[Black "Fridjonsson, J."]
+[Result "0-1"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "ebd2bfd3"]
+[Epoch "Queen"]
+[WhiteID "1401114"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. Ng5 f6 8. exf6
+exf6 9. Qe2+ Be7 10. Qe4 c6 11. Ne6 Bxe6 12. Qxe6 Nb4 13. Be3 Nc2+ 14. Kd2 Nxa1
+15. Be2 Qd7 16. Qe4 O-O 17. Rxa1 f5 0-1

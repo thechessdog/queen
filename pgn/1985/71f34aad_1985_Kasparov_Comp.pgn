@@ -1,0 +1,15 @@
+[Event "Hamburg simultaan"]
+[Site "Hamburg simultaan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kasparov, Garry"]
+[Black "Comp Mephisto Exclu"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "71f34aad"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 Nf6 6. Bg2 Bd6 7. O-O O-O 8. Re1
+Ng4 9. h3 Nge5 10. Nxe5 Bxe5 11. c3 d4 12. c4 b6 13. f4 Bb8 14. e5 Bb7 15. Ne4
+a5 16. Qh5 Qd7 17. Nf6+ gxf6 18. exf6 Kh8 19. Be4 h6 20. Qxh6+ Kg8 21. Qg7# 1-0

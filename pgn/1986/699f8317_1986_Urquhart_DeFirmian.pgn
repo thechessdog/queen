@@ -1,0 +1,26 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Urquhart, D."]
+[Black "De Firmian, Nick"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "699f8317"]
+[Epoch "Queen"]
+[BlackID "2000105"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. c4 Nf6 6. Nc3 g6 7. Nf3 Bg7 8. O-O
+O-O 9. h3 d6 10. Be3 Bd7 11. Qd2 Rc8 12. Bh6 Qa5 13. Bxg7 Kxg7 14. a3 Ne5 15.
+Nxe5 Qxe5 16. Qe3 a6 17. f4 Qc5 18. Qxc5 Rxc5 19. b4 Rc6 20. e5 Ng8 21. exd6
+Rxd6 22. Be4 Bc6 23. c5 Rd4 24. Bxc6 bxc6 25. Ne2 Rd2 26. Nc1 Rfd8 27. Nb3 Rb2
+28. Rfb1 Rxb1+ 29. Rxb1 e6 30. Na5 Ne7 31. Rb3 Rd4 32. Rf3 h5 33. h4 Kf6 34.
+Kh2 Kf5 35. Kg3 Ke4 36. Nb3 Rd1 37. Kf2 Nf5 38. Ke2 Rh1 39. Nd2+ Kd5 40. Rd3+
+Nd4+ 41. Ke3 e5 42. Nf3 f6 43. Nxd4 exd4+ 44. Rxd4+ Ke6 45. Rd6+ Kf5 46. Rxc6
+a5 47. b5 Ra1 48. b6 Rxa3+ 49. Kf2 Rb3 50. Rc8 a4 51. Ra8 Kxf4 52. Rxa4+ Ke5
+53. Ra8 Kd5 54. Rc8 g5 55. Rc7 g4 56. b7 f5 57. c6 f4 58. Rc8 g3+ 59. Kf1 Rb1+
+60. Ke2 Rb2+ 61. Kd3 f3 62. b8=Q f2 63. Rd8+ Kc5 64. Qd6+ Kb6 65. c7+ Ka7 66.
+Ra8+ Kxa8 67. c8=Q+ 1-0

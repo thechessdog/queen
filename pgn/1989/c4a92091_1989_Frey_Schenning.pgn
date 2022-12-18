@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Frey, Andrei"]
+[Black "Schenning, Albert"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "c4a92091"]
+[Epoch "Queen"]
+[BlackID "1018680"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Qf3 d5 6. exd5 Bd6 7. d4 O-O 8.
+Bxf4 Bg4 9. Qf2 Re8+ 10. Be2 cxd5 11. O-O-O Bb4 12. Bxg4 Nxg4 13. Qg3 Nf6 14.
+Be5 Bxc3 15. bxc3 Nbd7 16. Nf3 Qa5 17. Kb2 Re6 0-1

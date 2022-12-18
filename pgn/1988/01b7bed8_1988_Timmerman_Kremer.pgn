@@ -1,0 +1,17 @@
+[Event "WGM-Volmac 2"]
+[Site "WGM-Volmac 2"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Timmerman, G."]
+[Black "Kremer, Mark"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "01b7bed8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. h4 O-O 10. Qd2 Nde5 11. Be2 d5 12. O-O-O Nxd4 13. Bxd4 Nc6 14. exd5 exd5
+15. f4 Qa5 16. Kb1 Bf5 17. a3 Rac8 18. Bf2 d4 19. Nb5 Bb4 20. axb4 Nxb4 21. Na3
+Rxc2 22. Qxc2 Bxc2+ 23. Nxc2 Qa2+ 24. Kc1 Rc8 25. Bd3 Qb3 0-1

@@ -1,0 +1,19 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nitschke, A."]
+[Black "Wenzel, D."]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "ae65d514"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. Bb3 Nxd4 11. Bxd4 b5 12. h4 a5 13. a4 bxa4 14. Nxa4
+e5 15. Be3 Be6 16. O-O-O Bxb3 17. cxb3 Rb8 18. Qd3 Rb4 19. Bd2 Rb7 20. Qa6
+Rxb3 21. Bxa5 Qc8+ 22. Qxc8 Rxc8+ 23. Nc3 d5 24. exd5 Rb5 25. Bd8 Nxd5 26.
+Rd3 e4 0-1
+

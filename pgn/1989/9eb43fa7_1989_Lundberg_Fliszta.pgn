@@ -1,0 +1,20 @@
+[Event "corr Poland"]
+[Site "corr Poland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lundberg"]
+[Black "Fliszta"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "9eb43fa7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 exf3 7. Bxf3
+exd4 8. cxd4 Bb4+ 9. Nc3 Nf6 10. O-O Bxc3 11. Qe2+ Qe7 12. Qxe7+ Kxe7 13.
+bxc3 h6 14. Re1+ Kf7 15. Ba3 d6 16. Re2 Re8 17. Rxe8 Kxe8 18. Rb1 Rb8 19.
+Bc1 a6 20. h3 g5 21. g4 c6 22. Bxc6+ Kd8 23. f4 gxf4 24. Bxf4 Kc7 25. Bf3
+Ng8 26. Kf2 h5 27. Kg3 hxg4 28. hxg4 Bd7 29. c4 Ne7 30. c5 Nc8 31. cxd6+
+Kd8 32. Bd5 b5 33. Bg5+ 1-0
+

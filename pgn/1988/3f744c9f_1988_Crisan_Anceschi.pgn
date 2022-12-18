@@ -1,0 +1,19 @@
+[Event "Reggio Emilia8889-B"]
+[Site "Reggio Emilia"]
+[Date "1988.??.??"]
+[Round "6"]
+[White "Crisan, Alexandru"]
+[Black "Anceschi, Vittorio"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "3f744c9f"]
+[Epoch "Queen"]
+[WhiteID "1201271"]
+[BlackID "800708"]
+[WhiteCountry "ROU"]
+[BlackCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. Be2 Be7 8. O-O
+O-O 9. Bf4 dxc4 10. Bxc4 Nd5 11. Bg3 a6 12. Rc1 Nxc3 13. bxc3 b5 1/2-1/2

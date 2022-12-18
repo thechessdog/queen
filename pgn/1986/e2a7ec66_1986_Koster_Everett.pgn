@@ -1,0 +1,21 @@
+[Event "Kalamazoo WMU op"]
+[Site "Kalamazoo WMU op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koster, E."]
+[Black "Everett, M."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "e2a7ec66"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. g3 Nbd7 9. Bg2 Nb6 10. Nge2 e6 11. dxe6 Bxe6 12. Qd1 Qd7 13. O-O Nbd5
+14. Nxd5 Bxd5 15. Nc3 Bxg2 16. Kxg2 Nh5 17. Be3 f5 18. f3 f4 19. Bg1 fxg3
+20. hxg3 Rae8 21. Qb3+ Kh8 22. Rad1 Qd6 23. Ne4 Qd7 24. d5 Be5 25. Bd4 Qg7
+26. Bxe5 Qxe5 27. d6 Nf6 28. Nxf6 Qxf6 29. d7 Rd8 30. Rfe1 Kg7 31. Re6 Qf7
+32. Qe3 Kg8 33. Re7 Qf6 34. Qb3+ Kh8 35. Rde1 b6 36. R1e2 Qd4 37. Qe6 Qd3
+38. Qe5+ 1-0
+

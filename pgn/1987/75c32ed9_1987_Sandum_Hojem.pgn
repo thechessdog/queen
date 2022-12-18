@@ -1,0 +1,17 @@
+[Event "Norway"]
+[Site "Norway"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sandum, Kjell T"]
+[Black "Hojem, Roger"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "75c32ed9"]
+[Epoch "Queen"]
+[BlackID "1514750"]
+[BlackCountry "NOR"]
+
+1. Nf3 d5 2. d4 Nc6 3. Bf4 Bf5 4. e3 a6 5. Bd3 Bg4 6. c4 dxc4 7. Bxc4 e6 8. O-O
+Bd6 9. Bxd6 Qxd6 10. Nbd2 Nf6 11. Qb3 Na5 12. Qa4+ Nc6 13. Bb5 O-O 14. Bxc6 b5
+15. Qc2 Rad8 16. Rac1 Nd7 17. Bxd7 Rxd7 1-0

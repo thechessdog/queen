@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wellens, J."]
+[Black "Gebuhr, G."]
+[Result "0-1"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "78ec711c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8.
+b3 b5 9. Bf4 bxc4 10. bxc4 Ne4 11. Ne5 Nxe5 12. dxe5 f5 13. cxd5 cxd5 14.
+Nd2 Nxd2 15. Qxd2 a5 16. h4 Ba6 17. Rfc1 Bb4 18. Qd4 Rc8 19. a3 Be7 20. Bd2
+Rxc1+ 21. Rxc1 Bc4 22. Qa7 Bxa3 23. Bxa5 Qc8 24. Rc2 Rf7 25. Qb6 Bc5 26.
+Qb2 Bxf2+ 27. Kxf2 Qc5+ 28. e3 Qxa5 29. Qb8+ Rf8 30. Qd6 Re8 31. Bf1 Qa4
+32. Rd2 Bxf1 33. Kxf1 Kf7 34. Kf2 h6 35. Rb2 Re7 36. Qb4 Qd1 37. Qb8 d4 38.
+exd4 Qxd4+ 39. Kf1 Kg6 40. Rf2 Qd1+ 41. Kg2 Qd5+ 42. Kh2 Rb7 43. Qe8+ Kh7
+44. h5 Qd7 45. Qg6+ Kg8 46. g4 fxg4 47. Qxg4 Rb5 48. Re2 Qf7 49. Kg2 Rb1
+50. Rf2 Qb7+ 51. Qf3 Qxf3+ 52. Kxf3 Rg1 53. Rh2 Rg5 54. Kf4 Kf7 55. Rh1 g6
+56. hxg6+ Kxg6 0-1
+

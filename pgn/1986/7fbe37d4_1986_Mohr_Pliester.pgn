@@ -1,0 +1,21 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mohr, Stefan"]
+[Black "Pliester, Leon"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "7fbe37d4"]
+[Epoch "Queen"]
+[WhiteID "4600290"]
+[WhiteCountry "GER"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 Bg7 8. Qa4+
+Bd7 9. Qb3 Qa5 10. f3 O-O 11. Bxd6 Re8 12. O-O-O Na6 13. g4 b5 14. Bxb5 Rab8
+15. Bxb8 Rxb8 16. a4 Nb4 17. e5 a6 18. exf6 axb5 19. axb5 Bh6+ 20. Kb1 Ra8 21.
+Qa3 Qd8 22. Qb3 Qa5 23. Qa3 Qd8 24. Qb3 Ra5 25. Qc4 Qa8 26. b3 Ra1+ 27. Kb2
+Qa3# 0-1

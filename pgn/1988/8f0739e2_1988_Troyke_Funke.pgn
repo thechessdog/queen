@@ -1,0 +1,18 @@
+[Event "corr ch-DDR jr"]
+[Site "corr ch-DDR jr"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Troyke"]
+[Black "Funke"]
+[Result "1/2-1/2"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Sozin variation"]
+[HashCode "8f0739e2"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. Bxb5+ Bd7 14.
+Bxd7+ Nxd7 15. Nd3 Qa5+ 16. Bd2 Qf5 17. Qe2 Bd6 18. O-O O-O 19. Rfc1 Rfc8
+20. Rxc8+ 1/2-1/2
+

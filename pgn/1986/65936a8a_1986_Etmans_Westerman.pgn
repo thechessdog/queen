@@ -1,0 +1,18 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Etmans, Maarten"]
+[Black "Westerman, Henk"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "65936a8a"]
+[Epoch "Queen"]
+[WhiteID "1001345"]
+[WhiteCountry "NED"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5 12. Be3 f6 13. Bc4+ Kh8 14. Qe2 fxe5
+15. Nxe5 Nxe5 16. fxe5 Qd7 17. Rad1 1/2-1/2

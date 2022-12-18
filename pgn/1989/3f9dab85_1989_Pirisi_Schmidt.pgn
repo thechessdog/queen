@@ -1,0 +1,20 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Pirisi, Gabor"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "3f9dab85"]
+[Epoch "Queen"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+[WhiteID "700444"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 9. Be3 Nge7 10. Bd3 Nf5 11. O-O Be7 12. Nbd2 O-O 13. Nb3 Nxe3 14. fxe3 a5
+15. Nc5 Be8 16. Rb1 axb4 17. axb4 Na7 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Kazan op"]
+[Site "Kasan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kirillin"]
+[Black "Totsky, Leonid"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "121a8f47"]
+[Epoch "Queen"]
+[BlackID "4115228"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Na6 10. e3 Ne8 11. Be2 f5 12. h4 Nac7 13. Qd2 b5 14. Na5 b4 15. Nb1
+Nf6 16. Bf3 Ba6 17. a3 bxa3 18. Rxa3 Ne4 19. Bxe4 fxe4 20. Nc6 Qd7 21. h5 g5
+22. Bg3 Rf5 23. Rxa6 Nxa6 24. h6 Bh8 25. Nc3 Re8 26. Nb5 Nb4 27. Nc3 Bxc3 28.
+bxc3 Rxd5 0-1

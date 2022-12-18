@@ -1,0 +1,15 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hendriks, R."]
+[Black "Van den Bosch, Johannes"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "14480824"]
+[Epoch "Queen"]
+[BlackCountry "NLD"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d5 5. Bf4 Bb4 6. Nxc6 bxc6 7. Qd4 Ba5
+8. Qxg7 1-0

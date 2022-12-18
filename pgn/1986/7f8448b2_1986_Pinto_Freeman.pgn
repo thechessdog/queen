@@ -1,0 +1,18 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pinto, Mark"]
+[Black "Freeman, W."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "7f8448b2"]
+[Epoch "Queen"]
+[WhiteID "2006324"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Be3 O-O 9. Qd2 e5 10. d5 Nd4 11. Bxd4 exd4 12. Qxd4 c6 13. Bc4 Nf5 14. Qd2 e3
+15. Qd3 exf2+ 16. Kxf2 Qb6+ 17. Kf1 Ne3+ 18. Ke1 Bf5 19. Na4 Qa5+ 0-1

@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kichev, V."]
+[Black "Petraitis, G."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack, Schofman variation"]
+[HashCode "9db8b0f1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 Nge7 7. fxe6 dxe6
+8. d3 O-O 9. O-O Na5 10. Qe1 Nec6 11. Bg5 f6 12. Be3 Nxc4 13. dxc4 Nd4 14.
+Qf2 e5 15. Nd5 f5 16. c3 Nxf3+ 17. Qxf3 b6 18. exf5 Bxf5 19. Qg3 h6 20.
+Bxh6 Bxh6 21. Rxf5 1-0
+

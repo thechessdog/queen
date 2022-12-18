@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Michel, F."]
+[Black "Nyffeler, U."]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "2b596fe9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. Nbc7+ Kd7
+14. c4 Rxc4 15. Qh5 Nd4 16. Qxf7+ Kc6 17. Nb4+ Rxb4 18. Rc1+ Kb6 19. Nd5+
+Kb5 20. Qa7 Nc2+ 21. Rxc2 Rxe4+ 22. Kf1 Ba6 23. b4 Rxb4 24. Nxb4 1-0
+

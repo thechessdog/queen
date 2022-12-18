@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schutze"]
+[Black "Fromm"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "5e06679a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 7. Nd5 Nge7 8.
+Ne3 O-O 9. O-O Rb8 10. Rb1 Bd7 11. f4 f5 12. Bd2 Be6 13. b3 Qd7 14. c4 Nd4
+15. Nd5 Nec6 16. Nec3 Rf7 17. a3 fxe4 18. dxe4 Bg4 19. Qe1 Na5 20. Ne3
+Ndxb3 21. Ncd5 Be2 22. Rf2 Bd3 23. Rb2 exf4 24. Rxb3 fxe3 25. Rxf7 exd2 26.
+Qd1 Qa4 0-1
+

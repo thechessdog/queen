@@ -1,0 +1,16 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mol, R."]
+[Black "Van Veen, C."]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "184f90cc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O
+8. Be3 Nc6 9. f4 Bd7 10. f5 Qb6 11. Bb5 Nxe4 12. fxg6 Bxd4 13. gxh7+ 1-0
+

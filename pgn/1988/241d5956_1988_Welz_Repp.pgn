@@ -1,0 +1,25 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Welz"]
+[Black "Repp"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "241d5956"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4
+8. O-O Bc5 9. Qe2 Qe7 10. Bf4 g5 11. Bd2 Qxe5 12. Re1 Qxe2 13. Rxe2+ Be6
+14. Bxg5 Kd7 15. Nd2 f6 16. Bh4 Raf8 17. Nf3 Nh6 18. h3 Bf5 19. Rc1 Bd6 20.
+Nd4 Bg6 21. b3 Be5 22. Nf3 Bb2 23. Rd1 Re8 24. g4 Rxe2 25. Bxe2 Re8 26. Kf1
+Ng8 27. c4 Ne7 28. Bg3 Ba3 29. g5 Bd6 30. Bxd6 Kxd6 31. gxf6 Ng8 32. cxd5
+cxd5 33. Nd4 Nxf6 34. Nb5+ Kc6 35. a4 Kb7 36. Bd3 Ne4 37. Bxe4 Bxe4 38. Nc3
+Bf5 39. Rxd5 Bxh3+ 40. Kg1 Rg8+ 41. Kh2 Bf1 42. Rf5 Rg2+ 43. Kh1 Rg4 44.
+Kh2 Rh4+ 45. Kg1 Bd3 46. Rf7 a6 47. Rd7 Bc2 48. Rd2 Bg6 49. Ne2 Rb4 50. Nc1
+Rb6 51. Rd4 Rd6 52. Rb4+ Kc8 53. Kg2 Rc6 54. Ne2 Rb6 55. Rxb6 cxb6 56. b4
+Kd7 57. f4 Be4+ 58. Kg3 Ke6 59. a5 b5 60. Nd4+ Kd5 61. Nb3 Bf5 62. Nc5 Bc8
+63. Kh4 Kc4 64. f5 Bxf5 65. Nxa6 Bc8 66. Nc7 Kxb4 67. a6 Kc5 1/2-1/2
+

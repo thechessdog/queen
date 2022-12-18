@@ -1,0 +1,18 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Simic, Z."]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "66dfe55f"]
+[Epoch "Queen"]
+[BlackID "1000055"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. e4 d6 5. Ne2 O-O 6. O-O e5 7. h3 c6 8. a4 Re8
+9. Nbc3 Na6 10. a5 Qe7 11. Bg5 b5 12. axb6 axb6 13. d5 c5 14. Nb5 Bd7 15. Nec3
+c4 16. Qe2 Rec8 17. Na3 b5 18. Naxb5 Bxb5 19. Nxb5 Rab8 20. Rxa6 Rxb5 21. c3 h6
+22. Bxf6 Bxf6 23. b4 Qf8 24. Rc6 1-0

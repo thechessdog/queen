@@ -1,0 +1,21 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Petrovic, Petar"]
+[Black "Minasian, Artashes"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "5b64015a"]
+[Epoch "Queen"]
+[BlackID "13300040"]
+[BlackCountry "ARM"]
+[WhiteID "908991"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bb5+ Nfd7 8. a4
+Bg7 9. Nge2 O-O 10. f4 Qh4+ 11. Kf1 Qe7 12. Kf2 Nf6 13. Bd3 Ng4+ 14. Kf3 Qh4
+15. Qg1 Nd7 16. g3 Qh3 17. Bb5 f5 18. exf5 Rxf5 19. Ke4 c4 20. Be3 Ndf6+ 21.
+Kf3 Ne5+ 22. Kf2 Nd3+ 23. Kf3 Re5 0-1

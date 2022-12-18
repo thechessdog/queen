@@ -1,0 +1,23 @@
+[Event "Oakham YM"]
+[Site "Oakham"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Patrat, Alexandre"]
+[Black "Quillan, Gary"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "136b87ad"]
+[Epoch "Queen"]
+[WhiteID "600482"]
+[WhiteCountry "FRA"]
+[BlackID "401153"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6 14. h4
+Nf5 15. Rh3 Rc8 16. h5 Nce7 17. Rb1 Nh6 18. Rb3 Nef5 19. Be3 b5 20. Bf2 Qa5 21.
+Qd2 Ng4 22. Bg1 Qd8 23. Bd3 Nh4 24. Rg3 Nf5 25. Bxf5 Qh4 26. Bf2 exf5 27. Nxd5
+Qh1+ 28. Ke2 Be6 29. Rbc3 Qxh5 30. Rxc8+ Bxc8 31. Rh3 Qg6 32. Qb4 Kd7 33. Qe7+
+Kc6 34. Nb4# 1-0

@@ -1,0 +1,20 @@
+[Event "Pljevlja"]
+[Site "Pljevlja"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Drasko, Milan"]
+[Black "Damljanovic, Branko"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[HashCode "5d2a08e4"]
+[Epoch "Queen"]
+[WhiteID "900397"]
+[WhiteCountry "MNE"]
+[BlackID "900125"]
+[BlackCountry "SRB"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1
+c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 c5 12. Ne4 cxd4 13. Nxd4 Nb6 14. Bb3 Bxd4
+15. Qxd4 Qxd4 16. exd4 Bd7 1/2-1/2

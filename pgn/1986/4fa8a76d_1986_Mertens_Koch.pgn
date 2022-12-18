@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mertens, K."]
+[Black "Koch, H."]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "4fa8a76d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. Rd1 Nc5 11. c4 d4 12. cxb5 d3 13. Qf1 Nd4 14. Nxd4
+Qxd4 15. Bxe6 fxe6 16. Nc3 O-O 17. Qe1 Rf5 18. Qe3 Qxe3 19. Bxe3 axb5 20.
+Nxb5 Rb8 21. Nd4 1-0
+

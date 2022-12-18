@@ -1,0 +1,27 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1989.12.01"]
+[Round "8"]
+[White "Van der Werf, Mark"]
+[Black "Nijboer, Friso"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "7e444876"]
+[Epoch "Queen"]
+[WhiteID "1000470"]
+[WhiteCountry "NED"]
+[BlackID "1000063"]
+[BlackCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 7. d5 Nb8 8. h3
+c6 9. a4 Nbd7 10. Re1 Qc7 11. Bf4 Nh5 12. Bg5 Nc5 13. Nd4 Nf6 14. Bf1 Re8 15.
+Qd2 a5 16. Rad1 Bd7 17. b3 Na6 18. Bc4 Nb4 19. Re2 Rac8 20. Bh6 Bh8 21. Nf3 Qb8
+22. Nd4 Nxe4 23. Rxe4 cxd5 24. Nxd5 Nxd5 25. Bxd5 e6 26. Bxe6 fxe6 27. c4 Rc5
+28. Nb5 d5 29. cxd5 Rxd5 30. Qe2 Rxd1+ 31. Qxd1 Bc6 32. Re3 Qd8 33. Qxd8 Rxd8
+34. Rxe6 Kf7 35. Rd6 Rxd6 36. Nxd6+ Ke6 37. Nc4 Bc3 38. f3 Bd5 39. Kf2 b5 40.
+axb5 a4 41. Bc1 Bf6 42. Ke3 axb3 43. Nb2 Bg5+ 44. f4 Bd8 45. g3 Bg2 46. Na4 Kd5
+47. Kd3 Bxh3 48. Kc3 Bc8 49. b6 Bb7 50. Kxb3 Bc6 51. b7 Bxb7 52. Kc2 Bc6 53.
+Nc3+ Kd4 54. Bd2 Bd7 55. Kd1 Kd3 56. Na2 h5 57. Ke1 Bb6 58. Nc3 Be3 59. Bxe3
+Kxe3 60. Kf1 Kf3 61. Kg1 0-1

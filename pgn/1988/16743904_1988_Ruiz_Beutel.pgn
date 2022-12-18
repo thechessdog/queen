@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ruiz, M."]
+[Black "Beutel, H."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "16743904"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Bd6 5. d4 Nf6 6. c4 c5 7. Qe2+ Be7 8.
+Bxf4 O-O 9. Nc3 cxd4 10. Nxd4 Bc5 11. Qd2 Re8+ 12. Be2 Bg4 13. Be3 Qe7 14.
+Kf2 Bxe2 15. Kxe2 Ng4 16. Nd1 Qe4 17. Kf1 Nxe3+ 18. Nxe3 Bxd4 0-1
+

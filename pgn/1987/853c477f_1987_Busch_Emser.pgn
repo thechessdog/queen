@@ -1,0 +1,15 @@
+[Event "St Ingbert"]
+[Site "St Ingbert"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Busch"]
+[Black "Emser"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "853c477f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Ne5 5. Nc3 Nf6 6. Bg5 Bb4 7. f4 c5
+8. Nf5 Qa5 9. Nxg7+ Kf8 10. Qd6+ Kxg7 11. Bxf6+ Kg8 12. Bxe5 1-0
+

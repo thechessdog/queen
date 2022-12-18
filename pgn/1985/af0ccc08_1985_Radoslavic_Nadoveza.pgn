@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Radoslavic, M."]
+[Black "Nadoveza, M."]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "af0ccc08"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Qe7+ 7. Be2 c4
+8. O-O Be6 9. Re1 g5 10. Bxc4 g4 11. Bxd5 gxf3 12. Bxe6 fxe6 13. d5 Nd4 14.
+Nxf3 Nxf3+ 15. Qxf3 Qf7 16. Rxe6+ Be7 17. Bf4 h5 18. Rae1 Kd7 19. d6 Rb8
+20. dxe7 1-0
+

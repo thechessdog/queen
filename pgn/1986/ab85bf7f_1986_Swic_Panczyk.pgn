@@ -1,0 +1,20 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Swic, Waldemar"]
+[Black "Panczyk, Krzysztof"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "ab85bf7f"]
+[Epoch "Queen"]
+[WhiteID "1101013"]
+[BlackID "1100211"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. c4
+bxc4 9. Bxc4 O-O 10. Nc3 d6 11. a3 Nd4 12. Be3 Nxf3+ 13. Qxf3 Rb8 14. Rad1 Kh8
+15. Ba7 Rc8 16. Be3 Nd7 17. Qh3 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Lipetsk"]
+[Site "Lipetsk"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pancovic"]
+[Black "Kirev"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Soerensen gambit"]
+[HashCode "43ab3c64"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4 5. Ne5 Qh4+ 6. Ke2 d6 7. Nd3 f3+ 8.
+gxf3 gxf3+ 9. Ke3 Bh6+ 0-1
+

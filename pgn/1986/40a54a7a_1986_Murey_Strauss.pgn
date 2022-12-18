@@ -1,0 +1,24 @@
+[Event "London op"]
+[Site "London"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Murey, Jacob"]
+[Black "Strauss, David"]
+[Result "1-0"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Steiner variation"]
+[HashCode "40a54a7a"]
+[Epoch "Queen"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+[BlackID "2000750"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. h4 e6 8. f3 c5
+9. dxc5 Qxd1+ 10. Kxd1 Nc6 11. Nxc6 bxc6 12. g4 O-O-O+ 13. Bd2 Bxc5 14. Kc1
+Rxd2 15. Kxd2 Rd8+ 16. Kc2 Bg6+ 17. e4 h5 18. g5 Nd5 19. Bxc4 Ne3+ 20. Kb3 Kc7
+21. Nd1 Nxc4 22. Kxc4 Bd4 23. Nc3 f5 24. Ne2 Bxb2 25. Ra2 Rd2 26. Nf4 Bf7 27.
+g6 Bg8 28. Rxb2 Rxb2 29. e5 a5 30. Nxh5 Rb4+ 31. Kc3 Rxa4 32. Nxg7 Ra3+ 33. Kb2
+Rxf3 34. Ne8+ Kd8 35. Nf6 Rg3 36. h5 Bf7 37. gxf7 Ke7 38. h6 Rg2+ 39. Kb3 a4+
+40. Kxa4 1-0

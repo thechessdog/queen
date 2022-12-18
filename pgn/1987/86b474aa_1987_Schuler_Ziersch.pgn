@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schuler"]
+[Black "Ziersch"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "86b474aa"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. Nc3 d6 6. g3 fxg3 7. hxg3 Bg7 8.
+Bc4 Bg4 9. O-O Nf6 10. e5 dxe5 11. dxe5 Qxd1 12. Nxd1 Nfd7 13. Bxf7+ Kxf7
+14. Nh2+ Kg6 15. Nxg4 Nxe5 16. Nxe5+ Bxe5 17. Kg2 Nc6 18. Bd2 Rhf8 19. Rxf8
+Rxf8 20. c3 g4 21. Nf2 Rf3 22. Ne4 Ne7 23. Rf1 Rxf1 24. Kxf1 Kf5 25. Nf2
+Bxg3 26. Bxh6 Bxf2 27. Kxf2 Ke4 28. Bf8 Nf5 29. a4 Kd3 30. a5 Kc2 31. Ba3
+Kb3 32. Ke2 Ka4 33. Bb4 b6 34. axb6 axb6 35. Kd3 Kb3 36. Ke2 Kxb2 0-1
+

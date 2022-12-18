@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fasoli, S."]
+[Black "Gerundino, N."]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Carlsbad variation"]
+[HashCode "f007e7a5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. Nxa3 d6 5. d4 Nf6 6. Bd3 e5 7. d5 Be7 8.
+Ne2 O-O 9. O-O Nbd7 10. Nb5 a6 11. Bd2 Nc5 12. Nbc3 Bd7 13. f4 Nxd3 14.
+cxd3 b5 15. h3 Qb6+ 16. Kh2 Rfc8 17. f5 a5 18. g4 Ne8 19. g5 a4 20. f6 gxf6
+21. gxf6 Nxf6 22. Bg5 Ng4+ 0-1
+

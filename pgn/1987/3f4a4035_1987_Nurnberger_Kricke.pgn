@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nurnberger"]
+[Black "Kricke"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation with e4"]
+[HashCode "3f4a4035"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nfd7
+8. Bg5 h6 9. Be3 Nb6 10. Qb3 e6 11. Rd1 Qe7 12. Bd3 N8d7 13. e5 Rd8 14. O-O
+Nf8 15. Nd2 Kh7 16. f4 f5 17. Rf3 Bd7 18. Rh3 Bc6 19. a3 Nd5 20. Nxd5 Bxd5
+21. Qc2 a5 22. Be2 b6 23. Bf2 g5 24. fxg5 Qxg5 25. Bf3 Rdc8 26. Bxd5 exd5
+27. Nf3 Qg4 28. Qc6 Ng6 29. Rg3 Qh5 30. Qd7 Rd8 31. Qxc7 f4 32. Rh3 Qf5 33.
+Nh4 Nxh4 34. Bxh4 Rdc8 35. Qb7 Qg4 36. Rf1 f3 37. Rg3 Qxd4+ 38. Kh1 fxg2+
+39. Rxg2 Rg8 40. Bf6 Qe4 41. Rf4 Qe1+ 42. Rg1 Rab8 43. Qd7 Qxg1+ 44. Kxg1
+Kh8 45. Kh1 1-0
+

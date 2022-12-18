@@ -1,0 +1,24 @@
+[Event "BL2-N8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Engelbert, Christoph"]
+[Black "Rahls, Peter"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1feb5d24"]
+[Epoch "Queen"]
+[WhiteID "4609158"]
+[WhiteCountry "GER"]
+[BlackID "4613023"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Bd6 7. O-O c4 8. Bc2
+Nf6 9. Bf4 Bg4 10. f3 Bh5 11. Re1 O-O 12. Nd2 Re8 13. Bg3 Bg6 14. Nf1 Nh5 15.
+Qd2 Nxg3 16. Nexg3 Qf6 17. Bxg6 Qxg6 18. Rxe8+ Rxe8 19. Re1 Rxe1 20. Qxe1 Ne7
+21. Qd1 h5 22. Qa4 h4 23. Nh1 h3 24. Qe8+ Kh7 25. g3 Nf5 26. Qd7 Bf4 27. Qxd5
+Bc1 28. Qxc4 Bxb2 29. Qd3 Qg5 30. Nf2 g6 31. Ne4 Qc1 32. Qd2 Qa1 33. d5 Bc1 34.
+Qe2 Be3+ 35. Kh1 Bb6 36. d6 Ne3 37. Nd2 Qxc3 38. Nxe3 Bxe3 39. Nf1 Bb6 40. Qe7
+Qxf3# 0-1

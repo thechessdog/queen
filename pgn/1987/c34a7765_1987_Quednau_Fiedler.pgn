@@ -1,0 +1,26 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Quednau"]
+[Black "Fiedler"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "c34a7765"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 Nf6 6. Nc3 c6 7. Bg5 Qe7+
+8. Qe2 Qxe2+ 9. Bxe2 Nbd7 10. c5 Bc7 11. b4 O-O 12. O-O h6 13. Bd2 Ne4 14.
+Nxe4 dxe4 15. Nh4 Nf6 16. Bc4 Re8 17. Ng6 Be6 18. Bxe6 Rxe6 19. Nh4 Rd8 20.
+Be3 Nd5 21. a3 Ne7 22. g3 f5 23. Rab1 b5 24. Ng2 g5 25. Rfc1 Ng6 26. Rd1 f4
+27. gxf4 gxf4 28. Bc1 Kf7 29. a4 a6 30. axb5 axb5 31. Ra1 f3 32. Ne3 Nf4
+33. Ra7 Rd7 34. Kf1 Rg6 35. Nf5 Nh3 36. Ng3 h5 37. Ke1 h4 38. Nf1 Nxf2 39.
+Rxc7 Rxc7 40. Kxf2 Rg2+ 41. Ke3 Re2+ 42. Kf4 f2 43. Be3 Re1 44. Rd2 Rxf1
+45. Kxe4 Ke6 46. Bxf2 Rf7 47. Be3 Rb1 48. Ra2 Kf6 49. Rf2+ Kg7 50. Rg2+ Kf8
+51. Bd2 Re7+ 52. Kd3 Rf1 53. d5 cxd5 54. Kd4 h3 55. Bh6+ Ke8 56. Rg3 Rd1+
+57. Kc3 Re4 58. Bd2 Re2 59. Re3+ Rxe3+ 60. Bxe3 Kd7 61. Kc2 Rh1 62. Bf4 Rf1
+63. Be3 Kc6 64. Kd3 Ra1 65. Bd2 Ra2 66. Bf4 Rb2 67. Kc3 Rf2 68. Be5 Rf3+
+69. Kd2 Rb3 70. Bc3 d4 71. Bxd4 Rxb4 0-1
+

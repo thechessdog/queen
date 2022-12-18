@@ -1,0 +1,20 @@
+[Event "St Ingbert op"]
+[Site "St Ingbert"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Schmidt, Rainer"]
+[Black "Cekro, Ekrem"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "6caf0d9c"]
+[Epoch "Queen"]
+[WhiteID "1271793"]
+[BlackID "201855"]
+[WhiteCountry "GER"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 Qe7 5. e3 O-O 6. Bd3 e5 7. Ne2 d5 8. cxd5
+exd4 9. Nxd4 Nxd5 10. Kf2 Nxc3 11. bxc3 Bxc3 12. Qb3 Bxa1 13. Ba3 c5 14. Rxa1
+Qh4+ 0-1

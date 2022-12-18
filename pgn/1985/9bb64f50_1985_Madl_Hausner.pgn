@@ -1,0 +1,24 @@
+[Event "Szolnok Mezogep"]
+[Site "Szolnok Mezogep"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Madl, Ildiko"]
+[Black "Hausner, Ivan"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "9bb64f50"]
+[Epoch "Queen"]
+[BlackID "300110"]
+[BlackCountry "CZE"]
+[WhiteID "700550"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qc7 8. g4
+h6 9. h4 b5 10. Bd3 b4 11. Nce2 d5 12. e5 Ne4 13. Be3 Nd7 14. O-O-O Ndc5 15.
+Kb1 Bd7 16. Rhf1 O-O-O 17. Nb3 Kb7 18. Bd4 Rc8 19. Qe3 h5 20. g5 g6 21. Rc1 Be7
+22. Rfd1 Ba4 23. Re1 Bxb3 24. cxb3 Qa5 25. Bc2 Rhd8 26. Ng3 Nxg3 27. Qxg3 Rc6
+28. Qe3 Rdc8 29. Qd2 Qb5 30. Bg1 Nd7 31. Bd3 Rxc1+ 32. Rxc1 Rxc1+ 33. Kxc1 Qc6+
+34. Qc2 Bc5 35. Bxc5 Nxc5 36. Be2 a5 37. Bf1 Ne4 38. Qxc6+ Kxc6 39. a4 Kc5 40.
+Bb5 Kd4 41. Be8 0-1

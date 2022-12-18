@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gupton"]
+[Black "Vehre"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "8d44105b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Qf3 Be6 14.
+Nf4 exf4 15. Qxc6+ Ke7 16. Nc2 Re8 17. Bd3 Bd7 18. Qf3 Kf8+ 19. Kf1 Qh4 20.
+Nb4 Bg4 21. Qc6 Rad8 22. h3 f3 23. Nxa6 Re5 24. g3 Bxh3+ 25. Kg1 Qh5 26.
+Bf1 1-0
+

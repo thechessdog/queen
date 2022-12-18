@@ -1,0 +1,21 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Svendsen"]
+[Black "Lonsdale"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "30d01a60"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qf7 6. Ne3 c6 7. d3 exd3
+8. Bxd3 d5 9. O-O Bc5 10. Na4 Bxe3 11. Bxe3 Ne7 12. Bc5 O-O 13. Re1 Re8 14.
+Qe2 b5 15. Nc3 a5 16. Qe5 Nd7 17. Qd6 Nxc5 18. Qxc5 Ba6 19. Re3 b4 20. Na4
+Bxd3 21. cxd3 Nf5 22. Rxe8+ Qxe8 23. Rc1 Ra6 24. Kf1 Qg6 25. g3 Qh5 26. Re1
+Qg6 27. Nb6 Kf7 28. Nd7 Qd6 29. Qxd6 Nxd6 30. Ne5+ Kf6 31. Nd7+ Kf7 32. Rc1
+a4 33. Ne5+ Kf6 34. Rxc6 Ra5 35. Rxd6+ Kxe5 36. Rb6 Kd4 37. Ke2 b3 38. axb3
+a3 39. bxa3 Rxa3 40. Rb7 g6 41. Rxh7 Rxb3 42. Rg7 Rb2+ 43. Kf3 Rb6 44. Rd7
+Rb3 45. h4 Rxd3+ 46. Ke2 Rb3 47. Rd6 1-0
+

@@ -1,0 +1,18 @@
+[Event "Porz op23"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Jahr, Ulrich"]
+[Black "Boehnke, Martin"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "005e1f2a"]
+[Epoch "Queen"]
+[WhiteID "4605977"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Be3 Qc7 13. Rxf7 Rxf7 14. Nxe6 Qxe5
+15. Bd4 Qf5 16. Nxg7 Qg6 17. Qf3 1-0

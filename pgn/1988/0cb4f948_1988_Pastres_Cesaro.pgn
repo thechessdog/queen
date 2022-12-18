@@ -1,0 +1,19 @@
+[Event "Castel"]
+[Site "Castel"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pastres, Roberto"]
+[Black "Cesaro"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "0cb4f948"]
+[Epoch "Queen"]
+[WhiteID "801283"]
+[WhiteCountry "ITA"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. g3 Bg4 6. Bg2 Nd7 7. h3 Bh5 8. O-O
+Ngf6 9. Re1 Bxf3 10. Bxf3 O-O 11. exd5 cxd5 12. c4 Nc5 13. Qe2 e4 14. dxe4 dxe4
+15. Nxe4 Re8 16. Nxf6+ Qxf6 17. Qxe8+ Rxe8 18. Rxe8+ Bf8 19. Be3 Ne6 20. Bg4 b6
+21. Rd1 h6 22. Bxe6 fxe6 23. Rdd8 Qxb2 24. Rxf8+ Kh7 25. Rf7 1-0

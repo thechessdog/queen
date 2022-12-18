@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Etzold"]
+[Black "Schaefer, Alexander"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "c639e4df"]
+[Epoch "Queen"]
+[BlackID "24615196"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 Be7 6. d4 e4 7. f3 exf3 8. Nxf3
+O-O 9. d5 Na5 10. Qd3 b6 11. Nd4 d6 12. b4 Nb7 13. O-O a5 14. Nc6 Qe8 15. Nb5
+Bd8 16. bxa5 Nxa5 17. Nxd8 Qxd8 18. Bh3 Ne4 19. Bb2 Qe7 20. Rae1 Nb7 21. Nd4
+Nbc5 22. Qc2 g6 23. Ba1 Ra4 24. Nc6 Qe8 25. Rf4 Ba6 26. Rxe4 Qxe4 27. Qc3 Kf7
+28. Qf6+ Ke8 29. Qd8+ Kf7 30. Qxc7+ Ke8 31. Be5 Nd7 32. Qd8+ 1-0

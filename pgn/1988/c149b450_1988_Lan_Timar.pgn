@@ -1,0 +1,17 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lan, T."]
+[Black "Timar, Zsolt"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "c149b450"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Qc2
+c5 9. dxc5 dxc4 10. Bxc4 Qa5 11. O-O Bxc3 12. Qxc3 Qxc3 13. bxc3 Nd7 14. c6
+bxc6 15. Rab1 Nb6 16. Be2 c5 17. Ne5 Bb7 18. Rfd1 Rfd8 19. Nc4 1/2-1/2

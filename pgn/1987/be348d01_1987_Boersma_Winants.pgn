@@ -1,0 +1,23 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1987.08.01"]
+[Round "5"]
+[White "Boersma, Paul"]
+[Black "Winants, Luc"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Uhlmann variation"]
+[HashCode "be348d01"]
+[Epoch "Queen"]
+[BlackID "200018"]
+[BlackCountry "BEL"]
+[WhiteID "1000411"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg5 h6 8. Bh4
+Bg7 9. Nd2 Nbd7 10. e4 O-O 11. Be2 Re8 12. O-O g5 13. Bg3 Ne5 14. Rb1 Nfd7 15.
+Re1 Nf8 16. Bxe5 Bxe5 17. Bg4 Ng6 18. Nc4 Qf6 19. Bxc8 Raxc8 20. Ne2 Bd4 21.
+Nxd4 cxd4 22. Qa4 Nf4 23. Rbd1 d3 24. Ne3 b5 25. Ng4 Qxb2 26. Qxa7 Kg7 27. Ne3
+d2 28. Rf1 Rc1 29. Nf5+ Kg6 30. Nxd6 Rf8 31. Qe3 Ra8 32. g3 Rxa2 33. gxf4 Rxd1
+34. Rxd1 Ra1 35. Qf3 Rxd1+ 36. Qxd1 Qc1 0-1

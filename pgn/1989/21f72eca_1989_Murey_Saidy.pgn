@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Murey, Jacob"]
+[Black "Saidy, Anthony Fred"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "21f72eca"]
+[Epoch "Queen"]
+[WhiteID "2803585"]
+[WhiteCountry "ISR"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Bb4 5. Bf4 Nf6 6. Qd3 b6 7. Ne2 Ba6 8. Qe3
+O-O 9. O-O-O Nbd7 10. h3 Rc8 11. a3 Bxc3 12. Nxc3 Bxf1 13. Rhxf1 b5 14. Bd6 Re8
+15. e5 Nb6 16. b3 Nfd7 17. f4 Ra8 18. Ne2 a5 19. Qc3 Qc8 20. f5 exf5 21. Qf3
+Nf8 22. g4 Ne6 23. gxf5 Ng5 24. Qh5 Ne4 25. f6 gxf6 26. Rxf6 Nxd6 27. exd6 1-0

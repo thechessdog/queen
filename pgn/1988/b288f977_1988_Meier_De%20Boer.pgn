@@ -1,0 +1,22 @@
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "1988.01.01"]
+[Round "4"]
+[White "Meier, Volker"]
+[Black "De Boer, Gert-Jan"]
+[Result "0-1"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[HashCode "b288f977"]
+[Epoch "Queen"]
+[WhiteID "4605802"]
+[WhiteCountry "GER"]
+[BlackID "1000233"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6 7. O-O a6 8. d5
+Na5 9. Nd2 c5 10. e4 Rb8 11. a4 e6 12. Re1 exd5 13. Nxd5 Nxd5 14. exd5 b5 15.
+axb5 axb5 16. cxb5 Rxb5 17. Qa4 Bd7 18. Ne4 Nb3 19. Rb1 Nxc1 20. Rbxc1 Rxb2 21.
+Qa6 Rb6 22. Qa7 Bf5 23. Rb1 Rxb1 24. Rxb1 Re8 25. h4 Bd4 26. h5 Bxe4 27. Bxe4
+Qf6 28. h6 Qxf2+ 29. Kh1 Qxg3 30. Rf1 Qh3# 0-1

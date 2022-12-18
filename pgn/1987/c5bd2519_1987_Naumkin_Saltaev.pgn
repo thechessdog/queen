@@ -1,0 +1,21 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Naumkin, Igor"]
+[Black "Saltaev, Mihail"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "c5bd2519"]
+[Epoch "Queen"]
+[WhiteID "4101715"]
+[BlackID "14200058"]
+[WhiteCountry "RUS"]
+[BlackCountry "UZB"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 g6 5. e4 e5 6. Be2 Bg7 7. O-O O-O 8. Be3
+Ng4 9. Bg5 f6 10. Bd2 Nh6 11. Qc1 Nf7 12. Rd1 c6 13. Be3 Qe7 14. b4 f5 15. exf5
+gxf5 16. c5 dxc5 17. dxc5 f4 18. Bd2 e4 19. Ne1 a5 20. b5 Qe5 21. Qa3 Qxc5 22.
+Qb3 Qf5 23. bxc6 bxc6 24. Rac1 0-1

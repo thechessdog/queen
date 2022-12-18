@@ -1,0 +1,17 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Moody, David W"]
+[Black "Lynch, W."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "bd221f05"]
+[Epoch "Queen"]
+[WhiteID "30910722"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g3 Be7 8. Bg2
+Qc7 9. O-O O-O 10. f4 e5 11. fxe5 dxe5 12. Nf5 Rd8 13. Qe2 Nbd7 14. Nxe7+ 1-0

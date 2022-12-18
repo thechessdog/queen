@@ -1,0 +1,21 @@
+[Event "Bled op"]
+[Site "Bled"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Podlesnik, Bogdan"]
+[Black "Schalnev, M."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "ed25f57d"]
+[Epoch "Queen"]
+[WhiteID "14600129"]
+[WhiteCountry "MNE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. a4
+Be7 9. Bd3 b6 10. O-O Nbd7 11. Kh1 Bb7 12. Qe2 h6 13. Bd2 Kf8 14. Rae1 Nc5 15.
+b4 Nxd3 16. cxd3 Re8 17. Rc1 Bd8 18. b5 a5 19. Nd5 Qd7 20. Nxf6 gxf6 21. fxe5
+fxe5 22. Qf2 d5 23. Nxe5 Rxe5 24. Bc3 Rg8 25. Bxe5 Rg6 26. Qf5 Qe6 27. Bd6+ Kg7
+28. Qxe6 Rxe6 29. e5 d4 30. Rc6 Bxc6 31. bxc6 Bg5 32. c7 Re8 33. Rb1 f6 34.
+Rxb6 fxe5 35. Rb8 1-0

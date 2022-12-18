@@ -1,0 +1,20 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1985.01.01"]
+[Round "15"]
+[White "Kargl, Kurt"]
+[Black "Titz, Heimo"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "91a899c0"]
+[Epoch "Queen"]
+[BlackID "1601520"]
+[BlackCountry "AUT"]
+[WhiteID "1600460"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. Nf4
+d5 9. cxd5 Nxd5 10. Ncxd5 exd5 11. Bd3 Bf6 12. O-O Nc6 13. Be3 Be6 14. Ne2 Rc8
+15. b4 Qd7 16. Rc1 g6 17. Qd2 1/2-1/2

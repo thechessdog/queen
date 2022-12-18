@@ -1,0 +1,17 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Carratala, J."]
+[Black "Rodriguez, J."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "fc70d3c9"]
+[Epoch "Queen"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Bf5 4. Bd3 e6 5. h3 Nf6 6. Nxf6+ Qxf6 7. Nf3
+Bxd3 8. cxd3 Nc6 9. Qa4 Bc5 10. Qb5 Bb6 11. O-O O-O-O 12. Qb3 Nd4 13. Nxd4
+Qxd4 14. Qd1 Qxd3 15. Kh1 Rd5 16. a4 Bc5 17. Qe1 Bb4 18. Qe3 Qxf1+ 19. Kh2
+Bd6+ 20. g3 Rh5 21. h4 Rxh4# 0-1
+

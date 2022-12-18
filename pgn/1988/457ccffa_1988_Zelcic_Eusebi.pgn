@@ -1,0 +1,22 @@
+[Event "Cattolica"]
+[Site "Cattolica"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zelcic, R."]
+[Black "Eusebi, L."]
+[Result "0-1"]
+[ECO "B39"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Breyer variation"]
+[HashCode "457ccffa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4
+8. Qxg4 Nxd4 9. Qd1 Ne6 10. Bd3 Bxc3+ 11. bxc3 Qa5 12. Qd2 b6 13. O-O Ba6
+14. Rfd1 d6 15. f4 f6 16. f5 Nc5 17. e5 Nxd3 18. Qxd3 Qxe5 19. Rf1 Rc8 20.
+Bd4 Bxc4 21. Qh3 Qd5 22. fxg6 Kd8 23. Rfe1 e5 24. Rad1 Qe6 25. Qh6 Rc7 26.
+Be3 Rg8 27. gxh7 Rh8 28. Bg5 Rf7 29. Re4 Rhxh7 30. Bxf6+ Kc8 31. Qg5 d5 32.
+Rxc4+ dxc4 33. Bxe5 Rd7 34. Bd4 Qd6 35. h3 Qd5 36. Qf4 Rhf7 37. Qh6 Rde7
+38. Rd2 Re1+ 39. Kh2 Rff1 40. Bf6 Rh1+ 41. Kg3 Qg8+ 42. Kh4 Re4+ 43. Kh5
+Qg4# 0-1
+

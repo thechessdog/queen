@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Green"]
+[Black "Nedela"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "670eb933"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Bd7 8. Nf3 Nf6 9. Qd1 Bc5 10. e3 Qe7 11. Be2 O-O-O 12. O-O g5 13. Bd2 h5
+14. Nxg5 Rdg8 15. h4 Nh7 16. Nd5 Qd8 17. Bc3 Nxg5 18. Bf6 Nh3+ 19. Kh1 Qe8
+20. b4 Qe6 21. Rc1 Rxg2 22. Bf3 Nxf2+ 0-1
+

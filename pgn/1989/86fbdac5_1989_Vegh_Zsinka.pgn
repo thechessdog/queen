@@ -1,0 +1,18 @@
+[Event "Elekes mem"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Zsinka, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "86fbdac5"]
+[Epoch "Queen"]
+[WhiteID "700568"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 d6 6. e3 h6 7. Bh4 b6 8. Bd3
+Bb7 9. Ne2 d5 10. O-O Be7 11. a3 Nbd7 12. Rad1 c6 13. h3 a5 1/2-1/2

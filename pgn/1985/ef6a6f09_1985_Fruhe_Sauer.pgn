@@ -1,0 +1,20 @@
+[Event "Donau"]
+[Site "Donau"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fruhe"]
+[Black "Sauer"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "ef6a6f09"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 e6 6. Bc4 d6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bg5 Be7 11. Rac1 O-O 12. e5 dxe5 13. Ne4 Nxe4 14.
+Qxe4 f6 15. Be3 f5 16. Qc2 f4 17. Bd2 Bf6 18. Qb3 Qe7 19. g3 e4 20. Ne1
+fxg3 21. hxg3 Bd4 22. Be3 Na5 23. Qc2 Bxe3 24. fxe3 Nxc4 25. Qxc4 Qg5 26.
+Qxe4 Qxg3+ 27. Ng2 e5 28. Rf1 Bh3 29. Qxb7 Bxg2 30. Qxg2 Qxe3+ 31. Kh1 Rad8
+32. Rce1 Rxf1+ 33. Qxf1 Qh6+ 34. Kg1 Qg5+ 35. Kh1 Qh4+ 36. Kg1 Qg3+ 37. Kh1
+Rd4 0-1
+

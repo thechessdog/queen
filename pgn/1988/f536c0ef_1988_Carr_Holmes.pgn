@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Carr, Neil"]
+[Black "Holmes, Richard"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f536c0ef"]
+[Epoch "Queen"]
+[BlackID "150270820"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4 1-0

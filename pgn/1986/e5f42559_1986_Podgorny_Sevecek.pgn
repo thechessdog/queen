@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Podgorny"]
+[Black "Sevecek"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "e5f42559"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. Bc4 Ne7 7. dxc6
+Nbxc6 8. d4 O-O 9. O-O Bg4 10. Ne2 Ng6 11. c3 Nce7 12. Ng5 Qc7 13. Qb3 Nc6
+14. Bxf7+ Rxf7 15. Qxf7+ Qxf7 16. Nxf7 Kxf7 17. Nxf4 Re8 18. Nxg6+ Kxg6 19.
+Bf4 1-0
+

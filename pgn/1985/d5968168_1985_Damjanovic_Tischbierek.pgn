@@ -1,0 +1,23 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Damjanovic, Mato"]
+[Black "Tischbierek, Raj"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "d5968168"]
+[Epoch "Queen"]
+[BlackID "4611322"]
+[WhiteCountry "HRV"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. e5 b4 12. exf6 bxc3 13. Qxc3 gxf6 14. f5 d5
+15. fxe6 fxe6 16. Bd2 Rc8 17. Qe3 e5 18. Bxa6 Ra8 19. Bb7 d4 20. Qh6 Rxa2 21.
+Qh5+ Kf8 22. Bh6+ Kg8 23. Bxc6 Qa5 24. c3 Rxb2 25. Bd5+ Qxd5 26. Rxd4 Rb1+ 27.
+Kxb1 Qb3+ 28. Kc1 Qxc3+ 29. Kd1 Qb3+ 30. Ke2 exd4 31. Rb1 Qa2+ 32. Nd2 Bd6 33.
+Rb3 Qa8 34. Kf2 Qc8 35. Qd5+ Be6 36. Qxd6 Bxb3 37. Qxf6 Qf5+ 38. Qxf5 Bf7 39.
+Qf6 1-0

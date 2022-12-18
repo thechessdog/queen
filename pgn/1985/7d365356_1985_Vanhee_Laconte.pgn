@@ -1,0 +1,16 @@
+[Event "Belgium"]
+[Site "Belgium"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vanhee"]
+[Black "Laconte"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "7d365356"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. h4 c5 4. dxc5 Qa5+ 5. Nd2 h6 6. Be3 Nxc5 7. c3 Qc7
+8. Bxc5 Qxc5 9. e4 b6 10. Ngf3 Bb7 11. Bc4 e6 12. Qe2 a6 13. e5 d6 14. exd6
+Bxd6 15. O-O-O Be7 16. Ne5 Bd5 17. Bxd5 Qxd5 18. Ndc4 Qb7 19. Rd8+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Schoneck"]
+[Site "Schoneck"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vegh, Endre"]
+[Black "Metz, Hartmut"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "4fce3291"]
+[Epoch "Queen"]
+[WhiteID "700568"]
+[BlackID "4605950"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Bg5 c6 7. Qd2 e5 8. Nge2 a6
+9. O-O-O Qa5 10. Kb1 Be6 11. d5 cxd5 12. Bxf6 Bxf6 13. Nxd5 Bd8 14. Nec3 Bxd5
+15. Qxd5 Qxd5 1/2-1/2

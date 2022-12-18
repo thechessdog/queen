@@ -1,0 +1,18 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ekstroem, Roland"]
+[Black "Hug, Werner"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "5989ec8d"]
+[Epoch "Queen"]
+[BlackID "1300040"]
+[BlackCountry "SUI"]
+[WhiteID "1302302"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. Bg5 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 Be7 6. h3 c6 7. Be2 O-O 8. O-O
+b5 9. a3 a6 10. Re1 Re8 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "New York op"]
+[Site "New York"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wilder, Michael"]
+[Black "Barouty, Daniel"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "ab9baf80"]
+[Epoch "Queen"]
+[WhiteID "2000130"]
+[WhiteCountry "USA"]
+[BlackID "2003627"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 Nf6 5. cxd5 Nxd5 6. e4 Nb6 7. d5 Ne5 8.
+Nxe5 Bxd1 9. Bb5+ c6 10. dxc6 Ba4 11. Nxa4 Qc7 12. cxb7+ Kd8 13. Nxf7# 1-0

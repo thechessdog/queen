@@ -1,0 +1,17 @@
+[Event "corr WCCF candidates"]
+[Site "corr WCCF candidates"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Goncalves, R."]
+[Black "Riemer, Wolfgang"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a25ecbe7"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O a6 8. Qe2
+Be7 9. Re1 b6 10. Bf4 Bb7 11. a4 Nf6 12. Bxd6 Bxd6 13. e5 Nxe5 14. Nxe5 Qc7 15.
+f4 O-O 16. Kh1 Nd7 0-1

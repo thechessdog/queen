@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kruger"]
+[Black "Ziersch"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "4192abfc"]
+[Epoch "Queen"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. Bg2 Nc6 7. O-O cxd4 8.
+Rd1 Rc8 9. Qa4 Na5 10. Na3 Bxc4 11. Nxd4 Nd5 12. e4 Bxa3 13. Qxa3 Ne7 14.
+b3 e5 15. Nf5 Nxf5 16. exf5 Ba6 17. Re1 Qf6 18. Bb2 d6 19. Qa4+ Ke7 20. Qa3
+Kd7 21. Rad1 Kc7 22. f4 Bb7 23. fxe5 Qd8 24. exd6+ Kb8 25. Bxb7 Nxb7 26.
+Re7 Rc5 27. b4 Rc2 28. Rc1 Rxc1+ 29. Bxc1 Re8 30. Bf4 Ka8 31. Qe3 1-0
+

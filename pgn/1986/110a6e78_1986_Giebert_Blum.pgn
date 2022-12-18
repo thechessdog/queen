@@ -1,0 +1,20 @@
+[Event "Hervest"]
+[Site "Hervest"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Giebert"]
+[Black "Blum, Gernot"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "110a6e78"]
+[Epoch "Queen"]
+[BlackID "4602030"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Qe7 5. Nf3 g5 6. d4 Bg7 7. Nc3 c6 8. h4
+h6 9. e5 d5 10. exd6 Qxd6 11. hxg5 hxg5 12. Rxh8 Bxh8 13. Ne4 Qh6 14. Nexg5
+Qh1+ 15. Ng1 Bf6 16. Bxf7+ Kf8 17. Qe2 Ne7 18. Bxf4 Bxd4 19. Be3 Bg4 20. Qxg4
+Bxe3 21. Ke2 Bxg5 22. Bh5 Qh4 23. Rf1+ Kg7 24. Rf7+ Kg8 25. Qxh4 Bxh4 26. Nf3
+Bg3 27. Rxe7 b6 28. Re8+ Kg7 29. Nd4 c5 30. Bf3 1-0

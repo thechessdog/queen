@@ -1,0 +1,22 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Plaskett, H James"]
+[Black "Murey, Jacob"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "7d0d27c1"]
+[Epoch "Queen"]
+[BlackID "2803585"]
+[BlackCountry "ISR"]
+[WhiteCountry "ENG"]
+
+1. Nf3 c5 2. e4 Nc6 3. Bb5 Nf6 4. Nc3 e5 5. Bxc6 dxc6 6. Nxe5 Nxe4 7. Nxe4 Qd4
+8. Qe2 Qxe5 9. f4 Qxf4 10. d4 Qh4+ 11. g3 Qe7 12. Bg5 f6 13. O-O-O fxg5 14.
+dxc5 Qe5 15. Rhe1 Be6 16. Qh5+ g6 17. Qxg5 Qxg5+ 18. Nxg5 Bh6 19. Rxe6+ Kf8 20.
+h4 Bxg5+ 21. hxg5 Re8 22. Rf6+ Ke7 23. Rdf1 Kd8 24. Rd6+ Kc8 25. Rf7 Ref8 26.
+Rff6 Rxf6 27. gxf6 h5 28. Kd2 g5 29. Re6 h4 30. gxh4 gxh4 31. Re7 h3 32. f7
+Rd8+ 33. Kc3 h2 34. Re8 h1=Q 35. Rxd8+ Kxd8 36. f8=Q+ Kc7 37. Qd6+ Kc8 1/2-1/2

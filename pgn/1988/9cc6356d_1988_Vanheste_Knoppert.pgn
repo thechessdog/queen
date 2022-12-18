@@ -1,0 +1,22 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vanheste, Jeroen"]
+[Black "Knoppert, Erik"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[HashCode "9cc6356d"]
+[Epoch "Queen"]
+[WhiteID "1000438"]
+[BlackID "1000853"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qa4+ c6 6. Bg5 O-O 7. cxd5 cxd5 8.
+e3 h6 9. Bh4 Nbd7 10. Be2 Nb6 11. Qb3 g5 12. Bg3 Ne4 13. Rc1 Nxg3 14. hxg3 Be6
+15. Qc2 f5 16. Bd3 Rc8 17. g4 Qd7 18. Ke2 fxg4 19. Ne5 Bxe5 20. Bh7+ Kh8 21.
+Rxh6 Bg7 22. Bg8+ Kxg8 23. Qh7+ Kf7 24. Qg6+ Kg8 25. Rch1 Rxf2+ 26. Kxf2 g3+
+27. Ke1 Kf8 28. Rh8+ Bg8 29. Rf1+ Bf6 30. Rxg8# 1-0

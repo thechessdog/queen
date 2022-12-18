@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lembeck, Andreas"]
+[Black "Andre, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "f4b0faac"]
+[Epoch "Queen"]
+[BlackID "4607260"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. f4
+Qc7 9. g4 exf4 10. g5 Nfd7 11. Bxf4 Nc6 12. Qd2 Be7 13. O-O-O Nde5 14. Nd5 Qd8
+15. Nxe7 Kxe7 16. Nd4 Nxd4 17. Qxd4 Qc7 18. Qb4 Rac8 19. c3 Qc5 20. Qxc5 Rxc5
+21. Kb1 Rd8 1/2-1/2

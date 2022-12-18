@@ -1,0 +1,22 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Thomas, Ian"]
+[Black "Nickoloff, Bryon"]
+[Result "1-0"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "7745d49e"]
+[Epoch "Queen"]
+[WhiteID "400637"]
+[WhiteCountry "ENG"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 a6 7. a4 Nc6 8. Be3
+Be7 9. Qe2 O-O 10. O-O Nb4 11. Bb3 b6 12. Qc4 d5 13. exd5 Nfxd5 14. Nxd5 Nxd5
+15. Nc6 Nxe3 16. Qe2 Qc7 17. Nxe7+ Qxe7 18. Qxe3 Qc7 19. Rad1 Bb7 20. Rd4 Rad8
+21. Rg4 Kh8 22. Rh4 Qc5 23. Qh3 h6 24. c3 Qg5 25. Rg4 Qd2 26. Qg3 Qxb2 27. Bc4
+Rc8 28. Qe5 Rg8 29. Rd1 b5 30. Rh4 Rgd8 31. Rxd8+ Rxd8 32. Bf1 bxa4 33. Rxh6+
+Kg8 34. Rh4 Qc2 35. Rg4 g6 36. Rh4 Kf8 37. Qf6 1-0

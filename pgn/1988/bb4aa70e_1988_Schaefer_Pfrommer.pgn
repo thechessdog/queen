@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schaefer, Jue"]
+[Black "Pfrommer, Christoph"]
+[Result "1-0"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "bb4aa70e"]
+[Epoch "Queen"]
+[BlackID "4603290"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bf4 O-O 6. Rc1 dxc4 7. e3 Be6 8. Ng5
+Bd5 9. f3 c6 10. a4 Nh5 11. Bxb8 Rxb8 12. e4 e5 13. h4 exd4 14. Nb1 h6 15. exd5
+hxg5 16. Bxc4 Re8+ 17. Kf2 d3 1-0

@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Efimov, Igor"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "5658e318"]
+[Epoch "Queen"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 c6 8. axb5
+Nxc3 9. bxc3 cxb5 10. Ng5 Ra7 11. e6 Bxe6 12. Nxe6 fxe6 13. Qh5+ Kd7 14. Be2
+Qe8 15. Qh3 g6 16. d5 Kd8 17. Be3 Rb7 18. Bd4 Rg8 19. Qxe6 Bg7 20. Bb6+ Rxb6
+21. Qxb6+ Kc8 1-0

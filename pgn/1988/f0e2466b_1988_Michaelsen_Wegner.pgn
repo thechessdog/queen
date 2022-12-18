@@ -1,0 +1,19 @@
+[Event "FRG-ch qual"]
+[Site "Koenigslutter"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Michaelsen, Nils"]
+[Black "Wegner, Hannu"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "f0e2466b"]
+[Epoch "Queen"]
+[WhiteID "4603028"]
+[BlackID "4600509"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. f4 Na6 11. O-O Nc7 12. a4 a6 13. Bf3 Rb8 1/2-1/2

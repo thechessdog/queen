@@ -1,0 +1,21 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Andruet, Gilles"]
+[Black "Renet, Jacques"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "08c611ec"]
+[Epoch "Queen"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 Qe7 11. Bd3 O-O 12. O-O Bd7 13. a4 a6 14. f4 Rab8 15.
+Qf3 Nc8 16. a5 Na7 17. Nc4 Nb5 18. e5 Nd4 19. Qg3 Nh5 20. Qf2 Nb3 21. Be3 Nxa1
+22. Rxa1 dxe5 23. Bxc5 Qd8 24. Bxf8 Qxf8 25. fxe5 Bb5 26. g4 Qc8 27. Qd4 Bxc4
+28. Bxc4 Bxe5 29. Qxe5 Qxg4+ 30. Kh1 Qf3+ 31. Kg1 Qg4+ 32. Kf2 Qh4+ 33. Ke3 Rc8
+34. Be2 Nf6 35. Ra4 Qh6+ 36. Kf2 g5 37. Bf3 g4 38. Be2 Qg7 39. Qf4 h5 40. Rd4
+0-1

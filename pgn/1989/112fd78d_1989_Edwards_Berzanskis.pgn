@@ -1,0 +1,16 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Edwards"]
+[Black "Berzanskis"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "112fd78d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 b5 7. a4 b4 8.
+Nd5 Nxe4 9. Nb5 Bb7 10. Nbc7+ Kd7 11. Nxa8 1-0
+

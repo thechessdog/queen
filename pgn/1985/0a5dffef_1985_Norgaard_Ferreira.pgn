@@ -1,0 +1,20 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Norgaard, Jesper"]
+[Black "Ferreira"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "0a5dffef"]
+[Epoch "Queen"]
+[WhiteID "1400517"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Nbd7 9. Qe2 Qc7 10. g4 b5 11. Bg2 Bb7 12. a3 Be7 13. O-O-O h6 14. Bh4 O-O-O 15.
+e5 dxe5 16. Bxb7+ Kxb7 17. fxe5 Ng8 18. Bxe7 Nxe7 19. Qf3+ Kb8 20. Qxf7 Nxe5
+21. Qxe6 N5c6 22. Nc5 Qf4+ 23. Kb1 Ka7 24. Rd7+ Rxd7 25. Qxd7+ Kb6 26. N3e4 Rb8
+27. Ne6 Qe5 28. Nd6 Nd5 29. Rd1 b4 1-0

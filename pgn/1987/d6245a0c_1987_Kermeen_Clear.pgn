@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kermeen"]
+[Black "Clear"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "d6245a0c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 Qg5 5. d4 Qxg2 6. Qh5+ g6 7. Bf7+
+Kd8 8. Bxg6 Qxh1+ 9. Ke2 c6 10. Nc3 Nf6 11. Qh4 Be7 12. Bg5 Qxa1 13. Bxf6
+b6 14. Bxe7+ Kc7 15. Bxe4 Ba6+ 16. Kd2 Rg8 17. Nf7 Kb7 18. Nd6+ Kc7 19. Qf4
+Rc8 20. Nf7+ Kb7 21. Nd8+ Rxd8 22. Bxd8 Bc4 23. Qc7+ Ka6 24. b4 1-0
+

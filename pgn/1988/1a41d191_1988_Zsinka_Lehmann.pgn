@@ -1,0 +1,30 @@
+[Event "Berlin Neukoelln"]
+[Site "Berlin-West"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zsinka, Laszlo"]
+[Black "Lehmann, Klaus"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "1a41d191"]
+[Epoch "Queen"]
+[BlackID "4603249"]
+[BlackCountry "GER"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8. a3
+Bxc3 9. bxc3 Ba6 10. Ne5 Nfd7 11. Nxd7 Qxd7 12. cxd5 exd5 13. Re1 Rd8 14. Bc2
+Nc6 15. Qh5 g6 16. Qh4 Qe7 17. Qxe7 Nxe7 18. e4 cxd4 19. Bg5 Rd7 20. cxd4 Rc8
+21. Ba4 b5 22. Bb3 dxe4 23. Rxe4 Nd5 24. Bxd5 Rxd5 25. h4 Kg7 26. Re7 Rxd4 27.
+Rxa7 Ra4 28. Rd1 Rc5 29. Rd6 Bc8 30. Bf6+ Kh6 31. Rxf7 Rxa3 32. Bg5+ Kh5 33. f3
+h6 34. Rh7 Rxg5 35. hxg5 Kxg5 36. Rd5+ Kf6 37. Rxb5 h5 38. Rc7 Bf5 39. Kh2 Ra4
+40. Rc6+ Kg5 41. Kg3 h4+ 42. Kh2 Ra2 43. Rcb6 Ra1 44. Rb2 Ra3 45. R6b3 Ra4 46.
+Rb4 Ra3 47. Rd4 Ra8 48. Rbb4 Rh8 49. Rd5 Rh7 50. Rd8 Rh6 51. Rbb8 Kf4 52. Rh8
+Rxh8 53. Rxh8 g5 54. Rf8 g4 55. fxg4 Kxg4 56. Rb8 Kg5 57. Rb4 Bd7 58. Kg1 Bc6
+59. Rc4 Bd7 60. Kf2 Be6 61. Rc5+ Kf4 62. Rh5 Kg4 63. Re5 Bd7 64. Re4+ Kg5 65.
+Rd4 Be8 66. Rd6 Kg4 67. Rd4+ Kg5 68. Rd8 Bc6 69. Ke3 Kg4 70. Rg8+ Kf5 71. Kf2
+Kf4 72. Rg7 Bd5 73. Rd7 Bc6 74. Rd4+ Kg5 75. Rc4 Bb7 76. Kg1 Ba6 77. Rc3 Kg4
+78. Kh2 Bb5 79. Rc7 Bd3 80. Rg7+ Kh5 81. Kg1 Be4 82. Kf2 Bd5 83. Ke3 Kh6 84.
+Rg4 Kh5 85. Kf4 Bc6 86. Rg8 h3 87. g4+ 1-0

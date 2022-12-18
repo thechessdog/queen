@@ -1,0 +1,17 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rasmussen, Karsten"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Henneberger variation"]
+[HashCode "e38b492f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 e6 4. Be3 Bb4 5. a3 Bxc3+ 6. bxc3 Nxe4 7. Qg4 Qf6 8.
+Bd3 h5 9. Qd1 Nc6 10. Nf3 e5 11. dxe5 Qe7 12. Bd4 Bg4 13. h3 Bf5 14. Qb1 Rb8
+15. Qb3 Be6 16. Bb5 O-O 17. Bd3 b6 18. Qb2 Na5 19. Qc1 c5 20. Be3 Nxc3 21. Bg5
+Qd7 22. Bf6 gxf6 23. exf6 1-0

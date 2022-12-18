@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wolke"]
+[Black "Seidens"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "35fc93f0"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 O-O 6. O-O Nc6 7. Be3 Ng4 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 e5 11. Ne2 Qe7 12. d5 Nd8 13. h3 Nf6 14. Bd3 Nxe4
+15. Bxe4 f5 16. Nc3 fxe4 17. Nxe4 Nf7 18. c4 Nh8 19. b4 Ng6 20. Rc1 g4 21.
+hxg4 Bxg4 22. c5 h5 23. Qc2 h4 24. Bh2 Rxf3 25. gxf3 Bxf3 26. Qd3 Rf8 27.
+Rc4 Bh6 28. Rb1 Qg7 29. Kf1 Ne7 30. Ke1 Qg2 31. Bxe5 dxe5 32. d6 Nc6 33.
+dxc7 Bxe4 34. Rxe4 Nd4 35. Kd1 Qxf2 36. Re1 e4 37. Qc3 Qxa2 38. Ra1 Qd5 0-1
+

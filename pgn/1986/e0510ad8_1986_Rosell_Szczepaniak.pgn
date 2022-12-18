@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rosell, P."]
+[Black "Szczepaniak, A."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "e0510ad8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+a4 Be7 9. Bc4 Qa5 10. Qe2 b5 11. Bb3 b4 12. Nd5 Bb7 13. fxe5 dxe5 14. Nxe7
+Kxe7 15. Qc4 Bxe4 16. Qxf7+ Kd6 17. Bg5 Kc7 18. O-O-O Bf5 19. Qxg7 Rhg8 20.
+Bxg8 1-0
+

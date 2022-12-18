@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kucharkowski"]
+[Black "Behian"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "64fdb475"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 Nc6 4. Nf3 d5 5. e4 dxe4 6. Nxe5 Nxe5 7. fxe5 e3
+8. Bd3 exd2+ 9. Nxd2 Qg5 10. c3 Qxe5+ 11. Ne4 Nf6 12. Qa4+ Kd8 13. Qxb4
+Nxe4 14. Qxe4 Qxe4+ 15. Bxe4 Re8 16. O-O-O+ Ke7 17. Rhe1 Be6 18. Bxb7 Rab8
+19. Bd5 Rb6 20. Bxe6 fxe6 21. Ba3+ Kf6 22. Rf1+ Kg6 23. Rf8 Rxf8 24. Bxf8
+Kf7 25. Bb4 1-0
+

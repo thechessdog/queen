@@ -1,0 +1,22 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kasowski"]
+[Black "Bozzo"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Pollock variation"]
+[HashCode "b72ce462"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qg4 O-O
+8. Bd3 f5 9. Qh3 Nb6 10. Nf3 c5 11. dxc5 Qxc5 12. g4 d4 13. Nd1 Qb4+ 14.
+Ke2 Nd5 15. Qg3 Nc6 16. gxf5 exf5 17. Rg1 Qe7 18. Bc4 Be6 19. Ng5 Nf4+ 20.
+Qxf4 Bxc4+ 21. Kd2 Nxe5 22. b3 Qb4+ 23. Kc1 Nd3+ 24. cxd3 Bxd3 25. Kb2 Rfe8
+26. Ne4 Bxe4 27. Rc1 Re7 28. Rc7 Rae8 29. Rxe7 Rxe7 30. Qb8+ Kf7 31. Qxa7
+b5 32. Qa3 Qd2+ 33. Ka1 Rc7 34. Ne3 dxe3 35. fxe3 b4 36. Qb2 Qxb2+ 37. Kxb2
+Rc2+ 38. Ka1 Rxh2 39. a4 Rh1 40. Rxh1 Bxh1 41. Kb2 Bb7 42. Kc2 Ba6 43. Kd2
+Ke6 0-1
+

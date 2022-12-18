@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sogaard, Soren"]
+[Black "Bjerring, Kai"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "bc333164"]
+[Epoch "Queen"]
+[WhiteID "1400401"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. f4 exf4 3. Be2 h6 4. d4 g5 5. h4 Bg7 6. g3 d5 7. e5 fxg3 8. hxg5
+hxg5 9. Rxh8 Bxh8 10. Qd3 Bg7 11. Qxg3 Be6 12. Bxg5 f6 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Nederland tt"]
+[Site "Nederland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klip, Hans"]
+[Black "Bohm, Hans"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Two knights variation"]
+[HashCode "237c0a28"]
+[Epoch "Queen"]
+[WhiteID "1000845"]
+[WhiteCountry "NED"]
+[BlackID "1000306"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 b6 4. d4 Bb4 5. Bd3 Nf6 6. Bg5 h6 7. Bxf6 Qxf6 8. O-O
+Bxc3 9. bxc3 O-O 10. c4 dxc4 11. Bxc4 Rd8 12. Qe2 Bb7 13. c3 Nd7 14. Qe3 c5 15.
+e5 Qe7 16. Rad1 cxd4 17. Nxd4 Rac8 18. Bb3 Nc5 19. f4 Nxb3 20. axb3 g6 21. f5
+exf5 22. Qxh6 Qxe5 23. Qg5 Be4 24. Nxf5 Qc5+ 25. Rd4 Bxf5 26. Rxf5 Rxd4 27.
+Rxc5 Rd1+ 28. Kf2 Rxc5 29. Qg3 Rd2+ 30. Ke1 Rc2 31. c4 Ra5 32. Kd1 Rxg2 0-1

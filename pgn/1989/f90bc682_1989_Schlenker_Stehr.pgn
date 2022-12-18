@@ -1,0 +1,20 @@
+[Event "Tubingen"]
+[Site "Tubingen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schlenker, R."]
+[Black "Stehr, U."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "f90bc682"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. Bc4 Ne7 7. dxc6
+Nbxc6 8. d4 O-O 9. O-O Bg4 10. Ne4 Bc7 11. c3 Nf5 12. Qd3 h6 13. Nf2 Ne3
+14. Bxe3 Bxf3 15. Bxf4 Bxg2 16. Bxc7 Qg5 17. Bg3 Bxf1 18. Rxf1 Rad8 19. Ne4
+Qg6 20. Kh1 Na5 21. Bb5 a6 22. Ba4 b5 23. Bc2 Nc4 24. Qf3 Nd2 25. Nxd2 Qxc2
+26. Ne4 f6 27. Rg1 Kh8 28. Bf4 Qxb2 29. Bxh6 gxh6 30. Qh5 Rd7 31. Qxh6+ Rh7
+32. Qxf8# 1-0
+

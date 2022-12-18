@@ -1,0 +1,19 @@
+[Event "Southfield,MI Tel-12 Mini"]
+[Site "Southfield,MI Tel-12 Mini"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lindsay, Fred"]
+[Black "Finegold, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "6b1baa33"]
+[Epoch "Queen"]
+[BlackID "2000261"]
+[BlackCountry "USA"]
+[WhiteID "2001969"]
+[WhiteCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 O-O 6. g3 d6 7. Bg2 a6 8. O-O
+Bxc3 9. bxc3 b5 10. Nd2 Na5 11. cxb5 1/2-1/2

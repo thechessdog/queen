@@ -1,0 +1,21 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Meijer, R."]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "1a48fda1"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 d6 7. h3 Bd7 8. d4 Nh6
+9. Re1 O-O 10. Be3 f6 11. Nbd2 Nf7 12. Nf1 Qe7 13. Ng3 Kh8 14. Rc1 f5 15. dxe5
+Nfxe5 16. Nxe5 dxe5 17. exf5 gxf5 18. Nh5 Rad8 19. Qe2 Qf7 20. Bb3 Qg6 21. Nxg7
+Qxg7 22. Bc5 Rfe8 23. Rcd1 b6 24. Ba3 e4 25. Qe3 Ne5 26. Qg3 Qf6 27. Kh1 f4 28.
+Qh2 Nd3 29. Re2 Bc6 30. Bc4 f3 31. Red2 fxg2+ 32. Kg1 e3 33. fxe3 Rxe3 34. Bxa6
+Rde8 35. Bxd3 Re1+ 36. Bf1 Qxf1# 0-1

@@ -1,0 +1,20 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lane, Gary W"]
+[Black "Gallagher, Joseph G."]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "31c03e1b"]
+[Epoch "Queen"]
+[WhiteID "3203301"]
+[WhiteCountry "AUS"]
+[BlackID "1303422"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Nd5 Qa5+ 11. Bd2 Qd8 12. Bg5 Be7 13. Bxf6 Bxf6 14. c3 O-O
+15. Nc2 Rb8 1/2-1/2

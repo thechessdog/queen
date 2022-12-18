@@ -1,0 +1,23 @@
+[Event "Gleisdorf"]
+[Site "Gleisdorf"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Csiscar"]
+[Black "Janisch"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "a24e499e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 e6 5. Nc3 exd5 6. cxd5 d6 7. e4 Bg7 8.
+Bd3 O-O 9. O-O a6 10. a4 Bg4 11. Qb3 Bxf3 12. Qxb7 Bxg2 13. Kxg2 Ng4 14.
+Qxa8 Be5 15. f4 Qh4 16. h3 Bd4 17. Ne2 Bxb2 18. hxg4 Qxg4+ 19. Ng3 Bxa1 20.
+Be3 Bf6 21. Be2 Qc8 22. Rb1 h5 23. Bf3 h4 24. Ne2 g5 25. fxg5 Be5 26. Qb7
+h3+ 27. Kh1 Qe8 28. Bg4 Qxa4 29. Bf5 Qc2 30. Re1 Bc3 31. Qb1 Qxb1 32. Rxb1
+Bb4 33. Bf4 Rd8 34. Nc1 a5 35. Nd3 Na6 36. Nxb4 axb4 37. Bxh3 Kg7 38. Bf1
+Nc7 39. Kg2 f6 40. gxf6+ Kxf6 41. Kf3 Ne8 42. Bb5 Nc7 43. Bd3 Ne8 44. Rh1
+Rc8 45. Bb5 Nc7 46. Bd7 Rd8 47. Bf5 Nb5 48. Rh3 Kg7 49. Kg4 b3 50. Rh7+ Kg8
+51. Rb7 Nd4 52. Bh7+ Kh8 53. e5 Ne2 54. Bg5 1-0
+

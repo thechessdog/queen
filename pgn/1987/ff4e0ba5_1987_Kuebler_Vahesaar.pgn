@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuebler, A."]
+[Black "Vahesaar, LA."]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "ff4e0ba5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. c3 Nd7 11. Bc2 Bf6 12. Nbd2 g6 13. Nf1 Bg7 14. Ng3 Ne7
+15. Ng5 c5 16. Qg4 Nf6 17. Qh4 Qd7 18. h3 h6 19. Nf3 g5 20. Bxg5 Ng6 0-1
+

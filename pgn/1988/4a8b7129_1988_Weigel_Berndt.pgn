@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Weigel, T."]
+[Black "Berndt, K."]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "4a8b7129"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. Nf3 Nc6 7. Bb5 Bd7
+8. Qe2 Nxc3 9. dxc3 Be7 10. Be3 O-O 11. O-O-O Be6 12. Bd3 Qd7 13. Qc2 h6
+14. h3 f6 15. Nh4 Nxe5 16. Bh7+ Kh8 17. f4 f5 18. Nxf5 Bxf5 19. Bxf5 Rxf5
+20. fxe5 Rxe5 21. Qd2 Rxe3 0-1
+

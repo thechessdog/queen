@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vareille, Francois"]
+[Black "Renet, Olivier"]
+[Result "1/2-1/2"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "6ea76a33"]
+[Epoch "Queen"]
+[BlackID "600040"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 a6 8. Nf3 b5
+9. Qe2 Be7 10. Qc2 O-O 11. Be2 Nh5 12. Bh6 Re8 13. Nd2 Bg5 14. Bxg5 Qxg5 15.
+Bxh5 Qxh5 16. O-O Nd7 17. Rfe1 Qg5 18. Nf3 Qf6 1/2-1/2

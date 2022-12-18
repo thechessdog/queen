@@ -1,0 +1,21 @@
+[Event "telex"]
+[Site "telex"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ruurlo"]
+[Black "Malmo"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "3d29fe72"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd3 Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 Nd5 14.
+Rb3 Qa5 15. Be2 Ra7 16. Rb8 Qc7 17. Bh5+ g6 18. Bxg6+ hxg6 19. Qxg6+ Kd7
+20. Qf7+ Ne7 21. O-O Qxb8 22. exd6 Qxd6 23. Rd1 Qxd1+ 24. Nxd1 Rb7 25. Bf6
+Rg8 26. Bxe7 Rg7 27. Qxf8 Rxe7 28. Ne3 Re8 29. Qf6 e5 30. Nc4 Re6 31. Nxe5+
+Kd6 32. Nf7+ Kd5 33. Qf3+ Kc4 34. Nd8 Rb1+ 35. Kf2 Rd6 36. Qe4+ Kc5 37.
+Qe5+ 1-0
+

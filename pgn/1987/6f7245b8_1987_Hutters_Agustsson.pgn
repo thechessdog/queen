@@ -1,0 +1,20 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Hutters, Tomas"]
+[Black "Agustsson, Johannes"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "6f7245b8"]
+[Epoch "Queen"]
+[WhiteID "1400274"]
+[WhiteCountry "DEN"]
+[BlackID "2300230"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Ng8 5. f4 Ne7 6. Bd3 Nbc6 7. Nf3 Nf5 8. Ne2
+h5 9. c3 Qd7 10. g3 Be7 11. Kf2 b6 12. h3 Bb7 13. g4 Nh4 14. Nxh4 Bxh4+ 15. Kg2
+Be7 16. Ng3 hxg4 17. hxg4 O-O-O 18. b4 f6 19. Be3 fxe5 0-1

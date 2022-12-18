@@ -1,0 +1,20 @@
+[Event "corr ch-DDR jr"]
+[Site "corr ch-DDR jr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gartner"]
+[Black "Arnhold"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "54acfa2b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nf3 Be7 6. Nc3 O-O 7. Be3 Nc6
+8. cxd5 Nxd5 9. Be2 Re8 10. Nxd5 Qxd5 11. O-O Bf6 12. Rc1 Bf5 13. Rc5 Qd7
+14. Qb3 Be4 15. d5 Nd8 16. Nd2 b6 17. Nxe4 bxc5 18. Nxf6+ gxf6 19. Bb5 c6
+20. Bh6 Qg4 21. dxc6 Ne6 22. Qc3 Nd4 23. Qa5 Nf3+ 24. Kh1 Nxh2 25. Kxh2 a6
+26. Be3 axb5 27. Qxb5 Qb4 28. Qxb4 cxb4 29. c7 Rac8 30. Bd4 Rxc7 31. Bxf6
+Ra7 0-1
+

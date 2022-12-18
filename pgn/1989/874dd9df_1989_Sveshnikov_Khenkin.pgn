@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Khenkin, Igor"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "874dd9df"]
+[Epoch "Queen"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bc4 Qb6 5. O-O Nf6 6. d4 cxd4 7. cxd4 exd4 8.
+e5 d5 9. Bb3 Ng8 10. Bxd5 Nge7 11. Bb3 Be6 12. Nbd2 Ng6 13. Bxe6 fxe6 14. Ng5
+Ncxe5 15. f4 Nf7 16. Qa4+ Qc6 17. Qxc6+ bxc6 18. Nxe6 Kd7 19. Nxd4 Bc5 1-0

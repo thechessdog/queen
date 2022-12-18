@@ -1,0 +1,22 @@
+[Event "Leningrad2"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zaichik, Gennadi"]
+[Black "Pribyl, Josef"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "38a13937"]
+[Epoch "Queen"]
+[WhiteID "13600109"]
+[WhiteCountry "USA"]
+[BlackID "300187"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. e5 Ne4 6. Ne2 e6 7. c3 a6 8. Be3
+cxd4 9. Nexd4 Be7 10. Bd3 Qc7 11. Nxc6 bxc6 12. O-O a5 13. c4 Nc5 14. Bxc5 Bxc5
+15. cxd5 cxd5 16. Rc1 Qb6 17. Qc2 Be7 18. Qc7 Qxc7 19. Rxc7 Bd8 20. Bb5+ Kf8
+21. Rc2 Bb6 22. Rfc1 Ke7 23. Rc7+ Bxc7 24. Rxc7+ Kf8 25. Ng5 f6 26. Nf7 Rb8 27.
+a4 1-0

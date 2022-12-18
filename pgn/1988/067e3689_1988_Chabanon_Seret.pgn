@@ -1,0 +1,17 @@
+[Event "Val Thorens ch-FRA"]
+[Site "Val Thorens ch-FRA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chabanon, J."]
+[Black "Seret, Jean Luc"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Modern defence"]
+[HashCode "067e3689"]
+[Epoch "Queen"]
+[BlackID "600210"]
+[BlackCountry "FRA"]
+
+1. d4 g6 2. Nf3 Bg7 3. c4 c5 4. d5 Nf6 5. Nc3 O-O 6. e4 d6 7. Be2 e6 8. dxe6
+Bxe6 9. Bf4 Nc6 10. Bxd6 Re8 11. O-O Qb6 12. Nd5 Bxd5 13. cxd5 Nxe4 14. dxc6
+Rad8 15. c7 Rxd6 16. Qa4 1-0

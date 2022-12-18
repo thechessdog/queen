@@ -1,0 +1,19 @@
+[Event "corr FRA/C"]
+[Site "corr FRA/C"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marie"]
+[Black "Troffiguer, O."]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "0950d53f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O a6 10. Bb3 Qc7 11. g4 Nd7 12. Rhg1 Nc5 13. g5 b5 14.
+Qh5 b4 15. Na4 Nxb3+ 16. axb3 Bb7 17. f3 Rac8 18. Rd2 d5 19. Rg3 Bd6 20.
+Rh3 h6 21. Nxe6 fxe6 22. gxh6 g6 23. Qxg6+ Kh8 24. Rg2 Rf7 25. exd5 exd5
+26. Nb6 Ne5 27. Qg7+ Rxg7 28. hxg7+ Kg8 29. Rh8+ Kf7 30. Nxc8 1-0
+

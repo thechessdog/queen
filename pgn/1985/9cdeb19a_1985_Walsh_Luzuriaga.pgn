@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Walsh"]
+[Black "Luzuriaga"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "9cdeb19a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+Nxe5 Nxe5 9. dxe5 c6 10. Be3 Be7 11. c3 O-O 12. f3 Nc5 13. Bc2 Bb7 14. b4
+Nd7 15. Qd3 g6 16. f4 a5 17. a3 axb4 18. cxb4 Bxb4 19. axb4 Rxa1 20. Bd4
+Ra8 21. f5 Qe7 22. Qc3 Rae8 23. f6 Qe6 24. Bf5 1-0
+

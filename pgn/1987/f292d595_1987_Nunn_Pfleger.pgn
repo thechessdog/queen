@@ -1,0 +1,23 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nunn, John D M"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "f292d595"]
+[Epoch "Queen"]
+[WhiteID "400017"]
+[WhiteCountry "ENG"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Re1 Nbd7 8. Bf4
+Qa5 9. Nd2 Qc7 10. d5 Nb6 11. Bf3 Nfd7 12. a4 a5 13. Be3 Ne5 14. Be2 f5 15.
+exf5 Bxf5 16. f4 Nf7 17. dxc6 bxc6 18. Nf3 e5 19. Bd3 Bg4 20. Be2 Bxf3 21. Bxf3
+Nc4 22. Qe2 Nxe3 23. Qxe3 exf4 24. Qe7 Qb6+ 25. Kh1 Qxb2 26. Ne4 Rae8 27. Qd7
+d5 28. Rab1 Qxc2 29. Rec1 Qa2 30. Nc5 Ne5 31. Qc7 Rf7 32. Qxa5 Nxf3 33. gxf3
+Re2 34. Qd8+ Bf8 0-1

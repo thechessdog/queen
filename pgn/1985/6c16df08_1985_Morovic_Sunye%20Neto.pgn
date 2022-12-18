@@ -1,0 +1,23 @@
+[Event "Corrientes zt"]
+[Site "Corrientes zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Sunye Neto, Jaime"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "6c16df08"]
+[Epoch "Queen"]
+[BlackID "2100037"]
+[BlackCountry "BRA"]
+[WhiteID "3405400"]
+[WhiteCountry "CHI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Bd3
+Nbd7 9. a4 b6 10. O-O Be7 11. Kh1 Bb7 12. Nh4 g6 13. f5 Nc5 14. Qe1 d5 15. exd5
+Nxd5 16. Bc4 Nxc3 17. bxc3 O-O-O 18. f6 Bxf6 19. Rxf6 Ne4 20. Be6+ fxe6 21. Rf1
+Rhf8 22. Nf3 Qxc3 23. Be3 Rf5 24. Bxb6 Rdf8 25. Kg1 Qc6 26. Be3 Nc3 27. Ra3 Nd5
+28. Rf2 Qd6 29. Bc1 g5 30. Rb3 R8f7 31. Ba3 Qc7 32. c4 Nf4 33. Rfb2 Nxg2 34.
+Kxg2 Qc6 35. h3 Rxf3 36. Kh2 0-1

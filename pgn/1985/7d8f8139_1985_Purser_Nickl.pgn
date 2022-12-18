@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Nickl, Klaus"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "7d8f8139"]
+[Epoch "Queen"]
+[BlackID "1601024"]
+[BlackCountry "AUT"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. Bc4 Nc6 5. d5 Na5 6. Qe2 Nxc4 7. Qxc4 f5 8.
+Nge2 a6 9. O-O Bd6 10. f3 exf3 11. Rxf3 Nf6 12. Bg5 O-O 13. Qh4 Qe8 14. Raf1
+Ng4 0-1

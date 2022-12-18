@@ -1,0 +1,28 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Malesevic, Vitomir"]
+[Black "Thaler, Matthias"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "5d178ee7"]
+[Epoch "Queen"]
+[WhiteID "902500"]
+[WhiteCountry "SRB"]
+[BlackID "1302191"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Qd5 Qe7 7. a3 a5 8. b3
+O-O 9. Bb2 Re8 10. e6 dxe6 11. Qh5 Nf6 12. Qh4 e5 13. Nbd2 Bf5 14. Be2 Rad8 15.
+h3 Nd4 16. exd4 exd4 17. O-O Qxe2 18. Rae1 Qd3 19. Rxe8+ Rxe8 20. Bxd4 Bxd4 21.
+Qxd4 Qxd4 22. Nxd4 Bd3 23. Rc1 c5 24. Nb5 Re2 25. Nf3 Rb2 26. Rc3 Bc2 27. Nd2
+a4 28. bxa4 Bxa4 29. Rd3 Bxb5 30. cxb5 Kf8 31. a4 Ke7 32. Nc4 Rb1+ 33. Kh2 Nd7
+34. Na5 b6 35. Nc6+ Ke6 36. Re3+ Kd6 37. Rd3+ Ke6 38. Nd8+ Ke7 39. Nb7 Rb4 40.
+Nd6 g6 41. Nc8+ Ke8 42. Rd6 Rd4 43. Rxd4 cxd4 44. Kg3 Kd8 45. Na7 Kc7 46. Nc6
+d3 47. Kf3 Kd6 48. Ke3 Nc5 49. a5 bxa5 50. Nxa5 Nd7 51. Nb3 Nc5 52. Nxc5 Kxc5
+53. Kxd3 Kxb5 54. Kd4 Kc6 55. Ke5 Kd7 56. Kf6 Ke8 57. Kg7 h5 58. Kf6 Kf8 59. h4
+Kg8 60. f4 Kf8 61. f5 gxf5 62. Kxf5 Kg7 63. Kg5 f6+ 64. Kxh5 Kh7 65. Kg4 Kg6
+66. Kf4 Kh5 67. g3 Kg6 68. g4 Kf7 69. Kf5 Kg7 70. h5 Kf7 71. h6 1-0

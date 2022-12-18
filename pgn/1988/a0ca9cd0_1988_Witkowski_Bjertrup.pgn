@@ -1,0 +1,18 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1988.12.01"]
+[Round "1"]
+[White "Witkowski, Stefan"]
+[Black "Bjertrup, Michael"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "a0ca9cd0"]
+[Epoch "Queen"]
+[BlackID "1400584"]
+[BlackCountry "DEN"]
+[WhiteCountry "POL"]
+
+1. d4 c5 2. c3 cxd4 3. cxd4 Nf6 4. Nc3 d5 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bb4 10. O-O O-O 11. Rac1 1/2-1/2

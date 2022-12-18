@@ -1,0 +1,17 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Feria, O."]
+[Black "Lutes, W."]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack, Goteborg system"]
+[HashCode "4de23e4b"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bb4 6. Bd2 Bg4 7. a3 Bxf3
+8. axb4 Bxd1 9. Rxa5 Bxc2 10. Rxe5+ Kd8 11. Bc4 Nd7 12. Re2 Bg6 13. Bf4
+Ngf6 14. Kd2 Nb6 15. Bb3 Kd7 16. Rhe1 Rhe8 17. Be5 Rad8 1/2-1/2
+

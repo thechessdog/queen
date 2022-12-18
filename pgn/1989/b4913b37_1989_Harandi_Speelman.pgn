@@ -1,0 +1,19 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Harandi, Khosro"]
+[Black "Speelman, Jon S"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "b4913b37"]
+[Epoch "Queen"]
+[WhiteID "12500011"]
+[WhiteCountry "IRI"]
+[BlackCountry "ENG"]
+[BlackID "400033"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Ndb5 Qa5 10. Bxf6 Bxf6 11. Nxd6 Rd8 12. Nc4 Rxd2 0-1

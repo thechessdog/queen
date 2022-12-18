@@ -1,0 +1,20 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sjodahl, Pontus"]
+[Black "Manninen, Marko"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "7dbeb157"]
+[Epoch "Queen"]
+[WhiteID "1700537"]
+[BlackID "500690"]
+[WhiteCountry "SWE"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Qa4+ c6 9. dxc6 Nxc6 10. Nf3 Bxd4 11. O-O-O e5 12. e3 O-O 13. exd4 exd4 14.
+Nxd4 Qg5+ 15. Kb1 1-0

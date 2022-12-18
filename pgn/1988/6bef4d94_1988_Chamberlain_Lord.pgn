@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chamberlain, W."]
+[Black "Lord, C."]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "6bef4d94"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 c5 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. f4 cxd4 9. Nf3 Nbc6 10. Nbxd4 Nxd4 11. Nxd4 Bd7 12. Bd3 Qb6 13. c3 f6
+14. Nf3 Rac8 15. Rf1 Bb5 16. Bxb5 Qxb5 17. Nd4 Qa6 18. f5 fxe5 19. Nxe6
+Rxf5 20. Rxf5 Nxf5 21. Qxd5 Ne3 0-1
+

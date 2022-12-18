@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andersen, Jan"]
+[Black "Mortensen, John"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "d5bc5ec4"]
+[Epoch "Queen"]
+[WhiteID "1432478"]
+[BlackID "1409190"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Qd2 exd5 9. Qe3+ Kf8 10. Qf4 Bf6 11. h4 c6 12. e4 h6 13. Nf3 dxe4 14. Ne5 Be6
+15. O-O-O Kg7 16. Qxe4 Bd5 17. Qg4 Qc8 18. Qg3 Qe6 19. Bd3 Bxe5 20. dxe5 Nd7
+21. f4 Nc5 22. Bb1 Kf8 23. h5 g5 24. f5 Qd7 25. Qe3 b6 26. Rhe1 Rd8 27. g4 Qe7
+28. Qd4 Rg8 29. Qe3 f6 30. Qd4 Kg7 31. Nxd5 Rxd5 32. exf6+ Qxf6 33. Re7+ Kf8
+34. Qxf6# 1-0

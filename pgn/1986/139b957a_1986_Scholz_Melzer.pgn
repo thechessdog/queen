@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scholz, G."]
+[Black "Melzer, J."]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "139b957a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 d6
+8. O-O O-O 9. Nb3 Bd7 10. f4 a6 11. Bf3 Qc7 12. Nd5 Nxd5 13. exd5 Nd8 14.
+c3 b5 15. Qd2 Nb7 16. Rac1 Na5 17. Qf2 Nxb3 18. axb3 a5 19. Bb6 Qb7 20.
+Rfe1 Rfe8 21. Bd4 b4 22. Bxg7 Kxg7 23. c4 a4 24. c5 Bb5 25. c6 Qa7 26. Qxa7
+Rxa7 27. bxa4 Rxa4 28. Be2 Bxe2 29. Rxe2 Kf8 30. Re4 Rea8 31. Rec4 Ke8 32.
+b3 Ra1 33. Rxa1 Rxa1+ 34. Kf2 1-0
+

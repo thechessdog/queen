@@ -1,0 +1,19 @@
+[Event "corr TS88"]
+[Site "corr TS88"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dimitri"]
+[Black "Checchini"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish opening)"]
+[HashCode "f64f6df9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. Nc3 Nge7 5. Bxc6 dxc6 6. d4 exd4 7. Nxd4
+h6 8. O-O Ng6 9. Nce2 Bd6 10. f4 Nh4 11. e5 Qg6 12. Rf2 Bc5 13. Be3 Bg4 14.
+f5 Qh5 15. e6 O-O-O 16. h3 Bxf5 17. Qf1 Bxe6 18. Nf4 Qe5 19. c3 g5 20.
+Nfxe6 fxe6 21. Re1 Qg3 22. Nf5 exf5 23. Bxc5 Rd3 24. Qe2 f4 25. Qe6+ Kb8
+26. Bd4 Rc8 27. Ref1 f3 28. Bxa7+ Kxa7 29. Qxc8 fxg2 30. Rc1 Nf3+ 31. Rxf3
+Rxf3 0-1
+

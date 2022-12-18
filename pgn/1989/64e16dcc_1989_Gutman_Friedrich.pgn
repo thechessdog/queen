@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gutman, Lev"]
+[Black "Friedrich, Norbert"]
+[Result "1-0"]
+[ECO "A41"]
+[Opening "Old Indian"]
+[Variation "Tartakower (Wade) variation"]
+[HashCode "64e16dcc"]
+[Epoch "Queen"]
+[BlackID "4602102"]
+[WhiteID "4600177"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. Nf3 d6 2. d4 Bg4 3. Nbd2 e6 4. g3 Nf6 5. Bg2 c6 6. O-O Nbd7 7. h3 Bh5 8. e4
+d5 9. exd5 cxd5 10. c3 Be7 11. Qe2 Qb6 12. g4 Bg6 13. Nh4 Qa6 14. Qxa6 bxa6 15.
+Nxg6 hxg6 16. Re1 Rc8 17. Bf1 Rc6 18. Kg2 O-O 19. Bd3 Rb8 20. f4 Ne8 21. Nf3
+Nd6 22. f5 gxf5 23. gxf5 Nc4 24. b3 Na3 25. fxe6 fxe6 26. c4 Bb4 27. Bxa3 Bxa3
+28. Re2 a5 29. c5 a4 30. bxa4 Nf8 31. Bb5 Rc7 32. Rf1 Bb4 33. Ne5 Bc3 34. Rf4
+a6 35. Bd3 Rb2 36. Rxb2 Bxb2 37. Bxa6 Nh7 38. Bd3 Nf6 39. Bg6 Bc3 40. c6 Ba5
+41. Rf3 Kf8 42. Rb3 Ke7 43. Kf3 Kd6 44. Ke3 Ke7 45. Rb5 Bc3 46. Kd3 Be1 47. a5
+Kd6 48. a6 Ra7 49. Rb6 1-0

@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Morin, Roger"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "05109a3e"]
+[Epoch "Queen"]
+[BlackID "2094290"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. Nf3 Nf6 5. exd5 exd5 6. Bb5 Bb4 7. Qe2+ Ne4 8.
+Bxc6+ bxc6 9. Nd2 O-O 10. Ncxe4 Re8 11. O-O dxe4 12. c3 Bd6 13. f3 exf3 14.
+Qxf3 Be6 15. Qxc6 Bd5 16. Qb5 Qh4 17. h3 Bxg2 18. Qd3 Bxh3 0-1

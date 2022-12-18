@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szylkrot"]
+[Black "Moen, Ole Christian"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "dec7858b"]
+[Epoch "Queen"]
+[BlackID "1500457"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bg5 Qa5+ 6. Bd2 Qb6 7. e5 Ne4 8.
+Be3 Qxb2 9. Bd3 Bb4+ 10. Ke2 Qxa1 11. Bxe4 Nc6 12. Nxc6 bxc6 13. f4 f5 14. Bf3
+Qxa2 15. Kf2 Ba5 16. Kg3 Bb6 17. Re1 O-O 18. Nc3 Qc4 19. Ne2 Bxe3 20. Kh3 g5
+21. Bh5 Bf2 22. g3 g4+ 23. Kh4 Bxe1 24. Qxe1 Qc5 25. h3 Qe7# 0-1

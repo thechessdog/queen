@@ -1,0 +1,16 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hein, J."]
+[Black "Kogelov, G."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian gambit"]
+[HashCode "1fdb219d"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. Nf3 e5 6. d3 e4 7. Qe2 Bb4+
+8. Nfd2 O-O 9. Nc3 Bxc3 10. bxc3 exd3 11. Qxd3 Re8+ 12. Kd1 Qa5 13. f3 Bf5
+14. Qxf5 Qxf5 0-1
+

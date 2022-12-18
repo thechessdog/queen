@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lenk"]
+[Black "Broden"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "75e2564d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Bxf6 gxf6 6. Nxe4 f5 7. Ng3 c5
+8. dxc5 Bxc5 9. Qxd8+ Kxd8 10. Nf3 Nc6 11. c3 Bd7 12. Rd1 Ke7 13. Be2 Rad8
+14. O-O f6 15. Rfe1 Ne5 16. Nd4 Nc6 17. Bc4 Nxd4 18. cxd4 Bb4 19. Re2 Kd6
+20. Nh5 Rde8 21. Nxf6 Re7 22. a3 Ba5 23. Nxd7 Kxd7 24. d5 Rc8 25. Bb5+ Kd6
+26. dxe6+ Kc7 27. Bd7 1-0
+

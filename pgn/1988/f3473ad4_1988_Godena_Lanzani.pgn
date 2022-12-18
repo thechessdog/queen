@@ -1,0 +1,18 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Godena, M."]
+[Black "Lanzani"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "f3473ad4"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3
+Nge7 8. Qf3 Be6 9. Rb1 Na5 10. Nh3 Qd7 11. Ng5 Bf5 12. g4 Bg6 13. Bxg6 Nxg6
+14. Rb5 O-O-O 15. Rxa5 b6 16. Rxa7 Kb8 17. Ra6 Kb7 18. Qd3 f6 19. Nf7 Qxf7
+20. Ra4 0-1
+

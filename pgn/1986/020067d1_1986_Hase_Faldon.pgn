@@ -1,0 +1,21 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hase, Juan Carlos"]
+[Black "Faldon"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "020067d1"]
+[Epoch "Queen"]
+[WhiteID "100722"]
+[WhiteCountry "ARG"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 Bh3 8. O-O
+O-O-O 9. Qa4 Kb8 10. Bxh3 Qxh3 11. b4 Qf5 12. c5 h5 13. b5 Nxe5 14. Nxd4 Qg4
+15. N2b3 Ne7 16. f3 Qh3 17. Rb1 Nd5 18. Bd2 g5 19. e4 Nf6 20. Ba5 h4 21. Bxc7+
+Kxc7 22. b6+ Kb8 23. Qxa7+ Kc8 24. c6 Nxc6 25. Nxc6 Bd6 26. Rbc1 Rdg8 27. Ne7+
+Kd8 28. Nf5 hxg3 29. Qa8+ Kd7 30. Qxb7+ Ke6 31. Nbd4+ Ke5 32. f4+ gxf4 33. Nf3+
+Ke6 34. N5d4# 1-0

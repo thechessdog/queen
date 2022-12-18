@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Norman"]
+[Black "Vervoort"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "5dea1f0a"]
+[Epoch "Queen"]
+
+1. g4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4 Bc5 5. Bg2 Qh4 6. e3 h5 7. h3 Nge7
+8. Bd2 Ne5 9. Qb5 Bd6 10. Nf3 Nxf3+ 11. Bxf3 c6 12. Qb3 Qf6 13. Be2 hxg4
+14. Bxg4 Be5 15. Bc3 g5 16. a4 b6 17. a5 d5 18. Bxc8 Nxc8 19. Bxe5 Qxe5 20.
+axb6 Nxb6 21. Nd2 g4 22. h4 f5 23. Qb4 Rh7 24. h5 Rd8 25. Qc5 Rc8 26. Qd4
+Qxd4 27. exd4 Rcc7 28. Ke2 Rce7+ 29. Kd3 Rh6 30. Rh4 Kf7 31. Rah1 Kf6 32.
+Nf1 Kg5 33. Nh2 Nd7 34. Nf1 Nf6 35. b4 f4 36. c3 Rxh5 37. R4h2 Re1 38.
+Rxh5+ Nxh5 39. Kd2 Ra1 40. Kd3 f3 41. Ng3 Rxh1 42. Nxh1 Kh4 43. c4 a6 44.
+cxd5 cxd5 45. Kc3 Kh3 46. Kb3 Kh2 47. Ka4 Kxh1 48. Ka5 g3 49. Kxa6 gxf2 50.
+Kb6 f1=Q 51. Kc6 Qc4+ 52. Kb7 f2 53. b5 f1=Q 54. b6 Qf7+ 55. Kb8 Qa6 56. b7
+Qaxb7# 0-1
+

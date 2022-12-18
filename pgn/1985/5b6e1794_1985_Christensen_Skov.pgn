@@ -1,0 +1,21 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Christensen, Lasse"]
+[Black "Skov, Palle"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "5b6e1794"]
+[Epoch "Queen"]
+[WhiteID "1402056"]
+[BlackID "1403419"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 bxc4 5. Nc3 d6 6. e4 g6 7. Bxc4 Ba6 8. Bb5+
+Bxb5 9. axb5 Bg7 10. f4 O-O 11. Nf3 Nbd7 12. O-O Qc7 13. Qe2 Rfb8 14. e5 dxe5
+15. fxe5 Ng4 16. e6 Bd4+ 17. Kh1 Ndf6 18. exf7+ Kg7 19. Ne4 Nxd5 20. Neg5 Rb6
+21. Ne6+ Rxe6 22. Qxe6 Ndf6 23. b6 Qb7 24. h3 Nf2+ 25. Rxf2 Bxf2 26. Rxa7 Qe4
+27. f8=Q+ Kxf8 28. Qxe4 1-0

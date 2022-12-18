@@ -1,0 +1,24 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bleve"]
+[Black "Stroe"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "a579b2f5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 b6 3. e4 d6 4. Bd3 Bb7 5. Nf3 Nbd7 6. O-O e5 7. d5 Be7 8.
+h3 O-O 9. Be3 Ne8 10. Nd2 Bg5 11. Qg4 Bxe3 12. fxe3 Nc5 13. Be2 Bc8 14. Qg3
+f5 15. exf5 Bxf5 16. e4 Bg6 17. b4 Nd7 18. Rxf8+ Nxf8 19. Rf1 Nf6 20. h4
+N8d7 21. Qh3 Qe7 22. h5 Bf7 23. g4 Rf8 24. Rf2 h6 25. Nf1 a5 26. bxa5 bxa5
+27. Ng3 Nc5 28. Nf5 Qd8 29. Bd3 Qb8 30. Nxh6+ gxh6 31. Rxf6 Qb4 32. Bb5
+Nxe4 33. Nxe4 Qxe4 34. Bd3 Qd4+ 35. Kf1 e4 36. Rf4 Bxd5 37. Rxf8+ Kxf8 38.
+Be2 Bxa2 39. g5 hxg5 40. Qc8+ Kg7 41. Qxc7+ Kh6 42. Qxa5 Bc4 43. Qe1 Qf6+
+44. Kg2 Bxe2 45. Qxe2 Qf3+ 46. Qxf3 exf3+ 47. Kxf3 Kxh5 48. c4 Kh4 49. Ke4
+g4 50. Kd5 g3 51. Kxd6 g2 52. c5 g1=Q 53. c6 Qg8 54. Kd7 Qd5+ 55. Kc7 Kg5
+56. Kb6 Qb3+ 57. Kc7 Kf6 58. Kc8 Ke7 59. c7 Kd6 60. Kd8 Qb6 61. Ke8 Qxc7
+62. Kf8 Qh7 63. Ke8 Qe7# 0-1
+

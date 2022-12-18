@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Mokry, Karel"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d2bf6d24"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. O-O O-O 8. c4
+Qd8 1/2-1/2

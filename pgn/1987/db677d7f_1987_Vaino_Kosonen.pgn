@@ -1,0 +1,22 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vaino"]
+[Black "Kosonen"]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "db677d7f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bg5 Na6 7. e3 Nxc5
+8. Bd3 Nxd3+ 9. Qxd3 d5 10. Ne2 b6 11. Bxf6 Qxf6 12. cxd5 exd5 13. Qxd5 Ba6
+14. Qd4 Qe7 15. a3 Bxc3+ 16. Nxc3 Rfd8 17. Qa4 Bd3 18. Rd1 Rac8 19. Rd2 Rc4
+20. Qd1 Rcd4 21. h4 Bc2 22. Qxc2 Rxd2 23. Qxd2 Rxd2 24. Kxd2 b5 25. f3 Qd6+
+26. Ke2 Qg6 27. Ne4 Qxg2+ 28. Nf2 h5 29. Rd1 Qh2 30. Rd4 g6 31. a4 Qc7 32.
+Kd2 Qa5+ 33. b4 Qxa4 34. Ne4 Qa2+ 35. Kd3 Qb1+ 36. Kd2 Qh1 37. Ng5 Qg2+ 38.
+Kd3 Qf1+ 39. Kd2 Qf2+ 40. Kd3 Kg7 41. Rf4 f5 42. Rd4 Kf8 43. Rd8+ Ke7 44.
+Rd4 Qe1 45. Rf4 a5 46. bxa5 b4 47. e4 Qc3+ 0-1
+

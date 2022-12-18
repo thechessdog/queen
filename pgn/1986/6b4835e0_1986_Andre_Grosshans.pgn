@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Andre, K."]
+[Black "Grosshans, R."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "6b4835e0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. exf5 e4 5. Bxc6 dxc6 6. Ne5 Bxf5 7. O-O
+Nf6 8. d4 exd3 9. Nxd3 Be7 10. Nc3 O-O 11. Bf4 Nd5 12. Be5 Qd7 13. Bxg7
+Kxg7 0-1
+

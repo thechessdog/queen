@@ -1,0 +1,16 @@
+[Event "GB-FSM"]
+[Site "GB-FSM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stewart"]
+[Black "Kwiatkowski"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "0562b63c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e3 Nc6 6. Qh5 e6 7. O-O-O
+cxd4 8. exd4 Bb4 9. Nge2 Bd7 10. Rd3 Qb6 11. g3 Rc8 12. Bg2 Bxc3 13. Nxc3
+Nb4 14. Re3 1-0
+

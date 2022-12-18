@@ -1,0 +1,18 @@
+[Event "SMB-Volmac"]
+[Site "SMB-Volmac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bartels, H."]
+[Black "De Wit, J."]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[HashCode "98c0f7bd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Na6 8.
+cxd5 Nxc5 9. Be5 Bf5 10. f3 Qb6 11. e4 Ncxe4 12. fxe4 Nxe4 13. Nxe4 Bxe5
+14. Qe2 Bxb2 15. Rc4 Rac8 16. Nd2 Rxc4 17. Nxc4 Bc3+ 18. Nd2 Rd8 19. Nf3
+Rxd5 20. Qxe7 Be6 21. Be2 Qe3 0-1
+

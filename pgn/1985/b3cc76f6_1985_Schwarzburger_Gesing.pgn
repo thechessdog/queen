@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schwarzburger, L."]
+[Black "Gesing, T."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "b3cc76f6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6
+8. Ba4 d6 9. Kh1 Nf6 10. Bc2 O-O 11. Bg5 h6 12. Bh4 Qe7 13. Qd2 g5 14. Bxg5
+hxg5 15. Qxg5+ Kh7 16. f4 Rg8 17. Qh4+ Kg7 18. fxe5 Nd5 19. Qg3+ Kf8 20.
+exd6 Rxg3 21. dxe7+ Kxe7 22. exd5 Rg5 23. dxc6 bxc6 24. Bb3 f5 25. Nd2 Ba6
+26. Rae1+ Kd8 27. Rf3 Bb7 28. Rh3 Rg7 29. Rh8+ Kc7 30. Rxa8 Bxa8 31. Nf3
+Bb7 32. Re5 f4 33. Re4 c5 34. d5 c4 35. Rxc4+ Kd7 36. Rxf4 Re7 37. Bc4 Be3
+38. Rf6 Bc1 39. Bb5+ Kd8 40. d6 Re8 41. Bxe8 Kxe8 42. Ne5 Bg5 43. Rg6 Bd5
+44. Rxg5 1-0
+

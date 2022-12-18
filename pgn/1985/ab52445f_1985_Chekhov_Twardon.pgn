@@ -1,0 +1,23 @@
+[Event "Rostock"]
+[Site "Rostock"]
+[Date "1985.??.??"]
+[Round "9"]
+[White "Chekhov, Valery A"]
+[Black "Twardon, Marian"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "ab52445f"]
+[Epoch "Queen"]
+[WhiteID "4100859"]
+[BlackID "1101021"]
+[WhiteCountry "RUS"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 Nd7 12. Nc4 Ne5 13. Ne3 f5 14. f4 Nf7 15.
+exf5 gxf5 16. Bd3 Nh6 17. Qc2 Kh8 18. Kh1 Bd7 19. Bd2 a6 20. Ne2 Qh4 21. b4
+Rae8 22. bxc5 Rxe3 23. Bxe3 Ng4 24. Bg1 Nxd5 25. Qb1 Bc6 26. Rf3 dxc5 27. Bxf5
+Rxf5 28. Qxf5 Ne7 29. Qb1 Bxf3 30. gxf3 Nf2+ 31. Kg2 Nh3 32. Qe1 Nxf4+ 33. Nxf4
+Qxf4 34. Rd1 Ng6 35. Qe4 Qg5+ 36. Kh1 h5 37. Rd5 Be5 38. Bxc5 1-0

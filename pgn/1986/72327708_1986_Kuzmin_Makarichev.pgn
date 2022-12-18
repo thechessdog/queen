@@ -1,0 +1,19 @@
+[Event "Moscow-B"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuzmin, Alexey"]
+[Black "Makarichev, Sergey"]
+[Result "1/2-1/2"]
+[ECO "C46"]
+[Opening "Four knights game"]
+[HashCode "72327708"]
+[Epoch "Queen"]
+[WhiteID "4100794"]
+[WhiteCountry "RUS"]
+[BlackID "4100468"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 Bc5 5. Bg2 d6 6. d3 a6 7. O-O O-O 8. h3 h6
+9. Nh4 Nd4 10. Ne2 Re8 11. Nxd4 Bxd4 12. Qf3 c6 13. Nf5 Bxf5 14. Qxf5 d5 15.
+Re1 Re6 16. c3 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "7"]
+[White "Rademacher, Hubert"]
+[Black "Frank, Mario"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "c50082a0"]
+[Epoch "Queen"]
+[BlackID "103527"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8. Nf3
+Nd7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Ngf6 12. Bd2 Bd6 13. O-O-O Qc7 14. Ne5 Rf8
+15. c4 O-O-O 16. Qf3 Bxe5 17. fxe5 Ne8 18. Ne4 f5 19. Nf2 Qb6 20. Bf4 Qa6 21.
+Qb3 Nb6 22. c5 Nd5 23. Nd3 Nec7 24. a4 Rf7 25. Rh3 Rfd7 26. Bd2 Kb8 27. Rg3 Rf7
+28. Rf3 Rdf8 29. Re1 b5 30. cxb6 Qxb6 31. Qc4 Na6 32. Nc5 Nxc5 33. dxc5 Qc7 34.
+Rb3+ Ka8 35. Qa6 Rb8 36. Ba5 Qc8 37. Qxc8 Rxc8 38. Rg3 Rb8 39. Bd2 Rfb7 40. Rg6
+Rxb2 41. Rxe6 Rb1+ 42. Kc2 R8b2+ 43. Kd3 Rxe1 44. Re8+ Rb8 45. Rxb8+ Kxb8 46.
+Bxe1 Nf4+ 47. Kd4 Kc7 48. g3 Ne6+ 49. Kc4 Kb7 50. Bb4 Kc7 51. Kd3 Kd7 52. Ke3
+Ng5 53. Kf4 Ke6 54. Ba5 Nh3+ 55. Ke3 Ng5 56. Bc7 Nf7 57. Kf4 Ng5 58. Bb8 a6 59.
+Bc7 Nh3+ 60. Ke3 Ng5 61. Bd6 Nh7 62. g4 fxg4 63. Kf4 Ng5 64. Kxg4 Ne4 65. Kf4
+Nc3 66. Ke3 Nxa4 67. Kd3 Nxc5+ 68. Bxc5 Kxe5 69. Bd4+ Kf5 70. Bxg7 Kg5 71. Kc4
+Kxh5 72. Kc5 0-1

@@ -1,0 +1,18 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Furnes, Torstein"]
+[Black "Hop, Lars"]
+[Result "0-1"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "54aabd63"]
+[Epoch "Queen"]
+[WhiteID "1508784"]
+[WhiteCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 c4 7. Nf3 h6 8. a4
+Bd7 9. Be2 Ne7 10. Ba3 Nf5 11. Bc1 O-O 12. Nd2 Qc7 13. Bh5 Rc8 14. Qf3 Be8 15.
+Nf1 Nc6 16. Ng3 Nfxd4 17. cxd4 Nxd4 18. Qc3 Qxe5+ 19. Be3 Nf3+ 0-1

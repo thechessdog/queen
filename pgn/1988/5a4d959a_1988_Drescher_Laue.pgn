@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Drescher"]
+[Black "Laue"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "5a4d959a"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Ng5 Nf6 6. Nh3 d5 7. Bg5 dxc4 8.
+e3 Qe7 9. Bxc4 Qb4 10. Bb3 Bd7 11. Bxf6 gxf6 12. Qh5+ Kd8 13. Nf4 Ne7 14.
+O-O c6 15. d5 Kc8 16. Rfd1 c5 17. d6 Nc6 18. Be6 Ne5 19. Qe8# 1-0
+

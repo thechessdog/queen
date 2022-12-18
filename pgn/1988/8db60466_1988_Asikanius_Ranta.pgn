@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Asikanius"]
+[Black "Ranta"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "8db60466"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 e4 10. dxc6 exf3 11. d4 Bd6 12. Qxf3 Re8 13. Bd2 Rxe1+ 14.
+Bxe1 Qe8 15. Nd2 Bg4 16. Qd3 Be2 17. Qh3 Qxc6 18. f3 Bf4 19. Bc2 Be3+ 20.
+Kh1 h6 21. Ne4 Re8 22. Qf5 Nd5 23. Ng3 g6 24. Qg4 Nf6 25. Qh3 Bc4 26. Ne4
+Bd5 27. Nc5 Bg5 28. Bd3 Kg7 29. Bg3 Nh5 30. Kg1 Be3+ 31. Bf2 Nf4 32. Qg3
+Bd2 0-1
+

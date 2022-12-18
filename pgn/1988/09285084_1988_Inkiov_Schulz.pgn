@@ -1,0 +1,19 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Inkiov, Ventzislav"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "09285084"]
+[Epoch "Queen"]
+[WhiteID "2900033"]
+[WhiteCountry "FID"]
+[BlackID "4600649"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 exd4 7. Bxc4 Nc6
+8. O-O Qf6 9. e5 Qg6 10. Re1 Nge7 11. Ne4 1/2-1/2

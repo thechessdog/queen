@@ -1,0 +1,17 @@
+[Event "NWL-I 8687"]
+[Site "NWL-I 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Borngaesser, Rene"]
+[Black "Wolfradt, D."]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "20c5c2a7"]
+[Epoch "Queen"]
+[WhiteID "4600940"]
+[WhiteCountry "GER"]
+
+1. c4 d5 2. cxd5 Nf6 3. Nc3 Nxd5 4. g3 e5 5. Bg2 c6 6. Nf3 Bd6 7. d4 Bb4 8. O-O
+Nxc3 9. bxc3 Bxc3 10. Ba3 Bxa1 11. Qxa1 Qa5 12. Qc1 Be6 13. Nxe5 f6 14. Nd3 Nd7
+15. Nf4 Bxa2 16. Qe3+ Kd8 17. Qe7+ Kc8 18. d5 c5 19. Bh3 Qd8 20. Qxc5+ 1-0

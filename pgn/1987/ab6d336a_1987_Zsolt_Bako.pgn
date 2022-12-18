@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zsolt"]
+[Black "Bako, Victor"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "ab6d336a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e6 7. c3
+Be7 8. d4 O-O 9. e5 Nd5 10. Nbd2 cxd4 11. exd6 Bxd6 12. Nxd4 Bf4 13. N2f3
+Bxc1 14. Rxc1 Rc8 15. Qd2 N7b6 16. Ne5 Nc4 17. Nxc4 Rxc4 18. Qe2 Rc8 19.
+Rcd1 Qe7 20. Nf5 Qg5 21. Rxd5 exf5 22. Qe5 g6 23. Qg3 Qxg3 24. hxg3 h5 25.
+Rd7 a6 26. Rxb7 Rb8 27. Ree7 Rxb7 28. Rxb7 Re8 29. c4 Re1+ 30. Kh2 Kf8 31.
+c5 Ke8 32. Rb6 Rc1 33. Rxa6 Rxc5 34. b4 Rb5 35. a3 Kd7 36. Ra7+ Ke8 37. Kg1
+f6 38. Kf1 Kd8 39. Ke2 Kc8 40. Kd3 Kb8 41. Rf7 Rb6 42. Kc4 Ra6 43. Kb3 Rd6
+44. b5 Rd2 45. Rxf6 Rxf2 46. Rxg6 Rxg2 47. Rg5 Kb7 48. Kb4 Kb6 49. Rxf5
+Rxg3 50. Rf6+ Kb7 51. a4 h4 52. Ka5 Rg1 53. Rf7+ Kb8 54. Ka6 Rg6+ 55. b6
+Rg8 56. Rh7 Kc8 57. Ka7 h3 58. b7+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Keith, D."]
+[Black "Grillon, J."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "4e3f2e57"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. g3 Bh3 8. c3
+Bxf1 9. Qxf1 fxg3 10. Nxg5 Qf6 11. Nf3 gxh2+ 12. Kh1 Nd7 13. Be3 Ne7 14.
+Nbd2 O-O-O 15. Ba6 bxa6 16. Qxa6+ Kb8 17. d5 Nb6 18. a4 c5 19. dxc6 Nxc6
+20. a5 1-0
+

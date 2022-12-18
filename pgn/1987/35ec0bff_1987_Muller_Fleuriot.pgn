@@ -1,0 +1,17 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Fleuriot"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "35ec0bff"]
+[Epoch "Queen"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 h5 7. Qf3 Qc8 8.
+Bc4 e6 9. Nxf7 Bg4 10. Kf2 Kxf7 11. h3 c5 12. hxg4 cxd4 13. g5 Qxc4 14. gxf6
+dxc3 15. fxg7+ Kxg7 16. Rf1 1-0

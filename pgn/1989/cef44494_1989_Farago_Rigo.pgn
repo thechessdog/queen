@@ -1,0 +1,28 @@
+[Event "Chianciano tt"]
+[Site "Chianciano tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Farago, Ivan"]
+[Black "Rigo, Janos"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "cef44494"]
+[Epoch "Queen"]
+[WhiteID "700134"]
+[WhiteCountry "HUN"]
+[BlackID "700371"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 d5 5. Bg5 Be7 6. e3 O-O 7. Be2 Bb7 8. Bxf6
+Bxf6 9. cxd5 exd5 10. b4 c6 11. O-O Nd7 12. Qb3 a6 13. a4 Re8 14. a5 b5 15.
+Rac1 g6 16. Nd1 Bg7 17. Nb2 Nf6 18. Nd3 Ne4 19. Rc2 Nd6 20. Nc5 Bc8 21. Qc3 Bf5
+22. Bd3 Bxd3 23. Qxd3 Nc4 24. Nd2 Bf8 25. Ndb3 Ra7 26. Re2 f5 27. f3 Rae7 28.
+Rfe1 Bh6 29. e4 dxe4 30. fxe4 fxe4 31. Rxe4 Rxe4 32. Rxe4 Be3+ 33. Kh1 Rxe4 34.
+Qxe4 Qf8 35. Qf3 Qe8 36. Qf6 Bg5 37. Qe6+ Qxe6 38. Nxe6 Be7 39. Nec5 Kf7 40.
+Nxa6 Ke6 41. Nac5+ Kd5 42. Nd7 Kd6 43. Nbc5 Kc7 44. Kg1 Bxc5 45. Nxc5 Ne3 46.
+Kf2 Nc2 47. Nd3 Nxd4 48. Ke3 Ne6 49. Nf4 Nf8 50. Kd4 Nd7 51. Nd3 Kd6 52. g3 Nf6
+53. Nc5 Nd5 54. a6 Nb6 55. a7 Na8 56. Ne4+ Kc7 57. Kc5 Nb6 58. Nd6 Nd7+ 59. Kd4
+Nb6 60. Ke5 Na8 61. Ne4 Kb7 62. Kd6 Nc7 63. Nc5+ Kb6 64. Ne6 Na8 65. Nd4 Kxa7
+66. Kxc6 1-0

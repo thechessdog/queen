@@ -1,0 +1,18 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Oll, Lembit"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "7f666d49"]
+[Epoch "Queen"]
+[WhiteID "4100093"]
+[WhiteCountry "RUS"]
+[BlackCountry "EST"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O a6 8. a4
+O-O 9. f4 Nc6 10. Be3 Re8 11. Kh1 1/2-1/2

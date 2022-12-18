@@ -1,0 +1,26 @@
+[Event "Saint John op-1"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Semkov, Semko"]
+[Black "Perenyi, Bela"]
+[Result "0-1"]
+[ECO "A68"]
+[Opening "Benoni"]
+[Variation "four pawns attack"]
+[HashCode "e99b75e8"]
+[Epoch "Queen"]
+[WhiteID "2900068"]
+[WhiteCountry "FID"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Nbd7 10. O-O Re8 11. Qc2 a6 12. a4 Qc7 13. Kh1 c4 14. Nd2 Nc5 15.
+Bxc4 Ncxe4 16. Ncxe4 Nxe4 17. Nxe4 Bf5 18. Re1 Rac8 19. Bd3 Bxe4 20. Qxc7 Rxc7
+21. Rxe4 Rxe4 22. Bxe4 Re7 23. Bd2 Rxe4 24. Re1 Rxe1+ 25. Bxe1 Bxb2 26. Bb4 b5
+27. axb5 axb5 28. Bxd6 Bc3 29. Bc5 b4 30. d6 b3 31. d7 Ba5 32. Bd4 f5 33. Bc3
+Bd8 34. Kg1 Kf7 35. Kf2 Ke7 36. Ke3 Kxd7 37. Kd3 Kc6 38. Kc4 Bc7 39. Kxb3 Kd5
+40. Kc2 Bxf4 41. h3 Ke4 42. Bb4 Bc7 43. Kd2 Kf4 44. Ke2 Kg3 45. Kf1 Bb6 46.
+Be1+ Kh2 47. Bd2 h5 48. Bf4+ Kh1 49. Bg5 Bc5 50. Bf4 Be7 51. Be5 g5 52. Bc7 Bc5
+53. Be5 Be3 54. Bd6 f4 55. Be5 Kh2 56. Bd6 g4 57. hxg4 hxg4 58. Be5 g3 59. Bd6
+Kh1 0-1

@@ -1,0 +1,18 @@
+[Event "Washington,DC"]
+[Site "Washington,DC"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Anchondo"]
+[Black "Hill, L."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "f8b80ad0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3
+Bxf3 8. Nxd5 Bxd1 9. Nc7+ Kd7 10. Nxa8 Bg4 11. Bb5 e6 12. f3 Bf5 13. Bf4
+Bd6 14. Be5 f6 15. Bg3 Ne7 16. Nb6+ axb6 17. O-O Nd5 18. Bxd6 Kxd6 19. Rfd1
+Rc8 20. a3 Na7 21. Ba4 Bc2 22. Rdc1 Bxa4 23. Rxc8 Nxc8 0-1
+

@@ -1,0 +1,17 @@
+[Event "Oberhausen"]
+[Site "Oberhausen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bobovnik, HM."]
+[Black "Bross, Horst"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "87fc8970"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 c6 6. f4 O-O 7. Bb3 Bg4 8. Nf3
+Qa5 9. O-O Nbd7 10. Bd2 Qb6 11. Be3 a5 12. h3 Bxf3 13. Qxf3 Ne8 14. Rad1 Nc7
+15. f5 c5 16. dxc5 dxc5 17. Rxd7 1-0

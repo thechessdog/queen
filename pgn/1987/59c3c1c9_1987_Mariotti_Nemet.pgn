@@ -1,0 +1,19 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mariotti, Sergio"]
+[Black "Nemet, Ivan"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "59c3c1c9"]
+[Epoch "Queen"]
+[BlackCountry "CHE"]
+[WhiteID "800023"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 a5 7. Nc3 c6 8. e4 a4
+9. Bg5 axb3 10. axb3 Rxa1 11. Qxa1 h6 12. Bd2 Nbd7 13. h3 Re8 14. e5 dxe5 15.
+dxe5 Nxe5 0-1

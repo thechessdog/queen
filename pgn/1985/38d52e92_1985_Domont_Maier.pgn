@@ -1,0 +1,17 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Domont, Alexandre"]
+[Black "Maier"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "38d52e92"]
+[Epoch "Queen"]
+[WhiteID "1300172"]
+[WhiteCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nf6 5. a3 Bxc3+ 6. Nxc3 Nxe4 7. Nxe4 dxe4
+8. Bf4 Nc6 9. Bb5 O-O 10. Bxc6 bxc6 11. Qd2 Rb8 12. O-O-O 1/2-1/2

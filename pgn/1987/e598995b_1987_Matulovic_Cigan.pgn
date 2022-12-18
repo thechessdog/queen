@@ -1,0 +1,19 @@
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Cigan, Stefan"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "e598995b"]
+[Epoch "Queen"]
+[BlackID "14600064"]
+[WhiteCountry "SRB"]
+[BlackCountry "SLO"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+O-O 9. Be3 Qc7 10. g4 Nc6 11. g5 Nd7 12. f4 Rd8 13. Qh5 Rb8 14. Rf3 Nxd4 15.
+Bxd4 b5 16. f5 g6 17. Qxh7+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Griend"]
+[Black "Van der Kleij, C."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "cddd2b22"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. c3 Nbc6 9. f4 cxd4 10. cxd4 Qb6 11. Nf3 Bd7 12. Nd6 Nc8 13. Nxc8 Raxc8
+14. a3 Na5 15. Qb4 Qxb4+ 16. axb4 Nb3 17. Rxa7 Rc2 18. Ra3 Rxb2 19. Bd3 Nc1
+20. g4 Rc8 21. Rg1 Nb3 22. Be2 Bb5 23. Rg2 h6 24. Rxb3 Rxb3 0-1
+

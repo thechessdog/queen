@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heinl"]
+[Black "Kargoll, H."]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[HashCode "ea182fa9"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 Bb7 7. Bg2
+O-O 8. O-O c5 9. dxc5 bxc5 10. Qc2 Nc6 11. Rfd1 Qc7 12. Rac1 Rfe8 13. e3 a5
+14. Ne4 Nxe4 15. Qxe4 Nd4 16. Qg4 f5 17. Qh5 g6 18. Qh6 Nxf3+ 19. Kf1 Ne5
+20. Qf4 Bxg2+ 21. Kxg2 Qb7+ 22. Kf1 Nf7 23. Qh4 Kg7 24. Rc2 Rad8 25. Rcd2
+d6 26. Ke2 Qe4 27. f4 Qxc4+ 28. Kf2 d5 29. b3 Qe4 0-1
+

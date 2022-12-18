@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lovingood, C."]
+[Black "Leffew, R."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "fa7ec8e0"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 g6 7. Nf3 Bg7 8.
+O-O O-O 9. Re1 Bg4 10. Nbd2 Rc8 11. h3 Be6 12. Nb3 Qb6 13. Nc5 Bd7 14. Qb3
+Qxb3 15. axb3 b6 16. Nxd7 Nxd7 17. Bb5 Ndb8 18. Bxb8 Nxb8 19. Rxe7 a5 20.
+Rb7 1-0
+

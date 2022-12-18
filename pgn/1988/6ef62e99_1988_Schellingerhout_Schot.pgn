@@ -1,0 +1,17 @@
+[Event "corr ch17-NLD"]
+[Site "corr ch17-NLD"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schellingerhout, J."]
+[Black "Schot, J."]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "6ef62e99"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 Nfd7 7. Bc4 Nb6 8.
+Bb3 Nc6 9. Be3 Na5 10. Qe2 Nxb3 11. axb3 Bg4 12. h3 Bxf3 13. Qxf3 c6 14.
+O-O Qd7 15. Ne4 Nd5 1/2-1/2
+

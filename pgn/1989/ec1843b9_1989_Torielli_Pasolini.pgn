@@ -1,0 +1,20 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Torielli, A."]
+[Black "Pasolini, C."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "ec1843b9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 O-O 10. g3 bxc5 11. dxc5 a5 12. Rb1 axb4 13. axb4 Nc6 14. Bg2
+Rb8 15. Ba3 Na7 16. O-O Bd7 17. Re1 Ne8 18. Nd4 Nc7 19. Bf1 Bf6 20. f4 Re8
+21. Qd2 h6 22. Nce2 Ncb5 23. Bb2 Bc6 24. Nc1 Bxd4+ 25. Bxd4 Nxd4 26. Qxd4
+Qd7 27. Nd3 Nb5 28. Qb2 f6 29. Bg2 Ra8 30. Ra1 Re7 31. Rxa8+ Bxa8 32. Ra1
+Bc6 1/2-1/2
+

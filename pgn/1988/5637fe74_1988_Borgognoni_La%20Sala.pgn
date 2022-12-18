@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Borgognoni, F."]
+[Black "La Sala, A."]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "5637fe74"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Bc2 Qc7 9. O-O b6 10. Nxc6 Qxc6 11. Qe2 Bb7 12. Nd5 Bd6 13. Bg5 Nxd5 14.
+cxd5 Qc7 15. dxe6 dxe6 16. Rac1 Bxh2+ 17. Kh1 Bc6 18. g3 Bxg3 19. fxg3 Qxg3
+20. Bf4 Qh4+ 21. Qh2 1-0
+

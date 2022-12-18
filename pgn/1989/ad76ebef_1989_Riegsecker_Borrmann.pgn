@@ -1,0 +1,18 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Riegsecker"]
+[Black "Borrmann"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "ad76ebef"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxg6+
+Kd7 8. Qf7+ Qe7 9. Qf5+ Kd8 10. Qxd5+ Ke8 11. Nc3 Nf6 12. Qd4 Nc6 13. Bb5
+Bd7 14. Bxc6 Bxc6 15. Qe3 Bh6 16. Qe2 Rd8 17. h4 Rg8 18. Rg1 Bf4 19. g4 Be5
+20. a4 Qh7 21. h5 Qxh5 0-1
+

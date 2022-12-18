@@ -1,0 +1,21 @@
+[Event "Bayern-ch-B (Women)"]
+[Site "Bayern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Spiel, Marianne"]
+[Black "Gundelfinger, Karim"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "6c94bb78"]
+[Epoch "Queen"]
+[WhiteID "4617908"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. Bd3 Bg7
+8. O-O Nd7 9. Re1 e6 10. c4 Qc7 11. Qe2 Nb6 12. Bd2 O-O-O 13. Ba5 Bxd3 14. Qxd3
+c5 15. b4 Qc6 16. b5 Qd6 17. Red1 Bh6 18. Qb3 Rdg8 19. Bd2 Bxd2 20. Rxd2 Rg4
+21. Rad1 Rhg8 22. g3 h5 23. a4 h4 24. a5 hxg3 25. fxg3 Nd7 26. d5 Ne5 27. dxe6
+Qxe6 28. Kg2 Nxc4 29. Rd3 Qe2+ 30. Kh3 Re4 31. Qc3 Rh8+ 32. Nh4 Rhxh4+ 33. gxh4
+Qg4# 0-1

@@ -1,0 +1,23 @@
+[Event "NWL-I 8687"]
+[Site "NWL-I 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Betzer, Hans Joachim"]
+[Black "Guenther, U."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "79d4633d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 e6 7. d4 Be7 8. d5
+exd5 9. exd5 Ne5 10. Bxd7+ Nfxd7 11. Nxe5 Nxe5 12. f4 Ng6 13. f5 Ne5 14. Bf4
+Bf6 15. Qa4+ Qd7 16. Qxd7+ Kxd7 17. Bxe5 Bxe5 18. Nd2 Rae8 19. a4 Re7 20. g3
+Rhe8 21. Kf2 g6 22. fxg6 hxg6 23. Nc4 Bf6 24. Rxe7+ Rxe7 25. Re1 Rxe1 26. Kxe1
+b6 27. Ke2 Kc7 28. Kd3 Bg5 29. Na3 a6 30. Nc2 f5 31. Ne1 b5 32. axb5 axb5 33.
+b3 Kd7 34. Nf3 Bf6 35. h3 Ke7 36. g4 fxg4 37. hxg4 Kd7 38. c4 bxc4+ 39. Kxc4
+Kc7 40. Kb5 Kb7 41. Nd2 Be5 42. Nc4 Bg3 43. Na5+ Kc7 44. Ka6 Be1 45. Nc4 Bf2
+46. Na3 Be1 47. Nb5+ Kd7 48. Kb7 Bg3 49. Nc7 Bf4 50. Ne6 g5 51. Nc7 Bg3 52. Na8
+Bh2 53. Nb6+ Kd8 54. Kc6 Bf4 55. Nc4 Ke7 56. Kc7 Bc1 57. Nb6 Bf4 58. Nc8+ Kf6
+59. Kc6 1-0

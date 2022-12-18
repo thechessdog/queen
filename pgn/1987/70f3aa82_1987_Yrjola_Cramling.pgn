@@ -1,0 +1,21 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Yrjola, Jouni"]
+[Black "Cramling, Pia"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "70f3aa82"]
+[Epoch "Queen"]
+[WhiteID "500011"]
+[WhiteCountry "FIN"]
+[BlackID "1700030"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12. e5 a6 13. Be2 Nxg3 14. fxg3 Nd7 15.
+e6 Nf6 16. O-O b5 17. Qc2 Ra7 18. Rad1 Re7 19. a4 b4 20. Ne4 Nxe4 21. Qxe4 Bxb2
+22. Nd2 Bd4+ 23. Kh1 Bb7 24. Nc4 Qa8 25. Qg6 1-0

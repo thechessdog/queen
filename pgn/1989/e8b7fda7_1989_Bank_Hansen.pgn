@@ -1,0 +1,19 @@
+[Event "Fyn"]
+[Site "Fyn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bank Friis, Carsten"]
+[Black "Hansen, Morten"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "e8b7fda7"]
+[Epoch "Queen"]
+[BlackID "1402552"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. O-O e6 6. c3 d5 7. exd5 exd5 8. d4
+cxd4 9. Nxd4 Nxd4 10. cxd4 Ne7 11. Bg5 f6 12. Bd2 Be6 13. Re1 Qd7 14. Bb4 Nc6
+15. Ba3 Kf7 16. Nc3 Rad8 17. Qd2 h5 18. Nb5 Bh6 19. Qc3 Bf8 20. Re3 a6 21. Bxf8
+Rdxf8 22. Rxe6 Kxe6 23. Bxd5+ Ke7 24. Qc5+ Kd8 25. Qb6+ Kc8 26. Bxc6 1-0

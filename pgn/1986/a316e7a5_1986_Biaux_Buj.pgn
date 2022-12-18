@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Biaux"]
+[Black "Buj"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "a316e7a5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Nf6 5. Nf3 Be7 6. O-O O-O 7. c4 Ne8
+8. d4 g5 9. Bd3 Ng7 10. Qc2 f5 11. Nc3 Bf6 12. c5 Nd7 13. Re1 g4 14. Ne5
+Bxe5 15. dxe5 Nxc5 16. Bxf4 Nxd3 17. Qxd3 c6 18. Rad1 cxd5 19. Nxd5 Be6 20.
+Nf6+ Kh8 21. Qg3 Qe7 22. Qh4 Ne8 23. Bg5 Qf7 24. Bh6 Nxf6 25. Bxf8 Ne4 26.
+Bh6 Qg6 27. Rd8+ Rxd8 28. Qxd8+ Bg8 29. Qf8 Qb6+ 30. Re3 1-0
+

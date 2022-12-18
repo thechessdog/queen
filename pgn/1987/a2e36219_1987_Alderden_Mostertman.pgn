@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Alderden"]
+[Black "Mostertman"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "a2e36219"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 c6 6. Nxe5 Qf6 7. Nd3 b5 8.
+Bb3 b4 9. e5 Qg6 10. Ne2 Qxg2 11. Ng3 Nf3+ 12. Ke2 Ba6 13. Qf1 Nd4+ 14. Ke1
+Qf3 15. Qh3 g6 16. Rg1 f4 0-1
+

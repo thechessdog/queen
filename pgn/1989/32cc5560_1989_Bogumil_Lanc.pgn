@@ -1,0 +1,20 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bogumil, Pavel"]
+[Black "Lanc, Alois"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "32cc5560"]
+[Epoch "Queen"]
+[WhiteID "4103785"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. h3 e5 6. O-O Be7 7. Re1 g5 8.
+Nh2 h5 9. c3 Bf6 10. d4 cxd4 11. cxd4 exd4 12. Nf3 g4 13. e5 dxe5 14. Nxe5 Kf8
+15. h4 Qd5 16. Bf4 Ne7 17. Nd2 c5 18. Qb3 Bxh4 19. Ne4 Be6 20. Nxc5 Qxc5 21.
+Qxe6 Bxf2+ 22. Kh2 fxe6 23. Nd7+ Kf7 24. Nxc5 Bxe1 25. Rxe1 Rhe8 26. Nxe6 Nd5
+0-1

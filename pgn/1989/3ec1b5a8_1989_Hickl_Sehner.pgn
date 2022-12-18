@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hickl, Joerg"]
+[Black "Sehner, Norbert"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3ec1b5a8"]
+[Epoch "Queen"]
+[WhiteID "4600118"]
+[WhiteCountry "GER"]
+[BlackID "4600398"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nf6 6. f3 Nc6 7. Be3 b6 8.
+Nd2 Nd7 9. Kc2 Bb7 10. a4 e6 11. Nc4 Nde5 12. Nxe5 Nxe5 13. a5 Bd6 1/2-1/2

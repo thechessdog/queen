@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Otto, N."]
+[Black "Goldt, R."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "1b75a874"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8.
+Ng2 Nc6 9. c3 h5 10. e4 h4 11. e5 Bxe5 12. dxe5 Qxd1+ 13. Kxd1 hxg3 14. Nf4
+Ngxe5 15. h4 gxh3 16. Bxh3 Bxh3 17. Rxh3 O-O-O+ 18. Nd2 g2 19. Nxg2 Rxh3
+0-1
+

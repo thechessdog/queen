@@ -1,0 +1,17 @@
+[Event "corr SF jub"]
+[Site "corr SF jub"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Osterman"]
+[Black "Notten"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "61199c8e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 Bb4 8.
+Nc2 Bxc3+ 9. bxc3 Nc6 10. f3 Qa5 11. Ba3 Qxc3+ 12. Kf2 d5 13. cxd5 exd5 14.
+exd5 Ne5 15. Re1 Bf5 16. Qd4 Rc8 17. Bb4 Qxd4+ 18. Nxd4 Nxd5 19. Bd6 1-0
+

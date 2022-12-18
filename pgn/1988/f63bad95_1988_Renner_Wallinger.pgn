@@ -1,0 +1,20 @@
+[Event "Bayern-ch-B"]
+[Site "Bayern"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Renner, Manfred"]
+[Black "Wallinger, Manfred"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f63bad95"]
+[Epoch "Queen"]
+[WhiteID "16203828"]
+[BlackID "4614216"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. Be2 e6 7. O-O Be7 8. Na3
+O-O 9. Nc2 b6 10. Ne3 Qd6 11. dxc5 Qxd1 12. Rxd1 Bxc5 13. b4 Be7 14. Bb2 Bb7
+15. a3 Rfd8 16. c4 1/2-1/2

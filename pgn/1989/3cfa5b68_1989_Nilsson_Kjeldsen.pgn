@@ -1,0 +1,18 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Kjeldsen, Villy"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "3cfa5b68"]
+[Epoch "Queen"]
+[BlackID "1403290"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nc6 7. Be3 e6 8. O-O
+Be7 9. Qd2 O-O 10. f4 Qc7 11. Bf3 Bd7 12. Rad1 Rfd8 13. Nde2 Rac8 14. g4 Na5
+15. Kh1 Nc4 16. Qc1 b5 17. g5 Ne8 18. Bd4 1/2-1/2

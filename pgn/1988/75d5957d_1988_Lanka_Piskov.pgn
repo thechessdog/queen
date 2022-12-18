@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lanka, Zigurds"]
+[Black "Piskov, Yury"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "75d5957d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 a6 4. Bd3 c5 5. dxc5 Bxc5 6. Ngf3 Nc6 7. a3 Nf6 8. O-O
+Qc7 9. b4 Be7 10. Bb2 b5 11. Re1 O-O 12. exd5 Nxd5 13. c4 bxc4 14. Nxc4 Bb7 15.
+Rc1 Qf4 16. Re4 Qb8 17. Rg4 Bf6 18. Qd2 Nce7 19. h4 Kh8 20. Nfe5 Bc8 21. Nc6
+Qc7 22. Rxg7 Ng6 23. Qh6 1-0

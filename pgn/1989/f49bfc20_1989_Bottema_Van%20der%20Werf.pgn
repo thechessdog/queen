@@ -1,0 +1,29 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "8"]
+[White "Bottema, Tom"]
+[Black "Van der Werf, Mark"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "f49bfc20"]
+[Epoch "Queen"]
+[WhiteID "1004778"]
+[WhiteCountry "NED"]
+[BlackID "1000470"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8. a3
+Bd6 9. dxe5 Bxe5 10. Qxd8 Rxd8 11. f4 Bxc3+ 12. Nxc3 Bf5 13. O-O Nbd7 14. Re1
+Nc5 15. b4 Nd3 16. Rd1 Nxc1 17. Raxc1 Re8 18. Nb5 Re7 19. Bd3 Bg4 20. Re1 Rd8
+21. Bb1 c6 22. Nc3 g6 23. h3 Bc8 24. Kf2 h5 25. Rcd1 Red7 26. e4 Kf8 27. Rxd7
+Rxd7 28. Rd1 Rxd1 29. Nxd1 Nd7 30. Nc3 Nb6 31. Bd3 Ke7 32. Ke3 Bd7 33. h4 Nc8
+34. Ne2 Nb6 35. Ng3 Kd6 36. Kd4 Be8 37. e5+ Ke7 38. Ne4 Nd5 39. g3 Bd7 40. Bc4
+Be6 41. Bxd5 Bxd5 42. Nd6 b6 43. Nc8+ Kd7 44. Nd6 Be6 45. Ne4 Ke7 46. Nc3 Kd7
+47. Nd1 Ke7 48. Nf2 Kd7 49. Ne4 Ke7 50. Ng5 Bf5 51. Kc3 Be6 52. a4 Bd5 53. Nh3
+Be6 54. Ng1 Bg4 55. Kd4 Kd7 56. Kc4 Kc7 57. Kd4 Kd7 58. Kc4 Kc7 59. Kd4 Kd7 60.
+Kc4 Ke6 61. Kd4 Ke7 62. Ke4 Ke6 63. Kd4 Bd1 64. Nh3 Bxa4 65. Ng5+ Ke7 66. Ne4
+Bb3 67. Nd6 Be6 68. Nb7 Kd7 69. Nd6 a5 70. bxa5 c5+ 71. Kc3 bxa5 72. Ne4 Kc6
+73. Nf6 a4 74. Kb2 Kb5 75. g4 hxg4 76. h5 a3+ 0-1

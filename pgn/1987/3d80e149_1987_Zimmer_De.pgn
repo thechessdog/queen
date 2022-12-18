@@ -1,0 +1,17 @@
+[Event "corr RUM-BEL"]
+[Site "corr RUM-BEL"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zimmer"]
+[Black "De Winne"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "3d80e149"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2 e5
+8. Bd3 Bb4 9. Ne2 Ne4 10. Bxe4 Qxe4 11. a3 Bxc3+ 12. Nxc3 Qf5 13. Qg3 O-O
+14. O-O-O c6 15. Rhf1 Qe6 16. Bc5 Qh6+ 17. Kb1 Re8 18. Ne4 Nd7 19. Nd6 Re6
+20. Nxc8 Nf6 21. Rd8+ Re8 22. Rxf6 1-0
+

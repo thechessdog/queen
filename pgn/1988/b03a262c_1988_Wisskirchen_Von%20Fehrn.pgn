@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wisskirchen, W."]
+[Black "Von Fehrn, A."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b03a262c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. d4 cxd4 6. Nxd4 g6 7. Be3 Nf6
+8. f3 Bg7 9. Nc3 O-O 10. Qd2 Ne5 11. Be2 Rc8 12. Rac1 a6 13. Rfe1 Qc7 14.
+Nb3 b5 15. Kh1 Rfe8 16. Bg5 Be6 17. Nd4 Bc4 18. f4 b4 19. Nd5 Bxd5 20. exd5
+Nc4 21. Qxb4 Nxd5 22. Qxc4 Qxc4 23. Bxc4 Rxc4 24. c3 h6 25. Bh4 Nxf4 26.
+Rcd1 e5 27. Nf3 Rc6 28. Bg3 Ne6 29. Rd5 Nc7 30. Rd2 f5 0-1
+

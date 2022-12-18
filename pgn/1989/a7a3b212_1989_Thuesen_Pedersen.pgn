@@ -1,0 +1,19 @@
+[Event "Copenhagen Obro op"]
+[Site "Copenhagen Obro"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Thuesen, Mogens"]
+[Black "Pedersen, H."]
+[Result "0-1"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "Been-Koomen variation"]
+[HashCode "a7a3b212"]
+[Epoch "Queen"]
+[WhiteID "1400878"]
+[WhiteCountry "DEN"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 c5 5. e3 cxd4 6. exd4 Be7 7. Nf3 O-O 8. a3
+Nc6 9. Bd3 dxc4 10. Bxc4 Qb6 11. O-O Rd8 12. Be3 Nd5 13. Qe2 Bf6 14. Na4 Qc7
+15. Nc5 Nf4 16. Bxf4 Qxf4 17. d5 exd5 18. Bxd5 Bg4 19. Rad1 Nd4 20. Qe4 Rxd5
+0-1

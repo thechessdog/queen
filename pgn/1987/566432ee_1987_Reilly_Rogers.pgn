@@ -1,0 +1,22 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Reilly"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "566432ee"]
+[Epoch "Queen"]
+[BlackID "3200019"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Re8 8. a3
+Bf8 9. b4 Nc6 10. Qb3 g6 11. O-O Bh6 12. Ng3 a6 13. Ra2 Qd6 14. Qb1 Bg7 15. b5
+axb5 16. Nxb5 Qd8 17. Re2 Na5 18. Kh1 c6 19. Nc3 Ng4 20. h3 Qh4 21. Kg1 Nf6 22.
+e4 Bxh3 23. gxh3 Qxh3 24. e5 Ng4 25. Rfe1 Qh2+ 26. Kf1 h5 27. f3 Qxg3 28. fxg4
+Qxg4 29. Be3 Nc4 30. Bxc4 dxc4 31. a4 c5 32. Qe4 Qh3+ 33. Kf2 Rad8 34. Rh1 Qe6
+35. Nb5 Rd7 36. Bf4 cxd4 37. Nxd4 Qb6 38. Rd1 g5 39. Be3 Rxe5 40. Nf5 Rxe4 41.
+Bxb6 Rf4+ 0-1

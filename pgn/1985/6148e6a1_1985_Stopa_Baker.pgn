@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stopa, J."]
+[Black "Baker, B."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "6148e6a1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5
+8. O-O O-O 9. Bxc6 bxc6 10. Be3 Ba6 11. Re1 f5 12. Nd2 f4 13. Nxc6 fxe3 14.
+fxe3 Qc8 0-1
+

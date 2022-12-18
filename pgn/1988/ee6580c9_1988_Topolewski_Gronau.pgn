@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Topolewski, D."]
+[Black "Gronau, A."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ee6580c9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 e6 8.
+cxd4 d6 9. exd6 Bxd6 10. Nc3 O-O 11. O-O Be7 12. Be3 Nb4 13. Bf4 N4d5 14.
+Bg3 Bd7 15. Ne5 Rc8 16. Rc1 Be8 17. Qe2 Nxc3 18. bxc3 Ba3 19. Rc2 a5 20.
+Rb1 a4 21. Bc4 Nxc4 22. Nxc4 Be7 23. Rxb7 Bc6 24. Rxe7 Qxe7 25. Bd6 Qg5 26.
+f4 Qf5 27. Bxf8 Bb5 28. Nd6 Bxe2 29. Nxf5 Bd3 30. Ne7+ Kxf8 31. Nxc8 Bxc2
+32. a3 Ke8 33. Nd6+ Ke7 34. Nc4 f6 35. Kf2 Kd7 36. Ke3 Kc6 37. Kd2 Be4 38.
+g3 Bd5 39. Kd3 Bg2 40. Ne3 Bf3 41. c4 Kb6 42. Kc3 Ka5 43. Nc2 Bd1 44. Nb4
+Bf3 45. Nd3 Bg2 46. Nc5 Bh3 47. Nb7+ Kb6 48. Nd6 Ka5 49. Ne8 g5 50. Nxf6
+gxf4 51. gxf4 h6 1-0
+

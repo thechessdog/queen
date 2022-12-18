@@ -1,0 +1,22 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hammett"]
+[Black "Chandler"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "11a16d70"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Bg2 Bxc4 7. Nbd2 Bd5
+8. O-O Bc5 9. Nb3 Bb6 10. Re1 Nge7 11. Bg5 h6 12. Bxe7 Qxe7 13. Nbxd4 Nxd4
+14. Nxd4 Bxg2 15. Kxg2 O-O-O 16. e3 Qxe5 17. Qg4+ Kb8 18. Rad1 g5 19. b3
+Bxd4 20. exd4 Qa5 21. a4 f5 22. Qf3 g4 23. Qf4 Qd5+ 24. Kg1 Qxb3 25. Qxf5
+Qxa4 26. Qxg4 h5 27. Qh4 Rd5 28. Qf4 Rhd8 29. Rc1 Qd7 30. Re4 b6 31. Qh4
+Qd6 32. Re5 Rxd4 33. Qxh5 Rd1+ 34. Qxd1 Qxd1+ 35. Rxd1 Rxd1+ 36. Kg2 a5 37.
+h4 a4 38. h5 a3 39. h6 a2 40. Re8+ Kb7 41. h7 a1=Q 42. h8=Q Qxh8 43. Rxh8
+c5 44. Kf3 c4 45. Ke2 Rb1 46. f4 b5 0-1
+

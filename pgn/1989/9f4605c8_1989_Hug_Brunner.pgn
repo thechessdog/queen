@@ -1,0 +1,19 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hug, Marcel"]
+[Black "Brunner, Lucas"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "9f4605c8"]
+[Epoch "Queen"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+[WhiteID "1300610"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Bxd2 Bb7 7. g3 d6 8.
+Bg2 Nbd7 9. O-O O-O 10. b4 Qe7 11. Qc2 c5 12. Rfd1 Rfc8 13. Rac1 a6 14. dxc5
+bxc5 15. Qb3 Be4 16. Ne1 Rcb8 17. Bf4 e5 18. Bg5 Bxg2 1/2-1/2

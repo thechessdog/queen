@@ -1,0 +1,17 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nyman, S."]
+[Black "Heinzl, G."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "51812b5f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4
+f6 9. Bd3 g6 10. Nf3 Nc6 11. O-O fxe5 12. fxe5 Bxe5 13. Nxe5 Nxe5 14. Bf4
+Nc6 15. Nc7+ 1-0
+

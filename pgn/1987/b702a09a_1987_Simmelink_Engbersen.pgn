@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Simmelink, J."]
+[Black "Engbersen, J."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "b702a09a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. N1e2 Bd6
+8. O-O Qc7 9. Bd3 Ne7 10. c3 Nd7 11. a4 a5 12. f4 Nf6 13. f5 exf5 14. Bxf5
+Nxf5 15. Nxf5 Bxh2+ 16. Kh1 O-O 17. Nh6+ Kh8 18. Rxf6 gxf6 19. Qf1 f5 20.
+Nxf5 f6 21. g3 Bxf5 22. Kxh2 Bd3 0-1
+

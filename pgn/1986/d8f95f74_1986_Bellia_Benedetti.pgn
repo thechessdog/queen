@@ -1,0 +1,24 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bellia, Fabrizio"]
+[Black "Benedetti, Fabrizio"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "d8f95f74"]
+[Epoch "Queen"]
+[BlackID "800961"]
+[BlackCountry "ITA"]
+[WhiteID "800511"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nc6 7. O-O Nf6 8.
+Kh1 Be7 9. f4 d6 10. Be3 Bd7 11. Qe1 O-O 12. Qg3 Nxd4 13. Bxd4 Bc6 14. Rad1 b5
+15. e5 dxe5 16. fxe5 Ne4 17. Qg4 Nxc3 18. bxc3 Bd5 19. Bd3 Qd8 20. Rf6 Bc4 21.
+Qh5 Bxd3 22. Rxd3 Bxf6 23. exf6 Qd5 24. Qh4 Qf5 25. Rg3 g6 26. Rf3 Qh5 27. Qf4
+e5 28. Bxe5 Rfe8 29. Bd4 Re1+ 30. Rf1 Rae8 31. h3 Rxf1+ 32. Qxf1 Qh4 33. Qf3 g5
+34. Bf2 Qe4 35. Qh5 Qg6 36. Qf3 h6 37. Qc6 Re6 38. Qc8+ Kh7 39. Bd4 Qf5 40. Qc7
+Qf1+ 41. Kh2 Qf4+ 0-1

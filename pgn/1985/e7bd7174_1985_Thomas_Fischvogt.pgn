@@ -1,0 +1,24 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thomas, C."]
+[Black "Fischvogt, Eric"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "e7bd7174"]
+[Epoch "Queen"]
+[BlackID "30930782"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Rg1
+Be7 9. Be3 Nb6 10. a4 O-O 11. Qh5 Nxd4 12. Bxd4 e5 13. Be3 Be6 14. Rg3 g6 15.
+Qh6 Re8 16. Bh3 Bf8 17. Qh4 Rc8 18. Bxe6 fxe6 19. Qg4 Nc4 20. Bc1 Qb6 21. h4
+Re7 22. Nd5 exd5 23. Qxc8 Rf7 24. Rg2 Qd4 25. Qg4 Nxb2 26. Bxb2 Qxb2 27. Rd1
+Qb4+ 28. Kf1 dxe4 29. Rg3 Qxa4 30. Qe2 Rf4 31. Rc3 d5 32. Rb3 Bc5 33. Qb5 Qc4+
+34. Qxc4 dxc4 35. Rd8+ Kf7 36. Rxb7+ Ke6 37. Rxh7 Rxf2+ 38. Ke1 e3 39. c3 Rh2
+40. h5 Rh1+ 41. Ke2 Rh2+ 42. Ke1 Rxh5 43. Rxh5 gxh5 44. Rc8 Bb6 45. Rxc4 Kf5
+46. Re4 Kxe4 47. g6 Kf3 48. g7 e2 49. g8=Q Bf2+ 50. Kd2 e1=Q+ 51. Kc2 h4 52.
+Qf7+ Kg2 0-1

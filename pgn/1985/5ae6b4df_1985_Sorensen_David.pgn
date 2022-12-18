@@ -1,0 +1,22 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sorensen, Jan"]
+[Black "David, Pavel"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "5ae6b4df"]
+[Epoch "Queen"]
+[BlackID "300152"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Be7 8. O-O
+O-O 9. Kh1 Nc6 10. Be3 Qc7 11. Qe1 Nxd4 12. Bxd4 b5 13. a3 Bb7 14. Qg3 Bc6 15.
+Rae1 Rab8 16. e5 Ne8 17. Bd3 g6 18. Qh3 Qd8 19. Re3 dxe5 20. Bxe5 Rc8 21. Qh6
+f6 22. Rh3 Rf7 23. Bxg6 Bxg2+ 24. Kxg2 Rg7 25. Kh1 hxg6 26. Rd1 Qb6 27. Bd4
+Qc6+ 28. Kg1 Kf7 29. Bf2 Nd6 30. Rhd3 Nf5 31. Qh3 g5 32. fxg5 Rxg5+ 33. Kf1
+Rcg8 34. Qf3 Qc4 35. b3 Qc7 36. Ne4 Rg4 37. h3 Rf4 38. Qh5+ Kf8 39. Rc3 Qxc3
+40. Qh7 Qf3 0-1

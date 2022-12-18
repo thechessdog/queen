@@ -1,0 +1,20 @@
+[Event "Naleczow"]
+[Site "Naleczow"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Paunovic, Tomislav"]
+[Black "Szymczak, Zbigniew"]
+[Result "1-0"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "d6a4168e"]
+[Epoch "Queen"]
+[WhiteID "900796"]
+[WhiteCountry "SRB"]
+[BlackID "1100424"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Bd3 Nc6 8. Nc3
+cxd4 9. exd4 Be7 10. Bg5 O-O 11. Rc1 Qa5 12. Bh4 Rd8 13. Bb1 Bd7 14. Qe2 Be8
+15. Rfd1 Rac8 16. a3 Qh5 17. h3 Nxd4 18. Rxd4 Rxd4 19. Bxf6 1-0

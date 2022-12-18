@@ -1,0 +1,18 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Noble"]
+[Black "Sojka"]
+[Result "1/2-1/2"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "adc54ba2"]
+[Epoch "Queen"]
+[WhiteID "2007010"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bb3 Qa5 12. O-O Rfd8 13. Rad1 Rac8 14. Qf2 b6
+15. Rd2 Bxb3 16. axb3 Re8 17. Rfd1 Nd7 18. Nd5 Bxd4 19. Qxd4 Ne5 1/2-1/2

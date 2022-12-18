@@ -1,0 +1,17 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Oosten, A."]
+[Black "Nuyen, H."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "78e229f3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. dxc6 Nxc6 5. Nf3 exf4 6. d4 Bd6 7. Nc3 Nge7
+8. Bc4 O-O 9. O-O Bg4 10. Ne4 Bc7 11. c3 h6 12. Bd2 Nf5 13. Qc2 g5 14. Nf2
+Bxf3 15. Qxf5 Bh5 16. Qh3 Bg6 17. Qxh6 Qd6 18. Qxg5 1-0
+

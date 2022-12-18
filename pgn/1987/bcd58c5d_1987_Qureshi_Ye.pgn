@@ -1,0 +1,20 @@
+[Event "Asia"]
+[Site "Asia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Qureshi, Anwar"]
+[Black "Ye, Rongguang"]
+[Result "0-1"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "bcd58c5d"]
+[Epoch "Queen"]
+[WhiteID "7800150"]
+[BlackID "8600015"]
+[WhiteCountry "PAK"]
+[BlackCountry "CHN"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Nc3 d5 5. Bg2 c6 6. cxd5 exd5 7. Nh3 Bd6 8. O-O
+O-O 9. Nf4 Qe8 10. e3 Nbd7 11. Nd3 b6 12. b3 Ne4 13. Bb2 a5 14. Rc1 Bb7 15. Re1
+Qe7 16. f3 Nxg3 17. hxg3 Bxg3 18. Qd2 Rae8 19. Ne5 Nxe5 20. dxe5 Qh4 21. Ne2
+Qh2+ 22. Kf1 Re6 23. Nxg3 Rg6 24. f4 Ba6+ 25. Kf2 Rxg3 26. Rg1 Rg6 0-1

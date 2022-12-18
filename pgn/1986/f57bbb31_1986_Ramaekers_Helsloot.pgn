@@ -1,0 +1,17 @@
+[Event "corr NBC/86"]
+[Site "corr NBC/86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ramaekers, P."]
+[Black "Helsloot"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "f57bbb31"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Ne7 9. c3 Nf5 10. a4 Be7 11. Bd3 O-O 12. O-O g6 13. Kh1 Re8 14. f4
+Ng7 15. fxe5 dxe5 16. d6 Bxd6 17. Bc4 Nf5 18. Bxf7+ 1-0
+

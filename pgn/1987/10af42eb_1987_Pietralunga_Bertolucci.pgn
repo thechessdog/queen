@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pietralunga, N."]
+[Black "Bertolucci, G."]
+[Result "1/2-1/2"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "10af42eb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Nd3 c6 13. Nf2 a6 14. a4 a5 15.
+Kg2 c5 16. Rb1 f4 17. Rh1 Bd7 18. Bd2 Qb6 19. Be1 Rf7 20. Nh3 h6 21. Bh4
+Raf8 22. Ng1 Qd8 23. h3 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Lesi, J."]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "5949a1a8"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 a6 5. Qg4 Bf8 6. Nf3 h6 7. Bd3 Nc6 8. a3
+Nge7 9. h4 Nf5 10. Qf4 Bd7 11. g4 Nfe7 12. g5 Nf5 13. Bxf5 exf5 14. gxh6 gxh6
+15. Nxd5 Be6 16. Nf6+ Ke7 17. Be3 Bg7 18. d5 Bxd5 19. Qxf5 Bxf3 20. Bc5+ 1-0

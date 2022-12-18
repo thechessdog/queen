@@ -1,0 +1,16 @@
+[Event "Mt View,CA"]
+[Site "Mt View,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Grimaldi, Jon"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich variation"]
+[HashCode "50eb19a7"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qe2 Nc5 6. exd6+ Be6 7. Qb5+ Ncd7
+8. Qxb7 Nb6 9. dxc7 Bb4+ 10. c3 Qd7 11. cxb8=Q+ Rxb8 12. Qxb8+ 1-0

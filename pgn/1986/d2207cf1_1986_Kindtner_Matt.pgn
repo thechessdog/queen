@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kindtner, U."]
+[Black "Matt, A."]
+[Result "0-1"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "d2207cf1"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 d6 10. Bg5 Be6 11. Qf4 Qa5 12. Rac1 Rac8 13. b3 Rc5 14.
+Bxf6 Bxf6 15. Ne4 Be5 16. Qh4 Bf6 17. Nxf6+ exf6 18. Qxf6 Qxa2 19. Bd5 Bxd5
+20. Qxd6 Rfc8 21. Rcd1 Be6 0-1
+

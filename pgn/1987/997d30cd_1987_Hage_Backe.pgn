@@ -1,0 +1,26 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hage"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "997d30cd"]
+[Epoch "Queen"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Nxe4 O-O 9. c3 e5 10. Bxc6 Nxc6 11. d5 Ne7 12. c4 f5 13. Nc3 f4 14. Ne4 Bf5 15.
+Qe2 Bxe4 16. Qxe4 c6 17. Qxe5 cxd5 18. cxd5 Nxd5 19. O-O Qd7 20. Rd1 Rad8 21.
+b4 Rfe8 22. Qd4 Nc3 23. Qxd7 Rxd7 24. Rf1 Rd3 25. h3 g5 26. Bb2 Ne2+ 27. Kh2
+Kf7 28. Rfd1 Red8 29. Rxd3 Rxd3 30. Re1 Rd2 31. Be5 h5 32. Rb1 Ke6 33. Bb8 a6
+34. b5 a5 35. Bc7 a4 36. Rb4 Rd4 37. Rb2 Nc3 38. Ba5 Nd5 39. Bd8 Kf5 40. Rc2
+Rd3 41. Rc5 g4 42. hxg4+ hxg4 43. Be7 Ke6 44. Bf8 g3+ 45. fxg3 fxg3+ 46. Kh3
+Nf4+ 47. Kg4 Nxg2 48. Rc1 Kd5 49. Rg1 Ne3+ 50. Kxg3 Kc4 51. Kf2 Kxb5 52. Rg5+
+Ka6 53. Rg6+ b6 54. Bc5 Nc4 55. Ke2 Rb3 56. Rg4 Kb5 57. Bd4 Rxa3 58. Rg5+ Kb4
+59. Bf6 Re3+ 60. Kd1 a3 61. Rg2 Kb3 62. Rg5 a2 63. Rb5+ Ka4 64. Rd5 Rh3 65. Kc2
+Ne3+ 0-1

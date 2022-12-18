@@ -1,0 +1,23 @@
+[Event "BL2-SW8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kargoll, Herbert"]
+[Black "Lindemann, Sven"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "57172f23"]
+[Epoch "Queen"]
+[WhiteID "4636007"]
+[WhiteCountry "GER"]
+[BlackID "4639634"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 g6 7. b3 Bg7 8.
+Bb2 O-O 9. c4 Re8 10. d4 cxd4 11. Bxd4 Qa5 12. Re1 Rad8 13. Qb2 Qh5 14. Nbd2
+Nc5 15. Qc2 b6 16. h3 Ne6 17. Bc3 Qc5 18. Rac1 Qc7 19. Nf1 Qb7 20. Ng3 Nc5 21.
+Rcd1 b5 22. cxb5 Qxb5 23. e5 dxe5 24. Rxd8 Rxd8 25. Rxe5 Nd5 26. Bb2 Bxe5 27.
+Nxe5 Nf6 28. Ba3 Rd5 29. Nc4 Rd7 30. Ne2 Nce4 31. Qc1 Qd5 32. Qf4 Qd1+ 33. Kh2
+Qxe2 0-1

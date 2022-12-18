@@ -1,0 +1,23 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Arakhamia, Ketevan"]
+[Black "Baginskaite, Kamile"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ba46d992"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
+Be7 9. Qf3 Qc7 10. O-O-O O-O 11. e5 dxe5 12. Ndxb5 Qc6 13. Qxc6 Nxc6 14. Nd6
+Rd8 15. Nc4 Bb7 16. f3 Bc5 17. Bxf6 gxf6 18. Ne4 Be7 19. Ned6 Rab8 20. Nxb7
+Rxb7 21. Rxd8+ Bxd8 22. Rd1 Be7 23. c3 Rc7 24. a4 Rb7 25. Bc2 Rc7 26. a5 f5 27.
+Bd3 Kg7 28. Kc2 Kf6 29. b4 Nb8 30. Be2 h6 31. Kb3 Rc6 32. Nb6 Rc7 33. Ra1 e4
+34. b5 Bc5 35. Na4 Bd6 36. b6 Rc6 37. h3 Kg5 38. Rc1 Kf4 39. fxe4 fxe4 40. Rf1+
+Ke3 41. Bc4 Rxc4 42. Kxc4 Nc6 43. Kb3 Kd2 44. Rxf7 Nxa5+ 45. Kb2 e3 46. Rd7
+Nc4+ 47. Ka2 e2 48. b7 Kc2 49. Rxd6 Nxd6 50. b8=Q e1=Q 51. Qb3+ Kd2 52. c4 Qe5
+53. c5 Nb5 54. Qb4+ Ke3 55. Nb6 Kf2 56. Qd2+ Kg3 57. Qc2 Nc3+ 58. Kb3 Qxc5 59.
+Qg6+ Kh2 60. Qxh6 Ne2 61. Nc4 Qb5+ 0-1

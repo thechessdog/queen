@@ -1,0 +1,21 @@
+[Event "Managua"]
+[Site "Managua"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sariego, Wilfredo"]
+[Black "Batres, Francisco"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "cd5806f4"]
+[Epoch "Queen"]
+[BlackID "6100180"]
+[BlackCountry "NCA"]
+[WhiteCountry "CUB"]
+[WhiteID "3500080"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 Bg7 6. Nd2 f5 7. c3 Qd6 8. c4
+Qf6 9. Rb1 d6 10. e3 e5 11. Ne2 O-O 12. Ng3 Bh6 13. Be2 Qe7 14. Qc2 f4 15. Nf5
+Bxf5 16. Qxf5 fxe3 17. Ne4 exf2+ 18. Kxf2 Bg7 19. Rhf1 Nd7 20. Kg1 h6 21. Rf3
+Rfe8 22. Rbf1 f6 23. Rg3 Kh8 24. Bd3 Nf8 25. Qh5 Nh7 26. Nxd6 Ng5 27. Rxg5 fxg5
+28. Qg6 e4 29. Bxe4 Bd4+ 30. Kh1 1-0

@@ -1,0 +1,16 @@
+[Event "Lansing ch-MI op"]
+[Site "Lansing ch-MI op"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Triplett, T."]
+[Black "Iverson, B."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "71df484e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Be2 Nf6 6. O-O g6 7. d3 Bg7 8. Be3
+b6 9. d4 cxd4 10. Nxd4 Nxd4 11. Bxd4 Bb7 12. Bf3 Qd7 13. Bxb7 Qxb7 14. Nd2 O-O
+15. Nf3 Rad8 16. Qe2 Rfe8 17. Rfe1 e5 18. Nxe5 Nd7 19. f4 f5 20. Qc4+ 1-0

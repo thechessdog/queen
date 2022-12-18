@@ -1,0 +1,18 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1989.03.01"]
+[Round "8"]
+[White "Akhmilovskaya, Elena"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "edd6e2b4"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. e5
+Nd7 9. e6 fxe6 10. h4 Nb6 11. Qb3 c5 12. h5 cxd4 13. hxg6 Rxf3 14. gxf3 dxc3
+15. Rxh7 Qd5 16. Bh6 Bxh6 17. Qxc3 Bd2+ 18. Qxd2 Qxd2+ 19. Kxd2 Nd5 20. Bd3 1-0

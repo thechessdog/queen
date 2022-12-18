@@ -1,0 +1,25 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hentzgen, K."]
+[Black "Tanner, Heinrich"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "291ea714"]
+[Epoch "Queen"]
+[BlackID "1301179"]
+[BlackCountry "SUI"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nh5 9. Be3 Bg4 10. Be2 f6 11. e6 f5 12. d5 Nb4 13. Bc4 Bxf3 14. gxf3 Qd6 15.
+Qd2 c6 16. O-O-O Bxc3 17. bxc3 Nxd5 18. Bxd5 cxd5 19. Qxd5 Qa3+ 20. Kb1 Qxc3
+21. Rd3 Qb4+ 22. Rb3 Qa4 23. Qxb7 Rfe8 24. Bg5 Qc4 25. Re1 Rac8 26. Rb2 a5 27.
+Qb5 Qc3 28. Qe5 Qxf3 29. Qxa5 Ng7 30. Qb4 Qd5 31. Bxe7 Nxe6 32. Qd6 Nc7 33.
+Qxd5+ Nxd5 34. Bb4 Rxe1+ 35. Bxe1 Re8 36. Bd2 Re2 37. c4 f4 38. cxd5 f3 39.
+Rb8+ Kf7 40. Bb4 f2 41. Rf8+ Kg7 42. a4 Re1+ 43. Kc2 f1=Q 44. Rxf1 Rxf1 45. Kd3
+Kf7 46. Kc4 Ke8 47. a5 Kd7 48. Bc5 Rh1 49. a6 Rxh2 50. a7 Ra2 51. Kd4 h5 52.
+Ke5 h4 53. Kf4 Ra4+ 54. Kf3 g5 55. Bg1 g4+ 56. Kg2 Kd6 57. Bb6 Kxd5 58. Bf2 g3
+59. Bg1 Ke4 0-1

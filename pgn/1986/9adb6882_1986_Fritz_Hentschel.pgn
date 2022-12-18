@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fritz"]
+[Black "Hentschel"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "5...Be7"]
+[HashCode "9adb6882"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 exd4 7. Qb3 dxc3
+8. Bxf7+ Kf8 9. Nxc3 Bf6 10. Bxg8 Rxg8 11. Bb2 Qe8 12. Nd2 Bxc3 13. Qxc3 d6
+14. O-O Qg6 15. f4 Ke7 16. f5 Qf6 17. Qb3 Qf7 18. Bxg7 Qxb3 19. axb3 Kf7
+20. Bb2 Ne5 21. Rac1 c6 22. Bxe5 dxe5 23. Nc4 Bd7 24. Nxe5+ Ke7 25. Nc4 b5
+26. Na5 Rac8 27. Nb7 Rgf8 28. Nc5 Rce8 29. Ra1 Ra8 30. Nxd7 Kxd7 31. e5 a5
+32. Rad1+ Ke7 33. Rd6 a4 34. f6+ Ke8 35. Rxc6 axb3 36. Rb6 Ra5 37. Rb8+ Kf7
+38. e6+ 1-0
+

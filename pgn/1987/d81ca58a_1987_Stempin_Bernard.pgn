@@ -1,0 +1,23 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Bernard, Ryszard"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "d81ca58a"]
+[Epoch "Queen"]
+[WhiteID "1100068"]
+[BlackID "1100688"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 Nd7 4. Bb2 Ngf6 5. h3 Bxf3 6. Qxf3 e6 7. g4 Bd6 8. g5
+Ne4 9. h4 O-O 10. d3 Nec5 11. Nd2 a5 12. a3 c6 13. d4 Na6 14. Bd3 Qe7 15. e4 e5
+16. exd5 exd4+ 17. Kf1 Ne5 18. Qe4 Nxd3 19. Qxd3 c5 20. Re1 Qd7 21. c4 Rfe8 22.
+Ne4 Kh8 23. Qf3 Be5 24. h5 f5 25. gxf6 gxf6 26. Bc1 Rf8 27. Bh6 Rf7 28. Rg1 a4
+29. bxa4 Qxa4 30. Nd2 Qd7 31. Rb1 Rg8 32. Rxg8+ Kxg8 33. Rb6 f5 34. Re6 Bg7 35.
+Bxg7 Rxg7 36. h6 Rf7 37. Qg3+ Kf8 38. Qe5 1-0

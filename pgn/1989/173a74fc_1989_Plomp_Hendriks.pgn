@@ -1,0 +1,20 @@
+[Event "corr NLD/K"]
+[Site "corr NLD/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Plomp, Michiel"]
+[Black "Hendriks"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "173a74fc"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. Bc4 Bg7 6. O-O O-O 7. c3 Nc6
+8. Re1 Nb6 9. Bb3 Qd6 10. Nbd2 Bf5 11. Ne4 Bxe4 12. Rxe4 Nd5 13. c4 Nf6 14.
+Bf4 Qd8 15. Re1 e6 16. Ba4 Ne7 17. Qb3 Rb8 18. Qa3 Nf5 19. Rad1 Nh5 20. Bg5
+Bf6 21. d5 Bxg5 22. dxe6 Qf6 23. e7 Nxe7 24. Nxg5 Nf5 25. Ne4 Qh4 26. g3
+Qh3 27. Bd7 Rbd8 28. f3 Nhg7 29. Qxa7 Ne6 30. Bxe6 fxe6 31. Rxd8 Rxd8 32.
+Ng5 Qh5 33. Nxe6 Re8 34. Qf2 Nd6 35. Qd4 Qh6 36. Qd5 Kh8 37. f4 1-0
+

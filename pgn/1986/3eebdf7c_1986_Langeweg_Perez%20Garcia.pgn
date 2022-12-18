@@ -1,0 +1,16 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Perez Garcia, Herbe"]
+[Result "0-1"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "3eebdf7c"]
+[Epoch "Queen"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. b3 c5 7. e3 cxd4 8. exd4
+d5 9. Ne5 Nc6 10. Re1 Ne4 11. f3 Nxe5 12. fxe4 Nf3+ 0-1

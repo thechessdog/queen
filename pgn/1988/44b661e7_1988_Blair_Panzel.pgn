@@ -1,0 +1,19 @@
+[Event "Akron,OH"]
+[Site "Akron,OH"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Blair, Ellis"]
+[Black "Panzel, Kenneth"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "44b661e7"]
+[Epoch "Queen"]
+[WhiteID "2040751"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 Nc6 6. Nf3 O-O 7. Bd2 d5 8. a3
+Bxc3 9. Bxc3 cxd4 10. Nxd4 Bd7 11. Bd3 dxc4 12. Bxc4 Rc8 13. Qe2 Ne4 14. Nxc6
+Bxc6 15. Be5 Qa5+ 0-1

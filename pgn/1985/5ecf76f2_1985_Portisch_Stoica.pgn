@@ -1,0 +1,26 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Portisch, Ferenc"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "5ecf76f2"]
+[Epoch "Queen"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+cxd4 9. exd4 b6 10. Bg5 Bb7 11. Ne5 h6 12. Bh4 Be7 13. Re1 Nc6 14. Ba6 Qc8 15.
+Qf3 Na5 16. Bxb7 Qxb7 17. Qxb7 Nxb7 18. Nc6 Bd6 19. Nb5 a6 20. Nxd6 Nxd6 21. d5
+Rfe8 22. dxe6 Rxe6 23. Rxe6 fxe6 24. Bxf6 gxf6 25. Rd1 Nf7 26. Rd7 Kf8 27. Rc7
+Nd6 28. Kf1 Rc8 29. Nd4 e5 30. Ne6+ Kg8 31. Ke2 Re8 32. Ng7 Rc8 33. Rxc8+ Nxc8
+34. Nf5 Kh7 35. Ke3 b5 36. Ke4 Kg6 37. g4 Nb6 38. b3 h5 39. gxh5+ Kxh5 40. Ne3
+Kg5 41. h4+ Kxh4 42. Kf5 b4 43. Kxf6 Nd7+ 44. Ke6 Nc5+ 45. Kxe5 Nd3+ 46. Kd5
+Kg5 47. Kc4 Nc1 48. f4+ Kxf4 49. Nd5+ Ke4 50. Nxb4 a5 51. a4 axb4 52. a5 Nxb3
+53. a6 Na5+ 54. Kb5 Nc6 1/2-1/2

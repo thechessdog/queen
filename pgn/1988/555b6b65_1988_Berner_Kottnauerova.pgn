@@ -1,0 +1,23 @@
+[Event "corr EU/H"]
+[Site "corr EU/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Berner"]
+[Black "Kottnauerova"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, Eliskases variation"]
+[HashCode "555b6b65"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd8 7. O-O Nc6
+8. Nb3 Nf6 9. Qe2 Qb6 10. Rd1 Bd7 11. Nbxd4 Bc5 12. Nb3 h6 13. Nxc5 Qxc5
+14. Be3 Qh5 15. Nd4 Ne5 16. Qxh5 Nxh5 17. Be2 Nf6 18. Nb5 Bxb5 19. Bxb5+
+Ned7 20. Bd4 O-O 21. Bxd7 Nxd7 22. Bxg7 Kxg7 23. Rxd7 b5 24. Rad1 Rfc8 25.
+c3 Rc5 26. R1d3 a5 27. Rg3+ Rg5 28. Kf1 Rc8 29. Rxg5+ hxg5 30. Ra7 a4 31.
+Rb7 Rc5 32. Ke2 Kg6 33. Kd3 Rd5+ 34. Ke3 f5 35. h3 Kf6 36. a3 Re5+ 37. Kf3
+Rd5 38. g3 Rd3+ 39. Ke2 Rd5 40. f4 gxf4 41. gxf4 e5 42. Rb6+ Kg7 43. fxe5
+Rxe5+ 44. Kf3 Kf7 45. Kf4 Re4+ 46. Kxf5 Rh4 47. Rb7+ Ke8 48. Ke6 Rh6+ 49.
+Kd5 Rxh3 50. Rxb5 Rh2 51. Kc5 1-0
+

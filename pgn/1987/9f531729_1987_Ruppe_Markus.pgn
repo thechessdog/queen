@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ruppe"]
+[Black "Markus"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "9f531729"]
+[Epoch "Queen"]
+[BlackID "7106122"]
+[BlackCountry "INA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Ne4 6. Qd3 Qa5 7. Qxe4 Bxc3+ 8.
+Bd2 Bxd2+ 9. Nxd2 Qb6 10. dxc5 Qxb2 11. Rb1 Qa3 12. Qd4 O-O 13. Bg2 Na6 14. O-O
+Qxc5 15. Qh4 Rb8 16. Ne4 Qc7 17. Rfd1 d5 18. cxd5 exd5 19. Rxd5 Qc2 20. Nf6+
+1-0

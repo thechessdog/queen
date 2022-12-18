@@ -1,0 +1,19 @@
+[Event "Aosta"]
+[Site "Aosta"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gallo"]
+[Black "David, Alberto"]
+[Result "0-1"]
+[ECO "B49"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ca4accd4"]
+[Epoch "Queen"]
+[BlackID "4000013"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. Be3 Nf6 8.
+Nxc6 bxc6 9. O-O d5 10. exd5 cxd5 11. Na4 Rb8 12. c4 Bd6 13. g3 dxc4 14. Rc1
+Nd5 15. Bd4 O-O 16. Bd3 Qe7 17. Rxc4 Rb4 18. a3 Rxc4 19. Bxc4 Bb7 20. b4 Rd8
+21. Qa1 Qg5 22. Be2 Nf4 0-1

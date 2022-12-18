@@ -1,0 +1,22 @@
+[Event "Martigny"]
+[Site "Martigny"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gerber, Richard"]
+[Black "Bersutzki, Gregory"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "d63973a1"]
+[Epoch "Queen"]
+[WhiteID "1300652"]
+[BlackID "2801124"]
+[WhiteCountry "SUI"]
+[BlackCountry "ISR"]
+
+1. d4 g6 2. c4 f5 3. Nc3 Nf6 4. g3 Bg7 5. Bg2 c6 6. Nf3 d6 7. O-O O-O 8. d5 a5
+9. Nd4 Bd7 10. b3 c5 11. Ne6 Bxe6 12. dxe6 Nc6 13. Bb2 Rb8 14. e3 Qc8 15. Ne2
+Nd8 16. Nf4 g5 17. Nd5 Qxe6 18. Nxf6+ Kh8 19. Bd5 Qc8 20. Nxh7 Kxh7 21. Qh5+
+Bh6 22. f4 gxf4 23. exf4 e6 24. Rae1 Qd7 25. Bg2 Rg8 26. Rf2 Rg6 27. Rfe2 Nc6
+28. Rxe6 1-0

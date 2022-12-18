@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schlecker"]
+[Black "Mayer"]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "ede0a5e0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. dxc5 Bxc5 7. Nb3
+Bd6 8. c3 Nge7 9. h3 O-O 10. Bd3 h6 11. Be3 Ne5 12. Nxe5 Bxe5 13. Qh5 Qd6
+14. O-O b6 15. f4 Bf6 16. g4 d4 17. cxd4 Bb7 18. Be2 Nd5 19. Bd2 Rae8 20.
+Rae1 Bg5 0-1
+

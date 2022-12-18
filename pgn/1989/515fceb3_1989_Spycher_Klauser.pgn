@@ -1,0 +1,19 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "7"]
+[White "Spycher, B."]
+[Black "Klauser, Markus"]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Capablanca variation"]
+[HashCode "515fceb3"]
+[Epoch "Queen"]
+[BlackID "1300334"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 O-O 7. Bd3 Nc6 8.
+Ne2 b6 9. e4 Ne8 10. O-O Ba6 11. f4 f5 12. Ng3 g6 13. Be3 Nd6 14. dxc5 Nxc4 15.
+Bxc4 Bxc4 16. Rf2 Rf7 17. Rd2 Qc7 18. Rb1 b5 19. Rd6 Nd8 20. exf5 exf5 21. Bd4
+Ne6 22. Qe1 Re8 23. Qe5 Ng7 24. Re6 0-1

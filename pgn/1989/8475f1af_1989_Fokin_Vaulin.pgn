@@ -1,0 +1,16 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fokin, Sergey"]
+[Black "Vaulin, A."]
+[Result "1/2-1/2"]
+[ECO "D63"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Rc1"]
+[HashCode "8475f1af"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 h6 8.
+Bh4 a6 9. cxd5 exd5 10. Bd3 c6 11. O-O 1/2-1/2
+

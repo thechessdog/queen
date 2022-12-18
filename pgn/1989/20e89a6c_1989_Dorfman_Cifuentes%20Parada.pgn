@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dorfman, Iossif"]
+[Black "Cifuentes Parada, Roberto"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "Harrwitz attack"]
+[HashCode "20e89a6c"]
+[Epoch "Queen"]
+[WhiteID "604011"]
+[WhiteCountry "FRA"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bf4 c5 5. Nf3 cxd4 6. Nxd4 Bc5 7. a3 O-O 8. Nb3
+Be7 9. e3 Nc6 10. cxd5 Nxd5 11. Nxd5 exd5 12. Bd3 Be6 13. O-O Qb6 14. Rb1 g6
+15. Nd2 Rfd8 16. b4 Bf6 17. Nb3 Ne5 18. Bxe5 Bxe5 19. Nc5 Bg7 20. Nxe6 fxe6 21.
+Qe2 Rac8 22. Rfc1 Rc6 23. g3 Rdc8 24. Rxc6 Qxc6 25. h4 Qc3 26. a4 Qe5 27. a5
+Rc3 28. b5 Qc7 29. b6 axb6 30. Rxb6 Rc6 31. h5 Rxb6 32. axb6 Qxb6 33. hxg6 hxg6
+34. Bxg6 Qb2 35. Qh5 Qe5 36. Bf7+ Kf8 37. Qxe5 Bxe5 38. Bxe6 d4 39. f4 Bc7 40.
+e4 Ke7 41. Bc4 Kd6 42. Kf2 Kc5 43. Bd3 b5 44. e5 b4 45. g4 b3 46. g5 1-0

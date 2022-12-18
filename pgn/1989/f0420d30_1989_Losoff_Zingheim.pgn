@@ -1,0 +1,17 @@
+[Event "Chicago US Open"]
+[Site "Chicago US Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Losoff, A."]
+[Black "Zingheim, S."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "f0420d30"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d3 Nc6 3. Nf3 g6 4. c3 d5 5. Nbd2 Bg7 6. g3 e6 7. Bg2 Nge7 8. O-O
+b6 9. Re1 a5 10. Nh4 Ba6 11. Nf1 O-O 12. f4 f5 13. exd5 exd5 14. Nf3 h6 15. Ne5
+Rc8 16. h4 Kh7 17. Nh2 b5 18. Nhf3 d4 19. h5 gxh5 20. Nxc6 Nxc6 21. Ng5+ hxg5
+22. Qxh5+ Kg8 23. fxg5 Qd7 24. g6 Rf6 25. Qh7+ Kf8 26. Bh6 Bxh6 27. Qxd7 Rd8
+28. Qh7 Bg7 29. Bxc6 Rxc6 30. Re5 Bc8 31. Rae1 Rc7 32. Re7 Rcd7 33. Qxg7# 1-0

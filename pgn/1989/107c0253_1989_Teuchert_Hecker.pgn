@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Teuchert, Bernd"]
+[Black "Hecker, H."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "107c0253"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. dxe5 Qxd1+ 8.
+Kxd1 Rd8+ 9. Ke1 Nd5 10. Nxd5 Rxd5 11. Bc4 Rd8 12. Ng5 e6 13. Be3 Nc6 14. Kf2
+b6 15. h4 h5 16. g4 hxg4 17. h5 Ne7 18. h6 Bh8 19. Rag1 Bb7 20. Rh2 Bd5 21. Be2
+c5 22. c4 Bf3 23. Nxf3 gxf3 24. Bxf3 Rab8 25. h7+ Kf8 26. Be4 Nf5 27. Bxf5 exf5
+28. Ke2 Ke7 29. Rd1 Bg7 30. Bf2 Ke6 31. Bh4 Rxd1 32. Kxd1 Rh8 33. Rd2 Bf8 34.
+Bf6 Rxh7 35. Rd8 Be7 36. Re8 1-0

@@ -1,0 +1,17 @@
+[Event "Gausdal Int"]
+[Site "Gausdal Int"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nylen, G."]
+[Black "Andersson, KA."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "a30ba8d0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Re1 Bd7 14. Bg5 Kh8
+15. Ne5 Be8 16. Nxc6 bxc6 17. Rxe6 Qxd4 18. Rxd6 Qe5 19. Rxf6 gxf6 20. Bh6 Rg8
+21. Qd2 Bh5 22. Re1 Rxg2+ 23. Kxg2 Rg8+ 24. Kh3 Bg4+ 25. Kg2 Be2+ 0-1

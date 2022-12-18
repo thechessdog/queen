@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wundt, H."]
+[Black "Plath, T."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "0055b9e5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Qe7 6. Ng5 g6 7. Ngxe4 Nxe4
+8. Qxe4 Qxe4+ 9. Nxe4 Bg7 10. Bc4 Bf5 11. d3 Bxe4 12. dxe4 O-O 13. c3 Nd7
+14. Bf4 Rac8 15. O-O Be5 16. Be3 c5 17. f4 Bg7 18. e5 a6 19. d6 Nb6 20. Bb3
+Kh8 21. Rad1 f5 22. e6 Nd7 23. exd7 1-0
+

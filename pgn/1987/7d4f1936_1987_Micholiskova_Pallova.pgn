@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Micholiskova"]
+[Black "Pallova, M."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "7d4f1936"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Qa4+ Nc6 7. Bf4
+Bxd6 8. Bxd6 Qxd6 9. f3 Ng3 10. hxg3 Qxg3+ 11. Kd2 O-O-O+ 12. Kc3 Qe1+ 13.
+Kb3 Bc2+ 0-1
+

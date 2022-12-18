@@ -1,0 +1,18 @@
+[Event "Torquay"]
+[Site "Torquay"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nevols, K."]
+[Black "Smith, J."]
+[Result "1-0"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "96100f10"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 Ne4 6. Qc2 Nxc3 7. bxc3 Be7
+8. Bd3 g6 9. g4 b6 10. h4 Bb7 11. e4 f5 12. gxf5 exf5 13. h5 g5 14. d5 g4
+15. Nd4 f4 16. e5 Rf7 17. Rg1 g3 18. fxg3 fxg3 19. Rxg3+ Kh8 20. Kd1 Qf8
+21. Nf5 Na6 22. Bh6 Qd8 23. Bg7+ Rxg7 24. Rxg7 Qe8 25. Rxh7+ 1-0
+

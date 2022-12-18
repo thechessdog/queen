@@ -1,0 +1,19 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Portisch, Ferenc"]
+[Black "De Boer, Gert-Jan"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "7a50ac3e"]
+[Epoch "Queen"]
+[WhiteID "700487"]
+[WhiteCountry "HUN"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. c5
+O-O 9. O-O e5 10. a3 Bxc3 11. bxc3 h6 12. f3 Re8 13. Bb2 Qa5 14. Ng3 b6 15.
+cxb6 Qxb6 16. Rb1 Ba6 17. Kh1 exd4 18. cxd4 Bxd3 1/2-1/2

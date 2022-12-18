@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andra, D."]
+[Black "Reichel, M."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "f4f6376f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. fxg7 Rg8 9. Bg5 Be7 10. Bxe7 Kxe7 11. Re1+ Be6 12. Nbd2 Qd5 13. b3 c3
+14. Ne4 Rxg7 15. Nxc3 Qf5 16. Nxd4 Rxg2+ 17. Kxg2 Rg8+ 18. Kf1 Qh3+ 19. Ke2
+Qxc3 20. Nxc6+ Qxc6 21. Qd3 Rd8 22. Qxh7 Qg2 23. Qh4+ Ke8 24. Rg1 1-0
+

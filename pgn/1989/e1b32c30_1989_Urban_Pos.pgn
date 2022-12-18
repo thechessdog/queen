@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Urban"]
+[Black "Pos"]
+[Result "0-1"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "e1b32c30"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. c4 Bf5 5. O-O e6 6. d4 Be7 7. Nc3 O-O 8.
+Ne5 h6 9. f3 c5 10. e4 Bh7 11. Be3 cxd4 12. Bxd4 dxe4 13. f4 Na6 14. Qd2
+Nc5 15. Qe3 Qa5 16. Nb5 Nd3 17. a3 a6 18. b4 Qd8 19. Bb6 Qc8 20. Nc3 Nxe5
+21. fxe5 Ng4 22. Qd4 f5 23. Nxe4 fxe4 24. Rxf8+ Bxf8 25. h3 Nxe5 26. Qxe5
+Qxc4 27. Rd1 Qc6 28. Be3 Be7 29. g4 Bf6 30. Qg3 Rd8 31. Rf1 Qc3 32. Rc1
+Qxa3 0-1
+

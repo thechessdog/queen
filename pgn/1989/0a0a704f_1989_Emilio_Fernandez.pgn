@@ -1,0 +1,21 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Emilio, A."]
+[Black "Fernandez, Antonio"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "0a0a704f"]
+[Epoch "Queen"]
+[BlackID "3900029"]
+[BlackCountry "VEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. h3 c5 7. Be3 cxd4 8. Nxd4
+Nbd7 9. Qd2 Nc5 10. Bf3 a6 11. Bh6 Nfd7 12. h4 Ne5 13. Bxg7 Kxg7 14. h5 Rh8 15.
+O-O-O h6 16. hxg6 fxg6 17. Be2 b5 18. f4 Nf7 19. Bf3 e5 20. Nb3 Nxb3+ 21. axb3
+Bb7 22. Nd5 Bxd5 23. Qxd5 exf4 24. e5 dxe5 25. Qxa8 Qxa8 26. Bxa8 Rxa8 27. Rd7
+Kf6 28. Rhd1 e4 29. R1d4 Re8 30. Kd1 g5 31. c4 h5 32. Rb7 f3 33. gxf3 exf3 34.
+Rd2 g4 0-1

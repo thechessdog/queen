@@ -1,0 +1,31 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Apicella, Manuel"]
+[Black "Bellia, Fabrizio"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Ragozin-Petrosian (`Keres') variation"]
+[HashCode "f6699eba"]
+[Epoch "Queen"]
+[WhiteID "600164"]
+[WhiteCountry "FRA"]
+[BlackID "800511"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d4 Bf6 11. a3 Bb7 12. Qd3 exd4 13. cxd4 Nxd4 14. Nxd4 Nc5 15.
+Qg3 Bxd4 16. Bc2 Re8 17. Nd2 Qf6 18. Rb1 Be5 19. Qf3 d5 20. b4 Nxe4 21. Nxe4
+dxe4 22. Qg4 Qg6 23. Qh4 f5 24. Be3 Bd5 25. Rbd1 c6 26. g3 h6 27. Bd4 Bxd4 28.
+Rxd4 a5 29. a4 axb4 30. axb5 b3 31. Bb1 Bf7 32. bxc6 Qxc6 33. Qf4 Qf6 34. Rd7
+Red8 35. Rb7 Ra6 36. g4 Rad6 37. Kh2 fxg4 38. Qxf6 Rxf6 39. Bxe4 Rxf2+ 40. Kg3
+Rfd2 41. hxg4 R2d7 42. Rb6 Re8 43. Bf5 Rxe1 44. Bxd7 g6 45. Kf4 Kg7 46. Bc8 Rc1
+47. Ba6 Rc7 48. Bd3 Rc3 49. Be4 Rc7 50. Bf3 Re7 51. Bd1 Re1 52. Bf3 Re6 53. Rb7
+Rf6+ 54. Ke4 g5 55. Bd1 Kg6 56. Ke3 Ra6 57. Be2 Rd6 58. Bd3+ Kf6 59. Bf5 h5 60.
+Rb5 h4 61. Be4 Be6 62. Bf5 Bd5 63. Be4 Bxe4 64. Kxe4 Ra6 65. Rxb3 Ra4+ 66. Kf3
+Rf4+ 67. Kg2 Rxg4+ 68. Kh3 Ra4 69. Rb8 Ra3+ 70. Kh2 Kf5 71. Rb4 h3 72. Rc4 g4
+73. Rc2 Kf4 74. Rf2+ Kg5 75. Rb2 Kh4 76. Rb4 Ra2+ 77. Kg1 Rg2+ 78. Kh1 Re2 79.
+Kg1 Kg3 80. Rb3+ Kf4 81. Rb8 Kf3 82. Rf8+ Kg3 83. Rf1 Ra2 84. Kh1 Ra4 85. Rb1
+Kh4 86. Rc1 g3 87. Rb1 Rf4 88. Ra1 g2+ 89. Kh2 Rf1 90. Rxf1 gxf1=B 0-1

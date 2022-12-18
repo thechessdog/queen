@@ -1,0 +1,16 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rudolph, Hans"]
+[Black "Krull, Gunter"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "6be942d4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Bd3 Nbd7 9. O-O Qb6 10. Bc4 e5 11. fxe5 dxe5 12. Nd5 Nxd5 0-1
+

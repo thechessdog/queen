@@ -1,0 +1,18 @@
+[Event "telephone"]
+[Site "telephone"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ginsburg, Mark"]
+[Black "Berger, S."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "dcf698f5"]
+[Epoch "Queen"]
+[WhiteID "2000563"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nxc3 8.
+Qb3 Qxd4 9. Bxf7+ Kd8 10. Be3 Qf6 11. Nf3 Nc6 12. bxc3 Bg7 13. Bb6+ axb6 14.
+Qxb6+ Kd7 15. Rd1+ Qd6 16. Rxd6+ exd6 17. O-O Bxc3 18. Rd1 1-0

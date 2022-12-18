@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rabinovich"]
+[Black "Schhreiber"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "c99b946a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+O-O 8. Qd2 Nd7 9. O-O-O a6 10. Nd4 Nc5 11. f3 Bd7 12. h4 b5 13. g4 Rb8 14.
+g5 a5 15. h5 b4 16. c4 f6 17. g6 f5 18. Rg1 Bf6 19. h6 f4 20. Bxf4 hxg6 21.
+Rxg6 Be8 22. Rxg7+ 1-0
+

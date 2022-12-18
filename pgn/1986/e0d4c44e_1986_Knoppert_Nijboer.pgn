@@ -1,0 +1,22 @@
+[Event "Dieren op"]
+[Site "Dieren"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Knoppert, Erik"]
+[Black "Nijboer, Friso"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "e0d4c44e"]
+[Epoch "Queen"]
+[WhiteID "1000853"]
+[WhiteCountry "NED"]
+[BlackID "1000063"]
+[BlackCountry "NED"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Be3 O-O 6. h3 Nc6 7. Qd2 e5 8. O-O-O
+exd4 9. Nxd4 Nxd4 10. Bxd4 Be6 11. f4 c5 12. Be3 Qa5 13. a3 b5 14. Nxb5 Qxd2+
+15. Bxd2 Nxe4 16. Be1 Rab8 17. b3 c4 18. Bxc4 Bxc4 19. bxc4 a6 20. Nd4 Rfc8 21.
+Nb3 Rxc4 22. Kb1 Nc5 23. Bb4 Rxf4 24. Rxd6 Nxb3 25. cxb3 Rf2 26. Re1 Rb2+ 27.
+Kc1 Rc8+ 28. Kd1 Bh6 29. Rc6 Rd8+ 0-1

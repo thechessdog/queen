@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Westerhuis"]
+[Black "Vinagre"]
+[Result "0-1"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "f2352f9e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. Be2 Nf6 7. dxc5 Bxc5
+8. Nb3 Ba7 9. Bg5 Bxf2+ 10. Kxf2 Ne4+ 0-1
+

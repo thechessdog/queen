@@ -1,0 +1,19 @@
+[Event "Paz e Amizade"]
+[Site "Paz e Amizade"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Santos, Julio"]
+[Black "Silva, Fernando"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "17d600f7"]
+[Epoch "Queen"]
+[BlackID "1900188"]
+[BlackCountry "POR"]
+[WhiteID "1900650"]
+[WhiteCountry "POR"]
+
+1. d4 d5 2. Nf3 c5 3. c3 e6 4. Bf4 Nf6 5. e3 Nc6 6. Be2 Be7 7. h3 O-O 8. O-O
+Qb6 9. Qb3 c4 10. Qxb6 axb6 11. Nbd2 b5 12. a3 Bd7 13. Rae1 Be8 14. Bh2 Nd7 15.
+e4 Nb6 16. Bd1 f6 17. Re2 Bf7 18. Rfe1 Rfe8 19. Bc7 Na4 1/2-1/2

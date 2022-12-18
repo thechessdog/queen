@@ -1,0 +1,24 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bastian, Herbert"]
+[Black "Wahls, Matthias"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "2ef51e3e"]
+[Epoch "Queen"]
+[WhiteID "4601700"]
+[WhiteCountry "GER"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a5 8. h3
+c6 9. Re1 exd4 10. Qxd4 Nc5 11. Be3 Ncxe4 12. Nxe4 d5 13. Nxf6+ Bxf6 14. Qf4
+dxc4 15. Rad1 Qe7 16. Qxc4 Be6 17. Bc5 Bxc4 18. Bxe7 Bxe7 19. Rxe7 Ba6 20. Rdd7
+Rae8 21. Ne5 Rxe7 22. Rxe7 h6 23. f4 Rd8 24. Rxf7 Rd1+ 25. Kh2 Rd2 26. Rd7 Rxc2
+27. Ng6 Bf1 28. f5 Rxg2+ 29. Kh1 Kh7 30. Rd8 Rxg6 31. fxg6+ Kxg6 32. Rb8 Ba6
+33. Kg2 Kg5 34. Kg3 g6 35. Rf8 Bc4 36. Rb8 Ba6 37. Rh8 Bd3 38. Rh7 b5 39. Rc7
+bxa4 40. Rxc6 Bf5 41. h4+ Kh5 42. Rc5 1-0

@@ -1,0 +1,19 @@
+[Event "Wurtemberg"]
+[Site "Wurtemberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Escher, Thomas"]
+[Black "Zeller, Frank"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "6e271508"]
+[Epoch "Queen"]
+[BlackID "4613007"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. e3 g6 5. Bd3 Bg7 6. f4 Nb6 7. Nf3 Bf5 8. Ne5
+Bxd3 9. cxd3 Nc8 10. Qa4+ c6 11. Nxc6 bxc6 12. Qxc6+ Qd7 13. Qxa8 O-O 14. Bxf6
+Nb6 15. Qxf8+ Bxf8 16. Bh4 Qg4 17. Bg3 h5 18. O-O h4 19. h3 Qf5 20. Bf2 Qxd3
+21. Rac1 Qd2 22. b3 e6 23. Rfd1 Qb2 24. Bxh4 Bb4 25. Be1 Bxc3 26. Rxc3 Qxa2 27.
+Rdc1 Kg7 28. Bh4 a5 29. Be7 a4 30. bxa4 Nc4 31. Bh4 Qxa4 32. Bf2 Nd2 1/2-1/2

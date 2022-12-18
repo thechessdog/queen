@@ -1,0 +1,18 @@
+[Event "corr Abonyi"]
+[Site "corr Abonyi"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chandler, Clifford"]
+[Black "Roos"]
+[Result "1-0"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "90611f36"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O Bf5 14. Bb5
+c4+ 15. Kh1 Rxe5 16. Nxe5 Bxe5 17. Qe2 f6 18. h3 fxg5 19. hxg4 Qd4 20. Rfe1
+1-0
+

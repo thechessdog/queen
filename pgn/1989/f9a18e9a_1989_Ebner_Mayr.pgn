@@ -1,0 +1,19 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ebner, F."]
+[Black "Mayr, F."]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "f9a18e9a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Re1 Ng6 10. Nf1 Bxf3 11. Qxf3 Qxf3 12. gxf3 Nh4 13. Nh2 g5 14.
+Kf1 f6 15. Ke2 Rd8 16. Rg1 Bc5 17. Be3 Bb6 18. Nf1 Kf7 19. Nd2 Ng6 20. Nc4
+Nf4+ 21. Bxf4 gxf4 22. Nxb6 cxb6 23. Rg2 Rhg8 24. Rag1 Rxg2 25. Rxg2 a5 26.
+Rg1 b5 1/2-1/2
+

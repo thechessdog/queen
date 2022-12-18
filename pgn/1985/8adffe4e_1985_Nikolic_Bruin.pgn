@@ -1,0 +1,21 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Nikolic, Nebojsa"]
+[Black "Bruin, Henk"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "8adffe4e"]
+[Epoch "Queen"]
+[WhiteID "925853"]
+[WhiteCountry "MNE"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O e5 8. e4
+c6 9. b3 Re8 10. h3 exd4 11. Nxd4 Nc5 12. Re1 d5 13. cxd5 cxd5 14. exd5 Rxe1+
+15. Qxe1 Nxd5 16. Nxd5 Bxd4 17. Be3 Nd3 18. Qd1 Bg7 19. Rb1 Ne5 20. Nb6 Bg4 21.
+hxg4 axb6 22. a4 b5 23. axb5 Qxd1+ 24. Rxd1 Nxg4 25. Bb6 Bf6 26. f4 h5 27. Bxb7
+Rb8 28. Rd7 h4 29. gxh4 Bxh4 30. Ba7 Nf6 31. Bxb8 Nxd7 32. Bc7 Be7 33. Kg2 Bc5
+34. Kf3 f5 35. Bc8 Nb6 36. Be6+ Kf8 37. b4 Bg1 38. Bd6+ Ke8 39. Bc5 1-0

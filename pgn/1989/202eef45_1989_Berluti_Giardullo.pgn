@@ -1,0 +1,18 @@
+[Event "corr Silli Cup"]
+[Site "corr Silli Cup"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Berluti"]
+[Black "Giardullo"]
+[Result "1-0"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "202eef45"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2 c5 8.
+cxd5 Nxd5 9. Bxe7 Nxe7 10. dxc5 Nxc5 11. Be2 b6 12. Rd1 Qe8 13. O-O Bb7 14.
+b4 Nd7 15. Bb5 Nc6 16. Ne4 Ndb8 17. Nfg5 f5 18. Nd6 Qe7 19. Nxe6 Qxe6 20.
+Bc4 1-0
+

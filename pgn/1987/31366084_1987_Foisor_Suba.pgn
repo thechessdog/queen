@@ -1,0 +1,23 @@
+[Event "Rumania"]
+[Site "Rumania"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Foisor, Ovidiu-Doru"]
+[Black "Suba, Mihai"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "31366084"]
+[Epoch "Queen"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+[WhiteID "1200143"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 a6 8. Nf3 b5
+9. Bd3 Bg7 10. h3 O-O 11. O-O c4 12. Bc2 Re8 13. Re1 Bb7 14. Qd2 Qb6 15. b4
+cxb3 16. axb3 Nbd7 17. Ra2 Rac8 18. Nb1 Nc5 19. Qb4 Qc7 20. Bd2 Nfd7 21. Qa3
+Ne5 22. Nxe5 Bxe5 23. Ba5 Qe7 24. Nd2 f5 25. exf5 Bxd5 26. Re3 Qg5 27. Nf3 Bxf3
+28. Rxf3 Ne4 29. fxg6 hxg6 30. Be1 Nc3 31. Bxc3 Rxc3 32. Rxc3 Bxc3 33. Bd3 Re1+
+34. Bf1 Qd5 0-1

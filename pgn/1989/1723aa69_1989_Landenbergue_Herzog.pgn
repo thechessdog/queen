@@ -1,0 +1,21 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Landenbergue, Claude"]
+[Black "Herzog, Juerg"]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[HashCode "1723aa69"]
+[Epoch "Queen"]
+[WhiteID "1300130"]
+[WhiteCountry "SUI"]
+[BlackID "1300210"]
+[BlackCountry "SUI"]
+
+1. Nf3 d5 2. c4 e6 3. g3 c5 4. Bg2 Nc6 5. O-O Nf6 6. b3 Be7 7. e3 O-O 8. Bb2
+dxc4 9. bxc4 Qd3 10. Qb3 Qf5 11. d3 Rd8 12. Rd1 Ng4 13. h3 Nge5 14. Nxe5 Nxe5
+15. g4 Nxg4 16. hxg4 Qxg4 17. Rd2 g5 18. Nc3 f5 19. Ne2 Kf7 20. Qc3 Rg8 21. Qe5
+Ke8 22. Qg3 Qh5 23. d4 Qf7 24. dxc5 Bxc5 25. Rad1 Be7 26. Qc7 1-0

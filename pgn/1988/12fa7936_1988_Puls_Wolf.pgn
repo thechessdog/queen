@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Puls, G."]
+[Black "Wolf, W."]
+[Result "0-1"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (10...c5)"]
+[HashCode "12fa7936"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. b4 Nc6 12. a3 Ne8 13. bxc5 dxc5 14. d3 Be6
+15. Nbd2 Nd6 16. Nf1 f6 17. Ne3 Qc7 18. Bb3 c4 19. dxc4 Nxc4 20. Nxc4 bxc4
+21. Bc2 Rfd8 22. Qe2 Na5 23. Be3 Nb3 24. Bxb3 cxb3 25. Qb2 Rd3 26. Rec1 Rc8
+27. Bd2 Bc5 28. Be1 Bb6 29. Rd1 Qc4 30. Rxd3 Qxd3 31. Qb1 Qe2 0-1
+

@@ -1,0 +1,16 @@
+[Event "corr ch14-NLD"]
+[Site "corr ch14-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Zwan"]
+[Black "Nederkoorn"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "4c665754"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. b3 Ne7 9. Nbd2 Be6 10. Nc4 Bb4 1-0
+

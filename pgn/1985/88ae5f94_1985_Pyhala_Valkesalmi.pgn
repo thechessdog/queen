@@ -1,0 +1,21 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Valkesalmi, Kimmo"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "88ae5f94"]
+[Epoch "Queen"]
+[BlackID "500054"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. e5 dxe5 12. fxe5 Nfd7 13. Be2 Be7 14. O-O Bxh4
+15. Rxf7 Kxf7 16. Bh5+ Kg8 17. Nxe6 Nf8 18. Nxf8 Qc5+ 19. Kh1 Qxf8 20. Qd5+ Kh7
+21. e6 Rg8 22. Bf7 Kh8 23. Qe4 Bd8 24. Nd5 Nc6 25. Nf4 Ne7 26. Rb3 Bc7 27. Nh5
+Nc6 28. Rh3 Bxe6 29. Nf6 gxf6 30. Bxe6 Re8 31. Qe3 Rg5 0-1

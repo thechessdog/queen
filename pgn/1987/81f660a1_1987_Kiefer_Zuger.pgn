@@ -1,0 +1,22 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Zueger, Beat"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "81f660a1"]
+[Epoch "Queen"]
+[WhiteID "4606965"]
+[WhiteCountry "GER"]
+[BlackID "1300067"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8. Qg4
+Kf8 9. Nf3 cxd4 10. Qxd4 Nc6 11. Qf4 a6 12. O-O-O Qc7 13. Kb1 Ndxe5 14. Re1 f6
+15. Nxe5 Nxe5 16. g4 h6 17. Rg1 Qd6 18. g5 hxg5 19. hxg5 Nc4 20. Qc1 b5 21.
+Bxc4 bxc4 22. gxf6 gxf6 23. Rg6 Kf7 24. Reg1 Qe5 25. Rg7+ Kf8 26. b3 Qd6 27.
+Qh6 Rxh6 28. Rg8+ Ke7 29. R1g7# 1-0

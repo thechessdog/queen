@@ -1,0 +1,18 @@
+[Event "Lang mem-C 7th"]
+[Site "Brno"]
+[Date "1987.07.23"]
+[Round "6"]
+[White "Santora"]
+[Black "Kaniansky, Miroslav"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "87af7bfd"]
+[Epoch "Queen"]
+[BlackID "14902796"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nf6 8. Be3
+Rd8 9. dxc5 Bxc5 10. Qxd5 Rxd5 11. Bxc5 Rxc5 12. Nbd2 O-O 13. Nb3 Rd5 14. Rad1
+Rfd8 15. Rxd5 1/2-1/2

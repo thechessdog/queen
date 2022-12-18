@@ -1,0 +1,20 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gast, Jonathan"]
+[Black "King, Daniel J"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "4f0e78e0"]
+[Epoch "Queen"]
+[WhiteID "1300490"]
+[WhiteCountry "SUI"]
+[BlackID "400068"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Qc7 8. f4
+Be7 9. Be3 O-O 10. Qe1 b5 11. Bf3 Bb7 12. e5 dxe5 13. fxe5 Nfd7 14. Qg3 Kh8 15.
+Kh1 Nc6 16. Bh5 Qxe5 17. Bxf7 Nxd4 0-1

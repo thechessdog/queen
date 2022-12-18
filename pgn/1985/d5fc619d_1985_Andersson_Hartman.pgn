@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Andersson, Tor"]
+[Black "Hartman, Christer"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "d5fc619d"]
+[Epoch "Queen"]
+[WhiteID "1701517"]
+[WhiteCountry "SWE"]
+[BlackID "1700448"]
+[BlackCountry "SWE"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O c5 7. d4 Ne4 8. Qc1
+Qc7 9. dxc5 Qxc5 10. Bxg7 Kxg7 11. Qb2+ f6 12. b4 Qc7 13. Nfd2 Nxd2 14. Nxd2
+Rd8 15. Rac1 Be6 16. Nb3 Nc6 17. Nc5 Bf7 18. e4 d4 19. c3 Qb6 20. cxd4 Rxd4 21.
+a3 Rad8 22. Na4 Qa6 23. Nc3 Rd2 24. Qa1 Nd4 25. Rcd1 Nb3 26. Rxd2 Rxd2 27. Qe1
+Bc4 28. e5 f5 29. Qe3 Bxf1 30. Bxf1 Qe6 31. Ne2 Rd1 32. Nc3 Ra1 33. Ne2 Qd5 34.
+g4 Nd2 35. Ng3 Nxf1 0-1

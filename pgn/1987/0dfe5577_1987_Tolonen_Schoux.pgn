@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tolonen"]
+[Black "Schoux"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Rellstab variation"]
+[HashCode "0dfe5577"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Qd7 7. exd6
+Bxd6 8. Nc3 a6 9. O-O-O Nc6 10. Be3 Nb4 11. Qc4 Ne6 12. Ne4 Qa4 13. Nxd6+
+cxd6 14. a3 a5 15. axb4 Qa1+ 16. Kd2 Qxb2 17. Bd4 Nxd4 18. Qxd4 Qxd4+ 19.
+Nxd4 axb4 20. Ra1 Ra3 21. Bc4 O-O 22. Rxa3 1-0
+

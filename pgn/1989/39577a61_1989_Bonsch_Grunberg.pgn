@@ -1,0 +1,22 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Gruenberg, Hans-Ulrich"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "39577a61"]
+[Epoch "Queen"]
+[BlackID "4611306"]
+[BlackCountry "GER"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. b4 Kh8 13. f3 b6 14. Na4 axb4 15. axb4
+Bh6 16. c5 bxc5 17. bxc5 Nxc5 18. Nxc5 Be3+ 19. Kh1 Bxc5 20. f4 fxe4 21. Bb2
+Nf5 22. fxe5 Ne3 23. Qb3 Nxf1 24. e6+ Kg8 25. Bxf1 Rf5 26. Nxe4 Bb6 27. g4 Qh4
+28. Bg2 Qxg4 29. Qc3 1-0

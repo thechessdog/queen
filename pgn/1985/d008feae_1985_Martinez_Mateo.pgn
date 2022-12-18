@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Martinez, Gustavo"]
+[Black "Mateo"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d008feae"]
+[Epoch "Queen"]
+[WhiteID "3300072"]
+[WhiteCountry "BOL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Qe2 Ndf6 6. Nf3 Nxe4 7. Qxe4 Nf6
+8. Qd3 g6 9. Ng5 Bg7 10. Qb3 O-O 11. Bc4 Nd5 12. Be3 b5 13. Be2 Nxe3 14. fxe3
+e5 15. Nf3 exd4 16. O-O-O Be6 17. Qa3 Re8 18. Nxd4 Qg5 19. Nxc6 Bf5 20. h4 Qxg2
+21. Nd4 Bxd4 22. Bd3 Rxe3 23. Rdg1 Rxd3 24. Rxg2 Rxa3 25. Rd1 Be3+ 26. Kb1 Ra4
+27. Re1 Rxh4 28. Rxe3 Rh1+ 29. Rg1 Rxg1+ 30. Re1 Rxe1# 0-1

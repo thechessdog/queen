@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Groleau, Gilles"]
+[Black "Dougherty, Michael"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "836d4843"]
+[Epoch "Queen"]
+[WhiteID "2604426"]
+[BlackID "2601559"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O Be7 8.
+Be3 O-O 9. Bb3 Nxd4 10. Bxd4 Qa5 11. f4 e5 12. Be3 Be6 13. f5 Bd7 14. Nd5 Nxd5
+15. Bxd5 Bc6 16. f6 Bxf6 17. Rxf6 gxf6 18. Qf3 Kg7 19. Bh6+ 1-0

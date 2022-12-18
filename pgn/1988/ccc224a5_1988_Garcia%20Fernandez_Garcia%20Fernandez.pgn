@@ -1,0 +1,19 @@
+[Event "Alicante"]
+[Site "Alicante"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Garcia Fernandez, C"]
+[Black "Garcia Fernandez, C"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ccc224a5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. Nf3 Nc6 4. d4 d5 5. exd5 Qxd5 6. Be3 cxd4 7. Nxd4 Nf6
+8. Nd2 Be7 9. Qf3 O-O 10. Bc4 Qxf3 11. N2xf3 Bd7 12. O-O Rfd8 13. Rfd1 Na5
+14. Be2 Nd5 15. Bg5 f6 16. Bh4 Rac8 17. Bb5 Kf7 18. Rac1 Bxb5 19. Nxb5 a6
+20. Nbd4 b5 21. Bg3 g6 22. Nb3 Nc4 23. Rc2 Nxc3 24. Rxd8 Rxd8 25. h3 Nxa2
+26. Nbd4 Nb4 27. Re2 e5 28. Nb3 Rd1+ 29. Kh2 Rb1 0-1
+

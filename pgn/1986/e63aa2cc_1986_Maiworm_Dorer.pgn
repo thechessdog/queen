@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Maiworm, F."]
+[Black "Dorer, M."]
+[Result "0-1"]
+[ECO "A24"]
+[Opening "English"]
+[Variation "Bremen system with ...g6"]
+[HashCode "e63aa2cc"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 g6 4. Bg2 Bg7 5. Nf3 d6 6. d4 e4 7. Ng5 Nc6 8. e3
+Bg4 9. Qb3 Rb8 10. Ngxe4 Nxe4 11. Nxe4 O-O 12. O-O f5 13. Nc3 Na5 14. Qa4
+c5 15. dxc5 dxc5 16. f3 Bh5 17. Rd1 Qb6 18. Bd2 Qb4 19. Qc2 Qxc4 20. Bf1
+Qe6 0-1
+

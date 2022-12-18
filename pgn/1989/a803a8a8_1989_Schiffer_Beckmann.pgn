@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schiffer, Kai"]
+[Black "Beckmann, Klaus"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "a803a8a8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8.
+h3 Bh5 9. d4 cxd4 10. cxd4 e5 11. g4 Bg6 12. d5 Nb8 13. Nc3 Be7 14. Nd2 h5
+15. a4 Nbd7 16. a5 Rc8 17. Nc4 hxg4 18. hxg4 Nf8 19. f4 Rxc4 20. Bxc4 Qc8
+21. Qa4+ Kd8 22. f5 Nxg4 23. Qb4 Bxf5 24. exf5 Qxf5 25. Qb6+ Ke8 26. Bf1
+Nd7 27. Qa7 Nc5 28. Nd1 Qf3 29. Bg2 Qg3 30. Qb8+ Bd8 31. Kf1 Nh2+ 0-1
+

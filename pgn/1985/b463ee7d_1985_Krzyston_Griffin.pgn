@@ -1,0 +1,21 @@
+[Event "Westland SE MI opB"]
+[Site "Westland SE MI opB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Krzyston, J."]
+[Black "Griffin, J."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "b463ee7d"]
+[Epoch "Queen"]
+
+1. b3 Nf6 2. Nc3 c5 3. e4 d6 4. d4 cxd4 5. Qxd4 Nc6 6. Qd1 a6 7. Bc4 b5 8.
+Bd3 Bb7 9. Nf3 Ne5 10. Be2 Rc8 11. Bb2 Nxe4 12. Nd5 Bxd5 13. Qxd5 Nc3 14.
+Bxc3 Rxc3 15. O-O e6 16. a4 exd5 17. axb5 axb5 18. Nd4 Be7 19. Bxb5+ Kf8
+20. f4 Nc6 21. Nxc6 Rxc6 22. Bxc6 Qb6+ 23. Kh1 Qxc6 24. Ra7 f6 25. Re1 Qe8
+26. b4 Qd8 27. h3 Kf7 28. f5 Re8 29. Rea1 Qc8 30. g4 Kf8 31. b5 Qxc2 32. b6
+Qe4+ 33. Kh2 Rb8 34. b7 Qb4 35. R1a4 Qb2+ 36. Kg3 Rxb7 37. Ra8+ Kf7 38. Rc8
+Qb3+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr WER/C"]
+[Site "corr WER/C"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Demian"]
+[Black "Gnadig"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "b7d2ab4a"]
+[Epoch "Queen"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Qd7 6. Bd3 Bxd3 7. Qxd3
+f5 8. Nf3 Nc6 9. a3 Be7 10. O-O O-O-O 11. b4 f6 12. Na4 Kb8 13. Nc5 Qc8 14.
+c4 g5 15. Rfc1 Rd6 16. Nb3 dxc4 17. Qxc4 a6 18. a4 Na7 19. b5 Rb6 20. Rc2
+h5 21. Nc5 h4 22. d5 f4 23. Ne6 Bd6 24. Nfd4 Qd7 25. exf4 h3 26. g3 gxf4
+27. bxa6 fxg3 28. fxg3 Rb4 29. Qc3 Rc8 30. axb7 Rxb7 31. Nc6+ Ka8 32. Ned4
+Be5 33. Qc4 Nxc6 34. Nxc6 Rb6 35. Rac1 Rxc6 36. Qxc6+ Qxc6 37. Rxc6 Rd8 38.
+Rb1 Bd4+ 39. Kf1 Rxd5 40. Ra6+ Ba7 41. Rxf6 1-0
+

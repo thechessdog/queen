@@ -1,0 +1,22 @@
+[Event "Oak Park ch-MI wmn"]
+[Site "Oak Park ch-MI wmn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Benedict, A."]
+[Black "Kelly, M."]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "cbd7351f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Nf6 4. e3 e6 5. Bb5 Bd7 6. O-O Bd6 7. Bxd6 cxd6
+8. Nc3 O-O 9. Bd3 e5 10. h3 e4 11. Be2 exf3 12. Bxf3 Be6 13. a3 Re8 14. Re1
+Qd7 15. b4 a6 16. Na4 Rad8 17. Nb6 Qc7 18. Na4 b5 19. Nb2 Rc8 20. Nd3 Ne7
+21. Nf4 Qxc2 22. Qxc2 Rxc2 23. Bd1 Rb2 24. Nd3 Rd2 25. Nf4 Bf5 26. Rc1 Rc8
+27. Ra1 Bc2 28. Bxc2 Rcxc2 29. Rac1 Rxc1 30. Rxc1 g5 31. Nh5 Nxh5 32. Rc7
+Kf8 33. g4 Nf6 34. Rc1 Ra2 35. Rc3 Ne4 36. Rd3 Nxf2 37. Rb3 Nxh3+ 38. Kf1
+Nf2 39. e4 Nxe4 40. Rh3 Kg7 41. a4 bxa4 42. Re3 Nc6 43. b5 axb5 44. Rd3 Nf2
+45. Rc3 Nxd4 46. Rc7 Nxg4 47. Rd7 Nf5 48. Rb7 Rb2 49. Rc7 Nd4 50. Rc1 Nb3
+51. Rd1 Ne3+ 52. Ke1 Nxd1 53. Kxd1 a3 54. Ke1 a2 55. Kf1 a1=Q# 0-1
+

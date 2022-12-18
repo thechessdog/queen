@@ -1,0 +1,15 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Niggel, C."]
+[Black "Edwards, J."]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Flohr variation"]
+[HashCode "5cbba044"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. c4 Nf6 6. Nc3 Nxe4 0-1
+

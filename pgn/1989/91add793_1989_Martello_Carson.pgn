@@ -1,0 +1,17 @@
+[Event "corr LADAC Superior"]
+[Site "corr LADAC Superior"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martello, Juan"]
+[Black "Carson, Tarik"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, Botvinnik variation"]
+[HashCode "91add793"]
+[Epoch "Queen"]
+[WhiteID "111872"]
+[WhiteCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8. Bxa6
+Nxa6 9. O-O Nab8 10. f4 Nc6 11. Nf3 g6 12. Be3 h5 13. Qc2 Qc7 14. Ng5 Ne7 0-1

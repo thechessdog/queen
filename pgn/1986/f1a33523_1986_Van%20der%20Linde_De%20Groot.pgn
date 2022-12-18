@@ -1,0 +1,17 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van der Linde, Mein"]
+[Black "De Groot, Pieter"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "f1a33523"]
+[Epoch "Queen"]
+[BlackID "1014498"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 d5 7. Qa4+ Nc6 8. Ne5
+Qd6 9. c5 bxc5 10. Bb5 Ne4 11. Nxc6 Nxc3 12. Nxb4+ 1-0

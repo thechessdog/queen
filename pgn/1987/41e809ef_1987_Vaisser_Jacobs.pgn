@@ -1,0 +1,23 @@
+[Event "Cappelle la Grande"]
+[Site "Cappelle la Grande"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vaisser, Anatoly"]
+[Black "Jacobs, Byron A"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "41e809ef"]
+[Epoch "Queen"]
+[BlackID "400688"]
+[BlackCountry "ENG"]
+[WhiteID "603252"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 O-O 10. a3 Bxc3 11. Nxc3 a5 12. Na4 Bd7 13. Nb6 Ra7 14. Bd3 Bc6
+15. O-O a4 16. f4 g6 17. g4 Nd7 18. Nxd7 Bxd7 19. Rae1 b6 20. f5 exf5 21. gxf5
+Re8 22. Rxe8+ Bxe8 23. f6 Bd7 24. Qg5 bxc5 25. dxc5 Bc6 26. Re1 d4 27. Be4 h6
+28. Qf4 Ra6 29. Bxg6 fxg6 30. f7+ Kf8 31. Qxh6+ Kxf7 32. Qh7+ Kf6 33. Qh4+ g5
+34. Qh6+ Kf5 35. Qe6+ Kf4 36. h3 Bh1 37. Qg4# 1-0

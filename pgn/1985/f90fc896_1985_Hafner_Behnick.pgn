@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hafner"]
+[Black "Behnick"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "f90fc896"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb7 5. Bd3 Bb4 6. Qc2 Bxc3+ 7. bxc3 d6
+8. f4 d5 9. cxd5 exd5 10. e5 Ne4 11. Nf3 O-O 12. O-O f5 13. exf6 gxf6 14.
+f5 Kh8 15. Nh4 Rg8 16. Rf3 c5 17. Rh3 Ng5 18. Bxg5 Rxg5 19. Re1 Kg7 20.
+Rhe3 Nc6 21. Nf3 Rh5 22. Bb5 Rc8 23. Bxc6 Bxc6 24. Qe2 Rh6 25. Re7+ Kh8 26.
+Ng5 fxg5 27. Qe5+ Kg8 28. Qg7# 1-0
+

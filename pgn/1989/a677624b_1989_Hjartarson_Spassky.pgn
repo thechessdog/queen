@@ -1,0 +1,19 @@
+[Event "World Cup"]
+[Site "Barcelona"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Spassky, Boris V."]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, 7.Qc2"]
+[HashCode "a677624b"]
+[Epoch "Queen"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackID "600024"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 b6 8. cxd5
+Nxd5 9. a3 Bb7 10. e4 N5f6 11. Nc3 c5 12. d5 exd5 1/2-1/2

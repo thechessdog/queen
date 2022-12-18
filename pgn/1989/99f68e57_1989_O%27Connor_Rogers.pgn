@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "O'Connor, C."]
+[Black "Rogers, Jonathan W"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "99f68e57"]
+[Epoch "Queen"]
+[BlackID "402052"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Bc4 Bxe5 6. Qh5 Qe7 7. dxe5 Nc6 8.
+Bf4 Nh6 9. Bxh6 gxh6 10. Nc3 Nxe5 11. Nd5 Qd6 12. Bb5+ c6 13. O-O-O cxb5 14.
+Qh4 Nd3+ 15. Rxd3 exd3 16. Re1+ Be6 17. Rxe6+ fxe6 18. Qh5+ Kd8 19. Qh4+ Kc8
+20. Qf6 Rd8 0-1

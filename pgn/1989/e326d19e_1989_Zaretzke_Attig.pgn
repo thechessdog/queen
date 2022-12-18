@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zaretzke"]
+[Black "Attig"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "e326d19e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Nf6 5. d4 d5 6. Bd3 dxe4 7. Nxe4 Nxe4
+8. Bxe4 Nd7 9. Bxf4 Nf6 10. Bd3 Nd5 11. Bd2 Bh4+ 12. g3 Bf6 13. Qe2+ Ne7
+14. Bb4 Bg4 15. O-O-O Qd5 16. Rhf1 O-O-O 17. Qe4 Qxe4 18. Bxe4 Nd5 19. Bd2
+h5 20. c3 h4 21. Rde1 hxg3 22. hxg3 Rh3 23. Bf4 Nxf4 24. gxf4 c6 25. Ne5
+Bxe5 26. dxe5 Rh2 27. Rh1 Rf2 28. Ref1 Rdd2 29. Rxf2 Rxf2 30. Rh4 Be6 31.
+a3 g6 32. Bc2 Kc7 33. b4 b5 34. a4 bxa4 35. Bxa4 Kb6 36. Kb1 c5 37. Be8 a5
+38. bxa5+ Kxa5 39. Kc1 Kb6 40. Kb1 c4 41. Kc1 Kc5 42. Kd1 Kd5 43. Ke1 Ra2
+44. Rh7 Ra7 45. Ke2 Ke4 46. Rh4 Ra2+ 47. Ke1 Ke3 48. Kd1 Kd3 49. Ke1 Kxc3
+50. Bc6 Kd3 0-1
+

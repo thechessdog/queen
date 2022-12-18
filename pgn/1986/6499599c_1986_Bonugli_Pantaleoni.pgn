@@ -1,0 +1,22 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bonugli"]
+[Black "Pantaleoni, Claudio"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "6499599c"]
+[Epoch "Queen"]
+[BlackID "800945"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Qa5 10. g4 Qb4 11. Nxc6 bxc6 12. Bb3 Be6 13. Ne2 Qxd2+ 14. Bxd2 Nd7
+15. Bc3 Ne5 16. O-O Nc4 17. Nd4 Nd2 18. Rf2 Nxb3 19. axb3 Bd7 20. Ra6 Bh6 21.
+Re2 Rfc8 22. Re1 c5 23. Ne2 f5 24. exf5 gxf5 25. Ng3 Kf7 26. Nxf5 Bxf5 27. gxf5
+Rg8+ 28. Kf2 Bf4 29. Rea1 Rg5 30. Rxa7 Rag8 31. Ke2 Rxf5 32. Kd3 Rg2 33. h4 d5
+34. Re1 Bd6 35. Rf1 Bg3 36. Ra4 e5 37. Raa1 Bf2 38. Ke2 Bxh4+ 39. Kd3 Bf2 40.
+Ke2 Bg3+ 41. Kd3 h5 42. Be1 e4+ 0-1

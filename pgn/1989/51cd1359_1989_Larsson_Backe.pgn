@@ -1,0 +1,19 @@
+[Event "Kumla"]
+[Site "Kumla"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Larsson"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "51cd1359"]
+[Epoch "Queen"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 Nc6 6. Nf3 O-O 7. Bd3 d5 8. O-O
+cxd4 9. exd4 dxc4 10. Be2 Nxd4 11. Nxd4 Qxd4 12. Be3 Qh4 13. Rfd1 Bxc3 14. bxc3
+e5 15. g3 Qh3 16. Bxc4 Ng4 17. Qe4 Qxh2+ 18. Kf1 Nxe3+ 19. Qxe3 Qh1+ 20. Ke2
+Bg4+ 21. f3 Qg2+ 22. Qf2 Bxf3+ 0-1

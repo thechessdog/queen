@@ -1,0 +1,19 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stawiarski"]
+[Black "Williams"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "a921051e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 Be7 9. Rd1 Bd7 10. Bg5 a6 11. a4 Rc8 12. Rd2 Qa5 13. Kh1 Ne5 14.
+Nxe5 dxe5 15. f4 Bb4 16. Bxf6 gxf6 17. Qd3 Bc6 18. f5 Bxc3 19. bxc3 exf5
+20. Rf1 Rd8 21. Bd5 fxe4 22. Bxc6+ bxc6 23. Qxd8+ Qxd8 24. Rxd8+ Kxd8 25.
+Rxf6 Ke7 26. Rxc6 Rd8 27. g4 Rd2 28. Kg1 e3 29. Rc4 Rd1+ 30. Kg2 e2 0-1
+

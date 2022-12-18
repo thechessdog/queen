@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Blandnet, J."]
+[Black "Daillet, Emmanuel"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "3feef0f4"]
+[Epoch "Queen"]
+[BlackID "600792"]
+[BlackCountry "FRA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h6 8. Be3 Nc6
+9. Nf4 Bh7 10. Bd3 Bxd3 11. Qxd3 cxd4 12. Bxd4 Nge7 13. Nb5 Nc8 14. O-O-O a6
+15. Nc3 Qa5 16. Nh5 Nxd4 17. Qxd4 Nb6 18. Qf4 Rc8 19. Rh3 Nc4 20. Rf3 Qc7 21.
+Rxd5 Nxb2 22. Rd4 f6 23. Nxf6+ gxf6 24. Qxf6 Nd3+ 25. Rdxd3 Ba3+ 26. Kd1 1-0

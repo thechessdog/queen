@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Klose"]
+[Black "Rondio"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "fa586ca2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8.
+Bb3 Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. Rfe1 Nc6 13. a3 O-O 14. Rad1
+Nxd4 15. Bxd4 Bc6 16. f3 Rad8 17. Be3 Kh8 18. Re2 d5 19. exd5 Nxd5 20. Nxd5
+Bxd5 21. Bxd5 Rxd5 22. Rdd2 Rfd8 23. Qe1 Qc7 24. Rxd5 Rxd5 25. Rd2 Rxd2 26.
+Qxd2 Bc5 27. Bxc5 Qxc5+ 28. Kf1 g6 29. Qc3+ Qxc3 30. bxc3 Kg7 31. Ke2 Kf6
+32. Kd3 Ke5 33. c4 Kd6 34. cxb5 axb5 35. c4 Kc5 36. cxb5 Kxb5 37. Kd4 f6
+38. f4 h6 39. a4+ Kxa4 40. Kc5 1-0
+

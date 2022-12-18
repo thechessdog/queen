@@ -1,0 +1,19 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klaic, P."]
+[Black "Grodzensky, S."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "a3a52232"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Qc2 Na6 10. Bxe4 dxe4 11. Qxe4 Nb4 12. Ng5 f5 13. Qe2 f4 14.
+Nf3 Bg4 15. a3 Bxf3 16. gxf3 Qh4 17. Qe6+ Kh8 18. axb4 Rf6 19. Qd7 Rg6+ 20.
+Kh1 Rd8 21. Qf5 Rg5 22. Qe6 Qh5 23. Nd2 Rg6 24. Qxg6 hxg6 25. Rxa7 Bxb4 26.
+Rxb7 Bxd2 27. Bxd2 Qxf3+ 28. Kg1 Rxd4 0-1
+

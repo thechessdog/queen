@@ -1,0 +1,20 @@
+[Event "Bundesliga 8687"]
+[Site "Germany"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Lobron, Eric"]
+[Black "Schlaugat, Michael"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "d7b8304e"]
+[Epoch "Queen"]
+[WhiteID "4600037"]
+[BlackID "4607503"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 c5 6. Bg2 Nc6 7. O-O O-O 8. Re1
+dxe4 9. dxe4 e5 10. c3 b5 11. a4 b4 12. Qc2 Ba6 13. Bf1 Bxf1 14. Nxf1 c4 15.
+Bg5 bxc3 16. Bxf6 cxb2 17. Rad1 Nd4 18. Nxd4 Bxf6 19. Ne6 1-0

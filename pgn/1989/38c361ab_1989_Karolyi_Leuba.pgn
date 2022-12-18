@@ -1,0 +1,20 @@
+[Event "Geneve YM"]
+[Site "Geneve"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Karolyi, Tibor"]
+[Black "Leuba, Didier"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "38c361ab"]
+[Epoch "Queen"]
+[BlackID "1300768"]
+[BlackCountry "SUI"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 e5 8. d5 a5
+9. Nf3 O-O 10. Bd3 Bg4 11. Be3 Nbd7 12. O-O Bc5 13. Qd2 Qe7 14. Bxc5 Nxc5 15.
+Bc2 a4 16. Qe3 Bxf3 17. Rxf3 1/2-1/2

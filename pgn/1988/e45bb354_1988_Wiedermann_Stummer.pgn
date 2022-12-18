@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wiedermann, Franz"]
+[Black "Stummer, Anton"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "e45bb354"]
+[Epoch "Queen"]
+[WhiteID "1603744"]
+[BlackID "1600443"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. g4 c5 7. d5 e6 8. h4 exd5
+9. cxd5 Re8 10. f3 a6 11. a4 Nbd7 12. h5 Ne5 13. hxg6 hxg6 14. Bg5 Qa5 15. Nh3
+Nexg4 16. fxg4 Nxe4 17. O-O Nxc3 18. bxc3 Qxc3 19. Rb1 Qg3+ 0-1

@@ -1,0 +1,17 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Hoffmann, Michael"]
+[Black "Fandel, Eugen"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "8b7e2cd7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 e6 7. Nc3 Bb4 8.
+Bd3 Bd7 9. O-O Bxc3 10. bxc3 Nge7 11. Re1 Qa5 12. Bd2 Qc7 13. c4 O-O 14. Ng5 h6
+15. Nh7 Rfc8 16. Nf6+ gxf6 17. Qg4+ Kf8 18. Bxh6+ Ke8 19. Qg7 Kd8 20. Qxf7 Nxd4
+21. Qxf6 1-0

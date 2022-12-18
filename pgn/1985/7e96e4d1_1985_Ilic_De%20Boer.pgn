@@ -1,0 +1,20 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ilic, Zoran"]
+[Black "De Boer, Gert-Jan"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "7e96e4d1"]
+[Epoch "Queen"]
+[WhiteID "15001350"]
+[WhiteCountry "MKD"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. g3 g6 7. Bg2 Bg7 8. Nc3
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. Nc4 Nb6 13. Na3 Bd7 14. Qc2 Nc8 15.
+Rb1 Rb8 16. b4 cxb4 17. Rxb4 Qc7 18. Bd2 Ng4 19. h3 Nh6 20. Rc1 b6 21. Qd3 Qa7
+22. Nc2 Ne7 23. Nd4 Rec8 24. Bf4 Be8 25. Bxd6 Rb7 26. Bf4 1-0

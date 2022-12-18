@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kirsch, G."]
+[Black "Popov, I."]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "724aa945"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
+8. Nf3 exd5 9. e3 O-O 10. Be2 c6 11. b4 Be6 12. a4 Nd7 13. O-O Qe7 14. Qb3
+Rfc8 15. Rfc1 Nf6 16. Ne5 Ne4 17. Nxe4 dxe4 18. Qb2 Bxe5 19. dxe5 Bd5 20.
+b5 Re8 21. a5 Qxe5 22. Qxe5 Rxe5 23. a6 cxb5 24. axb7 Bxb7 25. Rc7 Bc8 26.
+f4 Rd5 0-1
+

@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gaisyniuk"]
+[Black "Barsov, A."]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "a981a7c9"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 e6 5. Bxc4 exd5 6. Bxd5 Qc7 7. Ne2 Bd6
+8. Nbc3 Nf6 9. O-O Bxh2+ 10. Kh1 Be5 11. f4 Bxc3 12. Nxc3 O-O 1/2-1/2
+

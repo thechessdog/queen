@@ -1,0 +1,17 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Klingebiel, M."]
+[Black "Neukoetter, G."]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti v Dutch"]
+[HashCode "0e8db423"]
+[Epoch "Queen"]
+
+1. Nf3 f5 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Bxf6 Bxf6 6. e4 fxe4 7. Nxe4
+O-O 8. Bd3 Bg7 9. c3 d5 10. Ng3 c5 11. O-O cxd4 12. cxd4 Qb6 13. Qc2 Nc6
+14. Rfe1 Bg4 15. Be2 Rac8 16. Rac1 Nxd4 17. Qxc8 Nxe2+ 18. Rxe2 Rxc8 19.
+Rxc8+ Bxc8 0-1
+

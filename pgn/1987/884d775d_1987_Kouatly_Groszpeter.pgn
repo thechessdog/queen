@@ -1,0 +1,19 @@
+[Event "Noviki"]
+[Site "Budapest II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kouatly, Bachar"]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "884d775d"]
+[Epoch "Queen"]
+[WhiteID "600032"]
+[BlackID "700053"]
+[WhiteCountry "FRA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Rc1 d6 10. d5 Nxc3 11. Bxc3 Bxc3 12. Rxc3 e5 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Petursson, Margeir"]
+[Black "Baquero, Luis A"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "d9b4cb87"]
+[Epoch "Queen"]
+[WhiteID "2300028"]
+[WhiteCountry "ISL"]
+[BlackID "4400070"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 O-O 8. a3
+Bxc3+ 9. Nxc3 b6 10. Be2 a5 11. Bf4 Ne4 12. Nxe4 dxe4 13. O-O Nc6 14. Bd6 Re8
+15. Bb5 Bb7 16. Re1 Qg5 17. Rxe4 Qd5 18. f3 f5 19. Re3 Nxd4 20. Re5 Nxb5 21.
+Rxd5 Bxd5 22. Rc1 Nxd6 23. cxd6 Rad8 24. Qa4 Rf8 25. Qh4 Rd7 26. Rc7 Rfd8 27.
+Qd4 Kf8 28. Qxb6 e5 29. Rxd7 Rxd7 30. Qxa5 1-0

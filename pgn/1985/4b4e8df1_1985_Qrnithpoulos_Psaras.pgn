@@ -1,0 +1,22 @@
+[Event "Nikea op"]
+[Site "Greece"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Qrnithpoulos"]
+[Black "Psaras, Stilianos"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "4b4e8df1"]
+[Epoch "Queen"]
+[BlackID "4200888"]
+[BlackCountry "GRE"]
+
+1. b3 Nf6 2. Bb2 g6 3. f4 Bg7 4. Nf3 d5 5. e3 Nbd7 6. c4 c6 7. Be2 O-O 8. O-O
+Nc5 9. Ne5 Bf5 10. g4 Bxb1 11. Rxb1 e6 12. Ba3 Nfe4 13. d4 Nc3 14. Qe1 N5e4 15.
+Bxf8 Kxf8 16. Rc1 Nxe2+ 17. Qxe2 f6 18. Nd3 Kg8 19. Nf2 Nd6 20. Rfd1 f5 21. g5
+Kf7 22. Nd3 Ne4 23. Nc5 Nd6 24. h4 Qe7 25. Nd3 Ne4 26. b4 h6 27. Nc5 Nd6 28.
+Kg2 hxg5 29. hxg5 b6 30. Nd3 Nxc4 31. Rxc4 dxc4 32. Nb2 b5 33. Nxc4 bxc4 34.
+Qxc4 Qd6 35. Rc1 Rc8 36. b5 c5 37. dxc5 Qd2+ 38. Kf3 Rh8 39. Qf1 Bb2 40. Rd1
+Rh3+ 41. Qxh3 Qxd1+ 42. Kg2 Qc2+ 43. Kg3 Qxc5 0-1

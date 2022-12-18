@@ -1,0 +1,22 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1985.08.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "6f8b06bc"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 d5 5. cxd5 Nxd5 6. a3 Bd6 7. Qc2 Be6 8. Nf3
+O-O 9. b4 a6 10. Bc4 Bxb4 11. Bxd5 Qxd5 12. axb4 Nxb4 13. Qc3 Nd3+ 14. Ke2 Qb5
+15. Na3 Nf4+ 16. Kd1 Bb3+ 17. Nc2 Nd3 18. Nxe5 Nxf2+ 19. Kc1 Nxh1 20. Nd3 Qg5
+21. Qxb3 Qxg2 22. Nce1 Qxh2 23. Qxb7 Nf2 24. Rxa6 Rad8 25. Kc2 c5 26. Qf3 Nxd3
+27. Nxd3 Rxd3 28. Kxd3 Rd8+ 29. Kc4 Qxd2 30. Ra8 Qb4# 0-1

@@ -1,0 +1,20 @@
+[Event "Wurtemberg"]
+[Site "Wurtemberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Neumann"]
+[Black "Braeuning, Rudi"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Fraser defence"]
+[HashCode "52851054"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Bc5 6. dxc6 Bxf2+ 7. Ke2
+bxc6 8. Qd3 d5 9. Nbd2 Bf5 10. Nxe4 Bxe4 11. Qa6 Bb6 12. Be3 O-O 13. Re1 d4
+14. cxd4 exd4 15. Bc1 Qd5 16. Kd1 d3 17. Rxe4 Qxe4 18. Bxd3 Qg4 19. Re1
+Qxg2 20. Be4 f5 21. Qc4+ Kh8 22. Bxc6 Rac8 23. Bd2 Rf6 24. Re2 Qf1+ 25. Ne1
+Qh3 26. Kc2 Qg4 27. Bd5 Rc6 28. Re8+ Rxe8 29. Qxc6 Rd8 30. Nd3 Qd4 31. Bc4
+h6 32. Bc3 Qg4 33. Qxh6# 1-0
+

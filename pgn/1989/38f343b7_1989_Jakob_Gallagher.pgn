@@ -1,0 +1,24 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "14"]
+[White "Jakob, Simon"]
+[Black "Gallagher, Joseph G."]
+[Result "0-1"]
+[ECO "E93"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, main line"]
+[HashCode "38f343b7"]
+[Epoch "Queen"]
+[WhiteID "1301110"]
+[WhiteCountry "SUI"]
+[BlackID "1303422"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 g6 5. e4 e5 6. d5 Bg7 7. Be2 O-O 8. O-O
+Nc5 9. Qc2 a5 10. Ne1 Nfd7 11. Be3 f5 12. f3 b6 13. a3 Nf6 14. Rb1 fxe4 15.
+fxe4 Ncxe4 16. Nxe4 Nxe4 17. Rxf8+ Qxf8 18. Nd3 Bh6 19. Qc1 Bg7 20. Qc2 Qe7 21.
+Rf1 Bd7 22. Qd1 Qh4 23. Qc1 Bf5 24. Nf2 Nxf2 25. Rxf2 Qe7 26. a4 Qd7 27. Qd1 h5
+28. b3 Rf8 29. h3 Qe7 30. g4 hxg4 31. hxg4 Be4 32. Bf3 Rxf3 33. Rxf3 Qh4 34. g5
+Bf8 35. Rxf8+ Kxf8 36. Qf1+ Ke8 37. Qe2 Qh1+ 38. Kf2 Qg2+ 39. Ke1 Qxe2+ 40.
+Kxe2 Bc2 0-1

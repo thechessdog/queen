@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Abzahausen"]
+[Black "Kzelvest"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "b072be57"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. Qd2 exd5 10. cxd5 Re8 11. f3 h5 12. h4 Nbd7 13. Nh3 Ne5 14. Bh6 a6
+15. Bxg7 Kxg7 16. a4 Qa5 17. Ra3 Nh7 18. Nf2 f5 19. Rb3 fxe4 20. Nfxe4 Qc7
+21. a5 Bf5 22. Rb6 Rad8 23. b4 cxb4 24. Rxb4 Re7 25. Qb2 Rc8 26. Kd2 Bxe4
+27. Nxe4 Qxa5 28. Ra1 Qxd5+ 29. Rd4 Qe6 30. Rxd6 Qf7 31. Ke1 Qf4 32. g3 Qe3
+33. Rd5 Rc2 0-1
+

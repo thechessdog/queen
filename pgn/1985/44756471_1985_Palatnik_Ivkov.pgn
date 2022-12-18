@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Palatnik, Semon"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "44756471"]
+[Epoch "Queen"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+[BlackID "900141"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Nf6 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Borgo"]
+[Black "Cladouras"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "f69df11e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. b3 c5 9. Bb2 Bf6 10. Nbd2 O-O 11. h3 Re8 12. Nh2 g6 13. Ng4 Bg7 14. f4
+exf4 15. Bxg7 Kxg7 16. Rxf4 h5 17. Ne3 Ne5 18. Qf1 Be6 19. Kh1 b5 20. Qf2
+g5 21. Qg3 Kh7 22. Nf5 Rg8 23. Rf2 f6 24. Qe3 Qf8 25. Raf1 Rg6 26. Nf3 Nd7
+27. Nh2 Bxf5 28. Rxf5 Qd6 29. Qf3 Rh8 30. Qxh5+ Kg7 31. Qe2 Ne5 32. Ng4
+Nxg4 33. Qxg4 Rh4 34. e5 fxe5 35. Rf7+ Kh8 36. Rf8+ Kh7 37. R1f7+ Rg7 38.
+Qf5+ Qg6 39. Rxg7+ Kxg7 40. Rg8+ 1-0
+

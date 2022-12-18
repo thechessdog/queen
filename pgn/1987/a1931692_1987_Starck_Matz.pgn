@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Starck, Ines"]
+[Black "Matz"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "a1931692"]
+[Epoch "Queen"]
+[WhiteID "4612477"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8. Qh5+
+g6 9. Qh6 c5 10. Qg7 Rf8 11. Qxh7 cxd4 12. Qxg6+ Rf7 13. Bxe7 Qb6 14. Bd6 Nf8
+15. Bxf8 Kxf8 16. Qh6+ Ke8 17. Nd1 Qc7 18. Nf3 Nc6 19. Bd3 Kd7 20. Qf4 Qa5+ 21.
+Kf1 Rg7 22. Nxd4 Nxd4 23. Qxd4 Rg4 24. f4 Qd8 25. Qf2 Kc7 26. Ne3 Rg7 27. c4
+dxc4 28. Bxc4 b5 29. Be2 Kb8 30. Bf3 Raa7 31. Rd1 Rad7 32. Ke2 Qc7 33. Rxd7
+Bxd7 34. Rd1 Qa5 35. Nc2 b4 36. Kf1 Bb5+ 37. Kg1 Bd7 38. Rd6 Kc8 39. Qa7 1-0

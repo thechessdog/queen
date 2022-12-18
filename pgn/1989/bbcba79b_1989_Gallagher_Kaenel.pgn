@@ -1,0 +1,24 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "5"]
+[White "Gallagher, Joseph G."]
+[Black "Kaenel, Hansjuerg"]
+[Result "1-0"]
+[ECO "B49"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "bbcba79b"]
+[Epoch "Queen"]
+[BlackID "1300440"]
+[BlackCountry "SUI"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. Be3 Nf6 8.
+O-O Bb4 9. Na4 O-O 10. c4 Nxe4 11. Bf3 f5 12. c5 Ba5 13. Nb3 Nf6 14. Nxa5 Nxa5
+15. Nb6 Rb8 16. Qa4 Nc6 17. Rfd1 e5 18. Bg5 e4 19. Bxf6 gxf6 20. Be2 Qe5 21.
+Qb3+ Kh8 22. Rd5 Qe6 23. Qh3 Ne7 24. Rd6 Qg8 25. Qg3 Qxg3 26. hxg3 Kg7 27. Rad1
+Kg6 28. f4 h5 29. Kf2 Rh8 30. Ke3 Rh6 31. Rh1 Kg7 32. Rxh5 Rxh5 33. Bxh5 Nc6
+34. a3 Nd8 35. b4 Ne6 36. Be2 Kf8 37. Rxd7 Bxd7 38. Nxd7+ Ke7 39. Nxb8 Nd8 40.
+c6 bxc6 1-0

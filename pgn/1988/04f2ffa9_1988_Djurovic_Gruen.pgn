@@ -1,0 +1,22 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Djurovic, Dejan"]
+[Black "Gruen, Gerd-Peter"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "04f2ffa9"]
+[Epoch "Queen"]
+[WhiteID "903574"]
+[WhiteCountry "SRB"]
+[BlackID "4601068"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+e5 9. d5 Ne7 10. Nd2 Qa5 11. Qb3 O-O 12. Nf1 Nh5 13. Ne3 Nf4 14. Bf1 f5 15. g3
+fxe4 16. gxf4 exf4 17. Ng2 Ng6 18. h3 Bd7 19. a4 Rae8 20. Kd1 a6 21. Ra2 Kh8
+22. Bd2 Rb8 23. Ne1 Qd8 24. Bc1 b6 25. Re2 Qe8 26. Ra2 Ne5 27. Ng2 Qh5+ 28. Kc2
+Qf3 29. Kb1 b5 30. cxb5 axb5 31. axb5 c4 32. Qc2 Rxb5+ 33. Ka1 Rfb8 0-1

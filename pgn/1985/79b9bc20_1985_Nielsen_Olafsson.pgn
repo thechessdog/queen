@@ -1,0 +1,21 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Olafsson, Helgi"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "79b9bc20"]
+[Epoch "Queen"]
+[WhiteID "1409310"]
+[WhiteCountry "DEN"]
+[BlackID "2300010"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Qf3 Nbd7 8.
+O-O-O Qc7 9. Qh3 e5 10. Nb3 b5 11. Be2 Bb7 12. Qf3 Rc8 13. Bd3 Be7 14. Kb1 b4
+15. Ne2 d5 16. Ng3 dxe4 17. Nxe4 O-O 18. Rc1 Nd5 19. g4 a5 20. Qh3 g6 21. Nbd2
+a4 22. Bc4 Nxe3 23. Qxe3 Bxe4 24. Qxe4 Bg5 25. Rhe1 Nf6 26. Qf3 e4 0-1

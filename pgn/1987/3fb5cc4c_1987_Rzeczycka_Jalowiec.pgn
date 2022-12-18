@@ -1,0 +1,18 @@
+[Event "Wroclaw ch-POL wmn"]
+[Site "Wroclaw ch-POL wmn"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rzeczycka, B."]
+[Black "Jalowiec, Halina"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "3fb5cc4c"]
+[Epoch "Queen"]
+[BlackID "1104497"]
+[BlackCountry "POL"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 e5 6. dxe5 Qxd1+ 7. Kxd1 Be6
+8. b3 Nc6 9. f4 O-O-O+ 10. Bd2 Bb4 11. Nge2 Nd4 12. Nxd4 Rxd4 13. Ke1 Rhd8 14.
+Rd1 Bxc3 0-1

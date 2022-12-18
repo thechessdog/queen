@@ -1,0 +1,19 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fioravanti, E."]
+[Black "Franchi, G."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "3584900a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8.
+O-O Be7 9. Kh1 Na5 10. Be3 Nxb3 11. axb3 Bd7 12. f4 O-O 13. Bg1 Rc8 14. Qe2
+Qc7 15. h3 Rfe8 16. Rf3 g6 17. Raf1 e5 18. fxe5 dxe5 19. Rxf6 exd4 20. Nd5
+Qxc2 21. Qxc2 Rxc2 22. Rxf7 Bb5 23. Rxe7 Bxf1 24. Rxe8+ Kf7 25. Re7+ Kf8
+26. Bxd4 Bxg2+ 27. Kg1 Kg8 28. Bg7 1-0
+

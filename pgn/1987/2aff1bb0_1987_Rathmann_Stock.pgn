@@ -1,0 +1,17 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rathmann"]
+[Black "Stock"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "2aff1bb0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. Bg5 Be7
+8. h3 c6 9. Qe2 Nbd7 10. g4 Bg6 11. O-O-O Nd5 12. Bd2 Qc7 13. Rhf1 O-O-O
+14. h4 h5 15. g5 Bf5 16. Qf2 Nxc3 17. Bxc3 Nb6 18. Bb3 Nd5 19. Bd2 Bd6 20.
+Rde1 Bg3 0-1
+

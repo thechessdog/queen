@@ -1,0 +1,23 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rheinheimer"]
+[Black "Antritter"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "83f3e322"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 h6 12. Bh4 e5 13. fxe5 dxe5
+14. Qd3 Bg4 15. Bxf6 Bxf6 16. Rdf1 Bg5+ 17. Kb1 Rad8 18. Nd5 Qc5 19. h3 Be6
+20. Bb3 Be7 21. g4 Bh4 22. Rd1 b5 23. Qc3 Qxc3 24. Nxc3 b4 25. Nd5 a5 26.
+c4 bxc3 27. bxc3 Bxd5 28. Bxd5 Rc8 29. Kc2 Rfd8 30. Rb1 Rc7 31. Rb5 Rdc8
+32. c4 Rc5 33. Kb3 Bg5 34. Rf1 Bf4 35. Rb7 R8c7 36. Rxc7 Rxc7 37. Ka4 Kf8
+38. Kb5 Be3 39. Rf3 Bd4 40. Kxa5 f6 41. Kb5 Ke7 42. Ra3 Rc5+ 43. Kb4 Rc7
+44. Ra8 Kd6 45. a4 Bc5+ 46. Kb5 Bd4 47. a5 Rc5+ 48. Kb4 Rc7 49. a6 Ra7 50.
+Re8 Kd7 51. Rg8 Kd6 52. Bb7 Ke7 53. c5 Kf7 54. Ra8 1-0
+

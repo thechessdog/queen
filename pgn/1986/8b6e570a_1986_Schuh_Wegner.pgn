@@ -1,0 +1,19 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schuh, Hubert"]
+[Black "Wegner, Hannu"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "8b6e570a"]
+[Epoch "Queen"]
+[WhiteID "4600894"]
+[WhiteCountry "GER"]
+[BlackID "4600509"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Qc2 Nbd7 10. Bf4 Rc8 11. Nbd2 c5 1/2-1/2

@@ -1,0 +1,27 @@
+[Event "Agria op"]
+[Site "Eger"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Doleschall, Gyorgy"]
+[Black "Lendwai, Reinhard"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "af653d71"]
+[Epoch "Queen"]
+[BlackID "1600176"]
+[BlackCountry "AUT"]
+[WhiteID "702200"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 b6 8. O-O
+Bb7 9. a3 Bd6 10. Ng3 c5 11. dxc5 Bxc5 12. b4 Qxd1 13. Rxd1 Be7 14. Bb2 Rc8 15.
+Bb3 Nc6 16. Nb5 Rd8 17. h3 Kf8 18. Rac1 Rxd1+ 19. Bxd1 Nd8 20. Bf3 Bxf3 21.
+gxf3 a5 22. Nc7 Ra7 23. b5 Nd7 24. Na6 f5 25. Rc8 Kf7 26. a4 g6 27. f4 Rb7 28.
+Ne2 Nf6 29. Be5 Ke8 30. Nd4 Kd7 31. Ra8 Nd5 32. Nb8+ Kc8 33. Nbc6+ Kd7 34. Nb8+
+Kc8 35. Nbc6+ Kd7 36. Nxd8 Bxd8 37. Nxe6 Bf6 38. Nf8+ Ke7 39. Nxh7 Bxe5 40.
+fxe5 Nc3 41. Ng5 Nxa4 42. Rg8 Nc5 43. Rxg6 a4 44. Rg8 Rd7 45. h4 Nb3 46. e6 Rc7
+47. Ra8 Na5 48. h5 a3 49. h6 a2 50. h7 a1=Q+ 51. Kg2 Rc1 52. h8=Q Rg1+ 53. Kf3
+Qd1+ 54. Kf4 Qd6+ 55. Kf3 Qd5+ 56. e4 Qd1+ 57. Kf4 Qd2+ 58. Kf3 fxe4+ 59. Nxe4
+Qd1+ 60. Kf4 Rg4+ 0-1

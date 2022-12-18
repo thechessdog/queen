@@ -1,0 +1,21 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1988.12.01"]
+[Round "1"]
+[White "Kuijf, Marinus"]
+[Black "Roeschlau, Bernd"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0b5d20ec"]
+[Epoch "Queen"]
+[WhiteID "1000110"]
+[WhiteCountry "NED"]
+[BlackID "4602609"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 d6 4. d4 cxd4 5. Nxd4 a6 6. f4 Qc7 7. Bd3 e6 8. O-O
+Be7 9. Kh1 O-O 10. Nf3 Nfd7 11. Qe2 Re8 12. e5 Nc6 13. exd6 Qxd6 14. Ne4 Qd5
+15. c4 Qa5 16. Bd2 Qc7 17. Nfg5 Nf8 18. Bc3 Bb4 19. Nf6+ gxf6 20. Bxf6 Be7 21.
+Nxh7 Ng6 22. Qh5 Qa5 23. Qh6 1-0

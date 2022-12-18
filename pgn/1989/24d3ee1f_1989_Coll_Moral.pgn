@@ -1,0 +1,15 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Coll, G."]
+[Black "Moral, F."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "24d3ee1f"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Qxd2 Qxd2+ 7. Bxd2
+Bxg7 8. O-O-O Bf5 9. h3 Nd7 10. Be3 O-O-O 11. Bxa7 b6 12. Ba6# 1-0

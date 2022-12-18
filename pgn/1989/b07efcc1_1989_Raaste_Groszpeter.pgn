@@ -1,0 +1,22 @@
+[Event "Haifa etc"]
+[Site "Haifa etc"]
+[Date "1989.11.01"]
+[Round "7"]
+[White "Raaste, Eero J."]
+[Black "Groszpeter, Attila"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "b07efcc1"]
+[Epoch "Queen"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 Be7 8.
+Bb2 O-O 9. c4 Re8 10. Nc3 Ne5 11. Rfd1 Qb6 12. Na4 Nxf3+ 13. Qxf3 Qc6 14. Nc3
+a6 15. d4 cxd4 16. Rxd4 b5 17. cxb5 axb5 18. Rc1 Rec8 19. Qe2 Qa6 20. Nxb5
+Rxc1+ 21. Bxc1 Qxa2 22. Qxa2 Rxa2 23. Rc4 h6 24. Rc8+ Kh7 25. f3 d5 26. exd5
+Nxd5 27. Nd4 Bf6 28. Nc2 Bc3 0-1

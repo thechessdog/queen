@@ -1,0 +1,20 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hromada"]
+[Black "Chladek"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "10899a33"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Bb6 12. fxg7 Rg8 13. g4 Qg6 14.
+Nxe6 fxe6 15. Bg5 Rxg7 16. Qf3 e5 17. Nf6+ Ke7 18. h4 Rf7 19. Rxe5+ Nxe5
+20. Re1 Rxf6 21. Rxe5+ Kd7 22. Bxf6 Rf8 23. Rf5 d3 24. cxd3 cxd3 25. Qxd3+
+Kc8 26. Bg5 Rg8 27. Qf3 Qd6 28. Kg2 a6 29. Rf7 h6 30. Rf6 Qb4 31. Rxh6 Kb8
+32. Rf6 Ka7 33. b3 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neubauer"]
+[Black "Fechner"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "567acfe0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8.
+cxb5 d5 9. e3 O-O 10. Bd3 a6 11. Ne2 c4 12. Bb1 axb5 13. Qc2 Bxc3+ 14. bxc3
+e5 15. O-O Nc6 16. Ng3 e4 17. f3 Qb6 18. Re1 Ne5 19. Bxf6 Rxf6 20. Nxe4
+dxe4 21. Qxe4 Qb8 22. Rd1 Bf5 23. Qd5+ Be6 24. Qe4 Ra3 25. Qd4 Rxf3 26. Qc5
+Ng4 27. Rd6 Rxe3 28. Bg6 Rxa2 29. Rad1 Rd2 0-1
+

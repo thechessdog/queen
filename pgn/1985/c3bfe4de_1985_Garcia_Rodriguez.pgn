@@ -1,0 +1,19 @@
+[Event "Caracas zt"]
+[Site "Caracas zt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Rodriguez, Ad"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "c3bfe4de"]
+[Epoch "Queen"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 exf4 11. Rxf4 Nd7 12. Nd4 Nxd4 13. Bxd4 Ne5 14. Kh1
+Nc6 15. Be3 Bf6 16. Qe1 Bg5 17. Qg3 Bxf4 18. Bxf4 Ne5 19. Rd1 f6 20. Nb5 Qe7
+21. Nxd6 Rad8 22. Bxe5 fxe5 23. Qxe5 Rf2 24. Bb5 a6 25. Kg1 Rxg2+ 0-1

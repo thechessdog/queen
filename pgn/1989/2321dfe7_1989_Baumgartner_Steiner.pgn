@@ -1,0 +1,21 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Baumgartner"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "2321dfe7"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O c5 7. Nc3 Nc6 8. dxc5
+dxc5 9. Be3 Be6 10. Bxc5 Qa5 11. Ba3 Bxc4 12. Nd4 Nxd4 13. Qxd4 Rac8 14. Qf4
+Nh5 15. Qe3 Bxc3 16. Qxc3 Qxc3 17. bxc3 Bxe2 18. Rfe1 Ba6 19. Rxe7 Rxc3 20. Bb4
+Rcc8 21. Bd5 Nf6 22. Bb3 Bc4 23. Rxb7 Rb8 24. Rxb8 Rxb8 25. Bd6 Rc8 26. Rc1 Be6
+27. Rxc8+ Bxc8 28. f3 Bb7 29. Kf2 Nd7 30. Ke3 g5 31. a4 a5 32. Bc4 Nb6 33. Bb5
+Kg7 34. Kd4 Bxf3 35. Bc7 Nc8 36. Bxa5 Na7 37. Ke3 Bb7 38. Bc3+ f6 39. Bd3 h5
+40. a5 1-0

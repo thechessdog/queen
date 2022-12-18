@@ -1,0 +1,16 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bloch, M."]
+[Black "Tuominen, H."]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "a120dd1e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 e6 5. Bxc4 Nf6 6. Qa4+ Bd7 7. Qb3 exd5
+8. exd5 Bd6 9. Qxb7 O-O 10. Nc3 Qb6 11. Qxb6 a6 12. Nge2 h6 13. Qxd6 1-0
+

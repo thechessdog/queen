@@ -1,0 +1,19 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Hernandez, Alberto COL"]
+[Black "Pecorelli Garcia, Humberto"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "9ea5765f"]
+[Epoch "Queen"]
+[WhiteID "4418506"]
+[WhiteCountry "COL"]
+[BlackID "3500233"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8. h3
+dxc4 9. Bxc4 Qe8 10. Re1 e5 11. e4 exd4 12. Nxd4 Ne5 1/2-1/2

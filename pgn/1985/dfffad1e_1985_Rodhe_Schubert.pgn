@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rodhe"]
+[Black "Schubert"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "dfffad1e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 dxe4 6. Nxe4 Bd7 7. d5 Qa5+
+8. Nc3 exd5 9. Qe2+ Nge7 10. Bd2 Qd8 11. Nxd5 a6 12. Ng5 Bf5 13. Bxc6+ bxc6
+14. Ne3 Bg6 15. O-O-O Qc7 16. Nc4 h6 17. Nh3 1-0
+

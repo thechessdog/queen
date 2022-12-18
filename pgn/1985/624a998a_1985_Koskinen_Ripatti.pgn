@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Ripatti"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "624a998a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2
+Qc7 8. h3 Bh5 9. O-O Nd7 10. d5 O-O-O 11. Qd4 Ne5 12. c4 Nxf3+ 13. gxf3
+Rg8+ 14. Kh1 Qd7 15. Qh4 Qf5 16. Bf4 e5 17. Bg3 Bxf3+ 18. Bxf3 Qxf3+ 19.
+Kh2 f5 20. Rg1 f4 21. Qxd8+ Kxd8 22. Bh4+ Kc7 23. Rxg8 Bc5 24. Rag1 Bxf2
+25. Bxf2 Qxf2+ 26. R1g2 Qh4 27. R8g7 Qf6 0-1
+

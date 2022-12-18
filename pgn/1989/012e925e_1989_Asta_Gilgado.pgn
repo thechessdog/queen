@@ -1,0 +1,23 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Asta, F."]
+[Black "Gilgado, J."]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "012e925e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. Be2 e6 7. Bg5 Be7 8. O-O
+O-O 9. f4 h6 10. Bxf6 Bxf6 11. Bc4 Qb6 12. e5 dxe5 13. Ne4 Qxd4+ 14. Qxd4 exd4
+15. Nc5 Nc6 16. Bd3 b6 17. Na4 Rb8 18. a3 Bd7 19. Bxa6 Na7 20. b3 Bxa4 21. bxa4
+b5 22. Rab1 bxa4 23. Rfd1 Rxb1 24. Rxb1 Nc6 25. Bd3 Be7 26. Be4 Rc8 27. Rb6 d3
+28. Kf1 d2 29. Bf3 Nd4 30. Rb7 Bxa3 31. Rd7 Bb2 32. Bd1 a3 33. Ra7 Nxc2 34. Ke2
+Bc1 35. h3 Rc3 36. Rd7 Re3+ 37. Kf2 Re4 38. Bxc2 Rxf4+ 39. Ke2 a2 40. Ra7 Rc4
+41. Rxa2 f6 42. Ra7 Rd4 43. Re7 Rd6 44. Kd1 Kf8 45. Rb7 Rd5 46. Bg6 Re5 47. Rd7
+Re1+ 48. Kc2 Re2 49. Kd1 Rxg2 50. Be4 Rg1+ 51. Kc2 f5 52. Bf3 Rg3 53. Bc6 f4
+54. Rd8+ Ke7 55. Rd7+ Kf6 56. Rd6 Ke5 57. Rd8 Rg1 58. Bb7 Rf1 59. h4 f3 60. h5
+f2 61. Bg2 Rg1 0-1

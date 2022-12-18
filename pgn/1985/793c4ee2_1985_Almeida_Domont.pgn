@@ -1,0 +1,21 @@
+[Event "WchT U26"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Almeida, Jose T"]
+[Black "Domont, Alexandre"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "793c4ee2"]
+[Epoch "Queen"]
+[WhiteID "1900420"]
+[WhiteCountry "POR"]
+[BlackID "1300172"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 Ng6 7. c3 Be7 8. d4
+cxd4 9. cxd4 d5 10. e5 O-O 11. Nc3 b5 12. Bd3 f5 13. exf6 Rxf6 14. Ne5 Ngxe5
+15. dxe5 Rf7 16. Re3 g6 17. Re2 Bc5 18. Bd2 Qh4 19. Be1 Bb7 20. Rc1 Bd4 21. Nb1
+Raf8 22. Rcc2 Bxe5 23. g3 Qh5 24. Bc3 Rxf2 0-1

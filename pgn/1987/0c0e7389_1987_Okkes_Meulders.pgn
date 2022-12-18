@@ -1,0 +1,20 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Okkes, Menno"]
+[Black "Meulders, Richard"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "0c0e7389"]
+[Epoch "Queen"]
+[WhiteID "1000756"]
+[BlackID "200123"]
+[WhiteCountry "NED"]
+[BlackCountry "BEL"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 Bb4 5. Nd5 Bc5 6. Bg2 d6 7. O-O O-O 8. e3
+Nxd5 9. cxd5 Ne7 10. d4 exd4 11. Nxd4 Nf5 12. Nc2 Qf6 13. Rb1 Re8 14. e4 Nh6
+15. Be3 Bxe3 16. Nxe3 Bd7 17. h3 Qg5 18. Rc1 1/2-1/2

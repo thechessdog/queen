@@ -1,0 +1,23 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fuka"]
+[Black "Hromada"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "7c94b1f8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3
+O-O 8. Qc2 Re8+ 9. Ne2 Kh8 10. O-O Nd7 11. Bf4 Nf8 12. Bxd6 Qxd6 13. Ng3
+Qf4 14. Qb3 Qc7 15. Rfe1 Be6 16. Qa3 Red8 17. Re3 Rd5 18. Bc4 Ra5 19. Qb4
+f5 20. Ree1 c5 21. dxc5 Rxc5 22. Bxe6 Nxe6 23. Rad1 a5 24. Qh4 Rc4 25. Qh5
+g6 26. Qe2 a4 27. a3 Rc8 28. Rd2 Nf4 29. Qe7 Qc6 30. f3 Qb6+ 31. Kh1 Kg8
+32. Red1 Ne6 33. Rd7 Rf8 34. Rxb7 Qf2 35. Rf1 Qc2 36. Kg1 Rc6 37. Qd7 Nf4
+38. Rf2 Qb1+ 39. Nf1 Re6 40. Qd2 g5 41. h4 Re1 42. Rd7 Ne2+ 43. Kh2 f4 44.
+Re7 h6 45. Rexe2 Rd1 46. Qc2 Rxf1 47. Rxf1 Qxf1 48. hxg5 Rd8 49. gxh6 Kf8
+50. Qe4 1-0
+

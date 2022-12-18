@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Arnhold, A."]
+[Black "Muster, F."]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "92f17734"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8.
+c3 d5 9. exd5 Nxd5 10. a4 b4 11. d3 Bf6 12. Be3 Bb7 13. Bc5 Re8 14. Bxd5
+Qxd5 15. cxb4 Rad8 16. Nc3 Qxd3 17. Qxd3 Rxd3 18. Rad1 Rxd1 19. Nxd1 Re6
+20. Nc3 Nd4 21. Nd2 h6 22. Nce4 Bh4 23. Ng3 Bc6 24. Nc4 Bxa4 25. Rxe5 Rxe5
+26. Nxe5 Ne6 27. Be3 Bf6 28. f4 Be7 29. Bd2 Nd4 30. Ne4 Bb5 31. Nc5 a5 32.
+Ned3 axb4 0-1
+

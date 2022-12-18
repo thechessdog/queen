@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Flockert, Ruediger"]
+[Black "Oepen, Lothar"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[HashCode "0c7a897a"]
+[Epoch "Queen"]
+[BlackID "4617037"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Qc2 h6 8. Bh4
+Ne4 9. Bxe7 Qxe7 10. Nxd5 cxd5 11. Qxc8+ Qd8 12. Bb5+ Ke7 13. Qxb7+ Ke6 14. b4
+Nd6 15. Qxa8 Qb6 16. a4 Rc8 17. Ne2 g5 18. Rc1 Rxc1+ 19. Nxc1 Qc7 20. O-O 1-0

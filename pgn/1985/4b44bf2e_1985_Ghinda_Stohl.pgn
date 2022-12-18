@@ -1,0 +1,23 @@
+[Event "DSV-Turnier"]
+[Site "Potsdam"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Ghinda, Mihail-Viorel"]
+[Black "Stohl, Igor"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "4b44bf2e"]
+[Epoch "Queen"]
+[BlackID "14900025"]
+[BlackCountry "SVK"]
+[WhiteCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 a6 7. a3 Be7 8. Ba2
+b5 9. Be3 O-O 10. Qf3 Bb7 11. O-O-O Nbd7 12. Qg3 Rc8 13. f3 Rxc3 14. bxc3 d5
+15. exd5 Bxa3+ 16. Kb1 Bxd5 17. Nb3 Qc7 18. Bd2 Rc8 19. Rhe1 Nb6 20. Qh4 Na4
+21. Qd4 Bb2 22. Qe5 Qc6 23. Nd4 Bxa2+ 24. Kxa2 Qc4+ 25. Kb1 Bxc3 26. Bxc3 Qxc3
+27. Kc1 Nb6 28. Re3 Qa1+ 29. Kd2 Nc4+ 30. Ke2 Qb2 31. Qg3 Nxe3 32. Kxe3 b4 33.
+Qd6 h6 34. Qxa6 Rc3+ 35. Rd3 b3 36. Nxb3 Nd5+ 37. Ke4 Rxc2 38. Qa8+ Kh7 39. Nd4
+Re2+ 40. Nxe2 f5# 0-1

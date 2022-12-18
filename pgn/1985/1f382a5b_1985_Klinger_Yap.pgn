@@ -1,0 +1,17 @@
+[Event "Szirak"]
+[Site "Szirak"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klinger, Josef"]
+[Black "Yap, Andromico"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "1f382a5b"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Nc3 Be7 8. f4
+Bc5 1-0

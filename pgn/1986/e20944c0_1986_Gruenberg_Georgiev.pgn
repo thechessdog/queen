@@ -1,0 +1,19 @@
+[Event "BUL-DDR"]
+[Site "Sofia"]
+[Date "1986.??.??"]
+[Round "1"]
+[White "Gruenberg, Hans-Ulrich"]
+[Black "Georgiev, Krum"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "e20944c0"]
+[Epoch "Queen"]
+[BlackID "2900092"]
+[WhiteCountry "GER"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. Be3
+Re8 9. dxe5 dxe5 10. Qxd8 Nxd8 11. Nb5 Ne6 12. Ng5 Re7 13. Nxe6 Bxe6 14. f3 c6
+15. Nc3 Rd7 16. a3 Bf8 1/2-1/2

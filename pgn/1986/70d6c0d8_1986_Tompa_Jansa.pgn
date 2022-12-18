@@ -1,0 +1,21 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tompa"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "70d6c0d8"]
+[Epoch "Queen"]
+[BlackID "300128"]
+[BlackCountry "CZE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Be2 Nbd7 5. Nf3 e5 6. a4 Be7 7. O-O O-O 8. h3
+Re8 9. Bc4 h6 10. dxe5 dxe5 11. Qe2 a5 12. Ba2 Bc5 13. Rd1 Qe7 14. Nh4 Nf8 15.
+Nf5 Bxf5 16. exf5 e4 17. Be3 Bxe3 18. fxe3 Qc5 19. Rd4 Qxf5 20. Rf1 Qe5 21. Qc4
+Re6 22. Rf4 Ng6 23. Rf2 Rf8 24. Qf1 Re7 25. Ne2 Qg5 26. Kh1 Qxe3 27. Rd6 Kh7
+28. Rfxf6 gxf6 29. Qxf6 Qg5 30. Qf2 Qe5 31. Rxg6 Kxg6 32. Nf4+ Kh7 33. Qh4 Qg5
+0-1

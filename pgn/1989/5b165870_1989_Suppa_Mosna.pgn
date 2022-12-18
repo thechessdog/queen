@@ -1,0 +1,18 @@
+[Event "San Benedetto"]
+[Site "San Benedetto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Suppa, E."]
+[Black "Mosna, S."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "5b165870"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Bg4
+8. Be3 Be7 9. c3 Qd6 10. Re1 O-O 11. Nbd2 f5 12. Nf1 Rae8 13. c4 f4 14. Bd2
+Bh4 15. cxd5 Bxf2+ 16. Kh1 Qxd5 17. Rxe4 Rxe4 18. Qc2 Rxd4 19. Nxd4 Nxd4
+20. Qxc7 f3 21. g3 Bh3 22. Ne3 Bg2+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rohricht"]
+[Black "Straathof"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind - Bronstein variation"]
+[HashCode "f8c8c106"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8.
+Bc2 Qc7 9. O-O O-O 10. Bg5 Nxd4 11. Bxf6 Nxc2 12. Qg4 g6 13. Qg5 Re8 14.
+Rac1 Na3 15. bxa3 Bxa3 16. e5 Qxc4 17. Rfe1 Bf8 18. Re4 h6 19. Rh4 Kh7 20.
+Qd2 Qc5 21. Ne4 Qd5 22. Qxh6+ 1-0
+

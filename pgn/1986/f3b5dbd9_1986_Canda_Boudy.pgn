@@ -1,0 +1,19 @@
+[Event "Massachusetts"]
+[Site "Massachusetts"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Canda, Danilo"]
+[Black "Boudy Bueno, Julio Leonardo"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "f3b5dbd9"]
+[Epoch "Queen"]
+[WhiteID "6100015"]
+[WhiteCountry "NCA"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bd3
+Nbd7 9. Qe2 b5 10. O-O-O Bb7 11. Rhe1 b4 12. Nd5 Nxd5 13. exd5 Bxd5 14. Be4 Bc4
+15. Nxe6 1-0

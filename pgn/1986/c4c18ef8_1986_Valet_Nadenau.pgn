@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Valet, R."]
+[Black "Nadenau, O."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c4c18ef8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Be3 Nd4 10. Qd2 Rb8 11. Rae1 b5 12. Nd1 Qc7 13. Nh4 b4 14. c3
+bxc3 15. bxc3 Ndc6 16. Bf2 Qa5 17. f5 Ne5 18. h3 exf5 19. exf5 Nxf5 20.
+Nxf5 Bxf5 0-1
+

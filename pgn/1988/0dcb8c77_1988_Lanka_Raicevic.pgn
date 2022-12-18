@@ -1,0 +1,22 @@
+[Event "Tirnavia-C"]
+[Site "Trnava"]
+[Date "1988.01.01"]
+[Round "11"]
+[White "Lanka, Zigurds"]
+[Black "Raicevic, Momcilo"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "0dcb8c77"]
+[Epoch "Queen"]
+[WhiteID "11600047"]
+[WhiteCountry "LAT"]
+[BlackID "901040"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. f3
+Be6 9. Qd2 Qc7 10. g4 O-O 11. h4 b5 12. O-O-O Nbd7 13. h5 b4 14. Nd5 Bxd5 15.
+exd5 Nb6 16. Bxb6 Qxb6 17. g5 Ne8 18. Kb1 f6 19. g6 h6 20. Bh3 a5 21. Rhe1 Nc7
+22. Nd4 f5 23. Nxf5 Bg5 24. Qd3 Nb5 25. Ka1 Rac8 26. f4 exf4 27. Ne7+ Bxe7 28.
+Rxe7 Rc7 29. Be6+ Kh8 30. Bd7 Rb7 31. Rde1 Nc7 32. Qe4 Qf2 33. Rxg7 1-0

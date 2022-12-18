@@ -1,0 +1,23 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuhn, Daniel"]
+[Black "Kauschmann, Herbert"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "fd6f46b8"]
+[Epoch "Queen"]
+[BlackID "4606523"]
+[BlackCountry "GER"]
+[WhiteID "1270950"]
+[WhiteCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Nb4 9. Bc4 e6 10. a3 exd5 11. axb4 dxc4 12. bxc5 dxc5 13. Qe2 Be6 14. Rd1 Qe8
+15. e5 Nh5 16. Ng5 Qc8 17. Nxe6 fxe6 18. Qxc4 Bh6 19. g3 Ng7 20. g4 Ne8 21. g5
+Bg7 22. Be3 b6 23. Qe4 Nc7 24. Qc6 Rf7 25. Rd2 Re7 26. Rad1 Qe8 27. Rd7 Rc8 28.
+R1d6 Bf8 29. Ne4 Nd5 30. Qxd5 Qxd7 31. Nf6+ Kh8 32. Qd1 Qc7 33. c4 Bg7 34. Bd2
+Bxf6 35. gxf6 Ree8 36. Bc3 Red8 37. Qg4 Rxd6 38. exd6 Qf7 39. Qxe6 1-0

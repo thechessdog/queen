@@ -1,0 +1,26 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Huenerkopf, Heinz"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "e355b75b"]
+[Epoch "Queen"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Qb6 7. Nxf6+ Qxf6
+8. c3 d6 9. g3 cxd4 10. Nxd4 Nc6 11. Bg2 Bd7 12. Qb3 Nxd4 13. cxd4 Qxd4 14.
+Qxb7 Rc8 15. O-O Qb6 16. Rfc1 Rxc1+ 17. Rxc1 Qxb7 18. Bxb7 e5 19. Bd5 Ke7 20.
+Rc7 a5 21. Bc6 Rd8 22. Ra7 Ke6 23. Bxd7+ Rxd7 24. Rxa5 Rc7 25. Rb5 Rc1+ 26. Kg2
+Ra1 27. a3 d5 28. Rb6+ Kd7 29. g4 f5 30. gxf5 gxf5 31. e3 Ra2 32. Kf3 Kc7 33.
+Rb4 Kc6 34. a4 Kc5 35. Rb5+ Kc6 36. b3 e4+ 37. Kg3 f4+ 38. Kxf4 Rxf2+ 39. Ke5
+Rxh2 40. b4 Re2 41. Rxd5 Rxe3 42. b5+ Kb6 43. Rd6+ Kc7 44. Rd4 Kb6 45. Rxe4 Rg3
+46. Kd5 Ka5 47. Rd4 Rg7 48. Kc6 Rg8 49. Rd7 Rc8+ 50. Rc7 Ra8 51. b6 Ka6 52.
+Rxh7 1-0

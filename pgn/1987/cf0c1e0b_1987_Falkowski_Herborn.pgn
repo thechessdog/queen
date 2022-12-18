@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Falkowski, W."]
+[Black "Herborn, H."]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "cf0c1e0b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. a3 Bb7 12. Bxf6 gxf6 13. h4 Rc8 14. g5
+Nc5 15. Bg2 e5 16. fxe5 fxe5 17. Nf5 Rg8 18. Qh5 Rh8 19. Rhf1 Bf8 20. Rf2
+Ne6 21. Nxd6+ Bxd6 22. Rxd6 Nf4 23. Qd1 Rd8 24. Rxd8+ Qxd8 25. Rd2 Qb6 26.
+Bf3 Kf8 27. h5 h6 28. g6 Kg7 29. Rd6 Qe3+ 30. Kb1 Bc8 31. Bg4 Ne6 32. gxf7
+Kxf7 33. Rd7+ 1-0
+

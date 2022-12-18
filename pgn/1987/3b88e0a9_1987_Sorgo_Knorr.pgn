@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sorgo, R."]
+[Black "Knorr, B."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "3b88e0a9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 Nf6 4. d4 exd4 5. exf5 d5 6. Bd3 Qe7+ 7. Qe2
+Qxe2+ 8. Kxe2 c5 9. b3 Bd6 10. Re1 O-O 11. Kf1 Nc6 12. Ba3 Ne8 13. c3 dxc3
+14. Nxc3 Bxf5 0-1
+

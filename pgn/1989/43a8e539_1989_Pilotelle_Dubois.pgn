@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pilotelle, Barbara"]
+[Black "Dubois, Martine"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "43a8e539"]
+[Epoch "Queen"]
+[WhiteID "604607"]
+[BlackID "601926"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Nd4 Nf6 5. d3 Bc5 6. dxe4 O-O 7. Bg5 Re8 8.
+Bxf6 Qxf6 9. Nf3 Qb6 10. Bd3 Bxf2+ 11. Kf1 Qxb2 12. Nbd2 Bc5 13. e5 Bg4 14. Nc4
+Bxf3 15. gxf3 Qd4 16. Kg2 f5 17. Nd2 Qf2+ 18. Kh3 Rxe5 19. f4 Re3+ 0-1

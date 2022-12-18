@@ -1,0 +1,18 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "6cbed692"]
+[Epoch "Queen"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+[WhiteCountry "ISL"]
+
+1. e4 c6 2. d3 g6 3. Nf3 Bg7 4. g3 e5 5. Bg2 Ne7 6. O-O O-O 7. Nbd2 f5 8. Re1
+d6 9. c3 Kh8 10. Qb3 Na6 11. d4 fxe4 12. Nxe4 d5 1/2-1/2

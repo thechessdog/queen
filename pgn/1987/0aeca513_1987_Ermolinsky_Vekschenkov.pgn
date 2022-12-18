@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Yermolinsky, Alex"]
+[Black "Vekshenkov, Nikolai"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Tolush-Geller gambit"]
+[HashCode "0aeca513"]
+[Epoch "Queen"]
+[WhiteID "2005492"]
+[BlackID "4103556"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. a4 e6 8. axb5
+Bb4 9. Bd2 Bxc3 10. bxc3 cxb5 11. Ng5 Bb7 12. Qh5 Qe7 13. Be2 h6 14. Ne4 Nf4
+15. Bxf4 Bxe4 16. Qg4 Nc6 17. Bxh6 Rxh6 18. Qxe4 Rc8 19. O-O Qd7 20. Ra6 Ne7
+21. Rfa1 Rc7 22. Qb1 Nd5 23. Rd6 Qc8 24. Qxb5+ Kf8 25. Bf3 Nb6 26. Rxb6 1-0

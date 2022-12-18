@@ -1,0 +1,16 @@
+[Event "Kehl AT4"]
+[Site "Kehl AT4"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Scherer, Mat"]
+[Black "Recker, U."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b2f09c6a"]
+[Epoch "Queen"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. g4 Bg6 5. h4 h5 6. e6 hxg4 7. Bd3 Bh5 8. Ne2
+Qd6 9. exf7+ Bxf7 10. Bf4 Qe6 1-0
+

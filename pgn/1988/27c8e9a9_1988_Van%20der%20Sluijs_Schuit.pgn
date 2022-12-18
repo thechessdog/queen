@@ -1,0 +1,18 @@
+[Event "ACCOM op2"]
+[Site "Haarlem"]
+[Date "1988.??.??"]
+[Round "7"]
+[White "Van der Sluijs, L."]
+[Black "Schuit, A."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "27c8e9a9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. Qxf4
+Bd6 8. Qe3+ Be6 9. Nf3 O-O 10. O-O Ng4 11. Qe2 Re8 12. Bxc6 bxc6 13. d4 Bd5
+14. Ne5 Nxe5 15. dxe5 Rxe5 16. Qd3 Qh4 17. Nc3 Rh5 18. Qh3 Bc5+ 19. Kh1
+Qxh3 0-1
+

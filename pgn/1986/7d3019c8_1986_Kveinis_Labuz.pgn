@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kveinis, A."]
+[Black "Labuz, L."]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "7d3019c8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Be3 b5 8.
+Qf3 Bb7 9. Bd3 Nbd7 10. g4 b4 11. Nce2 e5 12. Nb3 d5 13. Ng3 dxe4 14. Nxe4
+Nd5 15. O-O-O Qc7 16. f5 Be7 17. g5 Nxe3 18. Qxe3 h6 19. h4 hxg5 20. hxg5
+O-O-O 21. Kb1 Rxh1 22. Rxh1 Nc5 23. f6 gxf6 24. gxf6 Bf8 25. Nbxc5 Bxc5 26.
+Nxc5 Rxd3 0-1
+

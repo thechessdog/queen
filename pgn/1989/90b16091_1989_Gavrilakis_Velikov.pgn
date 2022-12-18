@@ -1,0 +1,20 @@
+[Event "Athens Akropolis"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gavrilakis, Nikolaos"]
+[Black "Velikov, Petar"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "90b16091"]
+[Epoch "Queen"]
+[WhiteID "4200063"]
+[BlackID "2900149"]
+[WhiteCountry "GRE"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+Nbd7 9. Nc3 g6 10. Nf3 Bg7 11. Bf4 O-O 12. Rac1 b6 13. Rfd1 Nh5 14. Bg5 Bb7 15.
+Qd2 Rfe8 16. Be2 Bf8 17. Ne1 Ng7 1/2-1/2

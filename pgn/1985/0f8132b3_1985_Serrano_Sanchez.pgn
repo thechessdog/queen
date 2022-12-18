@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Serrano"]
+[Black "Sanchez Varo"]
+[Result "1-0"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "0f8132b3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Bg4
+8. Nbd2 Nd7 9. h3 Bh5 10. g4 Bg6 11. Nc4 Bf6 12. g5 Be7 13. Ncxe5 Bh5 14.
+Ng4 f6 15. gxf6 Nxf6 16. Nfe5 g6 17. Nxf6+ Bxf6 18. Ng4 Bg7 19. Qf3 Rf8 20.
+Qg3 Qe7 21. Bh6 Bxh6 22. Nxh6 Rf3 23. Qg2 Qh4 24. Ng4 Rxh3 25. Nh2 Ke7 26.
+Rae1 Rf8 27. Re3 Rxe3 28. fxe3 Rxf1+ 29. Nxf1 Qg4 30. Qg3 Qxg3+ 31. Nxg3
+Bg4 32. Kg2 h5 33. Nh1 Be6 34. b3 Kf6 35. Nf2 g5 36. d4 b6 37. Nd3 a5 38.
+Nf2 g4 39. Nd3 h4 40. Nf4 h3+ 41. Kg3 Ke7 42. c4 Kd6 43. Nd3 Bd7 44. e5+
+Ke7 45. e4 Kf7 46. Nf2 Kg6 47. d5 cxd5 48. cxd5 Kg5 49. e6 Be8 50. Nxg4 h2
+51. Nxh2 Kf6 52. Kf4 c6 53. Ng4+ 1-0
+

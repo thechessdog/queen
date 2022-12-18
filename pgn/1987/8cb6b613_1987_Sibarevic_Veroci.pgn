@@ -1,0 +1,19 @@
+[Event "Banja Luka"]
+[Site "Banja Luka"]
+[Date "1987.01.01"]
+[Round "13"]
+[White "Sibarevic, Milenko"]
+[Black "Veroci, Zsuzsa"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "8cb6b613"]
+[Epoch "Queen"]
+[WhiteID "901563"]
+[WhiteCountry "BIH"]
+[BlackID "701068"]
+[BlackCountry "HUN"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. Be2 O-O 6. Nf3 Nbd7 7. O-O e5 8. Re1
+c6 9. h3 exd4 10. Nxd4 Re8 11. Bf1 Nc5 12. Qc2 a5 13. Bf4 Nh5 1/2-1/2

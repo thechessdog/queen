@@ -1,0 +1,25 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hejberg, Carsten"]
+[Black "Nilsson, Zandor"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "1c933a90"]
+[Epoch "Queen"]
+[WhiteID "1404520"]
+[WhiteCountry "DEN"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 d5 4. cxd5 Nxd5 5. e4 Nf6 6. Nf3 Bg7 7. Be2 c6 8. O-O
+O-O 9. h3 Nbd7 10. Be3 Re8 11. e5 Nd5 12. Nxd5 cxd5 13. Qd2 f6 14. Bf4 fxe5 15.
+dxe5 Nc5 16. Bh6 Bh8 17. Qe3 Qb6 18. Rfc1 Ne6 19. Qxb6 axb6 20. Rc3 Bd7 21. a3
+Rec8 22. Rac1 Rc5 23. b4 Rxc3 24. Rxc3 b5 25. Bd1 Bc6 26. Rd3 Nf8 27. Bb3 e6
+28. Bxf8 Kxf8 29. Ba2 Ke7 30. Re3 Bd7 31. Rc3 Rc8 32. Rxc8 Bxc8 33. Kf1 Bd7 34.
+Ke2 Bc6 35. Kd3 Bg7 36. Kd4 Kd7 37. g4 Kc7 38. Ng5 Kd7 39. Nxh7 Ke7 40. g5 Kf7
+41. Nf6 Bf8 42. Bb1 Be7 43. h4 Bf8 44. h5 gxh5 45. Nxh5 Be7 46. f4 Bf8 47. Bd3
+Be7 48. Ng3 Kg7 49. Ne2 Be8 50. Nc3 Bd8 51. Kc5 Be7+ 52. Kb6 Bg6 53. Bxg6 Kxg6
+54. Nxb5 Kf5 55. Nd4+ Kxf4 56. g6 Kxe5 57. g7 Kxd4 58. g8=Q e5 59. Qg4+ e4 60.
+Qg7+ Kd3 61. Qxe7 e3 62. Kc5 e2 63. Kxd5 1-0

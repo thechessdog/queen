@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hobusch"]
+[Black "Koppe"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "2dedd9ea"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Nxb5 axb5 12. Bxb5 Bd7 13. exf5 Bg7
+14. a4 O-O 15. Ra3 Kh8 16. Qh5 Nd4 17. f6 Nxc2+ 18. Kd1 Nxa3 19. Bxd7 Ra5
+20. Ne7 e4 21. Bf5 h6 22. Ng6+ Kg8 23. Ne7+ Kh8 24. fxg7+ Kxg7 25. Qg4+ Kh8
+26. Qh3 Kg7 27. Qc3+ f6 28. Qg3+ Kh8 29. Ng6+ Kg7 30. Ne5+ Kh8 31. Qg6
+dxe5+ 0-1
+

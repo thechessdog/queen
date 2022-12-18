@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Villadsen, Leo"]
+[Black "Hansen, Soren Bech"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence, Steiner variation"]
+[HashCode "a48c66f9"]
+[Epoch "Queen"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. c4 e6 2. e4 b6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nc3 Bg7 8. Bb5+
+Nd7 9. Bc6 Rb8 10. Nb5 Qe7 11. O-O a6 12. Na7 Bb7 13. Bxb7 Rxb7 14. Nc6 Qf6 15.
+Qe2 b5 16. Rb1 h6 17. Re1 Ne7 18. b3 Ne5 19. Nfxe5 dxe5 20. Nxe7 Qxe7 21. Bb2
+O-O 22. f4 Re8 23. Qf3 Qd6 24. f5 g5 25. Rf1 f6 26. h4 c4 27. bxc4 Qc5+ 28. Kh2
+bxc4 29. Ba3 Qc8 30. hxg5 hxg5 31. Qc3 Bf8 32. Rxb7 Qxb7 33. Bxf8 Qh7+ 34. Kg1
+Qa7+ 35. Kh1 Qh7+ 36. Kg1 Qa7+ 37. Rf2 Rxf8 38. Qxc4 Rb8 39. d6+ Kf8 40. Qc2
+Ke8 41. Kh2 Qh7+ 42. Kg3 Qh4+ 43. Kf3 Qf4+ 44. Ke2 Qg4+ 45. Kf1 Rd8 46. Qc6+
+Rd7 47. Qc8+ Rd8 48. Qe6+ Kf8 49. Qxf6+ Kg8 50. Qxd8+ Kh7 51. Qe7+ Kh6 52. Qf8+
+Kh7 53. Rf3 Qxg2+ 54. Kxg2 g4 55. f6 gxf3+ 56. Kxf3 a5 57. Qg7# 1-0

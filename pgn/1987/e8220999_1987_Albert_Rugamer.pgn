@@ -1,0 +1,16 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Albert, Ch"]
+[Black "Rugamer"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "e8220999"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bg4 5. Be2 Nf6 6. O-O Be7 7. h3 Bxf3
+8. Bxf3 O-O 9. Re1 Re8 10. Bg5 c6 1/2-1/2
+

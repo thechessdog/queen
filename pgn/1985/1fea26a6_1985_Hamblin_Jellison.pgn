@@ -1,0 +1,17 @@
+[Event "Boulder"]
+[Site "Boulder"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hamblin, J."]
+[Black "Jellison, D."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "Keene's defence"]
+[HashCode "1fea26a6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qe7 4. fxe5 d6 5. Nc3 dxe5 6. Nf3 Bg4 7. h3 Bd7
+8. Nd5 Qd6 9. d4 f6 10. c4 Bc6 11. dxe5 fxe5 12. c5 Qxc5 13. Nxc7+ Ke7 14.
+Nxa8 Bxe4 15. Bg5+ Kf7 16. Rc1 Qa5+ 17. Bd2 1-0
+

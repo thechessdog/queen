@@ -1,0 +1,17 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ilic, Zoran"]
+[Black "Ilincic, Zlatko"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "cb7a3eda"]
+[Epoch "Queen"]
+[WhiteID "15001350"]
+[WhiteCountry "MKD"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. d5 Na5 10. e4 c6 11. Bf4 cxd5 12. exd5 Nac4 13. Qe2 Re8 14. Ne5 Nxe5
+15. Bxe5 Bxe5 16. Qxe5 Nc4 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Forte A"]
+[Black "Constellation 2 0"]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "743508f6"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 Ne5 9. b3 Re8 10. Qc2 d5 11. cxd5 Qxd5 12. Bg5 Neg4 13. Qd2 Be6 14.
+Qxd5 Nxd5 15. Bxe4 Nxc3 16. Bxb7 Nxe2+ 17. Kg2 Rab8 18. Bc6 Rec8 19. Nf3
+Rb6 20. Be4 Nc3 21. Rfe1 c6 22. Bc2 c5 23. Bd2 Nb5 24. Ng5 Nf6 25. Nxe6
+fxe6 26. Rac1 Nd4 27. Bd3 Kh8 28. Rcd1 Nd5 29. f4 Rd6 30. g4 Rf8 31. Rf1
+Nf6 32. g5 Nd5 33. Kg3 Nb4 34. Bxb4 cxb4 35. Rd2 Nc6 36. Rfd1 e5 37. fxe5
+Nxe5 38. Be4 Rxd2 39. Rxd2 Re8 40. Kf4 Kg8 41. Rd4 a5 42. Rd5 Ng4 43. Bd3
+h5 44. gxh6 Nxh6 45. Bc4 Kh7 46. Rxa5 Rf8+ 47. Ke4 Rf2 48. Bd3 Rxh2 49.
+Kd4+ Kg8 50. Kc5 g5 51. Kxb4 g4 52. Rg5+ Kf7 53. a4 Kf6 54. Rg6+ Ke5 55. a5
+Kf4 56. a6 Nf7 57. a7 Rh8 58. Rf6+ Ke3 59. Ba6 Ra8 60. Rxf7 Kd4 61. Bf1 g3
+62. Bg2 1-0
+

@@ -1,0 +1,20 @@
+[Event "Nordic-ch"]
+[Site "Gjovik"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "c37c5887"]
+[Epoch "Queen"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Ne4
+8. Qe2 Bf5 9. Rd1 Qe7 10. Nd4 Bg6 11. f3 Nc5 12. Nc3 Ne6 13. Be3 Nxd4 14. Bxd4
+Qe6 1/2-1/2

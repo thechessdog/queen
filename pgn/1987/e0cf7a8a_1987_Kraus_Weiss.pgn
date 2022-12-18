@@ -1,0 +1,19 @@
+[Event "Wuerzburg"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kraus"]
+[Black "Weiss"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "e0cf7a8a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. e4 O-O 6. Be2 e5 7. d5 a5 8. O-O
+Na6 9. a4 Nc5 10. Qc2 Nfd7 11. Ne1 f5 12. f4 fxe4 13. Nxe4 Nxe4 14. Qxe4
+Nc5 15. Qc2 Bf5 16. Qd1 Qd7 17. Nd3 b6 18. fxe5 Bxd3 19. Bxd3 Bxe5 20. Bc2
+Rxf1+ 21. Qxf1 Rf8 22. Qd1 Qf7 23. Be3 Bxb2 24. Rb1 Bc3 25. h3 Re8 26. Bxc5
+Re1+ 0-1
+

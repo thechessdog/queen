@@ -1,0 +1,20 @@
+[Event "JSS VanTS-JyvTS"]
+[Site "JSS VanTS-JyvTS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hintikka, Eero"]
+[Black "Kaki, Samuli"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "f923486f"]
+[Epoch "Queen"]
+[WhiteID "500615"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 b4 8. Bxf7+
+Kxf7 9. Qc4+ d5 10. Qxc5 Bb7 11. d3 h6 12. O-O Rf8 13. Nbd2 Kg8 14. Re1 Kh8 15.
+Nf1 dxe4 16. dxe4 Qe8 17. Ng3 Qe6 18. c3 a5 19. h3 Nd7 20. Qd5 Qe8 21. Qb5 Nb6
+22. Nh4 Qe6 23. Qe2 Rf7 24. Ngf5 Raf8 25. Qg4 Kh7 26. Nxh6 Qxg4 27. Nxg4 Bc8
+28. Nf3 1-0

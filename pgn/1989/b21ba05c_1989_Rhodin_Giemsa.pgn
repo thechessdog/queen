@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rhodin, Christian"]
+[Black "Giemsa, Stephan"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "b21ba05c"]
+[Epoch "Queen"]
+[WhiteID "4606051"]
+[BlackID "4606884"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O f5 7. Qe2 Qb6 8.
+f3 Nf6 9. fxe4 O-O 10. exf5 exf5 11. Nf3 Nc6 12. Qe1 Qc5 13. Qh4 Ne4 14. Nxe4
+fxe4 15. Qxe4 Bf5 16. Qc4+ Kh8 17. a3 1/2-1/2

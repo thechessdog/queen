@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tutzer"]
+[Black "Ponisch"]
+[Result "1-0"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "287b592f"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 c5 7. Qc2 Nc6
+8. Nf3 d6 9. Bd3 e5 10. d5 Ne7 11. O-O Kh8 12. e4 Ne8 13. Ne1 g6 14. Bh6
+Ng7 15. f4 f5 16. fxe5 dxe5 17. Nf3 Qd6 18. Rae1 f4 19. Qf2 Ng8 20. Qh4
+Nxh6 21. Qxh6 Qe7 22. d6 Qe6 23. Ng5 Qg8 24. g3 Nh5 25. Nxh7 Qxh7 26. Qxf8+
+Qg8 27. Qh6+ Qh7 28. Qxh7+ Kxh7 29. Be2 Nf6 30. gxf4 Bh3 31. Rf3 Bg4 32.
+Rf2 Be6 33. fxe5 Nxe4 34. Rf4 Ng5 35. Kg2 Kg7 36. Bg4 Bxc4 37. Rxc4 1-0
+

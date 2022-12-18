@@ -1,0 +1,18 @@
+[Event "WURT-MM8889"]
+[Site "WURT-MM8889"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hottes, D."]
+[Black "Escher, T."]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "f6331238"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 d6 3. c4 Nc6 4. Nc3 g6 5. g3 Bg7 6. Bg2 f5 7. e3 Nf6 8. d4
+e4 9. Qd2 O-O 10. Nge2 Bd7 11. Nf4 Rb8 12. O-O a6 13. f3 exf3 14. Bxf3 Re8
+15. Rae1 b5 16. cxb5 axb5 17. Nfd5 Nxd5 18. Nxd5 Ne7 19. Nf4 Kh8 20. Re2
+Ng8 21. Rc1 Rc8 22. Bb7 Rb8 23. Bf3 Rc8 24. Bb7 Rb8 25. Bf3 1/2-1/2
+

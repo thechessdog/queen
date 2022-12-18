@@ -1,0 +1,18 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Quist"]
+[Black "Podolsky"]
+[Result "1-0"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "cba04ddf"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 d6 5. a3 Bxc3 6. Qxc3 O-O 7. b4 e5 8.
+Bb2 Bg4 9. h3 Bh5 10. g4 Bg6 11. Bg2 Nc6 12. O-O Qe7 13. Nh4 Be4 14. g5 Nd4
+15. Rae1 Nh5 16. Bxe4 Qxg5+ 17. Ng2 Nf4 18. Qe3 c5 19. Bxd4 cxd4 20. Qg3
+Qxg3 21. fxg3 1-0
+

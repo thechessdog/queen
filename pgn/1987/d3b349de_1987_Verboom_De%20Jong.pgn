@@ -1,0 +1,20 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Verboom, B."]
+[Black "De Jong, Peter"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "d3b349de"]
+[Epoch "Queen"]
+[BlackID "1033514"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3 8.
+Qxd3 Qc7 9. O-O Ngf6 10. c4 e6 11. b3 Be7 12. Bb2 O-O 13. Rfe1 Rad8 14. Qc2
+Rfe8 15. Rad1 Bd6 16. Re2 Nf8 17. d5 Bxg3 18. hxg3 cxd5 19. Bxf6 gxf6 20. Qb2
+dxc4 21. Rc1 c3 22. Rxc3 Rd1+ 23. Kh2 Qa5 24. Rc4 Ng6 25. Rec2 Qh5+ 26. Nh4 Ne5
+27. Rc8 Ng4+ 28. Kh3 Rh1# 0-1

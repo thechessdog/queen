@@ -1,0 +1,20 @@
+[Event "Lloyds Bank op"]
+[Site "London"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Raoof, Adam N"]
+[Black "Drakeford, David"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "36a5ccb8"]
+[Epoch "Queen"]
+[BlackID "2500558"]
+[BlackCountry "IRL"]
+[WhiteID "405230"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. O-O Bxd2
+8. Bxd2 Nge7 9. Qb3 O-O 10. e5 Ng6 11. Rae1 Qe7 12. e6 f6 13. Bd5 Nge5 14. Nxe5
+fxe5 15. Bg5 Rf6 16. Bxf6 gxf6 17. f4 Kh8 18. fxe5 Nxe5 19. Rxe5 fxe5 20. Qg3
+Qg7 21. Rf8+ Qxf8 22. e7 1-0

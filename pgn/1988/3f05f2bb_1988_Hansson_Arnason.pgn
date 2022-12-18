@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Arnason, Jon L"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "3f05f2bb"]
+[Epoch "Queen"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d6 9. d4 h6 10. Rd1 Bd7 11. Nbd2 Re8 12. d5 Na5 13. Bc2 c6 14. b4 Nb7 15. a4
+cxd5 16. exd5 Qc7 17. Bb2 Nxd5 18. Qd3 Nf6 19. Ne4 g6 20. axb5 Bxb5 21. Qe3
+Nxe4 22. Bxe4 Bf8 23. Bd5 Bc4 24. Qe4 Bxd5 25. Qxd5 Rec8 26. Nd2 Qc6 27. Ne4
+Kg7 28. Qd3 f5 29. Nd2 Kh7 30. g4 e4 31. Qh3 f4 32. Nb3 d5 33. Nd4 Qd7 34. f3
+e3 35. Qf1 Nd6 36. Rxa6 Nc4 37. Re6 Nxb2 38. Rb1 Nc4 39. Qd3 Qf7 40. h4 Re8 41.
+Rc6 Ne5 0-1

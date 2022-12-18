@@ -1,0 +1,22 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Corkett"]
+[Black "Jones"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "e0712b8a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8.
+cxd4 Bb4+ 9. Kf2 Nb6 10. g4 Bd7 11. Ne2 Be7 12. h4 f6 13. b3 Qc7 14. a3
+O-O-O 15. Kg2 Be8 16. Ng3 h6 17. Bd3 fxe5 18. fxe5 Rf8 19. Be3 Kb8 20. Qd2
+a6 21. h5 Rxf3 22. Kxf3 Nxe5+ 23. dxe5 d4 24. Bf4 Bc6+ 25. Ne4 Nd5 26. Bg3
+Nc3 27. Qc2 Bxe4+ 28. Bxe4 d3 29. Bxd3 Bg5 30. Kg2 Qc6+ 31. Kh2 Qf3 32.
+Rhf1 Qxd3 33. Qxd3 Rxd3 34. Rae1 Nd5 35. Rf8+ Kc7 36. Rf7+ Kc6 37. Rxg7
+Rxb3 38. Rg6 Kd7 39. Rg7+ Kc6 40. Rg6 Kd7 41. Rf1 Ne3 42. Rf3 Nxg4+ 43. Kg2
+Ne3+ 44. Kh3 Rxa3 45. Bf2 Nc4 46. Rxa3 Nxa3 47. Rxg5 hxg5 48. h6 1-0
+

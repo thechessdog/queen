@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Krockert"]
+[Black "Zenner"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "b00d3301"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. Nc3 Be7 6. e4 cxd4 7. Nxd4 d6 8.
+g3 O-O 9. Bg2 Bb7 10. O-O Ne8 11. Qe2 Nc6 12. Be3 Rc8 13. Ncb5 Nxd4 14.
+Nxd4 Qc7 15. Rac1 Qb8 16. f4 Nf6 0-1
+

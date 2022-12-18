@@ -1,0 +1,18 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1989.??.??"]
+[Round "5"]
+[White "Topolewski, D."]
+[Black "Duesterwald, Marc"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "c1203684"]
+[Epoch "Queen"]
+[BlackID "4619064"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 Qa5 3. Na3 e6 4. e5 Nc6 5. Nf3 d5 6. exd6 Bxd6 7. Nc4 Qc7 8. d4
+cxd4 9. Nxd4 Nxd4 10. Qxd4 Bf8 11. Bf4 Qc5 12. Qd2 b5 13. O-O-O Be7 14. Nd6+
+Bxd6 15. Bxd6 Qc6 16. Qg5 g6 17. Bxb5 1-0

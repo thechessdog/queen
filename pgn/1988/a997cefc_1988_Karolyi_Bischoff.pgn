@@ -1,0 +1,19 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Bischoff, Klaus"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "a997cefc"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. e3 d6 8. b3
+Nbd7 9. Bb2 Qe7 10. Bd3 c5 11. Ne2 Bb7 12. O-O Rac8 1/2-1/2

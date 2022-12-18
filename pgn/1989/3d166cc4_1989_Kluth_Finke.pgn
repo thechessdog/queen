@@ -1,0 +1,19 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kluth, Carsten"]
+[Black "Finke, Winfried"]
+[Result "1/2-1/2"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "symmetrical (Austrian) defence"]
+[HashCode "3d166cc4"]
+[Epoch "Queen"]
+[WhiteID "4618548"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. Nf3 cxd4 5. Qxd4 Qxd5 6. Nc3 Qxd4 7. Nxd4 a6
+8. g3 Bd7 9. Bg2 e5 10. Nc2 Bc6 11. O-O Bxg2 12. Kxg2 Nc6 13. Bg5 Be7 14. e4
+Rc8 15. Ne3 Ng8 16. Bxe7 Ngxe7 17. Rac1 O-O 18. Ncd5 f6 19. Rc3 Nxd5 20. Nxd5
+Rcd8 21. Rfc1 f5 22. f3 Rf7 23. R3c2 fxe4 24. fxe4 Rdf8 1/2-1/2

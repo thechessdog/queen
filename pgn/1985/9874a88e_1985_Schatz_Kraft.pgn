@@ -1,0 +1,23 @@
+[Event "Mittelfranken"]
+[Site "Mittelfranken"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schatz"]
+[Black "Kraft"]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni"]
+[Variation "Franco-Benoni defence"]
+[HashCode "9874a88e"]
+[Epoch "Queen"]
+
+1. d4 c5 2. d5 e6 3. e4 d6 4. Nc3 a6 5. a4 Nf6 6. Nf3 exd5 7. exd5 Bg4 8.
+Be2 Be7 9. O-O O-O 10. Re1 Nbd7 11. Bf4 Re8 12. Qd2 Bf8 13. h3 Bxf3 14.
+Bxf3 Qa5 15. Ne4 Qxd2 16. Nxd2 Rxe1+ 17. Rxe1 b5 18. a5 c4 19. Nf1 h6 20.
+g4 Nc5 21. Bd2 Na4 22. b3 cxb3 23. cxb3 Nc5 24. Re3 g6 25. Bc3 Bg7 26. Nd2
+Rc8 27. Kg2 Ncd7 28. Bb4 Bf8 29. Bc3 Rc5 30. b4 Rc8 31. Kf1 Bg7 32. Bd4 g5
+33. Ke2 Nf8 34. Re7 N6d7 35. Bxg7 Kxg7 36. Ne4 Ne5 37. Nxd6 Rc2+ 38. Kd1
+Rxf2 39. Rxe5 Rxf3 40. Nf5+ Kf6 41. Re8 Ng6 42. d6 Rxh3 43. Ra8 Nh4 44. Kc2
+Nxf5 45. gxf5 Ke5 46. d7 Rh2+ 47. Kd1 Rh1+ 48. Ke2 Rh2+ 49. Ke1 Rh1+ 50.
+Kf2 Rd1 51. d8=Q Rxd8 52. Rxd8 1-0
+

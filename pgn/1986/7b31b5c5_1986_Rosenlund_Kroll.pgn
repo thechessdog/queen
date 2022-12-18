@@ -1,0 +1,19 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Rosenlund, Thorbjorn"]
+[Black "Kroll, Ove"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "7b31b5c5"]
+[Epoch "Queen"]
+[WhiteID "1400614"]
+[WhiteCountry "DEN"]
+[BlackID "1400215"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e3 Bg4 7. Bxc4 e6 8. h3
+Bh5 9. O-O Be7 10. Qe2 Nb4 11. a5 O-O 12. Rd1 Qc7 13. Bd2 1/2-1/2

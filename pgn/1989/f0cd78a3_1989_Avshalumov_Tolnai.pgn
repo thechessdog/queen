@@ -1,0 +1,18 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Avshalumov, Alex"]
+[Black "Tolnai, Tibor"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "f0cd78a3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 Qb6 7. e3 a6 8. Na4
+Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 Qc7 11. c5 Nc6 12. Nb6 Rb8 13. Qd6 Qxd6 14. cxd6 Nb4
+15. Rc1 O-O 16. Bc4 Nbd5 17. Bxd5 Nxd5 18. Nxd5 exd5 19. Ke2 b5 20. Rhd1 Bb7
+21. Ne5 Rfd8 22. Rc7 Bc8 23. Nd3 f6 24. Nc5 b4 25. Rxd5 Kf7 26. e4 Rb6 27. Ke3
+Rc6 28. f4 Re8 29. Rxc6 dxc6 30. Rd4 1-0

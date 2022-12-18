@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nowak"]
+[Black "Bert"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "db613ca3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nc3 Nc6 6. Nf3 Qe7 7. Qc2
+Ngxe5 8. O-O-O Bxc3 9. Qxc3 d6 10. e3 Bf5 11. Nd4 Bg6 12. h4 h6 13. Be2
+O-O-O 14. Bg3 Kb8 15. Rhe1 f6 16. f4 Nxd4 17. exd4 Nc6 18. Bg4 Qf7 19. Be6
+Qf8 20. d5 Ne7 21. Bf2 b6 22. a4 Bf5 23. a5 Re8 24. axb6 axb6 25. Qb4 Bxe6
+26. Bxb6 Bc8 27. Re3 Nxd5 28. Ba7+ Kxa7 29. Ra3+ Ba6 30. Rxd5 Rb8 31. Rxa6+
+Kxa6 32. Ra5# 1-0
+

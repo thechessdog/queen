@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nickel, R."]
+[Black "Popehy"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "0efe222c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. d5 e6 8. Bg5
+h6 9. Be3 exd5 10. cxd5 b6 11. g4 h5 12. g5 Nfd7 13. f4 f5 14. Nb5 Qe7 15.
+Bg2 Na6 16. O-O fxe4 17. Ng3 Rd8 18. f5 Bxb2 19. fxg6 Ne5 20. Rb1 Bg4 21.
+Qa4 Nf3+ 22. Bxf3 exf3 23. Rfe1 Nb4 24. Bxc5 Qxg5 25. Qxb4 h4 26. Ne4 Qxg6
+27. Qxb2 Rf8 28. Kf2 dxc5 29. Qe5 Bh3 30. Qg5 Qxg5 31. Nxg5 Bf5 32. Rb3
+Rad8 33. Re5 Rd7 34. Rxf3 Bd3 35. Rxf8+ Kxf8 36. Nc3 Bc4 37. Kf3 1-0
+

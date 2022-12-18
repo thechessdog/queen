@@ -1,0 +1,31 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zvetkov, A."]
+[Black "Meistrenko, VV."]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[HashCode "eef82ad8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f5 7. exf5 e4
+8. Ng5 Bxf5 9. f3 Nf6 10. O-O d5 11. fxe4 Bxe4 12. Nxe4 dxe4 13. Nc3 Be7
+14. Nxe4 O-O 15. Nxf6+ Rxf6 16. Rxf6 Bxf6 17. c3 Rb8 18. b3 c5 19. Be3 Qe7
+20. Qf3 Rf8 21. Rf1 cxd4 22. Qd5+ Kh8 23. Bxd4 Bxd4+ 24. Qxd4 Rxf1+ 25.
+Kxf1 h6 26. h3 c5 27. Qd3 a5 28. Kf2 a4 29. bxa4 Qh4+ 30. Qg3 Qxa4 31. Qb8+
+Kh7 32. Qb3 Qf4+ 33. Ke2 c4 34. Qc2+ Kh8 35. a4 h5 36. Qd2 Qe4+ 37. Kf2 h4
+38. Qd8+ Kh7 39. Qd4 Qc2+ 40. Ke3 Qc1+ 41. Ke4 Qg5 42. Qf2 Qe7+ 43. Kd5
+Qd7+ 44. Kxc4 Qxa4+ 45. Kd3 g5 46. Qf7+ Kh6 47. Qf6+ Kh5 48. Qf3+ Kg6 49.
+c4 Qa3+ 50. Kd4 Qb2+ 51. Kd5 Qb7+ 52. Kd4 Qb2+ 53. Kc5 Qb8 54. Qd5 Qa7+ 55.
+Kb5 Qb8+ 56. Ka6 Qc8+ 57. Kb6 Qb8+ 58. Qb7 Qd8+ 59. Qc7 Qd4+ 60. Kb7 Kf5
+61. Qc6 Kf4 62. Qd5 Qg7+ 63. Kc6 Kg3 64. c5 g4 65. hxg4 Qxg4 66. Kb6 Qb4+
+67. Kc7 Qa5+ 68. Kd7 Qb5+ 69. Kd8 Kf2 70. Qg5 Qd3+ 71. Ke7 Qe4+ 72. Kd6
+Qd4+ 73. Kc7 Qa4 74. Qd2+ Kf1 75. c6 Qg4 76. Kb6 Qe6 77. Qf4+ Kxg2 78. Qxh4
+Kf3 79. Qd4 Qb3+ 80. Kc5 Qa3+ 81. Kd5 Qa5+ 82. Ke6 Qc7 83. Qd6 Qc8+ 84. Ke7
+Qg8 85. c7 Qg7+ 86. Ke8 Qc3 87. Kd7 Qg7+ 88. Kc6 Qc3+ 89. Kb7 Qg7 90. Kb8
+Qb2+ 91. Ka7 Qg7 92. Kb6 Qb2+ 93. Kc6 Qc2+ 94. Kd7 Qh7+ 95. Qe7 Qd3+ 96.
+Ke8 Qb5+ 97. Kf8 Qc6 98. Qe5 Qa6 99. Kg8 1-0
+

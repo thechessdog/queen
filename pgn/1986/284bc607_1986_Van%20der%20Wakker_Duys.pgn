@@ -1,0 +1,18 @@
+[Event "ACCOM III"]
+[Site "ACCOM III"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van der Wakker, P."]
+[Black "Duys, P."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[HashCode "284bc607"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nf3 b5 8.
+a3 Bb7 9. Bd3 Be7 10. O-O O-O 11. Re1 Nbd7 12. b4 Rc8 13. Bd2 Nb6 14. Qe2
+Re8 15. Nh2 d5 16. Nxd5 Bxd5 17. exd5 Qxd5 18. f3 Nh5 19. Qxe5 Bc5+ 20.
+bxc5 Rxe5 21. Be3 f5 22. Rac1 Rxe3 0-1
+

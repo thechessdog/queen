@@ -1,0 +1,25 @@
+[Event "Lasker mem"]
+[Site "Berlijn"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Gruenberg, Hans-Ulrich"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "bf32f131"]
+[Epoch "Queen"]
+[WhiteID "4611306"]
+[WhiteCountry "GER"]
+[BlackID "1400142"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 Qb6 7. e3 Qc7 8. b3
+O-O 9. Bb2 a6 10. Bd3 Be7 11. g4 Nc6 12. a3 g6 13. g5 Nh5 14. Ne4 d5 15. Ng3
+Ng7 16. h4 Bd6 17. Ne2 Ne5 18. Nxe5 Bxe5 19. Nd4 dxc4 20. bxc4 Nh5 21. Nf3 Bxb2
+22. Qxb2 b5 23. Qe5 Qa5+ 24. Ke2 Bb7 25. Rhd1 f6 26. gxf6 Rxf6 27. Ng5 Raf8 28.
+Rf1 Bg2 29. c5 h6 30. Bxg6 Bxf1+ 31. Rxf1 Rxg6 32. Nxe6 Re8 33. Qxh5 Rexe6 34.
+Qd5 Qxa3 35. h5 Qb2+ 36. Ke1 Qc1+ 37. Ke2 Qc2+ 38. Ke1 Qb1+ 39. Ke2 Qb2+ 40.
+Ke1 Qb4+ 41. Ke2 Qg4+ 42. f3 Qc4+ 43. Qxc4 Rg2+ 44. Kd3 bxc4+ 45. Kxc4 Rxe3 46.
+Rc1 Rxf3 47. c6 Rg6 48. c7 Rf8 49. Kd4 Rc8 0-1

@@ -1,0 +1,17 @@
+[Event "St John"]
+[Site "St John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ross"]
+[Black "Inkiov, Ventzislav"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "8fbbd342"]
+[Epoch "Queen"]
+[BlackID "2900033"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8. Na3
+cxd4 1/2-1/2

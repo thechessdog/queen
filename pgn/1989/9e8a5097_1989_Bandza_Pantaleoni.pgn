@@ -1,0 +1,16 @@
+[Event "Magistrale"]
+[Site "Magistrale"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bandza, A."]
+[Black "Pantaleoni, L."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "9e8a5097"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 0-1
+

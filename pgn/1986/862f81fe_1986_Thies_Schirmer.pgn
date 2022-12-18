@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Thies, G."]
+[Black "Schirmer, M."]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "862f81fe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Bd6 7. Nbd2 c5
+8. b3 b5 9. Bb2 Nd7 10. O-O O-O 11. c3 Bb7 12. a4 c6 13. Re1 Qe7 14. Nf1 f5
+15. exf5 Rxf5 16. Ng3 Rf4 17. Bc1 Rg4 18. Nf5 Qf6 19. h3 Rxg2+ 20. Kxg2
+1/2-1/2
+

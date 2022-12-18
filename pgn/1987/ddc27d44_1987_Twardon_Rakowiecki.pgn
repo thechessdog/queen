@@ -1,0 +1,19 @@
+[Event "Gdynia ch-POL sf"]
+[Site "Gdynia ch-POL sf"]
+[Date "1987.01.01"]
+[Round "13"]
+[White "Twardon, Marian"]
+[Black "Rakowiecki, Tomasz"]
+[Result "1/2-1/2"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "ddc27d44"]
+[Epoch "Queen"]
+[WhiteID "1101021"]
+[WhiteCountry "POL"]
+[BlackID "1100955"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 1/2-1/2

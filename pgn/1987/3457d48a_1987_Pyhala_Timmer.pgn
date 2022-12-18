@@ -1,0 +1,22 @@
+[Event "Ostende open"]
+[Site "Ostende open"]
+[Date "1987.09.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Timmer, Robert"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "3457d48a"]
+[Epoch "Queen"]
+[BlackID "1001051"]
+[BlackCountry "NED"]
+[WhiteCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Qa4 Nd7 8. c5
+g6 9. Bb5 Ndb8 10. Nf3 Bg7 11. O-O f6 12. Bf4 O-O 13. Rfe1 Bf7 14. h4 a6 15. a3
+axb5 16. Qxa8 Qd7 17. Na4 bxa4 18. Qxa4 e5 19. dxe5 fxe5 20. Bg3 e4 21. Ng5 Ne5
+22. Qxd7 Nbxd7 23. Red1 Nd3 24. Rab1 N7xc5 25. f3 Nxb2 26. Rf1 e3 27. Rfc1 Nbd3
+28. Rc2 Re8 29. Kf1 Be5 30. Bxe5 Rxe5 31. f4 Re7 32. g3 Be8 33. Ke2 Bd7 34. Rc3
+Bg4+ 35. Nf3 Bxf3+ 36. Kxf3 e2 0-1

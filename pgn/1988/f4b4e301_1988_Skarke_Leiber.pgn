@@ -1,0 +1,20 @@
+[Event "corr ch20-DDR"]
+[Site "corr ch20-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Skarke, H."]
+[Black "Leiber, B."]
+[Result "1-0"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "f4b4e301"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. d3 Be7
+8. Be3 O-O 9. Rc1 Be6 10. O-O f6 11. Ne4 Qd7 12. Nc5 Bxc5 13. Bxc5 Rfd8 14.
+Qc2 Bh3 15. Rfd1 Bxg2 16. Kxg2 Qe6 17. a3 Rd7 18. b4 a6 19. h3 Rad8 20. e4
+Nc8 21. Qb1 Nd6 22. a4 Re8 23. b5 axb5 24. axb5 Na5 25. Bxd6 cxd6 26. d4
+Qb3 27. Qa1 Nc4 28. dxe5 Nxe5 29. Nd4 Qf7 30. Nf5 Qe6 31. Rd4 d5 32. Qa2
+Nf3 33. Kxf3 dxe4+ 34. Kg2 Qxa2 35. Rxd7 Qa3 36. Nxg7 Ra8 1-0
+

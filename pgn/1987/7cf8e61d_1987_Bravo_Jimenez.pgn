@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bravo Gonzalez"]
+[Black "Jimenez Zerquera, Eleazar"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "7cf8e61d"]
+[Epoch "Queen"]
+[BlackCountry "CUB"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. e4 Ng6 8. Nf5
+h5 9. Bg2 Nc6 10. c3 h4 11. d4 hxg3 12. Qxg4 Nh4 13. Qg7 Nxg2+ 14. Kf1 Be5 15.
+Qg4 Bxf5 16. Qxf5 Nh4 17. Bg5 g2+ 0-1

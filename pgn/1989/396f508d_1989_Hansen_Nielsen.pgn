@@ -1,0 +1,19 @@
+[Event "DEN-chT8990"]
+[Site "DEN"]
+[Date "1989.??.??"]
+[Round "4"]
+[White "Hansen, Mads Smith"]
+[Black "Hartung Nielsen, Jens"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "396f508d"]
+[Epoch "Queen"]
+[WhiteID "1400258"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. Nbd2 Qd7 11. c3 O-O 12. Nxe4 dxe4 13. Qxd7 Bxd7 14. Rfd1
+Rad8 15. Rxd7 Rxd7 16. e6 exf3 17. exd7 Ne5 18. Rd1 Rd8 19. Bf4 Bd6 20. Bxe5
+Bxe5 21. Re1 Bxh2+ 22. Kxh2 Kf8 23. Re8+ Rxe8 24. dxe8=Q+ Kxe8 25. g4 1-0

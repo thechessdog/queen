@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dovzik, Yuri"]
+[Black "Horvath, Jozsef"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "30996edd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be3 cxd4 7. cxd4 e6 8.
+Nc3 Qd6 9. a3 Be7 10. Bd3 b6 11. O-O Bb7 12. Qe2 O-O 13. Rad1 Rac8 14. Bb1 Rfd8
+15. Bg5 g6 16. Rfe1 Kg7 17. Ba2 Qb8 18. h3 a6 19. Qe3 Nd5 20. Nxd5 Bxg5 21.
+Qxg5 exd5 22. Nh4 f6 23. Nf5+ Kf7 24. Qh6 gxf5 25. Qxh7+ Kf8 26. Re6 1-0

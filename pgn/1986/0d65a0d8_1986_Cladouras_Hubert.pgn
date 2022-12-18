@@ -1,0 +1,25 @@
+[Event "Krefeld open"]
+[Site "Krefeld open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cladouras, Panagiotis"]
+[Black "Hubert, Ralf"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "0d65a0d8"]
+[Epoch "Queen"]
+[WhiteID "4600959"]
+[WhiteCountry "GER"]
+[BlackID "4613341"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O g6 6. d4 cxd4 7. Qxd4 Nf6
+8. b3 Bg7 9. Bb2 Nc6 10. Qd3 O-O 11. c4 Nb4 12. Qe2 Qg4 13. Nc3 Nh5 14. Nd4 Qg5
+15. Nd5 Nxd5 16. exd5 Nf4 17. Qf3 Nxg2 18. Qxg2 Qd2 19. Rab1 Bxd4 20. Rfd1 Qxb2
+21. Rxb2 Bxb2 22. Qe4 Bf6 23. Rd3 b6 24. h4 h5 25. Kg2 Rac8 26. f4 Rc7 27. f5
+Kh7 28. fxg6+ fxg6 29. Rg3 Rg8 30. Kf1 Rg7 31. Ke2 Rc8 32. Kd2 Rf8 33. Kc2 Be5
+34. Rf3 Rgf7 35. Rxf7+ Rxf7 36. Qe3 Rf4 37. a4 Rxh4 38. a5 Rd4 39. Qh3 Rg4 40.
+Qe3 Rg3 41. Qf2 Rc3+ 42. Kd2 Kg7 43. axb6 Rxb3 44. c5 Rb2+ 45. Ke1 Rxf2 46.
+Kxf2 a6 0-1

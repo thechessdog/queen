@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Blachmann, H."]
+[Black "Jesch, E."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "7c02b699"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8.
+e4 Nb6 9. a4 Bd7 10. a5 Nc8 11. Nc4 Bg7 12. Bf4 O-O 13. Be2 Re8 14. Qc2 Bf8
+15. O-O Ng4 16. f3 Ne5 17. Nxe5 dxe5 18. Be3 Rb8 19. f4 f6 20. fxe5 fxe5
+21. Nb5 a6 22. Nc3 b5 23. axb6 Qxb6 24. b4 Qc7 25. Rxf8+ Rxf8 26. bxc5 Bb5
+27. Bg4 Kh8 28. Nxb5 axb5 29. c6 Nb6 30. Qc5 Nc4 31. d6 1-0
+

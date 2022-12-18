@@ -1,0 +1,23 @@
+[Event "Zuerich op2"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Potterat, Marc"]
+[Black "Joncic, Dragan"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "81989b3f"]
+[Epoch "Queen"]
+[BlackID "1306561"]
+[BlackCountry "SUI"]
+[WhiteID "1301071"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Nd7 8.
+Bd3 g6 9. c3 Bg7 10. Qe2 Nf6 11. Nxf6+ Qxf6 12. Ne5 O-O 13. g3 c5 14. Ng4 Qd8
+15. dxc5 Qa5 16. O-O-O Qxa2 17. h4 e5 18. Bb1 Qa1 19. Ne3 h5 20. g4 Bh6 21. g5
+Bg7 22. Rd6 e4 23. Qc4 Kh7 24. Qxe4 Re8 25. Qxe8 Bf5 26. Qxa8 Qxb1+ 27. Kd2
+Qxh1 28. Nxf5 gxf5 29. Qe8 Qxh4 30. g6+ fxg6 31. Qxg6+ Kh8 32. Qe8+ Kh7 33.
+Qg6+ Kh8 34. Qxf5 1-0

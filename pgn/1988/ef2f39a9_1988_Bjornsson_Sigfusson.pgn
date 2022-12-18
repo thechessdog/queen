@@ -1,0 +1,25 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bjornsson, Tomas"]
+[Black "Sigfusson, Sigurdur"]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "ef2f39a9"]
+[Epoch "Queen"]
+[WhiteID "2300303"]
+[BlackID "2300168"]
+[WhiteCountry "ISL"]
+[BlackCountry "ISL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Nd5
+8. O-O Bg4 9. Be2 e6 10. Ne5 Bf5 11. Bd3 Bxd3 12. Qxd3 Bd6 13. c4 Ne7 14. Nf3
+Qd7 15. Bd2 Rd8 16. Qe4 O-O 17. Rfe1 Ng6 18. h4 Rfe8 19. Rad1 e5 20. dxe5 Bxe5
+21. Qc2 Qg4 22. h5 Qxh5 23. Nxe5 Rxe5 24. Bc3 Rxe1+ 25. Rxe1 Qg4 26. Qe4 Qxe4
+27. Rxe4 f6 28. f3 Kf7 29. Kf2 b6 30. Re3 Nf4 31. Re4 Ne6 32. Rh4 h6 33. Ke2
+Rd7 34. b3 Rd8 35. Bb2 g5 36. Rxh6 Nf4+ 37. Ke3 Nxg2+ 38. Ke4 Re8+ 39. Kd3 Nf4+
+40. Kc2 Re2+ 41. Kb1 Kg7 42. Rh1 Rf2 43. Rd1 Rxf3 44. Rd7+ Kg6 45. Rxa7 g4 46.
+b4 Nd3 0-1

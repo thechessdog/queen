@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lipman, V."]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Botvinnik system (anti-Meran)"]
+[HashCode "943226c5"]
+[Epoch "Queen"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. a4 Bb4 8. e5 h6
+9. exf6 hxg5 10. fxg7 Rg8 11. h4 g4 12. Ne5 Rxg7 13. h5 f5 14. Be2 Qd5 15. Qd2
+Nd7 16. h6 Rh7 17. Qg5 Nf8 18. f3 c5 19. O-O-O Bxc3 20. bxc3 Bd7 21. fxg4 f4
+22. Bf3 Qd6 23. d5 Rb8 24. dxe6 Qxe6 25. Rhe1 Re7 26. Nxd7 1-0

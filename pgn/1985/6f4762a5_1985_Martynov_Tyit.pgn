@@ -1,0 +1,16 @@
+[Event "corr Baltikmeer"]
+[Site "corr Baltikmeer"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Martynov, P."]
+[Black "Tyit"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "6f4762a5"]
+[Epoch "Queen"]
+
+1. b4 d5 2. Bb2 Bg4 3. Nf3 Nd7 4. e3 e5 5. Be2 Bd6 6. a3 Nh6 7. c4 c6 8. d4
+e4 9. Nfd2 Qg5 10. Bxg4 Nxg4 11. g3 h5 12. Qe2 h4 13. Nf1 hxg3 14. fxg3
+Nxh2 15. Rxh2 Bxg3+ 16. Rf2 Rh1 17. Kd2 Bxf2 18. Qxf2 Nb6 19. c5 Rg1 0-1
+

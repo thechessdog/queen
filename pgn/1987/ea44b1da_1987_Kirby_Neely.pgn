@@ -1,0 +1,18 @@
+[Event "San Jose"]
+[Site "San Jose"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kirby, J."]
+[Black "Neely, L."]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "ea44b1da"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. d4 exd4 6. Bg5 Bg7 7. e5 O-O
+8. Re1 h6 9. Bf6 Bxf6 10. exf6 Nd5 11. Qd2 Kh7 12. Bxc6 dxc6 13. Qxd4 Nxf6
+14. Qh4 Kg7 15. Nc3 Re8 16. Ne4 Be6 17. Rad1 Qe7 18. Rd3 Nh5 19. Qxe7 Rxe7
+20. Kf1 Rae8 21. Rde3 Bc8 22. Nh4 Nf6 0-1
+

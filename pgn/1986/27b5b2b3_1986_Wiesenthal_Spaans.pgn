@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wiesenthal"]
+[Black "Spaans"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "27b5b2b3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+Bb6 8. Qe2 Nd4 9. Qd3 Ng4 10. Ke1 Qh4+ 11. g3 Nxc2+ 12. Qxc2 Bf2+ 13. Kd1
+Qf6 14. Rf1 d5 15. Bxd5 Qf3# 0-1
+

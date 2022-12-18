@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zamanov, Ansar M"]
+[Black "Yuferov, Sergey  N"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3, counterthrust variation"]
+[HashCode "6ef9384d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nc3 dxc4 6. Qa4+ Nfd7 7. Nf3 Nc6 8.
+Qxc4 Nb6 9. Qb5 O-O 10. e3 a6 11. Qc5 Re8 12. O-O e5 13. Nxe5 Rxe5 14. dxe5 Bf8
+15. Rd1 Qxd1+ 16. Nxd1 Bxc5 17. f4 Bf5 0-1

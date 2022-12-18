@@ -1,0 +1,32 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eingorn, Vereslav S"]
+[Black "Sigfusson, Sigurdur"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "20e212da"]
+[Epoch "Queen"]
+[WhiteID "14100053"]
+[WhiteCountry "UKR"]
+[BlackID "2300168"]
+[BlackCountry "ISL"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+dxc4 9. Bxc4 e5 10. Bb3 Qc7 11. h3 a6 12. Bd2 c5 13. dxc5 Nxc5 14. Nd5 Nxd5 15.
+Bxd5 Qe7 16. Bb4 Rd8 17. Rfd1 Ne6 18. Bxd6 Rxd6 19. Nxe5 Nd8 20. Qe4 Be6 21.
+Nc4 Rxd5 22. Rxd5 Qb4 23. Rc1 Bxd5 24. Qe8+ Qf8 25. Qxf8+ Kxf8 26. Nb6 Bxg2 27.
+Nxa8 Bxh3 28. Rc7 Bg4 29. Nb6 Bf3 30. Nc4 Ne6 31. Rd7 Bc6 32. Rd1 f6 33. Kh2
+Ke7 34. Kg3 Ng5 35. Nd2 Nf7 36. Nb3 Nd6 37. Nd4 Bd7 38. f3 Nc4 39. b3 Ne5 40.
+e4 g6 41. Rh1 h5 42. f4 Nc6 43. Nf3 Nb4 44. Rh2 Nd3 45. e5 fxe5 46. Nxe5 Nxe5
+47. Re2 Kf6 48. Rxe5 Bf5 49. Re8 Bd7 50. Rf8+ Ke7 51. Rh8 Kf6 52. Rf8+ Ke7 53.
+Rb8 Bc6 54. f5 gxf5 55. Kf4 Be4 56. Ke5 Kd7 57. Rh8 Kc6 58. Rxh5 Kc5 59. a3 Bc2
+60. Rh3 Be4 61. Rc3+ Kb5 62. Kd6 Kb6 63. Rc4 a5 64. Rc8 Kb5 65. Ke5 Kb6 66. Kd4
+Kb5 67. Rc5+ Ka6 68. Re5 Bc2 69. Kc4 Be4 70. Re7 Bc2 71. b4 axb4 72. axb4 Kb6
+73. Re6+ Kc7 74. Kc5 Kd7 75. Rh6 Be4 76. b5 Ke7 77. Kd4 Kd7 78. Ke5 Kc7 79. b6+
+Kd7 80. Rg6 Ke7 81. Rg7+ Ke8 82. Ke6 Kf8 83. Rc7 Kg8 84. Kf6 Kh8 85. Rc8+ Kh7
+86. Re8 Bc6 87. Re7+ Kg8 88. Kxf5 Kf8 89. Kf6 Bf3 90. Ke6 Bd5+ 91. Kd6 Bg2 92.
+Re3 1-0

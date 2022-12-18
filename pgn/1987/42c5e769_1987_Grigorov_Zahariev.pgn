@@ -1,0 +1,17 @@
+[Event "Kula"]
+[Site "Kula"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grigorov, Jordan N"]
+[Black "Zahariev, Zahary"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "42c5e769"]
+[Epoch "Queen"]
+[WhiteCountry "BGR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+f5 9. exf6 Rxf6 10. Bg5 Qa5 11. Bd3 Qxc3+ 12. Ke2 e5 13. Bxh7+ Kxh7 14. Qh5+
+Rh6 15. Bxh6 Qxc2+ 16. Bd2+ Kg8 17. Qe8+ 1-0

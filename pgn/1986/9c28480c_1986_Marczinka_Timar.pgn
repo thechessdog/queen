@@ -1,0 +1,16 @@
+[Event "corr Hungary"]
+[Site "corr Hungary"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marczinka, I."]
+[Black "Timar, Zsolt"]
+[Result "0-1"]
+[ECO "B86"]
+[Opening "Sicilian"]
+[Variation "Sozin attack"]
+[HashCode "9c28480c"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 a6 7. Be3 b5 8. Bd3
+Bb7 9. f3 Nbd7 0-1

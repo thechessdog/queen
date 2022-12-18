@@ -1,0 +1,25 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "11"]
+[White "Kuczynski, Robert"]
+[Black "Panczyk, Krzysztof"]
+[Result "1-0"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "edee97ba"]
+[Epoch "Queen"]
+[WhiteID "1100033"]
+[WhiteCountry "POL"]
+[BlackID "1100211"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. a4 Bb7 13. axb5 axb5 14. Rxa8 Bxa8 15.
+d4 cxd4 16. cxd4 Qc7 17. Nb3 Nb4 18. Bb1 Rc8 19. d5 Nc2 20. Re2 Na1 21. Be3
+Nxb3 22. Qxb3 Qc4 23. Qd1 Qa4 24. Rc2 Rxc2 25. Bxc2 Qa2 26. Qc1 Qc4 27. Nd2 Qc8
+28. f3 Nd7 29. Nb3 Qc4 30. Bd1 Qxc1 31. Nxc1 f5 32. Be2 Nf6 33. Bd3 Bb7 34. Na2
+Bc8 35. h3 fxe4 36. fxe4 Bd7 37. b4 Be8 38. Nc3 h5 39. Kf2 h4 40. Ba7 Bg6 41.
+Kf3 Nh5 42. Bxb5 Bg5 43. Be3 Bxe3 44. Kxe3 Kf8 45. Bc6 Ke7 46. b5 Nf6 47. b6
+Nd7 48. Bxd7 Kxd7 49. Nb5 1-0

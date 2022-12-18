@@ -1,0 +1,16 @@
+[Event "Duitsland tt"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Michaelsen, Nils"]
+[Black "Fehling, M."]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b8504c83"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 a6 10. a4 Qc7 11. Qd2 Nbd7 12. Qf4 Ne5 13. Bxf6 Bxf6 14. Qxf6 Nxc4
+15. e3 Ne5 16. Be2 Qd8 1/2-1/2

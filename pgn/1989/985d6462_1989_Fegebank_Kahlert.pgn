@@ -1,0 +1,20 @@
+[Event "Regionalliga NordN"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Fegebank, Fritz"]
+[Black "Kahlert, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "985d6462"]
+[Epoch "Queen"]
+[WhiteID "4624300"]
+[BlackID "4625242"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nc3 d5 7. exd5 cxd5
+8. Bb5+ Bd7 9. O-O c6 10. Re1+ Be7 11. Bd3 O-O 12. Bf4 Be6 13. h3 Bd6 14. Bxd6
+Qxd6 15. Qf3 c5 16. Rad1 Qb6 17. b3 c4 18. Bf5 1/2-1/2

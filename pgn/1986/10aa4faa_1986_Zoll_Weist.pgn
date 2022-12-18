@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zoll"]
+[Black "Weist"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "10aa4faa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Bf5 4. Bxf6 exf6 5. e4 dxe4 6. Qe2 c6 7. Nxe4
+Be7 8. Ng3 Bg6 9. O-O-O O-O 10. f4 h6 11. f5 Bh7 12. Nf3 Re8 13. Nh4 Na6
+14. Qg4 Nb4 15. Nh5 Bf8 16. Bc4 Nd5 17. Bxd5 Qxd5 18. Nxf6+ 1-0
+

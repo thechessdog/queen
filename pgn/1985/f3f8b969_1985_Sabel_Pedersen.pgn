@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sabel"]
+[Black "Petersen, Finn"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "f3f8b969"]
+[Epoch "Queen"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 d6 7. Nd3 Nxe4 8. Bxf4
+Qe7 9. Qe2 Bg7 10. c3 h5 11. Nd2 Nxd2 12. Qxe7+ Kxe7 13. Kxd2 Be6 14. Bg5+ Kd7
+15. Nf4 Bf5 16. Re1 Nc6 17. Bb5 1-0

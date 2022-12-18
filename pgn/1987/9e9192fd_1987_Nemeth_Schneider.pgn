@@ -1,0 +1,15 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nemeth, Zoltan"]
+[Black "Schneider, Attila"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "9e9192fd"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 d6 6. Nge2 e5 7. O-O Nc6 8. d3
+Ng4 9. h3 Nh6 10. Be3 f5 11. f4 1/2-1/2

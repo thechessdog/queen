@@ -1,0 +1,16 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemirovski, S."]
+[Black "Van Dongen, P."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6549c3ad"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8.
+h3 Bh5 9. Be3 cxd4 10. Nxd4 Bxe2 11. Qxe2 Be7 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "corr LINC Network"]
+[Site "corr LINC Network"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dunne, A."]
+[Black "Dresher, K."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "08991ff8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. f4 d6 5. Nf3 Bg7 6. O-O e6 7. d3 Nge7 8. c3
+O-O 9. Be3 a6 10. Nbd2 Rb8 11. d4 cxd4 12. cxd4 b5 13. Rc1 d5 14. e5 Nf5
+15. Bf2 Bd7 16. g4 Nfe7 17. Bh4 Qb6 18. Nb3 Rbe8 19. Nc5 Bc8 20. Bf6 a5 21.
+Nh4 Qa7 22. Rc3 Kh8 23. Qd2 Kg8 24. f5 exf5 25. gxf5 Bxf5 26. Rxf5 gxf5 27.
+Qg5 Ng6 28. Nxf5 Nxd4 29. Nxg7 Ne6 30. Nf5 1-0
+

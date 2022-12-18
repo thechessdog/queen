@@ -1,0 +1,17 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Polland"]
+[Black "Kaser"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "566e3837"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. Bg5 O-O
+8. Qd2 a6 9. Ne5 c5 10. Bxf6 Bxf6 11. Nd5 Be6 12. Nxf6+ exf6 13. Bxe6 fxe5
+14. Bc4 Qh4+ 15. Kf1 Qxd4 16. Qxd4 cxd4 17. Bd5 Nc6 18. Re1 Rfe8 19. h4 Nb4
+20. Bb3 Rac8 21. h5 Nxc2 0-1
+

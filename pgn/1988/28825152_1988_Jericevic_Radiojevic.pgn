@@ -1,0 +1,16 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jericevic"]
+[Black "Radiojevic"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "28825152"]
+[Epoch "Queen"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 d5 6. Ne5 g6 7. h4 Nbd7
+8. h5 Nxe5 9. dxe5 Nxh5 10. Rxh5 1-0
+

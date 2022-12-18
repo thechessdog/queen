@@ -1,0 +1,20 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Herrera Perez, Juventino"]
+[Black "Huerta, Ramon"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "fd4476fc"]
+[Epoch "Queen"]
+[WhiteID "3501124"]
+[WhiteCountry "CUB"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 Be7 6. Ngf3 O-O 7. d4 c5 8. c3
+Nc6 9. Bd3 f5 10. O-O Qb6 11. Kh1 cxd4 12. cxd4 Nxd4 13. Nxd4 Qxd4 14. Nb3 Qb6
+15. Rf3 Qd8 16. Be3 Nb6 17. Rh3 Qe8 18. g4 Nc4 19. Bd4 g6 20. gxf5 exf5 21. Qf3
+Qf7 22. Rg1 Be6 23. Qh5 g5 24. Qh6 Qg6 25. Nc5 Bf7 26. Bxf5 Qxf5 27. e6 Qg6 28.
+exf7+ Kxf7 29. Qxh7+ Qxh7 30. Rxh7+ Ke8 31. Ne6 1-0

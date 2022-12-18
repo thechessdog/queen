@@ -1,0 +1,23 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1986.07.01"]
+[Round "3"]
+[White "Meulders, Richard"]
+[Black "Eslon, Jaan"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "589b20c4"]
+[Epoch "Queen"]
+[WhiteID "200123"]
+[WhiteCountry "BEL"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 Nbd7 10. Qb3 Be7 11. Bf4 Nb6 12. Bd3 Bd7 13. Rac1 Bc6 14. Bb5 Qd7
+15. Bxc6 Qxc6 16. Nb5 Qe4 17. Rfe1 Nbd5 18. f3 Qg6 19. Nc7 Rad8 20. Be5 b6 21.
+a3 Bd6 22. Nb5 Bxe5 23. dxe5 Nd7 24. Ned4 Nc5 25. Qc2 Nd3 26. Nc6 Rd7 27. Re4
+Nxc1 28. Qxc1 a6 29. Nbd4 h5 30. b4 b5 31. h4 Ne7 32. Qc5 Nxc6 33. Qxc6 Rfd8
+34. Qc3 Qg3 35. Qa1 Rd5 36. Qc3 R5d7 37. Kf1 Qh2 38. Qb2 Rc7 39. Kf2 Rdc8 40.
+Ne2 Rc4 41. Rd4 Rc2 42. Qa1 R8c4 0-1

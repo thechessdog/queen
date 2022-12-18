@@ -1,0 +1,17 @@
+[Event "corr Tch3-EU"]
+[Site "corr Tch3-EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Szewczyk, G."]
+[Black "Boll, P."]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "f9f68dad"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qc7 10. Qg3 Nc6 11. Nxc6 Qxc6 12. Re1 Bb7 13. f3 O-O 14. Be3
+Nd7 15. Bd4 Bf6 16. Bxf6 Nxf6 17. Rad1 1/2-1/2
+

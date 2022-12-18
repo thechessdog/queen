@@ -1,0 +1,17 @@
+[Event "Managua"]
+[Site "Managua"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lebredo, Gerardo"]
+[Black "Lam"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "110ea78b"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 b6 6. Bg2 Bb7 7. O-O Bxc3 8. bxc3
+Ne4 9. Qc2 d5 10. cxd5 exd5 11. dxc5 bxc5 12. Rb1 Qc8 13. c4 Nf6 14. Qb2 Bc6
+15. Qe5+ Kf8 16. Qd6+ Kg8 17. Ne5 h6 18. Rxb8 Qxb8 19. Qxc6 Qe8 20. cxd5 1-0

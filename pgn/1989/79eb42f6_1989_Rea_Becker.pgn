@@ -1,0 +1,20 @@
+[Event "NATO-ch"]
+[Site "Germany"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Rea, Andrew"]
+[Black "Becker, Marc"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "79eb42f6"]
+[Epoch "Queen"]
+[WhiteID "2004402"]
+[BlackID "4605683"]
+[WhiteCountry "USA"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b4
+Bxc4 9. Bxc4 dxc4 10. Qe2 c5 11. dxc5 bxc5 12. O-O O-O 13. Qxc4 cxb4 14. axb4
+Qc8 15. Qb3 Nc6 1/2-1/2

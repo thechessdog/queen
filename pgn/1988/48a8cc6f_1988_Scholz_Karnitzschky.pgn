@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Scholz, E."]
+[Black "Karnitzschky, M."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "48a8cc6f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 Bg7
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Nc6 11. d5 Ne5 12. O-O Nxf3+ 13. Bxf3 b6
+14. Bb2 Bxb2 15. Rxb2 Bb7 16. g3 Qd6 17. Qd2 Rfc8 18. Rc1 Rxc1+ 19. Qxc1
+Rc8 20. Rc2 Rxc2 21. Qxc2 Qc5 22. Qxc5 bxc5 23. Be2 a6 24. Bc4 Kg7 25. f4
+Bc8 26. Kf2 f6 27. Ke3 Kf7 28. Kd3 Ke8 29. a4 Kd7 30. e5 fxe5 31. fxe5 a5
+32. Bb5+ Kc7 33. Kc4 Kb6 34. e6 Kc7 35. Kxc5 h6 36. Bc4 1-0
+

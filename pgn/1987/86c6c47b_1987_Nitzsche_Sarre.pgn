@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nitzsche, P."]
+[Black "Sarre, S."]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "86c6c47b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. a3 Nc6 13. Rfe1 O-O 14. Rad1
+Nxd4 15. Bxd4 Bc6 16. f3 Rad8 17. Ne2 a5 18. Be3 Nd7 19. Bh6 Bf6 20. Rxd6
+Kh8 21. Bg5 Be5 22. Qh4 Qb6+ 0-1
+

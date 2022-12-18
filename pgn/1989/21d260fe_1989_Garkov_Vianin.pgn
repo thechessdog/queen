@@ -1,0 +1,21 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Garkov, Mitko"]
+[Black "Vianin, Pascal"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "21d260fe"]
+[Epoch "Queen"]
+[WhiteID "2900890"]
+[BlackID "1301799"]
+[WhiteCountry "FID"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Qe2 Nxe5 7. Bxe4 dxe4
+8. Qxe4 Be6 9. Qxe5 Qd7 10. Nc3 Bb4 11. Bd2 O-O-O 12. a3 Rhe8 13. Be3 Bd5 14.
+Qh5 g6 15. Qh6 Bxg2 16. Rg1 Qxd4 17. Rxg2 Bxc3+ 18. Kf1 Qc4+ 19. Kg1 Bxb2 20.
+Rf1 f5 21. Bg5 0-1

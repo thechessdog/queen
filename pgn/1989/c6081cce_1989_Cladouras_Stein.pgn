@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cladouras, Panagiotis"]
+[Black "Stein, Bernd"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "c6081cce"]
+[Epoch "Queen"]
+[BlackID "4600711"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 Nxb3 8. axb3
+exd4 9. Nxd4 Bb7 10. Re1 g6 11. Nc3 Bg7 12. Bf4 Nf6 13. Qd2 O-O 14. Bg5 Qd7 15.
+Bxf6 Bxf6 16. Nd5 Bg7 17. c4 Rad8 18. cxb5 axb5 19. Ra7 c5 20. Nf5 gxf5 21.
+exf5 Rfe8 22. f6 Qc6 23. Rxb7 Qxd5 0-1

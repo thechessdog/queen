@@ -1,0 +1,20 @@
+[Event "Duitsland tt"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Huenerkopf, Heinz"]
+[Black "Kindermann, Stefan"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "c9360b30"]
+[Epoch "Queen"]
+[BlackID "4600053"]
+[BlackCountry "AUT"]
+[WhiteID "4603443"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qf6 6. Qxe4 Qg6 7. Bb5+ c6 8.
+Bd3 Qxe4+ 9. Nxe4 Bxd2+ 10. Kxd2 Nd7 11. Nf3 Ngf6 12. Nxf6+ Nxf6 13. Ne5 O-O
+14. Rad1 Rd8 15. Kc1 Bd7 16. Rhe1 Be8 1/2-1/2

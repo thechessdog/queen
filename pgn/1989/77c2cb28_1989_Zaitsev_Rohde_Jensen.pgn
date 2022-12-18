@@ -1,0 +1,18 @@
+[Event "corr EU/FSM"]
+[Site "corr EU/FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zaitsev, V."]
+[Black "Rohde_Jensen"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "77c2cb28"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8.
+Be3 b5 9. a3 Nb6 10. Bg2 N8d7 11. f4 Bb7 12. O-O Be7 13. f5 Nc5 14. b4 Nc4
+15. Qf3 e5 16. f6 gxf6 17. gxf6 Bf8 18. Nf5 Nxe3 19. Ng7+ Kd7 20. Qxe3 Ne6
+21. Bh3 Rg8 22. Kh1 Bxg7 23. fxg7 Rxg7 24. Qh6 1-0
+

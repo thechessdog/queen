@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pein, Malcolm"]
+[Black "Gruenberg, Rainer"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "06373d4d"]
+[Epoch "Queen"]
+[BlackID "4601262"]
+[BlackCountry "GER"]
+[WhiteID "400289"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 Nc6 9. Be3 b6 10. Qd2 Bb7 11. O-O Qd6 12. Bh6 Na5 13. Bd3 c5 14. Bxg7 Kxg7
+15. Rad1 cxd4 16. cxd4 Rac8 17. e5 Qd5 18. Qg5 f6 19. Qg3 fxe5 20. dxe5 Nc4 21.
+Bxc4 Qxc4 22. Nd4 e6 23. Qa3 Rf7 24. Rd2 Rc5 25. Qe3 Ra5 26. a3 Bd5 27. h4 Qc5
+28. Rd3 Qe7 29. Qg3 Kh8 30. Rfd1 Qf8 31. Nxe6 Bxe6 32. Rd8 Qxd8 33. Rxd8+ Kg7
+34. Rd6 Re7 35. Qg5 1-0

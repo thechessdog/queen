@@ -1,0 +1,20 @@
+[Event "Aarhus-D"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ochsner, Thomas"]
+[Black "Rosenlund, Thorbjorn"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "c6a7aea1"]
+[Epoch "Queen"]
+[BlackID "1400614"]
+[BlackCountry "DEN"]
+[WhiteID "1400711"]
+[WhiteCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. a4 b6 6. Nf3 c5 7. Be3 Nf6 8. d5 O-O
+9. Bc4 e6 10. Qd3 exd5 11. Nxd5 Nc6 12. Rd1 b5 13. axb5 axb5 14. Bxb5 Nxd5 15.
+Bxc6 Nb4 16. Qxd6 Qxd6 17. Rxd6 Nxc6 18. Bxc5 Re8 19. Kf2 Na5 20. Rhd1 Bf8 0-1

@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Feldhoff, M."]
+[Black "Moll"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "4e18a594"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 d4 3. e3 c5 4. b4 b6 5. Bb2 g6 6. exd4 Bg7 7. Ne5 Bb7 8. d5
+Nf6 9. Qa4+ Nbd7 10. Nxd7 Qxd7 11. Qxd7+ Kxd7 12. bxc5 bxc5 13. Nc3 Rac8
+14. Na4 Rhe8 15. Ba3 e6 16. Nxc5+ Rxc5 17. Bxc5 exd5+ 18. Be3 d4 19. c5 Bc6
+20. O-O-O dxe3 21. dxe3+ Kc7 22. Rd2 Ne4 23. Rc2 Bh6 24. Kb2 Rb8+ 25. Ka3
+Bf8 0-1
+

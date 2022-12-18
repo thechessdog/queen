@@ -1,0 +1,21 @@
+[Event "Val Thorens"]
+[Site "Val Thorens"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Nemirovski, Serge"]
+[Black "Meister, Peter"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "075e9104"]
+[Epoch "Queen"]
+[BlackID "4600207"]
+[BlackCountry "GER"]
+[WhiteID "600318"]
+[WhiteCountry "FRA"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O a6 11. Nb3 Be7 12. Bd3 b5 13. g4 Qc7 14. Qf2 Na5 15.
+Nd4 Nc4 16. Bxc4 bxc4 17. Nf5 Bb4 18. Qh4 Bxc3 19. Ne7+ Kh8 20. bxc3 Nc5 21. f5
+Ne4 22. Rdf1 exf5 23. gxf5 Re8 24. f6 gxf6 25. exf6 Qd6 26. Rf4 1-0

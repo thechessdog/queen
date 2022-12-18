@@ -1,0 +1,20 @@
+[Event "Norway"]
+[Site "Kristiansand"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Elseth, Roar"]
+[Black "Haugli, Petter"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "f6d2cbe1"]
+[Epoch "Queen"]
+[WhiteID "1500210"]
+[BlackID "1500104"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Ne2 b6 6. a3 Bf8 7. Be3 Ba6 8. Ng3
+Bxf1 9. Rxf1 c5 10. Nce2 Nc6 11. f4 g6 12. Qd3 c4 13. Qd2 h5 14. Ng1 Nh6 15.
+Nf3 Be7 16. Rg1 O-O-O 17. Nf1 Nf5 1/2-1/2

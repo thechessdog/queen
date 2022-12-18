@@ -1,0 +1,16 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Koster, Frank"]
+[Black "Potrykus, Dierk"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "96b63044"]
+[Epoch "Queen"]
+[BlackID "4667840"]
+[BlackCountry "GER"]
+
+1. f4 e5 2. fxe5 d6 3. e4 Qh4+ 4. Ke2 Qxe4+ 5. Kf2 dxe5 6. d3 Bc5+ 0-1

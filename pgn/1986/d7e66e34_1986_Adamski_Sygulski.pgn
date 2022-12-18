@@ -1,0 +1,21 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Adamski, Jan"]
+[Black "Sygulski, Artur"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "d7e66e34"]
+[Epoch "Queen"]
+[BlackID "1100521"]
+[WhiteID "1100190"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 c5 5. Nf3 Nc6 6. O-O dxc4 7. Ne5 Bd7 8. Nxc6
+Bxc6 9. Bxc6+ bxc6 10. Qa4 cxd4 11. Qxc6+ Nd7 12. Qxc4 Bc5 13. Nd2 O-O 14. Ne4
+Bb6 15. Bg5 Ne5 16. Bxd8 Nxc4 17. Bxb6 axb6 18. b3 Ne5 19. Rfd1 Rfd8 20. Rd2
+Rac8 21. f4 Ng4 22. Nf2 Ne3 23. Nd1 Ng4 24. Nf2 Ne3 25. Nd1 Ng4 1/2-1/2

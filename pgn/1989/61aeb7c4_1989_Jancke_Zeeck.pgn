@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jancke"]
+[Black "Zeeck"]
+[Result "0-1"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "61aeb7c4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. e3 Bxc3+ 8.
+bxc3 d6 9. Nd2 e5 10. f3 Qe7 11. e4 Nbd7 12. Bd3 g5 13. Bf2 Nh5 14. g3 Ng7
+15. Qe2 h5 16. O-O-O O-O-O 17. Kb1 Rdf8 18. Rdf1 Kb8 19. Ka1 f5 20. Rhg1
+Rf7 21. Be3 Re8 22. d5 f4 23. gxf4 exf4 24. Bf2 Ne5 25. c5 dxc5 26. Nc4
+Nxd3 27. Qxd3 Ba6 28. a4 Qd7 0-1
+

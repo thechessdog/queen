@@ -1,0 +1,18 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirby, J."]
+[Black "Lehman, C."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Heath variation"]
+[HashCode "23e802da"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb6 8.
+Bc4 Nf6 9. e5 Ne4 10. Qc2 d5 11. Bd3 Nc6 12. Bb2 Bf5 13. Nc3 O-O 14. Ba3
+Re8 15. Nxe4 dxe4 16. Bxe4 Nxd4 17. Qd3 Nxf3+ 18. Qxf3 Qd4 19. Bxf5 Qxa1+
+20. Qd1 Qxa2 0-1
+

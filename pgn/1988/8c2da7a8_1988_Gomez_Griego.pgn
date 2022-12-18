@@ -1,0 +1,19 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gomez Esteban, Juan Mario"]
+[Black "Griego, David W"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "8c2da7a8"]
+[Epoch "Queen"]
+[BlackID "2001241"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Ne7 5. a3 Ba5 6. b4 Bb6 7. exd5 exd5 8. Ng3
+O-O 9. Bd3 Nbc6 10. Be3 f5 11. Nge2 Ng6 12. f3 Re8 13. Kd2 Rxe3 14. Kxe3 Nxd4
+15. Nxd4 Qg5+ 16. Kf2 Bxd4+ 17. Kf1 Bxc3 18. Rb1 Be6 19. Qe2 Re8 20. Qf2 d4 21.
+Qg3 Qd2 22. Qf2 Qe3 23. Qxe3 dxe3 24. g3 Ne5 25. Ke2 Nc6 26. Rbd1 Bd2 0-1

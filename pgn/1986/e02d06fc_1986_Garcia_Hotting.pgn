@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Hotting, Arend"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "e02d06fc"]
+[Epoch "Queen"]
+[WhiteID "3600130"]
+[WhiteCountry "ECU"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Bd2 Rb8 10. Rb1 b5 11. a3 e5 12. a4 b4 13. Nd5 Nxd5 14. exd5 Ne7 15.
+Nxe5 dxe5 16. fxe5 Bxe5 17. Bf4 Bxf4 0-1

@@ -1,0 +1,19 @@
+[Event "Lyngby op"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Jaksland, Tim"]
+[Black "Hartvig, Ove Weiss"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "85f3cb39"]
+[Epoch "Queen"]
+[BlackID "1402420"]
+[BlackCountry "DEN"]
+[WhiteID "1401084"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. Nc3 axb5 7. d6 exd6 8. e4
+b4 9. Nb5 Qb6 10. Bf4 Ra6 11. Bc4 Be7 12. Bh6 Ng4 13. Bf4 Bb7 14. Ng5 Bxg5 15.
+Nxd6+ Kf8 16. Qxg4 f6 17. Nxb7 Qxb7 18. Bxb8 1-0

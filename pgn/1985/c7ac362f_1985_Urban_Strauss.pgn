@@ -1,0 +1,16 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Urban, F."]
+[Black "Strauss, Anton"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "c7ac362f"]
+[Epoch "Queen"]
+[BlackID "1601598"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. dxc5 Qa5 7. Qh5 Bg7 8.
+Bb5+ Nc6 9. Ne2 O-O 10. Bxc6 bxc6 11. O-O-O Rb8 12. a3 f5 13. g4 Ba6 0-1

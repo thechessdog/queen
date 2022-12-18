@@ -1,0 +1,16 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dietz, Holger, Dr."]
+[Black "Kadas, Gabor"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "024f25f6"]
+[Epoch "Queen"]
+[WhiteID "4610059"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Be7 6. Nb3 Bg4 7. Nbxd4 Bc5 8.
+Bg5 Qxg5 9. Nxc6 Bxf3 10. gxf3 bxc6 0-1

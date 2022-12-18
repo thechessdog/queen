@@ -1,0 +1,23 @@
+[Event "Volgograd"]
+[Site "Volgograd"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kupreichik, Viktor D"]
+[Black "Agzamov, Georgy"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "3278e518"]
+[Epoch "Queen"]
+[WhiteCountry "BLR"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Re1 Be7 10. c3 Nc5 11. Bc2 Bg4 12. Nbd2 Bh5 13. Nb3 Ne6 14. Bf5 O-O 15.
+Qd3 Bg6 16. Be3 Bxf5 17. Qxf5 Qd7 18. Ng5 g6 19. Qh3 h5 20. Rad1 Rad8 21. Qg3
+Nxg5 22. Bxg5 Bxg5 23. Qxg5 Rfe8 24. f4 a5 25. Rf1 Qe7 26. Qg3 Kh7 27. Qd3 a4
+28. Nd4 Nxd4 29. cxd4 c5 30. f5 cxd4 31. fxg6+ fxg6 32. Rf6 Rg8 33. Qxd4 Rgf8
+34. Rdf1 Rxf6 35. Rxf6 Rc8 36. e6 Rf8 37. Rxf8 Qxf8 38. Qxd5 Qf4 39. Qd7+ Kh6
+40. e7 Qc1+ 41. Kf2 Qxb2+ 42. Kf3 Qc3+ 43. Ke4 Qe1+ 44. Kd5 Qd2+ 45. Kc6 Qxg2+
+46. Kb6 Qf2+ 47. Ka5 Qe1+ 48. Ka6 1-0

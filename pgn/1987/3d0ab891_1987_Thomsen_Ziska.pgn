@@ -1,0 +1,20 @@
+[Event "Torshavn"]
+[Site "Torshavn"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Thomsen"]
+[Black "Ziska, Bogi"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "3d0ab891"]
+[Epoch "Queen"]
+[BlackID "7200161"]
+[BlackCountry "FAI"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 e5 11. Nf3 exf4 12. Qxf4 Qa5 13. Bf2 Be6 14. Kb1
+Rac8 15. a3 b5 16. Nd5 b4 17. Bc4 Rfe8 18. Rd3 Bxd5 19. exd5 Ne5 20. Rd4 Rxc4
+21. Rxc4 Nxd5 22. axb4 Qb5 23. Rc5 dxc5 24. Qxe5 Nxb4 25. Re1 Qc4 26. Re2 Qa2+
+0-1

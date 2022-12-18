@@ -1,0 +1,23 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Machulsky, Anatoly D"]
+[Black "Bokan, Danko"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "bb3584f2"]
+[Epoch "Queen"]
+[BlackID "909424"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Qb6 7. Nxf6+ Qxf6
+8. e3 cxd4 9. Nxd4 O-O 10. Qd2 d6 11. O-O-O Bd7 12. f4 Nc6 13. Be2 Rfc8 14. g4
+Nxd4 15. Qxd4 Qxd4 16. exd4 a6 17. Rhe1 e6 18. Rd2 Bb5 19. Bxb5 axb5 20. Kb1 d5
+21. a3 Rc6 22. Re3 Kg7 23. Rb3 Ra5 24. Rdd3 Kf6 25. Rh3 Kg7 26. Rbe3 Ra8 27. c3
+Rh8 28. Kc2 h5 29. gxh5 Rxh5 30. Rxh5 gxh5 31. Rg3+ Kf6 32. Rg5 Rc8 33. Kb3 h4
+34. Kb4 Rh8 35. Kxb5 h3 36. a4 Rh4 37. Rg3 Kf5 38. Kb6 Kxf4 39. a5 f5 40. Kxb7
+Ke4 41. a6 f4 42. Rg7 f3 43. Rf7 Rf4 44. Rxf4+ Kxf4 45. a7 f2 46. a8=Q Kf3 47.
+Qa6 1-0

@@ -1,0 +1,17 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fogarasi, Tibor"]
+[Black "Lisenko, Alexander V"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "26ab147e"]
+[Epoch "Queen"]
+[BlackID "4104552"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 c5 6. O-O Be7 7. c3 O-O 8. e4
+cxd4 9. cxd4 Ba6 10. Bxa6 1/2-1/2

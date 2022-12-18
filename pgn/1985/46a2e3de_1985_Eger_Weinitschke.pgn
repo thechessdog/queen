@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eger"]
+[Black "Weinitschke"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "46a2e3de"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d5 8.
+exd5 Bg4 9. Qd2 Bg7 10. Qxf4 Bxd4+ 11. Kh1 Qh4 12. dxc6 fxg2+ 13. Kxg2
+O-O-O 14. Nd5 Rxd5 15. Bxd5 Nf6 16. cxb7+ Kb8 17. Bxf7 Qh3+ 18. Kh1 Be5 19.
+Qf2 Bf3+ 0-1
+

@@ -1,0 +1,27 @@
+[Event "Yaroslavl"]
+[Site "Yaroslavl"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dvoirys, Semen I."]
+[Black "Yuneev, Alexey"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "b9477142"]
+[Epoch "Queen"]
+[WhiteID "4100379"]
+[BlackID "4104315"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 Bd7 12. Bb3 Bc6 13. Rhe1 Rfd8 14. Qd3
+b5 15. Nd5 Nxd5 16. exd5 Bxg5 17. fxg5 exd5 18. Bxd5 Qc7 19. Qc3 Rac8 20. Qxc6
+Qxc6 21. Bxc6 Rxc6 22. Re7 Rdc8 23. Rd2 Rc5 24. h4 Rf5 25. Rxd6 h6 26. gxh6
+Rf1+ 27. Rd1 Rf2 28. c3 b4 29. Rd2 Rf4 30. Rxa7 bxc3 31. bxc3 Rxc3+ 32. Kb2 Rg3
+33. Ra3 Rg6 34. g3 Rb4+ 35. Kc2 Rc4+ 36. Rc3 Rxc3+ 37. Kxc3 Rxg3+ 38. Rd3 Rg4
+39. Rd8+ Kh7 40. hxg7 Kxg7 41. Rd4 Rg1 42. a4 f5 43. Kb3 Kf7 44. a5 Ra1 45. Kb4
+Ke6 46. Kb5 Ke5 47. Rd8 Rb1+ 48. Kc6 Rc1+ 49. Kb7 Rb1+ 50. Ka7 Rh1 51. Rh8 f4
+52. a6 f3 53. Rf8 Rxh4 54. Rxf3 Kd6 55. Kb6 Rb4+ 56. Ka5 Rb1 57. a7 Ra1+ 58.
+Kb6 Rb1+ 59. Ka6 Ra1+ 60. Kb7 Rb1+ 61. Kc8 Rc1+ 62. Kd8 Ra1 63. Rf7 1-0

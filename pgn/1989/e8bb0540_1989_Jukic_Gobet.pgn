@@ -1,0 +1,20 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jukic, Mirko"]
+[Black "Gobet, Fernand"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "e8bb0540"]
+[Epoch "Queen"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Nc3 d5 6. Qb3 O-O 7. Bg2 e6 8. O-O b6
+9. Bf4 Bb7 10. Rac1 dxc4 11. Qxc4 Nd5 12. Bg5 Ba6 13. Qb3 Nxc3 14. bxc3 Qc8 15.
+Rfe1 c5 16. Nd2 Bb7 17. Ne4 c4 18. Qa4 Qc6 19. Qa3 Kh8 20. Bf3 Qc7 21. Qe7 Na6
+22. Kg2 Qxe7 23. Bxe7 Rfe8 24. Ba3 Bf8 25. Bxf8 Rxf8 26. Nd6 Bd5 27. e4 Rad8
+28. Nb5 Bb7 29. Nxa7 Ra8 30. Nb5 Bc6 31. Rb1 Nb8 32. Nd6 Rxa2 33. Nxc4 f5 34.
+Rb2 1-0

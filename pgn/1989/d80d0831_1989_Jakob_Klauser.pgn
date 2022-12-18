@@ -1,0 +1,23 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "5"]
+[White "Jakob, Simon"]
+[Black "Klauser, Markus"]
+[Result "0-1"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[HashCode "d80d0831"]
+[Epoch "Queen"]
+[WhiteID "1301110"]
+[BlackID "1300334"]
+[WhiteCountry "SUI"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Nbxd2 d6 6. g3 Qe7 7. Bg2 e5 8.
+e3 h6 9. Qc2 O-O 10. c5 e4 11. cxd6 cxd6 12. Ng1 d5 13. Ne2 Nc6 14. a3 Bg4 15.
+Qc5 Qxc5 16. dxc5 Ne5 17. Nc1 Rfc8 18. h3 Bf3 19. Bxf3 exf3 20. b4 b6 21. cxb6
+axb6 22. O-O Ne4 23. Ncb3 Rc3 24. a4 Rd3 25. Rfd1 Nc3 26. Nc1 Ne2+ 27. Kf1 Nxc1
+28. Raxc1 Rxa4 29. Ke1 Rxb4 30. Rb1 Ra4 31. Rxb6 Ra2 32. Rb3 Raxd2 33. Rb8+ Kh7
+34. Rxd2 Ra3 35. Rb1 Nc4 36. Rxd5 Ra2 37. Rf5 Re2+ 38. Kd1 Rxf2 39. Rxf7 Nxe3+
+0-1

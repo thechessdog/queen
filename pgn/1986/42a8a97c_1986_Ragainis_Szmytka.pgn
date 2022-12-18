@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ragainis, G."]
+[Black "Szmytka, G."]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "42a8a97c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 Bd6
+8. Kh1 Nc6 9. Nxc6 dxc6 10. f4 e5 11. Nd2 b5 12. a4 Rb8 13. c4 Bg4 14. Nf3
+O-O 15. f5 Bc5 16. Qc2 Bxf3 17. Rxf3 Qb6 18. h3 Bd4 19. axb5 axb5 20. cxb5
+cxb5 21. Bg5 Ra8 22. Rb1 Rfc8 23. Qe2 b4 24. Rff1 Ra2 25. Rfd1 h6 26. Bxf6
+Qxf6 27. Rd2 Qg5 28. Rc2 0-1
+

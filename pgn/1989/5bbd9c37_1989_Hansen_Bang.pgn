@@ -1,0 +1,24 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hansen, Lars"]
+[Black "Bang, Andreas"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "5bbd9c37"]
+[Epoch "Queen"]
+[WhiteID "1402528"]
+[WhiteCountry "DEN"]
+[BlackID "1400290"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Ne2 Re8 9. Qc2 Kh8 10. O-O Qc7 11. Ng3 Be6 12. c4 Nd7 13. Bd2 Nf8 14. Bc3 Ng6
+15. b3 Nh4 16. Qd1 Ng6 17. Bc2 Rad8 18. Kh1 Qd7 19. Re1 Nf4 20. Ne4 Bh3 21. Rg1
+Bg4 22. f3 Bh5 23. Nxd6 Qxd6 24. Re1 Kg8 25. Qd2 Bg6 26. Be4 Ne6 27. Rad1 Bxe4
+28. Rxe4 f5 29. Re5 f6 30. Re2 Nf4 31. Rxe8+ Rxe8 32. Re1 Rxe1+ 33. Qxe1 Ne6
+34. Qe3 Kf7 35. Kg1 b5 36. cxb5 cxb5 37. Kh1 Qc6 38. d5 Qxd5 39. Qxa7+ Kg6 40.
+Qe3 1-0

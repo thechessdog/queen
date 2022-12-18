@@ -1,0 +1,19 @@
+[Event "Regionalliga NordN"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lohmann, F."]
+[Black "Neumann, Joachim"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "39f49204"]
+[Epoch "Queen"]
+[BlackID "4608259"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. dxe7 Qxd1+ 7. Kxd1
+Nxf2+ 8. Ke1 Nxh1 9. exf8=Q+ Rxf8 10. Nf3 Bf5 11. g4 Bxg4 12. Nbd2 O-O-O 13.
+Bg2 Bxf3 14. Bxf3 Ne5 15. Bxh1 Nd3+ 16. Kd1 Nf2+ 17. Kc2 Nxh1 18. Ne4 Rfe8 19.
+Bg5 f6 0-1

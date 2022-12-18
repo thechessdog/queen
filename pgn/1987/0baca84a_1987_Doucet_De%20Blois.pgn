@@ -1,0 +1,19 @@
+[Event "Rouyn-Noranda"]
+[Site "Rouyn-Noranda"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Doucet, Yvan"]
+[Black "De Blois, Ghislain"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "0baca84a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bd6 4. cxd5 exd5 5. Nxd5 Bxh2 6. Nxc7+ Qxc7 7. g3
+Bxg1 8. Rxg1 Nf6 9. Bf4 Qd8 10. Qa4+ Nc6 11. Bg2 Bd7 12. Rc1 Qb6 13. Qa3
+Qxd4 14. Bd6 Ne4 15. Bxe4 Qxe4 16. Rc3 Qb1+ 17. Kd2 Qxg1 18. Rxc6 Bxc6 19.
+Qe3+ Be4 20. Qxe4+ Kd7 21. Qe7+ Kc6 22. Qc7+ Kd5 23. e4+ Kxe4 24. Qc4+ Kf3
+25. Qd5+ Kxf2 26. Bc5+ Kf1 27. Qf3+ Qf2+ 28. Qxf2# 1-0
+

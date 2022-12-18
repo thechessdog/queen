@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wolfram"]
+[Black "Kothe"]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "6b2904a9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7
+8. O-O Be6 9. f4 a5 10. f5 Bd7 11. a4 Nb4 12. Kh1 Bc6 13. Bf3 d5 14. exd5
+Nbxd5 15. Ne4 Qc7 16. c4 Nb6 17. c5 Nbd5 18. Qc2 O-O 19. Qf2 Rfd8 20. Qg3
+Nxe4 21. Bxe4 Bf6 22. Bh6 Kh8 23. Bg5 Bxg5 24. Qxg5 Nf6 25. Bxc6 Qxc6 26.
+Qe3 Qd5 27. h3 Qd3 28. Qxd3 Rxd3 29. Nc1 Rd2 30. b3 Ne4 31. Re1 Nxc5 32.
+Rxe5 Rd1+ 33. Kh2 Nd3 34. Nxd3 Rxa1 35. Rb5 g6 36. f6 Rf1 37. Rb6 Ra6 38.
+Rxb7 Rfxf6 39. Ne5 Kg7 40. Nd7 Rf5 41. g4 Rd5 42. Nb6 Rd3 43. Nc4 Re6 0-1
+

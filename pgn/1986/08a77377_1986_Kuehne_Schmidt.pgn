@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuehne, W."]
+[Black "Schmidt, T."]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "08a77377"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Nb6 14. dxe6
+Bxh1 15. e7 Qd7 16. exf8=Q+ Rxf8 17. Qe2+ Qe6 18. Nxb5 Qxe2+ 19. Kxe2 1-0
+

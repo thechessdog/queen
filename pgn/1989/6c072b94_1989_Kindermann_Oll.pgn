@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1989.06.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Oll, Lembit"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6c072b94"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[WhiteCountry "AUT"]
+[BlackCountry "EST"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 Bg4
+8. h3 Bxf3 9. Qxf3 Qd5 10. Be2 e6 11. O-O Be7 12. Bf4 1/2-1/2

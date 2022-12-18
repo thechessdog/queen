@@ -1,0 +1,17 @@
+[Event "Capablanca mem-B"]
+[Site "Capablanca mem-B"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lechtynsky, Jiri"]
+[Black "Huerta, Ramon"]
+[Result "1/2-1/2"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran, Alatortsev system"]
+[HashCode "4328a948"]
+[Epoch "Queen"]
+[WhiteID "300217"]
+[WhiteCountry "CZE"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Bg5 dxc4 5. Nc3 c6 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 Nd5 10. Nxf7 Qxh4 11. Nxh8 Bb4 1/2-1/2

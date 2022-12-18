@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Oomen"]
+[Black "Hannink"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "654a987d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Qf3 Qh4+ 5. g3 fxg3 6. hxg3 Qf6 7. Qe3+
+Be7 8. Nc3 Qg6 9. Nge2 Na6 10. Nf4 Qxc2 11. d6 cxd6 12. Nfd5 Be6 13. Bd3
+Bxd5 14. Rh4 Qxd3 15. Qxd3 Bxh4 16. Nxd5 Bd8 17. Qb5+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Meinzer, D."]
+[Black "Fricke, Mi"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "9a031872"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. h3
+d6 9. d3 Na5 10. Nbd2 Nxb3 11. axb3 Qd7 12. Nf1 O-O-O 13. Be3 Bxe3 14. Nxe3 g6
+15. c4 c6 16. Nc2 c5 17. cxb5 axb5 18. Ra7 Ne8 19. Qa1 Nc7 20. Qa5 f6 21. Rc1
+Kb8 22. Ne3 Rc8 23. Ra1 Rcf8 24. Nd5 Nxd5 25. exd5 Rc8 26. Qb6 1-0

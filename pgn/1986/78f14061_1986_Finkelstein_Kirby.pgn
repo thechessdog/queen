@@ -1,0 +1,21 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Finkelstein"]
+[Black "Kirby, J."]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "78f14061"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 Ne4 7. Qc2 Nd7
+8. e3 Ndf6 9. Nd2 b6 10. cxd5 Qxd5 11. Nxe4 Qxe4 12. Qxe4 Nxe4 13. Bb5+ Bd7
+14. Bxd7+ Kxd7 15. Bd2 Rac8 16. f3 Nxd2 17. Kxd2 c5 18. Rac1 Rc7 19. Rc2
+Rhc8 20. Rhc1 Kd6 21. Kd3 e5 22. h4 cxd4 23. cxd4 Rxc2 24. Rxc2 Rxc2 25.
+Kxc2 exd4 26. exd4 Kd5 27. Kc3 a6 28. g4 b5 29. g5 a5 30. f4 b4+ 31. axb4
+axb4+ 32. Kxb4 Kxd4 33. Kb5 Ke4 34. Kc6 Kxf4 35. Kd6 Kg4 36. Ke7 Kxh4 37.
+Kxf7 Kxg5 38. Kxg7 h5 0-1
+

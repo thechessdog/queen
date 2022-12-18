@@ -1,0 +1,18 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sande, Oystein"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "bdf798a9"]
+[Epoch "Queen"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+[WhiteID "1500325"]
+[WhiteCountry "NOR"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 b6 4. e4 Bb4 5. f3 d6 6. Qa4+ Nc6 7. d5 b5 8. Qxb5 a6
+9. Qa4 exd5 10. cxd5 Nxd5 11. Qxc6+ Bd7 12. Qxd5 1-0

@@ -1,0 +1,18 @@
+[Event "Steglitz-ch"]
+[Site "Berlin-West"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mack, Peter"]
+[Black "Podewils"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "a1e7931c"]
+[Epoch "Queen"]
+[WhiteID "4603265"]
+[WhiteCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 dxe5 8.
+fxe5 Ne8 9. Ng5 Nb6 10. Be3 f5 11. Qe2 e6 12. h4 h5 13. O-O-O c6 14. g4 hxg4
+15. h5 Bh6 16. hxg6 Bxg5 17. Qh2 Bh4 18. Qxh4 Qxh4 19. Rxh4 Kg7 20. Rh7+ 1-0

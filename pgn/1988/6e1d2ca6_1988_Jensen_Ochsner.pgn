@@ -1,0 +1,20 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1988.01.01"]
+[Round "7"]
+[White "Jensen, Vagn"]
+[Black "Ochsner, Thomas"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "6e1d2ca6"]
+[Epoch "Queen"]
+[WhiteID "1400851"]
+[BlackID "1400711"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 b5 8. e5
+Nxe5 9. Nxe5 bxa4 10. Qxd4 O-O 11. Nc3 Rb8 12. a3 Bb7 13. Bg5 d6 14. Ng4 Nd5
+15. Rxe7 Nxe7 16. Nf6+ gxf6 17. Bxf6 Qd7 18. Qh4 Qf5 0-1

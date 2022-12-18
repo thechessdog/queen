@@ -1,0 +1,18 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neumann"]
+[Black "Lambert, Andreas"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "c408d331"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
+Be3 Bd7 9. Bxc6 bxc6 10. O-O Qe7 11. Re1 O-O 12. f3 Ng5 13. Nd2 f6 14. exf6
+Qxf6 15. c3 Rae8 16. Nf1 Bd6 17. Qd2 Nf7 18. Rad1 Ne5 19. b3 c5 20. Ne2 Bc6 21.
+Nfg3 Qxf3 22. gxf3 Nxf3+ 23. Kg2 d4 24. Qc1 Nxe1+ 25. Kg1 Nf3+ 26. Kf1 dxe3 27.
+c4 Nxh2+ 28. Ke1 Rf1+ 29. Nxf1 Nf3# 0-1

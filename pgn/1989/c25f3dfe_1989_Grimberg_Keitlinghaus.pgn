@@ -1,0 +1,30 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grimberg, Gilbert"]
+[Black "Keitlinghaus, Ludger"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "c25f3dfe"]
+[Epoch "Queen"]
+[WhiteID "600474"]
+[WhiteCountry "FRA"]
+[BlackID "4600479"]
+[BlackCountry "GER"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. a3 a6 6. Rb1 Rb8 7. b4 cxb4 8. axb4
+b5 9. c5 Bb7 10. Nf3 Ne5 11. O-O Nxf3+ 12. exf3 Nh6 13. g4 O-O 14. d4 f5 15. g5
+Nf7 16. f4 Bxg2 17. Kxg2 d5 18. Re1 Qd7 19. Ra1 Ra8 20. Ra2 Nd8 21. Qb3 e6 22.
+Be3 Nc6 23. Ne2 Ra7 24. Rea1 Rfa8 25. Qc3 Qb7 26. Nc1 a5 27. bxa5 b4 28. Qb2
+Nxa5 29. Ra4 Nc6 30. Rxa7 Rxa7 31. Nb3 Qa8 32. Rxa7 Qxa7 33. Qe2 Qa4 34. Qd3
+Kf7 35. h3 Ke7 36. Kh2 Kd7 37. Kg2 Kc7 38. Kf3 Kb7 39. Ke2 Qa6 40. Kd2 Qxd3+
+41. Kxd3 Ka6 42. Kc2 Kb5 43. h4 Ka4 44. Kb2 Bf8 45. Kc2 Be7 46. Kb2 Bd8 47. Bd2
+Bc7 48. Be3 Na7 49. c6 Bd6 50. c7 Kb5 51. Bd2 Kb6 52. Nc5 Bxc5 53. dxc5+ Kxc5
+54. Kb3 Kc6 55. Be3 Nc8 56. Kxb4 Kxc7 57. Bd4 Kc6 58. Ka5 Nd6 59. Kb4 Nc4 60.
+Kc3 Nd6 61. Kb4 Nc4 62. Kc3 Kd6 63. Kd3 e5 64. fxe5+ Nxe5+ 65. Ke3 Nd7 66. Ba7
+Ne5 67. f3 Nc6 68. Bb6 Ke5 69. Bc7+ Ke6 70. Bb6 Ne5 71. Ba7 Nc4+ 72. Kd3 f4 73.
+Ke2 Ne3 74. Bb8 Nf5 75. Bxf4 Nxh4 76. Bg3 Nf5 77. Bf2 Ke5 78. Be1 Nd4+ 79. Kf2
+Ne6 80. Ke3 Kf5 0-1

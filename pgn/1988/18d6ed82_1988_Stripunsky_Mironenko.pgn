@@ -1,0 +1,19 @@
+[Event "Dneproptrovsk"]
+[Site "Dneproptrovsk"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stripunsky, A."]
+[Black "Mironenko, A."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "18d6ed82"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+
+g6 8. Qd5+ Kg7 9. Qxe4 e5 10. cxd6 Qxd6 11. Nf3 Bf5 12. Qe3 Bd3 13. b3 Rd8
+14. Bb2 Qd5 15. c4 Bb4+ 16. Nbd2 Bxd2+ 17. Kxd2 Bxc4+ 18. Kc1 Bb5 19. Nxe5
+Rhe8 20. Nxc6+ Kg8 21. Ne5 Rc8+ 22. Bc3 Rxe5 23. Qg3 Qc5 24. Rd1 Qxc3+ 25.
+Qxc3 Rxc3+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bondick, Karl"]
+[Black "Kohn"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "7b8b85f7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 g5 7. Bg3 Ne4 8.
+Qc2 Qf6 9. Rc1 exd5 10. cxd5 Qd4 11. Nf3 Qxd5 12. Be5 O-O 13. e3 f5 14. Bd3
+Nc6 15. O-O Bxc3 16. Bxc3 Qe6 17. b3 Nxc3 18. Qxc3 b6 19. Rfd1 d5 20. Nd4
+Qf6 21. Nxc6 Qxc6 22. Be2 Be6 23. Rd2 Rad8 24. Rcd1 Rd6 25. Qe5 Rfd8 26. g3
+Qd7 27. f4 Qg7 28. Kf2 d4 29. exd4 Qxe5 30. fxe5 Rxd4 31. Rxd4 cxd4 32. Bf3
+Kf7 33. Rc1 Rc8 34. Rxc8 Bxc8 35. Bd5+ Ke7 36. Ke2 Ba6+ 37. Kd2 Kd7 38. b4
+Bb5 39. a4 Bc6 40. Bc4 Be4 41. Ke2 Kc6 42. Kd2 f4 43. gxf4 gxf4 44. Ke2 a5
+45. Bb5+ Kd5 0-1
+

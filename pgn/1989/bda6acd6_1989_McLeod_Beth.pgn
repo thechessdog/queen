@@ -1,0 +1,20 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McLeod"]
+[Black "Beth"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "bda6acd6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. Nbd2 O-O-O
+8. h3 Bxf3 9. Nxf3 Qe6 10. O-O Qxc4 11. b3 Qb5 12. a4 Qb6 13. Bb2 f6 14.
+exf6 Nxf6 15. a5 Nxa5 16. Bxd4 Bc5 17. Bxc5 Qxc5 18. Qb1 Nc6 19. Rc1 Qb5
+20. Qc2 Kb8 21. Ne1 Rd6 22. Nd3 Re8 23. b4 Qb6 24. e3 Red8 25. b5 Qxb5 26.
+Rcb1 Qxd3 27. Qxd3 Rxd3 28. Bxc6 b6 29. Kg2 Rc3 30. Bf3 Rdd3 31. Ra4 Ra3
+32. Rc4 Ra2 0-1
+

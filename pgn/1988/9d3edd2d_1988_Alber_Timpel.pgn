@@ -1,0 +1,18 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Alber, H."]
+[Black "Timpel, K."]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "9d3edd2d"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. d4 e6 3. g3 b6 4. Bg2 Bb7 5. c4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 d6
+8. Nc3 Nbd7 9. d5 e5 10. O-O Nf8 11. e4 Ng6 12. Ne1 O-O 13. Nd3 a5 14. b3
+Nd7 15. a3 Nc5 16. Nc1 Bc8 17. Ra2 f5 18. exf5 Bxf5 19. b4 axb4 20. axb4
+Rxa2 21. Qxa2 Nd3 1/2-1/2
+

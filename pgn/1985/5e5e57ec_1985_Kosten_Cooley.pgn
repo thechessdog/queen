@@ -1,0 +1,19 @@
+[Event "Wales op"]
+[Site "Wales op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kosten, Anthony C."]
+[Black "Cooley, C."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "5e5e57ec"]
+[Epoch "Queen"]
+[WhiteID "400114"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Nxc3 11. bxc3 Bd7 12. Qe2 a6 13. h4 b5 14. Ng5 h6
+15. Nh7 Re8 16. Qh5 f5 17. Ng5 hxg5 18. hxg5 Qa5 19. Bxf5 Qxc3 20. Qh7+ Kf8 21.
+Qh8+ Kf7 22. g6+ Kf6 23. Qh4+ Kxf5 24. Qh5+ Kf6 25. Qg5# 1-0

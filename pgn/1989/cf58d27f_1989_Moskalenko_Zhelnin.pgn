@@ -1,0 +1,23 @@
+[Event "Kotov mem"]
+[Site "Odessa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moskalenko, Viktor"]
+[Black "Zhelnin, Vladimir V"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "cf58d27f"]
+[Epoch "Queen"]
+[BlackID "4105567"]
+[BlackCountry "RUS"]
+[WhiteID "14100100"]
+[WhiteCountry "ESP"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nd5 9. Nxd5 Qxd5 10. c3 Na5 11. Qe2 c5 12. Be4 Qd8 13. dxc5 Qc7 14. Be3 Bg4 15.
+Bd4 Nc6 16. Bxc6 Qxc6 17. O-O Rad8 18. b4 Rd5 19. h3 Bxf3 20. Rxf3 e6 21. a4
+Qc7 22. Re3 a5 23. Rb1 axb4 24. Rxb4 Rc8 25. Qb2 Rd7 26. Rb6 Bf8 27. Rd6 Bxd6
+28. exd6 Qc6 29. Qf2 f5 30. Rxe6 Qd5 31. Qe2 Rf8 32. Re7 Rxe7 33. Qxe7 Rf7 34.
+Qe8+ Rf8 35. Qe7 Rf7 36. Qe8+ Rf8 37. d7 f4 38. Qe7 Qf7 39. d8=Q 1-0

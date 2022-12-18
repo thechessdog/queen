@@ -1,0 +1,31 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Grotnes, Nils"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "d472a34a"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "1500317"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bf4 Bb4 6. Qb3 a5 7. e3 Ne4 8. Bd3
+Bxc3+ 9. bxc3 d6 10. O-O Nd7 11. Qc2 f5 12. Nd2 Nxd2 13. Qxd2 e5 14. Bg3 e4 15.
+Be2 O-O 16. Rab1 Bc6 17. Rb3 Qe7 18. c5 bxc5 19. Rfb1 cxd4 20. cxd4 Nb6 21. Rc3
+Bd5 22. Rbc1 Ra7 23. h4 Rb8 24. Qc2 Rbb7 25. Ra3 Qe6 26. Bb5 g6 27. Qc3 Bxa2
+28. Bc6 Rb8 29. Rxa5 Rxa5 30. Qxa5 Rf8 31. Bf4 Bd5 32. Bh6 Rc8 33. Bb5 Ra8 34.
+Qc3 Ra7 35. Ra1 Ba2 36. Qb2 Qd5 37. Be2 Ra8 38. Bd1 Nc4 39. Qc2 Qa5 40. Be2 d5
+41. Bf4 Qd2 42. Qxd2 Nxd2 43. Bxc7 Nb3 44. Re1 Rc8 45. Bd6 Rc1 46. Rxc1 Nxc1
+47. Bb5 Bc4 48. Bd7 Ne2+ 49. Kh2 h5 50. Be8 Kh7 51. Be5 Ba6 52. Bd7 Bc4 53. g3
+Nc1 54. Bc7 Kg7 55. Be8 Nd3 56. Kg1 Ba6 57. Bc6 Bc4 58. Ba5 Kf7 59. Kg2 Ke7 60.
+f3 exf3+ 61. Kxf3 Kf7 62. Ba8 Ke7 63. Bc6 Kf7 64. Bd8 Ne1+ 65. Kf4 Ng2+ 66. Ke5
+Nxe3 67. Bg5 Ng4+ 68. Kd6 Nf6 69. Bf4 Bb3 70. Bb7 Ne8+ 71. Ke5 Nc7 72. Bc8 Bc4
+73. Bg5 Kg7 74. Bf6+ Kh7 75. Bd7 Nb5 76. Ke6 Nc3 77. Kf7 Ne4 78. Be5 Nf2 79.
+Be6 Ng4 80. Bf4 Bb3 81. Kf8 Nh6 82. Ke7 Ng8+ 83. Kf8 Nh6 84. Bxh6 Kxh6 85. Kf7
+Bc2 86. Kf6 Be4 87. Bf7 Bb1 88. Bxd5 1-0

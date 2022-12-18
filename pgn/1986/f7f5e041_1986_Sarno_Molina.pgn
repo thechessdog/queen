@@ -1,0 +1,19 @@
+[Event "Pinerola"]
+[Site "Pinerola"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sarno, Spartaco"]
+[Black "Molina"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "f7f5e041"]
+[Epoch "Queen"]
+[WhiteID "800120"]
+[WhiteCountry "ITA"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3 Nd7 15.
+a5 Qh4 16. g4 Nhf6 17. f3 Ne5 18. Kh1 h5 19. g5 Nh7 20. Rg1 c4 21. Rg3 Nd3 22.
+Nxc4 Nf4 23. Qd2 Be5 24. Nxe5 dxe5 25. Ne2 1-0

@@ -1,0 +1,23 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1989.07.01"]
+[Round "1"]
+[White "Peelen, Piet"]
+[Black "Crisan, Alexandru"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "2ac2fa83"]
+[Epoch "Queen"]
+[WhiteID "1000403"]
+[WhiteCountry "NED"]
+[BlackID "1201271"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 Nc6 6. Bc4 e6 7. Be3 Be7 8.
+Qe2 a6 9. O-O-O O-O 10. Rhg1 Nxd4 11. Bxd4 b5 12. Bb3 Bb7 13. e5 dxe5 14. Bxe5
+Qb6 15. g4 Rfd8 16. g5 Nd7 17. Bd4 Bc5 18. Rg4 Bxd4 19. Rgxd4 Nc5 20. Qe3 Nxb3+
+21. axb3 Rxd4 22. Qxd4 Qxd4 23. Rxd4 Bc6 24. Kd2 Kf8 25. Ke3 Ke7 26. b4 e5 27.
+Rh4 Rh8 28. f4 exf4+ 29. Kxf4 f6 30. Rh3 Kf7 31. Rd3 fxg5+ 32. Kxg5 h6+ 33. Kf4
+Ke6 34. Ne2 Rf8+ 35. Kg3 g5 36. Nd4+ Kd5 37. Nf5+ Kc4 38. Rd4# 1-0

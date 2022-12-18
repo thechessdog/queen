@@ -1,0 +1,18 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brenninkmeijer, Joris"]
+[Black "Welling, Gerard"]
+[Result "1-0"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "81bf9557"]
+[Epoch "Queen"]
+[BlackID "1000446"]
+[BlackCountry "NED"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. Nc3 Be7 5. g3 O-O 6. Bg2 d5 7. O-O c6 8. Bf4
+Bd7 9. Qb3 Qb6 10. c5 Qa6 11. Qc2 b6 12. b4 Qc4 13. Qb2 a5 14. Na4 Qxb4 15.
+Qxb4 axb4 16. Nxb6 Ra3 1-0

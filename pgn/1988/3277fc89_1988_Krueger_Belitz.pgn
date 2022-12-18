@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Krueger, H."]
+[Black "Belitz"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "3277fc89"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Bc5 7. Nf3 Nc6
+8. O-O b5 9. Re1 Nf6 10. Bg5 Bb7 11. Qd2 Nd4 12. Nxd4 Bxd4 13. Nd1 Rd8 14.
+c3 Bb6 15. e5 h6 16. Be3 Nd5 17. Bxb6 Nxb6 18. f4 d6 19. f5 dxe5 20. fxe6
+e4 21. exf7+ Kf8 22. Nf2 exd3 23. Qe3 Qxf7 24. Qxb6 Qd5 25. Qg6 d2 26. Re2
+Qf7 27. Qg3 Qh5 28. Rxd2 Rxd2 29. Qf4+ Kg8 30. Qxd2 Qg6 31. Qd8+ Kh7 32.
+Qd3 Re8 33. Qxg6+ Kxg6 34. Kf1 Bd5 35. b3 Rc8 36. Rd1 Be6 37. Rd6 Kf7 38.
+Rxa6 Rxc3 39. g3 Rc2 40. Ne4 b4 41. h4 Bg4 42. Ra4 Bf3 43. Rxb4 Rxa2 44.
+Nc3 Bg2+ 45. Kg1 Rc2 46. Nd1 Re2 47. Rf4+ Ke6 48. Rf2 Re1+ 49. Kxg2 Rxd1
+50. Rb2 Rd5 51. b4 Rb5 52. Kf3 g5 53. h5 Kd5 54. Kg4 Ke6 55. Re2+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Junge"]
+[Black "Kummer"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...Nbd7"]
+[HashCode "f57d3f10"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nbd7 8.
+a3 Ba5 9. Qc2 dxc4 10. Bxc4 cxd4 11. exd4 Bxc3 12. Qxc3 b6 13. Bf4 Bb7 14.
+Qd3 Nd5 15. Bg3 Rc8 16. Rac1 N7f6 17. Rfe1 Re8 18. Bb5 Rxc1 19. Rxc1 Re7
+20. Ba6 Nh5 21. Bxb7 Rxb7 22. Bd6 f6 23. g4 Nhf4 24. Bxf4 Nxf4 25. Qe4 Qb8
+26. Rc6 Rd7 27. Qc2 Qb7 28. h4 g6 29. d5 exd5 30. Rxf6 Rf7 31. Rxf7 1/2-1/2
+

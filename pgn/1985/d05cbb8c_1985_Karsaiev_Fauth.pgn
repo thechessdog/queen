@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Karsaiev, AI."]
+[Black "Fauth, H."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "d05cbb8c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O
+8. e5 Ne8 9. c3 dxc3 10. Nxc3 d6 11. exd6 Nxd6 12. Nd5 Be6 13. Bf4 Bxd5 14.
+Qxd5 Nb4 15. Qd4 a5 16. a3 Na6 17. Re2 Bf6 18. Qd5 b6 19. Rd1 Nc5 20. Bc2
+Qc8 21. Bxd6 cxd6 22. Qxd6 Ne6 23. Qxb6 Nf4 24. Red2 Qg4 25. Ne1 Rfe8 26.
+f3 Qg5 27. Kf1 Rab8 28. Qf2 Bxb2 29. Bxh7+ Kxh7 30. Rxb2 Rxb2 31. Qxb2 Re2
+32. Qb1+ g6 33. Rd7 Qh4 34. Nd3 Qxh2 35. Rxf7+ Kh6 36. Rh7+ Kxh7 37. Qb7+
+Kh6 38. Nxf4 Ra2 39. Ne2 Qh4 40. Qc8 Ra1+ 41. Nc1 Qf6 42. Qh3+ Kg7 43. Qd7+
+Kf8 44. Qc8+ Kf7 45. Qc4+ Qe6 46. Qc7+ Kf6 47. Qd8+ Kf5 48. Kf2 Rxc1 49.
+g4+ Ke5 50. Qg5+ Kd6 51. Qxc1 Qe5 52. f4 Qd4+ 53. Qe3 Qb2+ 54. Kg3 Qb5 55.
+Kh4 a4 56. Qe4 1-0
+

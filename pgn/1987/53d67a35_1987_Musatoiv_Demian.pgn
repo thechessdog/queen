@@ -1,0 +1,17 @@
+[Event "corr RUM/C"]
+[Site "corr RUM/C"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Musatoiv"]
+[Black "Demian"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "53d67a35"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Nf3
+e6 8. Bd3 Bg4 9. c3 Nd7 10. h3 Bh5 11. Be3 Nb6 12. g4 Bg6 13. Bxg6 hxg6 14.
+Qe2 Qd5 15. b3 O-O-O 16. O-O-O Ba3+ 17. Kb1 Qe4+ 18. Ka1 Nd5 0-1
+

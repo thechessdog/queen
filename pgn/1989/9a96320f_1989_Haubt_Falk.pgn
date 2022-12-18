@@ -1,0 +1,20 @@
+[Event "Oberursel"]
+[Site "Oberursel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haubt, G."]
+[Black "Falk, T."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "9a96320f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Nge2 Bd6 7. Ng3 Bg6
+8. Bd3 Bxd3 9. Qxd3 g6 10. e4 Bxg3 11. hxg3 dxe4 12. Qxe4+ Qe7 13. O-O-O
+Nd7 14. Rhe1 Qxe4 15. Nxe4 O-O 16. Nd6 b5 17. Re7 Nb6 18. Rc7 Nd5 19. Rxc6
+a6 20. Rc5 Nb6 21. d5 Rfd8 22. Rc6 Nd7 23. Ne4 Kg7 24. b3 f5 25. Nc5 Ne5
+26. Rxa6 Rac8 27. Nb7 Rd7 28. Nd6 Rb8 29. Re1 Re7 30. Re3 Kf8 31. c4 bxc4
+32. bxc4 Nd7 33. Ra7 Rxe3 34. fxe3 Ne5 35. Kc2 Ng4 36. Rxf7+ Kg8 37. Re7
+Nf6 38. Rc7 Rd8 39. Rc8 1-0
+

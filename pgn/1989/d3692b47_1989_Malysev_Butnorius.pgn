@@ -1,0 +1,17 @@
+[Event "Szekszard op"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Malysev, Vasily"]
+[Black "Butnorius, Algimantas"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "d3692b47"]
+[Epoch "Queen"]
+[BlackID "12800066"]
+[BlackCountry "MNC"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Bd3 e5 6. Ne2 d5 7. cxd5 Nxd5 8. O-O
+1/2-1/2

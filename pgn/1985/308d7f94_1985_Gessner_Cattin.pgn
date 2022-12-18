@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gessner, O."]
+[Black "Cattin, R."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "308d7f94"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Nd7 6. Nxf5 Qa5+ 7. Bd2
+Qxf5 8. Bd3 Qd5 9. Nf3 Ngf6 10. O-O e5 11. dxe5 Ng4 12. Qe2 Ngxe5 13. Nxe5
+Qxe5 14. Qxe5+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sloan"]
+[Black "Lamp"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 6...Nc6"]
+[HashCode "51230df1"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8.
+Be2 e6 9. O-O Bxf3 10. Bxf3 Qxd4+ 11. Qxd4 Nxd4 12. Bxb7 Rb8 13. Ba6 Nc2
+14. Bb5+ Kd8 15. Bg5+ Kc8 16. Ba6+ Kd7 17. Nc3 Nxa1 18. Rxa1 Bc5+ 19. Kf1
+c6 20. Rd1+ Kc7 21. Ne4 Bf8 22. Nd6 Bxd6 23. exd6+ Kd7 24. Be3 f6 25. b3 e5
+26. g3 f5 27. b4 Nxc4 28. Bxc4 Rxb4 29. Bb3 a5 30. Bc5 Rg4 31. Rb1 a4 32.
+Bf7 Rd8 33. Rb7+ 1-0
+

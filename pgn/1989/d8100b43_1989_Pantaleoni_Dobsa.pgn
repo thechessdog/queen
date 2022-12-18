@@ -1,0 +1,20 @@
+[Event "Magistrale"]
+[Site "Magistrale"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pantaleoni, L."]
+[Black "Dobsa, S."]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "d8100b43"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 b5 8.
+Qe2 e5 9. Nf5 b4 10. Nd5 Nxd5 11. exd5 g6 12. fxe5 dxe5 13. d6 Bxd6 14.
+Nxd6+ Qxd6 15. Be3 Bb7 16. Bh6 Nd7 17. O-O-O Qc7 18. Rhe1 Rc8 19. Kb1 f5
+20. Bxf5 gxf5 21. Qh5+ Ke7 22. Qxf5 Qxc2+ 23. Qxc2 Rxc2 24. Kxc2 Bxg2 25.
+Kb3 Rb8 26. Rg1 Bc6 27. Rg7+ Ke6 28. Rxh7 Ba4+ 29. Kxa4 Nc5+ 30. Ka5 Rb5#
+0-1
+

@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schreiber, W."]
+[Black "Bucka, R."]
+[Result "1-0"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "6a98970a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Bd3 Qa5 13. Kb1 b4 14. Ne2
+Qc5 15. Ng3 a5 16. f5 a4 17. Nh5 a3 18. b3 Ne5 19. Be2 Rc8 20. Nd4 Bc6 21.
+Ng7+ Kd7 22. fxe6+ fxe6 23. Ngxe6 Qb6 24. Nxc6 Rxc6 25. Nf4 Rhc8 26. Nd5
+Qb8 27. Nxb4 Rc3 28. Qd4 Ke8 29. Rd2 Kf8 30. Nd5 R3c5 31. Rf1 Nc6 32. Rxf6+
+Bxf6 33. Qxf6+ 1-0
+

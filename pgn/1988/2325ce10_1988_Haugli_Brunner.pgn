@@ -1,0 +1,22 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Haugli, Petter"]
+[Black "Brunner, Lucas"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "2325ce10"]
+[Epoch "Queen"]
+[BlackID "1300024"]
+[BlackCountry "SUI"]
+[WhiteID "1500104"]
+[WhiteCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. b3 O-O 13. Bf4 Nxd4 14. Nfxd4 Bxf4
+15. Nxf4 e5 16. Nxd5 Qxd4 17. Nc7 Bg4 18. Bc4+ Qxc4 19. bxc4 Bxd1 20. Nxa8 Be2
+21. Rfe1 Bxc4 22. Rec1 Bd5 23. Nc7 Bc6 24. Rab1 Ne4 25. Rb2 Nd6 26. Rd2 Ne4 27.
+Re2 Rd8 28. f3 Nf6 29. Rxe5 Rd2 30. Ra5 a6 31. Nxa6 Nd5 32. Nb8 Nf4 33. Rc4 1-0

@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Markkanen"]
+[Black "Aho"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "fde58d14"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Ne7 6. d4 exd4 7. Nxd4
+Qd6 8. Be3 Qg6 9. Nd2 h5 10. Bf4 Bh3 11. Qf3 Bg4 12. Qe3 O-O-O 13. N4b3 c5
+14. Nxc5 Nc6 15. Ncb3 f6 16. f3 Be6 17. Kh1 h4 18. Rfd1 Qh5 19. h3 Be7 20.
+Nf1 Bxb3 21. Qxb3 Nd4 22. Qc4 c5 23. a4 Qe8 24. c3 Nc6 25. Qe6+ Rd7 26. Rd5
+Bd8 27. Qg4 g5 28. Rad1 Rh7 29. Bh2 b6 30. Ne3 Bc7 31. Nc4 b5 32. Nd6+ Bxd6
+33. Rxd6 Kd8 34. Qf5 1-0
+

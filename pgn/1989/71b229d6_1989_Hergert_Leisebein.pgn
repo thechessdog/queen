@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hergert, V."]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "71b229d6"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 f5 4. Bg5 g6 5. f3 Bg7 6. d5 h6 7. Bh4 Qd6 8. fxe4
+Qb4 0-1

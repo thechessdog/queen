@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pihlajamaki"]
+[Black "Kortelainen"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "5e505b45"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8.
+cxd5 Bxf1 9. Kxf1 exd5 10. g3 O-O 11. Kg2 Re8 12. b4 Nc6 13. b5 Na5 14. a4
+Nc4 15. Re1 Qd7 16. Qd3 Nd6 17. Bb2 Nde4 18. Nxe4 Nxe4 19. h4 Re6 20. Qe2
+Rg6 21. Rg1 Re8 22. Kh2 Rh6 23. Rg2 f5 24. Kg1 f4 25. Qf3 fxg3 26. fxg3 Rf8
+27. Qe2 Qh3 0-1
+

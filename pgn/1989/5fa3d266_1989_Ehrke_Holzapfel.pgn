@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ehrke, Michael"]
+[Black "Holzapfel, Daniel"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "5fa3d266"]
+[Epoch "Queen"]
+[WhiteID "4607880"]
+[BlackID "4604059"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Qd2 e6 6. e3 Be7 7. g4 Bg6 8. Bf4
+a6 9. h4 h6 10. Bd3 Bxd3 11. Qxd3 c5 12. Nge2 Qa5 13. a3 Rc8 14. Kf2 cxd4 15.
+exd4 Qb6 16. Kg2 g6 17. Rae1 Qc6 18. Qe3 h5 19. g5 Nh7 20. Na2 a5 21. c3 Qb5
+22. Nac1 Qxb2 23. Nd3 Qb6 24. a4 O-O 25. Rb1 Qc6 26. Rb5 b6 27. Rhb1 Rfe8 28.
+R1b3 Nhf8 29. Be5 Qc4 30. Nb2 Qc6 31. Nd3 Qc4 32. Nb2 Qc6 33. Nd3 Bd8 34. Qf4
+Qc4 35. Qe3 Qc6 36. Bg3 Qc4 37. Bd6 Qc6 38. Ba3 Be7 39. Bxe7 Rxe7 40. Nef4 Qc7
+41. Nxd5 exd5 42. Qxe7 Ne6 43. Rxd5 Rd8 44. Rd6 Qc8 45. Rxe6 fxe6 46. Qxe6+ Kg7
+47. Ne5 Nf8 48. Qe7+ Kg8 49. Rxb6 Qxc3 50. Rxg6+ Nxg6 51. Qf7+ 1-0

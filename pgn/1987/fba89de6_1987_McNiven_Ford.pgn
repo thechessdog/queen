@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "6"]
+[White "McNiven"]
+[Black "Ford, P."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "fba89de6"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Qa5+ 7. Bd2 Qf5
+8. O-O-O Rg8 9. g3 Qd5 10. Bh3 Qxa2 11. c4 Bxh3 12. Nxh3 Nd7 13. Kc2 Nb6 14.
+Qb3 Qxb3+ 15. Kxb3 O-O-O 16. Ba5 Rd7 17. Nf4 e5 18. Bxb6 axb6 19. Ne2 Bg7 20.
+d5 Rgd8 21. Nc3 f5 22. dxc6 bxc6 23. Rxd7 Rxd7 24. Rd1 e4 25. Rxd7 Kxd7 26. Ne2
+Kd6 27. Kc2 Kc5 28. b3 Bd4 29. Nxd4 Kxd4 30. Kd2 c5 31. h3 h5 32. h4 f6 33. Kc2
+Ke5 34. b4 Kd4 35. bxc5 bxc5 0-1

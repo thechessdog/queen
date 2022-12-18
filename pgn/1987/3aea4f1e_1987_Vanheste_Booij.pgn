@@ -1,0 +1,19 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vanheste"]
+[Black "Booij"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's lesser variation"]
+[HashCode "3aea4f1e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 b6 9. h4 Nc6 10. h5 Na5 11. Bd3 e5 12. Be3 c6 13. Qd2 Qe7 14. hxg6
+hxg6 15. f4 exd4 16. cxd4 c5 17. e5 Bb7 18. O-O cxd4 19. Nxd4 Rad8 20. Qe2
+Bd5 21. Rac1 Rc8 22. Nb5 Qd7 23. Rfd1 Rxc1 24. Rxc1 Bh6 25. Rc7 Qd8 26. Qg4
+Bb7 27. Rd7 Qa8 28. Nc7 Qc8 29. e6 1-0
+

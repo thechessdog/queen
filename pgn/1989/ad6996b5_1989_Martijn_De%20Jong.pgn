@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martijn, J."]
+[Black "De Jong, Peter"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "ad6996b5"]
+[Epoch "Queen"]
+[BlackID "1033514"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 Qg4 7. d5 Qxe4+ 8.
+Be3 Nd4 9. Qa4+ b5 10. Qa6 Nc2+ 11. Kd1 Nb4 12. Qxb5+ Kd8 13. Ne1 Nf6 14. Nd2
+Qf5 15. a3 Nd3 16. Qb7 Rc8 17. Nxd3 Qxd3 18. Qxa7 g6 19. Re1 Rc7 20. Qb8+ Rc8
+21. Qb6+ Kd7 22. f3 Bg7 23. a4 h5 24. a5 1-0

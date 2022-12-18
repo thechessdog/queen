@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Cavajda, I."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "383f360f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 Bd6 6. Bg5 c6 7. Bd3 O-O
+8. O-O Re8 9. h3 Nbd7 10. Bf5 Nf8 11. Bxc8 Rxc8 12. Nh4 Ne6 13. Bxf6 Qxf6
+14. Nf3 Nf4 15. Ne2 Nxe2+ 0-1
+

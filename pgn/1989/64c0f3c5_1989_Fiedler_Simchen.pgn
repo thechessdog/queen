@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fiedler, R."]
+[Black "Simchen, L."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "64c0f3c5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Nd4 9. d6 cxd6 10. c3 Bg4 11. Qa4+ Nd7 12. Nf7 Bh4 13. Nxd6+
+Qxd6 14. g3 Qf6+ 15. Ke1 Nf3+ 16. Ke2 Nxh2+ 0-1
+

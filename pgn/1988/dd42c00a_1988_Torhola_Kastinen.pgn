@@ -1,0 +1,28 @@
+[Event "Tampere op"]
+[Site "Tampere"]
+[Date "1988.01.01"]
+[Round "5"]
+[White "Torhola, Simo"]
+[Black "Kastinen, Riku"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "dd42c00a"]
+[Epoch "Queen"]
+[BlackID "503215"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. Bg5 Nbd7 10. Qd2 Re8 11. Nce2 Rb8 12. c4 Qc7 13. b3 Nc5 14. Nc3 Qa5 15.
+Rad1 Ne6 16. Bxf6 exf6 17. Nce2 Qxd2 18. Rxd2 Nc5 19. f3 Rd8 20. Rfd1 Bf8 21.
+Nc3 Bd7 22. Nd5 Kg7 23. Nb6 Bc6 24. Bh3 Be7 25. b4 Bd7 26. Bg2 Ne6 27. Ne2 Bc6
+28. Nc3 Nc7 29. a4 Rh8 30. b5 axb5 31. cxb5 Be8 32. Rc1 h5 33. f4 f5 34. exf5
+gxf5 35. Ncd5 Nxd5 36. Rxd5 h4 37. Nc8 Bf8 38. Nxd6 Bxd6 39. Rxd6 hxg3 40. hxg3
+Ra8 41. Rd4 Rb8 42. Rc7 b6 43. Rd6 Rh6 44. Rxh6 Kxh6 45. Bc6 Kg7 46. Kf2 Kf8
+47. Ke3 Bxc6 48. Rxc6 Ke7 49. Kd4 Ra8 50. Rxb6 Rxa4+ 51. Ke5 Ra3 52. Rb7+ Ke8
+53. Kxf5 Rxg3 54. Rc7 Rb3 55. Rc5 Rb4 56. Ke5 Ke7 57. Rc7+ Ke8 58. Rb7 Kd8 59.
+f5 Kc8 60. Rb6 Kc7 61. Rc6+ Kd7 62. Rc5 Rb2 63. Rd5+ Ke7 64. f6+ Ke8 65. Kd6
+Kd8 66. Kc6+ Kc8 67. Re5 Rc2+ 68. Kb6 Rf2 69. Re8+ Kd7 70. Re7+ Kd8 71. Rxf7
+Ke8 72. Re7+ Kd8 73. Re6 Kd7 74. Rc6 Rf5 75. Rc7+ Ke8 76. f7+ Kf8 77. Ka6 Rf2
+78. b6 Ra2+ 79. Kb7 1-0

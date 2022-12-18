@@ -1,0 +1,25 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hawelko, Marek"]
+[Black "Woda, Jacek"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Kholmov variation"]
+[HashCode "3ea20f01"]
+[Epoch "Queen"]
+[BlackID "1100343"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Be6 10. d4 Bxb3 11. Qxb3 Qb8 12. Nbd2 Qb6 13. d5 Na5 14. Qc2 c6 15. b4
+Nb7 16. c4 Rfc8 17. Qb3 a5 18. dxc6 bxc4 19. Nxc4 Qxc6 20. bxa5 Qxc4 21. Qxb7
+Bd8 22. Qb3 Bxa5 23. Bd2 Nxe4 24. Bxa5 Rxa5 25. Qb7 Nc3 26. Nd2 Qc6 27. Qxc6
+Rxc6 28. Ne4 Nb5 29. Rac1 Rxc1 30. Rxc1 Kf8 31. Rc2 f5 32. Nd2 Ke7 33. Nc4 Ra6
+34. Rb2 Nc3 35. Rb7+ Kf6 36. a3 d5 37. Rb6+ Rxb6 38. Nxb6 Ke6 39. Kf1 Kd6 40.
+a4 Kc6 41. a5 g6 42. Ke1 Ne4 43. Nc8 Kb5 44. Na7+ Kc5 45. Nc8 Nd6 46. Ne7 d4
+47. a6 Nb5 48. Nc8 Kc6 49. a7 Kb7 50. Nb6 Nxa7 51. Nd7 Nc6 52. Nf8 Kb6 53. Nxh7
+e4 54. Nf8 Ne5 55. Ne6 d3 56. h4 Kb5 57. Kd2 Kc4 58. Nf8 Kd5 59. f4 Nc4+ 60.
+Kc3 d2 61. Kc2 e3 0-1

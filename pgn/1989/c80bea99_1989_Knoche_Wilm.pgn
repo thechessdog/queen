@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knoche, L."]
+[Black "Wilm, K."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c80bea99"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. h3 f5 10. Kh2 a6 11. Re1 h6 12. h4 b5 13. h5 b4 14. Nb1 Bd7 15.
+Nh4 gxh5 16. Qxh5 Rb8 17. Nd2 Nd4 18. Qd1 Bc6 19. a3 fxe4 20. dxe4 a5 21.
+Ndf3 Kh7 22. Nxd4 Bxd4 23. Bh3 Bd7 24. axb4 axb4 25. Ra7 Nc6 26. Ra6 Bf2
+27. e5 Bxg3+ 28. Kxg3 Rg8+ 29. Bg4 Nd4 30. Rxd6 Rb7 31. Rh1 1-0
+

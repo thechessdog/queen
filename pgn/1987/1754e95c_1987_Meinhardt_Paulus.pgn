@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Meinhardt"]
+[Black "Paulus"]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "1754e95c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 fxe6 12. Bc4 e5 13. Ne6 Bxe6 14.
+Bxe6 b5 15. O-O Nc6 16. Be3 Qa5 17. a4 b4 18. Nd5 Nxe4 19. Bf7+ Kd8 20. Qd3
+Nc5 21. Nxe7 Kxe7 22. Qf5 Kd8 23. Qg5+ Kc7 24. Qxg7 Kb6 25. Bb3 1/2-1/2
+

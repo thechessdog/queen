@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Boendermaker"]
+[Black "Van der Ven"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "a645ecef"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 Bd7 8. Nbd2
+Na5 9. Bh3 Be7 10. O-O O-O-O 11. Rb1 Kb8 12. Ne1 h5 13. Ng2 h4 14. g4 Nh6
+15. Ne3 f6 16. f4 fxe5 17. fxe5 Rdf8 18. b4 cxb3 19. Bb2 Rxf1+ 20. Qxf1 Bb5
+21. Qe1 Nf7 22. Qd1 Bd3 23. Ra1 Nxe5 0-1
+

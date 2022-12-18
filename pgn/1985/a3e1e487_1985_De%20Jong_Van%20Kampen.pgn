@@ -1,0 +1,19 @@
+[Event "Hoogoven"]
+[Site "Hoogoven"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Van Kampen, J."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "a3e1e487"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O 8.
+Nge2 a6 9. a4 Re8 10. O-O e6 11. dxe6 Bxe6 12. Bxe6 Rxe6 13. Nf4 Rd6 14. Be3
+Nc6 15. Nfe2 Nd5 16. Rc1 Qe7 17. Nxd5 Rxd5 18. Qb3 Rad8 19. Nf4 Nxd4 20. Nxd5
+Ne2+ 21. Kh1 Qe6 22. Rcd1 Be5 23. Bg5 Rd6 24. Ne7+ Kg7 25. Qxe6 Rxe6 26. Nd5
+Bxb2 27. Rfe1 h6 28. Be3 Nc3 29. Bd4+ 1-0

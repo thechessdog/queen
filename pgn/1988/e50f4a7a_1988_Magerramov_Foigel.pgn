@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Magerramov, Elmar"]
+[Black "Foygel, Igor"]
+[Result "*"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[HashCode "e50f4a7a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. Be3 h6 8. O-O
+Nbd7 9. dxe5 dxe5 10. Qc1 Ng4 11. Bd2 h5 12. Rd1 c6 13. h3 Ngf6 14. b4 a5 15.
+a3 axb4 16. axb4 Rxa1 17. Qxa1 Nh7 18. c5 Qe7 19. Bc4 Re8 20. Na4 Ndf8 21. Nb6
+Be6 22. Be3 Rd8 23. Rxd8 Qxd8 24. Qa7 *

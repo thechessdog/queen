@@ -1,0 +1,20 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Boe, Mads"]
+[Black "Hansen, Jens Hult"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "13b66821"]
+[Epoch "Queen"]
+[WhiteID "1401408"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 Nc6 6. Nc3 e6 7. f4 d6 8. Nf3
+dxe5 9. fxe5 Bb4 10. Qd3 O-O 11. Be2 Nde7 12. Bg5 Qb6 13. a3 Bxc3+ 14. bxc3 Ng6
+15. h4 Bd7 16. h5 Nge7 17. h6 g6 18. Bf6 Nd5 19. Bg7 Nf4 20. Qd2 Nxe2 21. Qxe2
+Qa5 22. Qd2 Rfe8 23. Ng5 f5 24. exf6 Nd8 25. f7+ Nxf7 26. Nxf7 Kxf7 27. O-O+
+Kg8 28. Rf2 Bc6 29. Qf4 1-0

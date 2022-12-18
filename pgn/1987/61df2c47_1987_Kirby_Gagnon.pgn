@@ -1,0 +1,17 @@
+[Event "California"]
+[Site "California"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kirby, J."]
+[Black "Gagnon, M."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "61df2c47"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 Ne5 6. Qxd4 Nxc4 7. Qxc4
+d5 8. exd5 Qxd5 9. Qxc7 Qxg2 10. Qxf7+ Kd8 11. Rf1 Bb4+ 12. c3 Re8+ 13. Be3
+Rxe3+ 14. fxe3 Qxg5 15. cxb4 Qxe3+ 16. Kd1 Bg4+ 17. Kc2 Rc8+ 18. Nc3 Qe2+
+19. Kb3 Be6+ 20. Ka3 Qa6+ 0-1
+

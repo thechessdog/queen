@@ -1,0 +1,18 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vogler, Tilmann"]
+[Black "Tischendorf, Michae"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "95124f25"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c6 5. e4 dxe4 6. fxe4 Qa5 7. e5 Ne4
+8. Bd2 Nxd2 9. Qxd2 e6 10. Nf3 Bb4 11. a3 c5 12. axb4 Qxa1+ 13. Kf2 cxd4
+14. Ne4 Qxb2 15. Nd6+ Kf8 16. Bd3 f6 17. Re1 Qc3 18. Qf4 Qxb4 19. Nxd4 Qc5
+20. Kf1 Nxe5 21. Nxc8 Kg8 22. Nxe6 Qxc8 23. Rxe5 fxe5 24. Qxe5 Qd7 25. Bc4
+Rf8+ 26. Nf4+ Rf7 27. Qb8+ 1-0
+

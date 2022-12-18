@@ -1,0 +1,19 @@
+[Event "Insular"]
+[Site "Insular"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Plasencia, JC."]
+[Black "Hernandez, Alberto COL"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "28716f4c"]
+[Epoch "Queen"]
+[BlackID "4418506"]
+[BlackCountry "COL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Be2 c5 7. d5 e6 8. Nf3 exd5
+9. cxd5 Bg4 10. O-O Re8 11. h3 Bxf3 12. Bxf3 Nbd7 13. Re1 Rb8 14. a4 a6 15. a5
+b5 16. axb6 Qxb6 17. Na4 Qc7 18. Qc2 Nxd5 19. Bd2 Nb4 20. Qc4 Nb6 21. Nxb6 Rxb6
+22. e5 d5 23. Qc3 f6 24. Rac1 fxe5 25. Qxb4 Rxb4 26. Bxb4 e4 27. Bxc5 Bxb2 0-1

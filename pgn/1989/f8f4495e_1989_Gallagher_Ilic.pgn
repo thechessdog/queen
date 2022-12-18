@@ -1,0 +1,21 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "3"]
+[White "Gallagher, Joseph G."]
+[Black "Ilic, Zoran"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "f8f4495e"]
+[Epoch "Queen"]
+[BlackID "15001350"]
+[BlackCountry "MKD"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Bd3 a6 8.
+O-O Be7 9. Be3 Qc7 10. f4 d6 11. Qf3 O-O 12. g4 Re8 13. g5 Nd7 14. Qh3 Nf8 15.
+f5 Ne5 16. Nd4 b5 17. Qh5 Bd7 18. f6 Bd8 19. Nf3 Nxd3 20. cxd3 b4 21. fxg7 Ng6
+22. Ne2 Bb5 23. Rad1 Qb7 24. Nfd4 Kxg7 25. Ng3 Bb6 26. Kh1 Kg8 27. Nxb5 Bxe3
+28. Nxd6 Qe7 29. Rxf7 1-0

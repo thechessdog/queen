@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kestler, Hans-Guenther"]
+[Black "Messmer, Martin"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "466468ec"]
+[Epoch "Queen"]
+[BlackID "4600991"]
+[BlackCountry "GER"]
+[WhiteID "4601076"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. Nc3 O-O 6. Qc2 d5 7. e3 c5 8. cxd5
+exd5 9. dxc5 Bxc5 10. Be2 Nc6 11. O-O a6 12. Rad1 Ba7 13. Bc1 Rd8 14. Nd4 Qe5
+15. Nf3 Qe7 16. Nd4 Qe5 17. Nf3 1/2-1/2

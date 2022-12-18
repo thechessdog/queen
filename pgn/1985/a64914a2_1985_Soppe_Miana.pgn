@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Buenos Aires"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Soppe, Guillermo"]
+[Black "Miana, Elias"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "a64914a2"]
+[Epoch "Queen"]
+[WhiteID "100323"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 b6 6. Bg2 Bb7 7. d5 b5 8. dxe6
+fxe6 9. cxb5 a6 10. bxa6 Rxa6 11. O-O O-O 12. Bf4 c4 13. Qc2 Nc6 14. a3 Be7 15.
+Rad1 Na5 16. e4 Qa8 17. Nd4 Bd6 18. Nxe6 Bxf4 19. Nxf4 Re8 20. Ncd5 Bxd5 21.
+Nxd5 1-0

@@ -1,0 +1,24 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kunsztowicz, Uwe"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "2b547864"]
+[Epoch "Queen"]
+[WhiteID "4602773"]
+[BlackID "4600436"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4 e6
+9. dxe6 Bxe6 10. Qd2 Qb6 11. O-O-O Kh7 12. h4 Nc6 13. Nf3 Nd4 14. Ng5+ hxg5 15.
+hxg5+ Kg8 16. gxf6 Bxf6 17. Bd3 Rfe8 18. Bh6 Qd8 19. f4 b5 20. f5 Bxc4 21. fxg6
+fxg6 22. Bxc4+ bxc4 23. Qf4 Re5 24. Kb1 Rb8 25. Rdf1 Ne2 26. Nxe2 Rxb2+ 27. Kc1
+Rxe2 28. Qg4 Bg5+ 29. Kd1 R2xe4 30. Bxg5 Qxg5 31. Qc8+ Re8 32. Qb7 Rd4+ 33. Kc2
+Qd2+ 34. Kb1 Qd3+ 35. Kc1 Qc3+ 36. Kb1 Qb4+ 37. Qxb4 cxb4 38. Rh6 Kg7 39. Rfh1
+Re1+ 40. Rxe1 Kxh6 41. Re7 a5 42. Ra7 Rd3 0-1

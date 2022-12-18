@@ -1,0 +1,24 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Mokry, Karel"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "2a6e7d90"]
+[Epoch "Queen"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "306070"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Ng5 O-O 10. Ne4 b6 11. f4 exd4 12. cxd4 cxd4 13. Qf3 Bd7 14. Bb2 Re8
+15. exd4 d5 16. Nxf6+ Qxf6 17. Qxd5 Nb4 18. Bxh7+ Kxh7 19. Qxd7 Re3 20. Rad1
+Rae8 21. Rd2 Qg6 22. Bc3 Nd3 23. f5 Qg4 24. Qxf7 Nf4 25. f6 Rg8 26. Rxf4 Qxf4
+27. Qh5+ Qh6 28. Qxh6+ Kxh6 29. Rc2 Rd3 30. d5 gxf6 31. Bxf6 Rf8 32. Rc3 Rd1+
+33. Kf2 Rxf6+ 34. Ke2 Rdf1 35. Rh3+ Kg7 36. Rg3+ Kf7 37. h4 R1f2+ 38. Kd3 Rxa2
+39. Ke4 Raf2 40. h5 Re2+ 0-1

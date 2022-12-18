@@ -1,0 +1,18 @@
+[Event "Las Palmas op"]
+[Site "Las Palmas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Blas, Rodriguez"]
+[Black "Gonzalez, JA."]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "52ada24e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Nf3 Be7 5. Bg2 O-O 6. cxd5 exd5 7. O-O c6 8. Qb3
+Re8 9. Nc3 Nbd7 10. Re1 Bd6 11. e4 dxe4 12. Ng5 Rf8 13. Ngxe4 Be7 14. Bf4 Nb6
+15. Nxf6+ Bxf6 16. Be5 Be6 17. Qc2 Nc4 18. Bxf6 Qxf6 19. d5 cxd5 20. Nxd5 Bxd5
+21. Bxd5 Nd6 22. Qc3 Qxc3 23. bxc3 Rac8 24. Re7 Rxc3 25. Rd7 Nf5 26. Rxb7 Rc5
+27. Rd7 Nh6 28. Rd1 a5 29. g4 Nxg4 0-1

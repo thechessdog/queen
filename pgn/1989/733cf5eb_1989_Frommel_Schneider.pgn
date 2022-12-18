@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Frommel, A."]
+[Black "Schneider, W."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "733cf5eb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7.
+Ke3 Qe7 8. Kxe4 Qh4+ 9. g4 d5+ 10. Bxd5 Bxg4 11. Bxc6+ Bd7+ 12. Ke3 Qd4+
+13. Ke2 bxc6 14. Nxh8 Bg4+ 15. Ke1 Bxd1 16. d3 Bxc2 0-1
+

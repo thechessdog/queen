@@ -1,0 +1,19 @@
+[Event "Badenweiler op"]
+[Site "Badenweiler op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Costa"]
+[Black "Gassenmann, K."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "e3635368"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4
+8. exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O b6 12. Qd3 Bb7 13. Rad1 Ne7
+14. Bg5 Ng6 15. f4 h6 16. f5 exf5 17. Bxf6 Qxf6 18. Qxf5 Qxf5 19. Rxf5 Bxg2
+20. Rxf7 Rxf7 21. Kxg2 Nf4+ 22. Kg3 g5 23. h4 Re8 24. hxg5 Re3+ 25. Kf2
+Nd5+ 26. Kg1 Nxc3 27. Rf1 Ne2+ 28. Kh2 1/2-1/2
+

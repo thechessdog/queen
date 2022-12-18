@@ -1,0 +1,26 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1985.??.??"]
+[Round "7"]
+[White "Ernst, Thomas"]
+[Black "Iskov, Gert"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "c328c84d"]
+[Epoch "Queen"]
+[WhiteID "1700065"]
+[BlackID "1400398"]
+[WhiteCountry "SWE"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
+Bb1 Rfe8 16. d5 g6 17. Ne3 Nc4 18. Nxc4 Qxc4 19. Bd3 Qc5 20. a4 Rb8 21. Be3 Qb4
+22. Bd2 Qc5 23. b4 Qb6 24. axb5 axb5 25. Be3 Qc7 26. Bxb5 Rec8 27. Rc1 Qd8 28.
+Bd3 Rxc1 29. Qxc1 Bc8 30. Qc3 Bd7 31. Ra1 Ne8 32. Nd2 Nc7 33. Nb3 Rc8 34. Qd2
+Nb5 35. Na5 Nd4 36. Bxd4 exd4 37. b5 Ra8 38. Qe1 Qb6 39. Nc6 Bxc6 40. dxc6 Rxa1
+41. Qxa1 Bd8 42. Qa3 Bc7 43. Qb4 Qa7 44. g3 Kg7 45. Kg2 h6 46. Bc2 g5 47. e5
+Qc5 48. Qxc5 dxc5 49. Bd3 f5 50. f4 gxf4 51. gxf4 Kf7 52. Bxf5 c4 53. Kf3 d3
+54. Ke4 d2 55. Bg4 c3 56. Bd1 Bb6 57. f5 1-0

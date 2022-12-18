@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bonoldi"]
+[Black "Haegeman"]
+[Result "0-1"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Staunton's line"]
+[HashCode "366e0726"]
+[Epoch "Queen"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 Nc6 5. Bb5 a6 6. Ba4 g6 7. Bxf6 exf6
+8. Nxe4 Bg7 9. c3 d5 10. Ng3 O-O 11. N1e2 b5 12. Bc2 Ne7 13. O-O Qd6 14.
+Qd3 f5 15. Qf3 f4 16. Nh1 Bf5 17. Bxf5 Rxf5 18. Qd3 c5 19. f3 Nc6 20. dxc5
+Qxc5+ 21. Nf2 Re8 22. Rad1 Re3 23. Qd2 b4 24. Kh1 bxc3 25. bxc3 Bxc3 26.
+Nxc3 Qxc3 27. Qxc3 Rxc3 28. Ng4 Kg7 29. Rb1 h5 30. Nf2 Rc2 31. Rb6 a5 32.
+Nd3 Nb4 0-1
+

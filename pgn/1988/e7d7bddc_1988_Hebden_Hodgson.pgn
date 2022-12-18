@@ -1,0 +1,19 @@
+[Event "London NWYM"]
+[Site "Londen"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Hebden, Mark L"]
+[Black "Hodgson, Julian M"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "e7d7bddc"]
+[Epoch "Queen"]
+[WhiteID "400084"]
+[WhiteCountry "ENG"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 exd5 8.
+Ne5 O-O 9. Bd3 Nc6 10. O-O Nxd4 11. Bxh7+ Nxh7 12. Qxd4 1/2-1/2

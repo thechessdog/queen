@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Engelkes"]
+[Black "Elderden"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "6c9deddc"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5
+8. c3 cxd4 9. Nxd4 Bc5 10. Bc2 Bxd4 11. Qxd4 Qb6 12. Qxb6 Nxb6 13. Ne4 Nxe4
+14. Bxe4 O-O 15. Be3 Nd5 16. Bd4 Re8 17. O-O-O b5 18. Bxd5 1/2-1/2
+

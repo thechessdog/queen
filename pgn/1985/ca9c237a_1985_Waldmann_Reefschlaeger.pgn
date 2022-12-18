@@ -1,0 +1,27 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Waldmann, Ivan"]
+[Black "Reefschlaeger, Helmut, Dr."]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "ca9c237a"]
+[Epoch "Queen"]
+[WhiteID "701416"]
+[WhiteCountry "HUN"]
+[BlackID "4600878"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Bg5 O-O 13. Rc1 Bd7 14. Bh4 Be8 15.
+Bg3 Bh5 16. Ne5 Bxe5 17. dxe5 Ne4 18. f3 Nxg3 19. Nxg3 Bg6 20. Bxg6 hxg6 21. f4
+Qb6+ 22. Kh1 Rac8 23. Qg4 Ne7 24. Ne2 Kf7 25. Rce1 Rh8 26. Ng1 Nf5 27. Nf3 Rc6
+28. Ng5+ Ke7 29. Nh3 Rh6 30. Qf3 Rc2 31. Qa3+ Qc5 32. b4 Qc3 33. Qxa7 Rxh3 34.
+gxh3 Ng3+ 35. hxg3 Qxg3 36. Qc5+ Rxc5 37. bxc5 Qxh3+ 38. Kg1 Qc3 39. Rc1 Qg3+
+40. Kh1 g5 41. Rb1 gxf4 42. Rxb7+ Ke8 43. Rb3 Qh4+ 44. Kg2 Qg5+ 45. Kf2 Qxe5
+46. Rc1 Qd4+ 47. Ke2 Qe4+ 48. Kf2 Qd4+ 49. Ke2 Qe4+ 50. Kf2 g5 51. c6 g4 52. c7
+g3+ 53. Kg1 Qd4+ 54. Kh1 Qh8+ 55. Kg2 Qh2+ 56. Kf3 Qh5+ 57. Kg2 f3+ 58. Kxg3
+Qg5+ 59. Kxf3 Qxc1 0-1

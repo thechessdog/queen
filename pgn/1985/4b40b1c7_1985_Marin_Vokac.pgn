@@ -1,0 +1,22 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Marin, Mihail"]
+[Black "Vokac, Marek"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "4b40b1c7"]
+[Epoch "Queen"]
+[WhiteID "1200020"]
+[BlackID "300101"]
+[WhiteCountry "ROU"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. dxc6 bxc6 11. b4 d5 12. Ba3 Be6 13. Re1 a6 14. Bf1 Re8 15.
+Bb2 Qb8 16. a3 Ra7 17. Na4 dxe4 18. Nc5 Bg4 19. Qa4 a5 20. b5 cxb5 21. cxb5 e3
+22. Rxe3 Ned5 23. Ree1 Bf5 24. Nc4 e4 25. b6 Ng4 26. g3 Nxb6 27. Nxb6 Bxb2 28.
+Nbd7 Rxd7 29. Nxd7 Qa7 30. Nc5 Qxc5 31. Qxe8+ Kg7 32. Bg2 Qxf2+ 33. Kh1 Bd4 0-1

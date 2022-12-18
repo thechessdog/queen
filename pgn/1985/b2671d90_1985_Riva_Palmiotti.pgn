@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Riva"]
+[Black "Palmiotti"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "b2671d90"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 O-O
+8. Bh6 g6 9. Bxf8 Kxf8 10. Qg3 Qa5 11. Ne2 Nc6 12. f4 d6 13. exd6 e5 14.
+fxe5 Bg4 15. Kd2 Nb6 16. Rd1 Nxe5 17. Kc1 Nec4 18. Qxg4 Ba3 19. Qd4 Bxb2+
+20. Kb1 Kg8 21. d7 Qb4 22. d8=Q+ Rxd8 23. Qxd8+ Kg7 24. Qd4+ f6 0-1
+

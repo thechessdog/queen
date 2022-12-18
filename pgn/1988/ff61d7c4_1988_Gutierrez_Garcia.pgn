@@ -1,0 +1,24 @@
+[Event "Bogota"]
+[Site "Bogota"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gutierrez, Jose"]
+[Black "Garcia, Alvaro"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "ff61d7c4"]
+[Epoch "Queen"]
+[WhiteID "2272580"]
+[BlackID "4400330"]
+[WhiteCountry "ESP"]
+[BlackCountry "COL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 Nf5 13. g3 Bd7 14. Bh3
+Nce7 15. Nxc3 Rc8 16. Bd2 Rh8 17. g4 Nd4 18. Ra2 Qc5 19. Bf1 Ng6 20. Qg3 Qb6
+21. Bd3 Nh4 22. Rf1 Rxc3 23. Bxc3 Nhf3+ 24. Rxf3 Nxf3+ 25. Ke2 Ng1+ 26. Kf1
+Qb1+ 27. Qe1 Qxa2 28. Kxg1 Qxa3 29. h4 Qc5+ 30. Kh2 Bb5 31. Bb4 Qc6 32. Bxb5
+Qxb5 33. h5 Qc4 34. Kg3 Qxc2 35. Kh4 Qh2+ 36. Kg5 Rg8+ 37. Kh6 Rxg4 38. f5 exf5
+39. Qe2 0-1

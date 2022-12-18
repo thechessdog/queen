@@ -1,0 +1,22 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Didier, M2."]
+[Black "Letreguilly, Olivier"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "39444152"]
+[Epoch "Queen"]
+[BlackID "600997"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Nf6 5. Qe2 Bg7 6. O-O O-O 7. e5 Nd5 8. d4
+cxd4 9. cxd4 d6 10. Rd1 Qc7 11. Na3 h6 12. Bc4 Be6 13. Nb5 Qd7 14. Bxd5 Bxd5
+15. Nc3 Bxf3 16. Qxf3 dxe5 17. dxe5 Qe6 18. Bf4 Rfd8 19. Re1 Qf5 20. Qe4 Qe6
+21. Rac1 Rd4 22. Qe3 Kh7 23. Nb5 Rd7 24. a3 a6 25. Nc3 Rad8 26. Qb6 Nd4 27. Na4
+Qg4 28. Bg3 Ne2+ 29. Rxe2 Qxe2 30. h3 Rd1+ 31. Rxd1 Rxd1+ 32. Kh2 Qf1 33. Bf4
+g5 34. Qxb7 Qg1+ 35. Kg3 gxf4+ 36. Kg4 Rd4 37. Nc3 Qxf2 38. Qf3 Qc2 39. Qf1
+Qg6+ 40. Kf3 Qg3+ 41. Ke2 Qe3# 0-1

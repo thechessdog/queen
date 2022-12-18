@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone, P."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "48dcf839"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Ne7 4. Nf3 Ng6 5. h4 h5 6. Be2 c5 7. O-O Nc6 8. Be3
+Nxh4 9. Ne5 cxd4 10. Nxc6 bxc6 11. Bxd4 Qg5 12. Bf3 e5 13. Be3 Qg6 14. exd5 Bh3
+15. Be4 f5 16. Kh2 fxe4 17. Kxh3 Qxg2+ 18. Kxh4 Be7+ 0-1

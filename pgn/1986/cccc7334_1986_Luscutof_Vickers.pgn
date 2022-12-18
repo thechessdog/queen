@@ -1,0 +1,22 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Luscutof, L."]
+[Black "Vickers, K."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "cccc7334"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Nf3 Qa5
+8. c5 Ne4 9. Bd2 Nxd2 10. Qxd2 Bg4 11. Be2 e6 12. O-O Be7 13. a3 O-O 14. b4
+Qd8 15. Rab1 a6 16. Rfd1 Bf6 17. Qf4 Bh5 18. Na4 Qe7 19. Qe3 Rad8 20. Nb6
+Rfe8 21. Rb2 Qc7 22. Rbd2 Ne7 23. Ne5 Nf5 24. Qc3 Nxd4 25. Bxh5 Qxe5 26.
+Qh3 Nb5 27. Rd3 Nc3 28. Re3 Ne4 29. Rde1 Qg5 30. Bf3 Bd4 31. Bxe4 Bxe3 32.
+Bxh7+ Kf8 33. Qxe3 Qxe3 34. Rxe3 g6 35. a4 Kg7 36. Bxg6 fxg6 37. b5 axb5
+38. axb5 d4 39. Rd3 e5 40. f3 e4 41. fxe4 Rxe4 42. c6 bxc6 43. bxc6 Re1+
+44. Kf2 Rc1 0-1
+

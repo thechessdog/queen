@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Klatt"]
+[Black "Kliewe"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "a64b05e6"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Bb5 Nd7 9. Qa4 Rc8 10. Bxc6 Rxc6 11. Qxa7 Qc8 12. Qa5 Ra6 13. Qc7 Qa8 14.
+Ne5 Nxe5 15. Bxe5 Bb4 16. Bxg7 Rc6 17. Qxc6+ bxc6 18. Bxh8 Qa6 19. a3 Bxc3+
+20. bxc3 Qd3 21. h3 Be4 22. f3 Qxe3+ 23. Kd1 Bd3 24. Ra2 Bc4 25. Rb2 Qd3+
+26. Kc1 Qxc3+ 27. Kb1 Qxa3 28. Rb8+ Kd7 29. Kc2 Qd3+ 30. Kc1 Bb3 0-1
+

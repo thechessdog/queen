@@ -1,0 +1,18 @@
+[Event "corr Freedman mem"]
+[Site "corr Freedman mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaunonen, N."]
+[Black "Sprinkhuizen, A."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "b52c2891"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8.
+a4 Be7 9. a5 h6 10. Be2 Be6 11. O-O Qc6 12. Nd2 O-O 13. f4 exf4 14. Bxf4
+Nbd7 15. Nf3 d5 16. exd5 Nxd5 17. Nd4 Nxc3 18. bxc3 Qxc3 19. Nxe6 fxe6 20.
+Qxd7 Bc5+ 21. Kh1 Rxf4 22. Qxe6+ Kh8 23. Bd3 Raf8 24. Rfe1 Qf6 1/2-1/2
+

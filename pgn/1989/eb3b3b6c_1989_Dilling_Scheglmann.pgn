@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dilling, R."]
+[Black "Scheglmann, E."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "eb3b3b6c"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 Nf6 4. Bxe5 d6 5. Bb2 Nc6 6. e3 O-O 7. Nf3 Re8
+8. Bc4 Rxe3+ 9. Be2 Re8 10. O-O d5 11. a3 Bd6 12. Nd4 Nxd4 0-1
+

@@ -1,0 +1,17 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Svendsen, Odin"]
+[Black "Bolz"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "a635fbbb"]
+[Epoch "Queen"]
+[WhiteID "1501445"]
+[WhiteCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Nxe5 Bd6 7. Bc4 Bxe5 8.
+dxe5 Nxe5 9. Qh5+ Ng6 10. Bxg8 1-0

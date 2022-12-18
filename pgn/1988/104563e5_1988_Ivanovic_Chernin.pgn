@@ -1,0 +1,18 @@
+[Event "Pula"]
+[Site "Pula"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ivanovic, Bozidar"]
+[Black "Chernin, Alexander"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "104563e5"]
+[Epoch "Queen"]
+[BlackID "715620"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Kf8 8. Nf3
+Qa5 9. Bd2 Qa4 10. Kd1 b6 11. Qf4 h6 12. dxc5 Qxf4 13. Bxf4 bxc5 14. Be3 c4 15.
+Bc5 1-0

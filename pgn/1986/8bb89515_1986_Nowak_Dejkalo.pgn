@@ -1,0 +1,29 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "12"]
+[White "Nowak, Ignacy"]
+[Black "Dejkalo, Stefan"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "8bb89515"]
+[Epoch "Queen"]
+[WhiteID "1100157"]
+[BlackID "1100246"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. Qb3
+Bxc3+ 9. bxc3 dxc4 10. Qa3 Nd5 11. O-O Bd7 12. Rd1 Qc8 13. Rb1 Na6 14. Bf4 h6
+15. Bd6 Rd8 16. e4 Nb6 17. e5 Nc7 18. Rd2 Ncd5 19. Re1 Na4 20. Rc2 b5 21. f4 a5
+22. f5 Naxc3 23. f6 Ra6 24. fxg7 Kxg7 25. Rxc3 b4 26. Qc1 bxc3 27. Bxd5 exd5
+28. Qxc3 Kg8 29. Ba3 Rg6 30. Ne2 Be6 31. Qd4 Rg4 32. Nf4 c3 33. Bc5 Qa6 34.
+Qxc3 Qc4 35. Qxa5 Rc8 36. Be3 Qc7 37. Qd2 Qd7 38. Rd1 Qa4 39. Nxd5 Bxd5 40.
+Qxd5 Qe4 41. Qxe4 Rxe4 42. Bxh6 Rc2 43. Bf4 Ree2 44. g4 Rg2+ 45. Kh1 Rxg4 46.
+Bg3 Rxa2 47. Re1 Rg6 48. Kg1 Kf8 49. Kf1 Ke7 50. Re2 Rxe2 51. Kxe2 Ke6 52. Ke3
+Rg4 53. Bf4 Kf5 54. Bg3 Ra4 55. Kd3 Re4 56. Kc3 Kg4 57. Kd2 Kf3 58. Kd3 Ra4 59.
+Be1 Ra1 60. Bg3 Rd1+ 61. Kc4 Ke4 62. Kc3 Ke3 63. Kc2 Rd5 64. Kc3 Rc5+ 65. Kb4
+Rc2 66. Kb3 Kd3 67. Bf4 Rc3+ 68. Kb2 Rc4 69. Bg3 Rb4+ 70. Kc1 Rb6 71. Bf4 Rb5
+72. Bg3 Rb4 73. Bf2 Rc4+ 74. Kb1 Rc2 0-1

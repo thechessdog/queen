@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Orosz, Andras"]
+[Black "Valis, Janos"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[HashCode "d831fff1"]
+[Epoch "Queen"]
+[BlackID "706396"]
+[BlackCountry "HUN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be2 Nf6 5. h4 Nc6 6. h5 gxh5 7. Bg5 e5 8. dxe5
+Nxe5 9. f4 Neg4 10. e5 dxe5 11. Qxd8+ Kxd8 12. fxe5 Nxe5 13. Nd5 1-0

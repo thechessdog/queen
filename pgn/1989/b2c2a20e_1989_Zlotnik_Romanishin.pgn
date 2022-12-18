@@ -1,0 +1,23 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zlotnik, Boris A"]
+[Black "Romanishin, Oleg M"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b2c2a20e"]
+[Epoch "Queen"]
+[WhiteID "4101413"]
+[WhiteCountry "RUS"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Rb8 11. a4 Nb4 12. Nc4 b6 13. Bf4 Ba6 14. Nxd6 Bxe2 15.
+Nxe2 Qe7 16. Nc3 Rbd8 17. Re1 Ne8 18. Nc4 Qb7 19. Bg3 a6 20. Kh1 Bd4 21. f3 Ng7
+22. Bh4 f6 23. Ne2 g5 24. Bg3 Nh5 25. Bd6 Bxb2 26. Rb1 Rxd6 27. Nxd6 Qd7 28.
+Nc4 Be5 29. Qd2 Qg7 30. Nxb6 Qg6 31. g4 Nf4 32. Ng3 Qh6 33. Rf1 Nbd3 34. Rb3
+Ne2 35. Qxe2 Bxg3 36. Rxd3 1-0

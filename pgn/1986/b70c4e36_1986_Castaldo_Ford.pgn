@@ -1,0 +1,17 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Castaldo, A."]
+[Black "Ford"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Kevitz variation"]
+[HashCode "b70c4e36"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. c4 Nf6 3. Nc3 e6 4. f4 d5 5. cxd5 exd5 6. e5 d4 7. exf6 dxc3
+8. Qe2+ Be6 9. dxc3 Qxf6 10. Bd2 O-O-O 11. O-O-O Bxa2 12. g4 Bd6 13. g5 Qf5
+14. Bh3 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kvanmo"]
+[Black "Poho"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f9d27524"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Qg4 f5 8.
+exf6 Nxf6 9. Qh4 e5 10. dxe5 Nxe5 11. Bb5+ Bd7 12. Bxd7+ Qxd7 13. Qh3 Bd6
+14. Qxd7+ Kxd7 15. Ngf3 Nd3+ 16. Ke2 c4 17. Nf1 Ng4 18. Ne3 Rae8 19. Rf1
+Bf4 20. Bd2 Ndxf2 21. Rxf2 Bxe3 22. Bxe3 Rxe3+ 23. Kf1 Nxf2 24. Kxf2 Rhe8
+0-1
+

@@ -1,0 +1,24 @@
+[Event "Regional-Liga NS"]
+[Site "RLNS 8788"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stoy, Ulf"]
+[Black "Wenzel, Reinhard"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "547d936b"]
+[Epoch "Queen"]
+[WhiteID "12982288"]
+[WhiteCountry "GER"]
+[BlackID "4614844"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Qe7 7. Nbd2 a6 8. Bxc6
+dxc6 9. Nc4 Bg4 10. h3 Bxf3 11. Qxf3 Rd8 12. Rd1 Nf6 13. Be3 O-O 14. a3 Nd7 15.
+Qe2 Rfe8 16. Na5 Nf8 17. b4 cxb4 18. axb4 Ne6 19. Qf1 f5 20. f3 f4 21. Bb6 Rd7
+22. Nb3 Kh8 23. Ra2 Ng5 24. Nc5 Rd6 25. Rad2 Nf7 26. d4 g5 27. Na4 Rg6 28. d5
+cxd5 29. Rxd5 h5 30. Rd7 Qe6 31. Bc7 g4 32. Nc5 Qf6 33. Qc4 Rf8 34. hxg4 hxg4
+35. Qe2 Qh4 36. fxg4 Ng5 37. Bd8 f3 38. Bxg5 f2+ 39. Qxf2 Qxf2+ 40. Kh2 Rxg5
+41. Ne6 Rxg4 0-1

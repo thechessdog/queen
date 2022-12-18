@@ -1,0 +1,20 @@
+[Event "Kumla"]
+[Site "Kumla"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Larsson"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "5e278774"]
+[Epoch "Queen"]
+[BlackID "1701240"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O d6 8. Be3
+O-O 9. Nbd2 Na5 10. c4 h6 11. Rc1 c5 12. a3 Be6 13. Ba2 Ng4 14. Re1 Qd7 15. Rc2
+Rab8 16. b4 cxb4 17. axb4 Nc6 18. cxb5 Nxb4 19. Bxe6 Qxe6 20. Rc3 axb5 21. Rb3
+d5 22. d4 dxe4 23. Nxe4 Nxe3 24. Rexe3 Nd5 25. Re2 Nf4 26. Ree3 exd4 27. Nxd4
+Qd5 28. g3 f5 29. gxf4 fxe4 30. Rb1 Rxf4 31. Qb3 Qxb3 32. Rbxb3 Bc5 0-1

@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zueger, Beat"]
+[Black "Huss, Andreas"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "3f080765"]
+[Epoch "Queen"]
+[BlackID "1300180"]
+[BlackCountry "SUI"]
+[WhiteID "1300067"]
+[WhiteCountry "SUI"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Nc6 7. Qa4 Qc8 8. Bd2
+O-O 9. d5 exd5 10. cxd5 Bxf1 11. dxc6 Bxg2 12. Rg1 Bxc6 13. Qxb4 d5 14. Nce2
+Bd7 15. Bc3 c5 16. Bxf6 cxb4 17. Nf5 1-0

@@ -1,0 +1,19 @@
+[Event "Compack"]
+[Site "Budapest"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Rajna, George"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "A73"]
+[Opening "Benoni"]
+[Variation "classical, 9.O-O"]
+[HashCode "39489856"]
+[Epoch "Queen"]
+[WhiteID "2801566"]
+[WhiteCountry "ISR"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Bg4 10. Nd2 Bxe2 11. Qxe2 Qb6 12. Nc4 Qa6 13. a4 Nbd7 14. Nb5 Ne8
+15. Bg5 f6 16. Bf4 Ne5 17. Bxe5 fxe5 18. Qg4 1-0

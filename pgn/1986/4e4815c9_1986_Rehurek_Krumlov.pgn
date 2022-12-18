@@ -1,0 +1,20 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rehurek"]
+[Black "Krumlov"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "4e4815c9"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 g6 4. f4 Bg7 5. Nf3 O-O 6. O-O Nc6 7. c3 e6 8. f5
+exf5 9. exf5 Ne7 10. Nh4 c6 11. g4 Ne8 12. g5 gxf5 13. Nxf5 Bxf5 14. Bxf5
+Nxf5 15. Rxf5 f6 16. Na3 d5 17. Qh5 Nd6 18. Rf3 Qe8 19. Qg4 Ne4 20. Be3 Qg6
+21. Raf1 fxg5 22. c4 Rf6 23. Rxf6 Bxf6 24. cxd5 cxd5 25. Nb5 Qg7 26. Nd6
+Qe7 27. Nf5 Qf8 28. Rc1 Qd8 29. Ng3 Nxg3 30. Qe6+ Kg7 31. hxg3 Qe8 32. Rc7+
+Kg6 33. Qxe8+ Rxe8 34. Kf2 Re7 35. Rc5 Rd7 36. g4 Kf7 37. Ke2 Ke6 38. Bf2
+Rf7 0-1
+

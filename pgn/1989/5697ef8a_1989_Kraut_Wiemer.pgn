@@ -1,0 +1,19 @@
+[Event "BL2-W8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kraut, Rainer"]
+[Black "Wiemer, Ralf"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Bronstein gambit"]
+[HashCode "5697ef8a"]
+[Epoch "Queen"]
+[WhiteID "4600282"]
+[BlackID "4603591"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. d4 cxd4 8.
+cxd4 d5 9. e5 Ne4 10. Ne1 h6 11. f3 1/2-1/2

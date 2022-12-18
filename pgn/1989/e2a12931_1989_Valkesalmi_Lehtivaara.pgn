@@ -1,0 +1,21 @@
+[Event "Espoo op"]
+[Site "Espoo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Valkesalmi, Kimmo"]
+[Black "Lehtivaara, Risto"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[HashCode "e2a12931"]
+[Epoch "Queen"]
+[WhiteID "500054"]
+[BlackID "500275"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Be7 6. Bg2 Nc6 7. O-O O-O 8. Re1
+a5 9. e5 Nd7 10. Nf1 a4 11. a3 b5 12. h4 b4 13. Bf4 Nb6 14. N1h2 bxa3 15. bxa3
+c4 16. Ng5 g6 17. Ngf3 cxd3 18. cxd3 Na5 19. Bh6 Nb3 20. Ra2 Re8 21. Ng4 Ra7
+22. Bg5 Kg7 23. Bf6+ Bxf6 24. exf6+ Kf8 25. Ng5 Nd7 26. Qf3 d4 27. Qf4 1-0

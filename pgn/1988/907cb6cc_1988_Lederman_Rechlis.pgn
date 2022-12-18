@@ -1,0 +1,21 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lederman, Leon"]
+[Black "Rechlis, Gad"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "907cb6cc"]
+[Epoch "Queen"]
+[BlackID "2800047"]
+[BlackCountry "ISR"]
+[WhiteID "2800403"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Qxd4 b5 12. Be2 Bb7 13. g4 Rc8 14. g5 hxg5
+15. fxg5 Rh3 16. Bd2 Rhxc3 17. bxc3 Nxe4 18. Qxg7 Qa5 19. Rhf1 Qxa2 20. c4 e5
+21. Qg8+ Kd7 0-1

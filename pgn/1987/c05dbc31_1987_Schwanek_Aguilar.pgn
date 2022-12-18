@@ -1,0 +1,22 @@
+[Event "South America"]
+[Site "South America"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schwanek, Carlos"]
+[Black "Aguilar, Juan"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "c05dbc31"]
+[Epoch "Queen"]
+[WhiteID "100579"]
+[BlackID "3800091"]
+[WhiteCountry "ARG"]
+[BlackCountry "PER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 a6 12. a4 c4 13. Kh1 Nc5 14. e5 dxe5 15. fxe5
+Nfd7 16. e6 fxe6 17. Nxc4 Nf8 18. d6 Bd7 19. Be3 Rc8 20. a5 Bxc3 21. bxc3 e5
+22. Nb6 Rc6 23. Nd5 Ne4 24. Ne7+ Kg7 25. Qd5 Nf6 26. Rxf6 Kxf6 27. Ng8+ Kg7 28.
+Bh6+ 1-0

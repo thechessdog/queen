@@ -1,0 +1,29 @@
+[Event "Hamilton"]
+[Site "Hamilton"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Giulian, Philip M"]
+[Black "Motwani, Paul"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "147fb643"]
+[Epoch "Queen"]
+[WhiteID "2400197"]
+[WhiteCountry "SCO"]
+[BlackID "2400022"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. a3 Qa5 10. Nd2 Bb4 11. cxd5 exd5 12. Nb3 Bxc3+ 13. bxc3 Qa4 14. Bd3 b6
+15. Nd4 Qxc2 16. Bxc2 Na5 17. Bd6 Rd8 18. Be7 Rd7 19. Bxf6 gxf6 20. Bd3 Rc7 21.
+Kd2 Bd7 22. Rhc1 Kg7 23. Rab1 f5 24. Rb4 Kf6 25. Rc2 Rd8 26. Ke1 Nb7 27. Nb3
+Nd6 28. Rf4 Nb5 29. Bxb5 Bxb5 30. g4 Rdc8 31. Rxf5+ Kg6 32. Rxd5 Ba4 33. Rb2
+Rxc3 34. Nd4 Rxa3 35. h4 h6 36. g5 hxg5 37. Rd6+ f6 38. hxg5 Kxg5 39. f4+ Kg4
+40. Rxf6 Rxe3+ 41. Kd2 Rcc3 42. Rg6+ Kh3 43. Rh6+ Kg2 44. Rb4 Rcd3+ 45. Kc1
+Rd1+ 46. Kb2 Rd2+ 47. Kc1 Rd1+ 48. Kb2 Rd2+ 49. Kc1 Rf2 50. Rg6+ Kf1 51. Re6
+Rc3+ 52. Kb1 Rd3 53. Rc4 Rd1+ 54. Rc1 Rxc1+ 55. Kxc1 Rxf4 56. Ne2 Rc4+ 57. Kb1
+Bd7 58. Re7 Bf5+ 59. Ka1 Kf2 60. Rf7 Kxe2 61. Rxf5 Rb4 62. Rd5 Ke3 63. Rd7 a5
+64. Rd6 b5 65. Ka2 a4 66. Ka3 Rb3+ 67. Ka2 b4 68. Rd8 Rd3 69. Ra8 Rd2+ 70. Ka1
+0-1

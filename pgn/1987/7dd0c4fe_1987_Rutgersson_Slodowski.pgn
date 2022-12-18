@@ -1,0 +1,15 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rutgersson"]
+[Black "Slodowski"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "7dd0c4fe"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Nc3 Nf6 5. Qb3 Nc6 6. cxd5 exd5 7. Qxb7 Nb4
+8. Kd2 Nc2 9. Rb1 Bb4 10. e3 Bxc3+ 11. bxc3 Ne4+ 0-1
+

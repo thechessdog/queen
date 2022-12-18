@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "669f4e68"]
+[Epoch "Queen"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+[WhiteCountry "NOR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. Qd2
+e5 9. d5 Ne7 10. Rad1 Bd7 11. h3 Ne8 12. Ne1 f5 13. exf5 gxf5 14. f4 Ng6 15.
+Nd3 Kh8 16. a4 Rg8 17. Kh1 a5 18. Bh5 e4 19. Nc1 Nh4 20. Bf7 Rf8 21. Bxe8 Qxe8
+22. Nb3 Rg8 23. Nd4 Qh5 24. Rf2 Bf6 25. Ncb5 Bxb5 26. axb5 Rg3 27. Ne6 Rxe3 28.
+Kh2 Rg8 29. Ng5 Bxb2 30. g4 fxg4 31. hxg4 Qxg4 32. Rg1 Qh5 33. Nf7+ Qxf7 34.
+Rxg8+ Qxg8 35. Qxe3 Nf3+ 0-1

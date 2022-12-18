@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Weinitschke, G."]
+[Black "Metzer, G."]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "21b93776"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Bf4 Bb4 7. Nb5 Nxe4
+8. Qf3 d5 9. Nc7+ Kf8 10. O-O-O Bxc3 11. bxc3 g5 12. Qxe4 Qxc7 13. Bxc7
+dxe4 14. Bb5 Kg7 15. h4 a6 16. Be2 gxh4 17. Rxh4 e5 18. Rxe4 f5 19. Rxe5
+Rf8 20. Re3 Rf7 21. Bb6 Rd7 22. Rh1 Re7 23. Bd4+ 1-0
+

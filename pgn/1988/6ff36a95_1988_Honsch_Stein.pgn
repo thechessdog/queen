@@ -1,0 +1,24 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Honsch, Pal"]
+[Black "Stein, Alan"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "6ff36a95"]
+[Epoch "Queen"]
+[WhiteID "708380"]
+[BlackID "2007150"]
+[WhiteCountry "HUN"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 a6 10. Bd3 Qh4+ 11. g3 Qd8 12. Nf3 O-O 13. O-O Re8 14. Re1 Nf6 15.
+Bf1 Bg4 16. h3 Bxf3 17. Qxf3 Nbd7 18. Be3 Qa5 19. Bf2 Rac8 20. g4 h6 21. h4 h5
+22. gxh5 Nxh5 23. Bh3 Rcd8 24. Kh1 Qb4 25. Re2 Qc4 26. Rg1 Bxc3 27. Bxd7 Rxd7
+28. Qxh5 Rxe4 29. Rxg6+ Bg7 30. Rxe4 Qxe4+ 31. Rg2 Qxf4 32. Be3 Qxe3 33. Rxg7+
+Kxg7 34. Qg4+ Kf8 35. Qxd7 Qc1+ 36. Kg2 Qxb2+ 37. Kf1 Qc1+ 38. Kf2 Qd2+ 39. Kf1
+Qxd5 40. h5 Kg7 0-1

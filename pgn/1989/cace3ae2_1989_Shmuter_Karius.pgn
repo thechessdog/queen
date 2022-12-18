@@ -1,0 +1,18 @@
+[Event "Kramatorsk"]
+[Site "Kramatorsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shmuter, L."]
+[Black "Karius, E."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "cace3ae2"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 g6 6. Be2 Bg7 7. Nc3 O-O
+8. O-O Nc6 9. d5 Na5 10. c5 Bxc3 11. cxb6 Bg7 12. Bf4 c5 13. Bc7 Qd7 14.
+Qd2 Qa4 15. b3 Qa3 16. Rac1 c4 17. bxc4 Bg4 18. bxa7 Rxa7 19. Qe3 Raa8 20.
+Qxa3 1-0
+

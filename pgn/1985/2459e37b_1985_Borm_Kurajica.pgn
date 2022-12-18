@@ -1,0 +1,31 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1985.07.01"]
+[Round "7"]
+[White "Borm, Franciscus WM"]
+[Black "Kurajica, Bojan"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "2459e37b"]
+[Epoch "Queen"]
+[BlackID "14400057"]
+[BlackCountry "BIH"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8. Kh1
+Be7 9. f4 Nxd4 10. Qxd4 O-O 11. Qf2 Nd7 12. a4 b6 13. Be3 Bb7 14. Rad1 Qc7 15.
+Qg3 Bf6 16. Bd4 Rad8 17. Bxf6 Nxf6 18. Rd4 d5 19. exd5 Nxd5 20. Nxd5 Rxd5 21.
+Rxd5 Bxd5 22. Bd3 Bc4 23. b3 Bxd3 24. Qxd3 b5 25. f5 Rd8 26. Qe4 exf5 27. Qxf5
+g6 28. Qf3 Rd2 29. c4 Qe7 30. h3 Re2 31. Qf4 Qe6 32. Rf3 Re4 33. Qc7 Kg7 34.
+Kh2 Re3 35. Qg3 Rxf3 36. Qxf3 Qe5+ 37. Kh1 h5 38. Qf2 Qa1+ 39. Kh2 Qf6 40. Qe3
+Qd6+ 41. Kh1 h4 42. Qc3+ f6 43. Qf3 Qd4 44. Kh2 g5 45. Kh1 Kf7 46. Qf1 Qe3 47.
+Qd1 Ke7 48. Kh2 Qe5+ 49. Kh1 Qd6 50. Qe1+ Kd7 51. Qe3 Kc7 52. Qe1 Kc6 53. Qe3
+Qe5 54. Qf2 Qa1+ 55. Kh2 Qc3 56. Qa2 Qe5+ 57. Kh1 Qe1+ 58. Kh2 Qe5+ 59. Kh1 Qd4
+60. Kh2 f5 61. Qb1 Qe5+ 62. Kh1 Kc5 63. Qg1+ Qd4 64. Qe1 Qe4 65. Qf2+ Kc6 66.
+Qc2 Qe1+ 67. Kh2 Qe6 68. Qf2 Qd6+ 69. Kh1 Qd1+ 70. Kh2 Qd3 71. Kh1 Qb1+ 72. Kh2
+Qe4 73. Qb2 Qf4+ 74. Kh1 Qf1+ 75. Kh2 Qd1 76. Qh8 Qd6+ 77. Kh1 Qd1+ 78. Kh2 Qd7
+79. Kh1 Kb7 80. Qh5 Qe7 81. Qd1 Kc7 82. Qd2 Qd8 83. Qe2 Qd6 84. Qh5 Qf6 85. Qd1
+Qe5 86. Qb1 Qe6 87. Qg1 Kc6 88. Qf2 Qe4 89. Qb2 Qe1+ 90. Kh2 Qe7 91. Qh8 g4 92.
+hxg4 fxg4 93. Qa8+ Qb7 94. Qh8 Qc7+ 95. Kh1 g3 96. b4 Kb7 97. Qxh4 Qg7 0-1

@@ -1,0 +1,19 @@
+[Event "Szirak"]
+[Site "Szirak"]
+[Date "1985.??.??"]
+[Round "13"]
+[White "Utasi, Tamas"]
+[Black "Petran, Pal"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "a2eb23e9"]
+[Epoch "Queen"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6 12. Bf4 Nh5 13. Be3 Rxd6 14. Qc2 Re6 15.
+Bg2 Nf6 16. O-O Nc6 17. Rad1 Re8 18. Nd4 d5 19. Bg5 1/2-1/2

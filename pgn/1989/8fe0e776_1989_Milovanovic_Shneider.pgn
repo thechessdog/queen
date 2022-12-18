@@ -1,0 +1,20 @@
+[Event "Werfen open"]
+[Site "Werfen open"]
+[Date "1989.01.01"]
+[Round "9"]
+[White "Milovanovic, Rade"]
+[Black "Shneider, Aleksandr"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "8fe0e776"]
+[Epoch "Queen"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+[WhiteID "922935"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 c5 7. cxd5 exd5 8. e5
+Nfd7 9. Nxd5 cxd4 10. Qc2 Nc6 11. Nxe7 Qxe7 12. f4 f6 13. Bd3 fxe5 14. Bxh7
+Qh4+ 0-1

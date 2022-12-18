@@ -1,0 +1,20 @@
+[Event "Mestre"]
+[Site "Mestre"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Santolini, Luigi"]
+[Black "Fauland, Alexander"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "69dca851"]
+[Epoch "Queen"]
+[WhiteID "801151"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 a6 8. O-O
+Nfd7 9. Qd2 c5 10. d5 Qa5 11. Bh6 Bxf3 12. gxf3 f5 13. Bxg7 Kxg7 14. exf5 Rxf5
+15. f4 Nf6 16. Qe3 Qd8 17. Rae1 Kf8 18. Bd3 Rh5 19. Be2 Rh4 20. Qg3 Rh6 21. Bf3
+Nbd7 22. Re6 Qb6 23. Rfe1 Re8 24. Qg5 Rh3 25. Kg2 Rxf3 26. Kxf3 Qxb2 27. Qh6+
+Kg8 28. Rxe7 Qxc3+ 29. Kg2 1-0

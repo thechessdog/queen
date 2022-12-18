@@ -1,0 +1,30 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Diaz, Joaquin, Dr."]
+[Black "Popchev, Milko"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "1899033d"]
+[Epoch "Queen"]
+[WhiteID "4663349"]
+[WhiteCountry "GER"]
+[BlackID "2900165"]
+[BlackCountry "FID"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 e6 7. O-O Nc6 8. a3
+Ne7 9. Kh1 b6 10. e5 Ne8 11. Ne4 Bb7 12. c3 Rc8 13. Qe2 c5 14. Bd2 c4 15. Bc2
+Nd5 16. Ba4 Ne7 17. Be1 b5 18. Bh4 Qd7 19. Bc2 Nd5 20. Nfg5 f5 21. exf6 Ndxf6
+22. Nxf6+ Bxf6 23. Nxe6 Bxh4 24. Nxf8 Kxf8 25. f5 Kg7 26. Qg4 g5 27. f6+ Nxf6
+28. Qxd7+ Nxd7 29. Bf5 Rc7 30. Kg1 g4 31. Bxg4 Nb6 32. g3 Bf6 33. Rae1 Bd5 34.
+Be6 Re7 35. Bxd5 Rxe1 36. Rxe1 Nxd5 37. Re6 Be7 38. Kf2 Kf7 39. Re2 a5 40. Ke1
+b4 41. axb4 axb4 42. Rf2+ Kg6 43. Kd2 Bg5+ 44. Kc2 Ne3+ 45. Kb1 b3 46. Rf8 Kg7
+47. Re8 h5 48. Re6 Nf5 49. d5 Kf7 50. Re4 Ne3 51. Re6 Nf1 52. Rxd6 Nxh2 53.
+Rd7+ Kg6 54. Rd6+ Bf6 55. Rc6 Nf1 56. d6 Kf7 57. d7 Bd8 58. Kc1 Nxg3 59. Kd1 h4
+60. Ke1 Ke7 61. Rxc4 Kxd7 62. Kf2 Be7 63. Kf3 Nf5 64. Kf4 Ng7 65. Kg4 Ne6 66.
+Ra4 Nc5 67. Rb4 Kc6 68. Rd4 Bf6 69. Rf4 Be5 70. Rb4 Bg3 71. Rd4 Bf2 72. Rd8 Be3
+73. Rd1 Kb5 74. Kf3 Bg5 75. Kg4 Be7 76. Re1 Bf6 77. Rf1 Be5 78. Kxh4 Nd3 79.
+Rf5 Kc4 0-1

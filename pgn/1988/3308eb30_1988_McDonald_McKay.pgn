@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "McDonald, Neil"]
+[Black "McKay, Roderick M"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Ragozin-Petrosian (`Keres') variation"]
+[HashCode "3308eb30"]
+[Epoch "Queen"]
+[WhiteID "400629"]
+[WhiteCountry "ENG"]
+[BlackID "2400049"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. Bd5 Bb7 11. d4 Bf6 12. Be3 Nb6 13. dxe5 Nxd5 14. exf6 Nxe3
+15. Rxe3 Qxf6 16. Nbd2 Ne5 1/2-1/2

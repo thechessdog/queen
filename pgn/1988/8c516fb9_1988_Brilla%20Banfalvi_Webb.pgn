@@ -1,0 +1,17 @@
+[Event "corr GER jub"]
+[Site "corr GER jub"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Brilla Banfalvi, S."]
+[Black "Webb, Simon"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "8c516fb9"]
+[Epoch "Queen"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O e5 9. Ng5 O-O 10. f4 cxd4 11. cxd4 exd4 12. exd4 Nxd4 13. Bb2 Nf5 14. Qc2
+Ne3 15. Bxh7+ Kh8 16. Qd3 Nxf1 17. Rxf1 Bg4 18. h3 Qb6+ 19. Rf2 d5 20. c5 1-0

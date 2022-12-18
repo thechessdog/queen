@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kornath, H."]
+[Black "Rossner, G."]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "eb0fd6f5"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bg4 6. c5 N6d7 7. Bc4 e5
+8. Qb3 Qe7 9. Qxb7 exd4+ 10. Kd1 Qxc5 11. Qc8+ Ke7 12. Re1+ Be6 13. Bg5+
+Kd6 14. Nbd2 Ne5 15. Bxe6 1-0
+

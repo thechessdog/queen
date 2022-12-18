@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Leflar, D."]
+[Black "Leveille, F."]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Vitolins variation"]
+[HashCode "c5ce8859"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5+ Nbd7 7. a4 Be7
+8. O-O a6 9. Be2 Qc7 10. Be3 b6 11. f4 Bb7 12. Bf3 O-O 13. Nb3 Rfe8 14. Qd2
+Rac8 15. Rf2 Bf8 16. Re1 Qb8 17. Bd4 e5 18. Be3 Rc4 19. Qd3 Qc7 20. Nd2 Rb4
+21. b3 d5 22. Nxd5 Bxd5 23. exd5 exf4 0-1
+

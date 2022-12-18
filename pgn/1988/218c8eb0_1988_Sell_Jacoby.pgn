@@ -1,0 +1,23 @@
+[Event "Regional-Liga NN"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sell, Achim"]
+[Black "Jacoby, Florian, Prof. Dr."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "218c8eb0"]
+[Epoch "Queen"]
+[WhiteID "4628659"]
+[WhiteCountry "GER"]
+[BlackID "4610423"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Bg5 h6 3. Bf4 Nf6 4. e3 c5 5. Nd2 Nc6 6. c3 Qb6 7. Qb3 c4 8. Qc2
+Bg4 9. Ngf3 e6 10. Be2 Bf5 11. Qc1 Qd8 12. b3 b5 13. a4 a6 14. O-O Be7 15. Qb2
+O-O 16. h3 Qd7 17. Bd1 Bd6 18. Bxd6 Qxd6 19. Bc2 Bxc2 20. Qxc2 cxb3 21. Qxb3 b4
+22. Ne5 bxc3 23. Qxc3 Ne7 24. Rfc1 Rfc8 25. Qa5 Ne8 26. Rc5 Rxc5 27. Qxc5 Rc8
+28. Qxd6 Nxd6 29. Rb1 f6 30. Nd3 Rc2 31. Nb3 Nc4 32. Nbc5 Ra2 33. Nb4 Ra3 34.
+Nbxa6 e5 35. Nc7 exd4 36. Nb5 Ra2 37. Nxd4 Nb2 38. Nce6 Nxa4 39. Rb8+ Kf7 40.
+Rf8+ Kg6 41. Nf4+ Kh7 42. Rf7 Nc8 43. Nde6 1-0

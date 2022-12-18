@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Matzke, S."]
+[Black "Clasz, W."]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "2752d5ca"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Nb8 13. dxe5 dxe5 14. b4
+Nbd7 15. Qe2 Nb6 16. a4 Nxa4 17. Bxa4 bxa4 18. Rxa4 c5 19. Bb2 Qc7 20. Qc4
+Rac8 21. Kf1 cxb4 22. Qxc7 Rxc7 23. cxb4 Rc2 24. Ba3 Bc6 25. Ra5 Bb5+ 26.
+Kg1 Bd6 27. Rc1 Rec8 28. Rd1 Bc7 0-1
+

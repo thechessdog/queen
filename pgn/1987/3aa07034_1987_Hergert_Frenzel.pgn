@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hergert, V."]
+[Black "Frenzel, L."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "3aa07034"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Ng1 Nf6 5. d3 exd3 6. Bxd3 d5 7. Qe2+ Be7
+8. Nf3 O-O 9. O-O c5 10. c4 d4 11. Ne5 Qe8 12. g4 Nc6 13. Nxc6 bxc6 14. g5
+Nh5 15. Re1 Bxf5 16. Bxf5 Rxf5 17. Qxe7 Qxe7 18. Rxe7 Raf8 19. Re1 Rxf2 20.
+Nd2 1-0
+

@@ -1,0 +1,22 @@
+[Event "corr Pider mem"]
+[Site "corr Pider mem"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cella"]
+[Black "Cano"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, Alapin gambit"]
+[HashCode "c48c0bec"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 g5 9. Nc4 Bxf3 10. Qxf3 Qxf3 11. gxf3 f6 12. h4 gxh4 13. Be3 O-O-O 14.
+Kg2 Ne7 15. f4 exf4 16. Bxf4 Ng6 17. Be3 Ne5 18. Nxe5 fxe5 19. Rg1 Rg8+ 20.
+Kh2 Be7 21. Rxg8 Rxg8 22. Rg1 Rxg1 23. Kxg1 Kd7 24. d4 Ke6 25. dxe5 Kxe5
+26. f3 c5 27. Kg2 c4 28. c3 b5 29. a3 a5 30. Kh3 b4 31. axb4 axb4 32. cxb4
+c6 33. Bd2 Kd4 34. Be1 Ke3 35. Bxh4 Bxb4 36. e5 c3 37. bxc3 Bxc3 38. e6 Bb4
+39. Kg2 Kd4 40. e7 Bxe7 41. Bxe7 c5 42. Bg5 Kd3 43. Kh3 c4 44. Kh4 c3 45.
+Kxh5 c2 46. Bc1 1-0
+

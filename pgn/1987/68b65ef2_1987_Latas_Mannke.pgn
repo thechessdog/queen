@@ -1,0 +1,23 @@
+[Event "POL-ch sf"]
+[Site "Gdynia"]
+[Date "1987.01.01"]
+[Round "8"]
+[White "Latas, Boguslaw"]
+[Black "Mannke, Manfred"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "68b65ef2"]
+[Epoch "Queen"]
+[WhiteID "1102834"]
+[BlackID "1103571"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 Nf5 14. h3
+O-O-O 15. g4 Nfe7 16. Nxc3 Na5 17. Be3 d4 18. Bxd4 Bc6 19. Nb5 Bxb5 20. Rxb5
+Nec6 21. c3 Nxd4 22. cxd4 Qc1+ 23. Ke2 Nc6 24. Rc5 Qxf4 25. Rxc6+ bxc6 26. Qa6+
+Kd7 27. Bg2 Ke7 28. Qxa7+ Rd7 29. Qc5+ Kd8 30. Rb1 Kc8 31. Qxc6+ Rc7 32. Rb8+
+Kxb8 33. Qa8# 1-0

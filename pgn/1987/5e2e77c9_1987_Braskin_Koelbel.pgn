@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Koelbel, W."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "5e2e77c9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7.
+Neg5+ Kg8 8. d3 h6 9. Nh3 Bg4 10. c3 Qf6 11. Nhg1 Re8 12. h3 Be6 13. Nh2
+Bc5 14. Ngf3 e4 15. dxe4 dxe4 16. Nd4 Nxd4 17. cxd4 Bxd4 18. O-O h5 19. Be3
+Bxb2 20. Rb1 Bc4 21. Qa4 b5 0-1
+

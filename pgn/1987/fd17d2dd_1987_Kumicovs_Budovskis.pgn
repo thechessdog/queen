@@ -1,0 +1,18 @@
+[Event "corr ch-SU"]
+[Site "corr ch-SU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kumicovs"]
+[Black "Budovskis"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "fd17d2dd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6
+8. Qe2 a6 9. Rd1 Qc7 10. Bf4 Ne5 11. Bxe5 dxe5 12. Rac1 Qb8 13. Bb5+ axb5
+14. Nxb5 Be7 15. Nc7+ Kf8 16. Nxa8 Qxa8 17. Qc4 g6 18. Qxc8+ Kg7 19. Qc7
+Re8 20. Nxe5 Qxa2 21. Qxb7 Qa4 22. f3 1-0
+

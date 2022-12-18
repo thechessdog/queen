@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Timson, P."]
+[Black "Hebden, Mark L"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "1f66165c"]
+[Epoch "Queen"]
+[BlackID "400084"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. Nd2
+Qa5 9. e4 Bxf1 10. Kxf1 Bg7 11. Nc4 Qa6 12. Qe2 O-O 13. g3 Nbd7 14. Kg2 Rfb8
+15. Bd2 Nb6 16. b3 Nxc4 17. bxc4 Nd7 18. Rab1 Rb4 19. Rb3 Qxc4 20. Rxb4 Qxb4
+21. Rb1 Qa5 22. Rb3 h5 23. h3 Bd4 24. Be1 Bf6 25. Bd2 Rc8 26. Rb7 Bxc3 27. Bxc3
+Qxc3 28. Rxd7 Qe5 29. Qc2 Rb8 30. a4 Rb4 31. a5 Rxe4 32. a6 Qxd5 33. Rd8+ Kh7
+34. Kf1 Re5 0-1

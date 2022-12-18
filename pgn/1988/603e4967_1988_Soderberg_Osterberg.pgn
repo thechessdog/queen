@@ -1,0 +1,16 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Soderborg, Berndt"]
+[Black "Osterberg"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "603e4967"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 h6 6. Bh4 c5 7. e3 cxd4 8. exd4
+Nc6 9. Nf3 Be7 10. a3 d5 11. Rd1 b6 12. Bd3 dxc4 13. Bxc4 Na5 14. Ba2 Nd5 15.
+Bxe7 Qxe7 16. b4 Ba6 17. bxa5 Rfc8 18. Bxd5 exd5+ 19. Kd2 1/2-1/2

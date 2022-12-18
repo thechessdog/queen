@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sprinkhuizen, A."]
+[Black "Glosiek, WM."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit, Bardeleben variation"]
+[HashCode "d4e02b4b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4 7. e5 d5
+8. exf6 dxc4 9. Qxd8+ Nxd8 10. fxg7 Rg8 11. Bh6 Ne6 12. O-O-O Bxc3 13. bxc3
+Nxg7 14. Rhe1+ Ne6 15. Bf4 Bd7 16. Bxc7 Ba4 17. Rd2 Rg6 18. Nh4 Rg5 19. f4
+1-0
+

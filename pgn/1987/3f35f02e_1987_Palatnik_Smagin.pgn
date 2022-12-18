@@ -1,0 +1,19 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Smagin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "3f35f02e"]
+[Epoch "Queen"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+[BlackID "4100425"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Nc3
+O-O 9. O-O d5 10. cxd5 cxd5 11. Ne5 Nfd7 12. Nxd7 1/2-1/2

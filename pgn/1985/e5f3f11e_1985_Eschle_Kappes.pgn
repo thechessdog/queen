@@ -1,0 +1,18 @@
+[Event "corr FRG/M"]
+[Site "corr FRG/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eschle, H."]
+[Black "Kappes, D."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "e5f3f11e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 Ne7 6. exd5 exd5 7. Qe2 Bg4
+8. O-O g6 9. Re1 a6 10. Qe5 axb5 11. Nxd5 Bg7 12. Qxg7 Qxd5 13. Qxh8+ Kd7
+14. Qxa8 Bxf3 15. Qxb7+ Kd8 16. a4 b4 17. Rxe7 Nxe7 18. Qb8+ Kd7 19. gxf3
+Qxf3 20. Qb5+ Kd8 21. Qf1 1-0
+

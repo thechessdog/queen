@@ -1,0 +1,22 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mohr, Stefan"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni defence"]
+[HashCode "b402989a"]
+[Epoch "Queen"]
+[BlackID "15001350"]
+[BlackCountry "MKD"]
+[WhiteID "4600290"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. e4 b5
+9. Qe2 Be7 10. e5 dxe5 11. Bxe5 Nbd7 12. O-O-O Nxe5 13. Nxe5 Qd6 14. Nc6 Kf8
+15. g3 Bb7 16. Bg2 Bd8 17. h4 Kg7 18. h5 Re8 19. Qc2 b4 20. Na4 Nd7 21. hxg6
+hxg6 22. Qd2 Bf6 23. Qh6+ Kg8 24. f4 Re2 25. Bf1 Rf2 26. Na5 Qc7 27. Nc4 Re8
+28. Qh7+ Kf8 29. Bd3 Bxd5 30. f5 Ne5 31. Ncb6 Bxh1 32. Qxh1 Nxd3+ 33. Rxd3 Rxf5
+34. Nd5 Bg5+ 35. Kb1 Qe5 0-1

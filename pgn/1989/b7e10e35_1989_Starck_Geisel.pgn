@@ -1,0 +1,17 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Starck, Ines"]
+[Black "Geisel"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "b7e10e35"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Bb7 10. Bxe6 fxe6 11. Nxe6 Qc8 12. Nxg7+ Kd8 13. Nf5 Rf8 14. Bh6 Rf7
+15. Qg3 Qe6 16. Rad1 Nh5 17. Qe3 Nd7 18. Bg5 Nhf6 19. Qg3 Ne5 20. f4 Ned7 21.
+Nxe7 1-0

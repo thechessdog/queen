@@ -1,0 +1,19 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schwertel"]
+[Black "Sojka"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "163c8df9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Bc4 c5 7. c3 Qc7 8.
+Qe2 Nc6 9. O-O-O a6 10. h4 Bg4 11. Bxf6 Bxf6 12. Ne4 Bg7 13. h5 cxd4 14.
+hxg6 hxg6 15. exd4 Nxd4 16. Qd3 Nxf3 17. gxf3 Bf5 18. Rdg1 e6 19. Qe2 d5
+20. Bd3 Rfd8 21. Kb1 Qb6 22. Ka1 Rac8 23. Ng5 Rxc3 24. Bxf5 exf5 25. Rh7
+Rc4 26. Rgh1 Rdc8 27. Rxg7+ Kxg7 28. Kb1 Rc2 0-1
+

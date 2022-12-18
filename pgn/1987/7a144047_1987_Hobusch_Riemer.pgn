@@ -1,0 +1,18 @@
+[Event "Hettstedt"]
+[Site "Hettstedt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hobusch"]
+[Black "Riemer, Wolfgang"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Rauzer variation"]
+[HashCode "7a144047"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Nf3 cxb2 8.
+Bxb2 Ne7 9. Bd3 Bd7 10. O-O O-O 11. Bxh7+ Kxh7 12. Ng5+ Kg6 13. Qg4 f5 14. exf6
+e5 15. Ne6+ Kxf6 16. Bxe5+ Kxe5 17. Rfe1+ Kd6 18. Qg3+ Kc6 19. Qc3+ Kb6 20.
+Qc5# 1-0

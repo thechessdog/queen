@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Frieser, K."]
+[Black "Zugda, BB."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "0d966a80"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Ng5 O-O 10. f4 exd4 11. cxd4 cxd4 12. exd4 h6 13. d5 Bg4 14.
+Nf3 Nd4 15. Bb2 Nxf3+ 16. gxf3 Bh3 17. Rf2 Nh5 18. Qd2 Qh4 19. Kh1 Nxf4 20.
+Rg1 f6 21. Bb1 Rf7 22. Qc2 g6 23. Qd2 g5 24. Bc1 Re8 25. Qd4 Bg2+ 26. Rfxg2
+Nxg2 27. Be4 Nf4 28. Bf5 Ng6 29. Qxh4 Nxh4 30. Be6 Rxe6 31. dxe6 Re7 32.
+Re1 Nxf3 33. Re3 Ne5 0-1
+

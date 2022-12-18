@@ -1,0 +1,16 @@
+[Event "Alkmaars-A op"]
+[Site "Alkmaar open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Berg, E."]
+[Black "Nibbering, S."]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "1e291711"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 a6 7. Be3 e6 8. Qd2
+Be7 9. f3 Qc7 10. g4 b5 11. g5 b4 12. gxf6 Nxd4 13. fxe7 bxc3 14. Qxd4 cxb2 15.
+Qxb2 Rb8 16. Qxg7 1-0

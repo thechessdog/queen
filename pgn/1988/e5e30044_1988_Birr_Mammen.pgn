@@ -1,0 +1,17 @@
+[Event "Eppingen HT4"]
+[Site "Eppingen HT4"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Birr, Beate"]
+[Black "Mammen, Heino"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "e5e30044"]
+[Epoch "Queen"]
+[WhiteID "4608909"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Be3 Qb4+ 0-1

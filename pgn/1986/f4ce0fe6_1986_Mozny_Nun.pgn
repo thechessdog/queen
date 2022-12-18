@@ -1,0 +1,20 @@
+[Event "Prague op"]
+[Site "Prague"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mozny, Milos"]
+[Black "Nun, Jiri"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "f4ce0fe6"]
+[Epoch "Queen"]
+[WhiteID "300454"]
+[BlackID "300179"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8. Nh4
+c6 9. cxd5 Nxd5 10. Nf5 Nc7 11. Nc3 d5 12. e4 g6 13. Nxe7+ Qxe7 14. exd5 cxd5
+15. Re1 Qd7 16. Bh6 Re8 17. Rxe8+ Qxe8 18. Nxd5 Bxd5 19. Qd4 1-0

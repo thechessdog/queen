@@ -1,0 +1,20 @@
+[Event "corr EU-FSM"]
+[Site "corr EU-FSM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vefling"]
+[Black "Taschruschin"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "80428423"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Qc2 g5 13. Ra3 g4 14. b3 a6
+15. a5 Nh5 16. Nc4 Qf6 17. Nd1 Nf3+ 18. gxf3 gxf3 19. Bxf3 Qxf3 20. b4 Qxe4
+21. Qxe4 Rxe4 22. Nxd6 Rxb4 23. Re1 Bd7 24. Ne3 Bf8 25. Nef5 Rg4+ 26. Kh1
+Rg6 27. Rf3 Bxd6 28. Nh6+ Rxh6 29. Bxh6 f6 30. Bd2 Re8 31. Bc3 Kf7 32. Re4
+Rg8 33. Bb2 Rg5 0-1
+

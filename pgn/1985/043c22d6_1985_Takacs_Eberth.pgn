@@ -1,0 +1,19 @@
+[Event "Miskolc"]
+[Site "Miskolc"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Takacs, K."]
+[Black "Eberth, Zoltan"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English"]
+[Variation "Anglo-Dutch defense"]
+[HashCode "043c22d6"]
+[Epoch "Queen"]
+[BlackID "702668"]
+[BlackCountry "HUN"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 e6 4. Bg2 d5 5. cxd5 exd5 6. Nf3 c6 7. e3 Bd6 8. b3
+O-O 9. Bb2 Na6 10. O-O Nc5 11. d3 Bd7 12. Ne2 Qe8 13. a4 Qh5 14. Qc2 g5 15. h4
+h6 16. Ba3 Nce4 17. dxe4 dxe4 18. Nxg5 Bxa3 19. Nf4 Qe8 20. Nxe4 Be7 21. Nc5
+Rb8 1-0

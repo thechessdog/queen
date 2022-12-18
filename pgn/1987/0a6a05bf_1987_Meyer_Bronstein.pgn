@@ -1,0 +1,18 @@
+[Event "Club Argentino"]
+[Site "Club Argentino"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Bronstein, David Ionovich"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "0a6a05bf"]
+[Epoch "Queen"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8. b3
+Nc6 9. Be2 dxc4 10. Bxc4 Bxc4 11. bxc4 Qd7 12. d5 exd5 13. cxd5 O-O-O 14. e4
+Rhe8 15. dxc6 Qxc6 16. Bd2 Nxe4 17. Qg4+ Kb8 18. O-O Nxd2 19. Rfd1 Qxc3 0-1

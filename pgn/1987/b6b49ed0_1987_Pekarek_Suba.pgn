@@ -1,0 +1,23 @@
+[Event "Warsaw II zt"]
+[Site "Warsaw II zt"]
+[Date "1987.02.01"]
+[Round "1"]
+[White "Pekarek, Ales"]
+[Black "Suba, Mihai"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "b6b49ed0"]
+[Epoch "Queen"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+[WhiteID "300080"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 d6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. f4 c4 12. Kh1 Nc5 13. e5 dxe5 14. fxe5 Rxe5 15.
+Nxc4 Rf5 16. Bf4 Nh5 17. Be3 Rxf1+ 18. Qxf1 b6 19. Rd1 Ba6 20. d6 Qf6 21. Nd5
+Qxf1+ 22. Bxf1 Bxc4 23. Bxc4 Nd7 24. Bg5 Bxb2 25. Rf1 Ne5 26. Bb5 Ng7 27. Bf6
+Nh5 28. Be7 Ba3 29. Re1 a6 30. Rxe5 axb5 31. d7 f6 32. Re1 Bxe7 33. Nxe7+ Kf7
+34. Nc8 1-0

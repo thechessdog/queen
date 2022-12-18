@@ -1,0 +1,19 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Andruet, Gilles"]
+[Black "Bischoff, Klaus"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[HashCode "74f40756"]
+[Epoch "Queen"]
+[BlackID "4600045"]
+[BlackCountry "GER"]
+[WhiteCountry "FRA"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 c5 8. d5
+exd5 9. cxd5 Nxd2 10. Nxd2 O-O 11. O-O d6 12. Qb3 Re8 13. Nc4 Ba6 14. Nb5 Bf8
+15. e4 Bxb5 16. Qxb5 Nd7 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fette, Martin"]
+[Black "Pigusov, Evgeny"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "272605be"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteID "4600827"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8.
+Bf4 Nge7 9. Bd6 O-O 10. Nbd2 b6 11. Nb3 Bb7 12. Nbxd4 Nxd4 13. Nxd4 Re8 14. Rc1
+Nc6 15. Nxc6 dxc6 16. Bxc6 Bxc6 17. Rxc6 Rxe4 18. Qc2 Qe8 19. Rc7 Re2 20. Qc4
+b5 21. Qd5 Rd8 22. Qc5 a6 23. Ra7 Re6 24. Re7 Rxe7 25. Bxe7 Bd4 26. Qa3 Bxb2
+27. Qxb2 Qxe7 28. h3 Rd5 29. Rc1 Qd7 30. Qf6 Rd6 31. Rc8+ Qxc8 32. Qxd6 Qe6 33.
+Qd8+ Kg7 34. Qa5 h5 35. h4 Qc6 36. g3 Kf6 37. Kh2 Kf5 38. Qd8 Qe6 0-1

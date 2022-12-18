@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rasmussen, P."]
+[Black "Kirwald, F."]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "674beeea"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 c5 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. c3 Nbc6 9. f4 cxd4 10. Nxd4 Nxd4 11. cxd4 Bd7 12. Nf3 Qb6 13. Bd3 Bb5
+14. O-O Bxd3 15. Qxd3 Rac8 16. Qd2 Rc6 17. Rac1 1/2-1/2
+

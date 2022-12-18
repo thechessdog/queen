@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beth"]
+[Black "Luca"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "070e23cb"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bf5 6. Bg2 Nb4 7. O-O d3 8.
+Ne1 dxe2 9. Qxe2 c6 10. Nc3 Qd7 11. Be3 Ne7 12. Rd1 Qe6 13. a3 Na6 14. f4
+Ng6 15. Nf3 Bc5 16. Bxc5 Nxc5 17. Nd4 Qc8 18. e6 Ne7 19. Qe5 1-0
+

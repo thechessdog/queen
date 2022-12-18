@@ -1,0 +1,15 @@
+[Event "corr ICFF TT"]
+[Site "corr ICFF TT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Malmstrom, Jan"]
+[Black "Lindquist, Bjorn"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "7742bbb9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 fxe4 4. Nxe5 Nf6 5. Ng4 Qe7 6. Nxf6+ gxf6 7. Qg4
+Nc6 8. Qxe4 Nb4 9. Kd1 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr ch-SF"]
+[Site "corr ch-SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Oksanen, Y."]
+[Black "Varynen, T."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "8d860a79"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Be3 Bg7
+8. Qd2 Qa5 9. Nf3 Nc6 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 O-O 13. Bb5 Na5
+14. Rc7 a6 15. Bd3 Bg4 16. Ng5 h6 17. h3 Bc8 18. Nf3 e6 19. Ke2 Nc6 20. Rd1
+Rd8 21. Bc2 Rd7 22. Rxd7 Bxd7 23. Bb1 Na7 24. Bc1 Rc8 25. Bb2 Nb5 26. Kd2
+Nd6 27. Bd3 h5 28. e5 Nc4+ 29. Bxc4 Rxc4 30. Ra1 Bh6+ 31. Ke1 Rc2 32. Ba3
+Bc6 0-1
+

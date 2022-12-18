@@ -1,0 +1,18 @@
+[Event "corr ch20-DDR"]
+[Site "corr ch20-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schwarz, V."]
+[Black "Bachmann, A."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "e1e123c7"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. a4 Qc7 8. a5
+Nbd7 9. Be2 e5 10. dxe5 dxe5 11. O-O Rd8 12. Bc4 Nc5 13. Qe2 Ncxe4 14. Nxe4
+Nxe4 15. Bb6 axb6 16. axb6 Qxb6 17. Rxa8 Ng3 18. Bxf7+ Kh8 19. Qe3 Qxe3 20.
+fxe3 Nxf1 1/2-1/2
+

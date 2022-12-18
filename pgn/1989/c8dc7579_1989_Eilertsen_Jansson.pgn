@@ -1,0 +1,26 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eilertsen, Jens B."]
+[Black "Jansson, Joran"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "c8dc7579"]
+[Epoch "Queen"]
+[WhiteID "1500910"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. d4 cxd4 3. c3 g6 4. cxd4 Bg7 5. Nc3 d6 6. Nf3 a6 7. Bc4 e6 8. O-O
+Ne7 9. Bg5 O-O 10. Qd2 b5 11. Bb3 Bb7 12. Rfe1 Nd7 13. Qf4 Nb6 14. Qh4 Re8 15.
+h3 Kh8 16. Nh2 Qd7 17. Ng4 Ng8 18. e5 Nc8 19. Nf6 Nxf6 20. exf6 Bf8 21. d5 exd5
+22. Nxd5 Re5 23. Ne7 Rxe1+ 24. Rxe1 d5 25. Bh6 Nxe7 26. fxe7 Bg7 27. Qg4 f5 28.
+Bxg7+ Kxg7 29. Qd4+ Kf7 30. Re5 Re8 31. Bxd5+ Bxd5 32. Rxd5 Qe6 33. Rd6 Qe1+
+34. Kh2 Rxe7 35. Rf6+ Kg8 36. Rxa6 Qe5+ 37. Qxe5 Rxe5 38. Ra5 Kf7 39. a4 Re4
+40. Ra7+ Ke6 41. axb5 Rb4 42. Rb7 f4 43. h4 f3 44. Rxh7 Rxb5 45. g4 Rxb2 46.
+Kg3 Rb3 47. g5 Rb6 48. Rh8 Kf7 49. Kxf3 Rb3+ 50. Kg4 Rb1 51. h5 Rg1+ 52. Kf4
+gxh5 53. Rxh5 Ra1 54. Rh7+ Kg6 55. Rh6+ Kg7 56. Rb6 Ra4+ 57. Kf5 Ra5+ 58. Kg4
+Ra4+ 59. f4 Rc4 60. Re6 Ra4 61. Kf5 Ra5+ 62. Re5 Ra7 63. Rb5 Rc7 64. Rb4 Rc5+
+65. Kg4 Rc7 66. f5 Ra7 67. Kh5 Kh8 68. Kg6 Rg7+ 69. Kf6 Rg8 70. Rh4# 1-0

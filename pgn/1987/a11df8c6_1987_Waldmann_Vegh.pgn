@@ -1,0 +1,20 @@
+[Event "St Ingbert"]
+[Site "St Ingbert"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Waldmann, Ivan"]
+[Black "Vegh, Endre"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "a11df8c6"]
+[Epoch "Queen"]
+[WhiteID "701416"]
+[BlackID "700568"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. e3 b6 5. Nf3 cxd4 6. exd4 Bb7 7. Bd3 Be7 8. O-O
+d5 9. cxd5 Nxd5 10. Bb5+ Bc6 11. Qa4 Qd7 12. Bxc6 Nxc6 13. Be3 O-O 14. Rac1
+Rac8 15. Nxd5 Qxd5 16. Rc3 b5 17. Qa6 Bb4 18. Rc2 Rc7 19. a3 Nb8 20. Rxc7 Nxa6
+21. Rxa7 Ra8 22. Rxa8+ Qxa8 23. axb4 Nxb4 24. Rc1 Nd3 25. Rd1 Nxb2 0-1

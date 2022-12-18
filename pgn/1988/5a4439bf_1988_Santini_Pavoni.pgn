@@ -1,0 +1,19 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Santini"]
+[Black "Pavoni"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "5a4439bf"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O Nxd4 9. Qxd4 O-O 10. Be2 Qa5 11. f4 h6 12. h4 e5 13. Qf2 exf4 14.
+Bxf4 Be6 15. a3 Rfc8 16. Qg3 Rxc3 17. Qxc3 Qxc3 18. bxc3 Nxe4 19. Rd4 d5
+20. Kb2 Bf6 21. Rc1 Bxd4 22. cxd4 Rc8 23. Kb3 g5 24. hxg5 hxg5 25. Be3 Rc3+
+26. Kb4 Rxe3 27. Bd3 f5 28. Bb5 a6 29. Ba4 Rg3 30. Rg1 f4 0-1
+

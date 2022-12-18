@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hahn, W."]
+[Black "Kubot, B."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "41a414c7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qc7 10. Qg3 b4 11. Nce2 g6 12. Bh6 Nxe4 13. Qf3 Nc5 14. Qxa8
+Bb7 15. Qa7 Kd7 16. Rfd1 Rc8 17. c3 a5 18. cxb4 axb4 19. Ba4+ Kd8 20. Nb5
+Qc6 21. Qa5+ 1-0
+

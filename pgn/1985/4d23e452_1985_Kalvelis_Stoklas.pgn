@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kalvelis"]
+[Black "Stoklas"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "4d23e452"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 a6 7. g5 Nfd7 8.
+Bc4 b5 9. Bxe6 fxe6 10. Nxe6 Qa5 11. Bd2 Bb7 12. Nd5 Qa4 13. Bb4 Bxd5 14.
+Nc7+ Kd8 15. Nxd5 Nc6 16. a3 1-0
+

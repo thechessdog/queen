@@ -1,0 +1,18 @@
+[Event "Praatschaak"]
+[Site "Nederland radio"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hofhuizen"]
+[Black "Sosonko, Gennadi"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "d2191669"]
+[Epoch "Queen"]
+[BlackID "1000039"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Nc3 g6 7. Bg5 Bg7 8.
+e3 Qa5 9. Bxf6 Bxf6 10. Qb3 O-O 11. Rc1 Ba6 12. Be2 Rfb8 13. Qc2 Bxc3+ 14. bxc3
+Qa3 15. O-O Rb2 16. Qd3 d5 17. Rc2 Rab8 18. Rxb2 Rxb2 19. Bf3 Bxc4 0-1

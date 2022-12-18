@@ -1,0 +1,19 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bassi, G."]
+[Black "Megli, M."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "606daf72"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6
+8. c4 Nf6 9. Bg5 Ne5 10. Nc3 h6 11. Bf4 Nxd3 12. Qxd3 O-O 13. Bd6 Re8 14.
+e5 Nh7 15. Kh1 Bb8 16. c5 b6 17. Qe4 Ra7 18. Bxb8 Bb7 19. Qe3 Qxb8 20. cxb6
+Ra8 21. Rad1 Rd8 22. Rd6 f6 23. f4 a5 24. Rfd1 Qc8 25. Nc5 Nf8 26. exf6
+gxf6 27. f5 exf5 28. Rxf6 Re8 29. Qg3+ Kh8 30. Rxh6+ Nh7 31. Rxd7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Lyon"]
+[Site "Lyon"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Miralles, Gilles"]
+[Black "Kouatly, Bachar"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "cfb0b487"]
+[Epoch "Queen"]
+[WhiteID "600059"]
+[WhiteCountry "FRA"]
+[BlackID "600032"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Nd2 e5 12. Bg5 d4 13. Nb3 Qd8 14. Be2 1/2-1/2

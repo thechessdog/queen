@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Larsson, P."]
+[Black "Kopp, A."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "40b82e1f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6
+Nxf6 9. Bg2 e5 10. O-O e4 11. Ne5 Bf5 12. Qa4 Be7 13. Nd2 O-O 14. Nxc6 bxc6
+15. b3 c5 0-1
+

@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Leigh, M."]
+[Black "Watson, John"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "fbd81b0a"]
+[Epoch "Queen"]
+[BlackID "2000768"]
+[BlackCountry "USA"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bd3
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Ne5 12. Nc4 Nxc4 13. Bxc4 Ng4 14. Bd3 Nxh2
+15. Kxh2 Qh4+ 16. Kg1 Be5 17. g3 Bxg3 18. fxg3 Qxg3+ 19. Kh1 Qh4+ 20. Kg1
+1/2-1/2

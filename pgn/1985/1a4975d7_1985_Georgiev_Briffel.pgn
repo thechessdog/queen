@@ -1,0 +1,27 @@
+[Event "Moscow-B"]
+[Site "Moscow"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Georgiev, Krum"]
+[Black "Briffel, Francisco"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "1a4975d7"]
+[Epoch "Queen"]
+[WhiteID "2900092"]
+[WhiteCountry "FID"]
+[BlackID "10100032"]
+[BlackCountry "ANG"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. N1e2 Nd7 7. Nf4 e5 8.
+dxe5 Qa5+ 9. Bd2 Qxe5+ 10. Be2 O-O-O 11. O-O Ngf6 12. Qc1 Qc7 13. a4 Bd6 14.
+Be3 h5 15. Nxg6 fxg6 16. Rd1 Ng4 17. Bxg4 hxg4 18. Rd4 Nf6 19. Bf4 Bxf4 20.
+Qxf4 Qxf4 21. Rxf4 Rd2 22. Rc4 Rhd8 23. Re1 R8d7 24. b3 Kc7 25. Nf1 Rd1 26.
+Rxd1 Rxd1 27. g3 a6 28. a5 Kd6 29. Kg2 c5 30. c3 Rd3 31. Ne3 Nd5 32. Nxd5 Kxd5
+33. Kf1 Rd1+ 34. Ke2 Rb1 35. Rxg4 Rxb3 36. Kd3 Ra3 37. Rg5+ Kd6 38. Rxg6+ Kd5
+39. Rxg7 Rxa5 40. Rxb7 c4+ 41. Ke3 Ra3 42. Rd7+ Kc6 43. Rd2 Rxc3+ 44. Kd4 Rc1
+45. Rb2 a5 46. h4 a4 47. Rb4 a3 48. Ra4 Kb5 49. Rxa3 Kb4 50. Ra7 Rd1+ 51. Ke5
+c3 52. Rc7 Re1+ 53. Kf5 Re2 54. f4 Kb3 55. h5 Re3 56. g4 c2 57. Rxc2 Kxc2 58.
+g5 1-0

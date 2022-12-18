@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gongalov, B."]
+[Black "Tesche"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "46757c71"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. dxe5 dxe5 6. Bxf7+ Kxf7 7. Nxe5+
+Ke7 8. Bg5+ Ngf6 9. Nc4 Qc7 10. e5 Nxe5 11. Qe2 Ke6 12. f4 Nd7 13. fxe5 b5
+14. Qg4+ Kd5 15. Nc3+ 1-0
+

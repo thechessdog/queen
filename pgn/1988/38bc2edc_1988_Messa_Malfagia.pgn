@@ -1,0 +1,22 @@
+[Event "Lacona"]
+[Site "Lacona"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Messa, Roberto"]
+[Black "Malfagia, Andrea"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "38bc2edc"]
+[Epoch "Queen"]
+[WhiteID "800457"]
+[BlackID "801941"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 Nge7
+8. Qf3 Be6 9. Nh3 Qd7 10. Ng5 Bf5 11. g4 Bg6 12. h4 h6 13. h5 hxg5 14. hxg6
+Rxh1+ 15. Qxh1 O-O-O 16. gxf7 Qxg4 17. Be3 Rf8 18. Kd2 Qe6 19. Rg1 Qxf7 20.
+Rxg5 g6 21. Qh3+ Kb8 22. Qg3 Na5 23. Bxg6 Nc4+ 24. Kc1 Nxg6 25. Rxg6 Qe7 26.
+Rg7 Qxa3+ 27. Kd1 Nxe3+ 28. fxe3 a5 1-0

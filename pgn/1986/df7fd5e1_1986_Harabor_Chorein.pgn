@@ -1,0 +1,20 @@
+[Event "corr WT/I"]
+[Site "corr WT/I"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Chorein, Jean"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "df7fd5e1"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 exd5
+8. Bb5+ Bd7 9. Bxd7+ Nbxd7 10. Qb3 Nb6 11. O-O O-O 12. Re1 Re8 13. Bg5 Qd7
+14. Ne5 Qf5 15. Bxf6 gxf6 16. Nf3 Bd6 17. Nb5 Nc4 18. Nxd6 Nxd6 19. Qa4 Ne4
+20. Rac1 Kh8 21. Rc7 Rg8 22. Qb3 Rg7 23. Rxb7 Rag8 24. g3 h5 25. Qe3 h4 26.
+Nxh4 Qh3 27. Qf4 Rh7 28. Rxe4 dxe4 29. Qxf6+ Rhg7 30. Rxf7 Kh7 31. Qg6+ Kh8
+32. Qh6+ Rh7 33. Qxh7# 1-0
+

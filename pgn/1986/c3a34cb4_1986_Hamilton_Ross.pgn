@@ -1,0 +1,19 @@
+[Event "Winnipeg zt"]
+[Site "Winnipeg zt"]
+[Date "1986.07.01"]
+[Round "1"]
+[White "Hamilton, Robert"]
+[Black "Ross, David"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "c3a34cb4"]
+[Epoch "Queen"]
+[WhiteID "2600234"]
+[WhiteCountry "CAN"]
+[BlackID "2600277"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 c5 7. a3 Bxc3+ 8. bxc3
+d5 9. Be2 O-O 10. cxd5 Bxe2 11. Nxe2 exd5 12. O-O Re8 13. a4 1/2-1/2

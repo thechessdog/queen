@@ -1,0 +1,23 @@
+[Event "Akropolis op"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Pandavos, Panayotis"]
+[Black "Begnis, Nikolaos"]
+[Result "0-1"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "917fdcbc"]
+[Epoch "Queen"]
+[WhiteID "4200128"]
+[BlackID "4200306"]
+[WhiteCountry "GRE"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bxf6 Bxf6 11. Nb3 e5 12. g3 Bg4 13. Be2 Bxe2 14. Nxe2 a5
+15. a4 Re8 16. Qxd6 Nd4 17. Rxd4 exd4 18. Qxd8 Bxd8 19. e5 f6 20. e6 Rxe6 21.
+Nexd4 Re8 22. f5 Re5 23. g4 Bb6 24. Ne6 h5 25. h3 hxg4 26. hxg4 Re4 27. g5 fxg5
+28. Rd1 g4 29. Nbc5 Bxc5 30. Nxc5 Re5 31. Nxb7 Rxf5 32. Nd6 Rf4 33. c4 Raf8 34.
+c5 g3 0-1

@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Umansky, Vladimir"]
+[Black "Perelshteyn, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "993fd70a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Nd7 9. O-O Be7 10. Rc1 Rc8 11. Qa4 Qb6 12. Ne2 O-O 13. Bxc6 bxc6 1/2-1/2

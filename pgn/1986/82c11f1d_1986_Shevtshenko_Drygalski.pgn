@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shevtshenko, MN."]
+[Black "Drygalski, W."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "82c11f1d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. Be2 dxc4
+8. Bxc4 O-O 9. Nge2 Nc6 10. Be3 Ng4 11. Rd1 Nxe3 12. fxe3 Na5 13. Qb4 Nxc4
+14. Qxc4 Qb6 15. b3 Bg4 16. O-O Rac8 17. Qd3 Qa5 18. Na4 e5 19. d5 e4 20.
+Qd2 Qxd2 21. Rxd2 b5 22. Nb2 Rfd8 23. Ng3 Bh6 24. Kf2 Rc3 25. Re1 f5 26.
+Nf1 f4 0-1
+

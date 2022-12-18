@@ -1,0 +1,22 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Los, Sander"]
+[Black "Van den Berg, AMJ."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9f7494a9"]
+[Epoch "Queen"]
+[WhiteID "1000527"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. Re1
+Qc7 9. d4 cxd4 10. cxd4 Nb4 11. Bb3 d5 12. e5 h6 13. Nc3 Nbc6 14. Bc2 Rc8 15.
+Bb1 g6 16. h4 Qb6 17. h5 gxh5 18. Ne2 Ng6 19. Ng3 h4 20. Nh5 Be7 21. Ng7+ Kd7
+22. Nxe6 fxe6 23. Bxg6 h3 24. g3 h5 25. Be3 Rcg8 26. Bd3 h4 27. Kh2 Qd8 28. Rg1
+hxg3+ 29. fxg3 Rg4 30. a4 bxa4 31. Rxa4 Qb6 32. b3 Rhg8 33. Be2 Re4 34. Bf2
+Nxe5 35. Nxe5+ Rxe5 36. Qf1 Rf5 37. Bd3 Rf6 38. Qe2 Qxb3 39. Rga1 Rxf2+ 40.
+Qxf2 Qxd3 0-1

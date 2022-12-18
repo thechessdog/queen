@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Csaszar"]
+[Black "Koloszvari"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "d2dc9297"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qe2 O-O 13. e5 dxe5 14.
+fxe5 Nd5 15. Bxe7 Nxe7 16. Qh5 g6 17. Qg5 Nc6 18. Bxg6 hxg6 19. Nxe6 fxe6
+20. Qxg6+ Kh8 21. Re3 Nf6 22. exf6 Rf7 23. Rh3+ Rh7 24. Rxh7+ Qxh7 25.
+Qxh7+ Kxh7 26. Rd7+ 1-0
+

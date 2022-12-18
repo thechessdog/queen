@@ -1,0 +1,19 @@
+[Event "Brussels OHRA"]
+[Site "Brussels"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Van der Wiel, John T.H."]
+[Black "Hodgson, Julian M"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "11ea7fe9"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "400076"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. Nc3 axb5 7. e4 b4 8. Nb5
+Nxe4 9. Qe2 f5 10. d6 exd6 11. Ng5 Bb7 12. f3 h6 13. fxe4 hxg5 14. exf5+ Kf7
+15. fxg6+ Kg7 16. b3 Rh4 17. Bb2+ Kg8 18. Nxd6 1-0

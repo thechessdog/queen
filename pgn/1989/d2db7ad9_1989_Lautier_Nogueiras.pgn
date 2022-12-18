@@ -1,0 +1,19 @@
+[Event "Clermont-Ferrand"]
+[Site "Clermont-Ferrand"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lautier, Joel"]
+[Black "Nogueiras Santiago, Jesus"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[HashCode "d2db7ad9"]
+[Epoch "Queen"]
+[WhiteID "600016"]
+[WhiteCountry "FRA"]
+[BlackID "3500020"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Nf3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. Qb3
+Bxc3+ 9. Qxc3 e5 10. Nb3 Nc6 11. Bg5 d4 12. Qf3 a5 13. O-O a4 1/2-1/2

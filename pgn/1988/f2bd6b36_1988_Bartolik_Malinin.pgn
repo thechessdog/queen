@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bartolik, W."]
+[Black "Malinin, W."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Keidanz variation"]
+[HashCode "f2bd6b36"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5
+8. Nxc6 Bxf2+ 9. Kf1 Qh4 10. Qxd5 Bc5 11. g3 Qh3+ 12. Ke1 Bf2+ 13. Ke2 Qg4+
+14. Kf1 O-O 15. Nd2 Qh3+ 16. Ke2 Bg4+ 17. Nf3 Qg2 0-1
+

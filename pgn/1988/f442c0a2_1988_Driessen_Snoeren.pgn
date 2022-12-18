@@ -1,0 +1,16 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Driessen"]
+[Black "Snoeren"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "f442c0a2"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. e5 Nd7 8.
+Ne4 c5 9. Neg5 Nc7 10. h4 h6 11. h5 hxg5 12. Nxg5 f6 13. hxg6 1-0
+

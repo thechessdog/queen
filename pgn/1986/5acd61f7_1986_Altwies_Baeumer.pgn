@@ -1,0 +1,19 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Altwies"]
+[Black "Baeumer, L."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "5acd61f7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 g6 5. Bc4 Nc6 6. Nf3 Bg7 7. O-O d6
+8. Qe2 Nf6 9. Rd1 Qc7 10. Nb5 Qb8 11. Bf4 a6 12. Nxd6+ exd6 13. Bxd6 Qa7
+14. Ng5 Nd4 15. Rxd4 Qxd4 16. Rd1 Bg4 17. Bxf7+ Kd8 18. Bc7+ Ke7 19. Rxd4
+Bxe2 20. Bd6+ Kd7 21. Bf8+ Kc7 22. Bxg7 Rhd8 23. Bxf6 Rxd4 24. Bxd4 h6 25.
+Ne6+ Kd6 26. Nf4 1-0
+

@@ -1,0 +1,18 @@
+[Event "RLNS 8788"]
+[Site "RLNS 8788"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kanonenberg, W."]
+[Black "Neumark, P."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "dd66b7f2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Nc3 Bc5 7. Qd3 d6
+8. Bg5 Be6 9. Nd5 O-O 10. Nxf6+ gxf6 11. Bh6 Rf7 12. Nh4 Nd4 13. Bc4 Bxc4
+14. Qxc4 f5 15. Nxf5 Nxf5 16. exf5 Qf6 17. Be3 Bxe3 18. fxe3 Qxf5 19. O-O-O
+1-0
+

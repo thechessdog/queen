@@ -1,0 +1,29 @@
+[Event "Munich op"]
+[Site "Munich"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Plesec, Damjan"]
+[Black "Gerlach, Manuela"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "55d2f4fe"]
+[Epoch "Queen"]
+[WhiteID "14600161"]
+[WhiteCountry "SLO"]
+
+1. e4 e6 2. Qe2 c5 3. d3 Nc6 4. c3 d5 5. e5 Nge7 6. f4 g6 7. Nf3 Bg7 8. g3 Bd7
+9. Be3 b6 10. Bg2 Rc8 11. O-O O-O 12. Nbd2 Nf5 13. Bf2 h5 14. Rfe1 Qe7 15. Nf1
+Rfd8 16. Ne3 Rc7 17. Nxf5 exf5 18. d4 Be6 19. Rad1 Bf8 20. Qb5 Qe8 21. Qd3 c4
+22. Qd2 b5 23. Ng5 Be7 24. Nxe6 fxe6 25. Bf3 a5 26. h3 b4 27. g4 hxg4 28. hxg4
+Bf8 29. Bh4 Be7 30. Bxe7 Rxe7 31. gxf5 gxf5 32. Kf2 Rdd7 33. Ke3 Rh7 34. Rh1
+Rdg7 35. Rxh7 Rxh7 36. Rg1+ Kf8 37. Qg2 Qf7 38. Rh1 Rxh1 39. Qxh1 Qg7 40. Kf2
+Ke7 41. Qh4+ Kd7 42. Bd1 Ne7 43. Ba4+ Kc7 44. Be8 Qf8 45. Qh5 Qg7 46. Bf7 Kd7
+47. Be8+ Kc7 48. Bf7 Kd7 49. Be8+ Kc7 50. a3 b3 51. a4 Kc8 52. Bf7 Kd7 53. Be8+
+Kc7 54. Qg5 Qh7 55. Bh5 Kd7 56. Kg2 Nc8 57. Bg6 Qe7 58. Qh6 Nb6 59. Bxf5 Nxa4
+60. Bg6 Nxb2 61. f5 exf5 62. Bxf5+ Kc7 63. Kf3 Kb7 64. Qf6 Qxf6 65. exf6 Nd3
+66. f7 b2 67. f8=Q b1=Q 68. Qc8+ Ka7 69. Qc7+ Qb7 70. Qxa5+ Kb8 71. Qd8+ Ka7
+72. Qa5+ Kb8 73. Bxd3 cxd3 74. Qd8+ Ka7 75. Qa5+ Kb8 76. Ke3 Qe7+ 77. Kxd3 Qe4+
+78. Kd2 Kb7 79. Qb5+ Kc7 80. Qe2 Qf4+ 81. Kc2 Kd6 82. Qa6+ Ke7 83. Qb7+ Ke6 84.
+Qc6+ Qd6 85. Qxd6+ Kxd6 86. Kb3 Kc6 87. Ka4 Kb6 1-0

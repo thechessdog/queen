@@ -1,0 +1,18 @@
+[Event "Bulgaria"]
+[Site "Bulgaria"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Popchev, Milko"]
+[Black "Nikolov, Sasho"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "e2f9788a"]
+[Epoch "Queen"]
+[BlackID "2900297"]
+[BlackCountry "FID"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Qb3
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Rd1 c5 12. Be2 cxd4 13. Nxd4 Nd7 14. O-O Nc5
+15. Qc2 Bxd4 16. exd4 Ne4 17. Qb3 Rc8 18. Nxe4 dxe4 1/2-1/2

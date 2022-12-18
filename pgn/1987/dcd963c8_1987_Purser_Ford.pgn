@@ -1,0 +1,18 @@
+[Event "Gwinnet"]
+[Site "Gwinnet"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Purser, Tom"]
+[Black "Ford, Adam"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "dcd963c8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 Bf5 5. fxe4 Nxe4 6. Qf3 Nxc3 7. bxc3
+e6 8. Qxb7 Qh4+ 9. Kd1 Be4 10. Qxc7 Be7 11. Bb5+ Kf8 12. Qc8+ Bd8 13. Ba3+
+Kg8 14. Nf3 Qf6 15. Rf1 h5 16. Ne5 Bf5 17. Qb7 Kh7 18. Qxa8 Ba5 19. Qf3 g6
+20. h3 Rd8 21. Kc1 Qg5+ 22. Kb2 Qd2 23. Rf2 Qh6 24. g4 hxg4 25. hxg4 Bxg4
+26. Nxg4 Qg7 27. Nf6+ Kh6 28. Qh3+ Kg5 29. Qg4+ Kh6 30. Qh4# 1-0
+

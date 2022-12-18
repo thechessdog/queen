@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stieg"]
+[Black "Ekenloev"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "908d006c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Nc5 13. Nbd4 Nxd4 14.
+Nxd4 Qd7 15. Re1 Ne4 16. f3 Ng5 17. b4 a5 18. Qd3 axb4 19. cxb4 c6 20. Bd2
+g6 21. a4 Rfb8 22. axb5 1-0
+

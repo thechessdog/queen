@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Borwell"]
+[Black "Olafsson, Fridrik"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "250e2352"]
+[Epoch "Queen"]
+[BlackID "2300052"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 c5 6. d5 e6 7. e5 Ne8 8. f4 exd5
+9. cxd5 d6 10. Nf3 Bg4 11. Be3 Nd7 12. e6 fxe6 13. Ng5 Bxe2 14. Qxe2 Bxc3+ 15.
+bxc3 exd5 16. Ne6 Qf6 17. Nxf8 Qxc3+ 18. Kf2 Nxf8 0-1

@@ -1,0 +1,21 @@
+[Event "Budapest Elekes"]
+[Site "Budapest"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "261aeaff"]
+[Epoch "Queen"]
+[WhiteID "1600303"]
+[WhiteCountry "AUT"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O b6 8. cxd5
+exd5 9. Ne5 Bxc3 10. bxc3 Ba6 11. f3 Re8 12. Re1 Bxd3 13. Qxd3 Qc8 14. e4 cxd4
+15. cxd4 dxe4 16. fxe4 Nc6 17. Bf4 Nh5 18. Nxc6 Qxc6 19. Be5 Rac8 20. Rad1 f6
+21. d5 Qc2 22. Bd6 Qxd3 23. Rxd3 Red8 24. g4 Rxd6 25. gxh5 1/2-1/2

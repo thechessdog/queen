@@ -1,0 +1,21 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maus, Soenke"]
+[Black "Pieper Emden, Carsten"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "4ab11e78"]
+[Epoch "Queen"]
+[WhiteID "4600240"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15.
+Be3 O-O 16. Bd4 Qd5 17. Bxd3 Bxd3 18. Qxd3 Qxb3 19. Qe4 Nxd4 20. Nxd4 Qxb2 21.
+Nf5 Rae8 22. Rxa6 Qxc3 23. Rc6 Bc5 24. Qg4 g6 25. Nh6+ Kg7 26. Nf5+ Kh8 27. Qg5
+Bxf2+ 28. Rxf2 Qxc6 29. Qh6 Rg8 30. Nd4 Qd7 31. Nf3 b4 32. h4 b3 33. Ng5 Rg7
+34. Rd2 Qe7 35. e6 b2 36. exf7 b1=Q+ 37. Kh2 0-1

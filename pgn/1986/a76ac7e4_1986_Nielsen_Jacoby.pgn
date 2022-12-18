@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Jacoby, Gisbert"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "a76ac7e4"]
+[Epoch "Queen"]
+[BlackID "4604768"]
+[BlackCountry "GER"]
+[WhiteCountry "DEN"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 e6 4. f4 Be7 5. Nf3 O-O 6. Be2 c5 7. O-O Nc6 8. a4 b6
+9. Na3 Bb7 10. Qe1 Ne8 11. Qg3 f5 12. Qh3 Bf6 1/2-1/2

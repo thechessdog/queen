@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grube, H."]
+[Black "Ziems, E."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "dbade5da"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 h6 7. Nf7 Qe8
+8. Nxh8 Nb4 9. Nf7 d6 10. Nxe5 dxe5 11. Nc3 Qg6 12. O-O Bg4 13. Ne2 Bh3 14.
+Ng3 Bg4 15. Ne2 Nfxd5 16. c3 Nf4 17. Nxf4 exf4 18. Qb3 Bh3 0-1
+

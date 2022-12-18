@@ -1,0 +1,22 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Fleck, Juergen"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "5bd07c9c"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "4600614"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Ng5 Bf5 8. g4
+Bxb1 9. Rxb1 dxe5 10. dxe5 Qxd1+ 11. Kxd1 e6 12. f4 N8d7 13. Kc2 h6 14. Ne4 Nc5
+15. Nd6+ Bxd6 16. exd6 Ne4 17. b4 a5 18. bxa5 Nd7 19. Rxb7 Rxa5 20. Rc7 Nxd6
+21. a3 c5 22. Bb2 f6 23. Rd1 Ke7 24. Rc6 Nf7 25. f5 exf5 26. gxf5 Rd8 27. Bf3
+Nde5 28. Rc7+ Kf8 29. Bd5 Nd6 30. Bxe5 fxe5 31. f6 g5 32. Rh7 1-0

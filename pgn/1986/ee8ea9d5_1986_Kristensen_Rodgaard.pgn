@@ -1,0 +1,20 @@
+[Event "Torshavn"]
+[Site "Torshavn"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kristensen, Bjarke Hautop"]
+[Black "Rodgaard, John"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ee8ea9d5"]
+[Epoch "Queen"]
+[BlackID "7200013"]
+[BlackCountry "FAI"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c4 dxc4 7. Bxc4 Nb6 8.
+Bd3 Nc6 9. O-O Be7 10. Ne4 Nxd4 11. Bg5 Nxf3+ 12. Qxf3 Bxg5 13. Nd6+ Kd7 14.
+Rad1 Kc7 15. Be4 Qe7 16. Bxb7 Kb8 17. Bxc8 Rxc8 18. a4 Nd5 19. Rxd5 exd5 20.
+Qb3+ Kc7 21. Qxd5 Qd7 22. Rd1 Qc6 23. Qxf7+ Kb8 24. Rd3 Bd8 25. Nxc8 Kxc8 26.
+e6 Qc7 27. Rd7 Qe5 28. Rxd8+ Kxd8 29. Qd7# 1-0

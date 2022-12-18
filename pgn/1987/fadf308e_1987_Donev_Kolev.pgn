@@ -1,0 +1,18 @@
+[Event "Elenite open"]
+[Site "Elenite open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Donev"]
+[Black "Kolev"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "fadf308e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. dxc5 Bxc5 6. Qe2 Nc6 7. Ngf3 O-O
+8. e5 Nd7 9. Nb3 Be7 10. h4 f6 11. Ng5 fxg5 12. Bxh7+ Kxh7 13. hxg5+ Kg8
+14. Rh8+ Kxh8 15. Qh5+ Kg8 16. g6 Bb4+ 17. c3 Rf5 18. Qh7+ Kf8 19. Qh8+ Ke7
+20. Bg5+ 1-0
+

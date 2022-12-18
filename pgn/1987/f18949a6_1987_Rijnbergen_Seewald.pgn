@@ -1,0 +1,17 @@
+[Event "ACCOM op"]
+[Site "ACCOM I"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Rijnbergen, Michel"]
+[Black "Seewald, R."]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "f18949a6"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. Nc3 d4 7. Ne2 O-O 8. O-O
+Bg4 9. Ng3 c5 10. h3 Bd7 11. Nh4 Nc6 12. Nhf5 Bxf5 13. Nxf5 Na5 14. Bg5 Nxb3
+15. axb3 a6 16. Qf3 Kh8 17. Qg3 Rg8 18. Qh4 Be7 19. f4 Qc7 20. Nxe7 Qxe7 21.
+fxe5 Qxe5 22. Rxf6 1-0

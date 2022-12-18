@@ -1,0 +1,23 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Seppeur, Reinhold"]
+[Black "Rother, Christoph"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "d17c89e2"]
+[Epoch "Queen"]
+[WhiteID "4605586"]
+[WhiteCountry "GER"]
+[BlackID "4602790"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. Nf4 Nxd4 10. Qh5+ Ke7 11. exf6+ Nxf6 12. Ng6+ hxg6 13. Qxh8 Kf7 14. O-O
+e5 15. b4 Qb6 16. Nb3 Nxb3 17. axb3 Qd4 18. Bg5 Qxd3 19. Bxf6 gxf6 20. Rac1 Qf5
+21. Rc7+ Bd7 22. Rxb7 Rd8 23. Qh4 Qg5 24. Qh3 Qf5 25. Qc3 Bd6 26. b5 Ke8 27.
+Qd2 e4 28. Rd1 Qh5 29. g3 Be6 30. Rc1 Bh3 31. Qe3 Qf3 32. Qxf3 exf3 33. Rxa7 d4
+34. Rh7 Be6 35. b6 Bxb3 36. b7 d3 0-1

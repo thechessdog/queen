@@ -1,0 +1,17 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Tiffin, D."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "55a70ce5"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 c6 3. Nc3 e6 4. Nf3 Bb4 5. Bd3 Ne7 6. O-O O-O 7. Ne2 Ng6 8. e5
+f5 9. exf6 Qxf6 10. Bg5 Qf7 11. Ne5 Nxe5 12. dxe5 c5 13. c3 Ba5 14. Qc2 g6 15.
+Nf4 c4 16. Bxg6 hxg6 17. Nxg6 Qg7 18. f4 Rf7 19. Rf3 Rf5 20. Ne7+ Kf7 21. Nxc8
+Ke8 22. Nd6+ Kd7 23. Nxf5 Nc6 24. Nxg7 1-0

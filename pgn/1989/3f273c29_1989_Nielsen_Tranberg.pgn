@@ -1,0 +1,20 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Tranberg, Henrik"]
+[Result "1-0"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "3f273c29"]
+[Epoch "Queen"]
+[WhiteID "1400142"]
+[WhiteCountry "DEN"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. Nc3 Nc6 7. d4 cxd4 8.
+Nxd4 Qb6 9. Nc2 d6 10. b3 Bd7 11. h3 Rac8 12. Be3 Qd8 13. Qd2 Re8 14. Rac1 Bf5
+15. Nd4 Nxd4 16. Bxd4 b6 17. e4 Be6 18. f4 Nh5 19. g4 Bxd4+ 20. Qxd4 Ng7 21. f5
+Bd7 22. Rf2 Qc7 23. Nd5 Qb7 24. f6 Ne6 25. Qd2 Bc6 26. Qh6 Kh8 27. Rcf1 exf6
+28. Nxf6 Nf8 29. Nxe8 Rxe8 30. Rxf7 Qc8 31. Qg7# 1-0

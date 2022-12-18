@@ -1,0 +1,21 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Krockenberger, Martin"]
+[Black "Stangl, Markus"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "97566d13"]
+[Epoch "Queen"]
+[WhiteID "4602552"]
+[WhiteCountry "GER"]
+[BlackID "4600274"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. O-O Qe5 13. Bf3 Ra7 14. Nc6
+Nxc6 15. Bxc6+ Bd7 16. Bxd7+ Rxd7 17. Qf3 Bd6 18. Qh3 b4 19. fxg7 Rg8 20. Qxh7
+Rxg7 21. Qh3 bxc3 22. Rae1 Qd4+ 0-1

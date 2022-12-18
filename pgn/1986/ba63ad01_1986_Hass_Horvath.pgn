@@ -1,0 +1,24 @@
+[Event "Tbilisi tt"]
+[Site "Tbilisi"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hass, Roman"]
+[Black "Horvath, Jozsef"]
+[Result "0-1"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "ba63ad01"]
+[Epoch "Queen"]
+[WhiteID "1100785"]
+[BlackID "700061"]
+[WhiteCountry "POL"]
+[BlackCountry "HUN"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. O-O e5 8. d3
+Be7 9. Nd2 Bd7 10. Nc4 f6 11. f4 b5 12. Ne3 Rc8 13. a4 b4 14. Ncd5 O-O 15. Nxc7
+Qxc7 16. Nd5 Qd8 17. Be3 Bd6 18. f5 Rf7 19. g4 Be8 20. Qe1 Rd7 21. g5 Bf8 22.
+gxf6 gxf6 23. Qh4 Rxd5 24. Bxd5+ Qxd5 25. Qxf6 Qd8 26. Qxd8 Rxd8 27. a5 Nd4 28.
+Bxd4 Rxd4 29. Kf2 Kf7 30. Rac1 Be7 31. Rc4 Bd7 32. Ke1 Rxc4 33. dxc4 Bg5 34.
+Kd1 Ba4+ 35. Ke1 Bc1 36. Rf3 Bxb2 37. Rh3 Bc3+ 38. Kf2 b3 39. Rxh7+ Kf6 40.
+Rxa7 b2 41. Ra6+ Kxf5 42. e4+ Kxe4 0-1

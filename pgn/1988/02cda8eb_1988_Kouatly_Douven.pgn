@@ -1,0 +1,21 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee II"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kouatly, Bachar"]
+[Black "Douven, Rudy"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "02cda8eb"]
+[Epoch "Queen"]
+[WhiteID "600032"]
+[WhiteCountry "FRA"]
+[BlackID "1000195"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nc6 7. O-O e5 8. d5
+Nd4 9. Nxd4 exd4 10. Nb5 Re8 11. Re1 Ng4 12. h3 a6 13. hxg4 axb5 14. cxb5 Qh4
+15. g3 Qh3 16. Bf1 Qxg4 17. Qxg4 Bxg4 18. Kg2 Bd7 19. a4 b6 20. b4 f5 21. f3 d3
+22. Ra3 Bxb5 23. axb5 d2 0-1

@@ -1,0 +1,17 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brown, T."]
+[Black "Paavilainen, T."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "ecf0f06f"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8.
+Bd3 Bxe5 9. Nf3 Bf6 10. Nfxd4 a6 11. Nc3 Bxd4 12. Bb2 Qf6 13. O-O Bxc3 14.
+Bxc3 Qxc3 15. Re1 Nc6 16. Re3 Qf6 0-1
+

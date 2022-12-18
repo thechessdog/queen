@@ -1,0 +1,19 @@
+[Event "Athens Akropolis"]
+[Site "Athens"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Abramovic, Bosko"]
+[Black "Arduman, Can"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "8a25d3cd"]
+[Epoch "Queen"]
+[WhiteID "900206"]
+[BlackID "6300022"]
+[WhiteCountry "SRB"]
+[BlackCountry "TUR"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 Qc7 8. a4
+e5 9. a5 Nbd7 0-1

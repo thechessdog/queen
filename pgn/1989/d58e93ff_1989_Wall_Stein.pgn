@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Stein, Alan"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti opening"]
+[HashCode "d58e93ff"]
+[Epoch "Queen"]
+[BlackID "2007150"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. Nf3 d5 2. c4 Nf6 3. g3 c6 4. Bg2 e6 5. cxd5 exd5 6. O-O Bd6 7. d3 O-O 8. Bg5
+h6 9. Bd2 Be6 10. Nc3 Qd7 11. e4 Bg4 12. e5 Bxf3 13. Qxf3 Bxe5 14. Rae1 Qc7 15.
+Na4 Nbd7 16. Bb4 c5 17. Rc1 b6 18. d4 Bxd4 19. Rfd1 Qe5 20. Re1 Qg5 0-1

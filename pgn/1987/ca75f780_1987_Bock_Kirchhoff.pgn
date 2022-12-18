@@ -1,0 +1,23 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Bock, Klaus"]
+[Black "Kirchhoff, Hartmut"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "ca75f780"]
+[Epoch "Queen"]
+[WhiteID "4627512"]
+[WhiteCountry "GER"]
+[BlackID "12968102"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. g3 O-O 6. Qb3 dxc4 7. Qxc4 a6 8. Bf4
+Ne8 9. a4 Nd6 10. Qb3 Nc6 11. e3 a5 12. Bg2 Nb4 13. O-O Ra6 14. e4 Rb6 15. Bxd6
+cxd6 16. Rfd1 Be6 17. d5 Nxd5 18. Qc2 Nxc3 19. bxc3 Bb3 20. Qd3 Bxd1 21. Rxd1
+Rb3 22. e5 d5 23. Nd4 Rb2 24. f4 e6 25. h4 Qb6 26. Kh2 Rc8 27. h5 Kf8 28. hxg6
+hxg6 29. Kh3 Ke7 30. Kh2 Rh8+ 31. Kg1 Ra2 32. Qe3 Bf8 33. Nf5+ gxf5 34. Qxb6
+Bh6 1-0

@@ -1,0 +1,16 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bastion"]
+[Black "Conquest"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "1061dec2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 exf4 4. Nf3 d6 5. d4 Bb4 6. Bxf4 Bxc3+ 7. bxc3
+Nf6 8. Bd3 O-O 9. O-O Nc6 10. Bg5 Bg4 11. Qe1 Bxf3 12. Rxf3 Kh8 13. Qh4 Ne7
+14. Bxf6 gxf6 15. Rh3 1-0
+

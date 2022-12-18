@@ -1,0 +1,19 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Watson, William N"]
+[Black "Arnason, Jon L"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "1d886953"]
+[Epoch "Queen"]
+[WhiteID "400157"]
+[WhiteCountry "ENG"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. d3 h6 6. Nd5 Nf6 7. O-O Be7 8. Ne1
+O-O 9. f4 exf4 10. Bxf4 1/2-1/2

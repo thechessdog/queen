@@ -1,0 +1,20 @@
+[Event "Helsinki SM"]
+[Site "Helsinki SM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Valkesalmi, Kimmo"]
+[Black "Lehtivaara, Risto"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "73ea7582"]
+[Epoch "Queen"]
+[WhiteID "500054"]
+[BlackID "500275"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. d4 d5 3. e5 b6 4. Nf3 a5 5. a4 Ba6 6. Bxa6 Nxa6 7. Na3 Ne7 8. c3
+Nf5 9. h4 h5 10. Bg5 Qd7 11. Nc2 c5 12. O-O Be7 13. Bxe7 Qxe7 14. g3 cxd4 15.
+Ncxd4 Nxd4 16. Nxd4 g5 17. Nf3 gxh4 18. Nxh4 Nc5 19. Kh2 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dizdarevic, Emir"]
+[Black "Ninov, Kiril"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "1a9bd541"]
+[Epoch "Queen"]
+[WhiteID "14400049"]
+[WhiteCountry "BIH"]
+[BlackID "2900181"]
+[BlackCountry "FID"]
+
+1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 Rfc8 13. Qb5 1/2-1/2

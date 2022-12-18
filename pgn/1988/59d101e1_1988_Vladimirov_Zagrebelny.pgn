@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vladimirov, Yevgeniy"]
+[Black "Zagrebelny, Sergey"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "anti-Queen's Indian system"]
+[HashCode "59d101e1"]
+[Epoch "Queen"]
+[WhiteCountry "KAZ"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5
+exd5 9. Ng5 h6 10. Nxd5 Bxd5 11. Bxd5 Nc6 12. Bxc6 dxc6 13. Nf3 Qd7 14. O-O Qh3
+15. Bf4 Rfe8 16. Rad1 Bf8 17. Bd6 Re6 1/2-1/2

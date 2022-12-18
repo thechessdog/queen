@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chmiel"]
+[Black "Schlosser"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Bird variation"]
+[HashCode "96bd6717"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 Be6 9. Nc4 Rc8 10. Bxf6 gxf6 11. Ne3 Bh6 12. Ng4 Bg7 13. Bd3 Qb6 14.
+O-O Qxb2 15. Nd5 Bxd5 16. exd5 Nd4 17. Ne3 Qc3 18. Rb1 b5 19. Qg4 Kf8 20.
+Rfc1 Bh6 21. Qh5 Bf4 22. Kh1 e4 23. Bxe4 Bxe3 24. fxe3 Qxe3 25. Re1 Qg5 26.
+Qh3 f5 27. Re3 h5 28. Rg3 Qf4 29. Bd3 Rc3 30. Kg1 Qe5 31. Qh4 f6 32. Rf1
+Kf7 33. Rf4 Rxd3 34. Rxd3 Ne2+ 35. Kf2 Qxf4+ 36. Qxf4 Nxf4 0-1
+

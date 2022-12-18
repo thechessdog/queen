@@ -1,0 +1,19 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1987.09.01"]
+[Round "1"]
+[White "Matveeva, Svetlana"]
+[Black "Karolyi, Tibor"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "abcf4c12"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Ba5 7. dxc5 dxc4 8.
+Qxd8+ Bxd8 9. Ng3 Nbd7 10. Bxc4 Nxc5 11. b4 Ncd7 12. Bb2 Nb6 13. Be2 Bd7 14.
+Nce4 Nxe4 15. Nxe4 O-O 16. Nc5 Bc6 17. O-O 1/2-1/2

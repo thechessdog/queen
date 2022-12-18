@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Behling"]
+[Black "Dueckstein, Andreas"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Gurgenidze variation"]
+[HashCode "f74f4538"]
+[Epoch "Queen"]
+[BlackID "1600168"]
+[BlackCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. f4 Bg7 5. e5 h5 6. Nf3 Nh6 7. Bd3 Bf5 8. O-O e6
+9. Ng5 Qb6 10. Ne2 Nd7 11. c3 O-O 12. b3 Rfe8 13. Be3 Bxd3 14. Qxd3 Nf5 15. Rf3
+Qd8 16. Bd2 Rc8 17. Ng3 Nf8 18. Nxf5 exf5 19. c4 Ne6 20. Rg3 dxc4 21. Nxe6 fxe6
+22. bxc4 Kf7 23. a4 Rc7 24. a5 Rd7 25. Be3 Bf8 26. Qb3 Qc7 27. d5 cxd5 28. cxd5
+Rxd5 29. Rc1 Qxa5 30. Qxb7+ Re7 31. Qb2 Red7 32. Rf3 Ba3 33. Qe2 Bxc1 34. Bxc1
+Rd1+ 35. Rf1 Qb6+ 36. Be3 Rxf1+ 37. Kxf1 Qb1+ 38. Kf2 a5 39. Bc5 Qd3 40. Bd6
+Qxe2+ 41. Kxe2 Rxd6 42. exd6 Ke8 43. Kd3 Kd7 0-1

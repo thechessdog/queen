@@ -1,0 +1,19 @@
+[Event "DSV-Turnier"]
+[Site "Potsdam"]
+[Date "1985.01.01"]
+[Round "6"]
+[White "Agzamov, Georgy"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "7e9246d0"]
+[Epoch "Queen"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. c3 b6 7. Bd3 Bb7 8. Qb1
+Nbd7 9. O-O c5 10. b4 Qc8 11. h3 Re8 12. Rc1 e5 13. dxe5 Nxe5 14. Nxe5 Rxe5 15.
+Bf4 Re8 16. a4 a5 17. bxa5 bxa5 18. Ra2 Bc6 1/2-1/2

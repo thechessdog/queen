@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bungo, G."]
+[Black "Pedersen, N."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "6fcf7e26"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 c5 6. a3 Bxc3+ 7. bxc3 Nf6
+8. Bd3 Qc7 9. dxc5 Nbd7 10. Ne2 Nxc5 11. f4 Bd7 12. O-O Na4 13. Qe1 Qc5+
+14. Kh1 O-O-O 15. c4 Bc6 16. Ng3 b6 17. Be3 Qe7 18. c5 Nxc5 19. Qb4 Qb7 20.
+Bxc5 Bxg2+ 21. Kg1 Bxf1 22. Bxf1 Nd5 23. Bg2 Qc7 24. Qa4 Qxc5+ 25. Kh1 Qc7
+26. Ne2 Ne3 27. Bf3 Nc4 28. Qa6+ Kb8 29. Nc3 Rd7 30. Nb5 Qxf4 31. Bc6 Rhd8
+32. Rg1 g6 33. a4 e5 0-1
+

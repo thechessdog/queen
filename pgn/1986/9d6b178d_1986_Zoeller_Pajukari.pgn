@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zoeller, T."]
+[Black "Pajukari, S."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "9d6b178d"]
+[Epoch "Queen"]
+
+1. f4 e5 2. e4 Bc5 3. Nf3 d6 4. c3 Nf6 5. fxe5 dxe5 6. Nxe5 O-O 7. d4 Bd6
+8. Nf3 Nxe4 9. Bd3 Re8 10. O-O Bg4 11. Nbd2 Ng5 12. Qc2 Bxf3 13. Nxf3 Nxf3+
+14. Rxf3 Qh4 15. g3 Qh5 16. Qf2 Nc6 17. Bd2 Ne7 18. Bc4 Rf8 19. Rf1 Ng6 20.
+Rxf7 Kh8 21. Qf5 Qxf5 0-1
+

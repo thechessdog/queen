@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wedervang, Kim"]
+[Black "Legaard, Peter"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "symmetrical variation"]
+[HashCode "94aee1bc"]
+[Epoch "Queen"]
+[WhiteID "1424521"]
+[WhiteCountry "DEN"]
+
+1. b3 b6 2. Bb2 Bb7 3. f4 Nf6 4. e3 d6 5. Nf3 Nbd7 6. Nc3 e5 7. fxe5 dxe5 8.
+Bc4 e4 9. Nd4 Ne5 10. Qe2 Bb4 11. O-O Bxc3 12. Bxc3 Nxc4 13. Qxc4 O-O 14. Nf5
+Bd5 15. Qe2 Be6 16. Nxg7 Bg4 17. Qf2 Nh5 18. Nxh5 Bxh5 19. Qg3+ Bg6 20. Bf6 Qd5
+21. Rf4 Rfd8 22. Raf1 Rd6 23. Rh4 Rxf6 24. Rxf6 Rd8 25. Rhf4 1-0

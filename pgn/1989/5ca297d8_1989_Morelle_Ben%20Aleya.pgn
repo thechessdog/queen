@@ -1,0 +1,16 @@
+[Event "Parijs open I"]
+[Site "Parijs open I"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Morelle, L."]
+[Black "Ben Aleya, H."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "5ca297d8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bg4 5. Be2 Nd7 6. O-O Ngf6 7. Re1 Bd6
+8. exd5 cxd5 9. Nxe5 Bxe2 10. Qxe2 Bxe5 11. Nf3 O-O 12. Nxe5 Nxe5 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Neckel"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "3b60d919"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 e5 6. Nf3 Be7 7. c4 d6 8.
+O-O Nc6 9. Nc3 Nd7 10. Nd5 Nc5 11. b4 Ne6 12. Be3 Ned4 13. Bxd4 exd4 14. b5
+Ne5 15. Nxd4 Be6 16. f4 Nxd3 17. Qxd3 Bxd5 18. cxd5 Qb6 19. Kh1 O-O 20.
+Rab1 Bf6 21. Nf3 1-0
+

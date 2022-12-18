@@ -1,0 +1,18 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sygulski, Artur"]
+[Black "Garcia Martinez, Silvino"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "7c1e5d86"]
+[Epoch "Queen"]
+[WhiteID "1100521"]
+[BlackID "3500179"]
+[WhiteCountry "POL"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 d5 6. Bg2 e5 7. Nf3 d4 8. O-O
+Nc6 9. e3 Be7 10. exd4 exd4 1/2-1/2

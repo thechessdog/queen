@@ -1,0 +1,17 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Meinsohn, F."]
+[Black "Miralles, Gilles"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "9106b8d9"]
+[Epoch "Queen"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 cxd4 7. Nxd4 d5 8. Qb3
+Bxc3+ 9. bxc3 1/2-1/2

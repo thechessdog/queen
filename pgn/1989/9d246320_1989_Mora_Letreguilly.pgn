@@ -1,0 +1,19 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mora, Virginie"]
+[Black "Letreguilly, Olivier"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "9d246320"]
+[Epoch "Queen"]
+[BlackID "600997"]
+[BlackCountry "FRA"]
+[WhiteID "604577"]
+[WhiteCountry "FRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f3 e6 7. Be3 Be7 8. Be2
+O-O 9. O-O a6 10. a4 e5 11. Nb3 Be6 12. Nd2 Nd4 13. Bc4 Bxc4 14. Nxc4 Rc8 15.
+Qd3 Nxc2 16. Bb6 Qd7 17. Rad1 Nb4 18. Qe2 Qc6 19. Nd5 Nfxd5 20. exd5 Qxc4 0-1

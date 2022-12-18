@@ -1,0 +1,17 @@
+[Event "corr BGD-WFT1"]
+[Site "corr BGD-WFT1"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Degli Eredi"]
+[Black "Schok"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "837e4b80"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 c6 6. Bd3 Bg4 7. Qf2 e6
+8. Nge2 Be7 9. O-O Bh5 10. h3 Bxe2 11. Nxe2 Nbd7 12. Qg3 Qa5 13. c3 O-O 14.
+b4 Qd5 15. Bh6 Nh5 16. Qg4 Bf6 17. c4 Qd6 18. Qxh5 Bxd4+ 19. Kh1 Bxa1 20.
+Bxh7+ Kh8 21. Bg5 1-0
+

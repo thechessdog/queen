@@ -1,0 +1,18 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Razuvaev, Yuri S"]
+[Black "Nickoloff, Bryon"]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "0c682ab5"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Qe7 10. h3 Nbd7 11. Re1 Rb8 12. a4 Ne4 13. Ra3 Ndf6 14. Nd2 Ng5 15.
+Kh2 Qd7 16. g4 h5 17. Nc4 hxg4 18. Bxg5 gxh3 19. Bf3 Ng4+ 1-0

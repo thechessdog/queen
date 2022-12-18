@@ -1,0 +1,23 @@
+[Event "San Bernardino"]
+[Site "San Bernardino"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cebalo, Miso"]
+[Black "Zueger, Beat"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "1a08fc0f"]
+[Epoch "Queen"]
+[WhiteID "14500094"]
+[WhiteCountry "CRO"]
+[BlackID "1300067"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 g6 4. Nc3 Bg7 5. e4 Bg4 6. Be2 O-O 7. Be3 Nfd7 8. Ng1
+Bxe2 9. Ngxe2 Nb6 10. b3 e6 11. O-O d5 12. cxd5 exd5 13. e5 c6 14. Qd2 f6 15.
+f4 f5 16. g4 fxg4 17. f5 gxf5 18. Ng3 Qd7 19. Rae1 Na6 20. Bh6 Bxh6 21. Qxh6
+Nc7 22. e6 Qg7 23. Qxg7+ Kxg7 24. e7 Rf7 25. Nxf5+ Kg6 26. Nd6 Rxf1+ 27. Kxf1
+Rb8 28. e8=Q+ Nxe8 29. Nxe8 Rd8 30. Nc7 Rd7 31. Ne6 Rf7+ 32. Kg2 Nd7 33. Re3 b6
+34. Ne2 1-0

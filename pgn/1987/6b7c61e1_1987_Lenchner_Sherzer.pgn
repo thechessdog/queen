@@ -1,0 +1,23 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Lenchner, J."]
+[Black "Sherzer, Alex"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6b7c61e1"]
+[Epoch "Queen"]
+[BlackID "2000512"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 Nc6 6. c4 Ndb4 7. d5 exd5 8. cxd5
+Nd4 9. Nxd4 cxd4 10. a3 Qa5 11. Bd2 d3 12. axb4 Qxa1 13. Bc3 d2+ 14. Nxd2 Qxd1+
+15. Kxd1 d6 16. f4 Bg4+ 17. Kc2 Rc8 18. Kb3 a6 19. Bd3 Rd8 20. Be4 Be7 21. Re1
+O-O 22. f5 dxe5 23. h3 Bh4 24. g3 Bxg3 25. Rg1 Bxf5 26. Bxf5 Bf4 27. Be4 f5 28.
+Bh1 Bxd2 29. Bxd2 e4 30. Kc4 Rf7 31. Bf4 Rfd7 32. d6 Rxd6 33. Bxd6 Rxd6 34. Kc5
+Rc6+ 35. Kd5 Rc2 36. Rg2 Rc1 37. Rh2 Kf7 38. Ke5 Rf1 39. Kd4 g5 40. Ke3 Kf6 41.
+Bg2 Rg1 42. Kd4 h5 43. Bxe4 fxe4 44. Kxe4 g4 45. Rf2+ Kg5 46. Rf5+ Kh4 47. hxg4
+Rxg4+ 48. Rf4 Kg3 0-1

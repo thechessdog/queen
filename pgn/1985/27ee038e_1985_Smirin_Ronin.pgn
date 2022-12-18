@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Smirin, Ilia"]
+[Black "Ronin, V."]
+[Result "1-0"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "27ee038e"]
+[Epoch "Queen"]
+[BlackID "4107128"]
+[BlackCountry "RUS"]
+[WhiteID "2801990"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Re1 O-O 10. h3 Be6 11. Bf1 Qa5 12. Bd2 Qb6 13. Na4 Qc7 14. c4 Rfd8 15.
+Nc3 Bf8 16. Nd5 Bxd5 17. cxd5 Ne7 18. Qa4 Nc8 19. Rac1 Qe7 20. Ba5 Nb6 21. Qb3
+Nfd7 22. Rc2 Rdc8 23. Rec1 Nc5 24. Qe3 Qe8 25. Bxb6 axb6 26. b4 Na4 27. Bb5
+Qxb5 28. Rxc8 Rxc8 29. Rxc8 Qxb4 30. Nh4 Qb5 31. Nf5 Qd7 32. Nxh6+ 1-0

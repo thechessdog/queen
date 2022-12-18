@@ -1,0 +1,20 @@
+[Event "Mendoza"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Espinosa Flores, Rafael Emilio"]
+[Black "Miralles, Gilles"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "cb88303a"]
+[Epoch "Queen"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+[WhiteCountry "MEX"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Be7 8. Bd3
+Qa5 9. Ne2 cxd4 10. Nexd4 Nxd4 11. Nxd4 Qb6 12. Be3 Qxb2 13. O-O a6 14. f5 Nc5
+15. fxe6 Bxe6 16. Nxe6 Nxe6 17. Rb1 Qxc3 18. Rxb7 Qxe5 19. Qf3 Bf6 20. Qh3 h6
+21. Rf5 Qa1+ 22. Rf1 Qxa2 23. Bg6 O-O 24. Bxf7+ Rxf7 25. Qxe6 0-1

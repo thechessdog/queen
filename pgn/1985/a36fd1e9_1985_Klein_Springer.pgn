@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Springer"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "a36fd1e9"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 f6 3. e4 Bxb4 4. Bc4 Ne7 5. Qh5+ Ng6 6. f4 exf4 7. Nf3 Qe7
+8. e5 Nc6 9. Kd1 Qc5 10. Re1 1-0
+

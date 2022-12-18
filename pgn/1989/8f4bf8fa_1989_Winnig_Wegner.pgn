@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Winnig"]
+[Black "Wegner"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "8f4bf8fa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nc3 Nc6 6. Nf3 dxc4 7. O-O Nd5
+8. Qc2 O-O 9. Ng5 f5 10. Nf3 Be7 11. a3 Na5 12. Nd2 c6 13. e4 Nf6 14. exf5
+exf5 15. Re1 Rb8 16. b4 cxb3 17. Nxb3 Bd6 18. Nxa5 Qxa5 19. Qb3+ Kh8 20.
+Bd2 Qc7 21. Rac1 a6 22. Bg5 Qf7 23. d5 Nxd5 24. Bxd5 cxd5 25. Nxd5 Be6 26.
+Qb6 Bxd5 27. Qxd6 Bc6 28. Rc3 Qd5 29. Qxd5 Bxd5 30. Rc7 Rfe8 31. Ree7 Rxe7
+32. Rxe7 h6 33. Be3 Rf8 34. Bd4 Rf7 35. Rxf7 Bxf7 36. Kf1 1/2-1/2
+

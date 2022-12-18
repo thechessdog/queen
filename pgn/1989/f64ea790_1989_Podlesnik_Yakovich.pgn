@@ -1,0 +1,16 @@
+[Event "Sochi II"]
+[Site "Sochi II"]
+[Date "1989.09.01"]
+[Round "1"]
+[White "Podlesnik, Bogdan"]
+[Black "Yakovich, Yuri"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "f64ea790"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf5 d5 7. exd5 Bxf5 8.
+dxc6 bxc6 9. Qf3 Qd7 10. Bg5 Bb4 11. Bxf6 gxf6 12. Bd3 Bxd3 13. cxd3 Bxc3+ 14.
+bxc3 O-O 15. O-O Qe6 16. Rfe1 Kh8 1/2-1/2

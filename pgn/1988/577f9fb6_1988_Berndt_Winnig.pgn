@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Berndt"]
+[Black "Winnig"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Dzindzikhashvili defence"]
+[HashCode "577f9fb6"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 a6 4. Nc3 c5 5. d5 b5 6. e4 b4 7. e5 bxc3 8. exf6
+Qa5 9. bxc3 Qxc3+ 10. Bd2 Qxf6 11. Bd3 Bd6 12. O-O O-O 13. Ng5 g6 14. Ne4
+Qe7 15. Qf3 Be5 16. d6 Qd8 17. Bg5 f6 18. Nxf6+ Kh8 19. Qxa8 1-0
+

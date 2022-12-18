@@ -1,0 +1,22 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kurz, Eugen"]
+[Black "Davidovic, Aleksandar"]
+[Result "0-1"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "afcfcc9f"]
+[Epoch "Queen"]
+[WhiteID "4605152"]
+[WhiteCountry "GER"]
+[BlackID "3200051"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+Nxd5 9. Bxe7 Nxe7 10. Bd3 cxd4 11. exd4 Nf6 12. O-O b6 13. Rad1 Bb7 14. Ne5
+Ned5 15. Qd2 Rc8 16. Rfe1 Qe7 17. Qg5 h6 18. Qh4 Nxc3 19. bxc3 Nd5 20. Qxe7
+Nxe7 21. c4 Rfd8 22. f4 Kf8 23. Be4 Bxe4 24. Rxe4 Rd6 25. Rd3 f6 26. c5 bxc5
+27. dxc5 Rd5 28. Ra3 fxe5 29. Rxa7 Rcxc5 30. Rb4 Rb5 31. Rc4 Rdc5 0-1

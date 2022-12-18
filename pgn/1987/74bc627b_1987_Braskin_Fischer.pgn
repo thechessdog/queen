@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Fischer, J."]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "74bc627b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Bf5 5. Bd3 Bxd3 6. Qxd3 Be7 7. Nf3 c6
+8. Ne5 Nf6 9. O-O O-O 10. Bg5 Nfd7 11. Bxe7 Qxe7 12. Rfe1 Qd6 13. Re3 Nxe5
+14. Rxe5 Nd7 15. Re7 Qxe7 0-1
+

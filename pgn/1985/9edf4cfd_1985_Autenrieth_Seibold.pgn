@@ -1,0 +1,20 @@
+[Event "Mittelfranken"]
+[Site "Mittelfranken"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Autenrieth, Michael, Dr."]
+[Black "Seibold, Hubert, Dr."]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "9edf4cfd"]
+[Epoch "Queen"]
+[WhiteID "4605039"]
+[BlackID "4658051"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. b3 Qb6 10. dxe5 Nxe5 11. Nd4 Bg4 12. f3 Bxf3 13. Bxf3 Nxf3+ 14. Rxf3 Nxe4
+0-1

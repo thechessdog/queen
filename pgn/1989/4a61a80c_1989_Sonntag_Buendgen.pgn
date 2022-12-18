@@ -1,0 +1,18 @@
+[Event "Porz op23"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Sonntag, Hans-Hubert"]
+[Black "Buendgen, A."]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "4a61a80c"]
+[Epoch "Queen"]
+[WhiteID "4601025"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Qc2 Rb8 13. Nc4 Nb6 14. Ne3 Bd7 15.
+f4 Nxe4 16. Nxe4 Bf5 17. Nxf5 1-0

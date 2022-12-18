@@ -1,0 +1,22 @@
+[Event "Lang mem"]
+[Site "Brno"]
+[Date "1985.??.??"]
+[Round "2"]
+[White "Tobyas, Miroslav"]
+[Black "Stypka, Mieczyslaw"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "2c464cd3"]
+[Epoch "Queen"]
+[WhiteID "301086"]
+[BlackID "1102141"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Be3 Nc6 11. Nxc6 Bxc6 12. f5 b4 13. Na4 exf5 14. exf5 O-O 15.
+a3 a5 16. axb4 axb4 17. Qd4 Qb8 18. g4 h6 19. h4 Nh7 20. g5 hxg5 21. hxg5 Bxg5
+22. Bf4 Bxf4 23. Rxf4 Ng5 24. Kh2 Qe8 25. Kg3 Qe2 26. Bd5 Rxa4 27. Rxa4 Bxa4
+28. Rg4 Re8 29. Bxf7+ Kxf7 30. Qd5+ Kf8 31. Qxd6+ Kg8 32. Qd5+ Nf7 0-1

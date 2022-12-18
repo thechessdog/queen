@@ -1,0 +1,23 @@
+[Event "ch-URS, leger "]
+[Site "Simferopol"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Telman, Valeri"]
+[Black "Petrienko, Vladimir"]
+[Result "0-1"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[HashCode "6956b0ec"]
+[Epoch "Queen"]
+[WhiteID "14101343"]
+[WhiteCountry "UKR"]
+[BlackID "4101901"]
+[BlackCountry "RUS"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 d6 8. dxc5
+dxc5 9. Bf4 Be6 10. Ne5 Na5 11. Qa4 Nd7 12. Rad1 Bxe5 13. Bxe5 Nxc4 14. Bf4
+Nxb2 15. Qb5 Nxd1 16. Rxd1 Qb6 17. Qa4 Qb4 18. Qc2 Nf6 19. Rb1 Qc4 20. Rxb7 Bd5
+21. Rxe7 Bxg2 22. Kxg2 Nd5 23. Nxd5 Qxc2 24. Nf6+ Kg7 25. Be5 Qf5 26. Ne8+ Kg8
+27. Nf6+ Qxf6 28. Bxf6 Rfe8 29. Rc7 Re6 30. Bc3 Rxe2 31. a4 Ree8 32. Kf3 Rec8
+33. Rd7 Rd8 0-1

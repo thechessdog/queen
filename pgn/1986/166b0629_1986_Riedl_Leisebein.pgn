@@ -1,0 +1,17 @@
+[Event "corr BDGW"]
+[Site "corr BDGW"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Riedl"]
+[Black "Leisebein"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "166b0629"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Ne4
+8. h4 Nxc3 9. bxc3 Be4 10. Rh3 Be7 11. g5 Nc6 12. Bb5 O-O 13. Bxc6 bxc6 14.
+Qe2 Bf5 15. Nxc6 Qd7 16. Nxe7+ Qxe7 17. Rh2 Qd6 18. a4 Qg3+ 19. Kd2 c5 20.
+dxc5 Rad8+ 0-1
+

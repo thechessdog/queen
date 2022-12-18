@@ -1,0 +1,31 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Sorokin, Maxim"]
+[Black "Galliamova, Alisa"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "3641a311"]
+[Epoch "Queen"]
+[WhiteID "34277781"]
+[BlackID "4129725"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. Nc3 Nc7 8.
+Bxc6 dxc6 9. Ne4 b6 10. b3 O-O 11. Bb2 Bg4 12. d3 Ne6 13. Ned2 Ng5 14. h3 Bh5
+15. Kh2 f5 16. exf6 Bxf6 17. Bxf6 Rxf6 18. g4 Qd5 19. Nxg5 Rxf2+ 20. Kg3 Rg2+
+21. Kh4 Bxg4 22. Qxg4 Rxg4+ 23. hxg4 Qg2 24. Ngf3 Rf8 25. Re4 g5+ 26. Kxg5 Qh3
+27. Re6 Rf6 28. Rxf6 exf6+ 29. Kf5 Kf7 30. Rg1 b5 31. Kf4 Qh6+ 32. g5 fxg5+ 33.
+Nxg5+ Ke7 34. Re1+ Kd7 35. Nf3 Qf6+ 36. Ke3 Qc3 37. Re2 h6 38. Ne4 Qg7 39.
+Nxc5+ Kc8 40. Ne4 h5 41. Rh2 Qh6+ 42. Ke2 Kc7 43. c4 bxc4 44. bxc4 a5 45. a4
+Qg6 46. Rh4 Kb6 47. Rf4 Qg2+ 48. Ke3 Qc2 49. Ned2 c5 50. Rf6+ Kc7 51. Rf5 Kb6
+52. Rxh5 Qxa4 53. Ne4 Qc2 54. Rxc5 Qc1+ 55. Nfd2 a4 56. Rb5+ Kc7 57. Ra5 Kb6
+58. Ra8 Kb7 59. Rxa4 Qd1 60. Rb4+ Kc7 61. d4 Qh1 62. d5 Qh2 63. Kd3 Qh3+ 64.
+Kc2 Qa3 65. Rb3 Qa2+ 66. Kd3 Qa8 67. Nf3 Qf8 68. Ke3 Qh6+ 69. Nfg5 Qh1 70. d6+
+Kc6 71. Nf3 Qc1+ 72. Kd4 Qa1+ 73. Rc3 Qd1+ 74. Ke5 Qh1 75. Nd4+ Kb7 76. Rb3+
+Ka8 77. c5 Qh5+ 78. Ke6 Qe8+ 79. Kf5 Qh5+ 80. Ng5 Qh1 81. Nge6 Qh5+ 82. Kf6
+Qh4+ 83. Kf7 Qh7+ 84. Ke8 Qg8+ 85. Ke7 Qh7+ 86. Kd8 Qh8+ 87. Kc7 1-0

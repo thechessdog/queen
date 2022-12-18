@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dobierzin"]
+[Black "Vokler"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "625bff45"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Nbd7 10. a4 b6 11. Qd2 Bb7 12. f3 Qc7 13. Rfd1 Rfc8 14. Nc1
+Bc6 15. N1a2 h6 16. Nb4 Bb7 1/2-1/2
+

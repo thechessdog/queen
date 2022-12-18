@@ -1,0 +1,22 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.??.??"]
+[Round "2"]
+[White "Fette, Martin"]
+[Black "Hartung Nielsen, Jens"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0b15d73a"]
+[Epoch "Queen"]
+[WhiteID "4600827"]
+[WhiteCountry "GER"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. Nc3 Nxc3 6. dxc3 d5 7. exd6 exd6 8.
+Bf4 Be7 9. Qd3 O-O 10. O-O-O Qb6 11. Bc4 Na5 12. Bd5 Bd7 13. Rhe1 Rae8 14. Rxe7
+Rxe7 15. Bxd6 Rfe8 16. Ng5 g6 17. Bxe7 Rxe7 18. Nxf7 Kg7 19. Qd2 Be6 20. Ng5
+Bf5 21. c4 Nc6 22. Re1 Qd8 23. Rxe7+ Qxe7 24. Bxc6 bxc6 25. Qe3 Qd6 26. Qc3+
+Kg8 27. Qh8+ Kxh8 28. Nf7+ Kg7 29. Nxd6 Be6 30. b3 Kf6 31. Nb7 Ke5 32. Nxc5 Bc8
+33. Kd2 Kd4 34. Nd3 Bf5 35. c3+ Ke4 36. f3# 1-0

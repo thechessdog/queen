@@ -1,0 +1,20 @@
+[Event "corr Spain"]
+[Site "corr Spain"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sanchez Arias"]
+[Black "Duran Rubies"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "db20e2ed"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. c3 Nc6 8. g3
+Bh3 9. Rf2 Nf6 10. Qb3 Qd7 11. Bxf7+ Qxf7 12. Qxb7 O-O 13. Qxc6 fxg3 14.
+hxg3 Ng4 15. Qd5 Nxf2 16. Kxf2 Qxd5 17. exd5 g4 18. Bf4 gxf3 19. Kxf3 h5
+20. Nd2 Bh6 21. Rh1 Bg4+ 22. Ke3 Rae8+ 23. Kd3 Bxf4 24. gxf4 Rxf4 25. Rh2
+h4 26. b3 h3 27. a4 Re2 28. Rxe2 Bxe2+ 29. Kxe2 h2 30. Ke3 Rf8 31. Kd3 h1=Q
+32. Kc4 Qe1 0-1
+

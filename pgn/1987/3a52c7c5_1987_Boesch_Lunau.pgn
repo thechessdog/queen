@@ -1,0 +1,17 @@
+[Event "Endingen HT4"]
+[Site "Endingen HT4"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Boesch, U."]
+[Black "Lunau, D."]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "3a52c7c5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. h4 e5 7. d5 c6 8. f3
+cxd5 9. cxd5 Nbd7 10. Be3 b6 11. Qd2 Nc5 12. Bc2 a5 13. g4 h5 14. Bg5 hxg4
+15. O-O-O gxf3 16. h5 Bg4 17. h6 f2 18. hxg7 Re8 19. Bxf6 1-0
+

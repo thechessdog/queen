@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Linden"]
+[Black "Hamers"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "121f087a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+Bd3 b5 9. Be3 Bb7 10. a3 Nbd7 11. Qe2 Be7 12. fxe5 dxe5 13. h3 O-O 14. O-O
+Nc5 15. Bf2 Nh5 16. Nd5 Bxd5 17. exd5 Nf4 18. Qxe5 Bd6 19. Bxh7+ Kxh7 20.
+Qf5+ Kg8 21. Ng5 g6 22. Qg4 f6 23. Nf3 Ne4 24. Nd4 f5 25. Qd1 Nxf2 26. Rxf2
+Rfe8 27. Qd2 Re4 28. b4 Rae8 29. Rd1 Nh5 30. Nf3 Bg3 31. d6 Bxf2+ 32. Qxf2
+Qd7 33. Qc5 Nf6 34. Qc3 Kg7 0-1
+

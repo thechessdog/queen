@@ -1,0 +1,27 @@
+[Event "Colombia"]
+[Site "Colombia"]
+[Date "1988.01.01"]
+[Round "14"]
+[White "Garcia, Gildardo"]
+[Black "Juan, G Arboleda"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "16914df6"]
+[Epoch "Queen"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Bxd4 10. Bxd4 Nxd4 11. Qxd4 Qb6 12. Qxb6 Nxb6 13. Nb5 Ke7 14. Kd2 a6
+15. Nd4 Bd7 16. Bd3 Nc4+ 17. Bxc4 dxc4 18. g4 h5 19. h3 Rac8 20. Rag1 g6 21.
+Ke3 Rc5 22. h4 hxg4 23. Rxg4 b6 24. a3 Bc8 25. Rg5 Bb7 26. Rh2 Rcc8 27. h5 Rxh5
+28. Rhxh5 gxh5 29. Rxh5 Rg8 30. f5 exf5 31. Nxf5+ Kd7 32. Rh7 Bd5 33. Nh6 Rf8
+34. Kd4 Be6 35. Rg7 Kc6 36. Rg8 Rxg8 37. Nxg8 b5 38. Ne7+ Kd7 39. Nd5 Kc6 40.
+Nb4+ Kb6 41. c3 a5 42. Nd5+ Kc6 43. Ne3 Kb6 44. a4 Kc6 45. Nc2 bxa4 46. Na3 Kb6
+47. Nxc4+ Kb5 48. Nd6+ Kc6 49. Ne4 Kb5 50. Nd6+ Kc6 51. Nc4 Kb5 52. Na3+ Kc6
+53. c4 Bf5 54. Nb5 Bc2 55. Nc3 Bb3 56. Nd5 Bd1 57. Ne3 Bb3 58. Nf5 Bd1 59. Nh6
+Bh5 60. Nf5 Bd1 61. Nd6 f6 62. Nf7 fxe5+ 63. Nxe5+ Kd6 64. c5+ Kc7 65. Nc4 Kc6
+66. Nxa5+ Kb5 67. Nc4 Bf3 68. Nb6 Kb4 69. Nd5+ Bxd5 70. Kxd5 Kb3 71. c6 Kxb2
+72. c7 a3 73. c8=Q a2 74. Qh8+ Kb1 75. Qh1+ Kb2 76. Qg2+ Kb1 77. Kc4 1-0

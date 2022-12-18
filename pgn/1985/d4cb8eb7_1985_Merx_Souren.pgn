@@ -1,0 +1,25 @@
+[Event "Voerendaal"]
+[Site "Voerendaal"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Merx, B."]
+[Black "Souren, E."]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "d4cb8eb7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bg4 5. Bxc4 Nc6 6. Qb3 Qd7 7. Nxe5 Nxe5
+8. dxe5 Bb4+ 9. Nc3 Bxc3+ 10. bxc3 c6 11. O-O b5 12. e6 fxe6 13. f3 bxc4
+14. Qxc4 Bh5 15. Bf4 Bf7 16. Qc5 Nf6 17. Rfd1 Qc8 18. Rab1 e5 19. Qxe5+ Be6
+20. Rd6 Kf7 21. Qc5 Rb8 22. Rxb8 Qxb8 23. a3 Qb6 24. Qxb6 axb6 25. Rxc6 Rc8
+26. Rxb6 Rxc3 27. Rb7+ Kg8 28. a4 Ra3 29. Ra7 Nd7 30. a5 Kf7 31. Bd6 Ra2
+32. a6 Kf6 33. e5+ Nxe5 34. Bxe5+ Kxe5 35. Rxg7 Bf5 36. a7 Kd6 37. g4 Bg6
+38. h4 Ke5 39. h5 Bd3 40. Rd7 Bb1 41. Rb7 Bc2 42. Rb2 Ra1+ 43. Kf2 Bd3 44.
+Ke3 Bc4 45. f4+ Kd5 46. Rd2+ Kc6 47. Kd4 Bf7 48. Ke5 Rxa7 49. Rc2+ Kd7 50.
+Kf6 Bd5 51. Rd2 Kc6 52. h6 Rf7+ 53. Kg5 Kd6 54. Re2 Rf8 55. Re1 Bf3 56. Rg1
+Ke6 57. Rg3 Bd1 58. Rg1 Bf3 59. Re1+ Kf7 60. Kh4 Rg8 61. g5 Re8 62. g6+
+Kxg6 63. Rxe8 Kxh6 64. Rg8 Be4 65. Kg4 Bg6 66. f5 Bf7 1-0
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Trokenheim"]
+[Black "Ehne"]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "9d86bd45"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 d5 10. e5 Nd7 11. Nf3 f6 12. h4 fxe5 13. g4 e4 14. Nxd5
+Nf6 15. Nxe7+ Qxe7 16. Ne5 Nb4 17. Bc4 Qc5 18. Bxf6 gxf6 19. f5 b5 20. Bb3
+Nxa2+ 21. Bxa2 Qxe5 22. Qd6 Kf7 23. fxe6+ Kg7 24. Qe7+ Kg8 25. Qf7+ 1-0
+

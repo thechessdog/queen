@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neumark, Thomas"]
+[Black "Chochulski, A."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "c75f7612"]
+[Epoch "Queen"]
+[WhiteID "4604121"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Ne7 5. Nf3 Nbc6 6. Bd3 cxd4 7. cxd4 Nf5 8.
+Bxf5 exf5 9. O-O Be6 10. Qb3 Qd7 11. Nc3 h6 12. h4 Be7 13. Rd1 O-O-O 14. a4 Kb8
+15. a5 g5 16. a6 f4 17. axb7 Bh3 18. Nb5 Qg4 19. Ne1 Bxg2 0-1

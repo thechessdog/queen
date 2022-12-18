@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wilken"]
+[Black "Schuld"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "4bdd0ee5"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bf5 7. Ne2
+Bd6 8. Ng3 Qe7+ 9. Be3 Be6 10. Bd3 Nd7 11. Nf5 Bxf5 12. Bxf5 O-O 13. O-O
+Nb6 14. Qf3 Qc7 15. g3 Nd5 16. Bd2 Ne7 17. Bc2 Ng6 18. h4 Rfe8 19. h5 Nf8
+20. Rae1 Nd7 21. Re4 Rxe4 22. Qxe4 g6 23. Kg2 f5 24. Qh4 Qd8 25. Bg5 Qf8
+26. Re1 b5 27. hxg6 hxg6 28. Bxf5 gxf5 29. Bh6 Qd8 30. Re8+ 1-0
+

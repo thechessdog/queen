@@ -1,0 +1,16 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thethi, P."]
+[Black "Wilson"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "215ac7a3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. d4 dxe4 4. Nxe5 Be6 5. Bb5+ c6 6. Bc4 Bxc4 7. Nxc4
+Nd7 8. O-O f5 9. f3 b5 10. Nca3 Nb6 11. fxe4 b4 12. Rf4 Be7 13. Qd3 bxa3
+14. Nxa3 Nf6 15. c4 O-O 16. Bd2 Nbd7 17. Bc3 Nc5 18. Qe3 Ncxe4 0-1
+

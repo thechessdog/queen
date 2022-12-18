@@ -1,0 +1,28 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Djuric, Stefan"]
+[Black "Petrovic, Vojislav"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "90002d06"]
+[Epoch "Queen"]
+[BlackID "905780"]
+[BlackCountry "SRB"]
+[WhiteID "900133"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Nc5 10. Nb3 Bg4 11. Qc2 Nfd7 12. Be3 c6 13. h3 Be6 14. Rfd1 Qe7
+15. Nd5 cxd5 16. cxd5 Bxd5 17. Nxc5 Nxc5 18. Rxd5 Rac8 19. Rad1 Rfe8 20. Bg5
+Qe6 21. f3 h6 22. Be3 Qf6 23. e5 Rxe5 24. Bd4 Qf5 25. Qxf5 Rxf5 26. Rxf5 gxf5
+27. Bxg7 Kxg7 28. Rxd6 Rc7 29. Kf2 Ne6 30. Rd2 f4 31. g4 Kf6 32. h4 Ke5 33. Bf1
+Nd4 34. Bd3 Rc1 35. Be4 b6 36. Kg2 f6 37. Bd3 Rg1+ 38. Kf2 Rh1 39. Bf1 Rxh4 40.
+Rd1 f5 41. Re1+ Kf6 42. Re8 Rh2+ 43. Bg2 fxg4 44. Rf8+ Ke7 45. Rxf4 gxf3 46.
+Re4+ Kf6 47. Rxd4 Rxg2+ 48. Kxf3 Rxb2 49. a4 Rb3+ 50. Ke4 a5 51. Rd6+ Kg5 52.
+Rd5+ Kg4 53. Rd6 h5 54. Rg6+ Kh3 55. Kf4 h4 56. Ke4 Kh2 57. Kf4 h3 58. Ke4 Kh1
+59. Kf4 h2 60. Ke4 Rb1 61. Kf3 Rf1+ 62. Ke3 Rg1 63. Rxb6 Kg2 64. Rg6+ Kf1 65.
+Rf6+ Ke1 66. Rb6 Kd1 0-1

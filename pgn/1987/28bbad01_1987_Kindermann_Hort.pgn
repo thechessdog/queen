@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kindermann, Stefan"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "28bbad01"]
+[Epoch "Queen"]
+[WhiteID "4600053"]
+[BlackID "4600029"]
+[WhiteCountry "AUT"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. Be2 c4 7. O-O Bd6 8. b3
+cxb3 9. axb3 Nc6 1/2-1/2

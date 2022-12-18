@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andre, K."]
+[Black "Hickl, N."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "496dbf4d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qd4 Nc5 5. Nf3 Nc6 6. Qd1 d6 7. Bf4 Bg4
+8. exd6 Bxd6 9. Bxd6 Qxd6 10. Qxd6 cxd6 11. Nfd2 Nb4 12. Na3 O-O 13. f3
+Rfe8 14. fxg4 Ncd3+ 15. Kd1 Nf2+ 16. Kc1 Nxh1 17. Nc2 Nxc2 18. Kxc2 Nf2 19.
+h3 Ne4 20. Nf3 Rac8 21. b3 Ng3 22. Kd3 Rc5 23. b4 Rc7 24. Nd4 g6 25. Nb5
+Rce7 26. Nxd6 Rd8 27. c5 Ne4 28. e3 Nxd6 29. cxd6 Rxd6+ 30. Ke2 Rde6 31. a4
+Rxe3+ 32. Kf2 Rb3 0-1
+

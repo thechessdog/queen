@@ -1,0 +1,19 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zoebisch, Herbert"]
+[Black "Schueller, Ernst"]
+[Result "1-0"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "570fe216"]
+[Epoch "Queen"]
+[WhiteID "1601539"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 a6 7. a4 g6 8. Nf3 Bg7
+9. Be2 O-O 10. O-O Re8 11. Nd2 Nbd7 12. f4 Rb8 13. Kh1 Nb6 14. a5 Na8 15. e5
+dxe5 16. fxe5 Nxd5 17. Nxd5 Qxd5 18. Bc4 Qxe5 19. Bxf7+ Kh8 20. Nc4 Qe2 21.
+Qxe2 Rxe2 22. Bf4 b5 23. Rae1 1-0

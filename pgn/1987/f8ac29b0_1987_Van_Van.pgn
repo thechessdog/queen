@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Van der Bogaerde"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "f8ac29b0"]
+[Epoch "Queen"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6 8.
+Qh5+ g6 9. Qe2 Qh4 10. h3 Nf6 11. g3 Qxh3 12. Rxh3 1-0

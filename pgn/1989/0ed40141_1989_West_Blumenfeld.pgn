@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "West, James"]
+[Black "Blumenfeld, Rudy"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "0ed40141"]
+[Epoch "Queen"]
+[WhiteID "2004143"]
+[BlackID "2000938"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+b4 9. Na4 Bd7 10. f4 Nc6 11. f5 e5 12. Ne2 Be7 13. Be3 Rb8 14. Ng3 O-O 15. Nh5
+Nd4 16. Nxf6+ Bxf6 17. c3 Nxb3 18. axb3 Bc6 19. cxb4 Rxb4 20. Nc3 Rxe4 21. Nxe4
+Bxe4 22. Rxa6 d5 23. Bc5 Qc8 24. Bxf8 Qxa6 25. Bc5 Qc6 26. b4 d4 27. Rf2 Bg5
+28. Re2 g6 29. fxg6 hxg6 30. b3 Qd5 31. Ra2 d3 32. h4 Bh6 33. Rf2 d2 34. Rf1
+Bxg2 35. Rf6 Qe4 36. Bf2 Bh3 0-1

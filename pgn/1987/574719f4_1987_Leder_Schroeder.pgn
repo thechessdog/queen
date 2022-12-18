@@ -1,0 +1,20 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Leder, Jens"]
+[Black "Schroeder, Wilfried"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Maroczy attack"]
+[HashCode "574719f4"]
+[Epoch "Queen"]
+[BlackID "4608054"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 e6 7. Nf3 Nd7 8. Ne5
+Nxe5 9. fxe5 Qb6 10. c3 O-O-O 11. Bd3 c5 12. Bxg6 hxg6 13. Ne2 Ne7 14. Bg5 Rh5
+15. Qd2 Rd7 16. O-O-O Nc6 17. Qe3 Qa6 18. Kb1 Rxg5 19. Qxg5 Qxe2 20. Rd2 Qe4+
+21. Kc1 Be7 22. Qg3 Bh4 23. Qd3 Qxd3 24. Rxd3 Bg5+ 25. Kc2 cxd4 26. Rhd1 Nxe5
+27. Rxd4 Rxd4 28. cxd4 Nc6 29. a3 Ne7 30. Kd3 Bf6 31. Ke4 Nc6 32. b3 Nxd4 0-1

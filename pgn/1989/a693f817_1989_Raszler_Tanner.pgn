@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Raszler"]
+[Black "Tanner"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "a693f817"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+Bxe6 9. Bd3 Nc6 10. f5 Bd7 11. O-O Ng4 12. Nd5 Nge5 13. Nxe5 Bxe5 14. f6
+Be6 15. Bh6 Bxd5 16. cxd5 Nb4 17. Bxf8 Kxf8 18. a3 Nxd3 19. Qxd3 Bxf6 20.
+Kh1 Be5 21. Qh3 Kg7 22. Rf3 Qe7 23. Raf1 Rf8 24. Rb3 a6 25. a4 Qc7 26. Qf3
+h6 27. a5 Re8 28. Rb6 Re7 29. b3 Bd4 30. Rc1 Qd7 31. g4 Bb2 32. Rc4 Ba3 33.
+Qf4 Re5 34. Rc2 Qe7 35. Rc4 Bb2 36. Qe3 Rxd5 37. b4 Rd1+ 38. Kg2 Bd4 39.
+Rxd4 Rxd4 40. bxc5 dxc5 0-1
+

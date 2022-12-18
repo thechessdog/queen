@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Ostenstad, Berge"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "7bac1b85"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1500058"]
+[BlackCountry "NOR"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6 7. h4 Nd7 8. h5 Bf7
+9. f4 c5 10. exf6 Ngxf6 11. Bh3 Qb6 12. Be3 O-O-O 13. dxc5 Bxc5 14. Bxc5 Nxc5
+15. Qd4 Kb8 16. h6 gxh6 17. Qxf6 d4 18. Qe5+ Ka8 19. Nxd4 Qxb2 20. Ndb5 Nd3+
+21. cxd3 Qxa1+ 22. Ke2 Qb2+ 23. Ke3 1-0

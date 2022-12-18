@@ -1,0 +1,22 @@
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee II"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lukacs, Peter"]
+[Black "Krnic, Zdenko"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "88d3daeb"]
+[Epoch "Queen"]
+[WhiteID "700142"]
+[WhiteCountry "HUN"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5 12. Ra3 g5 13. Qc2 a6 14. a5 Rb8 15. Nd1
+Ng6 16. Ne3 Nf4 17. Bd1 b5 18. axb6 Rxb6 19. f3 N6h5 20. Ndc4 Rb5 21. Kh1 Bd4
+22. g3 Nh3 23. Qg2 Ng7 24. Ng4 h5 25. Nh6+ Kf8 26. f4 g4 27. f5 Qf6 28. Bxg4
+Nf2+ 29. Rxf2 Bxf2 30. Be2 Bd4 31. Bf4 Rd8 32. g4 Qh4 33. Ra1 Ne8 34. gxh5 Bg7
+35. Bg5 Qxg5 36. Qxg5 Rd7 37. Ng4 1-0

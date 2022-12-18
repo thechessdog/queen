@@ -1,0 +1,22 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ionov, Sergey"]
+[Black "Kuzmin, Alexey"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "605edc2a"]
+[Epoch "Queen"]
+[WhiteID "4100875"]
+[BlackID "4100794"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. d5 e6 8. Nge2
+exd5 9. cxd5 h5 10. Nc1 Nbd7 11. Be2 Ne5 12. O-O Nh7 13. Qd2 f5 14. f4 Ng4 15.
+Bxg4 hxg4 16. e5 dxe5 17. Bxc5 Re8 18. fxe5 Bxe5 19. Nd3 Bxc3 20. bxc3 Qxd5 21.
+Rae1 Bd7 22. Qh6 Qf7 23. Ne5 Rxe5 24. Rxe5 Re8 25. Rfe1 Re6 26. Rxe6 Bxe6 27.
+Bd4 Bd7 28. Qf4 Qd5 29. Re7 1-0

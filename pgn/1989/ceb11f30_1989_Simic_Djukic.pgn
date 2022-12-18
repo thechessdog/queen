@@ -1,0 +1,20 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Simic, Radoslav"]
+[Black "Djukic, Zeljko"]
+[Result "1/2-1/2"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "ceb11f30"]
+[Epoch "Queen"]
+[WhiteID "900184"]
+[WhiteCountry "SRB"]
+[BlackID "900737"]
+[BlackCountry "SRB"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. g3 cxb4 5. a3 bxa3 6. Bxa3 Nc6 7. d3 g6 8. Bg2
+Bg7 9. Nbd2 Nh6 10. O-O O-O 11. Qb3 Qc7 12. Rfb1 Rb8 13. Ne1 Bg4 14. Ndf3 Rfc8
+15. Nc2 1/2-1/2

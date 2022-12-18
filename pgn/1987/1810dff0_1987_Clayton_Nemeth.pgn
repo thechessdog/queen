@@ -1,0 +1,20 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Clayton"]
+[Black "Nemeth"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Lasker variation"]
+[HashCode "1810dff0"]
+[Epoch "Queen"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 c5 4. b3 a6 5. Bb2 e6 6. g3 Be7 7. Bg2 O-O 8. O-O
+Bd7 9. Ne5 b5 10. c4 Ra7 11. Qe2 Be8 12. f5 Bd6 13. Ng4 Nh5 14. f6 g6 15.
+Nh6+ Kh8 16. g4 Bxh2+ 17. Kxh2 Qc7+ 18. Kg1 Ng3 19. Qf2 Nxf1 20. Kxf1 Bc6
+21. cxd5 exd5 22. Nc3 Qh2 23. g5 Qe5 24. Qh4 d4 25. Bxc6 Nxc6 26. Nd1 a5
+27. Nf2 Rd7 28. Ke2 Rd5 29. Ne4 Qe6 30. Rh1 dxe3 31. dxe3 a4 32. Nf5 h5 33.
+Ng7 1-0
+

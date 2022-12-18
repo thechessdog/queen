@@ -1,0 +1,20 @@
+[Event "California"]
+[Site "California"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Yu, Peter"]
+[Black "Levine, J."]
+[Result "0-1"]
+[ECO "A24"]
+[Opening "English"]
+[Variation "Bremen system with ...g6"]
+[HashCode "99fa9cc4"]
+[Epoch "Queen"]
+[WhiteID "2007037"]
+[WhiteCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. e3 O-O 6. Nge2 c6 7. O-O Re8 8. Qb3
+Na6 9. d4 e4 10. d5 d6 11. a3 Nc5 12. Qc2 Bf5 13. Nd4 Qd7 14. Nxf5 gxf5 15. Rb1
+Rac8 16. Bd2 Nd3 17. Qd1 Re5 18. f3 cxd5 19. cxd5 Qc7 20. fxe4 fxe4 21. Qe2 Nc5
+22. b4 Ncd7 23. Nb5 Qb6 24. Bc3 Rxd5 25. Bxf6 Nxf6 26. Rxf6 Rxb5 27. Rxd6 Qxd6
+28. Qxb5 Qd2 29. Qxb7 Qxe3+ 30. Kh1 Rc1+ 31. Rxc1 Qxc1+ 32. Bf1 Qxf1# 0-1

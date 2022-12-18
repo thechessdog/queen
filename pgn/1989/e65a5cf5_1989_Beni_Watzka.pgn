@@ -1,0 +1,19 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Watzka, Horst"]
+[Result "1/2-1/2"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "e65a5cf5"]
+[Epoch "Queen"]
+[BlackID "1600311"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+O-O-O Nxd4 9. Qxd4 Qa5 10. Bd2 a6 11. a3 Qc5 12. Qxc5 Rxc5 13. f3 g6 14. Be3
+Rc6 15. Nd5 Bg7 16. Bd4 Nh5 1/2-1/2

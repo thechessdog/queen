@@ -1,0 +1,21 @@
+[Event "corr BdF/JHZ"]
+[Site "corr BdF/JHZ"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Seewald"]
+[Black "Buchweitz, J."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "fc38cda5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+Nc4 O-O 9. Bg5 h6 10. Bf4 Na6 11. Qd2 b5 12. Nxd6 g5 13. Bg3 b4 14. Ncb5
+Bd7 15. e3 Qb6 16. Bc4 Rad8 17. O-O Bxb5 18. Nxb5 Ne4 19. Qe2 Nxg3 20. hxg3
+Nb8 21. d6 a6 22. Nc7 Rxd6 23. Nd5 Qd8 24. Rad1 Nc6 25. Rd2 Re8 26. Qd1 Kh8
+27. Qc2 Ne5 28. Rfd1 Nxc4 29. Qxc4 Qa5 30. Qc2 Rc6 31. Ne7 Rc7 32. Nd5 Rcc8
+33. Qf5 c4 34. Qxf7 c3 35. Nxc3 bxc3 36. Rd7 Qe5 37. R1d6 Kh7 38. f4 gxf4
+39. gxf4 1-0
+

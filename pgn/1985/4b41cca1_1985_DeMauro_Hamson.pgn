@@ -1,0 +1,19 @@
+[Event "corr Kellner mem"]
+[Site "corr Kellner mem"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "DeMauro, J."]
+[Black "Hamson, K."]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "4b41cca1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. O-O b6 10. Bg5 Na5 11. Bd3 Qd7 12. Qd2 e6 13. Bh6 Bb7 14.
+Bxg7 Kxg7 15. h4 c5 16. Rad1 Rac8 17. h5 cxd4 18. cxd4 Nc4 19. Qg5 h6 20.
+Qg3 Nb2 21. hxg6 Nxd1 22. Nf4 f5 23. Nh5+ Kg8 24. g7 Rf7 25. Qg6 Qxd4 26.
+Qxh6 Rxg7 27. Rxd1 fxe4 28. Be2 Qxf2+ 29. Kxf2 1-0
+

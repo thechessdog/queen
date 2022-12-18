@@ -1,0 +1,17 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Keitlinghaus, Ludger"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "8ef30206"]
+[Epoch "Queen"]
+[WhiteCountry "ITA"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nf3 d6 5. g3 Nc6 6. Bg2 e5 7. d5 Bxd2+ 8. Qxd2
+Nb8 9. Nc3 Na6 10. O-O Nh6 11. e4 O-O 12. Ne1 Nc5 13. Nd3 Nxd3 14. Qxd3 f5 15.
+exf5 Bxf5 16. Ne4 Qd7 17. Rae1 Rae8 18. b3 b6 19. Qc3 Bxe4 20. Rxe4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "corr Arlamowskiego mem"]
+[Site "corr Arlamowskiego mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bartkiewicz"]
+[Black "Terlecki"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "e25ed90c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 Qe7 12. Bd5 g5 13. Nxg5 hxg5 14. Bxg5
+Rg8 15. h4 O-O-O 16. a4 Nb8 17. Bxb7+ Kxb7 18. axb5 axb5 19. Na3 Nbd7 20.
+Nxb5 Ra8 21. Qd3 Rxa1 22. Rxa1 c6 23. Na3 exd4 24. Nc4 Ne5 25. Nxe5 Qxe5
+26. Qh3 dxc3 27. bxc3 Kc7 28. Qf3 Nd7 29. Bf4 Qf6 30. g3 Ne5 31. Qh5 Qxf4
+32. Rf1 Qxg3+ 33. Kh1 Qg2# 0-1
+

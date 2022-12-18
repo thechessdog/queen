@@ -1,0 +1,18 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Kroll, Ove"]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "b91b32c2"]
+[Epoch "Queen"]
+[WhiteID "1400738"]
+[WhiteCountry "DEN"]
+[BlackID "1400215"]
+[BlackCountry "DEN"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nc6 4. Nc3 a6 5. e3 Rb8 6. Nge2 b5 7. O-O bxc4 8. Qa4
+Rb4 9. Qc2 Nf6 10. Na4 d5 11. a3 Rb8 12. e4 Nxe4 0-1

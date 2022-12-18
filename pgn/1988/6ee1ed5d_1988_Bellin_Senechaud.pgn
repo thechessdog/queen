@@ -1,0 +1,17 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bellin"]
+[Black "Senechaud"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian gambit, 3.Bc4"]
+[HashCode "6ee1ed5d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 b5 4. Bb3 fxe4 5. Nxe5 Qg5 6. d4 Qxg2 7. Qh5+ g6
+8. Bf7+ Kd8 9. Bxg6 Qxh1+ 10. Ke2 Ba6 11. Bg5+ Kc8 12. Nd2 b4+ 13. Ke3 Qxa1
+14. Bxe4 Qe1+ 15. Kf4 Nf6 16. Bxf6 Bh6+ 17. Kf5 Qxd2 18. Qh4 Rf8 19. Bxa8
+Bf1 20. Bf3 Bh3+ 21. Ke4 Qxc2+ 0-1
+

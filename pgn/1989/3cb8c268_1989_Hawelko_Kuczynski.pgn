@@ -1,0 +1,21 @@
+[Event "Leba"]
+[Site "Leba"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hawelko, Marek"]
+[Black "Kuczynski, Robert"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "3cb8c268"]
+[Epoch "Queen"]
+[BlackID "1100033"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. f4 b5 10. f5 Bc4 11. O-O-O Rc8 12. Kb1 Be7 13. h3 Nb6 14. Bd3 Qc7 15.
+g4 h6 16. Rhg1 b4 17. Ne2 d5 18. Ng3 d4 19. Bf2 Na4 20. Qe2 Nd7 21. Nh5 Rg8 22.
+Rge1 Ndb6 23. Bg3 Bg5 24. h4 Be3 25. g5 hxg5 26. hxg5 Bxg5 27. f6 gxf6 28. Bh2
+Qc6 29. Na5 Qb5 30. Nxc4 Nxc4 31. Bxc4 Rxc4 32. Ng3 Nc3+ 33. Ka1 Nxe2 34. Nf5
+Rc6 0-1

@@ -1,0 +1,24 @@
+[Event "Elekes mem"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schoen, Wolfram"]
+[Black "Petran, Pal"]
+[Result "1/2-1/2"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "adde0a89"]
+[Epoch "Queen"]
+[WhiteID "4600703"]
+[WhiteCountry "GER"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. e3 d5 6. Bd3 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Qe2 Bxc3 12. bxc3 Nbd7 13. Ne5 Qc7 14. Nxd7
+Nxd7 15. Rac1 e5 16. Bb5 Bc6 17. Bxc6 Qxc6 18. dxe5 Rae8 19. f4 f6 20. Bh4 fxe5
+21. fxe5 Rxf1+ 22. Rxf1 Rxe5 23. Qd1 h6 24. Bf2 Nc5 25. Bd4 Rg5 26. Qe2 Ne6 27.
+Qf3 Qxf3 28. Rxf3 Ra5 29. Rf2 Nxd4 30. cxd4 Ra3 31. h3 Rd3 32. Rf4 Rd2 33. a4
+Ra2 34. d5 Rd2 35. Rf5 Rd4 36. Kf2 g6 37. Ke3 Rd1 38. Rf6 Rxd5 39. Rxg6+ Kh7
+40. Rg4 1/2-1/2

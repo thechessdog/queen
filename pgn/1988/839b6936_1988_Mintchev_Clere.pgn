@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mintchev, V."]
+[Black "Clere, P."]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "839b6936"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Qd3 Bb4+ 7. c3 Bc5
+8. O-O d6 9. Qc4 Bd7 10. Bxc6 bxc6 11. Nxe5 Qe7 12. Nd3 Be6 13. Qa4 Bb6 14.
+Qxc6+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schwarz"]
+[Black "Schiegner"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a9111985"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Qb6 6. Ba4 e5 7. Na3 Nge7 8.
+b4 cxb4 9. Nc4 Qc7 10. cxb4 Nd4 11. Nxd4 Qxc4 12. Nb5 O-O 13. d3 Qc6 14.
+Bg5 Bf6 15. Bh6 Bg7 16. Be3 d5 17. Rc1 Qf6 18. Nc7 1-0
+

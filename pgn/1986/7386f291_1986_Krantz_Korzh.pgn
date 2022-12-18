@@ -1,0 +1,17 @@
+[Event "corr Wch16"]
+[Site "corr Wch16"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krantz, Kjell"]
+[Black "Korzh, L."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "7386f291"]
+[Epoch "Queen"]
+[WhiteID "1700782"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Qe2 Qe7 7. Nxf7 Qxf7 8.
+f3 1-0

@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kucharkowski"]
+[Black "Dilling"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "9415c483"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 Nf6 4. Bxe5 d6 5. Bb2 O-O 6. Nf3 Bg4 7. e3 Bxf3
+8. Qxf3 Re8 1-0
+

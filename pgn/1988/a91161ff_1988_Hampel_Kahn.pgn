@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hampel"]
+[Black "Kahn, P."]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "a91161ff"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bxf6 Bxf6 7. Nf3 O-O 8.
+Qd2 dxc4 9. Bxc4 Nd7 10. O-O-O c5 11. g4 a6 12. h4 b5 13. Bd3 Bb7 14. Ne4
+Rc8 15. g5 cxd4+ 16. Kb1 Nc5 17. Nxc5 Bxf3 18. gxf6 Rxc5 19. fxg7 Re8 20.
+Rc1 Rxc1+ 21. Rxc1 Qxh4 22. Qc2 f5 23. a4 dxe3 24. axb5 axb5 25. fxe3 b4
+26. Qa4 Rd8 27. Qa6 Bd5 28. Rf1 b3 29. e4 Bxe4 30. Qxe6+ Kh7 31. g8=Q+ Rxg8
+32. Qxb3 Bxd3+ 33. Qxd3 Qe4 34. Qxe4 fxe4 35. Kc2 h5 36. Kd2 Kh6 1/2-1/2
+

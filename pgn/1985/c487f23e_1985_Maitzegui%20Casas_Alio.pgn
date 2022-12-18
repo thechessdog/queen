@@ -1,0 +1,17 @@
+[Event "Calella de Mar"]
+[Site "Calella de Mar"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maitzegui Casas, Li"]
+[Black "Alio, Joseph"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "c487f23e"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Bxd2 Bxg7 7. Qh5
+Qd4 8. Nf3 Qxb2 9. Rd1 Qxc2 10. Qd5 c6 11. Qd8+ Kxd8 12. Ba5+ Ke8 13. Rd8#
+1-0
+

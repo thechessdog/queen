@@ -1,0 +1,20 @@
+[Event "Zamora op"]
+[Site "Zamora op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eslon, Jaan"]
+[Black "Gil Reguera, JC."]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "a360dc59"]
+[Epoch "Queen"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 h6 10. Bf4 b6 11. Bxd6 Re8 12. Bg3 Ne4 13. Nxe4 Rxe4 14. e3 b5 15.
+Nd6 Rb4 16. Be2 Bxb2 17. O-O Bxa1 18. Qxa1 Ba6 19. e4 Nd7 20. e5 Qe7 21. f4 f6
+22. a3 Rb3 23. a4 Re3 24. axb5 Rxe2 25. Qxa6 Nb6 26. Qa3 c4 27. Qf3 Rb2 28. Ne4
+Rf8 29. d6 Qe6 30. Nxf6+ Rxf6 31. exf6 Qxd6 32. Qe4 Kf7 33. f5 Qc5+ 34. Kh1
+gxf5 35. Rxf5 Qb4 36. Rf1 Qxb5 37. Qh7+ Ke6 38. Qe7+ Kd5 39. Rd1+ 1-0

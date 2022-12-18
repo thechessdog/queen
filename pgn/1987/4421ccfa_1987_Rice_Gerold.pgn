@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rice"]
+[Black "Gerold"]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "4421ccfa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Nh3 O-O 10. Nf2 Qa5 11. Qb3 Qxc5 12. c4 Nf6 13. Bd2 Rd8 14.
+e3 Nc6 15. Nd3 Qe7 16. Be2 e5 17. Rd1 Be6 18. O-O Rac8 19. f4 e4 20. Ne5
+Nxe5 21. fxe5 Ne8 22. Bc3 b6 23. a4 Qc5 0-1
+

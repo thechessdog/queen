@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rohmeiss, H."]
+[Black "Starke, H."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "2b9ea655"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. f4 Bg7 6. Qd2 h6 7. Bh4 b5 8. Bd3
+b4 9. Nce2 a5 10. Nf3 Bb7 11. Bxf6 exf6 12. O-O Nd7 13. Ng3 Nb6 14. c3 c5
+15. Kh1 h5 16. e5 fxe5 17. dxe5 dxe5 18. Ne4 f5 19. Bb5+ 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Levacic, Damir"]
+[Black "Kozma, Karoly"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "8b6d094b"]
+[Epoch "Queen"]
+[WhiteID "600180"]
+[BlackID "701807"]
+[WhiteCountry "MNC"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. h3 Nc6 7. O-O Nd7 8. c4
+e5 9. Bh2 exd4 10. exd4 Qf6 11. Nc3 a6 12. Nd5 Qd8 13. Rc1 Nf6 14. Ne3 Ne7 15.
+Qb3 Nf5 16. c5 Nxe3 17. fxe3 dxc5 18. Rxc5 c6 19. Ne5 Qe7 20. Bc4 Be6 21. Bxe6
+fxe6 22. Rcc1 Rad8 23. Rcd1 Ne4 24. Qc2 Nd6 25. a3 Nf7 26. Nc4 c5 27. Qe4 Ng5
+28. Rxf8+ Qxf8 29. Qg4 Qf5 30. dxc5 Rxd1+ 31. Qxd1 Qxc5 32. Qd8+ Bf8 33. Bd6
+Nf7 34. Qxf8# 1-0

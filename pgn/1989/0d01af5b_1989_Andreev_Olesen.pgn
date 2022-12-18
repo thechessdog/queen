@@ -1,0 +1,19 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andreev, S."]
+[Black "Olesen, Martin"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "0d01af5b"]
+[Epoch "Queen"]
+[BlackID "1400860"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 O-O 13. Bg5 Bd7 14. Rc1 Be8
+15. Re1 Bh5 16. Rxe6 Nxd4 17. Bxh7+ Nxh7 18. Qxd4 Bxh2+ 19. Kxh2 Qxe6 20. Bh4
+Bxf3 21. gxf3 Rxf3 22. Bg3 Qh6+ 23. Kg2 Rxg3+ 24. fxg3 Qxc1 25. Nxd5 Re8 0-1

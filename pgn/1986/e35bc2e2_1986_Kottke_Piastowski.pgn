@@ -1,0 +1,23 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kottke"]
+[Black "Piastowski"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "e35bc2e2"]
+[Epoch "Queen"]
+
+1. d4 c6 2. c4 Qc7 3. Nc3 d6 4. e4 e5 5. f4 f5 6. d5 fxe4 7. Nxe4 Nf6 8.
+Nxf6+ gxf6 9. Qh5+ Qf7 10. Be2 Qxh5 11. Bxh5+ Ke7 12. fxe5 dxe5 13. Be3
+cxd5 14. cxd5 Bf5 15. Ne2 Be4 16. Nc3 Bxg2 17. Rg1 Bh3 18. Nb5 Na6 19. a3
+Bd7 20. Nxa7 Nc7 21. Rd1 Ne8 22. Rg3 Nd6 23. Bc5 Kd8 24. Bb6+ Ke7 25. Rc1
+Nc8 26. Nxc8+ Rxc8 27. Rxc8 Bxc8 28. Rc3 Bh6 29. Bc5+ Kd8 30. d6 f5 31. Be2
+Kd7 32. Bb4 Rd8 33. Bb5+ Ke6 34. Rc7 Bd7 35. Bc4+ Kf6 36. Rxb7 Be6 37. Bxe6
+Kxe6 38. Rxh7 Bc1 39. b3 e4 40. a4 Be3 41. Ke2 f4 42. d7 Rg8 43. Re7+ Kf5
+44. Bc3 Rg2+ 45. Kd1 Rg1+ 46. Kc2 Rg2+ 47. Kb1 Rg1+ 48. Ka2 Rg2+ 49. Bb2
+Rd2 50. Re5+ Kg6 51. Rxe4 Rxd7 52. Bc3 Rd3 53. Kb2 f3 54. Be1 f2 55. Bxf2
+Bxf2 1/2-1/2
+

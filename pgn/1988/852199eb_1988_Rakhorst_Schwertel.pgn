@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rakhorst"]
+[Black "Schwertel"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "852199eb"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 dxc4 6. bxc4 Bd7 7. Nf3 Qe7
+8. Bxc6 Bxc6 9. c5 Bxc5 10. Nxe5 Bd5 11. Qa4+ c6 12. Nd3 f6 13. Nxc5 Qxc5
+14. O-O Nh6 15. Rc1 Qe7 16. Nc3 Bf7 17. Ba3 Qe6 18. Rab1 b5 19. Nxb5 cxb5
+20. Rxb5 Qd7 21. Rc7 Qxc7 22. Rb8# 1-0
+

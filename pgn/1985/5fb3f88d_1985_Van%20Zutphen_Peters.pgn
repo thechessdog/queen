@@ -1,0 +1,16 @@
+[Event "Alkmaars-B op"]
+[Site "Alkmaar open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Zutphen, P."]
+[Black "Peters, H."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "5fb3f88d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. g4 Nbd7 10. Bg2 Rb8 11. O-O Qb6 12. Rf2 Qxd4 13. Rd1 Qb6 14. Bxf6 Bxf6
+15. e5 Bh4 0-1

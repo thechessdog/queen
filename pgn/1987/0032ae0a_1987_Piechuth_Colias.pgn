@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Piechuth, L."]
+[Black "Colias, Billy"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "0032ae0a"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 b6 5. Bf4 Bb7 6. f3 d6 7. Bg5 e6 8. Qc2
+Be7 9. Nd2 O-O 10. e4 Nbd7 11. Bd3 Rc8 12. O-O d5 13. Rae1 dxc4 14. Nxc4 Ne5
+15. Bxf6 Qxd4+ 16. Qf2 Qxf2+ 17. Rxf2 Bxf6 0-1

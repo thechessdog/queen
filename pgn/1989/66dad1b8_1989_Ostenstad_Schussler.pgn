@@ -1,0 +1,15 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Schussler, Harry"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "66dad1b8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. dxc5 Qa5+ 6. Nbd2 Qxc5 7. Bd3 b6 8.
+O-O Bb7 9. e4 1/2-1/2

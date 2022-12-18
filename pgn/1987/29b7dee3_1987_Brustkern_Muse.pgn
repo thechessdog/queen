@@ -1,0 +1,25 @@
+[Event "Berlin-ch"]
+[Site "Berlin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brustkern, Juergen"]
+[Black "Muse, Mladen"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "29b7dee3"]
+[Epoch "Queen"]
+[WhiteID "4602676"]
+[WhiteCountry "GER"]
+[BlackID "4600304"]
+[BlackCountry "CRO"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Nc3 Bg7 5. O-O e5 6. d3 Nge7 7. Bg5 h6 8. Be3
+Nd4 9. Qd2 a6 10. Bc4 b5 11. Bb3 d6 12. Bxd4 exd4 13. Ne2 O-O 14. c3 dxc3 15.
+Nxc3 Be6 16. Bxe6 fxe6 17. d4 c4 18. a3 Rf7 19. Ne1 Qb6 20. Nc2 Raf8 21. Rad1
+Kh7 22. f3 h5 23. Kh1 Bh6 24. Qf2 Qb7 25. Qe2 Nc8 26. g3 Ne7 27. Ne3 Ng8 28. f4
+Re8 29. Qg2 Qa7 30. Rf3 Ref8 31. Ne2 g5 32. Rdf1 g4 33. R3f2 Qb7 34. d5 exd5
+35. Nxd5 a5 36. Nd4 Ne7 37. Ne6 Rg8 38. Ng5+ Bxg5 39. fxg5 Rxf2 40. Qxf2 Nxd5
+41. Qf5+ Kg7 42. exd5 Qe7 43. Qf4 Rf8 44. Qd4+ Kg6 45. Rxf8 Qxf8 46. Qe4+ Kxg5
+47. Qe3+ Kg6 48. Qe6+ Qf6 49. Qg8+ Kh6 50. Kg1 b4 51. axb4 axb4 52. Qb8 0-1

@@ -1,0 +1,17 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Beiaer, F."]
+[Black "Seibert"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "f14880cc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. d3 Ngf6 7. Nc3 Be7
+8. O-O O-O 9. Qe1 Rc8 10. e5 Ne8 11. f5 c4 12. f6 Bb4 13. Qg3 Bxc3 14. fxg7
+Nxg7 15. Bh6 1-0
+

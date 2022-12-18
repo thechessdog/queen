@@ -1,0 +1,19 @@
+[Event "corr NLD sr"]
+[Site "corr NLD sr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van Amersfoort"]
+[Black "Kirkels"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6adf0ae0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Nc3 Nge7 5. d4 cxd4 6. Nxd4 d6 7. Be3 Bd7
+8. Qe2 a6 9. Nxc6 Nxc6 10. Bxc6 Bxc6 11. O-O Be7 12. Rad1 Qc7 13. Bd4 O-O
+14. e5 Rfd8 15. Qe3 Rd7 16. Bb6 Qb8 17. f4 Bd8 18. Rxd6 Rxd6 19. exd6 Bxb6
+20. Qxb6 Qxd6 21. Rd1 Qe7 22. Qd4 h6 23. a3 Rc8 24. Rd2 Qh4 25. Qf2 Qf6 26.
+Qd4 Qh4 1/2-1/2
+

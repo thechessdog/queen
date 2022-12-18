@@ -1,0 +1,18 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wolitzer, D."]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "af91efac"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. c4 d5 6. Nc3 O-O 7. O-O c6 8. b3 Ne4
+9. Bb2 Nd7 10. Nd2 Ndf6 11. f3 Ng5 12. e3 Qb6 13. c5 Qc7 14. b4 Bd7 15. Ne2 Nf7
+16. Nf4 e5 17. Nd3 e4 18. fxe4 fxe4 19. Nf4 g5 20. Nh3 h5 21. Nf2 g4 22. Qe2
+Ng5 23. a4 Kg7 24. Nh1 Nf3+ 25. Bxf3 gxf3 26. Qd1 Ng4 27. Qe1 Bg5 0-1

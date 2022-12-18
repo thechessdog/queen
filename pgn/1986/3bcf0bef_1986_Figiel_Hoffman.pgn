@@ -1,0 +1,21 @@
+[Event "Warzsawa"]
+[Site "Warzsawa"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Figiel, Marek"]
+[Black "Hoffman, Alejandro"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "3bcf0bef"]
+[Epoch "Queen"]
+[WhiteID "1100297"]
+[WhiteCountry "POL"]
+[BlackID "100340"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. Bxb5 axb5 11. Ndxb5 Qb6 12. e5 Bb7 13. Qe2 dxe5 14. fxe5
+Nd5 15. Nxd5 Bxd5 16. Rxd5 Rxa2 17. Kb1 Rxb2+ 18. Kxb2 exd5 19. Ra1 Bc5 20. e6
+fxe6 21. Ra6 Qb7 22. Ra8+ Nb8 23. Qxe6+ Kf8 24. Qf5+ Kg8 1-0

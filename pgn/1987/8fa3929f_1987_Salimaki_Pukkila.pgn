@@ -1,0 +1,19 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Salimaki, Janne"]
+[Black "Pukkila, Markku"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "8fa3929f"]
+[Epoch "Queen"]
+[WhiteID "502685"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 e6 7. O-O Be7 8. Be3
+O-O 9. a4 Nbd7 10. f4 Qc7 11. Kh1 b6 12. Bf3 Bb7 13. Qe1 Nc5 14. Bg1 Rfd8 15.
+Rd1 Rac8 16. Qe3 e5 17. Nb3 Nfd7 18. g4 Bc6 19. Nxc5 Nxc5 20. b3 Ba8 21. Nd5
+Bxd5 22. exd5 exf4 23. Qxf4 Nd7 24. Bd4 Qxc2 25. Be4 Qxb3 26. Qxf7# 1-0

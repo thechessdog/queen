@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Warbruck, A."]
+[Black "Hille"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e79a9fd7"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 f6 7. f4 fxe5 8.
+fxe5 Qh4+ 9. Ng3 h5 10. gxh5 Bxh5 11. Be2 Bxe2 1-0
+

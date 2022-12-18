@@ -1,0 +1,20 @@
+[Event "Saint John op-1"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ilic, Zoran"]
+[Black "Lein, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "a8ff5b47"]
+[Epoch "Queen"]
+[BlackID "2000270"]
+[BlackCountry "USA"]
+[WhiteID "15001350"]
+[WhiteCountry "MKD"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. h3 Ne4 8. cxd5
+Nxc3 9. bxc3 exd5 10. Qb3 c6 11. Bd3 Nf6 12. O-O Bd6 13. Bxd6 Qxd6 14. c4 Rb8
+15. cxd5 Nxd5 16. Rac1 Qh6 17. Rfe1 Be6 1/2-1/2

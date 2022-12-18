@@ -1,0 +1,25 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gruenenwald, Joerg"]
+[Black "Niedermaier, Hans"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "487fd511"]
+[Epoch "Queen"]
+[WhiteID "1304372"]
+[WhiteCountry "SUI"]
+[BlackID "4603044"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+h5 9. gxh5 Nxh5 10. Bg5 Nf6 11. Qd2 Qb6 12. Nb3 Bd7 13. O-O-O a6 14. Rg3 Qc7
+15. Kb1 Be7 16. Qe2 O-O-O 17. Nd5 exd5 18. exd5 Ne5 19. Rc3 Qxc3 20. bxc3 Bg4
+21. Qe1 Bxd1 22. Qxd1 Ne4 23. Qd4 Nxg5 24. Be2 Nh3 25. Bxa6 Bxh4 26. Qa7 Kd7
+27. Bxb7 Ke8 28. f4 Nd7 29. Qe3+ Be7 30. a4 Kf8 31. a5 Bf6 32. a6 Re8 33. Qa7
+Nxf4 34. Bc6 Ne2 35. Qxd7 Nxc3+ 36. Kb2 Nb5+ 37. Ka2 Nc3+ 38. Ka3 Nb1+ 39. Ka4
+Rh4+ 40. Ka5 Bd8+ 41. Qxd8 Rxd8 42. Kb6 Rb4+ 43. Kc7 Rbb8 44. Bb7 Nc3 45. Nd4
+g5 46. Nc6 Nxd5# 0-1

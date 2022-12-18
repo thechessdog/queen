@@ -1,0 +1,18 @@
+[Event "Alicante op2"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Teyssou, Denis"]
+[Black "Del Rio, P."]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "fcad918b"]
+[Epoch "Queen"]
+[WhiteID "600881"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nbd7 9. e5 dxe5 10. fxe5 Nh5 11. e6 fxe6 12. dxe6 O-O 13. Nf3 Bxc3+ 14. bxc3
+Ndf6 15. Qxd8 Rxd8 16. g4 Ng7 17. Bg5 Rf8 18. e7 Rf7 19. O-O-O Nfe8 20. Ne5 1-0

@@ -1,0 +1,20 @@
+[Event "corr ch22-CSSR"]
+[Site "corr ch22-CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hlavac"]
+[Black "Marecek"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "f5f6ea06"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 O-O
+8. e5 Ne8 9. Bf4 b5 10. Bb3 d5 11. c3 Bg4 12. h3 Bh5 13. g4 Bg6 14. cxd4
+Nb4 15. Bg3 c5 16. dxc5 Nc7 17. Nc3 Nd3 18. Re2 b4 19. Na4 Be4 20. Rd2 Nxc5
+21. Nxc5 Bxc5 22. Rc1 Ba7 23. Nd4 Bxd4 24. Rxd4 Ne6 25. Rxb4 Ng5 26. f4 Qe7
+27. a3 a5 28. Ra4 Qa7+ 29. Kh2 Nf3+ 30. Kh1 d4 31. Bc2 Qb7 32. Bxe4 Qxe4
+33. Qf1 Rac8 0-1
+

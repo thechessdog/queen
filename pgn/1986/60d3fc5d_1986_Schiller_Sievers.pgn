@@ -1,0 +1,20 @@
+[Event "Hammond"]
+[Site "Hammond"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Sievers, Stefan"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "60d3fc5d"]
+[Epoch "Queen"]
+[BlackID "4601980"]
+[BlackCountry "GER"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Rg6 8.
+Qh4 Bxc3 9. bxc3 c5 10. Ne2 Nc6 11. Bg5 cxd4 12. O-O-O h6 13. Bxf6 Qxf6 14.
+Qxe4 dxc3 15. Qc4 Bd7 16. Qxc3 Qxf2 17. Qh8+ 1-0

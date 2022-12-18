@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gobel"]
+[Black "Frederiks"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "82ce6a66"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Na5 5. Bg5 Be7 6. Nf3 d6 7. Bb3 h6 8.
+Be3 O-O 9. O-O Bg4 10. h3 Bh5 11. d4 exd4 12. Bxd4 c5 13. Be3 c4 14. Ba4 a6
+15. b4 cxb3 16. Bxb3 Rc8 17. Nd5 Nxb3 18. Bb6 Qd7 19. axb3 Nxd5 20. exd5
+Rc3 0-1
+

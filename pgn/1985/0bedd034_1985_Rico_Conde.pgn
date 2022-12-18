@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rico"]
+[Black "Conde"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0bedd034"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 e6 5. O-O d5 6. Bxc6+ bxc6 7. d3 Be7
+8. Bg5 O-O 9. e5 Nd7 10. Bxe7 Qxe7 11. Re1 Rb8 12. b3 f6 13. Qd2 Rb4 14. g3
+Rg4 15. Re2 f5 16. h3 Rg6 17. Kh2 Nb6 18. Na4 Nxa4 19. bxa4 c4 20. d4 Qa3
+21. c3 f4 22. g4 Rh6 23. Rb1 Qe7 24. Qb2 Qf7 25. Qc2 c5 26. Rd2 cxd4 27.
+Rxd4 g5 28. Rb8 Rg6 29. Qb1 Qg7 30. Qb4 Qc7 31. Kg2 Rg7 32. Rd1 Rd7 33. Kf1
+Rdd8 1/2-1/2
+

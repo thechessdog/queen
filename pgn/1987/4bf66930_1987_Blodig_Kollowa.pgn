@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Blodig"]
+[Black "Kollowa"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4 e5 (Botvinnik)"]
+[HashCode "4bf66930"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5 7. Nh3 Nge7 8.
+O-O Nd4 9. Rf2 h6 10. Be3 exf4 11. gxf4 O-O 12. Qd2 f5 13. Raf1 Kh7 14. Nd5
+fxe4 15. Nxe7 Qxe7 16. dxe4 Bxh3 17. Bxh3 Qxe4 18. c3 Nf5 19. Re1 Rae8 20.
+Bg2 Qe7 21. Rfe2 Qc7 22. Bf2 Rxe2 23. Rxe2 Rf7 24. Qd5 Bf8 25. Re8 1/2-1/2
+

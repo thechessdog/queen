@@ -1,0 +1,20 @@
+[Event "Sagua"]
+[Site "Sagua"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Estevez Morales, Guillermo"]
+[Black "Santa Torres, Juan M."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "4b88c336"]
+[Epoch "Queen"]
+[BlackID "3100120"]
+[BlackCountry "PUR"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 Nbd7 4. Nc3 e5 5. Bg5 Be7 6. e3 c6 7. Qc2 O-O 8. Bd3
+exd4 9. Nxd4 Nc5 10. Bf5 g6 11. Bxc8 Qxc8 12. O-O-O a6 13. Nb3 Nxb3+ 14. axb3
+Qe6 15. Qd3 b5 16. Bxf6 Qxf6 17. Ne4 Qe6 18. Nxd6 Rfd8 19. c5 Bxd6 20. cxd6 a5
+21. Rd2 a4 22. b4 Rd7 23. Rhd1 Qa2 24. Rc2 Rc8 25. Rc3 Qe6 26. Qd4 f6 27. e4
+Kf7 28. f4 Qa2 29. Kc2 Qe6 30. Kb1 Ke8 31. e5 f5 32. Rdc1 1-0

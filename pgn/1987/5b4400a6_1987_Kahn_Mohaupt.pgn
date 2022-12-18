@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kahn"]
+[Black "Mohaupt"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5b4400a6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 cxd4 5. cxd4 g6 6. Nc3 Bg7 7. f3 O-O 8.
+Be3 Nc6 9. Nge2 e5 10. d5 Nb4 11. Bc4 Qc7 12. Bb3 Bd7 13. O-O b6 14. Rc1
+Qb7 15. a3 Na6 16. Ba2 Rac8 17. b4 Nc7 18. a4 b5 19. a5 Na6 20. Rb1 Ne8 21.
+Qd2 f6 22. f4 Nec7 23. Nd1 Nb8 24. Nf2 Rf7 25. Nd3 Nca6 26. fxe5 fxe5 27.
+Rxf7 Kxf7 28. Rc1 Bg4 29. Rxc8 Bxc8 30. Nc3 Nd7 31. Qf2+ Nf6 32. Bxa7 Bd7
+33. Be3 Qc8 34. Bd2 1-0
+

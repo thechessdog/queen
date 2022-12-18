@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Cossman"]
+[Black "Burk"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "03a301d0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. dxe5 Qxd1+ 5. Nxd1 Nc6 6. Bf4 a6 7. Ne2
+Nge7 8. Ndc3 Ng6 9. Nd5 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 O-O 12. Nxc7 Rb8 13.
+Ke3 Ncxe5 14. Kxe4 f5+ 15. Kd4 Rd8+ 16. Nd5 Be6 17. Nf4 Bxd5 18. Nxd5 b5
+19. b3 Ng4 20. c4 bxc4 21. f3 Nf6 22. bxc4 Nf4 23. g3 N4xd5 24. cxd5 Rxd5+
+25. Kc3 Rc8+ 26. Bc4 Kf8 27. Kb3 Rdc5 28. Bxa6 R8c6 29. Be2 Rb6+ 30. Ka4
+Nd5 0-1
+

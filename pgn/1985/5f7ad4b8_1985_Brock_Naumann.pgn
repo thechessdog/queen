@@ -1,0 +1,18 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Brock"]
+[Black "Naumann"]
+[Result "1-0"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "5f7ad4b8"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2 h6 8.
+h4 c5 9. O-O-O Qa5 10. g4 dxc4 11. Bxf6 gxf6 12. d5 b5 13. dxe6 Nb6 14. Ng5
+fxg5 15. hxg5 Bxg5 16. f4 Bb7 17. Bg2 Bxg2 18. fxg5 Bxh1 19. Rxh1 Kg7 20.
+Qf5 Nd7 21. Rxh6 1-0
+

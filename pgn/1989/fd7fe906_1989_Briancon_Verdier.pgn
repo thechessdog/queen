@@ -1,0 +1,18 @@
+[Event "Uzes"]
+[Site "Uzes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Briancon, J."]
+[Black "Verdier, Patrice"]
+[Result "1-0"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "fd7fe906"]
+[Epoch "Queen"]
+[BlackID "606340"]
+[BlackCountry "FRA"]
+
+1. Nf3 Nf6 2. d4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 Nc6 7. Bb2 d5 8. c4
+Bg4 9. cxd5 Nxd5 10. h3 Bc8 11. e4 Nb6 12. Na3 e6 13. Nc4 f5 14. exf5 exf5 15.
+Nfe5 f4 16. Nxc6 bxc6 17. Bxc6 Bxh3 18. Re1 fxg3 19. fxg3 Qd6 20. Nxd6 1-0

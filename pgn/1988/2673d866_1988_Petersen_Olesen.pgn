@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Petersen, Soren"]
+[Black "Olesen, Martin"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "2673d866"]
+[Epoch "Queen"]
+[WhiteID "1459040"]
+[BlackID "1400860"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Rb1 Rb8 10. Ne2 d5 11. Be3 b6 12. a3 Ba6 13. exd5 Nxd5 14. Bf2 Qc7 15.
+c3 Rfd8 16. Qc2 Nf6 17. Rbd1 Ng4 18. h3 Nxf2 19. Rxf2 Rd7 20. Nc1 Rbd8 21. b4
+cxb4 22. axb4 Ne7 23. Qa4 Bb7 24. c4 Nf5 25. Kh2 Ne3 26. Re1 Nxg2 27. Kxg2 e5
+28. Rfe2 e4 29. dxe4 Qxc4 30. Qxa7 Bxe4 31. Qa3 Rd3 32. Nxd3 Bxf3+ 33. Kxf3
+Rxd3+ 0-1

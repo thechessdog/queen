@@ -1,0 +1,20 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kuhn"]
+[Black "Dvorak"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "d2098989"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bg4 5. h3 Bxf3 6. Qxf3 Nd7 7. d4
+Ndf6 8. Nxf6+ Nxf6 9. Be3 e6 10. c3 Be7 11. Bd3 Nd5 12. Bd2 Bg5 13. O-O-O
+Bxd2+ 14. Rxd2 O-O 15. h4 Qd6 16. Rhd1 b5 17. g4 Qf4 18. Qxf4 Nxf4 19. Be4
+Nd5 20. Kc2 a5 21. Kd3 f5 22. Bf3 fxg4 23. Bxg4 Nf4+ 24. Kc2 Rf6 25. b3
+Raf8 26. c4 Kf7 27. Bf3 Rc8 28. Rh1 Ng6 29. Bg4 Rf4 30. f3 Ne7 31. a3 Nf5
+32. Bxf5 1/2-1/2
+

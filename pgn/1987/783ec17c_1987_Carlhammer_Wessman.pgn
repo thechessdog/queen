@@ -1,0 +1,16 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Carlhammar, Magnus"]
+[Black "Wessman, Richard"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "783ec17c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. dxc5
+Ne5 9. Qc2 Nxf3+ 10. Bxf3 Nd5 11. Qxc4 Rc8 12. Qd4 Rxc5 13. Bd2 Qf6 14. Qxf6
+gxf6 15. Nc3 Bc6 16. Bxd5 exd5 17. Be3 Rc4 18. Rfd1 Ba3 19. Rab1 1/2-1/2

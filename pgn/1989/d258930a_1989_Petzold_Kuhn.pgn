@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petzold, V."]
+[Black "Kuhn, K."]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[HashCode "d258930a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 c6 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8.
+h4 c5 9. dxc5 Qc7 10. Bf4 Nd5 11. Qc1 f6 12. Ng6 e5 13. Bxe5 fxe5 14. Nxh8
+e4 15. g4 Qg3+ 16. Kd1 Qf2 17. Nxd5 Qd4+ 18. Kc2 exf3+ 19. gxf5 Qe4+ 20.
+Kd1 Qxd5+ 21. Kc2 Qe4+ 22. Kd1 fxe2+ 23. Bxe2 Qxh1+ 24. Kc2 Qe4+ 25. Kd1
+Qd5+ 26. Kc2 Qxf5+ 27. Kd1 Qd5+ 28. Kc2 Qe4+ 29. Kd1 Nc6 30. Qxc4 O-O-O+
+0-1
+

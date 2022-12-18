@@ -1,0 +1,18 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Berry, Jonathan"]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "0b38c692"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nc3 c6 7. Bxf7+ Kxf7
+8. Qb3+ d5 9. Qxb4 Nf6 10. Nf3 Re8 11. O-O Nxe4 12. Rad1 Na6 13. Qa3 Nac5 14.
+Nxe4 Nxe4 15. Ne5+ Kg8 16. f4 Qe7 17. Qf3 Qh4 18. f5 Rf8 19. Rd4 Bxf5 20. Qb3
+Be6 21. Nf3 Qf4 22. Bc1 Qf7 23. Ba3 c5 24. Rxe4 dxe4 25. Qe3 exf3 26. Rxf3 Qd7
+0-1

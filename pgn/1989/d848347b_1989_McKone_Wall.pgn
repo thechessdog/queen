@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone, Peter"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "d848347b"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. d4 Bg4 5. Be2 O-O-O 6. c4 Qa5+ 7. Bd2 Qb6
+8. O-O Bxf3 9. Bxf3 Nxd4 10. Bg4+ f5 11. Bh3 Qxb2 12. Bc3 Ne2+ 0-1

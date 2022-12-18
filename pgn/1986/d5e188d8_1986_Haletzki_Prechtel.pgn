@@ -1,0 +1,21 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Haletzki, B."]
+[Black "Prechtel, H."]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "d5e188d8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O
+8. Be3 b6 9. f4 Bb7 10. Bf3 d5 11. e5 Ne4 12. Bxe4 dxe4 13. Qg4 Bc5 14.
+Nce2 f5 15. Qg3 Qe7 16. c3 Na6 17. Rad1 Nc7 18. c4 Rad8 19. Kh1 Rd7 20. a3
+Rfd8 21. b4 Bxd4 22. Rxd4 Ba6 23. Rc1 Rxd4 24. Nxd4 Qe8 25. Qf2 Qa4 26. Qb2
+Kf7 27. b5 Bb7 28. h3 a6 29. bxa6 Qxa6 30. Nb5 Na8 31. Nd6+ Kg6 32. g4 h6
+33. gxf5+ exf5 34. Rg1+ Kh7 35. e6 Rg8 36. e7 Bc6 37. e8=Q Bxe8 38. Nxe8
+Qa7 39. Qe5 1-0
+

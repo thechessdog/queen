@@ -1,0 +1,20 @@
+[Event "Valencia"]
+[Site "Valencia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Campos, Jose Felix"]
+[Black "Anguix Garrido, Juan Francisco"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 9.Bg5"]
+[HashCode "c0862e48"]
+[Epoch "Queen"]
+[WhiteID "103837"]
+[WhiteCountry "ARG"]
+[BlackID "2200791"]
+[BlackCountry "ESP"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. g3 Nf6 6. Bg2 Nc6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Rc1 Bg4 13. h3 Be6 14. Qc2 Qd7 15.
+Nxe6 fxe6 16. Rfd1 1/2-1/2

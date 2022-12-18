@@ -1,0 +1,24 @@
+[Event "Sibenik"]
+[Site "Sibenik"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kishniev"]
+[Black "Djukic"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "f1e0fafc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 c5
+8. e3 Bb7 9. Nh3 d6 10. f3 h6 11. Bh4 cxd4 12. Qxd4 Nc6 13. Qd1 Ne5 14. Be2
+Rc8 15. Rc1 Ba6 16. Qa4 Bxc4 17. Rxc4 Nxc4 18. Bxc4 g5 19. Bg3 Qc7 20. b3
+Nd5 21. Kf2 a5 22. Be2 Qc5 23. Qd4 Qxd4 24. exd4 Rc2 25. Re1 Rfc8 26. Kg1
+R8c3 27. f4 Re3 28. Kf1 f6 29. f5 Ne7 30. fxe6 d5 31. Bb5 Nf5 32. Nf2 Kf8
+33. Bd6+ Kg7 34. e7 Rxe1+ 35. Kxe1 Nxd6 36. e8=Q Nxe8 37. Bxe8 Rb2 38. a4
+Rxb3 39. Kd2 Rb4 40. Ke3 Rb3+ 41. Nd3 f5 42. g3 Kf6 43. Kd2 Ra3 44. Bd7
+Ra2+ 45. Ke3 Rxh2 46. Ne5 h5 47. Bc6 Rh3 48. Kf2 h4 49. g4 fxg4 50. Nxg4+
+Ke6 51. Ne3 Kd6 52. Bb7 Rh2+ 53. Kf3 Ra2 54. Bxd5 Rxa4 55. Ke4 h3 56. Nf5+
+Kd7 57. Ke5 h2 0-1
+

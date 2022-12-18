@@ -1,0 +1,21 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bich, O."]
+[Black "Mohring, W."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "379f4ff2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd3 Nc6 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 dxc4 11. Bxc4 g4 12. Nd2 Qxd4 13. Qc2 a6 14. O-O
+Be7 15. Rad1 Nh5 16. Ne2 Qb6 17. Ne4 Nxg3 18. N2xg3 Nd4 19. Qc3 e5 20. Ne2
+Nxe2+ 21. Bxe2 f6 22. Bc4 Be6 23. Nd6+ Bxd6 24. Bxe6 h5 25. Qd3 Ke7 26. Bb3
+Qc6 27. Qg6 Rhf8 28. Qh7+ Ke8 29. Qxh5+ Ke7 30. Qxg4 Qd7 31. Qg7+ Ke8 32.
+Qg6+ Ke7 33. Rd2 Rac8 34. Rfd1 Rc6 35. a4 b5 36. Bd5 Rb6 37. a5 Bb4 38.
+Qg7+ 1-0
+

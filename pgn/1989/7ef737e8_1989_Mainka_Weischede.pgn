@@ -1,0 +1,20 @@
+[Event "BL2-W8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mainka, Gregor"]
+[Black "Weischede, Thomas"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "150 attack"]
+[HashCode "7ef737e8"]
+[Epoch "Queen"]
+[WhiteID "4601319"]
+[BlackID "4617584"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 b5 6. f3 Bg7 7. g4 h5 8. g5 Nfd7
+9. f4 Nb6 10. Nf3 O-O 11. Nh4 b4 12. Nd1 d5 13. f5 dxe4 14. fxg6 Nd5 15. Bc4 e6
+16. Bxd5 exd5 17. Nf2 c5 18. O-O-O Nc6 19. dxc5 Be6 20. Kb1 d4 21. Nxe4 Qd5 0-1

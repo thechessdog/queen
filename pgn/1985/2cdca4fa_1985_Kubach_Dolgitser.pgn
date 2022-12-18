@@ -1,0 +1,24 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kubach, G."]
+[Black "Dolgitser, K."]
+[Result "1-0"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "2cdca4fa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Nxd4 10. Bxd4 b5 11. f3 Be7 12. h4 Bb7 13. g4 Qa5 14. a3
+Rc8 15. Bh3 b4 16. axb4 Qxb4 17. g5 hxg5 18. hxg5 Nd7 19. Bxe6 Rxh1 20.
+Bxd7+ Kxd7 21. Rxh1 Bxg5 22. Qxg5 Qxd4 23. Qf5+ Kc7 24. Qxf7+ Kb8 25. Kb1
+Qf6 26. Qxf6 gxf6 27. Rh5 Rf8 28. Rf5 Bc8 29. Rf4 Be6 30. Nd5 Bxd5 31. exd5
+Kc7 32. Rc4+ Kd7 33. Rc6 Ra8 34. c4 a5 35. Rb6 Kc7 36. Rb5 Rh8 37. Rxa5 Rh4
+38. b3 Rf4 39. Kb2 Rxf3 40. Ka3 Kd7 41. Ra7+ Ke8 42. Ka4 f5 43. b4 Rc3 44.
+Kb5 f4 45. c5 dxc5 46. bxc5 f3 47. Ra4 Kd7 48. Rf4 Rb3+ 49. Kc4 Ra3 50. Rf5
+Ke7 51. Kd4 Ra4+ 52. Ke5 Ra3 53. d6+ Kd7 54. Ke4 Kc6 55. Rxf3 Ra4+ 56. Ke5
+Rh4 57. Rf8 1-0
+

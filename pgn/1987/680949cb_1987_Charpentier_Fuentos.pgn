@@ -1,0 +1,17 @@
+[Event "La Paz"]
+[Site "La Paz"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Charpentier, Willia"]
+[Black "Fuentos"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "680949cb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. f4 Bb4 8.
+Qd3 Bxc3+ 9. bxc3 Nxe4 10. Qxe4 Qxc3+ 11. Kf2 Qxa1 12. Ba3 Qc3 13. Bd6 Nc6
+14. Rd1 Nxd4 15. Rxd4 b5 16. Rd3 Qc6 17. Qd4 Bb7 18. Bf3 Qc8 19. Rc3 1-0
+

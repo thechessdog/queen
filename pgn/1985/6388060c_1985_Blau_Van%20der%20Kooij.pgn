@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Blau, Max"]
+[Black "Van der Kooij, Jaap"]
+[Result "0-1"]
+[ECO "A17"]
+[Opening "English"]
+[Variation "Nimzo-English opening"]
+[HashCode "6388060c"]
+[Epoch "Queen"]
+[WhiteCountry "CHE"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. Qc2 c5 5. a3 Ba5 6. e3 O-O 7. d4 d6 8. Be2
+Nc6 9. O-O Bxc3 10. Qxc3 Qe7 11. b3 b6 12. Bb2 Bb7 13. dxc5 bxc5 14. b4 e5 15.
+Nd2 cxb4 16. axb4 a6 17. f3 Rab8 18. b5 axb5 19. cxb5 Nd8 20. Ra7 Nd5 21. Qa3
+Nb6 22. Nc4 0-1

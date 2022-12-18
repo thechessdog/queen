@@ -1,0 +1,21 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tomaszewski, Roman"]
+[Black "Greenfeld, Alon"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "88e2b1ef"]
+[Epoch "Queen"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+[WhiteID "1100637"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3 d5 6. Bg2 e5 7. Nf3 d4 8. O-O
+Nc6 9. e3 Bc5 10. exd4 exd4 11. Re1+ Be6 12. Ng5 O-O 13. Nxe6 fxe6 14. Nd2 Qb6
+15. Nb3 Rad8 16. Rxe6 d3 17. Be3 Bxe3 18. Rxe3 d2 19. Re2 Ng4 20. c5 Qb4 21. h3
+Nxf2 22. Rxf2 Rxf2 23. Kxf2 Na5 24. Bf3 Nc4 25. Qe2 Nxb2 26. Qe5 Nd3+ 0-1

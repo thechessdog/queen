@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jultsch, W."]
+[Black "Langnese, K."]
+[Result "1-0"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "2966bcb7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. O-O O-O 8.
+Nc3 d5 9. cxd5 Nxd5 10. Qc2 Nd7 11. e4 Nb4 12. Qb3 Ba6 13. Rfd1 c5 14. Bf1
+Qc8 15. Nb5 Nc6 16. d5 Bxb5 17. Bxb5 Nd4 18. Nxd4 cxd4 19. dxe6 Nc5 20.
+exf7+ Rxf7 21. Qd5 Kf8 22. b4 Rb8 23. Bc4 1-0
+

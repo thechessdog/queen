@@ -1,0 +1,19 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chekhov, Valery A"]
+[Black "Staniszewski, Piotr"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "e7a379c5"]
+[Epoch "Queen"]
+[WhiteID "4100859"]
+[WhiteCountry "RUS"]
+[BlackID "1100220"]
+[BlackCountry "POL"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. e3 d5 5. d4 a6 6. cxd5 exd5 7. Be2 Nc6 8. O-O
+Bd6 9. dxc5 Bxc5 10. b3 O-O 11. Bb2 Bg4 12. Rc1 Qd6 13. Qc2 Ba7 14. Rfd1 Rad8
+15. Ng5 d4 16. Bxg4 d3 17. Nce4 Nxe4 18. Nxe4 Qg6 19. Qc4 1-0

@@ -1,0 +1,18 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ludewig"]
+[Black "Montecatine"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e5150e62"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qb6 4. Nc3 e6 5. O-O Nge7 6. Re1 Nd4 7. Bc4 Nec6
+8. d3 Be7 9. Nd5 exd5 10. exd5 Nxf3+ 11. Qxf3 Nd4 12. Qg3 Nf5 13. Rxe7+
+Nxe7 14. d6 Ng6 15. h4 Qc6 16. h5 b5 17. hxg6 Bb7 18. Bxf7+ Kd8 19. Bg5+
+Kc8 20. gxh7 1-0
+

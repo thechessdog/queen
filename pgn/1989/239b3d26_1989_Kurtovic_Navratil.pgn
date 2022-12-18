@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kurtovic"]
+[Black "Navratil, Tomislav"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "239b3d26"]
+[Epoch "Queen"]
+[BlackID "915599"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. Qxd4 Nc6 5. Qa4 Bb4+ 6. c3 Bc5 7. Bd3 O-O 8.
+O-O d5 9. Bg5 Be7 10. exd5 Qxd5 11. Rd1 Bf5 12. Bb5 Bc2 13. Rxd5 Bxa4 14. Bxf6
+Rfd8 15. Rxd8+ Rxd8 16. Ne1 1-0

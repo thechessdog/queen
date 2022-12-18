@@ -1,0 +1,17 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hauernheim_Thoma, W"]
+[Black "Brix"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "f87050cb"]
+[Epoch "Queen"]
+
+1. g4 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Qb3 Ne7 6. Nc3 Nbc6 7. Nxd5 Nd4
+8. Qc4 Nxd5 9. Bxd5 b5 10. Bxf7+ Ke7 11. Qd5 Qc7 12. d3 h6 13. Qxa8 Nc2+
+14. Kf1 Nxa1 15. Nf3 Bxg4 16. Kg2 Kxf7 17. Qd5+ Kf6 18. Bd2 Bd6 19. Rxa1
+Rd8 20. Rc1 Qd7 21. Ba5 Be6 22. Bxd8+ 1-0
+

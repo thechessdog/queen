@@ -1,0 +1,19 @@
+[Event "Wanne-Eickel"]
+[Site "Wanne-Eickel"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Moll"]
+[Black "Fraenkel"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "da63c46a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 Ne7 4. Nf3 Ng6 5. Bd3 c5 6. c3 Nc6 7. h4 Be7 8. h5
+Nf8 9. Qe2 Qb6 10. dxc5 Bxc5 11. Nbd2 h6 12. Nb3 Be7 13. Be3 Qc7 14. Bd4
+Nd7 15. Rc1 a5 16. Qe3 a4 17. Na1 Nxd4 18. cxd4 Bb4+ 19. Kf1 Qb6 20. g4 Be7
+21. Kg2 f6 22. Bg6+ Kd8 23. Rc2 fxe5 24. Nxe5 Nxe5 25. Qxe5 Bf6 26. Qf4
+Bxd4 27. Qf7 Qd6 28. Rhc1 Rf8 29. Qc7+ Qxc7 30. Rxc7 Bxb2 0-1
+

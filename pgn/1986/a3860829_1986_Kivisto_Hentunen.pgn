@@ -1,0 +1,21 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kivisto, Mikko"]
+[Black "Hentunen, Asko"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "a3860829"]
+[Epoch "Queen"]
+[WhiteID "5800803"]
+[WhiteCountry "FIN"]
+[BlackID "500429"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 e6 6. d4 Bd6 7. Bd3 Nbd7 8.
+O-O c5 9. c3 Qc7 10. Re1 O-O 11. Qe2 b6 12. Ne5 Bb7 13. Bg5 Rfe8 14. Rad1 h6
+15. Bf4 cxd4 16. cxd4 Nf8 17. Rc1 Qe7 18. Qd2 Bb4 19. Rc3 Nd5 20. Bxh6 Bxc3 21.
+bxc3 gxh6 22. Re4 f5 23. Ng6 Qg5 0-1

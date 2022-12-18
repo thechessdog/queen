@@ -1,0 +1,17 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Smit, J."]
+[Black "Van Unen, H."]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack, Wagner gambit"]
+[HashCode "f07ca9b2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 cxd4 5. Nbd2 Qb6 6. e5 Nd5 7. a3 Nc6 8.
+Nc4 Qc7 9. Bh4 Nb6 10. Qd3 Nxc4 11. Qxc4 Qa5+ 12. Nd2 Qxe5+ 13. Be2 d3 14.
+Qxd3 Qxb2 15. Nb3 Bxa3 0-1
+

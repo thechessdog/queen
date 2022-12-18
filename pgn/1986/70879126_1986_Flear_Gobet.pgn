@@ -1,0 +1,26 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Flear, Glenn C"]
+[Black "Gobet, Fernand"]
+[Result "1-0"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "70879126"]
+[Epoch "Queen"]
+[BlackID "1300083"]
+[BlackCountry "SUI"]
+[WhiteID "400165"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8. Nbd2
+b6 9. b3 Bb7 10. Bb2 Rc8 11. e4 Qc7 12. Rfe1 Qb8 13. Rad1 Rfd8 14. Qb1 a5 15.
+a3 h6 16. Ne5 Nxe5 17. dxe5 Nh7 18. exd5 cxd5 19. h4 Nf8 20. Bd4 Ba8 21. Qb2 a4
+22. cxd5 Bxd5 23. b4 b5 24. Ne4 Qa8 25. f4 Rc4 26. Qe2 Qc6 27. Rd2 Rc1 28. Bc5
+Rxe1+ 29. Qxe1 Bxc5+ 30. Nxc5 Nd7 31. Bxd5 exd5 32. Nxd7 Rxd7 33. Qf1 d4 34.
+Qd3 Qc1+ 35. Kh2 Qe1 36. Rc2 Rd8 37. h5 Qe3 38. Rd2 Qe1 39. Kg2 Rc8 40. Qxd4
+Rc1 41. Kh3 Rc6 42. Qd8+ Kh7 43. Qd7 Qh1+ 44. Kg4 Rg6+ 45. hxg6+ fxg6 46. f5
+Qe4+ 47. Kh3 Qh1+ 48. Rh2 Qf1+ 49. Kg4 Qc4+ 50. Kf3 Qf1+ 51. Rf2 Qh1+ 52. Ke2
+Qe4+ 53. Kd2 1-0

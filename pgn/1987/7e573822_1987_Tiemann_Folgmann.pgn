@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tiemann"]
+[Black "Folgmann"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "7e573822"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. c4 Nc6 8.
+Nxc6 bxc6 9. Be3 Be7 10. Nc3 c5 11. f4 d6 12. Qf3 Bb7 13. f5 e5 14. g4 h6
+15. h4 Nh7 16. Qg3 Qd8 17. Bf2 Rg8 18. Kh2 g5 19. fxg6 Rxg6 20. Nd5 Bc8 21.
+Be2 Rb8 22. b4 Nf6 23. Nxf6+ Rxf6 24. Rad1 Rxb4 25. Bxc5 Rb2 26. Rxf6 Bxf6
+27. Qf3 Bxh4 28. Bxd6 Qg5 29. Kh1 Bf2 30. Bc7 Qh4+ 31. Kg2 Bd4 32. Rh1
+Qxg4+ 0-1
+

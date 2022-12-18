@@ -1,0 +1,21 @@
+[Event "Kotov mem"]
+[Site "Odessa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neverov, Valeriy"]
+[Black "Kaminski, Uwe"]
+[Result "1-0"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[HashCode "62945499"]
+[Epoch "Queen"]
+[WhiteID "14100150"]
+[WhiteCountry "UKR"]
+[BlackID "4611381"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 Kh8 13. a4 Neg8 14. c5 Bh6 15. b4
+Bxd2 16. Qxd2 f4 17. a5 a6 18. b5 axb5 19. Nxb5 g5 20. cxd6 cxd6 21. Qb4 Ra6
+22. Rfc1 g4 23. Nc7 gxf3 24. Bxf3 Ng4 25. Nxa6 bxa6 26. Qb6 1-0

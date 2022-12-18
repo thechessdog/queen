@@ -1,0 +1,17 @@
+[Event "Sosnowiec"]
+[Site "Sosnowiec"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pietrzak, Janusz"]
+[Black "Chromy, J."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "440fc9f4"]
+[Epoch "Queen"]
+[WhiteID "1170414"]
+[WhiteCountry "POL"]
+
+1. b4 d5 2. Bb2 d4 3. Nf3 c5 4. bxc5 Nc6 5. c3 e5 6. cxd4 e4 7. Ne5 f5 8. Qb3
+Nxe5 9. dxe5 Ne7 10. d4 Bd7 11. e3 Bc6 12. Bc4 Nd5 13. Nc3 Nxc3 14. Bf7+ Kd7
+15. Bxc3 Kc7 16. Ba5+ b6 17. cxb6+ Kb8 18. bxa7+ Kxa7 19. Bxd8 1-0

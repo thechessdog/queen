@@ -1,0 +1,25 @@
+[Event "New York op"]
+[Site "New York op"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weldon, Charles"]
+[Black "Andruet, Gilles"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "16dfc46a"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 c5 7. Bxb4 cxb4 8. d5
+exd5 9. Nh4 Qc7 10. cxd5 Qe5 11. O-O Bxd5 12. Bxd5 Qxd5 13. Qxd5 Nxd5 14. Nf5
+g6 15. Rd1 Nf6 16. Nd6+ Ke7 17. a3 Nc6 18. axb4 Nxb4 19. Nc3 Rhb8 20. e4 Ne8
+21. Nxe8 Rxe8 22. Nb5 Rec8 23. Nxa7 Rd8 24. Ra4 Nc6 25. Rda1 Nxa7 26. Rxa7 Rxa7
+27. Rxa7 Kd6 28. f4 Rc8 29. e5+ Ke6 30. Rb7 Rc1+ 31. Kf2 Rc2+ 32. Ke3 Rxb2 33.
+Kd4 h5 34. h3 Rb3 35. g4 h4 36. Kc4 Rxh3 37. Rxb6+ Ke7 38. Kd5 Rd3+ 39. Ke4 Rc3
+40. f5 Rc4+ 41. Kd5 Rxg4 42. f6+ Kd8 43. Rb8+ Kc7 44. Rh8 Rg5 45. Rxh4 d6 46.
+Rh7 Rxe5+ 47. Kd4 Kd7 48. Rxf7+ Ke6 49. Rf8 Rf5 50. f7 Rxf7 51. Rg8 Kf5 52. Ke3
+Re7+ 53. Kf3 Re6 54. Rf8+ Ke5 55. Ra8 d5 56. Ra1 Kf5 57. Ra5 Re5 58. Ra8 Re6
+59. Ra5 Rd6 60. Ke3 Kg4 61. Kd4 g5 62. Ke5 Rd8 63. Ra1 Kf3 64. Rf1+ Kg2 65. Rf5
+g4 66. Kf4 g3 67. Rg5 Kf2 68. Rf5 g2 0-1

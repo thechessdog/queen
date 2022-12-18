@@ -1,0 +1,19 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Egreteau, Eric"]
+[Black "Darrigues, M."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "63da9842"]
+[Epoch "Queen"]
+[WhiteID "607002"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d6 6. d4 Bg4 7. Bxf4 Nf6 8.
+Nbd2 O-O 9. c3 h6 10. Qc2 Bxf3 11. Nxf3 Ng4 12. g3 Bg5 13. Bxg5 hxg5 14. Qd2
+Qf6 15. Kg2 Re8 16. Nxg5 Qh6 17. Bxf7+ Kf8 18. Bxe8 Kxe8 19. Qf4 Nf6 20. e5
+dxe5 21. dxe5 Nh7 22. Qf7+ Kd8 23. Rad1+ Kc8 24. Qe8# 1-0

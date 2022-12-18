@@ -1,0 +1,24 @@
+[Event "Chianciano tt"]
+[Site "Chianciano tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Konikowski, Jerzy"]
+[Black "Stanojevic, Branko"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack"]
+[HashCode "464cb751"]
+[Epoch "Queen"]
+[WhiteID "4601467"]
+[WhiteCountry "GER"]
+[BlackID "902560"]
+[BlackCountry "SRB"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 Nf6 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 b5 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 f6 13. exf6 Bxf6 14. Qd2 Bf5 15.
+Nxb5 a6 16. Nc3 Ra7 17. h3 Ne5 18. Bxf6 Qxf6 19. O-O Nbd7 20. g4 Nxf3+ 21. Bxf3
+Qd4+ 22. Qxd4 cxd4 23. Ne4 Bxe4 24. Bxe4 Re8 25. Bg2 Rb7 26. Rf2 Re3 27. Rc1
+Ne5 28. d6 Rd7 29. Rc8+ Kg7 30. Rc7 Re1+ 31. Rf1 Rxf1+ 32. Bxf1 Kf6 33. Rxd7
+Nxd7 34. Bxa6 Nc5 35. Bb5 d3 36. Kf1 d2 37. Ke2 Ne4 38. d7 Ke7 39. Ba4 Nc3+ 40.
+bxc3 1-0

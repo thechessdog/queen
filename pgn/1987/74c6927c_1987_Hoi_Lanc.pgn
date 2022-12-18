@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Lanc, Alois"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "74c6927c"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[WhiteCountry "DEN"]
+[BlackID "14900041"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. e3 Qb6 6. Rb1 g6 7. Bd3 Bg7 8. O-O
+O-O 9. Qe2 Re8 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Nf6 13. Qh4 Be6 14. Rbe1 Qxb2
+15. Rxe6 fxe6 16. Bc4 Nd5 17. Qh3 Qxc2 18. Qxe6+ Kh8 19. Ne5 Rf8 20. Bd3 Qc3
+21. Nxg6+ hxg6 22. Qxg6 Kg8 23. Qh7+ Kf7 24. Bf5 Ke8 25. Qg6+ Rf7 26. Be6 1-0

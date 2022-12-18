@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Berg, Tine"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "9867c1de"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. b4 e5 2. Bb2 d6 3. e3 g6 4. f4 Bg7 5. Nf3 Bg4 6. h3 Bf5 7. Bc4 Qe7 8. O-O
+Nd7 9. fxe5 O-O-O 10. exd6 Qf8 11. dxc7 Kxc7 12. Bxg7 Qxg7 13. Nc3 Kb8 14. Nd4
+Ne7 15. Nxf5 Nxf5 16. Qf3 Ne5 17. Qe4 Nxc4 18. Qxc4 Rd7 19. Ne4 Rc8 20. Nc5 Ka8
+21. Qg4 Rdc7 22. Rxf5 1-0

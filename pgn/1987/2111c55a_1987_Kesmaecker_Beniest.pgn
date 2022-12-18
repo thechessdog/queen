@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kesmaecker"]
+[Black "Beniest"]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "2111c55a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. g3 Nf6 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8.
+b3 b5 9. Bf4 bxc4 10. bxc4 Ba6 11. Nbd2 Qa5 12. Rfe1 c5 13. e4 dxe4 14.
+Nxe4 Nxe4 15. Rxe4 Bb7 16. d5 Bf6 17. Rd1 exd5 18. cxd5 Rfe8 19. Nd2 g6 20.
+Nc4 Qa6 21. Rxe8+ Rxe8 22. Rf1 1-0
+

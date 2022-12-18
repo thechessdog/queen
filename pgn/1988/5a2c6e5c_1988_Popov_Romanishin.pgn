@@ -1,0 +1,22 @@
+[Event "Stara Pazova"]
+[Site "Stara Pazova"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Popov, Luben"]
+[Black "Romanishin, Oleg M"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5a2c6e5c"]
+[Epoch "Queen"]
+[WhiteID "2900173"]
+[WhiteCountry "FID"]
+[BlackID "14100088"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Qd7 10. a4 Na6 11. e3 Nb4 12. Be2 Qf5 13. Bxf6 Qxf6 14. O-O Qe7 15.
+Qd2 b6 16. Na2 Nxa2 17. Rxa2 Ba6 18. b3 Rab8 19. Rc1 Bb7 20. Bf3 Rfd8 21. g3
+Bc8 22. b4 cxb4 23. Qxb4 Bh3 24. Nd2 Rbc8 25. Rc6 Bd7 26. Rcc2 Rc5 27. Nb3 Rxc2
+28. Rxc2 Rc8 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Romsdal"]
+[Black "Nybrott"]
+[Result "1-0"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "1542cdb5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O a6 11. h4 Na5 12. Be2 Rc8 13. h5 e5 14. Nb3
+Rc6 15. hxg6 fxg6 16. Kb1 Be6 17. Nd5 Nxb3 18. axb3 Bxd5 19. exd5 Rc8 20.
+Rh4 Nh5 21. Rdh1 Bf6 22. R4h3 Rf7 23. Bd3 Nf4 24. Bxf4 exf4 25. Bxg6 hxg6
+26. Qd3 Qc7 27. Qxg6+ Kf8 28. Rh8+ Ke7 29. Re1+ Kd7 30. Qg4# 1-0
+

@@ -1,0 +1,16 @@
+[Event "Karvina"]
+[Site "Karvina"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kohout, P."]
+[Black "Vetrovsky, Michal"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Opening "QGD Slav defence, Alekhine variation"]
+[HashCode "1890f775"]
+[Epoch "Queen"]
+[BlackID "303372"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 b5 5. Nf3 Nf6 6. a4 b4 7. e5 Qa5 8. exf6
+bxc3 9. bxc3 gxf6 10. Qc2 Bg4 1/2-1/2

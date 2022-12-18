@@ -1,0 +1,25 @@
+[Event "Dimitrovgrad"]
+[Site "Dimitrovgrad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Germanavicius, Saru"]
+[Black "Nowik"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "9447cd20"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Be2 c5 9. d5 e6 10. O-O exd5 11. exd5 Bf5 12. Bf4 Re8 13. Be5 Ne4 14.
+Bxg7 Kxg7 15. Rad1 Qf6 16. Nd2 Nd6 17. Qf4 Nb4 18. Nc4 Rad8 19. Nxd6 Qxd6
+20. Qxd6 Rxd6 21. Bc4 a6 22. a3 Nc2 23. Rd2 b5 24. Ba2 Ne1 25. Bb1 Bxb1 26.
+Nxb1 c4 27. Nc3 Nd3 28. h3 Rb8 29. b3 Nc5 30. bxc4 bxc4 31. Rd4 Nb3 32.
+Rdd1 Nc5 33. Rd4 Nb3 34. Rdd1 Nc5 35. Rb1 Rdb6 36. Rxb6 Rxb6 37. Rc1 Nd3
+38. Rc2 Kf6 39. Re2 Nc5 40. Ne4+ Nxe4 41. Rxe4 c3 42. Rc4 Rb3 43. f4 Rxa3
+44. Kf2 Ra2+ 45. Ke3 c2 46. Rc7 Rb2 47. g4 a5 48. g5+ Kg7 49. d6 Rb6 50.
+Rxc2 Rxd6 51. Ra2 Rd5 52. Ra4 h5 53. Rc4 Kf8 54. Rc7 Ke8 55. Ke4 Rf5 56. h4
+Kd8 57. Rc4 Kd7 58. Ke3 Rb5 59. Kf3 Rb3+ 60. Kg2 Rb4 61. Rc5 Rxf4 62. Kg3
+Rf5 0-1
+

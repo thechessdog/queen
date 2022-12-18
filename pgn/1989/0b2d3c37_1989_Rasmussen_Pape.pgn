@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rasmussen, E."]
+[Black "Pape, R."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "0b2d3c37"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d4 e4 5. Ne5 Nf6 6. Nc3 O-O 7. Bg5 Nbd7
+8. Nxd7 Bxd7 9. Be2 Re8 10. O-O h6 11. Bh4 g5 12. Bg3 Bf4 13. Bxf4 gxf4 14.
+Qd2 e3 15. fxe3 fxe3 16. Qe1 Ne4 17. Nxe4 Rxe4 18. Qg3+ 1-0
+

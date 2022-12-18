@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Walther"]
+[Black "Franke, Heribert"]
+[Result "0-1"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 13.Bd3"]
+[HashCode "40914f41"]
+[Epoch "Queen"]
+[BlackID "4600576"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 Nc6 9. Be3 cxd4 10. cxd4 O-O 11. O-O Bg4 12. f3 Na5 13. Bd3 Be6 14. Qa4 a6
+15. Rac1 b5 16. Qc2 Nc4 17. Bf2 Rc8 18. Bxc4 Bxc4 19. d5 Qa5 20. Rfe1 Qxa2 21.
+Qd1 Bxe2 0-1

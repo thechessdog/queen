@@ -1,0 +1,17 @@
+[Event "Alkmaars-A op"]
+[Site "Alkmaars"]
+[Date "1985.??.??"]
+[Round "7"]
+[White "Van Egmond, J."]
+[Black "Van der Sluijs, L."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "49fb450a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Qb3 dxc4
+8. Bxc4 O-O 9. Bf4 Nc6 10. Nb5 Nh5 11. Bc7 Bb4+ 12. Ke2 Qf6 13. Be5 Qh6 14.
+Rhd1 a5 15. a4 Bd7 16. Nd6 Nf4+ 17. Kf1 Nxe5 18. Nxe5 Qxh2 0-1
+

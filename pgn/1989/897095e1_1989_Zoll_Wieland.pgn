@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zoll"]
+[Black "Wieland"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "897095e1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Qd3 c6 5. e4 dxe4 6. Nxe4 Nxe4 7. Qxe4
+h6 8. Bd2 Nf6 9. Qe5 e6 10. O-O-O Bd6 11. Qe1 a5 12. Nf3 O-O 13. Ne5 Bc7
+14. c3 Qd5 15. Bc4 Qe4 16. f3 Qxe1 17. Rhxe1 b5 18. Bb3 a4 19. Bc2 Bb7 20.
+g4 c5 21. g5 hxg5 22. Bxg5 Nh7 23. Bxh7+ Kxh7 24. Nd7 Rh8 25. dxc5 Bxf3 26.
+Rd3 Bd5 27. Rg1 Kg8 28. Nf6+ Kf8 29. Nxd5 exd5 30. Rxd5 Bxh2 31. Rgd1 f6
+32. Rd8+ Ke7 33. R8d7+ Ke8 34. Be3 g5 35. c6 Rc8 36. Bc5 Bf4+ 37. Kb1 Rb8
+38. c7 1-0
+

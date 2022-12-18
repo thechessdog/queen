@@ -1,0 +1,23 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Buecker, Stefan"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "773f89a0"]
+[Epoch "Queen"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+[BlackID "4601424"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a5 8. Re1
+c6 9. h3 Qc7 10. Bg5 Re8 11. Bh4 Bd8 12. Bg3 Qb6 13. Bb3 Bc7 14. Qd2 Nf8 15.
+Rad1 Ng6 16. Qe2 h6 17. dxe5 dxe5 18. Nh4 Nf4 19. Qf3 Be6 20. Bxe6 fxe6 21. b3
+Qc5 22. Qe3 Qb4 23. Na2 Qa3 24. Nc1 N6h5 25. Nd3 Rf8 26. Nf3 Nxg3 27. fxg3 Nxd3
+28. Rxd3 Qb4 29. Kh2 Rad8 30. Red1 Bb6 31. Qe2 Qc5 32. h4 Rxd3 33. Rxd3 Rd8 34.
+Rxd8+ Bxd8 35. Qd3 Qe7 36. Nxe5 Bc7 37. Nf3 1-0

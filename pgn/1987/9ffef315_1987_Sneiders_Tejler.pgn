@@ -1,0 +1,20 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sneiders"]
+[Black "Tejler"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "9ffef315"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 e6 5. Bxf6 Qxf6 6. Nxe4 Qh4 7. Bd3 f5
+8. Ng3 Qe7 9. c3 Bd7 10. Qe2 Nc6 11. Nf3 g6 12. Ne5 O-O-O 13. Nxd7 Qxd7 14.
+O-O-O Bh6+ 15. Kb1 Rhe8 16. Qc2 Ne7 17. Ne2 Nd5 18. g3 Qd6 19. a3 Nf6 20.
+h3 Qb6 21. Rhe1 Kb8 22. Ng1 Bg7 23. Nf3 c6 24. Re2 Bh6 25. Rde1 Rd6 26. Ne5
+Qc7 27. Nc4 Rdd8 28. Rxe6 Qf7 29. R6e5 Nd7 30. Nd6 Nxe5 31. Nxf7 Nxd3 32.
+Rxe8 Rxe8 33. Qxd3 1-0
+

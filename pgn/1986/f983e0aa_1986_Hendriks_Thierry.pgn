@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hendriks"]
+[Black "Thierry"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "f983e0aa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nc6 8.
+Be3 Be7 9. Qe2 O-O 10. O-O-O Qc7 11. Rhg1 Nd7 12. g4 Nc5 13. Nf5 b5 14. Bd5
+Bb7 15. g5 Rfc8 16. Qh5 g6 17. Nh6+ Kg7 18. Qf3 Ne5 19. Bd4 Bxg5+ 20. Rxg5
+Kxh6 21. Qf4 Kg7 22. Rxe5 1-0
+

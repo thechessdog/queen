@@ -1,0 +1,18 @@
+[Event "Boston US Open"]
+[Site "Boston US Open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pazos, Plinio"]
+[Black "Rigby, D."]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "650e5a90"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. Nh3 e5 7. f4 Nge7 8. O-O f5
+9. fxe5 dxe5 10. exf5 Qd4+ 11. Kh1 Bxf5 12. Ng5 h6 13. Nge4 O-O 14. Ne2 Qb4 15.
+a3 Qa5 16. Be3 Nd4 17. c3 Nxe2 18. Qxe2 Rad8 19. b4 cxb4 20. axb4 Qc7 21. Rxa7
+Nc6 22. Raa1 Qd7 23. Nc5 Qc8 24. b5 Nd4 25. Qa2+ Kh8 26. Nxb7 Nxb5 27. Nxd8
+Nxc3 28. Qb3 Rxd8 29. Ra8 Qd7 30. Rxd8+ Qxd8 31. Qxc3 Bxd3 32. Rf7 1-0

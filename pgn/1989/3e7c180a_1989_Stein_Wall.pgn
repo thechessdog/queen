@@ -1,0 +1,20 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stein, Alan"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "3e7c180a"]
+[Epoch "Queen"]
+[WhiteID "2007150"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ngf3 Qb6 8. Nb3
+cxd4 9. Nbxd4 Bc5 10. Rb1 O-O 11. Be3 f6 12. b4 Bxd4 13. Nxd4 fxe5 14. Nc2 Qc7
+15. fxe5 Qxe5 16. Be2 Qxc3+ 17. Qd2 Qf6 18. Bd3 Nde5 19. Rf1 Qh4+ 20. g3 Nxd3+
+21. Qxd3 Rxf1+ 22. Qxf1 Qxh2 0-1

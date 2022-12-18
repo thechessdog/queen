@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dittmar"]
+[Black "Leisebein"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "3aa624c5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4
+Qxd4 8. Nxd4 Bd7 9. Be3 O-O-O 10. O-O-O Ne7 11. h3 Ng6 12. Nb3 Bb4 13. Ne2
+Rhe8 14. a3 Bd6 15. Nc3 Be5 16. Ne2 Nh4 17. g3 Nf3 18. Nd2 Nxd2 19. Rxd2
+Be6 20. Rxd8+ Rxd8 21. f4 Bd6 1/2-1/2
+

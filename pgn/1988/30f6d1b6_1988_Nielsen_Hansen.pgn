@@ -1,0 +1,19 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Hansen, Lars Bo"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "30f6d1b6"]
+[Epoch "Queen"]
+[BlackID "1400037"]
+[BlackCountry "DEN"]
+[WhiteID "1400142"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Ne2 Re8 9. Qc2 Kh8 10. Be3 Nd7 11. O-O Nf8 12. Nf4 Qc7 1/2-1/2

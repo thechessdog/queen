@@ -1,0 +1,24 @@
+[Event "radio"]
+[Site "radio"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Larsen, Bent Ravn"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "02e21345"]
+[Epoch "Queen"]
+[BlackID "1430670"]
+[BlackCountry "DNK"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 exd5 8. O-O
+Re8 9. a3 cxd4 10. exd4 Bd6 11. f3 Nbd7 12. Bg5 Nb6 13. Qc2 h6 14. Bh4 Bd7 15.
+Rae1 Rc8 16. Bh7+ Kf8 17. Bf5 Bxf5 18. Qxf5 Qd7 19. Qd3 Ng8 20. Nd1 Qc7 21. Bg3
+Bxg3 22. Nxg3 Rxe1 23. Rxe1 Qc2 24. Qe3 Nc4 25. Qe2 Qxe2 26. Nxe2 Ne7 27. Kf2
+b5 28. g4 a5 29. Ndc3 b4 30. Na4 bxa3 31. bxa3 Rb8 32. Nc5 Rb2 33. a4 g5 34.
+Kg3 Ng6 35. f4 Kg7 36. f5 Nh4 37. f6+ Kxf6 38. Nc3 Kg7 39. Rf1 Rg2+ 40. Kh3 Ne3
+0-1

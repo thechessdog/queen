@@ -1,0 +1,18 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schreiber, K."]
+[Black "Montecatine Rios"]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "793b207b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+Nfd7 9. exd6 O-O 10. Nf3 Nf6 11. Bc4 Re8+ 12. Ne5 Ng4 13. O-O Qh4 14. Nxg4
+Bxg4 15. Qc2 Nd7 16. Nb5 a6 17. Nc7 b5 18. Nxe8 Rxe8 19. Bd3 c4 20. Be4
+Bd4+ 21. Kh1 Nf6 22. Bf3 Nh5 0-1
+

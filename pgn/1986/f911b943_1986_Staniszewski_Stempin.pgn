@@ -1,0 +1,27 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Staniszewski, Piotr"]
+[Black "Stempin, Pawel"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "f911b943"]
+[Epoch "Queen"]
+[WhiteID "1100220"]
+[WhiteCountry "POL"]
+[BlackID "1100068"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8. Nc3
+c6 9. O-O O-O 10. Bf4 Nbd7 11. Rc1 Rc8 12. Qd3 Nh5 13. Bd2 Nhf6 14. e4 b5 15.
+cxd5 cxd5 16. e5 Ne4 17. Nxe4 dxe4 18. Qxe4 Nb6 19. Qg4 Re8 20. Ng5 Qd7 21. Ne4
+Nd5 22. Bh6 g6 23. Nc5 Bxc5 24. dxc5 Bb7 25. h4 Qe7 26. b4 Bc6 27. h5 f5 28.
+Qd4 Red8 29. hxg6 hxg6 30. Qd2 Rd7 31. a3 Qh7 32. Qg5 Rcd8 33. Rfd1 Rc8 34. Rd4
+Qf7 35. Rh4 Ne7 36. Bxc6 Nxc6 37. Qe3 Rcd8 38. Bg5 Rd3 39. Bf6 Qxf6 40. exf6
+Rxe3 41. fxe3 Kf7 42. Rh7+ Kxf6 43. Rc7 Ne5 44. Rc2 Rh8 45. Kf1 Ng4 46. Ke2 Ke5
+47. Rd7 Nf6 48. Rg7 Nd5 49. Rxg6 Ne7 50. Rg7 Kf6 51. Rxe7 Kxe7 52. Kf3 Rd8 53.
+c6 Rc8 54. c7 Kf6 55. Rc5 a6 56. e4 Ke7 57. exf5 exf5 58. Kf4 Kd7 59. Rxf5 Rh8
+60. Rc5 Kc8 61. g4 Rh3 62. g5 Rxa3 63. g6 1-0

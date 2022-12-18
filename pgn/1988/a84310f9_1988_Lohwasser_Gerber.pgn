@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lohwasser"]
+[Black "Gerber"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "a84310f9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 e6 5. e4 h6 6. Bh4 g5 7. Bg3 Nxe4 8.
+Nxe4 dxe4 9. Nd2 f5 10. Qh5+ Ke7 11. Bc4 Nf6 12. Qe2 f4 13. O-O-O Qxd4 14.
+c3 Qb6 15. h4 Bg7 16. hxg5 hxg5 17. Nxe4 Bd7 18. Nxf6 Bxf6 19. Qd3 Qc6 20.
+Rh7+ Rxh7 21. Qxh7+ Kd8 22. Qf7 Kc8 23. Rxd7 Qxd7 24. Bxe6 1-0
+

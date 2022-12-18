@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Karlgren, L."]
+[Black "Sapierzynski, T."]
+[Result "0-1"]
+[ECO "E56"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 7...Nc6"]
+[HashCode "cfd8bb83"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 d5 7. O-O Nc6 8.
+a3 cxd4 9. axb4 dxc3 10. bxc3 dxc4 11. Bxc4 Qc7 12. Qb3 b6 13. Be2 Bb7 14.
+Rd1 Ne4 15. Bb2 Rfd8 16. Qc4 Rxd1+ 17. Rxd1 Nd6 18. Qg4 Ne8 19. b5 Ne7 20.
+c4 Ng6 21. h4 Qe7 22. h5 f5 23. Qd4 Nf8 24. h6 Qf6 0-1
+

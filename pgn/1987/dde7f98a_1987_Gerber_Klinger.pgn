@@ -1,0 +1,22 @@
+[Event "Zug"]
+[Site "Zug"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gerber, Richard"]
+[Black "Klinger, Josef"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "dde7f98a"]
+[Epoch "Queen"]
+[WhiteID "1300652"]
+[WhiteCountry "SUI"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Bg5 f6 5. Bh4 dxc4 6. e4 b5 7. Be2 Bb4+ 8. Nc3
+Ne7 9. O-O O-O 10. Rc1 Ng6 11. Bg3 f5 12. exf5 exf5 13. Bxb8 Rxb8 14. b3 Ba3
+15. Rc2 cxb3 16. Rd2 Kh8 17. axb3 Bb4 18. Qc2 Qa5 19. Rc1 Be6 20. Ne5 Nxe5 21.
+dxe5 Qc7 22. Nd5 Qa5 23. Nxb4 Qxb4 24. Rd3 Qf4 25. Re3 a5 26. Bf3 a4 27. bxa4
+bxa4 28. Qc5 Qb4 29. Qd6 Qxd6 30. exd6 Bb3 31. d7 a3 32. Rce1 c5 33. Bb7 Bg8
+34. Bc8 a2 35. Ra1 Rb1+ 36. Re1 Rxe1+ 37. Rxe1 c4 38. h3 c3 39. Kh2 c2 40. g3
+Rd8 0-1

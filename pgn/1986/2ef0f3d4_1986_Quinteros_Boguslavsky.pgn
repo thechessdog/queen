@@ -1,0 +1,17 @@
+[Event "Geneva"]
+[Site "Geneva"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Quinteros, Miguel A."]
+[Black "Boguslavsky, Maxim"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "2ef0f3d4"]
+[Epoch "Queen"]
+[WhiteID "100021"]
+[WhiteCountry "ARG"]
+
+1. d4 f5 2. Bg5 Nf6 3. Nd2 b6 4. h4 g6 5. h5 Bg7 6. h6 Bf8 7. f3 Bb7 8. e4 fxe4
+9. fxe4 Nxe4 10. Nxe4 Bxe4 11. Bd3 Bxd3 12. Qxd3 c6 13. Nh3 d6 14. O-O Qd7 15.
+Rae1 e5 16. Qf3 1-0

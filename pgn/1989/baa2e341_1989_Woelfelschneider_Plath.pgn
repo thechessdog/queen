@@ -1,0 +1,16 @@
+[Event "corr CIF Cup1"]
+[Site "corr CIF Cup1"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Woelfelschneider, P"]
+[Black "Plath, N."]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Outflank variation"]
+[HashCode "baa2e341"]
+[Epoch "Queen"]
+
+1. b4 c6 2. Bb2 Qb6 3. a3 a5 4. c4 axb4 5. c5 Qc7 6. axb4 Rxa1 7. Bxa1 Nf6
+8. e3 d6 9. Qb3 1-0
+

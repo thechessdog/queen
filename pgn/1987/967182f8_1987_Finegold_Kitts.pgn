@@ -1,0 +1,18 @@
+[Event "E Detroit ch-MI M/X"]
+[Site "E Detroit ch-MI M/X"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Finegold, Benjamin"]
+[Black "Kitts, G."]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[HashCode "967182f8"]
+[Epoch "Queen"]
+[WhiteID "2000261"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. e5
+Nfd7 9. Be3 Nb6 10. Qc5 Nc6 11. Rd1 Bg4 12. Be2 h5 13. h3 Bf5 14. Ng5 Qd7 15.
+f4 Rad8 16. d5 Nb8 17. g4 hxg4 18. hxg4 Bxg4 19. e6 fxe6 20. Bxg4 1-0

@@ -1,0 +1,19 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "10"]
+[White "Dickstein, R."]
+[Black "Stanojevic, D."]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "3c1d29c6"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Nge7 7. O-O Qd7 8. a3
+O-O-O 9. Nbd2 Ng6 10. Qb3 a6 11. Qa2 Ngxe5 12. b4 Nxf3+ 13. Nxf3 d3 14. exd3
+Qxd3 15. Be3 Qf5 16. Qb1 Qh5 17. b5 axb5 18. cxb5 Na5 19. Nd4 Bc5 20. Qb2 Nc4
+21. Qc3 Nxe3 22. fxe3 Rhe8 23. Rac1 Bb6 24. Kh1 Bh3 25. Bxh3+ Qxh3 26. Nc2 Qe6
+27. Rf4 g5 28. Ra4 Kb8 29. e4 f5 30. Rc4 fxe4 31. Ne1 Rf8 32. Rxc7 Rf1+ 33. Kg2
+Rg1# 0-1

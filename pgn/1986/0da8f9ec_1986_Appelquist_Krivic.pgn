@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Appelquist, L."]
+[Black "Krivic, D."]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "0da8f9ec"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Qb3 c5 9. d5 e6 10. Bxa6 bxa6 11. O-O exd5 12. exd5 Re8 13. Be3 Qd6 14.
+Qc4 Bf8 15. Qh4 Bf5 16. Bf4 Qb6 17. b3 Ne4 18. Ng5 Nxg5 19. Bxg5 Bg7 20.
+Rac1 Be4 21. Be7 Bxc3 22. Rxc3 Rac8 23. d6 1-0
+

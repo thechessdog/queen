@@ -1,0 +1,18 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mozny, M."]
+[Black "Rigo, Janos"]
+[Result "0-1"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, Qc2 & b3"]
+[HashCode "8983c8d7"]
+[Epoch "Queen"]
+[BlackID "700371"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. c4 c6 7. b3 Nbd7 8. Qc2
+Ne4 9. Ne5 f5 10. f3 Nef6 11. Nd2 Nxe5 12. dxe5 Nh5 13. Bb2 Bc5+ 14. Kh1 Qg5
+15. e3 Bxe3 16. Bh3 Nxg3+ 0-1

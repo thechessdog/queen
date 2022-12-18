@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Freyer, KH."]
+[Black "Sehn, N."]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "aaeeedc3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Ng5 Qe7 10. Ne4 g6 11. Nxf6+ Qxf6 12. d5 Ne7 13. e4 g5 14. Rb1
+Ng6 15. g3 Bh3 16. Re1 b6 17. Qh5 Nh4 18. Re3 Qg6 19. Be2 Rg8 20. Qxg6 Nxg6
+21. g4 Nf4 22. Bd1 h5 23. f3 O-O-O 24. Rb2 Rg7 25. Rd2 Rh8 26. Kf2 Rgh7 27.
+Re1 hxg4 28. Kg1 gxf3 29. Bxf3 Kc7 30. Bd1 Bc8 31. Bc2 Rh3 32. Bb2 g4 0-1
+

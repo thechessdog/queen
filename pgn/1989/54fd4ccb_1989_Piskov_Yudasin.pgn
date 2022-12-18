@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Piskov, Yury"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "54fd4ccb"]
+[Epoch "Queen"]
+[BlackID "2802341"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Ne8 10. O-O f5 11. exf5 Bxf5 12. Nc4 Na6 13. Bf4 Bd3 14. Bg3 Bxc4
+15. Bxc4 Nac7 16. Qd2 Qd7 17. Ne4 b5 18. Be2 Bd4 19. Rad1 Nxd5 20. Bxd6 Rxf2
+21. Rxf2 Nxd6 22. Nxc5 Bxf2+ 23. Kxf2 Qf7+ 24. Bf3 Rc8 25. Qxd5 Rxc5 26. Qxd6
+1-0

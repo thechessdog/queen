@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pekarek, Ales"]
+[Black "Horvath, Zoltan"]
+[Result "1-0"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "90283be3"]
+[Epoch "Queen"]
+[WhiteID "300080"]
+[WhiteCountry "CZE"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+Nxd5 9. Bxe7 Nxe7 10. Bd3 h6 11. O-O cxd4 12. exd4 Nf6 13. Rac1 Bd7 14. Rfd1
+Bc6 15. Ne5 Rc8 16. Qe2 Ned5 17. Bb1 Qd6 18. f3 Nxc3 19. bxc3 Ba4 20. Re1 Rc7
+21. Qd3 Rfc8 22. c4 Rd8 23. d5 exd5 24. Ng4 g6 25. c5 Qc6 26. Ne5 Qa6 27. Qd4
+Bb5 28. Qf4 g5 29. Qf5 Kg7 30. c6 Bc4 31. Kh1 Rxc6 32. Nxf7 Rd7 33. Ne5 1-0

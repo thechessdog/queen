@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kretzschmar"]
+[Black "Herschel"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f2469db8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nc6 6. Na3 Bd7 7. Bc4 Qe4+
+8. Qe2 Qxe2+ 9. Kxe2 cxd4 10. Nb5 Rc8 11. Bf4 e5 12. Nxa7 Nxa7 13. Nxe5 Bb5
+14. Kd3 dxc3 15. Rae1 Be7 16. a4 cxb2 17. axb5 Rd8+ 18. Kc2 f6 19. b6 fxe5
+20. Bxe5 Rc8 21. bxa7 Kf8 22. Kxb2 Ra8 23. Bb8 Bf6+ 24. Ka2 Ne7 25. Rb1 b5
+26. Rxb5 g5 27. Rb7 Kg7 28. Bd6 Rhc8 29. Kb3 Kg6 30. Bxe7 Bd4 31. Bd3+ Kh5
+32. Bf5 Rc3+ 33. Kb4 Rc6 34. h4 g4 35. Be4 Ra6 36. Rb5+ Kh6 37. Bxa8 Rxa7
+38. Bg5+ Kg7 39. Rb7+ Rxb7+ 40. Bxb7 Bxf2 41. Rd1 h5 1/2-1/2
+

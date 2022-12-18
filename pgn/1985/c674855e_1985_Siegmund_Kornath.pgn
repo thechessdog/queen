@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Siegmund"]
+[Black "Kornath"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "c674855e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Rb1 O-O 9. Be2 Nd7 10. O-O b6 11. Bg5 h6 12. Be3 e6 13. e5 Qe7 14. Nd2
+cxd4 15. cxd4 Rd8 16. Bf3 Ba6 17. Bxa8 Bxf1 18. Qxf1 Rxa8 19. Qc4 f6 20. f4
+g5 21. g3 gxf4 22. gxf4 Re8 23. Kh1 Kh8 24. Ne4 fxe5 25. dxe5 Qh4 26. Nd6
+Nxe5 27. fxe5 Qh5 28. Qe4 Bxe5 29. Qxe5+ Qxe5 30. Nf7+ 1-0
+

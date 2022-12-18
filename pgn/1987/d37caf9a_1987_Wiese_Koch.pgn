@@ -1,0 +1,16 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "10"]
+[White "Wiese, T."]
+[Black "Koch, K."]
+[Result "1/2-1/2"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "d37caf9a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. Re1 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15.
+Bf4 Qc7 16. a5 Nc8 17. Nc4 b5 18. axb6 Rxb6 19. Nxb6 Qxb6 20. Qd2 1/2-1/2

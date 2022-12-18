@@ -1,0 +1,18 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1985.01.01"]
+[Round "13"]
+[White "Balashov, Yuri S"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "09236b1a"]
+[Epoch "Queen"]
+[WhiteID "4100263"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Re1 Nbd7 8. e5
+dxe5 9. Nxe5 Nxe5 10. dxe5 1/2-1/2

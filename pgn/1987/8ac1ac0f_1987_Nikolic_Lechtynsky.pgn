@@ -1,0 +1,20 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Nikolic, Zivoslav"]
+[Black "Lechtynsky, Jiri"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "8ac1ac0f"]
+[Epoch "Queen"]
+[BlackID "300217"]
+[BlackCountry "CZE"]
+[WhiteID "900540"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Nf3 exd5 9. b4 Qd6 10. a3 O-O 11. e3 c6 12. Qd2 Bf5 13. Be2 Nd7 14. O-O b5 15.
+a4 a6 16. Qb2 Rfe8 17. a5 Bf8 1/2-1/2

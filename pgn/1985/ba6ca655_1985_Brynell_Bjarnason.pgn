@@ -1,0 +1,20 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Brynell, Stellan"]
+[Black "Bjarnason, Saevar"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "ba6ca655"]
+[Epoch "Queen"]
+[WhiteID "1700219"]
+[BlackID "2300176"]
+[WhiteCountry "SWE"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 cxd4 8.
+cxd4 f5 9. exf6 Nxf6 10. O-O Bd6 11. b3 O-O 12. Bb2 Qb6 13. Rc1 Bd7 14. Ne5 Be8
+15. Ndf3 Bh5 16. Qd2 Rac8 17. Ng5 Nxe5 18. dxe5 Bb4 19. exf6 1-0

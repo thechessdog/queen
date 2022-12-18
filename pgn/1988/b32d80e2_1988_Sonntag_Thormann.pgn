@@ -1,0 +1,20 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "9"]
+[White "Sonntag, Hans-Hubert"]
+[Black "Thormann, R."]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "b32d80e2"]
+[Epoch "Queen"]
+[WhiteID "4601025"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Ra3 g5 13. Qc2 g4 14. b3 Nh5 15. Nc4
+Qf6 16. Nb5 Nf3+ 17. Kh1 Nxh2 18. Kxh2 Qh4+ 19. Kg1 g3 20. fxg3 Nxg3 21. Bf4
+Nxf1 22. Ncxd6 Qxf4 23. Bxf1 Bg4 24. Nxe8 Rxe8 25. Qf2 Qc1 26. b4 cxb4 27. Rg3
+Rxe4 28. Qxa7 Be5 0-1

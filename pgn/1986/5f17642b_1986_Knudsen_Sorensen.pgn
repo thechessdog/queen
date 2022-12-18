@@ -1,0 +1,20 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "5"]
+[White "Knudsen, Per"]
+[Black "Sorensen, Henrik"]
+[Result "0-1"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system, Bogolyubov variation"]
+[HashCode "5f17642b"]
+[Epoch "Queen"]
+[WhiteID "1400509"]
+[WhiteCountry "DEN"]
+[BlackID "1400827"]
+[BlackCountry "DEN"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Bg4 4. Bb2 Nd7 5. g3 Ngf6 6. Bg2 e6 7. O-O Be7 8. d3
+O-O 9. Nbd2 Qc7 10. Qc2 Rfe8 11. Rfe1 a5 12. a3 Bf8 13. Nf1 Qb6 14. Rab1 Bh5
+15. Nh4 e5 16. e4 dxe4 17. Bxe4 Nxe4 18. Rxe4 f6 19. d4 exd4 20. g4 d3 0-1

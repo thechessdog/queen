@@ -1,0 +1,19 @@
+[Event "corr DDR/C"]
+[Site "corr DDR/C"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Springer"]
+[Black "Matillek"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "d43388f9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8
+d5 8. exd5 Bg4 9. Be2 Bxe2+ 10. Qxe2 Nd4 11. Qc4 Ne4 12. c3 O-O-O 13. cxd4
+Rf8 14. Ke2 exd4 15. Kd1 Bh4 16. Rf1 Rxf1+ 17. Qxf1 Nf2+ 18. Kc2 d3+ 19.
+Kb3 Qc5 20. a4 Qxd5+ 21. Ka3 Be7+ 22. b4 Bxb4+ 23. Kb2 Qd4+ 24. Nc3 Bxc3+
+25. dxc3 1/2-1/2
+

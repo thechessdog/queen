@@ -1,0 +1,19 @@
+[Event "Porz"]
+[Site "Porz"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ostermeyer, Peter, Dr."]
+[Black "Lutz, Christopher"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c43812b9"]
+[Epoch "Queen"]
+[WhiteID "4600355"]
+[WhiteCountry "GER"]
+[BlackID "4600193"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. cxd5 Nxd5 6. Nc3 g6 7. Bb5+ Nc6 8.
+Qa4 Nxc3 9. Bxc6+ bxc6 10. bxc3 Qd5 1/2-1/2

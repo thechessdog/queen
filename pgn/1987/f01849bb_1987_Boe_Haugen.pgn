@@ -1,0 +1,18 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Boe, Odd"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "f01849bb"]
+[Epoch "Queen"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 cxd4 7. cxd4 Nge7 8. Nc3
+Nf5 9. Na4 Qc7 10. Bf4 a6 11. Rc1 b5 12. Nc5 Qb6 13. b4 Bxc5 14. Rxc5 O-O 15.
+g4 Nfe7 16. Bd3 Kh8 17. Bb1 Ng8 1-0

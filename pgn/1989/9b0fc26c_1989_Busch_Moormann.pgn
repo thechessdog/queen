@@ -1,0 +1,16 @@
+[Event "Porz op22"]
+[Site "Porz op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Busch, M."]
+[Black "Moormann, J."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "9b0fc26c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kf1 Qe7 7. Nxh8 d5
+8. Bxd5 Bg4 9. Kxf2 Bxd1 10. Rxd1 Nxd5 11. exd5 Nd4 12. Na3 O-O-O 13. c3 Qf6+
+14. Kg1 Rf8 15. h3 Nf3+ 16. Kh1 Qf4 0-1

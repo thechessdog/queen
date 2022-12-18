@@ -1,0 +1,17 @@
+[Event "Bargteheide"]
+[Site "Bargteheide"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Diederichsen, JD."]
+[Black "Klotzki, Wolfgang"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "fc0084bb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. h4 Qc7 11. Bb3 Ne5 12. h5 Nc4 13. Bxc4 Qxc4 14. hxg6 fxg6
+15. O-O-O Rfc8 16. Rh4 Qf7 17. Rdh1 h5 18. g4 Rxc3 19. Qxc3 hxg4 20. Bh6 Bxh6+
+21. Rxh6 Nh5 22. Nf5 e5 23. Rxg6+ 1-0

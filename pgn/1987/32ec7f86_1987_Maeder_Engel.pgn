@@ -1,0 +1,17 @@
+[Event "corr WER/K"]
+[Site "corr WER/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maeder"]
+[Black "Engel"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "32ec7f86"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Ne2 h5 7. Qd3
+Qa5+ 8. Bd2 Qf5 9. Ng3 Qxd3 10. Bxd3 h4 11. Ne4 Bg7 12. c3 Bg4 13. f4 Rh5
+14. O-O Nd7 15. f5 Nf8 16. Rae1 1-0
+

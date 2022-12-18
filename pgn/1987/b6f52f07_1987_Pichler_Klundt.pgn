@@ -1,0 +1,25 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pichler, Juergen"]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b6f52f07"]
+[Epoch "Queen"]
+[WhiteID "4600363"]
+[WhiteCountry "GER"]
+[BlackID "4600436"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bd3
+Be7 9. O-O O-O 10. a4 exf4 11. Kh1 Ne5 12. Bxf4 Qc7 13. Bg5 Be6 14. Nd4 Nfg4
+15. Qd2 Bxg5 16. Qxg5 Qc5 17. h3 Nf2+ 18. Rxf2 Nxd3 19. Qe3 Nxf2+ 20. Qxf2 b5
+21. Qd2 b4 22. Nd1 Rae8 23. Nf2 Re7 24. Rd1 Rc8 25. Qe3 Bd7 26. Nd3 Qh5 27. Re1
+Rce8 28. Qf4 Qg6 29. e5 b3 30. Nxb3 Bc6 31. Qf2 dxe5 32. Nbc5 e4 33. Nf4 Qf5
+34. Qe3 a5 35. g4 Qe5 36. c3 Rd8 37. Kg1 g6 38. Nb3 g5 39. Nh5 Rd3 40. Qf2 e3
+41. Qf6 e2 42. Qxe5 Rxe5 43. Nd4 Bxa4 44. Kf2 Rxh3 45. Nf3 Rb5 46. b4 axb4 47.
+Ra1 Rxh5 48. gxh5 Bd1 49. h6 f6 50. cxb4 Rf5 0-1

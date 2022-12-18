@@ -1,0 +1,18 @@
+[Event "Granma zt"]
+[Site "Granma zt"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Garcia, Gildardo"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "861db6b0"]
+[Epoch "Queen"]
+[WhiteID "4400020"]
+[WhiteCountry "COL"]
+[BlackCountry "CUB"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O Nc6 7. Be3 Bg4 8. Ne1
+Bxe2 9. Qxe2 e5 10. Nf3 1/2-1/2

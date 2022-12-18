@@ -1,0 +1,19 @@
+[Event "Hastings Xmas A"]
+[Site "Hastings Xmas A"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Watson, J."]
+[Black "Moss, R."]
+[Result "0-1"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "d1c3b274"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3
+e6 9. Qd2 exd5 10. exd5 Kh7 11. Bd3 Re8 12. h3 b5 13. cxb5 Nbd7 14. Nf3 Nb6
+15. b4 Bb7 16. O-O-O Nfxd5 17. Nxd5 Bxd5 18. Be2 Re4 19. h4 Rg4 20. g3 Qf6
+21. Qc2 Bxf3 22. Bxf3 Qxf3 23. h5 Rxg3 24. a4 Nd5 25. hxg6+ fxg6 26. Qd3
+Nxe3 27. fxe3 Qf6 28. Qd5 Qb2# 0-1
+

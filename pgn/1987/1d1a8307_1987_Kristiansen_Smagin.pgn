@@ -1,0 +1,23 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kristiansen, Jens"]
+[Black "Smagin, Sergey"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "1d1a8307"]
+[Epoch "Queen"]
+[WhiteID "1400061"]
+[WhiteCountry "DEN"]
+[BlackID "4100425"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. Ngf3 Bg4 5. g3 Nd7 6. Bg2 e6 7. O-O Bc5 8. Qe1
+Ne7 9. a3 O-O 10. b4 Bd6 11. Bb2 e5 12. c4 dxc4 13. Nxc4 c5 14. bxc5 Nxc5 15.
+Nfxe5 Nxd3 16. Nxd3 Qxc4 17. Qe3 Rad8 18. Rfc1 Qb5 19. Rab1 Qh5 20. Nc5 Bc8 21.
+Qc3 Qg6 22. e5 Bxc5 23. Qxc5 Nc6 24. Bc3 h6 25. Re1 Rfe8 26. Be4 Qh5 27. a4 Kh8
+28. f4 Kg8 29. a5 a6 30. f5 Ne7 31. e6 fxe6 32. Qe5 Qg5 33. h4 Qf6 34. Qc5 e5
+35. Bxe5 Qf7 36. Rf1 Nd5 37. f6 Rxe5 38. fxg7 Qxg7 39. Bxd5+ Rexd5 0-1

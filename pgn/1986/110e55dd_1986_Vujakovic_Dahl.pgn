@@ -1,0 +1,22 @@
+[Event "Porz"]
+[Site "Porz"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vujakovic, Branko"]
+[Black "Dahl, Ingrid"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "110e55dd"]
+[Epoch "Queen"]
+[WhiteID "14500361"]
+[BlackID "1500830"]
+[WhiteCountry "CRO"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 13. f5 b4 14. Ne2 e5
+15. Ng3 Qc5 16. Nh5 Ke7 17. Bd3 Rg8 18. Qe2 Bh6 19. Rhe1 a5 20. b3 a4 21. Bc4
+axb3 22. Bxb3 Ra3 23. g4 Bb5 24. Qf3 Bc4 25. h4 Bxb3 26. cxb3 Rxa2 27. Qd3 Rga8
+28. Qc4 Ra1+ 29. Kc2 R8a2+ 30. Kd3 Rxd1+ 31. Rxd1 Qe3# 0-1

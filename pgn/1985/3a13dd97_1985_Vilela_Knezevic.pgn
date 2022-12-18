@@ -1,0 +1,19 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "13"]
+[White "Vilela, Jose Luis"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "3a13dd97"]
+[Epoch "Queen"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 b6 5. e3 Bb7 6. Nbd2 Be7 7. c3 Ne4 8. Bxe7
+Qxe7 9. Nxe4 Bxe4 10. Bd3 Bxd3 11. Qxd3 d6 12. O-O O-O 13. Rfe1 Nd7 14. Rad1
+Rfd8 15. Nd2 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grzesik, Thomas"]
+[Black "Dueball, Juergen"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "5dcaae33"]
+[Epoch "Queen"]
+[WhiteID "4603982"]
+[WhiteCountry "GER"]
+[BlackID "4600185"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. h3 Qb6 8. Ba4
+d6 9. d4 cxd4 10. cxd4 Nd7 11. Bxc6 bxc6 12. Nc3 Rb8 13. Rb1 Qc7 14. Bg5 Re8
+15. Qd2 Bb7 16. Bh6 Bh8 17. Rbc1 Qb6 18. b3 Qa5 19. Bf4 Rbd8 20. Bg5 Rc8 21.
+Qf4 c5 22. Nd5 Bxd5 23. exd5 Nf6 24. Bxf6 1/2-1/2

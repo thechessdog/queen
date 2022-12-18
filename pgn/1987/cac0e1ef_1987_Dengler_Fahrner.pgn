@@ -1,0 +1,21 @@
+[Event "Berlin op"]
+[Site "Berlin-West"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dengler, Norbert"]
+[Black "Fahrner, Kurt"]
+[Result "0-1"]
+[ECO "A86"]
+[Opening "Dutch with c4 & g3"]
+[HashCode "cac0e1ef"]
+[Epoch "Queen"]
+[WhiteID "16236661"]
+[WhiteCountry "GER"]
+[BlackID "1600591"]
+[BlackCountry "AUT"]
+
+1. c4 f5 2. d4 Nf6 3. g3 e6 4. Nc3 Be7 5. Bg2 O-O 6. Nh3 d6 7. O-O a5 8. e4
+fxe4 9. Nxe4 Nc6 10. d5 exd5 11. Nxf6+ Bxf6 12. Qxd5+ Kh8 13. Nf4 Ne5 14. c5
+Ra6 15. Be3 Ng4 16. Rfe1 Nxe3 17. Rxe3 dxc5 18. Qh5 Bd4 19. Rd1 Rh6 20. Qe2 Rd6
+21. Re1 Bxe3 22. Qxe3 Rd1 23. Qe2 Bg4 24. f3 Qd4+ 25. Kf1 Rxe1+ 26. Kxe1 Bd7
+0-1

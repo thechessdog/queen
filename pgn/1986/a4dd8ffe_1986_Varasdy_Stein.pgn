@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Varasdy, Imre"]
+[Black "Stein, Bernd"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "a4dd8ffe"]
+[Epoch "Queen"]
+[WhiteID "700460"]
+[BlackID "4600711"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 d6 3. Nc3 Nbd7 4. e4 e5 5. Bg5 c6 6. Bc4 b5 7. Bb3 h6 8. dxe5
+hxg5 9. exf6 Qxf6 10. Qd2 Be7 11. O-O-O a5 12. e5 dxe5 13. Ne4 Qg6 14. Nfxg5
+O-O 15. h4 a4 16. Bxf7+ Rxf7 17. h5 Qh6 18. Nxf7 Kxf7 19. Nd6+ Ke6 20. f4 Qxf4
+21. Qxf4 exf4 22. Ne8 Kf7 23. Nd6+ Ke6 24. Ne8 Kf7 1/2-1/2

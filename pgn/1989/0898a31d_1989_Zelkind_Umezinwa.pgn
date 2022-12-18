@@ -1,0 +1,19 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zelkind, Eduard"]
+[Black "Umezinwa, George"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "0898a31d"]
+[Epoch "Queen"]
+[WhiteID "2002728"]
+[WhiteCountry "USA"]
+[BlackID "2004984"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Qb6 7. dxc5 Bxc5 8. O-O
+f6 9. b4 Be7 10. Bd3 fxe5 11. Nxe5 Nxe5 12. Qh5+ Nf7 0-1

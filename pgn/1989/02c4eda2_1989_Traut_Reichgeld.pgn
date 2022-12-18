@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Traut"]
+[Black "Reichgeld"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "02c4eda2"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8.
+Nf4 Qe7 9. exf6 Qxf6 10. Nf3 cxd4 11. O-O Nc5 12. Re1 dxc3 13. Nxd5 Qd8 14.
+Bc4 cxb2 15. Bxb2 Kf7 16. Ne5+ Nxe5 17. Bxe5 Be7 18. Qh5+ g6 19. Qf3+ Ke8
+20. Rad1 1-0
+

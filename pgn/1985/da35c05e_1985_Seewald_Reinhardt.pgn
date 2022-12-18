@@ -1,0 +1,24 @@
+[Event "corr EU-M"]
+[Site "corr EU-M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Seewald, P."]
+[Black "Reinhardt, Werner"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "da35c05e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bf4 Bd6 11. Nbd2 Nbd7 12. a4 Qe7 13. Rfc1 Rfc8 14.
+Ne5 Bxg2 15. Kxg2 Nd5 16. axb5 axb5 17. Rxa8 Rxa8 18. Qc6 Nxf4+ 19. gxf4
+Nb6 20. Qxb5 Ra4 21. Qd3 Bxe5 22. fxe5 Qg5+ 23. Kf1 Qf4 24. e3 Qxh2 25. Qb5
+Qh3+ 26. Ke2 Ra8 27. Rxc7 Qh5+ 28. Nf3 Nd5 29. Rc1 g5 30. Rg1 h6 31. Qb7
+Rf8 32. Rg3 Qg6 33. Nd2 h5 34. Qb3 g4 35. f3 f5 36. exf6 Qxf6 37. Qd1 Nxe3
+38. Kxe3 Qf4+ 39. Kf2 h4 40. Rg1 g3+ 41. Kg2 Kf7 42. Rh1 Qxd4 43. Ne4 h3+
+44. Kxg3 Qg7+ 45. Kf2 Qxb2+ 46. Qd2 Qb6+ 47. Kg3 Rg8+ 48. Ng5+ Ke7 49. Qf4
+Qd6 50. Qxd6+ Kxd6 51. Kg4 e5 52. Rxh3 Rf8 53. Rh7 Rf4+ 54. Kh5 Rf8 55. Kg6
+Rf4 56. Rf7 1-0
+

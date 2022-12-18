@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Voigt, M."]
+[Black "Reiter, H."]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Slav gambit"]
+[HashCode "b0e05403"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. e4 Bg4 6. Bxc4 e6 7. Be3 Bb4 8.
+Bd3 Nbd7 9. O-O Qa5 10. Rc1 Qh5 11. h3 Bxf3 12. Qxf3 Qxf3 13. gxf3 e5 14.
+f4 exd4 15. Bxd4 Nh5 16. Ne2 Bd2 17. Rc2 Bxf4 18. Nxf4 Nxf4 19. Bc4 f6 20.
+Kh2 Ne5 21. Bb3 Nf3+ 0-1
+

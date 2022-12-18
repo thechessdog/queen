@@ -1,0 +1,17 @@
+[Event "Mt View,CA"]
+[Site "Mt View,CA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Millimaci"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "5f120c61"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4 f6 6. Be2 e5 7. Qd5 Ne7 8.
+Bh5+ Ng6 9. Nc3 d6 10. O-O Bd7 11. f4 Qb6+ 12. Kh1 O-O-O 13. Bxg6 hxg6 14. Qf7
+exf4 15. Nd5 Qb5 16. Bxf4 g5 17. c4 Qxb2 18. Rfb1 Qd4 19. Be3 Qe5 20. Bxa7
+Qxh2# 0-1

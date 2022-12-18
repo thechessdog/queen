@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schmidt, Peter"]
+[Black "Strobel, Hans"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ba0e1606"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 g6 3. d4 b6 4. dxc5 bxc5 5. Be3 Nc6 6. Bxc5 Bg7 7. Be3 Rb8
+8. Qc1 Nf6 9. Nf3 O-O 10. Be2 d5 11. exd5 Nxd5 12. Bd2 Nxc3 13. Bxc3 Bxc3+
+14. bxc3 Bg4 15. O-O Bxf3 16. Bxf3 Ne5 17. Qe3 Nxf3+ 18. Qxf3 Qd2 19. Qe4
+Qxc3 20. Qxe7 Qxc2 21. Qxa7 Ra8 1/2-1/2
+

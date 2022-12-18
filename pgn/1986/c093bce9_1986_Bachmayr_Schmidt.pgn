@@ -1,0 +1,28 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bachmayr, Peter"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "E69"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical main line"]
+[HashCode "c093bce9"]
+[Epoch "Queen"]
+[WhiteID "4601386"]
+[WhiteCountry "GER"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 d6 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nf6 5. O-O O-O 6. c4 Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 exd4 10. Nxd4 Qb6 11. Nc2 Qc5 12. b3 Qa5 13. Bd2 Qc7 14. Rc1 Re8 15.
+Bf4 Ne5 16. Be3 Qe7 17. Re1 Nfd7 18. Na4 Nb6 19. Nxb6 axb6 20. a4 Nd7 21. Bf4
+Be5 22. Bxe5 dxe5 23. Qd3 Nc5 24. Qc3 Rd8 25. Red1 f6 26. Ra1 Rxd1+ 27. Rxd1
+Be6 28. Ne3 Rd8 29. Rxd8+ Qxd8 30. Qb4 Na6 31. Qa3 Qf8 32. Qc1 Qd6 33. Qc2 Qd4
+34. Qa2 Qc3 35. Qc2 Qd4 36. Qa2 Qc3 37. Qc2 Qe1+ 38. Nf1 Qb4 39. Qd1 Nc5 40.
+Qd8+ Kg7 41. Qe7+ Bf7 42. Ne3 Qe1+ 43. Kh2 h5 44. Nf1 Qb4 45. g4 hxg4 46. Ne3
+Qd2 47. Nxg4 Nd7 48. Kg1 f5 49. Nxe5 Qc1+ 50. Bf1 Nxe5 51. Qxe5+ Kg8 52. exf5
+Qg5+ 53. Kh2 gxf5 54. Qg3 Qg6 55. Qxg6+ Bxg6 56. Kg3 f4+ 57. Kxf4 c5 58. Ke5
+Bc2 59. Kd6 Bxb3 60. Kc7 Bxa4 61. Kxb7 b5 62. cxb5 Bb3 63. Kc7 c4 64. b6 c3 65.
+Bd3 1-0

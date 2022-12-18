@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Strobel, Matthias"]
+[Black "Huenerkopf, Heinz"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "e51be118"]
+[Epoch "Queen"]
+[BlackID "4603443"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Nbd7 8.
+Bg2 b5 9. a4 Bb7 10. Bg5 h6 11. Bxf6 Nxf6 12. O-O b4 13. Nd5 Nxd5 14. exd5 Be7
+15. a5 O-O 16. Qd2 Rb8 17. Ra4 Bc8 18. Rfa1 Qc7 19. Rxb4 Bg5 20. Qc3 Qxc3 21.
+bxc3 Bg4 22. Rxg4 1-0

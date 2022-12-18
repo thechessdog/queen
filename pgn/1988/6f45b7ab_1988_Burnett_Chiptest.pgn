@@ -1,0 +1,23 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Burnett"]
+[Black "Chiptest"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "6f45b7ab"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. g3 Nc6 6. Bg2 e5 7. O-O Bb4
+8. d3 Bxc3 9. bxc3 Qxc3 10. Rb1 O-O 11. Rb5 Qa1 12. Rb2 e4 13. Nd2 Bg4 14.
+Qe1 Nd4 15. Nb3 Nxb3 16. cxb3 Rad8 17. h3 Bf3 18. Bxf3 exf3 19. Qc3 Nd5 20.
+Qd4 c5 21. Qg4 Nb4 22. Qxf3 Nxd3 23. Rc2 b6 24. Bg5 Ne1 25. Qe2 Rd1 26. Kh1
+Rb1 27. Rd2 h6 28. Be7 Re8 29. Qe4 Nf3 30. Qxb1 Qxb1 31. Rxb1 Nxd2 32. Rd1
+Nxb3 33. Rd7 Nd4 34. Bd6 Re2 35. Rxa7 Rxf2 36. Kg1 Rd2 37. Bc7 b5 38. Bb6
+Ne2+ 39. Kf2 c4 40. a3 Nc3+ 41. Ke1 Rh2 42. Ba5 Ne4 43. Bb4 Rxh3 44. g4
+Re3+ 45. Kd1 Nf2+ 46. Kd2 Nxg4 47. Rb7 Rd3+ 48. Kc2 Ne3+ 49. Kb2 Rd5 50.
+Rc7 g5 51. Bc5 Rd2+ 52. Kc1 Rd1+ 53. Kb2 Nd5 54. Rb7 c3+ 55. Kc2 Rd2+ 56.
+Kc1 0-1
+

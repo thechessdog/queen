@@ -1,0 +1,28 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brand"]
+[Black "Robert, Antonin"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "f14b5ac1"]
+[Epoch "Queen"]
+[BlackID "1300873"]
+[BlackCountry "SUI"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bf4 Qb6 7. Rb1 Qa5+
+8. c3 Qxa2 9. Bd3 Be6 10. Ne2 Qb3 11. Qd2 Bc4 12. Nc1 Qb5 13. O-O e6 14. b3
+Bxd3 15. Nxd3 Nd7 16. Rfe1 Rg8 17. Bg3 Qg5 18. Qe2 Bd6 19. b4 Bxg3 20. fxg3 Qb5
+21. Qf3 Qd5 22. Qe3 Nb6 23. Nf4 Qd6 24. b5 Nd5 25. Nxd5 cxd5 26. Qh6 Rg6 27.
+Qxh7 Rc8 28. Re3 f5 29. Rbe1 Qf8 30. Qh5 Kd7 31. Qd1 Qd6 32. Qa4 Qb6 33. Ra1
+Ra8 34. Ra3 Rg4 35. Qa5 Qd6 36. Qa4 Ke7 37. Ra1 Rgg8 38. Qc2 Kd7 39. Rd1 Rac8
+40. Qa4 Qb6 41. Ra1 Ra8 42. Qa5 Qd6 43. Qa4 Ke7 44. Qc2 Kf6 45. Rf1 Rac8 46.
+Qe2 Kg7 47. Qh5 Qd8 48. Rf4 Rh8 49. Qf3 Qa5 50. h3 Qxb5 51. g4 Rce8 52. gxf5
+exf5 53. Rxf5 Qd7 54. Qg4+ Kf8 55. Rg3 Re1+ 56. Kf2 Qe6 57. Qg7+ Ke7 58. Qxf7+
+Qxf7 59. Rxf7+ Kxf7 60. Kxe1 b5 61. Re3 Rh5 62. Ke2 a5 63. Kd2 Rh8 64. Re5 Rd8
+65. Kc2 a4 66. Kb2 Kf6 67. g4 Rc8 68. Rxd5 a3+ 69. Kxa3 Rxc3+ 70. Kb4 Rxh3 71.
+Re5 Rh4 72. Re4 Rh8 73. Kxb5 Rb8+ 74. Kc6 Rc8+ 75. Kd7 Rc4 76. Kd6 Ra4 77. Kc6
+Rb4 78. Kc5 Rb8 1-0

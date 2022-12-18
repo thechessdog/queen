@@ -1,0 +1,21 @@
+[Event "Manhattan"]
+[Site "Manhattan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "Taylor, Timothy"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "85e34ca1"]
+[Epoch "Queen"]
+[WhiteID "2000075"]
+[WhiteCountry "USA"]
+[BlackID "2000393"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 c5 5. cxd5 Nxd5 6. Bg2 cxd4 7. Nxd4 Bc5 8.
+O-O O-O 9. Nc3 Nxc3 10. bxc3 Nd7 11. Rb1 Nb6 12. Nb3 Be7 13. Qxd8 Rxd8 14. Na5
+Rd7 15. c4 e5 16. Rb5 Rc7 17. Rxe5 Be6 18. Bxb7 Rb8 19. Bd5 Nxd5 20. cxd5 Rb5
+21. Bf4 Rxa5 22. dxe6 Rxe5 23. Bxe5 Rc2 24. Rb1 fxe6 25. Rb8+ Kf7 26. Rb7 Kf8
+27. Bxg7+ Kf7 28. Rxa7 Rxe2 29. Bd4 1-0

@@ -1,0 +1,20 @@
+[Event "HUN-ch op"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kiss, Laszlo"]
+[Black "Fette, Martin"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "3ffa578b"]
+[Epoch "Queen"]
+[BlackID "4600827"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8. Nf3
+Nd7 9. Ne5 Nxe5 10. fxe5 Ne7 11. h5 Bh7 12. Bd3 Qxd4 13. Bxh7 Qxe5+ 14. Kf2
+Rxh7 15. Qd3 Rh8 16. c4 Rd8 17. Qf3 Qf6 18. Qxf6 gxf6 19. Be3 Nc8 20. c5 Ne7
+21. Rhe1 Nd5 22. Bd4 Be7 23. Ne4 Rg8 24. g3 f5 25. Nd6+ Bxd6 26. cxd6 b6 27. a4
+Rg4 28. Be5 a5 29. Rad1 Kd7 0-1

@@ -1,0 +1,21 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mielke, K."]
+[Black "Bender, K."]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "5601fbba"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. Bd3 f5 5. exf5 Bb4+ 6. Kf1 exf5 7. c5 bxc5
+8. a3 c4 9. Bxc4 Bd6 10. Qb3 Ba6 11. Bxa6 Nxa6 12. Qd3 Nb8 13. Qxf5 Nc6 14.
+Qh5+ g6 15. Qd1 Qf6 16. Nf3 Nge7 17. Nc3 Bf4 18. d5 Ne5 19. Qd4 Bxc1 20.
+Rxc1 Qa6+ 21. Ne2 Nf7 22. Rxc7 O-O 23. Rxd7 Rfe8 24. h4 Qb5 25. Rc7 Nxd5
+26. Rc2 Rac8 27. Qd2 Rcd8 28. Nd4 Qa4 29. Qc1 Ne5 30. Rh3 Nf6 31. b4 Nfg4
+32. Kg1 Qa6 33. Rcc3 Qb6 34. Rc5 Qf6 35. f4 Nf3+ 36. gxf3 Rxd4 37. Rc8 Rxc8
+38. Qxc8+ Rd8 39. Qc4+ Kf8 40. fxg4 Qa1+ 41. Kf2 1-0
+

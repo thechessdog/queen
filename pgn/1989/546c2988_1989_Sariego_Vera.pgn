@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "11"]
+[White "Sariego, Wilfredo"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "546c2988"]
+[Epoch "Queen"]
+[BlackID "3500055"]
+[BlackCountry "CUB"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. c3 e6 3. Nf3 d5 4. exd5 exd5 5. Bb5+ Bd7 6. Qe2+ Qe7 7. O-O Qxe2 8.
+Bxe2 Nc6 9. d4 cxd4 10. Nxd4 Nxd4 11. cxd4 Bd6 12. Bg5 1/2-1/2

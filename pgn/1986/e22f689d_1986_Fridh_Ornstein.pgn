@@ -1,0 +1,21 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fridh, Anton"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "e22f689d"]
+[Epoch "Queen"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd3 Ne4 7. Qc2 Bxc3+ 8.
+bxc3 f5 9. O-O O-O 10. Nd2 Qh4 11. f3 Ng5 12. f4 Nf7 13. Nf3 Qh5 14. Ba3 Re8
+15. e4 fxe4 16. Bxe4 Bxe4 17. Qxe4 Nc6 18. Ne5 Ncxe5 19. fxe5 d6 20. Rf2 dxe5
+21. Raf1 Nd6 22. Qc6 Nf5 23. d5 h6 24. Bc1 Rac8 25. dxe6 Nd6 26. Qd7 Red8 27.
+Qc6 Re8 28. Ba3 Rxe6 29. Qd5 0-1

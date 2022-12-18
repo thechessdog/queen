@@ -1,0 +1,18 @@
+[Event "Mendrisio op"]
+[Site "Mendrisio"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kamber, Bruno"]
+[Black "Ambrosoli, Gu"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "3b6d6eae"]
+[Epoch "Queen"]
+[WhiteID "1300504"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+a6 9. O-O-O b5 10. h4 h5 11. g4 hxg4 12. h5 gxh5 13. Bh6 Bxh6 14. Qxh6 e5 15.
+Nd5 Nbd7 16. Nf5 1-0

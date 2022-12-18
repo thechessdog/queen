@@ -1,0 +1,16 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Pinal, Nelson Borges"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "785fc8ac"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. Qxd4 e6 7. Bg5 dxe5 8.
+Bb5+ 1/2-1/2

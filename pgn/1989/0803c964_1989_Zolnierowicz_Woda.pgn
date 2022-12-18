@@ -1,0 +1,22 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1989.01.01"]
+[Round "14"]
+[White "Zolnierowicz, Krzysztof"]
+[Black "Woda, Jacek"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "0803c964"]
+[Epoch "Queen"]
+[WhiteID "1100238"]
+[WhiteCountry "POL"]
+[BlackID "1100343"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Nbd2 O-O 9. Nc4 f6 10. Kh1 Nc5 11. Ng1 Ne6 12. Ne2 Nd4 13. c3 Nxe2 14. Qxe2 Be6
+15. Ne3 Qd6 16. Nf5 Bxf5 17. exf5 Rad8 18. Rd1 Qd5 19. Qg4 Rd7 20. Be3 Rfd8 21.
+c4 Qa5 22. d4 h5 23. Qe4 Bc5 24. Bd2 Qb6 25. dxc5 Qxb2 26. Rdb1 Qxd2 27. Rxb7
+Qd1+ 0-1

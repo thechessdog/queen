@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lundholm, Stig"]
+[Black "Hebert, Jean"]
+[Result "0-1"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "aa3b2006"]
+[Epoch "Queen"]
+[BlackID "2600048"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. h3 Rb8 13. Nc4 Nb6 14. Na3 Bd7 15.
+Re1 Nc8 16. Qd3 b5 17. axb5 axb5 18. Naxb5 Bxb5 19. Nxb5 Nd7 20. Nc3 Ne5 21.
+Qc2 Qb6 22. Ra3 Ne7 23. Nb1 Nf5 24. e3 c4 25. Nd2 Nd3 26. Rxd3 cxd3 27. Qxd3
+Rec8 28. Bf1 Qb4 29. Rd1 Bxb2 30. Bxb2 Qxb2 31. Nc4 Qf6 32. e4 Ng7 33. f4 Qe7
+34. Qd4 Rb5 35. Ra1 Nh5 36. Kh2 Qf6 37. Qxf6 Nxf6 38. Nxd6 Rc2+ 39. Kg1 Rc3 40.
+Ra8+ Kg7 41. Ra7 Nxe4 42. Nxf7 Rxg3+ 43. Kh1 Kg8 44. d6 Rb1 45. d7 Rxf1+ 46.
+Kh2 Rf2+ 47. Kh1 Rxh3+ 48. Kg1 Rg3+ 49. Kh1 Rd3 50. d8=Q+ Rxd8 51. Nxd8 Rxf4
+52. Ne6 Rf6 53. Rg7+ Kh8 54. Re7 h6 0-1

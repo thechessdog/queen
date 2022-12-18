@@ -1,0 +1,19 @@
+[Event "Noviki-B"]
+[Site "Budapest II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "54934601"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[WhiteCountry "HUN"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O Bg6 7. c4 dxc4 8. Bxc4
+Nd7 9. Nc3 Nb6 10. Bb3 1/2-1/2

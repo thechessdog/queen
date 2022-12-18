@@ -1,0 +1,22 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "3"]
+[White "Klinger, Josef"]
+[Black "Loeffler, Stefan"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "7fbb1537"]
+[Epoch "Queen"]
+[WhiteID "1600010"]
+[WhiteCountry "AUT"]
+[BlackID "4603257"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Be7 9. a4 Nf6 10. Kh1 O-O 11. f4 Rd8 12. Nb3 b6 13. Qe2 Rb8 14. Be3 Na5 15.
+Rad1 Bd7 16. g4 h6 17. g5 hxg5 18. fxg5 Nh7 19. Qh5 Be8 20. Rf3 f5 21. Qh4 Nc4
+22. Rh3 Bg6 23. Nd5 Qd7 24. exf5 Bxf5 25. Nxe7+ Qxe7 26. Qxc4 Rbc8 27. Qh4 Rxc2
+28. Nd4 1-0

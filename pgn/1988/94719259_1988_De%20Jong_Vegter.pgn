@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Vegter, K."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "94719259"]
+[Epoch "Queen"]
+[WhiteID "1033514"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 b5 6. Bb3 Nxe4 7. dxe5 Nc5 8.
+Bd5 Be7 9. O-O Bb7 10. Nc3 Nb4 11. Bxb7 Nxb7 12. Nd4 g6 13. Bh6 Nc5 14. a3 Nc6
+15. Nxc6 dxc6 16. Qf3 Qd7 17. Rad1 Qe6 18. Rd6 cxd6 19. Qxc6+ Qd7 20. Qxa8+ Bd8
+21. Nd5 1-0

@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Himmel, Hans"]
+[Black "Thal, Olaf"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[HashCode "34338c23"]
+[Epoch "Queen"]
+[BlackID "4611683"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Be6 6. Ng5 dxe5 7. Nxe6 fxe6 8.
+dxe5 Bg7 9. Qe2 O-O 10. O-O Nc6 11. f4 Nxf4 12. Rxf4 Rxf4 13. Bxe6+ Kh8 14.
+Bxf4 Qd4+ 15. Qe3 Qd1+ 16. Kf2 Rf8 17. g3 g5 18. Kg2 gxf4 19. gxf4 Qxc2+ 0-1

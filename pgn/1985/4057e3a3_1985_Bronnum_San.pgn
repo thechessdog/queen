@@ -1,0 +1,18 @@
+[Event "Bagneaux"]
+[Site "Bagneaux"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bronnum, Jan"]
+[Black "San Marco, Bruno"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "4057e3a3"]
+[Epoch "Queen"]
+[WhiteID "1400908"]
+[WhiteCountry "DEN"]
+[BlackID "600768"]
+[BlackCountry "FRA"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. c3 Nxe5 5. Bd2 Nd3# 0-1

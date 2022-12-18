@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schwibbe, R."]
+[Black "Dambitis, IV."]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "62fa1e9a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 Ne7 10. O-O-O Re8 11. Rhe1 Ng6 12. g3 Bd6 13. a3 c5
+14. N4b3 b6 15. Nc4 Bf8 16. f3 f5 17. exf5 Bxf5 18. Bg5 Rxe1 19. Rxe1 Bd7
+20. Nbd2 h6 21. Be3 Be7 22. Ne4 Bc6 23. Bd2 Re8 24. f4 Bf8 25. Nf2 1/2-1/2
+

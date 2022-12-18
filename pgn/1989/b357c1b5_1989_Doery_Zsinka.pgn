@@ -1,0 +1,17 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1989.01.01"]
+[Round "12"]
+[White "Dory, Jeno"]
+[Black "Zsinka, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "b357c1b5"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Nc3 O-O-O 9. Be3 Bb4 10. Ne2 Nf6 11. f3 Rde8 12. O-O-O h6 13. a3 Be7 14.
+Rhe1 c5 15. Nf4 Bd6 16. g3 g5 17. Nfd5 Nxd5 18. Nxd5 Be6 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tschindeev, BV."]
+[Black "Gosztola, I."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "68f08e3e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. Nf4 h6 12. h4 a5 13. O-O Qd6 14. Re1
+Rfd8 15. Be3 g5 16. hxg5 hxg5 17. Nh3 Bxh3 18. Bxh3 Bh6 19. Nb5 Qb4 20.
+Qxb4 axb4 21. Nc7 Ra5 22. Bd2 Nbxd5 23. Rxe7 Nxe7 24. Bxb4 Nc6 25. Bxa5
+Nxa5 26. Rd1 Nc4 27. b3 Nd6 28. a4 g4 29. Bf1 Rc8 30. Nb5 Nfe4 31. Bd3 Rc1
+32. Rxc1 Bxc1 33. Nxd6 Nxd6 34. a5 Bb2 35. d5 Bd4 36. Kg2 Kg7 37. f3 gxf3+
+38. Kxf3 Kf6 39. Kf4 Bc3 40. a6 bxa6 41. Bxa6 Bd2+ 42. Kg4 Ke5 43. Kh5 Kxd5
+44. g4 f6 45. Kg6 Bg5 46. Be2 Kc5 47. Bd3 Kb4 48. Bc2 Kc3 49. Bb1 Kxb3 50.
+Bd3 Kc3 51. Bb1 Kd4 52. Bc2 Ke5 53. Ba4 Nc4 54. Bd7 Kf4 55. Kh5 Ne3 56. Bc8
+Kg3 57. Bd7 Ng2 58. Kg6 Kh4 59. Kf5 Ne3+ 60. Ke4 Nxg4 61. Bc8 Nh6 0-1
+

@@ -1,0 +1,19 @@
+[Event "Rhode Island"]
+[Site "Rhode Island"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gurevich"]
+[Black "Terrie, Henry"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "12145f6b"]
+[Epoch "Queen"]
+[BlackID "2004127"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4 cxd4
+9. Nxg6 fxg6 10. Qxd4 Nc6 11. Qf4 Bc5 12. Bd3 Nge7 13. gxh5 Rxh5 14. Qg4 Rxe5+
+15. Kd1 Kd7 16. Bf4 Qf8 17. Na4 Bd6 18. Rh3 Re4 19. Bxe4 Qxf4 20. Nc5+ Ke8 21.
+Bxg6+ 1-0

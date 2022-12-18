@@ -1,0 +1,19 @@
+[Event "JPN-ch"]
+[Site "Japan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Washio, Masahiko"]
+[Black "Gonda, Gentaro"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, 6...e6"]
+[HashCode "356eff08"]
+[Epoch "Queen"]
+[BlackID "7000065"]
+[BlackCountry "JPN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. g3 a6 10. Qd2 Bd7 11. O-O-O Qb6 12. Bg2 O-O-O 13. Nb3 Na5 14. Nxa5 Qxa5
+15. Qd4 g5 16. e5 dxe5 17. Qc4+ Qc7 18. Qxc7+ Kxc7 19. fxg5 Ng4 20. Ne4 Ne3 21.
+Bf3 Nxd1 22. Rxd1 Bc6 0-1

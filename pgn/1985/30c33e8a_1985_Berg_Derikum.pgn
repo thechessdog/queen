@@ -1,0 +1,25 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Derikum, Axel"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "30c33e8a"]
+[Epoch "Queen"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "4602242"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Nge2 a5 11. Bg5 a4 12. Qb5 Bd7 13. Qb4 Bf5 14. O-O
+Nfxd5 15. Nxd5 Nxd5 16. Qxb7 Be6 17. Nf4 Nxf4 18. Bxf4 Qxd4 19. Be3 Qxb2 20.
+Qxe7 Rac8 21. Qa7 Rc4 22. Rad1 Qxa2 23. Rd6 Rfc8 24. Rfd1 Bf8 25. Rxe6 fxe6 26.
+Qa6 R4c7 27. Rd4 a3 28. h4 Qb3 29. Bd1 Rc1 30. Bxc1 Rxc1 31. Kh2 Rxd1 32. Rxd1
+Qxd1 33. Qxe6+ Kg7 34. Qe5+ Kf7 35. Qf4+ Ke6 36. Qe4+ Kd6 37. Qe3 Kc6 38. Qe8+
+Kc7 39. Qf7+ Qd7 40. Qc4+ Kd8 41. g3 Qd2 42. Qf7 Be7 43. h5 a2 44. hxg6 a1=Q
+45. g7 Qh6+ 0-1

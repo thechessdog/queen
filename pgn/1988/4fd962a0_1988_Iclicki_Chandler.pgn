@@ -1,0 +1,20 @@
+[Event "Lloyds Bank op"]
+[Site "London"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Iclicki, Willy"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "4fd962a0"]
+[Epoch "Queen"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+[WhiteID "200450"]
+[WhiteCountry "LIE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Re8 8.
+O-O Bf8 9. f3 c5 10. Bc2 Nc6 11. a3 b6 12. Kh1 Ba6 13. Ba4 Rc8 14. Re1 Bd6 15.
+dxc5 bxc5 16. Bxc6 Rxc6 17. Qa4 Rb6 18. Qc2 d4 19. exd4 cxd4 0-1

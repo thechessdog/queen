@@ -1,0 +1,22 @@
+[Event "Malaga"]
+[Site "Malaga"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rodriguez Cespedes, Amador"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "721de51f"]
+[Epoch "Queen"]
+[BlackID "2200031"]
+[BlackCountry "SWE"]
+[WhiteCountry "ESP"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 a6 7. Qb3 Bg7 8. Be2
+O-O 9. Nf3 Nbd7 10. Ne5 Qb6 11. Be3 Rd8 12. Bc4 Qxb3 13. Bxb3 Nb6 14. d6 e6 15.
+Bg5 Rxd6 16. Bxf6 Bxf6 17. Ne4 Bxe5 18. dxe5 Rd4 19. Nf6+ Kg7 20. Ke2 Nd7 21.
+Ke3 Rb4 22. Nxd7 Bxd7 23. Rac1 Bc6 24. f3 a5 25. Rc2 Rb5 26. f4 Rb4 27. Rhc1
+Re4+ 28. Kf3 g5 29. fxg5 Rxe5+ 30. Kf4 Rf5+ 31. Kg4 h5+ 32. gxh6+ Kxh6 33. h4
+Rd8 34. Bc4 Rd4+ 35. Kh3 Be4 36. Rc3 Rf2 37. g4 Rxb2 38. g5+ Kh5 0-1

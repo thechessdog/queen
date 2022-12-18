@@ -1,0 +1,21 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Alvarez, Roberto"]
+[Black "Roncan, Jose"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "12b2f9e2"]
+[Epoch "Queen"]
+[WhiteID "111902"]
+[BlackID "111783"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 d6 2. f4 g6 3. Nf3 Bg7 4. d3 Nc6 5. c4 Bg4 6. Be2 e5 7. Nc3 Nge7 8. Nxe5
+Bxe2 9. Nxc6 Bxd1 10. Nxd8 Bxc3+ 11. Kxd1 Bd4 12. Nxb7 a5 13. Bd2 Nc6 14. Bc3
+Bxc3 15. bxc3 Ra7 16. Rb1 Ke7 17. Kc2 Rb8 18. Nxd6 cxd6 19. Rxb8 Nxb8 20. Rb1
+Nc6 21. d4 Kd7 22. Kd3 Kc7 23. e5 dxe5 24. fxe5 Ra8 25. Rf1 Rf8 26. Rf6 Nd8 27.
+d5 1-0

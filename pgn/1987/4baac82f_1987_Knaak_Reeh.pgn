@@ -1,0 +1,19 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Knaak, Rainer"]
+[Black "Reeh, Oliver"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "4baac82f"]
+[Epoch "Queen"]
+[WhiteID "4611250"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 O-O 7. e4 Nc6 8. Bd3
+e5 9. d5 Bxc3+ 10. bxc3 Ne7 11. Bg5 Ne8 12. h4 f6 13. Be3 c5 14. h5 Nd6 15. Qe2
+f5 16. Bg5 h6 17. exf5 hxg5 18. h6 Rf6 19. hxg7 Nf7 20. O-O-O Nc8 21. Rh8+ Nxh8
+22. gxh8=Q+ Kxh8 23. Rh1+ Kg7 24. Qh5 Qg8 25. Ne4 1-0

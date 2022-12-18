@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Drewes, B."]
+[Black "Stroede, R."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "0aae18cc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Bxf6 gxf6 9. Na3 f5 10. Bd3 Qg5 11. Qf3 f4 12. Bf1 Nb4 13. h3 h5 14. Nd5
+Nxd5 15. exd5 b5 16. Rg1 Bd7 17. c3 Bg7 18. Nc2 Rc8 19. g3 h4 20. a4 bxa4
+21. Bxa6 Ra8 22. Nb4 hxg3 23. fxg3 Rxh3 24. Kf2 Rxa6 25. Nxa6 fxg3+ 26. Ke1
+Bh6 0-1
+

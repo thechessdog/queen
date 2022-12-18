@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Bad Neuenahr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmittdiel, Eckhard"]
+[Black "Sehner, Norbert"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "c9443183"]
+[Epoch "Queen"]
+[WhiteID "4600096"]
+[WhiteCountry "GER"]
+[BlackID "4600398"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 g6 7. Bg5 Bg7 8. Qd2
+O-O 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Nc6 12. Nxc6 Bxc6 13. f4 a5 14. e5 a4 15.
+exf6 exf6 16. Bd5 b4 17. Ne4 Bxd5 18. Bxf6 Bxf6 19. Qxd5 Bg7 20. Qxd6 Qc8 21.
+Re3 b3 22. Nc3 bxa2 23. Nxa2 Qb7 24. Nb4 Qxg2 25. Nd5 Kh8 26. Nb6 Ra6 27. Re7
+Qf2 28. Rb7 a3 29. bxa3 Qe3+ 30. Kb1 Rxa3 31. Qxf8+ Bxf8 32. Rd8 Qe1+ 33. Kb2
+Qa1# 0-1

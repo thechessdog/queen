@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Piontek"]
+[Result "0-1"]
+[ECO "E84"]
+[Opening "King's Indian"]
+[Variation "Saemisch, Panno main line"]
+[HashCode "175c8944"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8.
+Qd2 Rb8 9. Bh6 b5 10. h4 bxc4 11. h5 Nb4 12. Kd1 Nd3 13. Rh2 Nxb2+ 14. Kc2
+Nd3 15. Qg5 Rb2+ 16. Kd1 c5 17. hxg6 fxg6 18. Nd5 Nxe4 19. Nxe7+ Qxe7 20.
+Qd5+ Be6 0-1
+

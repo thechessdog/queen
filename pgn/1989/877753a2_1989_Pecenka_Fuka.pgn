@@ -1,0 +1,22 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pecenka"]
+[Black "Fuka"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "877753a2"]
+[Epoch "Queen"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. cxd5 Nxd5 7. Nf3 e6
+8. Bd3 Be7 9. O-O O-O 10. Re1 Bf6 11. Be4 Nde7 12. Be3 b6 13. Qd3 g6 14.
+Red1 Bb7 15. a3 Bg7 16. Qd2 Na5 17. Bxb7 Nxb7 18. Bh6 Na5 19. Bxg7 Kxg7 20.
+Qc2 Rc8 21. b4 Nc4 22. Qb3 Nd5 23. Rac1 Nxc3 24. Rxc3 Qd5 25. Rdc1 b5 26.
+a4 a6 27. a5 Kg8 28. Rd1 Rc6 29. Rcd3 Rd8 30. h3 Rcd6 31. Qc3 Rc6 32. Qb3
+Rcd6 33. Qc3 Qf5 34. Nh2 h5 35. Nf1 Qd5 36. f4 Qe4 37. g3 h4 38. Re1 Qf5
+39. Nh2 hxg3 40. Ng4 Kf8 41. d5 Rxd5 42. Rxd5 Rxd5 43. Qh8+ Ke7 44. Qh4+ g5
+0-1
+

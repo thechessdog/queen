@@ -1,0 +1,23 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schuh, Hubert"]
+[Black "Steinbacher, Matthias, Dr."]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "aac40453"]
+[Epoch "Queen"]
+[WhiteID "4600894"]
+[WhiteCountry "GER"]
+[BlackID "4600908"]
+[BlackCountry "GER"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. f4 c5 6. d5 O-O 7. Nf3 b5 8. e5 dxe5
+9. fxe5 Ng4 10. Bf4 Nd7 11. Nxb5 Ndxe5 12. Nxe5 Nxe5 13. Qd2 e6 14. Be2 exd5
+15. cxd5 c4 16. Nc3 Rb8 17. Be3 Qf6 18. Bf2 Bf5 19. O-O Rb7 20. h3 Rfb8 21. Na4
+Rb4 22. b3 cxb3 23. axb3 Rxb3 24. Bxa7 R8b7 25. Be3 h5 26. Bh6 R7b4 27. Bxg7
+Kxg7 28. Kh1 Qh4 29. Qe1 Rxh3+ 30. gxh3 Qxh3+ 31. Kg1 Be4 32. Kf2 Rb3 33. Rg1
+Rf3+ 0-1

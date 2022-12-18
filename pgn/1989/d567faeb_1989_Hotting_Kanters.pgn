@@ -1,0 +1,17 @@
+[Event "corr NLD BV/89"]
+[Site "corr NLD BV/89"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hotting"]
+[Black "Kanters"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "d567faeb"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. Nxf6+
+Nxf6 8. Qe2 O-O 9. Bg5 c5 10. dxc5 Qa5+ 11. c3 Qxc5 12. O-O Rd8 13. Ne5 Bd7
+14. Bxf6 Bxf6 15. Bxh7+ Kf8 16. Nxd7+ Rxd7 17. Be4 Rad8 18. Rfd1 1-0
+

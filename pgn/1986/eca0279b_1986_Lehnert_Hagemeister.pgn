@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lehnert"]
+[Black "Hagemeister"]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "eca0279b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Bb5+ Bd7 5. Qe2 dxe4 6. dxc5 Bxc5 7. Nb3
+Bxf2+ 8. Kxf2 Qb6+ 9. Be3 Qxb5 10. Qg4 Nf6 11. Qf4 O-O 12. Ne2 e5 13. Qg3
+Ng4+ 14. Ke1 f5 15. Bc5 Rf7 16. h3 f4 17. Qc3 f3 0-1
+

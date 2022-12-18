@@ -1,0 +1,16 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wawov"]
+[Black "Behrmann, Joachim"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[HashCode "a55bb314"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. b4 Be6 7. Qb3 a5 8. b5 c5
+9. bxc6 bxc6 10. c5 Ne4 11. Qb7 Na6 12. Nxe4 dxe4 13. Bxa6 exf3 14. gxf3 Bd5
+15. Be2 e5 16. e4 exd4 17. Bd3 Qf6 18. Ke2 Qe6 19. Bf4 f5 0-1

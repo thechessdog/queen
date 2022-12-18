@@ -1,0 +1,23 @@
+[Event "Leeds blitz"]
+[Site "Leeds blitz"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mach IV"]
+[Black "Adams"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "e48a84d7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7
+8. Bg5 f6 9. Be3 O-O 10. Qd2 f5 11. f3 exf3 12. gxf3 a6 13. Bxc6 Nxc6 14.
+O-O-O Rf7 15. Bf4 b5 16. Ne2 Bb7 17. Rhg1 Kh8 18. Qe3 Qd7 19. h3 b4 20. Rg3
+bxa3 21. Qxa3 Re8 22. Qb3 Ba8 23. Qa4 a5 24. c3 Rb8 25. Rdg1 Bb7 26. Qc2
+Ba6 27. Rg5 a4 28. Bh2 a3 29. bxa3 Qe7 30. R5g2 Qxa3+ 31. Kd1 Rb2 32. Qc1
+Qb3+ 33. Ke1 Rb1 34. Kd2 Rxc1 35. Rxc1 Na5 36. Ke1 Qb2 37. Rd1 Nc4 38. Bf4
+h6 39. h4 Kh7 40. h5 Re7 41. Bc1 Qc2 42. Rh2 e5 43. d5 f4 44. Rf2 e4 45. d6
+cxd6 46. fxe4 Rxe4 47. Bd2 Ne5 48. Ra1 Nd3+ 49. Kf1 Nxf2 50. Kg2 Rxe2 51.
+Bxf4 Bb7+ 52. Kh2 Ne4+ 53. Kh3 Bc8+ 54. Kh4 Rh2+ 55. Bxh2 Qxh2# 0-1
+

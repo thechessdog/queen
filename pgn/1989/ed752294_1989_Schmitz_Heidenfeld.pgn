@@ -1,0 +1,18 @@
+[Event "Bozen"]
+[Site "Bozen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmitz"]
+[Black "Heidenfeld, Wolfgang"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "ed752294"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Bb5 7. O-O Bxe2 8. Qxe2
+Nc6 9. Be3 a6 10. a4 c4 11. Nbd2 Na5 12. Ng5 h6 13. Nh3 Qxb2 14. f4 Ne7 15. g4
+g6 16. Rab1 Qxc3 17. Rfc1 Qd3 18. Qe1 Nec6 19. Nf3 Qa3 20. f5 gxf5 21. gxf5
+Rg8+ 22. Kh1 Nb3 23. Rc2 Nbxd4 24. Nxd4 Nxd4 25. fxe6 Nxe6 26. Rxb7 Qd3 27. Rg2
+Rxg2 28. Kxg2 Qe4+ 29. Kf1 d4 0-1

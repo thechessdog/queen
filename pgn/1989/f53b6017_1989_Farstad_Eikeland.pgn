@@ -1,0 +1,17 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Farstad, Finn"]
+[Black "Eikeland, Erik"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "f53b6017"]
+[Epoch "Queen"]
+[BlackID "1502816"]
+[BlackCountry "NOR"]
+
+1. f4 Nc6 2. e4 Nf6 3. Nc3 d6 4. h3 e5 5. Nge2 b6 6. d4 Bb7 7. g4 h6 8. Be3 Nb4
+9. Bg2 g5 10. fxg5 hxg5 11. Bxg5 Bh6 12. Bxf6 Qxf6 13. dxe5 Qxe5 14. Rf1 Qh2
+15. Nf4 Bxf4 16. Qf3 Be3 17. Qxf7+ Kd8 18. Qb3 Qxg2 19. Qxb4 Qd2# 0-1

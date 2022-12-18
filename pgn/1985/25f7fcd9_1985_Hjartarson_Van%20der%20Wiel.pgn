@@ -1,0 +1,26 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Hjartarson, Johann"]
+[Black "Van der Wiel, John T.H."]
+[Result "1-0"]
+[ECO "B64"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4"]
+[HashCode "25f7fcd9"]
+[Epoch "Queen"]
+[WhiteID "2300044"]
+[WhiteCountry "ISL"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 h6 10. Bh4 e5 11. Nf5 Bxf5 12. exf5 exf4 13. Kb1 d5 14. Qxf4 d4
+15. Bxf6 Bxf6 16. Ne4 Be5 17. Qf3 Rc8 18. a3 Kh8 19. g4 Na5 20. Bd3 Nc4 21. g5
+Qb6 22. Bxc4 Rxc4 23. gxh6 Qxh6 24. Rhg1 Rfc8 25. Ng5 R4c7 26. Rde1 Bf6 27. h4
+Kg8 28. Qe4 Rf8 29. Qf4 Rd7 30. Rg4 Kh8 31. Qg3 Kg8 32. Ne4 d3 33. cxd3 Bd4 34.
+f6 Bxf6 35. Nxf6+ Qxf6 36. Rg1 g6 37. h5 Qd6 38. hxg6 f5 39. g7 fxg4 40.
+gxf8=Q+ Kxf8 41. Qxg4 Qxd3+ 42. Ka1 Ke7 43. Qg5+ Kd6 44. Rc1 Qf3 45. Qg6+ Ke7
+46. Re1+ Kd8 47. Qe8+ Kc7 48. Rc1+ Kd6 49. Qb8+ Kd5 50. Qxa7 Ke6 51. Re1+ Kf6
+52. Qb6+ Kg7 53. Rg1+ Kf7 54. Qg6+ Ke7 55. Re1+ Kd8 56. Qb6+ 1-0

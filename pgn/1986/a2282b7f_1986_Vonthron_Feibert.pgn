@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vonthron, Horst"]
+[Black "Feibert, Fred"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "a2282b7f"]
+[Epoch "Queen"]
+[WhiteID "4600495"]
+[BlackID "4610750"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. c3
+Nbc6 9. f4 cxd4 10. cxd4 f6 11. Nf3 fxe5 12. fxe5 Nf5 13. Bd3 a6 14. Bxf5 axb5
+15. Bc2 Rxf3 16. gxf3 Qh4+ 17. Qf2 Qf4 18. Rd1 Rxa2 19. O-O Bd7 20. Qd2 Qh4 21.
+f4 Qh3 22. Qe2 g6 23. Rd3 Qh4 24. Bb3 Ra8 25. Qg2 Rf8 26. Qg5 Qxg5+ 27. fxg5
+Ra8 28. Rf6 Ra1+ 29. Kg2 Rb1 30. Rf2 Ra1 31. Rdf3 Ra8 32. Rf7 Rd8 33. R2f4 Bc8
+34. Rc7 Bd7 35. Bd1 b6 36. Bg4 1-0

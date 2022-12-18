@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Daikeler"]
+[Black "Augustin, Josef"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Breyer gambit"]
+[HashCode "bf9665d4"]
+[Epoch "Queen"]
+[BlackID "300373"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. f4 exf4 3. Qf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bxc6+ Nxc6
+8. Qxc6+ Bd7 9. Qf3 Bd6 10. Ne2 O-O 11. Nxf4 Re8+ 12. Kf1 Bg4 13. Qg3 Be2+ 14.
+Nxe2 Bxg3 15. Nxg3 Ng4 16. Ne2 Qf6+ 0-1

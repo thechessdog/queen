@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone, Peter"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "2976b4e9"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Bd2 Qd7 6. Nb5 Nc6 7. Bxb4 Nxb4 8. c3
+Na6 9. Nf3 Ne7 10. Bd3 c5 11. Nd6+ Kf8 12. Ng5 f6 13. Qf3 Nf5 14. Nxf5 exf5 15.
+Bxf5 Qxf5 0-1

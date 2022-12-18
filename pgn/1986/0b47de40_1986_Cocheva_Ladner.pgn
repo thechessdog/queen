@@ -1,0 +1,25 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cocheva, R."]
+[Black "Ladner, Karin"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "0b47de40"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
+Qf6 8. Qd2 Qg6 9. f3 Nge7 10. b3 O-O 11. Bb2 d6 12. Nc3 Rd8 13. Nd5 Nxd5
+14. exd5 Ne7 15. Bd3 f5 16. O-O Qf7 17. c4 f4 18. b4 Bd7 19. Be4 Rac8 20.
+Rac1 Bf5 21. Rfd1 g5 22. c5 Qf6 23. Qd3 Bg6 24. c6 bxc6 25. Bxg6 hxg6 26.
+dxc6 d5 27. Qxa6 Rxc6 28. Rxc6 Qxc6 29. Qxc6 Nxc6 30. b5 Nb4 31. Bxe5 Nxa2
+32. b6 Nb4 33. b7 Nc6 34. Bc7 Rd7 35. b8=Q+ Nxb8 36. Bxb8 Kf7 37. Ra1 Ke6
+38. Re1+ Kf5 39. g4+ fxg3 40. hxg3 g4 41. f4 d4 42. Re5+ Kf6 43. Re2 Kf5
+44. Kf2 d3 45. Re5+ Kf6 46. Ke1 d2+ 47. Kd1 Rd3 48. Rg5 Rxg3 49. Be5+ Kf7
+50. Kxd2 Rg1 51. Ke2 Rg2+ 52. Kf1 Ra2 53. Rxg4 Rc2 54. Rg3 Ra2 55. Rd3 Rh2
+56. Rd7+ Ke6 57. Rd6+ Kf7 58. Rf6+ Kg7 59. Rf5+ Kg8 60. Rg5 Kf7 61. Rg2
+Rxg2 62. Kxg2 Ke6 63. Bc3 Kf5 64. Bd2 1-0
+

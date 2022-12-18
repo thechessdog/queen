@@ -1,0 +1,16 @@
+[Event "OHRA"]
+[Site "Brussel open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kerkhof, P."]
+[Black "Rajkovic, Dusan"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "004bd66f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e6 4. d4 d5 5. e5 Bd7 6. g3 Qb6 7. a3 Rc8 8. dxc5
+Bxc5 9. Qe2 a5 10. a4 f6 11. exf6 Nxf6 12. Bg2 O-O 13. O-O Rce8 14. Be3 Bxe3
+15. fxe3 e5 16. Na3 e4 17. Nd4 Nxd4 18. cxd4 Bxa4 19. Nc4 Qb5 0-1

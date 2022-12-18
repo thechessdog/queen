@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Miskinis, GM."]
+[Black "Tuchtenhagen, H."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "2eb7e0b5"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Qc7 7. Be2
+e5 8. dxe5 fxe5 9. O-O Bf5 10. Bd3 Bxd3 11. Qxd3 Nd7 12. Qf5 Be7 13. Bh6
+O-O-O 14. Bg7 Rhg8 15. Bxe5 Qa5 16. Qxf7 Rdf8 17. Qxe7 Rxf3 18. Bg3 Rff8
+19. Rad1 Qf5 20. Qd6 1-0
+

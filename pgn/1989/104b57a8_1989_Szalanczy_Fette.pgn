@@ -1,0 +1,23 @@
+[Event "Bad Orb op"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Fette, Martin"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "104b57a8"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[BlackID "4600827"]
+[WhiteCountry "HUN"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. Be3 Bg4 8. c4
+dxc4 9. Nc3 Bxf3 10. Bxf3 cxd4 11. Qa4 Ne7 12. Rad1 Qa5 13. Qxa5 Nxa5 14. Nb5
+O-O-O 15. Bxd4 Nd5 16. Bxa7 Nc6 17. Bxd5 Rxd5 18. Rxd5 exd5 19. Rd1 Nxe5 20.
+Rxd5 Nc6 21. Bb6 Be7 22. g3 h5 23. Kg2 h4 24. g4 Rh6 25. Be3 Re6 26. a3 Ne5 27.
+Nd4 Nxg4 28. Nxe6 Nxe3+ 29. fxe3 fxe6 30. Rd4 b5 31. a4 Bf6 32. Re4 Bxb2 33.
+axb5 c3 34. Rxe6 Kb7 35. Rc6 1-0

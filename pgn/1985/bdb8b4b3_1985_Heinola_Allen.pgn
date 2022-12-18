@@ -1,0 +1,17 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heinola"]
+[Black "Allen"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "bdb8b4b3"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h5 7. Nh3 e6 8.
+Nf4 Ne7 9. Be2 Nf5 10. Nxg6 fxg6 11. Nxf5 exf5 12. Rh3 b5 13. Bg5 Qd6 14.
+Re3+ Kf7 15. a4 Kg8 16. axb5 cxb5 17. Bf3 Nc6 18. Ra6 Rc8 19. d5 1-0
+

@@ -1,0 +1,17 @@
+[Event "Delmenhorst"]
+[Site "Delmenhorst"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heinsohn, Thomas"]
+[Black "Rakic, Tomislav"]
+[Result "0-1"]
+[ECO "E72"]
+[Opening "King's Indian"]
+[Variation "Pomar system"]
+[HashCode "dc62a55e"]
+[Epoch "Queen"]
+[BlackID "900842"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. Nge2 exd4 8. Nxd4
+Nc6 9. Nc2 Ne5 10. b3 Nfd7 11. Bb2 Nc5 12. Kd2 Ncd3 0-1

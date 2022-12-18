@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Baroin, B."]
+[Black "Schwibbe, R."]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "0e1b062c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+e5 dxe5 9. fxe5 Nfd7 10. Bf4 Qa5 11. Nf3 Nc6 12. Qe2 Bb4 13. Qe3 Nb6 14.
+Nd2 Bxc3 15. bxc3 Nd5 16. Nc4 Nxe3 17. Nxa5 Nxc2+ 0-1
+

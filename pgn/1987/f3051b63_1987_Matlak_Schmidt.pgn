@@ -1,0 +1,19 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Matlak, Marek"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "f3051b63"]
+[Epoch "Queen"]
+[WhiteID "1100122"]
+[WhiteCountry "POL"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. h3 c5 6. c3 d6 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Nbd2 Nc6 1/2-1/2

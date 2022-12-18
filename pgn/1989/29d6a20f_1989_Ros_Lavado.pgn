@@ -1,0 +1,21 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Ros, L."]
+[Black "Lavado, M."]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Pilnik variation"]
+[HashCode "29d6a20f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 d6 7. c3 Be7 8. O-O
+O-O 9. Re1 Bg4 10. Nbd2 Na5 11. Bc2 c5 12. h3 Be6 13. Nf1 h6 14. Ng3 Qd7 15.
+Be3 Nh7 16. Qd2 f5 17. exf5 Bxf5 18. Nxf5 Qxf5 19. d4 e4 20. dxc5 Nc4 21. Qc1
+Nxe3 22. Qxe3 d5 23. b4 Bg5 24. Nxg5 Nxg5 25. Rad1 Qf6 26. Kh1 Qc6 27. Bb3 Rad8
+28. Rd2 Kh8 29. Red1 Rf5 30. h4 Ne6 31. Qh3 Rdf8 32. Bxd5 Rxd5 33. Rxd5 Nf4 34.
+Rd6 Nxh3 35. Rxc6 Nxf2+ 36. Kg1 Nxd1 37. Rxa6 Nxc3 38. Re6 Ra8 39. c6 e3 40. c7
+Nd5 41. Rc6 Rc8 42. Kf1 Nxb4 43. Rb6 Rxc7 44. Rxb5 Nxa2 45. Re5 Rc3 46. Ke2
+Nc1+ 0-1

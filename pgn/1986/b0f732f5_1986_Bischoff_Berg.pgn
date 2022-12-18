@@ -1,0 +1,21 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Bischoff, Klaus"]
+[Black "Berg, Klaus"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "b0f732f5"]
+[Epoch "Queen"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+[WhiteID "4600045"]
+[WhiteCountry "GER"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. a3 cxd4 7. exd4 Be7 8. Bd3
+O-O 9. O-O dxc4 10. Bxc4 b6 11. Re1 Bb7 12. Ba2 Qd6 13. h3 Rfd8 14. Be3 Rac8
+15. Qe2 Qb8 16. Rad1 Na5 17. Bg5 h6 18. Bh4 Qf4 19. d5 Bxa3 20. Rd4 Qb8 21.
+Bxf6 gxf6 22. Rh4 Kf8 23. dxe6 1-0

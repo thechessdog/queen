@@ -1,0 +1,25 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Belotti, Bruno"]
+[Black "Schneider, Attila"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "d967c242"]
+[Epoch "Queen"]
+[WhiteID "800040"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Nd2 a6 10. a4 Qe7 11. Be2 Nbd7 12. O-O Rb8 13. h3 Ne8 14. Re1 g5 15. Bg3
+Be5 16. Nf1 Ng7 17. Bg4 Bxg3 18. Nxg3 Ne5 19. Bxc8 Rfxc8 20. a5 b5 21. axb6
+Rxb6 22. Ra2 Rcb8 23. Qe2 c4 24. Rea1 Qb7 25. Nd1 Nd3 26. Ne3 Qc7 27. Qg4 f6
+28. Rxa6 Rxb2 29. Rc6 Qb7 30. Nxc4 Rxf2 31. Nxd6 Rxg2+ 32. Kxg2 Qb2+ 33. Ne2 h5
+34. Qf3 Nf4+ 35. Kf2 Rb3 36. Ra8+ Kh7 37. Qxf4 gxf4 38. Nc4 Qb1 39. Nd2 Qd3 40.
+Nxb3 Qe3+ 41. Ke1 Qxb3 42. Nc3 Qc2 43. Ra2 Qd3 44. Rf2 Qe3+ 45. Ne2 f3 46. Rc3
+Qxe4 47. Rfxf3 Nf5 48. Rfd3 h4 49. Kd2 Nd6 50. Rd4 Qb1 51. Rxh4+ Kg6 52. Rg4+
+Kh6 53. Rh4+ Kg6 54. Rg4+ Kh6 1/2-1/2

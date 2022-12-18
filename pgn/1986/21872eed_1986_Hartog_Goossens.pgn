@@ -1,0 +1,18 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hartog"]
+[Black "Goossens"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran, Lilienthal variation"]
+[HashCode "21872eed"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Bb7 12. Bg2 Qb6 13. exf6 O-O-O 14. O-O
+Bh6 15. Be3 Nxf6 16. Qf3 Bxe3 17. fxe3 Rh6 18. b3 Qa5 19. Ne4 Nxe4 20. Qxe4
+f5 21. Qf4 Rdh8 22. Qe5 c3 23. a3 c2 24. Rf2 Qxa3 0-1
+

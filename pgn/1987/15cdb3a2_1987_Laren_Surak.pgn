@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Laren"]
+[Black "Surak"]
+[Result "0-1"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "15cdb3a2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Nc3 dxc4
+8. e4 c6 9. a4 b6 10. Qe2 Ba6 11. Rd1 Qc8 12. d5 exd5 13. exd5 Re8 14. dxc6
+Nc5 15. Nb5 Nd3 16. Qc2 Bc5 17. b4 Nxb4 18. Qxc4 Nxc6 19. Bb2 Ne4 20. Nfd4
+Bb7 21. Nb3 Ne5 22. Qe2 Bxf2+ 23. Kf1 Ng4 24. Bxe4 Rxe4 25. Qd3 Nxh2+ 26.
+Kxf2 Qf5+ 0-1
+

@@ -1,0 +1,27 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Engel, Berthold"]
+[Black "Welz, Thomas"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "dd979ee9"]
+[Epoch "Queen"]
+[WhiteID "4604717"]
+[BlackID "4601181"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. Be3 Nf6 4. f3 Bg7 5. Nc3 c6 6. Qd2 Nbd7 7. Nge2 e5 8.
+O-O-O Qe7 9. d5 c5 10. Kb1 a6 11. a4 Nb6 12. b3 Bd7 13. Nc1 Nc8 14. N1a2 Na7
+15. Kb2 O-O 16. Ra1 Nh5 17. Bd3 Nf4 18. Rhb1 Nxd3+ 19. cxd3 a5 20. Nc1 b6 21.
+N1e2 Rfb8 22. Kc2 Qd8 23. Rb2 Rb7 24. Nb1 b5 25. axb5 Nxb5 26. Rba2 a4 27. bxa4
+Nd4+ 28. Bxd4 cxd4 29. a5 Qh4 30. g3 Rc8+ 31. Kd1 Qxh2 32. Qe1 Qh5 33. Nd2 Bh6
+34. a6 Ra7 35. g4 Qh3 36. Ng1 Qh1 37. Nc4 Be3 38. Nxe3 dxe3 39. Qxe3 Rca8 40.
+Qb6 Bb5 41. Ke2 Rxa6 42. Rxa6 Rxa6 43. Rxa6 Bxa6 44. Qxa6 Qg2+ 45. Ke3 Qxg1+
+46. Ke2 Qc5 47. Qc6 Qa3 48. Qe8+ Kg7 49. Qd8 h6 50. Ke3 Qb4 51. Ke2 Qc5 52. Kd2
+Qb4+ 53. Kc2 Qa3 54. Qe7 Qc5+ 55. Kd2 Qf2+ 56. Kc3 Qb6 57. Kc2 Qb8 58. Kc3 Qf8
+59. Qc7 Kf6 60. Kd2 Qe7 61. Qb8 Kg5 62. Ke3 Qf6 63. Qb1 Qf4+ 64. Ke2 Qh2+ 65.
+Ke3 Qg3 66. Qb8 Qe1# 0-1

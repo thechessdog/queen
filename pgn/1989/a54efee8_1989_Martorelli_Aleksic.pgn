@@ -1,0 +1,20 @@
+[Event "Naples"]
+[Site "Naples"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martorelli"]
+[Black "Aleksic"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "a54efee8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7
+8. f4 Nc5 9. f5 Be7 10. Qf3 O-O 11. g4 e5 12. Nde2 Nxb3 13. axb3 d5 14.
+exd5 e4 15. Nxe4 Nxe4 16. Qxe4 Bh4+ 17. Kf1 Re8 18. Qf3 b5 19. Bf4 Bb7 20.
+Rd1 Rc8 21. Qd3 Qb6 22. Ng3 b4 23. Kg2 Red8 24. Kh3 Bxd5 25. Ne4 Bb7 26.
+Qe2 Re8 27. Rd6 Qc7 28. Rhd1 Rxe4 29. Qd2 Be7 30. Re6 Qxf4 31. Qxf4 Rxf4
+32. Rxe7 Ba8 33. Rdd7 h5 34. Rxf7 Rxg4 1-0
+

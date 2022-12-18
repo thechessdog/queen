@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Panizzi"]
+[Black "Fico"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "821de4a3"]
+[Epoch "Queen"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. bxc3 Nge7 10. c4 Qd7 11. d5 Nd8 12. h4 O-O 13. Qb3 b6 14.
+Bb4 c5 15. Bc3 Qf5 16. Ke2 e4 17. fxe4 Qxe4 18. Bg2 Qf5 19. Rag1 Ng6 20. h5
+Ne5 21. e4 Qf4 22. Bd2 Qg4+ 23. f3 Qd7 24. Bh3 Qd6 25. f4 Nd7 26. Qg3 g6
+27. Bf5 1-0
+

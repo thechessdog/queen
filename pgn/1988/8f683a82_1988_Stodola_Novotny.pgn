@@ -1,0 +1,18 @@
+[Event "corr ch22-CSSR"]
+[Site "corr ch22-CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stodola"]
+[Black "Nowotny, Heinz"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[HashCode "8f683a82"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. g3 Bd6 13. Re1 Be6 14. d3 Qd7 15.
+Nd2 Kh8 16. Ne4 Be7 17. Be3 Bg4 18. f3 Nxe3 19. Rxe3 Bh5 20. Qe1 Rae8 21. g4
+Bg6 22. Qg3 f5 23. gxf5 Rxf5 24. Rae1 Ref8 25. d4 Qd8 26. Qg2 Bg5 27. Rd3 Bf4
+28. Qc2 Rh5 29. Re2 Bxe4 30. Rxe4 Rxh2 31. Re2 Qg5+ 32. Rg2 Re8 0-1

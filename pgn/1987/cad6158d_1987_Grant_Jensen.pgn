@@ -1,0 +1,18 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grant"]
+[Black "Jensen, Jacob"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "cad6158d"]
+[Epoch "Queen"]
+[BlackID "1703404"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 Bf5 5. Bxf6 exf6 6. Qe2 c6 7. O-O-O Bb4
+8. Nxe4 O-O 9. c3 Ba5 10. Ng3 Re8 11. Qf3 Be6 12. c4 Qd7 13. Qa3 Bc7 14. Nf3
+Bd6 15. Qd3 Na6 16. a3 b5 17. c5 Bf4+ 18. Nd2 Rad8 19. b4 Qxd4 20. Qxd4 Rxd4
+21. Ne2 Rc4+ 0-1

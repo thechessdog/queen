@@ -1,0 +1,20 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maurer"]
+[Black "Pilon"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "7924a6d1"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14.
+Rxa4 a5 15. Bc4 Kh8 16. Nce3 f5 17. Nxf5 Bxf5 18. exf5 Rxf5 19. Bd3 Rf8 20.
+Qh5 Bh6 21. O-O Ne7 22. Ne3 Rb8 23. Ra2 Qd7 24. Rfa1 Qb7 25. Ng4 Qd5 26.
+Nxh6 Qxd3 27. Ng4 Nd5 28. Qh4 Nxc3 29. Rxa5 Rxb2 30. h3 Qe4 31. Qe7 Ne2+
+32. Kf1 Rfb8 0-1
+

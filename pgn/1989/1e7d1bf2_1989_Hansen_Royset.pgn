@@ -1,0 +1,20 @@
+[Event "Gausdal Peer Gynt"]
+[Site "Gausdal Peer Gynt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hansen, Carsten"]
+[Black "Royset, Jon K"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "1e7d1bf2"]
+[Epoch "Queen"]
+[BlackID "1501690"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Bg7 7. Bg2 O-O 8. O-O
+a6 9. a4 Qc7 10. h3 Nc6 11. Nde2 Rb8 12. Bg5 Nb4 13. Qd2 b6 14. Rac1 Bb7 15.
+Rfe1 Rfd8 16. Nd1 Nc6 17. b3 d5 18. exd5 Nxd5 19. Bxd5 Ne5 20. Qe3 Bxd5 21. Bf4
+Ba8 22. Bxe5 Bxe5 23. Kh2 Bd6 24. Qc3 Qb7 25. Rg1 Rbc8 26. Qe3 Bc5 27. Qf4 Rd6
+28. g4 Rf6 29. Qg3 Rf3 30. Qg2 Qb8+ 0-1

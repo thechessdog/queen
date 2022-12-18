@@ -1,0 +1,18 @@
+[Event "Mittelfranken"]
+[Site "Mittelfranken"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Beisser, Georg"]
+[Black "Rosin, R."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "3489f811"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5 8.
+Ne4 Qh4 9. Ng3 Bb7 10. cxd4 O-O-O 11. d3 exd4 12. Be2 Bb4+ 13. Kf1 Rhe8 14. Nd2
+Nf4 15. Nf3 Bxf3 16. Bxf3 Nxd3 17. Bd2 Nxb2 18. Qc2 Bxd2 19. Qxb2 Qg5 20. h4
+Qh6 21. Qxb5 Qb6 22. Qf5+ Re6 23. Rb1 Qa6+ 24. Kg1 g6 25. Qxf7 Qxa2 26. Bb7+
+Kb8 27. Kh2 Re1 1-0

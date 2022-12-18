@@ -1,0 +1,17 @@
+[Event "Grand Rapids"]
+[Site "Grand Rapids"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Brinks, Kirk"]
+[Black "Downing, John"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "1c8e7e2a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Ba5 5. b4 Bb6 6. Bf4 dxe4 7. d5 exd5 8.
+Nxd5 Nf6 9. Nxf6+ Qxf6 10. Bg3 O-O 11. c4 c5 12. Rc1 Nc6 13. Ne2 Bg4 14. h3
+Bh5 15. bxc5 Ba5+ 16. Nc3 Bxd1 0-1
+

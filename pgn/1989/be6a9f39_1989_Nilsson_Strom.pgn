@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Strom, Claes"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "be6a9f39"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. Nf3 e6 5. Bb5 c5 6. d4 a6 7. Bxd7+ Bxd7 8. a4
+Nc6 9. Bf4 Qb6 10. Ne2 cxd4 11. Nfxd4 Nxd4 12. Nxd4 Qxb2 13. O-O Qc3 14. Rb1
+Qc7 15. a5 Bc5 16. c3 O-O 17. Qg4 Rfc8 18. Rfd1 Bf8 19. Rd3 Qxa5 20. Rxb7 Rxc3
+21. Nb3 Rxb3 0-1

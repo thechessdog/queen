@@ -1,0 +1,19 @@
+[Event "Nordic-chT"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "?"]
+[White "Wiese-Jozwiak, Malgorzata"]
+[Black "Walta, Paivi"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "895ec259"]
+[Epoch "Queen"]
+[BlackID "504513"]
+[BlackCountry "FIN"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 O-O 11. Rhe1 b5 12. e5 Bb7 13. Qh3 dxe5 14. Bxf6 e4
+15. Bxe7 Qxf4+ 16. Qe3 1-0

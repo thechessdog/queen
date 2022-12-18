@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Valiente, Cristobal"]
+[Black "Tempone, Marcelo"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "e4b15827"]
+[Epoch "Queen"]
+[BlackID "100269"]
+[BlackCountry "ARG"]
+[WhiteID "3700020"]
+[WhiteCountry "PAR"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. O-O-O Ngf6 13. Ne4 Be7 14. Kb1 a5
+15. g3 Nxe4 16. Qxe4 a4 17. c4 Nf6 18. Qe2 O-O 19. g4 b5 20. g5 hxg5 21. Bxg5
+bxc4 22. Rdg1 Ne8 1/2-1/2

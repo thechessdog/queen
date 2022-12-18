@@ -1,0 +1,17 @@
+[Event "Kladovo"]
+[Site "Kladovo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kozul, Zdenko"]
+[Black "Barlov, Dragan"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "ddf4418e"]
+[Epoch "Queen"]
+[BlackID "900214"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 Bg7 5. Nc3 d6 6. e4 O-O 7. h3 e6 8. Bd3 exd5
+9. cxd5 b5 10. Nxb5 Nxe4 11. Bxe4 Re8 12. Nd2 Ba6 13. a4 Qa5 14. Nxd6 Nd7 15.
+g4 Rxe4+ 0-1

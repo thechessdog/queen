@@ -1,0 +1,17 @@
+[Event "Bornholm"]
+[Site "Bornholm"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nielsen, Poul Erik"]
+[Black "Sorensen, Jais"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "d2e01eda"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bb5+ Nbd7 8. e5
+dxe5 9. Bg5 a6 10. Bxd7+ Bxd7 11. Qf3 Bg7 12. Ne4 Qa5+ 13. Bd2 Qb6 14. Nc3 O-O
+15. Nge2 Bg4 16. Qe3 Bxe2 17. Qxe2 Rad8 18. Bg5 Rd6 19. O-O-O Re8 20. Rhe1 Qc7
+21. Bxf6 Rxf6 22. Ne4 Rb6 23. Qc4 Rb4 24. Qxc5 0-1

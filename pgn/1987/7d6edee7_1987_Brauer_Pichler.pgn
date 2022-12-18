@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brauer"]
+[Black "Pichler, Juergen"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "7d6edee7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Rb8 14. Nxd4 Qxd4
+15. Qf3 Be7 16. Qc6+ Qd7 17. Qxa6 O-O 18. axb5 Qd5 19. Qc6 Qxe5 20. Ra5 Bb4 21.
+Nc4 Qe2 22. Ra3 Bxa3 23. bxa3 Nd4 24. Qc5 Qd3 25. Ne3 Rxb5 26. Qxc7 Rb1 27. h3
+f5 28. Kh2 Nb5 29. Qc5 Nc3 30. Rh1 Ne4 31. Qc7 f4 32. Rd1 Qc3 33. Nd5 Qxc7 34.
+Nxc7 Rc8 0-1

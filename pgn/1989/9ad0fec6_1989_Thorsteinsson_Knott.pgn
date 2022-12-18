@@ -1,0 +1,16 @@
+[Event "Lloyds Bank"]
+[Site "Londen open"]
+[Date "1989.08.01"]
+[Round "1"]
+[White "Thorsteinsson, Bjorn"]
+[Black "Knott, Simon JB"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "9ad0fec6"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 Nc6 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Rg6 8.
+Qh4 Rg4 9. Qh6 Rg6 10. Qh4 Rg4 11. Qh6 Bf8 12. Qh3 e5 13. Bb5 Rxe4+ 14. Nxe4
+Bxh3 15. Nxf6+ Qxf6 16. Nxh3 e4 0-1

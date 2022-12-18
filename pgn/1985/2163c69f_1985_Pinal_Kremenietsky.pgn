@@ -1,0 +1,21 @@
+[Event "Managua"]
+[Site "Managua"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pinal, Nelson"]
+[Black "Kremenietsky, Anato"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "2163c69f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8.
+O-O Nc6 9. Re1 dxc4 10. Bxc4 Bg4 11. d5 Nb4 12. Qb3 Bxf3 13. gxf3 a5 14.
+Bg5 Qd7 15. Rad1 Rac8 16. Ne4 b5 17. Bf1 Qf5 18. Bxf6 Bxf6 19. a3 Nc2 20.
+Nxf6+ Qxf6 21. Re4 a4 22. Qxb5 Rb8 23. Qc6 Qxb2 24. Qxa4 Ra8 25. Qb5 Qxa3
+26. Qe2 Rac8 27. Rxe7 Qc5 28. Re4 Qd6 29. Qa6 Qd7 30. d6 Rc5 31. Qd3 Rg5+
+32. Kh1 Rc5 33. Re7 Qd8 34. Qe4 Rc8 35. d7 Rb8 36. Bc4 Nb4 37. Bxf7+ Rxf7
+38. Re8+ 1-0
+

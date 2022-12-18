@@ -1,0 +1,23 @@
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Agdestein, Espen"]
+[Black "Shovel, Kenneth"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "e34ed030"]
+[Epoch "Queen"]
+[WhiteID "1500201"]
+[BlackID "401633"]
+[WhiteCountry "NOR"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. Ne4 Rd8 13. O-O-O Ngf6 14. g3 Nxe4
+15. Qxe4 Be7 16. Kb1 O-O 17. Qe2 Nf6 18. g4 c5 19. dxc5 Qxc5 20. Ne5 Rd5 21. f4
+Rfd8 22. Rhe1 Rd4 23. Nd3 Qb5 24. Qg2 Nd5 25. Ka1 Bb4 26. g5 hxg5 27. Qxg5 Be7
+28. Qg1 Bf6 29. Bc1 Qa5 30. Kb1 Nc3+ 31. bxc3 Qxc3 32. Nb2 Rb4 33. Rxd8+ Kh7
+34. Re5 Bxd8 35. Qc5 Qa3 36. Qe3 Qa4 37. Qd3+ Kh6 38. Qxd8 1-0

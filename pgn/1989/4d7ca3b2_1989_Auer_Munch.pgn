@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Auer"]
+[Black "Munch"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack, Nenarokov variation"]
+[HashCode "4d7ca3b2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 Ne7 11. Nbd2 Nxd2 12. Bxd2 c6 13. Rae1 O-O 14.
+Nd4 Qd7 15. Bc2 Ng6 16. f4 Qc7 17. f5 Nxe5 18. Qg3 Bxd4+ 19. cxd4 Qb6 20.
+Qxe5 Bd7 21. f6 g6 22. Qg5 Kh8 23. Qh6 Rg8 24. Rf4 1-0
+

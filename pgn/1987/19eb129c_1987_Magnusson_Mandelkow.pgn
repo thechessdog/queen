@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Magnusson, G."]
+[Black "Mandelkow, H."]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "19eb129c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5
+Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Re1 O-O 11. Bd3 Qc7 12. h3 Nb4 13. Ng5 Nxd3
+14. Qxd3 Bf5 15. Qd2 Qxc2 16. Qxc2 Bxc2 17. Nd4 Bg6 18. Ngf3 a6 19. Bg5
+Rfe8 20. Rad1 h6 21. Bxe7 Bxe7 22. Ne5 Bh7 23. Nb3 Bb4 24. Re3 Rad8 0-1
+

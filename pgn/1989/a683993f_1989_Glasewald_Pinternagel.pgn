@@ -1,0 +1,22 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Glasewald"]
+[Black "Pinternagel"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "a683993f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Nf3 Nbd7 5. e3 c6 6. Bd3 Bxd3 7. Qxd3 g6
+8. e4 dxe4 9. Nxe4 Bg7 10. O-O O-O 11. Rfe1 Qc7 12. Rad1 Rfe8 13. c3 Rad8
+14. Qc2 c5 15. Bxf6 exf6 16. Qa4 f5 17. Nxc5 Rxe1+ 18. Rxe1 Nxc5 19. dxc5
+Qxc5 20. Re8+ Rxe8 21. Qxe8+ Bf8 22. Qe5 Qc4 23. b3 Qe4 24. Qxe4 fxe4 25.
+Ng5 f5 26. Kf1 Be7 27. Ne6 Kf7 28. Nd4 Kf6 29. Ke2 Ke5 30. f3 Bc5 31. Nc2
+Bg1 32. h3 Kf4 33. fxe4 Kxe4 34. a4 Bh2 35. Ne1 Bd6 36. Nd3 g5 37. b4 f4
+38. Nf2+ Kf5 39. b5 h5 40. c4 g4 41. hxg4+ hxg4 42. Kd3 g3 43. Ne4 f3 44.
+Nxd6+ Kg6 45. gxf3 g2 46. Nxb7 g1=Q 47. a5 Kf5 48. a6 Ke5 49. Kc3 Qc1+ 50.
+Kb4 Kd4 0-1
+

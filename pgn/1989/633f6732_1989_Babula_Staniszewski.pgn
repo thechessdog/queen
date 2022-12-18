@@ -1,0 +1,28 @@
+[Event "Olomouci"]
+[Site "Olomouci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Babula, Milan"]
+[Black "Staniszewski, Piotr"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "633f6732"]
+[Epoch "Queen"]
+[BlackID "1100220"]
+[BlackCountry "POL"]
+[WhiteID "300632"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 b5 8. Ba2
+Bb7 9. O-O Nc6 10. Re1 Be7 11. Bg5 O-O 12. Nxc6 Bxc6 13. Qd3 Qc7 14. Rad1 Rfd8
+15. Bb3 Qb7 16. Qg3 a5 17. f3 b4 18. axb4 axb4 19. Ne2 Qb6+ 20. Kh1 Ra5 21. Bd2
+Rda8 22. Nf4 Ba4 23. Bxa4 Rxa4 24. Nd3 d5 25. Be3 Qc6 26. exd5 Nxd5 27. Bd4 Bf8
+28. Nc5 R4a5 29. Nb3 Ra2 30. Re2 Rd8 31. Red2 Raa8 32. h4 Rdc8 33. h5 h6 34. f4
+Ne7 35. Be5 Nf5 36. Qf2 f6 37. Nd4 Nxd4 38. Bxd4 Ra5 39. Qe2 Qd5 40. Be5 Qb5
+41. Qg4 Qe8 42. Bd4 Qxh5+ 43. Qxh5 Rxh5+ 44. Kg1 Rd5 45. Kf1 Kf7 46. Ke2 h5 47.
+Ra1 Kg6 48. Be3 Rxd2+ 49. Kxd2 Kf5 50. c3 bxc3+ 51. bxc3 Kg4 52. Kd3 Kg3 53.
+Ra2 Rd8+ 54. Kc4 h4 55. Re2 Bd6 56. Bf2+ Kg4 57. Rxe6 Bxf4 58. Re2 g5 59. Kb5
+h3 60. gxh3+ Kxh3 61. Bd4 f5 62. Re7 Bg3 63. Rh7+ Kg4 64. Rg7 f4 65. Bf6 Rd5+
+66. Kc6 Rf5 67. Bd4 f3 0-1

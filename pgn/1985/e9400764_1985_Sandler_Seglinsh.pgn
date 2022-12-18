@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sandler, Leonid"]
+[Black "Seglinsh"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "e9400764"]
+[Epoch "Queen"]
+[WhiteID "3201805"]
+[WhiteCountry "AUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Re1 h6 11. Bh4 g5 12. fxg5 Ne5 13. Qd1 Nh7 14. Bd3 hxg5
+15. Bg3 Bd7 16. Rhf1 O-O-O 17. Nf3 f6 18. Nxe5 dxe5 1/2-1/2

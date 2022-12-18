@@ -1,0 +1,16 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Slot"]
+[Black "Gittens"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "196ba5b3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb4 5. Bd3 Bxc3+ 6. bxc3 d5 7. e5 dxc4
+8. Bxc4 Nd5 9. Qg4 g6 10. Ne2 h5 11. Qf3 Ba6 12. Bxa6 Nxa6 13. c4 Ndb4 14.
+Bg5 Qc8 15. Qf6 1-0
+

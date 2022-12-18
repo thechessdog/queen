@@ -1,0 +1,24 @@
+[Event "Gausdal"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dannevig, Oystein"]
+[Black "Lauvsnes, Arild"]
+[Result "0-1"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, 6...Nbd7"]
+[HashCode "c25bbed8"]
+[Epoch "Queen"]
+[WhiteID "1500538"]
+[BlackID "1500554"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. b3 c5 8. e3
+cxd4 9. exd4 b6 10. Bb2 Bb7 11. Nbd2 Rc8 12. Rc1 Rc7 13. Qe2 Qa8 14. h3 Rfc8
+15. Ne1 Bb4 16. Bc3 Ba3 17. Rd1 a5 18. f4 g6 19. g4 Bd6 20. Rf2 dxc4 21. bxc4
+b5 22. c5 Nd5 23. Bxd5 Bxd5 24. a3 Rb7 25. h4 Bf8 26. h5 b4 27. axb4 axb4 28.
+Bb2 Ra7 29. hxg6 hxg6 30. Ndf3 Ra2 31. Ng5 Bg7 32. Qe3 Nf8 33. Qh3 f6 34. Ngf3
+Qa4 35. Rdd2 Qb3 36. f5 exf5 37. gxf5 Re8 38. Nd3 Rxb2 39. Nxb2 Re3 40. Kg2 Nh7
+41. fxg6 Ng5 42. Qc8+ Bf8 43. c6 0-1

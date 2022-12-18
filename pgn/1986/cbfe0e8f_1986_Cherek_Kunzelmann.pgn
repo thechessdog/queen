@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cherek"]
+[Black "Kunzelmann"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "cbfe0e8f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. O-O e5 9. Nd2 O-O 10. Nb3 Qe7 11. d5 e4 12. dxc6 exd3 13. cxb7 Bxb7 14.
+Qxd3 Ng4 15. e4 Ne5 16. Qg3 f5 17. Bg5 Qe6 18. exf5 Rxf5 19. Rfe1 Re8 20.
+f4 Qg6 21. Na5 Ba8 22. Bh4 Rxf4 23. Qxg6 hxg6 24. Bg3 Rf6 25. Rab1 Rfe6 26.
+Bxe5 Rxe5 27. Rxe5 dxe5 28. Rb5 e4 29. Kf1 e3 30. Nb3 Bxg2+ 31. Ke1 Bf3 32.
+Rxc5 Re4 33. Nd4 Bh5 34. Rg5 Kf7 35. c5 Kf6 36. Rg3 Ke5 37. Rg5+ Kf4 38. h4
+Re8 39. c6 Rb8 40. Rb5 Rh8 41. c7 Bg4 42. Rb4 Kg3 43. Nb5 g5 44. h5 Bd7 45.
+Nxa7 Ra8 46. Rd4 Bh3 47. Nb5 Rxa2 48. Rc4 Bc8 49. Nd4 Rh2 50. Nc6 Rh4 51.
+Ne5 Rxc4 52. Nxc4 Kf3 53. Nd6 g4 54. Nb5 g3 55. Nd4+ Ke4 56. Kf1 Bh3+ 57.
+Kg1 Kd3 58. c8=Q Bxc8 59. Kg2 Kxc3 60. Ne2+ Kd2 61. Nf4 Bg4 0-1
+

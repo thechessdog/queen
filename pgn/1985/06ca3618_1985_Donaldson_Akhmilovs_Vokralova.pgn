@@ -1,0 +1,16 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Akhmilovskaya, Elena"]
+[Black "Vokralova, Stepanka"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "06ca3618"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 Bf5 8. Be2
+Nb4 9. O-O Nc2 10. Ra2 Nb4 11. Ra3 e6 12. axb5 Bc2 13. Qd2 Bb3 14. Qf4 Nd3 15.
+Bxd3 Bxa3 16. Be4 Bxb2 17. Bxb2 c6 18. bxc6 Qc7 19. d5 1-0

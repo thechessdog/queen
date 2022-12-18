@@ -1,0 +1,18 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Meszaros, Andras"]
+[Black "Boguszlavszky, Jevg"]
+[Result "1-0"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[HashCode "3af40b1e"]
+[Epoch "Queen"]
+[WhiteID "700720"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nh6 5. c3 f5 6. exd5 exd5 7. Be2 Nf7 8.
+O-O Bd6 9. c4 Be6 10. Re1 O-O 11. Bf1 Qf6 12. Rxe6 Qxe6 13. cxd5 Qxd5 14. Bc4
+Qa5 15. Ng5 1-0

@@ -1,0 +1,20 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Stein, Bernd"]
+[Black "Agustsson, Johannes"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Indian variation"]
+[HashCode "8dac4547"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[BlackID "2300230"]
+[WhiteCountry "GER"]
+[BlackCountry "ISL"]
+
+1. b3 Nf6 2. Bb2 d6 3. g3 Bd7 4. Bg2 Bc6 5. Nf3 e5 6. c4 a5 7. Nc3 g6 8. d4
+exd4 9. Qxd4 Bg7 10. Qe3+ Qe7 11. Qxe7+ Kxe7 12. Nd5+ Bxd5 13. cxd5 Re8 14. Nd4
+Kd8 15. O-O Na6 16. a3 Nc5 17. Rab1 Nce4 18. Nf3 Bh8 1/2-1/2

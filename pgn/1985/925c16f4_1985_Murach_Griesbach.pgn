@@ -1,0 +1,18 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Murach, K."]
+[Black "Griesbach, R."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "925c16f4"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8.
+Ng5 e6 9. h4 c5 10. h5 cxd4 11. hxg6 hxg6 12. Nce4 dxe5 13. Qg4 Nef6 14.
+Qh4 exf4 15. Bxf4 e5 16. Bd2 Qb6 17. O-O Re8 18. Nxf6+ Nxf6 19. Rxf6 Qxf6
+20. Rf1 Bf5 21. Qh7+ Kf8 22. Bxf5 gxf5 23. Rxf5 1-0
+

@@ -1,0 +1,22 @@
+[Event "KalSK-VSS"]
+[Site "KalSK-VSS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vuori, J."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "c68b4422"]
+[Epoch "Queen"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 c6 4. f4 Qa5 5. Bd2 Qb6 6. Nf3 Bg4 7. Na4 Qc7 8. Bd3
+b5 9. Nc3 Qb6 10. e5 Nfd7 11. exd6 exd6 12. Qe2+ Be7 13. d5 b4 14. dxc6 Qxc6
+15. Be4 bxc3 16. Bxc6 cxd2+ 17. Kxd2 Nxc6 18. Qa6 Nb6 19. Rae1 O-O 20. c3 Bf6
+21. Ng5 d5 22. Qd3 g6 23. Qg3 Bf5 24. Qh4 h5 25. b3 Kg7 26. Rc1 a5 27. Rhd1 a4
+28. b4 Rfe8 29. Re1 Nc4+ 30. Kd1 Ne3+ 31. Kd2 Nxg2 32. Rxe8 Rxe8 33. Qf2 Ne3
+34. Re1 d4 35. Kc1 Rc8 36. Rxe3 dxe3 37. Qxe3 Nxb4 38. Ne4 Bxe4 39. Qxe4 Nxa2+
+40. Kd2 Nxc3 41. Qb7 Rd8+ 42. Kc2 a3 43. f5 a2 44. fxg6 Kxg6 45. Qa6 0-1

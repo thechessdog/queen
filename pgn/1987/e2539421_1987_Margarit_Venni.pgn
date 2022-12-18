@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Margarit, S."]
+[Black "Venni"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Romanishin variation"]
+[HashCode "e2539421"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. a3 O-O
+8. b4 d5 9. cxd5 Nxd5 10. Qc2 a6 11. Bc4 Nb6 12. Bd3 f5 13. e4 f4 14. O-O
+Bg4 15. Bxa6 bxa6 16. Qxc6 Bxf3 17. gxf3 Qg5+ 18. Kh1 Rf6 0-1
+

@@ -1,0 +1,17 @@
+[Event "Sokolsky mem"]
+[Site "Minsk"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Efimov, Igor"]
+[Black "Artishevsky"]
+[Result "1-0"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "80735da7"]
+[Epoch "Queen"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 Be7 6. Nf3 Bg4 7. Be3 Bxf3 8. Qxf3
+Bg5 9. Qg3 Bxe3 10. Qxg7 Qg5 11. Qxh8 Bd2+ 12. Kd1 Bxc3 13. bxc3 Qg6 14. h4 Nd7
+15. h5 Qg5 16. h6 Nf6 17. Qg7 Qf4 18. f3 Ne7 19. Rb1 1-0

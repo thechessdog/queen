@@ -1,0 +1,19 @@
+[Event "Hessen"]
+[Site "Hessen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Krueckeberg, B."]
+[Black "Neumann"]
+[Result "0-1"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "b234634b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Nbd7 6. O-O Be7 7. Qc2 Ne4 8.
+Nfd2 f5 9. f3 Nxd2 10. Nxd2 Bf6 11. e3 Nb6 12. b3 e5 13. dxe5 Bxe5 14. Bb2
+Bxb2 15. Qxb2 O-O 16. c5 Nd7 17. b4 b6 18. Nb3 Ba6 19. Rfe1 Bc4 20. e4 bxc5
+21. bxc5 f4 22. Qf2 Qf6 23. g4 dxe4 24. Rxe4 Bxb3 25. Qd4 Qxd4+ 26. Rxd4
+Bd5 0-1
+

@@ -1,0 +1,20 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pigusov, Evgeny"]
+[Black "Savchenko, Stanislav"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "973379dc"]
+[Epoch "Queen"]
+[WhiteID "4100514"]
+[WhiteCountry "RUS"]
+[BlackID "14101262"]
+[BlackCountry "UKR"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. b3 Nd7 6. Bb2 Ngf6 7. O-O Bd6 8. d4
+O-O 9. Nbd2 a5 10. a3 h6 11. Ne5 Bf5 12. f4 Ne4 13. g4 Nxd2 14. Qxd2 Bh7 15.
+Nxd7 Qxd7 16. e3 1/2-1/2

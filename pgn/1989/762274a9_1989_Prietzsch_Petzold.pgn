@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Prietzsch"]
+[Black "Petzold"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Yates variation"]
+[HashCode "762274a9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8.
+Bf4 Be7 9. Nc3 d6 10. Qd3 Nbd7 11. e4 e5 12. Be3 Ng4 13. d5 Nxe3 14. Qxe3
+Nc5 15. Ne1 g6 16. Nd3 f5 17. Nxc5 bxc5 18. Ne2 Ba6 19. b3 a4 20. exf5 gxf5
+21. h4 Bc8 22. Kh2 Bd7 23. Qd2 Bf6 24. Rab1 axb3 25. axb3 Kh8 26. b4 cxb4
+27. Rxb4 Rg8 28. Rb3 Ra4 29. Rb4 Rxb4 30. Qxb4 f4 31. Qc3 Bg4 32. Qd3 Bxh4
+33. gxf4 Qf6 34. Bh3 Bxe2 35. Qxe2 Qxf4+ 36. Kh1 Qh6 37. Rg1 Rg6 38. Rg2
+Bxf2 39. Qd3 Be3 40. Rg3 Bf4 41. Rf3 Rg8 42. Qf1 Qg6 43. Rf2 Rb8 44. Qe2
+Qg3 45. Rf3 Rb1+ 46. Bf1 Qh4+ 47. Kg1 e4 48. Rf2 Qg3+ 49. Kh1 Qh3+ 50. Kg1
+Be3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Donau"]
+[Site "Donau"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sohnle"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "10fc8b68"]
+[Epoch "Queen"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. d4 f5 2. g3 Nf6 3. c4 g6 4. Nc3 Bg7 5. Bg2 O-O 6. Nf3 d6 7. O-O c6 8. Qc2
+Qc7 9. b3 Kh8 10. Bb2 a5 11. Rfe1 Na6 12. Rad1 Be6 13. Ng5 Bg8 14. f4 Rab8 15.
+e4 fxe4 16. Ncxe4 Rfe8 17. Nf2 Nb4 18. Qe2 Nxa2 19. Bh3 h6 20. Ne6 Qb6 21. Rd3
+Nh7 22. Nxg7 Kxg7 23. Bd7 Nf6 24. Bxe8 Rxe8 25. Re3 Bf7 26. d5 Nb4 27. Bxf6+
+Kxf6 28. Qb2+ Kf5 29. Re5+ Kf6 30. Rxe7+ Kf5 31. Rxf7# 1-0

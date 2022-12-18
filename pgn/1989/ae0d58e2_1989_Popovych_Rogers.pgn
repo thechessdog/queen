@@ -1,0 +1,19 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Popovych, Orest"]
+[Black "Rogers, Norman"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[HashCode "ae0d58e2"]
+[Epoch "Queen"]
+[WhiteID "2002558"]
+[BlackID "2001985"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 g6 3. Nc3 d5 4. e5 h5 5. h3 Nh6 6. Be2 h4 7. Nf3 Nf5 8. O-O e6
+9. Bg5 Be7 10. Bxe7 1/2-1/2

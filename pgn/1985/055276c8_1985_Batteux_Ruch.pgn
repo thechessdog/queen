@@ -1,0 +1,18 @@
+[Event "corr France"]
+[Site "corr France"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Batteux"]
+[Black "Ruch"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "055276c8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8.
+hxg5 hxg5 9. Rxh8 Bxh8 10. Bxf7+ Kxf7 11. Qb3+ Kf8 12. Qd5 Qe7 13. Kf1 g4
+14. Ng5 Nf6 15. Qb5 Nxe4 16. Bxf4 Bf6 17. Nxe4 Qxe4 18. g3 Qf3+ 19. Ke1 Bd7
+0-1
+

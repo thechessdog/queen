@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olsen, Karl"]
+[Black "Benn El Malih"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "a314dbe1"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nc3 Nc6 7. g4 Bd7 8. d5
+e6 9. h4 exd5 10. cxd5 Nb4 11. Bg2 Bxg4 12. Qxg4 Nc2+ 13. Kd1 Nxa1 14. e6
+fxe6 15. dxe6 c6 16. Be4 Qf6 17. Nf3 h6 18. Bg6+ Kd8 19. Re1 Nc4 20. f5 Ne5
+21. Nxe5 dxe5 22. Ne4 Qe7 23. Re2 Kc7 24. Rd2 Rd8 25. Qg3 Rxd2+ 26. Bxd2
+Kb8 27. Qxe5+ Qc7 28. Qxc7+ Kxc7 29. Bf4+ Kc8 30. Nd6+ Bxd6 31. Bxd6 Kd8
+32. Be5 Ke7 33. Bxg7 Rd8+ 34. Kc1 b5 35. Bxh6 Kd6 36. Bf4+ Kd5 37. e7 Ra8
+38. e8=Q Rxe8 39. Bxe8 Ke4 40. f6 1-0
+

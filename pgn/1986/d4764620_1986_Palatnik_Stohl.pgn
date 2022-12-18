@@ -1,0 +1,20 @@
+[Event "Tallinn"]
+[Site "Tallinn"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Palatnik, Semon"]
+[Black "Stohl, Igor"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "d4764620"]
+[Epoch "Queen"]
+[WhiteID "2014610"]
+[WhiteCountry "USA"]
+[BlackID "14900025"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. g3 c5 7. Bg2 Nc6 8. O-O
+Nxc3 9. bxc3 O-O 10. dxc5 Qa5 11. Nd4 Rd8 12. Be3 Qxc3 13. Nxc6 Rxd1 14. Raxd1
+Bf6 15. Rd8+ Kg7 16. Nxe7 Bxe7 17. Bd4+ Qxd4 18. Rxd4 Bxc5 19. Rd8 1-0

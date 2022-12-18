@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lukats"]
+[Black "Stieg"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "fd91ed6f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+Nxe5 Nxe5 9. dxe5 c6 10. Be3 Be7 11. c3 O-O 12. Nd2 Nxd2 13. Qxd2 Bf5 14.
+Bc2 Qd7 15. f4 f6 16. Bd4 Rae8 17. Rae1 fxe5 18. Bxf5 Qxf5 19. Rxe5 Qd7 20.
+Rfe1 Qd6 21. Re6 1/2-1/2
+

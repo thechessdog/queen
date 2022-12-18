@@ -1,0 +1,19 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schellingerhout"]
+[Black "Van der Kooij"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "bf9c6b0d"]
+[Epoch "Queen"]
+[BlackID "1011812"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 d6 7. Nc3 Be7 8.
+Nd5 Nf6 9. O-O O-O 10. Re1 Bg4 11. Ne3 Ne5 12. Bb3 Nxf3+ 13. gxf3 Be6 14. Ng2
+Nd7 15. f4 c5 16. Bxe6 fxe6 17. Qg4 e5 18. Rad1 Qe8 19. Qe6+ Kh8 20. fxe5 Bh4
+0-1

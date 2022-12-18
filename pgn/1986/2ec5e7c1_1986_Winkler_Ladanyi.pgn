@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Winkler, C."]
+[Black "Ladanyi, E."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[HashCode "2ec5e7c1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 Be7 7. Bd3 Bg4
+8. O-O O-O 9. h3 Bh5 10. c3 d5 11. Bf4 Nbd7 12. Nbd2 Re8 13. Qb3 Rb8 14.
+Rfe1 a6 15. Ne5 Nf8 16. Re3 Ne6 17. Bh2 Bd6 18. f4 c5 19. f5 c4 20. Ndxc4
+dxc4 21. Bxc4 b5 22. Bd3 Nc7 23. g4 Nfd5 24. Re2 f6 25. Nc6 Bxh2+ 26. Rxh2
+Qd6 27. Nxb8 Qg3+ 28. Rg2 Qe3+ 29. Kh2 Bf7 30. Qc2 Qf4+ 31. Kh1 Re3 32. Qd2
+Rxh3+ 33. Kg1 Ne3 34. g5 Qh4 0-1
+

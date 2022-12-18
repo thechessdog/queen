@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kalmus"]
+[Black "Schumacher"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "c1c27aae"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8.
+Ng2 h5 9. e4 h4 10. e5 hxg3 11. exd6 Rxh2 12. Rg1 Qxd6 13. Bd3 Nh4 14. Qe2+
+Be6 15. Be4 Qxd4 16. Qe3 Qxe3+ 17. Nxe3 c6 18. Nd2 f5 19. Rxg3 f4 20. Nxg4
+Rxd2 21. Rh3 Bxg4 22. Rxh4 Re2+ 23. Kf1 Rxe4 24. Rxg4 Nd7 25. Rxf4 Nc5 26.
+Rxe4+ Nxe4 1/2-1/2
+

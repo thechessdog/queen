@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Barosso, R."]
+[Black "Larghi, G."]
+[Result "0-1"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "9ee33bff"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bxf7+ Rxf7
+14. fxg4 Rxf1+ 15. Kxf1 Qd7 16. h3 Qe6 17. Qd3 Qc4 18. Qxc4+ Nxc4 19. Bg5
+e6 20. Rd1 b5 21. Rd3 b4 22. Be7 Bf8 23. Bxf8 Rxf8+ 24. Ke1 a5 25. Rf3 a4
+26. Kd1 Rc8 27. Rf6 b3 28. axb3 axb3 29. Rxe6 Ne3+ 30. Kd2 b2 31. Nc3 Rxc3
+32. Re8+ Kf7 33. Rb8 Ra3 34. e5 Nc4+ 0-1
+

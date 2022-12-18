@@ -1,0 +1,23 @@
+[Event "Sofia"]
+[Site "Sofia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "f5f42d48"]
+[Epoch "Queen"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Be7 7. Be2 O-O 8. O-O
+a6 9. Kh1 Qc7 10. a4 Nc6 11. Be3 Re8 12. Bg1 Nxd4 13. Qxd4 e5 14. Qd2 exf4 15.
+Rxf4 Be6 16. Nd5 Bxd5 17. exd5 Nd7 18. Rc4 Qd8 19. Rb4 Qc7 20. Ra3 Bf6 21. Rc4
+Qd8 22. Rb3 b5 23. Rg4 h5 24. Rgb4 Nc5 25. Rh3 Nxa4 26. Bxh5 Nxb2 27. Rg4 Nc4
+28. Qh6 Kf8 29. Qh8+ Ke7 30. Qh7 Rh8 31. Qf5 Ne5 32. Re4 Rc8 33. Bxf7 Rxh3 34.
+Rxe5+ Kxf7 35. Qe6+ Kf8 36. Re1 Rh5 37. Bb6 Qxb6 38. Qxc8+ Qd8 39. Qxa6 0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thews"]
+[Black "Luthardt"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "27ac0a2d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 O-O
+8. e5 Ne8 9. c3 dxc3 10. Nxc3 d6 11. Bxc6 bxc6 12. Qa4 Qd7 13. Bf4 d5 14.
+e6 fxe6 15. Ne5 Rxf4 16. Qxf4 Bd6 17. Na4 Bxe5 18. Qxe5 Kf7 19. Rac1 Rb8
+20. Qc3 Qd8 21. Qxc6 d4 22. Qe4 Qf6 23. Qxh7 Qg6 24. Qxg6+ Kxg6 25. b3 Kf5
+26. Rc4 1-0
+

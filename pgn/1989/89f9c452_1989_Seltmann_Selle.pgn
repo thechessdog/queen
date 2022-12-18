@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Seltmann"]
+[Black "Selle"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "89f9c452"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bd3 h6 9. N5f3 c5 10. dxc5 Bxc5 11. Bd2 Qc7 12. O-O-O Nbd7 13. Nh3 g5
+14. Ne1 Rg8 15. f4 g4 16. Nf2 h5 17. Ne4 Nxe4 18. Bxe4 Nf6 19. f5 Nxe4 20.
+Qxe4 Qe7 21. Ba5 Bb6 22. Bb4 Qg5+ 23. Kb1 Qxf5 24. Qe2 Bd7 25. Rf1 Bb5 26.
+Nd3 Qg6 27. Qe5 Bc6 28. Qd6 Qg5 29. Ne5 Qd8 30. Nxf7 Qd7 31. Qxd7+ Bxd7 32.
+Nh6 Rh8 33. Nf7 1-0
+

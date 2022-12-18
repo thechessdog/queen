@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hoiberg, Nina"]
+[Black "Pedersen, Svend"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "dbf81041"]
+[Epoch "Queen"]
+[WhiteID "1400720"]
+[WhiteCountry "DEN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nbd7 10. Qe1 a6 11. Bd3 e5 12. Be3 Qc7 13. Qh4 b5 14. fxe5 dxe5
+15. Ng5 h6 16. Nh3 b4 17. Nd5 Nxd5 18. exd5 Qd8 19. Bg5 f6 20. Bxh6 Qe8 21. Be3
+a5 22. d6 Bb7 23. Bc4+ Rf7 24. Ng5 fxg5 25. Bxg5 Nf6 26. Bxf6 1-0

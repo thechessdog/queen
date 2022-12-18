@@ -1,0 +1,23 @@
+[Event "Benidorm"]
+[Site "Benidorm"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Campos Lopez, Mario"]
+[Black "Westerinen, Heikki M.J."]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "57f2393e"]
+[Epoch "Queen"]
+[WhiteID "5100100"]
+[BlackID "500020"]
+[WhiteCountry "MEX"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 a6 6. a3 cxd4 7. exd4 dxc4 8. Bxc4
+b5 9. Ba2 Bb7 10. O-O Be7 11. Bg5 Nd5 12. Bxd5 Bxd5 13. Bxe7 Kxe7 14. Ne5 f6
+15. Qg4 g6 16. Nxd5+ Qxd5 17. Qh4 Nd7 18. Rac1 Nxe5 19. dxe5 Qxe5 20. Rfe1 Rac8
+21. Qh6 Rxc1 22. Qg7+ Kd6 23. Rxc1 Rc8 24. Rd1+ Kc5 25. Qa7+ Kc4 26. Qd7 Rb8
+27. Rc1+ Kb3 28. Qd1+ Ka2 29. Ra1+ Kxb2 30. Rb1+ Kc3 31. Rc1+ Kb2 32. Qc2+ Kxa3
+33. Rb1 1-0

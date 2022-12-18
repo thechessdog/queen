@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Glaszl"]
+[Black "Neumann"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "b46117d2"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O Nbd7 8.
+f4 exd4 9. Nxd4 Nc5 10. Bf3 Bg4 11. Nb3 Nxb3 12. axb3 Bxf3 13. Qxf3 Qd7 14.
+Be3 Ng4 15. f5 Bxc3 16. bxc3 Ne5 17. Qf4 f6 18. Rad1 g5 19. Qf2 Qc6 20. Rd5
+g4 21. Qf4 Qxc3 22. Rc1 Rae8 23. Kf2 Re7 24. Qh6 Nf7 25. Qf4 Ng5 26. Qxg4
+Rxe4 27. Bf4 Rfe8 28. Rd3 Qc5+ 29. Kf1 Qc6 30. Rdd1 Re2 31. Qxe2 Qh1+ 32.
+Kf2 Nh3# 0-1
+

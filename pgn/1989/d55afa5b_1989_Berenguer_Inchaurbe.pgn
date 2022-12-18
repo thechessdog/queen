@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Berenguer"]
+[Black "Inchaurbe"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "d55afa5b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Nf6 6. d4 cxd5 7. Bxf4 Bd6
+8. Qe2+ Be6 9. Qb5+ Bd7 10. Qe2+ Be6 11. Bxd6 Qxd6 12. Ne5 O-O 13. a3 Re8
+14. Qd3 Nc6 15. O-O-O Nxe5 16. dxe5 Qxe5 17. Qd4 Bg4 18. Qxe5 Rxe5 19. Rd4
+Re1+ 20. Kd2 Rae8 21. h3 Bh5 22. g4 Bg6 23. g5 Nh5 24. Bg2 R1e5 25. Rxd5 b6
+26. Rxe5 Rxe5 27. h4 Nf4 28. Bf3 Ne6 29. Be2 Nd4 30. Bd3 Nf3+ 31. Kc1 Bxd3
+32. cxd3 Nd4 33. Kd1 Re3 34. Kd2 Rg3 35. Ne4 Rg2+ 36. Kc3 Ne6 37. d4 Re2
+38. Nd6 Re3+ 39. Kc4 Nc7 40. Rf1 1-0
+

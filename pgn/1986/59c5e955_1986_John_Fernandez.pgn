@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "John, H."]
+[Black "Fernandez Vincente"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "59c5e955"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Re8 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3
+Nd7 15. a5 Qh4 16. Nc4 Nf4 17. Bxf4 Qxf4 18. g3 Qf6 19. f4 Qe7 20. Rfe1
+Rab8 21. Qc2 b5 22. axb6 Nxb6 23. Na5 Bd4+ 24. Kg2 Qc7 25. Nc6 Rb7 26. Re2
+Bg7 27. Na5 Rbb8 28. Nc6 Rb7 29. Na5 Rbb8 30. Nc6 Rb7 1/2-1/2
+

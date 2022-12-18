@@ -1,0 +1,19 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Spassky, Boris V."]
+[Black "Georgiev, K."]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "d7b89750"]
+[Epoch "Queen"]
+[WhiteID "600024"]
+[WhiteCountry "RUS"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5 7. Nd5 Nge7 8. Nec3
+O-O 9. h4 h5 10. Bg5 f6 11. Be3 Be6 12. Bh3 Bxh3 13. Rxh3 Qd7 14. Rh1 Rae8 15.
+Qd2 b5 16. O-O-O 1/2-1/2

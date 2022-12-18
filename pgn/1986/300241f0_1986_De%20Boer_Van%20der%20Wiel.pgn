@@ -1,0 +1,20 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Boer, Gert-Jan"]
+[Black "Van der Wiel, John T.H."]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "300241f0"]
+[Epoch "Queen"]
+[BlackID "1000020"]
+[BlackCountry "NED"]
+[WhiteID "1000233"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8. Na3
+cxd4 9. Naxc4 Be7 10. Bf4 O-O 11. Rc1 Nd5 12. Nxd7 Qxd7 13. Ne5 Nxe5 14. Bxe5
+Rfd8 1/2-1/2

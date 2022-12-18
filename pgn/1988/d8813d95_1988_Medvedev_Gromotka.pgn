@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Medvedev, V."]
+[Black "Gromotka, E."]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "d8813d95"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bg5 Bxf3 12. Bxf3 Nbd7 13. Qc2 Re8 14. Be2
+Qc7 15. b3 Re7 16. Rad1 h6 17. Bh4 g5 18. Bg3 Rae8 19. Bd3 Nh5 20. Ne2 Ne5
+21. Bxe5 Bxe5 1/2-1/2
+

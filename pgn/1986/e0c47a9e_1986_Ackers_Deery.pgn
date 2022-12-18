@@ -1,0 +1,20 @@
+[Event "corr GB trophies"]
+[Site "corr GB trophies"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ackers"]
+[Black "Deery"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "e0c47a9e"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h6 8. h5
+Bh7 9. Be3 Nc6 10. f4 cxd4 11. Nxd4 a6 12. a3 Nxd4 13. Bxd4 Rc8 14. Bd3
+Bxd3 15. Qxd3 Qc7 16. f5 Ne7 17. Rf1 Qc4 18. O-O-O Qxd3 19. Rxd3 Nc6 20.
+Ne2 Be7 21. Rdf3 Bg5+ 22. Kd1 O-O 23. c3 Na5 24. Kc2 Nc4 25. Nf4 Bxf4 26.
+Rxf4 Rc6 27. f6 b5 28. Rg1 a5 29. g5 Kh7 30. g6+ fxg6 31. hxg6+ Kh8 32. f7
+Rcc8 33. Rh4 Ra8 34. Bc5 Rfc8 35. Rxh6+ gxh6 36. g7+ Kh7 37. g8=Q+ 1-0
+

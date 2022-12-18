@@ -1,0 +1,27 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bricard, Emmanuel"]
+[Black "Vaisman, Volodia"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "8f81fb66"]
+[Epoch "Queen"]
+[WhiteID "600245"]
+[BlackID "600296"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. Qe2 b6 3. f4 Bb7 4. Nf3 Nf6 5. d3 g6 6. g3 Bg7 7. Bg2 d5 8. e5 Ng8
+9. Be3 Ne7 10. Bf2 Qd7 11. O-O h5 12. c3 a5 13. Na3 Na6 14. Nc2 Nc5 15. Ncd4
+Ba6 16. Rfd1 Bf8 17. Qc2 Nb7 18. Ne2 c5 19. b3 Nf5 20. a3 Rc8 21. Qb2 Be7 22.
+c4 d4 23. b4 Nd8 24. bxa5 bxa5 25. Qb6 Bb7 26. Qxa5 h4 27. Nd2 Bxg2 28. Kxg2
+h3+ 29. Kf1 Nc6 30. Qa6 O-O 31. Rdb1 Ne3+ 32. Kg1 Rc7 33. Rb6 f6 34. exf6 Bxf6
+35. Ne4 e5 36. Re1 Nc2 37. Rc1 Ne3 38. Re1 Bg7 39. Ng5 exf4 40. Nxf4 Bh6 41.
+Nge6 Rxf4 42. Nxc7 Rf6 43. Rxe3 Bxe3 44. Bxe3 Qg4 45. Bf4 Rxf4 46. Rb1 Qf3 47.
+Qc8+ Rf8 48. Qxh3 Qe3+ 49. Kh1 Qxd3 50. Rc1 Qe4+ 51. Qg2 Rf3 52. Ne6 Ne5 53.
+Nxc5 Qe3 54. Rb1 Ng4 55. h3 Nf6 56. Qc2 Rxg3 57. Qb3 Rxh3+ 58. Kg2 Rg3+ 59. Kh1
+Rh3+ 60. Kg2 Rg3+ 61. Kh1 Qh6# 0-1

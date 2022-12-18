@@ -1,0 +1,19 @@
+[Event "Szekszard"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Besenyi, T."]
+[Black "Borocz, Istvan"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "0fb37683"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Nf3 c6 5. e3 Qb6 6. Bxf6 Nxf6 7. Rb1 g6
+8. Bd3 Bg7 9. O-O O-O 10. Ne5 Nd7 11. f4 Nxe5 12. fxe5 Qc7 13. Ne2 c5 14.
+Nf4 cxd4 15. exd4 Qb6 16. c3 Bxe5 17. Nxd5 Bxd4+ 18. Kh1 Qd6 19. Qf3 Bg7
+20. Bc4 Be6 21. Rbd1 Qc5 22. Bb3 Rad8 23. Nf4 Bxb3 24. Rxd8 Rxd8 25. axb3
+Qd6 26. Nh3 Qd5 27. Qf2 Qxb3 28. Qe2 e5 29. Ng5 f6 30. Ne4 f5 31. Ng5 e4
+32. h4 Qd5 33. Qf2 b6 34. h5 Qd2 35. Qh4 Qe2 36. Rg1 Qxh5 37. Qxh5 gxh5 0-1
+

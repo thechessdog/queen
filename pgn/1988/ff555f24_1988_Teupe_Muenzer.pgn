@@ -1,0 +1,23 @@
+[Event "Landau ch-RLPF sr"]
+[Site "Landau ch-RLPF sr"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Teupe, Hubert"]
+[Black "Muenzer, Alfred"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "ff555f24"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. e5 a6 4. c3 b6 5. Bd3 g6 6. f4 Bb7 7. Nf3 e6 8. O-O Qd7
+9. Qe2 h6 10. Be3 b5 11. Nbd2 Na5 12. Bf2 O-O-O 13. a4 Nc4 14. axb5 axb5 15. b3
+Nxd2 16. Nxd2 c6 17. b4 h5 18. Nb3 Kc7 19. Bh4 Be7 20. Bxe7 Nxe7 21. Nc5 Qc8
+22. Qa2 Rd7 23. Qa5+ Kb8 24. Qb6 Qd8 25. Nxd7+ Qxd7 26. Ra5 Nc8 27. Qc5 Qc7 28.
+Rfa1 h4 29. h3 Qe7 30. Qxe7 Nxe7 31. Kf2 Rg8 32. g4 Kc7 33. Rd1 Nc8 34. Rg1 Nb6
+35. Raa1 Na4 36. Rgc1 Nb2 37. Be2 Na4 38. c4 dxc4 39. Bxc4 Kb6 40. Bb3 Nb2 41.
+Ke3 Ba6 42. g5 Kb7 43. Rc2 Nc4+ 44. Ke4 Nb6 45. Rca2 Ra8 46. Kf3 Nc4 47. Kg4
+Ne3+ 48. Kxh4 Nf5+ 49. Kg4 Nxd4 50. Bd1 Nf5 51. Kf3 Nd4+ 52. Kf2 Kb6 53. Rd2
+Nf5 54. Bg4 Kc7 55. Bxf5 exf5 56. Rad1 Bc8 57. Rc1 Be6 58. Rcc2 Bd5 59. Rxd5
+Kb6 60. Rd7 1-0

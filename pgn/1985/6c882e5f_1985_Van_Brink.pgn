@@ -1,0 +1,18 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van Wieringen"]
+[Black "Brink"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "6c882e5f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 h5 5. Be2 g6 6. Nf3 e6 7. h3 Be7 8. Be3
+Nd7 9. O-O Qc7 10. a3 O-O-O 11. Qd2 f6 12. Bf4 g5 13. exf6 gxf4 14. fxe7
+Nxe7 15. Bd3 Bg4 16. Ng5 Rhg8 17. h4 f3 18. g3 Qb6 19. Bh7 Rg7 20. Na4 Qc7
+21. Bd3 Rdg8 22. c4 Bf5 23. cxd5 Nxd5 1/2-1/2
+

@@ -1,0 +1,28 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Super Constellation"]
+[Black "Roma 68000"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Centre game"]
+[HashCode "e204f70a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Bb4+ 4. c3 dxc3 5. bxc3 Be7 6. Bc4 c6 7. Ne5 d5
+8. exd5 Bd6 9. Bf4 Qe7 10. Qe2 f6 11. Ng6 hxg6 12. Bxd6 Qxe2+ 13. Kxe2 cxd5
+14. Bxd5 Ne7 15. Bxe7 Kxe7 16. Nd2 Nc6 17. Rab1 Rb8 18. Rhe1 Kd6 19. Bxc6
+Kxc6 20. h3 Bf5 21. Rbd1 Rbe8+ 22. Kf3 Bc2 23. Rc1 Bd3 24. c4 g5 25. Re3
+Rxe3+ 26. Kxe3 Bg6 27. Nb3 Re8+ 28. Kd2 Re7 29. Kc3 b6 30. Rd1 a6 31. Kb4
+Bf7 32. Nd4+ Kc7 33. Kc3 Re5 34. Nf3 Rc5 35. Rd4 Be6 36. Kb4 a5+ 37. Kc3 b5
+38. Nd2 Rc6 39. Kd3 Kb6 40. cxb5 Kxb5 41. Ne4 Kb6 42. Nc3 Kb7 43. a3 Rb6
+44. Ne4 Kc7 45. Nc5 Bf5+ 46. Ke3 Kc6 47. Nd3 Rb3 48. a4 Ra3 49. Rc4+ Kd6
+50. Rd4+ Ke6 51. Rd8 g6 52. Rd4 Bxd3 53. Rxd3 Rxa4 54. Rd8 Ra3+ 55. Ke4 f5+
+56. Kd4 Ra4+ 57. Ke3 Re4+ 58. Kd3 g4 59. Re8+ Kd5 60. Ra8 a4 61. Ra5+ Ke6
+62. h4 Kf6 63. Ra6+ Kg7 64. Kd2 Rd4+ 65. Ke3 Rb4 66. Ra8 Rc4 67. Kd2 Rf4
+68. Ke3 Rb4 69. Kd3 Re4 70. Kd2 Kf6 71. Ra6+ Kf7 72. Kc3 Rf4 73. g3 Rxf2
+74. Kb4 Rf3 75. Kxa4 Rxg3 76. Ra7+ Kf6 77. Kb5 Rh3 78. Kc4 Rxh4 79. Kd3 Kg5
+80. Kd4 g3+ 81. Ke3 Rf4 82. Ra2 Kg4 83. Ra6 g5 84. Ra2 Rf3+ 85. Kd4 Kh3 86.
+Ra1 g2 0-1
+

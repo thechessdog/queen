@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Padros Simon"]
+[Black "Garcia Corada"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "03b1ef30"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bg4 7. Be2
+Qc7 8. Be3 Nd7 9. c4 e6 10. Qd2 a5 11. a3 Bd6 12. Qc3 Rg8 13. g3 f5 14.
+O-O-O Nf6 15. Rhe1 f4 16. gxf4 Bxf4 17. Bxf4 Qxf4+ 18. Qe3 Qxe3+ 19. fxe3
+Ke7 20. Ne5 Bxe2 21. Rxe2 Ne4 22. Kc2 f6 23. Nf3 Rg4 24. Nd2 Rag8 25. Nxe4
+Rxe4 26. Kd3 f5 27. Rf1 Reg4 28. Rf3 Rg2 29. Rff2 Rxf2 30. Rxf2 Rg1 31. Kc3
+h5 32. d5 Rc1+ 33. Kb3 cxd5 34. cxd5 Re1 35. Rf3 Re2 36. Rh3 exd5 37. Kc3
+Kf6 38. Kd3 Rxb2 39. Rxh5 Rb3+ 40. Kd4 Kg6 41. Rh8 Rxa3 42. h4 b5 43. h5+
+Kg7 44. Rd8 a4 45. Rxd5 Rb3 46. Ke5 a3 47. Kxf5 a2 48. Rd7+ Kh6 49. Ra7 Rb2
+50. Kg4 Rb4+ 0-1
+

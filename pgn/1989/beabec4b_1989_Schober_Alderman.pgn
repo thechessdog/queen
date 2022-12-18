@@ -1,0 +1,17 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schober"]
+[Black "Alderman"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "beabec4b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. c4 Ne7 5. Nc3 c6 6. d4 Qc7 7. c5 Bxc5 8.
+dxc5 cxd5 9. Nxd5 Nxd5 10. Qxd5 Nc6 11. Bd2 Be6 12. Qd6 Qxd6 13. cxd6 O-O-O
+14. Bb5 Rxd6 0-1
+

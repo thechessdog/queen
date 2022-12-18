@@ -1,0 +1,17 @@
+[Event "corr BGD-WFT1"]
+[Site "corr BGD-WFT1"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Andre"]
+[Black "Schwertel"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "a89f7b11"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Bg4 10. Ne2 Qd7 11. Ne5 Nxe5 12. dxe5 Bxe2 13. Bxe2 Nd5
+14. Bh6 Qe6 15. Bxg7 Kxg7 16. c4 Ne3 17. Rf3 Qxe5 18. Rh3 h5 19. Re1 Nc2
+20. b4 Nxe1 21. Qxe1 Rad8 22. Qf1 0-1
+

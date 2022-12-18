@@ -1,0 +1,17 @@
+[Event "Myslenice A"]
+[Site "Myslenice A"]
+[Date "1988.01.01"]
+[Round "3"]
+[White "Lewicki, Boguslaw"]
+[Black "Gasiorowski, Ryszard"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "259687ed"]
+[Epoch "Queen"]
+[WhiteID "1101846"]
+[WhiteCountry "POL"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8. e5
+dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Qxd5 Nxe5 12. Qxd8 Rxd8 13. Nxe5 1/2-1/2

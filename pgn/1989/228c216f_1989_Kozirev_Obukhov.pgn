@@ -1,0 +1,18 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kozirev, Alexander"]
+[Black "Obukhov, A."]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "228c216f"]
+[Epoch "Queen"]
+[WhiteID "4105834"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 a6 10. a4 Qc7 11. Kh1 Re8 12. Bf3 Rb8 13. Qd2 Bd7 14. Nb3 b5 15. Qf2
+Bc8 16. Rae1 1/2-1/2

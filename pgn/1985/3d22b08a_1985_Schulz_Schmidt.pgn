@@ -1,0 +1,23 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Schulz, Wolfgang"]
+[Black "Schmidt, Gerhardt"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "3d22b08a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. Bxc3 e4 10. Ne5 Nxe5 11. dxe5 Ne7 12. Qa4+ Bd7 13. Qa3 Qe6
+14. Rd1 O-O 15. Rd6 Qf5 16. Bc4 Ng6 17. O-O Be6 18. Qb3 Nf4 19. Bxe6 Nxe6
+20. Re1 Nc5 21. Qc2 Nd3 22. Re3 Rac8 23. Qe2 Nc1 24. Qe1 Nd3 25. Qd2 Rc4
+26. f3 Nf4 27. Rd8 Rc8 28. Rxf8+ Rxf8 29. Rxe4 Ne6 30. Bb4 Rd8 31. Bd6 h5
+32. Qb4 Rc8 33. Qd2 g5 34. b3 g4 35. Kf2 gxf3 36. gxf3 Ng5 37. Rf4 Qxf4 38.
+Qxf4 Nh3+ 39. Kg3 Nxf4 40. Kxf4 Rc2 41. h4 Rxa2 42. Kg5 a5 43. f4 Rb2 44.
+Kf6 Rxb3 45. f5 a4 46. e6 fxe6 47. fxe6 Rf3+ 48. Ke7 a3 49. Kd7 a2 50. e7
+Re3 0-1
+

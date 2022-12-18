@@ -1,0 +1,19 @@
+[Event "Jurmala"]
+[Site "Jurmala"]
+[Date "1985.??.??"]
+[Round "8"]
+[White "Gipslis, Aivars"]
+[Black "Kengis, Edvins"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "5b3ef46a"]
+[Epoch "Queen"]
+[BlackID "11600039"]
+[WhiteCountry "LVA"]
+[BlackCountry "LAT"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. d4 e6 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Qb6 12. Nb5 Qxd4 13. Nxd4 Ke7 14. Bd3
+Nb8 15. Kd2 Nc6 16. Ke3 Bd7 1/2-1/2

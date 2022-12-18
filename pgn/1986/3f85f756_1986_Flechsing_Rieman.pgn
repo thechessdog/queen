@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Flechsing"]
+[Black "Rieman"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "3f85f756"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Nc6 5. Bc4 Bb4+ 6. c3 Ba5 7. Be3 Qe7
+8. Nd2 Nf6 9. Qf3 d5 10. Bxd5 Bg4 11. Qg3 Rd8 12. h3 Rxd5 13. exd5 Nxd5 14.
+Nc4 Nd4 15. Kd2 Nf5 16. Qe1 Ndxe3 17. Nxe3 O-O 18. Nd5 Qc5 19. hxg4 Qxd5+
+20. Kc1 Qxg2 21. Nh3 Ng3 0-1
+

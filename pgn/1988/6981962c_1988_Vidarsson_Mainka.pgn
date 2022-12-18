@@ -1,0 +1,20 @@
+[Event "Gausdal Peer Gynt"]
+[Site "Gausdal Peer Gynt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vidarsson, Jon G"]
+[Black "Mainka, Romuald"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "6981962c"]
+[Epoch "Queen"]
+[WhiteID "2300478"]
+[WhiteCountry "ISL"]
+[BlackID "4600258"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 Nbd7 8. Qd2
+b5 9. g4 h6 10. O-O-O Ne5 11. Bd3 Bb7 12. Rhe1 b4 13. Nce2 d5 14. exd5 Nxd5 15.
+Nf4 Qa5 16. Nb3 Qxa2 17. Bb6 Bd6 18. Nh5 O-O 19. Qf2 Nc3 20. Bd4 Rac8 0-1

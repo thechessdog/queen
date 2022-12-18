@@ -1,0 +1,17 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kirsch, Michael"]
+[Black "Skorna"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "f1acd793"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+O-O b6 9. Nd2 e5 10. Ne4 O-O 11. f4 exd4 12. cxd4 Re8 13. Nc3 cxd4 14. exd4 Bg4
+15. Qd2 d5 16. cxd5 Nxd5 17. Be4 Nxc3 18. Bxc6 Ne2+ 19. Kh1 Qh4 20. Qd3 Rac8
+21. Bxe8 Rc3 22. Qxc3 Nxc3 23. f5 Be2 24. Bf4 Bxf1 25. Rxf1 Qd8 0-1

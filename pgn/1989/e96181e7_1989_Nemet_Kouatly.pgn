@@ -1,0 +1,23 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Kouatly, Bachar"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "e96181e7"]
+[Epoch "Queen"]
+[BlackID "600032"]
+[BlackCountry "FRA"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 Qa5 10. Rb5 Qxc3+ 11. Bd2 Qa3 12. Ra5 Qb2 13. Rxc5 Bg4 14. Rc2
+Qa3 15. Be3 Nc6 16. O-O Rac8 17. Bc1 Qd6 18. d5 Bxf3 19. Bxf3 Nd4 20. Rxc8 Rxc8
+21. Bg4 Rc4 22. Be3 Qa3 23. Qb1 h5 24. Bxd4 Bxd4 25. Bd1 Rc1 26. Qb3 Qc5 27.
+Qf3 b5 28. Qe2 Rb1 29. e5 Qxd5 30. e6 Qxe6 31. Qd3 Rb4 32. a3 Qc4 33. Qg3 Rb2
+34. h3 Qc3 35. Qxc3 Bxc3 36. f4 Bd4+ 37. Kh1 e6 38. Bf3 Ra2 39. Rd1 Be3 40. f5
+exf5 0-1

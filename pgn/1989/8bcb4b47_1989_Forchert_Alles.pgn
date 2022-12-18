@@ -1,0 +1,25 @@
+[Event "NRW-Liga II 8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Forchert, Martin"]
+[Black "Alles, Christoph"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "8bcb4b47"]
+[Epoch "Queen"]
+[WhiteID "4609336"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 Nc6 9. O-O-O Be6 10. Kb1 Ne5 11. Nd4 Nc4 12. Bxc4 Bxc4 13. g4 Qd7 14. h4
+Be6 15. g5 d5 16. h5 c5 17. Nxe6 fxe6 18. f4 Rad8 19. Rhe1 Bd6 20. Qe2 Rf5 21.
+g6 h6 22. a3 b6 23. Bc1 Re8 24. Rd3 Bxf4 25. Rf3 Re5 26. Qd1 Rxe1 27. Qxe1 Bxc1
+28. Qxc1 Rf8 29. Rxf8+ Kxf8 30. Qf4+ Ke8 31. Qb8+ Ke7 32. Qe5 Kd8 33. a4 d4 34.
+cxd4 cxd4 35. Kc1 Kc8 36. Kd2 Qe7 37. Kd3 Kd7 38. Qxd4+ Kc6 39. Qc4+ Kd7 40.
+Qb5+ Kc7 41. Qe5+ Kc6 42. c3 Qd7+ 43. Ke3 Qe7 44. b4 Kb7 45. a5 bxa5 46. Qxa5
+e5 47. Qd5+ Kb6 48. Kd3 Qf6 49. Qc5+ Kb7 50. Kc4 Qf4+ 51. Kd5 Qf3+ 52. Ke6 Qf6+
+53. Kd7 Qf5+ 54. Ke8 Qc8+ 55. Qxc8+ Kxc8 56. Kf7 e4 57. Kxg7 e3 58. Kxh6 e2 59.
+g7 e1=Q 60. g8=Q+ Kb7 61. Kh7 Qe4+ 62. Qg6 1-0

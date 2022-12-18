@@ -1,0 +1,19 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stohl, Igor"]
+[Black "Meduna, Eduard"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "bd92ff6a"]
+[Epoch "Queen"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+[WhiteID "14900025"]
+[WhiteCountry "SVK"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 g6 5. Bg2 Bg7 6. d4 Nbd7 7. O-O O-O 8. e4
+c6 9. b3 Re8 10. h3 a5 11. Re1 exd4 1/2-1/2

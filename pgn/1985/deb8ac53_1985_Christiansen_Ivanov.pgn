@@ -1,0 +1,19 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Christiansen, Larry"]
+[Black "Ivanov, Igor Vasilyevich"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "deb8ac53"]
+[Epoch "Queen"]
+[WhiteID "2000059"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Bd3 c5 8. dxc5
+dxc5 9. e5 Nfd7 10. f4 Nc6 11. Nf3 Nd4 12. O-O f6 13. e6 Nb6 14. f5 Nxf5 15.
+Bxf5 gxf5 16. Bxc5 Nxc4 17. Qd5 Ne5 18. Nxe5 fxe5 19. Rxf5 Bf6 20. Rxf6 1-0

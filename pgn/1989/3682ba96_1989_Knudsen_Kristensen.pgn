@@ -1,0 +1,23 @@
+[Event "Aarhus-D"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Knudsen, Ole"]
+[Black "Kristensen, Jorgen Juul"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "3682ba96"]
+[Epoch "Queen"]
+[WhiteID "1410830"]
+[WhiteCountry "DEN"]
+[BlackID "1401122"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 a6 11. Re1 Rb8 12. Bg5 h6 13. Be3 c5 14. Nde2 b5 15.
+cxb5 axb5 16. f3 b4 17. Na4 Ne5 18. h4 Bd7 19. a3 Nc4 20. Bf2 Bxa4 21. Qxa4
+Nxb2 22. Qc2 Nxe4 23. fxe4 b3 24. Qd2 Nc4 25. Qd5 b2 26. Rab1 Nxa3 27. Nf4 Nxb1
+28. Rxb1 Qf6 29. Nd3 Qe6 30. e5 c4 31. Rxb2 Qxd5 32. Bxd5 cxd3 33. Rxb8 Rxb8
+34. exd6 d2 35. d7 0-1

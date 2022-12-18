@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Noetzold"]
+[Black "Jablonski"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "1cc9ccdb"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 f6 6. Bb5 Bd7 7. O-O cxd4 8.
+cxd4 fxe5 9. dxe5 Bc5 10. Nc3 a6 11. Bd3 Qc7 12. Bf4 Nge7 13. Rc1 O-O-O 14.
+Bg3 h6 15. a3 Ba7 16. b4 d4 17. Ne4 Kb8 18. Nd6 Rhf8 19. Be4 Bc8 20. Qb3
+Nf5 21. a4 Nxg3 22. hxg3 Qb6 23. Bxc6 bxc6 24. Qc4 Rxd6 25. exd6 Kb7 26. a5
+Qb5 27. Qxb5+ axb5 28. Ne5 Rd8 29. Rxc6 Kb8 30. a6 g5 31. Rfc1 1-0
+

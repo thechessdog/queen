@@ -1,0 +1,22 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bulajic, Ratko"]
+[Black "Vukic, Aleksandar"]
+[Result "1-0"]
+[ECO "E64"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav system"]
+[HashCode "351e6e0f"]
+[Epoch "Queen"]
+[WhiteID "907227"]
+[BlackID "14503212"]
+[WhiteCountry "SRB"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5 7. d5 e5 8. O-O Ne8
+9. e4 f5 10. Bg5 Qc7 11. Qd2 Qf7 12. exf5 gxf5 13. Bh6 f4 14. Bxg7 Qxg7 15. Ne4
+h6 16. Nh4 Qh7 17. Qe2 Bf5 18. Rae1 Nd7 19. Kh1 Ndf6 20. gxf4 exf4 21. Nxf6+
+Nxf6 22. Nxf5 Qxf5 23. Qe6+ Qxe6 24. dxe6 Rab8 25. Rg1 Kh8 26. e7 Rf7 27. Bd5
+Nxd5 1-0

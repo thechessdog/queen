@@ -1,0 +1,24 @@
+[Event "Novi Sad op"]
+[Site "Novi Sad"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Ascic, Anto"]
+[Black "Fercec, Nenad"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "0c6923d2"]
+[Epoch "Queen"]
+[WhiteID "14500507"]
+[WhiteCountry "CRO"]
+[BlackID "14500299"]
+[BlackCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Qe1 c5 8.
+Nxe5 Qd4 9. Nf3 Qxe4 10. Qxe4 Nxe4 11. Re1 Nf6 12. d4 cxd4 13. Nxd4 c5 14. Nb3
+Be6 15. Nc3 O-O-O 16. Be3 b6 17. a4 a5 18. h3 Nd5 19. Nxd5 Rxd5 20. Nd2 Rhd8
+21. Re2 Bf6 22. c3 Kb7 23. g4 h5 24. f3 Rd3 25. Ne4 Rd1+ 26. Rxd1 Rxd1+ 27. Kg2
+hxg4 28. hxg4 Bc4 29. Rd2 Rxd2+ 30. Nxd2 Bd3 31. g5 Be5 32. f4 Bd6 33. Kf3 Bf8
+34. Ne4 Bc2 35. f5 Kc6 36. Kf4 Bxa4 37. Ke5 Bc2 38. g6 f6+ 39. Kf4 Kd5 40. Nd2
+b5 41. Nf3 Bd6+ 42. Kg4 Bd1 43. Bh6 Ke4 0-1

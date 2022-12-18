@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Glad, O."]
+[Black "Pape, Rasmus"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "08c00dbd"]
+[Epoch "Queen"]
+[BlackID "1408950"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Be7 6. Nxe4 O-O 7. d3 Re8 8.
+Be3 Nxd5 9. g3 f5 10. Ned2 Nc6 11. Nb3 f4 12. gxf4 Bg4 13. O-O-O Bd6 14. Bg2
+Nxf4 15. Qf1 Qf6 16. Nbd2 1-0

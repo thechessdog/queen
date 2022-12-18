@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gerhardt"]
+[Black "Kruger"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "b63e91d0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Bb4+ 7. Kf1
+Nf6 8. Qa4+ c6 9. Bxf7+ Kxf7 10. Qxb4 Qd1+ 11. Qe1 Qxe1+ 12. Kxe1 Nxe4 13.
+Nf3 Re8 14. Ne5+ Kg8 0-1
+

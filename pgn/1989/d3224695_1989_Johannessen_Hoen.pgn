@@ -1,0 +1,19 @@
+[Event "NOR-ch"]
+[Site "Randaberg"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Johannessen, Svein"]
+[Black "Hoen, Ragnar"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "d3224695"]
+[Epoch "Queen"]
+[BlackID "1500147"]
+[BlackCountry "NOR"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qc2 b6 7. cxd5 Nxd5 8. O-O
+Bb7 9. Nc3 Nd7 10. Nxd5 exd5 11. Bf4 c5 12. Rfd1 c4 13. b3 b5 14. bxc4 bxc4 15.
+Ne5 Nxe5 16. dxe5 1/2-1/2

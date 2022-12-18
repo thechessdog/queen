@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Pedersen, Erik"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "f21ca137"]
+[Epoch "Queen"]
+[WhiteID "1400754"]
+[BlackID "1404997"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 g6 6. Nf3 Bg7 7. Be3 O-O 8. h3
+c6 9. Be2 Be6 10. Qb3 Qc8 11. a4 Rd8 12. Rd1 Na6 13. Ng5 h6 14. Nxe6 fxe6 15.
+Qc2 Kf7 16. Bd3 g5 17. h4 g4 18. Bh7 Nxc4 19. Qg6+ Kf8 20. Bxh6 Bxh6 21. Qg8#
+1-0

@@ -1,0 +1,17 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "From, Sigfred"]
+[Black "Perez, Emmanuel R."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "3c59b441"]
+[Epoch "Queen"]
+[WhiteCountry "DNK"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Bc4 Nb6 6. Bxf7+ Kxf7 7. Ne5+ Ke8
+8. Qh5+ g6 9. Nxg6 Bg4 10. Qxg4 hxg6 11. Qxg6+ Kd7 12. Nc5+ Kc8 13. Qf5+ Nd7
+14. Nxd7 1-0

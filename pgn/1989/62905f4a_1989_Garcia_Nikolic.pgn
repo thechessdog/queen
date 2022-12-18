@@ -1,0 +1,19 @@
+[Event "Citta di Forli"]
+[Site "Citta di Forli"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Garces, Napoleon"]
+[Black "Nikolic, Sava N"]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "62905f4a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Be7 6. cxd5 exd5 7. Bg5 c6 8. e3
+Nbd7 9. Bd3 O-O 10. Nf3 Re8 11. O-O h6 12. Bf4 Nf8 13. h3 Bd6 14. Ne5 Qe7 15.
+b4 a5 16. b5 c5 17. b6 c4 18. Be2 Bxa3 19. Nb5 Bb4 20. Nc7 Be6 21. e4 Rac8 22.
+Nxe8 Qxe8 23. exd5 Nxd5 24. Bg3 Nxb6 25. Bf3 Nd5 26. Rfc1 b5 27. Qe2 Qd8 28.
+Kh1 Nh7 29. Nxc4 Nc3 30. Rxc3 Bxc3 31. d5 Bd7 32. Rc1 Rxc4 33. Qd3 Qc8 34. d6
+Nf6 0-1

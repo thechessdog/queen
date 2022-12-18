@@ -1,0 +1,17 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kharitonov, Andrei Y"]
+[Black "Kozlov, Vladimir N"]
+[Result "1/2-1/2"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "be9b82be"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+a6 9. dxe5 dxe5 10. Qc2 c6 11. h3 Qe7 12. a3 a5 13. Rd1 Nc5 14. Be3 Nfd7 15. b4
+axb4 16. axb4 Rxa1 17. Rxa1 Ne6 18. c5 1/2-1/2

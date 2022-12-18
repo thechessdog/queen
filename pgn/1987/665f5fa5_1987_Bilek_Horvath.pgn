@@ -1,0 +1,18 @@
+[Event "Noviki"]
+[Site "Budapest II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bilek, Istvan"]
+[Black "Horvath, Csaba"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "665f5fa5"]
+[Epoch "Queen"]
+[BlackID "700118"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 1/2-1/2

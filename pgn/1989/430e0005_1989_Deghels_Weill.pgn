@@ -1,0 +1,17 @@
+[Event "Uzes op"]
+[Site "Uzes"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Deghels, N."]
+[Black "Weill, Roland"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "430e0005"]
+[Epoch "Queen"]
+[BlackID "601160"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. g3 c5 6. d5 d6 7. Bg2 Bxc3+ 8. bxc3
+e5 9. O-O e4 10. Ng5 Re8 11. Nh3 Nbd7 12. Nf4 Ne5 13. Qb3 b6 0-1

@@ -1,0 +1,18 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Voss, I."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "0628e63b"]
+[Epoch "Queen"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3 8.
+bxc3 Ba5 9. Bd3 Qc7 10. f4 a6 11. Qg4 O-O 12. Nf3 g6 13. h4 Bxc3 14. Bxc3 Qxc3+
+15. Ke2 Nc6 16. h5 Ne7 17. Qh4 Nf5 18. Bxf5 exf5 19. hxg6 Qc4+ 20. Kf2 1-0

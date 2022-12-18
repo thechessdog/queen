@@ -1,0 +1,21 @@
+[Event "Bargteheide op"]
+[Site "Bargteheide"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Bohnsack, Ralf"]
+[Black "Maus, Soenke"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "1004e28a"]
+[Epoch "Queen"]
+[BlackID "4600240"]
+[BlackCountry "GER"]
+[WhiteID "4614232"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5
+h6 9. Bh4 a6 10. Nd2 b5 11. Be2 O-O 12. O-O Nbd7 13. Qc2 Rb8 14. a4 b4 15. Nd1
+Re8 16. Ne3 b3 17. Qb1 Rb4 18. f3 Nxe4 19. fxe4 Qxh4 20. Nec4 Qe7 21. Bd3 Ne5
+22. Ra3 Bd7 0-1

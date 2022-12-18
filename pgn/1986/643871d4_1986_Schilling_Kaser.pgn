@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schilling"]
+[Black "Kaser"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "643871d4"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Bf5 9. Qh4 Nc6 10. Bb3 Na5 11. Bh6 Nxb3 12. axb3 Bxh6 13. Qxh6 Ng4
+14. Qh4 e5 15. dxe5 Qxh4 16. Nxh4 Bxc2 17. Rfe1 c5 18. Nd5 Bxb3 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pruehs, M."]
+[Black "Muenz, H."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "bcf3adeb"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 c5 4. e3 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Ne5 e6
+8. Nxc6 bxc6 9. O-O Bd6 10. f4 h5 11. Qf3 Ng4 12. h3 Qh4 13. Nc3 Rh6 14.
+Ne2 Nf6 15. d3 Kd7 16. e4 Bc7 17. exd5 exd5 18. c4 dxc4 19. dxc4 Ne8 20.
+Rad1+ Kc8 21. Ng3 Nd6 22. Qxc6 Kb8 23. Rfe1 Nc8 24. Qf3 Qxf4 25. Qxf4 Bxf4
+26. Nf5 Ra6 27. Bxg7 Nd6 28. Re7 Kc8 29. Nxd6+ Bxd6 30. Rxf7 Rc6 31. Re1
+Rc7 32. Re8+ Kb7 33. Rxc7+ Bxc7 34. Rxa8 Kxa8 35. g4 hxg4 36. hxg4 1-0
+

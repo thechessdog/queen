@@ -1,0 +1,19 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmid"]
+[Black "Veen"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, Petrosian variation"]
+[HashCode "4549f3c7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nf3 Ne7 7. a3 Bxc3 8.
+Bxc3 a5 9. Bd3 Ba6 10. O-O Bxd3 11. Qxd3 h5 12. Rae1 Nbc6 13. Ng5 Nf5 14.
+b4 axb4 15. axb4 Qd8 16. Nf3 Qd7 17. h3 h4 18. Re2 Ra3 19. Qd2 Na7 20. Ra1
+Rxa1+ 21. Bxa1 O-O 22. c3 Nb5 23. Qg5 Qc6 24. Rc2 Nbxd4 25. Nxd4 Nxd4 26.
+Rc1 Ne2+ 0-1
+

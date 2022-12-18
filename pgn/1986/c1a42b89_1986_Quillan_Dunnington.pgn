@@ -1,0 +1,19 @@
+[Event "Southampton ch-BCF"]
+[Site "Southampton ch-BCF"]
+[Date "1986.07.01"]
+[Round "11"]
+[White "Quillan, Gary"]
+[Black "Dunnington, Angus J"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c1a42b89"]
+[Epoch "Queen"]
+[WhiteID "401153"]
+[WhiteCountry "ENG"]
+[BlackID "400432"]
+[BlackCountry "ENG"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. Nc3 cxd5 5. d4 Nc6 6. Nf3 g6 7. cxd5 Nxd5 8.
+Bc4 Nxc3 9. Qb3 Nd5 10. Bxd5 e6 11. Bxc6+ bxc6 12. O-O Qd5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Trinec"]
+[Site "Trinec"]
+[Date "1988.01.01"]
+[Round "13"]
+[White "Haba, Petr"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "f8f6fd4f"]
+[Epoch "Queen"]
+[WhiteID "300160"]
+[WhiteCountry "CZE"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. c4 e5 6. Nc3 g6 7. Rb1 Bh6 8.
+a3 Ngf6 9. b4 b6 10. d3 Bxc1 11. Qxc1 O-O 12. O-O Nh5 1/2-1/2

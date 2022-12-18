@@ -1,0 +1,27 @@
+[Event "Holon"]
+[Site "Holon"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Shvidler, Eliahu"]
+[Black "Gruenfeld, Yehuda"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "e8fd925b"]
+[Epoch "Queen"]
+[WhiteID "2800160"]
+[BlackID "2800020"]
+[WhiteCountry "ISR"]
+[BlackCountry "ISR"]
+
+1. c4 e6 2. Nf3 b6 3. g3 Bb7 4. Bg2 Nf6 5. Nc3 Be7 6. O-O O-O 7. d4 Ne4 8. Bd2
+Bf6 9. Rc1 d6 10. d5 Bxc3 11. Bxc3 Nd7 12. Nd2 Nxc3 13. Rxc3 e5 14. f4 exf4 15.
+gxf4 f5 16. e4 Qf6 17. Bh3 Qd4+ 18. Kh1 Nc5 19. Bxf5 Bc8 20. Bxc8 Raxc8 21. Qc2
+Rce8 22. e5 Rxf4 23. Rxf4 Qxf4 24. e6 Rf8 25. Rf3 Qe5 26. Rxf8+ Kxf8 27. Nf3
+Qf4 28. Qe2 Ne4 29. Ne1 Nf6 30. b3 a5 31. Nf3 Ke7 32. Qg2 g6 33. Qe2 b5 34. Qd3
+Ne4 35. Qe2 bxc4 36. bxc4 Nf6 37. Nd2 Ng4 38. Nb3 a4 39. Na5 Ke8 40. Kg1 a3 41.
+Nb3 Ne5 42. c5 Ke7 43. cxd6+ cxd6 44. Kg2 Nc4 45. Qf3 Ne3+ 46. Kf2 Qxf3+ 47.
+Kxf3 Nxd5 48. Nd4 Nc3 49. Kg4 h6 50. h4 Nxa2 51. Nb5 Nb4 52. Nxa3 Nd5 53. Nb5
+Kxe6 54. Nd4+ Ke5 55. Nc6+ Ke4 56. Kg3 h5 57. Kf2 Nf4 58. Nd8 Nd3+ 59. Kg3 Ne5
+60. Kf2 d5 61. Ne6 d4 62. Nc5+ Kd5 63. Nb3 Kc4 0-1

@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Miles, Anthony J"]
+[Black "Hermann, Manfred"]
+[Result "0-1"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Sozin variation"]
+[HashCode "f6c1a8ff"]
+[Epoch "Queen"]
+[BlackID "4600584"]
+[WhiteCountry "ENG"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. O-O Qd5 14. Qe2 Nd7 15.
+f4 Bc5 16. b4 Ba7 17. Kh1 Bb7 18. Nxd7 Kxd7 19. f5 e5 20. Bxb5+ Ke7 21. Bc4 d3
+22. Qg4 Qd4 23. Bf4 exf4 24. Rae1+ Kf8 25. f6 Rg8 26. Bxf7 f3 27. fxg7+ Rxg7
+28. Rxf3 Qxg4 0-1

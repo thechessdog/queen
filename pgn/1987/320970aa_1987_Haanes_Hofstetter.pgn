@@ -1,0 +1,18 @@
+[Event "Aalborg op"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Haanes, S."]
+[Black "Hofstetter, Hans Joachim"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "320970aa"]
+[Epoch "Queen"]
+[BlackID "4630017"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. e4 Bg7 5. Nc3 d6 6. Bd3 O-O 7. Nge2 Nc6 8.
+O-O Ne7 9. f4 f5 10. e5 c5 11. Nb5 dxe5 12. dxe5 Nd5 13. Rf2 Ne3 14. Qc1 Ng4
+15. Rf3 Be6 16. b3 a6 17. Na3 f6 18. h3 fxe5 19. hxg4 e4 20. gxf5 exf3 21. fxe6
+fxe2 22. Bc4 Qd4+ 0-1

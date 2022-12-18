@@ -1,0 +1,22 @@
+[Event "Noviki-B"]
+[Site "Budapest II"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Horvath, Csaba"]
+[Black "Petran, Pal"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[HashCode "7ccdfea3"]
+[Epoch "Queen"]
+[BlackID "700304"]
+[BlackCountry "HUN"]
+[WhiteID "700118"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. a4 h6 12. Nbd2 Bf8 13. d5 Ne7 14. c4 c6 15. dxc6
+Nxc6 16. axb5 axb5 17. Rxa8 Qxa8 18. cxb5 Nb4 19. Bc4 d5 20. exd5 e4 21. Nh2
+Bxd5 22. b3 Bc5 23. Ng4 Nxg4 24. Qxg4 Re6 25. Bb2 Rg6 26. Ra1 Qxa1+ 27. Bxa1
+Rxg4 28. hxg4 e3 29. Nf3 exf2+ 30. Kf1 Bxf3 31. gxf3 Nc2 32. b4 Bb6 0-1

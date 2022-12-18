@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kranzl, A."]
+[Black "Schikov, G."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "7ec5109b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Rb1
+Bd7 9. Be2 h6 10. O-O Ne7 11. g3 O-O-O 12. Nh4 Kb8 13. f4 f5 14. exf6 gxf6
+15. Rf2 Bg7 16. Qe1 Ba4 17. Bd1 Bxd1 18. Qxd1 Rhe8 19. f5 e5 20. Nf1 Nb3
+21. Be3 exd4 22. Bxd4 Nxd4 23. cxd4 Nc6 24. Nf3 Re4 25. N1d2 Re3 26. Nf1
+Rd3 27. Qe1 Nxd4 28. Nxd4 Rxd4 29. Kg2 Re4 30. Qc3 Rde8 31. Rd1 Re2 32. Qd4
+Bf8 33. Qxb6 axb6 34. Kf3 Rxf2+ 35. Kxf2 Re5 36. g4 Bc5+ 37. Kf3 b5 0-1
+

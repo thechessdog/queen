@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Talving, R."]
+[Black "Holmberg, S."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "1f444392"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Bb5+ c6 6. Bc4 Nh6 7. Qe2 f6
+8. d4 Bxe5 9. fxe5 Qxd4 10. Bxh6 gxh6 11. exf6 Qxf6 12. Nc3 Bf5 13. Nxe4
+Bxe4 14. Qxe4+ Qe7 15. Qxe7+ Kxe7 16. O-O-O b5 17. Rhe1+ Kf6 18. Rd6+ Kg7
+19. Re7+ Kf8 20. Rf7+ Ke8 21. Bb3 Rf8 22. Rxf8+ Kxf8 23. Rd8+ Ke7 24. Rh8
+Kf6 25. Rxh7 Kg6 26. Rh8 Kg7 27. Rg8+ Kh7 28. g4 a5 29. h4 a4 30. Be6 b4
+31. g5 1-0
+

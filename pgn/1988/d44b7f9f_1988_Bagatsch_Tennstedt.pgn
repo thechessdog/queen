@@ -1,0 +1,18 @@
+[Event "Hessen-ch qual-C"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "6"]
+[White "Bagatsch, Thomas"]
+[Black "Tennstedt, Andreas, Dr."]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "d44b7f9f"]
+[Epoch "Queen"]
+[WhiteID "4675924"]
+[WhiteCountry "GER"]
+[BlackID "4618378"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bg5 Bxc3+ 8.
+bxc3 O-O 9. Qc2 b6 10. Bd3 h6 11. Bh4 Nbd7 12. cxd5 exd5 13. O-O Bb7 1/2-1/2

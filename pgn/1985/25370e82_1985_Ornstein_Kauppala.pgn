@@ -1,0 +1,21 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Kauppala, Pekka"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "25370e82"]
+[Epoch "Queen"]
+[BlackID "500585"]
+[BlackCountry "FIN"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Nc3 c6 5. Qb3 Qb6 6. c5 Qxb3 7. axb3 Nd7 8. b4
+a6 9. b5 cxb5 10. Nxb5 Rc8 11. Nc3 Ngf6 12. Bf4 Be7 13. e3 Ne4 14. Nxe4 dxe4
+15. Ne5 Nxc5 16. dxc5 Bxc5 17. g4 Bb4+ 18. Ke2 Ke7 19. gxf5 Rhd8 20. Bh3 Rd2+
+21. Kf1 Rcc2 22. Kg2 Rxf2+ 23. Kg3 f6 24. Rhf1 Rxh2 25. Rad1 fxe5 26. Bg5+ Kf7
+27. Rd7+ Ke8 28. fxe6 Ba5 29. Re7+ Kd8 30. Rf8# 1-0

@@ -1,0 +1,24 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Dlugy, Maxim"]
+[Black "Suba, Mihai"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "5f82477e"]
+[Epoch "Queen"]
+[WhiteID "2000075"]
+[WhiteCountry "USA"]
+[BlackID "1203363"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Ba6 13. Bg5 Qd7 14. b3 Rfe8 15.
+Qc2 Bxc4 16. bxc4 Nxe4 17. Nxe4 Qf5 18. Bd3 Bxa1 19. Nxd6 Qxg5 20. Nxe8 Nxe8
+21. Rxa1 Qe5 22. Rc1 Nd6 23. Qc3 Qxc3 24. Rxc3 Re8 25. Rc1 Kg7 26. f4 Kf6 27.
+Kf2 h6 28. Kf3 g5 29. Ra1 gxf4 30. Kxf4 Nb7 31. g4 Rg8 32. Re1 Nd6 33. h4 Nb7
+34. Re3 Nd6 35. Be2 Nc8 36. Re5 Rd8 37. Bd3 Rg8 38. Rh5 Kg7 39. g5 Re8 40. Rxh6
+Re1 41. d6 1-0

@@ -1,0 +1,23 @@
+[Event "Tampere"]
+[Site "Tampere"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rantanen, Ari"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Mokele Mbembe (Buecker) variation"]
+[HashCode "aff8d0df"]
+[Epoch "Queen"]
+[WhiteID "507903"]
+[BlackID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 Nf6 2. e5 Ne4 3. d3 Nc5 4. d4 Ne6 5. f4 g6 6. d5 Ng7 7. c4 d6 8. Nf3 Bg4
+9. h3 Bxf3 10. Qxf3 Nd7 11. exd6 cxd6 12. Bd3 Nc5 13. Bc2 Nh5 14. b4 Nd7 15.
+Bb2 Bg7 16. Bxg7 Nxg7 17. Nd2 O-O 18. g4 Nf6 19. Rb1 Qc7 20. a4 a6 21. a5 e6
+22. Bd3 exd5 23. cxd5 b6 24. Nc4 bxa5 25. Nxa5 Rfe8+ 26. Kf1 Qb6 27. Bc2 Re3
+28. Qf2 Qb5+ 29. Kg2 Re2 30. Rh2 Rxf2+ 31. Kxf2 Nxd5 32. f5 Re8 33. Nb3 Nc3 34.
+Ra1 Ne2 35. Kg2 Qc6+ 0-1

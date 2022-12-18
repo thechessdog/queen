@@ -1,0 +1,17 @@
+[Event "Frunze"]
+[Site "Frunze"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Neverov, Valeriy"]
+[Black "Vladimirov, Yevgeniy"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "87fe5654"]
+[Epoch "Queen"]
+[BlackCountry "KAZ"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. a4 Nc6 8. Qe2
+Be7 9. Rd1 Qc7 10. dxc5 Bxc5 11. b3 b6 12. Bb2 Bb7 13. Nbd2 O-O 14. Rac1 Rfd8
+15. Bd3 Nb4 16. Bb1 Qe7 17. Ng5 Nbd5 18. Nc4 h6 19. Nf3 Nb4 20. Nfe5 1/2-1/2

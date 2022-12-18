@@ -1,0 +1,21 @@
+[Event "NRW-Liga II"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Oepen, Lothar"]
+[Black "Hengelbrock, Joachim"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "89ac434b"]
+[Epoch "Queen"]
+[BlackID "4635779"]
+[BlackCountry "GER"]
+[WhiteID "4617037"]
+[WhiteCountry "GER"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. d3 Bb4 6. Bd2 O-O 7. e3 Bxc3 8. Bxc3
+d6 9. Ne2 Qe8 10. b4 Qh5 11. h3 Nd8 12. f4 Re8 13. Kf2 Bd7 14. Re1 Bc6 15. Ng1
+Qg6 16. Bxc6 Nxc6 17. b5 Nd8 18. Nf3 Nd7 19. Qd2 Nf7 20. Re2 Nc5 21. fxe5 dxe5
+22. Bb4 f4 23. Bxc5 Qxg3+ 24. Kf1 Qxf3+ 25. Kg1 b6 26. Bb4 Ng5 0-1

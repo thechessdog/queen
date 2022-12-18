@@ -1,0 +1,19 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "King, Daniel J"]
+[Black "Wahls, Matthias"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b73e9a43"]
+[Epoch "Queen"]
+[WhiteID "400068"]
+[WhiteCountry "ENG"]
+[BlackID "4600070"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bc2 e5 8. a4 Rb8
+9. d3 d6 10. axb5 1/2-1/2

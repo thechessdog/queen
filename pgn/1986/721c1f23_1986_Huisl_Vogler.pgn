@@ -1,0 +1,18 @@
+[Event "Hofheim"]
+[Site "Hofheim"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Huisl, W."]
+[Black "Vogler, T."]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "721c1f23"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Nbd2 dxe5 8.
+Nxe5 Bxe2 9. Qxe2 g6 10. Ndf3 Bg7 11. Nxf7 Kxf7 12. Ng5+ Ke8 13. Ne6 Qd7
+14. Nxg7+ Kf7 15. Bh6 Na6 16. O-O-O Rhf8 17. Rhe1 Nc7 18. Nh5 Rae8 19. Qe5
+Rg8 20. Qf4+ Qf5 21. Qxc7 1-0
+

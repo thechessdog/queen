@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thomas"]
+[Black "Dinh"]
+[Result "1/2-1/2"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "e175518c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Bd3 Bxc3+ 7. bxc3 d6
+8. O-O Nbd7 9. Qc2 Re8 10. Rb1 Nf8 11. e4 h6 12. e5 dxe5 13. dxe5 N6d7 14.
+Qd2 Qc7 15. Qf4 f5 16. exf6 Qxf4 17. Bxf4 Nxf6 18. Rfe1 b6 19. Ne5 Bb7 20.
+f3 Rad8 21. Rbd1 Nh5 22. Bc1 Ba8 23. Re2 Nf6 24. Red2 Rc8 25. Bc2 1/2-1/2
+

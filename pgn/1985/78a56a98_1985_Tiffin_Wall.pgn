@@ -1,0 +1,16 @@
+[Event "Sunnyvale"]
+[Site "Sunnyvale"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tiffin, D."]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "78a56a98"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. dxc6 Nxc6 5. Bb5 exf4 6. Nf3 Be7 7. d4 Bh4+ 8.
+Kf1 Bg4 9. Bxf4 Ne7 10. c3 O-O 11. Bd3 Nd5 12. Bg3 Ne3+ 13. Ke2 Nxd1 0-1

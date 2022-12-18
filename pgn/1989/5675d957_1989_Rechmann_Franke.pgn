@@ -1,0 +1,23 @@
+[Event "BL2-W8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rechmann, Peter"]
+[Black "Franke, Jon"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5675d957"]
+[Epoch "Queen"]
+[BlackID "4607902"]
+[BlackCountry "GER"]
+[WhiteID "4601165"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O 8.
+Nge2 b6 9. Nf4 Na6 10. h4 Nc7 11. h5 b5 12. Bb3 b4 13. Nce2 Ncxd5 14. hxg6 fxg6
+15. Nxd5 Nxd5 16. Bh6 Bxh6 17. Rxh6 Bf5 18. Qd2 a5 19. Ng3 e6 20. Rc1 Qd6 21.
+Rh4 a4 22. Bxd5 exd5 23. Kf1 b3 24. a3 Bc2 25. Kg1 Rae8 26. Re1 Re7 27. Nf1
+Ref7 28. f3 Qf6 29. Qf2 g5 30. Rh1 Bg6 31. Qe3 Rc7 32. Nh2 Rc4 33. Qe5 Rxd4 34.
+Qxf6 Rxf6 35. Ng4 Rf8 36. Kf2 Rxg4 0-1

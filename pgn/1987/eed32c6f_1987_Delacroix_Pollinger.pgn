@@ -1,0 +1,17 @@
+[Event "corr SWZ/K"]
+[Site "corr SWZ/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Delacroix"]
+[Black "Pollinger"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "eed32c6f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 cxd4 8.
+Nxd4 h5 9. f4 hxg4 10. Bb5+ Nd7 11. f5 Rxh4 12. Rf1 Bxf5 13. Nxf5 exf5 14.
+Qxd5 Ne7 15. Qxb7 Rc8 16. Bg5 Rc7 17. Qa6 1-0
+

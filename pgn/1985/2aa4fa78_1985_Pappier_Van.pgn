@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pappier"]
+[Black "Van der Tak"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "2aa4fa78"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8.
+Be3 Nc6 9. Nf3 Be7 10. d5 exd5 11. cxd5 Nb4 12. Nd4 Bd7 13. e6 fxe6 14.
+dxe6 Bc6 15. Qg4 Bh4+ 16. g3 Bxh1 17. O-O-O Qf6 18. gxh4 O-O 19. Be2 Bd5
+20. Bg5 Qe5 21. e7 Rf7 22. Nf3 Nxa2+ 23. Kc2 Qf5+ 24. Qxf5 Nb4+ 25. Kb1
+Rxf5 26. Nb5 Be4+ 27. Ka1 Rd5 28. Nfd4 a6 29. Na3 h6 30. Bf4 Rd7 0-1
+

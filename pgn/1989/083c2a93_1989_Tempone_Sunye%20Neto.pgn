@@ -1,0 +1,19 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tempone, Marcelo"]
+[Black "Sunye Neto, Jaime"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "083c2a93"]
+[Epoch "Queen"]
+[WhiteID "100269"]
+[WhiteCountry "ARG"]
+[BlackID "2100037"]
+[BlackCountry "BRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8. O-O
+Nc6 9. a3 Bd6 10. d5 1/2-1/2

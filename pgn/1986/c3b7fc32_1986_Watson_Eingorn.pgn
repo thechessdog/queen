@@ -1,0 +1,19 @@
+[Event "Bor"]
+[Site "Bor"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Watson, William N"]
+[Black "Eingorn, Vereslav S"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "c3b7fc32"]
+[Epoch "Queen"]
+[BlackID "14100053"]
+[BlackCountry "UKR"]
+[WhiteID "400157"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 a6 6. Be2 Nf6 7. f4 Qc7 8. Be3
+Be7 9. g4 Nc6 10. g5 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grivas, Efstratios"]
+[Black "Kirov, Nino"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "e0fad61e"]
+[Epoch "Queen"]
+[WhiteID "4200039"]
+[WhiteCountry "GRE"]
+[BlackCountry "BGR"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 g6 4. O-O Bg7 5. d4 Nf6 6. c3 O-O 7. Bf4 Bf5 8. Nbd2
+Ne4 9. Ne5 Nxd2 10. Qxd2 Nd7 11. Nxd7 Qxd7 12. Bh6 Bh3 13. Bxg7 Kxg7 14. Rfe1
+Bxg2 15. Kxg2 1/2-1/2

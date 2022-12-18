@@ -1,0 +1,18 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Melkeraaen, Terje"]
+[Black "Haugen, Arild"]
+[Result "0-1"]
+[ECO "A72"]
+[Opening "Benoni"]
+[Variation "classical without 9.O-O"]
+[HashCode "095130ec"]
+[Epoch "Queen"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. Bg5 h6 10. Be3 Ng4 11. Bf4 Re8 12. Nd2 Nxf2 13. Kxf2 Qf6 14. Ke3 g5 15.
+Bg3 Qd4+ 16. Kf3 g4+ 17. Kf4 Be5# 0-1

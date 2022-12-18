@@ -1,0 +1,18 @@
+[Event "corr DDR/C"]
+[Site "corr DDR/C"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ratzmann"]
+[Black "Rosenhahn"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "41bcb20c"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 Bh6
+15. Bf4 O-O-O 16. O-O b4 17. Na4 Qa6 18. dxe6 Qxe6 19. Bxb7+ Kxb7 20. Qxd7+
+1-0
+

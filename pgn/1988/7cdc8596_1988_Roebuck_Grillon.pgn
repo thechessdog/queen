@@ -1,0 +1,18 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roebuck, D."]
+[Black "Grillon, J."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "7cdc8596"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. c3 Nc6 8. g3
+Bh3 9. gxf4 Qd7 10. f5 Bxf1 11. Qxf1 Nf6 12. Bb5 Nxe4 13. d5 O-O 14. dxc6
+bxc6 15. Bd3 Qxf5 16. Be3 a6 17. Na3 Rab8 18. Rb1 Qe6 19. Nd4 Qg4+ 20. Qg2
+Qxg2+ 21. Kxg2 Rxb2+ 22. Rxb2 1-0
+

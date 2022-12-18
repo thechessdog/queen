@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wunderlich, H."]
+[Black "Feldhausen, H."]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "6abb2e97"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bxc6 Bxc6
+8. d4 Bxe4 9. Bg5 Bxb1 10. Rxb1 Nd7 11. Nd2 f6 12. Ne4 e5 13. dxe5 dxe5 14.
+Qh5+ g6 15. Qh3 Qe7 16. Rbd1 Bg7 17. Rd6 Rd8 18. Re6 1-0
+

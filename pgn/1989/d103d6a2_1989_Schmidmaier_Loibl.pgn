@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmidmaier"]
+[Black "Loibl, J."]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "d103d6a2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. a3 Nxd2 7. Bxd2
+Bxd2+ 8. Qxd2 Qe7 9. Qc3 b6 10. e3 Bb7 11. Be2 O-O 12. O-O Rfe8 13. Rfd1
+Rad8 14. b4 Nxe5 15. Nxe5 Qxe5 16. Qxe5 Rxe5 17. Rd4 d6 18. Bf3 Bxf3 19.
+gxf3 Rde8 1/2-1/2
+

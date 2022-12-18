@@ -1,0 +1,22 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Gray"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "35500be3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Bc5 6. Bc4 Ne7 7. Bf4 Ng6
+8. Bg3 a6 9. O-O O-O 10. Qe2 Nc6 11. Rfd1 b5 12. Bb3 Qe7 13. e5 f5 14. exf6
+gxf6 15. Ne4 Bb4 16. a3 f5 17. Nd6 f4 18. Nxc8 Rfxc8 19. Rxd7 Qe8 20. Bxe6+
+Kh8 21. Ng5 Be7 22. Qh5 Nf8 23. Nf7+ Qxf7 24. Qxf7 Nxd7 25. Bxd7 Rf8 26.
+Qd5 fxg3 27. Bxc6 gxf2+ 28. Kf1 Rad8 29. Qh5 Bf6 30. Rd1 Rxd1+ 31. Qxd1
+Bxb2 32. Qh5 Rf6 33. Be4 h6 34. Qe8+ Kg7 35. Qe7+ Rf7 36. Qd6 Rf6 37. Qb4
+Ba1 38. Qe7+ Rf7 39. Qe6 Rf6 40. Qd7+ Kf8 41. Bc6 Bb2 42. Bd5 h5 43. h4
+Bxa3 44. Qd8+ Kg7 45. Qg8+ 1-0
+

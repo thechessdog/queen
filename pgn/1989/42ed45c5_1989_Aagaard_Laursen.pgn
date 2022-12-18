@@ -1,0 +1,20 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Aagaard, Jacob"]
+[Black "Laursen, Christophe"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "42ed45c5"]
+[Epoch "Queen"]
+[WhiteID "1401815"]
+[WhiteCountry "SCO"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 b6 10. h4 cxd4 11. cxd4 Bg4 12. Kf1 Nc6 13. d5 Na5 14. Bb2 Bxb2
+15. Rxb2 Qc7 16. Nd4 Bxe2+ 17. Rxe2 Rac8 18. Re1 Qc4+ 19. Kg1 e5 20. Nf3 Qc3
+21. h5 Nc4 22. hxg6 fxg6 23. d6 Nxd6 24. Qxd6 Rc6 25. Qd5+ Kg7 26. Qd7+ Kf6 27.
+Rxh7 a5 28. Qe7# 1-0

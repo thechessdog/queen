@@ -1,0 +1,22 @@
+[Event "Esbjerg"]
+[Site "Esbjerg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nielsen, Jens"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "567d45c9"]
+[Epoch "Queen"]
+[WhiteID "1409310"]
+[BlackID "700134"]
+[WhiteCountry "DEN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 h6 5. Bh4 b6 6. Nbd2 Bb7 7. c3 Be7 8. Bd3
+cxd4 9. cxd4 Nc6 10. a3 d6 11. Bg3 O-O 12. O-O a6 13. Rc1 b5 14. Bb1 Rc8 15.
+Qe2 Nh5 16. Qd3 g6 17. Ba2 Kh7 18. h3 Nxg3 19. fxg3 Bf6 20. Ne4 Bg7 21. h4 Ne7
+22. Rxc8 Bxc8 23. g4 Kh8 24. g5 h5 25. Rf2 Bb7 26. Nf6 Bxf3 27. Rxf3 Bxf6 28.
+Rxf6 d5 29. e4 dxe4 30. Qxe4 Nf5 31. d5 Qb6+ 32. Kh2 Qd6+ 33. Kg1 Rc8 0-1

@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Merkies"]
+[Black "Verstraten"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "9bebda23"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+Bd3 Bxd3 9. Qxd3 e6 10. Bd2 Qc7 11. c4 c5 12. Bc3 Ngf6 13. O-O-O O-O-O 14.
+d5 Nb6 15. Bxf6 gxf6 16. Rhe1 Qf4+ 17. Kb1 Qxc4 18. Qxc4 Nxc4 19. Rc1 exd5
+20. Nf5 b6 21. a4 Rg8 22. g3 Rg4 23. b3 Na5 24. Nd2 Nc6 25. f4 Nb4 26. Re2
+Kb7 27. Rce1 Nc6 28. Re8 Kc8 29. Nf1 d4 30. h5 Rg8 31. Kc2 Nb4+ 32. Kd2 Nd5
+33. Kd3 Nc7 34. R8e2 Rd5 35. Ke4 Kd7 36. Nh2 Bg7 37. g4 Re8+ 38. Kd3 Rxe2
+39. Rxe2 Bf8 40. Nf3 Ne6 41. Ke4 Kc6 42. Nd2 Ng7 43. Nxg7 Bxg7 44. Kd3 Kd7
+45. Nc4 f5 46. g5 hxg5 47. fxg5 f4 48. h6 Bh8 49. Rg2 f3 50. Rg3 f2 51. Nd2
+Re5 52. Rf3 Rxg5 53. Rxf7+ Ke6 54. Rxa7 Re5 55. Ra8 Re3+ 56. Kc4 Rc3+ 57.
+Kb5 Rxb3+ 58. Kc6 Bf6 0-1
+

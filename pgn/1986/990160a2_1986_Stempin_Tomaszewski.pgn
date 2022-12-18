@@ -1,0 +1,25 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Tomaszewski, Roman"]
+[Result "1-0"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Smyslov variation"]
+[HashCode "990160a2"]
+[Epoch "Queen"]
+[WhiteID "1100068"]
+[BlackID "1100637"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 c6 5. a4 Na6 6. e4 Bg4 7. Bxc4 e6 8. Be2
+Bb4 9. O-O O-O 10. Bg5 h6 11. Bh4 Be7 12. e5 Nd5 13. Bxe7 Qxe7 14. h3 Bf5 15.
+Bd3 Rfd8 16. Bxf5 exf5 17. Qb3 Nf4 18. Qc2 Qe6 19. Qd2 Nd5 20. Ne2 Qe7 21. Ng3
+Qe6 22. h4 Rd7 23. Rfd1 Rad8 24. Qc2 Ne7 25. Ne2 Nd5 26. Ng3 g6 27. Ra3 Kg7 28.
+Re1 Nab4 29. Qb1 Nf4 30. h5 c5 31. dxc5 Nfd3 32. Rf1 Nxc5 33. Qc1 Ncd3 34. Qc3
+a5 35. Ne2 Kh7 36. Ned4 Qb6 37. hxg6+ fxg6 38. e6 Rc7 39. e7 Re8 40. Qd2 Nc5
+41. Ng5+ hxg5 42. Rh3+ Kg8 43. Qxg5 Rexe7 44. Nxf5 Re8 45. Nh6+ Kf8 46. Ng4
+Ree7 47. Rh8+ Kf7 48. Qf4+ 1-0

@@ -1,0 +1,21 @@
+[Event "Agria op"]
+[Site "Eger"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dobos, Jozsef"]
+[Black "Marosi, Csaba"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "0ee7e006"]
+[Epoch "Queen"]
+[WhiteID "701602"]
+[WhiteCountry "HUN"]
+[BlackID "702510"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. g3 e6 3. Bg2 d5 4. Nc3 d4 5. Nce2 e5 6. d3 Nc6 7. f4 Bd6 8. Nf3
+Nge7 9. O-O O-O 10. f5 f6 11. g4 b5 12. a4 Qb6 13. axb5 Qxb5 14. b3 a5 15. g5
+Bd7 16. Ng3 Be8 17. Ne1 Nb4 18. Rf2 Ra6 19. Bf1 a4 20. bxa4 Rxa4 21. Rxa4 Qxa4
+22. Qg4 Kh8 23. gxf6 gxf6 24. Bh6 Rg8 25. Qh4 1-0

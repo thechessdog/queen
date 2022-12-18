@@ -1,0 +1,19 @@
+[Event "Boeblingen op"]
+[Site "Boeblingen"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Hartmann, Wolfram"]
+[Black "Hoerrmann, Klaus"]
+[Result "0-1"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "ed06a122"]
+[Epoch "Queen"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bd2 O-O 8.
+Bd3 d6 9. h3 Nbd7 10. Qe2 Nc5 11. O-O-O Be6 12. a3 Bxc3 13. Bxc3 Na4 14. Qd2
+Qb6 15. b3 Bxb3 16. Ba5 Qc6 17. Kb1 Be6 18. c4 b6 19. Bc3 Bxc4 20. Bxc4 Qxc4
+0-1

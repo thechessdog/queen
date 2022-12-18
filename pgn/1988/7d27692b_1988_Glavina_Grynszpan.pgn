@@ -1,0 +1,19 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Glavina, Pablo"]
+[Black "Grynszpan, Mariano"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "7d27692b"]
+[Epoch "Queen"]
+[WhiteID "100234"]
+[WhiteCountry "ARG"]
+[BlackID "100277"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Nf3
+f5 9. exf6 Rxf6 10. Bg5 Qa5 11. Bxf6 Qxc3+ 12. Kd1 Qxa1+ 13. Kd2 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Glowatzky, T."]
+[Black "Leuthausser"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "3fca3bf7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4
+Bb7 9. Bc4 d6 10. e4 Nbd7 11. O-O Nb6 12. bxa6 Bxa6 13. Bxa6 Rxa6 14. Re1
+e6 15. dxe6 fxe6 16. Bg5 Qd7 17. Bxf6 Rxf6 18. e5 dxe5 19. Ne4 1-0
+

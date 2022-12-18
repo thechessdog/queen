@@ -1,0 +1,20 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Mainka, Gregor"]
+[Black "Ostojic, Predrag"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "b5d8edee"]
+[Epoch "Queen"]
+[WhiteID "4601319"]
+[WhiteCountry "GER"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Qc7 8. Be3
+Nc6 9. Qe2 Na5 10. Rd1 Be7 11. O-O O-O 12. f3 b5 13. g4 Nxb3 14. axb3 Bb7 15.
+Bf2 g6 16. b4 Rac8 17. Nb3 Rfe8 18. Rd4 Nd7 19. Rfd1 Ne5 20. Na5 Ba8 21. Be3
+Qb8 22. Bf4 Nxf3+ 23. Qxf3 e5 24. Bxe5 dxe5 25. Rd7 Rc7 26. Nb3 Qa7+ 0-1

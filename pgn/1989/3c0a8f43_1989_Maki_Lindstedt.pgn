@@ -1,0 +1,25 @@
+[Event "Helsinki2"]
+[Site "Helsinki"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Lindstedt, Johan"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "3c0a8f43"]
+[Epoch "Queen"]
+[WhiteID "500046"]
+[BlackID "500143"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bd7 13. Nxe5 dxe5 14. d6 Re8 15.
+dxe7 Qxe7 16. Qf3 c5 17. Nd2 b4 18. Nf1 Be6 19. Ne3 b3 20. axb3 Nxb3 21. Bxb3
+Bxb3 22. c4 Qe6 23. Nd5 Nxd5 24. cxd5 Qb6 25. Be3 Qb5 26. Qg3 f6 27. Rec1 c4
+28. Bd2 a5 29. Qc3 a4 30. Rf1 Qc5 31. Be3 Qa5 32. Qc1 Qb4 33. f3 Rec8 34. Bd2
+Qc5+ 35. Kh1 Qd4 36. Bc3 Qc5 37. f4 exf4 38. Qxf4 Rf8 39. e5 Qxd5 40. exf6 Rf7
+41. Qg3 Bc2 42. fxg7 Bg6 43. Rfe1 Rd7 44. Rxa4 Bf7 45. Rxa8+ Qxa8 46. Qe5 Qd8
+47. Qc5 Rc7 48. Qe5 Rc8 49. Rf1 Qd7 50. Bb4 Re8 51. Qc5 Qc8 52. Qf8+ 1-0

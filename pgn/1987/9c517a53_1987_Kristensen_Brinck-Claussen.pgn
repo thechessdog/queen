@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Kristensen, Bjarke Hautop"]
+[Black "Brinck-Claussen, Bjorn"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "9c517a53"]
+[Epoch "Queen"]
+[BlackID "1400134"]
+[BlackCountry "DEN"]
+[WhiteID "1437747"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Bd6 1/2-1/2

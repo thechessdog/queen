@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roszner"]
+[Black "Sommer"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "ef8d664a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Be2 c5
+8. O-O cxd4 9. Qxd4 Be7 10. Bf4 O-O 11. Bd6 b6 12. Rad1 Bb7 13. Qa4 Bxd6
+14. Rxd6 Qc7 15. Rfd1 Bd5 16. R1xd5 exd5 17. Nf5 Nc5 18. Qf4 Nce4 19. Rxf6
+Qxc2 20. Rh6 Rae8 21. N3d4 Qb1+ 22. Bf1 Nd2 23. Qxd2 Re1 24. h3 Rxf1+ 25.
+Kh2 Qc1 26. Qxc1 Rxc1 27. Ne7+ Kh8 28. Rd6 Rb1 29. b3 Rb2 30. a4 Rxf2 31.
+Rxd5 g6 32. Nec6 f5 33. Nxa7 f4 34. Kg1 Rd2 35. Nac6 Re8 36. Kf1 g5 37.
+Rxg5 Re3 38. Rg4 Rc3 39. Kg1 f3 40. Kh2 h5 41. Rg5 f2 42. Rxh5+ Kg8 43. Rf5
+Rc1 44. Ne7+ Kh8 45. Rf8+ Kh7 1/2-1/2
+

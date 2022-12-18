@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hallier, K."]
+[Black "Hoffmann, Hans"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "d566a339"]
+[Epoch "Queen"]
+[BlackID "4602536"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. h3
+O-O 9. d4 exd4 10. cxd4 Na5 11. Bc2 c5 12. b3 Bb7 13. Nbd2 Rc8 14. Bb2 c4 15.
+bxc4 Nxc4 16. Nxc4 Rxc4 17. Bd3 Ra4 18. Nd2 Qc7 19. a3 d5 20. e5 Ne4 21. Bc2
+Nxd2 22. Qxd2 Rc4 23. Bb3 Rc6 24. Bxd5 Rc2 0-1

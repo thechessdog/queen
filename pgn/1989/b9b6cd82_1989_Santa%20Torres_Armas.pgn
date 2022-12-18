@@ -1,0 +1,18 @@
+[Event "Sagua"]
+[Site "Sagua"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Santa Torres, Juan M."]
+[Black "Armas, Jorge"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "b9b6cd82"]
+[Epoch "Queen"]
+[WhiteID "3100120"]
+[WhiteCountry "PUR"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 e6 4. Bg5 d5 5. e3 Be7 6. Nbd2 Nfd7 7. Bf4 Nc6 8. Bd3
+g5 9. Bg3 Qb6 10. Qc2 f5 11. Ne5 Ndxe5 12. dxe5 Bd7 13. a3 h5 14. h3 O-O-O 15.
+b4 c4 16. Bxc4 dxc4 17. Nxc4 Qb5 18. Nd6+ Bxd6 19. exd6 Qc4 20. Rb1 h4 21. Bh2
+f4 0-1

@@ -1,0 +1,19 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bruneau, Laurent"]
+[Black "Heinis, V."]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "24830c68"]
+[Epoch "Queen"]
+[WhiteID "604550"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 h6 10. Be3 Be6 11. Ng3 c5 12. d5 Bxd5 13. O-O-O Bxg2 14. Rhg1
+Bf3 15. Nf5 Bxd1 16. Rxg7+ Kh8 17. Qxd1 Bf8 18. Qh5 Bxg7 19. Bxh6 Re1+ 20. Kc2
+1-0

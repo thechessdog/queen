@@ -1,0 +1,24 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1985.01.01"]
+[Round "10"]
+[White "Enders, Peter"]
+[Black "Gauglitz, Gernot"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "45611a97"]
+[Epoch "Queen"]
+[WhiteID "4611314"]
+[WhiteCountry "GER"]
+[BlackID "4611365"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. e5 Nd5 7. b3 Nc7 8. Bxc6
+dxc6 9. Bb2 O-O 10. d3 Ne6 11. Nbd2 Nd4 12. h3 Qd5 13. Re4 Nxf3+ 14. Nxf3 Bf5
+15. Re1 Rad8 16. Qe2 b6 17. Qe3 Bc8 18. Re2 h6 19. Rae1 Rfe8 20. Qf4 b5 21. e6
+Bxe6 22. Bxg7 Kxg7 23. Rxe6 fxe6 24. Re5 Qd7 25. Qe4 Rg8 26. Rxe6 Kf8 27. Rxc6
+Qd5 28. Qxd5 Rxd5 29. Ra6 c4 30. dxc4 bxc4 31. Kf1 Rd1+ 32. Ke2 Rc1 33. Kd2 Rf1
+34. Ke2 Rc1 35. Ne1 Kf7 36. Rxa7 Rd8 37. Rc7 Rd6 38. Rxc4 Re6+ 39. Kf3 Rcxe1
+40. a4 Rf6+ 0-1

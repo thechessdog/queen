@@ -1,0 +1,18 @@
+[Event "corr ICCF Master"]
+[Site "corr ICCF Master"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Owen, L."]
+[Black "Kuntschke, L."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "1c27c101"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 Nbd7
+8. O-O b5 9. Nf3 e6 10. Qe1 Be7 11. Kh1 Bb7 12. e5 dxe5 13. fxe5 Ng4 14.
+Qg3 Ndxe5 15. Nxe5 Nxe5 16. Bf4 Bd6 17. Bxb5+ axb5 18. Nxb5 Qc6 19. Nxd6+
+Qxd6 20. Bxe5 1-0
+

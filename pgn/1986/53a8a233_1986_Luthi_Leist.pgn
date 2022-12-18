@@ -1,0 +1,18 @@
+[Event "Nova-Park"]
+[Site "Nova-Park"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Luthi, R."]
+[Black "Leist, Georges"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "53a8a233"]
+[Epoch "Queen"]
+[BlackID "1307487"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Bd7 5. e5 cxd4 6. cxd4 Bb4 7. Nf3 Qa5 8. a3
+Ne7 9. Bd3 O-O 10. O-O Bxd2 11. Bxd2 Qb6 12. Bxh7+ Kxh7 13. Ng5+ Kg6 14. Qg4 f5
+15. Qh4 f4 16. Qh7+ Kxg5 17. h4+ Kg4 18. f3+ Kg3 19. Be1# 1-0

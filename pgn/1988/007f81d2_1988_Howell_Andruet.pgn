@@ -1,0 +1,19 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1988.12.01"]
+[Round "1"]
+[White "Howell, James C"]
+[Black "Andruet, Gilles"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Simagin variation"]
+[HashCode "007f81d2"]
+[Epoch "Queen"]
+[WhiteID "400297"]
+[WhiteCountry "ENG"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d6 5. Bg2 O-O 6. O-O Bg4 7. Nc3 Nc6 8. d5
+Bxf3 9. exf3 Na5 10. Qe2 c5 11. f4 Ne8 12. Bd2 Nc7 13. Ne4 b6 14. Rad1 Nb7 15.
+b3 Qd7 16. h4 b5 17. h5 a5 18. Ng5 a4 19. hxg6 hxg6 20. f5 axb3 21. fxg6 1-0

@@ -1,0 +1,21 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Holst, Allan"]
+[Black "Sondergaard, Gunnar"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2fb186a2"]
+[Epoch "Queen"]
+[WhiteID "1400347"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Bf5 5. Nf3 Bxb1 6. Rxb1 Qxa2 7. Bf4 Nc6 8.
+Ne5 Qd5 9. Qc2 e6 10. Rd1 cxd4 11. Bc4 Qxg2 12. Nxf7 Nf6 13. Bxe6 Qxh1+ 14. Ke2
+Qe4+ 15. Qxe4 Nxe4 16. Nxh8 dxc3 17. Kf3 Nd2+ 18. Kg4 Ne4 19. Bf7+ Ke7 20. Re1
+Ne5+ 21. Kf5 Nxf7 22. Rxe4+ Kd7 23. Nxf7 cxb2 24. Ne5+ Kd8 25. Re1 g6+ 26. Ke6
+Be7 27. Rb1 a5 28. Nf7+ Ke8 29. Rxb2 Ra6+ 30. Nd6+ Bxd6 31. Bxd6 b6 32. Rc2 Ra8
+33. Rc7 a4 34. Rg7 Kd8 35. Rg8# 1-0

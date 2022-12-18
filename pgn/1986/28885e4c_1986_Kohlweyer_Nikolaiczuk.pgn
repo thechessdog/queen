@@ -1,0 +1,19 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1986.04.01"]
+[Round "1"]
+[White "Kohlweyer, Bernd"]
+[Black "Nikolaiczuk, L."]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "28885e4c"]
+[Epoch "Queen"]
+[WhiteID "4600622"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Rc1
+Bb7 9. cxd5 exd5 10. Bd3 Nbd7 11. O-O Ne4 12. Bxe7 Qxe7 13. Qb3 c6 14. Rfd1
+Ndf6 15. Ne5 Nd6 16. Bb1 c5 17. a4 Rfc8 18. f3 cxd4 19. exd4 Nc4 20. Bf5 Nxe5
+21. dxe5 Nd7 22. Nxd5 Qxe5 23. Rxc8+ Bxc8 24. Qb4 a5 25. Ne7+ Kh8 26. Qe4 1-0

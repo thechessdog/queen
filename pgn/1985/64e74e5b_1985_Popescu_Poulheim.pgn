@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Popescu"]
+[Black "Poulheim"]
+[Result "1-0"]
+[ECO "C08"]
+[Opening "French"]
+[Variation "Tarrasch, open, 4.ed ed"]
+[HashCode "64e74e5b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 c4 6. b3 b5 7. a4 Qa5 8.
+Be2 Bd7 9. O-O c3 10. b4 Qc7 11. Nb3 bxa4 12. Nc5 a5 13. Re1 Be7 14. b5 Nf6
+15. Ba3 O-O 16. Na6 1-0
+

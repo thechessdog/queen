@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bierwisch"]
+[Black "Kossatschki"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "5eb63661"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. Nbd2 O-O 8.
+Nf1 b5 9. Bc2 d5 10. Qe2 Be6 11. Ng3 Qd6 12. h3 h6 13. Nh4 dxe4 14. dxe4
+Nh7 15. Nhf5 Bxf5 16. Nxf5 Qf6 17. a4 Rab8 18. axb5 axb5 19. Ra6 Bc5 20.
+Be3 Bxe3 21. Rxc6 1-0
+

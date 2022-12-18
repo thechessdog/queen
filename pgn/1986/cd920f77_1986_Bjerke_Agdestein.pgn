@@ -1,0 +1,20 @@
+[Event "NOR-ch"]
+[Site "Steinkjer"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Bjerke, Richard"]
+[Black "Agdestein, Espen"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "cd920f77"]
+[Epoch "Queen"]
+[WhiteID "1500252"]
+[BlackID "1500201"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. d4 O-O 5. Bg5 c5 6. e3 cxd4 7. exd4 d5 8. Bd3
+dxc4 9. Bxc4 Nc6 10. O-O b6 11. a3 Be7 12. Qd3 Bb7 13. Rfe1 Nd5 14. Ne4 Nf6 15.
+Nc3 Nd5 16. Ne4 Nf6 17. Nc3 1/2-1/2

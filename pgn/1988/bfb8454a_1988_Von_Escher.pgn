@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Von Bentum"]
+[Black "Escher, K."]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "bfb8454a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Be7 6. O-O Nf6 7. Re1 O-O 8.
+a4 b4 9. c3 a5 10. d4 d6 11. h3 Bd7 12. Nbd2 bxc3 13. bxc3 exd4 14. cxd4
+Nb4 15. Nf1 d5 16. e5 Ne4 17. Bb2 c6 18. Re3 Bf5 19. N1d2 Rb8 20. Nxe4 dxe4
+21. Ne1 Qb6 22. Bc4 c5 23. Rb3 cxd4 24. Qxd4 Bc5 25. Qd2 Be6 26. Rc1 Bxc4
+27. Rxc4 Bxf2+ 28. Kh1 Qe6 29. Rcc3 Bxe1 0-1
+

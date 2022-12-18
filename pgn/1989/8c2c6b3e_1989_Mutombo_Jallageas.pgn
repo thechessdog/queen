@@ -1,0 +1,15 @@
+[Event "Parijs open II"]
+[Site "Parijs open II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mutombo, B."]
+[Black "Jallageas, J."]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "8c2c6b3e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 O-O 8. e4
+d5 9. Bg5 h6 10. h4 hxg5 11. hxg5 Nxe4 1-0

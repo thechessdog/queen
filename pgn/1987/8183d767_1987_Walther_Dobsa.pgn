@@ -1,0 +1,19 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Walther, J."]
+[Black "Dobsa, S."]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "8183d767"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Qf3 Nbd7 9. O-O-O b5 10. a3 Rb8 11. g4 b4 12. axb4 Rxb4 13. Bxf6 gxf6 14.
+h4 Bb7 15. Na2 Ra4 16. Nc3 Ra1+ 17. Kd2 Rxd1+ 18. Qxd1 d5 19. Qf3 dxe4 20.
+Nxe4 f5 21. gxf5 exf5 22. Nxf5 Qa5+ 23. c3 Qxf5 24. Bd3 Qd5 25. Re1 Kd8 26.
+Qe3 Nc5 0-1
+

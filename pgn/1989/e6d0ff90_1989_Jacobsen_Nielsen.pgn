@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jacobsen, Bo"]
+[Black "Fries-Nielsen, Niels Jorgen"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "e6d0ff90"]
+[Epoch "Queen"]
+[BlackID "1400142"]
+[BlackCountry "DEN"]
+
+1. f4 d5 2. Nf3 Bg4 3. e3 Nd7 4. h3 Bxf3 5. Qxf3 c6 6. d4 e6 7. Bd3 Bd6 8. O-O
+f5 9. Bd2 Ngf6 10. Be1 c5 11. dxc5 Bxc5 12. Nd2 Qb6 13. Nb3 Bxe3+ 14. Kh1 Bc5
+15. c4 O-O 16. cxd5 Nxd5 17. Bc4 N7f6 18. g4 fxg4 19. hxg4 Bd6 20. f5 Rac8 21.
+Ba5 Rxc4 22. Bxb6 axb6 23. Rg1 Rf4 24. Qe2 Ne4 25. Raf1 Rf6 26. Qb5 Rh6+ 27.
+Kg2 Rh2+ 28. Kxh2 Rf2+ 29. Kh3 Rh2# 0-1

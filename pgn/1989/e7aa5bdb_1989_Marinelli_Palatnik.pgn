@@ -1,0 +1,20 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marinelli, Tullio"]
+[Black "Palatnik, Semon"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[HashCode "e7aa5bdb"]
+[Epoch "Queen"]
+[WhiteID "800201"]
+[WhiteCountry "ITA"]
+[BlackID "2014610"]
+[BlackCountry "USA"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nc3 f5 4. Qb3 a5 5. Nf3 Nf6 6. g3 b6 7. Bg2 Bb7 8. O-O
+O-O 9. Rd1 Bxc3 10. Qxc3 d6 11. Ng5 Bxg2 12. Kxg2 Qe7 13. Qf3 Na6 14. d5 Nc5
+15. dxe6 Nfe4 16. h4 1/2-1/2

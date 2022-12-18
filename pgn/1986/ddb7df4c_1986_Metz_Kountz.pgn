@@ -1,0 +1,18 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Metz, U."]
+[Black "Kountz, Jochen"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "ddb7df4c"]
+[Epoch "Queen"]
+[BlackID "4626184"]
+[BlackCountry "GER"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8.
+Nxg6 hxg6 9. Qd3 Nc6 10. c3 Qe7 11. Bg2 Bd7 12. e4 O-O-O 13. Be3 Rxh2 14. e5
+Bxe5 15. dxe5 Rxg2 16. Bf2 Nxe5 17. Qe3 Nd3+ 0-1

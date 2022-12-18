@@ -1,0 +1,26 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1988.08.01"]
+[Round "6"]
+[White "Le Blancq, Simon"]
+[Black "Szalanczy, Emil"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "38f51c2e"]
+[Epoch "Queen"]
+[BlackID "700347"]
+[BlackCountry "HUN"]
+[WhiteCountry "ZWE"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 g6 5. h3 Bg7 6. Nf3 O-O 7. O-O Nc6 8. Re1 e5
+9. dxe5 dxe5 10. a4 Be6 11. Na3 h6 12. Qe2 Re8 13. Bc4 Na5 14. Bxe6 Rxe6 15.
+Nc4 Nxc4 16. Qxc4 Qc7 17. Be3 Rc8 18. Nd2 Rd6 19. Nb3 b6 20. Red1 Rcd8 21. Rxd6
+Qxd6 22. Nd2 Bf8 23. a5 Qd7 24. axb6 axb6 25. Ra6 Qb7 26. Qa2 Rd7 27. Ra8 Kg7
+28. Qa6 Be7 29. Qxb7 Rxb7 30. f3 b5 31. b3 Nh5 32. Kf2 Rd7 33. Nf1 Rd3 34. Rb8
+Rxc3 35. Rxb5 Rc2+ 36. Nd2 Bg5 37. Bxg5 hxg5 38. Ke1 Rc1+ 39. Kf2 Nf4 40. g3
+Nxh3+ 41. Ke2 g4 42. fxg4 Ng5 43. Kd3 Ne6 44. b4 cxb4 45. Rxb4 Rg1 46. Kc4 Rxg3
+47. Rb3 Rxg4 48. Kd5 Rg5 49. Nf3 Rg3 50. Kxe5 Ng5 51. Nd2 f6+ 52. Kd5 Rg2 53.
+Nc4 Rg1 54. Ne3 Ra1 55. Rb7+ Nf7 56. Nc4 g5 57. Ne3 Kg6 58. Nf5 Rd1+ 59. Kc5
+Rc1+ 60. Kd5 0-1

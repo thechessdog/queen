@@ -1,0 +1,27 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Kruszynski, Wlodzimierz"]
+[Black "Holmsgaard, Henrik"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "bd34dfa7"]
+[Epoch "Queen"]
+[WhiteID "1100670"]
+[WhiteCountry "POL"]
+[BlackID "1400452"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. h3 e5 8. d3 d6
+9. Nbd2 Nh5 10. Nf1 h6 11. Be3 Qe7 12. Qd2 Kh7 13. g4 Nf6 14. Ng3 Nxg4 15. hxg4
+Bxg4 16. Nh2 Be6 17. f4 Qh4 18. Qf2 f5 19. Bc4 Bxc4 20. dxc4 exf4 21. Qxf4 Qh3
+22. Ngf1 Ne5 23. exf5 gxf5 24. Rad1 Rf6 25. Ng3 Rg6 26. Nf1 Rf8 27. Qf2 Ng4 28.
+Qg2 Qxg2+ 29. Kxg2 Nxe3+ 30. Rxe3 f4 31. Re7 fxg3 32. Nxg3 h5 33. Rh1 Rf5 34.
+Rh3 Kh6 35. Kh1 Rfg5 36. Ne2 Be5 37. Rf3 Rg2 38. Nf4 Rg1+ 39. Kh2 R1g2+ 40. Kh3
+Bxf4 41. Rxf4 Rxb2 42. Rff7 Rxa2 43. Rxb7 Rc2 44. Rf3 a5 45. Ra7 Ra2 46. Rd3
+Ra1 47. Kh2 Ra4 48. Kh3 Rxc4 49. Rxa5 Re4 50. Ra6 Re1 51. Kh2 Ree6 52. Rd5 Re2+
+53. Kh3 Re3+ 54. Kh2 Rxc3 55. Raxd6 Rxd6 56. Rxd6+ Kg5 57. Rd8 Kf4 58. Rh8 Re3
+59. Rxh5 Re5 60. Rh8 Ke4 61. Kg3 Rf5 0-1

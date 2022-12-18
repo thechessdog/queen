@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Borrmann, F."]
+[Black "Rosenkranz"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "0a309468"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 Qxd5 6. dxe4 Nxe4 7. Bc4 Qd4
+8. Qe2 f5 9. Ngf3 Qd6 10. Nxe4 fxe4 11. Qxe4+ Qe7 12. Ne5 Nd7 13. O-O Nf6
+14. Bb5+ Bd7 15. Bxd7+ Nxd7 16. Re1 O-O-O 17. Be3 Qe6 18. Rad1 Bd6 19. Bxa7
+Qxa2 20. Ra1 Qe6 21. Bf2 c5 22. Ra7 1-0
+

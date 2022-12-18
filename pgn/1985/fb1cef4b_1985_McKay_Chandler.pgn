@@ -1,0 +1,20 @@
+[Event "Lloyds Bank op"]
+[Site "Londen open"]
+[Date "1985.08.01"]
+[Round "1"]
+[White "McKay, Roderick M"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "fb1cef4b"]
+[Epoch "Queen"]
+[WhiteID "2400049"]
+[WhiteCountry "SCO"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 Nc6 7. Qd2 e6 8.
+O-O-O h6 9. Be3 Be7 10. Be2 Nxd4 11. Qxd4 Bd7 12. f4 Bc6 13. Bf3 Qc7 14. g4
+O-O-O 15. h4 g6 1/2-1/2

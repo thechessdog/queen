@@ -1,0 +1,28 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Toshkov, Tihomir"]
+[Black "Hornicek, Jiri"]
+[Result "0-1"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "d6ab6c94"]
+[Epoch "Queen"]
+[BlackID "300918"]
+[BlackCountry "CZE"]
+[WhiteID "2900122"]
+[WhiteCountry "FID"]
+
+1. Nf3 Nf6 2. g3 g6 3. d4 Bg7 4. Bg2 O-O 5. c4 d5 6. cxd5 Nxd5 7. O-O Nc6 8. e4
+Nb6 9. d5 Na5 10. Nc3 c6 11. Bf4 cxd5 12. exd5 Nac4 13. b3 Bxc3 14. bxc4 Bxa1
+15. Qxa1 Nxc4 16. Bh6 f6 17. Bxf8 Kxf8 18. Re1 Qxd5 19. Qc1 Qf7 20. Nd4 e5 21.
+Bf1 Nb6 22. a4 Bd7 23. a5 Nc8 24. Qc7 Be8 25. Qc5+ Qe7 26. Ne6+ Kf7 27. Bc4
+Qxc5 28. Nxc5+ Ke7 29. Nxb7 Nd6 30. Bd5 Nxb7 31. Bxb7 Rb8 32. a6 Rd8 33. Rc1
+Rd6 34. h4 Bd7 35. Kg2 Kd8 36. Rc5 Rd2 37. Kf3 Rd3+ 38. Ke2 Rd6 39. Ke3 Ke7 40.
+Rc7 Kd8 41. Rc5 Ke7 42. Rc7 Ke6 43. Rc5 f5 44. f4 e4 45. Re5+ Kf6 46. Rd5 Rxd5
+47. Bxd5 Bb5 48. Bb7 Ke6 49. Kd4 Kd6 50. Ke3 Kc5 51. g4 fxg4 52. Bxe4 Bxa6 53.
+f5 gxf5 54. Bxf5 h6 55. Bxg4 Bc4 56. Bd1 Kd5 57. Kf4 Ke6 58. Ke4 Bb5 59. Kd4
+Kf5 60. Kc5 Be8 61. Kb4 Kf4 62. Ka5 Kg3 63. Ka6 Kxh4 64. Kxa7 Kg5 65. Kb6 Bd7
+66. Be2 Bg4 67. Bf1 h5 68. Kc5 h4 69. Kd6 Kf4 70. Ke7 Kg3 71. Kf6 Bf3 72. Kg5
+Bd5 73. Kh5 Be4 74. Kg5 Bf3 0-1

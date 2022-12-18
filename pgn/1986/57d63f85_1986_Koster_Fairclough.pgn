@@ -1,0 +1,18 @@
+[Event "Dearborn ch-MI M/X"]
+[Site "Dearborn ch-MI M/X"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koster, E."]
+[Black "Fairclough, N."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "57d63f85"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Bxf6 gxf6
+8. Nf3 Qa5 9. c5 O-O-O 10. a3 Bg4 11. Be2 Rg8 12. b4 Qc7 13. Qd2 e5 14.
+dxe5 Bxf3 15. Bxf3 Nxe5 16. Bxd5 Rxg2 17. O-O-O Rg8 18. Kb1 a6 19. Bxb7+
+1-0
+

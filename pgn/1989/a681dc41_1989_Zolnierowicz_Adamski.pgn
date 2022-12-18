@@ -1,0 +1,21 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Zolnierowicz, Krzysztof"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "a681dc41"]
+[Epoch "Queen"]
+[WhiteID "1100238"]
+[WhiteCountry "POL"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3
+Bb7 9. Qe2 Be7 10. f4 O-O 11. Kh1 Nc6 12. Nxc6 Bxc6 13. e5 Nd7 14. exd6 Bxd6
+15. Bxh7+ Kxh7 16. Qd3+ Kg8 17. Qxd6 Qc8 18. f5 exf5 19. Rxf5 Nc5 20. Nd5 Re8
+21. Rf1 Qb7 22. Qg3 Ne4 23. Qb3 Bxd5 1/2-1/2

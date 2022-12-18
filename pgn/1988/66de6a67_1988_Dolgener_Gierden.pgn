@@ -1,0 +1,18 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Dolgener, T."]
+[Black "Gierden, H."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "66de6a67"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 Be7 10. Nc4 b5 11. Bxf6 gxf6 12. Ne3 Be6 13. Ncd5 Qa5+ 14.
+c3 Rc8 15. b4 Qd8 16. a4 Rb8 17. Bd3 O-O 18. O-O Qd7 19. axb5 axb5 20. Qe2
+Nd8 21. Ra5 Bxd5 22. exd5 1-0
+

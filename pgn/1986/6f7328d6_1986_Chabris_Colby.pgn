@@ -1,0 +1,17 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Chabris"]
+[Black "Colby"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "6f7328d6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e6 3. d4 cxd4 4. cxd4 Nf6 5. e5 Nd5 6. Nf3 d6 7. a3 Nc6 8.
+Bd3 Qc7 9. O-O dxe5 10. dxe5 Nxe5 11. Nxe5 Qxe5 12. Bb5+ Bd7 13. Bxd7+ Kxd7
+14. Re1 Qd6 15. Qf3 f6 16. Nc3 Rd8 17. Nxd5 exd5 18. Bf4 Qc6 19. Qg4+ 1-0
+

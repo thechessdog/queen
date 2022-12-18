@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fleck"]
+[Black "Gluck"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "83e70757"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 a6 10. Nge2 b5 11. g4 h5 12. h3 Nbd7 13. O-O-O Nb6 14. Ng3 b4
+15. Nce2 Nc4 16. Qd3 Nxe3 17. Qxe3 h4 18. g5 Nh7 19. Nh5 gxh5 20. Rg1 f6
+21. f4 exf4 22. Nxf4 fxg5 23. Nxh5 Be5 24. Kb1 Kh8 25. Be2 Bd7 26. Rdf1
+Rxf1+ 27. Rxf1 Bb5 28. Rf5 Bxe2 29. Qxe2 Rc8 30. Rf7 Qb6 31. Qg4 Qc5 32.
+Qd1 Qd4 33. Qc2 Qg1+ 0-1
+

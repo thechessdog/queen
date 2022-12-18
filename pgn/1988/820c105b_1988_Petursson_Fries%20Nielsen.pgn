@@ -1,0 +1,23 @@
+[Event "Naestved open"]
+[Site "Naestved open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Petursson, Margeir"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "820c105b"]
+[Epoch "Queen"]
+[WhiteID "2300028"]
+[WhiteCountry "ISL"]
+[BlackID "1400142"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 a6 10. Be2 Qh4+ 11. g3 Qe7 12. Nf3 O-O 13. O-O Nf6 14. e5 Ne8 15. e6
+fxe6 16. Bc4 Nc7 17. Re1 b5 18. axb5 Bxc3 19. bxc3 axb5 20. Rxa8 Nxa8 21. Bxb5
+Nc7 22. Bf1 Nd7 23. c4 Nf6 24. Bb2 Qd8 25. dxe6 Bxe6 26. Qd2 Qd7 27. Ng5 Bf5
+28. Bg2 h6 29. Nf3 Ne4 30. Qc1 h5 31. Rxe4 Bxe4 32. Ng5 d5 33. cxd5 Bxg2 34.
+Qc3 Qxd5 35. Qg7# 1-0

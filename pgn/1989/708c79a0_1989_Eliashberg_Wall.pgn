@@ -1,0 +1,19 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eliashberg, Ilya"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "708c79a0"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d3 a6 5. Bxd7+ Bxd7 6. O-O Nf6 7. Nc3 g6 8.
+Be3 Bg7 9. b3 O-O 10. a3 Bg4 11. b4 Bxf3 12. Qxf3 Nxe4 13. Qxe4 Bxc3 14. Rab1
+d5 15. Qf4 e5 16. Qg3 cxb4 17. axb4 Qe7 18. b5 axb5 19. Rxb5 Ra2 20. Rxd5 Rxc2
+21. Bc5 Qe6 22. Bxf8 Qxd5 23. Bh6 b5 24. h3 b4 25. Rb1 Qa2 26. Rd1 Bd4 27. Qg5
+Bxf2+ 28. Kf1 Bb6 29. Qf6 Rf2+ 0-1

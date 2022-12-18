@@ -1,0 +1,21 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stabenow"]
+[Black "Reschke"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "448a9023"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4
+Bh7 9. Nxh5 cxd4 10. Ne2 Qa5+ 11. Bd2 Qb6 12. Rh3 Nc6 13. Rb3 Qc5 14. c3 d3
+15. Nef4 Nxe5 16. Rxb7 Qc4 17. Qb3 Qxb3 18. axb3 Be4 19. Raxa7 Rxa7 20.
+Rxa7 g6 21. Ra8+ Ke7 22. c4 Nf3+ 23. Kd1 Nxd2 24. Kxd2 gxh5 25. c5 hxg4 26.
+Nxd3 d4 27. Ra7+ Kf6 28. b4 Rxh4 29. Rd7 e5 30. Ra7 Rh1 31. Ra1 Rh2 32. b5
+g3 33. b6 Ne7 34. Ra6 Kf5 35. b4 Bh6+ 36. Ke2 Nd5 37. Ke1 g2 38. Bxg2 Rxg2
+39. f4 Bxd3 0-1
+

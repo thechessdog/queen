@@ -1,0 +1,17 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schober"]
+[Black "Scott, H."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "c1221905"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Be7 6. Nxe4 Nxd5 7. Nc3
+Nxc3 8. dxc3 O-O 9. Qd3 Bg4 10. Bf4 c6 11. O-O-O Na6 12. Qxd8 Raxd8 13.
+Rxd8 Rxd8 14. Bxa6 Bxf3 15. gxf3 bxa6 16. Rd1 Kf8 17. Be3 Rxd1+ 18. Kxd1 c5
+19. Ke2 Bd6 20. h3 Ke7 21. Kd3 Kd7 22. b4 cxb4 23. cxb4 Bxb4 24. Bxa7 0-1
+

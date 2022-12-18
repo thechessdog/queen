@@ -1,0 +1,15 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neumueller, Theo"]
+[Black "Hofmann"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "8520c445"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 Bxc3+ 5. bxc3 Qxd5 6. Qg4 g6 7. Nf3 c5 8.
+Be3 c4 9. Be2 Nd7 10. O-O Ne7 11. Nd2 b5 12. Bf3 1-0

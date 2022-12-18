@@ -1,0 +1,20 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Pirttimaki, Timo"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "13ea1813"]
+[Epoch "Queen"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+Nh5 9. Be3 Nxd4 10. Bxd4 Nxf4 11. Qe1 Nxd3 12. cxd3 Bxf3 13. Rxf3 c5 14. Be3
+Bxe5 15. Bh6 Bg7 16. Bxg7 Kxg7 17. Nd5 Re8 18. Qh4 f5 19. Rh3 h5 20. Rg3 Kf7
+21. Rxg6 Kxg6 22. Nf4+ Kf7 23. Qxh5+ Kf6 24. Qg6+ Ke5 25. Qe6+ 1-0

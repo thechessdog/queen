@@ -1,0 +1,20 @@
+[Event "JSM KSY-PSY"]
+[Site "JSM KSY-PSY"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hakulinen, Esko Matti"]
+[Black "Koskinen, Jukka"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "65193231"]
+[Epoch "Queen"]
+[BlackID "511730"]
+[BlackCountry "FIN"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. d4 e6 5. Nc3 Be7 6. Qc2 O-O 7. b3 Nbd7 8. Bb2
+Re8 9. Bd3 c5 10. cxd5 exd5 11. O-O cxd4 12. Nxd4 Nc5 13. Rac1 Bd7 14. Rfd1 Rc8
+15. h3 a6 16. Bf5 Ne6 17. Nde2 g6 18. Bxe6 fxe6 19. Qd3 Bc6 20. Nf4 Kf7 21. h4
+Rg8 22. e4 d4 23. Nxe6 Kxe6 24. Qc4+ Bd5 25. exd5+ Kf7 26. Qxd4 Bd6 27. Ne4
+Rxc1 28. Ng5+ Ke7 29. Qxf6+ Kd7 30. Qe6+ Kc7 31. Rxc1+ Kb8 32. Nf7 1-0

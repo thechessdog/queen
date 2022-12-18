@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Koskinen, P."]
+[Black "Juntunen, J."]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[HashCode "d1bcfa45"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 c6 5. Nc3 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Be7 11. exf6 Bxf6 12. Bxf6 Qxf6 13. g3 Na6 14. Bg2
+Nb4 15. Qe2 Bb7 16. Nxb5 Nd3+ 17. Kf1 O-O-O 18. Na3 Rxd4 19. Nxc4 Rxc4 20.
+Qxd3 Ba6 0-1
+

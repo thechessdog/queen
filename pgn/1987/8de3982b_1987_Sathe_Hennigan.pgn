@@ -1,0 +1,18 @@
+[Event "Swansea ch-BCF"]
+[Site "Swansea ch-BCF"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Thipsay, Bagyashree Sathe"]
+[Black "Hennigan, Michael T"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "8de3982b"]
+[Epoch "Queen"]
+[BlackID "400858"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. h3
+Bxb5 9. Nxb5 dxe5 10. hxg4 Qa5+ 11. Kf2 e4 12. Qe1 Qxb5 13. Qxe4 Nd7 14. Re1
+O-O 15. a4 Qa6 16. Qxe7 Rad8 17. Ne5 Bf6 18. Nxd7 Bxe7 19. Rxe7 Qd6 0-1

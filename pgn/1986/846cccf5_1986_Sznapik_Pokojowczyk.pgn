@@ -1,0 +1,21 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sznapik, Aleksander"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "846cccf5"]
+[Epoch "Queen"]
+[BlackID "1100718"]
+[BlackCountry "POL"]
+[WhiteID "1100050"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Qc7 11. O-O Bd6 12. Bg5 O-O 13. Bh4 Nh5 14. Nc3 a6 15.
+Rc1 g6 16. Be2 Qg7 17. Na4 h6 18. Nb6 Rb8 19. Bg3 Nxg3 20. hxg3 g5 21. Bxa6 g4
+22. Rxc6 bxc6 23. Nxc8 gxf3 24. Nxd6 Rxb2 25. gxf3 Qa7 26. Qd3 Kg7 27. Re1 1-0

@@ -1,0 +1,16 @@
+[Event "NZCCA ch"]
+[Site "NZCCA ch"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ker, A."]
+[Black "Dreyer, M."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "2e407c32"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. c3 Bg4 7. d4 O-O-O
+8. Be3 f5 9. h3 exd4 10. cxd4 0-1
+

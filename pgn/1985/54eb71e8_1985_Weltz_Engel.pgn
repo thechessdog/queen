@@ -1,0 +1,18 @@
+[Event "corr DDR/M"]
+[Site "corr DDR/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Weltz"]
+[Black "Engel"]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9...Bd7"]
+[HashCode "54eb71e8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Rc8 11. h4 Ne5 12. h5 Nxh5 13. g4 Nf6 14. Bh6
+Qa5 15. Bxg7 Kxg7 16. O-O-O Rh8 17. Qh6+ Kg8 18. g5 Nh5 19. Nd5 Qd8 20.
+Rxh5 gxh5 21. Nf6+ exf6 22. gxf6 Qf8 23. Rg1+ Bg4 24. Qxh5 1-0
+

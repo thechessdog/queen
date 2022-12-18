@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Basin, Leonid"]
+[Black "Dautov, Rustem"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "ed1e2440"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8. Na3
+cxd4 9. Naxc4 Bc5 10. Qb3 O-O 11. Nd3 Bb6 12. Bf4 Nd5 13. Bd6 Re8 14. Rfc1 Nce7
+15. a4 Bc6 16. a5 Bc7 17. Bxc7 Qxc7 18. a6 b6 19. Nce5 Qd6 1/2-1/2

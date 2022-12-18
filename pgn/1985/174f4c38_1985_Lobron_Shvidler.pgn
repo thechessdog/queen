@@ -1,0 +1,24 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Shvidler, Eliahu"]
+[Result "0-1"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[HashCode "174f4c38"]
+[Epoch "Queen"]
+[BlackID "2800160"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. a4 h6 12. Nbd2 exd4 13. cxd4 Nb4 14. Qe2 Bf8 15.
+e5 Bc6 16. Qd1 dxe5 17. dxe5 bxa4 18. Bxa4 Bxa4 19. Rxa4 Nfd5 20. Re4 c5 21.
+Ra3 Nc7 22. Qe2 Nb5 23. Rae3 Re6 24. Nb3 Rc8 25. Rc4 Nc6 26. Rd3 Qe8 27. Bf4 f6
+28. Re3 Nbd4 29. Nfxd4 cxd4 30. Rxd4 Nxd4 31. Nxd4 Bc5 32. Qg4 f5 33. Nxf5 Rg6
+34. Qf3 Bxe3 35. Qd5+ Qe6 36. Bxe3 Qxd5 37. Ne7+ Kf7 38. Nxd5 Re6 39. f4 g5 40.
+g3 gxf4 41. gxf4 Rc2 42. b4 Rg6+ 43. Kf1 Rg3 0-1

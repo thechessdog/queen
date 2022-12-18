@@ -1,0 +1,20 @@
+[Event "Compack"]
+[Site "Budapest"]
+[Date "1988.10.01"]
+[Round "1"]
+[White "Rajna, George"]
+[Black "Horvath, Gyula"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "e9454f7e"]
+[Epoch "Queen"]
+[WhiteID "2801566"]
+[BlackID "700223"]
+[WhiteCountry "ISR"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. a3 O-O 10. b4 Be7 11. Bb2 b5 12. Be2 Bb7 13. Nbd2 Nbd7 14. Nb3
+Rac8 15. Rac1 Nb6 16. Bd4 1/2-1/2

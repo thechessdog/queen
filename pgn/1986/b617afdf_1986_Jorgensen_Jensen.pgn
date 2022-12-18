@@ -1,0 +1,17 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jorgensen, E."]
+[Black "Jensen, V."]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "b617afdf"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Bf5 7. g3
+Qd5 8. Be2 Qe4 9. c3 Bh3 10. Be3 Nd7 11. Bd3 Qg4 12. Be2 Qe4 13. Bd3 Qg4
+14. Be2 1/2-1/2
+

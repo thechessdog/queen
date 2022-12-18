@@ -1,0 +1,18 @@
+[Event "Edinburgh"]
+[Site "Edinburgh"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Milligan Scott, Hel"]
+[Black "Clarke, Thomas"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "a63c3a66"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6
+8. Qd3 O-O 9. O-O-O e5 10. dxe5 Qxd3 11. cxd3 Nd5 12. Bg3 Bf5 13. N2c3 Rad8
+14. Be2 Nd4 15. Rhe1 Nxc3 16. Nxc3 Nxe2+ 17. Nxe2 Bxd3 18. Nc3 c5 19. Ne4
+Rd4 20. Nd6 b6 21. Re3 Bg6 22. f4 f6 23. f5 fxe5 24. Bxe5 Bg5 0-1
+

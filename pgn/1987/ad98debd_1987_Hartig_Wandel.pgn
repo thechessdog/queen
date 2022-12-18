@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hartig"]
+[Black "Wandel"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "ad98debd"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d3 d5 3. Nd2 dxe4 4. dxe4 e5 5. Ngf3 Bc5 6. Be2 Qe7 7. O-O Nf6
+8. c3 a5 9. b3 O-O 10. h3 h6 11. Qc2 Be6 12. Nxe5 Bxh3 13. Nxf7 Bg4 14.
+Nxh6+ gxh6 15. Bc4+ Kh8 16. b4 Bb6 17. Bb2 Qg7 18. Kh1 Nbd7 19. f3 Qg5 0-1
+

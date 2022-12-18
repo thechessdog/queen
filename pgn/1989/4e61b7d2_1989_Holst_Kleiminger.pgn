@@ -1,0 +1,23 @@
+[Event "DEN-chT8990"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Holst, Per"]
+[Black "Kleiminger, Poul"]
+[Result "1-0"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[HashCode "4e61b7d2"]
+[Epoch "Queen"]
+[BlackID "1434764"]
+[BlackCountry "DEN"]
+[WhiteID "1405411"]
+[WhiteCountry "DEN"]
+
+1. c4 c6 2. Nf3 d5 3. b3 Bf5 4. g3 e6 5. Bb2 Nf6 6. Bg2 h6 7. d3 Be7 8. O-O O-O
+9. Nbd2 Nbd7 10. Qc2 Qb6 11. a3 a5 12. Bc3 Rfd8 13. Qb2 Bh7 14. b4 axb4 15.
+axb4 dxc4 16. Nxc4 Qc7 17. Nfe5 Bf8 18. b5 Rxa1 19. Rxa1 c5 20. Ra7 Rb8 21. Nc6
+Nd5 22. Nxb8 Qxb8 23. Ra2 b6 24. Be5 Qd8 25. Ne3 Nxe5 26. Qxe5 Bd6 27. Qa1 Nc7
+28. Bc6 f5 29. Nc4 Bg6 30. Ra7 Kh7 31. Nxb6 e5 32. Nc4 Nxb5 33. Bxb5 Bb8 34.
+Rb7 e4 35. Qxg7# 1-0

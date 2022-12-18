@@ -1,0 +1,18 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Agazzi, F."]
+[Black "Lod"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Koch variation"]
+[HashCode "a2053b98"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Qg4 Nxc3
+8. Qxg7 Nxa2+ 9. c3 Rf8 10. cxb4 Qe7 11. Bd2 Nxb4 12. Rc1 N8c6 13. Nb5 Nd5
+14. Nd6+ Kd8 15. Bh6 Re8 16. Bg5 f6 17. exf6 Qxg7 18. fxg7+ Nce7 19. Nf7#
+1-0
+

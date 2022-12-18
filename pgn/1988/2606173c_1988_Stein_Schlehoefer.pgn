@@ -1,0 +1,19 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Schlehoefer, Ralf"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "2606173c"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[WhiteCountry "GER"]
+[BlackID "4602838"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 Bd6 5. a3 O-O 6. Qc2 e4 7. Nc3 Re8 8. Nge2
+b6 9. Ng3 Be5 10. O-O-O Bb7 11. d4 exd3 12. Bxd3 a6 13. f4 Bxc3 14. Qxc3 1-0

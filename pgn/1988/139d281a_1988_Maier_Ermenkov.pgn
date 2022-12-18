@@ -1,0 +1,23 @@
+[Event "Groningen open"]
+[Site "Groningen open"]
+[Date "1988.12.01"]
+[Round "1"]
+[White "Maier, Christian"]
+[Black "Ermenkov, Evgenij"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "139d281a"]
+[Epoch "Queen"]
+[WhiteID "4601955"]
+[WhiteCountry "GER"]
+[BlackID "2900106"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Be3 O-O 10. f3 Re8 11. f4 b4 12. Na4 Nxe4 13. Qf3 d5 14. Rad1 Bf6 15. c4
+bxc3 16. Nxc3 Nxc3 17. bxc3 Bb7 18. f5 Nd7 19. fxe6 fxe6 20. Qh3 Nf8 21. Ba4
+Re7 22. Bc2 Rc8 23. Rxf6 gxf6 24. Bh6 Qb6 25. Kh1 Ng6 26. Rf1 f5 27. Bg5 Rec7
+28. Nxe6 Qxe6 29. Bxf5 Qe5 30. Be6+ Kh8 31. Bf6+ Qxf6 32. Rxf6 Rxc3 33. Qxc3
+Rxc3 34. h3 d4 35. Rf7 Be4 0-1

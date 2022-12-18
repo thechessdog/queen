@@ -1,0 +1,19 @@
+[Event "Klee mem"]
+[Site "Zuerich"]
+[Date "1989.??.??"]
+[Round "9"]
+[White "Spycher, B."]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "b8ef55aa"]
+[Epoch "Queen"]
+[BlackID "15001350"]
+[BlackCountry "MKD"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. f4 O-O 7. Nf3 e6 8. Be2 exd5
+9. e5 Ne4 10. Nxd5 dxe5 11. O-O Nc6 12. Ng5 Nd6 13. Be3 h6 14. Bxc5 hxg5 15.
+fxg5 Ne4 16. Bxf8 Qxf8 17. h4 Ng3 18. Nf6+ Bxf6 19. Rxf6 Bf5 20. Bf3 e4 21. Qe1
+Qb8 22. Bd1 Qf4 23. c5 Qxh4 24. Qc3 e3 25. Qxe3 Qh1+ 26. Kf2 Ne4+ 0-1

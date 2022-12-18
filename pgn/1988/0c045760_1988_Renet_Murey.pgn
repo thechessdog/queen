@@ -1,0 +1,20 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Renet, Olivier"]
+[Black "Murey, Jacob"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (8...Na5)"]
+[HashCode "0c045760"]
+[Epoch "Queen"]
+[BlackID "2803585"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 Bb7 11. d4 d5 12. dxe5 Nxe4 13. Nd4 Nc4 14. f3 Ng3 15. b3
+Nb6 16. Bh6 Re8 17. f4 Ne4 18. Qg4 g6 19. f5 Bg5 20. Bxe4 Bxh6 21. fxg6 Rxe5
+22. Nf5 Qg5 23. h4 Qxg4 24. Nxh6+ Kg7 25. Nxg4 Rxe4 26. Rxe4 dxe4 27. gxf7 Nd5
+28. Na3 Kxf7 29. Nc2 1/2-1/2

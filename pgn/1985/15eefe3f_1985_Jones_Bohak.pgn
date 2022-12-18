@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jones"]
+[Black "Bohak, Janko"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "15eefe3f"]
+[Epoch "Queen"]
+[BlackID "14600536"]
+[BlackCountry "SLO"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. h3 Nbd7 8. e5
+Ne8 9. Re1 Nb6 10. Bf4 d5 11. b3 Nc7 12. Qd2 Re8 13. Bf1 Ne6 14. Bh6 Bh8 15.
+Rad1 Ng7 16. g4 f5 17. Qf4 Be6 18. Ng5 Qd7 19. f3 a5 20. Qg3 a4 21. Qh4 1-0

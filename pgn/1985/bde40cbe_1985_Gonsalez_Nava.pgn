@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gonsalez"]
+[Black "Nava Pereda"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "bde40cbe"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Nf6 5. e4 Bg4 6. Be3 e5 7. d5 Ne7 8.
+Qa4+ Bd7 9. Qxc4 Ng6 10. Rc1 a6 11. a4 Bd6 12. h4 h6 13. h5 Ne7 14. Nh4
+Nxh5 15. Nf5 Nxf5 16. exf5 Nf6 17. Bd3 Qe7 18. Qh4 e4 19. Bxh6 Rxh6 0-1
+

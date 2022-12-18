@@ -1,0 +1,17 @@
+[Event "Dieren NLD op"]
+[Site "Dieren NLD op"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Noomen, J."]
+[Black "Sphinx Galaxy A"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "cf83a916"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. O-O O-O-O
+8. Nbd2 h5 9. a3 g6 10. b4 Bg7 11. Qa4 a6 12. b5 Nxe5 13. Nxe5 Bxe5 14. Nb3
+Qe8 15. Bxb7+ Kxb7 16. Qxa6+ Kb8 17. Na5 Bc8 18. Nc6+ Qxc6 19. Qxc6 Ne7 1-0
+

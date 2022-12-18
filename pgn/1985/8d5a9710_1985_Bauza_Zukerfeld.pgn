@@ -1,0 +1,23 @@
+[Event "Mendoza"]
+[Site "Mendoza"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bauza, Alejandro"]
+[Black "Zukerfeld, Andres"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "8d5a9710"]
+[Epoch "Queen"]
+[WhiteID "3000060"]
+[BlackID "102067"]
+[WhiteCountry "URU"]
+[BlackCountry "ARG"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. d4 c5 6. c4 Ne4 7. Qc1 Qa5+ 8. Nbd2
+Nxd2 9. Qxd2 Qxd2+ 10. Kxd2 Nc6 11. e3 Bg4 12. Be2 O-O-O 13. Ng5 Bxe2 14. Kxe2
+Rdf8 15. Rhd1 cxd4 16. exd4 h6 17. Nf3 Rd8 18. Rab1 d5 19. c5 Rhe8 20. Ne5 Bxe5
+21. dxe5 d4 22. f4 g5 23. Kd3 Rd5 24. b4 a6 25. Kc4 Red8 26. Rd2 gxf4 27. gxf4
+f6 28. exf6 exf6 29. Re1 Rh5 30. Re6 f5 31. a4 Rh4 32. b5 axb5+ 33. axb5 Nb8
+34. Rxd4 Nd7 35. Re2 Nf8 36. Rxd8+ Kxd8 37. Bf6+ 1-0

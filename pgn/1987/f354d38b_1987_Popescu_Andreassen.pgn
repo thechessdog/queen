@@ -1,0 +1,19 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Popescu"]
+[Black "Andreassen"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line"]
+[HashCode "f354d38b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. Be3 Nc6
+8. O-O O-O 9. f4 e5 10. fxe5 dxe5 11. Nf5 Bxf5 12. Rxf5 Qxd1+ 13. Rxd1 g6
+14. Rf2 Nd4 15. Bh6 Rfd8 16. Bc4 Ne6 17. Rxd8+ Rxd8 18. Nd5 Nxd5 19. exd5
+Nf4 20. Bxf4 exf4 21. Rxf4 Bc5+ 22. Kf1 Bd6 23. Rf3 h5 24. h3 Re8 25. Be2
+Re5 26. c4 Bc5 27. a3 Re3 28. b4 Rxf3+ 29. Bxf3 Bd4 30. Ke2 Bb2 31. Kd3 1-0
+

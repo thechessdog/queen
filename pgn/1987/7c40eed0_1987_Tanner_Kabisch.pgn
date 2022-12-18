@@ -1,0 +1,25 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tanner, J."]
+[Black "Kabisch, G."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "7c40eed0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. Nf3 Nge7 5. d4 cxd4 6. Nxd4 Nxd4 7. Qxd4
+Nc6 8. Qf2 b6 9. Be3 Bb4 10. Bd4 Nxd4 11. Qxd4 Bxc3+ 12. Qxc3 O-O 13. O-O-O
+Bb7 14. e5 Rc8 15. Qd2 Qc7 16. Bd3 Qc6 17. Rhg1 Qa4 18. a3 Rc7 19. g4 Be4
+20. Bxe4 Qxe4 21. Rde1 Qa4 22. f5 Rfc8 23. c3 Rc4 24. f6 Rd4 25. Qg2 gxf6
+26. exf6 Rd3 27. Kb1 Qb3 28. Rc1 d5 29. Qf2 Rcxc3 30. Rxc3 Rxc3 31. Qd2 Re3
+32. Rg3 d4 33. Qc1 Qd3+ 34. Ka2 h6 35. g5 Rxg3 36. hxg3 hxg5 37. Qxg5+ Qg6
+38. Qe5 d3 39. Qf4 Qf5 40. Qh6 Qg6 41. Qf4 d2 42. Qxd2 Qxf6 43. Qd3 Qg5 44.
+Qc3 Qe7 45. Kb1 f6 46. Qf3 Qh7+ 47. Kc1 Qe7 48. Kd2 Qd6+ 49. Kc3 Qc5+ 50.
+Kd3 Qd5+ 51. Qxd5 exd5 52. Kd4 Kf7 53. Kxd5 Kg6 54. Kc6 Kg5 55. Kb7 b5 56.
+Kxa7 Kg4 57. Kb6 Kxg3 58. Kxb5 f5 59. b4 f4 60. Kc6 f3 61. b5 f2 62. a4
+f1=Q 63. a5 Qc4+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Borghi, Humberto"]
+[Black "Podesta"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "aba19b10"]
+[Epoch "Queen"]
+[WhiteID "101397"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8.
+Nbd2 Nh6 9. Nc4 Nf7 10. Ne3 Be6 11. Nh4 g6 12. a4 O-O 13. Re1 exd4 14. cxd4 f5
+15. exf5 Qxh4 16. g3 Qh3 17. fxe6 Ng5 18. f4 Bxf4 19. e7 Bxg3 20. exf8=Q+ Rxf8
+21. Qb3+ Kh8 22. Ng4 Bxh2+ 23. Nxh2 Qxb3 24. Ra3 Nh3+ 25. Kg2 Rf2+ 0-1

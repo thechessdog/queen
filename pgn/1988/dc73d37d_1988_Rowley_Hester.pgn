@@ -1,0 +1,16 @@
+[Event "Hammond"]
+[Site "Hammond"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rowley"]
+[Black "Hester"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "dc73d37d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 Nf6 6. Bc4 Qc6 7. a4 a6 8.
+O-O Nbd7 9. Ne5 Qc7 10. Qe2 cxd4 11. Nxf7 1-0
+

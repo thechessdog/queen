@@ -1,0 +1,19 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pfrommer, Christoph"]
+[Black "Osieka, Udo"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "eb04eab2"]
+[Epoch "Queen"]
+[WhiteID "4603290"]
+[BlackID "4607155"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 a6 7. Bc4 Nf6 8. f3
+e5 9. dxe6 Qxd1+ 10. Rxd1 Bxe6 11. Bxe6 fxe6 12. Nxe4 Nxe4 13. fxe4 e5 1/2-1/2

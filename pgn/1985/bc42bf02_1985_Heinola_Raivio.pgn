@@ -1,0 +1,18 @@
+[Event "Jarvenpaa"]
+[Site "Jarvenpaa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Raivio, Yrjo"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "bc42bf02"]
+[Epoch "Queen"]
+[BlackID "502103"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e3 d5 2. f4 g6 3. Nf3 Bg7 4. c4 Nf6 5. Nc3 O-O 6. Be2 c5 7. cxd5 Nxd5 8. O-O
+Nc6 9. a3 a6 10. Qe1 b5 11. Qh4 1/2-1/2

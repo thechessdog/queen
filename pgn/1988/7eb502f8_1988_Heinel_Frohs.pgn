@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heinel, S."]
+[Black "Frohs, J."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "7eb502f8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. e5 fxe5 9. Nxe5 Qf6 10. Nd2 Ne7 11. Ndf3 Bf5 12. Re1 c5 13. Qa4+ b5 14.
+Qb3 c4 15. Qc3 h6 16. Bf4 O-O 17. Bg3 a5 18. a3 Nd5 19. Qd2 Nb6 20. Nd4 b4
+21. Nb5 Rac8 22. axb4 axb4 23. Ra6 Rfd8 24. Qe2 Bxe5 25. Bxe5 Qg6 26. Bxc7
+Re8 27. Qd2 Bh3 28. Bg3 Qg5 29. Re3 Qxb5 30. Ra7 Rcd8 31. Be5 Rxd2 32.
+Rxg7+ Kh8 33. Re7+ Qxe5 34. Rxe8+ Qxe8 35. Rxe8+ Kg7 36. gxh3 Rxc2 0-1
+

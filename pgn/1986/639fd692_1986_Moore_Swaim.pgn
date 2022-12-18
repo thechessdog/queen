@@ -1,0 +1,19 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Moore"]
+[Black "Swaim, S."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "639fd692"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. e5 Nxe5
+8. Nxe5 Bxe5 9. Bxf7+ Kxf7 10. Qd5+ Kg7 11. Qxe5+ Nf6 12. Qe3 Rf8 13. h4 d5
+14. h5 Ng4 15. Qd4+ e5 16. h6+ Kg8 17. Qxd5+ Qxd5 18. Nxd5 Rxf2 19. Nc7 Rb8
+20. Be3 Rxg2 21. Bxa7 Bf5 22. Bxb8 Ne3 23. Ba7 Nc2+ 24. Kf1 Rd2 25. Rc1 e4
+26. Nd5 e3 27. Nxe3 1-0
+

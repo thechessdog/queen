@@ -1,0 +1,27 @@
+[Event "Warsaw op"]
+[Site "Warsaw op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pedzich, D."]
+[Black "Stypka, M."]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "65dd1b57"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Qe2 Nc6 7. c3 e6
+8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Be3 Be7 12. Ne1 f6 13. f3 Ng5 14. Nd3
+Nf7 15. f4 f5 16. Nd2 O-O 17. Rfc1 b6 18. a3 Rfc8 19. b4 Ncd8 20. Qd1 Kf8
+21. a4 Rxc1 22. Rxc1 Rc8 23. b5 Nb7 24. Nb3 Rc4 25. Nb2 Rc7 26. Bd2 Ba3 27.
+Rxc7 Qxc7 28. Qc1 Qxc1+ 29. Bxc1 Nh6 30. h3 Ng8 31. Nd3 Bxc1 32. Ndxc1 Ne7
+33. Kf2 Ke8 34. Nd3 Kd7 35. Ke2 Kc7 36. Kd2 Nd8 37. Kc3 Nb7 38. Kb4 Nd8 39.
+Ne1 Ng6 40. g3 Ne7 41. Nd3 Nb7 42. Kc3 Nd8 43. Ne1 Kd7 44. Nf3 h6 45. a5
+Nb7 46. Kb4 Kc7 47. a6 Nd8 48. Nc1 Kd7 49. Nd3 Kc7 50. Nb2 Kd7 51. Na4 Kc7
+52. Kc3 Nc8 53. Kd2 Kd7 54. Nc3 Ne7 55. Ke3 Ke8 56. Nd2 Nc8 57. Kf3 Kf7 58.
+Nf1 g6 59. g4 Ne7 60. Ng3 Kg7 61. Na4 Nc8 62. Nf1 Kf7 63. Kg3 Kg7 64. Ne3
+Kf7 65. Kf3 Kg7 66. gxf5 gxf5 67. Kg3 Nf7 68. Nc2 Nh8 69. Nb4 Ng6 70. Nc6
+Kf8 71. Nc5 bxc5 72. Nxa7 c4 73. Nxc8 c3 74. a7 c2 75. a8=Q c1=Q 76. Nd6+
+Kg7 77. Qb7+ Kh8 78. Qc8+ Qxc8 79. Nxc8 Nf8 80. b6 Nd7 81. Kh4 1-0
+

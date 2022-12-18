@@ -1,0 +1,26 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meyer, Friedhelm"]
+[Black "Wendel, Stephan"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[HashCode "9261327c"]
+[Epoch "Queen"]
+[BlackID "4606760"]
+[BlackCountry "GER"]
+[WhiteID "4618688"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 g6 6. d4 cxd4 7. Nxd4 Bg7 8.
+Nc3 Nc6 9. Be3 Nf6 10. f3 O-O 11. O-O Rfc8 12. b3 Rab8 13. Rc1 a6 14. a4 Qd8
+15. g4 Nd7 16. Rb1 Nc5 17. Qd2 Ne6 18. Nxc6 bxc6 19. b4 a5 20. Ne2 axb4 21.
+Rxb4 Rxb4 22. Qxb4 Rb8 23. Qe1 Rb2 24. a5 Qa8 25. Rf2 Qa6 26. Nc1 Qxc4 27. Rxb2
+Bxb2 28. Qe2 Qxe2 29. Nxe2 Nc7 30. Bd4 Bxd4+ 31. Nxd4 c5 32. Nc6 Kf8 33. e5 Ke8
+34. Nb8 Kd8 35. a6 Kc8 36. Nc6 Kd7 37. Nb8+ Kc8 38. Nc6 Kd7 39. Nb8+ Ke6 40. a7
+Na8 41. exd6 exd6 42. Kf2 d5 43. g5 d4 44. Ke2 c4 45. Kd2 Kd6 46. h4 Nb6 47.
+Kc2 Kc7 48. f4 Kb7 49. Kd2 d3 50. a8=Q+ Kxa8 51. Nc6 Nc8 52. Ne5 Nd6 53. Nd7
+Ne4+ 0-1

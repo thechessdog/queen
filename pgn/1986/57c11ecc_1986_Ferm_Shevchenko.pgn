@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ferm, S."]
+[Black "Shevchenko, V."]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "pawn storm variation"]
+[HashCode "57c11ecc"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Qe7 8.
+Nf3 Nbd7 9. Bd3 Bg7 10. O-O O-O 11. Qc2 Ne8 12. a4 Nc7 13. Re1 Na6 14. Na2
+Nb4 15. Nxb4 cxb4 16. Qc7 Re8 17. e5 Nc5 18. exd6 Qxe1+ 19. Bf1 Bd4+ 20.
+Nxd4 Nd3 21. Qc2 Qxf1+ 22. Kxf1 Re1# 0-1
+

@@ -1,0 +1,21 @@
+[Event "Norilsk"]
+[Site "Norilsk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Sorokin, Maxim"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "ac9354fe"]
+[Epoch "Queen"]
+[WhiteID "4100425"]
+[WhiteCountry "RUS"]
+[BlackID "34277781"]
+[BlackCountry "RUS"]
+
+1. c4 e6 2. d4 d5 3. Nf3 c6 4. Qc2 Nf6 5. e3 Nbd7 6. Nc3 Bd6 7. Be2 O-O 8. O-O
+Qe7 9. b3 b6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Bb7 13. Bd3 f5 14. Qe3 e5 15.
+c5 bxc5 16. dxe5 Nxe5 17. Bb2 c4 18. Nxe5 cxd3 19. Qxd3 Bxe5 20. Qc4+ Rf7 21.
+Rfe1 Bxh2+ 22. Kxh2 Qd6+ 23. Re5 c5 1/2-1/2

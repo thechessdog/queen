@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Virtanen, K."]
+[Black "Harjunpaa, V."]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "78b8731f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Nxe5 Qf6 6. Nxd7 Bxd7 7. Bxd7+
+Kxd7 8. d3 Re8 9. O-O Bd6 10. Nd5 Qh4 11. g3 Qh3 12. c3 Nc6 13. exf5 Nf6
+14. Nxf6+ gxf6 15. f4 h5 16. Kh1 Rhg8 17. Rg1 Qxf5 18. b4 h4 19. Qf3 hxg3
+20. Rxg3 Rxg3 0-1
+

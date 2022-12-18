@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ebeling"]
+[Black "Issakainen"]
+[Result "1-0"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "ccbee78d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 h6 11. Bh4 Qa5 12. Qd3 a6 13. Kb1 Rd8 14.
+g4 b5 15. Bg2 b4 16. Ne2 e5 17. f5 Bb7 18. Bxf6 Bxf6 19. h4 Rac8 20. Qg3
+Be7 21. g5 Kh8 22. gxh6 gxh6 23. Qe3 Bf8 24. Rhf1 Rc5 25. Nc1 Qc7 26. Rd2
+a5 27. f6 Rc8 28. Rff2 1-0
+

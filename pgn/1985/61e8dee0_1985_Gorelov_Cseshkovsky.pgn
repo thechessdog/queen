@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gorelov, Sergey G"]
+[Black "Tseshkovsky, Vitaly"]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "61e8dee0"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 a5 10. b3 Bg4 11. Ba3 Qc8 12. Rc1 Rd8 13. Qc2 Nb4 14. Qe4 Bf5 15.
+Qxe7 Nd3 16. Rcd1 Bf8 17. Qh4 Bxa3 18. e4 Nb2 19. Rd2 Bg4 20. Ng5 h5 21. h3 Bb4
+22. hxg4 Qxg4 23. Rc1 a4 24. d5 Be7 25. Qxg4 hxg4 26. Rxb2 Bxg5 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lindemann, Sven"]
+[Black "Messmer, Martin"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "5d4729f3"]
+[Epoch "Queen"]
+[BlackID "4600991"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 c5 6. d5 exd5 7. exd5 Qe7+ 8. Be2
+O-O 9. Nf3 Ba6 10. O-O Bxc3 11. bxc3 d6 12. Re1 Re8 13. Bg5 Nbd7 14. Bf1 Qf8
+15. Rxe8 Qxe8 16. Re1 Qf8 17. Qa4 1/2-1/2

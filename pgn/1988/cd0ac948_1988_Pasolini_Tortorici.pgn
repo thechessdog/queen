@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Pasolini, C."]
+[Black "Tortorici, P."]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "cd0ac948"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4
+8. exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O h6 12. Qd3 Ne7 13. Rad1 Bd7
+14. Ba2 Bc6 15. f3 Qa5 16. Ne4 Ned5 17. b4 Qd8 18. Bb1 Nxe4 19. Qxe4 Nf6
+20. Qd3 Qd5 21. Bf4 Bb5 22. Qd2 Bxf1 23. Kxf1 Qh5 24. Qd3 g6 25. g4 Qh3+
+26. Kg1 Nd5 27. Bg3 Rac8 28. Qd2 h5 29. Bxg6 fxg6 30. Qh6 Rf6 0-1
+

@@ -1,0 +1,24 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tunik, Gennady"]
+[Black "Tsarev, V."]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "83354627"]
+[Epoch "Queen"]
+[WhiteID "4101219"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 a6 8. a4 Bg7
+9. Bd3 O-O 10. h3 Nh5 11. O-O Nd7 12. Re1 Ne5 13. Be2 Qe7 14. Nxe5 Qxe5 15.
+Bxh5 gxh5 16. Qf3 Re8 17. Bf4 Qf6 18. Qg3 h4 19. Qh2 Qd4 20. Bxd6 Qb4 21. e5
+Bf5 22. a5 Rad8 23. Bc7 Rd7 24. d6 Qxb2 25. Na4 Qxe5 26. Qxe5 Rxe5 27. Nb6 c4
+28. Nxc4 Rc5 29. Re8+ Bf8 30. Nb6 Rdxc7 31. dxc7 Rxc7 32. Nd5 Rc5 33. Ne7+ Kg7
+34. Nxf5+ Rxf5 35. Re4 Bc5 36. Ra2 b6 37. Rae2 Kf8 38. Rxh4 Kg7 39. g4 Rf6 40.
+Rh5 Bd4 41. axb6 Bxb6 42. Rd5 a5 43. Kg2 Rc6 44. Rf5 Rc4 45. Rd2 Rc7 46. Rd6
+Bc5 47. Ra6 Bb4 48. g5 Rd7 49. h4 h5 50. gxh6+ Kh7 51. Raf6 Rd4 52. Rxf7+ Kxh6
+53. R5f6+ Kh5 54. Rh7+ Kg4 55. f3# 1-0

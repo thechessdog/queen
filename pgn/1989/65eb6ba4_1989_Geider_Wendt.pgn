@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Geider"]
+[Black "Wendt"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "65eb6ba4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. Bc4 Bg7 6. O-O e6 7. Qe1 Nf6 8.
+f5 O-O 9. fxe6 fxe6 10. e5 dxe5 11. d3 Nd4 12. Bb3 Nd5 13. Ng5 Nb4 14.
+Rxf8+ Qxf8 15. Qd1 h6 16. Nge4 Bd7 17. Be3 b6 18. Qd2 Kh7 19. Ne2 Nd5 20.
+N2g3 Qe7 21. Rf1 Nf5 22. Bf2 Bc6 23. Qe1 Rf8 24. Qd2 Nf4 25. Be3 h5 26. Ne2
+Bxe4 27. Bxf4 Bxg2 0-1
+

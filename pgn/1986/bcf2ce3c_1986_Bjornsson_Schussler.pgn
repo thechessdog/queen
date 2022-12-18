@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bjornsson, Tomas"]
+[Black "Schussler, Harry"]
+[Result "0-1"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "bcf2ce3c"]
+[Epoch "Queen"]
+[BlackID "1700081"]
+[BlackCountry "SWE"]
+[WhiteID "2300303"]
+[WhiteCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bf8 6. f4 Ne7 7. Nf3 Qd7 8. Be2 Ba6
+9. Bxa6 Nxa6 10. Qd3 Nb8 11. Ne2 Nbc6 12. Bd2 a5 13. O-O h5 14. b4 a4 15. Rac1
+Na7 16. c4 dxc4 17. Qxc4 Nb5 18. Qd3 Nf5 19. Rc4 Be7 20. Bc1 O-O 21. Nc3 Rfd8
+22. Nxb5 Qxb5 23. Qc3 c6 24. Rxc6 Bc5 25. Rxc5 bxc5 26. dxc5 Rd3 27. Qc2 Rad8
+28. Qe2 Qc4 29. Re1 h4 30. Bb2 Qxf4 31. Rc1 Ne7 32. c6 Nxc6 33. Rxc6 Rd1+ 34.
+Ne1 R1d2 0-1

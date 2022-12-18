@@ -1,0 +1,23 @@
+[Event "London NWYM"]
+[Site "Londen"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Jacobs, Byron A"]
+[Black "Arkell, Keith C"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5a7b9a78"]
+[Epoch "Queen"]
+[WhiteID "400688"]
+[WhiteCountry "ENG"]
+[BlackID "400270"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Nbd7 9. Bf3 Nb6 10. Bg5 Bg4 11. Bxf6 Bxf3 12. Nxf3 Bxf6 13. O-O Qd6 14.
+Rfe1 Rfd8 15. Ne5 Rab8 16. Ne4 Qxd5 17. Nxf6+ exf6 18. Qxd5 Nxd5 19. Nf3 Rbc8
+20. Re2 Re8 21. Rd2 Kf8 22. h3 Ke7 23. Kh2 Kd6 24. Kg3 a5 25. Rad1 b5 26. Nh2
+f5 27. Kf3 Nf6 28. h4 g5 29. hxg5 Ne4 30. Kf4 Nxd2 31. Rxd2 Re1 32. Nf3 Rec1
+33. Nh4 R8c2 34. Nxf5+ Kd7 35. Rd3 Rxf2+ 36. Ke5 Re1+ 37. Kd5 Rxf5# 0-1

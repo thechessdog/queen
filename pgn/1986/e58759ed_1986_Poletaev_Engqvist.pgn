@@ -1,0 +1,16 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Poletaev, L."]
+[Black "Engqvist, Thomas"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "e58759ed"]
+[Epoch "Queen"]
+[BlackID "1700332"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb7 5. Bd3 Bb4 6. Qc2 c5 7. d5 b5 8. b3 d6
+9. Ne2 Nbd7 10. O-O exd5 11. Nxb5 dxe4 12. Nxd6+ 1-0

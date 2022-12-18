@@ -1,0 +1,23 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Seirawan, Yasser"]
+[Black "Gurevich, Dmitry"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "57b3f667"]
+[Epoch "Queen"]
+[BlackID "2000407"]
+[BlackCountry "USA"]
+[WhiteID "2000032"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. Qd2 Bxc3 11. bxc3 b5 12. Nb2 f5 13. e3 g5 14. Bg3 Qe7 15.
+Be2 Nf6 16. f3 Nbd7 17. O-O Rb8 18. a4 a6 19. axb5 axb5 20. Ra7 Rb6 21. Rb1 Bb7
+22. Nd1 Qd8 23. Rxb5 Rxb5 24. Bxb5 Qb6 25. Bxd7 Qxa7 26. Be6+ Kg7 27. Bxd6 Ra8
+28. Be5 Qa1 29. d6 Qa5 30. h4 h6 31. Nf2 Kg6 32. Qc2 Qa1+ 33. Kh2 Be4 34. Nxe4
+fxe4 35. h5+ Kxh5 36. Bf7+ 1-0

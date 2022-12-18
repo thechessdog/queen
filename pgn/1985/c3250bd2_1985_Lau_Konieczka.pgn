@@ -1,0 +1,20 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lau, Ralf"]
+[Black "Konieczka, Frank"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "c3250bd2"]
+[Epoch "Queen"]
+[WhiteID "4600134"]
+[WhiteCountry "GER"]
+[BlackID "4607104"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Rd1 Nb4 12. Qc1 Rc8 13. Nc3 Nbd5 14. Nxd5 Bxd5
+15. Be3 Ng4 16. Bg5 Nf6 1/2-1/2

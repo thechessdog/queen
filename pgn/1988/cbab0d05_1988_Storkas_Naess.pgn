@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Storkas, S."]
+[Black "Naess, R."]
+[Result "0-1"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Grau (Sahovic) defence"]
+[HashCode "cbab0d05"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. cxd5 exd5 5. Qb3 Nc6 6. Qxb7 Nxd4 7. Nxd5
+Bb4+ 8. Nxb4 Rb8 9. Qc6+ Nxc6 10. Nxc6 Qc8 11. Nxb8 Qxb8 12. b3 Nf6 13. Nf3
+Ne4 14. Bd2 Nxd2 15. Nxd2 Qb4 16. Rc1 O-O 17. Rc3 Qxc3 0-1
+

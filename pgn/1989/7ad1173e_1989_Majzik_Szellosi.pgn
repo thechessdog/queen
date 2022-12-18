@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Majzik, Levente"]
+[Black "Szellosi"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "7ad1173e"]
+[Epoch "Queen"]
+[WhiteID "705691"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. O-O Qb6 11. Nf3 Bd6 12. Nc3 O-O 13. Re1 Bd7 14. Ne5 Qxd4
+15. Nxc6 Bxh2+ 16. Kf1 Qxf2+ 17. Kxf2 Ng4+ 0-1

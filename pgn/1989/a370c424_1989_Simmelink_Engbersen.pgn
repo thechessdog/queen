@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Simmelink, J."]
+[Black "Engbersen, J."]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[Opening "Gruenfeld"]
+[Variation "Spassky variation, main line, 10...cd, 11.cd"]
+[HashCode "a370c424"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Na5 12. Bd3 b6 13. Rc1 e6 14.
+Qd2 Bb7 15. h4 Qe7 16. h5 Rfd8 17. Bg5 f6 18. Bh6 Rac8 19. Bxg7 Kxg7 20.
+hxg6 hxg6 21. Rxc8 1/2-1/2
+

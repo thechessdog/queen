@@ -1,0 +1,19 @@
+[Event "World Open"]
+[Site "World Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Campa"]
+[Black "Rachels, Stuart"]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "b5902cd1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Qd2 Nbd7 14. Bh6 Bxh6
+15. Qxh6 Rab8 16. Qe3 b5 17. axb5 axb5 18. b4 cxb4 19. Na2 Rbe8 20. Rfe1 Nc5
+21. Nxb4 Nfxe4 22. Nc6 Qf6 23. Rab1 Kg7 24. Bxe4 Rxe4 25. Qd2 Rfe8 26. Rxe4
+Nxe4 27. Qe2 Qg5 28. Qxb5 Nc3 29. Qb2 Qf6 30. f3 Re2 31. Qb6 Nxb1 32. Qxb1 Qg5
+33. Qa1+ Kh6 0-1

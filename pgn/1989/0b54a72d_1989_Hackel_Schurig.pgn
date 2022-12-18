@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hackel"]
+[Black "Schurig"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "0b54a72d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8.
+O-O Bg7 9. Kh1 Nbd7 10. Nf3 b5 11. f5 Nc5 12. Ng5 e6 13. Bxb5+ Bd7 14. fxe6
+fxe6 15. Bf4 1-0
+

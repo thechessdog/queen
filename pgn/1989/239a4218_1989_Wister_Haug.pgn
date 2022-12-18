@@ -1,0 +1,20 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wister"]
+[Black "Haug"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "239a4218"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 g6 4. Nc3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O
+8. h3 c5 9. Bb2 cxd4 10. cxd4 Nc6 11. Qd2 e6 12. Bc4 Na5 13. Be2 b6 14. Rc1
+Qd7 15. O-O Bb7 16. Ba3 Rfc8 17. Qe3 Rxc1 18. Rxc1 Rc8 19. e5 Rxc1+ 20.
+Qxc1 Qc6 21. Qg5 Qd7 22. Qh4 Bd5 23. Nd2 Bxa2 24. Ne4 h5 25. Bb5 Qxb5 26.
+Qd8+ Kh7 27. Ng5+ Kh6 28. h4 Qb1+ 29. Kh2 Qf5 30. Bc1 Bxe5+ 31. dxe5 Kg7
+32. Ba3 1-0
+

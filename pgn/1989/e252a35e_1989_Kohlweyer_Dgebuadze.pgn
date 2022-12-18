@@ -1,0 +1,15 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kohlweyer, Bernd"]
+[Black "Dgebuadze, A."]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[HashCode "e252a35e"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. e3 Nd7 5. Qc2 Ngf6 6. Nf3 b6 7. Be2 Bb7 8. O-O
+Be7 9. e4 dxe4 10. Nxe4 Qc7 11. Nxf6+ Bxf6 12. c5 1/2-1/2

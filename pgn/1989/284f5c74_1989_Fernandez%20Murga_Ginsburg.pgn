@@ -1,0 +1,23 @@
+[Event "Buenos Aires BCA op"]
+[Site "Buenos Aires"]
+[Date "1989.??.??"]
+[Round "6"]
+[White "Fernandez Murga, Roberto"]
+[Black "Ginsburg, Mark"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "284f5c74"]
+[Epoch "Queen"]
+[WhiteID "101923"]
+[WhiteCountry "ARG"]
+[BlackID "2000563"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 Nc6 7. Qd2 e5 8. d5
+Ne7 9. O-O-O Ne8 10. g4 f5 11. gxf5 gxf5 12. exf5 Bxf5 13. Nh4 c6 14. Bg5 Bf6
+15. Rg1 Bxg5 16. Rxg5+ Kh8 17. f4 cxd5 18. Nxd5 Be4 19. Nc3 Rxf4 20. Rxe5 dxe5
+21. Qxd8 Rxd8 22. Rxd8 Rxf1+ 23. Kd2 Bc6 24. b4 Rf4 25. b5 Rd4+ 26. Rxd4 exd4
+27. bxc6 dxc3+ 28. Kxc3 Nxc6 29. Nf5 Kg8 30. Kc4 Kf7 31. a3 Ke6 32. Ne3 Nd6+
+33. Kc5 Ne4+ 34. Kc4 h5 0-1

@@ -1,0 +1,18 @@
+[Event "corr BdF/M"]
+[Site "corr BdF/M"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bensiek, N."]
+[Black "Olbrisch, M."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "a78421cf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 cxd5 5. fxe5 d4 6. Ne4 Qd5 7. Bd3 Nc6
+8. Qe2 Nxe5 9. Bb5+ Bd7 10. Bxd7+ Kxd7 11. Nh3 f5 12. Nef2 Qxg2 13. Nf4 Qc6
+14. N4d3 Nf3+ 15. Qxf3 Re8+ 16. Ne4 Nh6 17. O-O fxe4 18. Qh3+ Qe6 19. Qxe6+
+Rxe6 20. Nf4 0-1
+

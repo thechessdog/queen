@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gerhardt"]
+[Black "Piazza"]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "a552b1de"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bd6 10. Nbd4 O-O 11. Be3 Bg4 12. h3 Bh5 13. Qd2 Rc8 14.
+Be2 Bb8 15. c3 Bg6 16. Rad1 a6 17. Rfe1 Na5 18. Bg5 Be4 19. Bd3 Qc7 20.
+Bxe4 dxe4 21. Rxe4 Ng6 22. Rde1 Nc4 23. Qc2 b5 24. Nf5 Ba7 25. Ne7+ Nxe7
+26. Bxe7 Rfe8 27. Ng5 1-0
+

@@ -1,0 +1,20 @@
+[Event "Quebec int"]
+[Site "Quebec"]
+[Date "1986.??.??"]
+[Round "3"]
+[White "Barbeau, Sylvain"]
+[Black "Araiza Castro, Hugo Daniel"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "26f7f9de"]
+[Epoch "Queen"]
+[WhiteID "2600099"]
+[BlackID "5102367"]
+[WhiteCountry "CAN"]
+[BlackCountry "MEX"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 c5 4. c3 b6 5. e3 Bg7 6. Be2 d6 7. h3 O-O 8. O-O Bb7
+9. a4 Nbd7 10. Nbd2 a6 11. Bh2 Ra7 12. b4 Ne4 13. Qb3 Qa8 14. Rfd1 Nxd2 15.
+Rxd2 Nf6 16. Rc1 Rc8 17. Rdd1 Bh6 18. a5 0-1

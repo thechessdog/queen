@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hanauer, A."]
+[Black "Van Dalfsen, P."]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "5942994a"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Qf3 O-O 9. cxd5 Qxd5 10. e4 Qa5 11. Bxa6 Qxa6 12. h4 Nbd7 13. h5 h6 14.
+Rh3 c5 15. e5 Nd5 16. Qg4 Qc4 17. Ne2 f5 18. exf6 N7xf6 19. Qg6 Ne7 20. Qc2
+Rad8 21. Qb3 Qxb3 22. axb3 cxd4 23. Nxd4 Ned5 24. Be3 Rfe8 25. c4 Nxe3 26.
+fxe3 1/2-1/2
+

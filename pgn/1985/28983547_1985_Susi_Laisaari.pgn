@@ -1,0 +1,19 @@
+[Event "corr ch-SF snr"]
+[Site "corr ch-SF snr"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Susi"]
+[Black "Laisaari, Mauno"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "28983547"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. f3 c5 5. dxc5 Qa5 6. Bxf6 Nxf6 7. Qd4 e5
+8. Qxe5+ Be6 9. e3 O-O-O 10. b4 Qxb4 11. c6 bxc6 12. Ba6+ Kd7 13. Ne2 Qa5
+14. Bd3 Bd6 15. Qg5 h6 16. Qh4 Bb4 17. Kd2 d4 18. Qxd4+ Ke7 19. a3 Rxd4 20.
+axb4 Rxd3+ 21. cxd3 Qb6 22. Nd4 Bd7 23. Rhb1 Rb8 24. Na4 Qc7 25. Nc5 Rb6
+26. g3 Nd5 27. Ra3 a5 28. Nxd7 Kxd7 29. Rxa5 Qe5 30. Re1 Rxb4 31. Rc5 Qe7
+32. Rc2 Rxd4 0-1
+

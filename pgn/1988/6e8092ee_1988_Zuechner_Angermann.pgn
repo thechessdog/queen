@@ -1,0 +1,18 @@
+[Event "SIF-FS"]
+[Site "SIF-FS"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zuechner, B."]
+[Black "Angermann, I."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "6e8092ee"]
+[Epoch "Queen"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bd3 Bg7 7. Ng5 O-O
+8. O-O d6 9. Nce4 Nxe4 10. Bxe4 Nc6 11. c3 Bd7 12. Rxf8+ Qxf8 13. Nxh7 Kxh7
+14. Qh5+ Kg8 15. Bxg6 Qf6 16. Bg5 Qe6 17. Qh7+ Kf8 18. Rf1+ Bf6 19. Bh6#
+1-0
+

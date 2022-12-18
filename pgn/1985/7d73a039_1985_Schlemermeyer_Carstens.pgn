@@ -1,0 +1,18 @@
+[Event "BL8485"]
+[Site "BL8485"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schlemermeyer, W."]
+[Black "Carstens, Andreas"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "7d73a039"]
+[Epoch "Queen"]
+[BlackID "4600770"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. Nf4 Qe7 10. Nf3 Qf7 11. O-O Be7 12. Re1 fxe5 13. dxe5 Nc5 14. Bb1 O-O 15.
+h4 Bd7 16. h5 Rfd8 17. Qc2 Ne4 18. Rxe4 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Haves, R."]
+[Black "Noetzel, Frank"]
+[Result "0-1"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[HashCode "8b2390a4"]
+[Epoch "Queen"]
+[BlackID "4629655"]
+[BlackCountry "GER"]
+
+1. Nf3 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 O-O 6. Nc3 d6 7. O-O Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. Qb3 h6 11. Rd1 g5 12. c5 Kh8 13. a4 a6 14. a5 Qe8 15. d6
+exd6 16. cxd6 cxd6 17. Rxd6 Qh5 18. h3 Rb8 19. Qd1 f4 20. g4 Bxg4 21. hxg4 Nxg4
+22. Ne4 Nh2 23. f3 g4 24. fxg4 Nxg4 25. Ra3 Qh2+ 26. Kf1 Ne3+ 27. Bxe3 fxe3+
+28. Nf6 Bxf6 29. Rxe3 e4 30. Bf3 Rg8 0-1

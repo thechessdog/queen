@@ -1,0 +1,27 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rother, Christoph"]
+[Black "Lau, Ralf"]
+[Result "0-1"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "0435556c"]
+[Epoch "Queen"]
+[WhiteID "4602790"]
+[WhiteCountry "GER"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 g6 3. c4 Bg7 4. Nc3 Nf6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. g4 f5 11. f3 Kh8 12. Be3 Ng8 13. b4 fxg4 14. fxg4 Rxf1+ 15.
+Kxf1 Bh6 16. Bxh6 Nxh6 17. Ng2 a5 18. a3 Kg7 19. Rc1 Nf7 20. Qe1 Nf6 21. Qh4
+axb4 22. axb4 Nxg4 23. Qxd8 Nxd8 24. Nb5 Nf6 25. Nxc7 Ra4 26. c5 dxc5 27. bxc5
+Nxe4 28. c6 bxc6 29. dxc6 Nd2+ 30. Kf2 Nb3 31. Rc3 Nd4 32. Ne8+ Kf8 33. Nd6 Ra2
+34. Re3 Nxe2 35. c7 Nd4+ 36. Kg1 N8e6 37. Nxc8 Nxc7 38. Ne1 Re2 39. Rxe2 Nxe2+
+40. Kf2 Nd4 41. Nd3 Nc6 42. Kf3 Kf7 43. Nc5 Ne8 44. Ke3 Ne7 45. Nb6 Nd6 46. Kf3
+Kf6 47. Nbd7+ Kf5 48. Nf8 h5 49. Nfe6 e4+ 50. Kg2 Ke5 51. Ng5 Kd4 52. Nce6+ Ke3
+53. Kh3 Kf2 54. Nf4 e3 55. Nge6 e2 56. Nxe2 Kxe2 57. Nf4+ Ke3 58. Nxh5 Kf3 59.
+Ng7 Nef5 60. Ne6 Ne4 61. Nd4+ Nxd4 0-1

@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Persson"]
+[Black "Tikkanen, K."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "e4d5230c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5
+Be6 8. c3 g6 9. Bc4 Bxc4 10. Nxc4 Bg7 11. Qe2 O-O 12. Bg5 Qd5 13. Bxf6 Qxg2
+14. O-O-O exf6 15. Nd6 Qd5 16. Nxb7 Qxa2 17. Nc5 Rab8 18. Nd3 Bh6+ 19. Kc2
+Rfe8 20. Qf3 Qb3+ 21. Kb1 Qxc3 22. Rhe1 Rxe1 23. Rxe1 Rxb2+ 0-1
+

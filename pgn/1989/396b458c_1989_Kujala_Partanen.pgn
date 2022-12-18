@@ -1,0 +1,23 @@
+[Event "FIN-chT"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Kujala, Auvo"]
+[Black "Partanen, Juha"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "396b458c"]
+[Epoch "Queen"]
+[WhiteID "500291"]
+[BlackID "500313"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. d5 Nd4 11. Qd1 e5 12. dxe6 fxe6 13. Be3 Bc5 14. b4 Qf6
+15. bxc5 Nxf3+ 16. Ke2 O-O 17. cxb6 Rad8 18. Qc1 Qf5 19. Qb1 Qh5 20. bxa7 Nd2+
+21. Ke1 Nxb1 22. Rxb1 Qa5 23. Rb3 Rc8 24. Kd2 Rxc3 25. Rxc3 Qd5+ 26. Bd3 Qxh1
+27. Bf4 Qa1 28. Rc2 Qd4 29. Be3 Rxf2+ 30. Bxf2 Qxf2+ 31. Kd1 Qxa7 32. Rc8+ Kf7
+33. Bxh7 0-1

@@ -1,0 +1,20 @@
+[Event "Arnold Cup"]
+[Site "Gausdal"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ziegler, Ari"]
+[Black "Schiller, Eric"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "a1697c93"]
+[Epoch "Queen"]
+[WhiteID "1700987"]
+[WhiteCountry "SWE"]
+[BlackID "2002973"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Nc3 d6 7. f3 Nf6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Qb8 11. h4 b5 12. Nxc6 Bxc6 13. Bd5 Qb7 14. Bxc6 Qxc6
+15. Nd5 Nxd5 16. exd5 Qc4 17. Bh6 Qxa2 18. c3 Bxh6 19. Qxh6 b4 20. Qe3 0-1

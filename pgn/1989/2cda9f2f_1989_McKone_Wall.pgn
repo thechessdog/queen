@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "2cda9f2f"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 c5 7. cxd5 Qa5+ 8. Bd2 Qb6
+9. Nc3 cxd4 10. Ne4 f5 11. e6 Bxe6 12. gxf5 Bxf5 13. Bd3 Qg6 14. Qe2 Qg2 15.
+Nd6+ Kd7 16. Bxf5+ Kxd6 17. Qe6+ Kc5 18. Rc1+ Kb5 19. Bd3+ Ka4 20. Rc4+ Kb5 21.
+Rxd4+ Kc5 22. Rc4+ 1-0

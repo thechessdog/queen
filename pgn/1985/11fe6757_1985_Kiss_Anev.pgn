@@ -1,0 +1,18 @@
+[Event "Szolnok Mezogep"]
+[Site "Szolnok Mezogep"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kiss, A."]
+[Black "Anev"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit"]
+[HashCode "11fe6757"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 c5 7. dxc5
+Qxd1+ 8. Kxd1 Nf6 9. Nb5 Na6 10. Nd6+ Ke7 11. b4 Rd8 12. Ke1 Nc7 13. Bg5 e3
+14. Bxe3 Nfd5 15. Bd4 f6 16. c4 Nf4 17. g3 Ng6 18. Bg2 Ne8 19. Rd1 Rb8 20.
+Nxe8 Rxe8 21. c6 a6 22. Ba7 1-0
+

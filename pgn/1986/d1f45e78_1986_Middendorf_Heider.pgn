@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Middendorf, F."]
+[Black "Heider, K."]
+[Result "1-0"]
+[ECO "E08"]
+[Opening "Catalan"]
+[Variation "closed, 7.Qc2"]
+[HashCode "d1f45e78"]
+[Epoch "Queen"]
+
+1. d4 d5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O 6. O-O Nbd7 7. Qc2 c6 8.
+Rd1 Ne4 9. Ne1 f5 10. f3 Nd6 11. b3 Nf6 12. Ba3 Nf7 13. Nd3 dxc4 14. Qxc4
+Bxa3 15. Nxa3 Nd5 16. Qc1 Qf6 17. e4 Nb6 18. e5 Qe7 19. Nc4 Nd5 20. Ne3 Bd7
+21. Nxd5 cxd5 22. Qc5 Qd8 23. Rdc1 a6 24. a4 Rc8 25. Qa7 Rxc1+ 26. Rxc1 Qa8
+27. Qb6 Rc8 28. Rxc8+ Qxc8 29. Nc5 Nd8 30. Bf1 Kf7 31. b4 1-0
+

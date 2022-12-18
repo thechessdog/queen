@@ -1,0 +1,20 @@
+[Event "Poland"]
+[Site "Poland"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Panczyk, Krzysztof"]
+[Black "Bany, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "29e2e12e"]
+[Epoch "Queen"]
+[WhiteID "1100211"]
+[BlackID "1100084"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Bd6 11. Nbd2 Nbd7 12. a4 Qb8 13. axb5 axb5 14. Qd3 Bxf4
+15. gxf4 c5 16. dxc5 Nxc5 1/2-1/2

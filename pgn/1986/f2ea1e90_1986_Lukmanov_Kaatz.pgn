@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lukmanov, VB."]
+[Black "Kaatz, F."]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "f2ea1e90"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 Bg7
+8. Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Qd2 e6 13. f4 Bg7 14. c4
+exd5 15. cxd5 Qh4+ 16. g3 Qe7 17. e5 Bf5 18. Rb3 Be4 19. O-O Rad8 20. Bc4
+b6 21. Re1 Bf5 22. a4 Qc7 23. Qe2 Rfe8 24. Re3 h5 25. Bb2 Kf8 26. Bb5 Bd7
+27. e6 Bxb5 28. Qxb5 Re7 29. f5 gxf5 30. Bxg7+ Kxg7 31. Qd3 f4 32. Re5 1-0
+

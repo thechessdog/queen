@@ -1,0 +1,18 @@
+[Event "corr TS87"]
+[Site "corr TS87"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Beduin"]
+[Black "Parotte"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "3f228bc4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qe3 dxc4 13. Bb1 c5 14.
+h3 Rc8 15. Qg3 O-O 16. Bg5 g6 17. Qh4 Rc7 18. Rxe7 Rxe7 19. Bxf6 Re1+ 20.
+Kh2 Qd6+ 21. f4 Nf3+ 0-1
+

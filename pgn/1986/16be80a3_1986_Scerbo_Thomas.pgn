@@ -1,0 +1,16 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scerbo"]
+[Black "Thomas"]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "16be80a3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Bg5 h6 6. Bxf6 Bxc3+ 7. bxc3
+Qxf6 8. Ne2 d6 9. Qd2 g5 10. d4 exd4 11. cxd4 Be6 12. Bb3 Rd8 13. O-O b6
+14. d5 Ne5 15. dxe6 fxe6 16. Nd4 c5 17. Nxe6 Rb8 18. Qxd6 Rd8 19. Nc7# 1-0
+

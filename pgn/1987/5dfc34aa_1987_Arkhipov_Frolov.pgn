@@ -1,0 +1,19 @@
+[Event "Odessa"]
+[Site "Odessa"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Arkhipov, Sergey"]
+[Black "Frolov, Artur"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "5dfc34aa"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. e4 bxc4 7. Bxc4 Ba6 8. Bxa6
+Nxa6 9. Ne2 exd5 10. e5 Ng8 11. Qxd5 Ne7 12. Qc4 Nc7 13. O-O O-O 14. Bg5 Kh8
+15. Qh4 Re8 16. Ne4 Ne6 17. Rad1 c4 18. Kh1 Qb8 19. f4 Ng6 20. Qh5 Bf8 21. Rxd7
+Kg8 22. N2g3 Qb5 23. Rxf7 Kxf7 24. f5 Kg8 25. fxg6 Nxg5 26. Nxg5 h6 27. Nf5
+Rac8 28. Qf3 Rc7 29. Ne4 Rb8 30. h3 Qxb2 31. Ned6 Qd2 32. Ne8 Rxe8 33. Nxh6+
+gxh6 34. Qf7+ 1-0

@@ -1,0 +1,20 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Forte A"]
+[Black "Constellation 2 0"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "cd9f63fe"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nxe6 fxe6 12. fxg7 Rg8 13. Ne4 Be7
+14. Bh6 O-O-O 15. Ng3 Qg6 16. Qc1 e5 17. Ne4 Nb4 18. a3 Nxc2 19. Qxc2 Qxh6
+20. Qxc4 Qxg7 21. Qe6+ Kb8 22. g3 h6 23. b4 Rgf8 24. Rac1 Rf3 25. Nd2 Rxa3
+26. Rxe5 Bxb4 27. Rb5 Bxd2 28. Rxb7+ Ka8 29. Rcxc7 Qxc7 30. Rxc7 Ra1+ 31.
+Kg2 Kb8 32. Re7 Rg1+ 33. Kxg1 Ba5 34. Qe5+ Kc8 35. Qc5+ 1-0
+

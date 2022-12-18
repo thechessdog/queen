@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Moller"]
+[Black "Krasborg"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "05c07fdd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Be3 a6 6. Qa4 Nc6 7. Nf3 Bb4
+8. Rc1 Qa5 9. Bd2 Bxc3 0-1
+

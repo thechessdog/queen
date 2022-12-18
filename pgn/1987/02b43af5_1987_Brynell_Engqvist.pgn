@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brynell, Stellan"]
+[Black "Engqvist, Thomas"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Polugayevsky variation"]
+[HashCode "02b43af5"]
+[Epoch "Queen"]
+[WhiteID "1700219"]
+[BlackID "1700332"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Be2 Qxg5 12. Qd3 Qxf6 13. Rf1 Qe5 14. Rd1
+Ra7 15. Nf3 Qc7 16. Ng5 f5 17. Rxf5 exf5 18. Nd5 Qe5 19. Nf3 Qd6 20. Qc3 Nc6
+21. Rd3 Qb4 22. Re3+ Kd8 0-1

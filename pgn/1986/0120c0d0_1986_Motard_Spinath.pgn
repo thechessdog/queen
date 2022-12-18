@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Motard, JP."]
+[Black "Spinath, P."]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "0120c0d0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+
+8. Nxc3 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O b6 12. Re1 Bb7 13. Ba2 Qd6 14.
+d5 exd5 15. Nxd5 Nxd5 16. Bxd5 1/2-1/2
+

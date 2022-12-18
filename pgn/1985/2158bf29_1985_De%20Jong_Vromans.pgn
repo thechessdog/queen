@@ -1,0 +1,17 @@
+[Event "Vegtlust"]
+[Site "Vegtlust"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Vromans, N."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "2158bf29"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 O-O 8. e5
+Ne8 9. Bf4 d5 10. Bxc6 bxc6 11. Nxd4 c5 12. Nc6 Qd7 13. Qxd5 Bh4 14. Ne7+ Bxe7
+15. Qxa8 c6 16. Nc3 1-0

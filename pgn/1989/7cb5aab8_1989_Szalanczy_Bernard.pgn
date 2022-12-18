@@ -1,0 +1,21 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Bernard, Christophe"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "7cb5aab8"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[WhiteCountry "HUN"]
+[BlackID "600385"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 e6 7. f4 Be7 8. Qf3
+e5 9. Nxc6 bxc6 10. f5 Qa5 11. Bc4 Bb7 12. O-O-O Rd8 13. g4 d5 14. g5 dxc4 15.
+gxf6 Bxf6 16. Qf2 O-O 17. Rdg1 Rd4 18. Bh6 Qd8 19. Rxg7+ Kh8 20. Rhg1 c5 21.
+R7g4 Re8 22. Qg3 1-0

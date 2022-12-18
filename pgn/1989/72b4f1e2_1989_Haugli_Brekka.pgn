@@ -1,0 +1,20 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haugli, Petter"]
+[Black "Brekka, Martin"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "72b4f1e2"]
+[Epoch "Queen"]
+[BlackID "7200129"]
+[BlackCountry "FAI"]
+[WhiteID "1500104"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bc5 6. e3 Qe7 7. Qd5 Nb4 8.
+Qd2 Nc6 9. Nc3 Ngxe5 10. Nxe5 Nxe5 11. Nd5 Nc6 12. Nxe7 Bb4 13. Nxc6 Bxd2+ 14.
+Kxd2 dxc6 1-0

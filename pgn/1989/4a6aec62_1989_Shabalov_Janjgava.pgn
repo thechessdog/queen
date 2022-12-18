@@ -1,0 +1,18 @@
+[Event "Leningrad-chT"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Shabalov, Alexander"]
+[Black "Janjgava, Lasha"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "4a6aec62"]
+[Epoch "Queen"]
+[WhiteID "2008572"]
+[WhiteCountry "USA"]
+[BlackCountry "GEO"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Qc2 Be4 13. Qc1 Bb7 14. Qc2 1/2-1/2

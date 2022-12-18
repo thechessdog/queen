@@ -1,0 +1,17 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Danner, Georg"]
+[Black "Zboron"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "a941494d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 d6 8.
+dxe6 Bxe6 9. e3 Nbd7 10. Bd3 Qa5 11. Ne2 d5 12. cxd5 Nxd5 13. O-O O-O 14. c4
+Nc3 15. Qb3 Nxe2+ 16. Bxe2 Qa6 17. Rfd1 Ne5 18. Qb5 Qxb5 19. cxb5 Rac8 20. Rac1
+c4 1/2-1/2

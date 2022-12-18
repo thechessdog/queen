@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kuhn"]
+[Black "Eger, A."]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "bfe60896"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bd6 10. h3 O-O 11. Nbd4 Bc7 12. Bd3 Ng6 13. Re1 Nxd4
+14. Nxd4 Qd6 15. Nf3 Bd7 16. Be3 Rae8 17. c4 d4 18. c5 Qxc5 19. Nxd4 Qd6
+20. Nf3 Ne5 21. Nxe5 Qxe5 22. f4 Qf6 23. Bxh7+ Kxh7 24. Qxd7 Bb6 25. Bxb6
+Qxb6+ 1/2-1/2
+

@@ -1,0 +1,16 @@
+[Event "Findlay,OH"]
+[Site "Findlay,OH"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nash, Bill"]
+[Black "Vehre, John"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "403cbf30"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Bd3 Bg4 7. Be3 Nfd7 8. h3
+Bxf3 9. Qxf3 Nc6 10. Ne2 Nde5 0-1

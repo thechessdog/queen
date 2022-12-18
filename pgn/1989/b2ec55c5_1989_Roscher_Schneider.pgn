@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roscher, J."]
+[Black "Schneider, W."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "b2ec55c5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3
+Nd4 8. Nxd4 Bxd4 9. O-O c6 10. c3 Bb6 11. Bb3 Nxe4 12. d4 d5 13. dxe5 Nxf2
+0-1
+

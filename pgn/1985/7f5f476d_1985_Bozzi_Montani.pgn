@@ -1,0 +1,18 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bozzi"]
+[Black "Montani"]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "7f5f476d"]
+[Epoch "Queen"]
+
+1. d4 c5 2. d5 Nf6 3. c4 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O 7. Nf3 e6 8. Be2
+exd5 9. e5 dxe5 10. fxe5 Ng4 11. Bg5 Qa5 12. cxd5 Nxe5 13. O-O Nbd7 14. Be7
+Re8 15. d6 Nc6 16. Nd5 Nxe7 17. Nxe7+ Kh8 18. Ng5 Ne5 19. d7 Bxd7 20. Qxd7
+Rad8 21. Qh3 1-0
+

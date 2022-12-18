@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kokosinski"]
+[Black "Haglund"]
+[Result "0-1"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "6a51d371"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8.
+Nge2 Re8 9. g4 Rb8 10. h4 b5 11. O-O-O b4 12. Nd5 Nxd5 13. cxd5 Na5 14. Ng3
+c5 15. dxc6 Nxc6 16. h5 Na5 17. hxg6 fxg6 18. Qh2 b3 19. a3 Qc7+ 20. Kb1
+Qc2+ 21. Qxc2 bxc2+ 22. Kxc2 Be6 23. Bxa6 Bb3+ 24. Kb1 Bxd1 25. Rxd1 Rb6
+26. Be2 Rc8 27. b4 Nc4 28. Bc1 e6 29. Ka2 d5 30. e5 Bf8 31. Kb3 Be7 32. Bd3
+Na5+ 33. Ka2 Nc6 0-1
+

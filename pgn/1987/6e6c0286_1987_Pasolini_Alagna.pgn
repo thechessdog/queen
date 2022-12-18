@@ -1,0 +1,18 @@
+[Event "corr Italy"]
+[Site "corr Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pasolini"]
+[Black "Alagna"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "6e6c0286"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. a3 Bxc3+ 7. bxc3 b6 8.
+e4 e5 9. Ne2 d6 10. O-O h6 11. f4 cxd4 12. cxd4 exd4 13. Qa4 Bd7 14. Qc2
+Ng4 15. Rf3 O-O 16. Bb2 Qh4 17. h3 Nf6 18. Nxd4 Nxd4 19. Bxd4 Bc6 20. g4
+Rfe8 21. Bf2 1-0
+

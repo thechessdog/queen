@@ -1,0 +1,17 @@
+[Event "Espergarde"]
+[Site "Espergarde"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Mortensen"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[HashCode "179fedba"]
+[Epoch "Queen"]
+[WhiteCountry "SWE"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 c6 4. Bd3 e5 5. Nge2 Be7 6. O-O O-O 7. f4 Nbd7 8. Kh1
+Qc7 9. dxe5 dxe5 10. Ng3 g6 11. f5 Nc5 12. Bg5 b5 13. a3 Rb8 14. Rf3 Ncd7 15.
+Qd2 a6 16. h4 Qd8 17. Bh6 Re8 1/2-1/2

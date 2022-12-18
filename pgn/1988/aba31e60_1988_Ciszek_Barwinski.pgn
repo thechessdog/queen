@@ -1,0 +1,22 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ciszek, Mieczyslaw"]
+[Black "Barwinski, Dionizy"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "aba31e60"]
+[Epoch "Queen"]
+[WhiteID "1101668"]
+[BlackID "1104365"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bf4 a6 8. Nf3
+Qe7 9. e5 Nh5 10. Ne4 Nxf4 11. Nxd6+ Kd8 12. Qd2 Nd7 13. Qxf4 f6 14. Nxc8 Rxc8
+15. d6 Qe6 16. Bc4 fxe5 17. Qxf8+ Nxf8 18. Bxe6 Nxe6 19. Nxe5 Rf8 20. g3 Rf5
+21. f4 g5 22. O-O-O gxf4 23. gxf4 Nxf4 24. Rhe1 c4 25. d7 Rb8 26. Nc6+ bxc6 27.
+Re8+ Kc7 28. Rxb8 1-0

@@ -1,0 +1,19 @@
+[Event "corr TS87"]
+[Site "corr TS87"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maietti"]
+[Black "Pantaleoni"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "1592dd90"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. c4 Be7 10. Bd3 O-O 11. Bd2 f5 12. f3 e4 13. fxe4 fxe4 14.
+Bxe4 Na6 15. Qc2 Bg4 16. Nd4 Bh4+ 17. g3 Qf6 18. Bc3 Qf4 19. Bxh7+ Kh8 20.
+Bg6 Qe3+ 21. Ne2 Rf2 22. Bxg7+ Kxg7 23. Qc3+ Qxc3+ 24. Nxc3 Rxb2 25. gxh4
+Kxg6 26. O-O Nc5 27. Nb5 Nd3 0-1
+

@@ -1,0 +1,18 @@
+[Event "Hilversum ch-NED"]
+[Site "Hilversum ch-NED"]
+[Date "1986.01.01"]
+[Round "5"]
+[White "Goldstern, Flip"]
+[Black "Boersma, Paul"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "d5d21b25"]
+[Epoch "Queen"]
+[BlackID "1000411"]
+[BlackCountry "NED"]
+
+1. Nf3 d6 2. d4 g6 3. e4 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Qc7 8. a5
+Nbd7 9. Re1 e5 10. dxe5 dxe5 11. Be3 Ng4 12. Bg5 Nc5 13. Nd2 Ne6 14. Bh4 Bf6
+15. Bg3 h5 16. Bxg4 hxg4 17. Qxg4 Rd8 18. Qf3 Kg7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Geneva"]
+[Site "Geneva"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Scherrer, Roland"]
+[Black "Miles"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c8de92e0"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Be6 6. Bg5 dxc4 7. Bxf6
+exf6 8. d5 Bf5 9. Bxc4 Bd6 10. Qe2+ Qe7 11. Qxe7+ Kxe7 12. Nge2 Rc8 13. Bb3
+Na6 14. O-O Nc5 15. Nd4 Bg6 16. Bd1 Be5 17. d6+ Kxd6 18. Ncb5+ Ke7 19. f4
+Bxd4+ 20. Nxd4 Rd8 21. Nb5 Be4 22. Nc3 f5 23. Bf3 Rd4 24. Rad1 Rad8 25.
+Rxd4 Rxd4 26. b3 Rd3 27. Rc1 Bxf3 28. gxf3 Ne6 0-1
+

@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kitts, G."]
+[Black "Gulko, Boris"]
+[Result "0-1"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "7d29de61"]
+[Epoch "Queen"]
+[BlackID "2000040"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 b6 4. e5 Qd7 5. Ndf3 c5 6. c3 Ne7 7. Bd3 Ba6 8. Ne2
+Bxd3 9. Qxd3 Nbc6 10. O-O Ng6 11. Be3 Be7 12. Rac1 O-O 13. Rfd1 c4 14. Qc2 f6
+15. exf6 Rxf6 16. Qd2 Rxf3 17. gxf3 Nh4 18. Qc2 e5 0-1

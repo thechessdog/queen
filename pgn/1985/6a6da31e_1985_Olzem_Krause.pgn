@@ -1,0 +1,22 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Olzem, Lothar"]
+[Black "Krause, Christian"]
+[Result "1/2-1/2"]
+[ECO "E82"]
+[Opening "King's Indian"]
+[Variation "Saemisch, double fianchetto variation"]
+[HashCode "6a6da31e"]
+[Epoch "Queen"]
+[WhiteID "4607716"]
+[BlackID "4608429"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. c4 Nf6 3. Nc3 g6 4. d4 Bg7 5. f3 O-O 6. Be3 b6 7. Bd3 Na6 8. Nge2
+c5 9. d5 e5 10. Qd2 Nc7 11. O-O-O a6 12. Bh6 Bd7 13. h4 b5 14. h5 bxc4 15. Bxc4
+Nb5 16. hxg6 fxg6 17. Bxg7 Kxg7 18. Qh6+ Kg8 19. f4 Qe7 20. Qg5 Nxc3 21. Nxc3
+exf4 22. Rdf1 Bb5 23. Bxb5 axb5 24. Rxf4 b4 25. Nb5 Qe5 26. Rf5 Qxe4 27. Nxd6
+Qe7 28. Rhf1 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Halouzka"]
+[Black "Krisko"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "42b19b86"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Qd2 Bg4 9. Rb1 Bxf3 10. gxf3 cxd4 11. cxd4 Bxd4 12. Rxb7 O-O 13. Bc4 Nc6
+14. Bd5 Qc8 15. Rb3 e6 16. Bxc6 Qxc6 17. O-O Rfd8 18. Bb2 e5 19. Bxd4 Rxd4
+20. Qa5 Qf6 21. Rfb1 Kg7 22. Qc5 Rad8 23. h4 h5 24. Rb8 Qxf3 25. Qxe5+ Kh7
+26. Rxd8 Rxd8 27. Qe7 Rd2 28. Qxa7 Re2 29. e5 Rxe5 30. Qb7 Re1+ 0-1
+

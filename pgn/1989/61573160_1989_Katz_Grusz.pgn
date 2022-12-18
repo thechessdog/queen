@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Katz"]
+[Black "Grusz"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "61573160"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 Nf6 6. Be3 Nc6 7. Nf3 Qa5
+8. Nd4 Ne4 9. Nb3 Nxc3 10. Qd3 Qb4 11. bxc3 Qe4 12. Nd2 Qxd3 13. cxd3 Bf5
+14. d4 O-O-O 15. Be2 h6 16. O-O g5 17. Rac1 Bg7 18. Nb3 Bg6 19. f4 Rde8 20.
+Kf2 Nd8 21. Bg4+ Kc7 22. fxg5 hxg5 23. Bxg5 Bh6 24. Bxh6 Rxh6 25. Rfe1 Be4
+26. Nd2 f5 27. Nxe4 fxg4 28. Nd6 Rxe1 29. Rxe1 Ne6 30. Kg3 b6 31. Nf5 Rh5
+32. cxb6+ axb6 33. Rxe6 Rxf5 34. Kxg4 Rf2 35. Kg3 Rxa2 36. h4 b5 37. Kf3
+Rd2 38. g4 b4 39. cxb4 Rd3+ 40. Re3 Rxd4 41. Rb3 Kb6 42. b5 Ra4 43. h5 d4
+44. h6 d3 45. Rxd3 1-0
+

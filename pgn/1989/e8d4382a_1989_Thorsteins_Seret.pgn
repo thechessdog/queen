@@ -1,0 +1,20 @@
+[Event "Belfort open"]
+[Site "Belfort open"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Thorsteins, Karl"]
+[Black "Seret, Jean-Luc"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "e8d4382a"]
+[Epoch "Queen"]
+[WhiteID "2300060"]
+[WhiteCountry "ISL"]
+[BlackID "600210"]
+[BlackCountry "FRA"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Re1 Nbd7 8. Bf4
+Qb6 9. Qc1 e5 10. dxe5 dxe5 11. Be3 Qc7 12. h3 Re8 13. a4 a5 14. Bc4 Nf8 15.
+Ng5 Ne6 16. Rd1 Bf8 17. Nxe6 1/2-1/2

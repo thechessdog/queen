@@ -1,0 +1,21 @@
+[Event "Aarhus int"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kristensen, Leif"]
+[Black "Bern, Ivar"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "60e04021"]
+[Epoch "Queen"]
+[WhiteID "1404571"]
+[BlackID "1500171"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Be7 7. Na3 cxd4 8.
+Nb5 Qd8 9. Nbxd4 O-O 10. O-O a6 11. Bf4 Nd5 12. Bg3 f5 13. c4 f4 14. cxd5 exd5
+15. Rc1 fxg3 16. hxg3 Qb6 17. Qb3 Qxb3 18. axb3 Bf6 19. Rc7 Rd8 20. Rfc1 Nc6
+21. Nxc6 bxc6 22. R7xc6 Rb8 23. Rd1 Bg4 24. Rxa6 Kf8 25. Ra5 Rxb3 1/2-1/2

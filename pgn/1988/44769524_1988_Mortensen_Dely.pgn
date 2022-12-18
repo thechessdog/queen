@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Dely, Peter"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "44769524"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+c4 9. Bh6 Ng6 10. Bxg6 fxg6 11. Be3 Qe8 12. h4 h6 13. h5 g5 14. Nh3 Qf7 15. f4
+gxf4 16. Nxf4 Qf5 17. Qe2 Re8 18. O-O Qf7 19. Ng6 Qd7 20. Qf3 Nc6 21. Qf8+ Kh7
+22. Rf7 Rxf8 23. Rxf8 Qd8 24. Rxd8 1-0

@@ -1,0 +1,18 @@
+[Event "corr ch19-GER"]
+[Site "corr ch19-GER"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ahlers"]
+[Black "Zschunke"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "96a83112"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8.
+O-O Bg7 9. Be3 O-O 10. Qe1 Nc6 11. Nf3 Bg4 12. a3 Bxf3 13. Rxf3 e6 14. Rd1
+Ng4 15. Bf1 Nxe3 16. Qxe3 Rfd8 17. Bc4 Rac8 18. Ba2 Ne7 19. Rd3 Qc5 20.
+Qxc5 dxc5 1/2-1/2
+

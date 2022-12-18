@@ -1,0 +1,21 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Langeweg, Kick"]
+[Black "Boersma, Paul"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "Linares variation"]
+[HashCode "ffc6b8d9"]
+[Epoch "Queen"]
+[BlackID "1000411"]
+[WhiteID "1000160"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 Nf6 5. Nc3 b5 6. e5 b4 7. exf6 bxc3 8. bxc3
+Qa5 9. Bd2 Nd7 10. Nf3 gxf6 11. Bxc4 Nb6 12. Be2 c4 13. O-O Bb7 14. Nd4 Bxd5
+15. Bf3 e6 16. Rb1 Rc8 17. Rb5 Bxf3 18. Qxf3 Qxa2 19. Qb7 Rc5 20. Be3 Qa3 21.
+Nc2 Rxb5 22. Nxa3 Bxa3 23. Qc6+ 1-0

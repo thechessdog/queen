@@ -1,0 +1,22 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Breitenbaum"]
+[Black "Paulus"]
+[Result "1-0"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "d7614ac4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 fxe6 12. Bc4 e5 13. Ne6 Bxe6 14.
+Bxe6 b5 15. Bxf6 Bxf6 16. Nd5 Bh4+ 17. g3 Bd8 18. O-O Qc5+ 19. Kh1 Ra7 20.
+Qe2 Nc6 21. Qg4 Nd4 22. c3 Nc6 23. Qf5 Ba5 24. Bf7+ Kd8 25. Qg5+ Kc8 26.
+Qxg7 Rd8 27. Qxh7 Kb8 28. Rf3 Qc4 29. Rbf1 Qxa2 30. Qh4 Qe2 31. R3f2 Qc4
+32. Rf3 Qe2 33. Be6 Rg7 34. Qh6 Rb7 35. Qe3 Qxe3 36. Rxe3 Ka7 37. g4 Re8
+38. Bf5 Rh8 39. Kg2 Bd8 40. Rh3 Rxh3 41. Kxh3 Ne7 42. Nxe7 Bxe7 43. Kg3 a5
+44. h4 a4 45. Be6 Bd8 46. g5 1-0
+

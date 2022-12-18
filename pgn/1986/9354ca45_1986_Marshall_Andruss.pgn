@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Marshall, Dan"]
+[Black "Andruss, Mark"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "9354ca45"]
+[Epoch "Queen"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 Nf6 5. c3 d5 6. e5 Nd7 7. Na3 b6 8. Nc2
+Be7 9. g3 O-O 10. Bh3 c4 11. b4 a5 12. a3 axb4 13. axb4 Rxa1 14. Nxa1 Bb7
+15. Nc2 Qa8 16. O-O b5 17. d4 Qa2 18. f5 exf5 19. Bxf5 Nb6 20. Ng5 g6 21.
+Nxh7 Kxh7 22. Qh5+ Kg8 23. Bxg6 1-0
+

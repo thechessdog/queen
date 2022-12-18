@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karafiath"]
+[Black "Wolf"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "d06b50bf"]
+[Epoch "Queen"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Qa4+ Nbd7 6. Nc3 g6 7. g3 Bg7
+8. Bg2 O-O 9. Nge2 Nb6 10. Qb3 Bf5 11. O-O Bd3 12. Re1 Bc4 13. Qb4 a5 14.
+Qc5 Rc8 15. Qxa5 Qd6 16. d4 Ra8 17. Qc5 Qxc5 18. dxc5 Nbxd5 19. Nxd5 Nxd5
+20. Nf4 e6 21. Nxd5 exd5 22. Re7 Rfe8 23. Rxe8+ Rxe8 24. Be3 Bxb2 25. Rb1
+Bc3 26. Rc1 Bg7 27. a4 Ra8 28. Rxc4 dxc4 29. Bxb7 Rxa4 30. Kf1 c3 31. Ke2
+c2 32. Kd3 Bd4 33. Kxc2 Bxe3 0-1
+

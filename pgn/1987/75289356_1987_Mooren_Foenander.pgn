@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mooren, L."]
+[Black "Foenander, P."]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "75289356"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8.
+Bd3 Be7 9. a4 O-O 10. O-O Nbd7 11. Kh1 Nc5 12. Qe1 Bd7 13. fxe5 dxe5 14.
+Qg3 Bd6 15. Bh6 Ng4 16. Nd5 Qd8 17. Bd2 Re8 18. Nh4 Be6 19. Nf5 Bxf5 20.
+Rxf5 1-0
+

@@ -1,0 +1,20 @@
+[Event "IHJM"]
+[Site "IHJM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Geisler, F."]
+[Black "Klein, V."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "bd7b22e9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 Nc6 6. Nge2 e6 7. Ng3 Bg6
+8. a3 Bd6 9. Bd3 Qe7 10. Qf3 Bxd3 11. cxd3 O-O-O 12. O-O f5 13. Nb5 Bxg3
+14. fxg3 h5 15. Nc3 Rdg8 16. Rf2 h4 17. gxh4 Qxh4 18. g3 Rg4 19. Ne2 Rhg8
+20. Rg2 Qe7 21. Rc1 Qd6 22. b4 Ne7 23. Nf4 Kb8 24. Rc5 Ng6 25. Nxg6 R4xg6
+26. Qf4 Qe7 27. Rgc2 Rc8 28. h3 f6 29. Kh2 Rg5 30. Qf3 Rcg8 31. b5 Qd6 32.
+Rxc7 Qxc7 33. Rxc7 Kxc7 34. Qf4+ Kd7 35. e4 fxe4 36. dxe4 dxe4 37. Qxe4
+Rxg3 38. Qxb7+ Kd6 39. Qc6+ Ke7 40. Qc7+ Ke8 41. Qxg3 Rxg3 42. Kxg3 1-0
+

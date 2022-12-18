@@ -1,0 +1,23 @@
+[Event "POL-ch"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Sznapik, Aleksander"]
+[Black "Panczyk, Krzysztof"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 12.d2d4"]
+[HashCode "e93e47cf"]
+[Epoch "Queen"]
+[WhiteID "1100050"]
+[BlackID "1100211"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re2 Qh4 14. g3 Qh3 15.
+Nd2 Bf5 16. Ne4 Bg4 17. Nxd6 Qh5 18. f3 Bxf3 19. Kf2 Rad8 20. c4 Rxd6 21. cxd5
+cxd5 22. Bf4 Re6 23. Be5 f6 24. g4 Qxg4 25. Qg1 fxe5 26. Qxg4 Bxg4+ 27. Ke1
+Bxe2 28. Kxe2 exd4+ 29. Kd3 Rh6 30. Bxd5+ Kh8 31. a4 bxa4 32. Rxa4 Rh3+ 33. Kc4
+d3 34. Ra1 Rc8+ 35. Kd4 Rd8 0-1

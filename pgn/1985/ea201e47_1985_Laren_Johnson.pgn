@@ -1,0 +1,25 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Laren, P."]
+[Black "Johnson, Ri"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "ea201e47"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bg4 11. Bxg4 Nxg4 12. a4 Qc8 13. a5 Qc4 14.
+Ra3 Qxb3 15. Rxb3 Nc4 16. Rxb7 Nxa5 17. Rxe7 Rfe8 18. Rxe8+ Rxe8 19. O-O
+Nb3 20. h3 Nf6 21. Be3 Rd8 22. Rd1 Nxd5 23. Nxd5 Rxd5 24. Nc3 Rd7 25. d5
+Na5 26. Kf1 Nc4 27. Bc1 Nb6 28. d6 Nc4 29. Ne4 Be5 30. f4 Bg7 31. b3 Nb6
+32. Be3 Nc8 33. Bc5 h6 34. Bb4 f5 35. Nf2 Nb6 36. Nd3 Nc8 37. Ne5 Bxe5 38.
+fxe5 Kf7 39. Kf2 Ke6 40. Bc3 Nb6 41. Bd4 Nd5 42. g3 Nb4 43. Rd2 Nd5 44. Rc2
+g5 45. Rc8 f4 46. g4 Kf7 47. Rh8 Kg6 48. Ra8 Kf7 49. Rxa7 Rxa7 50. Bxa7 Ke6
+51. Bd4 Nb4 52. Bc3 Nc6 53. b4 Na7 54. Kf3 Nb5 55. Bb2 Na7 56. Ke4 Nb5 57.
+h4 Na7 58. hxg5 hxg5 59. Bd4 Nb5 60. Bb6 Nc3+ 61. Kd4 Nd5 62. d7 Nxb4 63.
+d8=Q Nc6+ 64. Ke4 Nxd8 65. Bxd8 f3 66. Bb6 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zoll"]
+[Black "Leisebein"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "75857995"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Qd3 h6 5. Bxf6 Nxf6 6. e4 e6 7. e5 Nd7
+8. f4 c5 9. Nf3 Qa5 10. Be2 cxd4 11. Nxd4 Bb4 12. O-O Bxc3 13. bxc3 O-O 14.
+Qg3 Nc5 15. Nb3 Qc7 16. c4 dxc4 17. Bxc4 Ne4 18. Qd3 Qb6+ 19. Nd4 Rd8 20.
+Rad1 Nc5 21. Qe3 Bd7 22. Nb3 Na4 23. Qxb6 Nxb6 24. Nc5 Nxc4 25. Rxd7 Rxd7
+26. Nxd7 Rc8 27. Rf3 Nd2 28. Rd3 Rxc2 29. g4 b5 30. f5 b4 31. f6 Nc4 32.
+Rd4 a5 33. fxg7 Kxg7 34. Re4 a4 35. Nf6 b3 0-1
+

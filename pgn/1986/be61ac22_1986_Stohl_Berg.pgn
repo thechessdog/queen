@@ -1,0 +1,21 @@
+[Event "Kotov mem"]
+[Site "Tallinn"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stohl, Igor"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit accepted"]
+[HashCode "be61ac22"]
+[Epoch "Queen"]
+[WhiteID "14900025"]
+[WhiteCountry "SVK"]
+[BlackID "1400053"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. b3 Bg7 7. Bb2 O-O 8. g3
+Nxa6 9. Bg2 d6 10. e4 Bb7 11. Ne2 e6 12. Nbc3 exd5 13. Nxd5 Nxd5 14. Bxg7 Kxg7
+15. exd5 Qa5+ 16. Qd2 Qxd2+ 17. Kxd2 Nb4 18. Nc3 Ra3 19. Rhe1 Ba6 20. Re7 c4
+21. bxc4 Rc8 22. Bf1 Rxc3 23. Rxf7+ Kxf7 24. Kxc3 Nxd5+ 25. Kd4 Nc7 26. Bh3
+Ne6+ 27. Kd5 Ke7 28. Bxe6 Bxc4+ 0-1

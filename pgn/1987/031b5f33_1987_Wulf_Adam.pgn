@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wulf"]
+[Black "Adam"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Stean variation"]
+[HashCode "031b5f33"]
+[Epoch "Queen"]
+[BlackID "7110219"]
+[BlackCountry "INA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Re8 7. Qf5 d6 8.
+Nxf6+ gxf6 9. Qh5 d5 10. Nh4 e4 11. Qxd5 Bd6 12. Qh5 Nb4 13. Qd1 f5 14. g3 f4
+15. exf4 Nd3+ 16. Bxd3 exd3+ 17. Kf1 Qxh4 18. gxh4 Bh3+ 19. Kg1 Kh8 0-1

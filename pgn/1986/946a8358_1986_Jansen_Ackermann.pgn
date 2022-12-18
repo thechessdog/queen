@@ -1,0 +1,20 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jansen, Hans"]
+[Black "Ackermann, D."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "946a8358"]
+[Epoch "Queen"]
+[WhiteID "1050524"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3
+cxd4 9. cxd4 Bb4+ 10. Kf2 O-O 11. Bh3 f5 12. Ne2 Qd8 13. g4 fxg4 14. Bxg4 Qe7
+15. h4 Re8 16. Qd3 Nf8 17. Be3 Bd7 18. Rag1 Rec8 19. Ng3 Ba5 20. a3 Nd8 21. f5
+exf5 22. Bxf5 Nde6 23. Nh5 Kh8 24. Ng5 Qe8 25. Nxe6 Nxe6 26. Bxe6 Qxe6 27. Rxg7
+Rf8+ 28. Kg1 Rf5 29. Bg5 Raf8 30. Re7 Qg6 31. Qg3 Rf1+ 32. Kg2 0-1

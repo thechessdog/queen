@@ -1,0 +1,17 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Wallwork"]
+[Black "Crombleholme"]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "4ad23a1f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2
+Nd7 8. Ng3 Bg6 9. Be2 Qc7 10. h4 h6 11. h5 Bh7 12. Be3 O-O-O 13. Qc1 e5 14.
+dxe5 Nxe5 15. Bxh6 Nd3+ 16. Bxd3 Bxh6 17. Qxh6 Bxd3 18. Qe3 Rhe8 0-1
+

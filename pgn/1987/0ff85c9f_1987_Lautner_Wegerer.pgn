@@ -1,0 +1,24 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Lautner, R."]
+[Black "Wegerer, Fred"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "0ff85c9f"]
+[Epoch "Queen"]
+[BlackID "1601113"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. Nc3 d4 8. Ne2
+Ng6 9. Ng3 Be7 10. c3 O-O 11. a3 Ra7 12. cxd4 Nxd4 13. Nxd4 Qxd4 14. d3 b6 15.
+Qb3 Qd6 16. f4 Nxf4 17. e5 Qd5 18. Qxb6 Rb7 19. Qa5 Nxd3 20. Bxd3 Qxd3 21. Kh1
+Rb5 22. Qc3 Rd8 23. Ne4 Bb7 24. Qxd3 Rxd3 25. Nc3 Rb3 26. Kg1 c4 27. Re2 Bc5+
+28. Kf1 h6 29. Bf4 Bxa3 30. Rxa3 Rxa3 31. bxa3 Rxc3 32. a4 Ra3 33. Rb2 Be4 34.
+Kf2 Rxa4 35. g3 c3 36. Rb8+ Kh7 37. Rc8 g5 38. Be3 Ra2+ 39. Ke1 Ra1+ 40. Ke2 c2
+41. h4 gxh4 42. gxh4 Rh1 43. Rc7 Kg6 44. Kf2 Rxh4 45. Kg3 Rh1 46. Kf4 Bf5 47.
+Rc8 Rf1+ 48. Kg3 Be4 49. Kg4 h5+ 50. Kh4 Kf5 51. Rc5 a5 52. Rxa5 c1=Q 53. Bxc1
+Rxc1 0-1

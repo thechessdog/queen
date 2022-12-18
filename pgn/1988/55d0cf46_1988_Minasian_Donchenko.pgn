@@ -1,0 +1,26 @@
+[Event "Naberezhnie Chelni"]
+[Site "Naberezhnie Chelni"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Minasian, Artashes"]
+[Black "Donchenko, Anatoly G"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "55d0cf46"]
+[Epoch "Queen"]
+[WhiteID "13300040"]
+[WhiteCountry "ARM"]
+[BlackID "4106091"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Be2 Qd7 10. Nf3 O-O-O 11. O-O Bg4 12. c5 Nd5 13. Nxd5 Qxd5 14. b4 Qe4 15.
+Qb3 Nxd4 16. Nxd4 Bxe2 17. Nxe2 Rd3 18. Qa4 Qxe3+ 19. Kh1 Qxe2 20. Qxa7 Rd2 21.
+Qa8+ Kd7 22. Qxb7 Be7 23. Rae1 Qd3 24. c6+ Ke8 25. Qxc7 Qd5 26. Rf3 Rd1 27.
+Rff1 Rd2 28. Rg1 Bd8 29. Qc8 Ke7 30. c7 Qd7 31. cxd8=Q+ Rxd8 32. Qxd7+ R8xd7
+33. Ra1 Rb2 34. Rgb1 Rdd2 35. Rxb2 Rxb2 36. a3 f5 37. exf6+ gxf6 38. Kg1 e5 39.
+Rc1 e4 40. Rc7+ Kd6 41. Rxh7 e3 42. Kf1 f5 43. g3 Kd5 44. Rh4 Ra2 45. b5 Kc5
+46. a4 Kb6 47. Rf4 Rxh2 48. Rxf5 Ra2 49. Rf4 e2+ 50. Ke1 Ra3 51. g4 Re3 52. g5
+Ka5 53. Rf5 1-0

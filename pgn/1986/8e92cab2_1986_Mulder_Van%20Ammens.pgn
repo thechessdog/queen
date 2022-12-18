@@ -1,0 +1,19 @@
+[Event "corr NBC/86"]
+[Site "corr NBC/86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mulder, B."]
+[Black "Van Ammens, P."]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Nd7 system"]
+[HashCode "8e92cab2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nbd7
+8. a4 Nc5 9. Bf3 Be7 10. b4 Ncd7 11. a5 O-O 12. Rb1 Ne5 13. g4 Nxf3+ 14.
+Qxf3 Qc7 15. g5 Ng4 16. Rb3 Ne5 17. Qh5 Qc4 18. Bb2 Qxd4 19. Nd5 Qxe4 20.
+Nxe7+ Kh8 21. f4 Bd7 22. fxe5 dxe5 23. Bxe5 Bc6 24. Bxg7+ Kxg7 25. Qh6+ Kh8
+26. Qf6# 1-0
+

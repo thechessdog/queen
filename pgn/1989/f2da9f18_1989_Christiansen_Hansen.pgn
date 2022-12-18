@@ -1,0 +1,17 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Christiansen, Allan Nordstrand"]
+[Black "Hansen, Jens"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "f2da9f18"]
+[Epoch "Queen"]
+[WhiteID "1416014"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c5 7. Rc1 cxd4 8. exd4
+Nc6 9. Bd3 Nb4 10. Bb1 dxc4 11. O-O Nbd5 12. Be5 a6 13. a4 Nxc3 14. Rxc3 b5 15.
+Ng5 g6 16. Rh3 h5 17. Rxh5 Nxh5 18. Qxh5 gxh5 19. Bh7# 1-0

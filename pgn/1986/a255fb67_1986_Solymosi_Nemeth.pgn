@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Solymosi, I."]
+[Black "Nemeth"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a255fb67"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8.
+c4 Qd7 9. Qe2 cxd4 10. Ne5 Qd8 11. Nd2 Bd7 12. f4 a5 13. g4 g6 14. Ndf3 Nc6
+15. f5 exf5 16. gxf5 Nh5 17. Qg2 Bf6 18. fxg6 Bxe5 19. gxf7+ Kh8 20. Nxe5
+Nxe5 21. Qe4 Rg8+ 22. fxg8=Q+ Qxg8+ 23. Kf2 Ng4+ 24. Kg1 Ne5+ 25. Kf2 Re8
+26. Qxd4 Qg7 27. Qc3 Qf6+ 28. Ke2 Nf3+ 29. Be3 Nf4+ 30. Kxf3 Bc6+ 31. Kf2
+Re5 32. Ke1 Rxe3+ 33. Kd2 Rxd3+ 34. Qxd3 Qxb2+ 35. Qc2 0-1
+

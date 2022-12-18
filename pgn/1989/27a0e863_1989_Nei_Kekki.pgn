@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1989.01.01"]
+[Round "11"]
+[White "Nei, Iivo"]
+[Black "Kekki, Petri"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "27a0e863"]
+[Epoch "Queen"]
+[WhiteID "4500059"]
+[WhiteCountry "EST"]
+[BlackID "500348"]
+[BlackCountry "FIN"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. Nf3 Bg7 5. e3 O-O 6. Be2 c6 7. O-O e6 8. Bd2 b6
+9. b4 Bb7 10. Rb1 Nbd7 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "Holon"]
+[Site "Holon"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Birnboim, Nathan"]
+[Black "Gutkin, Boris"]
+[Result "1-0"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[HashCode "2d9e1c92"]
+[Epoch "Queen"]
+[WhiteID "2800209"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. O-O d5 7. Nbd2 Ne4 8. b3
+c5 9. Bb2 Nxd2 10. Qxd2 dxc4 11. bxc4 cxd4 12. Nxd4 e5 13. Nb3 Qxd2 14. Nxd2
+Nc6 15. Ne4 Rd8 16. c5 Be6 17. Nd6 Rab8 18. Bc3 Nd4 19. Bxd4 exd4 20. Nxb7 Rdc8
+21. c6 Bf8 22. Rad1 Bc4 23. Rxd4 Bxe2 24. Rb1 a6 25. a4 a5 26. Re1 Ba6 27. Rd7
+Bc4 28. c7 Ra8 29. Nd6 1-0

@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kabisch, G."]
+[Black "Behr, H."]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "fb54928b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. Qc2 cxd4
+8. cxd4 dxc4 9. Qxc4 Nc6 10. Bb2 Nd5 11. Qd3 Qa5+ 12. Qd2 Qxd2+ 13. Kxd2
+O-O 14. e4 Nb6 15. Bd3 Na5 16. Re1 Nbc4+ 17. Bxc4 Nxc4+ 18. Kc3 b5 19. Ne2
+Bd7 20. Rc1 Rfc8 21. Kb3 a5 22. Rc2 a4+ 23. Ka2 Nxa3 24. Rxc8+ Rxc8 25.
+Bxa3 Rc2+ 26. Kb1 Rxe2 27. Rc1 Rd2 28. Rc7 Rd1+ 29. Kc2 Rxd4 30. Kc3 e5 31.
+Bc5 Rc4+ 32. Kb2 f6 33. Bb6 Rb4+ 34. Kc3 Rb3+ 35. Kc2 Be6 36. Rc3 b4 37.
+Rxb3 Bxb3+ 38. Kb2 Bc4 39. Bc5 b3 40. g3 g5 41. Kc3 Be2 42. Ba3 Bxf3 43.
+Kd3 Kf7 44. Ke3 Bg4 45. Kd3 f5 46. exf5 Bxf5+ 47. Ke3 Ke6 48. h4 gxh4 49.
+gxh4 h5 50. Bc1 Kd5 51. Bb2 Kc4 0-1
+

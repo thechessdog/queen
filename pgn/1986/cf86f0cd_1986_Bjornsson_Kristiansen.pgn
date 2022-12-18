@@ -1,0 +1,22 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Bjornsson, Tomas"]
+[Black "Kristiansen, Jens"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "cf86f0cd"]
+[Epoch "Queen"]
+[WhiteID "2300303"]
+[BlackID "1400061"]
+[WhiteCountry "ISL"]
+[BlackCountry "DEN"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. Be2 Bg7 6. c4 Nb6 7. h3 O-O 8. Nc3
+Nc6 9. Be3 e5 10. d5 Ne7 11. Qd2 Nf5 12. Bc5 Re8 13. Ne4 Nd4 14. O-O-O f5 15.
+Nxd4 exd4 16. Ng3 Qh4 17. Kb1 f4 18. Nf1 Bf5+ 19. Ka1 Qxf2 20. Bf3 Qxd2 21.
+Nxd2 Nd7 22. Ba3 Re3 23. b3 a5 24. Bb2 a4 25. bxa4 Rxa4 26. Nf1 Nc5 27. a3
+Rexa3+ 28. Bxa3 Rxa3+ 29. Kb2 Rb3+ 30. Ka2 Bc2 31. Nd2 Rb4 0-1

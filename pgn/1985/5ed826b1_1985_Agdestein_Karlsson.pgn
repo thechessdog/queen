@@ -1,0 +1,22 @@
+[Event "Nordic-chT"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Agdestein, Espen"]
+[Black "Karlsson, Lars"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "5ed826b1"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+[WhiteID "1500201"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 b6 6. e4 d5 7. e5 Ne4 8. Bd3
+Bb7 9. O-O Bxc3 10. bxc3 c5 11. cxd5 exd5 12. Nd2 f5 13. f3 Nxd2 14. Bxd2 Bc8
+15. c4 Be6 16. dxc5 dxc4 17. Be2 Qd4+ 18. Kh1 Qxc5 19. Rfc1 Nc6 20. Bxc4 Bxc4
+21. Qxc4+ Qxc4 22. Rxc4 Nxe5 23. Rc2 Rac8 24. Rac1 Rxc2 25. Rxc2 Rd8 26. Kg1 b5
+27. Bc3 Rc8 0-1

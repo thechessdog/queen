@@ -1,0 +1,18 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Armas, A."]
+[Black "Panchenko, A."]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "81d59f25"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 e5 8. d5 c6
+9. Bd3 cxd5 10. cxd5 Bc5 11. Nf3 Bg4 12. Bb5+ Nbd7 13. Bg5 Qb6 14. Qd3 a6 15.
+Bxd7+ Nxd7 16. b4 Bf2+ 17. Kf1 O-O 18. Nd1 Bd4 19. Be3 f5 20. Bxd4 exd4 21. Nf2
+Bxf3 22. Qxf3 fxe4 23. Qxe4 Rae8 0-1

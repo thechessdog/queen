@@ -1,0 +1,22 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sabas, Jorge"]
+[Black "Soppe, Guillermo"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "9dbf2601"]
+[Epoch "Queen"]
+[WhiteID "101877"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8. a3
+dxc4 9. Bxc4 Bd6 10. e4 e5 11. d5 Ne7 12. Bg5 Ng6 13. h3 h6 14. Be3 Nh5 15. Re1
+Ngf4 16. Bf1 g5 17. g3 Nxh3+ 18. Bxh3 Bxh3 19. Nxg5 hxg5 20. Qxh5 g4 21. Bh6
+Qf6 22. Nd1 Rfe8 23. Ne3 Qg6 24. Qxg6+ fxg6 25. Bg5 b5 26. Rac1 Rf8 27. Rc6 Rf3
+28. Rec1 Kf8 29. Nd1 Rd3 30. Be3 Kg8 31. R6c3 Rxc3 32. Rxc3 a5 33. Rc6 Kf7 34.
+Bc5 Rd8 35. Nc3 b4 36. Nb5 bxa3 37. bxa3 Rb8 38. a4 Bxc5 39. Rxc5 Kf6 40. Rc6+
+Kg5 41. Rxc7 Ra8 42. Rc6 Rd8 43. Nd6 Rb8 44. Nf7+ Kh5 45. Re6 1-0

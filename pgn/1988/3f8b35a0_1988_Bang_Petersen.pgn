@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bang, E."]
+[Black "Petersen, Ernst"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "3f8b35a0"]
+[Epoch "Queen"]
+[BlackID "1272068"]
+[BlackCountry "GER"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nc3 O-O 7. d4 d6 8. d5 e5
+9. e4 Ne8 10. Ne1 f5 11. exf5 Rxf5 12. Nd3 Rf8 13. f4 Bc8 14. fxe5 Rxf1+ 15.
+Qxf1 dxe5 16. d6 Qxd6 17. Bxa8 Qd4+ 18. Qf2 Bc5 19. Ne4 Be6 20. Ndxc5 1-0

@@ -1,0 +1,17 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Vidal, L."]
+[Black "Arbeo, F."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "e6644fe3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Bd7 7. Be3 Nc6 8. f3
+e6 9. Qd2 Be7 10. O-O-O b5 11. g4 O-O 12. h4 b4 13. Nb1 Qa5 14. Bc4 Ne5 15. Bb3
+Ba4 16. h5 Bxb3 17. axb3 Rfc8 18. g5 Nfd7 19. Qg2 Nf8 20. f4 Nc6 21. Nxc6 Rxc6
+22. f5 exf5 23. exf5 Rac8 24. c4 bxc3 25. Nxc3 Rxc3+ 0-1

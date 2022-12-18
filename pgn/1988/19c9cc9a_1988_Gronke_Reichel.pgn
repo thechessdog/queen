@@ -1,0 +1,19 @@
+[Event "corr E Germany"]
+[Site "corr E Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gronke"]
+[Black "Reichel"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "19c9cc9a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Na3 Bg4 6. Bc4 Qe4+ 7. Qe2
+Bxf3 8. gxf3 Qxe2+ 9. Kxe2 e6 10. Rg1 O-O-O 11. b4 cxb4 12. cxb4 Nd4+ 13.
+Kd1 Nxf3 14. Rg3 Ne5 15. Bb3 Bxb4 16. Rxg7 Ne7 17. Nc2 Bc3 18. Rb1 Nf5 19.
+Rxf7 Nxf7 20. Bxe6+ Kb8 21. Bxf5 Ng5 22. d3 Rhg8 23. Rb3 Ba5 24. h4 Nf3 25.
+Bf4+ Bc7 26. Bxc7+ Kxc7 27. Be4 Nxh4 28. Rxb7+ Kd6 29. Rxh7 1-0
+

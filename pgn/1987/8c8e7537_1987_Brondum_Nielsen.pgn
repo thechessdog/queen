@@ -1,0 +1,18 @@
+[Event "Herlev"]
+[Site "Herlev"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brondum, Martin"]
+[Black "Nielsen, Poul Erik"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "8c8e7537"]
+[Epoch "Queen"]
+[WhiteID "1465791"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 O-O 7. O-O Re8 8. a3
+a5 9. Nc3 Ncxe5 10. Nxe5 Nxe5 11. Qc2 d6 12. Na4 Qh4 13. Nxc5 dxc5 14. g3 Qf6
+15. f4 Ng4 16. Bxg4 Bxg4 17. Bd2 Bf5 18. Qc3 Qxc3 19. Bxc3 1/2-1/2

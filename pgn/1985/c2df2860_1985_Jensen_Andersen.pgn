@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jensen, Jacob"]
+[Black "Andersen, Jens Knud"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "c2df2860"]
+[Epoch "Queen"]
+[WhiteID "1703404"]
+[BlackID "4616910"]
+[WhiteCountry "SWE"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 d6 8. e3
+Nbd7 9. b3 c5 10. Be2 O-O 11. O-O Qe7 12. Bb2 Ne4 13. Qc2 d5 14. Nd2 Nxd2 15.
+Qxd2 dxc4 16. Bxc4 Qg5 17. f4 Qg4 18. f5 exf5 19. d5 Rae8 20. Bd3 Qg5 21. Rf3
+f4 22. exf4 Qxd5 23. f5 Re4 24. Qh6 1-0

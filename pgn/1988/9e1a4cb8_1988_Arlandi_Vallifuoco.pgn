@@ -1,0 +1,20 @@
+[Event "Chianciano"]
+[Site "Chianciano"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Arlandi, Ennio"]
+[Black "Vallifuoco, Giacomo"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "9e1a4cb8"]
+[Epoch "Queen"]
+[WhiteID "800104"]
+[WhiteCountry "ITA"]
+[BlackID "800228"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4 8.
+Qa4+ Qd7 9. Qxc4 b6 10. Bg3 Nc6 11. e3 O-O 12. Be2 Bb7 13. O-O Na5 14. Qd3 c5
+15. Rfd1 cxd4 16. cxd4 Rac8 17. Rac1 Qa4 1/2-1/2

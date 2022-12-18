@@ -1,0 +1,21 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1988.07.01"]
+[Round "1"]
+[White "Vanheste, Jeroen"]
+[Black "Mednis, Edmar John"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "ebe9feb7"]
+[Epoch "Queen"]
+[WhiteID "1000438"]
+[WhiteCountry "NED"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 a6 6. O-O b5 7. Ne5 c6 8. a4 Bb7
+9. Nc3 Qc8 10. e4 Nbd7 11. Nxd7 Qxd7 12. e5 Nd5 13. Nxd5 cxd5 14. f4 b4 15. f5
+exf5 16. Bh3 g6 17. g4 fxg4 18. Bxg4 Qe7 19. Rf6 Bg7 20. Bg5 Qc7 21. Rd6 O-O
+22. Rd7 Qc6 23. Be7 Bc8 24. Rd6 Bxg4 25. Rxc6 Bxd1 26. Bxf8 Bxa4 27. Rxa4 Bxf8
+28. Raxa6 Rxa6 29. Rxa6 Bh6 30. Kf2 Bc1 31. b3 cxb3 32. Ra1 b2 33. Rb1 f6 0-1

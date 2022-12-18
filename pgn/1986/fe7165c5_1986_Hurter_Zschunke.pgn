@@ -1,0 +1,20 @@
+[Event "corr ch19-GER"]
+[Site "corr ch19-GER"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hurter"]
+[Black "Zschunke"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "fe7165c5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. a3 Rb8 13. f5 e5 14. Nde2
+b4 15. axb4 Rxb4 16. g5 Nxe4 17. Nxe4 Bb7 18. N2c3 Bxg5+ 19. Kb1 Qb6 20.
+Bb5+ axb5 21. Rhg1 Bd2 22. Rxg7 Bxc3 23. Nf6+ Ke7 24. Qxc3 Kxf6 25. Qxb4
+Kxg7 26. Qg4+ Kf8 27. f6 Ke8 28. Qg7 Rf8 29. Qxh7 Qc5 30. Rd3 Qg1+ 31. Ka2
+Rg8 0-1
+

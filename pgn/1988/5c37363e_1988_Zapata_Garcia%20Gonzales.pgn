@@ -1,0 +1,17 @@
+[Event "Capablanca mem-A"]
+[Site "Cienfuegos"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zapata, Alonso"]
+[Black "Garcia Gonzales, Guillermo"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "5c37363e"]
+[Epoch "Queen"]
+[WhiteID "4400011"]
+[WhiteCountry "COL"]
+[BlackCountry "CUB"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 c6 5. O-O d5 6. cxd5 cxd5 7. Nc3 Nc6 8. h3
+Ne4 1/2-1/2

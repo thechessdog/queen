@@ -1,0 +1,18 @@
+[Event "Bankia op"]
+[Site "Bankia"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Borulya, D."]
+[Black "Markov, Vesna"]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "921c5cef"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
+8. Qd2 exd5 9. Qe3+ Kf8 10. Qf4 Bf6 11. h4 h6 12. Nf3 Kg7 13. e3 c5 14. Bd3
+Nc6 15. O-O-O Be6 16. Bb1 Rc8 17. g4 cxd4 18. exd4 g5 19. hxg5 Bxg5 20.
+Nxg5 Qxg5 21. Qd2 Qxd2+ 22. Rxd2 b5 0-1
+

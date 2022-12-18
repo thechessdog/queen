@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Brynell, Stellan"]
+[Black "Lukin, Andrei M"]
+[Result "0-1"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "e4a65467"]
+[Epoch "Queen"]
+[WhiteID "1700219"]
+[WhiteCountry "SWE"]
+[BlackID "4101251"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. c3 a6 6. Bxc6 Bxc6 7. Re1 Nf6 8.
+d4 Bxe4 9. Bg5 d5 10. Nbd2 Bg6 11. c4 e6 12. cxd5 Qxd5 13. dxc5 Bxc5 14. Ne5
+O-O 15. Nxg6 hxg6 16. Bxf6 gxf6 17. Ne4 Bd4 18. Qa4 Kg7 19. Rad1 Rfd8 20. Rd2
+b5 21. Qa5 Qc6 22. Qb4 a5 23. Qb3 f5 24. Ng5 Bf6 25. Rxd8 Rxd8 26. Nf3 Qc5 27.
+Qe3 Qc2 28. Qb6 Qxb2 29. Qxa5 Rd3 30. Rf1 Ra3 31. Qc7 Rxa2 32. h4 Ra1 33. Rxa1
+Qxa1+ 34. Kh2 Qc3 35. Qb6 b4 0-1

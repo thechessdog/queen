@@ -1,0 +1,22 @@
+[Event "Elenite op"]
+[Site "Elenite"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Stefanov, Krasimir"]
+[Black "Bunis, Vassilis"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "2ab6477c"]
+[Epoch "Queen"]
+[WhiteID "2900319"]
+[BlackID "4203127"]
+[WhiteCountry "FID"]
+[BlackCountry "GRE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Be7 7. Bg2 a6 8. O-O
+Qc7 9. f4 Nc6 10. Nf3 O-O 11. Qe2 b5 12. e5 dxe5 13. fxe5 Nd7 14. Bf4 Bb7 15.
+Rae1 Bc5+ 16. Be3 Ncxe5 17. Nxe5 Bxg2 18. Kxg2 Qxe5 19. Qf3 Bxe3 20. Rxe3 Qc5
+21. Re2 Ne5 22. Qh5 Qc6+ 23. Kh3 f6 24. Re4 Nf7 25. Rb4 Ng5+ 26. Kg4 e5 27. h4
+g6 0-1

@@ -1,0 +1,21 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Shterenberg, Nava"]
+[Black "Ristoja, Aulikki"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "Goldman (Spielmann) variation"]
+[HashCode "cd79a2e6"]
+[Epoch "Queen"]
+[BlackID "511420"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 d4 4. Bc4 e6 5. Nce2 g6 6. d3 Bg7 7. h4 h5 8. Qg3 c5
+9. Nf3 Nc6 10. O-O Nge7 11. Nf4 O-O 12. a3 b6 13. Ng5 Qd6 14. Nxg6 Qxg3 15.
+Nxe7+ Nxe7 16. fxg3 Ng6 17. Bb3 Ne5 18. Bf4 Bd7 19. Rae1 b5 20. Bxe5 Bxe5 21.
+Kh2 Rac8 22. Rf2 c4 23. Ba2 Rc6 24. Ref1 f5 25. Nf3 Bg7 26. e5 Rc5 27. Re2 Rfc8
+28. dxc4 bxc4 29. Rd1 c3 30. b4 d3 31. Rxd3 Bb5 32. bxc5 Rxc5 33. Rd8+ Bf8 34.
+Re1 1-0

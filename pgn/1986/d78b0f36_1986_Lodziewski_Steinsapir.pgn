@@ -1,0 +1,18 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lodziewski"]
+[Black "Steinsapir"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "d78b0f36"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qe7 6. d4 exd4 7. Qxd4
+Bg4 8. Bf4 Bxf3 9. gxf3 Nf6 10. Nc3 Rc8 11. Rad1 Qc5 12. Bg3 Qxd4 13. Rxd4
+Bc5 14. Rd3 h5 15. Rfd1 Rh6 16. h3 h4 17. Bh2 Nh7 18. f4 f5 19. Kg2 Rd6 20.
+f3 Nf8 21. Rxd6 cxd6 22. Na4 g6 23. Nxc5 dxc5 24. Kf2 Ne6 25. Ke3 Rc7 0-1
+

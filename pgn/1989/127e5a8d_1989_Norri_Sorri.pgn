@@ -1,0 +1,23 @@
+[Event "Tampere SM"]
+[Site "Tampere SM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Norri, Joose"]
+[Black "Sorri, Kari Juhani"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "127e5a8d"]
+[Epoch "Queen"]
+[BlackID "500216"]
+[BlackCountry "FIN"]
+[WhiteID "500160"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 d5 4. exd5 Qh4+ 5. Ke2 Bg4+ 6. Nf3 Nf6 7. d4 Bb4 8.
+Kd3 Qh5 9. Qe1+ Kd8 10. Ne5 Nxd5 11. Nxg4 Qxg4 12. Qe4 c6 13. Nxd5 Re8 14. Qxf4
+Qg6+ 15. Kc4 cxd5+ 16. Kxb4 Qb6+ 17. Kc3 Nd7 18. Bd3 Nf6 19. Kd2 Ne4+ 20. Kd1
+Qxd4 21. Rf1 Rc8 22. Qe3 Qa4 23. Bxe4 Rxe4 24. Qb3 Qd7 25. Bd2 Rec4 26. Rc1 Ke8
+27. Qh3 Qxh3 28. gxh3 g6 29. Rf4 Re4 30. c3 f5 31. Rxe4+ dxe4 32. Ke2 a6 33.
+Bg5 Rc7 34. Rd1 Kf7 35. Bf4 Re7 36. Rd8 Ke6 37. Ke3 Rg7 38. h4 1-0

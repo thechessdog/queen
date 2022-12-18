@@ -1,0 +1,17 @@
+[Event "Efteraar"]
+[Site "Efteraar"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ostergaard, Bjarne"]
+[Black "Hansen, Borge"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "9eec53f8"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 h6 7. Nf4 Bh7 8. h4
+Be7 9. g5 hxg5 10. hxg5 Bxc2 11. Rxh8 Bxd1 12. Rxg8+ Bf8 13. Nxd1 Qb6 14.
+Be3 Qb4+ 15. Ke2 Nd7 16. g6 Qc4+ 17. Ke1 Qb4+ 18. Ke2 Qc4+ 19. Ke1 1/2-1/2
+

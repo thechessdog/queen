@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kratsch, D."]
+[Black "Fengler, G."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "084bf35c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nd5
+8. N1f3 Qa5+ 9. Bd2 Bb4 10. c3 Be7 11. Bd3 N5f6 12. O-O Qd8 13. Nxf7 Kxf7
+14. Ng5+ Ke8 15. Nxe6 Qb6 16. Nxg7+ Kf8 17. Rae1 1-0
+

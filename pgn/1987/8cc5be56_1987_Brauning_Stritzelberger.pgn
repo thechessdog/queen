@@ -1,0 +1,19 @@
+[Event "Urach"]
+[Site "Urach"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brauning"]
+[Black "Stritzelberger"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "8cc5be56"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 cxd4 7. cxd4 Nc6 8.
+Ngf3 Qb6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Nf3 Qg4 12. h3 Qh5 13. Qa4 f6 14.
+Bf4 f5 15. Rac1 h6 16. Bb5 Qf7 17. Rc7 Kd8 18. Rfc1 g5 19. Nxg5 hxg5 20.
+Bxg5+ Be7 21. Bxd7 Bxg5 22. Rxc8+ Rxc8 23. Rxc8+ Ke7 24. Qb4+ Kxd7 25.
+Qxb7# 1-0
+

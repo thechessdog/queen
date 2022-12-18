@@ -1,0 +1,22 @@
+[Event "Moscow1"]
+[Site "Moscow"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Zaitsev, Igor A"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "3cd70919"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "4103017"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Bc4 Nf6 5. Nc3 a6 6. d4 b5 7. Bb3 Bd6 8. Qe2+
+Kf8 9. Nf3 Bg4 10. Ne4 Nxe4 11. Qxe4 Bxf3 12. Qxf3 Qf6 13. c3 Nd7 14. O-O g5
+15. g3 Rg8 16. gxf4 gxf4+ 17. Kh1 Qg6 18. Bd2 Nf6 19. Rg1 Ng4 20. Raf1 Re8 21.
+Bxf4 Bxf4 22. Qxf4 Re4 23. Qxf7+ Qxf7 24. Rxf7+ Kxf7 25. d6+ Re6 26. Rf1+ Nf6
+27. Re1 1-0

@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mikhalchishin, Adrian"]
+[Black "Ulybin, Mikhail"]
+[Result "0-1"]
+[ECO "A32"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "4f6ddd05"]
+[Epoch "Queen"]
+[WhiteID "14602385"]
+[WhiteCountry "SLO"]
+[BlackID "4101405"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3 d5 6. Bg2 e5 7. Nc2 d4 8. f4
+Nc6 9. Bxc6+ bxc6 10. fxe5 Qa5+ 11. Qd2 Qxe5 12. Qxd4 Qh5 13. Qe3+ Be6 14. b3
+Bd6 15. Nd4 O-O 16. Nxe6 fxe6 17. Qxe6+ Kh8 18. Qxd6 Ne4 19. Qxc6 Rae8 20. Be3
+Qe5 21. Bf4 Qxa1 22. O-O Qxa2 23. Qa4 Qxe2 24. Qxa7 Ng5 25. Nd2 Nh3+ 26. Kh1
+Nxf4 0-1

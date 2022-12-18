@@ -1,0 +1,15 @@
+[Event "corr Czerniak mem"]
+[Site "corr Czerniak mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Muller, M."]
+[Black "Rosiek, R."]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Blumenfeld counter-gambit, Dus-Chotimursky variation"]
+[HashCode "533631d5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 bxc4 6. e4 exd5 7. e5 h6 8.
+exf6 hxg5 9. Qxd5 Nc6 10. Qe4+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Yurmala"]
+[Site "Yurmala"]
+[Date "1985.01.01"]
+[Round "12"]
+[White "Bagirov, Vladimir"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "36de957f"]
+[Epoch "Queen"]
+[BlackID "200930"]
+[BlackCountry "BEL"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O d5 6. Ne5 Nbd7 7. f4 Bd6 8. Nd2
+a6 9. b3 Qe7 10. Bb2 Ne4 11. Nxe4 dxe4 12. Be2 Nxe5 13. fxe5 Ba3 14. Bxa3 Qxa3
+15. Qc1 Qxc1 16. Raxc1 Ke7 17. c3 Rac8 18. Rfd1 Rhd8 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hauchard, Arnaud"]
+[Black "Collard, Olivier"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "0b0bd6d2"]
+[Epoch "Queen"]
+[WhiteID "600113"]
+[WhiteCountry "FRA"]
+[BlackID "602345"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+h5 9. Bd3 Nb6 10. Ne2 Bd7 11. O-O g6 12. a3 a5 13. h3 a4 14. g4 hxg4 15. hxg4
+Na7 16. Nc3 Bc6 17. Kf2 Qd7 18. f5 gxf5 19. gxf5 O-O-O 20. Rh1 Rxh1 21. Qxh1
+Nb5 22. Bg5 Nxc3 23. Bxd8 Ne4+ 24. Bxe4 dxe4 25. Bxb6 exf3 26. Qh8 Qe8 27. Rg1
+1-0

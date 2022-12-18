@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schimkus, GP."]
+[Black "Meistrenko, VV."]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[HashCode "239b9c36"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. g3 Be7 6. Bg2 O-O 7. Nf3 Bf5
+8. O-O c6 9. Bf4 Qb6 10. Na4 Qb5 11. Re1 Nbd7 12. a3 Nb6 13. Bd2 Qxa4 14.
+b3 Qa6 15. e4 Bg4 0-1
+

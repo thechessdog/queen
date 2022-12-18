@@ -1,0 +1,20 @@
+[Event "Buenos Aires Konex"]
+[Site "Buenos Aires Konex"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Slipak, Sergio"]
+[Black "Tempone, Marcelo"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "dfb52798"]
+[Epoch "Queen"]
+[WhiteID "100250"]
+[WhiteCountry "ARG"]
+[BlackID "100269"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6 8.
+Ba4 d6 9. dxe5 dxe5 10. Qxd8+ Bxd8 11. Nd2 Nf6 12. Re1 Nd7 13. Bc2 Bc7 14. a4
+Nf8 15. Nc4 Be6 16. Ne3 O-O-O 1/2-1/2

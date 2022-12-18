@@ -1,0 +1,19 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Shoup"]
+[Black "Schoenberger"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "255c5b14"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. h3 Nd4 10. Ne2 Nxe2+ 11. Qxe2 Rb8 12. c3 b6 13. Be3 Ba6 14. Qc2
+Qd7 15. Rfd1 f5 16. e5 d5 17. Bf2 Rfc8 18. c4 d4 19. a3 b5 20. b3 bxc4 21.
+bxc4 Rb6 22. Rab1 Rcb8 23. Nd2 Rxb1 24. Rxb1 Rxb1+ 25. Qxb1 Qc7 26. Qb3 Bc8
+27. Qb5 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sorensen, Torben"]
+[Black "Jacobsen, Bo"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "802d936c"]
+[Epoch "Queen"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+[WhiteID "1463357"]
+[WhiteCountry "DEN"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 Be7 7. O-O-O+
+Nbd7 8. f4 Ng4 9. Nh3 c6 10. Be2 Ne3 11. Rd3 Nxg2 12. fxe5 f6 13. e6 1-0

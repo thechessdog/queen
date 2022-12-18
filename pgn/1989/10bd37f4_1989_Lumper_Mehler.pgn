@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lumper, Thomas"]
+[Black "Mehler, G."]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English opening"]
+[HashCode "10bd37f4"]
+[Epoch "Queen"]
+[WhiteID "4602560"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. d4 cxd4 7. Qxd4 Nc6 8. Qd1
+Be7 9. O-O O-O 10. Bf4 Na5 11. b3 d5 12. Ne5 Qc8 13. Rc1 dxc4 14. Bxb7 Qxb7 15.
+bxc4 Rac8 16. Qa4 Rc5 17. Rfd1 g5 0-1

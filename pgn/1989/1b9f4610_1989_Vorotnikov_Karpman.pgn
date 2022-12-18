@@ -1,0 +1,25 @@
+[Event "GMA-qual"]
+[Site "Belgorod open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vorotnikov, Vladislav V"]
+[Black "Karpman, Vadim"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "1b9f4610"]
+[Epoch "Queen"]
+[WhiteID "4103009"]
+[WhiteCountry "RUS"]
+[BlackID "14100169"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nbd7 5. Be3 e5 6. Nh3 cxd4 7. cxd4 d5 8. Nf2
+exd4 9. Bxd4 dxe4 10. fxe4 Bc5 11. Nc3 O-O 12. Bxc5 Nxc5 13. Qxd8 Rxd8 14. Bc4
+Be6 15. Bxe6 Nxe6 16. Rd1 Rxd1+ 17. Kxd1 Rd8+ 18. Ke2 Nf4+ 19. Kf3 Nd3 20. Nxd3
+Rxd3+ 21. Ke2 Rd7 22. Rd1 Kf8 23. Rxd7 Nxd7 24. Ke3 Ke7 25. Kd4 a6 26. a4 Ke6
+27. b4 f6 28. Nd5 Kd6 29. Ne3 Ke6 30. Nc4 h5 31. Na5 b6 32. Nc4 g5 33. a5 b5
+34. Ne3 Kd6 35. Nf5+ Kc6 36. Ng7 h4 37. Ne8 g4 38. Ke3 h3 39. g3 Ne5 40. Nxf6
+Kd6 41. Kf4 Nd3+ 42. Kf5 Nxb4 43. e5+ Ke7 44. Nxg4 Nc6 45. Nf2 b4 46. Ke4 b3
+47. Kd3 Nxa5 48. Kc3 Nc4 49. Kxb3 Nxe5 50. Nxh3 Ng4 1/2-1/2

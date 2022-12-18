@@ -1,0 +1,21 @@
+[Event "SMB-Groningen"]
+[Site "SMB-Groningen"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Hoeksema, E."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "218c00af"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. O-O dxe4 6. Nxe5 Qf6 7. d4 exd3 8.
+Nxc6 bxc6 9. Bxd3 Bf5 10. Bxf5 Qxf5 11. Nd2 Ne7 12. Qf3 O-O-O 13. Qxf5+ Nxf5
+14. Nb3 Bb6 15. Bf4 f6 16. Rad1 h5 17. Rxd8+ Rxd8 18. Re1 g5 19. Bc1 Rd6 20.
+Kf1 Kd7 21. Nd2 Nh6 22. Ne4 Re6 23. h4 Ng4 24. hxg5 f5 25. Nf6+ Nxf6 26. Rxe6
+Kxe6 27. gxf6 Kxf6 28. Bf4 Ke6 29. Ke2 Kd5 30. b3 Ke4 31. Bg3 f4 32. f3+ Ke5
+33. Bh4 c5 34. Kd3 Kd5 35. Bg5 c4+ 36. bxc4+ Ke5 37. Bd8 c5 38. Be7 a6 39. a4
+a5 40. Ke2 Ke6 41. Bf8 Kf6 42. Bd6 Kg5 43. Kf2 Kf5 44. Kf1 Kg5 45. Ke2 Kf5 46.
+Kd3 1-0

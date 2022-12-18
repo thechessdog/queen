@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pocero"]
+[Black "Martinez, Gustavo"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "97bf407d"]
+[Epoch "Queen"]
+[BlackID "3300072"]
+[BlackCountry "BOL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 Ba6 6. Qc2 Qe7 7. Nc3 Bxc4 8. Bg5
+exd5 9. e4 h6 10. Bxf6 Qxf6 11. exd5 Bxf1 12. Kxf1 Kd8 13. Re1 g5 14. Qe4 Bg7
+15. h4 g4 16. Qxg4 Qg6 17. Qc4 f5 18. Rh3 Qg4 19. Qd3 f4 20. Re4 Qg6 21. h5 Qf7
+22. Rh4 Re8 23. Rexf4 Qe7 24. Qg6 Bxc3 25. Re4 Qf8 26. Rhf4 Qh8 27. Rxe8+ Qxe8
+28. bxc3 Qh8 29. Qd6 1-0

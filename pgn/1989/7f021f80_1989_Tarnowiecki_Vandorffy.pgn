@@ -1,0 +1,19 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tarnowiecki"]
+[Black "Vandorffy"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "e3, Huebner variation"]
+[HashCode "7f021f80"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
+8. Nd2 e5 9. O-O O-O 10. Nb3 e4 11. Bc2 b6 12. f3 Ba6 13. fxe4 Bxc4 14. Rf4
+Rc8 15. Qf3 Be6 16. g4 Ne7 17. Rxf6 gxf6 18. Bd2 Kg7 19. Be1 Rg8 20. Bg3
+Ng6 21. Rf1 cxd4 22. exd4 d5 23. Nd2 Re8 24. Ba4 Rg8 25. Bb3 Qd7 26. exd5
+1-0
+

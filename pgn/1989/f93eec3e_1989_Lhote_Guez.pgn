@@ -1,0 +1,18 @@
+[Event "Parijs open I"]
+[Site "Parijs open I"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lhote, T."]
+[Black "Guez, Fabien"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "f93eec3e"]
+[Epoch "Queen"]
+[BlackID "613223"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bxd2+ 7. Qxd2 Ne7 8.
+Nd6+ Kf8 9. Bd3 Nbc6 10. Qf4 Qa5+ 11. Ke2 Nf5 12. Nxf5 exf5 13. Nf3 Bd7 14.
+Rhe1 Re8 15. Kf1 h6 16. e6 Rxe6 17. Bxf5 Rf6 18. Bxd7 Qd8 19. Qc7 1-0

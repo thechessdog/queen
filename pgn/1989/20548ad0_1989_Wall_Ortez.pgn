@@ -1,0 +1,15 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Ortez, V."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "20548ad0"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Bd6 3. Bc4 Qf6 4. Nf3 Qxf4 5. O-O Bc5+ 6. d4 Bxd4+ 7. Nxd4 Qxe4
+8. Bxf7+ Ke7 9. Nf5+ Kf8 10. Bxg8 Kxg8 11. Ne7# 1-0

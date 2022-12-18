@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Zschaebitz, Klaus"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "c23212a4"]
+[Epoch "Queen"]
+[BlackID "4602870"]
+[BlackCountry "GER"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Bg5 f6 9. Be3 O-O 10. Qd2 e5 11. d5 Nd4 12. Bc4 Nef5 13. Nxe4 b5 14. Ba2 Bb7
+15. Nc3 Kh8 16. O-O Qe8 17. f3 Nxe3 0-1

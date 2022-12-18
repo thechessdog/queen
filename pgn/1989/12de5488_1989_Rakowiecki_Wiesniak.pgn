@@ -1,0 +1,19 @@
+[Event "Warsaw op"]
+[Site "Warsaw"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rakowiecki, Tomasz"]
+[Black "Wiesniak, Tadeusz"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "12de5488"]
+[Epoch "Queen"]
+[WhiteID "1100955"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Qf3 Qc7 8. Bd3
+b6 9. Be3 Bb7 10. g4 h6 11. O-O-O Nbd7 12. Rhf1 O-O-O 13. g5 hxg5 14. fxg5 Ne5
+15. Qe2 Nfg4 16. Bg1 Nxd3+ 17. cxd3 Ne5 18. Kb1 Kb8 19. Rc1 Qd7 20. Nf3 b5 21.
+Nxe5 dxe5 22. Qf2 Qxd3+ 23. Ka1 Rd4 24. Qxf7 Bd6 25. Qxe6 Qc4 26. Nd5 1-0

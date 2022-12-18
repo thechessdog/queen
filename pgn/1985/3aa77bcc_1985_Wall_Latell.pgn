@@ -1,0 +1,17 @@
+[Event "Palo Alto,CA"]
+[Site "Palo Alto,CA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Latell, John"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "3aa77bcc"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nxd4 6. Nxe5 Nxb5 7. Qd5 Nbd6
+8. Re1 Nf6 9. Nxf7+ Be7 10. Nxd6+ cxd6 11. Qxd6 Kf8 12. Qf4 Qb6 13. Nc3 Ke8 14.
+Be3 Qa5 15. b4 Bxb4 16. Bb6+ 1-0

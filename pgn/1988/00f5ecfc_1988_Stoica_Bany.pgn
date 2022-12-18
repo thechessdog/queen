@@ -1,0 +1,19 @@
+[Event "Istanbul"]
+[Site "Istanbul"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stoica, Valentin"]
+[Black "Bany, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "00f5ecfc"]
+[Epoch "Queen"]
+[WhiteID "1200070"]
+[WhiteCountry "ROU"]
+[BlackID "1100084"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. f4 Nf5 7. Nf3 Nc6 8. dxc5
+Bxc5 9. Bd3 a6 10. Qe2 Ncd4 11. Nxd4 Nxd4 12. Qh5 Bd7 1/2-1/2

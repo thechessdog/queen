@@ -1,0 +1,23 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Waldschlaeger, Juergen"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "8cf6873d"]
+[Epoch "Queen"]
+[BlackID "4631145"]
+[BlackCountry "GER"]
+[WhiteID "4600436"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+f5 9. Bd3 Be7 10. Ne2 Nb6 11. O-O O-O 12. h3 Bd7 13. g4 g6 14. Rf2 Kh8 15. Rg2
+Rg8 16. a3 Rc8 17. b3 Qf8 18. g5 a5 19. a4 Nb4 20. Bb1 Rc7 21. h4 Qa8 22. Bd2
+Kg7 23. h5 Nc8 24. Rh2 Na7 25. Bxb4 Bxb4 26. Bd3 b5 27. Kg2 Rcc8 28. Qh1 Rh8
+29. Rh3 bxa4 30. bxa4 Rcf8 31. Qh2 Nc8 32. Rh1 Be8 33. hxg6 Bxg6 34. Nh4 h5 35.
+Nxg6 1-0

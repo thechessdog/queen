@@ -1,0 +1,28 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bosboom, Manuel"]
+[Black "Peek, Marcel"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "064b8e04"]
+[Epoch "Queen"]
+[BlackID "1000462"]
+[BlackCountry "NED"]
+[WhiteID "1000080"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8. hxg5
+c5 9. dxc5 Nxe5 10. Qg3 Nbc6 11. O-O-O Bd7 12. f4 Ng6 13. f5 Nge7 14. fxe6 Bxe6
+15. Nf3 Qa5 16. g6 Nxg6 17. Ng5 O-O-O 18. Nxe6 fxe6 19. Qg4 Qxc5 20. Qxe6+ Kb8
+21. Rxd5 Rxd5 22. Qxd5 Qe7 23. Qd2 Rd8 24. Bd3 h6 25. Qf2 Nge5 26. Be4 Rf8 27.
+Qe1 Qc5 28. Bd5 Qf2 29. a3 Qxe1+ 30. Rxe1 Kc7 31. b4 Rf2 32. Re4 Rxg2 33. Kb2
+Rg5 34. Rf4 Ne7 35. Bb3 Rg4 36. Rf8 Rg2 37. a4 Rg4 38. b5 axb5 39. axb5 h5 40.
+Re8 Kd7 41. Rb8 Kc7 42. Re8 N5g6 43. Be6 Rf4 44. Kb3 Rf8 45. Rxf8 Nxf8 46. Bc4
+Nd7 47. Ne4 Nf5 48. Bf1 Ne5 49. c4 Ne3 50. Be2 h4 51. Ng5 Kd6 52. Kc3 b6 53.
+Kd4 Nf5+ 54. Kc3 Ng3 55. Bd1 Kc5 56. Ne6+ Kd6 57. Ng5 Ng6 58. Kd4 Nf5+ 59. Ke4
+Ng3+ 60. Kd4 Nf4 61. Bg4 Nfe2+ 62. Ke3 Nc1 63. Nf3 Kc5 64. Nxh4 Kxc4 65. Bd7
+Nh5 1/2-1/2

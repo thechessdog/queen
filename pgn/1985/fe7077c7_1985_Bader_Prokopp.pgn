@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bader, H."]
+[Black "Prokopp, H."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "fe7077c7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6
+8. a4 Qa5 9. Bd2 Bd7 10. Be2 c4 11. O-O f6 12. exf6 gxf6 13. Nh4 O-O-O 14.
+Bh5 Rdg8 15. g3 Nd8 16. Qf3 f5 17. Qe2 Ng6 18. Nf3 Nf7 19. Ng5 Nxg5 20.
+Bxg5 h6 21. Bd2 Rh7 22. Bxg6 Rxg6 23. Bf4 Bc6 24. Qe5 Kd7 25. Rfe1 Re7 26.
+h4 Qxc3 27. Kg2 Ke8 28. Qb8+ Kf7 29. Qh8 e5 30. Rxe5 Rxe5 31. Bxe5 Re6 32.
+Qh7+ Ke8 33. Qxf5 Ke7 34. Rb1 Qa5 35. g4 Qd8 36. g5 hxg5 37. hxg5 Qf8 38.
+Bd6+ 1-0
+

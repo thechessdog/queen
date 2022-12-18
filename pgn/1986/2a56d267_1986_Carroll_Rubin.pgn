@@ -1,0 +1,17 @@
+[Event "Lubbock,TX"]
+[Site "Lubbock,TX"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Carroll, Timothy"]
+[Black "Rubin, Scott"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "2a56d267"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 cxd4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nf3 exd5
+8. Bxf6 Bxf6 9. Qe3+ Be7 10. O-O-O Be6 11. Bc4 d4 12. Rxd4 Qb6 13. Bxe6
+fxe6 14. Re1 Bc5 15. Qxe6+ Qxe6 16. Rxe6+ Kf7 17. Ng5+ Kf8 18. Rd8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Moeller, HJ."]
+[Black "Ivanov, H."]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "a71a0683"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Qe2 e6 7. c3 Nc6
+8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Be3 Be7 12. Ne1 h6 13. f3 Ng5 14. Nd3
+O-O 15. Nc3 f6 16. f4 Nh7 17. Qg4 f5 18. Qh3 Nb4 19. Nxb4 Bxb4 20. Rf3 Bxc3
+21. bxc3 Rac8 22. Rc1 Qf7 23. g4 fxg4 24. Qxg4 Qf5 25. Rg3 Qxg4 26. Rxg4
+Rf5 27. Kh1 Nf8 28. Rcg1 Rc7 29. Bd2 Rcf7 30. Bc1 Rc7 1/2-1/2
+

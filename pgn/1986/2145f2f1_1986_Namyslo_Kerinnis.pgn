@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Namyslo, H."]
+[Black "Kerinnis"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "2145f2f1"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 e6 5. Nf3 Ne7 6. Be2 a6 7. a4 b6 8. d5
+e5 9. O-O Nd7 10. fxe5 Nxe5 11. Nxe5 dxe5 12. b3 Bb7 13. Ba3 Nc8 14. a5 Nd6
+15. Qd3 b5 16. Bg4 O-O 17. Rad1 Bc8 18. Bxc8 Rxc8 19. Ne2 f5 20. exf5 gxf5
+21. c4 Rf7 22. Bxd6 bxc4 23. bxc4 cxd6 24. Rxf5 Rxf5 25. Qxf5 Rxc4 26. Ng3
+Qc8 27. Qe6+ Kh8 28. Ne4 h6 29. Qxc8+ Rxc8 30. Nxd6 Rb8 31. Rc1 Rb2 32. Nf5
+Bf6 33. Rc6 Bg5 34. h4 Bd2 35. d6 Bxa5 36. Rxa6 Bb6+ 37. Kh2 1-0
+

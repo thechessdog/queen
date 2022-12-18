@@ -1,0 +1,18 @@
+[Event "corr ch11-ARG"]
+[Site "corr ch11-ARG"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pesolano, Norberto"]
+[Black "Taiana, Domingo"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "8c0392eb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. Qc2 Ne5 12. a4 g5 13. h3 a6 14. Ra3 g4
+15. hxg4 Bxg4 16. f3 Bh5 17. Re1 Qe7 18. Nf1 Bg6 19. Ne3 Nh5 20. Ng4 Qh4
+21. Qd2 Nxg4 0-1
+

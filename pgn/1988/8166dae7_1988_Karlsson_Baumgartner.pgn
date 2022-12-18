@@ -1,0 +1,19 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Karlsson, Lars"]
+[Black "Baumgartner"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "8166dae7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Rg1
+Be7 9. Be3 a6 10. Qd2 O-O 11. h4 Nxd4 12. Qxd4 b5 13. O-O-O Ne5 14. Rg3 Ng4 15.
+Kb1 Nxe3 16. Qxe3 Bd7 17. Bd3 b4 18. Ne2 Qc7 19. f4 Rfe8 20. f5 Bb5 21. f6 Bxd3
+22. Qxd3 Bf8 23. fxg7 Bxg7 24. g6 hxg6 25. h5 Qc5 26. hxg6 Qe5 27. gxf7+ Kxf7
+28. Nd4 Ra7 29. Qb3 Bf6 30. Nf5 Rh8 31. Rf3 d5 32. Ne3 Qxe4 33. Rdf1 Rh6 34.
+Ng4 1-0

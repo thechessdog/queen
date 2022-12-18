@@ -1,0 +1,18 @@
+[Event "corr AUS"]
+[Site "corr AUS"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "White"]
+[Black "Davies"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "9e871893"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 e5 6. d5 a5 7. Nf3 Na6 8. h3
+O-O 9. O-O Bd7 10. Be3 Nc5 11. Ne2 Nfxe4 12. Qc2 f5 13. a3 Ba4 14. Qb1 Qe7
+15. b4 Nxd3 16. Qxd3 Nxf2 17. Bxf2 e4 18. Qe3 Bxa1 19. Rxa1 f4 20. Qd2 exf3
+21. gxf3 Rae8 22. Re1 Bd7 23. Nxf4 Qg5+ 24. Kh1 Rxe1+ 25. Bxe1 Qxf4 0-1
+

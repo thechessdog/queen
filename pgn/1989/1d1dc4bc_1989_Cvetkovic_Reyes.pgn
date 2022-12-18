@@ -1,0 +1,19 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1989.04.01"]
+[Round "1"]
+[White "Cvetkovic, Srdjan"]
+[Black "Reyes, Juan"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "1d1dc4bc"]
+[Epoch "Queen"]
+[WhiteID "900621"]
+[WhiteCountry "SRB"]
+[BlackID "3800040"]
+[BlackCountry "PER"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Nf3 O-O 6. h3 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 Re8 10. Be3 Nbd7 1/2-1/2

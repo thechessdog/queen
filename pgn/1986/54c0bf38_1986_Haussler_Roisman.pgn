@@ -1,0 +1,19 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Haussler"]
+[Black "Roisman"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "54c0bf38"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Be2 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. O-O Qc5 12. Kh1 Be7 13. Rf3 b5 14. Re3
+h5 15. Bh4 g5 16. Nb3 Qc7 17. e5 dxe5 18. fxe5 gxh4 19. exf6 Nxf6 20. Rf1
+Bb7 21. Bf3 Bxf3 22. Rexf3 Ng4 23. Rh3 Rd8 24. Qe2 Rg8 25. Ne4 Qe5 26. Qf3
+f5 27. Nf2 Qd5 28. Nd3 Qxf3 29. Rhxf3 e5 30. h3 e4 31. Rf4 Ne3 0-1
+

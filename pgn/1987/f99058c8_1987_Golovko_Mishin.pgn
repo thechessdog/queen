@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Golovko"]
+[Black "Mishin"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "f99058c8"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6
+8. Be2 c5 9. d5 e6 10. O-O exd5 11. exd5 Re8 12. Bf4 Bf5 13. Rad1 Ne4 14.
+Nb5 g5 15. Nxg5 Nxg5 16. Nd6 Re4 17. Nxe4 Nxe4 18. d6 Bd4 19. Qd5 Qd7 20.
+Bxa6 Nf6 21. Qxb7 Qxb7 22. Bxb7 Rb8 23. d7 Rd8 24. Be3 Rxd7 25. Bc8 1-0
+

@@ -1,0 +1,21 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Szabo, Laszlo2"]
+[Black "Kertesz, Alfred"]
+[Result "1-0"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "c048ed5d"]
+[Epoch "Queen"]
+[BlackID "4601459"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5
+dxe5 9. fxe5 Ng4 10. Bb5+ Kf8 11. e6 Ne5 12. Nf3 a6 13. Bg5 Nxf3+ 14. Qxf3 f6
+15. O-O axb5 16. Rae1 Ke8 17. Ne4 c4 18. Kh1 Nd7 19. exd7+ Kxd7 20. Qh3+ Kc7
+21. Bf4+ Kb6 22. Qe3+ Ka6 23. Qa3+ Kb6 24. Qc5+ Ka6 25. Bc7 Qxc7 26. Qxc7 Bf8
+27. d6 b6 28. Re3 b4 29. Qxc4+ Ka7 30. Qxb4 Ba6 31. Rxf6 Rc8 32. Rf7+ Ka8 33.
+Rc3 1-0

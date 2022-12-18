@@ -1,0 +1,18 @@
+[Event "Dayton,OH"]
+[Site "Dayton,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Holsapple, Boyd"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "5aaf8c39"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 Nc6 2. d4 e6 3. Nf3 g6 4. Bf4 Bg7 5. Be2 Nge7 6. O-O O-O 7. Qd2 b6 8. Nc3
+Bb7 9. Rfe1 f5 10. exf5 exf5 11. Bc4+ Kh8 12. Bg5 Qc8 13. Bxe7 Nxe7 14. Rxe7
+Bxf3 15. gxf3 c5 16. d5 a6 17. Na4 b5 18. Nb6 Qd8 19. Nxa8 Qxe7 0-1

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Scharch"]
+[Black "Behling"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "2135c17c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. O-O O-O
+8. Nxe5 Nxe5 9. Nc3 Re8 10. b3 d6 11. Bb2 Re6 12. Nd5 Rh6 13. g3 Qd7 14.
+Nf4 g5 15. Nh5 Qh3 16. Bxe5 g4 17. Bf6 Rxh5 18. Bh4 Bd7 19. Re1 Rxh4 20.
+gxh4 c6 21. a3 d5 22. Bf1 Qxh4 23. cxd5 Bd6 24. f4 gxf3 25. Qd2 cxd5 26.
+Red1 Qg4+ 27. Kh1 Bc6 28. Qf2 Be5 29. Rac1 Kh8 30. b4 Rg8 31. b5 Qh5 32. h4
+Bg3 33. Qb2+ Rg7 34. Rd4 Bd7 35. Rc5 Bg4 36. Rxg4 Qxg4 37. Qd4 Bf4 0-1
+

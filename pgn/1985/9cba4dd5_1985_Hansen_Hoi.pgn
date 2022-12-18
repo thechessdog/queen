@@ -1,0 +1,19 @@
+[Event "Nordic-chT"]
+[Site "Pohja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hansen, Jens Christian"]
+[Black "Hoi, Carsten"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Be3"]
+[HashCode "9cba4dd5"]
+[Epoch "Queen"]
+[BlackID "1400100"]
+[BlackCountry "DEN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be3 c6 7. e5 Ng4 8. Bg1 c5
+9. dxc5 dxe5 10. Qxd8 Rxd8 11. h3 e4 12. Nxe4 Bxb2 13. Rb1 Nf6 14. Bd3 Nxe4 15.
+Bxe4 Bc3+ 16. Ke2 Nc6 17. Be3 Bg7 18. Rhd1 Rxd1 19. Rxd1 Be6 20. Bd5 Bxd5 21.
+Rxd5 Kf8 22. Bd4 Nxd4+ 23. Nxd4 e6 24. Rd7 Ke8 25. c6 bxc6 0-1

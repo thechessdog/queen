@@ -1,0 +1,26 @@
+[Event "Norrkoping"]
+[Site "Norrkoeping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Johansson, Jan"]
+[Black "Ernst, Thomas"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "8d414ce9"]
+[Epoch "Queen"]
+[BlackID "1700065"]
+[BlackCountry "SWE"]
+[WhiteID "1700103"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Nbd2 cxd4 6. exd4 Qxb2 7. Bxf6 gxf6
+8. Bd3 d5 9. c4 dxc4 10. Bxc4 Qb6 11. O-O Be7 12. Re1 Qd8 13. Ne4 O-O 14. Qd2
+f5 15. Ng3 Nc6 16. Qh6 Kh8 17. d5 exd5 18. Rxe7 Qxe7 19. Re1 Be6 20. Nxf5 Bxf5
+21. Rxe7 Nxe7 22. Qf6+ Kg8 23. Bb5 a6 24. Ba4 b5 25. Bb3 Rfe8 26. h4 Bg6 27. g4
+Rac8 28. Ne5 h5 29. Qg5 Kg7 30. Nd7 Ng8 31. gxh5 Re1+ 32. Kh2 Rcc1 33. Bxd5 Rc2
+34. hxg6 Rxf2+ 35. Kg3 Rg1+ 36. Kxf2 Rxg5 37. hxg5 Kxg6 38. Ne5+ Kxg5 39. Nxf7+
+Kf6 40. Bb3 Ne7 41. Ke3 Nc6 42. Ke4 Na5 43. Ne5 Nxb3 44. axb3 a5 45. Nd3 Ke6
+46. Kd4 Kd6 47. Nc5 Kc6 48. Ne4 Kb6 49. Kd5 Kb7 50. Kc5 Ka6 51. Nc3 a4 52. b4
+a3 53. Kc6 1-0

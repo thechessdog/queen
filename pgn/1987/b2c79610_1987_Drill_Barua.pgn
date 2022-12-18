@@ -1,0 +1,20 @@
+[Event "Peace"]
+[Site "Londen open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Drill, F."]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "b2c79610"]
+[Epoch "Queen"]
+[BlackID "5000025"]
+[BlackCountry "IND"]
+
+1. d4 d5 2. Nc3 c5 3. e4 dxe4 4. d5 Nf6 5. f3 e5 6. fxe4 Bd6 7. Be2 a6 8. a4
+Nbd7 9. Nf3 Nf8 10. O-O Ng6 11. Nd2 Nf4 12. Bf3 g5 13. Nc4 Rg8 14. Kh1 h5 15.
+g3 Nh3 16. Ne3 g4 17. Bg2 h4 18. Bxh3 hxg3 19. Bg2 Nh5 20. Nf5 Bxf5 21. Rxf5
+Qh4 22. h3 Nf4 23. Bxf4 exf4 24. e5 f3 25. exd6 O-O-O 26. Rxf3 gxh3 27. Qg1
+Rxd6 28. Ne4 hxg2+ 29. Kxg2 Qxe4 30. Re1 Qxd5 0-1

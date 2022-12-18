@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Albrecht, F."]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "5f520bf0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 b6 10. a3 Bxc3 11. Nxc3 bxc5 12. dxc5 a5 13. Bb5+ Bd7 14. O-O a4
+15. Qc2 Bxb5 16. Nxb5 O-O 17. b4 axb3 18. Qxb3 Nc6 19. a4 Qf6 20. Ra2 Rfb8 21.
+Rb1 Nd4 22. Qd3 Qg6 23. Qxg6 fxg6 24. Nc3 Rxb1+ 25. Nxb1 Ra5 26. Nd2 Rxc5 27.
+a5 Rc1+ 28. Nf1 Rc7 29. a6 Ra7 30. Ne3 Nc6 31. Nc2 Kf7 32. Kf1 Ke7 33. Ke2 Kd6
+34. f4 Kc5 35. Ra3 Kb5 36. Rh3 h6 37. Rg3 g5 38. fxg5 hxg5 39. Rxg5 Kxa6 40.
+Rg3 Kb5 0-1

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nebel, L."]
+[Black "Beutel, H."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "061c2c81"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Qxd5 7. Nc3 Qd8
+8. Bxb5 Bd7 9. Qf3 e4 10. Ncxe4 Be7 11. Bxc6 Bxc6 12. Nxf6+ Bxf6 13. Qxc6+
+Kf8 14. Ne4 1-0
+

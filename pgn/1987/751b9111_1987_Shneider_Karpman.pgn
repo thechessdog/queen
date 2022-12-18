@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Shneider, Aleksandr"]
+[Black "Karpman, Vadim"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "751b9111"]
+[Epoch "Queen"]
+[WhiteID "14100045"]
+[BlackID "14100169"]
+[WhiteCountry "UKR"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. O-O
+dxc4 9. Qa4 Na6 10. Ndb5 Nd5 11. Rd1 Nc5 12. Rxd5 Nxa4 13. Rxd8 Rxd8 14. Nxa4
+Rd1+ 15. Bf1 Bd2 16. Bxd2 Rxa1 17. Nac3 1/2-1/2

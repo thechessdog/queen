@@ -1,0 +1,15 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Burk"]
+[Black "Mayr"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "285ab8a0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Bc4 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Be4
+8. O-O h6 9. Nc3 Bh7 10. Be3 c6 11. Qf3 Be7 12. h4 1-0
+

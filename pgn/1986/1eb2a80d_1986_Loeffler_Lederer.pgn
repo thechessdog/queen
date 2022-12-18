@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Loeffler, W."]
+[Black "Lederer, G."]
+[Result "0-1"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[HashCode "1eb2a80d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8.
+O-O O-O 9. a3 cxd4 10. exd4 Bd7 11. Re1 Rc8 12. Bc2 Re8 13. Qd3 g6 14. Bd2
+Ncb4 0-1
+

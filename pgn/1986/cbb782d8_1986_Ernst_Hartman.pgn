@@ -1,0 +1,29 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Hartman, Christer"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Minckwitz variation"]
+[HashCode "cbb782d8"]
+[Epoch "Queen"]
+[BlackID "1700448"]
+[BlackCountry "SWE"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. dxe5 O-O 7. Qd5 Nc5 8.
+Be3 Ne6 9. Nc3 a6 10. Ba4 f6 11. Bb3 Kh8 12. Rad1 fxe5 13. Nxe5 Nxe5 14. Qxe5
+d6 15. Qe4 Ng5 16. Qb4 c5 17. Qa3 Qe8 18. Bd5 Rb8 19. f4 Ne6 20. Be4 b5 21. Nd5
+Bb7 22. Qd3 Bxd5 23. Bxd5 Nc7 24. Be4 c4 25. Qd2 b4 26. Ba7 Rb5 27. Rde1 d5 28.
+Bf3 Qf7 29. Bg4 Bd6 30. Bd4 Ra5 31. a3 c3 32. bxc3 bxa3 33. g3 Ra4 34. Bf3 a2
+35. Ra1 Ba3 36. Rxa2 Bc1 37. Rxc1 Rxa2 38. Be5 Rb8 39. Bxd5 Qxd5 40. Qxd5 Nxd5
+41. Bxb8 Nxc3 42. Kf2 Kg8 43. Ke3 Kf7 44. Be5 Nd5+ 45. Kd3 Nb4+ 46. Kc3 Nc6 47.
+Kb3 Ra5 48. Bc3 Rh5 49. h4 g6 50. Ra1 a5 51. Kc4 Ke6 52. Rb1 Ne7 53. Rb6+ Kd7
+54. Bd4 Nc8 55. Ra6 Nd6+ 56. Kd3 Rb5 57. Ra7+ Nb7 58. c4 Rb4 59. Bc3 Rb6 60.
+Bxa5 Rd6+ 61. Kc3 Kc8 62. Ra8+ Kd7 63. Bb4 Re6 64. Kd4 Rb6 65. Ra4 h5 66. c5
+Rf6 67. Ra7 Kc8 68. Ra8+ Kd7 69. Rg8 Nd8 70. Bc3 Ne6+ 71. Kc4 Rf5 72. Be5 Nf8
+73. Kd5 1-0

@@ -1,0 +1,24 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Micic, Cedomir"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "5218077d"]
+[Epoch "Queen"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "904210"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 Qd6 9. O-O Be7 10. Nb5 Qd8 11. Bf4 Nd5 12. Bg3 a6 13. Nc3 O-O 14. Qb3 b6
+15. Nxd5 exd5 16. Rac1 Bb7 17. Rfd1 Rc8 18. Rc3 b5 19. Ne5 b4 20. Nxc6 Bxc6 21.
+Rc2 Qd7 22. Bxa6 Ba4 23. Bxc8 Qb5 24. Qe3 Bxc2 25. Re1 Rxc8 26. Qxe7 h6 27. Bd6
+b3 28. a3 Bf5 29. Bc5 Qd3 30. Qe2 Qxe2 31. Rxe2 Bd3 32. Re5 Bc4 33. f3 Rc6 34.
+Kf2 Re6 35. Ke3 Ra6 36. g4 Ra8 37. f4 Ra6 38. h4 Rg6 39. Kf3 Ra6 40. Re8+ Kh7
+41. f5 g6 42. Kf4 h5 43. Be7 hxg4 44. f6 Re6 45. Rf8 g5+ 46. Kxg5 1-0

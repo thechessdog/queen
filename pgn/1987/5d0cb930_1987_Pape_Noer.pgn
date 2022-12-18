@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pape, Rasmus"]
+[Black "Noer, Martin Stampe"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "5d0cb930"]
+[Epoch "Queen"]
+[WhiteID "1408950"]
+[BlackID "1412221"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Bc4 Bg7 5. Qe2 Nc6 6. e5 Nxd4 7. exf6 Nxe2 8.
+fxg7 Rg8 9. Ngxe2 e5 10. Ne4 Rxg7 11. Bg5 1-0

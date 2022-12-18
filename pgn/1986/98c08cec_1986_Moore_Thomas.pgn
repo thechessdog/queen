@@ -1,0 +1,18 @@
+[Event "Monroe ch-MI op"]
+[Site "Monroe ch-MI op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Moore, R."]
+[Black "Thomas, H."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "98c08cec"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Nd5 5. Qxd4 Nb6 6. Be2 Nc6 7. Qd1 Be7
+8. O-O O-O 9. Nc3 d6 10. exd6 Qxd6 11. Nb5 Qxd1 12. Rxd1 Bd8 13. Bf4 Re8
+14. Kf1 Re7 15. Rd2 Bf5 16. Rad1 a6 17. Nbd4 Nxd4 18. Nxd4 Bd7 19. Nf5 Re8
+20. Rxd7 Nxd7 21. Rxd7 Rc8 22. Bc4 1-0
+

@@ -1,0 +1,23 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Sandic, Vladeta"]
+[Black "Liu, Wenzhe"]
+[Result "1-0"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "e655d9a1"]
+[Epoch "Queen"]
+[WhiteID "901784"]
+[WhiteCountry "SRB"]
+[BlackID "8600112"]
+[BlackCountry "CHN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 a6 8. a4
+Nbd7 9. e4 Bg7 10. Be2 O-O 11. O-O Re8 12. Ra3 Rb8 13. a5 Ne5 14. Qc2 b5 15.
+axb6 Rxb6 16. Nd1 Nh5 17. Bxh5 gxh5 18. Ne3 Rb4 19. Ndc4 Qe7 20. Bd2 Rb8 21.
+Nxe5 Bxe5 22. Nc4 Bd4 23. Re1 Bf5 24. Rg3+ Bg6 25. Bg5 f6 26. Bf4 h4 27. Rxg6+
+hxg6 28. Bxd6 Qb7 29. Bxb8 Rxb8 30. Kf1 Kg7 31. h3 Qb5 32. Ra1 Re8 33. Ra5 Qb4
+34. Rxa6 f5 35. Rb6 1-0

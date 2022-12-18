@@ -1,0 +1,17 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fontinha, R."]
+[Black "Nash, W."]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "219d9b78"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6
+8. Qe2+ Kf8 9. O-O Bg4 10. Qc4 Rc8 11. Ng5 Qe7 12. Nc3 Nxd4 13. Qa4 Rxc3
+14. bxc3 Nxb5 15. Qxb5 Be2 16. Qa4 Bc5+ 17. Rf2 Bb5 0-1
+

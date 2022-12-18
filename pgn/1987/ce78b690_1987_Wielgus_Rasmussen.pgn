@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wielgus, J."]
+[Black "Rasmussen, P."]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "ce78b690"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ngxe5 7. Nxe5
+Nxe5 8. O-O O-O 9. Nc3 d6 10. a3 a5 11. Rb1 Be6 12. b4 axb4 13. axb4 Bb6
+14. Nd5 Bxd5 15. Qxd5 c6 1/2-1/2
+

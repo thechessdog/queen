@@ -1,0 +1,22 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lahav, Ehud"]
+[Black "Kraidman, Yair"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "e64c1c96"]
+[Epoch "Queen"]
+[WhiteID "2800268"]
+[BlackID "2800187"]
+[WhiteCountry "ISR"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. g3 O-O 7. Bg2 c6 8. O-O
+Nd7 9. e4 Nc7 10. Re1 Nb6 11. h3 Be6 12. Bf4 Bc4 13. b3 Ba6 14. Qd2 Ne6 15. Be3
+Rc8 16. Rad1 Qc7 17. Bh6 Rfd8 18. Bxg7 Kxg7 19. Qe3 Nf8 20. h4 h5 21. Bh3 e6
+22. Ng5 Kg8 23. Qf3 Nh7 24. e5 Nxg5 25. hxg5 Qe7 26. Ne4 Nd7 27. Kg2 Kg7 28.
+Qf6+ Qxf6 29. gxf6+ Kh7 30. Ng5+ Kg8 31. Rh1 1-0

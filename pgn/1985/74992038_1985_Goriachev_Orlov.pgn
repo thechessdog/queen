@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Goriachev, V."]
+[Black "Orlov, I."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "74992038"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qg3 Ne6 13. cxd5 Nxd5
+14. Be4 c6 15. Rd1 Bd6 16. Qf3 Nxc3 17. bxc3 Qc7 18. g3 O-O-O 19. Be3 Bc5
+20. Rxd8+ Rxd8 21. Bxc5 Nxc5 22. Qf5+ Ne6 23. Qxh7 Qa5 24. Qf5 Qxc3 25. Rb1
+Rd7 26. Rf1 g6 27. Qh3 Kc7 28. Qg2 f5 29. Bf3 Ng5 30. Bd1 Ne4 31. Kh1 Rd2
+32. Bb3 c5 33. g4 Qd4 0-1
+

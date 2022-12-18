@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Antunes, Antonio"]
+[Black "Suta, M."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "33d4e590"]
+[Epoch "Queen"]
+[WhiteID "1900013"]
+[WhiteCountry "POR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 Qe7 6. e3 d6 7. Qa4+ Nc6 8. d5
+exd5 9. cxd5 Qe4 0-1

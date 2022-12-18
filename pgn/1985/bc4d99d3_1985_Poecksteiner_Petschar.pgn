@@ -1,0 +1,19 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1985.01.01"]
+[Round "7"]
+[White "Poecksteiner, Johann"]
+[Black "Petschar, Kurt"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "bc4d99d3"]
+[Epoch "Queen"]
+[WhiteID "1601253"]
+[WhiteCountry "AUT"]
+[BlackID "1600478"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. a3 Bxc3+ 7. bxc3 d6 8. Ne2
+e5 9. f3 Re8 10. O-O Nbd7 11. Ng3 Nf8 12. Ra2 Ng6 1/2-1/2

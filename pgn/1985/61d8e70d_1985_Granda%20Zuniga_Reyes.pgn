@@ -1,0 +1,22 @@
+[Event "Lima"]
+[Site "Lima"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Granda Zuniga, Julio E"]
+[Black "Reyes, Juan"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "61d8e70d"]
+[Epoch "Queen"]
+[BlackID "3800040"]
+[BlackCountry "PER"]
+[WhiteID "3800024"]
+[WhiteCountry "PER"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4 8.
+O-O Bc5 9. Bf4 f6 10. Qe2 fxe5 11. Bxe5 O-O 12. Bg3 h5 13. h4 g5 14. hxg5 h4
+15. Bxh4 Qd6 16. g3 Nxf2 17. Kh2 Bg4 18. Qd2 Nxd3 19. Nc3 Ne5 20. Qg2 Bf3 21.
+Rxf3 Nxf3+ 22. Kh1 Nxh4 23. gxh4 Rf2 24. Qh3 Re8 25. h5 d4 26. Na4 Qd5+ 27. Kg1
+Rf3 28. Qg2 Bd6 29. Kh1 Rh3+ 30. Kg1 Rg3 0-1

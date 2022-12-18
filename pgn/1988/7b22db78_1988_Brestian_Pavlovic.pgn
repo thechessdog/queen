@@ -1,0 +1,20 @@
+[Event "Tirnavia-B"]
+[Site "Trnava"]
+[Date "1988.01.01"]
+[Round "10"]
+[White "Brestian, Egon"]
+[Black "Pavlovic, Milos"]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "7b22db78"]
+[Epoch "Queen"]
+[WhiteID "1600028"]
+[WhiteCountry "AUT"]
+[BlackID "900389"]
+[BlackCountry "SRB"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. d4 c5 7. O-O Nc6 8. dxc5
+dxc5 9. Be3 Be6 10. Qa4 Nd4 11. Bxd4 cxd4 12. Nb5 Bd7 13. Qb3 Ne4 14. Rad1 Bxb5
+15. Qxb5 Nd6 1/2-1/2

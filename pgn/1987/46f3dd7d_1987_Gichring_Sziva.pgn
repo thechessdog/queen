@@ -1,0 +1,21 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gichring"]
+[Black "Sziva, Erika"]
+[Result "0-1"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "46f3dd7d"]
+[Epoch "Queen"]
+[BlackID "1002457"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bf4
+O-O 9. Nd2 Re8 10. Be2 b6 11. O-O Ba6 12. f3 Nh5 13. Be3 Bxe2 14. Qxe2 a6 15.
+a4 Nd7 16. Nc4 Ne5 17. Na3 Qe7 18. Rae1 f5 19. Qd2 f4 20. Bf2 Qg5 21. Qe2 Rf8
+22. Nc4 Ng3 23. Bxg3 fxg3 24. h3 Nxc4 25. Qxc4 Bd4+ 26. Kh1 Bf2 27. Rxf2 gxf2
+28. Rf1 Rxf3 29. gxf3 Qg3 30. Rxf2 Qxf2 31. Qe2 Qxe2 32. Nxe2 b5 33. a5 b4 34.
+Kg2 Rb8 35. f4 c4 36. Nd4 c3 37. b3 0-1

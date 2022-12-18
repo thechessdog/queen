@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaeser, M."]
+[Black "Musielak, M."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "35038cde"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3
+Qe8 8. c3 Qg6 9. d4 exd4 10. Nh4 Qg4 11. Nf5+ Kd8 12. Qxg4 Nxg4 13. Bg5+
+Nf6 14. Bxc6 dxc6 15. Nxd4 Bd7 16. Nd2 1-0
+

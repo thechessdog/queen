@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wielgus, J."]
+[Black "Majewski, J."]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "e580f884"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6
+8. O-O Ne5 9. h3 Bc5 10. Qe2 d6 11. f4 Ng6 12. Rae1 O-O 13. g4 b5 14. g5
+Ne8 15. Qh5 Qb6 16. Nce2 e5 17. f5 exd4 18. Bd2 Ne5 19. Rf4 g6 20. Qh6 f6
+21. b4 Nf7 22. e5 0-1
+

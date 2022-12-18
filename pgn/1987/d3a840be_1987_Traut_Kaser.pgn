@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Traut"]
+[Black "Kaser"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "d3a840be"]
+[Epoch "Queen"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 d6 4. Bf4 Bf5 5. Nbd2 dxe5 6. Nxe5 Nxe5 7. Bxe5
+Nf6 8. e3 c6 9. Bc4 Be7 10. O-O O-O 11. Bb3 Nd7 12. Bg3 Nc5 13. Bc4 b5 14.
+Be2 Qc8 15. f3 Rd8 16. Qc1 Bg5 17. f4 Bf6 18. Rd1 Qe6 19. Bf2 Na4 20. c3 b4
+21. Bc4 Qd7 22. e4 Bg4 0-1
+

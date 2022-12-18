@@ -1,0 +1,18 @@
+[Event "DJMM Hes-Wub"]
+[Site "DJMM Hes-Wub"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hoffmeister"]
+[Black "Birk"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "936ce443"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Bg4 10. Qd2 Bb4 11. O-O-O Na4 12. Qc2 Nxc3 13. bxc3 Be7 14.
+Bd3 Qd7 15. Be4 Na5 16. c5 Nc4 17. c6 Ba3+ 18. Kb1 bxc6 19. Qa4 Rb8+ 20.
+Kc2 Rb2+ 21. Kd3 Nxe5+ 0-1
+

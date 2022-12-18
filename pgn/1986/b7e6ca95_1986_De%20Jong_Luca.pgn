@@ -1,0 +1,19 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Luca, A."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "b7e6ca95"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 b6 5. g3 Bb7 6. Bg2 Qc7 7. O-O Nge7 8. c3
+g6 9. Na3 a6 10. d4 cxd4 11. cxd4 Bg7 12. Be3 d5 13. e5 b5 14. Rac1 b4 15. Nc2
+a5 16. Rfd1 O-O 17. Nce1 Ba6 18. Qd2 Rfc8 19. Nd3 Qb6 20. g4 Rc7 21. Nc5 Bb5
+22. Qf2 Rac8 23. Nh4 Nd8 24. f5 Nec6 25. f6 Bf8 26. Nf3 Nb7 27. Nxb7 Qxb7 28.
+Qh4 Nb8 29. Ng5 h6 30. Nf3 Kh7 31. Bxh6 1-0

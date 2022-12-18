@@ -1,0 +1,22 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Garcia Palermo, Carlos"]
+[Black "Armas Gutierrez, Jorge Enrique"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "098b1bf0"]
+[Epoch "Queen"]
+[WhiteID "110124"]
+[WhiteCountry "ITA"]
+[BlackID "3500101"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8. Bxc4
+Nc6 9. a3 Ba5 10. Ba2 Qe7 11. Qc2 Bxc3 12. Qxc3 cxd4 13. exd4 Qd6 14. Bg5 Ne4
+15. Qd3 Nxg5 16. Nxg5 g6 17. Rad1 Qf4 18. Qe3 Qxe3 19. fxe3 Kg7 20. e4 h6 21.
+Nf3 f6 22. d5 exd5 23. exd5 Nd8 24. Rc1 Rf7 25. Rfe1 Kf8 26. Nd4 Rd7 27. Nb5
+Rb8 28. Nxa7 1-0

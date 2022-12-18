@@ -1,0 +1,22 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Danielsen, Henrik"]
+[Black "Pedersen, Karl"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "919537a2"]
+[Epoch "Queen"]
+[BlackID "1400525"]
+[BlackCountry "DEN"]
+[WhiteID "1400185"]
+[WhiteCountry "ISL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 Bg4 7. Be3 Nc6 8. d5
+Bxf3 9. Bxf3 Ne5 10. Be2 c6 11. f4 Ned7 12. O-O a6 13. Rc1 Qa5 14. a3 Rfc8 15.
+Qd2 Qd8 16. b4 a5 17. dxc6 bxc6 18. Rfd1 axb4 19. axb4 Ra3 20. e5 Ne8 21. c5
+Rb8 22. b5 Qa5 23. Nb1 Qxd2 24. Bxd2 Ra7 25. cxd6 exd6 26. Be3 Ra5 27. bxc6 Nc5
+28. exd6 Nb3 29. c7 Rba8 30. c8=Q 1-0

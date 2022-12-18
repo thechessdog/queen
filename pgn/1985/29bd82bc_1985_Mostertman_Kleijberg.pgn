@@ -1,0 +1,17 @@
+[Event "Den Bosch"]
+[Site "Den Bosch"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mostertman, Loek"]
+[Black "Kleijberg, A."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "29bd82bc"]
+[Epoch "Queen"]
+[WhiteID "1010425"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Bf5 7. f3 Bxc3+ 8.
+bxc3 Qh4+ 9. g3 Nxg3 10. Qa4+ Bd7 0-1

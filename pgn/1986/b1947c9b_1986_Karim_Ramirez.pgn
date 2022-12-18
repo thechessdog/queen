@@ -1,0 +1,17 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karim"]
+[Black "Ramirez"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "b1947c9b"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nc6 3. Bf4 Rb8 4. Nb5 Bd7 5. Nxc7+ Qxc7 6. Bxc7 Nd8 7. Bxb8
+Nf6 8. Bxa7 e6 9. e3 Bd6 10. Bc5 Bxc5 11. dxc5 O-O 12. Qf3 Bc6 13. Bd3 g6
+14. Qxf6 1-0
+

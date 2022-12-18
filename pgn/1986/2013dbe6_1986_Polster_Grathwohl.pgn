@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Polster, Wolfgang"]
+[Black "Grathwohl, Roland"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "2013dbe6"]
+[Epoch "Queen"]
+[WhiteID "16231805"]
+[WhiteCountry "GER"]
+[BlackID "4602269"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. Nf3 Bf5
+8. Ne5 e6 9. O-O Bd6 10. Qe2 Qc7 11. Re1 O-O 12. Bb3 Nd7 13. Bf4 Nxe5 14. Bxe5
+Rad8 15. Rad1 Rd7 1/2-1/2

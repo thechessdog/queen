@@ -1,0 +1,27 @@
+[Event "Espoo op"]
+[Site "Espoo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Raaste, Eero J."]
+[Black "Pulkkinen, Kari"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.f4"]
+[HashCode "e9402da9"]
+[Epoch "Queen"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+[BlackID "500712"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 a6 7. Bd3 b5 8. a3
+Bb7 9. O-O Nbd7 10. Kh1 Rc8 11. Qe1 g6 12. Bd2 Bg7 13. f5 e5 14. Nde2 O-O 15.
+Qh4 Nc5 16. Bg5 h6 17. Bxf6 Qxf6 18. Qg3 Rce8 19. b4 Nd7 20. a4 bxa4 21. Nxa4
+d5 22. Nec3 d4 23. Ne2 Qd6 24. Qf3 Rc8 25. Rfb1 Rc7 26. Nc1 gxf5 27. Qxf5 Qg6
+28. Qxg6 fxg6 29. Nb3 Rb8 30. Nbc5 Nxc5 31. Nxc5 Bf8 32. Nxa6 Bxa6 33. Rxa6
+Rxb4 34. Rxb4 Bxb4 35. Rxg6+ Kh7 36. Re6 Re7 37. Rc6 Bd2 38. g3 Kg7 39. Kg2 Kh7
+40. Bc4 Ba5 41. Ra6 Bd2 42. Kf3 Rc7 43. Bd3 Re7 44. Kg4 Be3 45. Kf5 Bg1 46. Kf6
+Rg7 47. Kxe5 Rg5+ 48. Kf6 Rg6+ 49. Kf7 Rg7+ 50. Ke6 Rg6+ 51. Kd7 Rg7+ 52. Ke6
+Rg6+ 53. Kd5 Rxa6 54. Bxa6 Bxh2 55. Kxd4 Bxg3 56. Kd5 Kg7 57. Ke6 h5 58. Bf1 h4
+59. c4 Bb8 60. c5 Bc7 61. c6 Bb8 62. Bg2 Kg6 63. Kd7 1-0

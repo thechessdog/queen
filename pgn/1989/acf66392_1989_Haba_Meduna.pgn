@@ -1,0 +1,19 @@
+[Event "CSR-ch int"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Haba, Petr"]
+[Black "Meduna, Eduard"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "acf66392"]
+[Epoch "Queen"]
+[WhiteID "300160"]
+[WhiteCountry "CZE"]
+[BlackID "300055"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Be7 10. O-O O-O 11. Rfc1 Nh5 12. Bg3 Nxg3 1/2-1/2

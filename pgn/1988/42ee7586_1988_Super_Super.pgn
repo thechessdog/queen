@@ -1,0 +1,25 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Super Constellation"]
+[Black "Super Mondial"]
+[Result "0-1"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "42ee7586"]
+[Epoch "Queen"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bb4+ 7. Bd2 Bc5
+8. N1c3 O-O 9. Qb3 Bf5 10. Qc4 Nbd7 11. e4 a6 12. exf5 Rc8 13. Qh4 axb5 14.
+Bxb5 Nb6 15. Bg5 Nbxd5 16. Nxd5 Qxd5 17. O-O Ne4 18. Bd7 Ra8 19. Be7 Bxe7
+20. Qxe7 Rfd8 21. Rfd1 Nd2 22. Be6 fxe6 23. f6 gxf6 24. Qxf6 Rd7 25. a3 Rg7
+26. g3 Rf8 27. Qh6 Rd8 28. Qh5 Kh8 29. h3 Rgd7 30. Rxd2 Qxd2 31. Qxe5+ Kg8
+32. Qxe6+ Rf7 33. Qb6 Rd6 34. Qc5 Rc6 35. Qa7 Qxb2 36. Rf1 Ra6 37. Qe3 Qxa3
+38. Qg5+ Kf8 39. Rc1 Rg6 40. Rc8+ Kg7 41. Qe5+ Kh6 42. Qe1 Rd6 43. Rg8 Qc5
+44. Kg2 Qd5+ 45. Kg1 Qd1 46. Re8 Qxe1+ 47. Rxe1 Rd3 48. Re2 b5 49. Rb2 Rdf3
+50. Rxb5 Rxf2 51. g4 Kg6 52. h4 Re2 53. Rb6+ Rf6 54. Rb4 Rd6 55. Kf1 Rh2
+56. Kg1 Rxh4 57. Kf2 Kg5 58. Kf3 Rh3+ 59. Kg2 Rc3 60. Kf2 Kh4 61. Rb7 h6
+62. Rg7 Rd2+ 63. Ke1 0-1
+

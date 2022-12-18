@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heynisch"]
+[Black "Leisebein, Peter"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "3777c14c"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Ba4 Nf6 6. O-O Bc5 7. Nxe5 O-O 8.
+exf5 d5 9. Ne2 Qd6 10. Nxd4 Bxd4 11. Nf3 Ng4 12. h3 Bxf5 13. d3 Be6 14. hxg4
+Bxg4 15. Re1 Bxf3 16. gxf3 Qg3+ 0-1

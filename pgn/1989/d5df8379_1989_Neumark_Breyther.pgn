@@ -1,0 +1,28 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Neumark, Thomas"]
+[Black "Breyther, Ruediger"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d5df8379"]
+[Epoch "Queen"]
+[WhiteID "4604121"]
+[BlackID "4601211"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Rb1 b6 11. Bxd4 cxd4 12. Nb5 e5 13. c4 a6 14. Na3 Ra7 15. b4
+Kh8 16. c5 b5 17. cxd6 Qxd6 18. fxe5 Bxe5 19. Qc1 Bg4 20. Nxe5 Qxe5 21. Qb2 Rc7
+22. Rf4 Be6 23. Nc2 Rc3 24. Ne1 g5 25. Rf2 g4 26. Rc2 Rfc8 27. Rbc1 Kg8 28. a3
+Ng6 29. Rxc3 dxc3 30. Qf2 Qg5 31. Rb1 Qd2 32. Nc2 Qxd3 33. Re1 Bb3 34. Nd4 c2
+35. Bf1 Qc3 36. Ne2 Qb2 37. Nc1 Ne5 38. Be2 Bc4 39. Qf5 Qd4+ 40. Kg2 Be6 41.
+Qg5+ Ng6 42. Bxg4 Bxg4 43. Qxg4 Rc3 44. Rf1 Qd2+ 45. Kh1 Rc7 46. h4 Rd7 47. Qf5
+h5 48. Qxh5 Qd1 49. Qf5 Ne5 50. Kg2 Ng4 51. Qg5+ Kf8 52. Qc5+ Ke8 53. Qc8+ Ke7
+54. Qc5+ Kd8 55. Qg5+ Kc8 56. Kg1 Nh2 57. Qc5+ Kb7 58. Kxh2 Qxf1 59. Nb3 Rd2+
+60. Nxd2 Qe2+ 61. Kh3 Qxd2 62. Qe7+ Kc8 63. Qc5+ Kd7 64. Qa7+ Ke6 65. Qxa6+ Ke5
+66. Qxb5+ Kd4 67. Qc5+ Kd3 68. Qd6+ Ke2 69. Qa6+ Ke1 70. b5 c1=Q 0-1

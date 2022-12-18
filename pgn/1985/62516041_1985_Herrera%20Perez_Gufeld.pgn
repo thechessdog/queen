@@ -1,0 +1,19 @@
+[Event "Havana-A"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Herrera Perez, Juventino"]
+[Black "Gufeld, Eduard"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "62516041"]
+[Epoch "Queen"]
+[WhiteID "3501124"]
+[WhiteCountry "CUB"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 O-O 9. O-O Be6 10. f4 exf4 11. Bxf4 d5 12. e5 Nd7 13. Nxd5 Ndxe5 14. c4 Bg5
+15. Bg3 Bh4 16. Bf4 Bg5 17. Bg3 Bh4 18. Bf4 1/2-1/2

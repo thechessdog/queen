@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Feszling"]
+[Black "Scheppeit"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "d998f1ad"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Bb4 4. fxe5 Bxc3 5. dxc3 Ng8 6. Nf3 Ne7 7. Bc4 h6
+8. Be3 Ng6 9. O-O O-O 10. Qe1 Nc6 11. Qg3 Qe7 12. Qxg6 Na5 13. Bxh6 1-0
+

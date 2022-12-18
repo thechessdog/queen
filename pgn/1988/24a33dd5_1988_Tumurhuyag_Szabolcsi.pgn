@@ -1,0 +1,22 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tumurhuyag, Niama"]
+[Black "Szabolcsi, Janos"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "24a33dd5"]
+[Epoch "Queen"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nf6 8.
+Bb3 Bg7 9. Nge2 Nc6 10. Be3 O-O 11. h4 Na5 12. h5 Nxb3 13. axb3 Nd5 14. Nxd5
+Qxd5 15. f3 a6 16. Qd2 Bd7 17. Bh6 Bxh6 18. Qxh6 g5 19. Nc3 Qf5 20. Qb6 Qd3 21.
+d5 Rac8 22. Rd1 Qc2 23. O-O Qxb2 24. Ne4 Bb5 25. Rf2 Qxb3 26. Rfd2 Ba4 27. Qxb3
+Bxb3 28. Rb1 Bc2 29. Rxb7 Bxe4 30. fxe4 Rfe8 31. h6 f6 32. d6 Kf7 33. Kf2 Rb8
+34. Rc7 a5 35. e5 fxe5 36. d7 Red8 37. Ra7 Rb5 38. Kf3 e6 39. Rd6 Rd5 40. Rda6
+R8xd7 41. Ra8 Re7 42. Ke4 Rb7 43. R6a7 Rxa7 44. Rxa7+ Kg6 45. Re7 Rd6 46. Ra7
+Kxh6 47. Rxa5 Rd2 48. Kf3 e4+ 49. Kg3 Rd5 50. Ra6 Re5 51. Kf2 e3+ 52. Ke2 Kg6
+53. Ra1 h5 54. g3 Kf5 55. Ra4 Re4 56. Ra8 Kg4 57. Rg8 Re5 58. Rh8 Ra5 0-1

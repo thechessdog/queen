@@ -1,0 +1,18 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schuurmann, Petra"]
+[Black "Spiridonov, Nikola"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "11b74023"]
+[Epoch "Queen"]
+[BlackID "2900238"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Bc4 Qc7 6. Qe2 a6 7. a4 Nc6 8. Nf3
+Bd6 9. Be3 Nge7 10. Rc1 O-O 11. Bd3 Ng6 12. g3 b6 13. a5 b5 14. Bb6 Qb8 15. Ng5
+h6 16. h4 Bb7 17. f4 Bc7 18. Qh5 Bxb6 19. axb6 Qd6 20. Rd1 Qc5 21. Nf3 Qxh5 0-1

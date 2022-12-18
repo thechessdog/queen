@@ -1,0 +1,18 @@
+[Event "Dortmund op"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Ciurezu, Mircea"]
+[Black "Klueting, Reiner"]
+[Result "1/2-1/2"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "5ef4034f"]
+[Epoch "Queen"]
+[BlackID "4644760"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Bb4 6. a3 Bxd2+ 7. Bxd2 Nxd2
+8. Qxd2 Qe7 9. e3 O-O 10. Be2 Nxe5 11. O-O d6 12. Rac1 Bg4 13. Nxe5 Bxe2 14.
+Qxe2 dxe5 15. Rfd1 Rad8 16. Rc2 Rxd1+ 1/2-1/2

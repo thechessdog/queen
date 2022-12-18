@@ -1,0 +1,19 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "1"]
+[White "Boensch, Uwe"]
+[Black "Knaak, Rainer"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "ba3f22c1"]
+[Epoch "Queen"]
+[BlackID "4611250"]
+[BlackCountry "GER"]
+[WhiteID "4611268"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Nf3
+Nd7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 1/2-1/2

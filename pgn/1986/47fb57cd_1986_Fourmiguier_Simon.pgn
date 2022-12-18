@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fourmiguier"]
+[Black "Simon"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "47fb57cd"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 a5 8.
+Re1 Na6 9. Bf4 Nb4 10. h3 Nh5 11. Bh2 f5 12. exf5 Bxf5 13. Bc4+ Kh8 14. Bb3
+Qd7 15. Ng5 Bh6 16. f4 d5 17. g4 Bxc2 18. Bxc2 Nxf4 19. Bxf4 Rxf4 20. Ne6
+Rf6 21. g5 Rxe6 22. gxh6 Qd6 23. Rxe6 Qg3+ 24. Kh1 Qxh3+ 25. Kg1 Qxe6 26.
+Qd2 Qg4+ 27. Kh2 Rf8 28. Bd1 Qh4+ 29. Kg2 Nd3 30. Bf3 Nf4+ 31. Kf1 Ne6 0-1
+

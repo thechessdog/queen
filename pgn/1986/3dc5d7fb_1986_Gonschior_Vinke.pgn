@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gonschior, M."]
+[Black "Vinke, G."]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "3dc5d7fb"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. c3 Qb5 13. Qc2 Ngf6 14. a4
+Qa6 15. Ne5 Nxe5 16. Bxe5 Be7 17. Qe2 Qxe2+ 18. Nxe2 O-O 19. Bxf6 Bxf6 20.
+O-O-O 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "JSM PSY-MatSK"]
+[Site "JSM PSY-MatSK"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pulkkinen, Kari"]
+[Black "Palenius, Jarmo"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "a8ee14e8"]
+[Epoch "Queen"]
+[WhiteID "500712"]
+[BlackID "514276"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Nc5 10. c3 Nxb3 11. axb3 Be7 12. Nd4 Qd7 13. f4 Nxd4 14. cxd4 O-O
+15. Nd2 Rfc8 16. Qf3 g6 17. Qf2 a5 18. h3 h5 19. Nf3 a4 20. bxa4 bxa4 21. f5
+Bxf5 22. Bg5 c5 23. Rae1 Ra6 24. Qh4 Bxg5 25. Nxg5 Be6 26. Rf6 Rf8 27. g4 Kg7
+28. gxh5 Rh8 29. Nxf7 Rxh5 30. Rxg6+ 1-0

@@ -1,0 +1,26 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Grosch, H."]
+[Black "Jesch, E."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "7e980f6b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 bxc6
+8. O-O Nf6 9. Qe2 d5 10. Bg5 Be7 11. Na4 h6 12. Bh4 O-O 13. e5 Nh7 14. Bxe7
+Qxe7 15. c4 Qb4 16. b3 f5 17. f4 a5 18. Qe3 Rd8 19. Rac1 Bb7 20. c5 Ba6 21.
+Bxa6 Rxa6 22. Nb6 Ra7 23. Rfd1 Nf8 24. Nc4 a4 25. Nb6 axb3 26. Rd4 Qb5 27.
+a4 Qa6 28. Qxb3 Rb8 29. Qe3 Nd7 30. a5 Qb5 31. Qc3 Rbb7 32. Nc8 Qxa5 33.
+Nxa7 Rxa7 34. Rb4 Qa6 35. Kf2 Qa2+ 36. Rc2 Ra3 37. Qd2 Qa1 38. Rb7 Ra7 39.
+Rxa7 Qxa7 40. Qd4 Qa5 41. Qe3 Qb4 42. g3 d4 43. Qd2 Qb3 44. Rc1 Qd5 45. Qb4
+d3 46. Ke3 Qg2 47. Kxd3 Qxh2 48. Qe1 Qa2 49. Qe3 Qd5+ 50. Ke2 Qg2+ 51. Ke1
+Qh1+ 52. Kf2 Qh2+ 53. Kf3 g5 54. fxg5 Qh5+ 55. Kg2 Qxg5 56. Qf4 Nxe5 57.
+Qxg5+ hxg5 58. Re1 Nd3 59. Rxe6 Nxc5 60. Re5 Nd3 61. Rxf5 Kg7 62. Rxg5+ Kf6
+63. Ra5 c5 64. Kf3 c4 65. Ke4 Nf2+ 66. Ke3 Ng4+ 67. Kf4 Nf2 68. Ra6+ Kg7
+69. Rc6 Nd3+ 70. Kf5 1-0
+

@@ -1,0 +1,23 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Domont, Alexandre"]
+[Black "Gast, Uriel"]
+[Result "1-0"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "0d236fc6"]
+[Epoch "Queen"]
+[WhiteID "1300172"]
+[WhiteCountry "SUI"]
+[BlackID "1300733"]
+[BlackCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Qe3 Qa5 13. a3 b4 14. axb4
+Qxb4 15. Qd4 Qxd4 16. Rxd4 Bh6 17. g3 Kd7 18. Bh3 Kc7 19. Rhd1 Rhd8 20. Rc4 Kb6
+21. Kd2 d5 22. exd5 Bxd5 23. Nxd5+ Rxd5+ 24. Ke1 Rad8 25. Rxd5 exd5 26. Rd4 Kc5
+27. Ra4 Kb5 28. b3 a5 29. Bf5 Bf8 30. Bxh7 Bb4+ 31. Kf2 Kc5 32. Bd3 Bc3 33. Kf3
+Rh8 34. h4 Re8 35. h5 Be1 36. Ra1 Kd4 37. h6 1-0

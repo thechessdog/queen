@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schirmer, M."]
+[Black "Strick, E."]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "4f77010f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nbd7 7. Be3 Ne5
+8. Bb3 g6 9. f3 Bg7 10. Qd2 O-O 11. O-O-O b5 12. h4 Bb7 13. h5 b4 14. hxg6
+bxc3 15. gxf7+ Kh8 16. bxc3 Qa5 17. Nf5 Nxf7 18. Nxe7 d5 19. Ng6+ Kg8 20.
+Nxf8 Rxf8 21. Bd4 dxe4 22. Qf4 Qa3+ 23. Kb1 Qe7 24. fxe4 Kh8 25. Rdf1 Nd8
+26. Rh6 Ne6 27. Bxe6 Qxe6 28. Bxf6 Bxf6 29. Rxf6 Rxf6 30. Qxf6+ Qxf6 31.
+Rxf6 Bxe4 32. g3 1-0
+

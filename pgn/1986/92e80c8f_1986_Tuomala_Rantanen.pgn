@@ -1,0 +1,23 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tuomala, Timo"]
+[Black "Rantanen, Yrjo A."]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "92e80c8f"]
+[Epoch "Queen"]
+[WhiteID "500704"]
+[WhiteCountry "FIN"]
+[BlackID "500038"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Re8 6. a3 Bxc3+ 7. bxc3 e5 8. c5
+b6 9. cxb6 axb6 10. Ne2 e4 11. Bc2 Ba6 12. O-O Nc6 13. f3 Na5 14. fxe4 Nxe4 15.
+Rf4 d5 16. Ng3 Nxg3 17. hxg3 Qd7 18. Qh5 g6 19. Qh6 Re6 20. Bd2 f5 21. g4 fxg4
+22. e4 dxe4 23. Re1 Qg7 24. Qg5 Qe7 25. Rfxe4 Qxg5 26. Bxg5 Rxe4 27. Rxe4 Bc4
+28. Rxg4 Be6 29. Rf4 Nc4 30. a4 Ne3 31. Re4 Nxc2 32. Rxe6 Rxa4 33. Re8+ Kf7 34.
+Re7+ Kf8 35. Rxc7 h5 1/2-1/2

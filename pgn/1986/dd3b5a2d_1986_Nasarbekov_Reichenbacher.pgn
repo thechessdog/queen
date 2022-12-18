@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nasarbekov"]
+[Black "Reichenbacher"]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "dd3b5a2d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. a3 Be7 8.
+O-O O-O 9. Ba2 Nxd4 10. Qxd4 b6 11. b4 Bb7 12. Bb2 Rc8 13. Rad1 d5 14. exd5
+exd5 15. Bb3 Qd7 16. Rfe1 Rfd8 17. Ba4 Bc6 18. Bxc6 Rxc6 19. Nxd5 Qxd5 20.
+Rxe7 1-0
+

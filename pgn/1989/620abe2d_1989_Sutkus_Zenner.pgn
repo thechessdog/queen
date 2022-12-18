@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sutkus"]
+[Black "Zenner"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "620abe2d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8.
+Bd3 Bxd3 9. Qxd3 Qe7 10. Nge2 O-O-O 11. Bf4 f6 12. exf6 gxf6 13. Nxd5 Qf7
+14. Ne3 Bb4+ 15. Kf1 Ne7 16. a3 Ba5 17. Nc4 Bc7 18. Bxc7 Kxc7 19. Qg3+ Ne5
+20. dxe5 Qxc4 21. exf6+ 1-0
+

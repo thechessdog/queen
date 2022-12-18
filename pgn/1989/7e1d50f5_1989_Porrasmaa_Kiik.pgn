@@ -1,0 +1,28 @@
+[Event "Joensuu Kimmel"]
+[Site "Joensuu Kimmel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Porrasmaa, Timo"]
+[Black "Kiik, Kalle"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "7e1d50f5"]
+[Epoch "Queen"]
+[WhiteID "501603"]
+[BlackID "4500075"]
+[WhiteCountry "FIN"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. Nbd2 g6 6. c3 Bg7 7. a4 a5 8. Ne4
+Qe7 9. e3 d6 10. Bb5+ Nd7 11. O-O O-O 12. Qb3 c6 13. Be2 d5 14. Ned2 e5 15.
+dxe5 Nxe5 16. Nxe5 Qxe5 17. Rad1 Qe7 18. Rfe1 Be6 19. Qb6 Rfc8 20. Nb3 Be5 21.
+Nd4 Bd7 22. Bf3 c5 23. Bxd5 cxd4 24. exd4 Qd6 25. Qxd6 Bxd6 26. Bxb7 Bxa4 27.
+Ra1 Bd7 28. Bxc8 Bxc8 29. Re8+ Kg7 30. b4 a4 31. b5 a3 32. Kf1 f6 33. c4 Bb4
+34. Re3 Kf7 35. Rb3 Ra4 36. Ke2 Ke7 37. Ra2 Kd6 38. f3 h5 39. g3 Kc7 40. Ke3
+Kb6 41. Ke4 Bf5+ 42. Ke3 g5 43. Ke2 Be6 44. Kd3 Bf7 45. f4 Bg6+ 46. Ke2 g4 47.
+Ke3 Bf7 48. Kd3 Be6 49. Rxb4 Rxb4 50. Rxa3 Bxc4+ 51. Kc3 Kxb5 52. Ra8 Rb3+ 53.
+Kc2 Rf3 54. Rb8+ Kc6 55. Rh8 Kd5 56. Rd8+ Ke4 57. Kd2 f5 58. Kc2 Bd5 59. Rh8
+Kxd4 60. Rxh5 Bc4 61. Rh8 Rf2+ 62. Kd1 Kc3 63. Re8 Rxh2 64. Re3+ Bd3 65. Ke1
+Kd4 66. Re8 Be4 67. Rb8 Ke3 68. Rb3+ Bd3 69. Ra3 Rh1# 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kusturin"]
+[Black "Arigoni"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "e72cb579"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e4 Nxc3 5. bxc3 g6 6. Nf3 Bg7 7. d4 c5
+8. Bc4 O-O 9. O-O Bg4 10. Rb1 Qc7 11. Bd5 Nc6 12. dxc5 e6 13. Bxc6 Qxc6 14.
+Qb3 Bxf3 15. gxf3 Qxc5 16. Be3 Qh5 17. Qxb7 Qxf3 18. Bc5 Be5 19. Bd4 Rab8
+20. Qc6 Bf4 21. Rxb8 Rxb8 22. Re1 Qg4+ 0-1
+

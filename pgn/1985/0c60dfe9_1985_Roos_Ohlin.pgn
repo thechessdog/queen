@@ -1,0 +1,23 @@
+[Event "corr ch-EU"]
+[Site "corr ch-EU"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roos"]
+[Black "Ohlin, Jan"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Byrne variation"]
+[HashCode "0c60dfe9"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 c6 6. f4 O-O 7. Be2 b5 8. a3
+Re8 9. Nf3 d5 10. Bxf6 exf6 11. exd5 cxd5 12. Nxb5 Nc6 13. O-O Bf5 14. b3
+Rb8 15. Nc3 Be4 16. Bb5 Qc7 17. Ba4 Red8 18. Rae1 f5 19. Bxc6 Qxc6 20. Ne5
+Qc7 21. Re3 Rbc8 22. Nxe4 dxe4 23. Re2 Bf8 24. Nc4 Rxd4 25. Qc1 Rcd8 26.
+Kh1 Bc5 27. Ne3 R4d7 28. Nc4 Rd5 29. Ree1 h5 30. h4 R8d7 31. Kh2 Qd8 32.
+Kh3 a6 33. Ne5 R7d6 34. Nc4 Re6 35. Re2 e3 36. Qe1 Rd4 37. g3 Qa8 38. Ne5
+Rd8 39. Nc4 f6 40. Qa5 Ba7 41. Kh2 Rd7 42. Kh3 Qc6 43. Kh2 Qe4 44. Qe1 g5
+45. Nb2 Rc6 46. Nc4 Re6 47. Kh3 Kh7 48. Qa1 Bb8 49. hxg5 fxg5 50. Qe1 gxf4
+51. gxf4 Rg7 0-1
+

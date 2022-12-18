@@ -1,0 +1,19 @@
+[Event "World Cup"]
+[Site "Brussels"]
+[Date "1988.04.01"]
+[Round "1"]
+[White "Tal, Mikhail"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "8857ce21"]
+[Epoch "Queen"]
+[BlackID "4100026"]
+[BlackCountry "RUS"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Qd6 8.
+Nbd2 Be6 9. Qe2 Nd7 10. Nc4 Bxc4 11. dxc4 Qe6 12. Be3 O-O 13. Rfd1 Rfd8 14. b3
+b6 1/2-1/2

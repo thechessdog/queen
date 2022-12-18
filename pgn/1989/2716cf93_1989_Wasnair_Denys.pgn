@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wasnair"]
+[Black "Denys"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "2716cf93"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. bxc3 exd4 10. cxd4 Nge7 11. Bg2 O-O 12. O-O Qd6 13. f4 Rad8
+14. Qb3 b6 15. Rac1 Qg6 16. Qc2 f5 17. Qa4 Rf6 18. Rc2 Rdd6 19. Rfc1 Qh5
+20. Kf1 Qxh2 21. Bf3 Qh6 22. d5 1-0
+

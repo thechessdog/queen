@@ -1,0 +1,20 @@
+[Event "Bohemians-B"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kolasinski, Marek"]
+[Black "Dejkalo, Stefan"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "ed2a2b46"]
+[Epoch "Queen"]
+[WhiteID "1102397"]
+[BlackID "1100246"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. O-O O-O 10. Bc2 Re8 11. Qd3 g6 12. Rd1 Bf8 13. Qf3 Bg7 14. Ne4 f5
+15. N4c3 Nxc3 16. bxc3 e5 17. Rb1 exd4 1/2-1/2

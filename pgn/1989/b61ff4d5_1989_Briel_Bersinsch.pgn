@@ -1,0 +1,18 @@
+[Event "Latvia Tch"]
+[Site "Latvia Tch"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Briel"]
+[Black "Bersinsch"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "b61ff4d5"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. e5 Bg7 7. Bf4 Qa5
+8. Qd5 Qb4 9. Qd2 e6 10. a3 Qa5 11. Rc1 a6 12. b4 Qxa3 13. b5 Na5 14. Ne4
+Bf8 15. Nd6+ Bxd6 16. exd6 axb5 17. Qc2 f6 18. Bd3 Nb3 19. Bxg6+ hxg6 20.
+Qxg6+ Kf8 21. O-O Nxc1 22. Ne5 Ne2+ 23. Kh1 1-0
+

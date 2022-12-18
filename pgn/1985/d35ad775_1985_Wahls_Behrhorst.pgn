@@ -1,0 +1,23 @@
+[Event "Hamburg HSV"]
+[Site "Hamburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Wahls, Matthias"]
+[Black "Behrhorst, Frank"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Flohr variation"]
+[HashCode "d35ad775"]
+[Epoch "Queen"]
+[WhiteID "4600070"]
+[WhiteCountry "GER"]
+[BlackID "4605322"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. c4 Nb6 7. Ng5 Bf5 8. g4
+Bxb1 9. Rxb1 h6 10. Ne4 dxe5 11. dxe5 Qc7 12. e6 fxe6 13. g5 N8d7 14. Bh5+ Kd8
+15. Qe2 Kc8 16. b3 hxg5 17. Nxg5 g6 18. Nxe6 Qe5 19. Qxe5 Nxe5 20. Be2 Nbd7 21.
+Bb2 Rg8 22. f4 Nf7 23. Bg4 b6 24. Rd1 Nd6 25. c5 Nf5 26. Rg1 Ne3 27. Rxd7 Kxd7
+28. Nxf8+ Ke8 29. Nxg6 Nxg4 30. Rxg4 Rd8 31. h4 Rd3 32. cxb6 axb6 33. f5 Rf3
+34. Ra4 1-0

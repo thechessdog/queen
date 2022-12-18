@@ -1,0 +1,18 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Renman, Nils-Gustaf"]
+[Black "Karlsson, Lars"]
+[Result "1/2-1/2"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "c797d854"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. c4 d5 5. Bg2 Be7 6. O-O O-O 7. Qc2 Nc6 8. Bg5
+Ne4 1/2-1/2

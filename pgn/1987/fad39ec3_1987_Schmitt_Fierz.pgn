@@ -1,0 +1,18 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schmitt"]
+[Black "Fierz, Martin"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "fad39ec3"]
+[Epoch "Queen"]
+[BlackID "1302132"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d6 6. d4 Be6 7. Bxe6 fxe6 8.
+Nc3 Nd7 9. Bxf4 g5 10. Nxg5 Bxg5 11. Qh5+ Kf8 12. Bxg5 Ngf6 13. Qh6+ Kf7 14.
+Ke2 Rg8 15. Rhf1 1-0

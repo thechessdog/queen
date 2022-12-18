@@ -1,0 +1,26 @@
+[Event "corr ch17-SU"]
+[Site "corr ch17-SU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ufimtsev, Anatoly"]
+[Black "Godes, D."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "514618bd"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nd7 3. e3 Ngf6 4. c4 e6 5. Nc3 Be7 6. Bd3 O-O 7. O-O b6 8. cxd5
+exd5 9. b3 Bb7 10. Bb2 c5 11. Rc1 Rc8 12. Qe2 Ne4 13. Ba6 Nxc3 14. Rxc3 Bxa6
+15. Qxa6 cxd4 16. Nxd4 Nc5 17. Qb5 a6 18. Qe2 Bf6 19. Rc2 Qd7 20. h3 a5 21. Nf3
+Ne4 22. Bxf6 Nxf6 23. Rfc1 Ne4 24. Nd4 Rc5 25. Rxc5 Nxc5 26. Qf3 Rd8 27. Rc2
+Qd6 28. Qf5 h6 29. a3 g6 30. Qg4 Qf6 31. Qg3 Kg7 32. Kh2 Rd7 33. f4 Re7 34. b4
+axb4 35. axb4 Ne4 36. Qf3 Qd6 37. Rc6 Qb8 38. Qe2 Nd6 39. Qg4 Kg8 40. Qg3 Ne4
+41. Qh4 Rc7 42. b5 Kh7 43. Nf3 Rxc6 44. bxc6 Qc7 45. Nd4 h5 46. Qe1 Nd6 47. Qc1
+Kg8 48. Kh1 Kg7 49. Qa1 Kf8 50. Qa2 Qe7 51. Qxd5 Ne8 52. Qf3 Nd6 53. Kh2 h4 54.
+Qd5 Ne8 55. Qb3 Qc5 56. Qb2 Nd6 57. Qf2 Qc3 58. Qxh4 Qxe3 59. Qf6 Ne8 60. Qe5
+Qxe5 61. fxe5 Nc7 62. Kg3 Ke7 63. Kf4 f6 64. Ke4 b5 65. Nc2 Ke6 66. exf6 Kxf6
+67. h4 Ke6 68. g4 Nd5 69. Ne3 Nc7 70. h5 gxh5 71. gxh5 b4 72. h6 Kf7 73. Nf5
+Kg6 74. Kd4 Kh7 75. Kc4 Na6 76. Kb5 b3 77. Kxa6 b2 78. c7 b1=Q 79. c8=Q Qa2+
+80. Kb7 1-0

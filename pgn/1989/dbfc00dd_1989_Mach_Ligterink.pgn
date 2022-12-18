@@ -1,0 +1,18 @@
+[Event "Den Haag"]
+[Site "Den Haag"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mach III"]
+[Black "Ligterink"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "dbfc00dd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. Bg5 d5 8.
+cxd5 exd5 9. Qb3 Nc6 10. Rd1 Re8 11. Bxf6 Qxf6 12. a3 Ba5 13. Qxd5 Bf5 14.
+Qc4 Rad8 15. d5 Ne5 16. Qa4 Bxc3+ 17. bxc3 Nd3+ 18. Rxd3 Bxd3 19. Qb4 Re4
+0-1
+

@@ -1,0 +1,19 @@
+[Event "Cuba"]
+[Site "Cuba"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cuesta Navarro, San"]
+[Black "Vera Gonzalez-Quevedo, Reynaldo"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e41ae6e4"]
+[Epoch "Queen"]
+[BlackCountry "CUB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Qe2
+Be7 9. g4 O-O 10. g5 Nfd7 11. Bxe6 fxe6 12. Nxe6 Qe8 13. Nc7 Qg6 14. Nxa8 Ne5
+15. f4 Bg4 16. Nd5 Nbc6 17. Nxe7+ Nxe7 18. Qe3 Nf3+ 19. Kf2 Nxg5 20. Rg1 Rxf4+
+21. Qxf4 Nh3+ 22. Kg3 Be6+ 23. Kf3 Qxg1 24. Qg3 Qd1+ 25. Ke3 Nc6 26. Nc7 Ne5
+0-1

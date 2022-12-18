@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vorobiev"]
+[Black "Uvarov"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "d1293ca8"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. e4 Nbc6
+8. Bb5 Ng6 9. Nf5 Bxf5 10. exf5 Ne5 11. c3 Nf3+ 12. Kf2 Qf6 13. Bxc6+ bxc6
+14. Qc2 h5 15. d4 h4 16. Qe4+ Kd7 17. Qxg4 hxg3+ 18. Kxf3 Rag8 0-1
+

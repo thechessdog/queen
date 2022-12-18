@@ -1,0 +1,20 @@
+[Event "Ostia"]
+[Site "Ostia"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bellia, Fabrizio"]
+[Black "Pieri"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "1957338c"]
+[Epoch "Queen"]
+[WhiteID "800511"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Bg7 7. Bg2 O-O 8. O-O
+Bg4 9. Nde2 Qd7 10. Nd5 Nc6 11. a4 Rac8 12. c3 Ne5 13. f3 Be6 14. Nef4 Nc4 15.
+Nxe6 Qxe6 16. Re1 Rc5 17. f4 Re8 18. b3 Nb6 19. c4 Nbd7 20. Ra2 Qg4 21. Bf3 Qh3
+22. Be3 Nxd5 23. exd5 Rc7 24. Bg4 Qh6 25. Bxd7 Rxd7 26. Bxa7 e5 27. dxe6 fxe6
+28. Bd4 Qh3 29. Bxg7 Kxg7 30. Rd2 Qf5 31. Re5 Qf8 32. Rb5 1-0

@@ -1,0 +1,18 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Greer"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "964a6cfd"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. d4 cxd4 5. cxd4 Bb4+ 6. Nc3 exd4 7. Nxd4 Nf6 8.
+Nxc6 bxc6 9. Bd3 O-O 10. O-O d6 11. Bg5 h6 12. Bh4 g5 13. Bg3 Bg4 14. Qc2 Re8
+15. a3 Ba5 16. b4 Bc7 17. Rfe1 Rc8 18. h4 Nh5 19. Bh2 gxh4 20. f3 Bb6+ 21. Kh1
+Ng3+ 22. Bxg3 hxg3 0-1

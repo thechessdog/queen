@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Blaskowski"]
+[Black "Kuehnel"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "dd6232dd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1
+8. Rxd1 fxe5 9. Rd3 Bxf3 10. gxf3 Bd6 11. Nd2 Nh6 12. Nc4 Nf7 13. f4 exf4
+14. Nxd6+ cxd6 15. Bxf4 Rd8 16. Rad1 Ke7 17. Bg3 g5 18. f4 h6 19. f5 Rhg8
+20. Kf2 Rge8 21. Kf3 h5 22. h3 Rf8 23. h4 g4+ 24. Ke3 Rfe8 25. Bf4 Rg8 26.
+Kf2 Kf6 27. Bxd6 Nxd6 28. Rxd6+ Rxd6 29. Rxd6+ Ke5 30. Re6+ Kf4 31. f6 Rf8
+32. e5 Rf7 33. Re7 Rf8 34. f7 Kf5 35. e6 Kf6 36. Re8 Kg7 37. Kg3 b6 38. Kf4
+c5 39. Kf5 g3 40. Rxf8 Kxf8 41. Kf6 1-0
+

@@ -1,0 +1,20 @@
+[Event "IRI v DUSSI"]
+[Site "IRI v DUSSI"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Watson, J."]
+[Black "Gleave, D."]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "55ff7ea9"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Nf6 5. e3 Bg4 6. Bxc4 e6 7. h3 Bh5 8.
+Bb5 Bb4 9. Qa4 Bxc3+ 10. bxc3 Bxf3 11. gxf3 Qd5 12. Rg1 Qxf3 13. Ba3 Ne4
+14. Bxc6+ bxc6 15. Qxc6+ Kd8 16. Rf1 Rb8 17. Bb4 Qf5 18. Rd1 Qd5 19. Qa6
+Qb7 20. Qd3 Kc8 21. Rg1 g6 22. f3 Nf6 23. e4 Qb5 24. Qd2 Nd7 25. Rg5 Qb7
+26. d5 Nb6 27. d6 cxd6 28. Qxd6 Qd7 29. Rc5+ Kb7 30. Qxd7+ Nxd7 31. Rxd7+
+Kb6 32. a4 1-0
+

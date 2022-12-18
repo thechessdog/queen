@@ -1,0 +1,18 @@
+[Event "Ostsee"]
+[Site "Ostsee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ekenlov"]
+[Black "Kremer, Mark"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "Cordel gambit"]
+[HashCode "fd71a160"]
+[Epoch "Queen"]
+[BlackID "1001248"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Bd6 8.
+Ng4 Qh4 9. Ne3 Nh6 10. h3 O-O 11. Rf1 Be6 12. Qc2 Nf5 13. Nxf5 Rxf5 14. Be3 Bc4
+15. Nd2 Bxf1 16. Kxf1 Raf8 0-1

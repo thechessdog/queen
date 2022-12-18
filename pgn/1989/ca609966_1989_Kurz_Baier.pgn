@@ -1,0 +1,17 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kurz, Eugen"]
+[Black "Baier, H."]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "ca609966"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 f5 4. Nf3 c6 5. Bf4 Nf6 6. e3 Be7 7. Bd3 O-O 8. O-O
+Ne4 9. Bxe4 fxe4 10. Ne5 Bf6 11. f3 Bxe5 12. Bxe5 exf3 13. Rxf3 Nd7 14. Rxf8+
+Nxf8 15. c5 Ng6 16. Bd6 b6 17. b4 Ba6 18. Qg4 Qf6 19. b5 Bxb5 20. Nxb5 cxb5 21.
+Rf1 Qd8 22. Qxe6+ Kh8 23. Qxd5 bxc5 24. dxc5 Rc8 25. Rf7 Qa5 26. Qe6 1-0

@@ -1,0 +1,19 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Berg, Klaus"]
+[Black "Pfleger, Helmut, Dr."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "dd9a5705"]
+[Epoch "Queen"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "4600100"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c6 7. h3 Nbd7 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bd3 Re8 11. O-O Nf8 12. Qc2 Ng6 13. Bh2 1/2-1/2

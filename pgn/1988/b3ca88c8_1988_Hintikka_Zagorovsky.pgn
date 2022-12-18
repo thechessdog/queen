@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hintikka, E."]
+[Black "Zagorovsky, Vladimir Pavlovich"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "b3ca88c8"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. d4 d5 8. exd5
+Nxd4 9. Nxd4 exd4 10. a4 Rb8 11. axb5 axb5 12. Na3 O-O 13. O-O Bg4 14. f3 Bd7
+15. Qe5 Bc5 16. Bg5 Re8 17. Qf4 Rb6 18. Qd2 h6 19. Bh4 Bf5 20. Rae1 Rxe1 21.
+Rxe1 Qd7 22. Re5 d3+ 23. Bf2 Bxf2+ 24. Kxf2 dxc2 25. Nxc2 Bxc2 26. Qxc2 Qd6 27.
+Qc3 Rb8 28. g3 Nd7 29. Re4 Nc5 30. Rg4 g6 31. Bc2 Re8 32. b4 Nd7 33. Re4 Rd8
+34. Bb3 Nf6 35. Rd4 Ne8 36. Rf4 Qb6+ 37. Kf1 Nd6 38. Qf6 Ra8 39. Bc2 Qa7 40.
+Rg4 Qe3 41. Bxg6 Qc1+ 42. Kg2 Ra2+ 43. Bc2+ Kf8 44. Kh3 Qxc2 45. Qd8+ Ne8 46.
+Re4 Qxh2+ 47. Kg4 f5+ 48. Kxf5 Qh5+ 49. Kf4 Qf7+ 50. Ke5 Qe7+ 51. Qxe7+ Kxe7
+52. Kf5+ Kf7 53. Rh4 Ra6 54. Ke5 Rg6 55. f4 Nf6 56. Rh3 Nd7+ 57. Kd4 Kg7 58.
+Rh1 Rxg3 59. Rc1 Kg6 60. Rxc7 Nf6 61. d6 h5 62. Kc5 Rd3 63. Re7 h4 64. Re1 Kf5
+65. Kc6 h3 66. Rf1 Rd2 67. Rh1 Kg4 0-1

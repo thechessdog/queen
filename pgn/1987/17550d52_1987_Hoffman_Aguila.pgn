@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hoffman, Alejandro"]
+[Black "Aguila, Gustavo"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "17550d52"]
+[Epoch "Queen"]
+[BlackID "101044"]
+[BlackCountry "ARG"]
+[WhiteID "100340"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Be2 Ncxe5 7. Nxe5 Nxe5
+8. O-O O-O 9. b3 Re8 10. Bb2 a5 11. Nc3 Ra6 12. Ne4 Ba7 13. c5 Rh6 14. g3 d5
+15. cxd6 cxd6 16. Bd4 Qd7 17. f4 Bxd4 18. Qxd4 Nc6 19. Qa4 d5 20. Nf2 Rxe3 21.
+Rfe1 Qe7 22. Kf1 Rhe6 0-1

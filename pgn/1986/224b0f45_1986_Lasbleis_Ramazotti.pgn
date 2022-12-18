@@ -1,0 +1,18 @@
+[Event "corr O'Kelly mem"]
+[Site "corr O'Kelly mem"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lasbleis"]
+[Black "Ramazotti"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "224b0f45"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+f4 O-O 9. O-O Qc7 10. a4 Be6 11. f5 Bc4 12. a5 Nbd7 13. Bg5 Rfd8 14. Bxc4
+Qxc4 15. Ra4 Qc6 16. Qd3 d5 17. exd5 Nxd5 18. Rc4 Nc5 19. Bxe7 Nxd3 20.
+Rxc6 Nxe7 21. Rc7 1-0
+

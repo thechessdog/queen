@@ -1,0 +1,19 @@
+[Event "corr Wch18 sf"]
+[Site "corr Wch18 sf"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Butze, Roland"]
+[Black "Lopepe, P."]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "0d9502c2"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. Qe2 exd4 7. e5 O-O 8.
+cxd4 Re8 9. Be3 Ng4 10. Nc3 d6 11. d5 Bxe3 12. dxc6 Bxf2+ 13. Kf1 Bb6 14. Nd5
+Re6 15. Nxb6 axb6 16. Qe4 Ra5 17. Bd3 f5 18. Qd4 Nxe5 19. b4 Nxc6 20. Qc3 Ra8
+21. Bxf5 Rf6 22. Bxc8 Qxc8 23. Kf2 Qg4 24. b5 Ne5 25. h3 Qh4+ 26. Ke2 Qg3 27.
+Qb3+ Kh8 0-1

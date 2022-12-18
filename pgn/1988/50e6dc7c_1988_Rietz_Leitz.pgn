@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rietz, A."]
+[Black "Leitz, T."]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "50e6dc7c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O
+8. h4 Nc6 9. h5 Ne5 10. hxg6 fxg6 11. f3 Nh5 12. g4 Nf4 13. Bxf4 Rxf4 14.
+Qd2 Qf8 15. Nd5 Rf7 16. Nc7 Rb8 17. O-O-O Qd8 18. Nce6 Bxe6 19. Nxe6 Qb6
+20. Nxg7 Rxg7 21. f4 Nc6 22. Bc4+ Kh8 23. Rh3 Rc8 24. g5 Nb4 25. Bb3 a5 26.
+Rdh1 e6 27. f5 exf5 28. Rxh7+ Rxh7 29. Rxh7+ Kxh7 30. Qh2+ Kg7 31. Qh6# 1-0
+

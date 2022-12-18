@@ -1,0 +1,20 @@
+[Event "Aarhus-D"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Knudsen, Per"]
+[Black "Reinert, Mads"]
+[Result "0-1"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "London defensive system"]
+[HashCode "74c915f5"]
+[Epoch "Queen"]
+[WhiteID "1400509"]
+[BlackID "1400487"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Nf6 4. g3 Bf5 5. Ba3 Qa5 6. Qc1 Na6 7. Qc3 Qb6 8. d3
+g6 9. Nbd2 Bg7 10. e4 dxe4 11. dxe4 Nxe4 12. Qxg7 Qxf2+ 13. Kd1 O-O-O 14. Be2
+Qe3 15. Ke1 Nxd2 16. Nxd2 Rxd2 17. Qxh8+ Kd7 0-1

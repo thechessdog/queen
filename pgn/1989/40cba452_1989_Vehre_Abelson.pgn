@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Abelson, Robert"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Heath variation"]
+[HashCode "40cba452"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. b4 Bb6 5. a4 a5 6. bxa5 Rxa5 7. d4 exd4 8. Nbd2
+d5 9. Ba3 Ne7 10. Nb3 dxe4 11. Ne5 Rxe5 12. fxe5 Nf5 13. Qg4 Qd5 14. O-O-O h5
+15. Qf4 d3 16. Bxd3 exd3 17. Rxd3 Qxd3 0-1

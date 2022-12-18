@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Oosterhoff"]
+[Black "Wynand"]
+[Result "0-1"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 8.O-O"]
+[HashCode "fad4fcb0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6
+8. O-O O-O 9. f4 Qb6 10. Qd3 Ng4 11. Nd5 Bxd4 12. Bxg4 Bxe3+ 13. Qxe3 Qxb2
+14. Bxc8 Rfxc8 15. Rab1 Qxc2 16. Rxb7 Rab8 17. Rxe7 Rb1 18. Rxb1 Qxb1+ 19.
+Kf2 Nb4 20. Nxb4 Qxb4 21. h3 Rc3 0-1
+

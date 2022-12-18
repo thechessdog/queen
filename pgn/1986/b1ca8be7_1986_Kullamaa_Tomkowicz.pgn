@@ -1,0 +1,20 @@
+[Event "corr Wcup3"]
+[Site "corr Wcup3"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kullamaa"]
+[Black "Tomkowicz"]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, Saemisch variation"]
+[HashCode "b1ca8be7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. cxd5 exd5 6. Bf4 Bb4 7. e3 Nb6
+8. Bd3 c6 9. Qc2 Bg4 10. Ne5 Bh5 11. O-O Bg6 12. Nxg6 hxg6 13. h3 Bd6 14.
+Rfe1 Bxf4 15. exf4+ Kf8 16. Qe2 Qd6 17. a3 Rh4 18. Qe5 Qxe5 19. fxe5 Rxd4
+20. Bxg6 fxg6 21. exf6 gxf6 22. Re6 Re8 23. Rxe8+ Kxe8 24. Re1+ Kf7 25. Re2
+Nc4 26. Kf1 Rd3 27. Rc2 a6 28. Ke2 Rd4 29. g3 f5 30. Nb1 f4 31. b3 Ne5 32.
+Nc3 fxg3 33. fxg3 Rd3 0-1
+

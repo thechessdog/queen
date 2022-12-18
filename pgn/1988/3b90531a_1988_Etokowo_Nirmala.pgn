@@ -1,0 +1,24 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Etokowo, I."]
+[Black "Nirmala, P."]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "3b90531a"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bg4 5. Be2 e6 6. O-O Be7 7. h3 Bxf3
+8. Bxf3 Nf6 9. Re1 O-O 10. d3 Nbd7 11. Bf4 Nd5 12. Bh2 N7f6 13. Qe2 h6 14.
+Rad1 Qb6 15. c3 Rad8 16. Be5 c5 17. d4 Nxe4 18. Qxe4 Qxb2 19. Qg4 Bf6 20.
+c4 Bxe5 21. dxe5 Nc3 22. Rd6 b6 23. Re3 Nxa2 24. Red3 Rxd6 25. exd6 Nb4 26.
+Rd1 Qf6 27. Qe4 Qd8 28. Qb7 Qb8 29. d7 Qxb7 30. d8=Q Qb8 31. Qxb8 Rxb8 32.
+Rd7 a5 33. Bd1 Nc6 34. Rc7 Nd4 35. f3 Rd8 36. Rb7 Rd6 37. Ba4 e5 38. Be8
+Rf6 39. Kf2 e4 40. f4 Rxf4+ 41. Ke3 Rf6 42. Rb8 Kh7 43. Kxe4 Kg6 44. g4 Kg5
+45. Rb7 Re6+ 46. Kd5 Rxe8 47. Rxf7 Kg6 48. Rd7 Kf6 49. h4 Re5+ 50. Kd6 Re6+
+51. Kc7 Re7 52. g5+ hxg5 53. hxg5+ Ke6 54. Kxb6 Rxd7 55. Kxa5 Rb7 56. g6
+Kd6 57. Ka6 Kc6 58. Ka5 Ra7# 0-1
+

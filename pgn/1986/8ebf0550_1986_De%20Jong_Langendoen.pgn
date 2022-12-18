@@ -1,0 +1,18 @@
+[Event "Moira"]
+[Site "Moira"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Jong, Peter"]
+[Black "Langendoen, A."]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "8ebf0550"]
+[Epoch "Queen"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 b5 6. Bb3 Nxe4 7. dxe5 Nc5 8.
+Bd5 Bb7 9. O-O Be7 10. c4 b4 11. Be3 O-O 12. Nbd2 Na5 13. Nd4 Nd3 14. f4 Bxd5
+15. cxd5 Rb8 16. Nf5 Bc5 17. Qc2 g6 18. Qxd3 Bxe3+ 19. Nxe3 Rb6 20. Ng4 g5 21.
+Ne4 1-0

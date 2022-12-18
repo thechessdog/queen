@@ -1,0 +1,20 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dol"]
+[Black "De Waard"]
+[Result "0-1"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "b256b4f2"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Nb5 Na6 7. e3 c5 8.
+h3 Bf5 9. Be2 Nb4 10. O-O a6 11. Nc3 dxc4 12. Bxc4 b5 13. Be2 Nfd5 14. Bh2
+Nc6 15. Ne1 cxd4 16. Nxd5 Qxd5 17. g4 Bd7 18. Bf3 Qc5 19. Rc1 Qb6 20. exd4
+Rac8 21. d5 Nd4 22. Rb1 e6 23. Bg2 exd5 24. Bxd5 b4 25. Be4 Bb5 26. Bd3
+Rfd8 27. Bxb5 Qxb5 28. Kg2 b3 29. a4 Qxa4 30. f3 Nc2 31. Qe2 Re8 32. Qf2
+Nxe1+ 0-1
+

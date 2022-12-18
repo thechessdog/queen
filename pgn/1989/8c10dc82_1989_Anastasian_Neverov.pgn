@@ -1,0 +1,18 @@
+[Event "URS-YM"]
+[Site "Tbilisi"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Anastasian, Ashot"]
+[Black "Neverov, Valeriy"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "8c10dc82"]
+[Epoch "Queen"]
+[WhiteCountry "ARM"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8. h3
+f5 9. exf5 Bxf5 10. Nf3 Nc6 11. Qb3+ Kh8 12. O-O-O a5 13. Ne5 a4 14. Qb5 a3 15.
+b3 Qd6 16. Nc4 Nxc4 17. Qxc4 Na5 18. Qb5 c5 19. Qa4 Nc6 20. Qb5 Qf6 21. Qc4
+cxd4 0-1

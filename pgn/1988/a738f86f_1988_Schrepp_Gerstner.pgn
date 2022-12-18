@@ -1,0 +1,23 @@
+[Event "Eppingen MA"]
+[Site "Eppingen MA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schrepp, M."]
+[Black "Gerstner, W."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "a738f86f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Bf5 3. e4 Bxe4 4. Nxe4 dxe4 5. c3 Nd7 6. Bc4 e6 7. Ne2 Bd6
+8. Qc2 Ngf6 9. Ng3 Bxg3 10. hxg3 c5 11. dxc5 O-O 12. Be3 Qc7 13. O-O-O Nxc5
+14. Bf4 e5 15. Bg5 Ncd7 16. Bb5 h6 17. Bxd7 hxg5 18. Bf5 Qc4 19. Qd2 Qxa2
+20. Qxg5 Qa1+ 21. Kc2 Qa4+ 22. Kb1 Rfd8 23. Rc1 Qc4 24. Qh4 Kf8 25. f3 Rd2
+26. Bxe4 Nxe4 27. Qxe4 Qxe4+ 28. fxe4 Ke7 29. Rh7 Rg8 30. Rc2 Rd3 31. Rh3
+Re3 32. Rd2 Rxe4 33. Kc2 f6 34. Rh4 Rxh4 35. gxh4 Rd8 36. Re2 Ke6 37. b4 f5
+38. Kb3 e4 39. b5 Ke5 40. Kb4 b6 41. g3 f4 42. gxf4+ Kxf4 43. Rf2+ Ke3 44.
+Rf7 Kd2 45. Rxg7 e3 46. Rxa7 e2 47. Re7 Rd5 48. c4 Rh5 49. Rd7+ Ke3 50.
+Re7+ Kf3 51. Rf7+ Ke4 0-1
+

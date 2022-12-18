@@ -1,0 +1,17 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Vaatainen"]
+[Black "Laakso"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "2a8b785c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. Nf3 Qf6 7. Nd5 Qxb2
+8. Bxb4 Qxa1+ 9. Kd2 Nc6 10. Nxc7+ Kd8 11. Bb5 Qxa2 12. Qf4 exf3 13. Qd6+
+Bd7 14. Bxc6 bxc6 15. Ra1 Qxa1 16. Nxa8 f6 17. Qf8+ Be8 18. Qd6+ 1/2-1/2
+

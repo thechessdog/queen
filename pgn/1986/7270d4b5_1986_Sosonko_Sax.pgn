@@ -1,0 +1,18 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "7270d4b5"]
+[Epoch "Queen"]
+[WhiteID "1000039"]
+[WhiteCountry "NED"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. O-O cxd4 8. Nxd4
+Bxg2 9. Kxg2 Qc8 10. Nc3 Be7 11. Bg5 O-O 1/2-1/2

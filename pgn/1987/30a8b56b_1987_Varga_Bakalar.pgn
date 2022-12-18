@@ -1,0 +1,19 @@
+[Event "Halle-B"]
+[Site "Halle"]
+[Date "1987.01.01"]
+[Round "8"]
+[White "Varga, Zoltan"]
+[Black "Bakalar, Petr"]
+[Result "0-1"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, English variation"]
+[HashCode "30a8b56b"]
+[Epoch "Queen"]
+[BlackID "300594"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e6 7. Qd2 b5 8. f3
+Bb7 9. g4 b4 10. Nce2 d5 11. e5 Nfd7 12. f4 Nc5 13. Ng3 Nc6 14. O-O-O Nxd4 15.
+Bxd4 Rc8 16. Kb1 Qa5 17. b3 Be7 18. h4 Ne4 19. Nxe4 dxe4 20. Bg2 O-O 21. Qe3
+Rxc2 22. Kxc2 Qxa2+ 0-1

@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Thorn Leeson"]
+[Black "Wyker"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "00aba79d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Bg5 Be7 6. Bf4 Bb4+ 7. Nbd2 a6
+8. Bxc6 dxc6 9. Be5 Nf6 10. Bxd4 O-O 11. c3 Be7 12. Qc2 c5 13. Be3 b6 14.
+h3 Bb7 15. O-O-O Qc8 16. e5 Nd5 17. Bh6 Re8 18. h4 Qg4 19. h5 Nf4 20. hxg6
+hxg6 21. Rh2 Ne6 22. Rh4 Bxh4 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Namyslo, H."]
+[Black "Colucci, P."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "d827b1d6"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Nbd7 9. Bf3 Nb6 10. Nge2 Bf5 11. O-O Qd7 12. a4 Bd3 13. d6 e6 14.
+Bf4 Bc4 15. Qa3 Bd5 16. Nxd5 Nfxd5 17. Bxd5 Nxd5 18. Be5 Rac8 19. Rac1 f6
+20. Bg3 Bh6 21. Rxc8 Rxc8 22. Nc3 Nxc3 23. bxc3 Bd2 24. c4 a5 25. c5 Bb4
+26. Qf3 1-0
+

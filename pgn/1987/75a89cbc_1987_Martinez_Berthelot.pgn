@@ -1,0 +1,17 @@
+[Event "France"]
+[Site "France"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Martinez, V."]
+[Black "Berthelot, Y."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "75a89cbc"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. a3 Bg4 8.
+Bc4 e6 9. Bxd5 exd5 10. Qb3 Bxf3 11. gxf3 Nxd4 12. Qxb7 Qc8 13. Qxc8+ Rxc8
+14. O-O 0-1
+

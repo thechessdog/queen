@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grafe"]
+[Black "Nakic"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "ec43c31a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8.
+cxb5 d5 9. e3 O-O 10. Bd3 Qa5 11. Bxf6 Rxf6 12. Qc1 a6 13. bxa6 Nc6 14. a3
+Bxc3+ 15. bxc3 Ne5 16. Be2 Bxa6 17. Qc2 d4 18. Bxa6 dxe3 19. f3 Qxa6 20.
+Rd1 Qc4 21. Ne2 Rxa3 0-1
+

@@ -1,0 +1,28 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Luksza, Arkadiusz"]
+[Black "Stelting, Thorsten"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "4a685466"]
+[Epoch "Queen"]
+[BlackID "4605616"]
+[BlackCountry "GER"]
+[WhiteID "2602490"]
+[WhiteCountry "CAN"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 O-O-O 8.
+a3 Nge7 9. Qa4 Kb8 10. Nb3 Ng6 11. O-O Ncxe5 12. Qxd7 Nxf3+ 13. Bxf3 Rxd7 14.
+Rd1 c5 15. Nd2 Be7 16. b3 f5 17. Bg2 a5 18. h4 Kc8 19. Nf3 Bf6 20. Bg5 Re8 21.
+Rac1 Bxg5 22. Nxg5 Bg8 23. Bh3 Rf8 24. Nf3 Re7 25. Rd2 Kc7 26. b4 axb4 27. axb4
+b6 28. bxc5 bxc5 29. Rb2 Rb8 30. Rxb8 Kxb8 31. Kf1 f4 32. Bg2 fxg3 33. fxg3 Kc8
+34. Bh3+ Kc7 35. Bf5 Kd6 36. Bd3 Nf8 37. Ra1 Nd7 38. Nd2 h6 39. Ne4+ Kc6 40.
+Nd2 Nf6 41. Ra6+ Kb7 42. Ra5 Kb6 43. Rb5+ Kc6 44. Nb3 Ne4 45. Kg2 Bh7 46. Na5+
+Kd7 47. Nb7 Re5 48. Nxc5+ Nxc5 49. Bxh7 Rxe2+ 50. Kf1 Re5 51. Rb1 Kd6 52. Rb6+
+Kc7 53. Rg6 Re7 54. Rg4 Rd7 55. Ke1 d3 56. Bf5 Rf7 57. Rf4 g5 58. hxg5 hxg5 59.
+Rf3 Kd6 60. Bg4 Rxf3 61. Bxf3 Ke5 62. Kf2 Kd4 63. Bd5 g4 64. Bf7 Ne4+ 65. Ke1
+Ke3 0-1

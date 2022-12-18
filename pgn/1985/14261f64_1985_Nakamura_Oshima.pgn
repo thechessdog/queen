@@ -1,0 +1,17 @@
+[Event "Hawaii"]
+[Site "Hawaii"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nakamura, Clyde J."]
+[Black "Oshima, D."]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "14261f64"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. g4 e5 3. dxe5 Nxg4 4. Nf3 Bc5 5. e3 Nc6 6. Nc3 Ngxe5 7. Nxe5 Nxe5
+8. Qh5 d6 9. Be2 g6 10. Qh6 Qf6 11. f4 Ng4 12. Bxg4 Bxg4 13. Nd5 Qd8 14. b4 Bb6
+15. Bb2 Bh5 16. Nf6+ Ke7 17. Nxh5 Ke6 18. O-O-O Qf8 19. Bg7 Qe8 20. f5+ Kxf5
+21. Qf4+ 1-0

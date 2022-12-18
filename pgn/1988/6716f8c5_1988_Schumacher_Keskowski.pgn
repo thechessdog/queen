@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schumacher"]
+[Black "Keskowski"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "6716f8c5"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ne1 Bxc3
+8. dxc3 h6 9. Nc2 d6 10. Ne3 Re8 11. Qc2 a5 12. f4 exf3 13. exf3 a4 14. f4
+Bd7 15. h3 Ra5 16. Bd2 Ne7 17. Rae1 Nf5 1/2-1/2
+

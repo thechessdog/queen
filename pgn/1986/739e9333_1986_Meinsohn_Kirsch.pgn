@@ -1,0 +1,19 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Meinsohn, Francis"]
+[Black "Kirsch, B."]
+[Result "0-1"]
+[ECO "A66"]
+[Opening "Benoni"]
+[Variation "Mikenas variation"]
+[HashCode "739e9333"]
+[Epoch "Queen"]
+[WhiteID "600938"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 d6 5. e4 g6 6. f4 exd5 7. cxd5 Bg7 8. e5
+Nfd7 9. Ne4 dxe5 10. Nd6+ Ke7 11. Nxc8+ Qxc8 12. Nf3 Re8 13. Be2 Kf8 14. O-O e4
+15. Ng5 h6 16. f5 hxg5 17. fxg6 Bd4+ 18. Kh1 f6 19. Bxg5 Kg7 20. Qb3 Rh8 21. d6
+Qe8 22. Qxb7 fxg5 23. Bg4 Qxg6 24. Qxa8 Qxd6 25. h3 Qg3 26. Qxe4 Be5 0-1

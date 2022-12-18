@@ -1,0 +1,25 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Harabor, M."]
+[Black "Karell, Sven"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "170d0fff"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6
+8. Bc4 exd4 9. cxd4 Ne7 10. Nc3 d5 11. exd5 cxd5 12. Qa4+ Bd7 13. Bb5 Bc6
+14. Bg5 f6 15. Bf4 O-O 16. Rfe1 Ng6 17. Bxc6 bxc6 18. Bg3 Ne7 19. Rad1 Re8
+20. h3 Qd7 21. Re2 Nf5 22. Bf4 Rxe2 23. Nxe2 Re8 24. Ng3 Nxg3 25. Bxg3 Re4
+26. Kf1 Qe8 27. f3 Re2 28. Qb3 Re3 29. Qc2 Qc8 30. Bf4 Qa6+ 31. Kf2 Re8 32.
+Be3 Bc7 33. Rd3 Ba5 34. a3 f5 35. Rd1 Qb7 36. b4 Qe7 37. Re1 Bc7 38. Qxc6
+Qf7 39. Bd2 Rxe1 40. Bxe1 g6 41. Bd2 Bb6 42. Bc3 f4 43. a4 Kg7 44. a5 Bd8
+45. b5 Bh4+ 46. Kf1 Qf5 47. Ke2 Qf7 48. Bd2 Bd8 49. b6 axb6 50. axb6 g5 51.
+b7 Bc7 52. Ba5 Bb8 53. Kf2 Qe7 54. Qxd5 Qe3+ 55. Kf1 h6 56. Qd7+ Kg6 57.
+Qc6+ Kg7 58. d5 Qd3+ 59. Kg1 Qe3+ 60. Kh2 Ba7 61. Qc3+ Kf7 62. Qxe3 fxe3
+63. Bb6 e2 64. Bxa7 1-0
+

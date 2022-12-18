@@ -1,0 +1,22 @@
+[Event "Dornbirn"]
+[Site "Dornbirn"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ramlow"]
+[Black "Milanesi"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "aa33d9e3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 Bg4 7. Nc3 Qa5
+8. d5 Ne5 9. Nxe5 Bxd1 10. Bb5+ Kd8 11. Nxf7+ Kc8 12. Kxd1 Nf6 13. Bd2 a6
+14. Rc1 Kb8 15. Bf4+ Ka7 16. Be3+ b6 17. Bc6 Rc8 18. Nxh8 e6 19. Bd2 Bb4
+20. Re1 exd5 21. a3 Rxc6 22. axb4 Qxb4 23. Nf7 d4 24. Ne5 Rc5 25. Nd3 Qb3+
+26. Ke2 dxc3 27. Nxc5 Qxb2 28. Rxc3 bxc5 29. Rec1 Ne4 30. R3c2 Qb5+ 31. Ke1
+Nxd2 32. Kxd2 Kb6 33. Rc3 a5 34. Re3 a4 35. Rce1 a3 36. Re6+ Ka5 37. Re8
+Qc6 38. R1e3 a2 39. Ra8+ Kb4 40. Rb8+ Kc4 41. Rc3+ Kd5 42. Rd3+ Ke6 43. Ra3
+Qd6+ 0-1
+

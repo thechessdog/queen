@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Tokmatshev, GV."]
+[Black "Fiorito, M."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "cea28176"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7 12. Be3 Nc5 13. Qg4 Kh8 14. Rf3
+Nxb3 15. Nxb3 Nc6 16. Rh3 g6 17. Rf1 Bb7 18. Nc5 Qc7 19. N3e4 Qxe5 20. Nd7
+f5 21. Qxg6 Qg7 22. Qxg7+ Kxg7 23. Nxf8 Kxf8 24. Bc5 1-0
+

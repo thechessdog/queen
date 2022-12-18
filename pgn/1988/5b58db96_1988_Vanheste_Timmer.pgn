@@ -1,0 +1,22 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Vanheste, Jeroen"]
+[Black "Timmer, Robert"]
+[Result "1-0"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[HashCode "5b58db96"]
+[Epoch "Queen"]
+[WhiteID "1000438"]
+[BlackID "1001051"]
+[WhiteCountry "NED"]
+[BlackCountry "NED"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 b6 5. Bg2 Bb7 6. O-O O-O 7. c4 c5 8. Nc3
+Na6 9. d4 d5 10. cxd5 Nxd5 11. Nxd5 Qxd5 12. Nh4 Qd7 13. dxc5 Qxd1 14. Rfxd1
+Bxb2 15. Bxb7 Bxa1 16. Bxa6 Bf6 17. c6 Be5 18. Nf3 Bc7 19. Rd7 Bd6 20. c7 Kg7
+21. Nd4 Kf6 22. Bb7 Rae8 23. Nb5 Ke6 24. Rxd6+ exd6 25. Nxa7 Kd7 26. c8=Q+ Rxc8
+27. Bxc8+ Kc7 1-0

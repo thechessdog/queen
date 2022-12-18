@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Runowiecki, T."]
+[Black "Tuchtenhagen, H."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "654acca6"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2
+Nd7 8. Ng3 Bg6 9. h4 h6 10. h5 Bh7 11. Bd3 Bxd3 12. Qxd3 Qc7 13. Qf3 O-O-O
+14. Bf4 e5 15. Be3 Re8 16. O-O-O Re6 17. d5 cxd5 18. Rxd5 Nb6 19. Bxb6 Rxb6
+20. Rhd1 Be7 21. Qd3 Re6 22. Nf5 e4 23. Qh3 Kb8 24. Qe3 b6 25. Rd7 1-0
+

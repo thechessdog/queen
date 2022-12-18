@@ -1,0 +1,21 @@
+[Event "Spring op"]
+[Site "Budapest open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bagonyai, Attila"]
+[Black "Fradkin, Boris"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "9f86a341"]
+[Epoch "Queen"]
+[BlackID "4103297"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Ne2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. a3 Be7 10. O-O Nc6 11. Qc2 h6 12. Be3 Bf6 13. Rad1 Nce7 14. Ng3 b6
+15. Qe2 Nxc3 16. bxc3 Nd5 17. Bd2 Bg5 18. f4 Bh4 19. c4 Nf6 20. Bc3 Bb7 21. d5
+Qc8 22. Ne4 exd5 23. Nxf6+ Bxf6 24. Bxf6 dxc4 25. Bxc4 gxf6 26. Rc1 Qf5 27. Bd3
+Qe6 28. Qf2 Kh8 29. Rfe1 Qd6 30. Red1 Rad8 31. Qh4 Qd4+ 32. Qf2 Rg8 33. Be2
+Rxg2+ 0-1

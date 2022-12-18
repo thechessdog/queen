@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dautov, Rustem"]
+[Black "Pigusov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "3cc63533"]
+[Epoch "Queen"]
+[BlackID "4100514"]
+[BlackCountry "RUS"]
+[WhiteID "4623606"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. Qc2 c5 7. O-O cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. b3 e5 11. Bb2 Bd6 12. Nd2 Qe7 13. Rac1 Bg4 14. e4 d4 15.
+c5 Bc7 16. Nc4 Rfd8 17. Ba3 Be6 18. Nb2 h5 19. Nd3 1/2-1/2

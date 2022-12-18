@@ -1,0 +1,22 @@
+[Event "corr EU-FSM"]
+[Site "corr EU-FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kahn"]
+[Black "Repp"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "f35cdb6f"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 c5 5. Bg2 Nc7 6. Nf3 Nc6 7. O-O e5
+8. b3 Be7 9. Ba3 O-O 10. Rc1 b6 11. Ne1 Bb7 12. Nd3 f6 13. f4 Qd7 14. Bb2
+Ba6 15. Nf2 exf4 16. gxf4 Rad8 17. d3 f5 18. Qd2 Bf6 19. Kh1 Ne7 20. Ncd1
+Ng6 21. Kg1 Ne6 22. Nh1 Nh4 23. Ng3 Nxg2 24. Kxg2 Bb7+ 25. Kf2 Qc6 26. Ke1
+Bh4 27. Ne3 Nd4 28. Kd1 Qe6 29. Nc4 Rfe8 30. Ne5 Bf6 31. Bxd4 Rxd4 32. Kc2
+Bxe5 33. fxe5 g6 34. e3 Rd5 35. d4 cxd4 36. exd4 Red8 37. Rfd1 Rxd4 38.
+Qxd4 Rxd4 39. Rxd4 Qxe5 40. Rd8+ Kg7 41. Rd7+ Kh6 42. Rxb7 f4 43. Rf7 g5
+44. Re7 Qc5+ 45. Kb1 Qd5 46. Rxa7 Qd3+ 47. Kb2 fxg3 0-1
+

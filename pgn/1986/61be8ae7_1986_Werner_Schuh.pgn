@@ -1,0 +1,26 @@
+[Event "Lauda MA"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Werner, Clemens"]
+[Black "Schuh, Hubert"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "61be8ae7"]
+[Epoch "Queen"]
+[WhiteID "4604636"]
+[WhiteCountry "GER"]
+[BlackID "4600894"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 Qd8 9. Be3 Nf6 10. Qb3 a6 11. O-O Be7 12. Ne5 Bxe2 13. Nxc6 bxc6 14. Nxe2
+O-O 15. Qa4 Qb6 16. b3 Nd5 17. Rac1 Rfc8 18. Nf4 Qb5 19. Qxb5 axb5 20. Nxd5
+exd5 21. Rc2 b4 22. Rfc1 Ra6 23. Re1 Bd6 24. Kf1 Kf8 25. h3 Rca8 26. Ree2 R8a7
+27. Ke1 Re7 28. Kd1 Ke8 29. Kc1 Kd7 30. Kb1 Ra8 31. Bg5 Re6 32. Rxe6 fxe6 33.
+Be3 Rf8 34. Re2 Rf5 35. Kc2 e5 36. Kd3 g6 37. dxe5 Rxe5 38. Bc1 Rf5 39. Rb2 c5
+40. Be3 Kc6 41. f3 Kb5 42. Bc1 Rf7 43. Re2 Ra7 44. Rc2 Re7 45. Be3 c4+ 46. Kd2
+Bc5 47. Bxc5 Kxc5 48. bxc4 dxc4 49. Kd1 c3 50. Re2 Rxe2 51. Kxe2 Kc4 52. Kd1
+Kd3 0-1

@@ -1,0 +1,30 @@
+[Event "Regionalliga NordN"]
+[Site "RLNN 8889"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Menzel, Ralf"]
+[Black "Leminski, Hajo"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "b48bbff5"]
+[Epoch "Queen"]
+[WhiteID "4607414"]
+[WhiteCountry "GER"]
+[BlackID "4649680"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 Nxe4 7. d5 Nb8 8. Re1
+Nd6 9. Bf1 O-O 10. Bf4 Ne8 11. Qe2 Nf6 12. d6 exd6 13. Bxd6 Re8 14. Qc4 Rxe1
+15. Nxe1 b6 16. Nd2 Bb7 17. Nef3 Bf8 18. Ng5 Bd5 19. Qf4 Bh6 20. Re1 Nc6 21. h4
+Nh5 22. Qg4 Be6 23. Qf3 Bxg5 24. hxg5 Qxg5 25. Ne4 Qf5 26. Qe3 Bd5 27. Bd3 Qe6
+28. Qd2 c4 29. Bc2 Kg7 30. Bc7 Re8 31. Re3 Rc8 32. Nd6 Rxc7 33. Rxe6 dxe6 34.
+Ne4 h6 35. g4 Ne5 36. Qd4 f6 37. Qd1 Nf4 38. Kh2 Ned3 39. Bxd3 cxd3 40. Nd2 b5
+41. a3 e5 42. f3 a5 43. Qg1 b4 44. Qb6 Rb7 45. Qxa5 bxc3 46. Qxc3 Bf7 47. b4
+Rd7 48. b5 Ne2 49. Qc6 Rd5 50. b6 Nd4 51. Qc7 Rb5 52. b7 Rb2 53. b8=Q Rxd2+ 54.
+Kh1 Rd1+ 55. Kg2 d2 56. Qcd8 Rg1+ 57. Kf2 Rf1+ 58. Ke3 d1=N+ 59. Kd3 Nf2+ 60.
+Ke3 Nd1+ 61. Kd3 Nf2+ 62. Kd2 Rd1+ 63. Ke3 Nxg4+ 64. fxg4 Nc2+ 65. Ke2 Rxd8 66.
+Qxd8 Nxa3 67. Qe7 Nb5 68. Kd3 Nd4 69. Kc3 g5 70. Qb7 Ne6 71. Kb4 Nf4 72. Kc5 h5
+73. gxh5 Nxh5 74. Kd6 Nf4 75. Qd7 e4 76. Qe7 Ne6 77. Qb7 f5 78. Qb2+ Kg6 79.
+Ke7 Bg8 80. Qh8 Bh7 81. Kxe6 f4 82. Qe8+ Kg7 83. Qf7+ Kh6 84. Kf6 1-0

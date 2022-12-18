@@ -1,0 +1,17 @@
+[Event "Gleisdorf"]
+[Site "Gleisdorf"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wolfmajer"]
+[Black "Kogelnik"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "39dcd359"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d5 4. Qxd4 dxe4 5. Qxe4 Nf6 6. Qd3 Qc7 7. Nf3 Nc6
+8. Be2 g6 9. Bg5 Bg7 10. Na3 a6 11. h3 Bf5 12. Qc4 b5 13. Bf4 Qb7 14. Qc5
+Rc8 15. O-O Nh5 16. Be3 Nd4 0-1
+

@@ -1,0 +1,18 @@
+[Event "corr NLD saldo"]
+[Site "corr NLD saldo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "De Jong, D."]
+[Black "Boendermaker, M."]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern (Steinitz) attack"]
+[HashCode "afa6d1fd"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. c3 Nxe4 5. Qxd4 d5 6. Bd3 Nc6 7. Bb5 Be6
+8. Bf4 f6 9. Nbd2 Bc5 10. Qa4 O-O 11. Bxc6 Bxf2+ 12. Ke2 Nc5 13. Qc2 Bh4
+14. Be3 bxc6 15. Bxc5 Bg4 16. Bxf8 Qe8+ 17. Kd1 Qe3 18. Rf1 Re8 19. Qa4 Bf5
+20. Qxh4 1-0
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kriester"]
+[Black "Nagler"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "bd672bf3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 Nf6
+8. O-O Bd6 9. Nxc6 dxc6 10. f4 e5 11. f5 b5 12. Qf3 Bb7 13. Bg5 O-O-O 14.
+a4 b4 15. Na2 c5 16. b3 h6 17. Be3 Rhg8 18. c3 bxc3 19. Rac1 g5 20. fxg6
+Rxg6 21. Rxc3 Qa5 22. Rfc1 Kb8 23. Qf5 Rdg8 24. Bxc5 Bxc5+ 25. Rxc5 Rxg2+
+26. Kh1 Qxc5 0-1
+

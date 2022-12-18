@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Beissel"]
+[Black "Winborn"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "93cc7020"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bb5 g6 7. Nxc6 Qc7
+8. Nd5 Nxd5 9. Ne5+ Kd8 10. Nxf7# 1-0
+

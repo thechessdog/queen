@@ -1,0 +1,17 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ivanov, Sergey"]
+[Black "Kveinys, Aloyzas"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "bb267b40"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 g6 6. d5 Bg7 7. g3 O-O 8. Bg2
+exd5 9. cxd5 c6 10. d6 c5 11. O-O Nc6 12. e4 Re8 13. Re1 a6 14. e5 Ng4 15. Bf4
+Qb8 16. Nd5 Ngxe5 17. Nxe5 Nxe5 18. Ne7+ Rxe7 19. dxe7 f6 20. Bxe5 fxe5 21.
+e8=Q+ 1-0

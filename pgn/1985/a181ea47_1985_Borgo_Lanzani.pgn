@@ -1,0 +1,18 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Borgo"]
+[Black "Lanzani"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "a181ea47"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8.
+Re1 Nc6 9. Ne5 cxd4 10. Nxc6 bxc6 11. cxd4 Rd8 12. Be3 c5 13. Be2 cxd4 14.
+Bf3 dxe3 15. Bxd5 exf2+ 16. Kxf2 Bc5+ 17. Ke2 Ba6+ 18. Kf3 Rxd5 19. Qc2 Bd3
+20. Qd2 Rf5+ 21. Qf4 Rxf4+ 22. Kxf4 Nd5+ 23. Kf3 Bd4 0-1
+

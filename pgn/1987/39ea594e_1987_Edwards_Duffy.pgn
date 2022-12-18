@@ -1,0 +1,18 @@
+[Event "corr APCT"]
+[Site "corr APCT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Edwards, J."]
+[Black "Duffy, J."]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, English variation"]
+[HashCode "39ea594e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Qd2 Be7 8.
+f3 O-O 9. O-O-O b5 10. g4 Bb7 11. h4 Re8 12. g5 Nh5 13. Bh3 g6 14. Qg2 Nd7
+15. Kb1 Rc8 16. Nce2 Qc7 17. Ng3 Nxg3 18. Qxg3 Ne5 19. h5 b4 20. hxg6 hxg6
+21. Qh4 Nxf3 22. Nxf3 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hoekstra"]
+[Black "Bor"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "dc61220e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Bg5 Bb4+ 7. c3 Bc5
+8. Nbd2 d6 9. a4 a6 10. Bc4 Qe7 11. b4 Ba7 12. Qb3 Nd8 13. O-O Ne6 14. Bh4
+h6 15. Bg3 g5 16. Ne1 h5 17. h4 Nh7 18. hxg5 h4 19. Bxh4 Nhf8 20. Nef3 Ng6
+21. Bg3 Nef4 22. a5 Qh7 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Preibsch"]
+[Black "Petzold"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "22e9c863"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 Qc7 11. Nd5 Bxd5 12. exd5 Nbd7 13. c4 Rac8 14.
+Rc1 Qb8 15. Na5 Bd8 16. Qe1 Re8 17. f5 Nc5 18. Qb4 Nfd7 19. Qa3 Ne4 20. b4
+Bg5 21. Bxg5 Nxg5 22. Qe3 f6 23. h4 Nf7 24. Bh5 Rc7 25. Rc3 b6 26. Nc6 Qb7
+27. Nd4 exd4 28. Qxe8+ Nf8 29. Bxf7+ Rxf7 30. Rd3 Rc7 31. Rxd4 b5 32. c5
+dxc5 33. bxc5 Rxc5 34. Rfd1 Rc2 35. Qe4 Rxa2 36. d6 Qd7 37. Qd5+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "USA-op"]
+[Site "Los Angeles"]
+[Date "1987.??.??"]
+[Round "8"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "De Firmian, Nick"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "fd721d1e"]
+[Epoch "Queen"]
+[BlackID "2000105"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 1/2-1/2

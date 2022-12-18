@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mortensen, Erling"]
+[Black "Welin, Thomas"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "124e0c8e"]
+[Epoch "Queen"]
+[BlackID "1700324"]
+[BlackCountry "SWE"]
+[WhiteID "1400045"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. Ne2
+Be7 9. g3 O-O 10. Bh3 cxd4 11. cxd4 f6 12. Bxe6+ Kh8 13. exf6 Bb4+ 14. Kf2 Nxf6
+15. Bxc8 Raxc8 16. Kg2 Rce8 17. a3 Ba5 18. Qd3 Qd8 19. Bd2 Bxd2 20. Qxd2 Ng4
+21. Rhe1 Na5 22. Rab1 Nc4 23. Qc1 Qc8 24. h3 Nge3+ 25. Kh2 Nf1+ 0-1

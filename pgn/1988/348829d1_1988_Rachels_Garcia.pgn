@@ -1,0 +1,19 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rachels, Stuart"]
+[Black "Garcia, X."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "348829d1"]
+[Epoch "Queen"]
+[WhiteID "2000350"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. c5 Be7 8. Bb5
+O-O 9. O-O Qc7 10. Re1 b6 11. Bxc6 Qxc6 12. Ne5 Qc7 13. Bf4 bxc5 14. Ng6 Qd8
+15. Nxf8 Bxf8 16. Rc1 Bd6 17. Bxd6 Qxd6 18. dxc5 Qxc5 19. Ne4 Qe7 20. Nxf6+
+Qxf6 21. Qxd5 Rb8 22. Qb5 1-0

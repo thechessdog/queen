@@ -1,0 +1,25 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hugentobler, Patrick"]
+[Black "Vebic, Kasem"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "ec7d4fe6"]
+[Epoch "Queen"]
+[WhiteID "1301497"]
+[WhiteCountry "SUI"]
+[BlackID "906832"]
+[BlackCountry "FID"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2
+cxd4 9. Nxd4 Qa5 10. Bd3 Bc5 11. Nce2 Qxd2+ 12. Kxd2 Nb4 13. a3 Nxd3 14. cxd3
+O-O 15. Rac1 Bb6 16. Nb3 Bd8 17. Ned4 Re8 18. Nf3 f6 19. Bc5 Nxc5 20. Nxc5 b6
+21. Nb3 Bd7 22. Nbd4 b5 23. Nb3 a5 24. Nc5 Bc8 25. b4 a4 26. Ke2 fxe5 27. fxe5
+Rf8 28. Nd4 Bg5 29. Rcf1 Rf4 30. Nxb5 Ba6 31. Rxf4 Bxb5 32. Rf3 Re8 33. Rhf1 h6
+34. Rf7 Be7 35. Nb7 d4 36. g3 Bc6 37. Nd6 Bxd6 38. exd6 Rd8 39. Re7 Be8 40. d7
+Bh5+ 41. Kd2 Bg6 42. Rxe6 Bf7 43. Re7 Bg6 44. Rf4 h5 45. h4 Kh7 46. Rxd4 Bf5
+47. Re8 Rxd7 48. Rxd7 Bxd7 49. Rf8 1-0

@@ -1,0 +1,20 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nowak, Ignacy"]
+[Black "Luczak, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "2b0d6268"]
+[Epoch "Queen"]
+[WhiteID "1100157"]
+[WhiteCountry "POL"]
+[BlackID "1100700"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Nc6 9. Bc4 Bb4+ 10. Bd2 Qa5 11. Rb1 Bxd2+ 12. Qxd2 Ke7 13. Ke2 Qxd2+ 14.
+Kxd2 b6 15. Ke3 Bb7 16. Rbc1 1/2-1/2

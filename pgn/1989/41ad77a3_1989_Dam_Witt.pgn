@@ -1,0 +1,17 @@
+[Event "WGM-Groningen"]
+[Site "WGM-Groningen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dam, Ruurd"]
+[Black "Witt, R."]
+[Result "1-0"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[HashCode "41ad77a3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. h3 Rb8 12. Bf4 Qc7 13. Rc1 Re8 14. Qd2 Nb6 15. b3
+Ne4 16. Nxe4 Rxe4 17. a5 Nd7 18. Ng5 Rd4 19. Qe3 Be5 20. Bxe5 dxe5 21. f4 Rb4
+22. Nxf7 exf4 23. Qe7 c4 24. Qxb4 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koch, S."]
+[Black "Zantl, R."]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch"]
+[HashCode "1f17a80d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 c5 5. exd5 exd5 6. Bb5+ Bd7 7. Qe2 Nf6
+8. dxc5 O-O 9. Nb3 Re8 10. Be3 Bxc5 11. Bxd7 Nbxd7 12. Nxc5 Nxc5 13. Qb5
+Rc8 14. O-O a6 15. Qb4 Re4 16. Qd2 h6 17. Rad1 Ne6 18. Rfe1 Qe7 19. c3 Re8
+20. h3 Nc5 21. Nd4 Re5 22. Nf3 Re4 23. Nd4 Re5 1/2-1/2
+

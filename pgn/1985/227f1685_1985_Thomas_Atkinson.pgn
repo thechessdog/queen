@@ -1,0 +1,21 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Thomas, C."]
+[Black "Atkinson, H."]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "227f1685"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 e6 7. Nc3 Nge7
+8. Ndb5 O-O 9. Be2 f5 10. O-O f4 11. Bc5 a6 12. Nd6 b6 13. Ba3 Qc7 14. Rc1
+Nd4 15. Nxc8 Nxc8 16. Bxf8 Kxf8 17. Re1 Ne7 18. Na4 Nec6 19. c5 b5 20. Nc3
+Kg8 21. f3 Nb4 22. a3 Nbc2 23. Rxc2 Nxc2 24. Qxc2 Qxc5+ 25. Kh1 Rc8 26. Qd3
+Bd4 27. Rd1 e5 28. Nd5 Kf7 29. b4 Qf8 30. Qb3 Ke8 31. a4 g5 32. axb5 axb5
+33. Bxb5 Qh6 34. Qa4 Kf7 35. Bxd7 Rc4 36. Bf5 Bf2 37. Qd7+ Kg8 38. Be6+ Kh8
+39. Qe8+ Kg7 40. Qg8# 1-0
+

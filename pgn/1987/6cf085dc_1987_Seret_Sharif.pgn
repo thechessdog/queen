@@ -1,0 +1,19 @@
+[Event "Cannes"]
+[Site "Cannes"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Seret, Jean-Luc"]
+[Black "Sharif, Mehrshad"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "Hungarian defence"]
+[HashCode "6cf085dc"]
+[Epoch "Queen"]
+[BlackID "600121"]
+[BlackCountry "FRA"]
+[WhiteID "600210"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. dxe5 dxe5 6. Qxd8+ Bxd8 7. O-O Nf6
+8. Re1 O-O 9. c3 Re8 10. a4 a5 11. Na3 Nb8 12. Nb5 Na6 13. Bg5 h6 14. Bh4 g5
+15. Bg3 Nd7 16. Nd2 Be7 17. Nb3 c6 18. Na3 Nac5 19. Nxc5 Bxc5 20. Nc2 1/2-1/2

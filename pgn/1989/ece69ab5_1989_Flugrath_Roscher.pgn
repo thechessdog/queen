@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Flugrath, R."]
+[Black "Roscher, J."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Ulvestad variation"]
+[HashCode "ece69ab5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. dxc6 bxc4 7. Nc3 Bc5
+8. h3 O-O 9. Qe2 h6 10. Nge4 Bb6 11. b4 Nxe4 12. Qxe4 Qf6 13. O-O Be6 14.
+b5 Rfd8 15. Bb2 Rxd2 16. Na4 Bd5 17. Qe1 Qg5 18. g4 Qh4 19. Bxe5 Qxh3 0-1
+

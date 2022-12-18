@@ -1,0 +1,22 @@
+[Event "Wuerzburg op"]
+[Site "Wuerzburg"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Bartels, Hans"]
+[Black "Schneider, Attila"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "f4a978cd"]
+[Epoch "Queen"]
+[WhiteID "1000276"]
+[WhiteCountry "NED"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Nc4 Nb6 10. Ne3 O-O 11. Bd3 Re8 12. O-O a6 13. f4 Bd7 14. Qf3 Nc8 15. g4
+b5 16. Ne2 b4 17. a4 Nb6 18. g5 Nh5 19. a5 Nc8 20. Ng3 Nxg3 21. hxg3 Bd4 22.
+Kg2 Ra7 23. e5 dxe5 24. fxe5 Bxe5 25. Qxf7+ Kh8 26. Qf3 Nd6 27. Nc4 Nxc4 28.
+Bxc4 Qc8 29. Rf2 Bg4 30. Qd3 Bf5 31. Qb3 Be4+ 32. Kh2 Qg4 33. Bf1 Qh5+ 34. Bh3
+Bf5 35. Rxf5 gxf5 0-1

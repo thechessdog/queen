@@ -1,0 +1,16 @@
+[Event "Royan"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Verat, Laurent"]
+[Black "Antunes, Antonio"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "47ab02d0"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 a6 6. Ne5 c5 7. Be3 Nd5 8. dxc5
+Nd7 9. Bd4 Nxe5 10. Bxe5 Bxc5 11. Bxg7 Rg8 12. Bd4 Nf4 13. Qa4+ Bd7 14. Qxc4
+Nxg2+ 0-1

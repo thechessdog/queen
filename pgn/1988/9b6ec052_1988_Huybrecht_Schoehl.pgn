@@ -1,0 +1,18 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Huybrecht"]
+[Black "Schoehl"]
+[Result "1-0"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, Alekhine variation"]
+[HashCode "9b6ec052"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8.
+Bd3 dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 b6 12. O-O Bb7 13. Ng3 c5 14. e4
+N5f6 15. d5 exd5 16. exd5 Ne5 17. Re1 Nxf3+ 18. Qxf3 Qd7 19. Nf5 Bxd5 20.
+Bxd5 Nxd5 21. Qg4 Qxf5 22. Qxf5 1-0
+

@@ -1,0 +1,19 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ganchev, Georgi"]
+[Black "Janev, Evgeni"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "fe41b81a"]
+[Epoch "Queen"]
+[BlackID "2900360"]
+[BlackCountry "FID"]
+
+1. b4 e5 2. Bb2 d6 3. e3 Nf6 4. a3 Be7 5. c4 O-O 6. Nf3 Ne4 7. Be2 a5 8. d3 Ng5
+9. Nbd2 axb4 10. axb4 Rxa1 11. Qxa1 f5 12. O-O Nd7 13. Rc1 Nxf3+ 14. Bxf3 g5
+15. c5 Nf6 16. cxd6 cxd6 17. Qa7 b5 18. Rc7 Bd7 19. g3 Qe8 20. Nb3 Bd8 21. Rb7
+Qe6 22. Na5 Qa2 23. Rxd7 Qxb2 24. Rg7+ Kh8 25. Rxg5 Ne8 26. Rh5 Ng7 27. Rh6 e4
+28. Bh5 Bg5 29. Rxd6 Nxh5 30. Qd7 Nf6 31. Qa7 Qe2 32. Qd4 Kg8 33. Nc6 Ng4 0-1

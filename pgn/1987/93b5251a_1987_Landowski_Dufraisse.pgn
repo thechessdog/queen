@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Landowski, M."]
+[Black "Dufraisse, J."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "93b5251a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8.
+O-O O-O 9. h3 b5 10. Bd3 Bb7 11. Bg5 Nbd7 12. a3 Nc5 13. Bxf6 Bxf6 14. Qe2
+Rc8 15. Nd5 Nxd3 0-1
+

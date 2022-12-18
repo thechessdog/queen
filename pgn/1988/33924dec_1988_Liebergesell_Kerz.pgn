@@ -1,0 +1,20 @@
+[Event "Wiesbaden op"]
+[Site "Wiesbaden"]
+[Date "1988.01.01"]
+[Round "9"]
+[White "Liebergesell, Andreas"]
+[Black "Kerz, Markus"]
+[Result "1-0"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[HashCode "33924dec"]
+[Epoch "Queen"]
+[WhiteID "4650166"]
+[WhiteCountry "GER"]
+[BlackID "24613533"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Bg7 6. e3 Nxc3 7. bxc3 c5 8. Nf3
+cxd4 9. cxd4 Qa5+ 10. Qd2 Qxd2+ 11. Kxd2 dxc4 12. Bxc4 Nc6 13. Rab1 e5 14. d5
+Na5 15. Bb5+ Bd7 16. Rhc1 f6 17. Rc7 Rd8 18. Nxe5 1-0

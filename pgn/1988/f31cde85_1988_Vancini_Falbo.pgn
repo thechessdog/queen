@@ -1,0 +1,20 @@
+[Event "Caorle op"]
+[Site "Caorle"]
+[Date "1988.??.??"]
+[Round "7"]
+[White "Vancini, Edoardo"]
+[Black "Falbo, Sandro"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Gligoric variation"]
+[HashCode "f31cde85"]
+[Epoch "Queen"]
+[WhiteID "800597"]
+[BlackID "810444"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8. Be3
+Qd7 9. Nbd2 Ne7 10. h3 Bh5 11. dxe5 fxe5 12. Nxe5 Bxd1 13. Nxd7 Bh5 14. Nc5
+O-O-O 15. Ne6 1-0

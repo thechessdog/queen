@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Piontek"]
+[Black "Zunke"]
+[Result "1-0"]
+[ECO "D68"]
+[Opening "QGD"]
+[Variation "Orthodox defence, classical, 13.d1c2 (Vidmar)"]
+[HashCode "b7b21eae"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 Nbd7 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O Nd5 10. Bxe7 Qxe7 11. Rc1 Nxc3 12. Rxc3 e5 13. Qc2 exd4 14.
+exd4 Nf6 15. Re1 Qd6 16. Ng5 Bg4 17. Nxf7 Rxf7 18. Bxf7+ Kxf7 19. Qb3+ Kf8
+20. Qxb7 Rb8 21. Qxa7 Rxb2 22. Rxc6 Qb4 23. Rec1 Re2 24. h3 Re1+ 25. Kh2
+Bd7 26. Rxf6+ gxf6 27. Rxe1 Qxe1 28. Qxd7 Qxf2 29. Qd6+ 1-0
+

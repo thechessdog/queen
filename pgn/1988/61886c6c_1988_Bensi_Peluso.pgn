@@ -1,0 +1,18 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bensi, P."]
+[Black "Peluso, A."]
+[Result "1/2-1/2"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[HashCode "61886c6c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 b6 10. d5 Bxc3 11. dxe6 Ne5 12. exf7+ Kh8 13. bxc3 Bg4 14.
+e4 Qe7 15. Bf4 Nxc4 16. Qxc4 Qxe4 17. Qxe4 Nxe4 18. Ng5 Nxg5 19. Bxg5 Rxf7
+20. Rfe1 h6 1/2-1/2
+

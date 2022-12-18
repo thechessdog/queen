@@ -1,0 +1,23 @@
+[Event "Nova-Park"]
+[Site "Nova-Park"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weiler, Dieter"]
+[Black "Summermatter, Daniel"]
+[Result "0-1"]
+[ECO "E78"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, with Be2 and Nf3"]
+[HashCode "96b59505"]
+[Epoch "Queen"]
+[WhiteID "4606418"]
+[WhiteCountry "GER"]
+[BlackID "1300385"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. Be2 Bg4 8. d5 b5
+9. cxb5 a6 10. bxa6 Nxa6 11. O-O Qb6 12. Nd2 Bxe2 13. Qxe2 Nb4 14. Nf3 Rfb8 15.
+f5 Qa6 16. fxg6 hxg6 17. Qxa6 Rxa6 18. Rd1 Ng4 19. Bg5 Kf8 20. h3 Ne5 21. Nxe5
+Bxe5 22. Kf1 f6 23. Bd2 Kf7 24. Ke2 Rba8 25. a4 Nc2 26. Rab1 Nd4+ 27. Kd3 Rb6
+28. Be3 Rb4 29. g4 c4+ 30. Kd2 Nb3+ 31. Kc2 Rab8 32. Rh1 Na1+ 33. Rxa1 Rxb2+
+34. Kc1 Bxc3 35. Ra3 Ba5 0-1

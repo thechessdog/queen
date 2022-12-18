@@ -1,0 +1,19 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Klein, Thomas"]
+[Black "Loebel, Carsten"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[HashCode "6e81e706"]
+[Epoch "Queen"]
+[WhiteID "4683552"]
+[BlackID "4657241"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Nf6 5. g3 Bg4 6. Qd2 e6 7. Bg2 Nc6 8. a3
+Qa5 9. Nce2 Qa6 10. Nf3 Ne4 11. Qe3 Nb4 12. Qb3 Rc8 13. c3 Nd3+ 14. Kf1 Nxc1
+15. Qc2 Nxe2 16. Qxe2 Bxf3 17. Qxa6 Bxg2+ 18. Kxg2 0-1

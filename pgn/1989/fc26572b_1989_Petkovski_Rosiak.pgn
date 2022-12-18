@@ -1,0 +1,19 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1989.01.01"]
+[Round "12"]
+[White "Petkovski, Vlatko"]
+[Black "Rosiak, Andrzej"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "fc26572b"]
+[Epoch "Queen"]
+[BlackID "1100580"]
+[BlackCountry "POL"]
+[WhiteID "15000273"]
+[WhiteCountry "MKD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 e6 8. Qd2 exd5
+9. cxd5 Re8 10. a4 Na6 11. Nge2 Bd7 12. Ng3 1/2-1/2

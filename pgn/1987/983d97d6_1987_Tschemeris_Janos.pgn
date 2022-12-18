@@ -1,0 +1,23 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tschemeris, RM."]
+[Black "Janos, J."]
+[Result "0-1"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[HashCode "983d97d6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 a6 7. Qd2 h6 8.
+Be3 Ng4 9. O-O-O Nxe3 10. Qxe3 Be7 11. Kb1 Qc7 12. f4 Nd7 13. Be2 b5 14. a3
+Nb6 15. f5 O-O 16. h4 Bd7 17. g4 e5 18. Nf3 Rfc8 19. Qd2 Qc5 20. g5 b4 21.
+axb4 Qxb4 22. gxh6 Rab8 23. Na2 Qxd2 24. Rxd2 gxh6 25. Bxa6 Rc7 26. Be2 Na4
+27. c3 Rxc3 28. Bd1 Rc5 29. Rg2+ Kf8 30. Rhg1 Ke8 31. Rg8+ Bf8 32. R1g2 Bc6
+33. Bxa4 Bxa4 34. f6 Kd7 35. R8g3 Bc6 36. Re2 Ke6 37. Nd2 Kxf6 38. Rf2+ Ke6
+39. Rgf3 Be7 40. h5 Bh4 41. Re2 d5 42. Rh3 Be7 43. exd5+ Bxd5 44. Nc3 Rg8
+45. Rhe3 Rg1+ 46. Kc2 Rg5 47. Rh2 f5 48. Nf3 Bxf3 49. Rxf3 e4 50. Re3 Bd6
+51. Rh1 Rg2+ 0-1
+

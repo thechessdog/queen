@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Abegg, B."]
+[Black "Glauser, P."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "b58d4444"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be2 Nc6 9. Be3 Bg4 10. Rb1 Bxf3 11. Bxf3 cxd4 12. Bxd4 Bxd4 13. cxd4
+Nxd4 14. Rxb7 Nxf3+ 15. gxf3 Qxd1+ 16. Kxd1 O-O-O+ 0-1
+

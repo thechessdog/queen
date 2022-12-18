@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rieger"]
+[Black "Breuer"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "84fa59c9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 Bb7 9. d3 d6 10. Bd2 b4 11. c3 d5 12. cxb4 dxe4 13. dxe4 Nxb4 14. Nxe5
+Nxe4 15. Nxf7 Rxf7 16. Qf3 Bd5 17. Bxd5 Qxd5 18. Qxe4 Qxe4 19. Rxe4 Nc2 20.
+Ra2 Bc5 21. Be3 Rd8 22. Nc3 Nxe3 23. fxe3 Rd2 24. Re8+ Bf8 25. b4 Rd3 26.
+Rc2 g6 27. Rc1 Kg7 28. b5 Bc5 29. Nd1 axb5 30. axb5 Bb6 31. h3 Rfd7 32. Nf2
+Bxe3 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kunad"]
+[Black "Hunger"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "b1781286"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O
+8. Nf3 c5 9. dxc5 f6 10. exf6 Qxf6 11. g3 Nc6 12. Qd2 Nxc5 13. O-O-O Rd8
+14. Nd4 Ne4 15. Qe3 Nxc3 16. Qxc3 Nxd4 17. Rxd4 Bd7 18. Bg2 Be8 19. Re1
+Rac8 20. Qd2 Bg6 21. c3 Bf5 22. b3 b5 23. Kb2 a5 24. a3 Rb8 25. b4 Rd6 26.
+h3 h5 27. Bf3 Bxh3 28. Bxh5 Bf5 29. g4 Bg6 30. g5 Qf7 31. Bxg6 Qxg6 32.
+bxa5 Ra6 33. f5 Qxf5 34. Rf4 1-0
+

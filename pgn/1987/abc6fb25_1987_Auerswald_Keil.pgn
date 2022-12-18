@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Auerswald"]
+[Black "Keil"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "abc6fb25"]
+[Epoch "Queen"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Nf6 4. Nf3 Nc6 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxe4 Be6 10. Bd2 Bb4 11. Nxd4 Nxd4 12. c3 Be7 13. cxd4
+Qd5 14. Rc1 c6 15. Bg5 Bxg5 16. Rc5 Qxa2 17. Nxg5 O-O-O 18. Nxe6 fxe6 19.
+Qe2 0-1
+

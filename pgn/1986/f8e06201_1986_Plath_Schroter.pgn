@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Plath"]
+[Black "Schroter"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "f8e06201"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 Nf6 6. Bxc6+ bxc6 7. c5 Bxc5
+8. Bxe5 Qe7 9. Bxf6 Qxf6 10. d4 Bd6 11. Qf3 Bb4+ 12. Nd2 Qg6 13. Ne2 Qc2
+14. Rd1 Ba6 15. Qg3 O-O-O 16. Qxg7 Kb7 17. Qxf7 Bxe2 18. Kxe2 Rhf8 19. Qh5
+Bxd2 20. Rxd2 Rxf2+ 21. Kxf2 Qxd2+ 22. Kg3 Rg8+ 23. Kf4 Qxg2 0-1
+

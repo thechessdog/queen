@@ -1,0 +1,20 @@
+[Event "corr EUR"]
+[Site "corr EUR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zravy"]
+[Black "Quednau"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "cf19ecd2"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Qc7 8.
+a4 b6 9. Bb5+ Bd7 10. Bd3 Nbc6 11. O-O h6 12. Qd2 O-O 13. Ba3 Na5 14. Nh4
+f5 15. exf6 Rxf6 16. dxc5 bxc5 17. Qe3 Nb7 18. Ba6 Bxa4 19. Rfb1 Bc6 20.
+Bxc5 Nd8 21. Bd3 Nf5 22. Nxf5 exf5 23. Rxa7 Rxa7 24. Bxa7 f4 25. Qb6 Qe7
+26. Qc5 Qd7 27. f3 Nb7 28. Qd4 Nd6 29. Bc5 Nb5 30. Qe5 Kf7 31. c4 Nc7 32.
+Rb8 Ne6 33. Bf5 Nxc5 34. Bxd7 Nxd7 35. Qe8# 1-0
+

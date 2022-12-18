@@ -1,0 +1,21 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Rocher, Olivier"]
+[Black "Kirszenberg, Marc"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "63471027"]
+[Epoch "Queen"]
+[WhiteID "603627"]
+[BlackID "601594"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 g6 5. b3 Bg7 6. Bb2 O-O 7. Nbd2 Ne4 8. Nxe4
+dxe4 9. Nd2 f5 10. Qc2 Nd7 11. g4 e5 12. gxf5 exd4 13. fxg6 d3 14. gxh7+ Kxh7
+15. Bxd3 exd3 16. Qxd3+ Kg8 17. Bxg7 Kxg7 18. Rg1+ Kf7 19. Qg6+ Ke7 20. O-O-O
+Qa5 21. Ne4 Nf6 22. Rg5 Qxa2 23. Re5+ Be6 24. Rxe6+ Kxe6 25. Nc5+ 1-0

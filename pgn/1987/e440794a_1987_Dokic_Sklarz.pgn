@@ -1,0 +1,17 @@
+[Event "Bot"]
+[Site "Bot"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dokic"]
+[Black "Sklarz, Gerd"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[HashCode "e440794a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. Bg5 Be7 6. e4 Nxd5 7. Qxd5 Bxg5 8. Rd1
+Be7 9. Nb5 Nc6 10. Nxd6+ Bxd6 11. Qxd6 Qxd6 12. Rxd6 Ke7 13. Rd2 Be6 14. a3
+Rad8 15. Nf3 f6 16. Be2 Na5 17. Rxd8 Rxd8 18. Nd2 Rd6 19. b3 b5 20. cxb5 Nxb3
+21. Nxb3 Bxb3 22. O-O Rd2 23. Re1 Ra2 24. f3 c4 25. Kf2 Kd6 26. Rc1 Kc5 27. a4
+Rxa4 28. Bd1 Kxb5 29. Bxb3 cxb3 30. Rc7 Rb4 0-1

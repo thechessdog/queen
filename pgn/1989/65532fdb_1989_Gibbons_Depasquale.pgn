@@ -1,0 +1,23 @@
+[Event "Sydney"]
+[Site "Sydney"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gibbons, R."]
+[Black "Depasquale"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "65532fdb"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 c6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bxd3 6. cxd3 Ne7 7. O-O Ng6
+8. Bg3 Nd7 9. Ne5 Ngxe5 10. dxe5 Qb6 11. Qc2 h5 12. h3 h4 13. Bh2 d4 14. e4
+Qc5 15. Na3 Qxc2 16. Nxc2 Nc5 17. Rfd1 Na4 18. Rab1 Rd8 19. Bf4 Be7 20. Ne1
+c5 21. Bd2 b5 22. Rdc1 Rc8 23. b3 Nb6 24. Nf3 O-O 25. Bg5 Bxg5 26. Nxg5 c4
+27. dxc4 bxc4 28. bxc4 Nxc4 29. Nf3 d3 30. Rd1 Rfd8 31. Rb3 d2 32. Kf1 Rc5
+33. Rc3 Rdc8 34. Ke2 Nxe5 35. Rxc5 Rxc5 36. Rxd2 Nxf3 37. Kxf3 g5 38. Kg4
+Kg7 39. g3 hxg3 40. Kxg3 Kf6 41. Kg4 Rc4 42. f3 Rc1 43. Kg3 Rg1+ 44. Kf2
+Rh1 45. Kg3 Rg1+ 46. Kf2 Ra1 47. Rb2 a5 48. Kg3 a4 49. h4 gxh4+ 50. Kxh4 a3
+51. Rd2 Ke5 52. Kg3 Rg1+ 53. Kh3 Kf4 54. Rd7 Rg3+ 55. Kh2 Rxf3 56. Rxf7+
+Kxe4 57. Re7 e5 58. Kg2 Rc3 0-1
+

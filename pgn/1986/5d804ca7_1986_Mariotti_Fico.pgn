@@ -1,0 +1,20 @@
+[Event "Fiuggi"]
+[Site "Fiuggi"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mariotti"]
+[Black "Fico"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "5d804ca7"]
+[Epoch "Queen"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4
+8. Bd2 Bxc3 9. bxc3 exd4 10. cxd4 Nge7 11. Be2 O-O-O 12. Qb3 Rhe8 13. Rb1
+Qxb3 14. Rxb3 Nf5 15. Bc3 g6 16. Rg1 Re7 17. Rg4 Rde8 18. Kd2 Nd6 19. Kc2
+f5 20. Rg1 a6 21. a4 Rd7 22. Rgb1 Nb8 23. Bf1 b6 24. Bb4 Kd8 25. Rc3 Nc8
+26. Kb3 Ne7 27. Bxe7+ Rexe7 28. f4 a5 29. h4 Rd6 30. Rbc1 Rg7 31. Bd3 Rd5
+32. Bc4 Rd6 33. Bb5 Rd5 34. Be2 Rd6 35. Bd3 Rd5 36. Rg1 h5 37. Rg5 Ke8 38.
+Rc1 Kf8 39. Rcg1 c5 40. Rxg6 Rxg6 41. Rxg6 cxd4 42. Bc4 Rd8 43. exd4 1-0
+

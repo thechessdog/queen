@@ -1,0 +1,26 @@
+[Event "Southampton ch-BCF"]
+[Site "Southampton ch-BCF"]
+[Date "1986.07.01"]
+[Round "10"]
+[White "Walker, David"]
+[Black "Kosten, Anthony C."]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "a87f3c83"]
+[Epoch "Queen"]
+[BlackID "400114"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+O-O 9. Bc3 Ne4 10. Bb2 f5 11. Nbd2 d6 12. d5 Nxd2 13. Qxd2 exd5 14. Nd4 Rf7 15.
+cxd5 c5 16. Ne6 Qc8 17. Rfe1 Nd7 18. Ng5 Bxg5 19. Qxg5 Qf8 20. e4 h6 21. Qd2
+Ne5 22. Bxe5 dxe5 23. exf5 Rxf5 24. Bh3 Rf3 25. Rxe5 Qf6 26. Rae1 Rf8 27. Re8
+Rd3 28. Qc2 Rxe8 29. Rxe8+ Kf7 30. Re1 Qg6 31. Qc1 Rf3 32. Bg2 Rf6 33. Qe3 Kg8
+34. Qe8+ Qxe8 35. Rxe8+ Rf8 36. Re7 Rf7 37. Re5 c4 38. Bf1 b5 39. bxc4 bxc4 40.
+d6 Kf8 41. Ra5 Bc8 42. Bxc4 Rb7 43. Rb5 a6 44. Rxb7 Bxb7 45. Be6 Bc6 46. f4 Ke8
+47. Kf2 Bd7 48. f5 Kd8 49. Ke3 Bb5 50. Kd4 Bf1 51. Ke5 Be2 52. f6 gxf6+ 53.
+Kxf6 h5 54. Kg5 a5 55. h3 a4 56. a3 Bd1 57. g4 Bb3 58. Bf5 hxg4 59. hxg4 Ke8
+60. Kf6 Kd8 61. g5 Bf7 62. g6 Bg8 63. Be6 Bf7 64. g7 Be8 65. d7 Bf7 66. Kxf7
+Kc7 67. g8=Q Kb7 68. d8=Q Kc6 69. Qd5+ Kb6 70. Qb8+ Ka6 71. Qdb5# 1-0

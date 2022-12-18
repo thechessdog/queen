@@ -1,0 +1,18 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hoekstra"]
+[Black "Mostertman"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "45b72cfc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 Nf6 5. exf5 Bc5 6. O-O O-O 7. Be3 Nd4
+8. c3 Nxf3+ 9. Qxf3 Bb6 10. Nd2 c6 11. Ba4 d5 12. d4 Nd7 13. Bc2 Qf6 14.
+Qg4 c5 15. Rfe1 a5 16. Bg5 Qd6 17. Qh4 Rf7 18. dxe5 Nxe5 19. Bf4 g5 20.
+Qxg5+ 1-0
+

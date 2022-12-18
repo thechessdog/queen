@@ -1,0 +1,30 @@
+[Event "POL-chT"]
+[Site "Porabka"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Zielinski, Marek"]
+[Black "Chachaj, Tomasz"]
+[Result "1-0"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "0db7e431"]
+[Epoch "Queen"]
+[WhiteID "1100769"]
+[BlackID "1101137"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. d5 Rac8 15.
+Bb1 Nh5 16. Nf1 Nf4 17. Kh2 g6 18. g3 Nh5 19. Bh6 Ng7 20. g4 Nc4 21. Qe2 Nb6
+22. Ne3 Bf6 23. Bd3 Rb8 24. b3 Bc8 25. a4 Bd7 26. axb5 axb5 27. Rec1 Qb7 28.
+Bxb5 Bxb5 29. Qxb5 Nd7 30. Qxb7 Rxb7 31. Nd2 Nc5 32. Rc3 Rfb8 33. Ra3 Ne8 34.
+Nec4 g5 35. Na5 Ra7 36. h4 Rb4 37. hxg5 Bd8 38. Rc4 Rxa5 39. Rxb4 Rxa3 40. Rb8
+Be7 41. g6 fxg6 42. Rxe8+ Kf7 43. Rb8 Ra2 44. Be3 Bh4 45. Kg1 Nd3 46. Nc4 Bxf2+
+47. Bxf2 Nxf2 48. Nxd6+ Ke7 49. Nf5+ Kd7 50. Rb7+ Kd8 51. Ng3 Nxg4 52. Rxh7 Rb2
+53. Rb7 Nh2 54. Rf7 Ng4 55. Rf3 Kd7 56. Rc3 Ke7 57. Kf1 Kf6 58. Ke1 Kg5 59. Kd1
+Rh2 60. Kc1 Kf4 61. b4 Nf2 62. b5 Rh8 63. Kc2 Rd8 64. Kb3 Nd1 65. Rc1 Nf2 66.
+Rg1 Nxe4 67. Nxe4 Kxe4 68. Re1+ Kd4 69. Kb4 e4 70. Rd1+ Ke5 71. Kc5 e3 72. d6
+Ke6 73. Rd3 Rc8+ 74. Kb6 e2 75. Re3+ Kxd6 76. Rxe2 Rb8+ 77. Ka6 Ra8+ 78. Kb7
+Ra1 79. Rd2+ Ke7 80. b6 Rb1 81. Ka7 Ra1+ 82. Kb8 1-0

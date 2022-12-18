@@ -1,0 +1,16 @@
+[Event "Dortmund op"]
+[Site "Dortmund op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirchenhoff"]
+[Black "Foldi"]
+[Result "0-1"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "3b89bf49"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. Nxb5 Ba6 7. e3 Bxb5
+0-1
+

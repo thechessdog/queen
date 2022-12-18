@@ -1,0 +1,20 @@
+[Event "Smolensk"]
+[Site "Smolensk"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Karasev, Vladimir I"]
+[Black "Neverovsky, Gennadi"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "6ba1ca50"]
+[Epoch "Queen"]
+[WhiteID "4103971"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Qa4 c5 7. a3 Bxc3+ 8. Nxc3
+O-O 9. b4 Qc7 10. bxc5 bxc5 11. Rb1 cxd4 12. exd4 Rc8 13. Rxb8 Qxb8 14. Qxa6
+Qb3 15. Bd2 Ne4 16. Qa4 Nxd2 17. Kxd2 Qb2+ 18. Qc2 Qxa3 19. Bd3 Rab8 20. Ke3
+Rb2 21. Qc1 Qb4 22. Rd1 Rb3 23. Na2 Qxc4 24. Qxc4 Rxc4 25. Nc1 Ra3 26. Ne2 Rb4
+27. Rc1 g6 28. Rc8+ Kg7 29. Nc3 d5 30. f4 Rc4 0-1

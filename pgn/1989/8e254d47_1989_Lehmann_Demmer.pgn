@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Demmer"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "8e254d47"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 f5 10. Nc3 Bb4 11. Qb3 Qa5 12. cxd5 cxd5 13. Bxe4 fxe4 14. Rxe4 Bxc3
+15. bxc3 Nc6 16. Ba3 Rd8 17. Be7 Nxe7 18. Rxe7 Qb6 19. Rc1 Qc6 20. Ng5 Bd7 21.
+Ne6 Re8 22. Rxg7+ Kh8 23. Qc2 1-0

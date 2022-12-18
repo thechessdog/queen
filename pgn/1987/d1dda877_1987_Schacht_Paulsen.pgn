@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schacht, Holger"]
+[Black "Paulsen, Dirk"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "d1dda877"]
+[Epoch "Queen"]
+[WhiteID "4603079"]
+[BlackID "4601343"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bg5 O-O 6. e3 a6 7. Qc2 Nbd7 8. cxd5
+exd5 9. Bd3 Re8 10. O-O Nf8 11. Ne5 Ng4 1/2-1/2

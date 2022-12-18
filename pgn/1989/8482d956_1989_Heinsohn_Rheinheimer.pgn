@@ -1,0 +1,16 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heinsohn, Thomas"]
+[Black "Rheinheimer"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "8482d956"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Be7 8. e4
+Nf6 9. Bd3 h6 10. O-O O-O 11. Qe2 Nbd7 12. Rd1 a6 13. e5 Nh7 14. d5 Qc8 15.
+dxe6 Nc5 16. exf7+ Kh8 17. Bc4 Qg4 18. h3 Qg6 19. Nd5 Bd8 20. Nf4 1-0

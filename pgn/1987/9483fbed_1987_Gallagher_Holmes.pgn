@@ -1,0 +1,19 @@
+[Event "Swansea ch-BCF"]
+[Site "Swansea ch-BCF"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Gallagher, Joseph G."]
+[Black "Holmes, Donald A"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "9483fbed"]
+[Epoch "Queen"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+[BlackID "2400227"]
+[BlackCountry "SCO"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. h4 O-O 10. Qd2 Nxd4 11. Bxd4 Ne5 12. Be2 Qc7 13. O-O-O Bd7 14. Bxe5 1-0

@@ -1,0 +1,19 @@
+[Event "corr ch14-NLD"]
+[Site "corr ch14-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Goedkoop, A."]
+[Black "De Ruiter, Tom"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "e8b6e00b"]
+[Epoch "Queen"]
+[BlackID "1004964"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8. f4
+Qb6 9. Na4 Qc6 10. c3 b5 11. Nxc5 Nxc5 12. dxc5 Qxc5 13. Qg4 Kf8 14. Rh3 Qxg1
+15. Rg3 g6 16. h5 Qc5 17. Qg5 Ke8 18. O-O-O Bd7 19. Bd3 Qe7 20. Rh1 Qxg5 21.
+Rxg5 Rf8 22. hxg6 hxg6 0-1

@@ -1,0 +1,19 @@
+[Event "corr ch32-POL sf"]
+[Site "corr ch32-POL sf"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zajaczkowski, J."]
+[Black "Uscinski, M."]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "ae0c2a93"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 Nf6 5. Nc3 e6 6. e4 Nxe4 7. Nxe4 exd5
+8. Ng3 Be7 9. Be2 O-O 10. O-O Nc6 11. a4 Na5 12. Nd2 Be6 13. Qc2 a6 14. b3
+c3 15. Nf3 d4 16. Rb1 Qd5 17. Bd3 Nxb3 18. Bxh7+ Kh8 19. Be4 Qc4 20. Ne5
+Qxa4 21. Qe2 g6 22. Bxg6 Nxc1 23. Qh5+ Kg7 24. Qh7+ Kf6 25. Re1 Bd6 26.
+Qh4+ Kg7 27. Nh5+ Kg8 28. Bh7+ Kxh7 29. Nf6+ Kg7 30. Qg5+ Kh8 31. Qh6# 1-0
+

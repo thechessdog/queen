@@ -1,0 +1,18 @@
+[Event "Moscow-ch playoff"]
+[Site "Moscow"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Gorelov, Sergey G"]
+[Black "Timoshchenko, Gennadi Anatolyevich"]
+[Result "*"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "192c17e3"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+[BlackCountry "SVN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. Nf3 O-O 7. Bd3 Nbd7 8. O-O
+c5 9. b3 b6 10. Bb2 Bb7 11. Qe2 Ne4 12. Rfd1 Nxc3 13. Bxc3 dxc4 14. Bxc4 Bf6
+15. Bb5 Bd5 16. e4 Bxb3 17. e5 Be7 18. dxc5 Bd5 *

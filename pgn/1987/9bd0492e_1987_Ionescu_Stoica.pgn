@@ -1,0 +1,19 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ionescu, Constantin"]
+[Black "Stoica, Valentin"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "9bd0492e"]
+[Epoch "Queen"]
+[WhiteID "1200089"]
+[WhiteCountry "ROU"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. g3 Bb7 6. Bg2 Bxc3+ 7. bxc3 d6 8.
+O-O Nbd7 9. Qc2 Ne4 10. Qa4 Qc8 1/2-1/2

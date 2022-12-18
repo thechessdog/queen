@@ -1,0 +1,24 @@
+[Event "E Lansing ch-MI op"]
+[Site "E Lansing ch-MI op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Boes, J."]
+[Black "Eagle, C."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "22ccb21b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. g4 Qxg4+ 13. Qxg4
+Bxg4 14. Nxc5 gxf6 15. Nge4 Ne5 16. Kg2 Bf3+ 17. Kf1 d3 18. cxd3 cxd3 19.
+Nd2 Bg4 20. Re3 Rhg8 21. Rg3 f5 22. f4 Be2+ 23. Ke1 Ng4 24. h3 b6 25. Na4
+Nf6 26. Rxg8 Rxg8 27. Kf2 Ne4+ 28. Nxe4 fxe4 29. Nc3 Bf3 30. f5 Rg2+ 31.
+Ke3 Rh2 32. Bd2 b5 33. b4 a5 34. a3 c5 35. bxc5 b4 36. axb4 axb4 37. Nxe4
+Bxe4 38. Kxe4 Rxd2 39. Rb1 Rh2 40. Kxd3 Rxh3+ 41. Ke4 Kb7 42. Ke5 b3 43.
+Kf6 Rf3 44. Ke5 Kc6 45. Ke4 Rh3 46. Ke5 h5 47. Kf6 Rf3 48. Kg5 Kxc5 49.
+Kxh5 Kb4 50. Kg4 Rf2 51. Kg5 b2 52. Kf6 Kb3 53. Kxf7 Rxf5+ 54. Ke6 Rf2 55.
+Kd5 Kc2 0-1
+

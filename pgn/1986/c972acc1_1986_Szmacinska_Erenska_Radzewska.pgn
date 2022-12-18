@@ -1,0 +1,17 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Szmacinska, Grazyna"]
+[Black "Erenska-Barlo, Hanna"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "c972acc1"]
+[Epoch "Queen"]
+[WhiteID "1103440"]
+[WhiteCountry "POL"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 O-O 6. Nc3 d6 7. O-O c6 8. d5 Qe8
+9. Qc2 e5 10. dxe6 Qxe6 11. b3 Rd8 12. Bb2 a6 13. Rad1 Bd7 1/2-1/2

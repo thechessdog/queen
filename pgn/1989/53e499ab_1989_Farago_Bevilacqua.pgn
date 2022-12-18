@@ -1,0 +1,21 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Farago, S."]
+[Black "Bevilacqua, R."]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "53e499ab"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8.
+e4 O-O 9. Be2 Re8 10. O-O Nbd7 11. h3 a6 12. a4 g5 13. Nc4 Nxe4 14. Nxe4
+Rxe4 15. Nxd6 Rd4 16. Qc2 Nb6 17. Nxc8 Rxc8 18. Bg4 Rc7 19. Be3 Rxd5 20. a5
+Nc8 21. Rad1 Bd4 22. Qe4 Na7 23. b4 Re7 24. Qd3 Nc6 25. bxc5 Qxa5 26. Bf3
+Ne5 27. Qf5 Nxf3+ 28. Qxf3 Red7 29. h4 h6 30. hxg5 hxg5 31. Rd3 Qxc5 32.
+Rc1 Qd6 33. Rc8+ Kg7 34. Qh5 Qh6 35. Rg8+ Kxg8 36. Qxh6 Bg7 37. Rxd5 Rxd5
+38. Qb6 1-0
+

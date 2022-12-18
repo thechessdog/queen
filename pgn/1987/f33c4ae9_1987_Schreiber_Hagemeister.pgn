@@ -1,0 +1,19 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Hagemeister"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "f33c4ae9"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+Be7 8. O-O O-O 9. Ne5 c5 10. dxc5 Qc7 11. Re1 Qxc5 12. c4 b6 13. Qf3 Ba6
+14. Bg5 Rad8 15. Rad1 Rd6 16. a3 Rfd8 17. b4 Qc7 18. Bf4 Rd4 19. Bg3 Bb7
+20. Qe3 Ng4 21. Nxg4 Qc6 22. f3 Rxg4 23. Be4 Rxe4 24. Qxe4 Qc8 25. Qf4 h6
+26. Rxd8+ 1-0
+

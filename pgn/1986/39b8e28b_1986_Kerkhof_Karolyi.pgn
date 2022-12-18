@@ -1,0 +1,24 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kerkhof, Philippe"]
+[Black "Karolyi, Tibor"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "39b8e28b"]
+[Epoch "Queen"]
+[BlackID "700312"]
+[BlackCountry "HUN"]
+[WhiteID "200409"]
+[WhiteCountry "BEL"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 e6 5. Nf3 cxd4 6. cxd4 b6 7. Bd3 Ba6 8. O-O
+Be7 9. a3 O-O 10. Re1 Bxd3 11. Qxd3 d6 12. Nc3 Nxc3 13. bxc3 Nc6 14. Bf4 dxe5
+15. Nxe5 Rc8 16. Re3 Nxe5 17. Bxe5 Bd6 18. Rh3 g6 19. Re1 Bxe5 20. Rxe5 Qd6 21.
+Qe3 Rfd8 22. g4 Rc7 23. Qg5 Qf8 24. Qh4 h6 25. Rf3 Rd6 26. Qf6 Rdc6 27. c4 Qe7
+28. Qxe7 Rxe7 29. Rc3 Rd7 30. Re4 Rdc7 31. c5 bxc5 32. dxc5 Rxc5 33. Rb3 Rc4
+34. Rxc4 Rxc4 35. h3 Ra4 36. Kg2 Kg7 37. Kg3 Kf6 38. f4 g5 39. fxg5+ hxg5 40.
+Re3 Ke7 0-1

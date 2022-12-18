@@ -1,0 +1,16 @@
+[Event "Sagua"]
+[Site "Sagua"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Estevez Morales, Guillermo"]
+[Black "Sieiro Gonzalez, Luis"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with b3"]
+[HashCode "4438d952"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. b3 d5 8. cxd5
+Nxd5 9. Bb2 Nxc3 10. Bxc3 Bxc3 11. dxc3 Qc7 12. Qc1 1/2-1/2

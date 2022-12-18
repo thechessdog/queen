@@ -1,0 +1,22 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "11"]
+[White "Deak, Sandor"]
+[Black "Ambroz, Jan"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "8607deee"]
+[Epoch "Queen"]
+[WhiteID "702838"]
+[WhiteCountry "HUN"]
+[BlackID "300209"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 c5 8. d5 O-O
+9. Qc2 exd5 10. cxd5 Bxc3+ 11. bxc3 Bxd5 12. O-O-O Be4 13. Bd3 Bxd3 14. Rxd3
+Re8 15. Rhd1 Re6 16. Rd6 Qe7 17. Qd3 Rxd6 18. Qxd6 Qxd6 19. Rxd6 Ne4 20. Rd3 f6
+21. Bg3 Nc6 22. Rxd7 Nxc3 23. Nh4 Rd8 24. Rc7 Nb4 25. Nf5 Ne2+ 26. Kb2 Rd2+ 27.
+Kb3 Nc1+ 0-1

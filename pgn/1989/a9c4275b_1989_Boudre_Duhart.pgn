@@ -1,0 +1,19 @@
+[Event "Urcuit op"]
+[Site "Urcuit"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Boudre, Jean-Pierre"]
+[Black "Duhart, R."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "a9c4275b"]
+[Epoch "Queen"]
+[WhiteID "600237"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. a4
+Bb7 9. d3 d6 10. Nc3 Nd4 11. Nxd4 exd4 12. Ne2 c5 13. Ng3 Bc6 14. axb5 axb5 15.
+Rxa8 Qxa8 16. Nf5 Qb7 17. Bg5 h6 18. Bh4 Kh7 19. f4 c4 20. dxc4 Bxe4 21. Nxe7
+Bxg2 22. Bxf6 gxf6 23. cxb5 f5 24. Qxd4 Bh3 25. Bd5 Qxb5 26. Kf2 1-0

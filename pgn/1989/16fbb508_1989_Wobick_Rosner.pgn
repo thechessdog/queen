@@ -1,0 +1,16 @@
+[Event "corr SOK/89"]
+[Site "corr SOK/89"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wobick"]
+[Black "Rosner"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "16fbb508"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. a3 Ba5 6. Qc2 Re8 7. Nf3 d5
+8. e3 Nc6 9. Bc3 Bg4 10. Bxa5 Bxf3 11. Bc3 Be4 12. d3 Bg6 13. cxd5 Nxd5 14.
+Be2 Qg5 15. O-O Nxe3 16. Qc1 Qxg2# 0-1
+

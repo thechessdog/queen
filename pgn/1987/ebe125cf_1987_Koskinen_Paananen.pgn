@@ -1,0 +1,17 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Koskinen"]
+[Black "Paananen"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "ebe125cf"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8.
+Nh4 c6 9. cxd5 Nxd5 10. Nf5 Nf6 11. e4 d5 12. Nc3 dxe4 13. Bg5 h6 14. Qc1
+hxg5 15. Qxg5 g6 16. Bxe4 1-0
+

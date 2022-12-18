@@ -1,0 +1,30 @@
+[Event "Tennessee op"]
+[Site "Tennessee op"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Spencer, Mike"]
+[Black "Speelman, Jon S"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "36edc1de"]
+[Epoch "Queen"]
+[BlackID "400033"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. Qf3 c6 11. g3 O-O 12. Kg2 Re8 13. Bd2 Bd6 14. Nd3 Ne4 15.
+Qd1 Qe7 16. Re1 Nd7 17. f3 Nxc3 18. Bxc3 Qg5 19. e4 dxe4 20. fxe4 c5 21. Qf3
+cxd4 22. Bxd4 Ne5 23. Bxe5 Bxe5 24. Rad1 Rac8 25. Re2 Bd4 26. Rdd2 h6 27. Qf5
+Qxf5 28. exf5 Rxe2+ 29. Rxe2 Bf6 30. Kf3 Rd8 31. Nf4 Rd1 32. Re8+ Kh7 33. Re2
+Rf1+ 34. Kg2 Rb1 35. Nd3 h5 36. Kf3 Kh6 37. h4 Rf1+ 38. Ke4 g6 39. fxg6 fxg6
+40. Nf4 Rg1 41. Kf3 Rb1 42. Nd3 Kg7 43. Rc2 Rf1+ 44. Kg2 Rd1 45. Nf4 Be5 46.
+Kf3 Kf6 47. Rc6+ Kf5 48. Nxg6 Bf6 49. Nf4 Bxb2 50. Rh6 Bxa3 51. Rxh5+ Kf6 52.
+Rh7 Be7 53. Ke4 Re1+ 54. Kd5 a5 55. Rh6+ Kf5 56. Rxb6 a4 57. Nd3 Re3 58. Kc4
+Rxg3 59. Rb2 Rg4+ 60. Kb5 Rd4 61. Nc5 a3 62. Ra2 Rd5 63. Rxa3 Rxc5+ 64. Kb6 Rc4
+65. Rf3+ Ke6 66. h5 Rh4 67. h6 Kd7 68. Kb5 Rxh6 69. Kc4 Kc6 70. Rf4 Bd6 71. Rg4
+Rh1 72. Rg5 Rc1+ 73. Kd3 Bf4 74. Rh5 Kd6 75. Rf5 Be5 76. Rh5 Kd5 77. Rh4 Rc3+
+78. Ke2 Rg3 79. Rh7 Ke4 80. Re7 Rg2+ 81. Kd1 Kd3 82. Rd7+ Bd4 83. Re7 Ra2 84.
+Rc7 Rd2+ 85. Ke1 Rg2 86. Rf7 Rh2 87. Kf1 Ra2 88. Rf3+ Be3 89. Rf7 Ra1+ 90. Kg2
+Rg1+ 91. Kh3 Ke4 92. Rb7 Kf3 0-1

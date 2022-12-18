@@ -1,0 +1,17 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ros, Johan August"]
+[Black "Vilaplana, R."]
+[Result "1-0"]
+[ECO "B88"]
+[Opening "Sicilian"]
+[Variation "Sozin, Leonhardt variation"]
+[HashCode "dc485ef8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. O-O a6 8. Bg5
+Be7 9. Kh1 Nxd4 10. Qxd4 O-O 11. Rad1 b5 12. Bb3 Bb7 13. f3 Rc8 14. Rd3 Rc6 15.
+Rfd1 Qb6 16. Bxf6 Qxd4 17. Bxd4 Rd8 18. h3 Bh4 19. Kh2 e5 20. Bxe5 Rxc3 21.
+bxc3 1-0

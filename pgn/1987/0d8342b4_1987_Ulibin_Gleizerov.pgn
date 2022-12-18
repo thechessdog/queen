@@ -1,0 +1,18 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ulybin, Mikhail"]
+[Black "Gleizerov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "0d8342b4"]
+[Epoch "Queen"]
+[WhiteID "4101405"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Nf3
+f5 9. exf6 Rxf6 10. Bg5 Qa5 11. Bxf6 Qxc3+ 12. Kd1 Qxa1+ 13. Kd2 Ng6 14. h4 Nc6
+15. h5 e5 16. Qg5 gxf6 17. Qxf6 exd4 18. hxg6 Qc3+ 19. Kd1 Qa1+ 1/2-1/2

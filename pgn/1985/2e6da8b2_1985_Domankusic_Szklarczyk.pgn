@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Domankusic, I."]
+[Black "Szklarczyk, J."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "2e6da8b2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8.
+c3 d6 9. d4 Bb6 10. Bg5 h6 11. Bh4 Qd7 12. a4 O-O-O 13. axb5 axb5 14. d5
+Ne7 15. c4 g5 16. Bg3 h5 17. Nxe5 dxe5 18. Bxe5 Bxf2+ 19. Kf1 Ng4 20. Bxh8
+Rxh8 21. h3 Ne3+ 22. Rxe3 Bxe3 23. Nc3 bxc4 24. Bxc4 Qd6 25. Qf3 Qf4 26.
+Ke2 Qxf3+ 27. gxf3 Bd4 28. Nb5 Be5 29. Rd1 Bd6 30. Nxd6+ cxd6 31. e5 Ng6
+32. Rc1 Nxe5 0-1
+

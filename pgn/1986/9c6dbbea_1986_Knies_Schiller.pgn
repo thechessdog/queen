@@ -1,0 +1,17 @@
+[Event "corr BDG-WFT1"]
+[Site "corr BDG-WFT1"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Knies"]
+[Black "Schiller"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "9c6dbbea"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Ng4 10. Ne4 Bxd4+ 11. Kh1 Bf5 12. Neg5 Nf6 13. c3 Bb6 14.
+g4 Bxg4 15. Nxh7 Bxf3+ 16. Rxf3 Nxh7 17. Be3 e6 18. Qh6 Bxe3 19. Rxe3 Qd2
+20. Rae1 Ne7 21. R1e2 Qc1+ 22. Kg2 Nf5 0-1
+

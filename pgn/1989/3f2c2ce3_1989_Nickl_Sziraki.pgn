@@ -1,0 +1,22 @@
+[Event "Eger"]
+[Site "Eger"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nickl, Klaus"]
+[Black "Sziraki, Tamas"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "3f2c2ce3"]
+[Epoch "Queen"]
+[WhiteID "1601024"]
+[BlackID "702790"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 e5 8. a3
+Bxc3+ 9. Nxc3 exd4 10. Qxd4 O-O 11. Bb5 Qe7+ 12. Be3 Nc6 13. Bxc6 bxc6 14. O-O
+Nd7 15. Rfe1 Bb7 16. b4 Rfe8 17. Bd2 Qf6 18. Qxf6 Nxf6 19. Ne2 Re4 20. f3 Rc4
+21. Rac1 Re8 22. Kf2 Ba6 23. Rxc4 dxc4 24. Nd4 Rd8 25. Bc3 Bb5 26. Nf5 Nd5 27.
+Bxg7 Nf4 28. Re4 Nd3+ 29. Kg3 h6 30. Bf6 Rd7 31. Re8+ Kh7 32. Nh4 1-0

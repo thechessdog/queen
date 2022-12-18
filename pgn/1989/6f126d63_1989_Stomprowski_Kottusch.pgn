@@ -1,0 +1,18 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stomprowski, Eckhar"]
+[Black "Kottusch, Dieter"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, Ljubojevic variation"]
+[HashCode "6f126d63"]
+[Epoch "Queen"]
+[BlackID "24680664"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bc4 c5 6. e5 Nfd7 7. e6 fxe6 8. Bxe6
+Nb6 9. d5 Bxe6 10. dxe6 Qc8 11. f5 O-O 12. Nd5 Nxd5 13. Qxd5 Rxf5 14. Qb3 c4
+15. Qa4 Qxe6+ 16. Ne2 Nc6 0-1

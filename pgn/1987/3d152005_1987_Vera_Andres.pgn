@@ -1,0 +1,23 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Vera Gonzalez-Quevedo, Reynaldo"]
+[Black "Andres, Miguel"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "3d152005"]
+[Epoch "Queen"]
+[WhiteID "3500055"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. a4 Ne5 12. Ndb1 Nfg4 13. h3 Nh6 14. f4 Neg4 15.
+hxg4 Bd4+ 16. Rf2 Qh4 17. Qe1 Bxg4 18. Nd2 Bxe2 19. Nxe2 Ng4 20. Nxd4 cxd4 21.
+Nf3 Qxf2+ 22. Qxf2 Nxf2 23. Kxf2 Rxe4 24. Bd2 Rc8 25. Ng5 Ree8 26. Re1 Rxe1 27.
+Kxe1 h6 28. Nf3 Rc5 29. Nxd4 Rxd5 30. Bc3 Rc5 31. Nb5 Rc4 32. a5 Rxf4 33. Nxa7
+Kf8 34. Nc8 Ke8 35. Nxd6+ Kd7 36. Nxb7 Kc6 37. a6 Kb6 38. Nd6 Kxa6 39. Be5 Rg4
+40. Nxf7 Rxg2 41. Nxh6 1/2-1/2

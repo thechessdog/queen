@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "De Glopper, JBH."]
+[Black "Pyshkin, A."]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "94222b8f"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 g6 6. Nc3 Bg7 7. h3 O-O 8.
+Be3 Nc6 9. Qd2 e5 10. d5 Na5 11. b3 e4 12. Ng5 f5 13. Rc1 h6 14. Ngxe4 Re8
+15. Bd3 fxe4 16. Nxe4 Bf5 17. Nc5 Bd4 18. O-O Rxe3 19. Bxf5 Bxc5 20. Qxa5
+gxf5 21. Qxc5 Re4 0-1
+

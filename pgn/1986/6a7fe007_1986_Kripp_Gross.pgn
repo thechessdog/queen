@@ -1,0 +1,25 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kripp, Wolfgang"]
+[Black "Gross, Georg"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Trifunovic variation"]
+[HashCode "6a7fe007"]
+[Epoch "Queen"]
+[WhiteID "4621220"]
+[WhiteCountry "GER"]
+[BlackID "4606906"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nc3 e6 7. Be3 dxe5 8. fxe5
+Bb4 9. Nf3 c5 10. a3 Bxc3+ 11. bxc3 Nc6 12. Bd3 Bxd3 13. Qxd3 h6 14. O-O Na5
+15. d5 Naxc4 16. Bxc5 Qxd5 17. Qxd5 Nxd5 18. Rfe1 b6 19. Re4 Nxe5 20. Rxe5 bxc5
+21. c4 Nb6 22. Rxc5 O-O 23. Rc1 Rfc8 24. Rxc8+ Rxc8 25. Nd2 Kf8 26. Kf2 Ke7 27.
+Ke2 f5 28. Rb1 Kd6 29. Kd3 Rc7 30. Rb4 e5 31. a4 e4+ 32. Kd4 Nd7 33. Nb3 Ne5
+34. Na5 Nc6+ 35. Nxc6 Kxc6 36. Rb5 Rd7+ 37. Ke3 g6 38. Ra5 Kb7 39. Rb5+ Kc8 40.
+Re5 Rd3+ 41. Ke2 Rd6 42. Ke3 Kd7 43. Ra5 a6 44. Re5 Re6 45. Rd5+ Ke7 46. h3 f4+
+47. Kxf4 e3 48. Rd1 e2 49. Re1 Kd6 50. Kf3 Kc5 51. Kf2 Kxc4 52. Rc1+ Kd3 0-1

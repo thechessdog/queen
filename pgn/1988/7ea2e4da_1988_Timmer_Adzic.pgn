@@ -1,0 +1,16 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Timmer, Robert"]
+[Black "Adzic, S."]
+[Result "1/2-1/2"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "7ea2e4da"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8.
+Nc3 Nc6 9. e3 e5 10. d5 Ne7 11. e4 Bg4 12. a4 c6 13. a5 Nc4 14. Qb3 cxd5 15.
+Nxd5 Nxd5 16. Qxc4 Ne7 17. Bg5 Qc8 18. Rfc1 Qxc4 19. Rxc4 Rfc8 20. Rac1 Rxc4
+21. Rxc4 Rc8 22. Rxc8+ Nxc8 1/2-1/2

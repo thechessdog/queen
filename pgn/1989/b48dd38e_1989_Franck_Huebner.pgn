@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Franck, R."]
+[Black "Huebner, Robert"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b48dd38e"]
+[Epoch "Queen"]
+[BlackID "4600010"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Qc7 9. g4 h6 10. h4 b5 11. Bf3 Bb7 12. g5 hxg5 13. hxg5 Rxh1+ 14. Bxh1 Nfd7 15.
+a3 Nb6 16. Na5 N8d7 17. Qd2 O-O-O 18. Bf3 Nc5 19. O-O-O Ba8 20. Kb1 f5 21. gxf6
+gxf6 22. b4 Nca4 23. Nxa4 Nxa4 24. c4 Kb8 25. Rc1 Qd7 26. cxb5 axb5 27. Qc2 f5
+28. Nc6+ Bxc6 29. Qxc6 Qxc6 30. Rxc6 f4 31. Bd2 Kb7 32. Rc2 Rg8 33. Ka2 Bh4 34.
+Bc1 Rg1 35. Be2 Kb6 36. f3 Bf2 37. Kb3 Bd4 38. Rc8 Nc3 39. Bxb5 Rxc1 40. a4
+Rb1+ 41. Kc4 Nxb5 42. Rb8+ Kc6 43. axb5+ Kc7 44. Rh8 Rc1+ 45. Kd5 Rc3 46. Rh3
+Kb6 47. Kxd6 Kxb5 48. Ke6 Kxb4 49. Kf5 Kc4 50. Kg4 Kd3 51. Rh1 Ke2 52. Ra1 Rc8
+53. Ra2+ Ke3 54. Ra3+ Rc3 55. Ra5 Rb3 56. Ra8 Kf2 0-1

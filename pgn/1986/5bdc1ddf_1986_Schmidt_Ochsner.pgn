@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1986.01.01"]
+[Round "5"]
+[White "Schmidt, Kristen"]
+[Black "Ochsner, Thomas"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "5bdc1ddf"]
+[Epoch "Queen"]
+[WhiteID "1400436"]
+[WhiteCountry "DEN"]
+[BlackID "1400711"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 d6 6. c3 b5 7. Bb3 Be7 8. O-O
+O-O 9. d4 Bg4 10. Rd1 exd4 11. cxd4 d5 12. e5 Ne4 13. h3 Bh5 14. Nc3 Nxc3 15.
+bxc3 f5 16. exf6 Rxf6 17. g4 Bf7 18. Ne5 Re6 19. f4 Nxe5 20. dxe5 Rc6 21. Qf3
+Bc5+ 22. Kg2 1-0

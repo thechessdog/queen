@@ -1,0 +1,20 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maki, Veijo"]
+[Black "Yrjola, Jouni"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "a0c41518"]
+[Epoch "Queen"]
+[BlackID "500011"]
+[BlackCountry "FIN"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5 12. Qe2 Qd7 13. Be3 Rad8 14. Rad1 Qc8
+15. Rb1 b6 16. Ba6 Qa8 17. g4 Bc8 18. Bd3 Bb7 1/2-1/2

@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wohlfahrt, P."]
+[Black "Jaeger"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "3.Nd2"]
+[HashCode "34e3121d"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 g6 4. Ngf3 Bg7 5. c3 Nd7 6. exd5 cxd5 7. Bd3 Ngf6
+8. O-O O-O 9. Re1 a6 10. a4 Nb8 11. Ne5 Nc6 12. Qe2 Nxe5 13. dxe5 Nd7 14.
+Nf3 Nc5 15. Bc2 Bg4 16. h3 Bxf3 17. Qxf3 e6 18. Be3 Nd7 19. Bd4 Qc7 20. Qe3
+Rfc8 21. f4 Bf8 22. f5 Bc5 23. fxg6 hxg6 24. Rad1 Qb6 25. Qh6 Nf8 26. Rf1
+Bxd4+ 27. Rxd4 Rc4 28. Rf4 Qc7 29. Rxc4 dxc4 30. Qg5 Nh7 31. Qg3 Nf8 32.
+Rh4 Rd8 33. Qf4 Rd5 34. Qxc4 Qxe5 35. Qe4 Qxe4 36. Bxe4 Rd1+ 37. Kh2 b6 38.
+Bf3 Rd6 39. Rc4 Nd7 40. Rc8+ Kg7 41. Rd8 Kf6 42. Bc6 Rxc6 43. Rxd7 e5 44.
+g4 Ke6 45. Ra7 a5 46. Kg3 f5 47. Kf3 Rd6 48. Ke3 Kf6 49. gxf5 gxf5 50. Rh7
+Kg5 51. Re7 e4 52. h4+ Kf6 53. Rb7 Ke5 54. Re7+ Kf6 55. Rb7 Rd3+ 56. Ke2
+Rh3 57. Rxb6+ Ke5 58. Rb5+ Kf4 59. Rxa5 Rh2+ 60. Kf1 Rxb2 61. Rb5 Ra2 0-1
+

@@ -1,0 +1,21 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Beaussart, E."]
+[Black "Seret, Jean-Luc"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "db54b2c2"]
+[Epoch "Queen"]
+[BlackID "600210"]
+[BlackCountry "FRA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. c5 O-O 8. Be2
+Nc6 9. O-O Ne4 10. Qb3 Nxd4 11. Nxd4 Bxd4 12. Nxe4 dxe4 13. Be3 Bg7 14. Bc4 Qe8
+15. Rad1 Bg4 16. Rd2 Kh8 17. h3 Bd7 18. Rfd1 Ba4 19. Qxb7 Bxd1 20. Rxd1 Rd8 21.
+Rb1 f5 22. Bf4 e5 23. Bg5 Rd7 24. Qb3 h6 25. Bh4 g5 26. Bg3 Rc7 27. Qa3 Qe7 28.
+b4 Rd8 29. f3 f4 30. fxe4 fxg3 31. Qxg3 Rb8 32. a3 Rxc5 33. Bd5 Qc7 34. Rf1 Rc1
+0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Leisebein"]
+[Black "Kasper"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "bf9d0c3a"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. Nc3 d6 7. exd6 Bxd6
+8. Qe2+ Qe7 9. Qxe7+ Kxe7 10. O-O Re8 11. d4 Kf8 12. Ng5 f6 13. Nge4 Bd7
+14. Nxd6 cxd6 15. Bxf4 Rc8 16. Bxd6+ Ke8 17. Rae1+ Kd8 18. Be7+ Kc7 19. h3
+Nh6 20. Nd5+ Kc6 21. Bxf6 1-0
+

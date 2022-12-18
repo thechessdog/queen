@@ -1,0 +1,31 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Riemersma, Liafbern"]
+[Black "Sinkovics, Peter"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "a3cdfba9"]
+[Epoch "Queen"]
+[BlackID "700428"]
+[BlackCountry "HUN"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 Na5 14. Nb5
+Bxb5 15. Qxb5+ Nec6 16. Be3 O-O-O 17. Kf2 d4 18. Bd2 Rd5 19. Qd3 Rc5 20. Be2
+Rd8 21. h4 Nc4 22. Rac1 Nxd2 23. Qxd2 f6 24. exf6 e5 25. Rhf1 e4 26. Kg1 Qf7
+27. f5 e3 28. Qe1 Rg8 29. c3 Qxf6 30. cxd4 Rxc1 31. Qxc1 Qg7 32. Bf3 Qxd4 33.
+Rd1 Qf4 34. Rf1 Qd4 35. Qe1 Ne5 36. Qb4 Nxf3+ 37. Rxf3 Qd1+ 38. Rf1 Qc2 39. g4
+a5 40. Qf4 Re8 41. f6 e2 42. Re1 Re4 43. Qf5+ Kc7 44. f7 Qd2 45. Qc5+ Kd7 46.
+Qb5+ Kc7 47. Qc5+ Kd7 48. Qf5+ Kc7 49. f8=Q Qxe1+ 50. Kg2 Qg1+ 51. Kxg1 e1=Q+
+52. Kg2 Re2+ 53. Qf2 b5 54. h5 Rxf2+ 55. Qxf2 Qc3 56. Qg3+ Qxg3+ 57. Kxg3 b4
+58. h6 b3 59. h7 b2 60. h8=Q b1=Q 61. Qe5+ Kc6 62. Qxa5 Qg1+ 63. Kh4 Qf2+ 64.
+Kh5 Qf7+ 65. Kg5 Qg7+ 66. Kh4 Qh7+ 67. Qh5 Qe7+ 68. Qg5 Qh7+ 69. Kg3 Qd3+ 70.
+Kf4 Qxa3 71. Qe5 Qf8+ 72. Ke4 Qg8 73. g5 Qh7+ 74. Kf4 Kb6 75. Qe6+ Ka7 76. g6
+Qh4+ 77. Kf5 Qf2+ 78. Kg5 Qg3+ 79. Kh6 Qh4+ 80. Kg7 Qd4+ 81. Kg8 Ka8 82. Qe8+
+Ka7 83. g7 Ka6 84. Qe6+ Ka5 85. Kf8 Qf4+ 86. Ke8 Qa4+ 87. Ke7 Qh4+ 88. Ke8 Qa4+
+89. Kd8 Qd4+ 90. Qd7 Qf6+ 91. Qe7 Qd4+ 92. Kc8 Qg4+ 93. Qd7 1-0

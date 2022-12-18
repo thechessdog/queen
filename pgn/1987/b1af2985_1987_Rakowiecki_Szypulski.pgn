@@ -1,0 +1,20 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1987.01.01"]
+[Round "12"]
+[White "Rakowiecki, Tomasz"]
+[Black "Szypulski, Andrzej"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "b1af2985"]
+[Epoch "Queen"]
+[BlackID "1100262"]
+[BlackCountry "POL"]
+[WhiteID "1100955"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Nf3 Nbc6 7. Bd2 cxd4 8.
+Nxd4 Nxe5 9. Qxg7 N7g6 10. Qh6 Qb6 11. Be3 Ng4 12. Bb5+ Bd7 13. Bxd7+ Kxd7 14.
+Qg5 Nxe3 15. fxe3 Be7 0-1

@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jolowicz, M."]
+[Black "Arning, N."]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "53c99f31"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. Qc2 c5 7. dxc5 Qa5+ 8.
+Nc3 dxc4 9. O-O Nc6 10. Rd1 Bxc5 11. Ne4 Nxe4 12. Qxe4 Qb6 13. e3 Rd8 14.
+Rxd8+ Qxd8 15. Qxc4 Qd1+ 16. Qf1 Qc2 17. Ne1 Qd1 18. Nd3 Qxf1+ 19. Kxf1 Bd6
+20. Bd2 Bd7 21. Rc1 Rc8 22. Nc5 Bxc5 23. Rxc5 b6 24. Rc3 Ne5 25. f4 1-0
+

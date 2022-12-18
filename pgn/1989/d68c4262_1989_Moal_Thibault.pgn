@@ -1,0 +1,22 @@
+[Event "Frankrijk tt"]
+[Site "Frankrijk tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moal, Alain"]
+[Black "Thibault, James"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "d68c4262"]
+[Epoch "Queen"]
+[WhiteID "606200"]
+[WhiteCountry "FRA"]
+[BlackID "2003163"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 e6 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Bd7 12. Nf5 exf5 13. Qxg7 Rf8 14. Bg5 Nc6
+15. Bxf6 O-O-O 16. Bxe7 Nxe7 17. Bxf7 fxe4 18. Rad1 Nf5 19. Qxh7 e3 20. f3 e2
+21. Nxe2 Qb6+ 22. Rf2 Rh8 23. Qg6 Rxh2 24. Bg8 Nh4 25. Rxd6 Nxf3+ 26. Kf1 Rh1+
+27. Ng1 Rxg1+ 28. Ke2 Re1+ 0-1

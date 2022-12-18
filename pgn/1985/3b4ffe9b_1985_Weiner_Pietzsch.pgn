@@ -1,0 +1,20 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Weiner"]
+[Black "Pietzsch"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, Benelux variation  "]
+[HashCode "3b4ffe9b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 Bb6 7. dxe5 Nxe4
+8. Qd5 Nc5 9. Bg5 Ne7 10. Qd1 Ne4 11. Bh4 d5 12. Nbd2 Bf5 13. Nd4 Bg6 14.
+Nxe4 Bxe4 15. f3 Bg6 16. f4 c6 17. Ba4 Be4 18. f5 Qc7 19. Qg4 h5 20. Qxh5
+Qxe5 21. Bxe7 Qxe7 22. f6 gxf6 23. Qg4+ Kh7 24. Rf5 Bxf5 25. Qxf5+ Kg7 26.
+Qg4+ Kh8 27. Qh4+ Kg7 28. Qg3+ Kh8 29. Re1 Qd7 30. Bc2 Bxd4+ 31. cxd4 Rg8
+32. Qh4+ Kg7 33. Re3 1-0
+

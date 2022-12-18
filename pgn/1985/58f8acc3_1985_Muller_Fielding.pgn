@@ -1,0 +1,22 @@
+[Event "corr ch1-USA"]
+[Site "corr ch1-USA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Fielding, Paul"]
+[Result "0-1"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "58f8acc3"]
+[Epoch "Queen"]
+[WhiteID "3223167"]
+[BlackID "2005913"]
+[WhiteCountry "AUS"]
+[BlackCountry "USA"]
+
+1. c4 c5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Nc6 5. Nf3 Bg7 6. O-O O-O 7. d3 d5 8. cxd5
+Nxd5 9. Qb3 Nc7 10. Bd2 b6 11. a3 Bg4 12. Qa4 Nd4 13. Nxd4 cxd4 14. Bxa8 Qxa8
+15. Ne4 Bxe2 16. Rfc1 Bxd3 17. Rxc7 Bxe4 18. Rxa7 Qd5 19. Qd1 Bf3 20. Qe1 e6
+21. b4 Qf5 22. a4 d3 23. Rc1 Bd4 24. Rd7 Ba8 25. Bf4 e5 26. Rd6 g5 27. Rxd4
+exd4 28. Qe5 Qxe5 29. Bxe5 Bf3 0-1

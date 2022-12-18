@@ -1,0 +1,19 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tatai, Stefano"]
+[Black "Borner, Daniel"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "34b5dcce"]
+[Epoch "Queen"]
+[BlackID "1301659"]
+[WhiteCountry "ITA"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. h4 c5 7. d5 b5 8. cxb5 a6
+9. b6 Qxb6 10. h5 e6 11. hxg6 fxg6 12. Nh3 Qb4 13. a3 Qd4 14. Be3 Qxd1+ 15.
+Rxd1 exd5 16. Nxd5 Nxd5 17. Rxd5 Bxb2 18. Rxd6 Bxa3 19. Ng5 Ra7 20. Rb6 1-0

@@ -1,0 +1,23 @@
+[Event "Sundsvall"]
+[Site "Sundsvall"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Winsnes, Rikard"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "aa9a5ddc"]
+[Epoch "Queen"]
+[WhiteID "1700065"]
+[WhiteCountry "SWE"]
+[BlackID "1700430"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. h4
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. Be3 Be7 12. Rb1 a5 13. Ne2 O-O 14. Ng3 Rf7 15.
+a3 Nf8 16. h5 Bd7 17. Kg1 f5 18. Ne2 Rc8 19. Nc3 Na7 20. Bd3 Qd8 21. Qd2 Qe8
+22. Kf2 Nb5 23. Ne2 a4 24. Rbg1 Na7 25. g4 Bb5 26. Bb1 Kh8 27. Rg2 Bc4 28. gxf5
+exf5 29. Ng3 Qd7 30. Rhg1 g6 31. Rh1 Rc6 32. hxg6 Rxg6 33. Rgh2 Nc6 34. Rh5
+Rfg7 1-0

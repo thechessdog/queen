@@ -1,0 +1,18 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schniepp, E."]
+[Black "Rada, H."]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch with e3"]
+[HashCode "b4f3927d"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. Nf3 d5 5. cxd5 Nxd5 6. e3 Be7 7. Bd2 O-O 8.
+dxc5 Bxc5 9. Bd3 Nb4 10. Be2 Nd3+ 11. Bxd3 Qxd3 12. Rc1 Nc6 13. Qe2 Qxe2+
+14. Nxe2 b6 15. O-O Ba6 16. Rfe1 Rfd8 17. a3 Ne5 18. Bc3 Nd3 19. Rc2 Nxe1
+0-1
+

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Belitz"]
+[Black "Kammerer"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "b53caddf"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. g3 Bb7 6. Bg2 O-O 7. O-O Bxc3 8.
+bxc3 d6 9. Nh4 Bxg2 10. Nxg2 Nbd7 11. Qd3 e5 12. e4 Re8 13. f3 Qc8 14. Ne3
+Nf8 15. Nd5 N6d7 16. f4 exf4 17. Bxf4 Ne6 18. Rf3 c6 19. Ne3 Nxf4 20. gxf4
+Nf6 21. e5 dxe5 22. fxe5 Nh5 23. Kh1 g6 24. Rg1 Ng7 25. Ng4 Re7 26. Nf6+
+Kh8 27. Rh3 h5 28. Qxg6 1-0
+

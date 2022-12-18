@@ -1,0 +1,16 @@
+[Event "Iowa"]
+[Site "Iowa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Myers"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Williams gambit"]
+[HashCode "12949f30"]
+[Epoch "Queen"]
+
+1. f4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Qe2 Bf5 5. Qb5+ Bd7 6. Qxb7 Bc6 7. Bb5
+Qd7 8. Bxc6 Qxc6 9. Qc8# 1-0
+

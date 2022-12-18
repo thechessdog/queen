@@ -1,0 +1,19 @@
+[Event "Arnold Cup"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Grotnes, Nils"]
+[Black "Riemersma, Liafbern"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "bdef3de3"]
+[Epoch "Queen"]
+[WhiteID "1500317"]
+[WhiteCountry "NOR"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 Re8 6. a3 Bf8 7. e4 d5 8. e5
+Nfd7 9. c5 f6 10. f4 b6 11. b4 bxc5 12. bxc5 g5 13. g3 gxf4 14. gxf4 Ba6 15.
+Qa4 fxe5 16. Rg1+ Kh8 17. fxe5 Qh4+ 18. Rg3 Qxh2 19. Rh3 1-0

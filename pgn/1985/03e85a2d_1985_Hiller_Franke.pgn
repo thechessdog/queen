@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hiller"]
+[Black "Franke, H."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "03e85a2d"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Bd2 dxc3 13. Nxc3 a6
+14. Rb1 Na5 15. g3 O-O-O 16. Qd3 Nc4 17. a4 Nxd2 18. Qxd2 Qc5 19. Bd3 Bc6
+20. Rf1 Nf5 21. Bxf5 exf5 22. Na2 Bxa4 23. Nb4 Bb5 24. Nd3 Qd4 25. Rb4 Bc4
+26. Rf2 Rg6 27. Nb2 Qe4+ 28. Kd1 b5 29. Nd3 Rc6 30. Qe2 Qd4 31. Rf1 a5 32.
+Rb1 Rh8 33. Rh1 Rch6 34. Kd2 b4 35. Rbc1 Qc3+ 0-1
+

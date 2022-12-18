@@ -1,0 +1,21 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1988.01.01"]
+[Round "6"]
+[White "Summermatter, Daniel"]
+[Black "Nemet, Ivan"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "103ea629"]
+[Epoch "Queen"]
+[WhiteID "1300385"]
+[WhiteCountry "SUI"]
+[BlackCountry "CHE"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Bxd4 7. Nxd4 cxd4
+8. Qxd4 O-O 9. O-O-O Nc6 10. Qd2 d5 11. Qxd5 Qc7 12. e3 Rd8 13. Qc5 Rxd1+ 14.
+Kxd1 Be6 15. Bd3 Rd8 16. a3 Bd5 17. Kc1 Qd7 18. f3 Bxe4 19. fxe4 Qg4 20. b4 Qe6
+21. Rd1 b6 22. Qc4 Qf6 23. Rf1 Qa1+ 24. Kd2 Qxf1 25. Qxc6 Qf2+ 26. Kc3 Qxe3 27.
+Qc7 0-1

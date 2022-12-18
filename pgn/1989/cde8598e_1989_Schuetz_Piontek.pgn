@@ -1,0 +1,25 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schuetz, H."]
+[Black "Piontek, H."]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "cde8598e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. Re1 c5
+8. Bxe4 dxe4 9. Rxe4 Bf5 10. Re1 cxd4 11. Qxd4 Re8 12. Rd1 Bxc2 13. Rd2 Nc6
+14. Qxd6 Qxd6 15. Rxd6 Nxe5 16. Be3 Nc4 17. Rd7 Nxe3 18. fxe3 Rxe3 19. Nd2
+Rd3 20. Rxd3 Bxd3 21. Rd1 Rc8 22. Nf3 Be4 23. Nd4 Kf8 24. Kf2 g6 25. Rd2 a6
+26. Ke3 Bd5 27. a3 Re8+ 28. Kf4 Re1 29. Nc2 Re4+ 30. Kg3 Bc4 31. Kf3 f5 32.
+Ne3 Ke7 33. g4 Be6 34. gxf5 gxf5 35. Rd3 b5 36. b4 Rh4 37. Kg3 Rh6 38. Rd2
+Kf6 39. Re2 Kg5 40. Ng2 Bc4 41. Rd2 Re6 42. Kf3 a5 43. Rd7 h6 44. h4+ Kf6
+45. Nf4 axb4 46. axb4 Ra6 47. Nd5+ Ke5 48. Ne7 Ra3+ 49. Kg2 Ke4 50. Rd2 f4
+51. Rf2 f3+ 52. Kg3 Ra7 53. Ng6 h5 54. Rxf3 Rg7 55. Rf4+ Ke3 56. Rf3+ Kd4
+57. Rf6 Bf7 58. Kf4 Bxg6 59. Re6 Kc4 60. Re5 Kxb4 61. Kg5 Bf7+ 62. Kh6 Rg6+
+63. Kh7 Rf6 64. Kg7 Rf4 65. Rg5 Kc4 0-1
+

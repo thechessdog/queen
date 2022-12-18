@@ -1,0 +1,17 @@
+[Event "Mittelfranken"]
+[Site "Mittelfranken"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Suess, P."]
+[Black "Albrecht, Ulli"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "c1c73eb8"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 c6 3. c4 dxc4 4. Nc3 b5 5. a4 Qb6 6. Be3 b4 7. Na2 e6 8. d5 c5
+9. Ne5 Qd6 10. Nxc4 Qxd5 11. Qc2 Ba6 12. Rc1 Nf6 13. Bf4 Be7 14. e3 O-O 15. Rd1
+Qc6 16. Bd6 b3 17. Qc3 bxa2 18. Bxe7 Nd5 19. Qa3 Nxe7 20. Qxa2 Bxc4 21. Bxc4
+Qxg2 22. Ke2 Qg4+ 23. Ke1 Nbc6 24. b3 Qe4 25. Rg1 Ne5 26. Be2 Rfd8 27. Rf1 0-1

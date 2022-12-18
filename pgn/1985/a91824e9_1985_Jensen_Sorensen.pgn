@@ -1,0 +1,21 @@
+[Event "Aarhus-C"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Jensen, Vagn"]
+[Black "Sorensen, Torben"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "a91824e9"]
+[Epoch "Queen"]
+[WhiteID "1400851"]
+[BlackID "1463357"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Nf3 Bg7 5. Bg5 O-O 6. Qd2 c6 7. O-O-O b5 8. Bd3
+Qc7 9. Bh6 e5 10. Bxg7 Kxg7 11. dxe5 dxe5 12. h4 Bg4 13. h5 Nxh5 14. Nh4 Bxd1
+15. Nxd1 Nf4 16. g3 Nxd3+ 17. cxd3 Qd6 18. Ne3 Kf6 19. Nef5 Qc5+ 20. Kb1 Rg8
+21. Rc1 Qf8 22. d4 gxf5 23. Nxf5 exd4 24. Qxd4+ Ke6 25. Rc5 1-0

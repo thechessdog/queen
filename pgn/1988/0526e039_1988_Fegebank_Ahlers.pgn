@@ -1,0 +1,17 @@
+[Event "Bargteheide"]
+[Site "Bargteheide"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fegebank, Fritz"]
+[Black "Ahlers, K."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "0526e039"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 d6 6. O-O Bd7 7. c4 Nc6 8.
+Nxc6 Bxc6 9. Nc3 Be7 10. Be3 O-O 11. f4 d5 12. e5 Nd7 13. cxd5 exd5 14. Ne2 Bc5
+15. Bxc5 Nxc5 16. Nd4 Qb6 17. Rf2 Ne6 18. Nxe6 fxe6 19. Qh5 Rxf4 20. Qxh7+ Kf7
+21. Bg6+ Ke7 22. Qxg7+ Kd8 1-0

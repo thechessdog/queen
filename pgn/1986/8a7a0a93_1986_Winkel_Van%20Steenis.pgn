@@ -1,0 +1,19 @@
+[Event "Groningen"]
+[Site "Groningen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Winkel, W."]
+[Black "Van Steenis, Joost"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "8a7a0a93"]
+[Epoch "Queen"]
+[BlackID "1002414"]
+[BlackCountry "NED"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. f4 f5 5. e5 c5 6. Be3 cxd4 7. Bxd4 dxe5 8. fxe5
+Nc6 9. Bb5 Nh6 10. Nf3 O-O 11. Bc4+ Kh8 12. Ne2 Qc7 13. Bb3 Nxe5 14. O-O Nhg4
+15. Nf4 Nxf3+ 16. Rxf3 Bxd4+ 17. Qxd4+ e5 18. Nd5 Qd6 19. Qc3 Be6 20. Rd1 Rac8
+21. Qa5 e4 22. Rc3 Qxh2+ 23. Kf1 Qh1+ 0-1

@@ -1,0 +1,18 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tebar, Juan Carlos"]
+[Black "Castro, Jose"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "8b427873"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. e4 dxe4 5. Bxf6 Qxf6 6. Nxe4 Qd8 7. Bd3 Nc6 8.
+c3 h6 9. Nf3 Be7 10. Bc2 O-O 11. Qd3 f5 12. Ned2 Bf6 13. O-O-O a5 14. Rhe1 Ne7
+15. Nc4 b5 16. Nce5 b4 17. c4 a4 18. d5 exd5 19. cxd5 Qd6 20. Nc4 Qf4+ 21. Ne3
+Ba6 22. Qd2 a3 23. Nd4 Qd6 24. Nexf5 Nxf5 25. Nxf5 b3 26. Nxd6 axb2+ 27. Kb1
+bxa2+ 0-1

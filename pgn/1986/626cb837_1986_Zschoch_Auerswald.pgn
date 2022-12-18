@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zschoch"]
+[Black "Auerswald"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "626cb837"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Bd2 Ngxe5 7. Nxe5
+Nxe5 8. Be2 O-O 9. O-O d6 10. Bc3 Re8 11. Qc2 Qg5 12. Kh1 Bf5 13. e4 Bg4
+14. b4 Bxf2 15. Rxf2 Qe3 16. Bxg4 Nxg4 17. Rf3 Qh6 18. h3 f5 19. exf5 Ne3
+20. Qd2 Re4 21. Rg3 Nf1 22. Qd5+ 1-0
+

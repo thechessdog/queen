@@ -1,0 +1,21 @@
+[Event "Aosta op"]
+[Site "Aosta"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tamai, Roberto"]
+[Black "Garcia Palermo, Carlos"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Flohr variation"]
+[HashCode "29bc2239"]
+[Epoch "Queen"]
+[BlackID "110124"]
+[BlackCountry "ITA"]
+[WhiteID "801798"]
+[WhiteCountry "ITA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 e6 7. Nf4 Bd6 8. h4
+Qc7 9. Nxg6 hxg6 10. Ne4 Bf4 11. g3 Bxc1 12. Qxc1 Nd7 13. Qe3 Ndf6 14. Nxf6+
+Nxf6 15. Qa3 g5 16. O-O-O gxh4 17. d5 Nxd5 18. c4 Nf6 19. Rd4 a6 20. Qc5 Rh5
+21. Qa3 hxg3 22. Qf3 Rxh1 23. Qxh1 Rd8 24. Rxd8+ Kxd8 0-1

@@ -1,0 +1,23 @@
+[Event "corr Tch-DDR"]
+[Site "corr Tch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fechner"]
+[Black "Dobierzin"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c33dd258"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 Nxe4 7. d5 Nd6 8.
+Bxc6 dxc6 9. dxc6 b6 10. Qa4 O-O 11. Re1 f6 12. Na3 e5 13. Qb3+ c4 14. Qa4
+Be6 15. Be3 Qc7 16. Nd2 Rfc8 17. f4 Qxc6 18. Qxc6 Rxc6 19. fxe5 fxe5 20.
+Bf4 Nf7 21. Bg3 Rd8 22. Nf3 Rd5 23. Nc2 a5 24. Re2 Bg4 25. Rae1 Bxf3 26.
+gxf3 Ng5 27. Kg2 Rd3 28. Rf1 Ne6 29. Ne3 h5 30. h4 Nf4+ 31. Bxf4 exf4 32.
+Nc2 Rd5 33. Rfe1 Bf6 34. Kh3 Kf7 35. Re4 Rd2 36. Na3 Rxb2 37. Nxc4 Rxa2 38.
+Rxf4 Kg7 39. Ne5 Re6 40. Rfe4 Rc2 41. Nc4 Rc6 42. Rb1 Rxc3 43. Nxb6 Rxf3+
+44. Kg2 Rd3 45. Nc4 a4 46. Rb7+ Kh6 47. Ra7 a3 48. Nxa3 Rd2+ 49. Kf3 Bd4
+0-1
+

@@ -1,0 +1,22 @@
+[Event "BL2-W8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dueball, Juergen"]
+[Black "Blaskowski, Johannes"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "a9035008"]
+[Epoch "Queen"]
+[WhiteID "4600185"]
+[WhiteCountry "GER"]
+[BlackID "4603656"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Be7 8. Qf3
+Nfd7 9. Qg3 Nc6 10. Be3 a6 11. O-O-O Qc7 12. Be2 b5 13. g5 b4 14. g6 Nde5 15.
+gxf7+ Nxf7 16. Na4 Bf6 17. f4 Bd7 18. Nb3 Rc8 19. Nb6 Nd4 20. Nxd4 Qxb6 21. Kb1
+Qb7 22. Qg6 Ke7 23. Rhf1 Rc3 24. bxc3 bxc3+ 25. Nb3 a5 26. e5 a4 27. exf6+ gxf6
+28. Bd4 axb3 29. Bxf6+ Ke8 30. axb3 1-0

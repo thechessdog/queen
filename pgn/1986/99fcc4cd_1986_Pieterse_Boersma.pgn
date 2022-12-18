@@ -1,0 +1,26 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1986.07.01"]
+[Round "9"]
+[White "Pieterse, Gert"]
+[Black "Boersma, Paul"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "99fcc4cd"]
+[Epoch "Queen"]
+[WhiteID "1000357"]
+[WhiteCountry "NED"]
+[BlackID "1000411"]
+[BlackCountry "NED"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Nf6 5. Bg5 a6 6. d5 Na7 7. e4 Nb5 8. Qc2
+Nxc3 9. bxc3 b5 10. a4 Bb7 11. Nd4 Nxd5 12. exd5 Qxd5 13. Nf3 e5 14. Rd1 Qe4+
+15. Qxe4 Bxe4 16. Ra1 Bd6 17. axb5 axb5 18. Rxa8+ Bxa8 19. Be2 Kd7 20. O-O Bd5
+21. Rd1 Ke6 22. Be3 h6 23. Ne1 Be4 24. Ra1 Ra8 25. Rxa8 Bxa8 26. f3 f5 27. Nc2
+f4 28. Bf2 g5 29. Bd1 Kd7 30. h3 Bd5 31. Nb4 Be6 32. Bc2 c5 33. Na6 Kc6 34.
+Be4+ Kb6 35. Nb4 Ka5 36. Nc6+ Ka4 37. Be1 b4 38. Bd2 Ka3 39. Nd8 Bg8 40. Nb7
+Be7 41. Bc1+ Kb3 42. Kf1 Kxc3 43. Ke2 Kb3 44. Kd1 c3 45. Na5+ Ka4 46. Nc6 Bd6
+47. Kc2 Bc4 48. Nd8 Bc7 49. Nc6 Bf1 50. Ne7 c4 51. Nf5 Bb6 52. g4 Bd4 53. Nxd4
+exd4 0-1

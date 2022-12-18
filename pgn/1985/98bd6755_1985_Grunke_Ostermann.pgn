@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Grunke"]
+[Black "Ostermann"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Polerio variation"]
+[HashCode "98bd6755"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 5. Qh5+ g6 6. Nxg6 hxg6 7. Qxh8
+Kf7 8. Qd4 Be6 9. Bf1 Nc6 10. Qa4 Bc5 11. c3 Bxf2+ 12. Kxf2 Qh4+ 13. Kg1
+Rf8 14. Qd1 Kg7 15. Qe2 d4 16. g3 Qf6 17. Bg2 Ne5 18. cxd4 Ng4 19. h3 Qxd4+
+20. Qe3 Nxe3 21. dxe3 Qd3 22. Bd2 Nh6 23. Bc3+ Kg8 24. Nd2 Qxe3+ 25. Kh2
+Rf7 26. Rhe1 Ng4+ 27. Kh1 Qxg3 0-1
+

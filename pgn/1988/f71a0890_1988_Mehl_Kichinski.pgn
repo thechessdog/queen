@@ -1,0 +1,18 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mehl"]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "f71a0890"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. O-O Bc5 8.
+Nxd4 Bd7 9. Bxc6 bxc6 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 f6 13. Nb3 Bb6 14. a4
+a5 15. Bf4 fxe5 16. Bxe5 Rf5 17. Qe2 Qe7 18. Rae1 Re8 19. Qg4 Rxe5 20. Rxe5
+Bxg4 21. Rxe7 Rxe7 0-1

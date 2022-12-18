@@ -1,0 +1,24 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kirby, John"]
+[Black "Gassett, J."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "3bdd49fe"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. N1f3 h6 9. Nh3 Nxc4 10. Qxc4 Bd6 11. Bf4 Bxf4 12. Nxf4 O-O 13. O-O Qc7
+14. Nd3 Rd8 15. Nfe5 Qd6 16. c3 Nd7 17. f4 Nb6 18. Qc5 Qxc5 19. Nxc5 Nd7
+20. Nexd7 Bxd7 21. Nxb7 Rdb8 22. Nc5 Bc8 23. b3 a5 24. Rae1 Ba6 25. Rf3 Rd8
+26. f5 exf5 27. Rxf5 Bc8 28. Rfe5 Bg4 29. h3 Bd7 30. Nxd7 Rxd7 31. Re8+
+Rxe8 32. Rxe8+ Kh7 33. Re5 Ra7 34. Rc5 Ra6 35. Kf2 Kg6 36. Ke3 f6 37. c4
+Kf7 38. d5 cxd5 39. Rxd5 Ke6 40. Kd4 f5 41. Kc5 f4 42. Kb5 Ra8 43. Ka4 g5
+44. Rd3 Kf5 45. Rd6 h5 46. Rh6 h4 47. c5 Ke5 48. c6 f3 49. gxf3 Kf4 50. Rg6
+Kg3 51. Rxg5+ Kxh3 52. Kb5 Kh2 53. c7 h3 54. Kb6 Rc8 55. Kb7 Rxc7+ 56. Kxc7
+Kh1 57. f4 h2 58. Rh5 1-0
+

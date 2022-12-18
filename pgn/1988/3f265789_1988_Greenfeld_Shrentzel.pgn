@@ -1,0 +1,21 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Greenfeld, Alon"]
+[Black "Shrentzel, Israel"]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "3f265789"]
+[Epoch "Queen"]
+[WhiteID "2800039"]
+[WhiteCountry "ISR"]
+[BlackID "2800314"]
+[BlackCountry "ISR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 c5 8. Ne2
+dxc4 9. Bxc4 Qc7 10. Bd3 e5 11. O-O b6 12. Ng3 Nbd7 13. e4 cxd4 14. cxd4 exd4
+15. Bg5 h6 16. Rc1 Qb8 17. Bh4 g5 18. Qd2 gxh4 19. Qxh6 Re8 20. Qg5+ Kf8 21.
+Nf5 Re6 22. Bc4 Ne5 23. Qg7+ Ke8 24. Qh8+ Kd7 25. Bb5+ Nc6 26. Rxc6 1-0

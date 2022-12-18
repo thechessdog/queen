@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lonis"]
+[Black "Kerssemakers"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "1d55314f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. d4 exd4 7. Nxd4
+Bd7 8. Be3 O-O-O 9. Nd2 Nh6 10. f3 Qg6 11. Qe2 Be7 12. a4 Rhe8 13. Nc4 Bf8
+14. c3 c5 15. Nb3 b6 16. Rfd1 Qh5 17. Rd5 Qg6 18. Ne5 Rxe5 19. Qxa6+ Kb8
+20. Rxe5 Bc6 21. a5 Bb7 22. Qb5 f6 23. Rxc5 1-0
+

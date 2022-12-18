@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Halldorsson, Bragi"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "325c5fb6"]
+[Epoch "Queen"]
+[BlackID "2300907"]
+[BlackCountry "ISL"]
+[WhiteCountry "NOR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8. dxe5
+Be6 9. Nbd2 Be7 10. c3 Qd7 11. Re1 Nc5 12. Bc2 Bg4 13. Nf1 Rd8 14. Ne3 Bh5 15.
+b4 Ne6 16. Nf5 O-O 17. a4 Bg6 18. g4 d4 19. axb5 axb5 20. Be4 Rfe8 21. Qd3 Nb8
+22. cxd4 Bxb4 23. Rd1 c6 24. Qb3 Nc5 25. Qxb4 Nxe4 26. Ne3 Nf6 27. exf6 Rxe3
+28. Bxe3 Qxg4+ 29. Kf1 Qxf3 30. Qe7 Rc8 31. Ke1 Bh5 32. Kd2 Qe2+ 33. Kc3 Qc4+
+34. Kb2 Bxd1 35. Rxd1 Nd7 36. Rc1 Qd5 37. fxg7 c5 38. dxc5 Ne5 39. Rc3 b4 40.
+Rb3 Nc4+ 0-1

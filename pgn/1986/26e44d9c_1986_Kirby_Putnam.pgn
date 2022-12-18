@@ -1,0 +1,22 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirby, John"]
+[Black "Putnam, Joshua"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "26e44d9c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8.
+Bb5 Bd7 9. Nc3 a6 10. Bd3 Bg4 11. Be3 dxe5 12. dxe5 Nxe5 13. Bb5+ Ned7 14.
+Be2 e6 15. h3 Bh5 16. O-O Bc5 17. Ne4 Bxe3 18. Nd6+ Ke7 19. fxe3 Qc7 20.
+Ng5 Qxd6 21. Qxd6+ Kxd6 22. Bxh5 f6 23. Nf7+ Ke7 24. Nxh8 Rxh8 25. Rac1 Rc8
+26. Rxc8 Nxc8 27. Rc1 Nd6 28. Bf3 Kd8 29. Kf2 Ne5 30. Ke2 Nxf3 31. gxf3 Nf7
+32. Rg1 g6 33. Rd1+ Kc7 34. Rc1+ Kd8 35. Rc5 Kd7 36. Rc4 Ng5 37. Rd4+ Kc6
+38. h4 Nf7 39. f4 f5 40. Rc4+ Kd6 41. Rc8 Kd5 42. Rc7 Nd6 43. Rxh7 e5 44.
+fxe5 Kxe5 45. Rd7 Nc4 46. Rxb7 1-0
+

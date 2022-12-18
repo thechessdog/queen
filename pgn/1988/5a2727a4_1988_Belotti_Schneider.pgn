@@ -1,0 +1,17 @@
+[Event "Rome-B"]
+[Site "Rome"]
+[Date "1988.??.??"]
+[Round "6"]
+[White "Belotti, Bruno"]
+[Black "Schneider, Attila"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "5a2727a4"]
+[Epoch "Queen"]
+[WhiteID "800040"]
+[WhiteCountry "ITA"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 c5 5. a3 Bxd2+ 6. Bxd2 cxd4 7. Nxd4 d5
+8. cxd5 Qxd5 9. e3 a6 10. Qb3 Qxb3 11. Nxb3 Ne4 12. Bd3 Nxd2 1/2-1/2

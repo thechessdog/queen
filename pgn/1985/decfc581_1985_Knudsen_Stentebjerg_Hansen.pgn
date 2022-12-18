@@ -1,0 +1,19 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Knudsen, Peter Bang"]
+[Black "Stentebjerg_Hansen"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[HashCode "decfc581"]
+[Epoch "Queen"]
+[WhiteID "1442554"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Qc2
+c5 9. O-O-O cxd4 10. Nxd4 Nc6 11. Nxc6 bxc6 12. Bd3 Rb8 13. g4 Qa5 14. h4 Ba6
+15. g5 Rxb2 16. Qxb2 Bxc3 17. Qb3 dxc4 18. Bxc4 Bxc4 19. Qxc4 Rb8 20. a4 Bb4
+21. Qxc6 Ba3+ 22. Kc2 Qf5+ 23. Kc3 Bb2+ 24. Kd2 Qxf2+ 25. Kd3 Rb3+ 26. Ke4 Qf5#
+0-1

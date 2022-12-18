@@ -1,0 +1,23 @@
+[Event "Lienz"]
+[Site "Lienz"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "f9ece69e"]
+[Epoch "Queen"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. e4
+Re8 9. Re1 c6 10. h3 Qc7 11. Be3 Nb6 12. b3 Nbd7 13. Rc1 Bf8 14. Qd2 exd4 15.
+Nxd4 Nc5 16. Bf4 Nfd7 17. b4 Ne6 18. Nxe6 Rxe6 19. Be3 Ne5 20. Ne2 a6 21. Nd4
+Re8 22. Bf4 c5 23. bxc5 dxc5 24. Nb3 Be6 25. Qa5 Qxa5 26. Nxa5 Nd3 27. Nxb7
+Nxe1 28. Rxe1 Bxc4 29. e5 Ra7 30. Rc1 Bxa2 31. Nd6 Re6 32. Rxc5 f6 33. Rc8 fxe5
+34. Bh6 Rf6 35. Ne4 Rff7 36. Nd6 Rac7 37. Ra8 Ra7 38. Rd8 Rad7 39. Nxf7 Rxd8
+0-1

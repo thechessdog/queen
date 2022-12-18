@@ -1,0 +1,25 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1985.07.01"]
+[Round "4"]
+[White "Enklaar, Bertus F"]
+[Black "Farago, Ivan"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "770a6ed6"]
+[Epoch "Queen"]
+[BlackID "700134"]
+[BlackCountry "HUN"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bd6 8. Nf3
+Nc6 9. b4 e5 10. Bb2 Bg4 11. dxe5 Bxe5 12. Be2 Qe7 13. Nxe5 Nxe5 14. Nd5 Nxd5
+15. Qxd5 Bxe2 16. Kxe2 Ng6 17. g3 Rad8 18. Qc4 b5 19. Qc3 f6 20. a4 Ne5 21.
+Qb3+ Nc4 22. Rhd1 a6 23. axb5 axb5 24. Kf1 Kh8 25. Bd4 Qe4 26. Kg1 h5 27. Qd3
+Qg4 28. Qf1 Rf7 29. f3 Qe6 30. Rd3 Rfd7 31. Rad1 Kg8 32. Kg2 Qc6 33. Qe2 Qe6
+34. h4 Ra8 35. Kh2 Rd6 36. Bc3 Ra3 37. e4 Rda6 38. Rc1 Ra2 39. Rc2 Nd6 40. Rd5
+Rxc2 41. Qxc2 c6 42. Rd2 Ra3 43. Qd3 Nf7 44. Kg2 Qb3 45. Rc2 Ne5 46. Qe2 Nc4
+47. Kf2 Qb1 48. f4 Qh1 49. e5 Qh2+ 50. Kf3 Qh1+ 51. Kf2 fxe5 52. fxe5 Ra8 53.
+Bd2 Qh2+ 54. Kf3 Qh1+ 55. Kf2 Ra1 56. Rxc4 Qh2+ 57. Kf3 Qxe2+ 58. Kxe2 bxc4 0-1

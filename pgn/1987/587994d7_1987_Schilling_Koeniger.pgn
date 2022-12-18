@@ -1,0 +1,16 @@
+[Event "Ufr"]
+[Site "Ufr"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schilling, H."]
+[Black "Koeniger"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "587994d7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Qa5+ 1/2-1/2
+

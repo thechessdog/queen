@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pontecorvo, A."]
+[Black "Torassa, G."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "2671502f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3
+Qc7 8. g3 e6 9. Bg2 Nd7 10. Bf4 e5 11. Be3 Qa5 12. O-O Bg7 13. Nh4 Be6 14.
+Qc2 Nf8 15. b4 Qc7 16. Rfd1 O-O-O 17. dxe5 fxe5 18. Bxa7 Rxd1+ 19. Rxd1 b6
+20. Qa4 Bd5 21. Nf5 Kb7 22. b5 1-0
+

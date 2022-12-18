@@ -1,0 +1,20 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Renner, Christoph"]
+[Black "Womacka, Mathias"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "bbddae40"]
+[Epoch "Queen"]
+[BlackID "4611390"]
+[BlackCountry "GER"]
+[WhiteID "4600886"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 O-O 12. Bh6 Ne8 13. a3 Bd7 14. Rfe1 Nc6 15.
+Nxc6 Bxc6 16. Rad1 Bf6 1/2-1/2

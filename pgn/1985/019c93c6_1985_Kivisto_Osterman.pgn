@@ -1,0 +1,19 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kivisto, Mikko"]
+[Black "Osterman, George"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "019c93c6"]
+[Epoch "Queen"]
+[WhiteID "5800803"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. dxc3 O-O 8.
+Bf4 f6 9. O-O-O Nc6 10. exf6 Bxf6 11. Qd2 Bg4 12. Qxd5+ Qxd5 13. Rxd5 Bxc3 14.
+Bxc7 Bf6 15. Bc4 Kh8 16. Re1 Rfc8 17. Bd6 Bxf3 18. gxf3 Nd4 19. Bd3 Nxf3 20.
+Rf1 Ng5 21. Be5 Rd8 22. Rxd8+ Rxd8 23. Rxf6 1-0

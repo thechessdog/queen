@@ -1,0 +1,17 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Bommel"]
+[Black "Van Wieringen"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "88ca0a16"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. f4 Qc7 10. a4 Be6 11. f5 Bc4 12. Kh1 Nbd7 13. a5 b5 14. Bg5 Rfc8
+15. Bxf6 Bxf6 16. Rf2 Qc5 17. Qd3 Kf8 18. Nd5 Kg8 19. Qxc4 bxc4 1-0
+

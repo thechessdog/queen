@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Quednau, Hans"]
+[Black "Mehner, Bringfried"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "986a5700"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bxf6 gxf6 5. e3 Bf5 6. Bd3 Qd7 7. Qf3 Bxd3
+8. cxd3 c6 9. Nge2 Na6 10. e4 O-O-O 11. O-O-O Nc7 12. Qh5 e6 13. f4 b5 14.
+e5 f5 15. Kd2 c5 16. a4 b4 17. Nb5 Nxb5 18. axb5 Kb7 19. Ra1 Rh7 20. Ra5 b3
+21. Rha1 Ra8 22. R1a4 Be7 23. Nc3 cxd4 24. Rxd4 Qc7 25. Rda4 Qb6 26. Qf3
+Bb4 27. Ra6 Qxb5 28. Qe3 Qc5 29. Qxc5 Bxc5 30. R6a5 Bb6 31. Rb4 h5 32. Na4
+Rg8 33. Nxb6 Rxg2+ 34. Ke3 axb6 35. Rab5 Rxb2 36. Rxb6+ Kc7 37. Rb7+ Kc8
+38. Rb8+ Kc7 39. R4b7+ Kc6 40. Re7 d4+ 41. Kxd4 Ra2 42. Rbb7 Ra4+ 43. Ke3
+Kd5 44. Red7+ 1-0
+

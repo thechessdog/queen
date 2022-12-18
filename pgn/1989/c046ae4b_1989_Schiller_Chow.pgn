@@ -1,0 +1,20 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Chow, Albert"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "c046ae4b"]
+[Epoch "Queen"]
+[BlackID "2002167"]
+[BlackCountry "USA"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. Nf3 Nh6 7. Qf4 Qd6 8.
+Qxe4 Nf5 9. O-O-O Nc6 10. Bb5 Bd7 11. g4 Nfe7 12. Bf4 Qc5 13. Be3 f5 14. Qf4 e5
+15. Bxc5 exf4 16. Bxb4 1-0

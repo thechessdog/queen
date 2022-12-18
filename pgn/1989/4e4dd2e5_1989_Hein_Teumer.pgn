@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hein"]
+[Black "Teumer"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "4e4dd2e5"]
+[Epoch "Queen"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 e6 4. Nf3 c5 5. O-O Nc6 6. Nbd2 Be7 7. e4 O-O 8.
+e5 Nd7 9. Re1 b5 10. Nf1 a5 11. h4 b4 12. Bf4 a4 13. a3 bxa3 14. bxa3 Nb6
+15. Ne3 Ra7 16. c4 Na5 17. Ng5 dxc4 18. Qh5 h6 19. Ng4 hxg5 20. hxg5 Re8
+21. Be4 g6 22. Bxg6 fxg6 23. Qxg6+ Kh8 24. Kg2 Bb7+ 25. Re4 1-0
+

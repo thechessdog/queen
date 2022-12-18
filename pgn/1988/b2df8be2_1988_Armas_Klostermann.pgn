@@ -1,0 +1,21 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Armas, Jorge"]
+[Black "Klostermann, Markus"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "b2df8be2"]
+[Epoch "Queen"]
+[BlackID "4604458"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Bd3 Qc7 7. Qe2 d6 8. O-O
+g6 9. Bg5 Bg7 10. Nc3 Nbd7 11. Nf3 b6 12. Rac1 Bb7 13. Rfd1 O-O 14. Bb1 Rfd8
+15. b3 Rac8 16. h3 Qb8 17. Nh2 Bc6 18. Bd3 h6 19. Be3 Nc5 20. f3 Nxd3 21. Rxd3
+b5 22. cxb5 axb5 23. Qd2 Kh7 24. Ng4 Nxg4 25. hxg4 b4 26. Na4 d5 27. Bd4 Bxd4+
+28. Rxd4 dxe4 29. Rxc6 Rxd4 30. Rxc8 Qa7 31. Rc7 Qxc7 32. Qxd4 Qc1+ 33. Kf2
+Qc2+ 34. Kg3 Qxa2 35. Nc5 exf3 36. gxf3 Qb1 37. Qe5 Kg8 38. Na6 g5 1-0

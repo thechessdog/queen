@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Knorich"]
+[Black "Edelmann"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "f3dab5c3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. e4 dxe4 5. f3 exf3 6. Nxf3 g6 7. Bc4 Bg7
+8. O-O O-O 9. Qd2 c6 10. Rae1 b5 11. Bb3 e6 12. Ne4 Qb6 13. Kh1 Nxe4 14.
+Rxe4 a5 15. a4 Bb7 16. Bh6 Rfe8 17. Bxg7 Kxg7 18. Ng5 Re7 19. Nxh7 Rh8 20.
+Ng5 c5 21. dxc5 Qxc5 22. Rxf7+ Kg8 23. Rxe7 Qxe7 24. Rxe6 1-0
+

@@ -1,0 +1,20 @@
+[Event "Leningrad-chT"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Aseev, Konstantin N"]
+[Black "Vladimirov, Yevgeniy"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "7c4fd50f"]
+[Epoch "Queen"]
+[BlackCountry "KAZ"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Qh5 h6 11. g4 Nbc6 12. g5 g6 13. Qh4 Nf5 14. Qh3 Rf8 15.
+gxh6 e5 16. Qg2 Qe8 17. dxc5 e4 18. Bb5 Bd7 19. Ne2 Ne5 20. Bxd7 Qxd7 21. Nd4
+Nxd4 22. cxd4 Nf3+ 23. Kd1 Kh7 24. Rb1 Rac8 25. h4 b6 26. Rh3 Nxd4 27. Rg3 Qa4
+28. Rc3 Qa6 29. Be3 Qe2+ 30. Kc1 Nf5 31. Qg5 d4 32. Bxd4 Nxd4 0-1

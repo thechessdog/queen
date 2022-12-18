@@ -1,0 +1,19 @@
+[Event "Vrnjacka Banja"]
+[Site "Vrnjacka Banja"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Plachetka, Jan"]
+[Black "Lukacs, Peter"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "d95afe51"]
+[Epoch "Queen"]
+[WhiteID "14900068"]
+[BlackID "700142"]
+[WhiteCountry "SVK"]
+[BlackCountry "HUN"]
+
+1. Nf3 d5 2. c4 d4 3. e3 Nc6 4. b4 dxe3 5. fxe3 Nxb4 6. d4 e5 7. a3 Nc6 8. d5
+e4 9. Nfd2 Ne5 10. Nxe4 Qh4+ 11. Nf2 Nh6 12. Nc3 Nhg4 0-1

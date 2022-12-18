@@ -1,0 +1,20 @@
+[Event "St John"]
+[Site "St John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Izrailov, I."]
+[Black "Sarwer, J."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "8fa75eb7"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Bb4 7. cxd5 exd5
+8. Bb5+ Bd7 9. Qe2+ Qe7 10. Qxe7+ Bxe7 11. Bg5 Bxb5 12. Nxb5 Na6 13. Rc1
+O-O 14. O-O h6 15. Bh4 g5 16. Bg3 Ne4 17. a3 h5 18. Nc7 Nxg3 19. hxg3 Rad8
+20. Nxa6 bxa6 21. Rc7 Bf6 22. Rxa7 Rd6 23. Rc1 g4 24. Ne5 Bxe5 25. dxe5 Re6
+26. b4 Rxe5 27. Rxa6 Rd8 28. Ra5 Re7 29. Rd1 d4 30. Rg5+ Kh7 31. Rxh5+ Kg6
+32. Rc5 d3 33. Kf1 Rh8 34. Rc6+ f6 35. Kg1 d2 36. Rf1 Rd8 0-1
+

@@ -1,0 +1,22 @@
+[Event "NRW-Liga I"]
+[Site "Bielefeld"]
+[Date "1987.01.01"]
+[Round "?"]
+[White "Kruse, Herbert"]
+[Black "Debard, Michel"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "b7a8fd40"]
+[Epoch "Queen"]
+[WhiteID "4620267"]
+[WhiteCountry "GER"]
+[BlackID "603775"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. a3 Bb5 7. c4 Bxc4 8. Bxc4
+dxc4 9. d5 exd5 10. Qxd5 Qc6 11. Qxc4 Ne7 12. Nc3 Nd7 13. O-O Nb6 14. Qe2 Nf5
+15. Qd3 Qg6 16. Nb5 Rc8 17. Nxa7 c4 18. Qe4 Rc7 19. Bf4 Nh4 20. Nd2 Rd7 21. Be3
+Nd5 22. Qxg6 Nxg6 23. Nxc4 Nxe3 24. fxe3 Bc5 25. Nb5 Ke7 26. b4 Rd5 27. bxc5
+Rxc5 28. Nbd6 b5 29. Nf5+ Ke6 30. Nxg7+ Kd5 31. Rfd1+ Ke4 32. Rd4# 1-0

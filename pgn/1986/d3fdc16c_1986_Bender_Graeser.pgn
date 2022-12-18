@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bender, K."]
+[Black "Graeser, K."]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit"]
+[HashCode "d3fdc16c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. b4 cxb4 3. Bb2 Nf6 4. e5 Nd5 5. c4 bxc3 6. Nxc3 Nxc3 7. Bxc3 e6
+8. Qg4 g6 9. h4 h5 10. Qa4 Bg7 11. Nf3 Nc6 12. Bd3 O-O 13. g4 d6 14. gxh5
+Nxe5 15. Nxe5 dxe5 16. Bc2 Bd7 1/2-1/2
+

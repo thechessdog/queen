@@ -1,0 +1,26 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Valvo, Michael J"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "21b616a0"]
+[Epoch "Queen"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+[BlackID "2000954"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. h3 O-O 8. O-O
+Nc6 9. Be3 Bd7 10. Bb3 Qa5 11. Re1 Rfe8 12. Qd3 Rad8 13. Rad1 e6 14. Ndb5 Ne5
+15. Qxd6 Bxb5 16. Qxe5 Nd5 17. Qg5 Nxc3 18. bxc3 Bxc3 19. Rxd8 Rxd8 20. Rb1 Bc6
+21. Qxa5 Bxa5 22. f3 b6 23. Kf2 Bc3 24. Bc4 Kg7 25. Rb3 Be5 26. Bb5 Rc8 27. Ba6
+Rc7 28. c4 f5 29. f4 Bf6 30. e5 Be7 31. g3 Be4 32. Ke2 Kf7 33. Rb2 h6 34. h4
+Ba3 35. Rb3 Bc5 36. Bxc5 Rxc5 37. Bb5 Rc7 38. Rb2 Bb7 39. Rd2 Ke7 40. Rd6 Bc8
+41. Kd3 Bd7 42. a4 Bc8 43. Kc3 Bb7 44. Kb4 a6 45. Rxb6 axb5 46. axb5 Bf3 47. c5
+Ra7 48. Rd6 Rd7 49. Ka5 Rxd6 50. exd6+ Kd7 51. Kb6 Bd5 52. Ka7 e5 53. fxe5 g5
+54. hxg5 hxg5 55. b6 f4 56. gxf4 gxf4 57. b7 1-0

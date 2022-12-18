@@ -1,0 +1,15 @@
+[Event "Noviki"]
+[Site "Budapest IV"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Markotic, G."]
+[Black "Spiriev, P."]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "fddf9c8d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Qd3 c6 5. e4 dxe4 6. Nxe4 Nxe4 7. Qxe4
+h6 8. Bd2 1/2-1/2
+

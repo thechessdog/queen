@@ -1,0 +1,19 @@
+[Event "Horsholm"]
+[Site "Horsholm"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Andreasen, Bjarne"]
+[Black "Olsen, Kim"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[HashCode "97161a49"]
+[Epoch "Queen"]
+[BlackID "1406922"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. c4 Qa5 3. Nc3 e5 4. Nf3 Nf6 5. Qc2 Bc5 6. a3 Qb6 7. Na4 Bxf2+ 8.
+Ke2 Qd8 9. Kxf2 d6 10. Be2 O-O 11. d3 h6 12. h3 Nh7 13. Be3 f5 14. Rhf1 fxe4
+15. dxe4 Nd7 16. c5 d5 17. exd5 cxd5 18. Kg1 Qc7 19. Qg6 Rf6 20. Qg3 Rg6 21.
+Qxg6 1-0

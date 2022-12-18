@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kreuscher, W."]
+[Black "Penndorf, D."]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, Botvinnik variation"]
+[HashCode "30e58cb3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4
+Nd5 8. Nc3 Be6 9. Bb3 Bd6 10. Ne4 Bc7 11. O-O O-O 12. d4 Nd7 13. c4 Ne3 14.
+Bxe3 fxe3 15. Nfg5 Nf6 16. Nxf6+ gxf6 17. Nxe6 fxe6 18. c5 Qe7 19. Qd3 Kh8
+20. Qxe3 e5 1/2-1/2
+

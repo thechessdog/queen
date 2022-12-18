@@ -1,0 +1,20 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szylar, Eric"]
+[Black "Bruneau, Laurent"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "0ec9067c"]
+[Epoch "Queen"]
+[WhiteID "606545"]
+[BlackID "604550"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be3 Qc7 6. Be2 Nf6 7. Nd2 Nc6 8.
+O-O Bd6 9. g3 h5 10. f4 h4 11. c3 hxg3 12. hxg3 b5 13. e5 Nxe5 14. fxe5 Bxe5
+15. Bf4 Bb7 16. Bxe5 Qxe5 17. Kf2 Rh2+ 0-1

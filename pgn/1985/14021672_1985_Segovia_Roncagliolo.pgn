@@ -1,0 +1,18 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Segovia"]
+[Black "Roncagliolo"]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[HashCode "14021672"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. c4 Nxd5 11. Qxd5 Bxg5 12. Qxc6+ Ke7 13. Nxb5 Rb8
+14. Qc7+ Qxc7 15. Nxc7 Rxb2 16. Nd5+ Kd8 17. Be2 f5 18. exf5 Bxf5 19. Bf1
+Bd3 0-1
+

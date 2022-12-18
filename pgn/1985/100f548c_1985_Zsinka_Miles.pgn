@@ -1,0 +1,27 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zsinka, Laszlo"]
+[Black "Miles, Anthony J"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "100f548c"]
+[Epoch "Queen"]
+[BlackCountry "ENG"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bd2 O-O 6. e3 d5 7. Nf3 b6 8. Be2
+Bb7 9. O-O Bd6 10. cxd5 exd5 11. Qc2 a6 12. Na4 Nbd7 13. b4 Ne4 14. Rab1 Qe7
+15. Rfc1 Rab8 16. Be1 f5 17. g3 g5 18. Nd2 Rf6 19. Nxe4 fxe4 20. Nc5 Bxc5 21.
+bxc5 b5 22. a4 Bc6 23. axb5 axb5 24. Rb2 Nf8 25. Ra1 Qf7 26. Qb1 Ne6 27. Ra6
+Qd7 28. Ra5 Rbf8 29. Qd1 Ng7 30. Bxb5 Bxb5 31. Raxb5 R8f7 32. Qe2 Rf3 33. Rb8+
+Kh7 34. Ra8 Qg4 35. Qa6 R3f6 36. Qe2 Qh3 37. Qf1 g4 38. Qxh3 gxh3 39. Rbb8 Ne6
+40. Rh8+ Kg6 41. Rhg8+ Rg7 42. Rxg7+ Kxg7 43. Ra7 Rf7 44. Ba5 Kg6 45. Kf1 Kf5
+46. Ke2 Kg4 47. Rb7 Rf8 48. Ra7 Rb8 49. Bxc7 Rb2+ 50. Ke1 Kf3 51. Be5 Kg2 52.
+g4 Ng5 53. Kd1 Rb1+ 54. Kc2 Rb4 55. Ra3 Nf3 56. Bf4 Nxh2 57. c6 Nxg4 58. Rc3
+Ra4 59. c7 Ra2+ 60. Kc1 Ra8 61. c8=Q Rxc8 62. Rxc8 h2 63. Bxh2 Nxh2 64. Rd8
+Kxf2 65. Rxd5 Kxe3 66. Rh5 Ng4 67. d5 Nf6 68. d6 Nd7 69. Rxh6 Kf2 70. Rh7 Nc5
+71. d7 Nb7 72. Rf7+ Ke2 73. Rf8 e3 74. Rb8 Kf1 75. Rxb7 e2 76. d8=Q 1-0

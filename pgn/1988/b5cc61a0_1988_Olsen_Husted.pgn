@@ -1,0 +1,17 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Olsen, Aage Dalstrup"]
+[Black "Husted, Peter"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian defence"]
+[HashCode "b5cc61a0"]
+[Epoch "Queen"]
+[WhiteID "1405802"]
+[BlackID "1403303"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 Bb4 7. f3 O-O 8. Be3
+d5 9. exd5 exd5 10. Be2 Re8 11. Bf2 Qe7 12. Rc1 Nxd4 13. Qxd4 Bxc3+ 0-1

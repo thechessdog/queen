@@ -1,0 +1,22 @@
+[Event "Barcelona Vulca"]
+[Site "Barcelona"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sanchez Guirado, Francisco"]
+[Black "Campos Lopez, Mario"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "de7f4d2e"]
+[Epoch "Queen"]
+[WhiteID "2200511"]
+[WhiteCountry "ESP"]
+[BlackID "3400034"]
+[BlackCountry "CHI"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Qc2 b6 8. b3 Bb7
+9. Nc3 Na6 10. Rd1 Rc8 11. e4 Re8 12. Bf4 h6 13. a3 Bf8 14. Qd3 c5 15. exd5
+exd5 16. dxc5 Nxc5 17. Qc2 Nce4 18. Nxe4 Nxe4 19. Be3 Qc7 20. Bh3 Rcd8 21. Nd4
+dxc4 22. Nb5 Qe5 23. bxc4 Ng5 24. Bg2 Nf3+ 25. Kh1 Qh5 26. h4 Be7 27. Rxd8 Rxd8
+28. Qe2 Bxh4 29. g4 Qxg4 30. Rd1 0-1

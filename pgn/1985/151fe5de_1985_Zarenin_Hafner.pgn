@@ -1,0 +1,23 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zarenin, AV."]
+[Black "Hafner, M."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "151fe5de"]
+[Epoch "Queen"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 e6 4. Nf3 Be7 5. Nc3 c5 6. Bd3 Nc6 7. Ne2 a6 8.
+Ng3 b5 9. a4 Rb8 10. axb5 axb5 11. O-O Qc7 12. e4 d4 13. Be2 h5 14. h4 Ng4
+15. c3 e5 16. b4 dxc3 17. dxc3 cxb4 18. cxb4 Bxb4 19. Rc1 Be7 20. Qd5 Bd7
+21. Nf5 Qb7 22. Ng5 O-O 23. Rxc6 Bxc6 24. Nxe7+ Qxe7 25. Qxc6 f6 26. Ne6
+Rfc8 27. Qd5 Kh7 28. Bd1 Re8 29. Bb3 Rb6 30. Nd4 exd4 31. Bxd4 Rbb8 32.
+Qxh5+ Nh6 33. e5 fxe5 34. Re1 Qb4 35. Bc2+ Kg8 36. Rxe5 Rec8 37. Bc5 Qg4
+38. Bb3+ Kh7 39. Qg5 Qxg5 40. hxg5 Ng4 41. Rf5 b4 42. g3 Rb5 43. g6+ Kxg6
+44. Bc2 Kh6 45. Bd6 Rxf5 46. Bxf5 Rc1+ 47. Kg2 Rc4 48. Kf3 b3 49. Bf4+ g5
+50. Bd6 Kh5 51. Ke2 b2 52. f3 Nh6 53. Bh7 Rc1 54. f4 g4 55. f5 Re1+ 0-1
+

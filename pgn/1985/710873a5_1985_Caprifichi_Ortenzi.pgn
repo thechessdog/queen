@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Caprifichi"]
+[Black "Ortenzi"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "710873a5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Re1 Bf5 10. Nc3 Nxc3 11. bxc3 Bxd3 12. Qxd3 Nd7 13. cxd5 cxd5
+14. Qf5 Nf6 15. Bg5 Qc8 16. Nh4 Ne4 17. Qxd5 Nxg5 18. Qxg5 Qc7 19. Nf5 f6
+20. Qg4 Rfe8 21. h4 Bf8 22. h5 Qxc3 23. Rec1 Qa5 24. Rc5 b5 25. Rac1 Re1+
+26. Kh2 Rxc1 27. Nh6+ Kh8 28. Nf7+ Kg8 29. Qe6 g6 30. Rxc1 b4 31. Ng5+ Kh8
+32. Qxf6+ Bg7 33. Qe7 Qf5 34. h6 Qf6 35. hxg7+ Qxg7 36. Qxg7+ Kxg7 37. Rc7+
+Kg8 38. Rxh7 a5 39. Re7 Kf8 40. Re2 a4 41. Ne6+ Kf7 42. Nc5 a3 43. Kg3 1-0
+

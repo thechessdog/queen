@@ -1,0 +1,21 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Mantovani"]
+[Black "D'Apa"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "543bffe4"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nd7 7. Bf4 Ngf6
+8. Qd3 Nxe4 9. Qxe4 Nf6 10. Qf3 c6 11. O-O-O Qd5 12. Qd3 Qe4 13. Qd2 Nd5
+14. f3 Qg6 15. h4 Nxf4 16. Nxf4 Qh6 17. g4 Bg5 18. hxg5 Qxh1 19. Bg2 Qh4
+20. Nh5 f6 21. gxf6 gxf6 22. Rh1 Qg5 23. f4 Qg6 24. g5 fxg5 25. Be4 Qf7 26.
+fxg5 a5 27. Nf6+ Ke7 28. Qf4 h5 29. Rf1 Kd8 30. g6 Qg7 31. Qg5 Kc7 32. Ne8+
+Rxe8 33. Rf7+ Qxf7 34. gxf7 Rf8 35. Qe5+ Kd7 36. Bg6 b6 37. Bxh5 Ba6 38.
+Bg4 1-0
+

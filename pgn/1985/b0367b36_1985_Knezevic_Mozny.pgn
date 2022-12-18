@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Knezevic, Milorad"]
+[Black "Mozny, Milos"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Smyslov defence"]
+[HashCode "b0367b36"]
+[Epoch "Queen"]
+[BlackID "300454"]
+[BlackCountry "CZE"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 g6 5. Nf3 Bg7 6. Bd3 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. Rd1 Nbd7 11. b3 Re8 12. Bb2 Qe7 13. Qe2 Red8 14. a4 e5 15.
+Ba3 Qe8 16. cxd5 exd4 17. exd4 Qxe2 18. Bxe2 Nxd5 1/2-1/2

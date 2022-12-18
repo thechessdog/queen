@@ -1,0 +1,18 @@
+[Event "RFT"]
+[Site "RFT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karolyi"]
+[Black "Roeder, Frank"]
+[Result "0-1"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "251f84d0"]
+[Epoch "Queen"]
+[BlackID "4602161"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c5 8. d5
+Ne5 9. Bh6 Bxh6 10. Qxh6 e6 11. h4 exd5 12. exd5 Nh5 13. Ne4 f5 14. Ng5 Qe7 15.
+Kf2 Ng4+ 16. fxg4 fxg4+ 17. N1f3 g3+ 0-1

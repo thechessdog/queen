@@ -1,0 +1,23 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Berg, Klaus"]
+[Black "Chernin, Alexander"]
+[Result "0-1"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "367a4286"]
+[Epoch "Queen"]
+[WhiteID "1400053"]
+[WhiteCountry "DEN"]
+[BlackID "715620"]
+[BlackCountry "HUN"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bd3
+Bxd3 9. Qxd3 Be7 10. h3 O-O 11. O-O Nd7 12. Rfc1 Rc8 13. Nd2 b6 14. a3 Nf6 15.
+Ne2 Na5 16. Rxc8 Qxc8 17. Rc1 Nc4 18. Rc2 Qe8 19. Bc7 Nxd2 20. Bxb6 Nc4 21. Bc5
+Bxc5 22. dxc5 Qb5 23. e4 Qxc5 24. exd5 exd5 25. Nf4 h5 26. Qxd5 Qe7 27. Re2 Qc7
+28. Qf3 Nxb2 29. Nd5 Qc1+ 30. Kh2 Nc4 31. Qg4 Qxa3 32. Ne7+ Kh8 33. Kh1 Qd6 34.
+g3 g6 0-1

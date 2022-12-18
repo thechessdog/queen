@@ -1,0 +1,18 @@
+[Event "corr ICCF TT"]
+[Site "corr ICCF TT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sekala, S."]
+[Black "Decallone, B."]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "77269c8c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Qc7 10. Ndb5 Qb8 11. O-O-O a6 12. Nd4 Ne5 13. Bb3 b5 14. f4
+Nc4 15. Bxc4 bxc4 16. b3 Qb7 17. e5 dxe5 18. fxe5 Ng4 19. Bf4 Nxe5 20. Bxe5
+Bxe5 21. bxc4 Rb8 22. Qe2 Bf4+ 0-1
+

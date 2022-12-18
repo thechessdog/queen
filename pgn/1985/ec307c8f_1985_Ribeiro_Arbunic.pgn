@@ -1,0 +1,20 @@
+[Event "Sao Paulo wzt"]
+[Site "Sao Paulo wzt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ribeiro, R."]
+[Black "Arbunic, G."]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "ec307c8f"]
+[Epoch "Queen"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. Nc3 Nc6 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+Be3 O-O 9. O-O b5 10. Qd2 b4 11. Nd1 Rb8 12. g4 Qb6 13. Qf2 f5 14. h3 e5
+15. gxf5 gxf5 16. Nd2 Nd4 17. Nc4 Qd8 18. c3 bxc3 19. bxc3 exf4 20. Bxf4
+fxe4 21. Qd2 Ba6 22. Ndb2 Ng6 23. Bxd6 Rxf1+ 24. Rxf1 Rxb2 25. Nxb2 Qxd6
+26. Bxe4 Qg3+ 27. Bg2 Nh4 28. cxd4 Bxd4+ 29. Kh1 Bb7 30. Rf8+ Kxf8 31. Qh6+
+Bg7 0-1
+

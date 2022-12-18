@@ -1,0 +1,17 @@
+[Event "corr Markov mem"]
+[Site "corr Markov mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Letic, S."]
+[Black "Sapundiev, G."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "40d88950"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8.
+O-O a6 9. a4 cxd4 10. exd4 Nc6 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Qxd5 14.
+Bxd5 Bf5 1/2-1/2
+

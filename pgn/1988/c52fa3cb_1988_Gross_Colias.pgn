@@ -1,0 +1,23 @@
+[Event "Allentown"]
+[Site "Allentown"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gross, David"]
+[Black "Colias, Billy"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "c52fa3cb"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 b5 7. h3 c5 8. d3
+Ne7 9. Be3 f6 10. Qe2 Be6 11. c3 Qc6 12. Rac1 Ng6 13. b4 Rd8 14. Rfd1 Be7 15.
+Qb2 c4 16. dxc4 Rxd1+ 17. Rxd1 Qxe4 18. Nd2 Qc6 19. cxb5 axb5 20. Rc1 O-O 21.
+c4 bxc4 22. Naxc4 Nh4 23. f3 Qb5 24. a3 Rd8 25. Bf2 Ng6 26. Na5 Nf4 27. Rxc7
+Qe2 28. Rc2 Nd3 29. Nf1 Qd1 30. Qc3 Rc8 31. Nc6 Bd8 32. Rd2 Nxf2 33. Rxd1 Nxd1
+34. Qc5 Nb2 35. Kh2 Nc4 36. Ne7+ Bxe7 37. Qxe7 Bf7 38. Qd7 Re8 39. a4 g6 40. a5
+f5 41. a6 e4 42. a7 Nb6 43. Qc6 Na8 44. fxe4 fxe4 45. Ne3 Kg7 46. b5 Rd8 47. b6
+Rd3 48. b7 Rxe3 49. bxa8=Q Re2 50. Qxe4 Rxe4 51. Qxe4 g5 52. a8=Q h5 53. Qe5+
+Kg6 54. Qae4+ Kh6 55. Qf6+ Bg6 56. Qfxg6# 1-0

@@ -1,0 +1,27 @@
+[Event "Gausdal Peer Gynt"]
+[Site "Gausdal Peer Gynt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jakobsen, Ole"]
+[Black "Djuric, Stefan"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "d014c237"]
+[Epoch "Queen"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. e4 e5 10. d5 Nb8 11. g3 a5 12. b3 c6 13. Nd2 Qc7 14. Bg2 cxd5 15.
+exd5 b5 16. O-O Ba6 17. cxb5 Bxb5 18. Rfc1 Rc8 19. a4 Ba6 20. Qb2 Qd8 21. b4
+Nbd7 22. bxa5 Nc5 23. Qa3 Nd3 24. Rc2 Qd7 25. Nf1 Qa7 26. h3 Rc5 27. Ne3 Rac8
+28. Raa2 h5 29. Bf3 h4 30. gxh4 Nf4 31. Be1 Nxh3+ 32. Kh2 Rxc2 33. Rxc2 Rxc2
+34. Nxc2 Nxf2 35. Qxd6 N2g4+ 36. Kg2 Bd3 37. Qb6 Qd7 38. Nb4 e4 39. Bd1 Qf5 40.
+Nxd3 exd3 41. Qd4 Ne5 42. Bg3 Ned7 43. Bf3 d2 44. Qxd2 Ne4 45. Qf4 Nxg3 46.
+Kxg3 Qb1 47. Qe3 Qg6+ 48. Kh3 Qf5+ 49. Kg3 Qg6+ 50. Kf2 Qc2+ 51. Kg1 Qb1+ 52.
+Kg2 Qc2+ 53. Qe2 Qg6+ 54. Kf2 Nc5 55. a6 Nd3+ 56. Kf1 Qxa6 57. Qe8+ Kh7 58.
+Be4+ f5 59. Bxf5+ g6 60. Qe6 Nc5+ 61. Qxa6 Nxa6 62. Bc8 Nb4 63. Bb7 Kg7 64. a5
+Kf6 65. a6 1-0

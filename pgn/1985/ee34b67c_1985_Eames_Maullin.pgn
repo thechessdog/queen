@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eames"]
+[Black "Maullin, Robert"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "ee34b67c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 c5 5. a3 Bxc3+ 6. Nxc3 dxe4 7. dxc5
+Qxd1+ 8. Kxd1 Nf6 9. Bg5 Nbd7 10. Bb5 O-O 11. b4 h6 12. Bh4 g5 13. Bg3 Nd5
+14. Kd2 Rd8 15. Nxd5 Nf6 16. c4 exd5 17. Bc7 Be6 18. Bxd8 Rxd8 19. cxd5
+Rxd5+ 20. Ke2 Nh5 21. Rhd1 Re5 22. Rd8+ Kg7 23. Kd2 f5 24. Kc3 e3 25. Re1
+Nf4 26. Rxe3 Rxe3+ 27. fxe3 Nxg2 28. Bd7 Kf6 29. Bxe6 Kxe6 30. b5 f4 31. c6
+bxc6 32. bxc6 1-0
+

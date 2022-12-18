@@ -1,0 +1,24 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stigar, Petter"]
+[Black "Ingbrandt, Johan"]
+[Result "1-0"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "f6ba6a1d"]
+[Epoch "Queen"]
+[WhiteID "1500341"]
+[WhiteCountry "NOR"]
+[BlackID "1700472"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. Rc1
+Bb7 9. cxd5 exd5 10. Be2 Nbd7 11. O-O c5 12. Bg3 Ne4 13. dxc5 Nxc3 14. Rxc3
+bxc5 15. Qa4 Nb6 16. Qa5 Qd7 17. Ne5 Qe6 18. Nd3 d4 19. Nxc5 Bxc5 20. Rxc5 dxe3
+21. Re5 exf2+ 22. Rxf2 Qd7 23. h3 Rfe8 24. Bh5 Rxe5 25. Qxe5 Re8 26. Bxf7+ Qxf7
+27. Rxf7 Rxe5 28. Rxb7 Ra5 29. a3 Nc4 30. Bf2 a6 31. Bd4 g5 32. Rg7+ Kf8 33.
+Rh7 Rd5 34. Bc3 a5 35. Rxh6 Kf7 36. Rc6 Ne3 37. Kf2 Nd1+ 38. Ke2 a4 39. Rc4
+Nxc3+ 40. bxc3 1-0

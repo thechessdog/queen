@@ -1,0 +1,24 @@
+[Event "corr DDR/FS"]
+[Site "corr DDR/FS"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schwind"]
+[Black "Lehnert"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "2efb81a4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d6 5. Nc3 Nf6 6. Nf3 e6 7. Be2 Be7 8.
+O-O O-O 9. a3 d5 10. e5 Ne4 11. Bd3 Nxc3 12. bxc3 Na5 13. Bc2 Nc4 14. Qd3
+g6 15. Nd2 Nxd2 16. Bxd2 Qc7 17. Qg3 f5 18. h4 Qd8 19. Bg5 Bxg5 20. hxg5
+Bd7 21. c4 dxc4 22. f4 Bc6 23. Qc3 b5 24. Bd1 Be4 25. Bf3 Qd5 26. Bxe4 Qxe4
+27. Rfd1 Rfd8 28. Qb4 Qc6 29. Rab1 Rd5 30. a4 Rb8 31. Qe7 a6 32. axb5 axb5
+33. Rdc1 Rxd4 34. Rd1 Rb7 35. Qa3 Rbd7 36. Rxd4 Rxd4 37. Qa7 Rd2 38. Qb8+
+Kf7 39. Qa7+ Ke8 40. Qb8+ Ke7 41. Qa7+ Rd7 42. Qa3+ Kf7 43. Qc3 Ra7 44. Ra1
+Rxa1+ 45. Qxa1 Qb6+ 46. Kh2 b4 47. Qa8 b3 48. Qh8 b2 49. Qxh7+ Kf8 50. Qh8+
+Ke7 51. Qf6+ Kd7 52. Qf7+ Kc6 53. Qxe6+ Kb5 54. Qd5+ Kb4 55. Qd6+ Qc5 56.
+Qb8+ Qb5 57. Qd6+ Kb3 58. Qd1+ Ka2 59. Qd2 c3 0-1
+

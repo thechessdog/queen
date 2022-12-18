@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Rodgaard, John"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "9d5ef719"]
+[Epoch "Queen"]
+[BlackID "7200013"]
+[BlackCountry "FAI"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. Nf3 h5 7. Qxe6+ Bxe6 8.
+Nxd4 Bd7 9. Nxe4 Bxd2+ 10. Kxd2 Nc6 11. Nxc6 Bxc6 12. Bd3 O-O-O 13. Rhe1 Nh6
+14. f3 Bb5 1/2-1/2

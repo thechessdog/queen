@@ -1,0 +1,22 @@
+[Event "Bauarbeiter"]
+[Site "Bauarbeiter"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Horvath, Maria"]
+[Black "Szalanczy, Emil"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "75673025"]
+[Epoch "Queen"]
+[WhiteID "1601660"]
+[BlackID "700347"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. f3 d5 6. exd5 Nxd5 7. Bc4 e6 8. Bxd5
+exd5 9. Be3 Qh4+ 10. g3 Qh5 11. Nd2 Ne5 12. Qe2 Be7 13. g4 Qg6 14. h4 h5 15. g5
+O-O 16. Nb3 Re8 17. O-O-O Bf5 18. Rxd5 Nd3+ 19. Kd1 Rad8 20. Rxd8 Rxd8 21. Bd4
+Bxc5 22. Nxc5 Nxc5 23. Qe7 Ne6 24. Rh2 Bb1 25. Rd2 Bxa2 26. Ne2 Qb1+ 27. Nc1
+Bb3+ 0-1

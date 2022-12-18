@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schneider, Lars-Ake"]
+[Black "Welin, Thomas"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "c6c2cf7d"]
+[Epoch "Queen"]
+[BlackID "1700324"]
+[BlackCountry "SWE"]
+[WhiteID "1700235"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. g3 f5
+9. Ne2 Be7 10. Bh3 h5 11. b3 cxd4 12. cxd4 a5 13. a4 Ndb8 14. Kf2 Bd7 15. Bg2
+Nb4 16. h3 N8a6 17. g4 hxg4 18. hxg4 O-O-O 19. gxf5 exf5 20. Rxh8 Rxh8 21. Be3
+Kb8 22. Qd2 Nc7 23. Rh1 Rxh1 24. Bxh1 1/2-1/2

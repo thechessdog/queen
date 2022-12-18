@@ -1,0 +1,21 @@
+[Event "corr ch22-CSSR"]
+[Site "corr ch22-CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nowotny, Heinz"]
+[Black "Rosenzweig"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "0dead277"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Nc6 7. f3 Bd7 8. Qd2
+Rc8 9. g4 Ne5 10. h4 h5 11. g5 Nh7 12. O-O-O Bg7 13. f4 Nc4 14. Bxc4 Rxc4 15.
+f5 Qa5 16. fxg6 fxg6 17. Rhf1 Rf8 18. Qd3 Rxf1 19. Rxf1 Qa6 20. Rd1 Nf8 21. Kb1
+Bg4 22. Rd2 Nd7 23. Ndb5 Ne5 24. Qd5 Kd7 25. Nxd6 exd6 26. Bc5 Rxc5 27. Qxc5
+Qf1+ 28. Nd1 Nc4 29. Rd3 Bxd1 30. Qb5+ Kc7 31. Qxc4+ Kb8 32. Qg8+ Bf8 33. a3
+Bf3+ 34. Ka2 Bxe4 35. Rd1 Qf4 36. Rd4 d5 37. Rxe4 dxe4 38. Qxg6 a6 39. Qxh5 e3
+40. Qe8+ Ka7 41. h5 Qc4+ 42. Kb1 Qf1+ 43. Ka2 e2 44. Qe3+ Kb8 45. Qe5+ Kc8 46.
+Qc3+ Kd7 47. Qd4+ Bd6 48. Qg7+ Ke6 0-1

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Froemmel, A."]
+[Black "Riessbeck, J."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "b4205620"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nd2 d5 6. exd6 Bf5 7. dxc7
+Qxc7 8. Qa4+ Nc6 9. Nf3 O-O-O 10. e3 Qd7 11. a3 Bxd2+ 12. Bxd2 Nxd2 13.
+O-O-O Nb3+ 14. Qxb3 Na5 15. Qc2 Bxc2 16. Rxd7 Rxd7 17. b4 Bb3 0-1
+

@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Woschkat, K."]
+[Black "Purser, Tom"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "56d8299c"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 Ne7 5. Nxf7 Kxf7 6. Qf3+ Ke8 7. exd5 Bb4+
+8. c3 Ba5 9. Bc4 1-0

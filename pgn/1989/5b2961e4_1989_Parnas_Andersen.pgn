@@ -1,0 +1,17 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Parnas"]
+[Black "Andersen, Jens Knud"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "5b2961e4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6 8.
+Be3 Bxe3 9. Qxe3 d6 10. Nc3 Nf6 11. O-O-O O-O 12. f4 Qc7 13. Qh3 b5 14. g4 Nb4
+15. g5 Ne8 16. Qh4 f6 17. a3 Nxd3+ 18. Rxd3 fxg5 19. Qxg5 Ra7 20. Nd4 Qe7 21.
+Qg3 Qf6 22. Nde2 Qh6 23. Kb1 1/2-1/2

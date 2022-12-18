@@ -1,0 +1,22 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fehling, Michael, Prof."]
+[Black "Beikert, Guenther, Dr."]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "14bdf751"]
+[Epoch "Queen"]
+[BlackID "4614186"]
+[BlackCountry "GER"]
+[WhiteID "4603958"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Bb4 14. axb5
+Nxf3+ 15. Qxf3 O-O 16. Ne4 axb5 17. Rxa8 Qxa8 18. Qg4 Kh8 19. Ng5 Bc5 20. b4
+Nxg5 21. Bxg5 Qa4 22. Qd7 Qxb4 23. Qxc7 h6 24. Bd2 Qxd2 25. Qxc5 Rb8 26. Qc7
+Rg8 27. Qc5 1/2-1/2

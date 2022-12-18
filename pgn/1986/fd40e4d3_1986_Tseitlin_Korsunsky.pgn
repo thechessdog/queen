@@ -1,0 +1,21 @@
+[Event "Novosibirsk tt"]
+[Site "Novosibirsk"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Tseitlin, Mark D"]
+[Black "Korsunsky, Yuri"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "fd40e4d3"]
+[Epoch "Queen"]
+[WhiteID "2800128"]
+[BlackID "14102722"]
+[WhiteCountry "ISR"]
+[BlackCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Nc5 10. Rd1 Nxb3 11. axb3 Be7 12. c4 Nb4 13. cxd5 Bxd5 14. Nc3 O-O
+15. Nd4 Re8 16. Nf5 Bf8 17. Qg4 g6 18. Nh6+ Bxh6 19. Bxh6 c5 20. Nxd5 Nxd5 21.
+Qe4 Nf6 22. Qf3 Nd7 23. Rxd7 1-0

@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Soederberg, P."]
+[Black "Kleiminger, P."]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "f7334b25"]
+[Epoch "Queen"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d4 dxe4 7. Qe3 Nbd7
+8. Nxe4 e6 9. Be2 Nxe4 10. Qxe4 Nf6 11. Qd3 Qc7 12. O-O Be7 13. Kh1 O-O 14.
+f4 Rfd8 15. Bf3 c5 16. Be3 Rac8 17. Rac1 cxd4 18. Bxd4 Bc5 19. c3 Bxd4 20.
+cxd4 Qxf4 21. Rxc8 Rxc8 22. Bxb7 Rc1 23. Rd1 g5 24. Qf3 Kg7 25. b3 Qd2 26.
+Rxc1 Qxc1+ 27. Kh2 Qd2 28. Qg3 h6 29. Qe5 Qxa2 30. b4 Qd2 31. Qc5 Qf4+ 32.
+Kg1 g4 33. d5 Ne4 0-1
+

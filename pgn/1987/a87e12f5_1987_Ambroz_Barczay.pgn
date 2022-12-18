@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "2"]
+[White "Ambroz, Jan"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[HashCode "a87e12f5"]
+[Epoch "Queen"]
+[WhiteID "300209"]
+[WhiteCountry "CZE"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 Qc7 5. dxc5 Qxc5 6. Be3 Qc7 7. Bd4 e5 8. Be3
+Nf6 9. Na3 O-O 10. Nb5 Qc6 11. Nxe5 Qxe4 12. Nxf7 Rxf7 13. Nd6 Qc6 14. Bc4 Bf8
+15. Bxf7+ Kg7 16. Nxc8 Kxf7 17. Nxa7 1-0

@@ -1,0 +1,18 @@
+[Event "Linares"]
+[Site "Linares"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Conquest, Stuart C"]
+[Black "Higuera"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "f883916d"]
+[Epoch "Queen"]
+[WhiteID "400181"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 a6 8. Rg1 d5
+9. exd5 Nxd5 10. Nxd5 exd5 11. Be3 Nc6 12. Qe2 Qe7 13. O-O-O Nxd4 14. Rxd4 Be6
+15. Bg2 O-O-O 16. Rgd1 Qxh4 17. g5 Qh2 18. Bxd5 Bxd5 19. Qg4+ 1-0

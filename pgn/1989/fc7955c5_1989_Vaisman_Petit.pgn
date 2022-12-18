@@ -1,0 +1,20 @@
+[Event "Royan op"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vaisman, Volodia"]
+[Black "Petit, Eric"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "fc7955c5"]
+[Epoch "Queen"]
+[WhiteID "600296"]
+[WhiteCountry "FRA"]
+[BlackID "600946"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d6 6. Be2 h6 7. Bh4 g5 8. Bg3
+Nh5 9. c3 c5 10. dxc5 Nxg3 11. hxg3 dxc5 12. Bc4 e6 13. Nh2 Qf6 14. Qh5 Qg6 15.
+Ng4 Qxh5 16. Rxh5 Kh7 17. e5 Nc6 18. Bd3+ Kg8 19. f4 1-0

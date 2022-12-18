@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Wijk, W."]
+[Black "Galje, H."]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "2a7934c5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 Nbc6 9. Nf3 f5 10. exf6 Rxf6 11. Bg5 Rf7 12. Bxe7 Rxe7 13. Qh4 g6 14.
+O-O c4 15. Be2 Bd7 16. Rfe1 Qa5 17. Ne5 Rae8 18. Ng4 Qxc3 19. Qf6 Rg7 20.
+Nh6+ Kh8 21. Nf7+ 1/2-1/2
+

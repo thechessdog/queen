@@ -1,0 +1,18 @@
+[Event "Royan"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Guillemot, G."]
+[Black "Gendre, K."]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "64063aa5"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8.
+Nb5 O-O 9. Nc7 Nc6 10. Nxa8 cxd4 11. a3 Ndxe5 12. Nf3 Nxf3+ 13. Qxf3 Qd6
+14. O-O-O e5 15. h5 g6 16. h6 Bf5 17. Qb3 Rxa8 18. f3 Rc8 19. Bd3 e4 20.
+fxe4 dxe4 21. Bf1 d3 22. Qa4 b5 23. Qa6 Qf4+ 24. Kb1 dxc2+ 0-1
+

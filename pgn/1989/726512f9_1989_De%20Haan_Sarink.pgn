@@ -1,0 +1,18 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "De Haan, Erik"]
+[Black "Sarink, Henk"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "726512f9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Nc3 Ng3 7. Qa4+ Bd7
+8. Nb5 Bxd6 9. hxg3 Bc5 10. Qc2 Qf6 11. Nf3 Na6 12. Bg5 Qb6 13. O-O-O f6
+14. Qe4+ Qe6 15. Qxe6+ Bxe6 16. Bf4 Bxc4 17. e4 Bxa2 18. Rd2 O-O 19. Nc3
+Bb3 20. Bxa6 bxa6 21. Bxc7 Rac8 22. Bd6 1-0
+

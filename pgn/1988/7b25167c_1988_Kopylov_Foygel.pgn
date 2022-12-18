@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kopylov, Nikolai G"]
+[Black "Foygel"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "7b25167c"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Nf3 g6 5. Bg2 Qe6+ 6. Kf1 Bg7 7. d3 Nf6 8.
+Nc3 O-O 9. Ng5 Qb6 10. Nge4 Nxe4 11. dxe4 Nc6 12. Nd5 Qa5 13. c3 e6 14. Nf4 b5
+15. Bd2 b4 16. Kg1 Rd8 17. Qc1 Rxd2 18. e5 bxc3 19. bxc3 Qd8 20. Bxc6 Rb8 21.
+Kg2 Rbb2 0-1

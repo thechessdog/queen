@@ -1,0 +1,20 @@
+[Event "Agzamov mem"]
+[Site "Tashkent"]
+[Date "1986.01.01"]
+[Round "14"]
+[White "Yermolinsky, Alex"]
+[Black "Zaichik, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "9195c8a6"]
+[Epoch "Queen"]
+[WhiteID "2005492"]
+[WhiteCountry "USA"]
+[BlackID "13600109"]
+[BlackCountry "USA"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Bb5 Bd7 5. Nf3 Nf6 6. Bxc6 Bxc6 7. Ne5 Rc8 8.
+d3 e6 9. Nd2 Bd6 10. Ndf3 O-O 11. Nxc6 Rxc6 12. Be5 Bxe5 13. Nxe5 Rc8 14. O-O
+Nd7 1/2-1/2

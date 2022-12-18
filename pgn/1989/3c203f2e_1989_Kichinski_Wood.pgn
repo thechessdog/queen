@@ -1,0 +1,19 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Wood, Walter"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[HashCode "3c203f2e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Nf6 5. e5 Ne4 6. Bd3 Bb4 7. Bd2 Nxd2 8.
+Qxd2 b6 9. a3 Be7 10. O-O a5 11. Rac1 Bb7 12. Ne2 Qd7 13. c4 O-O-O 14. c5 bxc5
+15. dxc5 f6 16. Bb5 g5 17. Ned4 g4 18. Nxc6 Bxc6 19. Ba6+ Kb8 20. Nd4 fxe5 21.
+Nxc6+ Qxc6 22. Qxa5 Qa8 23. Rc3 Qa7 24. Rb3+ Ka8 25. Bb7+ Kb8 26. Bc6+ Kc8 27.
+Qxa7 Rd6 28. Qa8# 1-0

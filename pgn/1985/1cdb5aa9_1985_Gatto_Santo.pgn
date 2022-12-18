@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gatto"]
+[Black "Santo"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "1cdb5aa9"]
+[Epoch "Queen"]
+[BlackID "10203869"]
+[BlackCountry "BAN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bc2 e5 8. d4
+cxd4 9. cxd4 exd4 10. e5 Nge7 11. Bg5 O-O 12. Nbd2 Bb7 13. Re1 Qc7 14. Rc1 Rae8
+15. Bb3 Qb6 16. Ne4 h6 17. Nf6+ Bxf6 18. Bxf6 Kh7 19. Ng5+ Kg8 20. Qd2 1-0

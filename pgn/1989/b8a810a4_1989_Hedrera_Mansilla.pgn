@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hedrera"]
+[Black "Mansilla"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "b8a810a4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 e5 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. Nf5 h5 10. gxh5 Nxh5 11. Bg5 f6 12. Bh6 gxh6 13. Qxh5+ Qf7
+14. Qxf7+ Kxf7 15. Nb5 Na6 16. O-O-O Nc5 17. Nfxd6+ Kg8 18. Rhg1+ Bg7 19.
+Nc7 Rd8 20. b4 1-0
+

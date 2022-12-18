@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sek, Z."]
+[Black "Monin, N."]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "b3ed8cec"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. Bg5 dxc4 6. e4 b5 7. a4 c6 8. e5
+h6 9. exf6 hxg5 10. fxg7 Rg8 11. g3 Bb7 12. Bg2 Nd7 13. h4 gxh4 14. Rxh4
+Qf6 15. Kf1 a5 16. axb5 cxb5 17. Nxb5 Rc8 18. Ne5 Bxg2+ 19. Kxg2 Qxg7 20.
+Nxd7 Kxd7 21. Na7 Ke7 22. Nxc8+ Rxc8 23. Qf3 Rd8 24. Qe3 Qg6 25. Rc1 Qf5
+26. Qe5 Rc8 27. Qxf5 exf5 28. d5 c3 29. bxc3 Rxc3 30. Rxc3 Bxc3 31. Rc4 Bb2
+32. Rc2 1-0
+

@@ -1,0 +1,20 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1987.??.??"]
+[Round "5"]
+[White "Kordts, Wolfgang"]
+[Black "Thiel, Kuno"]
+[Result "1-0"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "14a13478"]
+[Epoch "Queen"]
+[WhiteID "4655460"]
+[BlackID "4602668"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Bg5 c5 7. d5 h6 8. Be3 e6
+9. Qd2 exd5 10. cxd5 Kh7 11. a4 b6 12. Nge2 Nfd7 13. Ng3 Ne5 14. Be2 f5 15. f4
+Nf7 16. exf5 gxf5 17. Bd3 Nh8 18. O-O-O Na6 19. Nxf5 Nb4 1-0

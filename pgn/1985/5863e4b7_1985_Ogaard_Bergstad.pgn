@@ -1,0 +1,17 @@
+[Event "NOR-ch"]
+[Site "Gausdal"]
+[Date "1985.??.??"]
+[Round "9"]
+[White "Ogaard, Leif"]
+[Black "Bergstad, Odd Oyvind"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "5863e4b7"]
+[Epoch "Queen"]
+[WhiteID "1500074"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Nf3 exd5 9. e3 O-O 10. b4 Be6 11. Be2 f5 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Burlingame"]
+[Site "Burlingame"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Liebl, R."]
+[Black "Wilson"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "357a22e9"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Qe7 6. Nd4 a6 7. d3 Bg4 8.
+f3 Bh5 9. dxe4 Qb4 10. Nf5 Be7 11. Nxg7+ Kf8 12. Bh6 Kg8 13. Nf5 Bf8 14.
+O-O-O Nbd7 15. Qc4 Qb6 16. Be3 Qa5 17. Bd4 Bg6 18. g4 b5 19. Qc6 b4 20.
+Qxa8 bxc3 21. Bxc3 Qxa2 22. Qc6 Bxf5 23. gxf5 Bh6+ 24. Rd2 Qa1# 0-1
+

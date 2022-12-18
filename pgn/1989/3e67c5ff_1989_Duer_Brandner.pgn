@@ -1,0 +1,22 @@
+[Event "Austria"]
+[Site "Austria"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Duer, Werner"]
+[Black "Brandner, Stefan"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "3e67c5ff"]
+[Epoch "Queen"]
+[WhiteID "1600583"]
+[BlackID "1600931"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bg4 4. e3 e6 5. c4 Nf6 6. Nc3 Bb4 7. Rc1 Ne4 8. cxd5
+exd5 9. Be2 Qe7 10. Nd2 Bxe2 11. Qxe2 Bxc3 12. bxc3 Qa3 13. Nb3 a5 14. Qc2 g5
+15. Bg3 h5 16. f3 Nxg3 17. hxg3 Qd6 18. Kf2 Ne7 19. c4 h4 20. gxh4 gxh4 21. Rh3
+c6 22. cxd5 Nxd5 23. Qe4+ Kd7 24. Qf5+ Ke7 25. Nc5 Rag8 26. Qe4+ Kf8 27. Qe5
+Qxe5 28. Nd7+ Ke7 29. Nxe5 f6 30. Nd3 Nb4 31. Nf4 Rg5 32. Rc5 Rd8 33. Rxh4 b5
+34. Rh7+ Kd6 35. Rf7 Rxc5 36. dxc5+ Ke5 37. Re7+ Kf5 38. g4+ 1-0

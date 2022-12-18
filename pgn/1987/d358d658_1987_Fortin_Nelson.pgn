@@ -1,0 +1,24 @@
+[Event "corr ch-CA"]
+[Site "corr ch-CA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fortin"]
+[Black "Nelson"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "d358d658"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6
+8. Be3 Bb4 9. Na4 Bd6 10. Nb6 Bxh2+ 11. Kh1 Rb8 12. f4 Qxb6 13. Nf5 Qxb2
+14. Nd6+ Kf8 15. Bc5 Ne7 16. Nc4 Qb5 17. Bxe7+ Kxe7 18. Qd6+ Kd8 19. Qxb8
+Bg3 20. Qxc8+ Kxc8 21. Nd6+ Kc7 22. Nxb5+ axb5 23. e5 Nd5 24. Bxb5 h5 25.
+c4 Nxf4 26. Rad1 Rd8 27. Rd6 Ng6 28. Rxd7+ Rxd7 29. Bxd7 Nxe5 30. Bb5 Kd6
+31. a4 g5 32. Rb1 b6 33. Kg1 Nc6 34. Kf1 f5 35. Ba6 Nd4 36. Rxb6+ Kc5 37.
+Rb1 e5 38. Bb7 e4 39. a5 e3 40. Bf3 g4 41. Bd1 Bc7 42. a6 Bb6 43. Ra1 Nc6
+44. Ba4 Nd4 45. Bd1 Ba7 46. Rb1 Bb6 47. Rb2 f4 48. Ra2 Ba7 49. Ra5+ Kxc4
+50. Rxh5 f3 51. gxf3 gxf3 52. Re5 Kd3 53. Rd5 e2+ 54. Bxe2+ fxe2+ 55. Ke1
+Bb6 56. a7 Ba5+ 0-1
+

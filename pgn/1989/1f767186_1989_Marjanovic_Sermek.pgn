@@ -1,0 +1,19 @@
+[Event "Bled op"]
+[Site "Bled"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Marjanovic, Slavko"]
+[Black "Sermek, Drazen"]
+[Result "0-1"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "1f767186"]
+[Epoch "Queen"]
+[BlackID "14600714"]
+[BlackCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 hxg4 10. Ng5 Nh6 11. g3 Qf6 12. c3 Nxb3 13. Qxb3 Be7 14. a4 Qg6
+15. axb5 Bxg5 16. Rxa6 Rd8 17. b6 Qh5 18. Bxg5 Nf5 19. Qb5+ Kf8 20. Bh4 Nxh4
+21. Rd1 Nf5 22. Kf1 Nxg3+ 23. Ke1 Qg5 0-1

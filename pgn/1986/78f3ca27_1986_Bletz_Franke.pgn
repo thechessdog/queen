@@ -1,0 +1,19 @@
+[Event "FRG-qual Sued"]
+[Site "Walldorf"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bletz, Harald"]
+[Black "Franke, Heribert"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "78f3ca27"]
+[Epoch "Queen"]
+[WhiteID "4603885"]
+[BlackID "4600576"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. e4 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5 8.
+Nh3 Qe7 9. Bd3 Nc6 1/2-1/2

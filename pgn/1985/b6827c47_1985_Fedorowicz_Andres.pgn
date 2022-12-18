@@ -1,0 +1,22 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fedorowicz, John"]
+[Black "Andres, Miguel"]
+[Result "1-0"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "b6827c47"]
+[Epoch "Queen"]
+[BlackCountry "EST"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. Nf3 O-O 6. g3 d6 7. Bg2 e6 8. O-O
+exd5 9. cxd5 a6 10. a4 Re8 11. Nd2 Nbd7 12. Nc4 Nb6 13. Na3 Bd7 14. Qc2 Rb8 15.
+Rb1 Nc8 16. Bd2 b5 17. axb5 axb5 18. b4 Qc7 19. h3 Qa7 20. Bc1 cxb4 21. Rxb4
+Qc5 22. Qb3 Nb6 23. Naxb5 Nbxd5 24. Nxd5 Rxb5 25. Rxb5 Bxb5 26. Nxf6+ Bxf6 27.
+Bd5 Rxe2 28. Ba3 Qb6 29. Bxf7+ Kg7 30. Bc4 Re5 31. Bb2 Qa6 32. Bxe5 Bxc4 33.
+Bxf6+ Kf7 1-0

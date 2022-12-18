@@ -1,0 +1,23 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuzmin, Alexey"]
+[Black "Itkis, Boris"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b40a7aad"]
+[Epoch "Queen"]
+[WhiteID "4100794"]
+[BlackID "1209167"]
+[WhiteCountry "RUS"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 Nbd7 7. f4 g6 8. g4
+Nc5 9. Nb3 b6 10. Bf3 Bb7 11. Nxc5 dxc5 12. Qe2 Bg7 13. Bd2 O-O 14. O-O-O Nd7
+15. h4 b5 16. e5 Bxf3 17. Qxf3 b4 18. Ne4 Qa5 19. Kb1 Rfd8 20. c4 Nf8 21. h5
+Qc7 22. hxg6 fxg6 23. Be3 Rxd1+ 24. Rxd1 Rc8 25. Rd5 g5 26. Nxg5 Qb6 27. Ne4 b3
+28. Bxc5 bxa2+ 29. Kxa2 Qc6 30. b3 Ng6 31. Bd4 Qc7 32. Ng5 Nf8 33. Rc5 Qd7 34.
+Rxc8 Qxc8 35. f5 1-0

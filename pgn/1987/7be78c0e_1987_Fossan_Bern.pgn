@@ -1,0 +1,18 @@
+[Event "Norway"]
+[Site "Norway"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fossan, Petter"]
+[Black "Bern, Ivar"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind"]
+[HashCode "7be78c0e"]
+[Epoch "Queen"]
+[WhiteID "1500260"]
+[BlackID "1500171"]
+[WhiteCountry "NOR"]
+[BlackCountry "NOR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 1/2-1/2

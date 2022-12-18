@@ -1,0 +1,17 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kjeldsen, Jens"]
+[Black "Sorensen, Michael D. F."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "6d69c50a"]
+[Epoch "Queen"]
+[WhiteID "1400797"]
+[WhiteCountry "DEN"]
+
+1. e4 Nc6 2. d4 e5 3. Nf3 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2 Nf6
+8. Ng5 O-O 9. e5 d5 10. exf6 gxf6 11. Bd3 Re8 12. Qh5 fxg5 13. Bxh7+ Kf8 14.
+Qh6+ Ke7 15. Bf6+ Kd7 16. Bf5+ 1-0

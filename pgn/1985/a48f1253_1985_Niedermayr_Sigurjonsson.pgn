@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Niedermayr, Horst"]
+[Black "Sigurjonsson, Gudmundur"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[HashCode "a48f1253"]
+[Epoch "Queen"]
+[WhiteID "1601423"]
+[WhiteCountry "AUT"]
+[BlackID "2300079"]
+[BlackCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 8. Nxe5
+Nxe5 9. dxe5 Qc7 10. Bg4 O-O-O 11. Qe2 g6 12. Bg5 Be7 13. Bxe7 Nxe7 14. f4 h5
+15. Bh3 Rdf8 16. Nd2 Rf7 17. b4 cxb4 18. cxb4 Qb6+ 19. Qf2 Rxf4 20. Rac1+ Kb8
+21. Qxb6 Rxf1+ 22. Rxf1 axb6 23. Rf7 Re8 24. Nf3 Kc8 25. Rg7 Kd8 26. Ng5 Rg8
+27. Rxg8+ Nxg8 28. Nxe6+ Ke7 29. Nf4 Bxh3 30. gxh3 d4 31. h4 Nh6 32. Kg2 Ng4
+33. Kf3 Nxe5+ 34. Ke4 Kd6 35. Kxd4 1/2-1/2

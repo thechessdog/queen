@@ -1,0 +1,22 @@
+[Event "ACM"]
+[Site "ACM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Cray Blitz"]
+[Black "Challenger X"]
+[Result "0-1"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[HashCode "14692c01"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Nf6 6. Nc3 Bg7 7. Bc4 Qa5
+8. O-O O-O 9. Bb3 d6 10. h3 Bd7 11. Qf3 Ne5 12. Qe2 Rac8 13. Rad1 Qa6 14.
+Qxa6 bxa6 15. f4 Nc4 16. Bxc4 Rxc4 17. e5 dxe5 18. fxe5 Nh5 19. Nf3 Bc6 20.
+Rd4 Rxd4 21. Nxd4 Bb7 22. e6 Bxd4 23. Bxd4 fxe6 24. Rxf8+ Kxf8 25. Ne2 g5
+26. c3 Kf7 27. Kf2 Kg6 28. Bxa7 Nf4 29. Nxf4+ gxf4 30. Bd4 Kf5 31. Bc5 Kf6
+32. c4 e5 33. b4 Bc6 34. Bb6 e4 35. Bd4+ e5 36. Bb2 e3+ 37. Kg1 Kf5 38. c5
+e4 39. Bc1 Bb5 40. Kh1 Ke6 41. Kg1 Kd5 42. a4 Bxa4 43. g3 e2 44. Kf2 f3 45.
+Bd2 Kd4 46. g4 Bc6 47. Bf4 Kd3 48. b5 axb5 49. Bh6 b4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lucy, John"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "bf2ac988"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 Nxd5 8.
+Nxe5 Qe7 9. Qe2 Nxc4 10. Nxc4 Qxe2+ 11. Kxe2 Nb4 12. Kd2 Be6 13. c3 O-O-O 14.
+cxb4 Bxc4 15. Kc3 Bxd3 16. Rd1 Bxb1 17. Rxd8+ Kxd8 18. Rxb1 Bd6 19. Be3 Kc8 20.
+b3 Re8 21. a3 h5 22. Kb2 Bxh2 23. Rh1 Be5+ 24. Ka2 g6 25. b5 b6 26. f4 Bc3 27.
+Bc1 Re2+ 28. Kb1 Rxg2 29. Rh3 Bd2 30. Bxd2 Rxd2 31. Re3 Rf2 32. Re4 h4 33. f5
+h3 34. fxg6 h2 35. Rh4 Rf1+ 36. Kc2 h1=Q 0-1

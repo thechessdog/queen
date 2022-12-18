@@ -1,0 +1,19 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Birriel, N."]
+[Black "Salanki, Endre"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "3...Nf6"]
+[HashCode "68ebf8f1"]
+[Epoch "Queen"]
+[BlackID "705608"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bd6 6. Be2 O-O 7. O-O c5 8. cxd5
+exd5 9. b3 Qa5 10. Bb2 Nc6 11. Nb5 Bb8 12. dxc5 Nd7 13. a3 a6 14. b4 Qd8 15.
+Nbd4 Nxd4 16. Qxd4 f6 17. Qxd5+ Kg7 18. Rfd1 Re8 19. Bc4 Re7 20. Ng5 Kf8 21.
+Qg8# 1-0

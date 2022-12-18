@@ -1,0 +1,26 @@
+[Event "Quebec"]
+[Site "Quebec"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ivanov, Igor Vasilyevich"]
+[Black "Pelts, Roman"]
+[Result "0-1"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "e23de287"]
+[Epoch "Queen"]
+[BlackID "2600030"]
+[BlackCountry "CAN"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Be7 4. Nc3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 c5 11. Rad1 Ne4 12. Bg3 Nxg3 13. hxg3 cxd4 14. exd4 a6
+15. Rfe1 Bb4 16. cxd5 exd5 17. Rc1 Re8 18. Qxe8+ Qxe8 19. Rxe8+ Rxe8 20. Na4
+Rc8 21. Rxc8+ Bxc8 22. Bf5 Ba5 23. a3 g6 24. Bh3 f5 25. b4 b5 26. bxa5 bxa4 27.
+g4 Nb8 28. gxf5 Nc6 29. fxg6 Bxh3 30. gxh3 Nxa5 31. Ne5 Nb3 32. Nc6 Kg7 33. Kf1
+Nd2+ 34. Ke2 Nc4 35. Nb4 Nxa3 36. Nxd5 Nc2 37. Kd3 Ne1+ 38. Kd2 Nf3+ 39. Ke3
+Ne1 40. Nc3 a3 41. d5 Kxg6 42. Kd4 Kf6 43. Kc4 Ke5 44. f4+ Kxf4 45. d6 Nf3 46.
+Kd5 Ne5 47. Ke6 Nc6 48. d7 h5 49. Kd6 Nd8 50. Kc5 Kg3 51. Kb4 Kxh3 52. Kxa3 h4
+53. Ne2 Kg4 54. Ng1 Kf5 55. Kb4 Nb7 56. Kc4 Ke4 57. Nh3 Ke5 58. Kb4 Kd6 59.
+d8=Q+ Nxd8 60. Ka5 Ne6 61. Kxa6 Ke5 62. Kb5 Ke4 63. Kc6 Kf3 0-1

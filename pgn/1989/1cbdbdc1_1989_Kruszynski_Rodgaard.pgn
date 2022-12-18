@@ -1,0 +1,20 @@
+[Event "Copenhagen op"]
+[Site "Copenhagen"]
+[Date "1989.??.??"]
+[Round "9"]
+[White "Kruszynski, Wlodzimierz"]
+[Black "Rodgaard, John"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "1cbdbdc1"]
+[Epoch "Queen"]
+[WhiteID "1100670"]
+[BlackID "7200013"]
+[WhiteCountry "POL"]
+[BlackCountry "FAI"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. g3 Qb6 13. Bf4 Bxf4 14. Nxf4 Qxb2
+15. Ng5 O-O 16. Ngxe6 Bxe6 17. Nxe6 Rf7 1/2-1/2

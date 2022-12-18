@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rauch"]
+[Black "Hesselbarth"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "23491a57"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8.
+Nh4 c6 9. cxd5 Nxd5 10. Nf5 Nc7 11. Nc3 d5 12. e4 Bf6 13. Bf4 Nd7 14. Re1
+dxe4 15. Nxe4 Nd5 16. Qg4 g6 17. Rad1 h5 18. Qh3 gxf5 19. Nd6 Nc5 20. Nxf5
+Re8 21. Qxh5 Rxe1+ 22. Rxe1 Nxf4 23. Nh6+ Kg7 24. gxf4 Qh8 25. Qxf7+ Kxh6
+26. Re3 Bh4 27. Re5 Qxe5 28. fxe5 Ba6 29. Bf3 Rh8 30. b4 Rh7 31. Qf4+ Bg5
+32. Qf8+ Rg7 33. Qh8+ Rh7 34. Qe8 1-0
+

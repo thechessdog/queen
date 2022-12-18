@@ -1,0 +1,18 @@
+[Event "Alicante op2"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ines, C."]
+[Black "Bevia, Luis Martinez"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "5c960730"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. Nbd2 Nc5 11. c3 Nd3 12. Qe2 Nxb2 13. Rab1 Na4 14. Bxa4 bxa4
+15. Rfd1 Bf5 16. Rbc1 Ba3 17. c4 Bxc1 18. cxd5 Qxd5 19. Rxc1 Bd3 20. Qe1 O-O
+21. Rc5 Qd7 22. Qc1 Bb5 23. a3 Ne7 24. Ng5 Nf5 25. Bf4 Nd4 26. Qb1 Ne2+ 27. Kh1
+Bd3 28. Qb4 Rab8 0-1

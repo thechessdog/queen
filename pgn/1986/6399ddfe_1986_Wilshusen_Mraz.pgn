@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wilshusen, A."]
+[Black "Mraz, M."]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "6399ddfe"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 Bxg5 7. hxg5 Qxg5
+8. Nh3 Qe7 9. Nf4 g6 10. Bd3 Nc6 11. Qd2 Nb6 12. O-O-O Bd7 13. Nce2 O-O-O
+14. Rh6 f6 15. Bb5 fxe5 16. Bxc6 exf4 17. Bxd7+ Rxd7 18. Nxf4 Nc4 19. Nxg6
+Qg7 20. Qg5 hxg6 21. Rxg6 Qe7 0-1
+

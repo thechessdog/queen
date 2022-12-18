@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gomez Galan"]
+[Black "Ramos Verdu"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0776e8da"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. dxc5 Qxc5 6. Be3 Qd6 7. Qxd6
+exd6 8. Nf3 Be7 9. Nbd2 Be6 10. Bc4 O-O-O 11. Bxe6+ fxe6 12. Nd4 Nf6 13.
+Nxe6 Rdg8 14. O-O-O Ne8 15. Rhe1 Nc7 16. Bxa7 Nxe6 17. Rxe6 Kd7 18. Rde1
+Ra8 19. Bd4 Rxa2 20. Kb1 Raa8 21. Bxg7 Rhg8 22. Nc4 Ra6 23. Bf6 Rg6 24.
+Rxe7+ Nxe7 25. Rxe7+ Kc6 26. Bd4 Rxg2 27. Rxh7 Ra8 28. h4 b5 29. Na3 Rb8
+30. b4 Re8 31. Kc2 Re2+ 32. Kd3 Re8 33. Rh5 Rb8 34. Rf5 Rh2 35. h5 Rh1 36.
+Ke3 Ra1 37. Nxb5 Rxb5 38. Rxb5 Kxb5 39. c4+ 1-0
+

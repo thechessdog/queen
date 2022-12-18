@@ -1,0 +1,20 @@
+[Event "Benidorm open"]
+[Site "Benidorm open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoffman, Alejandro"]
+[Black "Vasallo, Mauricio"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "0d96bb0e"]
+[Epoch "Queen"]
+[WhiteID "100340"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Nc6 8. a3
+Bd6 9. h3 Ne7 10. Qc2 c6 11. Bd2 a5 12. O-O g6 13. f3 Ne8 14. e4 Ng7 15. e5 Bc7
+16. g4 f5 17. Rad1 Ne6 18. b4 axb4 19. axb4 Kg7 20. Kg2 f4 21. Be1 Rh8 22. Qc1
+Qf8 23. Bd2 g5 24. h4 h6 25. hxg5 hxg5 26. Rh1 Ng8 27. Rxh8 Kxh8 28. Rh1+ Nh6
+29. Rh5 Kg7 30. Rxh6 1-0

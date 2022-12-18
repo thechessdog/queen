@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Vliet, Fred"]
+[Black "Rorczynski"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "888c2823"]
+[Epoch "Queen"]
+[WhiteID "1000659"]
+[WhiteCountry "NED"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 Nc6 6. e5 Ng4 7. Bd5 O-O 8. Bxc6
+bxc6 9. f4 c5 10. d5 dxe5 11. h3 Nh6 12. fxe5 Nf5 13. Bf4 Rb8 14. O-O-O Rb4 15.
+Qf2 Rxf4 0-1

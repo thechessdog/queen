@@ -1,0 +1,21 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schulte, Oliver"]
+[Black "Bastian, Herbert"]
+[Result "1-0"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[HashCode "98a35466"]
+[Epoch "Queen"]
+[BlackID "4601700"]
+[BlackCountry "GER"]
+[WhiteID "4600444"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Nbd7 7. f3 a6 8. Nh3
+c5 9. d5 b5 10. cxb5 axb5 11. Bxb5 Ba6 12. Bxa6 Rxa6 13. O-O Qb6 14. Qe2 Rb8
+15. Nf2 Raa8 16. Rfb1 Ne8 17. Bd2 Nc7 18. a4 Bd4 19. Kf1 c4 20. Ng4 Nc5 21. Be3
+Bxc3 22. Bxc5 Qxc5 23. bxc3 Rxb1+ 24. Rxb1 Rxa4 25. Rb8+ Kg7 26. Qd2 1-0

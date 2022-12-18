@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Usatsy, M."]
+[Black "Gasiorowski, R."]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "ff15bd48"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. d4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 g6 6. e4 d6 7. Be2 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Qc2 Nh5 13. Bxh5 gxh5 14.
+Ra3 b6 15. Re1 c4 16. Rd1 a6 17. Ne2 b5 18. axb5 Bg4 19. Nf1 axb5 20. Rxa8
+Qxa8 21. h3 Bxe2 22. Qxe2 Nd3 23. Ng3 Nxc1 24. Rxc1 Qa2 25. Nxh5 Qxb2 26.
+Rc2 Qa1+ 27. Kh2 Qe5+ 28. Ng3 Qf4 29. Ra2 Rc8 30. Kg1 Be5 31. Nf1 b4 32. g3
+Qg5 33. Ne3 b3 34. Ra4 c3 35. h4 Qd8 0-1
+

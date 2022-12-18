@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Csaba"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "8dfb0929"]
+[Epoch "Queen"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. Nf3 e6 5. e4 h6 6. Bh4 g5 7. Bg3 Nxe4 8.
+Nxe4 dxe4 9. Nd2 f5 10. Qh5+ Ke7 11. Bc4 Nf6 12. Qe2 f4 13. O-O-O fxg3 14. Nxe4
+Nxe4 15. Qxe4 gxf2 16. Rhf1 Qd6 17. Rxf2 Rg8 18. Qh7+ Rg7 19. Qxh6 b5 20. Qf6+
+Ke8 21. Bxb5+ Bd7 22. Be2 Bc6 23. d5 Bxd5 24. Bb5+ Rd7 25. Qf7+ Kd8 26. Qxf8+
+Qxf8 27. Rxf8+ Ke7 28. Rxa8 1-0

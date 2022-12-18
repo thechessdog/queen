@@ -1,0 +1,15 @@
+[Event "Bargteheide"]
+[Site "Bargteheide"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zielke, Bernd"]
+[Black "Rulik, O."]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "edbd3ad7"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bg5 e6 4. e3 c5 5. Nbd2 Nbd7 6. c3 Be7 7. Bb5 O-O 8. O-O
+a6 9. Ba4 b5 10. Bc2 Bb7 11. Rc1 Rc8 12. h4 h6 13. Bxf6 Nxf6 14. Ne5 Ne4 15. h5
+cxd4 16. Nxe4 dxe3 17. Ng3 exf2+ 18. Kh1 Bd6 19. Qd3 Qh4# 0-1

@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heusslein, W."]
+[Black "Gebhardt, U."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "02f10cd3"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Bxf3 4. exf3 e6 5. d4 Nf6 6. Bd3 Nbd7 7. O-O Be7
+8. Re1 O-O 9. Nd2 Rc8 10. a3 c5 11. c3 a6 12. f4 cxd4 13. cxd4 Rc6 14. Nf3
+h6 15. Ne5 Nxe5 16. fxe5 Nh7 17. Qg4 Qb6 18. b4 Rfc8 19. h4 Qd8 20. g3 Kh8
+21. Re2 Qg8 22. f4 f5 23. exf6 gxf6 24. Qh3 h5 25. f5 Nf8 26. Kh2 Bd6 27.
+Rae1 Bb8 28. fxe6 Re8 29. e7 Ng6 30. b5 Rc7 31. Qf5 Rcxe7 32. Qxh5+ Rh7 33.
+Qxh7+ 1-0
+

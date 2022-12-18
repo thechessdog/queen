@@ -1,0 +1,19 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Visser"]
+[Black "Fiorito"]
+[Result "0-1"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "2f959e8c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Bg5 h6 9. Bh4 a6 10. a4 g5 11. Bg3 Nh5 12. Nd2 Nxg3 13. hxg3 Nd7 14. Nc4
+Ne5 15. Qb3 Nxc4 16. Bxc4 Qa5 17. O-O b6 18. Ra3 Rb8 19. Qc2 O-O 20. Rb1
+Bd7 21. f4 Bd4+ 22. Kh2 gxf4 23. gxf4 b5 24. axb5 Qd8 25. g3 axb5 26. Ra6
+bxc4 27. Rxd6 Ba4 0-1
+

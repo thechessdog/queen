@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Illorde, Ramon"]
+[Black "Wall, Bill"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Robatsch defence"]
+[Variation "Geller's system"]
+[HashCode "c11dadde"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. c3 Nf6 5. d5 c6 6. dxc6 Nxc6 7. Bc4 Bg4 8. O-O
+Nxe4 9. Bxf7+ Kxf7 10. Qd5+ e6 11. Qxe4 Bxf3 12. Qxf3+ Qf6 13. Qg3 Rad8 14. Bg5
+1-0

@@ -1,0 +1,22 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lieb, Harald"]
+[Black "Bauer, Peter"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "dcd3c30c"]
+[Epoch "Queen"]
+[WhiteID "4604814"]
+[WhiteCountry "GER"]
+[BlackID "4603877"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Bxc3+ 7. bxc3 d6 8. e4
+Nc6 9. e5 dxe5 10. dxe5 Ng4 11. Bxh7+ Kxh7 12. Ng5+ Kg8 13. Qxg4 Nxe5 14. Qh5
+Qd3 15. f3 f6 16. Ne4 Qxc4 17. Kf2 b6 18. Kg3 Bd7 19. Bf4 Be8 20. Qh3 Nd3 21.
+Qh4 Qd5 22. Bd2 Bg6 23. c4 Qe5+ 24. Bf4 Qd4 25. Rhe1 Bxe4 26. Rxe4 Qf2+ 27. Kh3
+Qxh4+ 28. Kxh4 Nxf4 0-1

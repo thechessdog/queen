@@ -1,0 +1,18 @@
+[Event "Sochi"]
+[Site "Sochi"]
+[Date "1989.09.01"]
+[Round "1"]
+[White "Vyzmanavin, Alexey Borisovich"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[HashCode "29dc3a79"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. a5 b5 13. axb6 Nxb6 14. Nb3 Nc4 15.
+Ra4 Nb6 16. Ra2 Nc4 17. Ra4 Nb6 1/2-1/2

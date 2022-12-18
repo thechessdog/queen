@@ -1,0 +1,22 @@
+[Event "corr CIF"]
+[Site "corr CIF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Koller"]
+[Black "Schrecke"]
+[Result "1-0"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "87e048ee"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be6
+8. Bg5 Be7 9. O-O O-O 10. Bxf6 Bxf6 11. Nd5 Bg5 12. c3 f5 13. f4 Bxf4 14.
+Nxf4 Qb6+ 15. Kh1 exf4 16. Rxf4 Bxb3 17. axb3 Qe3 18. Rxf5 Rxf5 19. exf5
+Ne5 20. Qd5+ Kh8 21. Bh5 g6 22. fxg6 hxg6 23. Bf3 Rf8 24. Rf1 Rf6 25. Qd1
+Nd3 26. Qe2 Qxe2 27. Bxe2 Rxf1+ 28. Bxf1 Nc5 29. Bc4 Kg7 30. Kg1 Kf6 31.
+Kf2 Ke5 32. Ke3 d5 33. Bd3 g5 34. Bc2 Ne6 35. Kf3 Nf4 36. g3 Ne6 37. Kg4
+Kf6 38. h4 gxh4 39. gxh4 Nc5 40. h5 Nd7 41. h6 Ne5+ 42. Kf4 b6 43. h7 Nf7
+44. b4 1-0
+

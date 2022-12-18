@@ -1,0 +1,19 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1988.04.01"]
+[Round "1"]
+[White "Abramovic, Bosko"]
+[Black "Ivanovic, Bozidar"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[HashCode "28456883"]
+[Epoch "Queen"]
+[WhiteID "900206"]
+[WhiteCountry "SRB"]
+[BlackID "900095"]
+[BlackCountry "MNE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 Be7 7. Bd3 Bg4 8.
+O-O O-O 9. Re1 c5 10. h3 Bh5 11. dxc5 dxc5 12. Bg5 Nc6 1/2-1/2

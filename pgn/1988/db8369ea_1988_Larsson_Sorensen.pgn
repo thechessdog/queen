@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Larsson"]
+[Black "Sorensen, Henrik"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "db8369ea"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Nbd7 9. Nf4 Nb6 10. Be2 g5 11. Nd3 Ne4 12. Bxg5 Nxc3 13. bxc3 Be6 14. Qd1
+Nxd5 15. Rc1 Nf6 16. Bf3 Bxa2 17. Bxb7 Rb8 18. Bf3 Qa5 19. Qd2 Bd5 20. Bxd5
+Qxd5 21. f3 Nd7 22. O-O e5 23. Nb4 Qc4 24. d5 f6 25. Be3 Rb7 26. Nc6 1-0

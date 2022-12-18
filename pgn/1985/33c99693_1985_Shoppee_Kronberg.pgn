@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Shoppee"]
+[Black "Kronberg"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "33c99693"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qd5 8. c4 Qd6 9. Nxa7+ Bd7 10. Bxd7+ Qxd7 11. Nb5 Nf6 12. O-O Bc5 13. Qe2
+c6 14. Nc3 O-O 15. Nd1 Ng4 16. h3 Nxf2 17. Ne3 Nd3 18. Rxf8+ Rxf8 19. b3
+Rf2 20. Qd1 Bxe3 0-1
+

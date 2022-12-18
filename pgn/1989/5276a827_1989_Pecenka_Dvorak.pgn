@@ -1,0 +1,18 @@
+[Event "corr CSFR"]
+[Site "corr CSFR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pecenka"]
+[Black "Dvorak"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "5276a827"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Qa4 Bd7 8.
+dxc5 Bxc5 9. Qxc4 Qb6 10. Nc3 Na5 11. Qh4 Bc6 12. Na4 Bxa4 13. Qxa4+ Nc6
+14. Ne5 Nd5 15. Bd2 Rc8 16. Rac1 a6 17. Bxd5 exd5 18. Qg4 Ne7 19. b4 Qd6
+20. Qxg7 1-0
+

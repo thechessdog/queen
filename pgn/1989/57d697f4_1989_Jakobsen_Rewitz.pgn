@@ -1,0 +1,21 @@
+[Event "Aarhus-A"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Jakobsen, Peter"]
+[Black "Rewitz, Poul"]
+[Result "0-1"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "7.Bc4"]
+[HashCode "57d697f4"]
+[Epoch "Queen"]
+[WhiteID "1401440"]
+[BlackID "1401033"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 a6 8. e4
+c5 9. e5 Ng4 10. h3 cxd4 11. hxg4 dxc3 12. O-O Qc7 13. Qe2 b5 14. Bd3 Nc5 15.
+Bc2 Bb7 16. bxc3 Bd5 17. Re1 h5 18. g5 h4 19. a4 h3 20. axb5 hxg2 21. Bf4 Qb7
+22. Kxg2 Rh4 23. Bg3 Rc4 24. bxa6 Bxf3+ 25. Qxf3 Qxf3+ 26. Kxf3 Rxc3+ 0-1

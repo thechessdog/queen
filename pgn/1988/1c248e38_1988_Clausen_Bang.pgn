@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1988.06.01"]
+[Round "1"]
+[White "Clausen, Steen"]
+[Black "Bang, Andreas"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1c248e38"]
+[Epoch "Queen"]
+[WhiteID "1401114"]
+[WhiteCountry "DEN"]
+[BlackID "1400290"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. c5 O-O 8. b4
+Bg4 9. Be3 Ne4 10. Qb3 Bxf3 11. gxf3 Nxc3 12. Qxc3 e5 13. Bb5 exd4 14. Bxd4
+Bxd4 15. Qxd4 Qg5 16. h4 Qg2 17. O-O-O Nc6 18. Bxc6 bxc6 19. Qf4 Rab8 20. a3 a5
+21. Rh2 Qxh2 22. Qxh2 axb4 23. axb4 Rxb4 24. h5 Re8 25. Rd3 Re1+ 26. Kd2 Rbb1
+27. Ra3 Rbd1+ 28. Kc3 Rc1+ 29. Kd4 Rcd1+ 30. Rd3 Rc1 31. Re3 Red1+ 32. Ke5 Rh1
+33. Kf6 1-0

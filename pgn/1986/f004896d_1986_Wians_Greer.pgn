@@ -1,0 +1,27 @@
+[Event "Groningen ech-jr"]
+[Site "Groningen ech-jr"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wians, Camille"]
+[Black "Greer, Kieran"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "f004896d"]
+[Epoch "Queen"]
+[WhiteID "4000358"]
+[WhiteCountry "LUX"]
+[BlackID "2500540"]
+[BlackCountry "IRL"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Qc7 6. cxd4 e6 7. a3 d6 8. Bd3
+Nd7 9. O-O dxe5 10. dxe5 g6 11. Bc4 N7b6 12. Bxd5 Nxd5 13. Bg5 Bg7 14. Nbd2 Bd7
+15. Ne4 O-O 16. Nf6+ Nxf6 17. exf6 Bh8 18. Qd4 Rfd8 19. Qh4 Bc6 20. Bf4 Qa5 21.
+Ne5 Rd4 22. Rfe1 Qd5 23. f3 Rd8 24. Nxf7 Kxf7 25. Qxh7+ Kxf6 26. Be5+ Qxe5 27.
+Rxe5 Kxe5 28. Qxg6 Rd1+ 29. Rxd1 Rxd1+ 30. Kf2 Kd6 31. b4 Bb5 32. Qc2 Bd4+ 33.
+Kg3 Rd3 34. a4 Be5+ 35. Kh3 Rc3 36. Qd2+ Bd3 37. f4 Bd4 38. g3 Bf5+ 39. Kh4 Rd3
+40. Qg2 Bf6+ 41. Kh5 Rd5 42. Qf2 Bh7+ 43. Kh6 Bd4 44. Qf3 Bg8 45. g4 Ke7 46. g5
+Bf7 47. g6 Bg8 48. Qg3 Bf6 49. b5 Kf8 50. Qa3+ Ke8 51. Qc1 Kd8 52. h4 Rd7 53.
+Qe3 Bd4 54. Qe4 Bg7+ 55. Kg5 Rd5+ 56. Kg4 e5 57. fxe5 Bxe5 58. Kf3 Rc5 59. Qe3
+Rc3 60. h5 Rxe3+ 61. Kxe3 Bg7 0-1

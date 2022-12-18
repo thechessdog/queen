@@ -1,0 +1,16 @@
+[Event "Karvina"]
+[Site "Karvina"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Papacek, Stepan"]
+[Black "Jerabek, Petr"]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, 4.e3"]
+[HashCode "1c780297"]
+[Epoch "Queen"]
+[WhiteID "301035"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 b5 5. a4 c6 6. b3 Ba6 7. axb5 cxb5 8. bxc4
+Qb6 9. c5 Qb7 10. Qb3 e6 11. Rxa6 Nxa6 12. Qxb5+ 1-0

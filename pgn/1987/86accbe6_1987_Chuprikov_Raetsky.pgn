@@ -1,0 +1,18 @@
+[Event "Voronezh"]
+[Site "Voronezh"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chuprikov, Dmitry"]
+[Black "Raetsky, A."]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[HashCode "86accbe6"]
+[Epoch "Queen"]
+[WhiteID "4111257"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 Be7 7. Bd3 O-O 8. h3
+c5 9. O-O Nc6 10. c3 h6 11. Re1 Be6 12. Na3 cxd4 13. Nxd4 Nxd4 14. cxd4 Re8 15.
+Nb5 a6 16. Nc3 Qd7 17. Qf3 d5 18. Bd2 b5 19. a3 Qa7 1/2-1/2

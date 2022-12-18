@@ -1,0 +1,18 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gipson, J."]
+[Black "Small, R."]
+[Result "1-0"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "e1d4a6a8"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nf3 e6 3. d4 d5 4. Nc3 Bb4 5. Bd2 Bxc3 6. bxc3 h6 7. e3 c6 8.
+Bd3 Nbd7 9. O-O Qc7 10. Re1 e5 11. e4 O-O 12. Qc1 dxe4 13. Bxe4 Nxe4 14.
+Rxe4 f5 15. Rh4 e4 16. Bxh6 exf3 17. Bxg7 Kxg7 18. Qg5+ Kf7 19. Rh7+ Ke6
+20. Qe7# 1-0
+

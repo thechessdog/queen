@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hector, Jonny"]
+[Black "Bogdanovski, V."]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "a7e5b31d"]
+[Epoch "Queen"]
+[WhiteID "1700090"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 Nc6 4. d4 d5 5. exd5 Nxd5 6. dxc5 Ndb4 7. a3 Bf5 8.
+axb4 Nxb4 9. Ng3 Qxd1+ 10. Kxd1 1-0

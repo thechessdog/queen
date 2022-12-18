@@ -1,0 +1,23 @@
+[Event "Norway"]
+[Site "Norway"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Grotnes, Nils"]
+[Result "1-0"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "d61218c9"]
+[Epoch "Queen"]
+[BlackID "1500317"]
+[BlackCountry "NOR"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 O-O 7. Bd3 h6 8. Bh4
+dxc4 9. Bxc4 c5 10. O-O a6 11. a4 b6 12. Qe2 Bb7 13. Rfd1 Ne4 14. Nxe4 Bxe4 15.
+Bg3 Qc8 16. dxc5 Bxc5 17. Nd4 Nf6 18. Be5 Be7 19. Rac1 Qb7 20. f3 Bc6 21. Bxe6
+Bxa4 22. Rc7 Bxd1 23. Qxd1 Qxc7 24. Bxc7 fxe6 25. Nxe6 Rf7 26. Bxb6 Rb8 27. Bd4
+Ne8 28. Qa4 Bf6 29. Qxa6 Bxd4 30. Nxd4 Rxb2 31. Qc8 Kf8 32. Ne6+ Ke7 33. Nf4
+Nf6 34. Qc5+ 1-0

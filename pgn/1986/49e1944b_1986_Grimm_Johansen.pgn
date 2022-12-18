@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Grimm, K."]
+[Black "Johansen, G."]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "49e1944b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 c6 5. e3 Qb6 6. Qb3 Qxb3 7. axb3 Na6 8.
+Nf3 Nb4 9. Ra4 a5 10. Bc7 Bg7 11. Bxa5 Na6 12. c5 Nd7 13. Bxa6 Rxa6 14. Bc7
+O-O 15. Rxa6 bxa6 16. O-O f6 17. b4 e5 18. Rd1 e4 19. Nd2 f5 20. Nb3 Rf7
+21. Bd6 Bf8 22. Na5 Bxd6 23. cxd6 Nb8 24. Na4 Kf8 25. Rc1 Bd7 26. Nb6 Ke8
+27. Nb7 Be6 28. d7+ Ke7 29. d8=Q# 1-0
+

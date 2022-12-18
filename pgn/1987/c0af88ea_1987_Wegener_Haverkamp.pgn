@@ -1,0 +1,20 @@
+[Event "NWL-I 8687"]
+[Site "NWL-I 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wegner, Hannu"]
+[Black "Haverkamp, Wilfried"]
+[Result "0-1"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "c0af88ea"]
+[Epoch "Queen"]
+[WhiteID "4600509"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 e6 7. e3 Bb4 8. Rc1
+Ne4 9. Bd3 f5 10. O-O O-O 11. Bxe4 fxe4 12. Ne5 Nxe5 13. Bxe5 Bd7 14. Qb3 Bxc3
+15. Rxc3 Bc6 16. Qd1 Qg5 17. a4 Rf5 18. b4 a6 19. Qb3 Raf8 20. b5 axb5 21. axb5
+Be8 22. Rc7 R8f7 23. Rc8 Qe7 24. Qa4 Qd7 25. Qa8 Rf8 26. Rc7 Qxc7 27. Bxc7 Bxb5
+28. Qxb7 Bxf1 29. Kxf1 Rxf2+ 30. Ke1 Rf1+ 31. Kd2 R8f2+ 32. Kc3 Rc1+ 0-1

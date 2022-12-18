@@ -1,0 +1,25 @@
+[Event "Tallinn-B"]
+[Site "Tallinn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Narva, Jaan"]
+[Black "Kochyev, Alexander"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "fd67c04c"]
+[Epoch "Queen"]
+[BlackID "4100719"]
+[BlackCountry "RUS"]
+[WhiteID "4500148"]
+[WhiteCountry "EST"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 Bxc3+ 7. bxc3 d6 8. e3
+e5 9. Qc2 Qe7 10. f3 g5 11. Bg3 e4 12. f4 Bf5 13. Qa4+ Qd7 14. Qd1 Na6 15. Nh3
+Rg8 16. fxg5 hxg5 17. Nf2 O-O-O 18. Be2 Nc7 19. O-O Nce8 20. Rb1 Kb8 21. Qb3
+Ka8 22. Qa3 Qc7 23. Rb2 Bc8 24. Rfb1 Ng7 25. Bd1 Nf5 26. Ba4 Nxg3 27. hxg3 Nd7
+28. Bxd7 Qxd7 29. Qa5 f5 30. Rb3 Rg7 31. Ra3 a6 32. Qb6 Qc7 33. Qb2 f4 34. gxf4
+gxf4 35. exf4 Rdg8 36. Nxe4 Bf5 37. Ng5 Bxb1 38. Qxb1 Qe7 39. Qc1 Qe2 40. Rb3
+Qxc4 41. Qd2 Re7 42. Rb2 Ka7 43. Ne6 Rg3 44. f5 Rf7 45. Qh6 Qxd5 46. Qf4 Rxf5
+0-1

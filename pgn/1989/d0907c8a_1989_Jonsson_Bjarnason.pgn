@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jonsson, Bjorgvin"]
+[Black "Bjarnason, Saevar"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "d0907c8a"]
+[Epoch "Queen"]
+[BlackID "2300176"]
+[BlackCountry "ISL"]
+[WhiteID "2300125"]
+[WhiteCountry "ISL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. Be2 Qb6 10. O-O cxd4 11. Nxd4 Bc5 12. Rfd1 Nxd4 13. Bxd4 Bxd4+ 14. Qxd4
+Qxd4+ 15. Rxd4 Nb8 16. Bf3 Nc6 17. Rd2 Bb7 18. Re1 Na5 19. Ne2 Ke7 20. Nd4 Nc4
+21. Rf2 Nxb2 22. f5 Raf8 23. Bg4 Bc8 24. Ref1 Nc4 25. fxe6 fxe6 26. Rxf8 Rxf8
+27. Rxf8 Kxf8 28. Bxe6 Bb7 29. Bh3 Nxe5 30. Ne6+ Ke7 1/2-1/2

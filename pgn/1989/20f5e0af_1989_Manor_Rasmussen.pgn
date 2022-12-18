@@ -1,0 +1,23 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "3"]
+[White "Manor, Ilan"]
+[Black "Rasmussen, Lars Bo"]
+[Result "1-0"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "fianchetto variation"]
+[HashCode "20f5e0af"]
+[Epoch "Queen"]
+[WhiteID "2800110"]
+[WhiteCountry "ISR"]
+[BlackID "1406434"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Nf3
+Bg7 9. Bg2 O-O 10. O-O Nbd7 11. Qc2 Qc7 12. Rd1 Rfb8 13. Rb1 Nb6 14. Nd2 Ng4
+15. h3 Ne5 16. Nde4 h6 17. Kh2 Bc8 18. b3 c4 19. b4 f5 20. Nb5 Qd7 21. Nec3 Na4
+22. Nxa4 Qxb5 23. Nc3 Qe8 24. a4 g5 25. f4 gxf4 26. gxf4 Qh5 27. e3 Nd3 28. b5
+Bd7 29. Bd2 Bf6 30. Qa2 Nc5 31. Qxc4 Rc8 32. b6 Bxa4 33. Rg1 Kf8 34. Nxa4 Rxa4
+35. Qc2 Rb8 36. Bb4 Qe8 37. Bxc5 dxc5 38. d6 Qd7 39. Bd5 Bg7 40. dxe7+ 1-0

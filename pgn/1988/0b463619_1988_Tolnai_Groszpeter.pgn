@@ -1,0 +1,17 @@
+[Event "St John"]
+[Site "St John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tolnai, Tibor"]
+[Black "Groszpeter, Attila"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "0b463619"]
+[Epoch "Queen"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 1/2-1/2

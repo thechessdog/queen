@@ -1,0 +1,22 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Torre, Eugenio"]
+[Black "Perenyi, Bela"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "aa26d903"]
+[Epoch "Queen"]
+[WhiteID "5200016"]
+[WhiteCountry "PHI"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. h3 Bh5 6. c3 e6 7. d4 Nf6 8. d5 a6
+9. Bxc6+ bxc6 10. dxe6 fxe6 11. e5 dxe5 12. Qxd8+ Rxd8 13. Nxe5 Rd5 14. Re1 Bd6
+15. Nc4 Be7 16. Nbd2 O-O 17. Rxe6 Bd8 18. Rxc6 Re8 19. Ne3 Rd3 20. Nb3 Ne4 21.
+Nxc5 Nxc5 22. Rxc5 Bg6 23. Rc8 Kf7 24. b3 Bf6 25. Rxe8 Kxe8 26. Bb2 Rd2 27. Nc4
+Re2 28. Rd1 Bg5 29. Kf1 Rc2 30. g3 Bh5 31. Re1+ Kf7 32. f4 Bg6 33. Ne5+ Kg8 34.
+Re2 1-0

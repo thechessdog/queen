@@ -1,0 +1,23 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van der Linden"]
+[Black "De Jong, Tom"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "288b724f"]
+[Epoch "Queen"]
+[BlackID "1000543"]
+[BlackCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. f4 Bd6 11. Nf3 Qb6 12. a3 a5 13. Nc3 Bd7 14. Nb5 Be7 15. f5
+exf5 16. Bf4 Rc8 17. Qb3 O-O 18. O-O a4 19. Qxa4 Na5 20. Ne5 Bxb5 21. Bxb5 Ra8
+22. Rae1 Nc6 23. Nxc6 Bxa3 24. Qc2 Qxb5 25. Ne7+ Bxe7 26. Rxe7 Rae8 27. Rxe8
+Nxe8 28. Be5 Qc4 29. Qd2 Qc6 30. Rc1 Qe6 31. Qa5 f4 32. Rf1 g5 33. Re1 Qf7 34.
+Qd8 h6 35. Qb6 Kh7 36. Qc5 Rg8 37. Bc7 Rg7 38. Bd8 Qd7 39. Be7 Rf7 40. Re5 Ng7
+41. Bd6 Nf5 42. Qc2 Kg7 43. Bc5 Ne3 44. Qe2 Qa4 45. Kf2 Qa1 46. Re6 Qh1 47.
+Rxe3 fxe3+ 48. Kxe3 Qxh2 0-1

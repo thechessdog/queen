@@ -1,0 +1,17 @@
+[Event "corr CA"]
+[Site "corr CA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rasmussen, B."]
+[Black "Cantin, L."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "03c9cad5"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. Bc4 Ne7 7. dxc6
+Nbxc6 8. d4 O-O 9. O-O Bg4 10. Ne4 Bc7 11. c3 Bxf3 12. gxf3 Nd5 13. Bb3 Na5
+14. c4 Ne3 15. Bxe3 fxe3 16. d5 f5 17. Nc3 Qg5+ 0-1
+

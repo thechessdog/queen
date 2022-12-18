@@ -1,0 +1,18 @@
+[Event "WURT-MM8990"]
+[Site "WURT-MM8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rapp, U."]
+[Black "Foerster, E."]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "8bbcd83e"]
+[Epoch "Queen"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 Bg4 4. Ne5 Bh5 5. g3 e6 6. Bg2 Nbd7 7. O-O Nxe5
+8. Bxe5 Bd6 9. Bb2 O-O 10. d3 Re8 11. Nd2 c6 12. Qe1 e5 13. e4 dxe4 14.
+Nxe4 Nxe4 15. Bxe4 Qc7 16. Qe3 Bg6 17. Bxg6 hxg6 18. Qg5 Rad8 19. Rae1 Qe7
+20. Qg4 Qd7 1/2-1/2
+

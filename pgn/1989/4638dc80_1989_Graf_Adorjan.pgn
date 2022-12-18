@@ -1,0 +1,21 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Graf, Juergen"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "4638dc80"]
+[Epoch "Queen"]
+[WhiteID "4600312"]
+[WhiteCountry "GER"]
+[BlackID "700096"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 b5 7. dxe6 fxe6 8. cxb5
+O-O 9. e3 Qa5 10. Bxf6 Rxf6 11. Qc1 a6 12. bxa6 Nxa6 13. Be2 Nc7 14. Bf3 Nd5
+15. Ne2 Bxc3+ 16. Nxc3 Ba6 17. Qd2 Rxf3 18. gxf3 Nb4 19. Rg1 Nd3+ 20. Kd1 Rb8
+21. Rb1 Rb6 22. Ne4 Qxa2 23. Qc2 d5 24. Nc3 Nxb2+ 25. Kc1 Nd3+ 1/2-1/2

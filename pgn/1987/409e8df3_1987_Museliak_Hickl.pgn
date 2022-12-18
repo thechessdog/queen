@@ -1,0 +1,18 @@
+[Event "corr DDR-BRD"]
+[Site "corr DDR-BRD"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Museliak, M."]
+[Black "Hickl, N."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "409e8df3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. a3 Qh4 5. g3 Qh5 6. Nf3 Nc6 7. Qd5 Nc5 8.
+Bg2 Nb3 9. Nc3 Nxa1 10. O-O Be7 11. Nb5 O-O 12. Bf4 d6 13. Nxc7 dxe5 14.
+Nxa8 Be6 15. Qb5 Bxc4 16. Qxc4 exf4 17. Nc7 Ne5 18. Nxe5 Qxe5 19. Bxb7 fxg3
+20. fxg3 Qxb2 21. Bd5 Bf6 22. Nb5 Nc2 23. Rf3 Qc1+ 24. Kg2 Ne1+ 0-1
+

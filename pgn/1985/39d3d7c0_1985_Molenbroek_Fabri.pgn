@@ -1,0 +1,21 @@
+[Event "corr ol10"]
+[Site "corr ol10"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Molenbroek, H."]
+[Black "Fabri, F."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "39d3d7c0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Nh3 Qa5 10. e4 fxe4 11. Ng5 e3 12. Qd4 O-O 13. Bc4 Nc6 14.
+Qd3 Rf5 15. Bxd5 exd5 16. f4 d4 17. O-O Qxc5 18. cxd4 Qxd4 19. Qb3+ Rd5 20.
+Bxe3 Qd3 21. Qxd3 Rxd3 22. Kf2 Bf5 23. a4 Nb4 24. Rfd1 Rb3 25. g4 Bxg4 26.
+Rdb1 Rxb1 27. Rxb1 a5 28. Bb6 Bf5 29. Rd1 Nd3+ 30. Kf3 Ra6 31. Ne4 Rxb6 32.
+Rxd3 h6 33. Rd8+ Kh7 34. Nc5 Rb4 35. Rd5 g6 36. Ke3 h5 37. h4 Kg7 38. Rd8
+b6 0-1
+

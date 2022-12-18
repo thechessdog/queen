@@ -1,0 +1,18 @@
+[Event "Bundesliga 8485"]
+[Site "Bundesliga"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Dueball, Juergen"]
+[Black "Meyer, Peter"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, Smyslov variation"]
+[HashCode "381c7b7a"]
+[Epoch "Queen"]
+[WhiteID "4600185"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Qa5 8. Bd2
+Nbc6 9. Qg4 O-O 10. Bd3 c4 11. Be2 f6 12. exf6 Rxf6 13. Qh5 e5 14. dxe5 Rf5 15.
+Qe8+ Rf8 16. Qh5 Rf5 17. Qe8+ Rf8 1/2-1/2

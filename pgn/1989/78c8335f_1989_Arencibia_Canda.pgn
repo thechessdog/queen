@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1989.01.01"]
+[Round "10"]
+[White "Arencibia Rodriguez, Walter"]
+[Black "Canda, Danilo"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "78c8335f"]
+[Epoch "Queen"]
+[BlackID "6100015"]
+[BlackCountry "NCA"]
+[WhiteID "3500012"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 O-O 8. Be2
+d5 9. b3 c6 10. O-O Nbd7 11. Bb2 Bd6 12. g3 Re8 13. Ng2 Rc8 14. Rc1 Qe7 15.
+cxd5 Bxe2 16. Qxe2 exd5 17. a4 a5 18. Rc2 Nb8 19. Rfc1 Qb7 1/2-1/2

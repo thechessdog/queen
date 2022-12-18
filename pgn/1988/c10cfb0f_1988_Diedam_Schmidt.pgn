@@ -1,0 +1,18 @@
+[Event "NRW-Liga I"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Diedam, Norbert"]
+[Black "Schmidt, Michael2"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "c10cfb0f"]
+[Epoch "Queen"]
+[WhiteID "4619609"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+Bb7 9. e3 f5 10. Bd3 Bxc3+ 11. bxc3 d6 12. d5 Qf6 13. Bxe4 fxe4 14. Qxe4 Nd7
+15. O-O Nc5 16. Qd4 e5 17. Nxe5 O-O-O 18. Nc6 Qf7 19. Nxd8 Rxd8 1-0

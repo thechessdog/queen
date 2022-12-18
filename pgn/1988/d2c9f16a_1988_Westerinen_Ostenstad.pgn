@@ -1,0 +1,24 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Westerinen, Heikki M.J."]
+[Black "Ostenstad, Berge"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "d2c9f16a"]
+[Epoch "Queen"]
+[WhiteID "500020"]
+[WhiteCountry "FIN"]
+[BlackID "1500058"]
+[BlackCountry "NOR"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Nxf6+ Nxf6 7. c3 Qc7
+8. Ne2 e6 9. Bf4 Bd6 10. Qd2 O-O 11. Bxd6 Qxd6 12. Qf4 Qe7 13. O-O b6 14. Rfe1
+Bb7 15. Ng3 Qd7 16. Re5 Qc7 17. Rae1 c5 18. Bf1 cxd4 19. Qxd4 Rfd8 20. Qh4 Rd2
+21. Nh5 Nxh5 22. Rxh5 Qd8 23. Rxh7 Qxh4 24. Rxh4 Rxb2 25. a4 Rd8 26. Rc4 Rd7
+27. Ra1 a5 28. h4 g6 29. Rf4 Kg7 30. Bb5 Rdd2 31. Re1 Rd8 32. Rc4 Rdd2 33. Rf4
+Bc8 34. Rc4 Bd7 35. Bxd7 Rxd7 36. g3 Rdd2 37. Rf4 Rdc2 38. Re3 Re2 39. Rxe2
+Rxe2 40. Rc4 Rb2 41. g4 b5 1/2-1/2

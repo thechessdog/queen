@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sonnet, Jean"]
+[Black "Schreiber, H."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "ca549541"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. f4 Bb7 10. Be3 Nxe4 11. Nxe4 Bxe4 12. Bxe6 fxe6 13. Nxe6 Qd7 14.
+Nxg7+ Kf8 15. f5 Bf6 16. Qg4 Bxg7 17. Qxe4 d5 18. Qh4 h5 19. f6 Bh6 20.
+Bc5+ 1-0
+

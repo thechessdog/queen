@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Heinatz, T."]
+[Black "Kuspiel, M."]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, Polugaievsky variation"]
+[HashCode "398d297e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6
+8. c4 Nge7 9. Nc3 O-O 10. Kh1 e5 11. f4 exf4 12. Bxf4 d6 13. c5 dxc5 14.
+Nd5 Ng6 15. Bc7 Qg5 16. Rc1 c4 17. Rxc4 Be6 18. Nd2 Bxd5 19. Nf3 Qh5 20. g4
+Qxg4 21. exd5 Qd7 22. dxc6 Qxc7 23. Ng5 Qe5 24. Rf5 Qe3 25. c7 Rac8 26.
+Nxf7 b5 27. Rc3 Qd4 28. Bc2 Qxd1+ 29. Bxd1 b4 30. Rc1 Be3 31. Bb3 Bxc1 32.
+Nd6+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koronowits, J."]
+[Black "Bolke"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "0f67d70a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
+8. c3 Nbc6 9. f4 cxd4 10. cxd4 Nf5 11. Nf3 a6 12. Nc3 Nh4 13. Nxh4 Qxh4+
+14. g3 Qe7 15. Bh3 Bd7 16. O-O f6 17. Rad1 Rac8 18. f5 fxe5 19. dxe5 d4 20.
+f6 Qc5 21. Na4 Qa7 22. fxg7 Rxf1+ 23. Rxf1 d3+ 24. Kh1 Nxe5 25. Qf4 Bc6+
+26. Bg2 Bxg2+ 27. Kxg2 Qb8 28. Nc5 b6 29. Nxe6 Qb7+ 30. Kg1 Nf7 31. Qd6 Qb8
+32. Qe7 1-0
+

@@ -1,0 +1,19 @@
+[Event "Zelinorgrad"]
+[Site "Zelinorgrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Seredenko, Vladimir"]
+[Black "Tikachev, V."]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "c4054fa5"]
+[Epoch "Queen"]
+[WhiteCountry "KAZ"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 O-O 5. Be2 d5 6. O-O c5 7. c3 Nc6 8. Nbd2
+cxd4 9. exd4 Bf5 10. Re1 h6 11. Bh4 Ne4 12. Nxe4 Bxe4 13. Nd2 Bf5 14. f4 Qb6
+15. g4 Bd7 16. Nb3 e5 17. Nc5 Be6 18. Na4 Qc7 19. fxe5 Nxe5 20. dxe5 Bxe5 21.
+Bf2 Bxh2+ 22. Kg2 f5 23. Qd3 Kh7 24. g5 Bf4 25. Bf3 Bf7 26. gxh6 b6 27. Qd4
+Rae8 28. Qg7# 1-0

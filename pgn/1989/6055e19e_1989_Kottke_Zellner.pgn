@@ -1,0 +1,26 @@
+[Event "RLNS 8990"]
+[Site "RLNS 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kottke, U."]
+[Black "Zellner, R."]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "6055e19e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 Nbd7 6. Be2 e5 7. O-O O-O 8.
+Qc2 a5 9. Be3 Ng4 10. Bg5 Bf6 11. Bxf6 Ngxf6 12. Rad1 exd4 13. Nxd4 c6 14.
+Rfe1 Qe7 15. Bf1 Nc5 16. Qd2 Ne8 17. Qh6 Qe5 18. Nf3 Qg7 19. Qe3 Bg4 20.
+Be2 Bxf3 21. Bxf3 Qe5 22. Bg4 Nf6 23. Bh3 Rad8 24. Qd4 Rfe8 25. f3 Nh5 26.
+Ne2 Ng7 27. g3 Nge6 28. Qc3 Ng5 29. Bg2 Na4 30. Qb3 Nxb2 31. Rd4 Qc5 32.
+Qxb2 Ne6 33. Kh1 Nxd4 34. Qxd4 Qb4 35. Rd1 Re5 36. f4 Rc5 37. Qf6 Rf8 38.
+Qxd6 Rxc4 39. e5 Qb2 40. e6 Qxe2 41. exf7+ Rxf7 42. Bf1 Qe4+ 43. Bg2 Qe7
+44. Qd2 Qc5 45. Bh3 Rc2 46. Qe1 Kg7 47. Be6 Re7 48. g4 Qc3 49. Qxc3+ Rxc3
+50. f5 gxf5 51. gxf5 Rc2 52. a4 Kf6 53. Rb1 h5 54. h3 Rg7 55. Rb3 h4 56.
+Bc8 Rcg2 57. Rb1 R2g3 58. Kh2 b5 59. Rc1 Ke5 60. Re1+ Kf6 61. Rc1 Rc7 62.
+Be6 bxa4 63. Rc4 Rcg7 64. Rc2 a3 65. Re2 Rb7 66. Re4 Rb2+ 67. Kh1 Rxh3+ 68.
+Kg1 Rc3 0-1
+

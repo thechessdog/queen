@@ -1,0 +1,18 @@
+[Event "Tashkent"]
+[Site "Tashkent"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Shabanov, Yuri"]
+[Black "Huzman, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "0c392e80"]
+[Epoch "Queen"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Nge7 7. O-O Bf5 8.
+Ng3 Bxd3 9. Qxd3 Bxc3 10. Qxc3 O-O 11. Bg5 Qd7 12. Bxe7 Qxe7 13. Rfe1 Qf6 14.
+Rad1 g6 15. Nf1 Rfe8 16. Re3 Rad8 17. Qd3 Re6 18. c3 Ne7 19. Rde1 Rxe3 20. Rxe3
+1/2-1/2

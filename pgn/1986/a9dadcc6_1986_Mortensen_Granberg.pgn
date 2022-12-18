@@ -1,0 +1,18 @@
+[Event "DM86"]
+[Site "DM86"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mortensen, J."]
+[Black "Granberg, N."]
+[Result "1/2-1/2"]
+[ECO "D96"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "a9dadcc6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 O-O 6. cxd5 c6 7. dxc6 Nxc6
+8. e3 e5 9. dxe5 Nd7 10. Be2 Nc5 11. Qb5 Qb6 12. O-O Nxe5 13. e4 Nxf3+ 14.
+Bxf3 Bxc3 15. Qxb6 axb6 16. bxc3 Be6 17. Bh6 Rfd8 18. Rfb1 Bxa2 19. Rxb6
+Bd5 20. Rxa8 Rxa8 21. h3 1/2-1/2
+

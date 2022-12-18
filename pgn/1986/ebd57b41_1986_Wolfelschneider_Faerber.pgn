@@ -1,0 +1,16 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wolfelschneider, P."]
+[Black "Faerber, HJ."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "ebd57b41"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 O-O 5. e3 d5 6. cxd5 Nxd5 7. Nf3 Re8
+8. Bc4 Bg4 9. Bb2 Nxe3 10. Bxf7+ Kxf7 11. Qb3+ Nd5+ 12. Ne5+ Kf8 13. O-O
+Be6 14. a3 Bd6 15. Qxb7 Nd7 16. Nc4 0-1
+

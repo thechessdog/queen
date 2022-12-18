@@ -1,0 +1,15 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fischer, D."]
+[Black "Cody, Philip"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "51ee6ffa"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Bc4 Bxe5 6. Qh5 Qe7 7. Qxe5
+Qxe5 8. dxe5 Nc6 9. Bf4 Nge7 10. Nc3 Ng6 11. Bg3 Ngxe5 0-1
+

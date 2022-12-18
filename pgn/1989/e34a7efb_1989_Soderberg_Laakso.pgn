@@ -1,0 +1,20 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Soderborg, Berndt"]
+[Black "Laakso"]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "e34a7efb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. d4
+Bd7 9. Nbd2 Re8 10. Nf1 h6 11. Ng3 Bf8 12. a3 Na5 13. Bc2 c5 14. b4 cxb4 15.
+cxb4 Nc4 16. Qd3 Rc8 17. Bb3 b5 18. Nd2 Qc7 19. d5 a5 20. Ra2 a4 21. Bd1 Nb6
+22. Rc2 Qa7 23. Nf3 Nc4 24. Nh4 Qd4 25. Qe2 g6 26. Kh1 Bg7 27. Nf3 Qa7 28. Nd2
+Ng4 29. Nxc4 Rxc4 30. Rf1 Rec8 31. h3 Nf6 32. Rxc4 Rxc4 33. Be3 Qc7 34. Bd2 h5
+35. h4 Nh7 36. Kg1 Bf6 37. Qd3 Bxh4 38. Ne2 Bg5 39. f4 Bh6 40. fxe5 Bxd2 41.
+Qxd2 Rxe4 0-1

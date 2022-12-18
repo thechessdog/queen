@@ -1,0 +1,21 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van der Heijden, H."]
+[Black "Kramer, A. (Queen Era)"]
+[Result "0-1"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "db9d49ba"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 Qd7
+8. Qe2 b6 9. Nf3 O-O 10. O-O Bb7 11. Bf4 Qg4 12. Qe3 Nc6 13. Be2 Qd7 14.
+Bh6 Na5 15. Bxg7 Kxg7 16. Ne5 Qd6 17. Ng4 c5 18. Qh6+ Kh8 19. d5 f5 20. e5
+Qxd5 21. Bf3 Qe6 22. Bxb7 Nxb7 23. Ne3 Qxe5 24. Rae1 Rfe8 25. c4 Nd6 26.
+Nd5 Ne4 27. Re3 Rad8 28. f3 e6 29. Nf4 Rg8 30. fxe4 fxe4 31. Rh3 Rd7 32.
+Rg3 Rdg7 33. Kh1 e3 34. Re1 e2 35. Re3 Qd4 36. R3xe2 Qxc4 37. Rxe6 g5 38.
+Nh5 Rf7 39. R6e3 Rf1+ 0-1
+

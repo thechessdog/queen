@@ -1,0 +1,21 @@
+[Event "corr ch-CSSR"]
+[Site "corr ch-CSSR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jurik"]
+[Black "Kudr"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "1502f76e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. Nf3
+Nd4 8. Nxd4 Bxd4 9. O-O c6 10. c3 Bb6 11. Bb3 Nxe4 12. d4 d5 13. Nd2 Qd6
+14. Nxe4 dxe4 15. Bg5+ Ke8 16. Qh5+ Qg6 17. Qxg6+ hxg6 18. Rae1 Rf5 19. h4
+Bd8 20. g4 Rxg5 21. hxg5 Bxg5 22. Rxe4 Bf4 23. f3 a5 24. dxe5 g5 25. Kg2
+Ke7 26. e6 b5 27. Rd1 Ra7 28. a4 Rc7 29. axb5 cxb5 30. Rd5 Bb7 31. Rxf4
+gxf4 32. Rxb5 a4 33. Bxa4 Kxe6 34. Rf5 Kd6 35. Rxf4 Re7 36. Rd4+ Kc7 37.
+Kf2 1-0
+

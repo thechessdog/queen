@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pare"]
+[Black "Pacini"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ee25a52b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be2 Nge7 7. O-O Nxd4
+8. Qxd4 Nc6 9. Qd3 b5 10. Qg3 Qf6 11. Bxb5 axb5 12. Nxb5 Ra7 13. Nxa7 Nxa7
+14. Qc7 Qd4 15. Be3 1-0
+

@@ -1,0 +1,16 @@
+[Event "BLSW 8687"]
+[Site "BLSW 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kiefer, Gerhard"]
+[Black "Sunder"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "two pawns' (Lasker's) attack"]
+[HashCode "2cd169a0"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 c6 6. Nc3 d6 7. cxd6 exd6 8. Qb3
+dxe5 9. Nxd5 cxd5 10. Bxd5 Qc7 11. Nf3 Bd6 12. O-O O-O 13. d3 Nc6 14. Be3 Na5
+15. Qa4 Bd7 16. Qe4 h6 17. Bxh6 gxh6 18. Qg6+ Kh8 19. Qxh6+ Kg8 20. Be4 1-0

@@ -1,0 +1,18 @@
+[Event "Timisoara"]
+[Site "Timisoara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Przewoznik, Jan"]
+[Black "Ghitescu, Theodor"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen, main line with Nb3"]
+[HashCode "f10e05c6"]
+[Epoch "Queen"]
+[WhiteID "1100149"]
+[WhiteCountry "POL"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 e6 6. f4 Nc6 7. Be2 Be7 8. Be3
+O-O 9. O-O Bd7 10. Nb3 Qc7 11. g4 d5 12. exd5 1/2-1/2

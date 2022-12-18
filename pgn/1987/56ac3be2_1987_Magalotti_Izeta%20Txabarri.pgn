@@ -1,0 +1,19 @@
+[Event "Andorra zt"]
+[Site "Andorra zt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Magalotti, Andrea"]
+[Black "Izeta Txabarri, Felix"]
+[Result "0-1"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[HashCode "56ac3be2"]
+[Epoch "Queen"]
+[WhiteID "803723"]
+[WhiteCountry "ITA"]
+[BlackID "2200260"]
+[BlackCountry "ESP"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Ng4 6. d4 d5 7. Bd3 Bh4+ 8. Kf1
+Nf2 9. Qe2 Nxh1 10. Bxf4 Nf2 11. Nxh4 Nxd3 12. Bg3 Nf4 0-1

@@ -1,0 +1,20 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Fedorowicz, John"]
+[Black "Djuric, Stefan"]
+[Result "1/2-1/2"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "4c4e07dc"]
+[Epoch "Queen"]
+[WhiteID "2000083"]
+[WhiteCountry "USA"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nf3 O-O 6. Bd3 d5 7. O-O Bb7 8. Qe2
+dxc4 9. Bxc4 c5 10. Rd1 Qe7 11. Bd2 Ne4 12. Nxe4 Bxe4 13. dxc5 Bxc5 14. Bc3 a6
+15. Rac1 Ra7 16. Nd2 Bg6 17. Nb3 Bd6 18. Bd3 Rc7 19. Bxg6 hxg6 20. Rd3 1/2-1/2

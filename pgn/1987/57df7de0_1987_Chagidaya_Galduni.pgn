@@ -1,0 +1,18 @@
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chagidaya"]
+[Black "Galduni"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "57df7de0"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4
+Qa5+ 8. Nc3 Bb4 9. Qe2+ Be6 10. O-O O-O 11. Bxf4 Bxc3 12. bxc3 Nd5 13. Ng5
+Qxc3 14. Rad1 Bf5 15. Bd6 Bxc2 16. Rc1 Nxd4 17. Qf2 Ne3 18. Ne4 Qa5 19.
+Qxe3 Nxb5 20. Rxc2 Rfe8 21. Qb3 Re6 22. Rc5 1-0
+

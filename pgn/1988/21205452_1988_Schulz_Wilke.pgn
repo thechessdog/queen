@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Wilke"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "21205452"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O Re8 7. Nd5 Bf8 8. d3
+h6 9. Bd2 d6 10. Bc3 Nh7 11. Nd2 Ne7 12. Ba5 Nxd5 13. Bxd5 Qe7 14. Bg2 c6 15.
+Rc1 Be6 16. Bc3 Qc7 17. b4 Be7 18. a4 f5 19. e3 Nf6 20. f4 Qb6 21. c5 dxc5 22.
+fxe5 cxb4 23. Bd4 c5 24. exf6 cxd4 25. a5 Qxa5 26. fxe7 dxe3 27. Nb3 Qa2 28.
+Nd4 Rxe7 29. Rc2 Qa6 30. Nxf5 Rd7 31. Be4 Qb6 32. Qe2 a5 33. Qxe3 Qxe3+ 34.
+Nxe3 b3 35. Rb2 a4 36. Nc4 Rc7 37. Ra1 Ra6 38. Na3 Ra5 39. Nc4 Bxc4 40. dxc4
+Rxc4 41. Bxb7 Rac5 42. Kf1 Rc1+ 43. Rxc1 Rxc1+ 44. Ke2 a3 45. Bd5+ Kh7 46. Rxb3
+a2 47. Be4+ g6 48. Rb7+ Kh8 49. Ra7 a1=Q 50. Rxa1 Rxa1 51. Bxg6 Ra2+ 52. Kf3
+Rxh2 0-1

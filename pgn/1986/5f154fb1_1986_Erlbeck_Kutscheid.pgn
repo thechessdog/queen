@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Erlbeck, P."]
+[Black "Kutscheid, H."]
+[Result "1/2-1/2"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "5f154fb1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Ne2 Nc6 10. O-O Qe7 11. Bb2 Rd8 12. Qc2 e5 13. Rac1 Be6 14.
+Bxe6 Qxe6 15. dxe5 Nxe5 16. Nf4 Qc4 17. Rfd1 Nc6 18. f3 Nd5 19. Nxd5 Rxd5
+20. Rxd5 Qxd5 21. c4 Qe6 22. Qc3 f6 23. Rd1 Rd8 24. Rxd8+ Nxd8 25. Qd3 Nc6
+26. Bc3 Kf7 1/2-1/2
+

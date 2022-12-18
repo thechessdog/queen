@@ -1,0 +1,20 @@
+[Event "Aarhus-D"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "4"]
+[White "Reinert, Mads"]
+[Black "Rosenlund, Thorbjorn"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ed468d69"]
+[Epoch "Queen"]
+[BlackID "1400614"]
+[BlackCountry "DEN"]
+[WhiteID "1400487"]
+[WhiteCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Bxf6 gxf6 10. Na3 d5 11. Qxd5 Be6 12. Qxd8+ Rxd8 13. Bd3 Rg8 14. Nd5
+Bxd5 15. exd5 Rxd5 16. Bxh7 Rg4 17. h4 Bxa3 18. bxa3 e4 19. h5 Rg7 0-1

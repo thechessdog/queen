@@ -1,0 +1,19 @@
+[Event "Cajas op"]
+[Site "Cajas"]
+[Date "1989.??.??"]
+[Round "1"]
+[White "Esain Manresa, Miguel"]
+[Black "Guillen, S."]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "62adf0a4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 e5 6. c3 a6 7. Bf1 Nf6 8.
+d4 cxd4 9. cxd4 Be7 10. d5 Na7 11. a4 O-O 12. a5 Bb5 13. Nc3 Qd7 14. Bxb5
+Nxb5 15. Na4 Bd8 16. Bd2 Qg4 17. h3 Qg6 18. Qe2 Nh5 19. Nc3 f5 20. exf5
+Rxf5 21. Nxb5 axb5 22. Nh2 Bg5 23. Be3 Raf8 24. Rf1 Bxe3 25. Qxe3 Nf4 26.
+g4 Rh5 27. f3 Nxh3+ 28. Kh1 Rh4 29. b4 Ng5 30. Ra2 Nxf3 0-1
+

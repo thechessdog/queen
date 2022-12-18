@@ -1,0 +1,23 @@
+[Event "match"]
+[Site "match"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hector, Jonny"]
+[Black "Stempin, Pawel"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, English variation"]
+[HashCode "5541933b"]
+[Epoch "Queen"]
+[WhiteID "1700090"]
+[WhiteCountry "SWE"]
+[BlackID "1100068"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. Qd2 b5 8. f3
+Nbd7 9. g4 h6 10. h4 b4 11. Nd1 d5 12. Rg1 dxe4 13. g5 hxg5 14. hxg5 Nd5 15. g6
+Nxe3 16. gxf7+ Kxf7 17. Qxe3 Ne5 18. Be2 Bc5 19. c3 Nd3+ 20. Bxd3 exd3 21. Qe5
+Bf8 22. Nf2 Qd5 23. Qf4+ Ke8 24. Nxd3 Rh6 25. c4 Qd8 26. O-O-O Rh4 27. Rg4 Rxg4
+28. Qxg4 Qf6 29. Re1 Kf7 30. Ne5+ Kg8 31. Qe4 Rb8 32. Rh1 g6 33. Rg1 Bh6+ 34.
+Kb1 Bg7 35. Rxg6 Bb7 36. Qe1 Qf4 1-0

@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Osmanovic, Kemal"]
+[Black "Tesic, Dragan"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[HashCode "28d037e0"]
+[Epoch "Queen"]
+[WhiteID "14400278"]
+[BlackID "902578"]
+[WhiteCountry "BIH"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Nf3 Bg7 5. Nc3 O-O 6. Be2 d5 7. O-O cxd4 8. exd4
+Nc6 9. Ne5 dxc4 10. Nxc6 bxc6 11. Bxc4 Qd6 12. g3 Rd8 13. Bf4 Qb4 14. Qb3 Qxb3
+15. axb3 Rxd4 16. Be3 Rd7 17. b4 Nd5 18. Nxd5 cxd5 19. Bb5 Rc7 20. Bb6 Rc2 21.
+Bc5 Bh3 22. Rfb1 e6 23. Bc6 Rc8 24. Bb7 R8xc5 25. bxc5 Bd4 26. Kh1 Rxf2 27. Rd1
+Bg2+ 28. Kg1 Rd2# 0-1

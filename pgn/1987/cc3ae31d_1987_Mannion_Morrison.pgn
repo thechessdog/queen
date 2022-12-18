@@ -1,0 +1,25 @@
+[Event "Hamilton"]
+[Site "Hamilton"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mannion, Stephen R"]
+[Black "Morrison, Graham"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "cc3ae31d"]
+[Epoch "Queen"]
+[BlackID "2400090"]
+[BlackCountry "SCO"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. Nc3 Be7 8. a4
+Nc6 9. Be3 O-O 10. Kh1 Nb4 11. f4 Nxd3 12. cxd3 Re8 13. f5 e5 14. Nf3 d5 15.
+Bg5 d4 16. Bxf6 Bxf6 17. Nd5 Bd7 18. b4 Bc6 19. Nxf6+ Qxf6 20. Qb3 b6 21. Rfc1
+Rac8 22. Rc2 Bb7 23. Rac1 Qd6 24. a5 Rxc2 25. Rxc2 h6 26. axb6 Qxb6 27. Rc5 Qd6
+28. Qa4 Re7 29. Qa5 Kh7 30. h3 f6 31. Nd2 Rd7 32. Nc4 Qe7 33. Nb6 Rc7 34. Nd5
+Rxc5 35. Nxe7 Rxa5 36. bxa5 g5 37. fxg6+ Kg7 38. Kg1 f5 39. Nxf5+ Kxg6 40. Nd6
+Bc6 41. Kf2 Bd7 42. Nc4 Kf6 43. Nb6 Bb5 44. Nd5+ Kg5 45. Ke2 Bc6 46. Nc7 Bb7
+47. Ne8 h5 48. Kf3 Bc6 49. Nc7 Bb7 50. g3 Bc8 51. h4+ Kg6 52. Ke2 Kf7 53. Kd2
+Bb7 54. Kc2 Ke7 55. Kb3 Kd7 56. Nd5 Bxd5+ 57. exd5 Kd6 58. Kc4 Kc7 59. Kc5 Kd7
+60. d6 e4 61. Kxd4 exd3 62. Kxd3 1-0

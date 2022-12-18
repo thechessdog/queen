@@ -1,0 +1,22 @@
+[Event "JSS VanTS-EtVaS"]
+[Site "JSS VanTS-EtVaS"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Haapaniemi, Arto"]
+[Black "Tuomala, Tapio"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Blumenfeld attack"]
+[HashCode "d06dcac3"]
+[Epoch "Queen"]
+[WhiteID "503800"]
+[WhiteCountry "FIN"]
+[BlackID "501476"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5 Bxe3 7. fxe3 Qh4+
+8. g3 Qxe4 9. Nxc7+ Kd8 10. Nxa8 Qxh1 11. Qd6 Nf6 12. Nd2 Re8 13. O-O-O Qd5 14.
+Qc7+ Ke7 15. Nc4 Qc5 16. Nd6 Qxe3+ 17. Kb1 Qf3 18. Re1+ Kf8 19. Nxe8 Ne4 20.
+Qxc8 Ne7 21. Qxd7 Nd5 22. Nd6 Nd2+ 23. Ka1 g6 24. Qxf7+ Qxf7 25. Nxf7 Nb4 26.
+Bd3 1-0

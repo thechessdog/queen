@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwertel, G."]
+[Black "Kolander, R."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "bba6b4fe"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. O-O-O e6 7. e4 dxe4
+8. fxe4 Bxe4 9. Re1 Bg6 10. Bc4 Be7 11. Nf3 Nb6 12. Bb3 a5 13. a3 a4 14.
+Ba2 Nbd5 15. Bxd5 cxd5 16. Qe2 O-O 17. Qe5 Qa5 18. h4 Bxa3 19. Bd2 Bb4 20.
+h5 Nd7 21. Qg5 f6 0-1
+

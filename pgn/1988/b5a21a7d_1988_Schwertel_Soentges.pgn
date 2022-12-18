@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schwertel, G."]
+[Black "Soentges, KH."]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "b5a21a7d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 c5 6. c3 cxd4 7. cxd4 Nc6
+8. Be2 d6 9. O-O h6 10. Bh4 g5 11. Bg3 Nh5 12. Ne4 d5 13. Nc5 Nxg3 14. hxg3
+b6 15. Nd3 Bf5 16. Rc1 Rc8 17. Qa4 Qd7 1/2-1/2
+

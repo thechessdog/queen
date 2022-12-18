@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Liska"]
+[Black "Diener, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "f0ce3125"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. b3 Bg4 9. Nbd2 c5 10. Qd3 Ne7 11. Bb2 Ng6 12. Rfe1 Qd7 13. e5 Bxe5 14.
+Nxe5 fxe5 15. Qxd7+ Kxd7 16. Bxe5 Rhg8 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Asuncion"]
+[Site "Asuncion"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ramirez, V."]
+[Black "Valiente, Cristobal"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf variation"]
+[HashCode "27bb5ca0"]
+[Epoch "Queen"]
+[BlackID "3700020"]
+[BlackCountry "PAR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. Bd3 Nbd7 10. Nb3 b5 11. Bxf6 Nxf6 12. e5 Bb7 13. Qg3 dxe5 14. fxe5 Nd7
+15. Qxg7 Qxe5+ 16. Qxe5 Nxe5 17. Be4 Bxe4 18. Nxe4 f5 19. Nec5 Kf7 20. O-O-O
+Rac8 21. Nd3 Nc4 22. Rde1 Bf6 23. c3 Rhd8 24. Nb4 Nxb2 25. Kxb2 Bxc3+ 26. Ka3
+Rc4 0-1

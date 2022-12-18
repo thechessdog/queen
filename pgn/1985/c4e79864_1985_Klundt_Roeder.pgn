@@ -1,0 +1,30 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klundt, Klaus"]
+[Black "Roeder, Gerd, Dr."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "c4e79864"]
+[Epoch "Queen"]
+[WhiteID "4600436"]
+[BlackID "4603303"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bg4 9. c4 Nf6 10. cxd5 Qxd5 11. Nc3 Bxf3 12. Nxd5 Bxd1 13. Nxf6+ gxf6 14.
+d5 Ne5 15. Rxd1 Nxd3 16. Rxd3 O-O-O 17. Be3 Rd7 18. Rad1 Rhd8 19. Kf1 f5 20.
+Ke2 h5 21. b3 b6 22. Kf3 Rg8 23. Bf4 Rg6 24. Re3 Bd6 25. Bxd6 Rdxd6 26. Re5 f6
+27. Re8+ Rd8 28. Re6 Rd6 29. Rxd6 cxd6 30. Rd4 Kd7 31. Rf4 Rh6 32. h4 Ke7 33.
+Rxf5 Rh8 34. Ke3 Kf7 35. Rf4 b5 36. Rb4 a6 37. a4 Rb8 38. g3 Kg6 39. Kf4 f5 40.
+f3 Kf6 41. axb5 a5 42. Rd4 Rxb5 43. Rd3 Rb4+ 44. Ke3 f4+ 45. gxf4 Kf5 46. Rc3
+Rb5 47. Rc8 Rxb3+ 48. Kf2 Rd3 49. Rf8+ Kg6 50. Rg8+ Kh7 51. Rg5 Kh6 52. Ke2 Rb3
+53. f5 Rb6 54. Ke3 a4 55. f6 Rb7 56. Ke4 a3 57. Kf5 a2 58. Rg1 Ra7 59. Ra1 Ra3
+60. f4 Ra4 61. Ke6 Re4+ 62. Kxd6 Kg6 63. Rxa2 Rxf4 64. Ke5 Rf5+ 65. Ke6 Rxf6+
+66. Ke7 Rf7+ 67. Ke8 Rf4 68. d6 Re4+ 69. Kf8 Rf4+ 70. Ke7 Re4+ 71. Kd8 Rxh4 72.
+Rd2 Ra4 73. d7 Ra8+ 74. Ke7 h4 75. Rd5 h3 76. d8=Q Rxd8 77. Kxd8 h2 78. Rd1 Kg5
+79. Rh1 1-0

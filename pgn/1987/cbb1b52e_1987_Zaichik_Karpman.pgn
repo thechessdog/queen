@@ -1,0 +1,22 @@
+[Event "Pavlodar"]
+[Site "Pavlodar"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zaichik, Gennadi"]
+[Black "Karpman, Vadim"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "cbb1b52e"]
+[Epoch "Queen"]
+[WhiteID "13600109"]
+[WhiteCountry "USA"]
+[BlackID "14100169"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O Qd6 12. Qd3 b6 13. Rad1 h6 14. Ne4
+Qe7 15. Nxf6+ Qxf6 16. Qe4 Bb7 17. Bd3 Rfd8 18. Qh7+ Kf8 19. Be4 Na5 20. d5 Nc4
+21. Bd4 e5 22. Bc3 g5 23. f4 gxf4 24. Rxf4 Qxf4 25. Rf1 Qxf1+ 26. Kxf1 Ne3+ 27.
+Kg1 Nxd5 28. Qh8+ Ke7 29. Qxe5+ Kf8 30. Bd2 f6 31. Qe6 Kg7 32. Qf5 1-0

@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "Greer, Ken"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "ecbd2b7e"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. c4 Nf6 2. g3 g6 3. Nc3 Bg7 4. d4 c5 5. d5 O-O 6. e4 d6 7. Nf3 a6 8. Bg2 Bd7
+9. O-O b5 10. b3 b4 11. e5 dxe5 12. Na4 Bxa4 13. bxa4 e4 14. Ng5 Nxd5 15. Bxe4
+Bxa1 16. Bxd5 Ra7 17. Nxf7 Rxf7 18. Bxf7+ Kxf7 19. Qxd8 1-0

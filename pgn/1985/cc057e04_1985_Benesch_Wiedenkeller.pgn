@@ -1,0 +1,23 @@
+[Event "Cedok"]
+[Site "Cedok"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Benesch, Heribert"]
+[Black "Wiedenkeller, Michael"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[HashCode "cc057e04"]
+[Epoch "Queen"]
+[WhiteID "1602756"]
+[WhiteCountry "AUT"]
+[BlackID "1700146"]
+[BlackCountry "LUX"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 h6 6. Bxf6 Bxc3+ 7. bxc3 Qxf6
+8. e3 O-O 9. Bd3 dxc4 10. Bxc4 b6 11. O-O Bb7 12. Ne5 Rd8 13. Qe2 Nd7 14. Nxd7
+Rxd7 15. Ba6 Bxa6 16. Qxa6 c6 17. a4 Rc7 18. Rab1 Rb8 19. Rfc1 e5 20. h3 Rd8
+21. Qd3 c5 22. Qe4 cxd4 23. cxd4 Rxc1+ 24. Rxc1 exd4 25. exd4 Qxd4 26. Qxd4
+Rxd4 27. a5 Kf8 28. Rc8+ Ke7 29. a6 Rd7 30. Rc6 Kd8 31. Kf1 Rd1+ 32. Ke2 Ra1
+0-1

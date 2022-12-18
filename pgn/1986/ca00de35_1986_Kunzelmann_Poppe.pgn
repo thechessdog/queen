@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kunzelmann"]
+[Black "Poppe"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "ca00de35"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 g6 8.
+O-O Bg7 9. Nf3 Nbd7 10. Qe1 b5 11. Kh1 Nc5 12. e5 dxe5 13. fxe5 Nxd3 14.
+cxd3 Ng4 15. Bf4 Bb7 16. Qg3 Qd7 17. Rae1 h5 18. e6 fxe6 19. h3 b4 20. Ne4
+Bxe4 21. Rxe4 Qxd3 22. Rfe1 e5 23. hxg4 h4 24. Qh2 h3 25. Qg3 hxg2+ 26.
+Kxg2 Rc8 27. Nxe5 Rc2+ 28. Kg1 Qd5 29. Qd3 Qc5+ 30. Qd4 1-0
+

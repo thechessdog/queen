@@ -1,0 +1,16 @@
+[Event "E Detroit Motor City op"]
+[Site "E Detroit Motor City op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Feldman, J."]
+[Black "Wlodarczyk, P."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Lolli attack"]
+[HashCode "4b5a1659"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4 e4 7. Nxf7 Kxf7
+8. Qh5+ Ke6 9. Nc3 0-1
+

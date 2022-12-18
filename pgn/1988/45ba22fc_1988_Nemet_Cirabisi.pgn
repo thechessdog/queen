@@ -1,0 +1,18 @@
+[Event "Mendrisio"]
+[Site "Mendrisio"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nemet, Ivan"]
+[Black "Cirabisi, Federico"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "45ba22fc"]
+[Epoch "Queen"]
+[BlackID "802166"]
+[BlackCountry "ITA"]
+[WhiteCountry "CHE"]
+
+1. d4 d5 2. Nf3 e6 3. c4 f5 4. Nc3 Nf6 5. h3 c6 6. g4 Be7 7. Bf4 O-O 8. e3 dxc4
+9. Bxc4 b5 10. Bb3 Nd5 11. Be5 Nd7 12. gxf5 Bh4 13. e4 Nxe5 14. dxe5 Bxf2+ 15.
+Kxf2 Qb6+ 16. Qd4 c5 17. Nxd5 exd5 18. Qxd5+ Kh8 19. Qd6 1-0

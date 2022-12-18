@@ -1,0 +1,16 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Sicherl, Peter"]
+[Black "Wahls, Matthias"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "65533c00"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Be7 7. c3 b5 8. Bc2
+Bg4 9. h3 Bh5 10. d3 O-O 11. Nbd2 Nd7 12. g4 Bg6 13. Nf1 h5 14. g5 Kh8 15. Ng3
+Qe8 16. Nf5 Bd8 17. N3h4 f6 18. Nxg6+ Qxg6 19. Nh4 Qe8 20. g6 1-0

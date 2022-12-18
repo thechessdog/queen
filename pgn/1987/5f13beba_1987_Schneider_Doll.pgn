@@ -1,0 +1,16 @@
+[Event "Baden-Baden"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schneider, Bernd"]
+[Black "Doll"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "5f13beba"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O e5 7. d4 Nc6 8. d5
+Ne7 9. c5 Ne8 10. cxd6 Nxd6 11. e4 c6 12. Qb3 Bg4 13. Rd1 cxd5 14. Nxd5 Nxd5
+15. Qxd5 Nxe4 1/2-1/2

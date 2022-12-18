@@ -1,0 +1,23 @@
+[Event "Quebec Invitational"]
+[Site "Quebec Invitational"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kleinplatz, Sam"]
+[Black "Bolduc, Steve"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "28ac9931"]
+[Epoch "Queen"]
+[WhiteID "616680"]
+[BlackID "2603489"]
+[WhiteCountry "FRA"]
+[BlackCountry "CAN"]
+
+1. d4 d5 2. Nc3 c6 3. Bg5 Qc7 4. e4 dxe4 5. Nxe4 Bf5 6. Bd3 h6 7. Bd2 e6 8. Qe2
+Nd7 9. Nf3 O-O-O 10. O-O-O Ngf6 11. Kb1 Nxe4 12. Bxe4 Bxe4 13. Qxe4 Nf6 14. Qe2
+c5 15. g3 Bd6 16. c4 Rhe8 17. Bc3 a6 18. Rhe1 cxd4 19. Nxd4 Rd7 20. Rc1 Kb8 21.
+Nb3 Bc5 22. Be5 Bd6 23. Bxf6 gxf6 24. c5 Bf8 25. Qf3 Red8 26. Qxf6 Rd5 27. Re4
+Rf5 28. Qc3 Rxf2 29. Rb4 Ka8 30. Rb6 Be7 31. Qe3 Rxh2 32. c6 Bf6 33. Na5 Rdd2
+34. cxb7+ Qxb7 35. Qxd2 Qe4+ 36. Ka1 Rxd2 0-1

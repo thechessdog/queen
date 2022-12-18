@@ -1,0 +1,19 @@
+[Event "Capablanca mem-A"]
+[Site "Capablanca mem-A"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Garcia Martinez, Silvino"]
+[Black "Vilela, Jose Luis"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "836e78ba"]
+[Epoch "Queen"]
+[WhiteID "3500179"]
+[WhiteCountry "CUB"]
+[BlackCountry "EST"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Bd2 Qd7 6. a3 Bf8 7. b4 c6 8. Nf3 Ba6
+9. Bxa6 Nxa6 10. Qe2 Nc7 11. O-O Ne7 12. a4 Nf5 13. Nd1 h5 14. Ne3 Be7 15. Rab1
+O-O 1/2-1/2

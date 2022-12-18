@@ -1,0 +1,18 @@
+[Event "Wiesbaden"]
+[Site "Wiesbaden"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schlesinger, Omri"]
+[Black "Pulina, D."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "edbcc3c6"]
+[Epoch "Queen"]
+[WhiteID "4606078"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be6 7. Bxe6 fxe6 8.
+O-O Be7 9. Nxd4 Bf6 10. e5 h5 11. exf6 Nxf6 12. Nxe6 Qb6+ 13. Kh1 Rh7 14. Ng5
+Nbd7 15. Qe1+ 1-0

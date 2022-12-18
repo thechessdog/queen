@@ -1,0 +1,26 @@
+[Event "Nordic-ch"]
+[Site "Torshavn"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Maki, Veijo"]
+[Result "0-1"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[HashCode "02492a01"]
+[Epoch "Queen"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+[BlackID "500046"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. Rb1 Nd7 11. a3 f5 12. b4 b6 13. Nb3 Nf6 14. Bd3 axb4 15. axb4
+fxe4 16. Nxe4 Nxe4 17. Bxe4 Nf5 18. g3 Bd7 19. Qd3 Qf6 20. Bb2 Ra4 21. Qd2 Ra2
+22. Nc1 Ra4 23. Nd3 g5 24. f3 Ra2 25. Ra1 Rfa8 26. Bxe5 Rxd2 27. Rxa8+ Qf8 28.
+Rxf8+ Kxf8 29. Bxg7+ Kxg7 30. Nf2 Rb2 31. Rb1 Rxb1+ 32. Bxb1 Ne3 33. Ba2 Nc2
+34. b5 Ne1 35. f4 gxf4 36. gxf4 Bf5 37. Kf1 Nf3 38. Kg2 Nd4 39. Nd1 Ne2 40. Ne3
+Be4+ 41. Kf2 Nc1 42. c5 Nxa2 43. cxb6 cxb6 44. Nc4 Nc3 45. Nxd6 Bxd5 46. Ke3
+Kf6 47. Nc8 Bb7 48. Nxb6 Nd5+ 49. Nxd5+ Bxd5 50. Kd4 Bh1 51. Kc5 Kf5 52. Kd6 h5
+53. Ke7 h4 54. Kf7 Bd5+ 55. Kg7 h3 0-1

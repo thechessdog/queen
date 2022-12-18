@@ -1,0 +1,15 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Deeves"]
+[Black "Hamilton"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "e98f651e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. e3 Qb6 6. Na4 Qa5+ 7. c3 e6 8.
+b4 Qc7 9. Bf4 Qc8 10. Bd3 Be7 11. Ne2 1-0
+

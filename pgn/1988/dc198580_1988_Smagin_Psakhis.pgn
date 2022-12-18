@@ -1,0 +1,19 @@
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Smagin, Sergey"]
+[Black "Psakhis, Lev"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "dc198580"]
+[Epoch "Queen"]
+[WhiteID "4100425"]
+[WhiteCountry "RUS"]
+[BlackID "2800012"]
+[BlackCountry "ISR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. Nc3 Ne7 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Epinal ch-FRA"]
+[Site "Epinal ch-FRA"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nemirovski, Serge"]
+[Black "Giffard, Nicolas"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "130d04d1"]
+[Epoch "Queen"]
+[WhiteID "600318"]
+[WhiteCountry "FRA"]
+[BlackID "600571"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. f3 Nbd7 5. Be3 g6 6. Nh3 Bg7 7. Nf2 O-O 8. Be2
+b6 9. O-O Bb7 10. a4 a6 11. Na3 Qc7 12. b4 Rfc8 13. Qd2 cxd4 14. cxd4 Qc3 15.
+Qxc3 Rxc3 16. Bd2 Rcc8 17. d5 Ne8 18. Rab1 Bd4 19. Nc4 e6 20. dxe6 fxe6 21. Be3
+Bxe3 22. Nxe3 Rc3 23. Nd3 d5 24. exd5 exd5 25. Rfc1 Rac8 26. Kf2 d4 27. Nd1 Rc2
+28. Rxc2 Rxc2 29. Rc1 Rc6 1/2-1/2

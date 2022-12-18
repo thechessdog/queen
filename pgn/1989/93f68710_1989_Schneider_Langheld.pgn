@@ -1,0 +1,15 @@
+[Event "corr SO"]
+[Site "corr SO"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schneider, W."]
+[Black "Langheld, W."]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "93f68710"]
+[Epoch "Queen"]
+
+1. c4 d5 2. cxd5 Nf6 3. e4 e6 4. Bb5+ c6 5. dxc6 bxc6 6. Ba4 Nxe4 7. Qc2
+Nc5 8. Ne2 Nd3+ 9. Kf1 Bc5 10. f3 Qh4 11. Ng3 Ba6 0-1
+

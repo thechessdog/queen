@@ -1,0 +1,20 @@
+[Event "corr Tch5-Baltic"]
+[Site "corr Tch5-Baltic"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rosell"]
+[Black "Grobe"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "a037f8b6"]
+[Epoch "Queen"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 e5 4. Nxe5 Nxe5 5. dxe5 d4 6. e3 c5 7. exd4 cxd4
+8. Bd3 Qa5+ 9. Nd2 Qxe5+ 10. Qe2 Qxe2+ 11. Kxe2 Ne7 12. a3 a5 13. b3 Nc6
+14. Bb2 Be6 15. Nf3 Rd8 16. Rhe1 Be7 17. Kd2 O-O 18. h4 Rfe8 19. Ng5 h6 20.
+Nxe6 fxe6 21. Bg6 Rf8 22. f3 e5 23. h5 Rd7 24. Kd3 Rf6 25. Be4 Bd6 26. Bc1
+Nd8 27. Bd2 Ne6 28. Bd5 Bc7 29. f4 Rxd5 30. cxd5 Nxf4+ 31. Bxf4 Rxf4 32. b4
+Rg4 33. Rac1 Bd6 34. bxa5 Rxg2 35. Rb1 Rg3+ 36. Ke4 Rxa3 37. Rxb7 Rxa5 38.
+Rg1 g5 39. hxg6 1-0
+

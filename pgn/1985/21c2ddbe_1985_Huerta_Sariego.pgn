@@ -1,0 +1,20 @@
+[Event "Bayamo"]
+[Site "Bayamo"]
+[Date "1985.01.01"]
+[Round "5"]
+[White "Huerta, Ramon"]
+[Black "Sariego, Wilfredo"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[HashCode "21c2ddbe"]
+[Epoch "Queen"]
+[BlackCountry "CUB"]
+[BlackID "3500080"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3 Bg4 5. d5 Bxf3 6. exf3 Na5 7. Qa4+ c6 8.
+b4 cxb3 9. axb3 b6 10. dxc6 a6 11. Bxa6 Qc7 12. Bf4 e5 13. Nd5 Qd6 14. Bb7 Qxd5
+15. c7+ b5 16. Bxd5 bxa4 17. Bxa8 Bb4+ 18. Ke2 Ne7 19. Rxa4 exf4 20. Rxb4 Kd7
+21. Rb8 Rc8 22. Rxc8 Kxc8 23. b4 Nac6 24. Bxc6 Nxc6 25. Rb1 Kd7 26. Kd3 f5 27.
+Kc4 g5 28. Kd5 h5 29. b5 1-0

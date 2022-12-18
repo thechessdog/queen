@@ -1,0 +1,17 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Woschkat, K."]
+[Black "Brissman, A."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "4b7b075c"]
+[Epoch "Queen"]
+
+1. b4 a5 2. b5 Nf6 3. Bb2 d6 4. e3 e5 5. a4 g6 6. Be2 Bg7 7. Nf3 O-O 8. O-O
+Qe7 9. d4 e4 10. Nfd2 c6 11. c4 c5 12. d5 b6 13. f4 exf3 14. Rxf3 Bg4 15.
+Rg3 Bxe2 16. Qxe2 Nh5 17. Qxh5 Bxb2 18. Ra2 Be5 19. Rg4 Nd7 20. Qh6 f5 21.
+Rh4 Bf6 22. Rh3 Bg5 0-1
+

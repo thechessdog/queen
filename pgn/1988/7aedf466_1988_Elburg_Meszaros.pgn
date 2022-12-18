@@ -1,0 +1,15 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Elburg, J."]
+[Black "Meszaros, V."]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "7aedf466"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3 Qe6 6. Ne3 c6 7. d3 exd3
+8. Bxd3 Nf6 9. O-O Bd6 10. Nc4 O-O 11. Nxd6 Qxd6 12. Bxh7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ekstrom, L."]
+[Black "Drygalski, Z."]
+[Result "1/2-1/2"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "5363174e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Qc7 10. Bd3 Be7 11. O-O-O Nc5 12. Nxc5 Qxc5 13. Rhf1 e5 14.
+Bxf6 Bxf6 15. Nd5 Bd8 1/2-1/2
+

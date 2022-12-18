@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mandl, Rudolf"]
+[Black "Raupp, Thomas"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "f4f279d0"]
+[Epoch "Queen"]
+[WhiteID "4604830"]
+[WhiteCountry "GER"]
+[BlackID "4601610"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. f4 e6 3. Nf3 Nc6 4. d3 d5 5. Nbd2 Nf6 6. Be2 Be7 7. c3 O-O 8. O-O
+b5 9. e5 Nd7 10. Rf2 b4 11. c4 Nb6 12. b3 a5 13. Bb2 a4 14. Nf1 f6 15. Qe1 a3
+16. Bc1 fxe5 17. fxe5 Bb7 18. g3 dxc4 19. dxc4 Nd4 20. Qd1 Bxf3 0-1

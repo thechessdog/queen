@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hypponen"]
+[Black "Vahtera"]
+[Result "0-1"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "794b0074"]
+[Epoch "Queen"]
+
+1. d4 f5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O d5 7. Bf4 c6 8. c5
+Nbd7 9. b4 Ne4 10. Qb3 g5 11. Be5 g4 12. Nfd2 Nxe5 13. Nxe4 fxe4 14. dxe5
+Rf5 15. f4 exf3 16. exf3 gxf3 17. Rxf3 Qf8 18. Nd2 a5 19. Qc3 axb4 20. Qc1
+Bxc5+ 21. Kh1 Bd4 22. Rb1 Bxe5 23. Rxf5 Qxf5 24. Rxb4 Rxa2 25. Nb3 Rb2 26.
+Rf4 Rb1 0-1
+

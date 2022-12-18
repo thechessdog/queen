@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dietz"]
+[Black "Micheel"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "33fd67c7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Nc3 a6 13. h3 O-O 14. Bg5
+Bd7 15. Re1 Rae8 16. Bxf6 Rxf6 17. Ng5 g6 18. Bc2 Ref8 19. Nf3 Qd8 20. Ne2
+Rxf3 21. gxf3 Qg5+ 22. Kf1 e5 23. Ng1 exd4 0-1
+

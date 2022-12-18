@@ -1,0 +1,22 @@
+[Event "Vantaa SM op"]
+[Site "Vantaa SM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tommiska, Matti"]
+[Black "Laine, Heikki"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "47deb46f"]
+[Epoch "Queen"]
+[WhiteID "502669"]
+[BlackID "500631"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 g6 5. d3 Bg7 6. c3 Nge7 7. Be3 d6 8. Nbd2
+O-O 9. g4 b5 10. d4 b4 11. dxc5 bxc3 12. bxc3 dxc5 13. Bxc5 Bxc3 14. Rc1 Qa5
+15. Qc4 Bb4 16. Bxb4 Nxb4 17. Qc7 Qa3 18. Qc3 Qxc3 19. Rxc3 Ba6 20. Bxa6 Nxa6
+21. Ke2 f5 22. Ng5 fxe4 23. Nxe6 Rf6 24. Nc7 Nxc7 25. Rxc7 Nd5 26. Rd7 Nxf4+
+27. Ke3 Ng2+ 28. Kxe4 Re8+ 29. Kd3 1/2-1/2

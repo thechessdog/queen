@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Saez Vinas"]
+[Black "Martinez, Gustavo"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "441eacb5"]
+[Epoch "Queen"]
+[BlackID "3300072"]
+[BlackCountry "BOL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. Be2 Be7 11. O-O h6 12. Bxf6 Bxf6 13. Nb3 O-O 14. Bf3 Nc6
+15. Kh1 Qb4 16. Ne2 Qxd2 17. Nxd2 Nd4 18. a4 Nxf3 19. Nxf3 Bd7 20. Rxb7 Bxa4
+21. e5 dxe5 22. fxe5 Bc6 23. Rc7 Bxf3 24. Rxf3 Bxe5 25. Rc5 Bf6 26. g3 a5 27.
+Rc4 Rfc8 0-1

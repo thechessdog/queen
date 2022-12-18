@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ketzscher"]
+[Black "Mock"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "cc5f13bd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Nf3 O-O 6. Bd3 d5 7. O-O a6 8.
+h3 h6 9. a3 dxc4 10. Bxc4 Bd6 11. e4 e5 12. d5 Ne7 13. Re1 Bd7 14. Be3 c6
+15. dxc6 Bxc6 16. Nd2 b5 17. Bf1 Qb8 18. g3 1/2-1/2
+

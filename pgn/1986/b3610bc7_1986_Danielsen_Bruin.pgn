@@ -1,0 +1,17 @@
+[Event "Arandjelovac"]
+[Site "Arandjelovac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Danielsen"]
+[Black "De Bruijn, Aad"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "b3610bc7"]
+[Epoch "Queen"]
+[BlackID "1008200"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. e3 Bb7 5. Bd3 Be7 6. Nbd2 O-O 7. c3 c5 8. h4
+d5 9. g4 Ne4 10. Ng5 cxd4 11. exd4 Nxg5 12. hxg5 g6 13. Nf3 Nd7 14. Qe2 Re8 15.
+O-O-O Rc8 16. Bxg6 hxg6 17. Be5 f6 18. Bc7 1-0

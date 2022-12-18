@@ -1,0 +1,18 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fusz"]
+[Black "Zeidler"]
+[Result "0-1"]
+[ECO "E50"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3, without ...d5"]
+[HashCode "50ed0f16"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 c5 6. Bd3 b6 7. O-O Bb7 8.
+a3 Bxc3 9. bxc3 Be4 10. Ne1 d5 11. cxd5 exd5 12. f3 Bxd3 13. Qxd3 Re8 14.
+Ra2 Nc6 15. Re2 Re6 16. Nc2 Qe7 17. Rfe1 Re8 18. g4 h6 19. Rg2 Nh7 20. Rf1
+Ng5 21. Bd2 c4 22. Qe2 Nh3+ 23. Kh1 Nf4 0-1
+

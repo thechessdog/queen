@@ -1,0 +1,17 @@
+[Event "corr CCLA"]
+[Site "corr CCLA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Movre, D."]
+[Black "Litinska"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "660e29ca"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O c5 8.
+Na4 cxd4 9. exd4 Re8 10. c5 bxc5 11. a3 c4 12. Bxh7+ Nxh7 13. axb4 d6 14.
+Nc3 Na6 15. Ra4 Nc7 16. b5 Nd5 17. Re1 1-0
+

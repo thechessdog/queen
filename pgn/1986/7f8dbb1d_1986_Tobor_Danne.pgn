@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Tobor, D."]
+[Black "Danne, F."]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "7f8dbb1d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Bb5 Bd7 7. O-O Nf6
+8. Be3 Be7 9. f4 O-O 10. Nxc6 Bxc6 11. Bd3 a6 12. a4 d5 13. exd5 Nxd5 14.
+Nxd5 Qxd5 15. Qe2 Bc5 16. Bxc5 Qxc5+ 17. Kh1 Rfe8 18. Qg4 Rad8 19. f5 exf5
+20. Rxf5 Rd5 21. Rxd5 Qxd5 22. Rf1 h5 23. Qh3 g6 24. b3 Re3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Biel-JMT"]
+[Site "Biel"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Csom, Istvan"]
+[Black "Zueger, Beat"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "689f8da1"]
+[Epoch "Queen"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackID "1300067"]
+[BlackCountry "SUI"]
+
+1. Nf3 d6 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 O-O 6. Nc3 Nc6 7. O-O e5 8. dxe5
+dxe5 9. Bg5 Be6 10. Nd2 h6 11. Bxf6 Bxf6 12. Nd5 Bg7 13. Ne4 Bf5 14. Nc5 Rb8
+15. Qa4 Qd6 16. b4 Nd4 17. Nc3 a5 18. a3 c6 1/2-1/2

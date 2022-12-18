@@ -1,0 +1,20 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "c111ac33"]
+[Epoch "Queen"]
+[WhiteID "1100068"]
+[WhiteCountry "POL"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O c5 8. Nc3
+cxd4 9. Nxd4 Nxc3 10. bxc3 Qa5 11. Be3 Nc6 12. Nxc6 bxc6 13. Bxc6 Bh3 14. Bxa8
+Rxa8 15. Qb3 Bxc3 16. Rac1 Bxf1 17. Kxf1 Bd2 18. Rc5 Qb4 19. Qd5 Bxe3 20. Qxa8+
+Kg7 21. Rc8 Qb1+ 22. Kg2 Qxa2 23. Rg8+ Kh6 24. Qe4 Bg5 25. h4 Bf6 26. Qf4+ 1-0

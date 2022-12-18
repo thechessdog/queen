@@ -1,0 +1,16 @@
+[Event "Berkeley"]
+[Site "Berkeley"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Gomez Esteban, Juan Mario"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "01fab056"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Ng5 h6 6. g4 hxg5 7. gxf5 exf5 8. Bd3
+g6 9. Bd2 Qb6 10. Bc3 c5 11. a4 cxd4 12. Bxd4 Bc5 13. a5 Qc6 14. Na3 a6 15. Bc3
+d4 16. Bd2 Qxh1+ 0-1

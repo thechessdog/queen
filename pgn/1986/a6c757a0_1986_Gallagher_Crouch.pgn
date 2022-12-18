@@ -1,0 +1,20 @@
+[Event "Nottingham"]
+[Site "Nottingham"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gallagher, Joseph G."]
+[Black "Crouch, Colin"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "a6c757a0"]
+[Epoch "Queen"]
+[WhiteID "1303422"]
+[WhiteCountry "SUI"]
+
+1. d4 d5 2. Bg5 f6 3. Bh4 Nh6 4. e3 Nf5 5. Bg3 h5 6. Be2 h4 7. Bh5+ Kd7 8. Bg4
+e6 9. Bf4 g5 10. e4 dxe4 11. Bc1 Ke7 12. c3 Qd5 13. Nh3 Nd6 14. O-O Bd7 15. b3
+Nc6 16. Be3 b5 17. a4 Rb8 18. axb5 Qxb5 19. Nd2 Nf5 20. Nxe4 Qxb3 21. Qf3 Kf7
+22. Bh5+ Kg7 23. Nhxg5 fxg5 24. Qg4 Be7 25. Bxg5 Kf8 26. Bxe7+ Ncxe7 27. Qg5
+Rh6 28. g4 hxg3 29. fxg3 Rxh5 30. Qxh5 Bc6 31. Ng5 Kg7 32. Qh7+ Kf6 33. h4 Be8
+34. Ne4# 1-0

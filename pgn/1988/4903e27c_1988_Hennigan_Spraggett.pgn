@@ -1,0 +1,22 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1988.02.01"]
+[Round "1"]
+[White "Hennigan, Michael T"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "4903e27c"]
+[Epoch "Queen"]
+[WhiteID "400858"]
+[WhiteCountry "ENG"]
+[BlackID "2600013"]
+[BlackCountry "CAN"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8. g3
+e6 9. dxe6 Nc6 10. exf7+ Kh8 11. Nge2 Qe7 12. Qd1 Nxd4 13. Qxd4 Ng4 14. Qe4
+Qxf7 15. f4 Bd7 16. Qb4 a5 17. Qb6 Bc6 18. Rg1 Rfe8 19. Bd2 Nxh2 20. O-O-O Nf3
+21. Bg2 Qc4 22. Qb3 Qc5 23. Rh1 Nxd2 24. Rxh7+ Kxh7 25. Rh1+ Qh5 26. Rxh5+ gxh5
+27. Qc2+ 1-0

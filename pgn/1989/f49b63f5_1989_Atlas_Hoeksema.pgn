@@ -1,0 +1,22 @@
+[Event "Dieren op"]
+[Site "Dieren"]
+[Date "1989.01.01"]
+[Round "6"]
+[White "Atlas, Robert"]
+[Black "Hoeksema, Hendrik Pieter"]
+[Result "0-1"]
+[ECO "A61"]
+[Opening "Benoni"]
+[Variation "Nimzovich (knight's tour) variation"]
+[HashCode "f49b63f5"]
+[Epoch "Queen"]
+[BlackID "1000454"]
+[BlackCountry "NED"]
+[WhiteID "2004429"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bg5 Na6 10. e3 Nc7 11. a4 b6 12. Be2 Ba6 13. O-O h6 14. Bh4 Qd7 15. Rb1
+Rfe8 16. b3 Nh7 17. Rc1 Ng5 18. Bxg5 hxg5 19. e4 Bxc3 20. Rxc3 Rxe4 21. Rg3 Rd4
+22. Qc1 Nxd5 23. Qxg5 Nf4 24. Bf3 Re8 25. h4 Qe7 26. Qh6 Qf8 27. Qg5 d5 28. Ne3
+Bxf1 29. Kxf1 Ne6 30. Qf6 Rf4 31. Qe5 Rxh4 32. Nxd5 Rh1+ 0-1

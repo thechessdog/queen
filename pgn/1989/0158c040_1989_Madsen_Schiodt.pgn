@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Madsen"]
+[Black "Schiodt, Niels Christian"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "0158c040"]
+[Epoch "Queen"]
+[BlackID "1407430"]
+
+1. d4 d5 2. Nc3 Bf5 3. Bg5 h6 4. Bh4 c6 5. e4 dxe4 6. f3 e3 7. g4 Bh7 8. Bc4 g5
+9. Bg3 e6 10. Nge2 Nf6 11. Bd3 Bxd3 12. Qxd3 Qb6 13. h4 gxh4 14. Bxh4 Nbd7 15.
+O-O-O O-O-O 16. Qxe3 Re8 17. Bxf6 Nxf6 18. g5 Nd5 19. Nxd5 cxd5 20. f4 Bg7 21.
+gxh6 Bxh6 22. Qe5 Qd8 23. Kb1 f6 24. Qe3 e5 25. dxe5 fxe5 26. Qxa7 Bxf4 27.
+Nxf4 exf4 28. Rhf1 Rhf8 29. Rf3 Rf6 30. Rb3 Qc7 31. Qa8+ Kd7 32. Rxd5+ Ke7 33.
+Qxb7 Qxb7 34. Rxb7+ Ke6 35. Rd1 f3 36. Rb6+ Kf7 37. Rxf6+ Kxf6 38. Kc1 Kg5 39.
+Kd2 Kf4 40. Rh1 Kg3 41. Rh7 Rd8+ 42. Ke3 Re8+ 43. Kd2 1/2-1/2

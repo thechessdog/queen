@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Osterhus"]
+[Black "Helmersen"]
+[Result "0-1"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "d4800d63"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Nc3 a6 13. Be3 Qc7 14. a3
+O-O 15. Rc1 h6 16. h3 g5 17. Bg6 Qg7 18. Bd3 Bd7 19. Na4 Rad8 20. b4 g4 21.
+hxg4 Nxg4 22. Nc5 Bc8 23. b5 axb5 24. Bxb5 Bb8 25. Nxb7 Nxe3 26. fxe3 Bxb7
+27. Bxc6 Ba6 28. Rf2 Qg3 29. a4 Rxf3 30. Rxf3 Qh2+ 31. Kf2 Qh4+ 32. g3 Qh2+
+33. Ke1 Bxg3+ 34. Rxg3+ Qxg3+ 35. Kd2 Qf2+ 36. Kc3 Rc8 37. Kb4 Qb2+ 38. Kc5
+Bb7 0-1
+

@@ -1,0 +1,20 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Weber, Marc, Dr."]
+[Black "Koepf, Ulrich"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "d6c0ee80"]
+[Epoch "Queen"]
+[WhiteID "4602005"]
+[WhiteCountry "GER"]
+[BlackID "4604784"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bf4 Nh5 13. Bxd6 Qxd6 14. Ng3 Nf4
+15. Re1 Bd7 1/2-1/2

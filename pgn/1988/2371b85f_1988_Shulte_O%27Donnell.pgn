@@ -1,0 +1,18 @@
+[Event "Oakham House"]
+[Site "Oakham House"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schulte, Oliver"]
+[Black "O'Donnell, Tom"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "2371b85f"]
+[Epoch "Queen"]
+[BlackID "2600064"]
+[BlackCountry "CAN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Qb3 dxc4 5. Qxc4 b5 6. Qd3 Ba6 7. Qd1 b4 8. Ne4
+Nf6 9. Bg5 Nbd7 10. Nf3 Qa5 11. Nxf6+ Nxf6 12. Bxf6 gxf6 13. e3 b3+ 14. Nd2
+bxa2 15. Qc2 Rc8 16. b3 Bxf1 17. Rxa2 Bd3 0-1

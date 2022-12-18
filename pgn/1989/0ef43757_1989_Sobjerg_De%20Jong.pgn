@@ -1,0 +1,21 @@
+[Event "Hamburg-chIJ"]
+[Site "Hamburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sobjerg, Erik"]
+[Black "De Jong, Migchiel"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "0ef43757"]
+[Epoch "Queen"]
+[BlackID "1002848"]
+[BlackCountry "NED"]
+[WhiteID "1401866"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Nh3 Ng6 8. f4
+Ba6 9. Bxa6 Nxa6 10. O-O Ne7 11. g4 h5 12. f5 hxg4 13. fxe6 gxh3 14. Rxf7 Nc6
+15. e7 Nxe7 16. Qf3 Qd7 17. Bg5 O-O-O 18. Bxe7 Rde8 19. Bh4 Qe6 20. Bg3 Nb8 21.
+c4 c6 22. cxd5 cxd5 23. c4 Rd8 24. Rc1 Nc6 25. cxd5 Rxd5 26. Qf5 1-0

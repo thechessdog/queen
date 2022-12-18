@@ -1,0 +1,23 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Rodriguez, Jorge Luis"]
+[Black "Bielicki, Carlos"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "40634f65"]
+[Epoch "Queen"]
+[WhiteID "100552"]
+[WhiteCountry "ARG"]
+[BlackID "100684"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bd6 6. Bg5 h6 7. Bh4 Be7 8. e3 O-O
+9. c5 b6 10. b4 c6 11. Bd3 bxc5 12. bxc5 e5 13. Nge2 Nh5 14. Bf2 exd4 15. exd4
+f5 16. O-O g5 17. Ng3 Ng7 18. f4 g4 19. Re1 h5 20. Qe2 Rf7 21. Rab1 Bf8 22. Qa2
+Qc7 23. Re5 Nd7 24. Nxf5 Nxe5 25. Nh6+ Kh8 26. fxe5 Rd7 27. Bg3 Ne6 28. Qf2 Rg7
+29. Rf1 Bb7 30. Qf5 Ng5 31. e6 Qe7 32. Bd6 Qxe6 33. Qxf8+ Rxf8 34. Rxf8+ Rg8
+35. Rxg8+ Qxg8 36. Nxg8 Kxg8 37. Bf4 Ne6 38. Be3 Kf8 39. Kf2 Ba6 40. Bxa6 1-0

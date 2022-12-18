@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Peach"]
+[Black "Gorman"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "798b9b39"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. d4 cxd4 6. Nxd4 Ngf6 7. Nc3
+e5 8. Nf5 Qb6 9. O-O Qc6 10. Qd3 Nc5 11. Qg3 g6 12. Nh6 Ncxe4 13. Qf3 d5
+14. Rd1 Bc5 15. Nxd5 Nxf2 16. Nxf6+ Qxf6 17. Qxf6 Ng4+ 18. Kh1 Nxf6 19. Bg5
+Ne4 20. Rd5 Nxg5 1/2-1/2
+

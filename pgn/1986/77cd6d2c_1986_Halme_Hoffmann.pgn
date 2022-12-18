@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Halme, O."]
+[Black "Hoffmann, G."]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "77cd6d2c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8.
+O-O Nc6 9. d5 Ne7 10. e4 Ng6 11. Qc2 Nh5 12. Be3 a6 13. a3 Bd6 14. Ng3 Nhf4
+15. Rfe1 h5 16. Bf1 Qg5 17. Kh1 h4 18. Nf5 Ne7 19. Nxd6 cxd6 20. g3 h3 21.
+f3 Qh5 22. gxf4 exf4 23. Bd4 Qxf3+ 24. Kg1 Qg4+ 25. Kf2 f5 26. Qd3 fxe4 27.
+Qxe4 Nf5 28. Bb6 Ne3 29. Re2 Qh4+ 30. Kg1 Qg5+ 31. Kh1 Bf5 32. Qa4 Bg4 33.
+Rf2 Nxf1 34. Qc2 Ne3 0-1
+

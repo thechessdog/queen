@@ -1,0 +1,18 @@
+[Event "corr EU/M"]
+[Site "corr EU/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Bruckel"]
+[Black "Karlsson, Lars"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "2966d266"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O c6 7. d4 Qa5 8. Qc2
+Na6 9. Rd1 Qh5 10. a3 Bf5 11. e4 Nxe4 12. Nxe4 d5 13. Nfg5 dxe4 14. Nxe4 Rad8
+15. Be3 Bh3 16. f3 Bxg2 17. Qxg2 Rd7 18. Bg5 1-0

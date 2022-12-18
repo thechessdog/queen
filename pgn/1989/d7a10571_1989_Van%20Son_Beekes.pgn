@@ -1,0 +1,16 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Son, J."]
+[Black "Beekes"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[HashCode "d7a10571"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Nxc3 7. Qxc3
+Bd6 8. d3 a5 9. g3 O-O 10. Bg2 Bb4 11. axb4 axb4 12. Qxc6 Rxa1 13. Qc2 1-0
+

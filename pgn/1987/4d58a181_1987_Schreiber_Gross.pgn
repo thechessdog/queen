@@ -1,0 +1,20 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schreiber, H."]
+[Black "Gross, H."]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "4d58a181"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Qc2 c5 7. dxc5 dxc4 8.
+Bxc4 Qa5 9. Bd3 h6 10. Bh4 Qxc5 11. Nf3 Nc6 12. a3 Rd8 13. O-O Bd7 14. b4
+Qh5 15. Bg3 Rac8 16. Qb3 e5 17. Be2 Qf5 18. Rac1 Be6 19. Qb2 e4 20. Nd2 a6
+21. Na4 Nd7 22. Qb1 Nf6 23. Rfd1 Ne5 24. Rxc8 Rxc8 25. Nb3 Bxb3 26. Qxb3 b5
+27. Nb6 Rc6 28. Nd5 Bf8 29. a4 bxa4 30. Qxa4 Nxd5 31. Bxe5 Nxb4 32. Rd8
+Rc1+ 33. Bf1 Nd3 34. Bg3 Qc5 35. h4 Rxf1+ 0-1
+

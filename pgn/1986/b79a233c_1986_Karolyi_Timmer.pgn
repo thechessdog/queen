@@ -1,0 +1,24 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Karolyi, Tibor"]
+[Black "Timmer, Robert"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "b79a233c"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[BlackID "1001051"]
+[WhiteCountry "HUN"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 d6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 Ne5 12. Ra3 g5 13. Qc2 a6 14. a5 g4 15. b3
+Qe7 16. Na4 Nh5 17. Nb6 Rb8 18. g3 Nf6 19. Ra4 h5 20. Bb2 Nh7 21. b4 Bd7 22.
+Nxd7 Nxd7 23. Bxg7 Kxg7 24. b5 b6 25. axb6 axb5 26. Bxb5 Rxb6 27. Bxd7 Qxd7 28.
+Nc4 Rb4 29. Ra6 Qb5 30. Nxd6 Qxa6 31. Nxe8+ Kg8 32. e5 Ng5 33. Nf6+ Kg7 34. Qf5
+Nf3+ 35. Kg2 Qxf1+ 36. Kxf1 Rb1+ 37. Qxb1 Nd2+ 38. Ke2 Nxb1 39. Kd3 Na3 40.
+Nxh5+ 1-0

@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Helbig"]
+[Black "Rollwitz"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "389d278a"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. f3 g6 4. Bd3 c6 5. Ne2 Bg7 6. O-O e5 7. Be3 O-O 8. c3
+b6 9. dxe5 dxe5 10. Qc2 Be6 11. b3 Nbd7 12. Nd2 Qe7 13. Bc4 Rad8 14. a4 Nc5
+15. b4 Bxc4 16. Nxc4 Nb7 17. a5 b5 18. a6 bxc4 19. axb7 Qxb7 20. Rxa7 Qb8
+21. Rfa1 Rd7 22. Rxd7 Nxd7 23. Ra7 Nb6 24. Ra6 Nc8 25. Qa4 Qb5 26. Qxb5
+cxb5 27. Ra5 Nd6 28. Bc5 Rd8 29. Bxd6 Rxd6 30. Rxb5 Bh6 31. Rxe5 Be3+ 0-1
+

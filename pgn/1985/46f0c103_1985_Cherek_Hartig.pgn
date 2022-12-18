@@ -1,0 +1,18 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cherek"]
+[Black "Hartig"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "46f0c103"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 O-O
+8. Be2 c5 9. Rb1 Nc6 10. d5 Bxc3+ 11. Bd2 Bxd2+ 12. Qxd2 Nb8 13. h4 e5 14.
+h5 Qf6 15. hxg6 hxg6 16. Ng5 Nd7 17. Nh7 Qh8 18. Qg5 f6 19. Qxg6+ Qg7 20.
+Nxf8 Kxf8 21. Qxg7+ Kxg7 22. Rb3 1-0
+

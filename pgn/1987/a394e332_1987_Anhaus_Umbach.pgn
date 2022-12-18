@@ -1,0 +1,19 @@
+[Event "Saarbrucken"]
+[Site "Saarbrucken"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Anhaus"]
+[Black "Umbach"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "a394e332"]
+[Epoch "Queen"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. a3 Qd7 10. Be2 O-O-O 11. Nf3 Bg4 12. O-O Bxf3 13. Rxf3 Nxd4 14.
+Bxd4 Qxd4+ 15. Qxd4 Rxd4 16. Rxf7 Nxc4 17. Nb5 Re4 18. Rxc7+ Kb8 19. Bf3
+Rxe5 20. Rxb7+ Kc8 21. Nxa7+ Kd8 22. Nc6+ Ke8 23. Nxe5 Nxe5 24. Rc1 Be7 25.
+Rc8+ Bd8 26. Rxd8+ 1-0
+

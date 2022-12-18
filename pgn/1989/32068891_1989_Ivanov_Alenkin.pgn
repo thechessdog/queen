@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ivanov, Sergey"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[Variation "Zaitsev system"]
+[HashCode "32068891"]
+[Epoch "Queen"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bf4
+Nbd7 9. Nf3 Ba6 10. e5 Qb8 11. exd6 Bxb5 12. dxe7 Qxf4 13. exf8=Q+ Kxf8 14.
+Bxb5 Qe4+ 15. Qe2 Qxd5 16. Rc1 Qb7 17. O-O Re8 18. Qd3 Re7 19. Rfe1 Rxe1+ 20.
+Rxe1 g6 21. Rd1 Nb8 22. Qd6+ Kg7 23. Qxc5 Na6 24. Qc4 Nc7 25. Bc6 Qb6 26. Ng5
+Rf8 27. h3 Na6 28. Rd6 Qc5 29. Qxc5 Nxc5 30. Rxf6 1-0

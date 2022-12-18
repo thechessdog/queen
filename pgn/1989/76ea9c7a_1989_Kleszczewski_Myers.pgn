@@ -1,0 +1,19 @@
+[Event "Lienz"]
+[Site "Lienz"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kleszczewski, N."]
+[Black "Myers"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "76ea9c7a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+a4 Be7 9. Bd3 O-O 10. O-O Qc7 11. Kh1 exf4 12. Bxf4 Ne5 13. Qe1 Be6 14.
+Bxe5 dxe5 15. Qg3 h6 16. Rad1 Rac8 17. Ne2 Ng4 18. Rb1 Bc5 19. h3 Ne3 20.
+Rfc1 Rfe8 21. Qh4 Ba7 22. Ng3 Qb6 23. Nxe5 Ba2 24. Ra1 Rxe5 25. Rxa2 Rg5
+26. Nf5 Nxg2 27. Ne7+ Kf8 28. Nxc8 Qe3 29. Qxg5 Qxh3# 0-1
+

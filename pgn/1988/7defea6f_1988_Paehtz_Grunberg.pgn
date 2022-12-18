@@ -1,0 +1,20 @@
+[Event "Stralsund ch-DDR"]
+[Site "Stralsund ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Paehtz, Thomas"]
+[Black "Gruenberg, Hans-Ulrich"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[HashCode "7defea6f"]
+[Epoch "Queen"]
+[BlackID "4611306"]
+[BlackCountry "GER"]
+[WhiteID "4611349"]
+[WhiteCountry "GER"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. b3 O-O 10. Ba3 Na6 11. Rad1 Nc5 12. Qf4 a6 13. Bb2 Qc7 14. Qc1 Rac8 15.
+Nd4 Bxg2 16. Kxg2 Qb7+ 17. f3 d5 1/2-1/2

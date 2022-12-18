@@ -1,0 +1,21 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "7"]
+[White "Bode, Ulf"]
+[Black "Roeschlau, Bernd"]
+[Result "0-1"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "f419b058"]
+[Epoch "Queen"]
+[WhiteID "4606167"]
+[WhiteCountry "GER"]
+[BlackID "4602609"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Qc7 9. O-O-O b5 10. e5 Bb7 11. Ndxb5 axb5 12. Nxb5 Qb6 13. Rxd6 Bxd6 14. Qxb7
+Qe3+ 15. Kd1 O-O 16. Qf3 Ng4 17. Qxe3 Nxe3+ 18. Kc1 Bc5 19. a3 Nxf1 20. Rxf1
+Rfb8 21. c4 Nb6 22. Nc7 Ra4 23. b4 Be3+ 0-1

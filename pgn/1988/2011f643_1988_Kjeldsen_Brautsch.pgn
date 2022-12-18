@@ -1,0 +1,20 @@
+[Event "Aarhus-C"]
+[Site "Aarhus"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kjeldsen, Jens"]
+[Black "Brautsch, Soren"]
+[Result "1-0"]
+[ECO "D24"]
+[Opening "QGA, Bogolyubov variation"]
+[HashCode "2011f643"]
+[Epoch "Queen"]
+[WhiteID "1400797"]
+[BlackID "1400983"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4 b5 6. e5 Nd5 7. a4 c6 8. axb5
+Nxc3 9. bxc3 cxb5 10. Ng5 f6 11. Qf3 Ra7 12. e6 Bb7 13. d5 Qxd5 14. Qxd5 Bxd5
+15. Be3 Ra8 16. O-O-O fxg5 17. Rxd5 Nc6 18. Be2 Nd8 19. Bf3 Nxe6 20. Re5 Nc7
+21. Bb6 1-0

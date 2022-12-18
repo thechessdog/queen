@@ -1,0 +1,16 @@
+[Event "Rumania ch wmn"]
+[Site "Rumania ch wmn"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Duminica, M."]
+[Black "Polihroniade, Elisabeta"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.e5"]
+[HashCode "74f1ad37"]
+[Epoch "Queen"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 hxg6 10. Qxd4 dxe5 11. fxe5 Nxe5 12. Qh4 Nxf3+ 13. gxf3 Re8 14.
+Qh7+ Kf8 15. Bh6 Qd4 16. Qh8# 1-0

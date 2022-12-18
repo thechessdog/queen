@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tibell, Ingemar"]
+[Black "Winsnes, Rikard"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "20790df2"]
+[Epoch "Queen"]
+[WhiteID "1712608"]
+[WhiteCountry "SWE"]
+[BlackID "1700430"]
+[BlackCountry "SWE"]
+
+1. f4 c5 2. b3 Nc6 3. Nf3 Nf6 4. Bb2 g6 5. Bxf6 exf6 6. e3 d5 7. Bb5 Bg7 8. O-O
+O-O 9. d4 Qb6 10. Be2 Bg4 11. Nc3 cxd4 12. Nxd4 Bxe2 13. Ncxe2 Rfe8 14. Qd2 f5
+15. Rad1 Re4 16. Kh1 Rae8 17. Nc3 Rxe3 18. Nxd5 Qxd4 19. Qf2 Rd3 0-1

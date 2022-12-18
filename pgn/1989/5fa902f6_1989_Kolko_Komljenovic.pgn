@@ -1,0 +1,25 @@
+[Event "Europe U25 Open"]
+[Site "Europe U25 Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kolko, R."]
+[Black "Komljenovic, Luka"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "5fa902f6"]
+[Epoch "Queen"]
+[BlackID "4622782"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Be3
+O-O 9. Nf3 a6 10. a4 Bg4 11. h3 Bxf3 12. Qxf3 Nbd7 13. O-O Re8 14. Qe2 Qc7 15.
+f3 Nh5 16. Qd2 Rab8 17. b3 f5 18. Rfe1 f4 19. Bf2 Qa5 20. Rec1 g5 21. Ra2 Ne5
+22. Be2 Ng6 23. Nb1 Qb6 24. Bc4 Qd8 25. Nc3 Qa5 26. Ne2 Qxd2 27. Rxd2 b5 28.
+Bd3 Ne5 29. axb5 axb5 30. Rcc2 b4 31. Ra2 Nxd3 32. Rxd3 Ra8 33. Rdd2 Ra3 34.
+Nc1 Rea8 35. Kf1 Rxa2 36. Nxa2 Ra3 37. Nc1 Ra1 38. Rc2 Rb1 39. Ke2 Bb2 40. Nd3
+Bc3 41. Nc1 Nf6 42. Kd3 Nd7 43. Kc4 Ne5+ 44. Kb5 Kf7 45. Ka4 Ra1+ 46. Kb5 Ra3
+47. Kb6 Ke7 48. Kc7 Ra1 49. Na2 Rb1 50. Nxc3 bxc3 51. Rxc3 Rb2 52. Bxc5 dxc5
+53. d6+ Ke6 54. Rxc5 Rxg2 55. b4 Nd7 56. Rd5 Rc2+ 57. Kd8 h6 58. b5 Rc3 59. b6
+Nxb6 60. Rb5 Rc8# 0-1

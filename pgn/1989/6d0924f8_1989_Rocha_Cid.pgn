@@ -1,0 +1,22 @@
+[Event "Buenos Aires TB"]
+[Site "Torre Blanca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rocha, Antonio"]
+[Black "Cid, Marino Alejandro"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6d0924f8"]
+[Epoch "Queen"]
+[BlackID "100102"]
+[BlackCountry "ARG"]
+[WhiteID "1901869"]
+[WhiteCountry "POR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nc6 7. Bg2 Nf6 8. Nb3
+d6 9. Be3 Be7 10. O-O Rb8 11. Qe2 O-O 12. Rad1 b5 13. a3 Ne5 14. Bc1 Nc4 15.
+Rd3 a5 16. Re1 Ba6 17. g4 Rfc8 18. Rh3 b4 19. axb4 axb4 20. Nd1 Qb6 21. g5 Ne5
+22. Qe3 Nfd7 23. f4 Ng6 24. Qxb6 Nxb6 25. f5 Ne5 26. fxe6 Rxc2 27. exf7+ Nxf7
+28. Ne3 Rc7 29. Nf5 Bf8 30. Nbd4 Bc8 31. Bf4 Ne5 32. b3 g6 33. Nh6+ 0-1

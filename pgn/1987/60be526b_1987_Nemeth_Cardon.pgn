@@ -1,0 +1,18 @@
+[Event "Noviki-C"]
+[Site "Budapest III"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nemeth, Zoltan"]
+[Black "Cardon, Helmut"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[HashCode "60be526b"]
+[Epoch "Queen"]
+[BlackID "1000365"]
+[BlackCountry "NED"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. b3 dxc4 5. bxc4 Qd4 6. Qa4+ Bd7 7. Qb3 Qxa1 8.
+Bxb7 Be7 9. Bxa8 O-O 10. Qb2 Qxb2 11. Bxb2 Na6 12. Bxf6 Bxf6 13. Be4 Rb8 14. d4
+Bxd4 15. Nf3 Bc6 16. Bc2 Rb2 17. Kd2 Bxf3 18. exf3 Nb4 19. Na3 Rxa2 20. Rb1
+Rxa3 0-1

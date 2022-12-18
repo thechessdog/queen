@@ -1,0 +1,20 @@
+[Event "Dieren open"]
+[Site "Dieren open"]
+[Date "1988.09.01"]
+[Round "5"]
+[White "Adler, Joel"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[ECO "E85"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox variation"]
+[HashCode "8f03c0a0"]
+[Epoch "Queen"]
+[WhiteID "1300563"]
+[WhiteCountry "SUI"]
+[BlackID "1000268"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 e5 7. Nge2 Nbd7 8. Qd2
+a6 9. O-O-O b5 10. cxb5 axb5 11. Nxb5 Rxa2 12. Na3 Ra1+ 13. Kc2 Rxd1 14. Kxd1
+d5 0-1

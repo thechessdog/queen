@@ -1,0 +1,20 @@
+[Event "Naples"]
+[Site "Naples"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Fabriano, Giuseppe"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "0bf0fc3e"]
+[Epoch "Queen"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 cxd4 6. cxd4 Qb6 7. Nc3 a6 8. Ba4
+Nxd4 9. Nd5 Nxf3+ 10. gxf3 Qd6 11. Qc2 Rb8 12. Bf4 Be5 13. Rc1 f5 14. Be3 b5
+15. f4 Bg7 16. Bb3 e6 17. Ba7 exd5 18. Bxb8 Qxb8 19. Qxc8+ Qxc8 20. Rxc8+ Ke7
+21. e5 Ke6 22. Ra8 Ne7 23. Rxa6+ Nc6 24. Ke2 Ke7 25. Bxd5 Nb4 26. Rd6 Rc8 27.
+Bb3 Bh6 28. Rhd1 Bxf4 29. Rxd7+ 1-0

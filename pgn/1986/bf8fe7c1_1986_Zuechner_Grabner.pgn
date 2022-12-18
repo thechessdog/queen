@@ -1,0 +1,24 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Zuechner, G."]
+[Black "Grabner, H."]
+[Result "1-0"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "bf8fe7c1"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. O-O cxd4
+8. Nb3 Ne7 9. Nbxd4 O-O 10. c3 Bg4 11. Qa4 Bh5 12. Bg5 Qc7 13. h3 a6 14.
+Bd3 h6 15. Bxe7 Nxe7 16. Rfe1 Nc6 17. Qb3 Bxf3 18. Nxf3 Rfd8 19. Rad1 Na5
+20. Qc2 Nc6 21. Qe2 Be7 22. Bb1 Bf6 23. Rxd5 Ne7 24. Rd3 Kf8 25. Red1 Rxd3
+26. Qxd3 Ng6 27. Qd6+ Qxd6 28. Rxd6 Rd8 29. Rxd8+ Bxd8 30. Bxg6 fxg6 31.
+Ne5 g5 32. Kf1 Bc7 33. Nf3 Ke7 34. Ke2 Ke6 35. Kd3 Bb6 36. Nd4+ Ke5 37. a4
+Ba7 38. b4 Bb6 39. Nf3+ Kf4 40. Nd4 Ke5 41. f3 Kf4 42. Ne2+ Ke5 43. g4 a5
+44. Kc4 axb4 45. cxb4 Be3 46. Kb5 Kd5 47. Nc3+ Kd6 48. Ne4+ Kc7 49. a5 Bd4
+50. Kc4 Ba7 51. Nc5 g6 52. Kd5 b6 53. axb6+ Kxb6 54. Ke5 Kb5 55. Kf6 Kxb4
+56. Ne4 1-0
+

@@ -1,0 +1,21 @@
+[Event "Naberezhnie Chelni"]
+[Site "Naberezhnie Chelni"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Piskov, Yury"]
+[Black "Smirnov, Valery"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "822b7a61"]
+[Epoch "Queen"]
+[WhiteID "4101731"]
+[WhiteCountry "RUS"]
+[BlackID "34180475"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 O-O 6. a3 Bxc3+ 7. Nxc3 d5 8. Be2
+Bb7 9. cxd5 Nxd5 10. O-O Nd7 11. Bd3 Nxc3 12. bxc3 Qh4 13. f3 c5 14. e4 Rfd8
+15. Be3 Rac8 16. Qd2 h6 17. f4 cxd4 18. cxd4 Nf6 19. Rae1 Ng4 20. g3 Qh3 21.
+Qb2 Rc3 0-1

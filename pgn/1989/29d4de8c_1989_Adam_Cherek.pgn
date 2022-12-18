@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Adam"]
+[Black "Cherek"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "29d4de8c"]
+[Epoch "Queen"]
+[WhiteID "7110219"]
+[WhiteCountry "INA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. e3 d5 6. a3 Ba5 7. Qc2 cxd4 8. exd4
+dxc4 9. Bxc4 Nc6 10. O-O O-O 11. Rd1 Nd5 12. Bg5 Qd6 13. Ne4 Qd7 14. Rac1 h6
+15. Bxh6 f5 16. Nc5 Qd6 17. Bg5 Bc7 18. b4 a6 19. Qb2 Nd8 20. Ne5 Nf7 21. Bxd5
+exd5 22. Bf4 g5 23. Nxf7 Qxf4 24. Ne5 g4 25. Qb3 1-0

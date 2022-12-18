@@ -1,0 +1,19 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kaspereit, Holger"]
+[Black "Herbold, Manfred"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[HashCode "cef9b283"]
+[Epoch "Queen"]
+[WhiteID "4692608"]
+[WhiteCountry "GER"]
+[BlackID "4682882"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Be2 b5 6. h4 b4 7. Nd5 Nf6 8. Nxf6+
+Bxf6 9. Nf3 Bg4 10. c3 bxc3 11. bxc3 c5 12. O-O Nd7 13. Bh6 Qa5 14. e5 dxe5 15.
+dxe5 Nxe5 16. Nxe5 Rd8 17. Nxg4 Rxd1 18. Nxf6+ exf6 19. Raxd1 1-0

@@ -1,0 +1,18 @@
+[Event "corr CND"]
+[Site "corr CND"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Fortin"]
+[Black "Chadwick"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "7cd2684b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. d5 exd5 8.
+Nh4 c6 9. Nf5 dxc4 10. e4 d6 11. Bf4 Ne8 12. Qg4 Bf6 13. Nc3 Nd7 14. Rfd1
+Ne5 15. Bxe5 Bxe5 16. f4 Bxc3 17. bxc3 Qf6 18. e5 h5 19. Qxh5 g6 20. Nh6+
+Kh7 21. Be4 Qe6 22. Qh4 d5 23. f5 1-0
+

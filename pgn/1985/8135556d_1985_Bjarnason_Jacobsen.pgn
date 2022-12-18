@@ -1,0 +1,22 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "8"]
+[White "Bjarnason, Saevar"]
+[Black "Jacobsen, Bo"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "8135556d"]
+[Epoch "Queen"]
+[WhiteID "2300176"]
+[WhiteCountry "ISL"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bd6 6. Nf3 Bg4 7. d4 Nc6 8.
+e5 Bxf3+ 9. gxf3 O-O-O 10. exd6 Rxd6 11. c3 Rxd5 12. Qe1 Qe7+ 13. Kf2 Qh4+ 14.
+Ke2 Qf6 15. Bh3+ Kb8 16. Kf1 Nge7 17. Qe4 g5 18. Bd2 Rhd8 19. Re1 Ng6 20. Rg1
+Nh4 21. Re2 Nxd4 22. cxd4 Rxd4 23. Qc2 Nxf3 24. Bc3 Rd1+ 25. Re1 Nxe1 26. Bxe1
+h5 27. Bf5 Qe5 28. Qe4 Qxe4 29. Bxe4 Re8 30. Rxg5 a6 31. Rd5 Ra1 0-1

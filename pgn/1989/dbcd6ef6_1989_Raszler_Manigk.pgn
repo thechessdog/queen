@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Raszler"]
+[Black "Manigk"]
+[Result "0-1"]
+[ECO "D89"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Sokolsky variation"]
+[HashCode "dbcd6ef6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 O-O 11. O-O Na5 12. Bd3 Bg4 13. f3 Be6 14.
+d5 Bxa1 15. Qxa1 f6 16. Bh6 Re8 17. Nf4 Bf7 18. Kh1 Qc7 19. h4 Rac8 20. Qe1
+Nc4 21. Ne2 a6 22. Qf2 b5 23. Nd4 Ne5 24. Be2 Qc3 25. Rd1 Qb2 26. Qg3 Rc3
+27. Bf4 Nc4 28. Qe1 e5 29. dxe6 Bxe6 30. Nxe6 Rxe6 31. Rd8+ Kf7 32. Bxc4
+bxc4 33. Qd1 Rd3 34. Rxd3 cxd3 35. Qxd3 Qxa2 36. Bh6 Qa5 0-1
+

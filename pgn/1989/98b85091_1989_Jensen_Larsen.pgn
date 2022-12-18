@@ -1,0 +1,19 @@
+[Event "Lyngby op"]
+[Site "Lyngby"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Jensen, Rene Skree"]
+[Black "Larsen, Steen"]
+[Result "0-1"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "98b85091"]
+[Epoch "Queen"]
+[WhiteID "1400592"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Kh8 12. Be3 Ng8 13. Ng2 a5 14. a3 Nc5 15. Rb1
+Bd7 16. b4 axb4 17. axb4 Na4 18. Qc2 Nxc3 19. Qxc3 fxe4 20. fxe4 Nf6 21. Bg5
+Nxe4 0-1

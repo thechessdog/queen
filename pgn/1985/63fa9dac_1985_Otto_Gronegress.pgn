@@ -1,0 +1,18 @@
+[Event "corr FRG/K"]
+[Site "corr FRG/K"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Otto, K."]
+[Black "Gronegress, W."]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "63fa9dac"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 Be7 8.
+Nc3 O-O 9. Qe2 b6 10. f4 Bb7 11. Kh1 Re8 12. b3 Nbd7 13. e5 dxe5 14. fxe5
+Nc5 15. Bc2 Qxd4 16. exf6 Bxf6 17. Bd2 Rad8 18. Rad1 Qe5 19. Qxe5 Bxe5 20.
+Be1 Rxd1 21. Bxd1 Rd8 0-1
+

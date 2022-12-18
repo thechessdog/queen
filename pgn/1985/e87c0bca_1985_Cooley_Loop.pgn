@@ -1,0 +1,22 @@
+[Event "Westland SE MI opB"]
+[Site "Westland SE MI opB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Cooley, R."]
+[Black "Loop, J."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "e87c0bca"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. c4 Nf6 5. Nc3 dxc4 6. e3 e6 7. Bxc4 Bb4
+8. Rc1 Bd6 9. Ne5 O-O 10. O-O Re8 11. Bb5 Bxe5 12. Bxe5 Rb8 13. a3 Nd5 14.
+Bxc6 bxc6 15. Qe2 Nxc3 16. Rxc3 Be4 17. b4 Qg5 18. f3 Bd5 19. e4 f6 20.
+Bxc7 Rb7 21. Bg3 Rd7 22. exd5 Rxd5 23. Bf2 e5 24. Qe4 f5 25. Qe2 Re6 26.
+Rfc1 Rg6 27. g3 Rdd6 28. dxe5 Rde6 29. f4 Qxf4 30. Qa2 Kf8 31. Bc5+ Ke8 32.
+Bd6 Qd4+ 33. Qf2 Qg4 34. Rxc6 Qh4 35. Rc8+ Qd8 36. Rxd8+ Kxd8 37. Qxa7 Rxd6
+38. exd6 Rxd6 39. Qb8+ Kd7 40. Rc7+ Ke6 41. Qe8+ Kf6 42. Qe7+ Kg6 43. Qxd6+
+Kg5 44. Rxg7+ Kh5 45. Rxh7+ Kg5 46. h4+ Kg4 47. Rg7+ Kh3 48. Qd2 f4 49.
+Qg2# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Illinois"]
+[Site "Illinois"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Martinovsky, Eugene"]
+[Result "0-1"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "37f5a157"]
+[Epoch "Queen"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+[BlackCountry "MKD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. a4 b4 10. a5 bxc3 11. bxc3 Rb8 12. Bc4 Nxa5 13. Rxa5 Rxb1 14. Bxa6 c5 15.
+Ra2 Be6 16. c4 Qb6 17. Ng5 Ra8 18. Nxe6 Rxa6 19. Rxa6 Qxa6 20. Nc7 Qxc4 21. d3
+Qc3 22. Qd2 Qxd2 23. Bxd2 Rb3 24. Ra1 Rxd3 25. Bg5 h6 26. Bxf6 Bxf6 27. Kf1 c4
+28. Rc1 Rd4 29. f3 Bg5 30. Rc2 Rd2 31. Rxc4 Be3 32. Nd5 Bc5 33. Rc3 Rf2+ 34.
+Kg1 Bd4 0-1

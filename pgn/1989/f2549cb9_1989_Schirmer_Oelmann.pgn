@@ -1,0 +1,18 @@
+[Event "corr BdG-OB"]
+[Site "corr BdG-OB"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schirmer, M."]
+[Black "Oelmann, H."]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "f2549cb9"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Be6 7. Bxe6 fxe6
+8. O-O h6 9. Nxd4 Nf6 10. e5 Bc5 11. c3 Ne4 12. Qh5+ Kd7 13. Qg6 Bxd4+ 14.
+cxd4 Ng5 15. h4 Kc8 16. Be3 Nh7 17. Qxg7 Qg8 18. Qe7 Nf8 19. Rf7 Nbd7 20.
+Rg7 Rh7 21. Qxd7+ 1-0
+

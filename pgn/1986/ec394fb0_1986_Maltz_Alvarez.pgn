@@ -1,0 +1,19 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Maltz, Alberto"]
+[Black "Alvarez, Roberto"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "ec394fb0"]
+[Epoch "Queen"]
+[BlackID "111902"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. Be2 c5 7. O-O Nc6 8. dxc5
+dxc4 9. Qa4 Nd7 10. Qxc4 Qa5 11. Ne4 Nde5 12. Nxe5 Nxe5 13. Qb3 Bf5 14. Ng3 Be6
+15. Qc2 Rac8 16. f4 Nd7 17. f5 Bd5 18. e4 Bc6 19. Be3 Ba4 20. Qb1 Qb4 21. fxg6
+hxg6 22. Qe1 Qxe1 23. Raxe1 Nxc5 24. Rc1 b6 25. b3 1/2-1/2

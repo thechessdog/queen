@@ -1,0 +1,20 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heidrich, Manfred"]
+[Black "Lau, Ralf"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "be32c9f4"]
+[Epoch "Queen"]
+[WhiteID "4602722"]
+[WhiteCountry "GER"]
+[BlackID "4600134"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 e6 7. c4 Be7 8.
+Nc3 Ne5 9. d3 O-O 10. Rb1 b6 11. a3 Nfd7 12. Nxe5 dxe5 13. b4 a6 14. Be3 Qc7
+15. Qc2 Rfb8 16. Rec1 Bf8 1/2-1/2

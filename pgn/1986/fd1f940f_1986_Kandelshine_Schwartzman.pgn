@@ -1,0 +1,17 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Kandelshine, S."]
+[Black "Schwartzman, G."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "fd1f940f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. e4 dxe4 6. g4 Bg6 7. Bxf6 Nxf6
+8. g5 Nd5 9. Nxe4 Ne3 10. Qd2 Qxd4 11. Qxd4 Nxc2+ 12. Kf2 Nxd4 13. Ne2
+O-O-O 14. Rc1 Bxe4 15. fxe4 e5 16. Nxd4 Rxd4 17. Bh3+ Kb8 18. Ke3 Be7 19.
+Rhg1 Rhd8 20. Rc2 Rd3+ 0-1
+

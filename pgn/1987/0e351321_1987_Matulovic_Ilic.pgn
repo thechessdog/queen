@@ -1,0 +1,22 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Ilic, Zoran"]
+[Result "0-1"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "0e351321"]
+[Epoch "Queen"]
+[BlackID "15001350"]
+[WhiteCountry "SRB"]
+[BlackCountry "MKD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+Nbd7 9. a4 b6 10. h3 Bb7 11. g4 O-O 12. Ng3 Rc8 13. Nf5 Rxc3 14. bxc3 Bxe4 15.
+Bxe4 Nxe4 16. Qe2 Ndc5 17. c4 g6 18. Nxe7+ Qxe7 19. a5 bxa5 20. Rxa5 Qb7 21.
+O-O Ne6 22. Qf3 Nd4 23. Qg2 Rc8 24. Bh6 Rxc4 25. Rfa1 Nxc2 26. R1a2 Nb4 27. Ra1
+d5 28. Qf3 Rc3 29. Qe2 Rxh3 30. Rxa6 Nxa6 31. g5 Nc7 32. Qg4 Rb3 33. Qd7 Rb1+
+34. Kg2 0-1

@@ -1,0 +1,18 @@
+[Event "Monroe ch-MI op"]
+[Site "Monroe ch-MI op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lynch, W."]
+[Black "Mason, A."]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "093cdbdd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Bxc3+ 6. bxc3 cxd4 7. cxd4
+Nc6 8. Nf3 d5 9. Bg5 Qa5+ 10. Bd2 Qd8 11. Bg5 dxc4 12. Qxc4 Bd7 13. Rc1 O-O
+14. g3 Rc8 15. Qb3 Nxd4 16. Nxd4 Qa5+ 17. Qb4 Qxg5 18. Rxc8 Rxc8 19. f4 Qd5
+20. Nf3 Ne4 21. Qb2 Ba4 22. Qb1 Rc2 0-1
+

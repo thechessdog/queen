@@ -1,0 +1,18 @@
+[Event "Monterey"]
+[Site "Monterey"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kirby, J."]
+[Black "Chee, T."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "f4589933"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nc6 4. Nf3 exd4 5. O-O Bc5 6. e5 Ng8 7. Ng5 Nh6
+8. c3 dxc3 9. Nxf7 Nxf7 10. Bxf7+ Kxf7 11. Qd5+ Ke8 12. Qxc5 cxb2 13. Bxb2
+b6 14. Qe3 Qe7 15. Re1 Bb7 16. Nc3 Nd8 17. Nb5 Ne6 18. Ba3 Qf7 19. Rac1 Bc6
+20. Nd4 Nxd4 21. Qxd4 Qxa2 22. Rxc6 dxc6 23. e6 1-0
+

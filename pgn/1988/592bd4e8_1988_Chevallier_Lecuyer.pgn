@@ -1,0 +1,23 @@
+[Event "France"]
+[Site "France"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chevallier, D."]
+[Black "Lecuyer, C."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "592bd4e8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+
+g6 8. Qd5+ e6 9. Qxe4 d5 10. Qe3 Bg7 11. Nf3 Re8 12. O-O Kg8 13. Na3 a6 14.
+Rd1 Qe7 15. Rb1 e5 16. Rxd5 Be6 17. Rd6 Rad8 18. Rxd8 Rxd8 19. Bd2 Bxa2 20.
+Re1 Qd7 21. Bc1 Qf5 22. Qe2 Bd5 23. Rd1 Bxf3 24. Rxd8+ Nxd8 25. Qxf3 Qxf3
+26. gxf3 Kf7 27. Kf1 Ke6 28. b4 e4 29. fxe4 Bxc3 30. Nc2 Nc6 31. Ba3 Ke5
+32. f3 Nd4 33. Ne3 Nxf3 34. Nc4+ Kxe4 35. Nd6+ Kd5 36. Nxb7 Nd2+ 37. Ke2
+Nc4 38. Kd3 Be5 39. Bc1 Bxh2 40. Nd8 Bc7 41. Nf7 Ne5+ 42. Nxe5 Bxe5 43. Bh6
+Bf6 44. Kc2 g5 45. Kb3 g4 46. Be3 g3 47. Ka4 Kc6 48. Ka5 Bc3 49. Ka4 h5 50.
+Kb3 Be5 51. Kc4 h4 0-1
+

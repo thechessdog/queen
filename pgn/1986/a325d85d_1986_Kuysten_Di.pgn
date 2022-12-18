@@ -1,0 +1,16 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kuysten"]
+[Black "Di Bucchianico"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "a325d85d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 Nbd7 4. f3 c5 5. e4 cxd4 6. Bxf6 exf6 7. Qxd4
+Bc5 8. Qxd5 Qb6 9. Nge2 Bf2+ 10. Kd1 Nc5 11. Qc4 Be6 12. Nd5 Bxd5 13. exd5
+Qxb2 14. Qc3 Qb6 15. Nf4 Na4 16. Qd2 O-O 0-1
+

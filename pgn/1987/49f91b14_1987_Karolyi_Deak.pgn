@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "8"]
+[White "Karolyi, Tibor"]
+[Black "Deak, Sandor"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[HashCode "49f91b14"]
+[Epoch "Queen"]
+[WhiteID "700312"]
+[WhiteCountry "HUN"]
+[BlackID "702838"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 O-O 8. d5
+f5 9. Qc2 Bf6 10. Rd1 Qe7 11. Nxe4 fxe4 12. Qxe4 Na6 13. Bc3 Bxc3+ 14. bxc3 Qa3
+15. Qc2 Nc5 16. Rd4 Rae8 17. O-O e5 18. Rh4 g6 19. Ng5 Re7 20. Qd2 Rg7 21. f4
+exf4 22. Rhxf4 1-0

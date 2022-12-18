@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Walter"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "1c8c50eb"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3
+Nf6 8. Qc2 d6 9. O-O-O O-O 10. e5 Ne8 11. h4 h6 12. Bd3 Bd7 13. Ng5 Nxe5
+14. Bh7+ Kh8 15. Nd5 Ba5 16. Bf5 Bxf5 17. Qxf5 g6 18. Qxf7 Qxg5+ 19. hxg5
+Rxf7 20. f4 h5 21. fxe5 dxe5 22. Bxe5+ Kh7 23. g4 c6 24. Nf4 Bc7 25. Rxh5+
+gxh5 26. g6+ Kh6 27. gxf7 1-0
+

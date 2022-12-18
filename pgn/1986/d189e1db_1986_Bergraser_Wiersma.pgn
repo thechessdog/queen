@@ -1,0 +1,22 @@
+[Event "corr Volmac"]
+[Site "corr Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bergraser, Volf"]
+[Black "Wiersma, Tjalling"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d189e1db"]
+[Epoch "Queen"]
+[BlackID "1019112"]
+[BlackCountry "NED"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 b6 8. cxd5
+exd5 9. e3 Be6 10. Bd3 Nbd7 11. Ne5 Nxe5 12. dxe5 Ng4 13. Bxe7 Qxe7 14. Be2
+Nxe5 15. Nxd5 Bxd5 16. Qxd5 Rad8 17. Qb3 c5 18. Qc3 Nc6 19. O-O Rd6 20. Rfd1
+Rfd8 21. Rxd6 Qxd6 22. h3 Qd2 23. Kf1 Qxc3 24. bxc3 Rd2 25. a4 Kf8 26. Rd1
+Rxd1+ 27. Bxd1 c4 28. Be2 Na5 29. e4 Ke7 30. f4 Nb3 31. Kf2 Nc5 32. Ke3 Nxa4
+33. Kd4 b5 34. e5 a5 35. Bd1 Nb2 36. Bc2 a4 37. Kc5 a3 38. Bb1 Nd1 0-1

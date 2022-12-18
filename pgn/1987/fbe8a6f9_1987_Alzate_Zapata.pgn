@@ -1,0 +1,18 @@
+[Event "Medellin"]
+[Site "Medellin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Alzate, Dario"]
+[Black "Zapata, Alonso"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "fbe8a6f9"]
+[Epoch "Queen"]
+[BlackID "4400011"]
+[BlackCountry "COL"]
+[WhiteID "4400046"]
+[WhiteCountry "COL"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N5c3 Be7 8.
+Be2 O-O 9. O-O b6 10. Na3 Bb7 1/2-1/2

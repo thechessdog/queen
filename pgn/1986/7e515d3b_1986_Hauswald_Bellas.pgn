@@ -1,0 +1,22 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hauswald"]
+[Black "Bellas"]
+[Result "0-1"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "7e515d3b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 gxf6 12. a3 Rb8 13. h4 b4 14. axb4
+Rxb4 15. g5 Qb6 16. Nb3 f5 17. exf5 Bb7 18. Qh3 Bxh1 19. Qxh1 Qe3+ 20. Kb1
+Qb6 21. f6 Nxf6 22. gxf6 Bxf6 23. Ne4 Be7 24. Qf3 d5 25. Qc3 Rg8 26. Nf6+
+Bxf6 27. Qxf6 Rg6 28. Qh8+ Ke7 29. Qe5 Qd6 30. Nd4 Rf6 31. c3 Rb6 32. Ne2
+Qxe5 33. fxe5 Rf2 34. Kc2 a5 35. Rb1 Rh2 36. Ra1 Rb5 37. Ra4 f6 38. exf6+
+Kxf6 39. c4 Rxh4 40. Nc3 Rh2+ 41. Ne2 Rc5 42. b3 Rc7 43. Kd3 Rf2 44. Ra1
+Rf3+ 45. Kd4 Rxb3 46. cxd5 e5+ 47. Ke4 Rb4+ 48. Nd4 Rxd4+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Blackpool ch-BCF"]
+[Site "Blackpool ch-BCF"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Cooper, Lawrence H"]
+[Black "Lyell, Mark"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed system (without ...d6)"]
+[HashCode "425bb47d"]
+[Epoch "Queen"]
+[WhiteID "401536"]
+[WhiteCountry "ENG"]
+[BlackID "402354"]
+[BlackCountry "ENG"]
+
+1. g3 e5 2. c4 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. d3 Nge7 6. Nf3 d6 7. Rb1 a5 8. O-O
+h6 9. a3 Be6 10. b4 axb4 11. axb4 Qd7 12. b5 Nd8 13. Re1 O-O 14. Bb2 f5 15. Ra1
+Rxa1 16. Qxa1 g5 17. Nd2 Ng6 18. Qa4 1/2-1/2

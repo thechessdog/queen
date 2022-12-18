@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hellers, Ferdinand"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Allgaier gambit, Alapin variation"]
+[HashCode "c8d32063"]
+[Epoch "Queen"]
+[BlackID "1700120"]
+[BlackCountry "SWE"]
+[WhiteID "1700022"]
+[WhiteCountry "SWE"]
+
+1. e4 Nc6 2. Nc3 e5 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 d6 7. d4 h6 8. Nxf7
+Kxf7 9. Bc4+ Kg7 10. Bxf4 Nf6 11. Qd2 Be7 12. O-O-O Qe8 13. Rhf1 Qh5 14. e5
+dxe5 15. dxe5 Nxe5 16. Nd5 Nxc4 17. Qc3 Be6 18. Bg5 hxg5 19. Nxf6 Qg6 20. Nd5+
+Kh7 21. Nxe7 Qg7 22. Rf6 Qxe7 23. Re1 Qg7 24. Rexe6 Rhf8 25. Qd3+ Kg8 26. Rg6
+Rad8 27. Rxg7+ Kxg7 28. Qg6+ 1-0

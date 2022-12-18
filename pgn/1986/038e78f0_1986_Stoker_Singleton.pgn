@@ -1,0 +1,20 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stoker, A."]
+[Black "Singleton, M."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "038e78f0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 b6 6. Nf3 e6 7. Bd3 Ba6 8.
+a3 Qc8 9. O-O Bxd3 10. Qxd3 Qa6 11. Qe4 Nc6 12. Nc3 f5 13. Qh4 Nxc3 14.
+bxc3 Ne7 15. Ng5 Qc4 16. Bd2 h6 17. Nh3 Qe2 18. Rfd1 g5 19. Qg3 f4 20. Qf3
+Qxf3 21. gxf3 Rc8 22. Kf1 Nd5 23. Rdc1 Rc4 24. Ke2 Kf7 25. Kd3 Ra4 26. c4
+Ne7 27. Kc3 Bg7 28. Kb3 Ra6 29. Kb4 Nc6+ 30. Kb5 Nb8 31. Bc3 Rc8 32. Re1
+Bf8 33. Ng1 Nc6 34. a4 Ra5+ 0-1
+

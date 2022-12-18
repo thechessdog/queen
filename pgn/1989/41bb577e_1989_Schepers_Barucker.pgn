@@ -1,0 +1,20 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schepers"]
+[Black "Barucker"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "41bb577e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Bd7 9. Qe2 Bc6 10. Rd1 Qe7 11. a3 Ba5 12. Bd2 Bxf3 13. Qxf3 Nc6 14.
+dxc5 Qxc5 15. Ba2 Qe7 16. b4 Ne5 17. Qg3 Bc7 18. f4 Ng6 19. Qf3 e5 20. Nd5
+Nxd5 21. Bxd5 exf4 22. exf4 Rad8 23. Bxb7 Nh4 24. Qg4 Bb6+ 25. Kh1 Bf2 26.
+Bf3 Rd3 27. f5 Nxf3 28. gxf3 Qe2 29. Qe4 Rxd2 30. Rxd2 Qxd2 31. Qg4 Re8 32.
+h4 Bd4 33. Rf1 Re1 0-1
+

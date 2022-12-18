@@ -1,0 +1,21 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Behrhorst, Frank"]
+[Black "Stone, Raymond"]
+[Result "1/2-1/2"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "c675bc72"]
+[Epoch "Queen"]
+[WhiteID "4605322"]
+[BlackID "2600285"]
+[WhiteCountry "GER"]
+[BlackCountry "CAN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 c5 12. dxc5 bxc5 13. O-O Bb7 14. Rc1
+Nd7 15. Qb3 Nf6 16. Qa3 Rfc8 17. Rc2 Qf8 18. Rfc1 c4 19. Qxf8+ Kxf8 20. Be2 a5
+21. b3 1/2-1/2

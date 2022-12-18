@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Weiszbach"]
+[Black "Hallier"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "ecaf9bc3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 b5 7. dxe6 fxe6 8.
+cxb5 O-O 9. e3 d5 10. Bd3 d4 11. exd4 cxd4 12. a3 Ba5 13. b4 dxc3 14. bxa5
+Bb7 15. Ne2 Bxg2 16. Rg1 Bf3 17. Bc2 Nbd7 18. Qd6 Qxa5 19. Qg3 Ne8 20. Nf4
+Qxb5 21. Qxf3 Qe5+ 22. Kf1 Qxf4 23. Qxa8 Qxh4 24. Rg2 Ne5 25. Qc8 Nc4 26.
+Qxe6+ Kh8 27. Kg1 Nd2 28. Qg6 1-0
+

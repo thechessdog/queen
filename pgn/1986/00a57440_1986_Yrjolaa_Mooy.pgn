@@ -1,0 +1,19 @@
+[Event "corr NBC-Volmac"]
+[Site "corr NBC-Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Yrjolaa"]
+[Black "Mooy"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "00a57440"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 Qa5 10. O-O Qxa2 11. Bg5 Qe6 12. e5 Rd8 13. d5 Qxd5 14.
+Qxd5 Rxd5 15. Bc4 Rd7 16. e6 fxe6 17. Bxe6+ Kf8 18. Bxd7 Nxd7 19. Rfe1 e5
+20. Bd8 a5 21. Ng5 Kg8 22. Ne6 Ra6 23. Nc7 Rd6 24. Nb5 Ra6 25. Be7 Bf8 26.
+c4 Nb6 27. Na3 Nd7 28. f4 e4 29. Rxe4 0-1
+

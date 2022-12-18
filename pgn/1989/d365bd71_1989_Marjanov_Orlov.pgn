@@ -1,0 +1,15 @@
+[Event "Pancevo"]
+[Site "Pancevo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marjanov, Zika"]
+[Black "Orlov, Konstantin"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "d365bd71"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. cxd5 exd5 5. Nc3 Bb4 6. e3 O-O 7. Bd3 Bxc3+
+8. bxc3 1/2-1/2
+

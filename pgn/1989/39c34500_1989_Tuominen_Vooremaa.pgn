@@ -1,0 +1,23 @@
+[Event "Tampere Taraus"]
+[Site "Tampere Taraus"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Tuominen, Risto"]
+[Black "Vooremaa, Andres"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "39c34500"]
+[Epoch "Queen"]
+[WhiteID "502030"]
+[WhiteCountry "FIN"]
+[BlackID "4500083"]
+[BlackCountry "EST"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 O-O 6. O-O d6 7. Nc3 c6 8. d5 Bd7
+9. h4 Na6 10. Ng5 Nc5 11. Qc2 cxd5 12. cxd5 Rc8 13. Qd1 b5 14. a3 a5 15. Qe1
+Rb8 16. b4 Nce4 17. Ngxe4 Nxe4 18. Bb2 Nxc3 19. Bxc3 Bxc3 20. Qxc3 Rc8 21. Qd2
+axb4 22. axb4 Rc4 23. Rfc1 Qb6 24. e3 Rfc8 25. Bf1 R4c7 26. Rxc7 Rxc7 27. Qa2
+Kf7 28. Qa8 Rc8 29. Qa7 Qc7 30. Ra5 Qxa7 31. Rxa7 Be8 32. Rb7 Kf6 33. Bxb5 Bxb5
+34. Rxb5 Ke5 35. Kg2 Ke4 36. Ra5 h6 37. Ra7 Re8 38. b5 Kxd5 39. Rc7 1-0

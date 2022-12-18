@@ -1,0 +1,24 @@
+[Event "Yugoslavia"]
+[Site "Yugoslavia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kurajica, Bojan"]
+[Black "Abramovic, Bosko"]
+[Result "0-1"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "47ec589a"]
+[Epoch "Queen"]
+[WhiteID "14400057"]
+[WhiteCountry "BIH"]
+[BlackID "900206"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8. Na3
+cxd4 9. Naxc4 Rc8 10. Qb3 Nxe5 11. Nxe5 Bc6 12. Nxc6 bxc6 13. e3 Bc5 14. Qc2
+Qb6 15. b4 Be7 16. Rd1 Nd5 17. Bxd5 exd5 18. Bb2 O-O 19. Bxd4 Qxb4 20. Rab1 Qd6
+21. Bxa7 c5 22. Rb7 Bf6 23. Qa4 Rc6 24. Qb5 Rfc8 25. a4 h5 26. a5 d4 27. Rb6 h4
+28. Rxc6 Rxc6 29. Qf1 Qe6 30. Rb1 dxe3 31. Rb8+ Kh7 32. Qd3+ g6 33. Qxe3 Qd5
+34. Qb3 c4 35. Qb1 c3 36. Be3 c2 37. Qf1 Bd4 38. Bc1 Rf6 39. Bf4 Rxf4 40. gxf4
+Qc6 0-1

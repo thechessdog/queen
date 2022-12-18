@@ -1,0 +1,26 @@
+[Event "Aarhus-B"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Knudsen, Per"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "670fcd93"]
+[Epoch "Queen"]
+[BlackID "1400509"]
+[BlackCountry "DEN"]
+
+1. b3 d5 2. e3 Nf6 3. Bb2 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c5 7. d4 Ne4 8. Nbd2
+Nc6 9. c3 e5 10. dxe5 Nxe5 11. Nxe4 dxe4 12. Nxe5 Bxe5 13. Qxd8 Rxd8 14. Rad1
+Be6 15. h3 b6 16. Rfe1 Kf8 17. Kf1 f5 18. Ba6 Ke7 19. Ke2 Rab8 20. Rxd8 Kxd8
+21. Rd1+ Kc7 22. Bc4 Bxc4+ 23. bxc4 h5 24. a4 Rd8 25. Rxd8 Kxd8 26. Kd2 Kc7 27.
+Bc1 Bh2 28. Kd1 Bg1 29. f3 exf3 30. gxf3 Kb7 31. e4 fxe4 32. fxe4 Bh2 33. Bg5
+Be5 34. Kc2 Kc6 35. Kd3 Kd7 36. Be3 Bd6 37. Ke2 Ke6 38. Kf3 Be5 39. Bd2 Kf6 40.
+Ke2 Ke6 41. Kf3 Kf6 42. Ke2 g5 43. Kf3 Bd6 44. Be3 Be7 45. Bf2 Ke6 46. Bg3 Bd6
+47. Be1 Kf6 48. Bd2 Be5 49. Be1 Bf4 50. h4 Be5 51. hxg5+ Kxg5 52. Bd2+ Kf6 53.
+Be1 Ke6 54. Bd2 h4 55. Kg4 Bd6 56. Be1 Ke5 57. Kf3 h3 58. Bg3+ Ke6 59. Bf2 Bf4
+60. a5 h2 61. Kg2 bxa5 62. Bxc5 a4 63. Ba3 Ke5 64. c5 Kxe4 65. c6 Kd5 66. Bc1
+Bc7 0-1

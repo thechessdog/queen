@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Klein"]
+[Black "Otto"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "b943c152"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Be7 10. Bd3 Qc7 11. Bh4 b5 12. a3 Bb7 13. O-O O-O 14. Bf2
+Nc5 15. Nxc5 dxc5 16. Rfd1 c4 17. Be2 Nxe4 18. Nxe4 f5 19. Bd4 Bxe4 20. Qg3
+Bc5 21. c3 Bxd4+ 22. Rxd4 Rad8 23. Rad1 Rxd4 24. Rxd4 Rd8 25. Rxd8+ Qxd8
+26. Qe3 Qd6 27. g3 Bb7 28. Kf2 Qd5 29. Bf3 Qxf3+ 30. Qxf3 Bxf3 31. Kxf3 Kf7
+32. Ke3 e5 33. fxe5 Ke6 34. Kd4 g5 35. h3 h5 36. a4 bxa4 37. Kxc4 Kxe5 38.
+Kd3 f4 39. gxf4+ Kxf4 0-1
+

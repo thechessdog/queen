@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Langlotz"]
+[Black "Goldberg"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "d8ce9cc2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Nxe5 Be7
+8. Bxc6 dxc6 9. d4 Ne6 10. Be3 O-O 11. c3 f6 12. Nd3 Qd5 13. Nd2 g5 14. f4
+Qf5 15. Nf1 Bd6 16. Ng3 Qd5 17. Qd2 c5 18. Ne2 b6 19. Rf1 Bb7 20. Ne1 Rae8
+21. Rf2 cxd4 22. cxd4 gxf4 23. Nxf4 Bxf4 24. Bxf4 Nxd4 25. Bxc7 Qc5 26. Bg3
+Re2 27. Qf4 Rfe8 28. Qg4+ Kh8 29. Nd3 Qc4 30. Bh4 Rxf2 31. Nxf2 Qc6 32. Qh3
+Ne2+ 33. Kh1 f5 34. Nd3 Re3 35. Bf6+ Kg8 36. Ne5 Qe4 37. Rd1 Bd5 0-1
+

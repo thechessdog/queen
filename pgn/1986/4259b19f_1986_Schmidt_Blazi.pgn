@@ -1,0 +1,23 @@
+[Event "Bayern-ch"]
+[Site "Bayern"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmidt, Wolfgang"]
+[Black "Blazi, Janos"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "4259b19f"]
+[Epoch "Queen"]
+[BlackID "4605705"]
+[BlackCountry "GER"]
+[WhiteID "4601173"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 e6 6. cxd4 d6 7. Bc4 Nc6 8. O-O
+Be7 9. Qe2 O-O 10. Nc3 Nxc3 11. bxc3 dxe5 12. dxe5 Qc7 13. Bd3 Rd8 14. Bc2 g6
+15. Re1 Rd5 16. h4 Bf8 17. Bf4 Bg7 18. h5 Ne7 19. Ng5 Bd7 20. hxg6 hxg6 21. Qf3
+Rc8 22. Qh3 Qa5 23. Qh7+ Kf8 24. Ne4 Ng8 25. Re3 Be8 26. Rf3 Rxe5 27. Bxe5 Qxe5
+28. Rd1 f5 29. Nd6 Nf6 30. Qh4 Rxc3 31. Rxc3 Qxc3 32. Bb3 Bd7 33. Qg5 Qe5 34.
+Qxg6 Be8 35. Nxe8 Nxe8 36. Bxe6 Qf6 37. Qxf5 1-0

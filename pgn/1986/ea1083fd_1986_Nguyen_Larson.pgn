@@ -1,0 +1,20 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nguyen"]
+[Black "Larson, S."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "ea1083fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. c3 Nf6 5. Bd3 dxc3 6. Nxc3 Nc6 7. O-O e6
+8. Qe2 Be7 9. Rd1 Qc7 10. Nb5 Qb8 11. Bg5 a6 12. Nc3 Ne5 13. Rac1 h6 14.
+Be3 b5 15. h3 Bb7 16. a3 Nfd7 17. b4 O-O 18. Nd4 Nxd3 19. Qxd3 Ne5 20. Qe2
+Nc4 21. Nc2 Rc8 22. Re1 Bf6 23. Nd1 Bxe4 24. Nd4 Qb7 25. Qg4 Nxe3 26. Rxc8+
+Rxc8 27. Rxe3 Bxd4 28. Qxe4 Qxe4 29. Rxe4 e5 30. Kh2 Rc1 31. Ne3 Re1 32. g4
+d5 0-1
+

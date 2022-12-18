@@ -1,0 +1,16 @@
+[Event "corr BGD-WFT3"]
+[Site "corr BGD-WFT3"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Evers"]
+[Black "Winkler"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "41bc3133"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Qe1 Nc6 9. Qh4 Bf5 10. Be3 Bxc2 11. Ng5 h6 12. Nce4 Bxe4 13. Nxe4 Nxe4
+14. Qxe4 Bxd4 15. Qxg6+ 1-0
+

@@ -1,0 +1,25 @@
+[Event "Calcutta"]
+[Site "Calcutta"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mitra, Swapan"]
+[Black "Murshed, Niaz"]
+[Result "0-1"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "75f5663f"]
+[Epoch "Queen"]
+[BlackID "10200010"]
+[BlackCountry "BAN"]
+[WhiteID "5000815"]
+[WhiteCountry "IND"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nc7 12. Bc4 a6 13. Re1 Re8 14. e5 Nb6 15.
+Ba2 Bg4 16. a5 Nd7 17. Ne4 dxe5 18. Nd6 Rf8 19. h3 Bxf3 20. Qxf3 Nb5 21. Nxb7
+Qb8 22. d6 Ra7 23. Nxc5 Nxc5 24. fxe5 Nd7 25. Bf4 Nd4 26. Qc3 Ne6 27. Bg3 Rc8
+28. Qd2 Qb5 29. Bd5 Rc5 30. Rad1 Bh6 31. Qf2 Ndf8 32. b4 Qxb4 33. Bxe6 fxe6 34.
+Rf1 Rd7 35. Rb1 Qe4 36. Kh2 Rc2 37. Qf3 Qxf3 38. Rxf3 Rc8 39. Rb6 Ra7 40. Rfb3
+Nd7 41. Rb7 Rxb7 42. Rxb7 Rd8 43. Ra7 Bg7 44. Rxa6 Bxe5 45. Ra7 Bxg3+ 46. Kxg3
+e5 47. Rb7 Kf7 48. a6 Ke6 49. Kf3 Ra8 0-1

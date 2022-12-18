@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Arkel"]
+[Black "Leeners"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "e17cf252"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 dxc4 6. bxc4 Bd7 7. Nf3 Qe7
+8. Bxc6 Bxc6 9. c5 Bxc5 10. Nxe5 Qg5 11. Qb3 Nh6 12. Nxc6 bxc6 13. O-O O-O
+14. Qc3 f6 15. Ba3 Bxa3 16. Nxa3 Qd5 0-1
+

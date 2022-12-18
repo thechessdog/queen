@@ -1,0 +1,17 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gessat"]
+[Black "Stich"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "4ec0ba57"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 d6 5. Nc3 g6 6. Nf3 Bg7 7. e4 a6 8. a4
+Ne7 9. Nd2 O-O 10. Nc4 Qc7 11. Bf4 Rd8 12. Bd3 Be5 13. Bxe5 dxe5 14. O-O
+Nbc6 15. dxc6 Rd4 16. cxb7 Bxb7 17. Qe2 Rad8 18. Rfd1 f6 19. Ne3 Rxd3 20.
+Rxd3 Rd4 21. Rxd4 cxd4 22. Ncd5 Nxd5 23. Nxd5 Bxd5 24. exd5 1-0
+

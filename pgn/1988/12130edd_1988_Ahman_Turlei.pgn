@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ahman, H."]
+[Black "Turlei, S."]
+[Result "1/2-1/2"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Smyslov variation"]
+[HashCode "12130edd"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4
+8. Be3 Nfd7 9. Rd1 Nc6 10. Be2 Nb6 11. Qc5 Qd6 12. O-O Rfd8 13. Qxd6 cxd6
+14. d5 Ne5 15. Nxe5 Bxe2 16. Nxe2 Bxe5 17. Bd4 Nd7 1/2-1/2
+

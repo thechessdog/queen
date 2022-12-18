@@ -1,0 +1,22 @@
+[Event "corr Cities"]
+[Site "corr Cities"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Soucek, E."]
+[Black "Thomsen, C."]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "ea77fb1f"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Nf3
+Qc7 8. g3 Nd7 9. Bg2 e6 10. O-O Bg4 11. Re1 h5 12. Qb3 Bxf3 13. Bxf3 O-O-O
+14. c4 h4 15. d5 hxg3 16. hxg3 Nc5 17. Qc2 a5 18. Be3 Bd6 19. Kg2 f5 20.
+dxc6 f4 21. Bxc5 Bxc5 22. cxb7+ Kb8 23. Rad1 Rdg8 24. Rh1 fxg3 25. Rxh8
+Rxh8 26. fxg3 Rg8 27. g4 f5 28. Qd2 fxg4 29. Be4 Be7 30. Qc3 g3 31. Bf3 Bd6
+32. b3 Be5 33. Qe3 Rh8 34. Kf1 Rf8 35. Ke2 Bf4 36. Qe4 Bg5 37. Qxe6 Rh8 38.
+Rd5 Be7 39. Qe5 Rh2+ 40. Kd3 g2 41. Bxg2 Rxg2 42. Qxc7+ Kxc7 43. Rd7+ Kb8
+44. Rxe7 Rxa2 45. c5 Ra3 46. Kc4 1-0
+

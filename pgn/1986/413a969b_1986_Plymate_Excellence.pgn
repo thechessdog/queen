@@ -1,0 +1,27 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Plymate 5 5"]
+[Black "Excellence 3mhz"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "413a969b"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Nb6 6. Bb3 dxc3 7. Nxc3 e6
+8. Nf3 d5 9. Bg5 f6 10. exf6 gxf6 11. Ne5 h5 12. Qd3 Rg8 13. Qh7 Qe7 14.
+Qxg8 Qg7 15. Qxg7 Bxg7 16. Nb5 fxg5 17. Nc7+ Kd8 18. Nxa8 Bxe5 19. Nxb6
+axb6 20. O-O-O Nc6 21. h4 g4 22. Bc2 Bf4+ 23. Kb1 Ne7 24. Bh7 Bd7 25. Kc2
+e5 26. g3 Bh6 27. Rhe1 e4 28. Kb3 Bg7 29. Re2 Ke8 30. a4 Be6 31. Kc2 Bd7
+32. b3 Be6 33. Ree1 Kf7 34. b4 Nc6 35. Rb1 b5 36. axb5 Nd4+ 37. Kd1 Nxb5
+38. Rc1 Bd4 39. Kd2 Bxf2 40. Rf1 e3+ 41. Kd1 Nd4 42. Bd3 Bf5 43. Be2 Bxg3
+44. Rc3 Bf2 45. Rc7+ Ke6 46. Rc8 Bxh4 47. Rh1 Bf2 48. Rxh5 Nxe2 49. Kxe2 g3
+50. Rg8 d4 51. Kf3 d3 52. Re8+ Kd7 53. Re5 Be6 54. Rxe3 Bg4+ 55. Kxg4 Bxe3
+56. Kxg3 d2 57. Rh1 Bd4 58. b5 Kd6 59. Kf3 Kc5 60. Rh5+ Kc4 61. Ke2 Bc3 62.
+b6 Bd4 63. Kxd2 Bxb6 64. Rh8 Bd4 65. Rc8+ Bc5 66. Kd1 b6 67. Kc2 b5 68. Rc7
+Kb4 69. Rc6 Kc4 70. Rc8 Kb4 71. Ra8 Kc4 72. Rd8 Bb6 73. Re8 Bd4 74. Rf8 Be3
+75. Rg8 Bb6 76. Rh8 1/2-1/2
+

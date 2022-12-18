@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Korsunsky"]
+[Black "Mochalov, Evgeny V"]
+[Result "1-0"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[Variation "Venice attack"]
+[HashCode "c65c74e0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+ Nbd7 7. Nf5 a6 8.
+Ba4 b5 9. Bb3 Nc5 10. Bg5 Nxb3 11. axb3 Bxf5 12. Bxf6 Qxf6 13. exf5 Qxf5 14.
+Qd5 Rb8 15. Rxa6 Qxc2 16. O-O Be7 17. Qc6+ Kf8 18. Ra7 Qf5 19. Nd5 1-0

@@ -1,0 +1,21 @@
+[Event "Medellin"]
+[Site "Medellin"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Higuita"]
+[Black "Betancourt, David"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "4da661d7"]
+[Epoch "Queen"]
+[BlackID "4400364"]
+[BlackCountry "COL"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. Na3 Nge7 7. Nc4 O-O 8. Nd6
+a6 9. Bc4 b5 10. Bb3 Qc7 11. Nxc8 Raxc8 12. d3 h6 13. Ne1 Kh7 14. Be3 d6 15. a4
+f5 16. axb5 axb5 17. f3 Na5 18. Be6 Rcd8 19. b4 cxb4 20. cxb4 Nac6 21. Qb3 f4
+22. Bf2 Nd4 23. Bxd4 exd4 24. Ra5 Qb6 25. Nc2 Nc6 26. Ra3 Ra8 27. Rfa1 Rxa3 28.
+Rxa3 Rb8 29. Qa2 Ne5 30. Kf2 Rb7 31. Ke2 h5 32. Bg8+ Kh6 33. Ra6 Qd8 34. Nxd4
+Qg5 35. Kf1 Rc7 36. Qd2 Ng4 37. h4 Nh2+ 0-1

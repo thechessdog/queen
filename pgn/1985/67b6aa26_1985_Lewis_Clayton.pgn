@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Clayton"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn"]
+[Variation "Bronstein gambit"]
+[HashCode "67b6aa26"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. g4 Nxg4 3. e4 d5 4. Nc3 c6 5. Bf4 g6 6. exd5 cxd5 7. Bxb8 Rxb8
+8. Bb5+ Bd7 9. Qxg4 1-0
+

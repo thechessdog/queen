@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sigfusson, Sigurdur"]
+[Black "Thorhallsson, Throstur"]
+[Result "0-1"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Blumenfeld variation"]
+[HashCode "d5955bd1"]
+[Epoch "Queen"]
+[BlackID "2300109"]
+[BlackCountry "ISL"]
+[WhiteID "2300168"]
+[WhiteCountry "ISL"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 Qb6 13. fxg7 Bxg7 14. O-O O-O
+15. Qe2 Bb7 16. Rd1 b4 17. b3 e5 18. Bf5 Qd6 19. Nd2 Nc5 20. Qg4 Bc8 21. Ne4
+Bxf5 22. Qxf5 Nxe4 23. Qxe4 f5 24. Qe1 Rfb8 25. f3 Re8 26. Bd2 Rab8 27. Qf1 d3
+28. Rac1 e4 29. fxe4 fxe4 30. Be3 Bd4 31. Bxd4 Qxd4+ 32. Kh1 Rbc8 33. Qf4 Rxc1
+34. Rxc1 Rf8 0-1

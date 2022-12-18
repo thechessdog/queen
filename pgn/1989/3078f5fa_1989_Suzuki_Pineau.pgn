@@ -1,0 +1,16 @@
+[Event "JPN-ch"]
+[Site "Japan"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Suzuki, Tomonichi"]
+[Black "Pineau, Jacques"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "3078f5fa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 d5 8. exd5
+exd5 9. Bd3 Nc6 10. h3 Bb4 11. O-O O-O 12. a3 Bxc3 13. bxc3 Ne5 14. Nf3 Ng6
+1/2-1/2

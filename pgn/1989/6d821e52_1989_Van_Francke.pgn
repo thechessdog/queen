@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van der Vorst"]
+[Black "Francke"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "6d821e52"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7.
+Neg5+ Kg8 8. d4 h6 9. Nh3 Bg4 10. Qd2 Bxf3 11. gxf3 Nxd4 12. Qd3 Qf6 13.
+Ng1 Qf5 14. Qxf5 Nxf5 15. Bd2 Bc5 16. Nh3 Nd4 17. O-O-O Nxf3 18. b4 Bd6 19.
+c3 Kh7 20. Ng5+ Nxg5 21. Bxg5 hxg5 0-1
+

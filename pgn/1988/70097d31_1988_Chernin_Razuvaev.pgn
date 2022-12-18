@@ -1,0 +1,18 @@
+[Event "Protvino"]
+[Site "Protvino"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Chernin, Alexander"]
+[Black "Razuvaev, Yuri S"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "closed, Taimanov variation"]
+[HashCode "70097d31"]
+[Epoch "Queen"]
+[WhiteID "715620"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. e3 d6 6. Nge2 Nh6 7. d3 O-O 8. O-O
+Be6 9. h3 Qd7 10. Kh2 f5 11. f4 Nf7 12. b3 Qd8 13. Bb2 Rb8 14. Qd2 Ne7 1/2-1/2

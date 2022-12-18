@@ -1,0 +1,23 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reilly, Tim"]
+[Black "Hill, Robin"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e042ed3b"]
+[Epoch "Queen"]
+[WhiteID "3200302"]
+[BlackID "3200400"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. a3 Bd6 8.
+Nge2 Re8 9. Nb5 Bf8 10. O-O h5 11. f3 a6 12. Nbc3 c5 13. Kh1 Nc6 14. Bc2 b5 15.
+dxc5 Bxc5 16. Nd4 Qb6 17. Nce2 a5 18. Nxc6 Qxc6 19. Nd4 Qb6 20. b3 Ra7 21. Qd3
+Rae7 22. Bd2 g6 23. Rfe1 Bd7 24. b4 axb4 25. axb4 Bd6 26. Ra5 h4 27. Rea1 Nh5
+28. Nxb5 Rxe3 29. Bxe3 Rxe3 30. Qxd5 h3 31. Ra8+ Bf8 32. Nd4 Qxb4 33. Qa5 hxg2+
+34. Kxg2 Qxd4 35. Rxf8+ Kxf8 36. Qd8+ Kg7 37. Rd1 Re2+ 38. Kh1 Rxh2+ 0-1

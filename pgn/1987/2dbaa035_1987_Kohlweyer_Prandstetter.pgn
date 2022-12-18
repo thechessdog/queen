@@ -1,0 +1,23 @@
+[Event "Dortmund II"]
+[Site "Dortmund II"]
+[Date "1987.04.01"]
+[Round "1"]
+[White "Kohlweyer, Bernd"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "2dbaa035"]
+[Epoch "Queen"]
+[WhiteID "4600622"]
+[WhiteCountry "GER"]
+[BlackID "300225"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nc6 11. Nbd2 Rc8 12. Nb3 Nb4 13. Qc1 Bd5 14. Nfd2 Bxg2
+15. Kxg2 Nbd5 16. Bg5 c6 17. Nc5 Bxc5 18. Qxc5 h6 19. Bxf6 Nxf6 20. Rfc1 Qd5+
+21. f3 Qxc5 22. Rxc5 Nd7 23. Rc2 c5 24. Rac1 Rcd8 25. dxc5 Nxc5 26. Rxc5 Rxd2
+27. R5c2 Rfd8 28. Kf2 Kf8 29. Ke3 Rxc2 30. Rxc2 Ke7 31. f4 Rd6 32. Rc8 f5 33.
+Rc7+ Kf6 34. h4 h5 1/2-1/2

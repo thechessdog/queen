@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Glotz"]
+[Black "Kempe"]
+[Result "1-0"]
+[ECO "A74"]
+[Opening "Benoni"]
+[Variation "classical, 9...a6, 10.a4"]
+[HashCode "c5602027"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Nbd7 11. Bf4 Qe7 12. Nd2 Ne5 13. h3 h6 14. Bh2 g5
+15. f4 gxf4 16. Bxf4 Bd7 17. Qc2 Rab8 18. a5 Ne8 19. Bh2 Nc7 20. Qb3 Kh8
+21. Rae1 Na8 22. Na4 b5 23. axb6 Bxa4 24. Qxa4 Rxb6 25. b3 Nc7 26. Nc4 Nxc4
+27. bxc4 Rfb8 28. Bg4 Rg8 29. Bh5 Bf6 30. Qd1 Rf8 31. Rf3 Ne8 32. Qd2 Kh7
+33. Qa5 Rb2 34. e5 Bxe5 35. Bxe5 dxe5 36. Qc3 Rb7 37. Rxe5 Qh4 38. Qd3+ Kg7
+39. Rxf7+ 1-0
+

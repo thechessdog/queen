@@ -1,0 +1,18 @@
+[Event "ACCOM op"]
+[Site "ACCOM I"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Driessen, W."]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "2f00744d"]
+[Epoch "Queen"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. c4 Nc6 7. Nc2 Qc7 8. O-O
+b6 9. f4 Bc5+ 10. Be3 Nb4 11. Bxc5 Qxc5+ 12. Kh1 Nxd3 13. Qxd3 O-O 14. Nc3 Bb7
+15. Ne3 b5 16. cxb5 axb5 17. b4 Qc6 18. Rac1 Nxe4 19. f5 Ra3 20. Qxe4 Qxe4 21.
+Nxe4 Bxe4 0-1

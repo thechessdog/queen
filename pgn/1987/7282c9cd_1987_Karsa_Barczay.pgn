@@ -1,0 +1,19 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "4"]
+[White "Karsa, Laszlo"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "7282c9cd"]
+[Epoch "Queen"]
+[WhiteID "700274"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Ne2 d5 8.
+cxd5 exd5 9. Ng3 Re8 10. Bd3 Nc6 11. O-O b6 12. f3 h5 13. Ra2 h4 14. Ne2 Na5
+15. Nf4 Qd6 16. Re2 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "SASB"]
+[Site "SASB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Preziuso, T."]
+[Black "Barvas, L."]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "b946e9d4"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 5. Nf3 d6 6. O-O Bxc3 7. bxc3 O-O
+8. Qe2 Na5 9. Bb3 h6 10. Nd2 c5 11. f4 b5 12. fxe5 dxe5 13. Ba3 Qd6 14. d4
+exd4 15. e5 Re8 16. Qxb5 Rxe5 17. Qxa5 Rh5 18. Rxf6 gxf6 19. Nf1 Bb7 20.
+Qa4 Rxh2 0-1
+

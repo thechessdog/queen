@@ -1,0 +1,18 @@
+[Event "FRA-chB"]
+[Site "Epinal"]
+[Date "1986.01.01"]
+[Round "2"]
+[White "Dieu, Bruno"]
+[Black "Dubois, Jean Marie"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "36c72000"]
+[Epoch "Queen"]
+[WhiteID "603759"]
+[WhiteCountry "FRA"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 g6 5. f4 Bg7 6. d4 d6 7. Bd3 c5 8. Nf3
+O-O 9. O-O dxe5 10. dxe5 Nc6 11. Be3 Qa5 12. Qe1 f6 13. Rb1 fxe5 14. Rb5 Qc7
+15. Bc4+ e6 16. Qh4 exf4 17. Ng5 Bf6 18. Bxf4 Qe7 19. Rxc5 Qxc5+ 0-1

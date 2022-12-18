@@ -1,0 +1,21 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Avermaete"]
+[Black "Ruis"]
+[Result "1-0"]
+[ECO "B68"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7"]
+[HashCode "3bb366fa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. e5 b4 12. exf6 bxc3 13. Qxc3 gxf6 14.
+Kb1 O-O 15. Bh6 Re8 16. Nd4 Ne5 17. fxe5 Kh8 18. exd6 Bf8 19. Bxf8 Rxf8 20.
+Nc6 Bxc6 21. Qxc6 Qa5 22. Be2 Rfb8 23. Qc7 Qe5 24. b3 Qxe2 25. Qxf7 Rf8 26.
+Qe7 Rae8 27. Qb7 Rb8 28. Qf3 Qxf3 29. gxf3 Rfd8 30. Rd2 a5 31. c4 a4 32.
+Kc2 axb3+ 33. axb3 Rd7 34. Rg1 Rc8 35. Kc3 Rc6 36. Rgd1 Rc5 37. b4 Rh5 38.
+c5 1-0
+

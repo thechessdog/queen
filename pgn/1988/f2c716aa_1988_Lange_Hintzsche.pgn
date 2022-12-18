@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lange"]
+[Black "Hintzsche"]
+[Result "1-0"]
+[ECO "B82"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Tal variation"]
+[HashCode "f2c716aa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O O-O 10. Ndb5 Qb8 11. g4 a6 12. Nd4 Nxd4 13. Bxd4 b5 14. g5
+Nd7 15. Bd3 b4 16. Nd5 exd5 17. exd5 Ne5 18. fxe5 Bxg5+ 19. Kb1 dxe5 20.
+Qh5 h6 21. Rhg1 Bf4 22. Bc5 Bd7 23. Be7 Qb6 24. d6 Be3 25. Rg2 1-0
+

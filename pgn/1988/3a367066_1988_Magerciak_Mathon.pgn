@@ -1,0 +1,16 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Magerciak"]
+[Black "Mathon"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "3a367066"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 d6 7. Nf7 Qf8
+8. Nxh8 Bxf2+ 9. Kxf2 Nxe4+ 10. Ke3 Qf4+ 0-1
+

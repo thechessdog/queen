@@ -1,0 +1,21 @@
+[Event "Alicante op2"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Eisman, T."]
+[Black "Simon, A."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "89497f28"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Be2 e6 9. O-O Be7 10. h3 Bh5 11. Qb3 Nb6 12. Qb5 Bxf3 13. Bxf3 O-O 14. Bxc6
+bxc6 15. Qxc6 Qxd4 16. Be3 Qb4 17. Qb5 Nc4 18. Qxb4 Bxb4 19. Nd1 Nxe3 20. Nxe3
+h5 21. Rfd1 Rfd8 22. Kf1 Be7 23. b3 Rxd1+ 24. Rxd1 Rd8 25. Rxd8+ Bxd8 26. Ke2
+Kf8 27. b4 Ke8 28. Nc4 Bc7 29. Kd3 Kd7 30. b5 g5 31. g4 hxg4 32. hxg4 f5 33. f3
+Ke7 34. a4 Kf6 35. a5 e5 36. b6 axb6 37. a6 Bb8 38. Nxb6 Ke6 39. Nc8 e4+ 40.
+fxe4 fxg4 41. a7 Bxa7 42. Nxa7 g3 43. Nc6 Kf6 44. Nd4 g4 45. Ne2 g2 46. Ke3 Kg5
+47. Kf2 g1=Q+ 48. Kxg1 1-0

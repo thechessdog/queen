@@ -1,0 +1,18 @@
+[Event "Zahringen"]
+[Site "Zahringen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Heim, Bernhard"]
+[Black "Maier"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "27f15ac6"]
+[Epoch "Queen"]
+[WhiteID "4608402"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nd7 5. Nf3 Ne7 6. Be2 Nc6 7. O-O a5 8. a4 Be7
+9. Na3 O-O 10. Bf4 f6 11. Bg3 f5 12. h3 f4 13. Bh2 Rf7 14. Qd2 cxd4 15. cxd4
+Bb4 16. Qc1 g5 17. Nb5 Nf8 18. g3 Ng6 19. Bd3 Be7 20. Kh1 Qf8 21. Qd1 Qh6 0-1

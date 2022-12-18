@@ -1,0 +1,18 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Van Wezel, R."]
+[Black "Olthof, Rene"]
+[Result "0-1"]
+[ECO "B75"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack"]
+[HashCode "0a21e79b"]
+[Epoch "Queen"]
+[BlackID "1001094"]
+[BlackCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. g4 Nxd4 10. Bxd4 Be6 11. O-O-O Qa5 12. Kb1 Rfc8 13. h4 b5 14. Nd5 Qa6
+15. Bxf6 Bxd5 16. Qxd5 Bxf6 17. h5 e6 18. Qxd6 Rd8 19. Bxb5 Qxd6 0-1

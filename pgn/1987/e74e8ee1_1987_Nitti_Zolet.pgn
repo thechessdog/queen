@@ -1,0 +1,17 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Nitti, F."]
+[Black "Zolet, A."]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "e74e8ee1"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 d5 5. cxd5 Nxd5 6. Bb5 Bg4 7. Qa4 Nb4
+8. Nxe5 Bd7 9. Nxd7 Qxd7 10. O-O O-O-O 11. d4 Qf5 12. a3 Nd5 13. Bxc6 Nxc3
+14. bxc3 bxc6 15. Qxc6 Bd6 16. e4 Qg4 17. e5 Be7 18. Be3 h5 19. Rfb1 1-0
+

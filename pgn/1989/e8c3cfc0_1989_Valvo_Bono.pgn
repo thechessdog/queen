@@ -1,0 +1,26 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Valvo Team computer"]
+[Black "Bono Team computers"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "e8c3cfc0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Be3 O-O 10. f4 b4 11. Na4 Bb7 12. e5 dxe5 13. Nxe6 fxe6 14.
+Bxe6+ Kh8 15. Qxd8 Bxd8 16. fxe5 Nfd7 17. Rad1 Rxf1+ 18. Rxf1 h6 19. Rf7
+Be4 20. Nc5 Bg5 21. Nxe4 Bxe3+ 22. Kf1 Bd4 23. Bd5 Nc6 24. e6 Nde5 25. Rc7
+Bb6 26. Rxc6 Nxc6 27. Bxc6 Rf8+ 28. Ke2 Bd8 29. c4 bxc3 30. bxc3 Rf5 31. c4
+Kg8 32. Bd7 Rh5 33. h3 Kf8 34. Kd3 Bb6 35. Nc3 Re5 36. Ne4 Ke7 37. Nc3 Kd8
+38. Ne4 Kc7 39. Nc3 Bc5 40. Ne4 Ba7 41. a3 Bb6 42. a4 Bg1 43. Nc3 Re3+ 44.
+Kd2 Rg3 45. Nd5+ Kd8 46. Bc6 Bc5 47. Nc3 Bb4 48. Bf3 Ke7 49. Kd3 Kxe6 50.
+Ne4 Rg6 51. Kd4 Kd7 52. c5 h5 53. Nf2 Kc7 54. Ne4 h4 55. Kc4 Be1 56. Kd5
+Bg3 57. Bh5 Rh6 58. Bf3 Bf4 59. Nc3 Bd2 60. Ne2 Be3 61. Nc3 Kd7 62. Kc4 Kd8
+63. Ne4 Kc7 64. Nc3 Kb8 65. Nd5 Bd2 66. Bg4 Rg6 67. Ne7 Rf6 68. Nf5 Be1 69.
+Nxg7 Rf4+ 70. Kd5 Rxa4 71. Ne6 Rb4 0-1
+

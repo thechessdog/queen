@@ -1,0 +1,26 @@
+[Event "Oslo"]
+[Site "Oslo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ostenstad, Berge"]
+[Black "Karlsson, Lars"]
+[Result "1-0"]
+[ECO "A92"]
+[Opening "Dutch"]
+[Variation "stonewall variation"]
+[HashCode "412b74b1"]
+[Epoch "Queen"]
+[BlackID "1700057"]
+[BlackCountry "SWE"]
+[WhiteID "1500058"]
+[WhiteCountry "NOR"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. g3 d5 5. Bg2 Be7 6. O-O O-O 7. Bg5 h6 8. Bxf6
+Bxf6 9. cxd5 exd5 10. e3 c6 11. Ne1 Na6 12. Nd3 Nc7 13. Nd2 Ne8 14. Nf3 Nd6 15.
+Qc2 g5 16. Nfe5 Kg7 17. f4 g4 18. Kf2 h5 19. Ke2 Ne4 20. Nc5 Qe7 21. Rfc1 h4
+22. Nxe4 fxe4 23. Rab1 a5 24. a3 a4 25. Ke1 Rh8 26. Qe2 hxg3 27. hxg3 Rh2 28.
+Kd2 Bf5 29. Rh1 Rah8 30. Rxh2 Rxh2 31. Rh1 Rxh1 32. Bxh1 Qe6 33. Bg2 Qc8 34.
+Qd1 Be6 35. Qxa4 c5 36. dxc5 Bxe5 37. fxe5 Qxc5 38. Qb4 Qc7 39. Bf1 Kg6 40. Qd6
+Qf7 41. Be2 Kf5 42. a4 Qg7 43. b4 b6 44. a5 bxa5 45. bxa5 d4 46. Qxd4 Qc7 47.
+Qc3 Qd7+ 48. Ke1 Qa4 49. Kf2 Qa2 50. a6 Kg5 51. Qc7 Kg6 52. a7 Bd5 53. e6 Qa1
+54. Qf7+ Kg5 55. Qg8+ Kh6 56. Qf8+ 1-0

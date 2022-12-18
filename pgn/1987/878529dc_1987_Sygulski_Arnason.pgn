@@ -1,0 +1,25 @@
+[Event "Jurmala"]
+[Site "Jurmala"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sygulski, Artur"]
+[Black "Arnason, Jon L"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "878529dc"]
+[Epoch "Queen"]
+[WhiteID "1100521"]
+[WhiteCountry "POL"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Nc3 d6 10. Qc2 Nbd7 11. Nb5 Be4 12. Qb2 Qb8 13. Bf4 c6 14. a3 cxb5 15.
+axb4 axb4 16. Rxa8 Bxa8 17. Bd2 bxc4 18. bxc4 Rc8 19. Qxb4 d5 20. Rc1 dxc4 21.
+Rxc4 Rxc4 22. Qxc4 b5 23. Qb3 Bd5 24. Qb2 Qb7 25. Ne1 Bxg2 26. Nxg2 Ne4 27. Be1
+Nd6 28. Ne3 Nb6 29. Qb4 Nbc4 30. Nxc4 Nxc4 31. Qc5 h6 32. Bb4 Kh7 33. h4 Qe4
+34. Qxb5 Qxe2 35. Bc3 Qd3 36. Qb4 Kg6 37. Kg2 Qe4+ 38. Kg1 Qd3 39. Kg2 Kf5 40.
+Qc5+ Kg4 41. Qc6 Ne3+ 42. fxe3 Qe2+ 43. Kg1 Kxg3 44. Qd6+ Kh3 45. Qc6 g5 46.
+hxg5 hxg5 47. Ba5 f5 48. Be1 Qxe1# 0-1

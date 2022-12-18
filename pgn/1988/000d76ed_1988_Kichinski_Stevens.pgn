@@ -1,0 +1,19 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kichinski, Robert"]
+[Black "Stevens"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "000d76ed"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 O-O-O
+8. Nc3 Bb4 9. O-O Qf5 10. Be3 Nf6 11. Qb3 Bd6 12. Rac1 Qh5 13. Rfe1 Rhe8 14.
+Nb5 Bxh2+ 15. Nxh2 Bxe2 16. Nxa7+ Nxa7 17. Qc2 Nc6 18. Rxe2 Nd5 19. Nf3 f5 20.
+Bg5 Rxe2 21. Qxe2 Nxd4 22. Nxd4 Qxg5 23. Qc2 Rd7 24. Re1 Ne7 25. Qa4 Nc6 26.
+Nxc6 1-0

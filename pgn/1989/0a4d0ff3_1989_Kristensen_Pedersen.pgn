@@ -1,0 +1,20 @@
+[Event "Aarhus int"]
+[Site "Aarhus"]
+[Date "1989.01.01"]
+[Round "8"]
+[White "Kristensen, Leif"]
+[Black "Pedersen, Erik"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "0a4d0ff3"]
+[Epoch "Queen"]
+[WhiteID "1404571"]
+[BlackID "1404997"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bf5 7. Ne2 Bd6 8.
+Ng3 Be6 9. Bd3 g6 10. O-O f5 11. Bh6 Nd7 12. Re1 Qh4 13. Qd2 Be7 14. Bc4 Nc5
+15. Re5 Nd7 16. Ree1 Nc5 17. Re5 Nd7 18. Ree1 1/2-1/2

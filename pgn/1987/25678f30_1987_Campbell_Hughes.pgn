@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Campbell, A."]
+[Black "Hughes, K."]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "25678f30"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. cxd4 Nf5 9. Nf3 Qc7 10. Kd1 Nc6 11. Bd3 O-O 12. h4 Na5 13. h5 Nc4 14.
+Qh3 Qb6 15. g4 Nxd4 16. Ng5 f5 17. h6 g6 18. Qg3 f4 19. Qh4 Nxe5 20. Nxh7
+Kxh7 21. Qe7+ Rf7 22. Bxg6+ Kxg6 23. h7 Rxe7 24. h8=Q Rg7 25. Bxf4 Qb2 26.
+Qe8+ Kf6 27. Rh6+ Ng6 28. Qf8+ 1-0
+

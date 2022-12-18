@@ -1,0 +1,19 @@
+[Event "corr DDR-H"]
+[Site "corr DDR-H"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Westland"]
+[Black "Tari"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "902a7808"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. Ne5 Nf6
+8. h4 h6 9. Nxg6 fxg6 10. Bd3 Kf7 11. c3 Bd6 12. Qc2 Rf8 13. Bxg6+ Kg8 14.
+Ne4 Qc7 15. Qb3 Nd5 16. g3 Nd7 17. c4 Bb4+ 18. Ke2 Qb6 19. cxd5 cxd5 20.
+Nc5 Nxc5 21. dxc5 Qxc5 22. Be3 Qe7 23. Bd4 b6 24. Rac1 Kh8 25. Qe3 Bd6 26.
+Qxh6+ Kg8 27. Qh7# 1-0
+

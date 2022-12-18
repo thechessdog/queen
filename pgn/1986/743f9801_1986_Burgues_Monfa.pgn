@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Burgues"]
+[Black "Monfa Sole"]
+[Result "1-0"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "743f9801"]
+[Epoch "Queen"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 Ne7 6. g3 g6 7. f4 Bg7 8. Nf3
+Bg4 9. h3 Bxf3 10. Qxf3 Nd7 11. Bd3 Qc7 12. O-O O-O-O 13. Qe2 Kb8 14. f5
+gxf5 15. exf5 h5 16. f6 Nxf6 17. Bg5 c4 18. Bxc4 Nh7 19. Bxe7 Qxe7 20. Ra3
+e4 21. Rb3 Bd4+ 22. Kg2 Nf6 23. Bxa6 Rd7 24. Bb5 Rc7 25. Bc6 Bxc3 26. bxc3
+Nd7 27. Rxb7+ Rxb7 28. Bxb7 Nc5 29. Bc6 1-0
+

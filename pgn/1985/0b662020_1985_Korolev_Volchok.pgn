@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Korolev"]
+[Black "Volchok"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "0b662020"]
+[Epoch "Queen"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Bg2 Qe6+ 6. Kf1 Bh3 7. b4 cxb4
+8. a3 g6 9. Bb2 Nf6 10. axb4 Nc6 11. Na3 Nxb4 12. Rb1 a5 13. Bxf6 exf6 14.
+c3 Nc6 15. Qa4 Qd7 16. d4 Be7 17. Nc4 O-O 18. Bxh3 Qxh3+ 19. Ke2 Rfe8 20.
+Ne3 Bf8 21. Rxb7 Rxe3+ 22. Kxe3 Qe6+ 23. Kd2 Bh6+ 24. Ng5 fxg5 25. f3 Qd5
+26. Re1 Qxf3 27. g4 Qf4+ 28. Kc2 Qf2+ 29. Kd1 Qf3+ 30. Kd2 Bf8 31. Re3 Qf2+
+32. Re2 Qf4+ 33. Ke1 Qf3 34. Rb3 Bd6 35. Qc4 Qh1+ 36. Kd2 Bxh2 0-1
+

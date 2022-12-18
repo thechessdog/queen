@@ -1,0 +1,17 @@
+[Event "corr Sneiders mem"]
+[Site "corr Sneiders mem"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Arens, H."]
+[Black "Leisebein, Peter"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "c25e64ee"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Nc6 6. Be3 Nxd4 7. Bxd4 Qxd4
+8. Bb5+ Nd7 9. Nge2 Qc5 10. Bxd7+ Bxd7 11. Qxb7 Bc6 12. Qxc7 e5 13. Rd1 Be7 14.
+b4 Qb6 15. Qxe5 f6 16. Qe6 Bxg2 17. Qd7+ Kf7 18. Nd5 Bxd5 19. Qxd5+ Qe6 20.
+Qxe6+ Kxe6 21. Nd4+ Kf7 22. Nc6 Rac8 23. b5 Bc5 24. Rd5 Rhe8+ 25. Kd1 1-0

@@ -1,0 +1,21 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1987.06.01"]
+[Round "4"]
+[White "Gauglitz, Gernot"]
+[Black "Deak, Sandor"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "e5786172"]
+[Epoch "Queen"]
+[WhiteID "4611365"]
+[WhiteCountry "GER"]
+[BlackID "702838"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 cxd4 7. Nxd4 d5 8. Qb3
+Bxc3+ 9. bxc3 dxc4 10. Qa3 Nd5 11. O-O Nd7 12. Rd1 Qf6 13. Nb5 a6 14. Bxd5 axb5
+15. Qxa8 Nb6 16. Qa5 Nxd5 17. Ba3 Rd8 18. e4 b6 19. Qxb5 Bd7 20. Qxc4 Nxc3 21.
+Bb2 1-0

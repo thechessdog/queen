@@ -1,0 +1,19 @@
+[Event "Valencia"]
+[Site "Valencia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lopez Pereyra, Migu"]
+[Black "Rivera, Daniel"]
+[Result "0-1"]
+[ECO "B65"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4"]
+[HashCode "ae1cb659"]
+[Epoch "Queen"]
+[BlackID "3000052"]
+[BlackCountry "URU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bb5 Rd8 12. e5 dxe5 13. Qxe5 h6 14. Rxd8+
+Bxd8 15. Bxh6 gxh6 16. Rd1 a6 17. Ba4 b5 18. b4 Qc7 19. Bxb5 axb5 20. Nxb5 Qe7
+21. Nd6 Bb7 22. c4 Bc7 23. Nf5 Qxb4 0-1

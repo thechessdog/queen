@@ -1,0 +1,24 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fleck"]
+[Black "Siegmund"]
+[Result "0-1"]
+[ECO "E29"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Capablanca variation"]
+[HashCode "fb4575c0"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Bd3 Nc6
+8. Ne2 b6 9. e4 Ne8 10. e5 Ba6 11. Qc2 h6 12. Be3 Rc8 13. O-O cxd4 14. cxd4
+d5 15. Rac1 Na5 16. c5 Bxd3 17. Qxd3 Nc4 18. cxb6 axb6 19. Bd2 f5 20. Bb4
+Rf7 21. Nc3 Qd7 22. Nb1 Qb7 23. Rc2 Rc6 24. Rfc1 Rfc7 25. Nd2 Qc8 26. Nxc4
+Rxc4 27. Rxc4 Rxc4 28. Rxc4 Qxc4 29. Qd2 Nc7 30. Bc3 Nb5 31. Bb2 Qb3 32.
+Qc1 Qd3 33. Qa1 Na7 34. g3 f4 35. Qc1 f3 36. h4 Kh7 37. Qe3 Qb1+ 38. Bc1
+Nc6 39. Kh2 Na5 40. Qf4 Qc2 41. Be3 Nc4 42. Qxf3 Nxa3 43. Bxh6 Kxh6 44.
+Qxa3 Qxf2+ 45. Kh3 Qf1+ 46. Kh2 b5 47. Qe7 Qf2+ 48. Kh3 Qf5+ 49. Kh2 Kh7
+50. Qb4 Qc2+ 51. Kh3 Qc4 52. Qd6 b4 53. Qxe6 Qf1+ 54. Kg4 b3 55. h5 Qe2+
+0-1
+

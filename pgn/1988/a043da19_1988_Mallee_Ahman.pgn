@@ -1,0 +1,20 @@
+[Event "corr EUR/K tt"]
+[Site "corr EUR/K tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Mallee"]
+[Black "Ahman"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "a043da19"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Re1 d5 11. exd6 Bxd6 12. Bg5 Qd7 13. Rad1
+f6 14. Bh4 Qf7 15. Ne4 Bd7 16. Bg3 Bxg3 17. hxg3 Bg4 18. Qa6 Nd8 19. Nc5 h5
+20. Rd4 Bc8 21. Qa3 a6 22. Qb3 Qxb3 23. cxb3 Nf7 24. Nd7 Bxd7 25. Rxd7 Rfd8
+26. Rxc7 Rac8 27. Rxc8 Rxc8 28. Rd1 Rc7 29. Kf1 g5 30. Rd3 Kf8 31. Re3 Nd8
+32. Nd4 Kf7 33. Ke2 Rd7 34. Rd3 Rc7 35. b4 Re7+ 36. Kd2 1-0
+

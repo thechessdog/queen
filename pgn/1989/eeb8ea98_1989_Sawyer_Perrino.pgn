@@ -1,0 +1,15 @@
+[Event "Hartboro"]
+[Site "Hartboro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sawyer, T."]
+[Black "Perrino"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "eeb8ea98"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 Nf6 3. e5 Nfd7 4. Bd3 c5 5. e6 fxe6 6. Qh5+ g6 7. Qxg6+ hxg6
+8. Bxg6# 1-0
+

@@ -1,0 +1,20 @@
+[Event "Ushuaia"]
+[Site "Ushuaia"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Morgade"]
+[Black "Rubinetti, Jorge"]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "8d9bc8fd"]
+[Epoch "Queen"]
+[BlackID "100161"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Nd7 8.
+d4 exd4 9. Nxd4 O-O 10. Bf4 Bf6 11. Nf5 Nc5 12. Qf3 Ne6 13. Rad1 Qe8 14. e5 Bd8
+15. Rfe1 f6 16. Qg3 fxe5 17. Nh6+ Kh8 18. Bxe5 Qh5 19. Rxd8 Rxd8 20. Ng4 Rf8
+21. h3 Bd7 22. Ne4 Qg6 23. Qh4 Rae8 24. Bc3 Nf4 25. f3 Bf5 26. g3 Bxe4 27. fxe4
+Ne6 28. Ne5 Qg5 29. Qxg5 Nxg5 30. Kg2 Kg8 31. h4 Rxe5 0-1

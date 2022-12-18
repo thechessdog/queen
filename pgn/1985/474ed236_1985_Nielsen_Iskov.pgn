@@ -1,0 +1,19 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nielsen, Jorgen G"]
+[Black "Iskov, Gert"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "474ed236"]
+[Epoch "Queen"]
+[BlackID "1400398"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Bxc3+ 8.
+Nxc3 dxc4 9. Bxc4 O-O 10. Bg5 Nc6 11. d5 exd5 12. Nxd5 Re8+ 13. Kf1 Be6 14.
+Bxf6 gxf6 15. Rc1 Rc8 16. Bb3 Bxd5 17. Bxd5 Ne5 18. Rxc8 Qxc8 19. g3 Rd8 20.
+Qb3 Qc5 21. Be4 Rd2 22. Qe3 Qc4+ 23. Kg2 Re2 0-1

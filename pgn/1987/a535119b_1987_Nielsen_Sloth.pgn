@@ -1,0 +1,20 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Niels Jorgen"]
+[Black "Sloth, Jorn"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "a535119b"]
+[Epoch "Queen"]
+[BlackID "1400240"]
+[BlackCountry "DEN"]
+[WhiteID "1400142"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Be7 5. Nbd2 b6 6. Bd3 Bb7 7. c3 cxd4 8.
+cxd4 Nc6 9. a3 Nd5 10. Bxe7 Qxe7 11. O-O f5 12. b4 O-O 13. Qb3 Kh8 14. Nc4 Rfc8
+15. Rfc1 Rc7 16. b5 Nd8 17. Nfd2 Rac8 18. Bf1 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Westland SE MI opB"]
+[Site "Westland SE MI opB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schmidt, M."]
+[Black "Fuson, J."]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "134b10f1"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Be7 5. g3 O-O 6. Bg2 dxc4 7. O-O Nc6 8.
+Be3 h6 9. Ne5 Nxe5 10. dxe5 Nd7 11. Qd4 Bc5 12. Qxc4 Bxe3 13. fxe3 Nxe5 14.
+Qd4 Qxd4 15. exd4 Nc4 16. b3 Ne3 17. Rf3 Nxg2 18. Kxg2 b6 19. Nb5 Bb7 20.
+Nxc7 Bxf3+ 21. Kxf3 Rac8 22. Rc1 Rfd8 23. e3 Rd7 24. d5 Rcxc7 25. Rxc7 Rxc7
+26. dxe6 fxe6 27. h4 Rc2 28. g4 Rxa2 29. e4 Ra3 30. Kf4 Rxb3 31. g5 hxg5+
+32. Kxg5 a5 33. e5 a4 34. Kg6 a3 35. h5 a2 36. h6 gxh6 37. Kf6 a1=Q 38.
+Kxe6 Re3 39. Kf6 Qxe5+ 40. Kg6 Qg5# 0-1
+

@@ -1,0 +1,14 @@
+[Event "corr USCF"]
+[Site "corr USCF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sawyer, T."]
+[Black "Kluge, M."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "93b9721f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 c5 4. d5 e6 5. Bb5+ Bd7 6. dxe6 fxe6 7. Qh5+ 1-0
+

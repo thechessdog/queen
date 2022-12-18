@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jevtovic, D."]
+[Black "Wellens, J."]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "5f06871f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. Qd2 a6 8.
+O-O-O Nc6 9. f4 Bd7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 Qb6 13. f5 O-O-O 14.
+g3 Kb8 15. fxe6 fxe6 16. Bh3 Bc8 17. Qe1 Qc5 18. Ne2 d5 19. exd5 Nb4 20.
+Nfd4 e5 21. Qxb4 Qxb4 22. Nc6+ Ka8 23. Nxb4 Bxh3 24. Nc6 Rd7 25. Nc3 Kb7
+26. Rhe1 Bd6 27. Ne4 Rf8 28. b3 Bf5 29. Nxd6+ Rxd6 30. Kb2 Bd7 0-1
+

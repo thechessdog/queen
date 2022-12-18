@@ -1,0 +1,20 @@
+[Event "corr DDR/H"]
+[Site "corr DDR/H"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Winkler, E."]
+[Black "Eber, R."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e510c8c2"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. g3 f6 8. exf6
+Nxf6 9. Bg2 Bd6 10. O-O O-O 11. Nbd2 e5 12. dxe5 Bxe5 13. Qc2 Bg4 14. b4 g6
+15. Bb2 Bf5 16. Qa4 Bd3 17. Rfe1 Ne4 18. Nxe4 dxe4 19. Nd4 Nxd4 20. cxd4
+Bxd4 21. Bxd4 Qxd4 22. Ra2 c3 23. Qd1 Rad8 24. Qa1 c2 25. Qxd4 Rxd4 26. h3
+Rc4 27. Raa1 Rf6 28. Re3 Ra6 29. f3 Rxa3 30. fxe4 Rxb4 31. Kf2 Ra2 32. e5
+Rb1 0-1
+

@@ -1,0 +1,20 @@
+[Event "Zuerich op"]
+[Site "Zuerich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Micheli, Carlo"]
+[Black "Haas, Carmi"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "78fec24f"]
+[Epoch "Queen"]
+[WhiteID "800414"]
+[BlackID "1303430"]
+[WhiteCountry "ITA"]
+[BlackCountry "SUI"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. d3 O-O 8.
+Nge2 Na6 9. Qb3 Nc5 10. Qa3 b6 11. b4 Nb7 12. O-O Nd6 13. Bb2 Bb7 14. Bb3 Qd7
+15. Nd4 Nh5 16. Nc6 Nf4 17. Nd1 Nb5 0-1

@@ -1,0 +1,17 @@
+[Event "corr ch-DK"]
+[Site "corr ch-DK"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ros"]
+[Black "Korning"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "44c54f5a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8.
+Bc3 d5 9. Nbd2 c6 10. Ne5 Nfd7 11. Nd3 b5 12. cxb5 Bxb5 13. Nf3 Qb6 14. Qd2
+c5 15. O-O Bxd3 16. Qxd3 Nc6 1/2-1/2
+

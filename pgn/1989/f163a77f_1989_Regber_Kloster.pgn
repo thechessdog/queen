@@ -1,0 +1,18 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Regber"]
+[Black "Kloster, Joseph"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "f163a77f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Nc4 Nf6 6. Be2 h6 7. O-O Nc6
+8. c3 Bf5 9. Nba3 a6 10. Nc2 h5 11. N2e3 Bxh2+ 12. Kh1 Be6 13. d5 Bxd5 14.
+Nxd5 Nxd5 15. Kxh2 Qh4+ 16. Kg1 O-O-O 17. Qa4 f5 18. Ne3 Ne5 19. Nxf5 Qf6
+20. Ng3 Qh4 21. Qxe4 Ng4 22. Bxg4+ hxg4 23. Rd1 Rde8 24. Qf5+ Kb8 25. Be3
+Nxe3 0-1
+

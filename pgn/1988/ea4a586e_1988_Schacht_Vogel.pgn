@@ -1,0 +1,20 @@
+[Event "Bundesliga 8788"]
+[Site "Duitsland tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Schacht, Holger"]
+[Black "Vogel, Robert"]
+[Result "1-0"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "ea4a586e"]
+[Epoch "Queen"]
+[WhiteID "4603079"]
+[WhiteCountry "GER"]
+[BlackID "4604253"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 c6 7. Nf3 Qa5 8. Rc1
+dxc4 9. Bxc4 b5 10. Be2 Be6 11. Qd1 b4 12. Qa4 Qxa4 13. Nxa4 Nh5 14. Be5 f6 15.
+Bxb8 Rfxb8 16. Bc4 Bxc4 17. Rxc4 f5 18. Ke2 1-0

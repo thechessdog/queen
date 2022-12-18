@@ -1,0 +1,20 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Arnason, Throstur"]
+[Black "Zaltsman, Vitaly F"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "047d7559"]
+[Epoch "Queen"]
+[WhiteID "2300435"]
+[WhiteCountry "ISL"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. d5 Nf6 5. Nc3 Bc5 6. Bg5 h6 7. Bh4 O-O 8. Bxc4
+a6 9. a4 Nbd7 10. Nge2 Re8 11. O-O Nf8 12. Kh1 Ng6 13. Bxf6 Qxf6 14. Qd2 Nf4
+15. Nxf4 exf4 16. Qd3 Bg4 17. f3 Bd7 18. Bb3 Re5 19. Ne2 Rh5 20. Ng1 Rxh2+ 21.
+Kxh2 Qh4+ 22. Nh3 Bxh3 0-1

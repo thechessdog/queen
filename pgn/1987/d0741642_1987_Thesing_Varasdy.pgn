@@ -1,0 +1,30 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "11"]
+[White "Thesing, Matthias"]
+[Black "Varasdy, Imre"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "d0741642"]
+[Epoch "Queen"]
+[WhiteID "4600720"]
+[WhiteCountry "GER"]
+[BlackID "700460"]
+[BlackCountry "HUN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 c6 7. a4 Qc7 8. Be2 e5
+9. dxe5 dxe5 10. Bc4 Qe7 11. O-O Nbd7 12. Qb1 Nc5 13. Ng5 Ne6 14. Nxe6 Bxe6 15.
+Qa2 Rfe8 16. Bxe6 Qxe6 17. Qxe6 Rxe6 18. a5 Bf8 19. Rfb1 Ree8 20. b4 Nd7 21.
+Rd1 Red8 22. Rab1 a6 23. f3 Be7 24. Na4 Rac8 25. c3 Kf8 26. Kf2 Ke8 27. g3 h5
+28. g4 hxg4 29. hxg4 Nf8 30. Rh1 Rd3 31. Ke2 Rdd8 32. Nb6 Rb8 33. Rh8 f6 34.
+Rbh1 Kf7 35. Na4 Nd7 36. R8h7+ Ke6 37. R1h6 Rg8 38. Nc5+ Bxc5 39. Bxc5 Rbe8 40.
+Kd3 Nxc5+ 41. bxc5 Rd8+ 42. Ke2 Rb8 43. Rc7 Rgc8 44. Rg7 Rg8 45. Rhxg6 Rxg7 46.
+Rxg7 Rh8 47. Rxb7 Rh2+ 48. Kd3 Ra2 49. Rc7 Rxa5 50. Rxc6+ Ke7 51. Kc4 Ra1 52.
+Rb6 Rf1 53. Kd5 Rxf3 54. Rb7+ Kd8 55. Ra7 Rxc3 56. Rxa6 Rd3+ 57. Ke6 Rf3 58.
+Ra7 Kc8 59. Rg7 Rf4 60. Kd5 Rf1 61. g5 fxg5 62. Rxg5 Kd7 63. Rg7+ Kd8 64. c6
+Rc1 65. c7+ Kc8 66. Kxe5 Re1 67. Kf5 Rf1+ 68. Ke6 Re1 69. e5 Re2 70. Rh7 Re1
+71. Kf6 Rf1+ 72. Ke7 Rc1 73. Rh8+ Kxc7 74. e6 Rg1 75. Ke8 Ra1 76. Rh7+ Kd6 77.
+e7 Re1 78. Kd8 1-0

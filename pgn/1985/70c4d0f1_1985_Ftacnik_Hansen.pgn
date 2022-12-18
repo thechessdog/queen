@@ -1,0 +1,19 @@
+[Event "Naestved"]
+[Site "Naestved"]
+[Date "1985.01.01"]
+[Round "2"]
+[White "Ftacnik, Lubomir"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "70c4d0f1"]
+[Epoch "Queen"]
+[WhiteID "14900017"]
+[WhiteCountry "SVK"]
+[BlackID "1400010"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. a3 d5 6. cxd5 Nxd5 7. e3 c5 8. Ne5
+a6 9. dxc5 Bxc5 10. Qa4+ Nd7 11. Qxd7+ Qxd7 12. Nxd7 Kxd7 13. Bd2 Nxc3 1/2-1/2

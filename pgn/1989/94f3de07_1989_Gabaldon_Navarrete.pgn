@@ -1,0 +1,17 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Gabaldon, M."]
+[Black "Navarrete, J."]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "94f3de07"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 Be7 6. O-O O-O 7. Nc3 Nc6
+8. a3 a6 9. b4 b5 10. Bb3 Bb7 11. Bb2 Nd5 12. Rc1 Bf6 13. Ne4 Re8 14. Nc5
+Bc8 15. Qd2 Be7 16. e4 Nb6 17. Rfd1 Bxc5 18. Rxc5 Ne7 19. Qc3 Ng6 20. d5 e5
+21. d6 cxd6 22. Nxe5 Nxe5 23. Rxe5 Rf8 24. Re7 1-0
+

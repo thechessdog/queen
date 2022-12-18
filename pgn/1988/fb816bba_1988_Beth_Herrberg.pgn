@@ -1,0 +1,18 @@
+[Event "corr tt"]
+[Site "corr tt"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Beth"]
+[Black "Herrberg"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Bronstein variation"]
+[HashCode "fb816bba"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. Na3 b5 7. c4 b4 8.
+Nc2 Nf6 9. d4 c5 10. Nxe5 Bb7 11. Bf4 Qb6 12. d5 g6 13. Ne3 Bg7 14. Qa4+
+Ke7 15. Bg5 Rhd8 16. Nc6+ Bxc6 17. dxc6 Ke8 18. e5 Ne4 19. Bxd8 Rxd8 20.
+Nd5 Qa7 21. Rfe1 Ng5 22. Qxa6 Ra8 23. Nxc7+ 1-0
+

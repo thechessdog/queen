@@ -1,0 +1,21 @@
+[Event "Tirnavia"]
+[Site "Trnava"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Lanc, Alois"]
+[Black "Hausner, Ivan"]
+[Result "1-0"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Sozin, 7.Be3"]
+[HashCode "20d4b110"]
+[Epoch "Queen"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackID "300110"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qd2
+Be7 9. O-O-O O-O 10. Bb3 Qe8 11. f4 Nd7 12. f5 Nc5 13. g4 b5 14. Kb1 Nxb3 15.
+axb3 Bd7 16. Qf2 b4 17. Nce2 a5 18. g5 Nxd4 19. Nxd4 Qb8 20. f6 Bd8 21. fxg7
+Kxg7 22. Qh4 Kg8 23. Qh6 Bb6 24. Rhg1 d5 25. Nf5 exf5 26. Bxb6 1-0

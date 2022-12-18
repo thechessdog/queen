@@ -1,0 +1,25 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bronstein, Luis Marcos"]
+[Black "Juarez, Alberto"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "6d58ae78"]
+[Epoch "Queen"]
+[WhiteID "100463"]
+[BlackID "102091"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 b4 10. a5 Nc5 11. Be3 d4 12. Bg5 Qd7 13. Bxe6 Nxe6 14. Nbd2 Be7 15.
+Ne4 Bxg5 16. Nfxg5 h6 17. Nxe6 Qxe6 18. f4 O-O 19. Qd3 Qd5 20. Rf3 Kh8 21. Rh3
+Qb5 22. Rxh6+ gxh6 23. Qh3 Kg7 24. Qg4+ Kh8 25. Qh4 Kg7 26. Qf6+ Kh7 27. Qf5+
+Kg7 28. Qg4+ Kh8 29. Qh3 Kg7 30. Qg3+ Kh8 31. Qh4 Kg7 32. Qf6+ Kh7 33. Qf5+ Kg7
+34. Nf6 Rh8 35. Re1 Rad8 36. Nh5+ Kf8 37. Qf6 Rg8 38. Qxh6+ Ke8 39. Nf6+ Ke7
+40. Nxg8+ Rxg8 41. Qf6+ Kf8 42. e6 Qh5 43. exf7 Qxf7 44. Qxc6 Rg6 45. Qc5+ Rd6
+46. Qxb4 1-0

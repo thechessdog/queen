@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Frohs"]
+[Black "Hahmann"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "5e32213f"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O Nbd7 8.
+h3 c6 9. Be3 b6 10. f4 Ba6 11. Rf2 Re8 12. g4 Bxe2 13. Rxe2 Qc7 14. Rd2 c5
+15. dxe5 dxe5 16. g5 exf4 17. gxf6 Nxf6 18. Bf2 Rad8 19. Rxd8 Rxd8 20. Qe2
+g5 21. Rd1 h6 22. Rxd8+ Qxd8 23. e5 Nd7 24. e6 Ne5 25. exf7+ Kxf7 26. Nd5
+Qe8 27. Qe4 Qe6 28. b3 Nd7 29. Qa4 a5 30. Nc7 Qd6 31. Qc4+ Ke7 32. Nd5+ Kd8
+33. h4 Be5 34. hxg5 hxg5 35. Qd3 Qh6 36. Bh3 Qd6 37. Bxd7 Kxd7 38. Nxb6+
+Kc6 39. Qxd6+ Bxd6 40. Nc4 Bc7 41. a4 Kd5 42. Be1 Ke4 43. Bxa5 Bb8 44. Bc3
+Kf3 45. Be5 Ba7 46. a5 Ke2 47. c3 f3 48. Bg3 Bb8 49. Bf2 g4 50. Bxc5 Bf4
+51. Bf2 g3 0-1
+

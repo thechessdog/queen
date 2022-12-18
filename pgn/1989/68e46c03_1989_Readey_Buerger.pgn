@@ -1,0 +1,17 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Readey, J."]
+[Black "Buerger"]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "68e46c03"]
+[Epoch "Queen"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Bg7 6. Be3 Qb6 7. Nb3 Qb4+
+8. Bd2 Qd6 9. Nc3 Nf6 10. f4 Qb8 11. e5 Ng8 12. c5 f6 13. exf6 Nxf6 14. Bc4
+e6 15. O-O O-O 16. Qe2 Ne7 17. f5 gxf5 18. Bf4 b6 19. Bxb8 1-0
+

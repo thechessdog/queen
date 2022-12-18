@@ -1,0 +1,16 @@
+[Event "Bundesliga"]
+[Site "Bundesliga"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Konig"]
+[Black "Bulthaupt, Freerk, Dr."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "b89a9758"]
+[Epoch "Queen"]
+[BlackID "4644190"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 f5 3. d4 fxe4 4. Nxe5 Nf6 5. Bg5 Be7 6. Be2 d6 7. Nc4 c6 8. Ne3
+Qa5+ 0-1

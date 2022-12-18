@@ -1,0 +1,19 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gusev, Vladimir"]
+[Black "Tabadian"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "11c8dc0e"]
+[Epoch "Queen"]
+[WhiteID "4111737"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bf3 O-O 7. Ne2 Nbd7 8.
+O-O a6 9. Bg5 Be7 10. Re1 Re8 11. Qd3 h6 12. Bh4 c5 13. Rad1 Qa5 14. Bg3 Ra7
+15. d5 exd5 16. Bxd5 b5 17. Nf4 Nb6 18. Bxf7+ Kxf7 19. Qg6+ Kf8 20. Bh4 Ng8 21.
+Nh5 1-0

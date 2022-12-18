@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fritz, R."]
+[Black "Malinin, V."]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "a4027c18"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. d4 exd3 12. Nxd3 Qc7 13. b3 c5 14.
+Na3 Rb8 15. Bf3 O-O 16. c4 Bf5 17. Nb5 Rxb5 18. cxb5 c4 19. bxc4 Rd8 20.
+Be2 Bb4+ 21. Bd2 Rxd3 22. Bxd3 Bxd3 23. Bxb4 Qe5+ 24. Kd2 Ne4+ 25. Kxd3
+Nxf2+ 26. Kc2 Qe4+ 27. Kd2 Nxc4+ 28. Kc3 Nxd1+ 29. Rhxd1 Ne3 30. Rd8+ Kh7
+31. Rd3 Nd5+ 32. Rxd5 Qxd5 33. Rc1 Qxa2 0-1
+

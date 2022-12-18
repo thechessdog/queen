@@ -1,0 +1,16 @@
+[Event "Olomouci"]
+[Site "Olomouci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schurade, Mathias"]
+[Black "Pokorny, Zdenek"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "74ba7aea"]
+[Epoch "Queen"]
+[BlackID "300799"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. d3 dxe4 5. dxe4 Qxd1+ 6. Kxd1 Nf6 7. Bd3 Bg4 8.
+Ke2 O-O-O 0-1

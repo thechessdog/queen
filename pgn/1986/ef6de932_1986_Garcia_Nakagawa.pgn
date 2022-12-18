@@ -1,0 +1,19 @@
+[Event "Dubai"]
+[Site "Dubai"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Garcia, Ana"]
+[Black "Nakagawa, Emiko"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "ef6de932"]
+[Epoch "Queen"]
+[BlackID "7000480"]
+[BlackCountry "JPN"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. g3 Nf6 5. Bg2 Bd6 6. Ne2 O-O 7. O-O Bg4 8. f3
+Be6 9. Rf2 Bc5 10. b3 Bxf2+ 11. Kxf2 Qb6+ 12. Kf1 Nbd7 13. Bb2 Nh5 14. d4 Qc7
+15. dxe5 Nxe5 16. Rc1 Rad8 17. Qe1 Nf6 18. Qf2 dxe4 19. Nxe4 Nxe4 20. fxe4 f5
+21. Qe3 Ng4 22. Qxa7 Nxh2+ 23. Kg1 Ng4 24. exf5 Bxf5 25. Bxc6 Qxc6 0-1

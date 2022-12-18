@@ -1,0 +1,18 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Randow, R."]
+[Black "Donegani, P."]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "b35937c9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+Be6 9. f4 Qc7 10. f5 Bc4 11. Bxc4 Qxc4 12. Qf3 b5 13. a3 Nbd7 14. Bg5 O-O 15.
+Rad1 a5 16. Qd3 Qxd3 17. Rxd3 b4 18. Nb5 Rfc8 19. axb4 axb4 20. c3 Ra2 21. Nxd6
+Bxd6 22. Rxd6 Rxb2 23. Bxf6 Nxf6 24. Nc5 bxc3 25. Na4 Nxe4 26. Nxb2 Nxd6 27.
+Nd3 f6 28. g4 c2 29. Rc1 Rc4 30. h3 Nb5 31. Ne1 Nd4 32. Kf2 Rc3 0-1

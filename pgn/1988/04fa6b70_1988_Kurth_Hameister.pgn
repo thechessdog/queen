@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kurth"]
+[Black "Hameister"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "04fa6b70"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Bg4
+8. Re1 Be7 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qg3 dxc4 13. Qxg7 Rg8
+14. Qxf6 cxd3 15. Nd5 Ne2+ 0-1
+

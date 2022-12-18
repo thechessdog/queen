@@ -1,0 +1,27 @@
+[Event "Bad Orb op"]
+[Site "Bad Orb"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Fette, Martin"]
+[Black "Alber, Horst"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "8cc18386"]
+[Epoch "Queen"]
+[WhiteID "4600827"]
+[BlackID "4602013"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Bg4 6. Be3 Qb6 7. Qd2 Bxf3 8. gxf3
+Nd7 9. Bh3 Qa5 10. O-O Nb6 11. b3 f5 12. Rfe1 Nh6 13. Rad1 O-O 14. a3 Kh8 15.
+b4 Qxa3 16. Bf1 c5 17. bxc5 dxc5 18. Nb5 Qa4 19. Ra1 Qb4 20. dxc5 Qxd2 21. Bxd2
+Nd7 22. e5 Nxc5 23. Nxa7 Nf7 24. Be3 Ne6 25. Bc4 Nfd8 26. Kf2 Bh6 27. Kg3 Ng7
+28. Nb5 Rc8 29. Bb3 Nh5+ 30. Kf2 Nxf4 31. Rad1 Nc6 32. Rd7 Na5 33. Nc7 Nxb3 34.
+cxb3 Rfd8 35. Red1 Rxd7 36. Rxd7 Nh3+ 37. Ke2 Bxe3 38. Kxe3 Ng5 39. Rxe7 f4+
+40. Kxf4 Rxc7 41. Re8+ Kg7 42. Kxg5 Rc3 43. Re7+ Kf8 44. Rxb7 Rxf3 45. Rxh7
+Rxb3 46. Kxg6 Rb6+ 47. Kf5 Kg8 48. Rh4 Kf7 49. Rh7+ Kg8 50. Rd7 Rh6 51. Rd6
+Rxh2 52. Kf6 Rf2+ 53. Ke6 Re2 54. Kf6 Rf2+ 55. Ke7 Kg7 56. Rd1 Rf7+ 57. Ke8
+Rf8+ 58. Kd7 Rf7+ 59. Kd6 Rf2 60. e6 Ra2 61. e7 1-0

@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Franke, Heribert"]
+[Black "Bielecki"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "04a16785"]
+[Epoch "Queen"]
+[WhiteID "4600576"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Ng5 d5 8. exd5
+Nd4 9. Re1 Bd6 10. c3 Nxb3 11. axb3 O-O 12. c4 Nxd5 13. Nxh7 Nf4 14. Qg4 Kxh7
+15. d4 f5 16. Qg3 Nxg2 17. Rd1 exd4 18. Qh3+ Qh4 0-1

@@ -1,0 +1,19 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Singleton"]
+[Black "Kwiatkowski"]
+[Result "1-0"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "4a95a800"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. Ng3 Bxc3+ 7. bxc3 d5
+8. Ba3 Bxc4 9. Bxc4 dxc4 10. O-O Qd7 11. Rb1 Qc6 12. e4 Nxe4 13. Nxe4 Qxe4
+14. Re1 Qd5 15. Qg4 Nc6 16. Qxg7 O-O-O 17. Qxf7 Qa5 18. Rxe6 Nb8 19. Be7
+Qxa2 20. Rbe1 Rd7 21. Qf3 Re8 22. h4 Qa4 23. h5 Qb5 24. R1e5 Qa4 25. d5 c6
+26. Bh4 Rg8 27. dxc6 1-0
+

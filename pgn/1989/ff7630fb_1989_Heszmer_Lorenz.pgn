@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Heszmer"]
+[Black "Lorenz"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "ff7630fb"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Qxc3 O-O-O
+14. Rb1 d4 15. Qc4 Nd5 16. Rb3 Nb6 17. Qc5 Be8 18. Rg3 Rh8 19. Qb5 Ne7 20.
+Qb1 Bc6 21. Rd3 Nf5 22. Ng3 Nxg3 23. Rxg3 Rdg8 24. Rg1 Rxg3 25. hxg3 Nd5
+26. Qb2 Ne3 27. Bxe3 dxe3 28. Qb4 Qd8 29. Ke2 Qg8 30. Qe1 Qg6 31. Kxe3 Qxc2
+32. Qb4 a5 33. Qc4 Qb2 34. Qc5 Rd8 35. Bd3 Qb3 0-1
+

@@ -1,0 +1,19 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ekebjaerg, O."]
+[Black "Van Manen"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "d3c97b14"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 Nd7 9. Be3 dxe5 10. dxe5 f6 11. exf6 Bxf6 12. h3 Be6 13. Qe2 Bf7 14.
+Rad1 Qe8 15. f5 Kh8 16. fxg6 Bxg6 17. Bxg6 hxg6 18. Nd5 Rc8 19. Bh6 Rf7 20.
+Ng5 Bxg5 21. Bxg5 Nb6 22. Nxb6 cxb6 23. Qe6 Rf5 24. Rxf5 gxf5 25. Rd7 Rd8
+26. Bxe7 1-0
+

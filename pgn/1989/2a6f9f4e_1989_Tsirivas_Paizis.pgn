@@ -1,0 +1,16 @@
+[Event "Corfu"]
+[Site "Corfu"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tsirivas"]
+[Black "Paizis, A."]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "2a6f9f4e"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. Be3 cxd4 5. Bxd4 Nc6 6. Nf3 Bg4 7. Bxc4 e6
+8. Bc3 Qxd1+ 9. Kxd1 Nf6 0-1
+

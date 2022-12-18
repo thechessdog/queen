@@ -1,0 +1,23 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kontic, Vladimir"]
+[Black "Petersen, Soren"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "7b1edfb7"]
+[Epoch "Queen"]
+[WhiteID "16504372"]
+[BlackID "1459040"]
+[WhiteCountry "MNE"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Be2 Nc6 7. a3 c4 8. O-O f5
+9. Ng5 Be7 10. Nh3 O-O-O 11. Kh1 h6 12. Nf4 g5 13. Ng6 Rh7 14. Nd2 Na5 15. Rb1
+Rg7 16. Bh5 Be8 17. Nxe7+ Nxe7 18. Bxe8 Rxe8 19. b4 cxb3 20. a4 Qc6 21. Ba3 Nc4
+22. Bb4 Nxd2 23. Qxd2 Qc4 24. Qd1 Nc6 25. Qxb3 Qxb3 26. Rxb3 Nxb4 27. Rxb4 Rc7
+28. Rc1 Kb8 29. a5 Rec8 30. Rcb1 Rxc3 31. Rxb7+ Ka8 32. h3 Rc1+ 33. Kh2 Rxb1
+34. Rxb1 Rc4 35. Rd1 Ra4 36. Rc1 Kb7 37. Rb1+ Kc7 38. Rc1+ 0-1

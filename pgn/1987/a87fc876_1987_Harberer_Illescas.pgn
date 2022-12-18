@@ -1,0 +1,20 @@
+[Event "Linares"]
+[Site "Linares"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Harberer"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "A71"]
+[Opening "Benoni"]
+[Variation "classical, 8.Bg5"]
+[HashCode "a87fc876"]
+[Epoch "Queen"]
+[BlackID "2200015"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. Bg5
+O-O 9. Nd2 Re8 10. Be2 Na6 11. O-O Nc7 12. a4 b6 13. f4 Rb8 14. Bf3 Qd7 15. h3
+a6 16. Kh1 b5 17. Bxf6 Bxf6 18. e5 dxe5 19. Nde4 Bg7 20. Nxc5 Qd8 21. d6 bxa4
+22. d7 Re7 23. dxc8=Q Qxc8 24. N3xa4 exf4 25. Qd6 Re8 26. Qxf4 Be5 27. Qc4 Ne6
+28. Bd5 1-0

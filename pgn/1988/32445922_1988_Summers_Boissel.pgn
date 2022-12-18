@@ -1,0 +1,19 @@
+[Event "corr Bergraser mem"]
+[Site "corr Bergraser mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Summers"]
+[Black "Boissel"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "32445922"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nce2 h5 13. g3 Na5 14. b3
+b4 15. Bg2 Rc8 16. e5 fxe5 17. fxe5 dxe5 18. Nf3 Qc7 19. Nxe5 Bb5 20. Nd3
+Bg7 21. Rhf1 O-O 22. Nef4 Nc4 23. bxc4 Bxc4 24. Nxb4 Qe5 25. c3 Bxf1 26.
+Rxf1 Rxc3 27. Rc1 Rxc1+ 28. Kxc1 Qa1+ 29. Kc2 Rb8 30. Kb3 a5 0-1
+

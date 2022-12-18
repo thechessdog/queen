@@ -1,0 +1,21 @@
+[Event "Tel Aviv"]
+[Site "Tel Aviv"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Maus, Soenke"]
+[Black "Shrentzel, Mordechai"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "cdb3d43b"]
+[Epoch "Queen"]
+[WhiteID "4600240"]
+[WhiteCountry "GER"]
+[BlackID "2800632"]
+[BlackCountry "ISR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 c5
+8. Bc4 cxd4 9. O-O Be7 10. Qe2 O-O 11. Rad1 Qa5 12. Rxd4 b5 13. Bd3 Bb7 14. Rh4
+h6 15. Bxh6 b4 16. Qe3 Qc5 17. Bxg7 Qxe3 18. Bxf6 Bxf6 19. Rg4+ Kh8 20. fxe3
+Be7 21. Ne5 1-0

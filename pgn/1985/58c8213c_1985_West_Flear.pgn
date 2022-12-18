@@ -1,0 +1,20 @@
+[Event "Edinburgh ch-BCF"]
+[Site "Edinburgh ch-BCF"]
+[Date "1985.08.01"]
+[Round "1"]
+[White "West, Guy"]
+[Black "Flear, Glenn C"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "58c8213c"]
+[Epoch "Queen"]
+[WhiteID "3200086"]
+[WhiteCountry "AUS"]
+[BlackID "400165"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. Nf3 Nxe4 5. Nxe4 d5 6. d4 dxc4 7. d5 Nd4 8.
+Nxd4 Qxd5 9. Qf3 Qxd4 10. Bg5 f5 11. Nf6+ gxf6 12. Bxf6 Rg8 13. O-O Kf7 14. Bh8
+Qg4 15. Qd5+ Be6 16. Qxb7 Bd6 17. h3 Qe4 0-1

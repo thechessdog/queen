@@ -1,0 +1,22 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zysk, Robert"]
+[Black "Huss, Andreas"]
+[Result "0-1"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "6b0d0c9c"]
+[Epoch "Queen"]
+[WhiteID "4600410"]
+[WhiteCountry "GER"]
+[BlackID "1300180"]
+[BlackCountry "SUI"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 Bb7 7. Qc2 g5 8. Bg3
+Ne4 9. e3 Bxc3+ 10. bxc3 d6 11. Bd3 f5 12. d5 Nd7 13. Bxe4 fxe4 14. Qxe4 Qf6
+15. O-O O-O-O 16. Rfd1 Nc5 17. Qc2 Rde8 18. Nd4 h5 19. h3 h4 20. Bh2 g4 21.
+hxg4 h3 22. e4 hxg2 23. f3 Qh6 24. Bg3 exd5 25. cxd5 Qh1+ 26. Kf2 Qh3 27. Rg1
+Rhf8 28. Nf5 Nxe4+ 29. fxe4 Qxg4 30. Rae1 Bxd5 31. Bxd6 Rxf5+ 32. exf5 Qf3# 0-1

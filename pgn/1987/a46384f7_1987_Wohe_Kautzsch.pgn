@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wohe"]
+[Black "Kautzsch"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "a46384f7"]
+[Epoch "Queen"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. b3 g4 6. Bb2 gxf3 7. Bxh8
+Qh4+ 8. g3 Bxg3+ 9. hxg3 Qxg3# 0-1
+

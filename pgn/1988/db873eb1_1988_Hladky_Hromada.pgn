@@ -1,0 +1,20 @@
+[Event "corr ch-CR"]
+[Site "corr ch-CR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hladky"]
+[Black "Hromada"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "db873eb1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Nf6 9. Nc3 O-O 10. Re1 dxc4 11. Bxc4 Bg4 12. Be3 Na5 13. Be2 Nd5 14.
+Nxd5 Qxd5 15. Rc1 Qxa2 16. Rxc7 Bd6 17. Rc2 Qd5 18. Nd2 Bxe2 19. Qxe2 Bb4
+20. Rd1 Rfd8 21. Qg4 Nc6 22. Nf3 Rd6 23. Nh4 Re8 24. Qf5 Nxd4 25. Qxd5 Rxd5
+26. Kf1 Nxc2 27. Rxd5 Nxe3+ 28. fxe3 Rxe3 29. Rb5 Re4 30. Nf3 b6 31. Rd5 f6
+32. Rd2 Bxd2 0-1
+

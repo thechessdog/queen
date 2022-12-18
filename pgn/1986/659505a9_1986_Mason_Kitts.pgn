@@ -1,0 +1,17 @@
+[Event "Monroe ch-MI op"]
+[Site "Monroe ch-MI op"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mason, A."]
+[Black "Kitts, G."]
+[Result "0-1"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "659505a9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 c5
+8. Bxb8 Rxb8 9. Qa4+ Bd7 10. Qxa7 cxd4 11. cxd4 dxc4 12. e3 b5 13. Qa3 O-O
+14. Rb1 Ra8 15. Qb2 Qa5+ 16. Kd1 Qxa2 17. Qxa2 Rxa2 0-1
+

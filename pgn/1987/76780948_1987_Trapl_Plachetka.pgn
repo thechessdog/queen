@@ -1,0 +1,18 @@
+[Event "Namestovo"]
+[Site "Namestovo"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Trapl, Jindrich"]
+[Black "Plachetka, Jan"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "76780948"]
+[Epoch "Queen"]
+[BlackID "14900068"]
+[BlackCountry "SVK"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Qe7+ 7. Qe2 Be6
+8. Bb3 Bxb3 9. axb3 Qxe2+ 10. Nxe2 1/2-1/2

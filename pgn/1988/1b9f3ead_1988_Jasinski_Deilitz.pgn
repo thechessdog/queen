@@ -1,0 +1,19 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Jasinski"]
+[Black "Deilitz"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "1b9f3ead"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 b6 9. a3 Bxc3 10. bxc3 Qc7 11. Qe2 Bb7 12. Nd2 Nbd7 13. f3 Rac8 14. a4
+Nd5 15. Bb2 Rfe8 16. Bb5 Re7 17. Rac1 e5 18. c4 Nb4 19. d5 Nf6 20. a5 a6
+21. axb6 Qxb6 22. Ba4 Ne8 23. Ne4 Nd6 24. Nxd6 Qxd6 25. e4 Rb8 26. f4 f6
+27. fxe5 fxe5 28. Rf3 Bc8 29. h3 Bd7 30. Bxd7 Qxd7 31. Rcf1 a5 32. Qf2 1-0
+

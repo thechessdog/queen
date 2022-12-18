@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wright, S."]
+[Black "Leflar, D."]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Czerniak variation"]
+[HashCode "31da3593"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5 7. Bxf6 gxf6
+8. cxd5 Nb4 9. Bc4 Bf5 10. Qf3 e6 11. Bb5+ Ke7 12. dxe6 Nc2+ 13. Kf1 Rb8
+14. Qxf5 1-0
+

@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kern, H."]
+[Black "Galow, W."]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "3...Nf6"]
+[HashCode "84ac081f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. e3 c5 5. Nf3 Nc6 6. a3 cxd4 7. exd4 Be7 8.
+Ne5 O-O 9. Be3 a6 10. Be2 dxc4 11. Nxc6 bxc6 12. Qa4 Rb8 13. Rb1 Nd5 14.
+Qxc4 Nxe3 15. fxe3 Qa5 16. O-O c5 17. d5 exd5 18. Nxd5 Bd6 19. Bg4 Bxg4 20.
+Qxg4 Qd2 21. Rfd1 Qc2 22. Nf6+ 1-0
+

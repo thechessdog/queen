@@ -1,0 +1,22 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hutschenreiter"]
+[Black "Heinz"]
+[Result "1-0"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "eeb482c6"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Qe7 12. Nd2 Bxe2 13. Qxe2 Nh5 14. Be3
+Nd7 15. a5 Rfb8 16. g4 Nhf6 17. f4 b5 18. axb6 Rxb6 19. Ra2 h5 20. gxh5
+Nxh5 21. Nc4 Rb4 22. Bd2 f5 23. Qd3 Bd4+ 24. Kh1 Rxc4 25. Qxc4 fxe4 26. Qe2
+e3 27. f5 Qe5 28. Be1 Re8 29. Qg4 e2 30. Rf3 Bxc3 31. bxc3 Qxd5 32. Rd2 Qc6
+33. Qxg6+ Ng7 34. Qg2 Ne5 35. Rf2 Qxg2+ 36. Kxg2 Kf7 37. Rdxe2 Kf6 38. Rf1
+Nxf5 39. Bg3 Ke6 40. Bxe5 dxe5 41. Rxe5+ Kxe5 42. Re1+ Kf4 43. Rxe8 Ne3+
+44. Kg1 1-0
+

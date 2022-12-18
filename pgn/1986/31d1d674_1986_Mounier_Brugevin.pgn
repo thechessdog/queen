@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mounier"]
+[Black "Brugevin"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "31d1d674"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+a4 Qc7 9. Bd3 Be7 10. O-O O-O 11. Nh4 g6 12. f5 d5 13. fxg6 fxg6 14. exd5
+e4 15. Be2 Bd6 16. h3 Bg3 17. Bg5 Qb6+ 18. Kh1 Qxb2 19. Qd2 Be5 20. Na2 Qa3
+21. Bc4 Qg3 22. d6+ Kg7 23. Bh6+ Kh8 24. Nxg6+ hxg6 25. Bf4 e3 26. Qxe3
+Qxe3 27. Bxe3 Bxa1 28. Rxa1 Ne5 29. Bb3 Kh7 30. c4 Be6 31. Bf4 Ned7 32. Re1
+Rae8 33. Nc1 Bxc4 34. Re7+ Rxe7 35. dxe7 Rc8 36. Bd1 Re8 37. Bd6 Ne4 0-1
+

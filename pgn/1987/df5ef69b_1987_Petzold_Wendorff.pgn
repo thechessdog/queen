@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Petzold, V."]
+[Black "Wendorff, H."]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "df5ef69b"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+Nge2 O-O 9. O-O a6 10. a4 Qc7 11. h3 Nbd7 12. f4 Rb8 13. Be3 Re8 14. Ng3 c4
+15. Bc2 b5 16. axb5 axb5 17. Ra7 Qd8 18. Qd2 Nb6 19. Na2 Re7 20. Rxe7 Qxe7
+21. Nb4 Bd7 22. Bd4 Ne8 23. Bxg7 Nxg7 24. Qd4 f5 25. exf5 gxf5 26. Nc6 Bxc6
+27. dxc6 Qe6 28. Rf3 Nc8 29. Nxf5 Nxf5 30. Bxf5 Qxf5 31. Rg3+ Kf7 32. Qg7+
+Ke8 33. Qh8+ Kf7 34. Rg7+ 1-0
+

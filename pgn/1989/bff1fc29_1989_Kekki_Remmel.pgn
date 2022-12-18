@@ -1,0 +1,20 @@
+[Event "Estonia-Finland"]
+[Site "Estonia-Finland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kekki, Petri"]
+[Black "Remmel, Anto"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "bff1fc29"]
+[Epoch "Queen"]
+[WhiteID "500348"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. a3 cxd4 8. axb4
+dxc3 9. cxd5 exd5 10. O-O Nc6 11. b5 Ne5 12. Nxc3 Bg4 13. Be2 Bxe2 14. Nxe2 Qd7
+15. Qd4 Rfe8 16. Nc3 b6 17. Rd1 Rad8 18. b3 Qc7 19. Bb2 Neg4 20. g3 Ne5 21. Kg2
+Qb7 22. Ra4 Ned7 23. f3 Nc5 24. Ra3 Ne6 25. Qa4 d4 26. exd4 Ng5 27. Rd3 Qc8 28.
+g4 Nd5 0-1

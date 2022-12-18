@@ -1,0 +1,19 @@
+[Event "Bundesliga 8586"]
+[Site "Duitsland tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Goehring, Karl-Heinz"]
+[Black "Mack, Peter"]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "87293270"]
+[Epoch "Queen"]
+[BlackID "4603265"]
+[BlackCountry "GER"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Bd2 Nxc3 7. Bxc3 c5 8.
+e3 O-O 9. Be2 cxd4 10. Nxd4 Nc6 11. Nxc6 Bxc3+ 12. bxc3 bxc6 13. Qa4 Qc7 14.
+O-O Be6 15. Rfd1 Rfd8 1/2-1/2

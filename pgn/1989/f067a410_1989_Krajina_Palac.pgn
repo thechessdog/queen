@@ -1,0 +1,19 @@
+[Event "Vinkovci"]
+[Site "Vinkovci"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Krajina, Davor"]
+[Black "Palac, Mladen"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "f067a410"]
+[Epoch "Queen"]
+[BlackID "14500116"]
+[BlackCountry "CRO"]
+[WhiteID "14502917"]
+[WhiteCountry "CRO"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Nge7 6. Be2 Bd7 7. O-O Ng6 8. a3 c4
+9. Be3 Be7 10. Nbd2 O-O 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nylen, Anders"]
+[Black "Pilz, Dieter"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "40e0f957"]
+[Epoch "Queen"]
+[BlackID "1600532"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 O-O 6. a3 cxd4 7. exd4 Be7 8. d5
+d6 9. Ng3 Nbd7 10. Be2 exd5 11. cxd5 Ne5 12. O-O Re8 13. h3 a6 14. Be3 b5 15.
+Qd4 Bf8 16. a4 bxa4 17. Rxa4 Ned7 18. b4 g6 19. Qf4 Bb7 20. Ra5 Qe7 21. Bd4 Bg7
+22. Rfa1 Rac8 23. Qd2 Ne5 24. Qa2 Nfd7 25. Kf1 f5 26. Qd2 Qh4 27. Rd1 Nc4 28.
+Bxc4 Rxc4 29. Bxg7 Kxg7 30. b5 Nc5 31. Ra3 Qf6 32. Kg1 Re7 33. f3 axb5 34. Nxb5
+h6 35. Nd4 Kh7 36. Ne6 Nxe6 37. dxe6 d5 38. Ra7 Qxe6 39. Ra3 Qb6+ 40. Kh1 Qc5
+41. Ra5 Qc7 42. Nf1 Rc2 43. Qb4 Qe5 44. Qb5 Bc6 45. Qd3 Re2 46. Rc5 Bb7 47. Ra5
+Qb2 48. Nd2 Qe5 49. Ra7 Qg3 50. Rg1 Qf2 51. Qa3 Re1 52. Nf1 h5 53. Kh2 Qb6 54.
+Ra4 Qc7+ 55. Kh1 Qe5 56. Qb4 Re2 57. Qc5 Rc7 58. Qa3 Rec2 59. Ra5 Qe2 60. Ra7
+Qe6 61. Nh2 Qc6 62. Ra4 Rc3 63. Qa1 d4 64. Rb1 0-1

@@ -1,0 +1,21 @@
+[Event "Chorzow"]
+[Site "Chorzow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Langer, R."]
+[Black "Kucia, M."]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "bb5002b2"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 cxd4 13. cxd4 Bb7 14. d5
+Bc8 15. Nf1 Bd7 16. Ng3 Rfc8 17. Bd3 Qd8 18. Nh2 Nb7 19. Nf5 Bxf5 20. exf5
+Nc5 21. Bc2 Ncd7 22. g4 h6 23. Nf3 Nh7 24. Be3 Ng5 25. Nxg5 Bxg5 26. Qd2
+Bxe3 27. Rxe3 Rc4 28. Rg3 Rac8 29. Bb3 Rd4 30. Qe2 Qg5 31. Kh2 Nf6 32. Rh1
+Rd2 33. Qf3 e4 34. Qe3 Qxe3 35. Rxe3 Rxb2 36. Kg3 a5 37. h4 a4 38. Bd1 Rxa2
+39. g5 Nxd5 40. Rxe4 Nc3 41. Rd4 Ra1 42. Rxd6 Ne4+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schiller, Eric"]
+[Black "Welin, Thomas"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "2b672ca2"]
+[Epoch "Queen"]
+[BlackID "1700324"]
+[BlackCountry "SWE"]
+[WhiteID "2002973"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. Nf3 Nh6 7. Qxe6+ Bxe6
+8. Nxd4 Bd7 9. Nxe4 Bxd2+ 10. Nxd2 Nc6 11. Nxc6 Bxc6 12. O-O-O O-O-O 13. Be2
+Bxg2 14. Rhg1 Bh3 15. Rxg7 Bf5 16. Rg5 Bg6 17. Nc4 Rxd1+ 18. Bxd1 Rd8 19. Ra5
+Rd4 20. Ne5 Rf4 21. Rxa7 Kb8 22. Ra3 Rxf2 23. Nd7+ Kc8 24. Nc5 c6 25. h4 Rh2
+26. Ra4 Nf5 27. Rb4 Ne3 28. Ne4 c5 29. Ra4 Kb8 30. Nc3 Nxd1 0-1

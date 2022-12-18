@@ -1,0 +1,21 @@
+[Event "Volmac-WGM"]
+[Site "Volmac-WGM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ligterink, Gert"]
+[Black "De Boer, Gert Jan"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "7a852bdf"]
+[Epoch "Queen"]
+[WhiteID "1000179"]
+[WhiteCountry "NED"]
+[BlackID "1000233"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. Ngf3 Nd7 5. g3 Ngf6 6. Bg2 dxe4 7. dxe4 e5 8.
+O-O Bc5 9. b3 O-O 10. Bb2 Re8 11. Ne1 a5 12. Nd3 Bf8 13. f4 exf4 14. gxf4 b6
+15. Qf3 Bb7 16. e5 Nd5 17. Qg3 Nc5 18. Nxc5 Bxc5+ 19. Kh1 Ne3 20. Ne4 Nxf1 21.
+Nf6+ Kh8 22. Qh3 gxf6 23. Be4 f5 24. Bxf5 f6 25. exf6 Bd4 0-1

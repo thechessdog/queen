@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hirr"]
+[Black "Anger"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "19ed44b0"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 d4 6. Bb5+ Nc6 7. Bxc6+
+bxc6 8. Nce2 Bxc5 9. Nf3 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 c5 12. b4 d3 13. cxd3
+cxb4 14. Qxb4 Qxd3 15. Rd1 Qa6 16. Qe4+ Ne7 17. Qxa8 O-O 18. O-O Nc6 19.
+Rb1 Rd8 20. Rfd1 Re8 21. Ned4 1-0
+

@@ -1,0 +1,19 @@
+[Event "Havana-B"]
+[Site "Havana"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Filguth, Rubens Alberto"]
+[Black "Vilela, Jose Luis"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "88f96ecd"]
+[Epoch "Queen"]
+[WhiteID "2100070"]
+[WhiteCountry "BRA"]
+[BlackCountry "EST"]
+
+1. c4 c6 2. d4 d5 3. cxd5 cxd5 4. Nc3 Nc6 5. Bf4 Nf6 6. e3 e6 7. Bd3 Be7 8. h3
+Bd7 9. Nf3 Rc8 10. Rc1 Qb6 11. Qd2 O-O 12. O-O Na5 13. Ne5 Be8 14. Nxd5 Nxd5
+15. Rxc8 Bb4 16. Qc2 Nxf4 17. Bxh7+ Kh8 18. Rxe8 1-0

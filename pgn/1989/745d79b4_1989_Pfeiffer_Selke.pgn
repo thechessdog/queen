@@ -1,0 +1,20 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pfeiffer"]
+[Black "Selke"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "745d79b4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8.
+Nf3 b5 9. O-O Nbd7 10. Qe1 Bb7 11. Kh1 Be7 12. a4 b4 13. Nd1 O-O 14. Nf2
+Nc5 15. Qe3 Ne6 16. f5 Nc5 17. b3 Rfe8 18. a5 d5 19. Nd2 Rad8 20. Bb2 Bf8
+21. Rfe1 dxe4 22. Ndxe4 Nd5 23. Qg3 f6 24. Bc4 Kh8 25. Bc1 Nxe4 26. Nxe4
+Nf4 27. Qf2 Rd7 28. Bxf4 exf4 29. Nc5 Rxe1+ 30. Rxe1 Re7 31. Ne6 Qc8 32.
+Qxf4 Rd7 33. Qe3 Bd6 34. Nf4 Re7 35. Ng6+ hxg6 36. Qh3# 1-0
+

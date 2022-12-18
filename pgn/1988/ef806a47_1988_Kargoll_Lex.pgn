@@ -1,0 +1,21 @@
+[Event "RLP HM Landau"]
+[Site "RLP HM Landau"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kargoll, Peter"]
+[Black "Lex, Christoph"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "ef806a47"]
+[Epoch "Queen"]
+[WhiteID "4607961"]
+[WhiteCountry "GER"]
+[BlackID "4606574"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. e3 d5 6. c3 O-O 7. Bd3 Nc6 8. O-O
+Nd7 9. Rb1 f5 10. c4 h6 11. Bh4 cxd4 12. cxd5 Nce5 13. d6 g5 14. Bg3 Nxd3 15.
+Qb3+ Kh8 16. Qxd3 e5 17. exd4 f4 18. h4 g4 19. Nxe5 Nxe5 20. dxe5 Bf5 21. Ne4
+fxg3 22. fxg3 Bxe5 23. Rxf5 Rxf5 0-1

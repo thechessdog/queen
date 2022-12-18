@@ -1,0 +1,20 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Carleton"]
+[Black "Corkett"]
+[Result "0-1"]
+[ECO "E88"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5 c6"]
+[HashCode "8b931554"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 Nbd7 10. O-O-O a6 11. Kb1 b5 12. g4 Nc5 13. Rc1 Bd7 14. Nge2
+b4 15. Nd1 b3 16. a3 Ncxe4 17. fxe4 Nxe4 18. Qb4 Bxg4 19. Nec3 Bf3 20. Rg1
+Qh4 21. Bg2 Rfb8 22. Qa5 Bxg2 23. Rxg2 f5 24. Qc7 Rc8 25. Qd7 Kh8 26. Ka1
+Qh3 27. Nxe4 Rxc1+ 28. Bxc1 Qxg2 29. Nxd6 Qc2 30. Qc6 Bf8 31. Nf7+ Kg7 32.
+Nxe5 Qxd1 33. Nd3 Qxd3 0-1
+

@@ -1,0 +1,28 @@
+[Event "Helsinki2"]
+[Site "Helsinki"]
+[Date "1989.01.01"]
+[Round "3"]
+[White "Maki, Veijo"]
+[Black "Pirttimaki, Timo"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "c1fd5334"]
+[Epoch "Queen"]
+[WhiteID "500046"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Bd7 5. Re1 Nf6 6. h3 g6 7. c3 Bg7 8. d4
+O-O 9. Bf1 cxd4 10. cxd4 d5 11. e5 Ne4 12. Qb3 e6 13. Nbd2 Nxd2 14. Bxd2 Qb6
+15. Qd3 Rac8 16. Bc3 Bh6 17. Nh2 Bg5 18. Ng4 f5 19. exf6 Bxf6 20. Nxf6+ Rxf6
+21. Rad1 Rcf8 22. Rd2 Ne7 23. Qg3 Nf5 24. Qe5 Bc8 25. Rc2 Ne7 26. Bd3 Nc6 27.
+Qg5 Qd8 28. Bb5 Rf4 29. Qxd8 Rxd8 30. Bxc6 bxc6 31. Ba5 Rdf8 32. Rxc6 Rxd4 33.
+Rec1 Ra4 34. Bd2 Rc4 35. R1xc4 dxc4 36. Bc3 Bb7 37. Rxe6 Rf7 38. Re8+ Rf8 39.
+Re7 Rf7 40. Re5 Rd7 41. Rc5 Bd5 42. f3 Kf7 43. Kf2 Ke6 44. Ke3 g5 45. Ra5 h5
+46. Ra6+ Rd6 47. Rxa7 g4 48. Rh7 gxf3 49. gxf3 Bc6 50. Bd4 Be8 51. Rh8 Kd7 52.
+Rh7+ Kc6 53. h4 Re6+ 54. Kf4 Kd6 55. Bc3 Kd5 56. Ra7 Re2 57. Ra5+ Kd6 58. Re5
+Rxe5 59. Bxe5+ Ke6 60. Bb8 Bc6 61. Ke3 Kd5 62. Ba7 Ke5 63. Bd4+ Kd5 64. f4 Bd7
+65. Bf6 Ke6 66. Be5 Kd5 67. Kd2 Ke4 68. Kc3 Kf3 69. Kxc4 Be6+ 70. Kc5 Bxa2 71.
+b4 Bb1 72. b5 Be4 73. b6 Kg4 74. Bf6 Kxf4 75. Kd6 1-0

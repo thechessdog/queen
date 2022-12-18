@@ -1,0 +1,21 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1989.01.01"]
+[Round "5"]
+[White "Orr, Mark J L"]
+[Black "Michael, Dirk"]
+[Result "1-0"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, 11.O-O"]
+[HashCode "272bbddb"]
+[Epoch "Queen"]
+[WhiteID "2500035"]
+[WhiteCountry "IRL"]
+[BlackID "4647297"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 Be7 6. e3 Nbd7 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Rc1 N5b6 12. Bd3 e5 13. Re1 f5 14. e4 f4 15.
+Bc2 exd4 16. Qxd4 c5 17. Nd5 Qd6 18. Qc3 Nxd5 19. exd5 Nb6 20. Ng5 Qxd5 21. Bb3
+c4 22. Re5 Qc6 23. Re7 Qg6 24. Bxc4+ Be6 25. Rxe6 1-0

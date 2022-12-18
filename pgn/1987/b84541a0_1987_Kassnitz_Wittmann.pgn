@@ -1,0 +1,23 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kasnitz, Martin"]
+[Black "Wittmann, Rudi"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "b84541a0"]
+[Epoch "Queen"]
+[WhiteID "4629647"]
+[WhiteCountry "GER"]
+
+1. d4 c5 2. d5 d6 3. c4 g6 4. Nc3 Bg7 5. e4 Nf6 6. f4 O-O 7. Nf3 a6 8. a4 Qa5
+9. Bd2 Qc7 10. Bd3 e6 11. O-O exd5 12. exd5 Bg4 13. h3 Bxf3 14. Qxf3 Nbd7 15.
+g4 Rae8 16. Kg2 Re7 17. Rae1 Rfe8 18. Rxe7 Rxe7 19. Re1 Rxe1 20. Bxe1 Qd8 21.
+b3 Qe7 22. Qe2 Qxe2+ 23. Nxe2 h5 24. g5 Ne8 25. Bc2 Bb2 26. f5 Ne5 27. fxg6
+fxg6 28. Nf4 Kf7 29. Ba5 Ng7 30. Bc7 Ne8 31. Bd8 Bc1 32. Ne2 Bd2 33. Ng3 Bf4
+34. Ne4 Nd7 35. Kf3 Be5 36. Nf2 Bd4 37. Nd3 Ne5+ 38. Nxe5+ Bxe5 39. Ba5 Ng7 40.
+Bd2 Ne8 41. b4 Bd4 42. b5 Be5 43. a5 Bb2 44. b6 Be5 45. Ba4 Ke7 46. Bc6 bxc6
+47. b7 1-0

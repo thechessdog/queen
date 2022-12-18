@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bak, M."]
+[Black "Sirota, AV."]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "649094d9"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c5 4. f3 g5 5. fxe4 gxh4 6. e3 Bh6 7. Qh5 Qb6
+8. Nd2 cxd4 9. Nc4 Qg6 10. Qxg6 hxg6 11. exd4 Nc6 12. c3 b5 13. Nd2 Rb8 14.
+Ngf3 Bf4 15. Bd3 g5 16. Ng1 g4 17. Ne2 Bg5 18. e5 Rh6 19. Rf1 Bxd2+ 20.
+Kxd2 d6 1/2-1/2
+

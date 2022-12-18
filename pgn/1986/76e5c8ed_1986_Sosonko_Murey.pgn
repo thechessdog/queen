@@ -1,0 +1,20 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Murey, Jacob"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "76e5c8ed"]
+[Epoch "Queen"]
+[WhiteID "1000039"]
+[BlackID "2803585"]
+[WhiteCountry "NED"]
+[BlackCountry "ISR"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 a5 6. e4 Bg4 7. Bxc4 e6 8. O-O
+Bb4 9. Re1 Bxf3 10. gxf3 Nbd7 11. f4 O-O 12. e5 Nd5 13. Bd2 f5 14. Nxd5 cxd5
+15. Bxb4 axb4 16. Bb5 Rf7 17. Bxd7 1/2-1/2

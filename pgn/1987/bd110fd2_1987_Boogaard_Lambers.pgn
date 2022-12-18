@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Boogaard"]
+[Black "Lambers"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "bd110fd2"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. Nf3 e4 4. Nd4 Nxd4 5. Bxd4 d5 6. e3 Ne7 7. d3 Nf5 8.
+Bb2 Bb4+ 9. c3 Bd6 10. dxe4 dxe4 11. Qd5 O-O 12. Qxe4 Re8 13. Qc2 Nxe3 0-1
+

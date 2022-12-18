@@ -1,0 +1,19 @@
+[Event "Lenk"]
+[Site "Lenk"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gobet, Fernand"]
+[Black "Preissmann, Emmanuel"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Pulling counter-attack"]
+[HashCode "7ecdd909"]
+[Epoch "Queen"]
+[WhiteID "1300083"]
+[WhiteCountry "SUI"]
+[BlackID "1300342"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Be3 Bc5 6. Nc3 Bxd4 7. Bxd4 Nxd4
+8. Qxd4 Nf6 9. g3 Qg4 10. Be2 Qe6 11. e5 Ng8 12. Nd5 Kd8 13. Qc5 1-0

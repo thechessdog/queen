@@ -1,0 +1,21 @@
+[Event "Adelaide"]
+[Site "Adelaide"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wohlers_Armas, Rike"]
+[Black "Polgar, Susan"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "22cc86a6"]
+[Epoch "Queen"]
+[BlackID "700088"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Ba4 b5 7. Bc2 e5 8. a4 Bb7
+9. Qe2 b4 10. d3 Nge7 11. Nbd2 O-O 12. Nb3 d6 13. Be3 f5 14. d4 exd4 15. cxd4
+fxe4 16. Ng5 cxd4 17. Nxd4 Nxd4 18. Bxd4 Bxd4 19. Qc4+ d5 20. Qxd4 Nf5 21. Qxb4
+Qxg5 22. Qxb7 Nh4 23. g3 Nf3+ 24. Kg2 Rab8 25. Qxa6 Rxb2 26. Qe6+ Kh8 27. Qc6
+Qh5 28. h3 Nd4 29. Qc5 Qf3+ 30. Kg1 Nxc2 31. Rac1 Nb4 32. Qa7 Qf6 33. Rc7 h5
+34. Qe3 g5 35. Qa7 Kg8 36. Qc5 Rc2 0-1

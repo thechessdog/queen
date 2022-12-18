@@ -1,0 +1,23 @@
+[Event "CSR-ch"]
+[Site "Prague"]
+[Date "1986.01.01"]
+[Round "6"]
+[White "Smejkal, Jan"]
+[Black "Freisler, Pavel"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "9a49b71d"]
+[Epoch "Queen"]
+[WhiteID "300020"]
+[BlackID "301477"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+c6 9. b3 Re8 10. h3 exd4 11. Nxd4 Nc5 12. Re1 Qa5 13. Bd2 Nd3 14. Re3 Nxf2 15.
+Kxf2 Ng4+ 16. hxg4 Bxd4 17. Nd5 Qd8 18. Bc3 Be5 19. Bxe5 dxe5 20. Nc3 Qf6+ 21.
+Rf3 Qe7 22. Rd3 Qf6+ 23. Kg1 Qg5 24. Bf3 h5 25. gxh5 gxh5 26. Qd2 Qxg3+ 27. Qg2
+Qxg2+ 28. Kxg2 h4 29. Rh1 h3+ 30. Kh2 Be6 31. Rg1+ Kf8 32. Bg4 Rad8 33. Rxd8
+Rxd8 34. Bxe6 fxe6 35. Rd1 1-0

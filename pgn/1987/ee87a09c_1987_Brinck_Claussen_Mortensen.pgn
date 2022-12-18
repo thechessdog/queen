@@ -1,0 +1,21 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brinck-Claussen, Bjorn"]
+[Black "Mortensen, Erling"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "ee87a09c"]
+[Epoch "Queen"]
+[WhiteCountry "DEN"]
+[BlackID "1400045"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8. Bxg5
+Nc6 9. h4 Qb6 10. Nb3 a6 11. Qe2 Be7 12. O-O-O Qc7 13. Bg2 b5 14. f4 b4 15. Nd5
+exd5 16. exd5 Na5 17. Bxf6 Nxb3+ 18. axb3 gxf6 19. h5 a5 20. Bh3 f5 21. Rde1 a4
+22. bxa4 Rxa4 23. Rhg1 Ra1+ 24. Kd2 Rxe1 25. Qxe1 Qc4 26. Qe3 Qxd5+ 27. Kc1 Qc5
+0-1

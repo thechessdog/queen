@@ -1,0 +1,22 @@
+[Event "HUN-ch op"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Siklosi, Zoltan"]
+[Black "Koncz, Imre"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "c5b3a366"]
+[Epoch "Queen"]
+[WhiteID "700380"]
+[BlackID "704148"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. h3 Ne8 8. d4
+cxd4 9. cxd4 Nc7 10. Ba4 b5 11. Bb3 a5 12. a4 bxa4 13. Bxa4 Nb4 14. Be3 d5 15.
+e5 Bd7 16. Nc3 Rb8 17. Bxd7 Qxd7 18. Rxa5 Nc6 19. Ra2 Rb4 20. Re2 Rfb8 21. Rd2
+f6 22. exf6 Bxf6 23. Ne1 Nb5 24. Ne2 Nd6 25. Nd3 R4b6 26. Nc5 Qc8 27. Nf4 Nb4
+28. Ra7 Nc4 29. Re2 Nc6 30. Ra2 Nxb2 31. Qc2 Bxd4 32. Nxd5 e5 33. Bxd4 1-0

@@ -1,0 +1,20 @@
+[Event "Hamburg ch"]
+[Site "Hamburg ch"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Andersen, Jens Knud"]
+[Black "Schacht, Holger"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "90dd672a"]
+[Epoch "Queen"]
+[WhiteID "4616910"]
+[WhiteCountry "GER"]
+[BlackID "4603079"]
+[BlackCountry "GER"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. e3 O-O 6. b3 b6 7. Bb2 Bb7 8. Bd3 c5
+9. O-O Nc6 10. Qe2 cxd4 11. exd4 dxc4 12. bxc4 Nb4 13. Bb1 Bxf3 14. gxf3 Nh5
+15. d5 Bd6 16. Ne4 Qh4 17. Ng3 Nf4 0-1

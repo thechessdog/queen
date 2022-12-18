@@ -1,0 +1,17 @@
+[Event "Colorado"]
+[Site "Colorado"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bowers, P."]
+[Black "Karniewski, Zbignie"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish"]
+[Variation "Tuebingen variation"]
+[HashCode "4a5e1f6d"]
+[Epoch "Queen"]
+
+1. b4 Nh6 2. e4 e6 3. a3 a5 4. b5 c6 5. Bb2 d5 6. e5 Qb6 7. Nc3 a4 8. d4
+Bd7 9. Rb1 cxb5 10. Nxb5 Bxb5 11. Bc3 Nc6 12. Rxb5 Qc7 13. Qb1 Ra7 14. Qb2
+Be7 15. Bd3 f6 16. f4 O-O 17. Nf3 1-0
+

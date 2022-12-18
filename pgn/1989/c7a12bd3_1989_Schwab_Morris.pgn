@@ -1,0 +1,21 @@
+[Event "EU-chT"]
+[Site "Haifa"]
+[Date "1989.01.01"]
+[Round "4"]
+[White "Schwab, Rene"]
+[Black "Morris, Philip J"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "c7a12bd3"]
+[Epoch "Queen"]
+[WhiteID "1600850"]
+[WhiteCountry "AUT"]
+[BlackID "400440"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7 6. Qxg7 Rg8 7. Qxh7 cxd4 8. a3
+Bxc3+ 9. bxc3 Qc7 10. Be2 Qxc3+ 11. Kd1 Qxa1 12. Bh5 Rf8 13. Nf3 Nbc6 14. Re1
+d3 15. cxd3 Bd7 16. Ke2 O-O-O 17. Be3 Qb2+ 18. Kf1 Rh8 19. Qxf7 Rdf8 20. Qg6
+Nxg6 0-1

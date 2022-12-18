@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Goldberg, Mitchell"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "7cdcd3cf"]
+[Epoch "Queen"]
+[BlackID "2001047"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 g6 6. Bg5 h6 7. Bf4 d6 8. O-O
+Bg7 9. Nbd2 Nf6 10. Qe2 e5 11. Bg3 O-O 12. h3 d5 13. Rfd1 Re8 14. exd5 Nxd5 15.
+Ne4 Qe7 16. Qc2 Be6 17. b4 Rac8 18. Nc5 Ncxb4 19. cxb4 Nxb4 20. Qa4 Qxc5 21.
+Rac1 Qxc1 22. Rxc1 Rxc1+ 23. Kh2 Rd8 24. Qxb4 Rxd3 25. Nxe5 Rxg3 26. Kxg3 Bxe5+
+27. Kf3 Bc4 28. Ke4 Bg7 29. Qxb7 Re1+ 30. Kf3 Be5 31. Qc8+ Kg7 32. Qxc4 Ra1 33.
+Qc5 1-0

@@ -1,0 +1,23 @@
+[Event "Edinburgh ch-BCF"]
+[Site "Edinburgh ch-BCF"]
+[Date "1985.08.01"]
+[Round "8"]
+[White "Ravikumar, Vaidyanathan"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "945d80e9"]
+[Epoch "Queen"]
+[WhiteID "5000149"]
+[WhiteCountry "IND"]
+[BlackID "400050"]
+[BlackCountry "NZL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. a4 Nc6 11. Qd2 Rc8 12. Rfd1 Nb4 13. Bf3 Bg4 14. Bxg4 Nxg4
+15. Ba7 Ra8 16. h3 Rxa7 17. hxg4 Qc8 18. Qe2 b6 19. Nc1 g6 20. Ra3 Nc6 21. Nd5
+Nd4 22. Qd3 Qxg4 23. c3 Ne6 24. f3 Qh4 25. Ne2 Bd8 26. b4 Kh8 27. Qe3 f5 28. a5
+fxe4 29. fxe4 Bg5 30. Qxb6 Raf7 31. c4 Qxe4 32. Ng3 Qc2 33. Rf1 Rxf1+ 34. Nxf1
+Qxc4 0-1

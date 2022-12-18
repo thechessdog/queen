@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pacchiarini, M."]
+[Black "Volpe, D."]
+[Result "0-1"]
+[ECO "A75"]
+[Opening "Benoni"]
+[Variation "classical with ...a6 and 10...Bg4"]
+[HashCode "b310d217"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Re1 Nbd7 14. a5
+h5 15. e5 Nxe5 16. Bxe5 dxe5 17. d6 Qe6 18. Bxb7 Rad8 19. Qe2 Rxd6 20. Qxe5
+Qxe5 21. Rxe5 Rb8 22. Re7 Bf8 23. Rc7 Ne8 24. Rc8 Rxb7 25. Rxe8 Rxb2 26.
+Re2 Rxe2 27. Nxe2 Bg7 28. Rc1 Bb2 29. Rb1 c4 0-1
+

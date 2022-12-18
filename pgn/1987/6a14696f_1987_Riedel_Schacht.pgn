@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Riedel, Wolfgang"]
+[Black "Schacht, Holger"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "6a14696f"]
+[Epoch "Queen"]
+[WhiteID "4603052"]
+[BlackID "4603079"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Qc2
+Bb7 9. cxd5 Nxd5 10. Nxd5 Bxd5 11. Bxe7 Qxe7 12. e4 Bb7 13. Bd3 Na6 14. O-O Nb4
+15. Qc3 Nxd3 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grzondziel"]
+[Black "Gulhaus"]
+[Result "0-1"]
+[ECO "A23"]
+[Opening "English"]
+[Variation "Bremen system, Keres variation"]
+[HashCode "261b152d"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 cxd5 7. d3 Bc5 8.
+Nb3 Bxf2+ 9. Kxf2 e3+ 10. Bxe3 Ng4+ 11. Kf3 Nc6 12. d4 Bf5 13. Bf4 g5 14.
+h3 h5 15. e3 gxf4 16. Bb5 Qe7 17. e4 Bxe4+ 18. Nxe4 Qxe4# 0-1
+

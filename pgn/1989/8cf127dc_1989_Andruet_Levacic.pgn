@@ -1,0 +1,19 @@
+[Event "Montpellier-A"]
+[Site "Montpellier"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andruet, Gilles"]
+[Black "Levacic, Damir"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "8cf127dc"]
+[Epoch "Queen"]
+[BlackID "600180"]
+[BlackCountry "MNC"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 Bb7 6. Bd3 c5 7. d5 exd5 8. exd5
+O-O 9. Ne2 b5 10. cxb5 Bxd5 11. O-O Bb7 12. Bg5 d5 13. Bxh7+ Kh8 14. Bf5 g6 15.
+Nf4 Rg8 16. Ncxd5 Nxd5 17. Bxd8 Nxf4 18. Bf6+ Kh7 19. Be4 1-0

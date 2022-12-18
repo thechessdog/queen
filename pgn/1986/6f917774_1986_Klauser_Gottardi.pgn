@@ -1,0 +1,18 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Klauser, Markus"]
+[Black "Gottardi, G."]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "6f917774"]
+[Epoch "Queen"]
+[WhiteID "1300334"]
+[WhiteCountry "SUI"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. Ng5 Nf6 6. h4 b6 7. Bf4 Bb4 8. e3 Qe7
+9. Qa4 Bb7 10. d5 h6 11. Ne6 dxe6 12. dxc6 Bc8 13. Be5 Ng4 14. Bg3 e5 15. Be2
+f4 16. exf4 exf4 17. Bxg4 Bxg4 18. Bxf4 Bxc3+ 19. bxc3 Qf6 20. Bd2 e3 0-1

@@ -1,0 +1,18 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ehnwall"]
+[Black "Elmeranta"]
+[Result "1-0"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "14c90a3d"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. Nc3 d5 7. O-O c6 8.
+Qb3 dxc4 9. Qxc4 Nd5 10. Ne5 Qe8 11. e4 fxe4 12. Bxe4 b5 13. Qd3 Nf6 14.
+Re1 b4 15. Na4 Bb7 16. Bf4 Nxe4 17. Qxe4 Na6 18. Rac1 Rc8 19. Nc5 Nxc5 20.
+dxc5 a5 21. Nc4 1-0
+

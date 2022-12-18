@@ -1,0 +1,17 @@
+[Event "Columbus,OH"]
+[Site "Columbus,OH"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hubble, D."]
+[Black "Floyd, C."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "1cb59edf"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8.
+Bxf7+ Kxf7 9. Nxe5+ Kg8 10. Qxd4 c5 11. Qc3 Nxe4 12. Qf3 Qe8 13. Bf4 Bd6
+14. Nd3 c4 15. Re1 cxd3 16. cxd3 Qf7 17. Rxe4 Bxe4 18. dxe4 Qxf4 0-1
+

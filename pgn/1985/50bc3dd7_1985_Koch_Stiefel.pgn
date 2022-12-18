@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Koch"]
+[Black "Stiefel"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "50bc3dd7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 c6 6. cxd5 Nxd5 7. Bxe7 Qxe7
+8. Qc2 O-O 9. a3 b5 10. Bd3 g6 11. Nf3 Nd7 12. O-O Bb7 13. Rfe1 a6 14. e4
+Nf4 15. b4 a5 16. bxa5 Rxa5 17. Bf1 Rxa3 18. Rxa3 Qxa3 19. Nxb5 cxb5 20.
+Qc7 Bc8 21. Qxf4 b4 22. Qh6 f6 23. e5 Rf7 24. exf6 Nxf6 25. Ne5 Re7 26.
+Nxg6 Rg7 27. Ne7+ Rxe7 28. Qxf6 Rf7 29. Qg5+ Kf8 30. Qd8+ Kg7 31. Qxc8 Qa2
+32. Re2 Qd5 33. Qc5 Rd7 34. Qxb4 Kh6 35. Re5 Qd6 36. Qd2+ Kg7 37. Qg5+ Kf8
+38. Qh6+ Kg8 39. Rxe6 Qxd4 40. Re8+ 1-0
+

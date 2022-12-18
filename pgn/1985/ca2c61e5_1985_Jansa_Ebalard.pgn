@@ -1,0 +1,21 @@
+[Event "Metz"]
+[Site "Metz"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jansa, Vlastimil"]
+[Black "Ebalard, Marc"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights, Suttles variation"]
+[HashCode "ca2c61e5"]
+[Epoch "Queen"]
+[WhiteID "300128"]
+[BlackID "601292"]
+[WhiteCountry "CZE"]
+[BlackCountry "FRA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Bc4 Nf6 6. Bb3 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 Nbd7 10. Be3 Qa5 11. Rad1 c5 12. e5 dxe5 13. dxe5 Nxe5 14. Qxb7 c4
+15. Ba4 Rab8 16. Qxe7 Rxb2 17. Bd4 Nh5 18. Nd5 Nf3+ 19. gxf3 Bxd4 20. Rxd4 Qxa4
+21. Rh4 f6 22. Rxh5 1-0

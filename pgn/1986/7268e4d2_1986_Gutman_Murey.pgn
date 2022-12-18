@@ -1,0 +1,23 @@
+[Event "Luxembourg"]
+[Site "Luxembourg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gutman, Lev"]
+[Black "Murey, Jacob"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, lesser Simagin (Spassky) variation"]
+[HashCode "7268e4d2"]
+[Epoch "Queen"]
+[WhiteID "4600177"]
+[BlackID "2803585"]
+[WhiteCountry "GER"]
+[BlackCountry "ISR"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. c4 Nc6 7. Nc3 Bf5 8. Re1
+e5 9. d5 Ne7 10. c5 Ne4 11. cxd6 cxd6 12. Nd2 Nxc3 13. bxc3 e4 14. Nxe4 Bxe4
+15. Bxe4 f5 16. Bf3 Bxc3 17. Rb1 Qa5 18. Rf1 b5 19. a3 a6 20. Qd3 Be5 21. Bg5
+Kf7 22. Bd2 Qc7 23. Rfc1 Qd7 24. a4 bxa4 25. Rc6 Rfb8 26. Rxb8 Rxb8 27. Qxa6
+Rb2 28. Bg5 Nxc6 29. dxc6 Qc7 30. Qxa4 Kg7 31. Qh4 h5 32. Qc4 Qf7 33. Bh6+ Kf6
+34. Bd5 1-0

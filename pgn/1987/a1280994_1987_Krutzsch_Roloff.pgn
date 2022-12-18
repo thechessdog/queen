@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Krutzsch"]
+[Black "Roloff"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "a1280994"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 a6 6. O-O b5 7. Ne5 Nd5 8.
+Nc3 Bb7 9. Nxd5 exd5 10. e4 dxe4 11. Qh5 Qe7 12. Bg5 Qe6 13. Rfe1 Be7 14.
+Bh3 Qd5 15. Bxe7 Kxe7 16. Bf5 e3 17. f3 Qxd4 18. Qxf7+ Kd6 19. Rad1 1-0
+

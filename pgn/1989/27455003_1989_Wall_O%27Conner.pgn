@@ -1,0 +1,17 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Wall, Bill"]
+[Black "O'Conner, Tom"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "27455003"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. Nc3 Bc5 6. Qd5 d6 7. Nf3 Nxf3+ 8.
+gxf3 Nc6 9. Rg1 Qf6 10. Qd1 Be6 11. Bg5 Qd4 12. Qxd4 Nxd4 13. O-O-O Nxf3 14.
+Rg3 Nxg5 15. Rxg5 O-O 16. Nb5 Bb6 17. Be2 a6 18. Nd4 Bxd4 19. Rxd4 1/2-1/2

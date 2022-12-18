@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Leserer, H."]
+[Black "Hauszler"]
+[Result "0-1"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "4cf00ffe"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3
+8. bxc3 Re8 9. f3 e3 10. dxe3 d6 11. e4 h6 12. Nh3 Be6 13. Qa4 Ne5 14. c5
+dxc5 15. f4 Qd7 16. Qxd7 Nexd7 17. e5 Nd5 18. f5 Bxf5 19. Rxf5 g6 20. Rf2
+c6 21. Nf4 Rxe5 22. Nxd5 0-1
+

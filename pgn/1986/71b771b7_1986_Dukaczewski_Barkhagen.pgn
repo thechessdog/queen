@@ -1,0 +1,18 @@
+[Event "Taby"]
+[Site "Taby"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dukaczewski, Piotr"]
+[Black "Barkhagen, M."]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "71b771b7"]
+[Epoch "Queen"]
+[WhiteID "1103520"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Bb7 9. f4 b4 10. Na4 Bxe4 11. Re1 Nbd7 12. f5 e5 13. Bg5 Qc7 14. Rxe4 Nxe4 15.
+Nb5 axb5 16. Bxf7+ Kxf7 17. Qd5+ Ke8 18. Qe6+ 1-0

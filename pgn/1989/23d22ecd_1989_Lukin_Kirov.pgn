@@ -1,0 +1,24 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lukin, Andrei M"]
+[Black "Kirov, Nino"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "23d22ecd"]
+[Epoch "Queen"]
+[WhiteID "4101251"]
+[WhiteCountry "RUS"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 d5 6. exd5 Qxd5 7. d4 cxd4 8.
+c4 Qh5 9. Nxd4 Qxd1 10. Rxd1 Bd7 11. Nxc6 Bxc6 12. Nc3 Nf5 13. Bxc6+ bxc6 14.
+Ne4 h5 15. Bf4 Rd8 16. Kf1 f6 17. Rxd8+ Kxd8 18. Bb8 a6 19. Rd1+ Kc8 20. Bd6 e5
+21. Bxf8 Rxf8 22. Nc5 Rf7 23. Rd3 a5 24. Ra3 Ra7 25. Nb3 a4 26. Nc5 Nd6 27.
+Rxa4 Rxa4 28. Nxa4 Nxc4 29. b3 Nd2+ 30. Ke2 Ne4 31. f3 Ng5 32. Nc5 h4 33. a4 h3
+34. g3 f5 35. Ke3 Nf7 36. Nd3 g5 37. g4 e4 38. fxe4 fxg4 39. Kf2 Kc7 40. Kg3
+Nd6 41. e5 Ne4+ 42. Kxg4 c5 43. Kxh3 Kc6 44. a5 Nd2 45. a6 c4 46. bxc4 Nxc4 47.
+Kg4 1-0

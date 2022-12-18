@@ -1,0 +1,19 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Upleger, Martin"]
+[Black "Homuth, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "741b26df"]
+[Epoch "Queen"]
+[WhiteID "4606736"]
+[BlackID "4646673"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
+fxe6 9. Ng5 Bxb5 10. Nxe6 Bxd4 11. Nxd8 1/2-1/2

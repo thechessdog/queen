@@ -1,0 +1,17 @@
+[Event "corr Portugal-Canada"]
+[Site "corr Portugal-Canada"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vasconcelos, R."]
+[Black "Sarosy, Zoltan"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "fb99bbbb"]
+[Epoch "Queen"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. h3 Bg7 8. Bg5 O-O
+9. Nbd2 Be6 10. Nh2 b5 11. Bc2 Qd7 12. Ndf1 d5 13. Qe2 d4 14. f4 dxc3 15. bxc3
+exf4 16. Bxf6 Bxf6 17. d4 Nxd4 18. cxd4 Qxd4 0-1

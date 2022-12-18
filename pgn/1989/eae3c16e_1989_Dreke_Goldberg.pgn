@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dreke"]
+[Black "Goldberg"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Romanishin variation"]
+[HashCode "eae3c16e"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 Bxc3 6. Qxc3 Qe7 7. Be2 d5
+8. d4 Ne4 9. Qc2 Bf5 10. cxd5 Nb4 11. Qa4+ Bd7 12. Qb3 exd4 13. Nxd4 Nc5
+14. Qc4 Qd6 15. e4 Nxe4 16. Nb5 Bxb5 17. Qxe4+ Kd8 18. Bxb5 a6 19. Bd2 Nxd5
+20. Be2 Re8 21. Qf3 1-0
+

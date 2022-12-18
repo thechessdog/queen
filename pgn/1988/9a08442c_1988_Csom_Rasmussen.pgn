@@ -1,0 +1,27 @@
+[Event "Silkeborg"]
+[Site "Silkeborg"]
+[Date "1988.01.01"]
+[Round "2"]
+[White "Csom, Istvan"]
+[Black "Rasmussen, Karsten"]
+[Result "1-0"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "9a08442c"]
+[Epoch "Queen"]
+[WhiteID "700100"]
+[WhiteCountry "HUN"]
+[BlackID "1400088"]
+[BlackCountry "DEN"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 Bf5 5. Nbd2 h6 6. Be2 e6 7. O-O Nbd7 8. b3
+Be7 9. Bb2 O-O 10. a3 a5 11. Bc3 c5 12. cxd5 Nxd5 13. Bb2 N7f6 14. Rc1 Rc8 15.
+h3 Bh7 16. Bc4 cxd4 17. Nxd4 Nb6 18. Nxe6 fxe6 19. Bxe6+ Kh8 20. Bxc8 Nxc8 21.
+Nc4 Nd6 22. Ne5 Nd7 23. Ng4 Nf6 24. Ne5 Qe8 25. Qd2 Qb5 26. Rc7 Nfe4 27. Qd3
+Qe8 28. Qd5 Bf6 29. f4 Bg8 30. Qd3 Kh7 31. Rfc1 Qe6 32. Rxb7 Qd5 33. Qxd5 Bxd5
+34. Rb6 Rd8 35. Rd1 Nf5 36. Re1 Rc8 37. Rb5 Ne7 38. Bd4 Nd2 39. Ng4 Bh4 40. Rd1
+Rc2 41. Rc5 Ra2 42. Rc7 Bxb3 43. Ra1 Rxa1+ 44. Bxa1 h5 45. g3 Bxg3 46. Rxe7
+hxg4 47. hxg4 Bh4 48. Rxg7+ Kh6 49. Ra7 a4 50. Kg2 Nc4 51. Bg7+ Kg6 52. Bf8
+Nxe3+ 53. Kf3 Nd5 54. f5+ Kf6 55. Bg7+ Kg5 56. Ra6 Be1 57. Rg6+ Kh4 58. Rh6+
+Kg5 59. Rh5# 1-0

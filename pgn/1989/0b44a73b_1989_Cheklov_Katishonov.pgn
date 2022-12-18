@@ -1,0 +1,16 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cheklov"]
+[Black "Katishonok, Nikolaj"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "0b44a73b"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Bb5 Ne7 8.
+Nxe4 Qd5 9. Qe2 Qxd4 10. O-O a6 11. Bxc6+ Nxc6 12. Rd1 Qe5 13. f4 Qa5 14. b4
+Nxb4 15. Bb2 Nd5 16. Bxg7 Nxf4 17. Qf3 Ng6 18. Bxh8 1-0

@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Olsen, Kim"]
+[Black "Jensen, John"]
+[Result "1-0"]
+[ECO "D92"]
+[Opening "Gruenfeld"]
+[Variation "5.Bf4"]
+[HashCode "610e284b"]
+[Epoch "Queen"]
+[WhiteID "1406922"]
+[BlackID "1434179"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. Bf4 c6 6. e3 O-O 7. h3 h6 8. Be2 Be6
+9. c5 b6 10. b4 a5 11. a3 bxc5 12. bxc5 Na6 13. Rb1 Nd7 14. Na4 Bf5 15. Bd3
+Bxd3 16. Qxd3 Nc7 17. Nb6 Rb8 18. O-O Re8 19. Qd2 e5 20. Bg3 Ne6 21. Qxa5 1-0

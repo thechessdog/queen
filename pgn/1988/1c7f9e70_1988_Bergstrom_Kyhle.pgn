@@ -1,0 +1,23 @@
+[Event "Norrkoping"]
+[Site "Norrkoeping"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bergstrom, Christer"]
+[Black "Kyhle, Bo"]
+[Result "1-0"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "1c7f9e70"]
+[Epoch "Queen"]
+[BlackID "1701150"]
+[BlackCountry "SWE"]
+[WhiteID "1700154"]
+[WhiteCountry "SWE"]
+
+1. Nf3 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. h3 Qb6 12. hxg4 Qxd4 13. Qc2 Qe5 14. Be3 Qe7
+15. Rad1 Ne5 16. f3 Be6 17. b3 Rfe8 18. Ne2 a5 19. c5 dxc5 20. Bxc5 Qc7 21. Nd4
+Bc8 22. Ba3 a4 23. Nb5 Nxf3+ 24. gxf3 Qg3+ 25. Qg2 Qxg2+ 26. Kxg2 axb3 27. axb3
+cxb5 28. Bxb5 Be6 29. Bxe8 Rxe8 30. Bc5 b5 31. b4 Ra8 32. Bd4 Bf8 33. Ra1 Rc8
+34. Rec1 Rd8 35. Bf6 Rb8 36. Rd1 Bxb4 37. Rab1 Bc5 38. Be5 1-0

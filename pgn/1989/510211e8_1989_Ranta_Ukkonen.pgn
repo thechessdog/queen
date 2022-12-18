@@ -1,0 +1,17 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ranta"]
+[Black "Ukkonen"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "510211e8"]
+[Epoch "Queen"]
+
+1. f4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. d3 c5 7. Qe1 d4 8. e4
+dxe3 9. Nc3 Nc6 10. Bxe3 Nd4 11. Rc1 Ng4 12. Bd2 Re8 13. h3 e5 14. hxg4
+exf4 15. Qf2 Bxg4 16. Kh1 Bxf3 17. Bxf3 Nxf3 18. Qxf3 fxg3 19. Qxg3 Be5 20.
+Qg5 Qd7 21. Qg2 Re6 22. Ne4 Rc8 23. Ng5 Re7 24. Bc3 Rf8 25. Rce1 1-0
+

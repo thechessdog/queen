@@ -1,0 +1,23 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hodgson, Julian M"]
+[Black "Sigfusson, Sigurdur"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "433e31b7"]
+[Epoch "Queen"]
+[WhiteID "400076"]
+[WhiteCountry "ENG"]
+[BlackID "2300168"]
+[BlackCountry "ISL"]
+
+1. d4 d5 2. Bg5 Nf6 3. Bxf6 exf6 4. e3 c5 5. Nf3 Nc6 6. Be2 Be6 7. O-O Qb6 8.
+Nc3 Be7 9. Na4 Qa5 10. Nxc5 Bxc5 11. dxc5 Qxc5 12. Qd2 O-O 13. Rfd1 Rfd8 14. c3
+Qb6 15. Qc2 Rac8 16. Nd4 g6 17. Qb3 Qc7 18. Rac1 Na5 19. Qb4 Nc4 20. Rc2 a6 21.
+h3 Qb8 22. Nxe6 fxe6 23. Qe7 Qd6 24. Qxf6 Ne5 25. Rcd2 Rf8 26. Qh4 Rc7 27. c4
+Rcf7 28. f4 Nd7 29. cxd5 e5 30. fxe5 Qxe5 31. Qd4 Qg3 32. d6 Ne5 33. Kh1 b5 34.
+Qe4 g5 35. d7 Rd8 36. Bh5 Re7 37. Qd5+ Kg7 38. Qc5 Re6 39. Qc7 Rh6 40. Qxd8
+Rxh5 41. Qe7+ Nf7 42. d8=Q 1-0

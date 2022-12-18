@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schumacher"]
+[Black "Wendt"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, Rubinstein system"]
+[HashCode "f5103083"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. Nf3 Nc6 7. O-O e5
+8. d3 Be7 9. Nd2 Bd7 10. Nc4 O-O 11. Bxc6 Bxc6 12. Nxe5 Be8 13. Be3 Ne6 14.
+Qb3 Bf6 15. f4 Bxe5 16. fxe5 Bc6 17. Qc4 Qc7 18. Bf4 Rad8 19. Ne4 b5 20.
+Qc3 Bxe4 21. dxe4 Qc6 22. Qf3 Rd4 23. Rac1 Qxe4 24. Rc3 b4 25. Rd3 c4 26.
+Qxe4 Rxe4 27. Rd7 a5 28. h4 Rxe2 29. Rb1 h6 30. Rd5 Rc8 31. a3 c3 32. bxc3
+bxc3 33. Rc1 a4 34. Rd3 Nxf4 35. gxf4 c2 36. Rd4 Rc3 37. Kf1 Rh2 38. Kg1
+Rch3 0-1
+

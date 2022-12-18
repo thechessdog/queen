@@ -1,0 +1,25 @@
+[Event "Marseille"]
+[Site "Marseille"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Haik, Aldo"]
+[Black "Hulak, Krunoslav"]
+[Result "1-0"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[HashCode "94e8e036"]
+[Epoch "Queen"]
+[BlackCountry "HRV"]
+[WhiteID "600091"]
+[WhiteCountry "FRA"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d5 6. cxd5 Nxd5 7. d4 Nb6 8. e4
+Bg4 9. d5 c6 10. h3 Bxf3 11. Qxf3 N8d7 12. Nc3 Rc8 13. Rd1 cxd5 14. Nxd5 Nxd5
+15. exd5 Nc5 16. Rb1 b6 17. b3 Nb7 18. Qd3 Qd6 19. Bf4 Be5 20. Be3 Rc3 21. Qe2
+Rfc8 22. Rbc1 Rxc1 23. Rxc1 Rxc1+ 24. Bxc1 Bd4 25. Bf4 Qc5 26. d6 Nxd6 27. Qxe7
+Nf5 28. Qxc5 Bxc5 29. Kf1 Kf8 30. Ke2 Ke7 31. Bd5 Nd4+ 32. Kd3 Ne6 33. Bb8 a6
+34. f4 h5 35. Bf3 Bd6 36. Bxd6+ Kxd6 37. Ke4 f6 38. Be2 a5 39. Bc4 Nc5+ 40. Kd4
+g5 41. fxg5 fxg5 42. h4 gxh4 43. gxh4 Nd7 44. Be2 Nf6 45. Bf3 Ke6 46. Kc4 Kd6
+47. a3 Kd7 48. Kb5 Kc7 49. Ka6 Ng4 50. Bxg4 hxg4 51. h5 g3 52. h6 g2 53. h7
+g1=Q 54. h8=Q Qg3 55. Qh7+ Kd8 56. Qf7 Qd3+ 57. Kb7 Qe4+ 58. Ka7 Qd4 59. Kb7
+Qe4+ 60. Ka7 Kc8 61. Qg8+ Kd7 62. Qg7+ Kc8 63. Qc3+ 1-0

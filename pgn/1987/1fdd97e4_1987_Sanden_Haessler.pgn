@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sanden, H."]
+[Black "Haessler, C."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin, Jaffe variation"]
+[HashCode "1fdd97e4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 e5 7. Nf3 O-O
+8. O-O Re8 9. Bd2 Nc6 10. a3 Bf8 11. h3 d5 12. Bg5 d4 13. Ne2 Be6 14. Qd2
+h6 15. Bh4 Rc8 16. Bg3 Nd7 17. c3 dxc3 18. Nxc3 Nc5 19. Bc2 Qxd2 20. Nxd2
+Nd4 21. Rac1 f6 22. Rfe1 Red8 23. f4 Nxc2 24. Rxc2 Nd3 25. Rf1 Nxb2 26.
+Rxb2 Rxc3 27. Nf3 exf4 28. Bxf4 b6 29. a4 Ra3 30. Bc7 Rc8 0-1
+

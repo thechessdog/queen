@@ -1,0 +1,19 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Walendowski, Tadeusz"]
+[Black "Grabczewski, Romuald"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "8eefbf50"]
+[Epoch "Queen"]
+[WhiteID "1102168"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. a3 cxd4 8. exd4
+Be7 9. O-O dxc4 10. Bxc4 Nc6 11. Bg5 b6 12. Qd3 Bb7 13. Rad1 Qd7 14. Qh3 Rfd8
+15. Bd3 g6 16. Qh4 Nd5 17. Ne4 Kg7 18. Qh6+ Kg8 19. Qh4 Kg7 20. Qh6+ 1/2-1/2

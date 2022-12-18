@@ -1,0 +1,22 @@
+[Event "corr NBC-Volmac"]
+[Site "corr NBC-Volmac"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mooij, Walter"]
+[Black "Van de Tak"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "5550e1d2"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O e5 7. d4 Nc6 8.
+d5 Ne7 9. e4 Nd7 10. b4 a5 11. bxa5 Rxa5 12. Nd2 Bh6 13. Nb3 Bxc1 14. Qxc1
+Ra8 15. a4 b6 16. a5 bxa5 17. Nxa5 Nc5 18. Qc2 Bd7 19. Rfb1 f5 20. f3 fxe4
+21. fxe4 Kg7 22. Nb3 Rxa1 23. Rxa1 Nxb3 24. Qxb3 Ng8 25. Nb5 Qb8 26. Qe3
+Bxb5 27. Rb1 Nf6 28. h3 Qa8 29. cxb5 Nd7 30. Kh2 Qa2 31. Qb3 Qd2 32. Qb2
+Qe3 33. Qc1 Qxc1 34. Rxc1 Nc5 35. Rb1 Rb8 36. h4 h6 37. Kh3 Kf6 38. Kg4 Ke7
+39. Kf3 Ra8 40. b6 cxb6 41. Rxb6 Ra3+ 42. Kf2 Ra2+ 43. Kg1 Ra4 44. Kh2 Nxe4
+45. Rb7+ Kf6 1/2-1/2
+

@@ -1,0 +1,19 @@
+[Event "Quebec inv"]
+[Site "Quebec"]
+[Date "1989.??.??"]
+[Round "8"]
+[White "Lesiege, Alexandre"]
+[Black "Leveille, Francois"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "3306b727"]
+[Epoch "Queen"]
+[WhiteID "2600170"]
+[BlackID "2600307"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 e5 8. Nf3
+b5 9. a4 b4 10. Ne2 Bb7 11. Ng3 Nbd7 12. O-O g6 13. a5 1/2-1/2

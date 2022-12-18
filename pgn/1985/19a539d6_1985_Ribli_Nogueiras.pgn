@@ -1,0 +1,20 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ribli, Zoltan"]
+[Black "Nogueiras Santiago, Jesus"]
+[Result "1-0"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran, Alatortsev system"]
+[HashCode "19a539d6"]
+[Epoch "Queen"]
+[WhiteID "700010"]
+[WhiteCountry "HUN"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 Nd5 10. Nxf7 Qxh4 11. Nxh8 Bb4 12. Qd2 c5 13. dxc5 Nc6 14. O-O-O Nxe5
+15. f4 Qxf4 16. Qxf4 Nxf4 17. Nxb5 Rb8 18. Nd6+ Ke7 19. Nxc4 Nxc4 20. Bxc4 Bb7
+21. Rhf1 Bxc5 22. Rxf4 1-0

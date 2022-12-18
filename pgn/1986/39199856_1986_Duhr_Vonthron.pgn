@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Duhr"]
+[Black "Vonthron, Horst"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "39199856"]
+[Epoch "Queen"]
+[BlackID "4600495"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Rc1 O-O 6. Nf3 Be6 7. Ng5 c5 8. Nxe6
+fxe6 9. dxc5 d4 10. Nb5 Nc6 11. Bc7 Qd7 12. Bg3 a6 13. Na3 Rad8 14. Nc2 Ne4 15.
+Qd3 Nxc5 16. Qa3 Ne4 17. Nb4 Nxb4 18. Qxb4 e5 19. Rd1 Qf5 20. f3 Nxg3 21. hxg3
+e4 22. Qxb7 e3 23. a3 Rb8 24. Qd5+ Qxd5 25. cxd5 Rxb2 26. g4 d3 0-1

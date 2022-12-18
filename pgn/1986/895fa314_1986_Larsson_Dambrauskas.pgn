@@ -1,0 +1,16 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Larsson, P."]
+[Black "Dambrauskas, V."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "895fa314"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 g6 6. Bc4 Bg7 7. e5 Nh6
+8. Bf4 O-O 9. O-O Kh8 10. Re1 Ng8 11. Ng5 e6 0-1
+

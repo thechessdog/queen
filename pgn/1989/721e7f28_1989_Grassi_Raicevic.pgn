@@ -1,0 +1,20 @@
+[Event "Genoa"]
+[Site "Genoa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Grassi, Mario"]
+[Black "Raicevic, Vladimir"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "721e7f28"]
+[Epoch "Queen"]
+[BlackID "900605"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 h6 5. g3 O-O 6. Bg2 Bxc3+ 7. bxc3 d6 8.
+Ba3 Nbd7 9. c5 dxc5 10. O-O Nd5 11. e4 Nxc3 12. Qd3 cxd4 13. Nxd4 c5 14. Nxe6
+fxe6 15. Qxc3 b6 16. Bb2 Qe7 17. f4 Bb7 18. Rad1 Nf6 19. Rfe1 Rad8 20. Rxd8
+Rxd8 21. Qc4 Kh8 22. e5 Ng8 23. Bh3 Qd7 24. Bg2 Bxg2 25. Kxg2 Qc6+ 26. Kh3 Rd2
+27. Re2 b5 0-1

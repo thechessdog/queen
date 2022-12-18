@@ -1,0 +1,24 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Atanasov, Petko"]
+[Black "Grigorov, Jordan N"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "2b0f9be0"]
+[Epoch "Queen"]
+[WhiteID "2900629"]
+[WhiteCountry "FID"]
+[BlackCountry "BGR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 g6 5. O-O Bg7 6. Re1 O-O 7. e5 Ne8 8. d3
+Nc7 9. Bxc6 dxc6 10. h3 Ne6 11. Ne4 b6 12. a4 a5 13. Bd2 Nd4 14. Bf4 Be6 15.
+Nfg5 Bd5 16. Rc1 f6 17. exf6 exf6 18. c4 fxg5 19. Bxg5 Qd7 20. cxd5 cxd5 21.
+Nc3 Qf7 22. Be3 Nc6 23. Ne2 Nb4 24. d4 c4 25. Rf1 Rac8 26. Nc3 Qf5 27. Nb5 Rc6
+28. Rc3 Re8 29. Qd2 Nd3 30. Rd1 Bf8 31. Qe2 Rf6 32. Rxc4 Nxb2 33. Qxb2 dxc4 34.
+Qa2 Rf7 35. Qxc4 Rc8 36. Qf1 Qd5 37. Rc1 Rxc1 38. Qxc1 Qb3 39. Qc6 Qxa4 40. d5
+Qa1+ 41. Kh2 Qe5+ 42. g3 Bc5 43. Bxc5 bxc5 44. Qxc5 Kg7 45. f4 Qe2+ 46. Kg1 Re7
+47. Nd4 Qe1+ 48. Kg2 Qd2+ 49. Kf3 Re3+ 50. Kg4 Qd1+ 51. Kh4 Qh5# 0-1

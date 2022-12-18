@@ -1,0 +1,20 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Giulian"]
+[Black "Williams"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "b9e3f7b7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. O-O cxd4 8.
+exd4 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bd3 Nc6 12. Bg5 Ne8 13. c4 b6 14.
+Rc1 f6 15. Bh4 Qd7 16. Bb1 a5 17. Qc2 g6 18. Rfd1 Bb7 19. Qb3 Ra6 20. Bg3
+a4 21. Qe3 Ne7 22. d5 exd5 23. Nc3 Nd6 24. Nxd5 Nxd5 25. cxd5 Rc8 26. Qe6+
+Qxe6 27. dxe6 Rxc1 28. Rxc1 Ne8 29. Bd3 Ra5 30. Bf4 Rc5 31. Rxc5 bxc5 32.
+Bb5 Ng7 33. e7 Kf7 34. Bd6 c4 35. Bxc4+ 1-0
+

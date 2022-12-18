@@ -1,0 +1,18 @@
+[Event "corr BdF/H"]
+[Site "corr BdF/H"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Karwatzki, HJ."]
+[Black "Mokrys, CP."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "20a5110a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. Nxd4 Nc6 7. f4 d6 8.
+Bb5 Bd7 9. Nxc6 Bxc6 10. Bxc6+ bxc6 11. Qe2 Be7 12. O-O dxe5 13. fxe5 Bc5+
+14. Kh1 O-O 15. Nd2 Ne3 16. Rf3 Ng4 17. Ne4 Qh4 18. g3 Qe7 19. Bg5 f6 20.
+exf6 gxf6 21. Bh4 Rf7 22. h3 Qf8 0-1
+

@@ -1,0 +1,22 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Staniszewski, Piotr"]
+[Black "Czerwonski, Alexand"]
+[Result "1-0"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[HashCode "3a34c30b"]
+[Epoch "Queen"]
+[WhiteID "1100220"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c5 6. O-O d6 7. Nc3 cxd4 8. Nxd4
+Qa5 9. h3 Nc6 10. Ncb5 a6 11. Bd2 Qb6 12. Nxc6 bxc6 13. Be3 Qb7 14. Nd4 Bd7 15.
+Qd2 a5 16. Rab1 Rfb8 17. Rfd1 Qc7 18. b3 d5 19. Rbc1 e5 20. cxd5 exd4 21. Bf4
+Qc8 22. Bxb8 Rxb8 23. dxc6 Be6 24. c7 Rb4 25. a3 Rxb3 26. Qxd4 Nd7 27. Qa7 Bb2
+28. Rc6 Kg7 29. Qa6 Qxa6 30. Rxa6 Nb6 31. Rd3 Rxd3 32. exd3 Bd4 33. Rxa5 Kf8
+34. Ra7 Ke8 35. Bc6+ Kf8 36. h4 Nc8 37. Ra8 Ke7 38. Bb7 Nb6 39. Ra6 Bg4 40. a4
+Nc8 41. Ra8 Nb6 42. Rg8 1-0

@@ -1,0 +1,19 @@
+[Event "Nikea"]
+[Site "Nikea"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Antonov, V."]
+[Black "Stoica, Valentin"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "c9a435a9"]
+[Epoch "Queen"]
+[BlackID "1200070"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. Qe1 Be7 10. Nxc6 Bxc6 11. e5 Nd5 12. Bxe7 Qxe7 13. Ne4 dxe5 14. c4
+Nf6 15. Nd6+ Kf8 16. Qxe5 Ne8 17. c5 Nxd6 18. Rxd6 Bd5 19. Kb1 Rc8 20. b4 Qh4
+21. Qc3 a5 22. a3 axb4 23. axb4 Ra8 24. Bb5 Qxf2 25. Re1 Ra1+ 0-1

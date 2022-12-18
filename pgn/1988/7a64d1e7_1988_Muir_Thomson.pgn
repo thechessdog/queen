@@ -1,0 +1,23 @@
+[Event "Scotland"]
+[Site "Scotland"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Muir, Andrew J"]
+[Black "Thomson, Craig S M"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "7a64d1e7"]
+[Epoch "Queen"]
+[WhiteID "2400138"]
+[WhiteCountry "SCO"]
+[BlackID "2400081"]
+[BlackCountry "SCO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. c5 Ne4 8. Bd2
+Nxd2 9. Qxd2 Nc6 10. a3 Ba5 11. b4 Bc7 12. g3 O-O 13. Bg2 b6 14. O-O bxc5 15.
+dxc5 Be5 16. f4 Bf6 17. Rab1 Rb8 18. Rfd1 g6 19. Bf1 Qe7 20. Kh1 Ba6 21. Nd4
+Bb7 22. Nce2 e5 23. fxe5 Nxe5 24. Nf4 Nc4 25. Qc3 Ne3 26. Rd3 Nxf1 27. Rxf1
+Rfe8 28. Ng2 Ba6 29. Re1 Qd7 30. Rde3 Re4 31. Rd1 Qg4 32. Qe1 Rxd4 33. Rb1 Bd3
+34. Rc1 Be4 35. c6 Bg5 36. c7 Rc8 37. Kg1 Qd7 38. Qc3 Rc4 0-1

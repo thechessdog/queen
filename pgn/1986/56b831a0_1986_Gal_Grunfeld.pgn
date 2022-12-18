@@ -1,0 +1,21 @@
+[Event "Holon"]
+[Site "Holon"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Gal"]
+[Black "Gruenfeld, Yehuda"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "56b831a0"]
+[Epoch "Queen"]
+[BlackID "2800020"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+ Kg8
+8. Qd5+ e6 9. Qxe4 d5 10. Qe3 d4 11. Qe2 Qd5 12. Nf3 d3 13. Qd1 Bxc5 14. Nbd2
+Ne5 15. O-O Ng6 16. c4 Qf5 17. Nb3 b6 18. Be3 Bb7 19. Nbd4 Qe4 20. Re1 e5 21.
+Ne6 Bxe3 22. fxe3 Qg4 23. Nc7 Rf8 24. Nd5 Qxc4 25. e4 Bxd5 26. exd5 e4 27. Nd2
+Qd4+ 28. Kh1 e3 29. Nf3 Qe4 30. d6 h6 31. d7 e2 32. Qb3+ Kh7 33. Nd2 Qd4 34.
+Qe6 Rd8 35. Rac1 Qxd7 36. Qxd7 Rxd7 37. g3 Rf8 38. Kg2 Ne5 39. h3 Rdf7 0-1

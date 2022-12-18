@@ -1,0 +1,20 @@
+[Event "Namestovo"]
+[Site "Namestovo"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Knezevic, Milorad"]
+[Black "Naumkin, Igor"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "66adf09e"]
+[Epoch "Queen"]
+[BlackID "4101715"]
+[BlackCountry "RUS"]
+[WhiteID "950238"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Kxg2 d5 11. Qa4 dxc4 12. Qxc4 c5 13. Be3 cxd4 14. Bxd4 Qc8
+15. Rc1 Qxc4 16. Rxc4 Rd8 17. Be3 1/2-1/2

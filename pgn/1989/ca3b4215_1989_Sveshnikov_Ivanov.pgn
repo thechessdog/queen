@@ -1,0 +1,23 @@
+[Event "Cheliabinsk"]
+[Site "Cheliabinsk"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Ivanov, Jordan"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ca3b4215"]
+[Epoch "Queen"]
+[WhiteID "4100638"]
+[WhiteCountry "RUS"]
+[BlackID "2901250"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. Bc4 Nb6 6. Bb3 d5 7. d4 Nc6 8. Bg5
+Be7 9. h4 h6 10. Bxe7 Qxe7 11. dxc5 Nd7 12. Qe2 Nxc5 13. Bc2 Qc7 14. O-O O-O
+15. Re1 f5 16. exf6 Rxf6 17. Nbd2 b6 18. b4 Nd7 19. Nb3 Nf8 20. Rac1 Qf4 21. b5
+Nd8 22. Nbd4 Bd7 23. g3 Qd6 24. Ne5 Rc8 25. Bb3 Be8 26. Qe3 Nf7 27. f4 Qc5 28.
+c4 Qa3 29. cxd5 Rxc1 30. Qxc1 Qd6 31. Nec6 Bd7 32. Qc4 exd5 33. Qxd5 Qa3 34.
+Nd8 Qb4 35. Qe4 Qc3 36. Qe3 1-0

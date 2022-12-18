@@ -1,0 +1,19 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Johannessen, Svein"]
+[Black "Kogan, Boris"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "a75aaa5e"]
+[Epoch "Queen"]
+[BlackID "2804352"]
+[BlackCountry "ISR"]
+[WhiteCountry "NOR"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. d3 e5 5. Bg2 Nf6 6. O-O Nd7 7. e3 Be7 8. exd4
+exd4 9. Re1 O-O 10. Bf4 Nc5 11. Ne5 Nxe5 12. Rxe5 c6 13. Qf3 Bd6 14. Rh5 g6 15.
+Bxd6 Qxd6 16. Rh4 g5 17. Rh5 Qg6 18. Qe2 Bf5 19. g4 Bxd3 20. Qe5 0-1

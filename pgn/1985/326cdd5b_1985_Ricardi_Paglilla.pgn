@@ -1,0 +1,24 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ricardi, Pablo"]
+[Black "Paglilla, Carlos"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "326cdd5b"]
+[Epoch "Queen"]
+[BlackID "100307"]
+[BlackCountry "ARG"]
+[WhiteID "100242"]
+[WhiteCountry "ARG"]
+
+1. d4 d6 2. e4 e5 3. Nf3 Nd7 4. Bc4 c6 5. dxe5 dxe5 6. O-O Be7 7. Qe2 h6 8. Rd1
+Qc7 9. a4 Ngf6 10. Nbd2 Nc5 11. b3 Bg4 12. Bb2 O-O 13. h3 Bxf3 14. Nxf3 Bd6 15.
+Rxd6 Qxd6 16. Rd1 Qe7 17. Nxe5 Ne6 18. Rf1 Qc5 19. Nd3 Qh5 20. Qe3 Qg6 21. Re1
+Ng5 22. Nf4 Qxe4 23. Bxf6 Qxe3 24. Rxe3 gxf6 25. Nh5 Nh7 26. Re7 b6 27. Nf4 Ng5
+28. h4 Ne6 29. Nxe6 fxe6 30. Rxe6 Kg7 31. Rxc6 Rac8 32. Re6 Rfe8 33. Rxe8 Rxe8
+34. Kf1 f5 35. g3 Kf6 36. Kg2 Re1 37. Kf3 Ke5 38. Bd3 Rc1 39. Ke3 Rg1 40. Kf3
+Rc1 41. g4 fxg4+ 42. Kxg4 1/2-1/2

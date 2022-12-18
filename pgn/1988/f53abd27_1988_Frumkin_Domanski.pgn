@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Frumkin, E."]
+[Black "Domanski, R."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "f53abd27"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. Bf4 Nf6
+8. Qd3 O-O 9. O-O-O b6 10. N2c3 Nd5 11. Nxd5 exd5 12. Nc3 Bf6 13. Qf3 Be6
+14. Be3 Ne7 15. g4 c5 16. h4 Nc6 17. Ne2 Qc8 18. Bh3 cxd4 19. g5 d3 20.
+gxf6 Ne5 0-1
+

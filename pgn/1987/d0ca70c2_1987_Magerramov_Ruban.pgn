@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Magerramov, Elmar"]
+[Black "Ruban, Vadim"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d0ca70c2"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. e5 cxd4 8. Qa4+
+Nc6 9. O-O-O Bxc3 10. bxc3 h6 11. exf6 hxg5 12. fxg7 Rg8 13. h4 g4 14. Nxd4 Qa5
+15. Nxc6 Qxc3+ 16. Kb1 bxc6 17. Qxc6+ Ke7 18. Qc5+ Ke8 19. Bxc4 Bd7 20. Qd6 Rd8
+21. Rd4 Qa5 22. Rhd1 Rxg7 23. Kb2 Rg6 24. h5 Qxh5 25. Qc7 Rf6 26. Qxd8+ 1-0

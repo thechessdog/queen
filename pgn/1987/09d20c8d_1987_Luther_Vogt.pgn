@@ -1,0 +1,18 @@
+[Event "DDR"]
+[Site "DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Luther, Thomas"]
+[Black "Vogt, Lothar"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "09d20c8d"]
+[Epoch "Queen"]
+[BlackID "4611292"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Nc6 6. Na3 a6 7. Nc4 Bg4 8. Ne3
+Qe4 9. Qb3 Be6 10. d5 Bxd5 11. c4 Be6 12. Bd3 Qf4 13. Nd5 Nxd5 14. Bxf4 Nxf4
+15. Be4 Nxg2+ 16. Kf1 Nf4 17. Qxb7 Bh3+ 18. Ke1 Ng2+ 19. Kd1 Rd8+ 20. Kc1 1-0

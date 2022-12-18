@@ -1,0 +1,16 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bozicevic"]
+[Black "Burk"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "628d0a66"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Be4
+8. Nxe4 Nxe4 9. Qf3 Qxd4 10. Qxf7+ Kd8 11. Nd3 Bb4+ 12. Nxb4 Qxb4+ 13. Ke2
+Rf8 14. Bg5+ Nxg5 15. Rd1+ Kc8 0-1
+

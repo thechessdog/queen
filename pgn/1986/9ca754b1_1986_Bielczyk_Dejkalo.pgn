@@ -1,0 +1,20 @@
+[Event "Porabka"]
+[Site "Porabka"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bielczyk, Jacek"]
+[Black "Dejkalo, Stefan"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "9ca754b1"]
+[Epoch "Queen"]
+[WhiteID "1100530"]
+[WhiteCountry "POL"]
+[BlackID "1100246"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nc6 7. Be3 Nf6 8.
+O-O Ne5 9. h3 Bc5 10. Qe2 d6 11. Rad1 O-O 12. f4 Nxd3 13. cxd3 b5 14. Rc1 Qa7
+15. Qf2 e5 16. Nc2 Bxe3 1/2-1/2

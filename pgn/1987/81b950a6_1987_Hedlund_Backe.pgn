@@ -1,0 +1,23 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hedlund, Bo"]
+[Black "Backe, Peter"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "81b950a6"]
+[Epoch "Queen"]
+[WhiteID "1741624"]
+[BlackID "1701240"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 Rg6 7. Qe3 c5 8. Bd2
+Nc6 9. Bb5 Bxc3 10. Bxc3 e5 11. dxe5 d4 12. Qd3 Ng4 13. Bd2 Nxe5 14. Qa3 Qb6
+15. Bf1 f5 16. f4 Ng4 17. e5 Be6 18. Nf3 O-O-O 19. Be2 c4 20. h3 Nf2 21. Kxf2
+d3+ 22. Be3 Rxg2+ 23. Kxg2 Qxe3 24. Rae1 Rg8+ 25. Kf1 Bd5 26. Bd1 Qxf4 27. Qd6
+Bxf3 28. Qe6+ Kc7 29. Qf7+ Kb6 30. Qxg8 Bd5+ 31. Kg1 Bxg8 32. e6 dxc2 33. Bxc2
+Nd4 34. e7 Bd5 35. Re6+ Bxe6 36. e8=Q Ne2+ 37. Kg2 Bd5+ 0-1

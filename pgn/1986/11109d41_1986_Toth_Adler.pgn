@@ -1,0 +1,21 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Toth, Bela"]
+[Black "Adler, Joel"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "11109d41"]
+[Epoch "Queen"]
+[WhiteID "736112"]
+[BlackID "1300563"]
+[WhiteCountry "ITA"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. f4 O-O 7. Nf3 e6 8. dxe6
+Bxe6 9. Bd3 a6 10. O-O Nc6 11. f5 Bd7 12. Bg5 Ne7 13. Qd2 b5 14. Rae1 b4 15.
+Nd1 Bc6 16. Qf4 Nh5 17. Qh4 f6 18. Bc1 Bh8 19. Nf2 Ng7 20. Ng4 Ne8 21. Nh6+ Kg7
+22. g4 1-0

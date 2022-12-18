@@ -1,0 +1,23 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1986.??.??"]
+[Round "4"]
+[White "Kristjansson, Olafur"]
+[Black "Herzog, Juerg"]
+[Result "1-0"]
+[ECO "C06"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation, main line"]
+[HashCode "40cb5c23"]
+[Epoch "Queen"]
+[WhiteID "2300656"]
+[BlackID "1300210"]
+[WhiteCountry "ISL"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bg5 O-O 13. Bh4 g6 14. Bg3 Bxg3 15.
+hxg3 Qg7 16. Rc1 Bd7 17. Qd2 Rae8 18. Bb5 Ng4 19. Rfe1 h6 20. Nf4 g5 21. Bxc6
+gxf4 22. Bxd7 Qxd7 23. gxf4 Qf7 24. g3 Rc8 25. Kg2 Qg6 26. Qe2 Rxc1 27. Rxc1
+Rxf4 28. Re1 Rf6 29. Nh4 Qe4+ 30. f3 Qxd4 31. fxg4 e5 32. Nf3 Qxg4 33. Nxe5 Qd4
+34. Ng4 Rc6 35. Qe8+ Kg7 36. Re7# 1-0

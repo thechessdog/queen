@@ -1,0 +1,22 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roszner"]
+[Black "Richter, Kurt"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "c953c885"]
+[Epoch "Queen"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. Bf4 Nh5 7. Bg3 f5 8. Ng5
+e6 9. f4 Nf6 10. e5 Ne8 11. O-O d5 12. Kh1 c6 13. Bh4 h6 14. Nf3 Qd7 15. a3 Rf7
+16. Qd2 Bf8 17. Rg1 Kh7 18. g4 Be7 19. Rg3 Bxh4 20. Nxh4 Rg7 21. Rag1 Qf7 22.
+Qd1 Nd7 23. gxf5 exf5 24. Nxg6 Nf8 25. Bh5 Be6 26. Nxf8+ Qxf8 27. Bg6+ Rxg6 28.
+Rxg6 Bf7 29. Qh5 Bxg6 30. Qxg6+ Kh8 31. Nd1 Rd8 32. Ne3 Rd7 33. Nxf5 Rf7 34.
+Nxh6 Rxf4 35. Qh5 Ng7 36. Qh3 Rh4 37. Nf7+ Qxf7 38. Qxh4+ Nh5 39. Qh3 Kh7 40.
+e6 1-0

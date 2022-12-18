@@ -1,0 +1,18 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "O'Reilly, Edward"]
+[Black "Motwani, Paul"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[HashCode "a9a2ef33"]
+[Epoch "Queen"]
+[WhiteID "2501155"]
+[WhiteCountry "IRL"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Qc7 8. Qe2
+Nc6 9. Nc3 Bd6 10. dxc5 Bxc5 11. e4 Ng4 12. h3 Nd4 13. hxg4 Nxe2+ 14. Bxe2 Bd7
+15. e5 Bc6 16. Bf4 O-O 0-1

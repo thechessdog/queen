@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Deep Thought"]
+[Black "Levy"]
+[Result "1-0"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "aaa81e8f"]
+[Epoch "Queen"]
+
+1. c4 d6 2. Nc3 Nd7 3. d4 g6 4. Nf3 Bg7 5. e4 c5 6. Be2 cxd4 7. Nxd4 Ngf6
+8. Be3 O-O 9. O-O a6 10. f3 Re8 11. Qd2 Ne5 12. f4 Nc6 13. h3 Bd7 14. Nf3
+Qa5 15. a3 Rad8 16. b4 Qc7 17. Rac1 b6 18. Bd3 Qb7 19. Qf2 Rb8 20. e5 Nh5
+21. b5 axb5 22. cxb5 Nd8 23. g4 Bh8 24. gxh5 Bxh3 25. hxg6 hxg6 26. Rfd1
+Qd7 27. Ng5 Bg4 28. Qh4 Bg7 29. Rd2 Bh5 30. Nd5 Qa7 31. Rc7 Rb7 32. exd6
+exd6 33. Rc8 Qxa3 34. Ne4 1-0
+

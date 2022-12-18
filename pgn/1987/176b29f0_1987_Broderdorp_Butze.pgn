@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Broderdorp"]
+[Black "Butze, Roland"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "176b29f0"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 b6 9. Bf3 Bb7 10. Nge2 Na6 11. Be3 Nc7 12. Nf4 Qd6 13. h4 Rfd8 14. h5 g5
+15. Nfe2 h6 16. Ng3 Ncxd5 17. Nf5 Qd7 18. Bxd5 Nxd5 19. Nxd5 Bxd5 20. Qxd5 Qxd5
+21. Nxe7+ Kf8 22. Nxd5 Rxd5 23. Rd1 Rad8 24. g4 Bxd4 25. Rxd4 Rxd4 26. Bxd4
+Rxd4 27. f3 f5 28. Rg1 fxg4 29. fxg4 Ke7 30. Ke2 Ke6 31. Rg3 Ke5 32. Re3+ Kf4
+33. Re6 Re4+ 34. Rxe4+ Kxe4 0-1

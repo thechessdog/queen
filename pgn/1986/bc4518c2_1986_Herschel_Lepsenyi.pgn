@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Herschel, Knut"]
+[Black "Lepsenyi, L."]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "bc4518c2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Nge2 Nbd7 9. g3 Nb6 10. Bg2 Bf5 11. Nf4 Qd7 12. a4 Rac8 13. a5 Nc4 14.
+O-O Rfd8 15. Rd1 Ne8 16. Nfe2 Ned6 17. Bf4 h6 18. Ra4 Kh7 19. Rda1 g5 20.
+Bc1 Bd3 21. Qd1 Qf5 22. Rb4 Bc2 23. Qe1 b6 24. axb6 axb6 25. b3 Na5 26. Ra3
+Rb8 27. Na4 Rb7 28. Nxb6 Nxb3 29. Raxb3 Bxb3 30. Rxb3 Rdb8 31. Rf3 Qg6 32.
+Na4 Rb1 33. Nc5 Ra8 34. Rb3 Rxb3 35. Nxb3 Qc2 36. Nd2 f5 37. Nf3 Ra1 38.
+Qd2 Qb3 39. Qe3 Qc2 40. Ne1 Qd1 41. Kf1 Nc4 42. Qd3 Rxc1 43. Qxf5+ Kg8 44.
+Qe6+ Kf8 45. Nxc1 Qxc1 46. d6 Nxd6 47. Bd5 Ke8 48. Qg8+ Bf8 49. Bb3 1-0
+

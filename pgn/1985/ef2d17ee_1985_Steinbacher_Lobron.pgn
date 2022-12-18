@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Steinbacher, Matthias, Dr."]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "ef2d17ee"]
+[Epoch "Queen"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+[WhiteID "4600908"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8. h5
+h6 9. Bd2 Qa5 10. Rb1 a6 11. Rh3 Qa4 12. Qg4 Rg8 13. Qf4 cxd4 14. Bd3 b5 15.
+Rf3 Rf8 16. Qg3 dxc3 17. Bxc3 Nf5 18. Rxf5 1-0

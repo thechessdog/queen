@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Zsinka, Laszlo"]
+[Black "Robatsch, Karl"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "d298a77d"]
+[Epoch "Queen"]
+[BlackCountry "AUT"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 d5 7. O-O O-O 8. a3
+Bxc3 9. bxc3 Re8 10. cxd5 exd5 11. Nd2 Bg4 12. f3 Bh5 13. Re1 Bg6 14. Bxg6 hxg6
+15. Nb3 cxd4 16. cxd4 Na5 17. Nxa5 1/2-1/2

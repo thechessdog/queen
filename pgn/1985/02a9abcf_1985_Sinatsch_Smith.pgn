@@ -1,0 +1,23 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sinatsch, F."]
+[Black "Smith, PWH."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "02a9abcf"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. O-O Bd6
+8. d5 O-O 9. Bg5 Nbd7 10. Nd4 Bc5 11. Kh1 Bg4 12. Qd2 exd5 13. Bxd5 c6 14.
+Bb3 Ne5 15. Rf4 Be7 16. Qe3 Qc7 17. Nf5 Bxf5 18. Rxf5 Neg4 19. Qh3 Rae8 20.
+Raf1 Bd6 21. Bxf6 Nxf6 22. Bc4 Qd7 23. g4 Be5 24. g5 Bxc3 25. Qxc3 Nd5 26.
+Bxd5 cxd5 27. Qd3 d4 28. R5f4 Qd5+ 29. Qf3 Qxf3+ 30. R4xf3 Re2 31. R1f2
+Rxf2 32. Rxf2 Rc8 33. Kg2 Rc5 34. h4 Kf8 35. Re2 Rb5 36. b3 Rc5 37. Kf3
+Rc3+ 38. Kf4 d3 39. cxd3 Rxd3 40. Rc2 Ke7 41. Ke5 Kd7 42. Rf2 Ke7 43. Rc2
+Rd6 44. Rc7+ Rd7 45. Rc4 f6+ 46. gxf6+ gxf6+ 47. Kf4 Ke6 48. a4 f5 49. a5
+Rg7 50. Kf3 a6 51. Rb4 Kd6 52. Rb6+ Ke5 53. h5 Rd7 54. b4 Rd3+ 55. Kg2 Rd7
+56. Kf3 Rc7 57. Kg3 Rg7+ 58. Kf3 Re7 59. b5 axb5 60. Rxb5+ Kf6 0-1
+

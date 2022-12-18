@@ -1,0 +1,17 @@
+[Event "Livermore"]
+[Site "Livermore"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Kichinski, Robert"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[HashCode "8aff4466"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Qe2 Nxc4 7. Qxc4 Qxd5
+8. Qxd5 Nxd5 9. c3 Bc5 10. O-O O-O 11. Re1 f6 12. Ne4 Bb6 13. Na3 a6 14. Nc4
+Ba7 15. b3 Bf5 16. Nb2 Rad8 17. a3 Rfe8 18. c4 Nf4 19. g3 Bxe4 20. Rxe4 Nh3+
+21. Kg2 Nxf2 22. Re2 Nd3 23. b4 Bd4 0-1

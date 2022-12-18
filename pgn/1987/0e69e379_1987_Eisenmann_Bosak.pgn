@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Eisenmann, W."]
+[Black "Bosak, Z."]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[HashCode "0e69e379"]
+[Epoch "Queen"]
+
+1. c4 e5 2. Nc3 Bb4 3. g3 Bxc3 4. dxc3 d6 5. Bg2 Ne7 6. Nf3 Nbc6 7. O-O O-O
+8. a4 Be6 9. b3 h6 10. e4 Qd7 11. Ne1 Bh3 12. Ra2 Bxg2 13. Kxg2 b6 14. Be3
+Qe6 15. f3 f5 16. exf5 Rxf5 17. Raf2 Raf8 18. Kg1 R5f7 19. Ng2 Qg6 20. b4
+Qe6 21. Qe2 a5 22. b5 Nb8 23. f4 Nd7 24. g4 exf4 25. Rxf4 Ne5 26. h3 N7g6
+27. Rxf7 Rxf7 28. Rxf7 Qxf7 29. Bc1 Qxc4 30. Qxc4+ Nxc4 31. Kf2 Kf7 32. Ke2
+Ke6 0-1
+

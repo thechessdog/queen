@@ -1,0 +1,18 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jensen, Niels"]
+[Black "De Smet, K."]
+[Result "1/2-1/2"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "99247b4c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. Bb5+ c6 5. dxc6 Nxc6 6. d4 exd4 7. Nxd4
+Ne7 8. Bg5 Qc7 9. Nc3 O-O 10. Nxc6 Nxc6 11. Qd2 Re8+ 12. Be3 Bxh2 13. O-O-O
+Be5 14. Qd3 g6 15. Nd5 Qa5 16. Qb3 Bg4 17. f3 Be6 18. Bc4 Rab8 19. f4 Bg7
+20. Bd2 Qc5 21. Be3 Qa5 1/2-1/2
+

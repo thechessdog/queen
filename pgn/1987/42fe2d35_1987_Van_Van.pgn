@@ -1,0 +1,21 @@
+[Event "HMC"]
+[Site "HMC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Vugt"]
+[Black "Van Goch"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "42fe2d35"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. Nc3 a6 6. Bxc6+ bxc6 7. d4 Bg4
+8. dxe5 Bxf3 9. Qxf3 dxe5 10. Be3 Be7 11. Rfd1 Qb8 12. b3 O-O 13. Qg3 Re8
+14. Qxe5 Bd6 15. Qd4 c5 16. Qd3 Re6 17. f3 c6 18. h3 Nd7 19. Rd2 Nf6 20.
+Rad1 Nh5 21. Ne2 Qb6 22. Qc4 Be7 23. Rd7 Qb5 24. Qd3 Qxd3 25. R1xd3 Nf6 26.
+Rb7 a5 27. Kf2 a4 28. Nc3 axb3 29. cxb3 h6 30. Ke2 Kh7 31. Rd2 Kg6 32. Rc2
+Ne8 33. Kf2 Nd6 34. Rd7 Nc8 35. Na4 c4 36. Rxc4 Nd6 37. Rc2 Ra6 38. Nc5
+Nxe4+ 39. Nxe4 Ra3 40. Rxe7 Rxe7 41. Bc5 1-0
+

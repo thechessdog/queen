@@ -1,0 +1,20 @@
+[Event "Landes-Einzelmeister"]
+[Site "Landes-Einzelmeister"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reher, Wolfgang"]
+[Black "Ilgner, Andreas"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "54ab0dce"]
+[Epoch "Queen"]
+[WhiteID "12939951"]
+[BlackID "4648366"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. c3 c5 5. e5 Nfd7 6. f4 Nc6 7. Ngf3 Be7 8. a3 f6
+9. exf6 Nxf6 10. Qe2 O-O 11. g3 Bd6 12. Bg2 e5 13. fxe5 Nxe5 14. O-O Neg4 15.
+Nb3 Qb6 16. Qd1 Bd7 17. Bd2 Ba4 0-1

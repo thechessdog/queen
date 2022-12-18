@@ -1,0 +1,20 @@
+[Event "Parijs open II"]
+[Site "Parijs open II"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Camus, Claude"]
+[Black "Yezeguelian, F."]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "1db0da61"]
+[Epoch "Queen"]
+[WhiteID "20697228"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 cxd4 5. cxd4 Bb4+ 6. Nc3 f6 7. f4 Nc6 8. Nf3
+Bd7 9. Bb5 Qb6 10. O-O Bxc3 11. Bxc6 Qxc6 12. bxc3 Qxc3 13. Rb1 b5 14. Rf2 Rc8
+15. Bd2 Qd3 16. Bb4 Qc4 17. Bc5 Nh6 18. Rc2 Qa4 19. Rb3 Nf5 20. Qd2 b4 21. Rxb4
+Qa5 22. g4 Ne3 23. Qxe3 Rxc5 24. Rb8+ Ke7 25. Rxc5 Qxa2 26. Rxh8 Qb1+ 27. Kg2
+Qa2+ 28. Kg3 h6 29. exf6+ Kf7 30. Ne5+ Kxf6 31. Rc7 a5 32. Rxd7 a4 33. Rf8# 1-0

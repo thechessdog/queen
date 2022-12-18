@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zaruba, R."]
+[Black "Frohs, J."]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "3f9fe5f1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c6 4. Bg2 d5 5. Nf3 dxc4 6. Ne5 Bb4+ 7. Bd2 Qxd4
+8. Bxb4 Qxe5 9. Na3 Nd5 10. Nxc4 Qh5 11. Bf3 Qg6 12. Ba3 Nd7 13. Nd6+ Kd8
+14. e4 Ne7 15. Bh5 Qf6 16. Nxf7+ Ke8 17. e5 Nxe5 18. Qd8# 1-0
+

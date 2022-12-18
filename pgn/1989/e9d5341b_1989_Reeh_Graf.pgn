@@ -1,0 +1,19 @@
+[Event "Bundesliga 8889"]
+[Site "Duitsland tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Reeh, Oliver"]
+[Black "Graf, Juergen"]
+[Result "1/2-1/2"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[HashCode "e9d5341b"]
+[Epoch "Queen"]
+[WhiteID "4600142"]
+[WhiteCountry "GER"]
+[BlackID "4600312"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Bd3 c5 8. Nge2
+cxd4 9. Nxd4 e6 10. O-O d5 1/2-1/2

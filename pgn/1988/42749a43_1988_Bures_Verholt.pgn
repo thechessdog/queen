@@ -1,0 +1,18 @@
+[Event "Utrecht-Motorlet"]
+[Site "Utrecht-Motorlet"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bures"]
+[Black "Verholt, Gerard"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "42749a43"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Bxf3 11. Qxf3 Qxd5 12. Qg3 Nxd4 13. Nc3 Qd7
+14. Be3 Ne6 15. Rad1 Bd6 16. Qh4 O-O-O 17. Bxa7 Nf4 18. Bf1 g5 19. Qh6 Qf5
+20. f3 Bf8 0-1
+

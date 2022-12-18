@@ -1,0 +1,20 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Moiseev, Viktor"]
+[Black "Ivanov, Victor L"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "15d2ca77"]
+[Epoch "Queen"]
+[WhiteID "4101464"]
+[BlackID "4106148"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Ng3 e4 7. Nd4 Qf6 8.
+Qh5+ Ke7 9. Ndf5+ Ke6 10. Bxc6 bxc6 11. Qe8+ Ne7 12. Nxe7 Bxe7 13. Qxc6+ Ke5
+14. f4+ 1-0

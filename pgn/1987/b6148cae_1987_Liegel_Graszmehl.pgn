@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Liegel"]
+[Black "Graszmehl"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[HashCode "b6148cae"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7
+8. h3 Qb6 9. Qc2 O-O 10. Nf3 g6 11. h4 h5 12. Ne5 Qd8 13. Bxg6 Nxe5 14.
+dxe5 Ng4 15. Bxh5 Nxe5 16. O-O-O Bg4 17. Bxg4 Nxg4 18. Qf5 Nf6 19. Rh3 Nh7
+20. Bh6 Qd6 21. Rg3+ 1-0
+

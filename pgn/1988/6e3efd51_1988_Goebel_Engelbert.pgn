@@ -1,0 +1,23 @@
+[Event "BL2-N8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Goebel, Wolfgang"]
+[Black "Engelbert, Christoph"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[HashCode "6e3efd51"]
+[Epoch "Queen"]
+[WhiteID "4630050"]
+[WhiteCountry "GER"]
+[BlackID "4609158"]
+[BlackCountry "GER"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. e5 Ng4 8. Bg1
+e6 9. h3 Nh6 10. g4 b6 11. Bg2 Bb7 12. Be3 dxe5 13. fxe5 Kh8 14. Qd2 Ng8 15.
+O-O-O Qd7 16. h4 h6 17. h5 g5 18. Nxg5 hxg5 19. h6 Bxe5 20. dxe5 Qxd2+ 21. Rxd2
+f6 22. h7 Nge7 23. exf6 Rxf6 24. Bxg5 Rf7 25. Rd7 Re8 26. Rxc7 Ba8 27. Be4 Ref8
+28. b3 Rc8 29. Rxc8+ Nxc8 30. Rh6 Nd6 31. Bd3 Nb4 32. Bf6+ Rxf6 33. Rxf6 Nxd3+
+34. cxd3 Kxh7 35. Rxe6 1-0

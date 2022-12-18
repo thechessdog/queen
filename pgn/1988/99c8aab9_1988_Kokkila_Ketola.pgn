@@ -1,0 +1,21 @@
+[Event "JSM EtVaS-SSK"]
+[Site "JSM EtVaS-SSK"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kokkila, Tero"]
+[Black "Ketola, Klaus"]
+[Result "0-1"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "99c8aab9"]
+[Epoch "Queen"]
+[WhiteID "501352"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 a6 10. O-O-O Na5 11. Bb3 b5 12. g4 b4 13. Nce2 Nxb3+ 14. axb3 a5 15.
+h4 Qc7 16. h5 a4 17. hxg6 axb3 18. gxf7+ Rxf7 19. Nxb3 Ra2 20. Ned4 e5 21. Nb5
+Qa5 22. Kb1 Qa4 23. g5 Be6 24. Qxd6 Bxb3 25. cxb3 Qxb3 26. Rh2 Bf8 27. gxf6
+Bxd6 28. Rg2+ Kh8 29. Rxd6 h5 30. Rd8+ Kh7 31. Nd6 Raa7 32. Nxf7 Qa2+ 33. Kc1
+Qa1+ 34. Kc2 b3+ 35. Kc3 0-1

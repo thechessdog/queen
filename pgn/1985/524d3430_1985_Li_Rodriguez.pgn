@@ -1,0 +1,18 @@
+[Event "FIDE (35) 1985-1987"]
+[Site "Biel izt"]
+[Date "1985.07.01"]
+[Round "10"]
+[White "Li, Zunian"]
+[Black "Rodriguez Cespedes, Amador"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "524d3430"]
+[Epoch "Queen"]
+[WhiteID "8600090"]
+[WhiteCountry "CHN"]
+[BlackCountry "ESP"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. Nc3 Bb7 5. a3 d5 6. cxd5 exd5 7. g3 c5 8. Ne5
+Nbd7 9. Bg2 Be7 10. O-O O-O 1/2-1/2

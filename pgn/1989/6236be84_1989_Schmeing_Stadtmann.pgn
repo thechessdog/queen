@@ -1,0 +1,25 @@
+[Event "NRW-Liga I 8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schmeing, Walter"]
+[Black "Stadtmann, Jens"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "6236be84"]
+[Epoch "Queen"]
+[WhiteID "12977993"]
+[WhiteCountry "GER"]
+[BlackID "4670299"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. Nf3 g6 5. Bg2 Bg7 6. O-O Nge7 7. Nc3 d5 8. d3
+O-O 9. Nh4 Nd4 10. Qd1 b5 11. Ne2 Bb7 12. f4 Qb6 13. Kh1 dxe4 14. dxe4 f5 15.
+c3 Nxe2 16. Qxe2 Rfe8 17. Re1 Rad8 18. exf5 exf5 19. Nf3 Qc6 20. Be3 Nd5 21.
+Qf2 Nxe3 22. Rxe3 Rxe3 23. Qxe3 c4 24. Nh4 Qb6 25. Qe2 Bf6 26. Nf3 Be4 27. Re1
+Qc6 28. Rd1 Rd3 29. Ne1 Rxd1 30. Qxd1 b4 31. Qd2 bxc3 32. bxc3 Bxg2+ 33. Nxg2
+Qf3 34. Kg1 Qxc3 35. Qxc3 Bxc3 36. Ne3 Bd4 37. Kf2 Kf7 38. Ke2 c3 39. Nc2 Bg1
+40. h3 h5 41. Kf1 Bc5 42. Ke2 Kf6 43. Ne1 Ke6 44. Nf3 c2 45. Kd2 Bf2 46. Nh4
+Kf6 47. Kxc2 Bxg3 48. Ng2 Ke6 49. Kd3 Kd5 50. Ke3 Kc4 51. Kf3 h4 0-1

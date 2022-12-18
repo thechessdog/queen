@@ -1,0 +1,27 @@
+[Event "Regionalliga NordS"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bleis, Christian, Prof. Dr."]
+[Black "Haskamp, Stephan"]
+[Result "0-1"]
+[ECO "A69"]
+[Opening "Benoni"]
+[Variation "four pawns attack, main line"]
+[HashCode "7f4d5c3e"]
+[Epoch "Queen"]
+[WhiteID "4684630"]
+[WhiteCountry "GER"]
+[BlackID "4604741"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Nf3 e6 8. Be2 exd5
+9. cxd5 Re8 10. Nd2 c4 11. a4 Nbd7 12. O-O Nc5 13. e5 dxe5 14. Nxc4 exf4 15.
+Bxf4 Nce4 16. Nb5 Nxd5 17. Nbd6 Nxf4 18. Nxe8 Qb6+ 19. Kh1 Nf2+ 20. Rxf2 Qxf2
+21. Bf3 Bh3 22. Qf1 Qxf1+ 23. Rxf1 Rxe8 24. gxh3 Re7 25. b4 b6 26. Nd6 Rd7 27.
+Bg4 Rxd6 28. Rxf4 f5 29. Bf3 Be5 30. Rc4 Rd2 31. Rc8+ Kg7 32. Ra8 Rxh2+ 33. Kg1
+Rxh3 34. Rxa7+ Kf6 35. Bd5 Rh4 36. b5 h5 37. a5 bxa5 38. Rxa5 Rb4 39. Ra6+ Kg7
+40. Bc6 Rb1+ 41. Kg2 Ra1 42. Be8 Bf6 43. Rc6 Ra8 44. Rc7+ Kh6 45. Bf7 Rb8 46.
+Rc6 Kg7 47. Bc4 Bd8 48. Rd6 Ba5 49. Kf3 Rb6 50. Rd7+ Kf6 51. Ra7 Bb4 52. Ke2 g5
+53. Rf7+ Kg6 54. Rc7 g4 55. Kd3 h4 56. Bf7+ Kg5 57. Kc4 Bd6 58. Rd7 h3 59. Bd5
+Kf4 60. Bc6 h2 61. Rxd6 Rxc6+ 62. bxc6 h1=Q 0-1

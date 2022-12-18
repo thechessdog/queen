@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kummer"]
+[Black "Leisebein"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[HashCode "746da402"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Qd7 9. f3 Nc6 10. a4 Na5 11. Ba2 b6 12. h4 c5 13. h5 cxd4 14. hxg6
+hxg6 15. cxd4 Ba6 16. Be3 Rac8 17. e5 Nc4 18. Bh6 Bxh6 19. Rxh6 Ne3 20. Qd2
+Rc2 21. Rxg6+ Kh7 22. Rg3 Rfc8 23. Qxe3 Rxe2+ 24. Qxe2 Bxe2 25. Kxe2 Rc2+
+26. Ke3 Rc3+ 27. Ke2 1/2-1/2
+

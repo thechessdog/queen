@@ -1,0 +1,19 @@
+[Event "corr WT/M"]
+[Site "corr WT/M"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Jean"]
+[Black "Bornholz"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "dfff2713"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nd7 5. Bc4 c5 6. O-O Nb6 7. Bxf7+ Kxf7
+8. dxc5 Bxc3 9. bxc3 h6 10. cxb6 Qxb6 11. Be3 Qc7 12. e5 dxe5 13. Nxe5+ Kg7
+14. Bd4 Nf6 15. Re1 Rg8 16. Qe2 a5 17. Nd7 Qxd7 18. Qxe7+ Qxe7 19. Rxe7+
+Kf8 20. Bxf6 Ra6 21. Rd1 Rxf6 22. Rc7 Rf7 23. Rxc8+ Kg7 24. Rxg8+ Kxg8 25.
+Rd6 Kg7 26. Rb6 1-0
+

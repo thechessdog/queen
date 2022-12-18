@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Minckwitz, Johannes"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Boden defence"]
+[HashCode "04b92248"]
+[Epoch "Queen"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Nc6 5. d4 g5 6. Nc3 Nge7 7. Nb5 Kd8 8.
+Bxf7 Bg7 9. Nf3 Qh6 10. c3 a6 11. Na3 Rf8 12. Bc4 g4 13. Ne1 d6 14. Be2 Qh5 15.
+Nac2 f3 16. gxf3 gxf3 17. Nxf3 Bh3+ 18. Kf2 Qh4+ 19. Ke3 Bh6+ 20. Ng5 Bxg5+ 21.
+Kd3 Qxe4+ 22. Kxe4 d5+ 23. Kd3 Bf5# 0-1

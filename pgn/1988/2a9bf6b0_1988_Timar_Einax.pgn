@@ -1,0 +1,18 @@
+[Event "corr EU/I/GT"]
+[Site "corr EU/I/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Timar, Zsolt"]
+[Black "Einax, M."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "2a9bf6b0"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Bb4 5. Nf3 Nc6 6. Qc2 d5 7. e3 Bf5 8. Bd3
+O-O 9. O-O Bxd2 10. Bxd2 Nxd2 11. Qxd2 Be4 12. cxd5 Bxf3 13. gxf3 Nxe5 14. Be2
+Qh4 15. Qc3 Qh5 16. e4 Rad8 17. Rae1 Rd6 18. f4 Qg6+ 19. Qg3 Nd7 20. Bf3 Qh6
+21. f5 1-0

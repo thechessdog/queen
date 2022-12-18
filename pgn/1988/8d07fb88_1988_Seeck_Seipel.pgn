@@ -1,0 +1,20 @@
+[Event "Schleswig Holstein-ch"]
+[Site "Landes-Einzelmeister"]
+[Date "1988.01.01"]
+[Round "8"]
+[White "Seeck, Klaus"]
+[Black "Seipel, Jurgen"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 9.Nb3"]
+[HashCode "8d07fb88"]
+[Epoch "Queen"]
+[BlackID "12945234"]
+[BlackCountry "GER"]
+[WhiteID "4618327"]
+[WhiteCountry "GER"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Be3 d6 7. Be2 Nf6 8.
+O-O O-O 9. Nb3 a6 10. f4 Qc7 11. Bf3 Bd7 12. Kh1 Rac8 13. g4 Na5 14. g5 Ne8 15.
+Nd5 Qd8 16. Bb6 Nxb3 17. Bxd8 Nxa1 18. Nxe7+ 1-0

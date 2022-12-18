@@ -1,0 +1,23 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kristensen, Jorgen"]
+[Black "Brautsch, Soren"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Paulsen attack"]
+[HashCode "6a97007a"]
+[Epoch "Queen"]
+[WhiteID "1429086"]
+[BlackID "1400983"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. d4 d5 6. Ne3 Nc6 7. c3 Be6 8. Nd2
+f5 9. Nxe4 fxe4 10. Bb5 Bd6 11. O-O O-O 12. c4 Qh4 13. g3 Qf6 14. cxd5 Nxd4 15.
+dxe6 Nxb5 16. Qd5 Qe5 17. e7+ Rf7 18. Qxb7 Re8 19. Qc6 Rb8 20. Nc4 Qxe7 21.
+Nxd6 cxd6 22. Be3 Qe5 23. Rfd1 h5 24. Rab1 Rc7 25. Qa6 Rcb7 26. b3 Qf5 27. a4
+Na3 28. Rbc1 Rxb3 29. Qxd6 Rf8 30. Rc5 Qf7 31. Rc7 Qf5 32. Qd7 Qf7 33. Qxf7+
+Rxf7 34. Rd8+ Rf8 35. Rdd7 Rb1+ 36. Kg2 Rfb8 37. Rxg7+ Kf8 38. Bc5+ 1-0

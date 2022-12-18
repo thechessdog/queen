@@ -1,0 +1,25 @@
+[Event "Dortmund III"]
+[Site "Dortmund III"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Szalanczy, Emil"]
+[Black "Grimberg, Gilbert"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "9e1c64ef"]
+[Epoch "Queen"]
+[WhiteID "700347"]
+[WhiteCountry "HUN"]
+[BlackID "600474"]
+[BlackCountry "FRA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Nf3 e5 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. a5
+Rb8 9. Qe2 Qc7 10. Be3 b5 11. axb6 axb6 12. d5 b5 13. Ra7 Rb7 14. dxc6 Rxa7 15.
+Nxb5 Qxc6 16. Nxa7 Qxe4 17. Nxc8 Rxc8 18. Bxf7+ Kf8 19. Bb3 h6 20. h3 Nc5 21.
+Nd2 Qb7 22. Bxc5 Rxc5 23. Ra1 g6 24. Ra4 Kg7 25. Kh1 Qc7 26. Ne4 Ra5 27. Rc4
+Qb8 28. Nxf6 Bxf6 29. Qg4 h5 30. Qd7+ Kh6 31. Rc6 Qb4 32. Rxd6 Qe1+ 33. Kh2
+Qxf2 34. Rd2 Qe3 35. Qd3 Qxd3 36. cxd3 h4 37. Kg1 e4 38. dxe4 Rb5 39. Rd3 Bxb2
+40. Kf2 Rc5 41. Rd6 Be5 42. Ra6 Rc3 43. Bf7 Rc2+ 44. Kf3 Rc3+ 45. Ke2 Rc2+ 46.
+Kd3 Rc3+ 47. Kd2 Rg3 48. Re6 Rxg2+ 49. Kd3 Rg3+ 50. Kc4 Bf4 1/2-1/2

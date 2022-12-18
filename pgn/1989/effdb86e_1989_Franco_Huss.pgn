@@ -1,0 +1,23 @@
+[Event "Lucerne"]
+[Site "Lucerne"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Franco Ocampos, Zenon"]
+[Black "Huss, Andreas"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "effdb86e"]
+[Epoch "Queen"]
+[BlackID "1300180"]
+[WhiteID "2209381"]
+[WhiteCountry "PAR"]
+[BlackCountry "SUI"]
+
+1. d4 e6 2. Nf3 Nf6 3. e3 b6 4. Bd3 Bb7 5. O-O d5 6. c4 Bd6 7. Nc3 O-O 8. b3
+Nbd7 9. Bb2 a6 10. Rc1 Ne4 11. Ne2 Qf6 12. Ng3 Nxg3 13. hxg3 dxc4 14. Rxc4 h6
+15. Bb1 Rac8 16. Qc2 g6 17. e4 e5 18. Qd2 Kh7 19. dxe5 Nxe5 20. Nxe5 Bxe5 21.
+Bxe5 Qxe5 22. Rd4 c5 23. Rd6 Bc6 24. f4 Qe7 25. e5 f5 26. g4 Rf7 27. Re1 Qh4
+28. e6 Rg7 29. Qf2 Qxf2+ 30. Kxf2 fxg4 31. Rxc6 Rxc6 32. e7 Rc8 33. e8=Q Rxe8
+34. Rxe8 Rf7 35. Kg3 h5 36. Re6 1-0

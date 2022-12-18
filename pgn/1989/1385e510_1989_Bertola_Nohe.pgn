@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bertola, Thierry"]
+[Black "Nohe, D."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "1385e510"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 e5 6. Nf3 exd4 7. Nxd4 c5
+8. Qa4+ Bd7 9. Ndb5 Bc6 10. Bf4 a6 11. Nd5 Nxd5 12. exd5 Qe7+ 13. Kd2 Bxb5
+14. Bxb5+ Nd7 15. d6 Qe6 16. Bxd7+ Qxd7 17. Rhe1+ Kd8 18. Qa5+ b6 19. Qxb6+
+Kc8 20. Re8+ Qxe8 21. Qc7# 1-0
+

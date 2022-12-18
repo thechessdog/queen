@@ -1,0 +1,27 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Groszpeter, Attila"]
+[Black "Polaczek, Richard"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "d506cec4"]
+[Epoch "Queen"]
+[WhiteID "700053"]
+[WhiteCountry "HUN"]
+[BlackID "200026"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 Nbd7 7. O-O c6 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 e5 11. Bc2 Qh4 12. a3 Bd6 13. f4 exd4 14. Nxd4 Qf6
+15. Nf3 Nb6 16. Be3 Bxf4 17. Bd4 Qh6 18. Qd3 Be6 19. b3 Rad8 20. g3 c5 21. gxf4
+cxd4 22. Nxd4 Bg4 23. Rae1 f5 24. Qe3 Rd6 25. Kh1 Rg6 26. Rg1 Qh4 27. Rg3 Rh6
+28. Qf2 Rd8 29. Nxf5 Bxf5 30. Bxf5 Kh8 31. Rge3 g6 32. Re8+ Rxe8 33. Rxe8+ Kg7
+34. Qxh4 Rxh4 35. Bd3 Rxf4 36. Re7+ Rf7 37. Rxf7+ Kxf7 38. Be4 Nd7 39. Bxb7 Nc5
+40. Bd5+ Ke7 41. b4 Na4 42. Kg2 Nc3 43. Kf2 Kd6 44. Bg8 h6 45. Ke3 g5 46. Kd3
+Nd1 47. Kd4 Nf2 48. c5+ Kc7 49. Be6 h5 50. b5 g4 51. a4 h4 52. a5 g3 53. hxg3
+hxg3 54. Bd5 Nh3 55. Ke5 Kb8 56. b6 Ng5 57. c6 axb6 58. axb6 Nf7+ 59. Ke6 Nd8+
+60. Kd7 Nxc6 61. Kxc6 1-0

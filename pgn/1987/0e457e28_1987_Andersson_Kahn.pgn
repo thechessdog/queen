@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Kahn"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Canal variation"]
+[HashCode "0e457e28"]
+[Epoch "Queen"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. Bg5 Na5 7. Bxf6 Qxf6 8.
+Nd5 Qd8 9. b4 Nxc4 10. bxc5 c6 11. dxc4 cxd5 12. Qxd5 Qa5+ 13. Qd2 Qxc5 14. O-O
+Be6 15. Rfd1 O-O-O 16. a4 f6 17. Rdb1 Bxc4 18. Rb2 d5 19. exd5 Rxd5 20. Qe1
+Rhd8 0-1

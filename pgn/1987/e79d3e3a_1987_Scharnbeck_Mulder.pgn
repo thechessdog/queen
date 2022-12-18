@@ -1,0 +1,17 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Scharnbeck, M."]
+[Black "Mulder, B."]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, Florentine gambit"]
+[HashCode "e79d3e3a"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. e5 Ng4 10. cxd5 dxe5 11. h3 e4 12. hxg4 exf3 13. gxf3 Re8 14. f5 b6
+15. Kf1 Ba6 16. Ne4 Qc8 17. f6 Rxe4 18. fxe4 Bxf6 19. Bxa6 Nxa6 20. Qf3 1-0
+

@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pentzien"]
+[Black "Wolfram, R."]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "9cbb1674"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+e5 dxe5 9. dxe5 Nd5 10. h3 Bxf3 11. Qxf3 Ncb4 12. Be4 c6 13. Ne2 e6 14. a3
+Qb6+ 15. Kh1 Na6 16. c4 Ne7 17. b4 Rac8 18. Be3 c5 19. b5 Nb8 20. Bxb7 Rc7
+21. Be4 Nd7 22. Rfd1 Qb8 23. Nc3 Nb6 24. Qe2 f6 25. exf6 Bxf6 26. Rac1 Nf5
+27. Bxf5 exf5 28. Nd5 Nxd5 29. Rxd5 Re8 30. Qf2 Re4 31. Bxc5 Qe8 32. Bd4
+Re2 33. Qf3 Re1+ 34. Rxe1 Qxe1+ 35. Kh2 Bh4 36. Re5 Qd2 37. Qd5+ 1-0
+

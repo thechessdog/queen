@@ -1,0 +1,23 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1985.01.01"]
+[Round "9"]
+[White "Van der Wiel, John T.H."]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[HashCode "af31496f"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "4600037"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+h6 9. Nb3 Be7 10. f4 O-O 11. Be3 d6 12. a4 b6 13. Qe2 Rb8 14. g4 Nh7 15. Rad1
+Re8 16. Nd2 Nb4 17. Nf3 e5 18. f5 Bb7 19. h4 d5 20. exd5 Nf6 21. Nh2 e4 22. Bf4
+Bd6 23. Bxd6 Qxd6 24. g5 hxg5 25. hxg5 Qc5+ 26. Kh1 Nfxd5 27. Qh5 Ne7 28. Nxe4
+Bxe4 29. Bxe4 Qe5 30. Rde1 Rbd8 31. Ng4 Qg3 32. Rg1 Nxf5 33. Nf6+ gxf6 34. gxf6
+Rxe4 35. Rxe4 1-0

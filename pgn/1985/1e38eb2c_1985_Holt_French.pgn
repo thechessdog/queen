@@ -1,0 +1,20 @@
+[Event "corr CB"]
+[Site "corr CB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Holt"]
+[Black "French, C."]
+[Result "0-1"]
+[ECO "A58"]
+[Opening "Benko gambit"]
+[Variation "Nd2 variation"]
+[HashCode "1e38eb2c"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8.
+Nd2 Bg7 9. e4 Bxf1 10. Nxf1 O-O 11. Ne3 Nbd7 12. O-O Qa5 13. a4 Rfb8 14.
+Bd2 Qa6 15. Nb5 Rb7 16. Bc3 Nxe4 17. Bxg7 Kxg7 18. Qc2 Nef6 19. b3 Rxb5 20.
+axb5 Qxa1 21. Rxa1 Rxa1+ 22. Nf1 Nb6 23. g4 Kg8 24. Kg2 Nfxd5 25. Ne3 Nf4+
+26. Kg3 Ne6 27. Nc4 Rg1+ 28. Kh4 g5+ 29. Kh5 Rg2 30. h3 Rh2 31. Qc3 Nd5 32.
+Qg3 Kg7 33. Qxh2 Nf6# 0-1
+

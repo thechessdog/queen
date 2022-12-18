@@ -1,0 +1,20 @@
+[Event "corr EU"]
+[Site "corr EU"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Constantinou, A."]
+[Black "Leeners, H."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "7bc092c4"]
+[Epoch "Queen"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. Qa4 Bxf3 5. exf3 e6 6. Nc3 Ne7 7. cxd5
+exd5 8. Bb5 a6 9. Bxc6+ Nxc6 10. O-O Qd7 11. Re1+ Be7 12. Bf4 O-O 13. Be5
+Rfe8 14. Qb3 Nxe5 15. Rxe5 Bf6 16. Rxd5 Qe6 17. Ne4 c6 18. Rd6 Qxb3 19.
+axb3 Rad8 20. Rxf6 gxf6 21. Nxf6+ Kf8 22. Nxe8 Kxe8 23. Rd1 Ke7 24. g4 Rd5
+25. Kf1 c5 26. Re1+ Kf6 27. dxc5 Rxc5 28. h4 Rb5 29. Re3 Rb4 30. h5 h6 31.
+Kg2 Rd4 32. Rc3 Rb4 33. Kg3 Rb5 34. f4 Rd5 35. Kh4 Rd2 36. g5+ Kg7 37. Rc7
+Rxf2 38. Kg3 1-0
+

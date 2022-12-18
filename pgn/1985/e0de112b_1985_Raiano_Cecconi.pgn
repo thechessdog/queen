@@ -1,0 +1,21 @@
+[Event "Montecatini"]
+[Site "Montecatini"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Raiano"]
+[Black "Cecconi"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "e0de112b"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. h3 Bg7 5. Nf3 c6 6. Be2 b5 7. a3 a6 8. O-O
+Bb7 9. Bg5 h6 10. Bh4 O-O 11. e5 Ne8 12. Bd3 dxe5 13. dxe5 Nc7 14. Ne4 Ne6
+15. Nd6 Qc7 16. Nxb7 Qxb7 17. Qd2 c5 18. Qe3 Ra7 19. c3 Nc6 20. Bg3 Qc8 21.
+Nd2 Rd7 22. Be2 Nxe5 23. f4 Rfd8 24. Ne4 Nc4 25. Bxc4 bxc4 26. f5 Rd3 27.
+Qf2 Nd4 28. f6 exf6 29. Nd6 Rxd6 30. Bxd6 f5 31. Bh2 Qd7 32. Kh1 Nb3 33.
+Rae1 Nd2 34. Qxc5 Nxf1 35. Rxf1 Qb5 36. Qc8+ Kh7 37. h4 Qxb2 38. Qxc4 Qe2
+39. Rg1 Qe4 40. Qxf7 Qxh4 41. Rc1 Re3 42. c4 Re7 0-1
+

@@ -1,0 +1,18 @@
+[Event "Namestovo"]
+[Site "Namestovo"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Trapl, Jindrich"]
+[Black "Knezevic, Milorad"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e6e84e9e"]
+[Epoch "Queen"]
+[BlackID "950238"]
+[BlackCountry "SRB"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 dxc4 7. Bxc4 Bd6 8. Nb5
+Be7 9. Nf3 Nc6 10. Nc3 Bd6 11. Nb5 Be7 1/2-1/2

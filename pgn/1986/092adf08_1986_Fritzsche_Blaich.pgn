@@ -1,0 +1,18 @@
+[Event "Lauda"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Fritzsche, H."]
+[Black "Blaich, G."]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "092adf08"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 c5 3. c3 d5 4. Bd3 dxe4 5. Bxe4 Nf6 6. Bc2 cxd4 7. cxd4 Bb4+
+8. Nc3 Nc6 9. Nf3 Qa5 10. Qd3 b6 11. Bd2 Ba6 12. Qe3 O-O 13. Ng5 e5 14.
+dxe5 Nxe5 15. Nce4 Nxe4 16. Bxe4 h6 17. Bxa8 Bxd2+ 18. Qxd2 Nd3+ 19. Kd1
+Qa4+ 20. b3 Qd4 21. Rb1 Nxf2+ 22. Ke1 Nd3+ 23. Kd1 Rxa8 24. Rf1 hxg5 25.
+Rf5 0-1
+

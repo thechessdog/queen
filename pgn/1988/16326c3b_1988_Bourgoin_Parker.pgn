@@ -1,0 +1,19 @@
+[Event "corr CA open"]
+[Site "corr CA open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bourgoin"]
+[Black "Parker"]
+[Result "1-0"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical, main line with d3"]
+[HashCode "16326c3b"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d3 d6 8.
+Bg5 a6 9. a4 h6 10. Bxf6 Bxf6 11. Re1 Rb8 12. Qc2 Bd7 13. e4 Nb4 14. Qd2
+Bg7 15. b3 Nc6 16. Rad1 Qa5 17. Ne2 b5 18. axb5 axb5 19. Qxa5 Nxa5 20. Rb1
+Rb6 21. b4 bxc4 22. bxa5 Rxb1 23. Rxb1 cxd3 24. Nf4 c4 25. Rc1 Rc8 26. Nd5
+Kf8 27. Nb6 1-0
+

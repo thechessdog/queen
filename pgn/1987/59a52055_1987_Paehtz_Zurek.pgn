@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Paehtz, Thomas"]
+[Black "Zurek, Milan"]
+[Result "1-0"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "59a52055"]
+[Epoch "Queen"]
+[BlackID "300241"]
+[BlackCountry "CZE"]
+[WhiteID "4611349"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bf5 5. cxd5 cxd5 6. Nc3 Nc6 7. Ne5 e6 8. g4
+Be4 9. f3 Bg6 10. h4 h5 11. Nxg6 fxg6 12. g5 Ng8 13. Bh3 Kf7 14. e4 Bb4 15. O-O
+Nge7 16. Ne2 Bd6 17. Bf4 Rf8 18. Qd2 Kg8 19. Bxe6+ Kh7 20. Bxd6 Qxd6 21. Bh3
+dxe4 22. fxe4 Ne5 23. Qe3 Qb6 24. Qb3 Qa6 25. Nf4 Ng4 26. Bxg4 hxg4 27. d5 Nc8
+28. Ne6 Rxf1+ 29. Rxf1 Nd6 30. Qc3 Qb6+ 31. Kg2 Rg8 32. h5 Nxe4 33. hxg6+ Kxg6
+34. Qe5 1-0

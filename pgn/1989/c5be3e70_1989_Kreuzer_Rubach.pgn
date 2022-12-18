@@ -1,0 +1,20 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kreuzer, Martin, Prof. Dr."]
+[Black "Rubach, Ingo"]
+[Result "0-1"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "c5be3e70"]
+[Epoch "Queen"]
+[WhiteID "4604466"]
+[BlackID "4639286"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
+fxe5 dxe5 9. Bc4 Bc5 10. Qe2 O-O 11. Bd2 b5 12. Bb3 b4 13. Na4 Be7 14. O-O-O
+Bb7 15. Ng5 Qc7 16. g4 Rac8 17. Kb1 Bc6 18. Bxf7+ Rxf7 19. Qc4 0-1

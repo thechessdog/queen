@@ -1,0 +1,17 @@
+[Event "RLNN 8990"]
+[Site "RLNN 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kammer, R."]
+[Black "Reimer, W."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine (Maroczy) gambit"]
+[HashCode "9d4fa2c7"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. e5 f6 6. f4 Nh6 7. Ng3 O-O 8. a3
+Ba5 9. b4 Bb6 10. Nce2 fxe5 11. fxe5 Qh4 12. Bxh6 Qxh6 13. Qd3 Bd7 14. c3
+Nxe5 15. Qc2 Nc4 16. Qc1 Qf6 17. a4 a5 18. b5 e5 0-1
+

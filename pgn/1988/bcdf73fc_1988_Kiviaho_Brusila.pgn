@@ -1,0 +1,21 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kiviaho"]
+[Black "Brusila"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[HashCode "bcdf73fc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. a4 a6 7. Bd3 d5 8.
+O-O Be6 9. a5 Ba7 10. N3d2 Nb4 11. exd5 Bxd5 12. Re1+ Ne7 13. Qe2 Nxd3 14.
+cxd3 Be6 15. Ne4 Qd7 16. Be3 Bxe3 17. fxe3 Bf5 18. Nbc3 O-O-O 19. d4 f6 20.
+Nc5 Qd6 21. b4 c6 22. Qc4 Bg6 23. N3a4 Kb8 24. Rac1 f5 25. Nb6 Nc8 26.
+Nxa6+ bxa6 27. Qxa6 Na7 28. b5 cxb5 29. Rc5 Qe7 30. Rxb5 Qb7 31. Nd7+ Rxd7
+32. Rxb7+ Rxb7 33. Qd6+ Ka8 34. a6 Rb5 35. Rc1 Rhb8 36. Rc7 Rb1+ 37. Kf2
+Be8 38. Qd5+ Nc6 39. Rxc6 1-0
+

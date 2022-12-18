@@ -1,0 +1,23 @@
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cuijpers, Frans Andre"]
+[Black "Hulak, Krunoslav"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "eabc433e"]
+[Epoch "Queen"]
+[WhiteID "1000209"]
+[WhiteCountry "NED"]
+[BlackCountry "HRV"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 d6 7. O-O Bd7 8. a4
+Nf6 9. Be3 Be7 10. f4 O-O 11. Nb3 b6 12. g4 Bc8 13. g5 Nd7 14. Bg4 Rb8 15. Qf3
+Nb4 16. Rf2 Nc5 17. Nxc5 bxc5 18. Rd1 d5 19. exd5 Bb7 20. Qh3 exd5 21. Nxd5
+Nxd5 22. c4 Bc6 23. cxd5 Bxa4 24. Rd3 c4 25. Rd4 Re8 26. Rxc4 Bb5 27. Rc1 Qxd5
+28. Rd2 Qb3 29. Bd1 Qb4 30. Rc3 Rbd8 31. Bc2 g6 32. Bb3 Qe4 33. Bc2 Qb4 34. Rb3
+Qxd2 35. Bxd2 Rxd2 36. Rc3 Bb4 37. Rc8 Bc5+ 38. Kh1 Rxc2 39. Rxe8+ Bxe8 40. Qc8
+Kf8 41. Qxa6 Be7 42. Kg1 Bc6 43. Qd3 Bc5+ 44. Kf1 Bg2+ 45. Ke1 Bb4+ 0-1

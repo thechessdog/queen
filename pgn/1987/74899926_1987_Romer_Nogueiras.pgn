@@ -1,0 +1,20 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Romer, Ulrich"]
+[Black "Nogueiras Santiago, Jesus"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "74899926"]
+[Epoch "Queen"]
+[BlackID "3500020"]
+[BlackCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5 8. cxd5
+exd5 9. a3 Bd6 10. b4 Nbd7 11. Qb3 Re8 12. b5 Ne4 13. a4 g5 14. Ba3 g4 15. Bxe4
+dxe4 16. Nd2 Bxh2+ 17. Kxh2 Qh4+ 18. Kg1 Re6 19. Rfc1 Rh6 20. Kf1 g3 21. fxg3
+Qh1+ 22. Ke2 Qxg2+ 23. Kd1 Nf6 24. Be7 Rh2 25. Ncb1 Nd5 26. Bb4 Qe2+ 27. Kc2
+Nxe3+ 28. Kb2 Bd5 29. Qc3 Nc4+ 0-1

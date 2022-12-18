@@ -1,0 +1,21 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Milnes"]
+[Black "Bowyer"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "7f784915"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Nf6 5. Nf3 Nxd5 6. c4 Nb4 7. d4 Bf5
+8. Na3 Bd6 9. O-O c6 10. Qe1 a5 11. Bd3+ Be6 12. Bb1 g5 13. Bd2 Be7 14. Bc3
+Bf6 15. Nxg5 Bxd4+ 16. Bxd4 Qxd4+ 17. Qf2 Qxf2+ 18. Rxf2 Nd7 19. Rxf4 Nf8
+20. Bf5 h6 21. Bxe6 Nxe6 22. Nxe6 fxe6 23. Re1 O-O-O 24. Rfe4 Nd3 25. R1e2
+e5 26. g3 Rhe8 27. b3 Nc1 28. Rc2 Rd1+ 29. Kg2 Nd3 30. Kh3 Nc5 31. Ree2 Rd3
+32. Rcd2 e4 33. Rxd3 Nxd3 34. Nc2 Kd7 35. Ne3 Re6 36. Kg4 Ke7 37. Ng2 Re5
+38. Nf4 1/2-1/2
+

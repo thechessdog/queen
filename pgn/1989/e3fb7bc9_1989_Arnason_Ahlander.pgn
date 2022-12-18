@@ -1,0 +1,21 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Arnason, Jon L"]
+[Black "Ahlander, Bjorn"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "e3fb7bc9"]
+[Epoch "Queen"]
+[WhiteID "2300036"]
+[WhiteCountry "ISL"]
+[BlackID "1700251"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 Be7 7. g5 Nfd7 8. Rg1
+Nc6 9. Be3 a6 10. Rg3 O-O 11. Qh5 Re8 12. O-O-O Nf8 13. Nxc6 bxc6 14. e5 Qa5
+15. exd6 Bf6 16. Bd4 Bxd4 17. Rxd4 e5 18. Ra4 Qb6 19. Ne4 Ng6 20. Bd3 Be6 21.
+b3 Kh8 22. Nf6 1-0

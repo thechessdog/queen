@@ -1,0 +1,19 @@
+[Event "Forli open"]
+[Site "Forli open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Magalotti, Andrea"]
+[Black "Raiano, Andrea"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5.e3"]
+[HashCode "938e8b85"]
+[Epoch "Queen"]
+[WhiteID "803723"]
+[WhiteCountry "ITA"]
+[BlackID "801194"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 c6 4. Nc3 e6 5. e3 dxc4 6. Bxc4 b5 7. Bd3 a6 8. O-O
+Bb7 9. Qe2 Nbd7 1/2-1/2

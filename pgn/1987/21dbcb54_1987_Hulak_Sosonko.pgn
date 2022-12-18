@@ -1,0 +1,17 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "21dbcb54"]
+[Epoch "Queen"]
+[BlackID "1000039"]
+[WhiteCountry "HRV"]
+[BlackCountry "NED"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bg5 Ne4 4. Bf4 c5 5. dxc5 Nc6 6. e3 f6 7. c4 e5 8. Bg3
+Be6 9. cxd5 Qxd5 10. Qxd5 Bxd5 11. a3 Bxc5 12. Nbd2 Nxd2 1/2-1/2

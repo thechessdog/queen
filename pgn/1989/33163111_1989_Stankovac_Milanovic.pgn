@@ -1,0 +1,19 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Stankovac, D."]
+[Black "Milanovic, Vojislav"]
+[Result "0-1"]
+[ECO "E66"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav Panno"]
+[HashCode "33163111"]
+[Epoch "Queen"]
+[BlackID "905046"]
+[BlackCountry "SRB"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 c5 5. Bg2 O-O 6. O-O Nc6 7. d4 d6 8. d5
+Na5 9. Nd2 a6 10. Qc2 Rb8 11. b3 b5 12. Bb2 bxc4 13. bxc4 e5 14. Rab1 Bh6 15.
+f4 exf4 16. Nce4 Rxb2 17. Rxb2 Ng4 18. gxf4 Bg7 19. Rbb1 Bd4+ 20. Kh1 Nxh2 21.
+Nf3 Nxf3 0-1

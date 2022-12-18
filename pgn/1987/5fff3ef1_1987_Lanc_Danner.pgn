@@ -1,0 +1,23 @@
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Lanc, Alois"]
+[Black "Danner, Georg"]
+[Result "0-1"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7"]
+[HashCode "5fff3ef1"]
+[Epoch "Queen"]
+[WhiteID "14900041"]
+[WhiteCountry "SVK"]
+[BlackID "1600303"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qa5 9. O-O-O Bd7 10. g4 Nc6 11. Nb3 Qc7 12. Bh4 h6 13. Bg3 Rc8 14. Bd3 b5 15.
+g5 hxg5 16. fxg5 Nh5 17. g6 f6 18. Bxb5 axb5 19. Nxb5 Qb6 20. Nxd6+ Bxd6 21.
+Bxd6 Nb4 22. Bxb4 Qxb4 23. Rd4 Rc4 24. Rd3 e5 25. Rhd1 Rc7 26. a3 Qa4 27. R1d2
+Qa7 28. Qd1 Nf4 29. Rd6 Rh6 30. Nc5 Qxc5 31. Rxd7 Rxd7 32. Rxd7 Ne2+ 33. Kb1
+Nc3+ 0-1

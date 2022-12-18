@@ -1,0 +1,21 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Schulz, Klaus-Juergen"]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "e7eb16d0"]
+[Epoch "Queen"]
+[WhiteID "4600037"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. h4
+b5 9. a3 Nb6 10. h5 e5 11. Nf5 d5 12. h6 gxh6 13. Nxh6 d4 14. Ne2 Nc6 15. Ng3
+Be6 16. Nh5 Kd7 17. Qf3 Bxh6 18. Nf6+ Kc8 19. Rxh6 Nd7 20. Bh3 Nxf6 21. Rxf6
+Kb7 22. Bxe6 fxe6 23. a4 Qd6 24. Rf7+ Kb6 25. a5+ Nxa5 26. Rxa5 Kxa5 27. Rb7 d3
+28. Bd2+ Ka4 29. Qd1 1-0

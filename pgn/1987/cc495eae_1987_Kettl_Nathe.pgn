@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kettl"]
+[Black "Nathe"]
+[Result "1/2-1/2"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "cc495eae"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 6. Bg2 Qd7 7. Nbd2 O-O-O
+8. O-O h5 9. h4 f6 10. exf6 gxf6 11. Re1 Bh3 12. Bh1 Nge7 13. Kh2 Ng6 14.
+Nb3 Qf5 15. Qd3 Qxd3 16. exd3 Bf5 17. Rd1 Bg4 18. Re1 Bf5 19. Rd1 Bg4 20.
+Re1 Bf5 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heinola, Kari P."]
+[Black "Raivio, Pertti"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "ab717f71"]
+[Epoch "Queen"]
+[BlackID "503649"]
+[WhiteID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 a6 10. Qd2 Qc7 11. d4 cxd4 12. Nxd4 f5 13. Rad1 Na5 14. b3 Bd7 15.
+Na4 e5 16. fxe5 dxe5 17. Nb6 exd4 18. Qxa5 1/2-1/2

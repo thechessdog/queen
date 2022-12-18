@@ -1,0 +1,21 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ekmark"]
+[Black "Ebeling"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "8f3e5eed"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 Be6 9. O-O O-O 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 Rc8 13. Qe1 Ne8 14. Rd1
+Bh4 15. Bg3 Bxg3 16. Qxg3 Ne5 17. Nd4 Nf6 18. Nf5 Bxf5 19. Rxf5 Qe7 20.
+Rdf1 Ned7 21. Bd3 b5 22. Qh4 h6 23. R1f3 Nd5 24. Qxe7 Nxe7 25. Rh5 Ne5 26.
+Rf2 Nxd3 27. cxd3 b4 28. Nd1 Rc1 29. Rf1 f5 30. Ne3 Rxf1+ 31. Nxf1 fxe4 32.
+Kg1 exd3 33. Ra5 Ra8 34. Kf2 Kf7 35. Ke3 Ke6 36. Kxd3 Nc6 37. Rh5 Ne5+ 38.
+Kd4 Rf8 0-1
+

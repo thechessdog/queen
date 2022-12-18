@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Pontoppidan, E."]
+[Black "Urban, J."]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "5.Bg5 dc"]
+[HashCode "0fdab816"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nc3 Nf6 5. Bg5 dxc4 6. a4 Bb4 7. e3 b5 8.
+axb5 cxb5 9. Be2 Bb7 10. O-O Bxc3 11. bxc3 Nbd7 12. Qc1 h6 13. Bh4 g5 14.
+Bg3 Ne4 15. Nd2 Nxd2 16. Qxd2 h5 17. Bd6 Qb6 18. Ba3 a6 19. e4 O-O-O 20. e5
+Rdg8 21. Bf3 Bxf3 22. gxf3 Qb7 23. Bd6 Nb6 24. Rfe1 g4 25. f4 h4 26. Qa2
+Na4 27. Re3 g3 28. f3 h3 29. Qb1 gxh2+ 30. Kxh2 Rg2+ 31. Kh1 Nb2 0-1
+

@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stein, Bernd"]
+[Black "Fette, Martin"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "2bbd5836"]
+[Epoch "Queen"]
+[WhiteID "4600711"]
+[BlackID "4600827"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Be6 7. cxd5 Bxd5 8.
+Be2 e6 9. O-O Be7 10. Ne5 1/2-1/2

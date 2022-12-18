@@ -1,0 +1,17 @@
+[Event "FIDE (36) 1987-1990"]
+[Site "Zagreb izt"]
+[Date "1987.08.01"]
+[Round "1"]
+[White "Hulak, Krunoslav"]
+[Black "Inkiov, Ventzislav"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "feda9fb2"]
+[Epoch "Queen"]
+[BlackID "2900033"]
+[WhiteCountry "HRV"]
+[BlackCountry "FID"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. Bf4 c5 5. e3 Qb6 6. Qc1 Nc6 7. c3 Bf5 8. Nbd2
+e6 9. Nxe4 Bxe4 10. Be2 Be7 11. O-O O-O 1/2-1/2

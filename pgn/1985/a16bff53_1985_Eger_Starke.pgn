@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Eger, Axel"]
+[Black "Starke"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "a16bff53"]
+[Epoch "Queen"]
+[WhiteID "12901407"]
+[WhiteCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nbd7 7. e5 Ne8 8. Ng5
+e6 9. h4 c5 10. h5 cxd4 11. hxg6 hxg6 12. Qg4 Nef6 13. Qh3 dxc3 14. Bxg6 dxe5
+15. Bh7+ Kh8 16. Bd3+ Kg8 17. Bh7+ 1/2-1/2

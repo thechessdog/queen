@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Garms, I."]
+[Black "Barczyk, J."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "343e1ab2"]
+[Epoch "Queen"]
+
+1. Nf3 d5 2. d4 e6 3. e3 b6 4. Ne5 Bd6 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. Nd3 c5
+8. Nc3 Ngf6 9. Nb5 Bb8 10. b3 c4 11. Nb2 a6 12. Nc3 b5 13. bxc4 bxc4 14.
+Qf3 e5 15. Nxd5 Qa5+ 16. Bd2 Qxd5 17. Qxd5 Nxd5 18. Nxc4 O-O 19. Nb2 exd4
+20. exd4 Re8+ 21. Kd1 Ba7 22. c3 Rac8 23. Re1 Rxe1+ 24. Kxe1 Nxc3 25. Be3
+Re8 26. Kd2 Nb5 27. Rc1 Bxd4 28. Bxd4 Re1 29. Kxe1 Nxd4 30. Rc8+ Nf8 31.
+Ra8 1-0
+

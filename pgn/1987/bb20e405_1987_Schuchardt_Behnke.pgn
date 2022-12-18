@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schuchardt, G."]
+[Black "Behnke, H."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "bb20e405"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. cxd5 Nxd5 11. Nc3 O-O 12. h3 Be6 13. Qc2 h6 14.
+Bh7+ Kh8 15. Bf5 Ncb4 16. Qb1 Bxf5 17. Qxf5 Nf6 18. Bf4 c6 19. Rad1 Nbd5
+20. Bc1 Qc8 21. Qd3 Qc7 22. Ne5 Bd6 23. Qg3 Rae8 24. f4 Nxc3 25. bxc3 c5
+26. Ba3 cxd4 27. Bxd6 Qxd6 28. Rxd4 Qb6 29. Kh2 Kg8 30. Qf3 Qc7 31. Red1
+Rc8 32. R1d3 b5 33. Rd6 Qe7 34. Nc6 Qb7 35. Rxf6 gxf6 36. Qg4+ Kh8 37. Qh5
+Kh7 38. Qf5+ Kh8 39. Qxf6+ Kh7 40. Ne7 Rg8 41. Qxf7+ Rg7 42. Qf5+ Kh8 43.
+Qxc8+ 1-0
+

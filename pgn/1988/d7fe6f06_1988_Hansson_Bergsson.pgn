@@ -1,0 +1,22 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansson, Dan"]
+[Black "Bergsson, Snorri"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "Balogh variation"]
+[HashCode "d7fe6f06"]
+[Epoch "Queen"]
+[BlackID "2300273"]
+[BlackCountry "ISL"]
+[WhiteCountry "ISL"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 g6 6. f4 Bg7 7. Nf3 dxe5 8. fxe5
+O-O 9. O-O Bg4 10. c3 c5 11. h3 Bf5 12. e6 c4 13. exf7+ Rxf7 14. Bc2 Bxc2 15.
+Qxc2 Qd5 16. Nbd2 Nc6 17. Qe4 Qxe4 18. Nxe4 e5 19. dxe5 Nxe5 20. Nxe5 Bxe5 21.
+Rxf7 Kxf7 22. Bh6 Na4 23. Rf1+ Kg8 24. Rf2 Rd8 25. Re2 Bg7 26. Bf4 b5 27. Nd6
+a6 28. Kh2 Nc5 29. Ne8 Nd3 30. Bg3 Be5 31. Rxe5 Nxe5 32. Nf6+ Kf7 33. Bxe5 Ke6
+34. Bg3 Kxf6 0-1

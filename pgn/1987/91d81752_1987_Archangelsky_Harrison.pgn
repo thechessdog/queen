@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Archangelsky, Mikha"]
+[Black "Harrison"]
+[Result "1-0"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Simagin's improved variation"]
+[HashCode "91d81752"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 Nc6 9. Bd3 b6 10. O-O Bb7 11. Bg5 Na5 12. Qd2 c5 13. d5 Qd7 14. Rad1
+c4 15. Bb1 Qd6 16. Nd4 a6 17. f4 h6 18. Bh4 Rac8 19. f5 1-0
+

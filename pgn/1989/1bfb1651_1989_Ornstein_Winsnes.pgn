@@ -1,0 +1,22 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ornstein, Axel"]
+[Black "Winsnes, Rikard"]
+[Result "1-0"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "1bfb1651"]
+[Epoch "Queen"]
+[WhiteID "1700111"]
+[WhiteCountry "SWE"]
+[BlackID "1700430"]
+[BlackCountry "SWE"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 c5 4. Nc3 Nc6 5. a3 d6 6. Rb1 a5 7. d3 e5 8. f4 Nge7
+9. Nf3 O-O 10. O-O Rb8 11. Kh1 Bf5 12. fxe5 dxe5 13. Ng5 b6 14. Nd5 Nd4 15. b4
+axb4 16. axb4 cxb4 17. Rxb4 b5 18. e3 Ndc6 19. Rxb5 Rxb5 20. cxb5 Nxd5 21. bxc6
+Nc3 22. Qb3 Ne2 23. Nxf7 Rxf7 24. Bd5 Kh8 25. Bxf7 Bxd3 26. Qd5 Qb6 27. c7 Qxc7
+28. Qa8+ 1-0

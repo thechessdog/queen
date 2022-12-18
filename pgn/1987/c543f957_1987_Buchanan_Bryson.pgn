@@ -1,0 +1,21 @@
+[Event "Hamilton"]
+[Site "Hamilton"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Buchanan, Walter F."]
+[Black "Bryson, Douglas M"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "c543f957"]
+[Epoch "Queen"]
+[WhiteID "2400570"]
+[WhiteCountry "SCO"]
+
+1. f4 e5 2. e4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 h6 7. Nc3 Nc6 8. Ne2
+Nf6 9. Bd3 Bg4 10. c3 Qd7 11. Bb5 a6 12. Ba4 b5 13. Bc2 O-O 14. g3 Rae8 15.
+gxf4 Nxe4 16. Bxe4 Rxe4 17. Ng3 Rxf4 18. Bxf4 gxf4 19. Ne4 Ne7 20. Kh1 Nf5 21.
+Rg1 Ne3 22. Qe2 f5 23. Ned2 Qc6 24. Qf2 Kh7 25. h4 Re8 26. Kh2 Bf6 27. Rae1 Bh5
+28. Rxe3 fxe3 29. Qg2 Qd7 30. Nb3 Bg4 31. Re1 Qf7 32. d5 Qh5 33. Kg3 Bxf3 34.
+Qxf3 Be5+ 35. Kg2 Rg8+ 36. Kf1 Qxf3# 0-1

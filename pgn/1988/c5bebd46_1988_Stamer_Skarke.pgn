@@ -1,0 +1,17 @@
+[Event "corr ch20-DDR"]
+[Site "corr ch20-DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Stamer, W."]
+[Black "Skarke, H."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "c5bebd46"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 Bf5 5. fxe4 Nxe4 6. Qf3 Nxc3 7. bxc3
+g6 8. Qxb7 Nd7 9. Bd3 Bxd3 10. cxd3 Bg7 11. Ne2 O-O 12. Ba3 Nf6 13. O-O Nd5
+14. Qb2 Qd7 15. Qd2 c6 16. Rf3 f5 17. Bc5 Rf7 18. Rb1 e5 19. c4 Nb6 20. Qa5
+Re8 21. Rxb6 e4 22. dxe4 Bxd4+ 0-1
+

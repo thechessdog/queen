@@ -1,0 +1,21 @@
+[Event "Primorsko op"]
+[Site "Primorsko"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Simeonov, Stefan"]
+[Black "Danailov, Silvio"]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "044edad1"]
+[Epoch "Queen"]
+[BlackID "2900114"]
+[BlackCountry "FID"]
+[WhiteID "2900513"]
+[WhiteCountry "FID"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 b5 8. Bb3
+Bb7 9. O-O Nbd7 10. f4 b4 11. Na4 Bxe4 12. f5 e5 13. Nf3 Bc6 14. Ng5 d5 15. c4
+d4 16. c5 Bd5 17. Bxd4 exd4 18. Qxd4 Bxb3 19. axb3 Be7 20. c6 Nc5 21. Qxd8+
+Rxd8 22. Rae1 Nxb3 23. Rd1 Rxd1 24. Rxd1 O-O 25. Kf1 Rc8 26. Re1 Kf8 0-1

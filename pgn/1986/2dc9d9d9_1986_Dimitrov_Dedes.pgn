@@ -1,0 +1,21 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Dimitrov, Vladimir"]
+[Black "Dedes, Nikolaos"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "2dc9d9d9"]
+[Epoch "Queen"]
+[BlackID "4200403"]
+[BlackCountry "GRE"]
+[WhiteID "2900050"]
+[WhiteCountry "FID"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 O-O 6. Be3 a6 7. a4 b6 8. Bc4 c6
+9. Bb3 Qc7 10. O-O e5 11. dxe5 dxe5 12. Qe2 Nbd7 13. Rfd1 Bb7 14. Rd2 Rfe8 15.
+Rad1 h6 16. Qc4 Nf8 17. Bxb6 Qxb6 18. Qxf7+ Kh8 19. Rd6 N8h7 20. Rd7 Nxd7 21.
+Rxd7 Rg8 22. Rxb7 Qc5 23. Nh4 Nf6 24. Nxg6+ Kh7 25. Qxf6 1-0

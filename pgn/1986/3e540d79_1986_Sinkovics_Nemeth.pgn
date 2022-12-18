@@ -1,0 +1,19 @@
+[Event "Szolnok"]
+[Site "Szolnok"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sinkovics, Peter"]
+[Black "Nemeth, Zoltan"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "3e540d79"]
+[Epoch "Queen"]
+[WhiteID "700428"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bg4 7. e3 e6 8. Qb3
+Bb4 9. Bb5 O-O 10. Bxc6 Bxc3+ 11. Qxc3 Ne4 12. Qa3 bxc6 13. Ne5 Bh5 14. f3 Qh4+
+15. g3 Qh3 16. Rf1 f6 17. Nxc6 Bxf3 18. Qd3 Bg4 19. Qc2 Kh8 20. Rc1 Rfc8 21. b4
+g5 0-1

@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Edwards, Paul"]
+[Result "0-1"]
+[ECO "A56"]
+[Opening "Vulture defence"]
+[HashCode "4e5997eb"]
+[Epoch "Queen"]
+[BlackID "401293"]
+[BlackCountry "ENG"]
+
+1. d4 c5 2. d5 Nf6 3. c4 Ne4 4. f3 Qa5+ 5. Nd2 Nd6 6. b3 Nf5 7. Kf2 Qc3 8. Rb1
+Qd4+ 9. Ke1 Qh4+ 10. g3 Nxg3 11. Kf2 Nf5+ 12. Kg2 Ne3# 0-1

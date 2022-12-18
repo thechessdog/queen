@@ -1,0 +1,22 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Riemer, Wolfgang"]
+[Black "Bergner, R."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "d4cd10bb"]
+[Epoch "Queen"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+O-O 9. cxd5 Qxd5 10. Nc3 Nxc3 11. bxc3 Bg4 12. Be2 Rae8 13. h3 Bf5 14. Qb3 Be4
+15. Be3 b6 16. Qxd5 Bxd5 17. c4 Bxf3 18. Bxf3 Nb4 19. Rac1 Nxa2 20. Ra1 Nb4 21.
+Rxa7 Bd6 22. Rb1 Nc2 23. c5 bxc5 24. dxc5 Be5 25. Bd2 Nd4 26. Be4 Rb8 27. Rxb8
+Rxb8 28. g4 Kf8 29. c6 Rb2 30. Be3 Ne6 31. Bc1 Rb3 32. Ba3+ Ke8 33. Ra8+ Nd8
+34. Bf5 f6 35. Bxh7 Kf7 36. h4 Rxa3 37. Rxa3 Nxc6 38. Kg2 Nd4 39. Ra4 c5 40.
+Ra7+ Kf8 41. Bd3 Ne6 42. Kf3 Nf4 43. Bc4 Nh3 44. Rf7+ Ke8 45. Rxg7 Bd4 46. h5
+Nxf2 47. h6 f5 48. gxf5 1-0

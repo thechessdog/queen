@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gruss"]
+[Black "Hagen"]
+[Result "1-0"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "4469abe1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 Bxc3+ 6. bxc3 Qa5 7. Bd2 d6 8.
+e4 O-O 9. Ne2 exd5 10. cxd5 b5 11. Nf4 c4 12. a4 Re8 13. axb5 Qxb5 14. Qa4
+Qxa4 15. Rxa4 Nbd7 16. Bxc4 Nxe4 17. fxe4 Rxe4+ 18. Kf2 Nb6 19. Rha1 Nxa4
+20. Rxa4 Bd7 21. Rb4 Be8 22. Kf3 f5 23. Ba6 Rxb4 24. cxb4 Rb8 25. Ke3 Bb5
+26. Bxb5 Rxb5 27. Kd4 Rb6 28. Ne6 Ra6 29. Bf4 Kf7 30. h4 Ra2 31. g3 a5 32.
+bxa5 Rxa5 33. Bxd6 g6 34. Ng5+ 1-0
+

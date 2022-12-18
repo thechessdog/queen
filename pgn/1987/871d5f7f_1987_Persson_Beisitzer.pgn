@@ -1,0 +1,17 @@
+[Event "corr ICCF Thematic"]
+[Site "corr ICCF Thematic"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Persson, R."]
+[Black "Beisitzer"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack, Collijn variation"]
+[HashCode "871d5f7f"]
+[Epoch "Queen"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bg4 6. Bb5+ c6 7. Be2 Bb4
+8. O-O Bxf3 9. Bxf3 Ne7 10. dxe5 Qxe5 11. Re1 Qc7 12. Qd4 Bxc3 13. bxc3 c5
+14. Qxg7 Rf8 15. Bg5 1-0
+

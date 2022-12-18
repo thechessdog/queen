@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kruger"]
+[Black "Clarke"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "ad8177f8"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nf6 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8.
+Qd2 e5 9. d5 Ne7 10. Rad1 Bd7 11. Ne1 b5 12. f3 Qb8 13. Nd3 a5 14. Nf2 Nh5
+15. Bd3 Nf4 16. Bxf4 exf4 17. Qxf4 b4 18. Ne2 Bxb2 19. Rb1 Bg7 20. a3 bxa3
+21. Rxb8 Raxb8 22. c3 Rb2 23. Ra1 a2 24. Nd1 1-0
+

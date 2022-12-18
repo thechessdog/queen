@@ -1,0 +1,18 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dizdarevic, Emir"]
+[Black "Cvitan, Ognjen"]
+[Result "1/2-1/2"]
+[ECO "D58"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system"]
+[HashCode "ca8d61e4"]
+[Epoch "Queen"]
+[BlackID "14500086"]
+[BlackCountry "CRO"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Bxf6
+Bxf6 9. cxd5 exd5 10. Be2 Bb7 11. b4 c6 12. O-O Re8 13. Qb3 Nd7 14. Rac1 Nf8
+15. Rfd1 Ne6 16. a4 Rb8 17. b5 c5 18. dxc5 Nxc5 1/2-1/2

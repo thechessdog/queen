@@ -1,0 +1,24 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Levitt, Jonathan P"]
+[Black "Polaczek, Richard"]
+[Result "1-0"]
+[ECO "E52"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...b6"]
+[HashCode "91bc9089"]
+[Epoch "Queen"]
+[WhiteID "400220"]
+[WhiteCountry "ENG"]
+[BlackID "200026"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. O-O
+c5 9. Qe2 Bg4 10. a3 Bxc3 11. bxc3 c4 12. Bc2 Re8 13. Qe1 Nc6 14. Nd2 Bh5 15.
+Ra2 Bg6 16. f3 Bxc2 17. Rxc2 Qe7 18. Nb1 Na5 19. Re2 Nb3 20. Nd2 Nxc1 21. Qxc1
+Nh5 22. g3 Qg5 23. Kh1 Re6 24. Qe1 Rae8 25. e4 f5 26. e5 Rh6 27. Rg2 f4 28. Kg1
+fxg3 29. hxg3 Rg6 30. f4 Qg4 31. Rf3 Nf6 32. Qf2 Nd7 33. Nf1 Rh6 34. Ne3 Qe6
+35. g4 Qc6 36. Qc2 Nf8 37. f5 Rh4 38. Rh2 Rxh2 39. Qxh2 h6 40. Rf1 Nh7 41. f6
+gxf6 42. Qxh6 Qd7 43. exf6 Kh8 44. f7 Rf8 45. g5 1-0

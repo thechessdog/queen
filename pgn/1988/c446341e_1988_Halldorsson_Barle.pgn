@@ -1,0 +1,21 @@
+[Event "Reykjavik op"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Halldorsson, Bragi"]
+[Black "Barle, Janez"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[HashCode "c446341e"]
+[Epoch "Queen"]
+[WhiteID "2300907"]
+[WhiteCountry "ISL"]
+[BlackID "14600021"]
+[BlackCountry "SLO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bd6 6. e4 c5 7. cxd5 exd5 8. e5
+cxd4 9. Qxd4 Nc6 10. Bb5 Qe7 11. Bf4 O-O 12. Bxc6 Bc5 13. Nxd5 Nxd5 14. Qxd5
+Rd8 15. Qb3 bxc6 16. Ne2 Ba6 17. Rd1 Rxd1+ 18. Qxd1 Rd8 19. Qc1 Bb6 20. h4 Qe6
+21. Rh3 Qb3 22. g4 Qd3 23. Qd2 Qc4 24. b3 Qxb3 25. Qc1 Qd3 26. Rh2 Qxf3 0-1

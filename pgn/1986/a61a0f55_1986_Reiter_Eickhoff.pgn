@@ -1,0 +1,20 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Reiter, H."]
+[Black "Eickhoff, H."]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "a61a0f55"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Nge2 Nd4 8.
+Qd2 Ne7 9. O-O O-O 10. Nd1 d5 11. Nxd4 cxd4 12. Bh6 Bxh6 13. Qxh6 f5 14.
+Qd2 Bd7 15. f4 dxe4 16. dxe4 Bc6 17. Nf2 fxe4 18. Nxe4 Nf5 19. Rfe1 Ne3 20.
+Bh1 Qb6 21. c3 e5 22. fxe5 Nc2 23. cxd4 Nxd4 24. Qe3 Nc2 25. Qxb6 axb6 26.
+a3 Rae8 27. Rac1 Nxe1 28. Rxe1 Rf5 29. Nc3 Rfxe5 30. Rxe5 Rxe5 31. Bxc6
+bxc6 0-1
+

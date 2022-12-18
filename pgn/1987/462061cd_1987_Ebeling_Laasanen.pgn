@@ -1,0 +1,23 @@
+[Event "Jyvaskyla SM"]
+[Site "Jyvaskyla SM"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ebeling, Mika"]
+[Black "Laasanen, Henry"]
+[Result "1-0"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "462061cd"]
+[Epoch "Queen"]
+[WhiteID "500410"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. f4 Qc7 7. Be2 Nxd4 8.
+Qxd4 b5 9. Be3 Ne7 10. O-O Nc6 11. Qd2 Na5 12. f5 Bd6 13. Bf4 Bxf4 14. Rxf4 Bb7
+15. f6 g6 16. Rd1 Nc6 17. Rf2 Na7 18. Qd4 Nc6 19. Qd2 Na7 20. Qe3 Qe5 21. a4
+Bc6 22. axb5 Nxb5 23. Nxb5 axb5 24. Qd2 Ra4 25. b3 Ra1 26. Rxa1 Qxa1+ 27. Rf1
+Qa7+ 28. Kh1 Qc5 29. Bd3 h6 30. Qf4 d6 31. Ra1 g5 32. Qf1 Kd7 33. b4 Qb6 34.
+Ra5 Rb8 35. Qa1 Rc8 36. Ra7+ Rc7 37. Ra6 Qf2 38. Ra5 Rb7 39. Ra8 e5 40. Rf8
+Qxf6 41. Qa8 Kc7 42. Rc8+ Kd7 43. Bxb5 Qf2 44. Qxb7+ Ke6 45. Bc4+ Kf6 46. Qxf7#
+1-0

@@ -1,0 +1,21 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Howard"]
+[Black "Corkett"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "ecc6f6f3"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 b5 8.
+e5 Nxe5 9. Nxe5 bxa4 10. Qxd4 O-O 11. Bg5 Rb8 12. Nc3 Rb4 13. Qd2 Bb7 14.
+f3 h6 15. Bxf6 Bxf6 16. Nd5 Rxb2 17. Nxf6+ Qxf6 18. Nxd7 Qd8 19. Qc3 Rxc2
+20. Qxc2 Qxd7 21. Rad1 Bd5 22. Re5 c6 23. Qxa4 Qa7+ 24. Kh1 Qf2 25. Qxa6
+Bxf3 26. Qf1 Qb2 27. Rde1 Bd5 28. R5e2 Qa3 29. Qf4 Be6 30. Qc1 Qa6 31. a3
+Rc8 32. Re3 c5 33. Rg3 Bf5 34. Re5 Bg6 35. Rxc5 Rb8 36. Qe1 Rb2 37. h3 Kh7
+38. Rc1 Qb7 39. Qc3 Be4 40. Qxg7# 1-0
+

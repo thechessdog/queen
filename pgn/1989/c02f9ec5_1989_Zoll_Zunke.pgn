@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Zoll"]
+[Black "Zunke"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c02f9ec5"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 e6 3. e4 dxe4 4. Nxe4 Nf6 5. Bg5 Be7 6. Bxf6 Bxf6 7. Nf3
+Nd7 8. c3 b6 9. Bd3 Bb7 10. Qe2 a6 11. h4 Qe7 12. g4 h6 13. O-O-O g6 14. g5
+Bg7 15. h5 b5 16. hxg6 fxg6 17. Nf6+ Nxf6 18. Bxg6+ Kd8 19. gxf6 Qxf6 20.
+Be4 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Forli"]
+[Site "Forli"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Minarelli, Guido"]
+[Black "Pastorini, Mario"]
+[Result "1-0"]
+[ECO "D05"]
+[Opening "Queen's pawn game, Rubinstein (Colle-Zukertort) variation"]
+[HashCode "f7e42142"]
+[Epoch "Queen"]
+[WhiteID "801003"]
+[BlackID "800759"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 c5 5. b3 Bd6 6. Nbd2 Nbd7 7. Bb2 O-O 8. O-O
+Qc7 9. c4 e5 10. cxd5 Nxd5 11. dxe5 Nxe5 12. Nxe5 Bxe5 13. Bxh7+ Kxh7 14. Qh5+
+Kg8 15. Bxe5 Qc6 16. Nc4 Be6 17. Rac1 b6 18. Bxg7 Kxg7 19. Qg5+ Kh8 20. Ne5 Qc8
+21. Rc4 Bf5 22. Rh4+ Bh7 23. Qh6 1-0

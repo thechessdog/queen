@@ -1,0 +1,24 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pichler, M."]
+[Black "Sek, Z."]
+[Result "0-1"]
+[ECO "B61"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Larsen variation, 7.Qd2"]
+[HashCode "4ba210d9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Rc8
+8. Nb3 a6 9. Be2 e6 10. O-O h6 11. Bxf6 Qxf6 12. a4 Ne5 13. Na5 Qd8 14. Nd1
+Qb6 15. Ne3 Be7 16. Kh1 O-O 17. f4 Ng6 18. Nac4 Qc5 19. b4 Qc7 20. f5 Ne5
+21. Nxe5 dxe5 22. f6 Bxf6 23. Rxf6 gxf6 24. Ng4 Qc3 25. Nxf6+ Kg7 26. Qxc3
+Rxc3 27. Nxd7 Rd8 28. Nc5 Rd4 29. Bd3 Rxb4 30. Nd7 Ra3 31. Rf1 Rbxa4 32.
+Nxe5 Ra1 33. Kg1 a5 34. Nf3 Rxf1+ 35. Kxf1 Rb4 36. Nd2 b5 37. c3 Rb2 38.
+Nb1 a4 39. h3 Ra2 40. Bxb5 Ra1 41. Bxa4 Rxb1+ 42. Ke2 Rg1 43. Kf3 Rc1 44.
+Kf4 Rxc3 45. Bd1 Rc5 46. Bf3 Kf6 47. Kg4 Rg5+ 48. Kf4 e5+ 49. Ke3 Ke7 50.
+Kd3 Kd6 51. Kc4 Rg8 52. Kd3 Kc5 53. Ke3 Ra8 54. Kf2 Kd4 55. Bh5 Ra2+ 56.
+Kg3 Kxe4 0-1
+

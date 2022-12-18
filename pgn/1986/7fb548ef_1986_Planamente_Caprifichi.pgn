@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Planamente"]
+[Black "Caprifichi"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "7fb548ef"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8.
+Bd3 Bxd3 9. Qxd3 Qc7 10. c4 Ngf6 11. Bd2 e6 12. O-O-O Bd6 13. Ne2 c5 14.
+Bc3 O-O-O 15. Nd2 Kb8 16. Kb1 cxd4 17. Nxd4 a6 18. N4b3 Be5 19. Ba5 b6 20.
+Bb4 Nc5 21. Qe3 Nd3 22. Bc3 Bxc3 23. bxc3 Ng4 24. Qg3 Qxg3 25. fxg3 Ndf2
+26. Nd4 Nxh1 0-1
+

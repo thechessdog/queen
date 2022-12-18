@@ -1,0 +1,15 @@
+[Event "Belgorod"]
+[Site "Belgorod"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Karpman, Vadim"]
+[Black "Piskov, Yury"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "e0728906"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Nf3 Bb7 8.
+g3 c5 9. dxc5 Ne4 10. Qd3 1/2-1/2

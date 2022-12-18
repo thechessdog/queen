@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Braskin, I."]
+[Black "Winter"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "9620338a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. c3 e5 6. cxd4 exd4 7. d3
+Qa5+ 8. Qd2 Qxb5 9. O-O Bd6 10. Qe2 Qe5 11. f4 Qe7 12. Qg4 g6 13. f5 Be5
+14. Bg5 Qd6 15. Nd2 Qc7 16. Nf3 d6 17. Rac1 Qa5 18. Rxc8+ Rxc8 19. fxg6 Rc7
+20. gxf7+ Kxf7 21. Nxe5+ Ke8 22. Qh5+ Rf7 23. Qxf7# 1-0
+

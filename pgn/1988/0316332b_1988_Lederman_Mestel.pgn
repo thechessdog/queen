@@ -1,0 +1,21 @@
+[Event "Beer Sheva"]
+[Site "Beer Sheva"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lederman, Leon"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "0316332b"]
+[Epoch "Queen"]
+[BlackID "400122"]
+[BlackCountry "ENG"]
+[WhiteID "2800403"]
+[WhiteCountry "ISR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 Nh5 8. Bb5+
+Bd7 9. Qe2 Bxb5 10. Qxb5+ Qd7 11. Nf3 Nc6 12. O-O a6 13. Qe2 dxe5 14. fxe5 Nxe5
+15. Nxe5 Qd4+ 16. Kh1 Qxe5 17. Qf3 O-O 18. Qxb7 Rab8 19. Qf3 f5 20. Nd5 Nf6 21.
+Nxf6+ Qxf6 22. c3 e5 23. Rb1 Qe6 24. b3 e4 25. Qe3 f4 26. Rxf4 Rxf4 0-1

@@ -1,0 +1,23 @@
+[Event "Hamburg-ch"]
+[Site "Hamburg"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schmidt, Wolfgang"]
+[Black "Fette, Martin"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "1f1318ce"]
+[Epoch "Queen"]
+[WhiteID "4601173"]
+[BlackID "4600827"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 d5 5. cxd5 Nxd5 6. a3 Bd6 7. Qc2 O-O 8. Nf3
+Kh8 9. Bb5 Nde7 10. b4 a6 11. Be2 f5 12. d3 Be6 13. Nbd2 h6 14. Nc4 Ng6 15. h4
+Qf6 16. h5 Nge7 17. g3 b5 18. Ncd2 Qf7 19. Nh4 Bd5 20. Bf3 Bxf3 21. Nhxf3 a5
+22. bxa5 Rxa5 23. Rh4 Rfa8 24. d4 e4 25. Ne5 Bxe5 26. dxe5 Nb4 27. Qb1 Nd3+ 28.
+Kf1 b4 29. axb4 Rxa1 30. Bxa1 Qa2 31. Bc3 Nd5 32. Qxa2 Rxa2 33. e6 Nxc3 34. e7
+Ra8 35. f3 Re8 36. fxe4 Rxe7 37. exf5 Rxe3 38. Rc4 Nd5 0-1

@@ -1,0 +1,24 @@
+[Event "corr ch14-NLD"]
+[Site "corr ch14-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Etmans"]
+[Black "Raijmaekers"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "d5d4a3a6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
+O-O O-O 9. Rb1 b6 10. Bd2 Bb7 11. Ne2 Qd7 12. g4 f5 13. gxf5 exf5 14. c4
+Nd8 15. Nc3 Ne6 16. Ng5 Nxg5 17. fxg5 Rf7 18. Qe1 Raf8 19. Bh3 Qd8 20. Nd5
+Nxd5 21. cxd5 Bd4+ 22. Kh1 Re7 23. Qh4 fxe4 24. dxe4 Ba6 25. Rf6 Bc8 26.
+Bc3 Bxc3 27. bxc3 Bxh3 28. Qxh3 Rxf6 29. gxf6 Rf7 30. Rf1 Rxf6 31. Kg2 Rxf1
+32. Kxf1 Qe7 33. Qg4 Kg7 34. Ke2 h5 35. Qg2 Qe5 36. Kd3 b5 37. Kc2 a5 38.
+a3 b4 39. axb4 axb4 40. cxb4 cxb4 41. Kb3 Qc3+ 42. Ka4 b3 43. Qg5 Qf6 44.
+Qg1 b2 45. Kb3 g5 46. Kc2 Qe5 47. Qg2 g4 48. Qd2 Kg6 49. Kb1 h4 50. Qf2 g3
+51. hxg3 hxg3 52. Qf8 g2 53. Qg8+ Qg7 54. Qe6+ Kg5 55. Qf5+ Kh4 56. Qf4+
+Qg4 0-1
+

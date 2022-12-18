@@ -1,0 +1,20 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "7"]
+[White "Kamp, Christoph"]
+[Black "Nickl, Klaus"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "d146cbb6"]
+[Epoch "Queen"]
+[WhiteID "4606949"]
+[WhiteCountry "GER"]
+[BlackID "1601024"]
+[BlackCountry "AUT"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Bd3 Nc6 10. O-O Nd4 11. Ng5 e5 12. f5 h6 13. Nh3 gxf5 14. exf5 b5 15.
+Nxb5 e4 16. Nxd4 cxd4 17. Bc2 d3 18. Bb3 Qb6+ 19. c5+ 1-0

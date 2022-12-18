@@ -1,0 +1,18 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Biro, S."]
+[Black "Hadzi, L."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b719fa15"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8.
+Na3 cxd4 9. Nb5 O-O-O 10. Nbxd4 Nxd4 11. cxd4 Bd6 12. Qa4 Kb8 13. Be3 Nd7
+14. h3 Nb6 15. Qb3 Bxf3 16. Bxf3 Qxb3 17. axb3 Nd5 18. Rfc1 Rc8 19. Kf1
+Rxc1+ 1/2-1/2
+

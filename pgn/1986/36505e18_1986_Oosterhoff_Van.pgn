@@ -1,0 +1,17 @@
+[Event "corr NLD/M"]
+[Site "corr NLD/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Oosterhoff"]
+[Black "Van Wieringen"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "36505e18"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 exf4 11. Bxf4 Nc6 12. Kh1 d5 13. exd5 Nxd5 14.
+Nxd5 Bxd5 15. Bf3 Be6 16. Qe2 Bxb3 17. Bxc6 1/2-1/2
+

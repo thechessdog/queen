@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Koskivirta, O."]
+[Black "Dambrauskas, V."]
+[Result "0-1"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "bf67b2e2"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. exf5 Bxf5 12. c3 Bg7 13. Qf3 Be6 14.
+Rd1 O-O 15. Nc2 Rc8 16. Nce3 f5 17. a4 f4 18. Nc2 e4 19. Qe2 Ne5 20. Qd2
+Bg4 21. Ra1 e3 22. fxe3 f3 23. Nf4 fxg2 24. Qd5+ Kh8 25. Bxg2 Qh4+ 26. Kd2
+Rc5 0-1
+

@@ -1,0 +1,20 @@
+[Event "corr LADAC"]
+[Site "corr LADAC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Alvarez, Roberto"]
+[Black "Roncan, Jose"]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "fff70ab0"]
+[Epoch "Queen"]
+[WhiteID "111902"]
+[BlackID "111783"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8. Bb5+
+Kf8 9. Nf3 c4 10. a4 a6 11. Ba3+ Kf7 12. Ng5+ fxg5 13. Qh5+ g6 14. Qf3+ Nf6 15.
+Qxf6+ Kg8 16. Qf8# 1-0

@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bierwitsch"]
+[Black "Habermann"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "71fd3586"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 Nc5 11. Rhe1 O-O 12. e5 dxe5 13. fxe5 Nd5 14.
+Bxe7 Nxe7 15. Bxh7+ Kxh7 16. Qh5+ Kg8 17. Re3 Rd8 18. Rh3 Kf8 19. b4 Nd7
+20. Rf3 g6 21. Qh6+ Ke8 22. Qh8+ Nf8 23. Ne4 Nf5 24. Rxf5 gxf5 25. Nd6+ 1-0
+

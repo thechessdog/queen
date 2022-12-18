@@ -1,0 +1,16 @@
+[Event "corr USA-NLD"]
+[Site "corr USA-NLD"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Silverman"]
+[Black "Svendson"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer gambit"]
+[HashCode "9e6d2895"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bf5 6. Ne5 e6 7. g4 Bg6
+8. Qf3 c6 9. g5 Qxd4 10. Nxg6 hxg6 11. gxf6 Nd7 12. fxg7 Bxg7 13. Bf4 O-O-O
+14. Qxc6+ bxc6 15. Ba6# 1-0
+

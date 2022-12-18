@@ -1,0 +1,17 @@
+[Event "corr ch-DDR district"]
+[Site "corr ch-DDR district"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Micheel"]
+[Black "Geisel"]
+[Result "0-1"]
+[ECO "B53"]
+[Opening "Sicilian"]
+[Variation "Chekhover, Zaitsev variation"]
+[HashCode "54cc0980"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qd7 6. Qd3 a6 7. Bxc6 Qxc6
+8. c4 b5 9. Na3 Nf6 10. e5 b4 11. Nc2 dxe5 12. Nxb4 Qb7 13. Qc3 Ne4 14. Qb3
+Nc5 15. Qc3 Qxb4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gulko, Boris"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Sveshnikov system"]
+[HashCode "7f777034"]
+[Epoch "Queen"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+[WhiteID "2000040"]
+[WhiteCountry "USA"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O c6 8. a4
+Re8 9. h3 exd4 10. Nxd4 Na6 11. Re1 Nb4 12. a5 d5 13. e5 Ne4 14. Nxe4 dxe4 15.
+Rxe4 Rxe5 16. Rxe5 Bxe5 17. c3 Bxd4 18. cxd4 Be6 19. Ra4 1/2-1/2

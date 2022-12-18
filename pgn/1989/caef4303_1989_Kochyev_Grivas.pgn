@@ -1,0 +1,28 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kochyev, Alexander"]
+[Black "Grivas, Efstratios"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "caef4303"]
+[Epoch "Queen"]
+[BlackID "4200039"]
+[BlackCountry "GRE"]
+[WhiteID "4100719"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+h6 9. Qc2 Nh7 10. dxe5 dxe5 11. Rd1 c6 12. b4 Re8 13. Be3 Qe7 14. c5 a5 15. a3
+Ng5 16. Nxg5 hxg5 17. Na4 axb4 18. axb4 Nf8 19. Nb6 Rxa1 20. Rxa1 Be6 21. Rd1
+Rd8 22. Bf1 Bf6 23. Nc4 Rxd1 24. Qxd1 Bxc4 25. Bxc4 Ne6 26. Qg4 Nd4 27. h4 Kf8
+28. h5 gxh5 29. Qxh5 Kg7 30. Kg2 Nc2 31. Bd2 Nd4 32. Bc3 Ne6 33. Qg4 Nd4 34.
+Qc8 Nc2 35. Be2 Nd4 36. Bg4 Ne6 37. Kh3 Nf8 38. Bf5 Ne6 39. Bb2 Nd8 40. Qd7
+Qxd7 41. Bxd7 Kg6 42. Kg4 Bg7 43. Bf5+ Kh6 44. Bc8 Kg6 45. Bf5+ Kh6 46. Bc1 Bf6
+47. Bc8 Kg6 48. Bd2 Be7 49. f3 Bf6 50. Bc3 Bg7 51. Bb2 f6 52. Bc1 Kf7 53. Kh5
+Bf8 54. Bd2 Bg7 55. f4 gxf4 56. gxf4 exf4 57. Bxf4 Bf8 58. Kg4 Ne6 59. Be3 Nd8
+60. Kf5 Bg7 61. Bf4 Bh8 62. Bc7 Ke8 63. Bg3 Bg7 64. Kg6 Bf8 65. Kxf6 Bh6 66. e5
+Bd2 67. e6 Nxe6 68. Kxe6 Bxb4 69. Bf2 1-0

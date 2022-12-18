@@ -1,0 +1,25 @@
+[Event "corr Axelson mem"]
+[Site "corr Axelson mem"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Arnlind"]
+[Black "Morgado"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[HashCode "9408e8c4"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Nxb5 axb5 12. Bxb5 Bb7 13. exf5 Rc8
+14. O-O Bg7 15. Qh5 Kf8 16. Bxc6 Rxc6 17. c3 Rc4 18. Rfd1 Rg8 19. Ne3 Rh4
+20. Rxd6 Qxd6 21. Qxh4 Bh6 22. Ng4 Bg5 23. Qxh7 Bc1 24. Qxg8+ Kxg8 25. Rxc1
+Qd2 26. Ra1 Qxb2 27. Rd1 Qxc3 28. h3 Kg7 29. Kh2 Qc2 30. f6+ Kg6 31. Nxe5+
+Kxf6 32. Re1 Qxa2 33. Kg1 Qa8 34. Ng4+ Kg6 35. f3 f5 36. Nf2 Qa7 37. Re2
+Kg5 38. Kh2 Qd4 39. Rc2 Bd5 40. Nh1 Bb3 41. Rc6 Qd2 42. Ng3 Qf4 43. Ra6 Bd5
+44. Ra7 Bxf3 45. gxf3 Qd2+ 46. Kh1 Kf4 47. Rg7 Qd1+ 48. Kh2 Qc2+ 49. Kh1
+Ke3 50. Nf1+ Kxf3 51. Rg3+ Ke4 52. Re3+ Kd4 53. Rf3 Qe2 54. Nh2 Ke4 55. Kg1
+Qe1+ 56. Kg2 Qd2+ 57. Kg1 f4 58. Rf2 Qe3 59. Nf3 Qa7 60. Kg2 Ke3 61. Ng1
+Qg7+ 62. Kf1 Qa1+ 1/2-1/2
+

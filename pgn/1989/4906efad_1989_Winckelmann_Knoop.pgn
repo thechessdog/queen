@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Winckelmann"]
+[Black "Knoop"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "4906efad"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxe4 6. f3 c5 7. g3 exf3
+8. Nxf3 Nf6 9. Bd3 Nc6 10. O-O cxd4 11. c4 O-O 12. Bg5 e5 13. Nd2 Ne7 14.
+Rxf6 gxf6 15. Bxf6 e4 16. Qh5 Re8 17. Bxe4 1-0
+

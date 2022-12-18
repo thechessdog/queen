@@ -1,0 +1,17 @@
+[Event "corr ch34-POL sf"]
+[Site "corr ch34-POL sf"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Bonarek, L."]
+[Black "Szczepanski, Z."]
+[Result "0-1"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[HashCode "499ce21d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7
+8. Nbd2 O-O 9. Nc4 f6 10. Be3 Nc5 11. Qd2 Bg4 12. Na5 Bxf3 13. Bxc5 Bxc5
+14. Nxb7 Qc8 0-1
+

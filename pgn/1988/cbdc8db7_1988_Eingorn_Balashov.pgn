@@ -1,0 +1,23 @@
+[Event "Uzhgorod"]
+[Site "Uzhgorod"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Eingorn, Vereslav S"]
+[Black "Balashov, Yuri S"]
+[Result "1-0"]
+[ECO "E91"]
+[Opening "King's Indian"]
+[Variation "6.Be2"]
+[HashCode "cbdc8db7"]
+[Epoch "Queen"]
+[BlackID "4100263"]
+[BlackCountry "RUS"]
+[WhiteID "14100053"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 c5 7. O-O Nc6 8. d5
+Na5 9. Bd2 Bg4 10. b3 a6 11. Rc1 Rb8 12. Qe1 b6 13. e5 dxe5 14. Nxe5 Bxe2 15.
+Qxe2 Qd6 16. Rfe1 Rfe8 17. Qf3 e6 18. Bf4 Nh5 19. Ne4 Qe7 20. d6 Qb7 21. g4
+Nxf4 22. Qxf4 Nc6 23. Nxc6 Qxc6 24. g5 e5 25. Qg4 Re6 26. Rcd1 Rd8 27. Rd5 Qd7
+28. Qh4 Ree8 29. Re3 Qf5 30. Kg2 Qf4 31. Qxf4 exf4 32. Nf6+ Bxf6 33. Rxe8+ Rxe8
+34. gxf6 1-0

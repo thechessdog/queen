@@ -1,0 +1,22 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Wiedenkeller, Michael"]
+[Black "Rogers, Ian"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "937623c4"]
+[Epoch "Queen"]
+[WhiteID "1700146"]
+[WhiteCountry "LUX"]
+[BlackID "3200019"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 b6 8. a3
+Be7 9. e4 Bb7 10. e5 Nd5 11. O-O Nxc3 12. Nxc3 Ba6 13. Bxa6 Nxa6 14. Qg4 Kh8
+15. Rd1 f5 16. Qe2 Qc8 17. d5 c6 18. d6 Bd8 19. f4 Nb8 20. Be3 Rg8 21. Rac1 g5
+22. fxg5 Bxg5 23. Bxg5 Rxg5 24. Nb5 Qa6 25. Qd2 Qxb5 26. Qxg5 Nd7 27. Qe3 Rg8
+28. Rd2 Qxe5 29. Qxe5+ Nxe5 30. d7 Nf3+ 31. Kh1 1-0

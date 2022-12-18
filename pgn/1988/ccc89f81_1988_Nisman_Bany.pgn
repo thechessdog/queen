@@ -1,0 +1,24 @@
+[Event "Bytom"]
+[Site "Bytom"]
+[Date "1988.01.01"]
+[Round "5"]
+[White "Nisman, Boris I"]
+[Black "Bany, Jerzy"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "ccc89f81"]
+[Epoch "Queen"]
+[WhiteID "4104196"]
+[WhiteCountry "RUS"]
+[BlackID "1100084"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c5 5. Nc3 Nc6 6. a3 a6 7. b3 cxd4 8. exd4
+Bd6 9. c5 Bc7 10. Bg5 e5 11. dxe5 Nxe5 12. Bxf6 Qxf6 13. Nxd5 Nxf3+ 14. gxf3
+Qe5+ 15. Qe2 O-O 16. Qxe5 Bxe5 17. O-O-O Be6 18. Bc4 Rfd8 19. Nb6 Bf4+ 20. Kb2
+Rab8 21. Bxe6 fxe6 22. Nd7 Rbc8 23. b4 Kf7 24. Nb6 Rb8 25. h3 Rxd1 26. Rxd1 Kg6
+27. Rd7 Kh5 28. Kc2 Kh4 29. Rxg7 h5 30. Rh7 Rd8 31. Nc4 Rd5 32. Rxb7 Kxh3 33.
+c6 Rd8 34. Rf7 Bh2 35. a4 h4 36. f4 Kg2 37. c7 Rh8 38. Nd6 h3 39. c8=Q Rxc8+
+40. Nxc8 Bg1 41. Kd3 h2 42. Rh7 Bxf2 43. Ke4 h1=Q 44. Rxh1 Kxh1 45. b5 axb5 46.
+axb5 1-0

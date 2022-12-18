@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Kingso, S."]
+[Black "Schmidt, HG."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d0616512"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. Bc4 dxc5 6. Qxd8+ Nxd8 7. e5 Ng4
+8. Nf3 h5 9. h3 Nh6 10. Be3 e6 11. Nbd2 Nf5 12. Bg5 Nc6 13. Ne4 Bd7 14. O-O
+a6 15. Ne1 Na5 16. Be2 Bc6 17. Bd3 b5 18. b3 Nb7 19. Rd1 Be7 20. Bxe7 Kxe7
+21. Ng5 Rad8 1/2-1/2
+

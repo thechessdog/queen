@@ -1,0 +1,19 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Spraggett, Kevin"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "b6536150"]
+[Epoch "Queen"]
+[WhiteID "2600013"]
+[WhiteCountry "CAN"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. e4
+Bb7 9. Bd3 d5 10. cxd5 exd5 11. e5 Ne4 12. O-O c5 13. Rc1 Nd7 14. Re1 f5 15.
+Qe2 a6 16. Be3 Nxc3 17. Rxc3 c4 18. bxc4 Bb4 19. Bd2 Bxc3 1/2-1/2

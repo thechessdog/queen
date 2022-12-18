@@ -1,0 +1,20 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Oomen"]
+[Black "Van der Velden"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "f12dac45"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5
+8. exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O f5 12. f4 a6 13. Na3 exf4 14.
+Bxf4 Nd7 15. Nc4 Nb6 16. a5 Nxc4 17. Bxc4 Qc7 18. Qd3 Bf6 19. c3 g5 20. Be3
+Qg7 21. Ra4 f4 22. Bb6 Be5 23. Qd1 Bd7 24. Rb4 Rae8 25. Bd3 Bc8 26. Qh5 Re7
+27. Rc4 Ref7 28. Bc2 g4 29. Rxc8 Rxc8 30. Bxh7+ Kf8 31. Bf5 Rb8 32. Bxg4
+Ke7 33. Be6 Rf6 34. Qe2 Rg6 35. Rf2 Rf8 36. Qc4 Rh6 37. Bd4 1-0
+

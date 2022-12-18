@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Boeing, F."]
+[Black "Schoeller, Wolfgang"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "014a0170"]
+[Epoch "Queen"]
+[BlackID "4618882"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. e3 e6 4. Nc3 cxd4 5. exd4 d5 6. Nf3 Be7 7. Be2 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. a4 Qc7 11. Qe2 Nc6 12. Rd1 Rd8 13. Bg5 h6 14. Bh4 Qb6 15.
+d5 exd5 16. Bxd5 Bf5 17. Bxc6 1-0

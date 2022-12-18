@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hendriks, R."]
+[Black "Van de Vaart, W."]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "b2717fea"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 a6 5. Bxd7+ Bxd7 6. dxc5 dxc5 7. Nc3
+e6 8. Bf4 Be7 9. O-O Bc6 10. Qe2 Qb6 11. Ne5 Nf6 12. Nc4 Qa7 13. Nd6+ Bxd6
+14. Bxd6 h5 15. Rad1 b5 16. Nd5 O-O-O 17. Ne7+ Kb7 18. Nxc6 Kxc6 19. e5 Nd5
+20. c4 bxc4 21. Qxc4 Rxd6 22. exd6 Kxd6 23. b4 cxb4 24. Qxb4+ Kd7 25. Rfe1
+1-0
+

@@ -1,0 +1,22 @@
+[Event "California"]
+[Site "California"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Sanchez, Gabriel"]
+[Black "Alaverne"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "51fcf5f0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Bg5 h6 6. Bh4 d5 7. e3 c5 8. a3
+Bxc3+ 9. bxc3 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Nxd2 g5 13. Bg3 Bd7 14.
+h4 Bc6 15. hxg5 hxg5 16. Rb1 Nbd7 17. Nf3 Ne4 18. Bh2 f6 19. Bd3 Kg7 20.
+Bxe4 dxe4 21. Nd2 Rh8 22. Ke2 Rac8 23. f3 exf3+ 24. gxf3 b6 25. e4 Bb7 26.
+Bd6 Ba6 27. Rxh8 Rxh8 28. Rb4 Bc8 29. c5 bxc5 30. dxc5 Rh1 31. Ra4 Kg6 32.
+Nc4 e5 33. Rxa7 Rc1 34. Kd3 Rf1 35. c6 Rxf3+ 36. Kd2 Nb8 37. Bxb8 Be6 38.
+Ne3 g4 39. Re7 Bc8 40. Re8 Ba6 41. Nxg4 Kg5 42. Rg8+ Kf4 43. Nxf6 Rxa3 44.
+Rg4+ Kf3 45. Bxe5 Ra2+ 46. Kc3 1-0
+

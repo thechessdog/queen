@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Cnal"]
+[Black "Bauer"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "c6e2b58a"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 g6 3. e4 dxe4 4. Nxe4 Bg7 5. Nf3 b6 6. Bc4 Bb7 7. Qe2 Nf6
+8. Bxf7+ Kxf7 9. Neg5+ Ke8 10. Ne6 Qd6 11. Nxg7+ Kf7 12. Ne6 Bxf3 13. Ng5+
+Kg7 14. gxf3 h6 15. Bf4 Qd7 16. Ne6+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Nikolenko, Oleg"]
+[Black "Antoshin, Vladimir S"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "d8b9ef5f"]
+[Epoch "Queen"]
+[BlackCountry "RUS"]
+[WhiteID "4101880"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. g3 d5 7. e5 Ng4 8. Bf4
+c5 9. Ndb5 d4 10. Nd5 O-O 11. Bg2 Nc6 12. Qe2 g5 13. Nbc7 gxf4 14. Nxa8 d3 15.
+Qxd3 Ngxe5 16. Qe4 f3 17. Bxf3 Bf5 18. Qxf5 Nd4 19. Nxe7+ Qxe7 20. Qh5 Nexf3+
+21. Kf1 Qe2+ 0-1

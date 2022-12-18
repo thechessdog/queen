@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Plate"]
+[Black "Gerber"]
+[Result "1-0"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "0277e266"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. f4 Na5 13. Bd3 Bg4 14. h3
+Bxe2 15. Qxe2 e6 16. f5 exf5 17. exf5 cxd4 18. Bf4 Qd7 19. Be5 dxc3 20.
+fxg6 fxg6 21. Bxg7 Qxg7 22. Qe6+ Kh8 23. Rf7 Qd4+ 24. Kh1 Re8 25. Rxh7+ 1-0
+

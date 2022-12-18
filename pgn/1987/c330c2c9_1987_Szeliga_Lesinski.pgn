@@ -1,0 +1,18 @@
+[Event "Chorzow"]
+[Site "Chorzow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Szeliga, B."]
+[Black "Lesinski, P."]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, Korchnoi variation"]
+[HashCode "c330c2c9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. d4 cxd4 6. Qxd4 Nf6 7. Bg2 Nc6
+8. Qa4 Bb4 9. Ne2 O-O 10. O-O Be6 11. Bg5 Be7 12. Rad1 Qe8 13. Bxf6 Bxf6
+14. Rfe1 Ne7 15. Qxe8 Rfxe8 16. Nf4 Bxc3 17. bxc3 Bg4 18. Rb1 g5 19. Nxd5
+Nxd5 20. Bxd5 Rxe1+ 21. Rxe1 Rc8 22. c4 Be6 23. Rxe6 1-0
+

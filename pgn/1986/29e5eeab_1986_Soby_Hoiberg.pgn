@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Soby, Frode"]
+[Black "Hoiberg, Nina"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "29e5eeab"]
+[Epoch "Queen"]
+[WhiteID "1407880"]
+[BlackID "1400720"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nbd2 d5 4. g3 c5 5. dxc5 Bxc5 6. Bg2 Bxf2+ 7. Kxf2 Ng4+
+0-1

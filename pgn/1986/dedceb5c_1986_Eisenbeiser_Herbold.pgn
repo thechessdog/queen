@@ -1,0 +1,24 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eisenbeiser, Karlheinz"]
+[Black "Herbold, Manfred"]
+[Result "0-1"]
+[ECO "B07"]
+[Opening "Robatsch defence"]
+[Variation "Geller's system"]
+[HashCode "dedceb5c"]
+[Epoch "Queen"]
+[WhiteID "4653360"]
+[WhiteCountry "GER"]
+[BlackID "4682882"]
+[BlackCountry "GER"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. c3 Bg4 5. Be2 Nc6 6. h3 Bxf3 7. Bxf3 e5 8. d5
+Nce7 9. g4 c6 10. dxc6 bxc6 11. c4 f6 12. Nc3 Nh6 13. c5 dxc5 14. Be3 Qa5 15.
+O-O Nf7 16. Na4 Rd8 17. Qc2 Ng5 18. Bg2 Ne6 19. Nxc5 Nxc5 20. Qxc5 Qxc5 21.
+Bxc5 Rd2 22. b4 Kf7 23. Rfd1 Rhd8 24. Rxd2 Rxd2 25. Bxa7 f5 26. a4 fxe4 27. Be3
+Rd8 28. Bxe4 Nd5 29. Bc5 Ke6 30. a5 Bf8 31. Bxd5+ cxd5 32. Bxf8 Rxf8 33. b5 Kd6
+34. Rc1 d4 35. b6 Rb8 36. Kf1 e4 37. Ke2 Kd5 38. Rc7 d3+ 39. Ke3 Rf8 40. b7
+Rf3+ 41. Kd2 Rxf2+ 42. Kc3 d2 43. b8=Q d1=N+ 44. Kb3 Rb2+ 45. Ka4 Rxb8 0-1

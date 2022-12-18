@@ -1,0 +1,19 @@
+[Event "FIDE (35) 1985-1987"]
+[Site "Biel izt"]
+[Date "1985.07.01"]
+[Round "17"]
+[White "Seirawan, Yasser"]
+[Black "Sokolov, Andrei"]
+[Result "1/2-1/2"]
+[ECO "E02"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4"]
+[HashCode "03cef7fb"]
+[Epoch "Queen"]
+[WhiteID "2000032"]
+[WhiteCountry "USA"]
+[BlackID "627089"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Nf3 c5 7. O-O a6 8. Nc3
+Be7 9. dxc5 Bxc5 10. Qxc4 b5 11. Qd3 Bb7 12. Bf4 1/2-1/2

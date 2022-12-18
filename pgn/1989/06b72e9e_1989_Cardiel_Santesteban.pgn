@@ -1,0 +1,20 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cardiel, M."]
+[Black "Santesteban, F."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "06b72e9e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Be2 Nf6 5. Qxd4 Nc6 6. Qd3 g6 7. Nc3 Bg7
+8. O-O O-O 9. Bg5 Qa5 10. a3 Ne5 11. Qe3 Bg4 12. b4 Qc7 13. Rac1 Nxf3+ 14.
+Bxf3 Bxf3 15. Qxf3 Rac8 16. Bxf6 exf6 17. Nd5 Qd8 18. c3 Re8 19. c4 Qd7 20.
+Nxf6+ Bxf6 21. Qxf6 Rxe4 22. Rfd1 Rexc4 23. Qb2 Qc6 24. Rb1 Rc2 25. Qa1 Qb6
+26. Rf1 d5 27. Rbc1 Rxc1 28. Rxc1 Rxc1+ 29. Qxc1 Qc6 30. Qe3 d4 31. Qe1 Qc3
+32. Kf1 Qc4+ 33. Qe2 d3 34. Qd2 f5 35. h3 Kf7 36. g3 Qe4 37. Qe3 Qh1# 0-1
+

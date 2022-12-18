@@ -1,0 +1,15 @@
+[Event "Civitavecchia"]
+[Site "Civitavecchia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "D'Amore, Carlo"]
+[Black "Godena, M."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "1ccb9d18"]
+[Epoch "Queen"]
+
+1. Nf3 Nc6 2. d4 d5 3. g3 g6 4. Bg2 Bg7 5. O-O e6 6. Nc3 Nge7 7. e4 dxe4 8.
+Nxe4 Nxd4 9. Bg5 Nxf3+ 10. Qxf3 O-O 11. Rad1 Qe8 12. Nf6+ Bxf6 13. Qxf6 Nf5 14.
+g4 h6 15. gxf5 hxg5 16. Rd3 g4 17. Rfd1 exf5 18. Rd8 1-0

@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Eiber, M."]
+[Black "Tate"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "05eda3c7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. e3 e6 5. Bd3 Bg6 6. Nf3 Nbd7 7. Ne2 c5 8.
+Bxg6 hxg6 9. c3 Be7 10. Ng3 b5 11. Qe2 Qb6 12. O-O Ne4 13. Bxe7 Nxg3 14.
+fxg3 Kxe7 15. a4 a6 16. a5 Qa7 17. g4 f6 18. e4 cxd4 19. cxd4 Ne5 20. Qe3
+Nxg4 21. Qa3+ Kd7 22. exd5 exd5 23. Qd3 Rhe8 24. Qxg6 Ne3 25. Qxg7+ Re7 26.
+Qxf6 Nxf1 27. Ne5+ Rxe5 28. Qxe5 Nd2 29. Qxd5+ Kc7 30. Re1 Rf8 31. Re7+ Kc8
+32. Qc6+ 1-0
+

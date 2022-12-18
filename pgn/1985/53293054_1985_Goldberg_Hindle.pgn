@@ -1,0 +1,18 @@
+[Event "Great Britain"]
+[Site "Great Britain"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Goldberg"]
+[Black "Hindle, Owen M"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "53293054"]
+[Epoch "Queen"]
+[BlackID "400564"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 b5 8. e5 Ne8
+9. Nxb5 Nd7 10. exd6 Nxd6 11. Nxd6 exd6 12. Nf3 Rb8 13. Qc2 Nf6 14. Bd3 Re8+
+15. Kd1 Ng4 16. Rb1 Re3 17. Ne1 Qh4 18. g3 Rxg3 19. hxg3 Qxh1 20. Be4 Qxe4 0-1

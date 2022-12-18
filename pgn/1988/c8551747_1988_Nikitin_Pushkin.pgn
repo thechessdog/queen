@@ -1,0 +1,17 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Nikitin, A."]
+[Black "Pushkin, A."]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, fianchetto variation"]
+[HashCode "c8551747"]
+[Epoch "Queen"]
+[WhiteID "4155220"]
+[WhiteCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6 6. Nc3 Bg7 7. Be3 O-O 8. Nf3
+Be6 9. Qb3 a5 10. Ne4 d5 11. Neg5 dxc4 12. Nxe6 cxb3 13. Nxd8 Rxd8 1/2-1/2

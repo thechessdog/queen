@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kette, S."]
+[Black "Boehle, Lars"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "9e5f9946"]
+[Epoch "Queen"]
+[BlackID "4614542"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O Nge7 7. Bf4 Ng6 8. Bg3
+Qb6 9. Nbd2 Bd7 10. Nb3 Be7 11. h4 f5 12. h5 Nf8 13. Qe2 g5 14. hxg6 hxg6 15.
+Bf4 Nh7 16. a4 g5 17. a5 Nxa5 18. Nxa5 gxf4 19. Nb3 Ng5 20. Nbxd4 Ne4 21. c3
+Kf7 22. Rfd1 Rag8 23. Nd2 Qd8 24. Qf3 Ng5 25. Qe2 Nh3+ 26. Kf1 Rxg2 0-1

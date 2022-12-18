@@ -1,0 +1,17 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Glas, A."]
+[Black "Kveinis, A."]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "f34edc53"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O c6 7. d4 Qa5 8.
+h3 Be6 9. d5 cxd5 10. Nd4 Bd7 11. cxd5 Rc8 12. Nb3 Qd8 13. e4 Na6 14. Be3
+Rc4 15. Qd2 Rac8 16. Rfc1 Ba4 0-1
+

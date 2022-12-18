@@ -1,0 +1,21 @@
+[Event "corr Tch-EU"]
+[Site "corr Tch-EU"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hawley"]
+[Black "Ertl"]
+[Result "0-1"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "872e55e6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nc6 7. Nxc6 bxc6
+8. c4 Nf6 9. Nc3 Be7 10. Qe2 e5 11. Bd2 O-O 12. Rac1 d6 13. b4 Bg4 14. f3
+Be6 15. Be3 Qb7 16. a3 Nd7 17. Rfd1 Rfc8 18. Bb1 c5 19. b5 Nb6 20. Ba2 axb5
+21. Nxb5 Rc6 22. Rb1 Qd7 23. Bb3 f5 24. Qc2 f4 25. Bf2 Qe8 26. Ra1 Qf7 27.
+Rdc1 g5 28. a4 g4 29. a5 Nd7 30. Qe2 Qg6 31. Kh1 g3 32. hxg3 fxg3 33. Be3
+Bg5 34. Kg1 Qh6 35. Rc3 Nf6 36. Qe1 Nxe4 37. fxe4 Qh2+ 38. Kf1 Bg4 39. Bg1
+Rf8+ 40. Rf3 Rxf3+ 41. gxf3 Bh3# 0-1
+

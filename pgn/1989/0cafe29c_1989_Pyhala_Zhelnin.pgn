@@ -1,0 +1,21 @@
+[Event "Kotov mem"]
+[Site "Odessa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Zhelnin, Vladimir V"]
+[Result "1-0"]
+[ECO "B99"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Be7 main line"]
+[HashCode "0cafe29c"]
+[Epoch "Queen"]
+[BlackID "4105567"]
+[BlackCountry "RUS"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Qf3
+Nbd7 9. O-O-O Be7 10. Bd3 h6 11. Qh3 Nf8 12. f5 Bd7 13. Rhf1 O-O-O 14. Be3 e5
+15. Nb3 Bc6 16. g4 N8d7 17. Qf3 Kb8 18. h4 Rc8 19. g5 hxg5 20. hxg5 Ne8 21. Rh1
+Rf8 22. Kb1 Bd8 23. Rh7 b5 24. Qe2 Nb6 25. Na5 Ba8 26. f6 gxf6 27. g6 Na4 28.
+Nxa4 Qxa5 29. Rxf7 1-0

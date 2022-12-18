@@ -1,0 +1,29 @@
+[Event "Montpellier"]
+[Site "Montpellier"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kouatly, Bachar"]
+[Black "Van der Wiel, John T.H."]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "9678e377"]
+[Epoch "Queen"]
+[WhiteID "600032"]
+[BlackID "1000020"]
+[WhiteCountry "FRA"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 O-O 10. a3 Bd6 11. Ba2 Re8 12. Qd3 e5 13. Bg5 h6 14. Bxf6 Qxf6 15.
+Ne4 Qe7 16. d5 Nb8 17. Nxd6 Qxd6 18. Nc3 Bd7 19. Ne4 Qg6 20. Rac1 Na6 21. d6
+Bf5 22. f3 Rad8 23. Qb5 Rd7 24. Bd5 Red8 25. Bxb7 Bxe4 26. fxe4 Nb8 27. Bd5
+Qxd6 28. Rxf7 Rxf7 29. Rf1 Rf8 30. Rxf7 Rxf7 31. Qe8+ Kh7 32. Qxf7 Qc5+ 33. Qf2
+Qc1+ 34. Qf1 Qe3+ 35. Kh1 Nd7 36. h3 Nf6 37. Qf5+ Kh8 38. Qc8+ Kh7 39. Qf5+ Kh8
+40. Kh2 Nxd5 41. exd5 Qd4 42. Qf8+ Kh7 43. d6 Kg6 44. b4 a6 45. a4 Qxb4 46.
+Qe8+ Kh7 47. Qxe5 Qxa4 48. Qf5+ Kg8 49. Qd5+ Kf8 50. d7 Qf4+ 51. Kg1 Qc1+ 52.
+Kf2 Qb2+ 53. Kf3 Qf6+ 54. Ke4 Qe7+ 55. Kd3 Qa3+ 56. Kc2 Qa4+ 57. Kb2 Qb4+ 58.
+Kc2 Qa4+ 59. Kd2 Qb4+ 60. Ke2 Qb2+ 61. Kf3 Qf6+ 62. Kg3 Qd8 63. Qd6+ Kf7 64.
+Kf3 g6 65. Ke4 Qe7+ 66. Kd5 Qg5+ 67. Kd4 Qd2+ 68. Kc5 Qf2+ 69. Kc6 Qxg2+ 70.
+Kc7 Qc2+ 71. Kb8 Qb3+ 72. Ka7 Qe3+ 73. Qb6 Qe7 74. Qc7 Qe3+ 75. Ka8 1-0

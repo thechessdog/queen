@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schnaebele, Uwe"]
+[Black "Schlick, Volker"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "b47bee83"]
+[Epoch "Queen"]
+[WhiteID "4602625"]
+[BlackID "4603095"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Bd7 7. Qd2 b5 8. f4 b4
+9. Nd1 Rc8 10. c3 Nf6 11. h3 e5 12. Ne2 exf4 13. gxf4 O-O 14. Ng3 h5 15. O-O
+Nh7 16. Kh2 Re8 17. Nf2 Qa5 18. Ne2 f5 19. Rg1 Nf6 20. exf5 Bxf5 21. Ng3 bxc3
+22. bxc3 Ne7 23. Nge4 Rcd8 24. Rac1 Nfd5 25. c4 Qxd2 26. Bxd2 Nb4 27. a3 Nbc6
+28. Rb1 Bd4 29. Rgf1 d5 30. cxd5 Nxd5 31. Ng5 Re2 32. Nfe4 Rxd2 33. Nxd2 Bxd3
+34. Rb7 Bxf1 35. Nxf1 c4 36. Ng3 c3 37. Be4 Nxf4 38. Rc7 Ne5 39. Nh7 Nf7 40. h4
+Be5 0-1

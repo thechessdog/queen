@@ -1,0 +1,21 @@
+[Event "Brocco"]
+[Site "Brocco"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Nemet, Ivan"]
+[Result "0-1"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "9138ed45"]
+[Epoch "Queen"]
+[BlackCountry "CHE"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. f4 c5 7. d5 b5 8. cxb5 a6
+9. bxa6 Qa5 10. Bd2 Bxa6 11. Nf3 Qb4 12. Qc2 Bxe2 13. Kxe2 Nbd7 14. a3 Qb6 15.
+Rhd1 e6 16. Kf1 exd5 17. exd5 c4 18. Be1 Rab8 19. Rab1 Ng4 20. Bf2 Nxf2 21.
+Qxf2 Nc5 22. Nd2 Qa6 23. Qe2 Nd3 24. Nxc4 Nxf4 25. Qe4 Rfc8 26. b3 Bxc3 27.
+Qxf4 Rxb3 28. Rxb3 Rxc4 0-1

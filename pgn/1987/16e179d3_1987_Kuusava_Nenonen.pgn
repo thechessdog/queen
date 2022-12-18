@@ -1,0 +1,19 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kuusava"]
+[Black "Nenonen"]
+[Result "0-1"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Rellstab attack"]
+[HashCode "16e179d3"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. O-O Qd5 14. Qe2
+Ba6 15. Bg5 Be7 16. f4 O-O 17. Rf3 Bb7 18. Qf2 Rfc8 19. Qh4 Rxa2 20. Re1
+Kf8 21. Bxf6 Bxf6 22. Qxh7 Qd8 23. Rg3 Rxb2 24. Qh5 Qc7 25. h4 Ra8 26. f5
+Bxe5 27. fxe6 Ra1 0-1
+

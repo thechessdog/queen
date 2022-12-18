@@ -1,0 +1,19 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Reich"]
+[Black "Orso, Miklos"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "54d59988"]
+[Epoch "Queen"]
+[BlackID "700290"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+b4 9. Na4 Bb7 10. f3 Nc6 11. Be3 Qc7 12. Rc1 Nxd4 13. Bxd4 Be7 14. c3 Qa5 15.
+cxb4 Qxb4 16. Nb6 Rd8 17. Rc7 e5 18. Bf2 Nxe4 19. fxe4 Qxe4 20. Nd5 Rd7 21. Re1
+Qxd5 22. Bxd5 Rxc7 23. Qa4+ 1-0

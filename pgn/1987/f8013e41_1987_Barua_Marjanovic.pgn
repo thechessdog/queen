@@ -1,0 +1,20 @@
+[Event "Kolhapur"]
+[Site "Kolhapur"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Barua, Dibyendu"]
+[Black "Marjanovic, Slavoljub"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "f8013e41"]
+[Epoch "Queen"]
+[BlackID "900354"]
+[BlackCountry "SRB"]
+[WhiteID "5000025"]
+[WhiteCountry "IND"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8. a4
+Bb4 9. Bg5 Bxc3 10. Bxf6 gxf6 11. bxc3 Ne7 12. Qd2 h5 13. a5 d5 14. exd5 Nxd5
+15. Bf3 Ne7 16. Rae1 1/2-1/2

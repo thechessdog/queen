@@ -1,0 +1,18 @@
+[Event "Lyngby"]
+[Site "Lyngby"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hansen, Lars Bo"]
+[Black "Mortensen"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack"]
+[HashCode "c3a15ae0"]
+[Epoch "Queen"]
+[WhiteID "1400037"]
+[WhiteCountry "DEN"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 c5 7. d5 e6 8. d6
+Qh4+ 9. g3 Qe4+ 10. Kf2 Qxh1 11. Nf3 Nc6 12. Qe2 Nd7 13. Be3 Ndxe5 14. Bg2 Ng4#
+0-1

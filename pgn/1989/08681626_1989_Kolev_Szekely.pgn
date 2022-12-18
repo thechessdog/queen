@@ -1,0 +1,19 @@
+[Event "Kotov mem"]
+[Site "Odessa"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kolev, Atanas"]
+[Black "Szekely, Peter"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "08681626"]
+[Epoch "Queen"]
+[WhiteID "2900130"]
+[WhiteCountry "FID"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Qc7 6. Nf3 Bxc5 7. Bg5 a6 8. e3
+Be7 9. Be2 d6 10. O-O Nbd7 11. Rfd1 b6 12. Rac1 Bb7 1/2-1/2

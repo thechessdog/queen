@@ -1,0 +1,19 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "8"]
+[White "Roper, David C."]
+[Black "Hall, RVM."]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "a95eae5a"]
+[Epoch "Queen"]
+[WhiteID "2013819"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Nf3 c5 8. Ne2
+cxd4 9. Nexd4 Nc6 10. Nxc6 bxc6 11. Bd3 a5 12. c3 Ba6 13. Bxa6 Rxa6 14. O-O h6
+15. Bxe7 Qxe7 16. Qe2 Rb6 17. b3 O-O 18. h5 Rfb8 19. Rac1 c5 20. Rfe1 Qd8 21.
+Qd2 a4 22. bxa4 Ra6 23. Rb1 Rxa4 24. Rxb8 Qxb8 25. Qc2 Qa7 1/2-1/2

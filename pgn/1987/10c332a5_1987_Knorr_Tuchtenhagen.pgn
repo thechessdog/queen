@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Knorr"]
+[Black "Tuchtenhagen"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "10c332a5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Bc5 6. fxe5 Qh4+ 7. Kd2 Nc6
+8. Nf3 Qxe4 9. Nc3 Qe3+ 10. Kc2 Nb4+ 11. Kb1 1-0
+

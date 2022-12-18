@@ -1,0 +1,16 @@
+[Event "Belgorod"]
+[Site "Belgorod"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Donchenko, Anatoly G"]
+[Black "Levin, Felix"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "97633305"]
+[Epoch "Queen"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. Qc2 c5 7. dxc5 Qa5+ 8.
+Nbd2 Qxc5 9. O-O b6 10. a3 Bb7 11. b4 Qc7 12. Bb2 Nbd7 13. Rac1 Rac8 14. Qb1
+Qb8 15. Qa1 1/2-1/2

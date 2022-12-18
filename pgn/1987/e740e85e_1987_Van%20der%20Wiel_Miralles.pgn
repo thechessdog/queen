@@ -1,0 +1,21 @@
+[Event "Budel zt"]
+[Site "Budel zt"]
+[Date "1987.05.01"]
+[Round "1"]
+[White "Van der Wiel, John T.H."]
+[Black "Miralles, Gilles"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[HashCode "e740e85e"]
+[Epoch "Queen"]
+[WhiteID "1000020"]
+[WhiteCountry "NED"]
+[BlackID "600059"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Nxd4 9. Bxd4 Nb8 10. Bd3 Nc6 11. Bf2 Qa5 12. O-O Bc5 13. Nb5 Bxf2+ 14. Rxf2 O-O
+15. Nd6 h6 16. Qh5 Qb6 17. g4 Nb4 18. g5 Nxd3 19. cxd3 g6 20. Qxh6 Bd7 21. Rc1
+Bc6 22. Rc3 Rad8 23. h4 Qe3 24. h5 Qe1+ 25. Kg2 d4+ 26. Rxc6 bxc6 27. Ne4 1-0

@@ -1,0 +1,17 @@
+[Event "Berlin Neukoelln"]
+[Site "Berlin-West"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Gueldner, Kurt"]
+[Black "Weber, Siegfried"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "72f89d6b"]
+[Epoch "Queen"]
+[WhiteID "4610865"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 d5 7. cxd5 exd5 8. O-O
+O-O 9. a3 cxd4 10. exd4 Be7 11. Bf4 Be6 12. Rc1 Bd6 1/2-1/2

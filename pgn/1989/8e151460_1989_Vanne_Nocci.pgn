@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Vanne"]
+[Black "Nocci"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "8e151460"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Bxg5 8.
+hxg5 c5 9. g6 f5 10. Qg3 h6 11. Nf3 Nc6 12. Ng5 Nxd4 13. Nf7 Qb6 14. O-O-O
+O-O 15. Nxh6+ gxh6 16. Qh3 1-0
+

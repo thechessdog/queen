@@ -1,0 +1,19 @@
+[Event "Alesund"]
+[Site "Alesund"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Antonsen, Oyvind"]
+[Black "Sandum, Kjell T"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, dragon formation"]
+[HashCode "ead68e99"]
+[Epoch "Queen"]
+[WhiteID "1508261"]
+[BlackID "1504193"]
+[WhiteCountry "NOR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Bd2
+O-O 9. Qe2 a6 10. a3 b5 11. e5 dxe5 12. fxe5 Ng4 13. Be4 Nc6 14. h3 Ngxe5 15.
+Nxe5 Bxe5 16. O-O-O Nd4 17. Qd3 1/2-1/2

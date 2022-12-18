@@ -1,0 +1,23 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Karnitzschky, M."]
+[Black "Fluegge, G."]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "d884e8ca"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Bd3 cxd4 9. Ne2 dxc3 10. Qxg7 Rg8 11. Qxh7 Nbc6 12. O-O Bd7 13. f4 O-O-O
+14. Qh4 Nf5 15. Bxf5 exf5 16. Rf3 Kb8 17. Qf2 d4 18. Rg3 Qb6 19. Rxg8 Rxg8
+20. a4 Be6 21. a5 Nxa5 22. Nxd4 Nc4 23. Ne2 Qxf2+ 24. Kxf2 Rc8 25. h4 b6
+26. Nd4 Kb7 27. g3 a6 28. Rb1 b5 29. Ne2 Kb6 30. Nxc3 Kc5 31. Ne2 a5 32.
+Be3+ Nxe3 33. Kxe3 b4 34. Ra1 Ra8 35. Nc1 Kc4 36. Kd2 a4 37. Nd3 a3 38. Nc1
+Rg8 39. Ne2 Rd8+ 40. Ke3 Kb5 41. Nd4+ Ka4 42. h5 Rh8 43. Rd1 a2 44. Ne2 Ka3
+45. Nd4 Kb2 46. Rd2 a1=Q 47. c4+ Ka3 48. Nc2+ Ka2 49. Nxa1+ Kxa1 50. Kd3
+Rxh5 51. Kc2 Bxc4 0-1
+

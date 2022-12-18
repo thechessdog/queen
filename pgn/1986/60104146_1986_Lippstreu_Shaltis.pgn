@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lippstreu, G."]
+[Black "Shaltis, V."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "60104146"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Be7 8.
+Ne5 O-O 9. O-O c6 10. Bc3 Nfd7 11. Nxd7 Nxd7 12. Nd2 Rc8 13. e4 b5 14. Re1
+dxc4 15. bxc4 bxc4 16. Qc2 Qc7 17. Nf3 Bf6 18. Rad1 Rfd8 19. Rd2 e5 20.
+dxe5 Nxe5 21. Nxe5 1/2-1/2
+

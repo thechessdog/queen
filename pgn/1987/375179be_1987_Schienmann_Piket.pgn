@@ -1,0 +1,24 @@
+[Event "Lugano op"]
+[Site "Lugano"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schienmann, Bruno"]
+[Black "Piket, Jeroen"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "375179be"]
+[Epoch "Queen"]
+[BlackID "1000055"]
+[BlackCountry "NED"]
+[WhiteID "4606370"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Qh4+ 9. g3 Nxg3 10. Qf2 Nxf1 11. Qxh4 Nxe3 12. Kf2 Nxc4 13. b3 Nb6 14. Nge2 Na6
+15. Ng3 f6 16. Rac1 Bd7 17. Kg2 Nc5 18. Rhd1 a5 19. f4 exf4 20. Qxf4 Rae8 21.
+Rc2 f5 22. exf5 Bxf5 23. Nxf5 Rxf5 24. Qd2 Bxc3 25. Qxc3 Nxd5 26. Rxd5 Rxd5 27.
+Qc4 c6 28. Rd2 Re4 29. Qc2 Rg5+ 30. Kf1 Reg4 31. Qb2 Ne4 32. Rc2 d5 33. Ke2 Rh4
+34. Qc1 Rxh2+ 35. Kd3 Rh3+ 36. Kd4 Rh4 37. Re2 c5+ 38. Kd3 Rg3+ 39. Re3 Rh1 40.
+Qc2 Rhh3 0-1

@@ -1,0 +1,17 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Emrich, E."]
+[Black "Kasten, W."]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[HashCode "17b103fd"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Be6 7. O-O Nb6
+8. d3 Be7 9. a3 a5 10. Be3 O-O 11. Na4 e4 12. Ne1 exd3 13. Nxd3 Nc4 14. Bc5
+Bd5 15. e4 Be6 16. Rc1 b5 17. Bxe7 Qxe7 18. Nac5 Rfd8 19. Qe1 Rab8 1/2-1/2
+

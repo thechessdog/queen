@@ -1,0 +1,19 @@
+[Event "corr Horowitz mem"]
+[Site "corr Horowitz mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rotter"]
+[Black "Dtobbe"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "879487a0"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nc6 5. cxd5 Qxd5 6. Nf3 Bg4 7. Nc3
+Bxf3 8. gxf3 Qxd4 9. Qxd4 Nxd4 10. Nb5 e5 11. Nc7+ Kd7 12. Nxa8 Nc2+ 13.
+Ke2 Nxa1 14. Bh3+ Kc6 15. Bd2 b6 16. Rc1+ Kb7 17. Rc7+ Kxa8 18. Rc8+ Kb7
+19. Rxf8 Nc2 20. Bc3 Nd4+ 21. Bxd4 exd4 22. Rxf7+ Kc6 23. Rf8 Kd6 24. Re8
+1-0
+

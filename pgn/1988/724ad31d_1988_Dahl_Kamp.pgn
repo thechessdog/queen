@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Dahl"]
+[Black "Kamp, Christoph"]
+[Result "1/2-1/2"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "724ad31d"]
+[Epoch "Queen"]
+[BlackID "4606949"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 7. a3 Ngxe5
+8. Nxe5 Nxe5 9. e3 Bxd2+ 10. Qxd2 d6 11. Be2 Bd7 12. O-O Bc6 13. f3 O-O 14. Qd4
+Rfe8 15. Bg3 b6 16. Rae1 Bb7 17. Bd1 a5 18. a4 Nc6 19. Qc3 Nb4 1/2-1/2

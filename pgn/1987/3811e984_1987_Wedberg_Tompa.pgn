@@ -1,0 +1,21 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wedberg, Tom"]
+[Black "Tompa, Janos"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "3811e984"]
+[Epoch "Queen"]
+[WhiteID "1700073"]
+[WhiteCountry "SWE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Nc6 7. Bg2 Bd7 8. O-O
+Be7 9. Nb3 O-O 10. Qe2 Rc8 11. a4 Na5 12. Nxa5 Qxa5 13. Rd1 Qc7 14. Bf4 Rfd8
+15. Rd2 Ne8 16. e5 Bc6 17. Nb5 Bxb5 18. axb5 dxe5 19. Rxd8 Rxd8 20. Bxe5 Qb6
+21. c4 Bf6 22. b4 Bxe5 23. Qxe5 a6 24. Qc5 Rd6 25. Qc8 Rd8 26. c5 Qc7 27. Qxb7
+Qxb7 28. Bxb7 axb5 29. Bc6 Nc7 30. Ra7 Nd5 31. Bxd5 exd5 32. Kf1 Re8 33. Rd7 g6
+34. Rxd5 Re4 35. c6 Rc4 36. Rc5 1-0

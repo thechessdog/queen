@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Haessler, C."]
+[Black "Pupols, V."]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "67dd7fd8"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. Bb5 Nge7 5. f4 Bg7 6. Nf3 d6 7. fxe5 O-O 8.
+O-O Bg4 9. d4 dxe5 10. Bxc6 Nxc6 11. d5 e4 12. Bxg7 Kxg7 13. dxc6 exf3 14.
+Qxd8 Raxd8 15. gxf3 Bh3 16. Re1 bxc6 17. Kf2 Rd5 18. Na3 Rfd8 19. e4 Rd2+
+20. Re2 Be6 0-1
+

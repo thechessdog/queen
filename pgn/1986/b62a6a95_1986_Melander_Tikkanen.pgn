@@ -1,0 +1,19 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Melander, B."]
+[Black "Tikkanen, K."]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "b62a6a95"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 b6 10. Qe2 Bb7 11. Rd1 Bxc3 12. bxc3 Nbd7 13. Bb2 Qc7 14.
+Bd3 Nd5 15. Qe4 N7f6 16. Qh4 Nf4 17. Bf1 Bxf3 18. gxf3 N6h5 19. Re1 f5 20.
+Bc1 Rf6 21. Bxf4 Nxf4 22. Kh1 Ng6 23. Qg3 Qxc3 24. Rac1 Qxd4 25. Rc7 e5 26.
+Rec1 Qd8 0-1
+

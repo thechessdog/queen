@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pollak"]
+[Black "Barcza"]
+[Result "0-1"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit"]
+[HashCode "ae1ba6ac"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 Nbd7
+8. Nf3 Nb6 9. Be2 Be6 10. Qc2 Nfd5 11. Bg3 Nb4 12. Qd2 c5 13. O-O cxd4 14.
+exd4 Nc4 15. Bxc4 Bxc4 16. Rfd1 Nd5 17. Ne5 Rc8 18. Rac1 Nxc3 19. bxc3 Qa5
+20. Rc2 b6 21. h3 Rfd8 22. Bf4 Bb5 23. Rdc1 f6 0-1
+

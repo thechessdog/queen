@@ -1,0 +1,18 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Borgstaedt, Michael"]
+[Black "Herrmann, M."]
+[Result "1-0"]
+[ECO "B49"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "a02d0eb6"]
+[Epoch "Queen"]
+[WhiteID "4606825"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be2 Qc7 7. Be3 Nf6 8. f4
+Bb4 9. Bf3 d6 10. O-O O-O 11. Kh1 e5 12. Nxc6 Bxc3 13. bxc3 Qxc6 14. Rb1 b5 15.
+c4 Qxc4 16. Qxd6 Qxc2 17. fxe5 Ng4 18. Rbc1 Qxa2 19. Rxc8 Nxe3 20. Qxf8# 1-0

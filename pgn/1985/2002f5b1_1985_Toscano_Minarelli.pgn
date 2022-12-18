@@ -1,0 +1,17 @@
+[Event "Gotto"]
+[Site "Gotto"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Toscano"]
+[Black "Minarelli"]
+[Result "0-1"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Wimpey system"]
+[HashCode "2002f5b1"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. c4 e6 3. b3 d5 4. Bb2 c5 5. e3 Be7 6. cxd5 exd5 7. Bb5+ Nc6
+8. Ne5 Qb6 9. Nxc6 bxc6 10. Be2 O-O 11. Qc2 d4 12. e4 Ng4 13. d3 Qc7 14. h3
+Nxf2 15. Kxf2 Bh4+ 16. Kg1 Qg3 0-1
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pajares"]
+[Black "Gavalda Llao"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[HashCode "41e2e832"]
+[Epoch "Queen"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. c4 dxc4 6. Nf3 cxb3 7. Qxb3 Qe7
+8. Bxc6+ bxc6 9. Qc3 Rb8 10. Qxc6+ Bd7 11. Qc2 Nf6 12. d3 e4 13. dxe4 Qxe4
+14. Qxe4+ Nxe4 15. Bd4 Bb4+ 16. Kf1 Bb5+ 17. Kg1 f6 18. a3 Ba5 19. Bxa7 Rb7
+20. Nd4 Bd3 0-1
+

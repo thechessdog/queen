@@ -1,0 +1,17 @@
+[Event "Insbruck"]
+[Site "Insbruck"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wilkinson, Scott"]
+[Black "Markovic, Gordana"]
+[Result "0-1"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "98596a7e"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+O-O 9. Qd2 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. h4 h5 13. Bg5 Rc5 14. g4 hxg4 15.
+f4 Nc4 16. Bxc4 Rxc4 17. Nb3 Nxe4 18. Nxe4 Rxe4 19. h5 Bf5 20. hxg6 Bxg6 21.
+Bh6 Rc4 22. c3 Qc8 0-1

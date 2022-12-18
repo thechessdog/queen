@@ -1,0 +1,16 @@
+[Event "corr WT/I/GT"]
+[Site "corr WT/I/GT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Timar, Zsolt"]
+[Black "Giese, M."]
+[Result "1-0"]
+[ECO "D29"]
+[Opening "QGA"]
+[Variation "classical, Smyslov variation"]
+[HashCode "cbcf2060"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. Nc3 Bd6 11. e4 cxd4 12. Rxd4 Bc5 13. Rd3 1-0

@@ -1,0 +1,20 @@
+[Event "corr ch-Donau"]
+[Site "corr ch-Donau"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Chiricuta"]
+[Black "Kantjev"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "b23cbf1c"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c6 7. h3 Nbd7 8.
+Qc2 dxc4 9. Bxc4 Nd5 10. Bh2 N7b6 11. Bd3 g6 12. a3 Bd7 13. Ne4 Be8 14. Nc5
+Bxc5 15. dxc5 Nc8 16. e4 Qa5+ 17. Ke2 Nf6 18. Bf4 Nh5 19. Bh6 Ng7 20. h4
+Qc7 21. Bc4 Qe7 22. Ng5 e5 23. g4 a5 24. Qc3 Na7 25. Nf3 Kh8 26. Qxe5 Qxe5
+27. Nxe5 f6 28. Nf3 Nb5 29. Bxb5 cxb5 30. Nd4 Rf7 31. Ke3 Re7 32. Bxg7+
+Kxg7 33. f3 Kf7 34. Nb3 a4 35. Nd4 Rc8 36. Rac1 Rec7 37. Rh2 1-0
+

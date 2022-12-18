@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ottolini"]
+[Black "Pacioni, P."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Veresov variation"]
+[HashCode "b25b74fd"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 c6 6. Bd3 Bxd3 7. Qxd3
+Na6 8. Nf3 Bd6 9. O-O-O Qa5 10. Kb1 O-O 11. g4 Bb4 12. Ne2 Be7 13. Ng3 Nb4
+14. Qb3 Rfd8 15. h4 c5 16. c3 Na6 17. g5 c4 18. Qc2 b5 19. Nf5 Kf8 20. Nxe7
+Kxe7 21. a3 Rab8 22. Rhg1 b4 23. axb4 Nxb4 24. cxb4 Rxb4 25. gxf6+ gxf6 26.
+e4 Rdb8 27. Qc3 Rxb2+ 28. Qxb2 Rxb2+ 29. Kxb2 Qb4+ 30. Kc2 Qb3+ 31. Kd2
+Qd3+ 0-1
+

@@ -1,0 +1,19 @@
+[Event "Geneva"]
+[Site "Geneva"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rivaud, Ch"]
+[Black "Hort, Vlastimil"]
+[Result "0-1"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "cb6dc578"]
+[Epoch "Queen"]
+[BlackID "4600029"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c6 7. Qb3 Qa5 8. Nd2
+Nbd7 9. cxd5 Nxd5 10. Nxd5 cxd5 11. Qb5 Qxb5 12. Bxb5 e5 13. dxe5 Nxe5 14. O-O
+Bf5 15. Rad1 a6 16. Be2 Nd3 17. b3 Nxf4 18. exf4 Rfe8 19. Bf3 Rad8 20. g3 b5
+21. Rfe1 Rxe1+ 22. Rxe1 Bc3 23. Rd1 Ba5 24. Nf1 d4 25. Bb7 Bc2 26. Rc1 d3 27.
+Bf3 Bc3 28. Be4 a5 0-1

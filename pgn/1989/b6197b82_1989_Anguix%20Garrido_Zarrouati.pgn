@@ -1,0 +1,19 @@
+[Event "Royan op"]
+[Site "Royan"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Anguix Garrido, Juan F."]
+[Black "Zarrouati, Pierre"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "b6197b82"]
+[Epoch "Queen"]
+[WhiteID "2200791"]
+[WhiteCountry "ESP"]
+[BlackID "603449"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bh4 g5 4. f3 c5 5. fxe4 gxh4 6. e3 Qb6 7. Nc3 e6 8. Nf3
+a6 9. Ne5 cxd4 10. exd4 Qxb2 11. Na4 Qa3 12. c3 b5 13. Nb6 Qxc3+ 14. Kf2 Bc5
+15. dxc5 Qxc5+ 16. Ke1 Qxb6 17. Qh5 Rf8 18. Bd3 Qe3+ 19. Kd1 Nc6 0-1

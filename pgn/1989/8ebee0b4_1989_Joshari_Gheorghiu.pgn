@@ -1,0 +1,22 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Joshari"]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[HashCode "8ebee0b4"]
+[Epoch "Queen"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Qc7 8. Be3
+Bxc3+ 9. bxc3 d6 10. f4 e5 11. fxe5 dxe5 12. Nb3 Bg4 13. Qc2 Nbd7 14. c5 Be6
+15. c4 O-O 16. h3 a5 17. a4 Nb8 18. O-O Nfd7 19. Qf2 Na6 20. Rab1 Rfc8 21. Rfc1
+Rab8 22. Kh2 Naxc5 23. Nxc5 Nxc5 24. Bxc5 Qxc5 25. Qxc5 Rxc5 26. Rb5 Rxb5 27.
+axb5 Kf8 28. Kg3 Ke7 29. Kf3 Ra8 30. Bb1 a4 31. Ke3 b6 32. Kd3 Rd8+ 33. Ke3 Rd4
+34. c5 Rb4 35. Bd3 bxc5 36. Rxc5 a3 37. Rc7+ Kd8 38. Ra7 a2 39. Kd2 Rb1 40. b6
+a1=Q 0-1

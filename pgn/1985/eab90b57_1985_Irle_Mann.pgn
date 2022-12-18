@@ -1,0 +1,21 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Irle"]
+[Black "Mann"]
+[Result "0-1"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[HashCode "eab90b57"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Be2 O-O 6. g4 c5 7. d5 e6 8. g5
+Ne8 9. h4 exd5 10. cxd5 f5 11. gxf6 Qxf6 12. Be3 b5 13. Bxb5 Ba6 14. Bxa6
+Nxa6 15. Qe2 Nec7 16. f4 Rab8 17. Nf3 c4 18. e5 dxe5 19. Nxe5 Qf5 20. d6
+Bxe5 21. fxe5 Nb4 22. dxc7 Nd3+ 23. Kd1 Rxb2 24. Bd2 Nf2+ 25. Ke1 Nxh1 26.
+Nd5 Qe6 27. Qxc4 Kg7 28. Qd4 Ng3 29. Nf4 Qa6 30. e6+ Kg8 31. Kd1 Qf1+ 32.
+Be1 Re2 33. Qb4 Rxe1+ 34. Qxe1 Qxf4 35. Qc3 Qd6+ 36. Kc2 Rc8 37. e7 Qxe7
+38. Qxg3 Rxc7+ 39. Kd2 Rd7+ 40. Kc2 Qe2+ 0-1
+

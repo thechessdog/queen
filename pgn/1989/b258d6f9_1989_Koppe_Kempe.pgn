@@ -1,0 +1,21 @@
+[Event "corr ch-DDR"]
+[Site "corr ch-DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Koppe"]
+[Black "Kempe"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "b258d6f9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 dxc6 7. Nd2 e5
+8. O-O Ne7 9. Nc4 Ng6 10. Be3 Be6 11. Nb6 Rb8 12. Qd2 Bd6 13. a4 O-O 14. a5
+Qe7 15. Rfd1 Rbd8 16. Qe1 Bb4 17. c3 Bc5 18. Bc2 Nf4 19. b4 Bxe3 20. fxe3
+Nh5 21. Rxd8 Rxd8 22. Rd1 Rxd1 23. Qxd1 Nf6 24. h3 g5 25. Kh2 g4 26. Qe1 h5
+27. c4 gxh3 28. gxh3 h4 29. Qxh4 Ng4+ 30. Kg3 Qxh4+ 31. Kxh4 Nxe3 32. Bd3
+Nd1 33. Kg3 Nc3 34. h4 Kg7 35. Kf2 Nd1+ 36. Ke1 Ne3 37. Kf2 Ng4+ 38. Kg3
+Nf6 39. Na4 Nd7 1/2-1/2
+

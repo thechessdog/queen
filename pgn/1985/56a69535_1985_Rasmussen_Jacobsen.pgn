@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Rasmussen, Karsten"]
+[Black "Jacobsen, Bo"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[HashCode "56a69535"]
+[Epoch "Queen"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+[WhiteID "1400088"]
+[WhiteCountry "DEN"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 Nf6 4. e4 d6 5. Ne2 O-O 6. O-O e5 7. c4 c6 8. Nbc3
+Nbd7 9. h3 Qb6 10. Be3 exd4 11. Bxd4 Qc7 12. b3 Re8 13. Qc2 Nc5 14. Rad1 Qe7
+15. f3 Bh6 16. Rfe1 a5 17. Bf2 Nh5 18. f4 Bd7 19. Qd2 1-0

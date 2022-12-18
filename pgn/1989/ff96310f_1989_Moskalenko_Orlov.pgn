@@ -1,0 +1,22 @@
+[Event "Leningrad-chT"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moskalenko, Viktor"]
+[Black "Orlov, Georgi"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "ff96310f"]
+[Epoch "Queen"]
+[WhiteID "14100100"]
+[WhiteCountry "ESP"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. cxd5 cxd5 6. Bf4 Ne4 7. e3 Nc6 8.
+Nxe4 dxe4 9. Nd2 e5 10. dxe5 Qa5 11. Bc4 Nxe5 12. O-O Nxc4 13. Nxc4 Qb4 14. Rc1
+Be6 15. Nd6+ Bxd6 16. Bxd6 Qxb2 17. Rc7 Qf6 18. Rxb7 Rd8 19. Qa4+ Bd7 20. Qxa6
+h5 21. Rc1 Qe6 22. Rb6 Qd5 23. Qa3 f6 24. Qb4 Rc8 25. Rxc8+ Bxc8 26. h4 Kf7 27.
+Qb3 Be6 28. Rb7+ Kg6 29. Qxd5 Bxd5 30. Rb2 Rc8 31. a3 Rc1+ 32. Kh2 Kf7 33. Kg3
+Ra1 34. Rb5 Ke6 35. Rb6 Kf5 36. Bf8 g5 37. Be7 gxh4+ 38. Kxh4 Rh1+ 39. Kg3 h4#
+0-1

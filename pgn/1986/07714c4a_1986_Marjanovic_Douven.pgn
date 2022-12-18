@@ -1,0 +1,22 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1986.07.01"]
+[Round "2"]
+[White "Marjanovic, Slavoljub"]
+[Black "Douven, Rudy"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "07714c4a"]
+[Epoch "Queen"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+[BlackID "1000195"]
+[BlackCountry "NED"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8. Nf3
+Nd7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Ngf6 12. Bd2 Qc7 13. Qe2 c5 14. dxc5 Bxc5
+15. O-O-O Rc8 16. Kb1 O-O 17. Bc1 Bd6 18. Rh4 Rfd8 19. c4 a6 20. b3 b5 21. cxb5
+Nd5 22. Bb2 Ba3 23. Qc4 Qa5 24. Qd4 Bxb2 25. Kxb2 Nc3 26. a4 Nxd1+ 27. Qxd1 Nc5
+0-1

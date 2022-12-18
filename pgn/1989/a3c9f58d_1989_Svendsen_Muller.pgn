@@ -1,0 +1,16 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Svendsen, T."]
+[Black "Muller, F."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, Zukertort variation"]
+[HashCode "a3c9f58d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 d6 4. d4 exd4 5. Qxd4 Qf6 6. Nd5 Qf7 7. Ng5 Qd7
+8. Ne6 c6 9. Ndc7+ Kf7 10. Bc4 d5 11. exd5 c5 12. Qe5 1-0
+

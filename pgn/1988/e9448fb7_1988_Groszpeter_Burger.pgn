@@ -1,0 +1,19 @@
+[Event "New York open"]
+[Site "New York open"]
+[Date "1988.04.01"]
+[Round "1"]
+[White "Groszpeter, Attila"]
+[Black "Burger, Karl"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "e9448fb7"]
+[Epoch "Queen"]
+[WhiteID "700053"]
+[WhiteCountry "HUN"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 d5 7. O-O Be7 8. cxd5
+exd5 9. Qc2 O-O 10. Ne5 c5 11. dxc5 bxc5 12. Ndc4 Nc6 13. Nxc6 Bxc6 14. Bg5 Nd7
+15. Bxe7 Qxe7 16. Na5 Bb5 17. Bxd5 Rae8 18. Rfe1 Bxe2 19. Bc6 1-0

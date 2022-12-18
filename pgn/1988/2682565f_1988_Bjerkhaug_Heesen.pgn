@@ -1,0 +1,20 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bjerkhaug, R."]
+[Black "Heesen, J."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "2682565f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. Qe2
+Bg4 9. Nbd2 Qe7 10. Qf2 Bf5 11. hxg5 hxg5 12. Rxh8 Bxh8 13. Nxg5 Qxg5 14.
+exf5 Qxf5 15. Nf1 Qe4+ 16. Qe2 Qxe2+ 17. Kxe2 Bxd4 18. cxd4 Nxd4+ 19. Kf2
+Ne6 20. Kf3 Ne7 21. Bxf4 Nxf4 22. Kxf4 d5 23. Bd3 Rd8 24. Rc1 c6 25. Nd2
+Kd7 26. g4 Rh8 27. Nf3 f6 28. b4 Kd6 29. Nd4 Rh3 30. Nf5+ Nxf5 31. Bxf5 a5
+32. bxa5 Ra3 33. Bb1 Rxa5 34. Kf5 d4+ 35. Kxf6 Ra8 36. Kf7 c5 37. g5 1-0
+

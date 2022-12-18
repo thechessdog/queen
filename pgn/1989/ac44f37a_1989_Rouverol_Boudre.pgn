@@ -1,0 +1,21 @@
+[Event "Uzes op"]
+[Site "Uzes"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Rouverol, Guy"]
+[Black "Boudre, Jean-Pierre"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "ac44f37a"]
+[Epoch "Queen"]
+[WhiteID "607428"]
+[WhiteCountry "FRA"]
+[BlackID "600237"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. c3 d5 10. exd5 Nxd5 11. d3 Bf6 12. axb5 axb5 13. Rxa8 Bxa8 14. Bc2 b4
+15. d4 exd4 16. cxd4 Re8 17. Rxe8+ Qxe8 18. Bg5 Nxd4 19. Bxf6 Nxf3+ 20. gxf3
+Nxf6 0-1

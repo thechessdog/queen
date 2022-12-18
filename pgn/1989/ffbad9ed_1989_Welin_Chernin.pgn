@@ -1,0 +1,21 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "9"]
+[White "Welin, Thomas"]
+[Black "Chernin, Alexander"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "ffbad9ed"]
+[Epoch "Queen"]
+[WhiteID "1700324"]
+[WhiteCountry "SWE"]
+[BlackID "715620"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5 7. e4 cxd4 8. Nxd4
+Bc5 9. Nb5 a6 10. Nc3 Qc7 11. Qe2 Be7 12. O-O d6 13. a4 Nc6 14. b3 O-O 15. Bb2
+Nd7 16. Rac1 Nc5 17. Qe3 Rfe8 18. Ba3 Bf6 19. b4 Bd4 20. Qe2 Bxc3 21. Rxc3 Nxa4
+22. Rcc1 a5 23. b5 Nd4 24. Qe3 e5 0-1

@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Orlov, Georgi"]
+[Black "Glek, Igor"]
+[Result "0-1"]
+[ECO "A04"]
+[Opening "Reti"]
+[Variation "Pirc-Lisitsin gambit"]
+[HashCode "25de6a42"]
+[Epoch "Queen"]
+[BlackID "4100484"]
+[BlackCountry "GER"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 d5 4. d3 e3 5. fxe3 e5 6. e4 Nf6 7. Be2 Bc5 8. exd5
+Nxd5 9. Ne4 O-O 10. Nxc5 Qh4+ 11. g3 Qb4+ 12. Nc3 Nxc3 13. Qd2 Qxc5 14. Qxc3
+Qf2+ 15. Kd1 Nc6 16. Qc4+ Kh8 17. Qe4 Nd4 18. c3 Bf5 19. Qe3 Qg2 20. Re1 Nxe2
+21. Qxe2 Qd5 22. Be3 Bxd3 23. Qd2 Qf3+ 24. Kc1 Rad8 25. b3 Bb5 26. Qc2 Rd3 27.
+Bd2 Rfd8 28. Rd1 e4 0-1

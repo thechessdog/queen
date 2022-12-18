@@ -1,0 +1,17 @@
+[Event "corr DDR thematic"]
+[Site "corr DDR thematic"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kasper, P."]
+[Black "Leisebein"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "68dad2e7"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Be6 5. Bxe6 fxe6 6. d4 Qf6 7. e5 dxe5
+8. dxe5 Qf5 9. Qd4 g5 10. O-O Nc6 11. Qa4 Bc5+ 12. Kh1 O-O-O 13. Qc4 Bb6
+14. Nxg5 Qxg5 15. Qxe6+ Kb8 16. Na3 Qxe5 17. Qxe5 Nxe5 18. Bxf4 Ng6 0-1
+

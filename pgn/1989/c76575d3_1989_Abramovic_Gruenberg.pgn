@@ -1,0 +1,19 @@
+[Event "Lasker mem"]
+[Site "Berlijn"]
+[Date "1989.??.??"]
+[Round "11"]
+[White "Abramovic, Bosko"]
+[Black "Gruenberg, Hans-Ulrich"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "c76575d3"]
+[Epoch "Queen"]
+[BlackID "4611306"]
+[BlackCountry "GER"]
+[WhiteID "900206"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. Bf2 Nec6 11. Nxd4 1/2-1/2

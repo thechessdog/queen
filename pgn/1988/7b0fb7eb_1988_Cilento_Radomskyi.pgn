@@ -1,0 +1,18 @@
+[Event "New Jersey"]
+[Site "New Jersey"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Cilento"]
+[Black "Radomskyi"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "7b0fb7eb"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. d4 cxd4 5. cxd4 exd4 6. Nxd4 Qa5+ 7. Nc3
+Bb4 8. Ne2 Nf6 9. Bd2 Qe5 10. Qc2 O-O 11. f4 Qe6 12. f5 Qe5 13. O-O-O Bxc3
+14. Nxc3 d5 15. exd5 Bxf5 16. Qb3 Nd4 17. Qb4 a5 18. Qb6 Rfc8 19. d6 Nd5
+20. Qxb7 Qe4 0-1
+

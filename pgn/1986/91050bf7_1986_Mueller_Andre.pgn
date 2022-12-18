@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Mueller, F."]
+[Black "Andre, K."]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "91050bf7"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Bd7 8. e3 Nf6 9. Qd1 Bc5 10. Nf3 Qe7 11. Be2 O-O-O 12. O-O g5 13. b4 Bxb4
+14. Qb3 Na5 15. Nd5 Nxd5 16. Qxd5 g4 17. Nd4 Nc6 18. Bb2 Be6 19. Nxc6 Bxd5
+20. Nxe7+ Bxe7 21. Bxg4+ Kb8 22. Bxh8 Rxh8 23. a4 Rg8 24. f3 Bc5 25. Kf2 b6
+26. Rad1 Bc6 27. Bd7 1-0
+

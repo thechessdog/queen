@@ -1,0 +1,20 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1987.04.01"]
+[Round "10"]
+[White "Hustert, Dirk"]
+[Black "Altrock, Rainer"]
+[Result "1-0"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "fdafc89a"]
+[Epoch "Queen"]
+[BlackID "4667310"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. f4 c4 13. e5 dxe5 14. Nxc4 e4 15. Be3
+Rb8 16. Qb3 b6 17. Nd6 Re7 18. Rac1 Bb7 19. Nxb7 Rxb7 20. Bxa6 Rb8 21. Qd1 Nc5
+22. Bb5 Ne8 23. a5 Nd6 24. axb6 Nxb5 25. Bxc5 Nxc3 26. bxc3 Rd7 27. c4 f5 28.
+Be3 Ra8 29. Qb3 Bf8 30. c5 1-0

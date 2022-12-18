@@ -1,0 +1,28 @@
+[Event "Bohemians"]
+[Site "Prague"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Prandstetter, Eduard"]
+[Black "Pekarek, Ales"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "07c6d0e2"]
+[Epoch "Queen"]
+[WhiteID "300225"]
+[WhiteCountry "CZE"]
+[BlackID "300080"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be2 Qc7 7. f4 Nxd4 8.
+Qxd4 b5 9. Be3 Bb7 10. O-O Rc8 11. Rad1 Nf6 12. e5 Nd5 13. Nxd5 Bxd5 14. Bf3
+Bc5 15. Qxc5 Qxc5 16. Bxc5 Bxf3 17. Rxf3 Rxc5 18. c3 Ke7 19. Rfd3 Rd8 20. Rd6
+g5 21. Rxa6 gxf4 22. Rf1 Rxe5 23. Rxf4 Rd5 24. h3 Rc8 25. a4 Rc4 26. Rxc4 bxc4
+27. Rb6 Ra5 28. Rb4 d5 29. Kf2 Kf6 30. Ke3 Ke5 31. Rb7 f5 32. Rxh7 Rxa4 33. g4
+Ra1 34. gxf5 Kxf5 35. Kd2 Rh1 36. h4 Rh2+ 37. Kc1 e5 38. h5 Ke4 39. Kb1 Kd3 40.
+Rd7 d4 41. cxd4 e4 42. d5 Rxh5 43. d6 Rd5 44. Re7 Rxd6 45. Kc1 Rf6 46. Rd7+ Ke2
+47. Rd2+ Kf3 48. Rh2 e3 49. Kd1 Rg6 50. Rh3+ Rg3 51. Rh8 Rg1+ 52. Kc2 e2 53.
+Rf8+ Kg2 54. Rg8+ Kf2 55. Rf8+ Ke1 56. Kc3 Kd1 57. Re8 e1=Q+ 58. Rxe1+ Rxe1 59.
+Kxc4 Kc2 60. b4 Re4+ 61. Kc5 Kb3 62. b5 Ka4 63. b6 Ka5 64. b7 Re8 65. Kc6 Ka6
+66. Kc7 Ka7 0-1

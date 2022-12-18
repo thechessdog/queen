@@ -1,0 +1,16 @@
+[Event "corr BDG"]
+[Site "corr BDG"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Grant"]
+[Black "Clauser"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "c91f7971"]
+[Epoch "Queen"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 Nbd7 5. f3 exf3 6. Nxf3 g6 7. Bc4 Bg7
+8. O-O O-O 9. Ne5 c5 10. Nxf7 Rxf7 11. dxc5 Qe8 12. Nb5 Qd8 13. Bxf6 Bxf6
+14. Bxf7+ Kxf7 15. Qd5+ Kg7 16. Rad1 Qa5 17. c6 bxc6 0-1
+

@@ -1,0 +1,18 @@
+[Event "Varna"]
+[Site "Varna"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Angelov"]
+[Black "Basagic, Zlatko"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "48c76873"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 cxd5 5. fxe5 d4 6. Ne4 Qd5 7. d3 Nc6 8.
+Nf3 Nxe5 9. Bf4 Ng6 10. Bg3 Nh6 11. Qd2 f5 12. Qxh6 fxe4 13. Qg5 Bf5 14.
+Nxd4 Qxd4 15. Qxf5 Qxb2 16. dxe4 Qxa1+ 17. Kf2 Qd4+ 18. Kf3 Qc3+ 19. Kg4 a6
+20. Qe6+ Be7 0-1
+

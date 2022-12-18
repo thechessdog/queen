@@ -1,0 +1,16 @@
+[Event "Bermuda"]
+[Site "Bermuda"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Friedman, A."]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "662f2463"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5
+Nh5 9. Be4 f6 10. exf6 exf6 11. d5 f5 12. Bd3 Re8+ 13. Be2 Nd4 14. O-O Nxe2+
+15. Nxe2 b5 16. a4 b4 17. c4 Ba6 18. Qd3 Qe7 19. Nf4 Qc5+ 20. Rf2 Bxc4 0-1

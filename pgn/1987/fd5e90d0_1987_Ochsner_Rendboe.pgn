@@ -1,0 +1,21 @@
+[Event "Aarhus-D"]
+[Site "Aarhus"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Ochsner, Thomas"]
+[Black "Rendboe, John Filip"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "fd5e90d0"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1403664"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. Qe2
+cxd4 9. cxd4 Nc6 10. Rd1 Nb4 11. Nc3 Qd6 12. Bb1 Nbd5 13. Ne5 b6 14. Bg5 Bb7
+15. Bd3 Rac8 16. Rac1 Rfd8 17. h3 h6 18. Bd2 Nb4 19. Bb1 Nbd5 20. Re1 Ba8 21.
+Nb5 Qb8 22. Nxf7 Rxc1 23. Bxc1 Re8 24. Qxe6 1-0

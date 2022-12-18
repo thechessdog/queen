@@ -1,0 +1,23 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zenden"]
+[Black "Van Kampen"]
+[Result "1-0"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "d61f3c10"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O c5 7. b3 O-O 8.
+Bb2 cxd4 9. exd4 d5 10. Nbd2 Nc6 11. a3 Rc8 12. Rc1 Re8 13. Re1 Bf8 14. Rc2
+Re7 15. Nb1 g6 16. Nc3 Bg7 17. Rd2 Na5 18. c5 bxc5 19. dxc5 d4 20. Ne4 Nxe4
+21. Bxe4 Bxe4 22. Rxe4 e5 23. Re1 Qd5 24. b4 Nc4 25. Qb3 Rd8 26. Rxd4 exd4
+27. Rxe7 Nxb2 28. Qxd5 Rxd5 29. Re8+ Bf8 30. c6 Nc4 31. c7 Nb6 32. Rd8 Rd6
+33. Nxd4 Kg7 34. a4 Be7 35. Rxd6 Bxd6 36. Nb5 Bxc7 37. Nxc7 Nxa4 38. Nb5 a6
+39. Nc7 Kf6 40. Kf1 Ke5 41. Ke2 Kd4 42. Nxa6 Nc3+ 43. Kf3 Kc4 44. Kf4 f6
+45. g4 h6 46. h4 Kb5 47. Nc7+ Kxb4 48. h5 gxh5 49. gxh5 Kc5 50. Ne8 Nd5+
+51. Kf5 1-0
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pussinen"]
+[Black "Blasczyk"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "53e787ec"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. Nf3 Bb4 5. e5 Bxc3+ 6. bxc3 Nge7 7. Bd3 O-O
+8. O-O Bd7 9. Bxh7+ Kxh7 10. Ng5+ Kg6 11. Qg4 1-0
+

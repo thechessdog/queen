@@ -1,0 +1,19 @@
+[Event "Saint John op-2"]
+[Site "Saint John"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Ross, Paul"]
+[Black "Finegold, Benjamin"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "68e7f3ac"]
+[Epoch "Queen"]
+[BlackID "2000261"]
+[BlackCountry "USA"]
+[WhiteID "2600420"]
+[WhiteCountry "CAN"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Qa4 Bxf3 5. exf3 dxc4 6. Be3 e6 7. Bxc4 Bb4+
+8. Nc3 Ne7 9. a3 1/2-1/2

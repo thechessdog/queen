@@ -1,0 +1,21 @@
+[Event "corr ch-DDR jr"]
+[Site "corr ch-DDR jr"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Becker"]
+[Black "Darnstadt"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "cd39626a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 a6 6. Bxc6 Nxc6 7. Bb2 b5
+8. e5 Be7 9. Re1 Qc7 10. Nc3 Nd4 11. Ne4 Nf5 12. g4 d5 13. Ng3 Nxg3 14.
+fxg3 d4 15. d3 Bb7 16. Bc1 Qc6 17. Kf2 O-O-O 18. g5 h6 19. gxh6 gxh6 20.
+Bf4 Rdg8 21. a4 Bg5 22. axb5 axb5 23. Qe2 Bxf4 24. gxf4 Rg4 25. Rg1 Rxf4
+26. Rg3 Rf8 27. Rf1 f6 28. exf6 R4xf6 29. Kg2 b4 30. Rh3 e5 31. Rg3 Rxf3
+32. Rgxf3 Rxf3 33. Rxf3 Qxf3+ 34. Qxf3 Bxf3+ 35. Kxf3 Kd7 36. Ke4 Ke6 37.
+h3 h5 38. h4 Kd6 0-1
+

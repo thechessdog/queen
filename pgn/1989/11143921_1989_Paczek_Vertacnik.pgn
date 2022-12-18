@@ -1,0 +1,24 @@
+[Event "Skelleftea"]
+[Site "Skelleftea"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Paczek"]
+[Black "Vertacnik"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Greco variation"]
+[HashCode "11143921"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Nxc3 9. bxc3 d5 10. cxb4 dxc4 11. Re1+ Ne7 12. Qe2 Bg4 13. b5
+Bxf3 14. gxf3 Kd7 15. Bg5 f6 16. Qe6+ Ke8 17. Bc1 Qd6 18. Ba3 Qxa3 19. Re3
+Qd6 20. Rae1 Kd8 21. Qxe7+ Qxe7 22. Rxe7 Rg8 23. Rf7 c3 24. Rc1 Rc8 25.
+Rxc3 h6 26. Re3 a6 27. bxa6 bxa6 28. Ree7 a5 29. Rd7+ Ke8 30. Rxc7 Rxc7 31.
+Rxc7 g5 32. Rc8+ Kf7 33. Rxg8 Kxg8 34. Kf1 Kf7 35. Ke2 Ke6 36. Kd3 Kd5 37.
+a4 f5 38. Kc3 h5 39. h3 g4 40. h4 f4 41. fxg4 hxg4 42. Kd3 g3 43. fxg3 fxg3
+44. Ke3 g2 45. Kf2 g1=Q+ 46. Kxg1 Kxd4 47. Kf2 Ke4 48. Ke2 Kf4 49. Kd3 Kg4
+50. Kc4 Kxh4 51. Kb5 Kg5 52. Kxa5 Kf6 53. Kb6 Ke7 54. a5 Kd8 55. a6 Kc8 56.
+a7 1-0
+

@@ -1,0 +1,24 @@
+[Event "Hillerod"]
+[Site "Hillerod"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Jensen, Flemming"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "bf5a9740"]
+[Epoch "Queen"]
+[BlackID "1425447"]
+[BlackCountry "DEN"]
+[WhiteCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 cxd4 5. cxd4 Nc6 6. Ngf3 Bb4 7. e5 Nge7 8. a3
+Qa5 9. Bd3 Ng6 10. O-O Bxd2 11. Bxd2 Qb6 12. Qa4 Bd7 13. Bb5 Ncxe5 14. Bxd7+
+Nxd7 15. Rac1 a6 16. Rc2 Qd6 17. Bb4 Qf4 18. Rfc1 Ne7 19. Bxe7 Kxe7 20. Rc7 b5
+21. Qb4+ Qd6 22. Ne5 Qxb4 23. Rxd7+ Ke8 24. axb4 f6 25. Rxg7 fxe5 26. dxe5 a5
+27. bxa5 Kd8 28. b4 Ra6 29. Rc5 Rf8 30. Rxb5 Rc6 31. Rb8+ Rc8 32. Rxc8+ Kxc8
+33. a6 Kb8 34. Re7 Rc8 35. Kf1 d4 36. Ke2 Rc2+ 37. Kd3 Rxf2 38. Kxd4 Rxg2 39.
+Rxh7 Rd2+ 40. Kc5 Rd5+ 41. Kb6 Rd8 42. b5 Ka8 43. Kc6 Rc8+ 44. Rc7 Rd8 45. b6
+Rh8 46. b7+ Ka7 47. Rc8 Rxc8+ 48. bxc8=R 1-0

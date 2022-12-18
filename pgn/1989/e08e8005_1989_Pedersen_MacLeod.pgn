@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pedersen, J."]
+[Black "MacLeod, D."]
+[Result "0-1"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[HashCode "e08e8005"]
+[Epoch "Queen"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Nf6 12. Nd3 h6 13. h4 c6 14. Be3 Kh8 15.
+Kg2 b5 16. c5 fxe4 17. fxe4 cxd5 18. cxd6 Qxd6 19. Nxb5 Qb8 20. Bc5 Nxe4
+21. Bxe7 Rxf1 22. Qxf1 Qxb5 23. Qf7 Bxg4 24. Nf4 Qxb2 25. Rb1 Bf3+ 26. Kxf3
+Qxb1 27. Nxg6+ Kh7 28. Nxe5 Qh1+ 29. Ke3 Qg1+ 30. Kd3 Qg3+ 31. Nf3 Rc8 32.
+Qxd5 Rc3+ 0-1
+

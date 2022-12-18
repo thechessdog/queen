@@ -1,0 +1,18 @@
+[Event "NWC September"]
+[Site "NWC September"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ryan, Mark"]
+[Black "Salmon, Neil V."]
+[Result "0-1"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[HashCode "6786a69d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. O-O
+O-O 9. Be3 b5 10. f4 Bb7 11. a3 Nxe4 12. Nxe4 Bxe4 13. Qg4 Nd7 14. Nxe6 fxe6
+15. Qxe6+ Kh8 16. Qxe4 Nc5 17. Qd5 Nxb3 18. Qxb3 Qd7 19. Qd5 Rac8 20. c3 Rf5
+21. Qd3 Qe6 22. Rfe1 Qf7 23. a4 Rd5 24. Qe4 Bf8 25. Bd4 Rf5 26. g3 Rh5 27. axb5
+axb5 28. Ra7 Qf5 29. Qb7 Qg4 30. Qf7 Rf5 31. Qd7 Rxf4 32. Qxg4 Rxg4 33. Kf2 0-1

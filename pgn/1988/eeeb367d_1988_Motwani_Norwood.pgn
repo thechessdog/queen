@@ -1,0 +1,20 @@
+[Event "Blackpool ch-BCF"]
+[Site "Blackpool ch-BCF"]
+[Date "1988.08.01"]
+[Round "1"]
+[White "Motwani, Paul"]
+[Black "Norwood, David R"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical, h3 system"]
+[HashCode "eeeb367d"]
+[Epoch "Queen"]
+[WhiteID "2400022"]
+[WhiteCountry "SCO"]
+[BlackID "400106"]
+[BlackCountry "AND"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 O-O 6. Be3 c6 7. a4 Nbd7 8. a5
+Rb8 9. Be2 b5 10. axb6 axb6 11. O-O b5 12. e5 Ne8 13. Qc1 dxe5 14. dxe5 Nc7 15.
+Rd1 Ne6 1/2-1/2

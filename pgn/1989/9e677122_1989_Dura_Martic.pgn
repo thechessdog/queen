@@ -1,0 +1,18 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dura"]
+[Black "Martic"]
+[Result "0-1"]
+[ECO "A77"]
+[Opening "Benoni"]
+[Variation "classical, 9...Re8, 10.Nd2"]
+[HashCode "9e677122"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8.
+Be2 O-O 9. O-O Re8 10. Nd2 Nbd7 11. f4 a6 12. a4 Rb8 13. Qc2 Nb6 14. h3
+Nfxd5 15. exd5 Bxc3 16. bxc3 Rxe2 17. a5 Bxh3 18. Rf2 Rxf2 19. Kxf2 Bf5 20.
+Qb3 Qh4+ 0-1
+

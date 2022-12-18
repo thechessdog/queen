@@ -1,0 +1,18 @@
+[Event "BL2-SW8889"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Krug, G."]
+[Black "Plewe, Till"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, 6...Ne7"]
+[HashCode "771ba090"]
+[Epoch "Queen"]
+[BlackID "4608607"]
+[BlackCountry "GER"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. h4 Nbc6 8. h5
+Qa5 9. Bd2 Bd7 10. h6 gxh6 11. Nf3 Qa4 12. Rb1 O-O-O 13. Bb5 Qxa3 14. Ra1 Qb2
+15. Rb1 Qa3 1/2-1/2

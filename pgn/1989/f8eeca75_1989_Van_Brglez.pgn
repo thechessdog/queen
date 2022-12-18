@@ -1,0 +1,16 @@
+[Event "corr Blass mem"]
+[Site "corr Blass mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Manen"]
+[Black "Brglez, Rado"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "f8eeca75"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 h6 6. Bh4 c5 7. e3 cxd4 8. exd4
+b6 9. Nf3 Bb7 10. Be2 Be7 11. O-O d5 12. Bxf6 Bxf6 13. cxd5 exd5 14. Qf5 g6 15.
+Qf4 Bg7 16. Ne5 Nc6 17. Bf3 1/2-1/2

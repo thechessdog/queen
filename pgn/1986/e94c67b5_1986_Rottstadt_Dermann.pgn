@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Rottstaedt, Werner"]
+[Black "Dermann, Guido"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "e94c67b5"]
+[Epoch "Queen"]
+[BlackID "4602501"]
+[BlackCountry "GER"]
+[WhiteID "4605543"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 d5 7. Qa4+ Nbd7 8. Ne5
+O-O 9. Nc6 Qe8 10. Nc3 Nb8 11. Nxe7+ Qxe7 12. Bg5 c6 13. e4 h6 14. Bxf6 Qxf6
+15. exd5 cxd5 16. cxd5 Rd8 17. dxe6 Bxg2 18. exf7+ Kxf7 19. Kxg2 Rxd4 20. Qb3+
+Kf8 21. Nb5 Rd7 22. Rad1 Rf7 23. Nd6 Re7 24. Rd3 Qe6 25. Rf3+ Kg8 26. Nf5 Re8
+27. Re1 1-0

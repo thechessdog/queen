@@ -1,0 +1,25 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ramik, Zdenek"]
+[Black "Bakalar, Petr"]
+[Result "0-1"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "e9fb3e66"]
+[Epoch "Queen"]
+[WhiteID "303526"]
+[BlackID "300594"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. Nh3 e6 8. O-O
+Ne7 9. Qd2 Rb8 10. Nd1 b5 11. c3 Ndc6 12. Bh6 O-O 13. Bxg7 Kxg7 14. f4 d5 15.
+Ndf2 f6 16. Qe2 b4 17. Ng4 bxc3 18. bxc3 Qa5 19. Rac1 dxe4 20. Bxe4 Nd5 21. Qd2
+h5 22. Ne3 Nxe3 23. Qxe3 Ne7 24. Rc2 Nd5 25. Qd2 Bd7 26. f5 Ne7 27. fxg6 e5 28.
+Nf2 f5 29. Qg5 Nxg6 30. Bf3 Qd8 31. Qe3 h4 32. Bh5 f4 33. gxf4 Rxf4 34. Bxg6
+Kxg6 35. Qxe5 Rf5 36. Qe3 Qg5+ 37. Qxg5+ Rxg5+ 38. Kh1 c4 39. Rg1 Bc6+ 40. Ne4
+Rxg1+ 41. Kxg1 cxd3 42. Rg2+ Kh6 43. Rg4 Rb1+ 44. Kf2 Bxe4 45. Rxh4+ Kg5 46.
+Rxe4 d2 0-1

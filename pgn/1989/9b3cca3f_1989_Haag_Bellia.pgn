@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haag, Ervin"]
+[Black "Bellia, Fabrizio"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "9b3cca3f"]
+[Epoch "Queen"]
+[WhiteID "700398"]
+[BlackID "800511"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. Nf1
+O-O 9. Ng3 b5 10. Bc2 d5 11. O-O h6 12. Be3 Bg4 13. h3 Bxf3 14. Qxf3 d4 15. Bd2
+Nh7 16. Ne2 Ng5 17. Bxg5 1/2-1/2

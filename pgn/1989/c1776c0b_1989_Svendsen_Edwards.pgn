@@ -1,0 +1,16 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Svendsen"]
+[Black "Edwards"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "c1776c0b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qg6 7. Qe2 Nf6
+8. Be3 Nc6 9. O-O-O d5 10. Ne5 Nxe5 11. dxe5 Nd7 12. Nxd5 Qc6 13. e6 Nb6
+14. Bxb6 axb6 15. Qh5+ g6 16. Qe5 1-0
+

@@ -1,0 +1,23 @@
+[Event "France"]
+[Site "France"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Juglard, E."]
+[Black "Alet, Jean"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "e66f6c71"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. f3 h6 5. Bh4 c5 6. e4 dxe4 7. dxc5 Qa5
+8. Bb5 a6 9. Ba4 Qxc5 10. Bxf6 exf6 11. Nxe4 Qe5 12. Qe2 f5 13. Nc3 b5 14.
+Bb3 Bb4 15. Qxe5+ Nxe5 16. Ne2 O-O 17. O-O-O Ra7 18. Nd5 Bc5 19. Nef4 a5
+20. Rhe1 a4 21. Rxe5 axb3 22. axb3 Bd6 23. Re2 Kh8 24. Rde1 Bd7 25. h4 Rd8
+26. c3 Kh7 27. h5 Bc6 28. Kc2 Bc5 29. Ne7 Be4+ 30. fxe4 Bxe7 31. exf5 Bg5
+32. g3 Rad7 33. b4 Bxf4 34. gxf4 Rd3 35. Rg2 Rh3 36. Reg1 Rg8 37. f6 g6 38.
+hxg6+ Rxg6 39. f5 Rxg2+ 40. Rxg2 Rf3 41. Rg7+ Kh8 42. Rxf7 h5 43. Rf8+ Kh7
+44. f7 Rxf5 45. Rb8 Rxf7 46. Rxb5 Kg6 47. Re5 h4 48. b5 Rf5 49. Rxf5 Kxf5
+50. b6 h3 51. b7 h2 52. b8=Q h1=Q 53. Qd6 Qa1 54. c4 Qa4+ 55. Kc3 Qa5+ 56.
+Kb3 Kg4 57. Qd4+ 1-0
+

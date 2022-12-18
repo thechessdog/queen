@@ -1,0 +1,18 @@
+[Event "Regionalliga NordS"]
+[Site "Zehlendorf"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rust Lux, Klaus"]
+[Black "Behrmann, Joachim"]
+[Result "1/2-1/2"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[HashCode "9c7627e8"]
+[Epoch "Queen"]
+[BlackID "4607589"]
+[BlackCountry "GER"]
+
+1. c4 Nf6 2. d4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Na5 11. Bd3 b6 12. Qd2 cxd4 13. cxd4 e6 14. Bg5 Qd7
+15. Qe3 Bb7 16. Rac1 Rac8 17. h4 Nc6 1/2-1/2

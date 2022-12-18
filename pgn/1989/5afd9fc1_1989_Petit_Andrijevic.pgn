@@ -1,0 +1,22 @@
+[Event "Cannes"]
+[Site "Cannes"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Petit, Eric"]
+[Black "Andrijevic, Milan"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "5afd9fc1"]
+[Epoch "Queen"]
+[WhiteID "600946"]
+[BlackID "901598"]
+[WhiteCountry "FRA"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. g3 Ne7 6. Bg2 O-O 7. O-O f5 8. exd5
+cxd5 9. c4 dxc4 10. Nxc4 Nbc6 11. Re1 Ng6 12. Bd2 f4 13. Bc3 fxg3 14. hxg3 Bc5
+15. Ncxe5 Ncxe5 16. Bxe5 Bg4 17. Qb3+ Kh8 18. d4 Nxe5 19. Nxe5 Qxd4 20. Nf7+
+Rxf7 21. Qxf7 Rf8 22. Re8 Qxf2+ 23. Qxf2 Bxf2+ 24. Kf1 Rxe8 25. Kxf2 Re2+ 26.
+Kg1 Rxb2 27. Rf1 g6 28. Rf7 Be6 29. Re7 Bxa2 30. Bxb7 a5 31. Bf3 Rb3 0-1

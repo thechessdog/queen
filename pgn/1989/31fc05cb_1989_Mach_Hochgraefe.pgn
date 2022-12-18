@@ -1,0 +1,20 @@
+[Event "Hamburg-chJ-A"]
+[Site "Hamburg"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Mach, Holger, Dr."]
+[Black "Hochgraefe, Markus, Dr."]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "31fc05cb"]
+[Epoch "Queen"]
+[WhiteID "4610130"]
+[BlackID "4615484"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxf7 Qe7 7. Nxh8 Nc3+
+8. Kd2 Nxd1 9. Bxh7 Nxf2 10. Re1 Ne4+ 11. Rxe4 dxe4 12. Bg6+ Kd8 13. Nf7+ Ke8
+14. Ne5+ 1/2-1/2

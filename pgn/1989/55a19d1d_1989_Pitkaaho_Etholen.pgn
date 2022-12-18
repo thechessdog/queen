@@ -1,0 +1,24 @@
+[Event "corr SF"]
+[Site "corr SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Pitkaaho"]
+[Black "Etholen"]
+[Result "0-1"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Petrosian system, Stein variation"]
+[HashCode "55a19d1d"]
+[Epoch "Queen"]
+
+1. c4 g6 2. d4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 a5 8. O-O
+Na6 9. Bg5 h6 10. Bh4 Qe8 11. h3 Bd7 12. Qd2 Kh7 13. g4 Nc5 14. Qc2 Qc8 15.
+Bg3 Rh8 16. Nh4 Bf8 17. a3 Be7 18. Ng2 Kg7 19. f4 exf4 20. Bxf4 g5 21. Be3
+h5 22. Bxg5 hxg4 23. h4 Ng8 24. Bxe7 Nxe7 25. Nb5 Ng6 26. Qc3+ Ne5 27. Qe3
+Rh5 28. Qf4 f5 29. exf5 Rxf5 30. Qe3 Bxb5 31. cxb5 Rxf1+ 32. Rxf1 Qd7 33.
+Qg5+ Kh8 34. Rf6 Qg7 35. Qh5+ Kg8 36. Rf5 Ne4 37. Kh2 Nf6 38. Qg5 Qxg5 39.
+Rxg5+ Kf7 40. Nf4 Rh8 41. h5 Ne4 42. Rf5+ Ke8 43. Nd3 Nf3+ 44. Bxf3 gxf3
+45. Kh3 f2 46. Nxf2 Nxf2+ 47. Rxf2 Rxh5+ 48. Kg4 Rxd5 49. a4 Rd4+ 50. Rf4
+Rxf4+ 51. Kxf4 Ke7 52. Ke4 Ke6 53. Kd4 d5 54. b3 Kd6 55. Ke3 Kc5 56. Kd3 c6
+57. bxc6 bxc6 58. Kc3 d4+ 0-1
+

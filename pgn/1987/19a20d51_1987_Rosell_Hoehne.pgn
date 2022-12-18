@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Rosell"]
+[Black "Hoehne"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "19a20d51"]
+[Epoch "Queen"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. d4 Nxd5 6. Nc3 e6 7. Nf3 a6
+8. Bc4 Bb4 9. Qb3 Nc6 10. Bxd5 exd5 11. O-O Be6 12. Bf4 O-O 13. Ne5 Be7 14.
+Nxc6 bxc6 15. Na4 Bd6 16. Qg3 Bxf4 17. Qxf4 Rb8 18. Rac1 Rc8 19. Rc3 Bf5
+20. Qxf5 Re8 21. Re3 Rf8 22. b3 g6 23. Qd3 a5 24. Rfe1 Qd6 25. Nc5 1-0
+

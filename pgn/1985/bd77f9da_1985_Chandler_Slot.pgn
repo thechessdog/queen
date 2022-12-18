@@ -1,0 +1,18 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Chandler, C."]
+[Black "Slot, M."]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "bd77f9da"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8.
+Nc3 Bb7 9. Nxd5 exd5 10. e4 Bd6 11. exd5 O-O 12. Qg4 Re8 13. f4 Qc8 14. f5
+f6 15. Bh6 Re7 16. Nc6 Rf7 17. Rae1 Nd7 18. Bf4 Bxf4 19. Ne7+ Rxe7 20. Rxe7
+Qf8 21. Rxd7 Bd6 22. Re1 Bc8 23. Rde7 Bb7 24. R7e6 Rd8 25. Qh5 1-0
+

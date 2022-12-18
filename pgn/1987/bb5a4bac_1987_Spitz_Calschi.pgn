@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Spitz, P."]
+[Black "Calschi, M."]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "bb5a4bac"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 d5 5. exd5 Qxd5 6. Qe2 Ne7 7. Qxe5 O-O
+8. Qxd5 Nxd5 9. O-O Bd7 10. d4 Bd6 11. Nbd2 Rfe8 12. Nc4 Bf4 13. Bxf4 Nxf4
+14. Rae1 f6 15. Na5 Nxa5 16. Bxd7 Rxe1 17. Rxe1 Rd8 18. Bf5 g6 19. Bc2 1-0
+

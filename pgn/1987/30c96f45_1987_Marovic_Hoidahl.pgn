@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Marovic"]
+[Black "Hoidahl, Erik"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "30c96f45"]
+[Epoch "Queen"]
+[BlackID "1500805"]
+[BlackCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 dxe4 7. Bg5 Rg6 8.
+Bxf6 Qxf6 9. Qe3 Bd7 10. Ne2 Bc6 11. a3 Bxc3+ 12. Nxc3 Qg5 13. O-O-O Nd7 14.
+Kb1 O-O-O 15. Qe2 f5 16. h4 Qe7 17. d5 exd5 18. Nxd5 Bxd5 19. Rxd5 Rd6 20. Rxf5
+Nf6 21. g4 Rd1+ 22. Ka2 Qe6+ 23. c4 R8d2 24. Qe3 Nxg4 25. Rf8+ Kd7 26. Qg5 c5
+27. Rd8+ Kc7 1-0

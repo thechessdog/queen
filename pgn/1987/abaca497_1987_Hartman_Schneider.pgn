@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Hartman, Christer"]
+[Black "Schneider, Lars-Ake"]
+[Result "0-1"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[HashCode "abaca497"]
+[Epoch "Queen"]
+[WhiteID "1700448"]
+[WhiteCountry "SWE"]
+[BlackID "1700235"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Bd3 Qb6 13. Kb1 Qc5 14. f5 b4
+15. Ne2 a5 16. Nf4 a4 17. Rhe1 Ne5 18. fxe6 fxe6 19. Be2 O-O 20. Nd4 Qc8 21.
+Bb5 Bxb5 22. Nxb5 Nc4 23. Qd3 Kh8 24. Qh3 Rg8 25. Nxe6 b3 26. cxb3 axb3 27.
+axb3 Nxb2 28. Kxb2 Ra2+ 29. Kxa2 Qc2+ 30. Ka3 d5+ 31. Ka4 Ra8+ 32. Na7 Rxa7+
+33. Kb5 Rb7+ 34. Ka6 Qc6+ 35. Ka5 Qb5# 0-1

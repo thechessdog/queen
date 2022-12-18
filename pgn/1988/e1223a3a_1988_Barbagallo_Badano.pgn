@@ -1,0 +1,17 @@
+[Event "Imperia"]
+[Site "Imperia"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Barbagallo"]
+[Black "Badano"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "e1223a3a"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Qg4 Qxd4 6. O-O-O h5 7. Qg3 Bd6
+8. Bf4 Bxf4+ 9. Qxf4 Qb6 10. Qg5 Ne7 11. Qxg7 Rg8 12. Nxe4 Nd7 13. Rxd7
+Kxd7 14. Nf6+ Kd6 15. Nxg8 Qxf2 16. Nf3 Bd7 17. Qe5+ 1-0
+

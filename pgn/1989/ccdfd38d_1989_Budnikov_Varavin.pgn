@@ -1,0 +1,22 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Budnikov, A."]
+[Black "Varavin, Viktor"]
+[Result "1-0"]
+[ECO "A54"]
+[Opening "Old Indian"]
+[Variation "Ukrainian variation, 4.Nf3"]
+[HashCode "ccdfd38d"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 e4 5. Ng5 Qe7 6. h4 c6 7. Qc2 Bf5 8. f3 d5
+9. g4 Bd7 10. fxe4 dxe4 11. Ngxe4 Nxe4 12. Nxe4 Bxg4 13. Bf4 Qb4+ 14. Bd2 Qb6
+15. O-O-O Na6 16. Bh3 h5 17. Bxg4 hxg4 18. e3 Nb4 19. Qb3 a5 20. c5 Qc7 21. Ng5
+Qd7 22. Bxb4 axb4 23. e4 g6 24. d5 Bh6 25. dxc6 Qe7 26. Qd5 O-O 27. cxb7 Ra5
+28. Kb1 Rxc5 29. Qd7 Qe5 30. Qd6 Qxd6 31. Rxd6 Rb5 32. Rd7 Bxg5 33. hxg5 Kg7
+34. Rf1 g3 35. e5 g2 36. Rg1 Re8 37. Rxg2 Rexe5 38. Rf2 Rf5 39. Re2 b3 40. axb3
+Rxb3 41. Ka2 Rb6 42. Rg2 Ra5+ 43. Kb1 Rf5 44. Rc7 Rb4 45. Kc1 Rb6 46. Kd1 Rd5+
+47. Ke1 Re5+ 48. Kf1 Rf5+ 49. Ke1 Rfb5 50. Rf2 Rf5 51. Rxf5 gxf5 52. g6 Rxb2
+53. gxf7 1-0

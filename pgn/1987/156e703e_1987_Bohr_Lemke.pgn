@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Bohr, H."]
+[Black "Lemke, H."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "156e703e"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Qg4 Ne7 7. dxc5 Bxc3+ 8.
+bxc3 Nd7 9. Nf3 Qc7 10. Qxg7 Rg8 11. Qxh7 Nxe5 12. Qh5 Nxf3+ 13. Qxf3 Bd7
+14. Bf4 Qxc5 15. Be5 Nc6 16. Bf6 e5 17. Qe3 Qd6 18. Bh4 Rg4 0-1
+

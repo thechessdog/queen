@@ -1,0 +1,17 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Moll"]
+[Black "Reinke"]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "bd301d83"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Be3 Be6 9. O-O O-O 10. f4 Nc6 11. f5 Bd7 12. Qe1 Rc8 13. a3 Na5 14. Nxa5
+Qxa5 15. Bf3 Rfe8 16. g4 Bc6 17. g5 Nd7 18. f6 gxf6 19. Bh5 Rf8 20. Nd5 1-0
+

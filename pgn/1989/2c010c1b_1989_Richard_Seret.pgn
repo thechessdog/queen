@@ -1,0 +1,17 @@
+[Event "Frankrijk tt"]
+[Site "Frankrijk tt"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Richard, Alain"]
+[Black "Seret, Jean-Luc"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "2c010c1b"]
+[Epoch "Queen"]
+[BlackID "600210"]
+[BlackCountry "FRA"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8. dxe5
+dxe5 9. f5 gxf5 10. exf5 e4 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hauchard, Arnaud"]
+[Black "Laval, Hubert"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "25f20f30"]
+[Epoch "Queen"]
+[WhiteID "600113"]
+[WhiteCountry "FRA"]
+[BlackID "607746"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Nxd5 cxd5 13. Bh6 Qb6 14. Bxg7
+Kxg7 15. Qxd5 Qe3+ 16. Kb1 Bf5 17. Qd4+ Qxd4 18. Rxd4 e5 19. Rd1 e4 20. g4 Be6
+21. Bg2 e3 22. Rhe1 Rfe8 23. b3 f5 24. Rxe3 fxg4 25. fxg4 Bxg4 26. Rxe8 Rxe8
+27. Rd2 h5 28. Kb2 Re2 29. Rxe2 Bxe2 30. c4 Kf6 31. Kc3 g5 32. Kd4 Bg4 33. b4
+Be2 34. a4 Kf5 35. b5 Kf4 36. c5 Bg4 37. b6 1-0

@@ -1,0 +1,18 @@
+[Event "Milan tt"]
+[Site "Milan tt"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Arlandi"]
+[Black "Lanzani"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "b1dc19e0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Qd1 Bxd6 7. Nd2 Nc5
+8. Ngf3 Nc6 9. a3 Qe7 10. e3 O-O-O 11. b4 Nd3+ 12. Bxd3 Bxd3 13. Qb3 Bf4
+14. Bb2 Bxe3 15. fxe3 Qxe3+ 16. Kd1 Be2+ 17. Kc2 Rd3 18. Bc3 Rhd8 19. Rae1
+g5 20. b5 Rxd2+ 21. Nxd2 Rxd2+ 22. Kb1 Nd4 0-1
+

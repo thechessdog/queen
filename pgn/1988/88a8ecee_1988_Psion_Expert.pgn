@@ -1,0 +1,35 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Psion Atari 8mhz"]
+[Black "Expert 4mhz"]
+[Result "1-0"]
+[ECO "A47"]
+[Opening "Queen's Indian defence"]
+[HashCode "88a8ecee"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 b6 3. Nc3 d5 4. Bg5 Bf5 5. e3 c6 6. Bd3 Bxd3 7. cxd3 Nbd7
+8. e4 h6 9. Bf4 e6 10. O-O Bb4 11. Re1 O-O 12. Qb3 Qe7 13. a3 Bxc3 14. Qxc3
+c5 15. dxc5 Nxc5 16. e5 Nfd7 17. b4 Nb7 18. Qc7 Rab8 19. Rac1 Rfd8 20. Re2
+a5 21. Rb2 axb4 22. axb4 Qe8 23. Rbc2 Qf8 24. Bd2 Qe8 25. d4 Qe7 26. h3 Qe8
+27. Ne1 b5 28. Nd3 Nf8 29. Rc3 Ng6 30. Be3 Ne7 31. Nc5 Rdc8 32. Qd7 Qxd7
+33. Nxd7 Rxc3 34. Rxc3 Rc8 35. Rxc8+ Nxc8 36. Bd2 Ne7 37. g4 Nc6 38. Bc3
+Ne7 39. Nc5 Nxc5 40. bxc5 Kf8 41. f4 Ke8 42. Kf2 Kd7 43. Ke3 Kc6 44. Bd2
+Kd7 45. Kd3 Kc8 46. Kc3 Kc7 47. Be3 Kb7 48. Kb4 Kc6 49. Bf2 Ng6 50. Bg3 Nf8
+51. h4 g6 52. h5 Nh7 53. Bh4 Nf8 54. Bf6 gxh5 55. gxh5 Nd7 56. Ka5 Nb8 57.
+Bh4 Kb7 58. Kxb5 Nc6 59. Bf2 Ne7 60. Be1 Nf5 61. c6+ Kb8 62. Kc5 Kc7 63.
+Bc3 Ne7 64. Ba5+ Kb8 65. Be1 Nf5 66. Bd2 Kc7 67. Ba5+ Kc8 68. Bb6 Kb8 69.
+Kb5 Ng7 70. f5 Nxf5 71. Kc5 Kc8 72. Ba5 Kb8 73. Bc3 Kc7 74. Bb4 Ng3 75.
+Ba5+ Kb8 76. Be1 Nxh5 77. Bd2 Ng3 78. Bxh6 Kc7 79. Bg7 Ne4+ 80. Kb5 Nc3+
+81. Kc5 Ne2 82. Bf8 Kd8 83. Bh6 Kc7 84. Bd2 Ng3 85. Ba5+ Kc8 86. Be1 Nf1
+87. Kd6 Ne3 88. Bc3 Nf5+ 89. Kc5 Kc7 90. Be1 Ne3 91. Ba5+ Kc8 92. Bd2 Nc4
+93. Bb4 Kc7 94. Kb5 Ne3 95. Bd6+ Kc8 96. Be7 Nf5 97. Bc5 Kc7 98. Bb6+ Kb8
+99. Kc5 Kc8 100. Kb4 Kb8 101. Kb5 Ng7 102. Bc5 Kc8 103. Kb6 Nf5 104. c7 Ne3
+105. Kc6 Ng2 106. Be7 Nf4 107. Bg5 Ne2 108. Be3 Ng3 109. Bc1 Nf5 110. Bb2
+Ne7+ 111. Kb6 Ng6 112. Ba3 Nf4 113. Kc6 Nd3 114. Kd6 Nf4 115. Bb4 Ne2 116.
+Bc5 Nf4 117. Bb6 Nh3 118. Ke7 Nf4 119. Kf6 Kd7 120. Kxf7 Ne2 121. c8=R Kxc8
+122. Kxe6 Kb7 123. Bc5 Kc6 124. Kf7 Nc3 125. e6 Nb5 126. e7 Nc7 127. e8=Q+
+Nxe8 128. Kxe8 Kb7 129. Kd7 Kb8 130. Kc6 Kc8 131. Kxd5 1-0
+

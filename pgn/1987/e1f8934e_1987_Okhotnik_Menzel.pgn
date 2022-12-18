@@ -1,0 +1,20 @@
+[Event "HUN-ch op"]
+[Site "Eger"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Okhotnik, Vladimir"]
+[Black "Menzel, Ralf"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "e1f8934e"]
+[Epoch "Queen"]
+[WhiteID "14101289"]
+[WhiteCountry "FRA"]
+[BlackID "4607414"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Nc6 7. Be3 cxd4 8.
+Nb5 Qd7 9. Nbxd4 Nxd4 10. Bxd4 Bd6 11. Ne5 Qc7 12. Bb5+ Ke7 13. Nc4 Bd7 14.
+Nxd6 Qxd6 15. Bxf6+ gxf6 16. Qxd6+ 1-0

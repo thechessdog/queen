@@ -1,0 +1,18 @@
+[Event "corr NLD"]
+[Site "corr NLD"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schenning, A."]
+[Black "Bos, H."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "fd002c24"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Kf8 8.
+Qf4 c5 9. dxc5 Nc6 10. Nf3 Qc7 11. Bxe7+ Nxe7 12. O-O-O Ng6 13. Qg3 Ngxe5
+14. Re1 f6 15. b4 b6 16. Nd4 Nxc5 17. bxc5 Qxc5 18. f4 Qxd4 19. fxe5 f5 20.
+Qd3 Qb4 21. Be2 Bd7 22. Nxd5 exd5 23. Qxd5 Qa3+ 24. Kd1 Rd8 25. e6 1-0
+

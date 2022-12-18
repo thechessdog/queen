@@ -1,0 +1,22 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kottke, Uwe"]
+[Black "Summermatter, Daniel"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Kavalek (Bronstein) variation"]
+[HashCode "4668e6d3"]
+[Epoch "Queen"]
+[WhiteID "4610644"]
+[WhiteCountry "GER"]
+[BlackID "1300385"]
+[BlackCountry "SUI"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. O-O d6 7. Nc3 Qa5 8. Qc2
+Qh5 9. Re1 e5 10. dxe5 dxe5 11. b3 Bf5 12. e4 Bg4 13. Nd2 Na6 14. Ba3 Rfd8 15.
+f3 Bh3 16. Rad1 Nc7 17. Nf1 Ne6 18. Qf2 Bxg2 19. Kxg2 Bf8 20. Bxf8 Kxf8 21.
+Rxd8+ Rxd8 22. Qe3 Nd4 23. Rc1 Nd7 24. Nd2 Nc5 25. b4 Nce6 26. h4 f5 27. Qf2
+Qh6 28. Ncb1 fxe4 29. fxe4+ Kg7 30. Rc3 Rf8 31. Qe3 Qh5 32. Nf3 Rxf3 0-1

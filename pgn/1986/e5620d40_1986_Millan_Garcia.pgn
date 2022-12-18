@@ -1,0 +1,18 @@
+[Event "Columbia"]
+[Site "Columbia"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Millan"]
+[Black "Garces, Napoleon"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "e5620d40"]
+[Epoch "Queen"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. d4 Ne7 7. dxc6 Nbxc6 8.
+Bc4 O-O 9. d5 Nb4 10. a3 b5 11. Bxb5 Nbxd5 12. Nxd5 Nxd5 13. Bc6 Ba6 14. Qxd5
+Re8+ 0-1

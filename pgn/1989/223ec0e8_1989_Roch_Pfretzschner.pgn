@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Roch, L."]
+[Black "Pfretzschner"]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "223ec0e8"]
+[Epoch "Queen"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 Ne4 6. Nf3 Bf5 7. Qb3 Nc5
+8. Qxd5 Nc6 9. Bb5 Qxd5 10. Nxd5 O-O-O 11. Ne3 Bd3 12. Bxc6 bxc6 13. Ng5
+Re8 14. f4 f6 15. Nf3 Ba6 16. Kf2 Nd3+ 17. Kg3 g5 18. fxg5 fxe5 19. h4 e4
+20. Nd4 Bd6+ 21. Kg4 Nf2+ 0-1
+

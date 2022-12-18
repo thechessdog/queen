@@ -1,0 +1,18 @@
+[Event "Reykjavik"]
+[Site "Reykjavik"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tisdall, Jonathan D"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, bayonet attack"]
+[HashCode "dfa56e5d"]
+[Epoch "Queen"]
+[WhiteID "1500066"]
+[WhiteCountry "NOR"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. c5 f5 11. Ng5 Nf4 12. Bc4 fxe4 13. Ngxe4 Nf5 14. f3 a5 15.
+bxa5 Rxa5 16. Nb5 Bd7 17. c6 bxc6 18. dxc6+ Be6 19. Bxe6+ Nxe6 20. Qd5 1-0

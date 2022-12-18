@@ -1,0 +1,18 @@
+[Event "corr FSM"]
+[Site "corr FSM"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Sommerbauer, N."]
+[Black "Wutte, H."]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "04d4eaca"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. g3 Ba6 6. Qb3 c5 7. a3 Ba5 8.
+Bg2 d5 9. cxd5 Nxd5 10. Bd2 Nc6 11. dxc5 Nxc3 12. Bxc3 O-O 13. O-O Bxe2 14.
+Rfe1 Bxc3 15. Qxc3 Bxf3 16. Bxf3 Rc8 17. Rad1 Qf6 18. Qxf6 gxf6 19. cxb6
+Ne5 20. Rxe5 1-0
+

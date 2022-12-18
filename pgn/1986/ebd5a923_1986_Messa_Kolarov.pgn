@@ -1,0 +1,22 @@
+[Event "Albena"]
+[Site "Albena"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Messa, Roberto"]
+[Black "Kolarov, Atanas S."]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "ebd5a923"]
+[Epoch "Queen"]
+[BlackID "2900246"]
+[BlackCountry "FID"]
+[WhiteID "800457"]
+[WhiteCountry "ITA"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c6 4. Nf3 d5 5. e5 h5 6. Bd3 Nh6 7. Nc3 Bg4 8. h3 Bxf3
+9. Qxf3 e6 10. Ne2 Nd7 11. Be3 h4 12. g4 hxg3 13. Nxg3 Nf5 14. Nxf5 gxf5 15.
+O-O-O Qa5 16. Kb1 O-O-O 17. h4 Bf8 18. h5 b5 19. Qh3 Nb6 20. Bc1 Nc4 21. Bxf5
+exf5 22. Qxf5+ Kb8 23. Qxf7 Bh6 24. Rh3 Rhf8 25. Qe6 Bxf4 26. Qxc6 Bxc1 27.
+Kxc1 Rc8 28. Qxd5 Rfd8 0-1

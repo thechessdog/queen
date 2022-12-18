@@ -1,0 +1,20 @@
+[Event "Bundesliga 8687"]
+[Site "Duitsland tt"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Ostl, Andreas"]
+[Black "Nikolac, Juraj"]
+[Result "0-1"]
+[ECO "A12"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system, Bogolyubov variation"]
+[HashCode "cf6564a4"]
+[Epoch "Queen"]
+[WhiteID "4602153"]
+[WhiteCountry "GER"]
+[BlackID "14500140"]
+[BlackCountry "CRO"]
+
+1. Nf3 d5 2. c4 c6 3. b3 Bg4 4. e3 Nd7 5. h3 Bh5 6. Bb2 Ngf6 7. g4 Bg6 8. d3
+dxc4 9. bxc4 e5 10. Nh4 Bb4+ 11. Bc3 Qe7 12. Qd2 Bd6 13. Qc2 Nc5 14. Nd2 O-O-O
+15. O-O-O Nxd3+ 0-1

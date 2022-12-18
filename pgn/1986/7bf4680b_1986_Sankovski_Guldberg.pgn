@@ -1,0 +1,18 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sankovski"]
+[Black "Guldberg, T."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "7bf4680b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Bg4 11. Bc2 Be7 12. h3 Bh5 13. Re1 O-O 14. Nb3
+Ne4 15. Bf4 Bg6 16. Nfd4 Nxd4 17. Nxd4 Qd7 18. Qg4 Rfd8 19. e6 fxe6 20.
+Qxe6+ Kf8 21. Qxd7 Rxd7 22. Ne6+ 1-0
+

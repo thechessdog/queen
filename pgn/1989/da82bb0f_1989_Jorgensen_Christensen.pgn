@@ -1,0 +1,18 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jorgensen, Jorgen"]
+[Black "Christensen, Niels"]
+[Result "1-0"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "da82bb0f"]
+[Epoch "Queen"]
+[BlackID "1406795"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 c6 3. g3 d5 4. Bg2 e6 5. O-O dxc4 6. a4 Nbd7 7. Qc2 Bd6 8. Na3
+O-O 9. Nxc4 Bc7 10. d4 Nd5 11. e4 Nb4 12. Qb3 a5 13. Be3 Kh8 14. Rad1 f5 15.
+Nce5 Nxe5 16. dxe5 Qe8 17. Bc5 fxe4 18. Bxf8 exf3 19. Qxf3 Bxe5 20. Bxb4 axb4
+21. Qh5 1-0

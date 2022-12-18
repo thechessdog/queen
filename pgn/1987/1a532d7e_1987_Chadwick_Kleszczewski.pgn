@@ -1,0 +1,16 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chadwick, R."]
+[Black "Kleszczewski, Nick"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "1a532d7e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Bc4 c5 9. h3 Nc6 10. Be3 Qa5 11. Qb3 cxd4 12. Nxd4 Nxd4 13. Bxd4 Bxd4 14. Rc1
+Bg7 15. O-O Qg5 16. Kh1 Qf4 17. Qc2 Be5 0-1

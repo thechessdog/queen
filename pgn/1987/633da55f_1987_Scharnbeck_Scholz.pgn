@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Scharnbeck, M."]
+[Black "Scholz, F."]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "633da55f"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Re8
+8. a3 Bd6 9. O-O c6 10. Ng3 Nbd7 11. b4 Nf8 12. Qc2 Bxg3 13. hxg3 Qe7 14.
+f3 a5 15. b5 c5 16. dxc5 Qxc5 17. Ne2 Qxc2 18. Bxc2 Bd7 19. a4 Rac8 20. Bb3
+Re5 21. Kf2 Rf5 22. Rd1 Be6 23. Nd4 Rh5 24. Bd2 Bd7 25. Bxa5 Ne6 26. Rd2
+Nc5 27. Bc2 h6 28. Bb6 Be6 29. Bxc5 Rxc5 30. a5 Bd7 31. a6 bxa6 32. bxa6
+Rc8 33. a7 Ra8 34. Bd3 Re5 35. Rb2 Ree8 36. Rb7 Red8 37. Bb5 Bxb5 38. Nxb5
+Ne8 39. Ra6 1-0
+

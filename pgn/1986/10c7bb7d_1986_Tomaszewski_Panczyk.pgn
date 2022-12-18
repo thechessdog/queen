@@ -1,0 +1,27 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "3"]
+[White "Tomaszewski, Roman"]
+[Black "Panczyk, Krzysztof"]
+[Result "0-1"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "10c7bb7d"]
+[Epoch "Queen"]
+[WhiteID "1100637"]
+[BlackID "1100211"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Qc7 11. h3 Nbd7 12. f4 Rb8 13. Be3 Re8 14. Ng3 c4 15. Bc2
+Nc5 16. Bd4 b5 17. axb5 axb5 18. e5 dxe5 19. fxe5 Rxe5 20. Qf3 Rg5 21. Nge2 Nh5
+22. d6 Qd7 23. Bxg7 Kxg7 24. Nf4 Ng3 25. Nfd5 Nxf1 26. Qf6+ Kh6 27. Rxf1 Qe6
+28. Qd8 Qe5 29. Qf8+ Qg7 30. Qe7 Bxh3 31. Rxf7 Qd4+ 32. Ne3 Rh8 33. Kh2 Be6 34.
+Rf3 Qh4+ 35. Kg1 Qe1+ 36. Nf1 Qe5 37. Re3 Qd4 38. Nxb5 Qxb2 39. Na3 Qd4 40. Nb5
+Qb2 41. Na3 Ra8 42. Nh2 Qa1+ 43. Nf1 Qg7 44. Nxc4 Qxe7 45. dxe7 Re8 46. Ne5
+Rxe7 47. Nh2 Ra7 48. Nhf3 Ra1+ 49. Kh2 Rh5+ 50. Kg3 Rc1 51. Nd4 Rg5+ 52. Kf2
+Bd5 53. g4 Rxc2+ 54. Nxc2 Rxe5 55. Rxe5 Nd3+ 56. Ke3 Nxe5 57. Kd4 Bb3 58. Na1
+Ba4 0-1

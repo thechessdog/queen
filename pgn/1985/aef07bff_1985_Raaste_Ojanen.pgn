@@ -1,0 +1,22 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Raaste, Eero J."]
+[Black "Ojanen, Pekka"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "aef07bff"]
+[Epoch "Queen"]
+[WhiteID "500097"]
+[WhiteCountry "FIN"]
+[BlackID "500658"]
+[BlackCountry "FIN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Bg7 7. Bc4 O-O 8.
+Nge2 Nbd7 9. Nf4 Nb6 10. Bb3 Bg4 11. Qd3 Rc8 12. O-O Bf5 13. Qf3 Qd7 14. h3 h5
+15. Re1 Rfd8 16. Qe2 Bf8 17. a4 a5 18. Bd2 Na8 19. Nb5 b6 20. Rac1 Nc7 21. Na7
+Ra8 22. Nc6 Re8 23. Ne5 Qd8 24. Nxf7 Kxf7 25. d6+ Kg7 26. dxc7 Qxd4 27. Ne6+
+Bxe6 28. Bxe6 1-0

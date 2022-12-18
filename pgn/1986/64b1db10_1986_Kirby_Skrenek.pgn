@@ -1,0 +1,19 @@
+[Event "LERA"]
+[Site "LERA"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kirby, John"]
+[Black "Skrenek, J."]
+[Result "0-1"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "64b1db10"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Be2 c5
+8. O-O cxd4 9. Qxd4 Bc5 10. Qh4 O-O 11. b4 Be7 12. Bb2 Nd5 13. Qg4 N7f6 14.
+Bxf6 Nxf6 15. Qc4 Qb6 16. a3 Bd7 17. Rfd1 Rac8 18. Qb3 Rfd8 19. Ne5 Be8 20.
+Bf3 Qc7 21. Nd3 Bc6 22. Bxc6 Qxc6 23. Rac1 b5 24. Re1 Bd6 25. Ne5 Qc3 26.
+Nf3 h6 27. Re3 Qc7 28. Ne4 Bf4 29. Nxf6+ gxf6 0-1
+

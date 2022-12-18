@@ -1,0 +1,19 @@
+[Event "Tampere Hervanta"]
+[Site "Tampere Hervanta"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kosonen, Markku"]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "8eda49a1"]
+[Epoch "Queen"]
+[WhiteID "507709"]
+[BlackID "503495"]
+[WhiteCountry "FIN"]
+[BlackCountry "FIN"]
+
+1. d4 c5 2. c3 e6 3. Nf3 a6 4. e4 b5 5. Bd3 Bb7 6. O-O Nf6 7. e5 Nd5 8. Bg5 Qb6
+9. Nbd2 cxd4 10. cxd4 Nc6 11. Be3 f5 12. exf6 gxf6 13. Be4 Nce7 14. Nh4 O-O-O
+15. Rc1+ Kb8 16. Bd3 Nxe3 17. fxe3 Nd5 18. Qe2 Bh6 19. Rf3 Bxe3+ 0-1

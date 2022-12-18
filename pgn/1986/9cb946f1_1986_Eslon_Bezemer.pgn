@@ -1,0 +1,20 @@
+[Event "OHRA-B"]
+[Site "Amsterdam II"]
+[Date "1986.07.01"]
+[Round "1"]
+[White "Eslon, Jaan"]
+[Black "Bezemer, Arno"]
+[Result "1-0"]
+[ECO "A65"]
+[Opening "Benoni"]
+[Variation "6.e4"]
+[HashCode "9cb946f1"]
+[Epoch "Queen"]
+[BlackID "1001396"]
+[BlackCountry "NED"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nge2
+O-O 9. O-O a6 10. a4 Qc7 11. Rb1 Nbd7 12. Kh1 Rb8 13. f3 c4 14. Bc2 Nc5 15. b4
+cxb3 16. Bxb3 Bd7 17. Bc2 Rfc8 18. Be3 b5 19. axb5 axb5 20. Na2 Na6 21. Bd3 Re8
+22. Qd2 Qd8 23. Nd4 Nc5 24. Nb4 Rb7 25. Nbc6 Bxc6 26. Nxc6 Qc8 27. Bxb5 1-0

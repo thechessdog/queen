@@ -1,0 +1,18 @@
+[Event "Biel"]
+[Site "Biel"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kindler, U."]
+[Black "Haist, Wolfgang"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "6d724060"]
+[Epoch "Queen"]
+[BlackID "4603206"]
+[BlackCountry "GER"]
+
+1. f4 e5 2. e4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Nf6 6. dxc6 Nxc6 7. Bb5 Bd6 8.
+Qe2+ Kf8 9. Bxc6 bxc6 10. d4 Qb6 11. Ne4 Ba6 12. Nxf6 gxf6 13. Qf2 Re8+ 14. Kd1
+Be2+ 15. Kd2 Qb4+ 16. c3 Qc4 17. Ne1 Re3 18. h4 Bg4 0-1

@@ -1,0 +1,18 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Steedman, Jim"]
+[Black "Haugen, Arild"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "699ee42a"]
+[Epoch "Queen"]
+[BlackID "1505076"]
+[BlackCountry "NOR"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. a3 Be6 5. Nf3 Nc6 6. Nbd2 Qd7 7. Qa4 O-O-O 8.
+b4 d3 9. exd3 Nxe5 10. Qxa7 Nc6 11. Qa8+ Nb8 12. Be2 Bf5 13. O-O Re8 14. Ne4
+Bxe4 15. dxe4 Rxe4 16. Be3 b6 17. Qxe4 1-0

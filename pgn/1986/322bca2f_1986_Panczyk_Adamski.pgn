@@ -1,0 +1,22 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "8"]
+[White "Panczyk, Krzysztof"]
+[Black "Adamski, Jan"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "322bca2f"]
+[Epoch "Queen"]
+[BlackID "1100190"]
+[BlackCountry "POL"]
+[WhiteID "1100211"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+exd4 dxc4 9. Bxc4 Nc6 10. Be3 O-O 11. O-O b6 12. Ba2 Bb7 13. Re1 h6 14. d5 exd5
+15. Nxd5 Ne5 16. Bxb6 axb6 17. Rxe5 Bxd5 18. Bxd5 Ra5 19. Bxf7+ Kxf7 20. Qb3+
+Rd5 21. Rd1 Re8 22. f4 Rxe5 23. fxe5 Kg6 24. Qc2+ Kf7 25. Qb3 Kg6 26. Qc2+ Kf7
+27. Qb3 1/2-1/2

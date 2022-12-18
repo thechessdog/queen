@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Blasek, Ralph"]
+[Black "Zueger, Beat"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "596c01f3"]
+[Epoch "Queen"]
+[WhiteID "4602471"]
+[WhiteCountry "GER"]
+[BlackID "1300067"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 g5 7. b4 cxd4 8. Bxg5
+dxc3 9. Nxc3 Bg7 10. Bb5 Ne7 11. O-O Ng6 12. Re1 O-O 13. Bxc6 bxc6 14. Rc1 a5
+15. h4 axb4 16. axb4 h5 17. Nh2 Nxe5 18. Qxh5 Nd3 19. Re3 Nxc1 20. Ng4 f6 21.
+Nh6+ Kh7 22. Nf5+ Kg8 23. Ne7# 1-0

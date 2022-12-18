@@ -1,0 +1,23 @@
+[Event "Espoo"]
+[Site "Espoo"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hurme, Harri"]
+[Black "Valkesalmi, Kimmo"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "54f079f1"]
+[Epoch "Queen"]
+[WhiteID "500321"]
+[WhiteCountry "FIN"]
+[BlackID "500054"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. h3 Bc5 11. g4 Qb6 12. Rh2 Qc7 13. Rg2 d6 14. Rg3 Nbd7 15.
+Bg2 a6 16. b4 Ba7 17. Bf4 Ne5 18. Rc1 Nc4 19. Qd3 b5 20. Ne4 Nxe4 21. Bxe4 Qe7
+22. Bxh7+ Kh8 23. Bf5 Bb7 24. Rc2 g6 25. Kf1 gxf5 26. Qxf5 Qe4 27. Qf6+ Kg8 28.
+Bh6 Qg6 29. g5 Re4 30. Qa1 Rae8 31. Rf3 R4e5 32. Rfc3 Qf5 33. Ng1 Bd4 34. Rf3
+Re1+ 35. Qxe1 Rxe1+ 36. Kxe1 Qxc2 0-1

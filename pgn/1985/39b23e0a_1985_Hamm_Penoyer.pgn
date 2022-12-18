@@ -1,0 +1,18 @@
+[Event "California"]
+[Site "California"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Hamm"]
+[Black "Penoyer, F."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "39b23e0a"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Nf3 Qd7 5. Bd3 O-O-O 6. O-O f6 7. c3 g5 8.
+Bb5 a6 9. Ba4 h5 10. b4 b5 11. Bb3 Na7 12. a4 Bxb1 13. Rxb1 c6 14. Ra1 Kb7
+15. Qe2 h4 16. Qa2 Ra8 17. Be3 g4 18. Nd2 Nh6 19. axb5 Nxb5 20. exf6 Nxc3
+21. Qc2 Ne2+ 22. Kh1 Nf5 23. h3 gxh3 24. gxh3 Nxe3 25. fxe3 Qxh3# 0-1
+

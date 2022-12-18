@@ -1,0 +1,18 @@
+[Event "Unterfranken-ch2"]
+[Site "Unterfranken"]
+[Date "1987.01.01"]
+[Round "4"]
+[White "Schilling, Andreas"]
+[Black "Breitenbach, Christoph"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "b410cc6d"]
+[Epoch "Queen"]
+[WhiteID "1315722"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8. Bc4
+b5 9. Bb3 Bb7 10. Ng5 d5 11. Nxd5 exf4 12. Bxf4 Bc5 13. Nc7+ Ke7 14. Nxf7 Qc8
+15. Qd6+ Bxd6 16. Bxd6# 1-0

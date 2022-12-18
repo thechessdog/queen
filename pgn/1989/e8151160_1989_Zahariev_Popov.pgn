@@ -1,0 +1,18 @@
+[Event "BUL-ch"]
+[Site "Sofia"]
+[Date "1989.01.01"]
+[Round "2"]
+[White "Zahariev, Zahary"]
+[Black "Popov, Peter"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "e8151160"]
+[Epoch "Queen"]
+[BlackID "2900645"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 g6 5. O-O Bg7 6. c3 a6 7. Bxc6 bxc6 8. d3
+O-O 9. Nbd2 d6 10. Re1 e5 11. Nc4 h6 12. h3 Ne8 13. Nh2 f5 14. exf5 Bxf5 15.
+Be3 Rb8 16. b3 Qf6 17. Nd2 Nc7 18. Ng4 Qh4 19. Ne4 Rbd8 20. f3 Kh7 1/2-1/2

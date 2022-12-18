@@ -1,0 +1,22 @@
+[Event "Tapolca"]
+[Site "Tapolca"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Madl, Ildiko"]
+[Black "Dragojlovic, Andjelko"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen variation"]
+[HashCode "b3e4c5d8"]
+[Epoch "Queen"]
+[WhiteID "700550"]
+[WhiteCountry "HUN"]
+[BlackID "918474"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Be7 7. f4 O-O 8. Qf3
+e5 9. Nf5 Bxf5 10. exf5 Qa5 11. O-O-O e4 12. Qh3 Rc8 13. Bd4 Nc6 14. Bxf6 Bxf6
+15. Rd5 Qd8 16. Nxe4 Nb4 17. Nxf6+ Qxf6 18. Rd2 Nxa2+ 19. Kb1 Nb4 20. g4 Rc5
+21. Qb3 a5 22. c3 Nc6 23. Bd3 b5 24. g5 a4 25. Qa3 Qd8 26. Re1 Kf8 27. Bxb5 Qc7
+28. c4 Na7 29. Qh3 1-0

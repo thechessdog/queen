@@ -1,0 +1,17 @@
+[Event "Bankia op"]
+[Site "Bankia"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Stamenov, K."]
+[Black "Berovski, Krum"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "12cc4dea"]
+[Epoch "Queen"]
+[BlackID "2902931"]
+[BlackCountry "FID"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bd5 Rf8 7. O-O d6 8.
+Bxc6 bxc6 9. c3 Bg4 10. Nf3 Nh5 11. d4 Bxf3 0-1

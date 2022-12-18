@@ -1,0 +1,22 @@
+[Event "Slupsk"]
+[Site "Slupsk"]
+[Date "1989.01.01"]
+[Round "11"]
+[White "Pedzich, Dominik"]
+[Black "Grabarczyk, Bogdan"]
+[Result "1-0"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[HashCode "66e6fbd0"]
+[Epoch "Queen"]
+[WhiteID "1100130"]
+[WhiteCountry "POL"]
+[BlackID "1101463"]
+[BlackCountry "POL"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 a6 5. Bxd7+ Bxd7 6. Nc3 cxd4 7. Qxd4 Nf6
+8. Bg5 Qa5 9. O-O h6 10. b4 Qd8 11. Bxf6 gxf6 12. Nd5 Rc8 13. Rfe1 Rg8 14. c4
+Bg7 15. Rab1 Bg4 16. Qc3 h5 17. Nd4 h4 18. Nf5 Bf8 19. Re3 h3 20. Rg3 e5 21.
+Qc1 hxg2 22. Nfe3 Bh6 23. Rxg4 Rxg4 24. Nxf6+ Qxf6 25. Nxg4 Qh4 26. Nxh6 Kd7
+27. Nf5 Qh7 28. Qg5 1-0

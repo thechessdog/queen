@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Adla, Diego"]
+[Black "Bronstein, Luis Marcos"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "0caaed6b"]
+[Epoch "Queen"]
+[BlackID "100463"]
+[BlackCountry "ARG"]
+
+1. Nf3 c5 2. e4 e6 3. Nc3 a6 4. g3 Nc6 5. Bg2 Qc7 6. O-O Nf6 7. Re1 Bd6 8. b4
+cxb4 9. Nd5 Nxd5 10. exd5 Ne7 11. Bb2 O-O 12. Ng5 f6 13. Nxh7 Kxh7 14. Qh5+ Kg8
+15. Bd4 Nf5 16. Re4 Qxc2 17. Rg4 Qxd2 18. Be3 Nxe3 19. fxe3 Qxe3+ 20. Kh1 Qe5
+0-1

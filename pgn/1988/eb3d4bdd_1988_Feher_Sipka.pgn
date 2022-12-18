@@ -1,0 +1,25 @@
+[Event "Eger op"]
+[Site "Eger"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Feher, Gyula"]
+[Black "Sipka, Zoltan"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "eb3d4bdd"]
+[Epoch "Queen"]
+[BlackID "712132"]
+[BlackCountry "HUN"]
+[WhiteID "700533"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. d4 e6 5. c4 Nb6 6. d5 d6 7. Nc3 exd5 8. cxd5
+dxe5 9. Nxe5 Bd6 10. Bb5+ N8d7 11. Bf4 Bxe5 12. Bxe5 O-O 13. Bf4 Re8+ 14. Be3
+a6 15. Be2 Nf6 16. d6 c4 17. Qd4 Nbd7 18. Bxc4 Ne5 19. Be2 Bg4 20. Bxg4 Nexg4
+21. O-O Nxe3 22. fxe3 Re6 23. Rad1 Qd7 24. Na4 Re4 25. Nc5 Rxd4 26. Nxd7 Rxd1
+27. Nxf6+ gxf6 28. Rxd1 Rd8 29. Kf2 Kf8 30. Kf3 Ke8 31. d7+ Ke7 32. Kf4 Rg8 33.
+d8=Q+ Rxd8 34. Rxd8 Kxd8 35. Kf5 Ke7 36. e4 a5 37. a4 b6 38. g4 Kf8 39. Kxf6
+Kg8 40. g5 Kf8 41. h4 Kg8 42. h5 Kf8 43. e5 Kg8 44. h6 Kf8 45. b3 Kg8 46. Ke7
+Kh8 47. Kxf7 b5 48. e6 1-0

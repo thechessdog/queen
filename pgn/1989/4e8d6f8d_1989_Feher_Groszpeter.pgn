@@ -1,0 +1,22 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Feher, Gyula"]
+[Black "Groszpeter, Attila"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "4e8d6f8d"]
+[Epoch "Queen"]
+[BlackID "700053"]
+[BlackCountry "HUN"]
+[WhiteID "700533"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+Be7 9. Bg5 Nbd7 10. Nd2 Rb8 11. Bc4 Nb6 12. Bxf6 Bxf6 13. Nd5 Nxd5 14. Bxd5 O-O
+15. Nc4 b5 16. axb5 axb5 17. Na5 Bd7 18. c3 b4 19. c4 b3 20. O-O Rb4 21. Nxb3
+Ba4 22. Qe1 Rfb8 23. Na5 Qxa5 24. b3 Bd8 25. Rxa4 Rxa4 26. bxa4 Qxa4 27. Qa1
+Qxa1 28. Rxa1 Bb6 29. Ra8 1-0

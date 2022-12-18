@@ -1,0 +1,17 @@
+[Event "Alicante op2"]
+[Site "Alicante"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Suarez, E."]
+[Black "Lloret Ramis, Juan Jose"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "2f3664d3"]
+[Epoch "Queen"]
+[BlackID "2204053"]
+[BlackCountry "ESP"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2
+Be7 9. O-O Nbd7 1/2-1/2

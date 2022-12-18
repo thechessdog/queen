@@ -1,0 +1,17 @@
+[Event "corr FS"]
+[Site "corr FS"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jaakomo"]
+[Black "Pihlajamaki"]
+[Result "0-1"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[HashCode "f88be18e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2 a5 7. b3 Bb7
+8. e3 Ne4 9. Qc2 d6 10. Bd3 f5 11. O-O O-O 12. Nd2 Nxd2 13. Bxd2 Qh4 14. c5
+Bxg2 15. Kxg2 Qg4+ 16. Kh1 Qf3+ 17. Kg1 Rf6 18. Rfc1 Qh3 19. Bxf5 exf5 20.
+Qc4+ Kf8 0-1
+

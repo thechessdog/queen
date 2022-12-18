@@ -1,0 +1,18 @@
+[Event "corr Netherlands"]
+[Site "corr Netherlands"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Kooij"]
+[Black "Van der Berg"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "f35f765d"]
+[Epoch "Queen"]
+[WhiteID "1011812"]
+[WhiteCountry "NED"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. Bc4 h6 6. O-O Bg7 7. c3 Nc6 8. g3 Bh3
+9. gxf4 Qd7 10. Rf2 Nf6 11. Qd3 O-O-O 12. d5 Na5 13. Na3 Qg4+ 14. Kh1 Rhe8 15.
+e5 dxe5 16. Nxe5 Nxc4 17. Naxc4 Rxd5 18. Nxg4 Rxd3 0-1

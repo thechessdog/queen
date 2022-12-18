@@ -1,0 +1,20 @@
+[Event "Berlijn open"]
+[Site "Berlijn open"]
+[Date "1986.08.01"]
+[Round "1"]
+[White "Zuse, P."]
+[Black "Gheorghiu, Florin"]
+[Result "0-1"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[HashCode "2b22f7ec"]
+[Epoch "Queen"]
+[BlackID "1200011"]
+[BlackCountry "ROU"]
+
+1. g3 g6 2. Bg2 Bg7 3. c4 c5 4. Nc3 Nc6 5. a3 a6 6. Rb1 Rb8 7. b4 cxb4 8. axb4
+b5 9. cxb5 axb5 10. Nh3 e5 11. d3 Nge7 12. O-O d5 13. Bd2 O-O 14. f4 d4 15. Ne4
+Nd5 16. fxe5 Nxe5 17. Nf4 Ne3 18. Bxe3 dxe3 19. h3 Nc6 20. Kh2 Nd4 21. Qc1 Re8
+22. Qc5 Re5 23. Qa7 Bb7 24. Nc5 Bxg2 25. Kxg2 Ra8 26. Qb7 g5 27. Ra1 Rb8 28.
+Qd7 gxf4 0-1

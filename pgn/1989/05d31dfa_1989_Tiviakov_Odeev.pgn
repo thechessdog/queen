@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tiviakov, S."]
+[Black "Odeev, Handszar"]
+[Result "1-0"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[HashCode "05d31dfa"]
+[Epoch "Queen"]
+[BlackID "14000091"]
+[BlackCountry "TKM"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. f3 Qc7 10. g4 Nb6 11. O-O-O h6 12. Kb1 Be7 13. h4 O-O-O 14. Qf2 Nfd7
+15. Nd5 Bxd5 16. exd5 Kb8 17. c4 Na4 18. Rc1 a5 19. Bd2 b6 20. Bd3 Nac5 21.
+Nxc5 Nxc5 22. Bc2 Qb7 23. a3 Qa6 24. Qe2 a4 25. f4 Rhe8 26. Qf1 exf4 27. Bxf4
+Bf6 28. g5 hxg5 29. hxg5 Bd4 30. Rh4 Be5 31. Rh7 Bxf4 32. Qxf4 b5 33. cxb5 Qxb5
+34. Rxg7 Re2 35. Qxf7 Qb6 36. Rg8 Rxg8 37. Qxg8+ Ka7 38. Qh7+ Nb7 39. Qh4 Nc5
+40. Qd4 Rg2 41. g6 Rg3 42. Rg1 1-0

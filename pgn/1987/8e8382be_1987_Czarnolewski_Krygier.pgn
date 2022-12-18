@@ -1,0 +1,18 @@
+[Event "corr Czerniak mem"]
+[Site "corr Czerniak mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Czarnolewski, P."]
+[Black "Krygier, I."]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "8e8382be"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 Ne4 7. Bxe4 dxe4
+8. O-O f5 9. f3 exf3 10. Rxf3 Nc6 11. e4 e5 12. d5 Bc5+ 13. Kh1 Nd4 14.
+Nxd4 exd4 15. Ne2 fxe4 16. Rxf8+ Qxf8 17. Nxd4 Qf2 18. Nb5 e3 19. Bxe3 Qxe3
+20. Nxc7 Rb8 21. d6 Bd7 22. Qd5+ Kh8 23. Qf7 Rd8 24. Nd5 Qe6 0-1
+

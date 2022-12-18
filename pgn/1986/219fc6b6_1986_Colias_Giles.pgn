@@ -1,0 +1,21 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Colias, Billy"]
+[Black "Giles, Morris"]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "219fc6b6"]
+[Epoch "Queen"]
+[BlackID "2001101"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. cxd6 Nxe4 6. Nf3 Nxd6 7. Bf4 g6 8.
+Bxd6 exd6 9. Be2 Bg7 10. Na3 O-O 11. O-O Ne5 12. Qd2 Qb6 13. Nd4 Bd7 14. Rad1
+Rfd8 15. Nc4 Nxc4 16. Bxc4 Ba4 17. Rc1 Rac8 18. Be2 Rc5 19. Rfe1 Bf6 20. b3 Bd7
+21. b4 Re5 22. Nf3 Re7 23. Bc4 Rde8 24. Rxe7 Rxe7 25. Rd1 Ba4 26. Bb3 Bxb3 27.
+axb3 Re8 28. h3 d5 29. Qxd5 Rd8 0-1

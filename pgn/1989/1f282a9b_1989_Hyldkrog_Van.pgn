@@ -1,0 +1,19 @@
+[Event "corr Freedman mem"]
+[Site "corr Freedman mem"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hyldkrog"]
+[Black "Van Perlo"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "1f282a9b"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 d6 5. d4 Bd7 6. O-O Bg7 7. Qb3 Na5 8.
+Qa4 c6 9. Be2 b5 10. Qc2 Ne7 11. Be3 f5 12. dxe5 dxe5 13. Rd1 Nb7 14. exf5
+Nxf5 15. Bg5 Qc7 16. Nbd2 O-O 17. Ne4 Be6 18. Re1 Qf7 19. b3 a5 20. c4 a4
+21. cxb5 axb3 22. axb3 Bxb3 23. Qb2 cxb5 24. Bxb5 Rxa1 25. Qxa1 Nbd6 26.
+Bd3 Nxe4 27. Bxe4 Nd6 28. Bh4 Nxe4 29. Rxe4 Bd5 30. Nxe5 0-1
+

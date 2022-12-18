@@ -1,0 +1,17 @@
+[Event "Eindhoven"]
+[Site "Eindhoven"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Mil, Johannes A J"]
+[Black "Blees, Albert"]
+[Result "0-1"]
+[ECO "B56"]
+[Opening "Sicilian"]
+[HashCode "e0700067"]
+[Epoch "Queen"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. f4 g6 7. Be2 Bg7 8. Nb3
+O-O 9. O-O a5 10. a4 Qb6+ 11. Kh1 Nb4 12. Bf3 Be6 13. Ra3 Rac8 14. Re1 Ng4 15.
+Bxg4 Bxg4 16. Qxg4 Bxc3 17. Be3 Qc7 18. bxc3 Nxc2 19. Raa1 Qxc3 20. Bd2 Qxb3
+21. Rab1 Qxa4 22. Rec1 Qxe4 0-1

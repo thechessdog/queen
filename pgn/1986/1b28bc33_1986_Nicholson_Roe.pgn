@@ -1,0 +1,23 @@
+[Event "BCF-ch"]
+[Site "Southampton"]
+[Date "1986.??.??"]
+[Round "9"]
+[White "Nicholson, John G"]
+[Black "Roe, Simon J"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "1b28bc33"]
+[Epoch "Queen"]
+[WhiteID "401730"]
+[BlackID "401471"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Ne2 c5 13. Ng3 Bc8 14. h3 Rb8 15. Nd2
+Be6 16. Nc4 Nc6 17. f4 exf4 18. Bxf4 Qd7 19. Kh2 Rfe8 20. c3 Rb7 21. a5 Rb5 22.
+d4 cxd4 23. cxd4 d5 24. Nb6 Qd8 25. Rc1 g5 26. Bxg5 Nxe4 27. Nxe4 dxe4 28. d5
+Nxa5 29. dxe6 b3 30. Rc8 Qd6+ 31. Kh1 Rxc8 32. Qxd6 Bxd6 33. Nxc8 Rxg5 34. Bb1
+Nc4 35. Rxe4 Rd5 36. Rg4+ Kf8 37. Bxh7 Rd1# 0-1

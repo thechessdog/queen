@@ -1,0 +1,18 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kruglov, V."]
+[Black "Leeners, H."]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "e359317f"]
+[Epoch "Queen"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. g3 g6 5. Bg2 d6 6. Be3 Bg7 7. Ne2 f5 8. c4
+b6 9. Nbc3 Nf6 10. h3 O-O 11. Qd2 fxe4 12. g4 Rf7 13. Ng3 a5 14. Ncxe4 Nxe4
+15. Nxe4 Bf6 16. Nxf6+ Rxf6 17. Be4 Bd7 18. a4 Qe8 19. b3 Kh8 20. f3 Ng8
+21. h4 1-0
+

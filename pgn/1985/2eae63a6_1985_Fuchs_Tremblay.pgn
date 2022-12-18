@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Fuchs, Reinhart"]
+[Black "Tremblay"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "2eae63a6"]
+[Epoch "Queen"]
+[WhiteID "4611357"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 b6 8. Ne2
+Ba6 9. Ng3 Na5 10. Qe2 Qc7 11. e4 cxd4 12. e5 Nd5 0-1

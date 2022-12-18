@@ -1,0 +1,22 @@
+[Event "BL2-N8788"]
+[Site "Germany"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Juhnke, Juergen"]
+[Black "Sander, Johann"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "3c41a843"]
+[Epoch "Queen"]
+[WhiteID "4623029"]
+[WhiteCountry "GER"]
+[BlackID "4604202"]
+[BlackCountry "GER"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. h4 e5 8. dxe6
+Bxe6 9. Qxd8+ Rxd8 10. Nb5 f4 11. Nxc7+ Kd7 12. Nxe6 Kxe6 13. Bh2 Nf6 14. Nh3
+Kf5 15. Be2 Nxh4 16. Nxf4 Bd6 17. Nh5 Nxg2+ 18. Kf1 Nxh5 19. Bxh5 Nf4 20. Bxf4
+Bxf4 21. Rd1 g6 22. Rxd8 Rxd8 23. Be2 h5 24. f3 exf3 25. Bxf3 Rd2 26. Be2 Bg3
+27. Rg1 Kf4 28. Rg2 Rxc2 29. Bd3 Rc1+ 30. Ke2 g5 31. Kd2 Rh1 0-1

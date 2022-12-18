@@ -1,0 +1,21 @@
+[Event "Lauda MB"]
+[Site "Lauda"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Eisenbeiser, Karlheinz"]
+[Black "Kaspereit, Holger"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "5c20ce68"]
+[Epoch "Queen"]
+[WhiteID "4653360"]
+[WhiteCountry "GER"]
+[BlackID "4692608"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Nd5 5. Nxd5 Qh4+ 6. g3 fxg3 7. Nf3 g2+ 8.
+Nxh4 gxh1=Q 9. Nxc7+ Kd8 10. Nxa8 Qe4+ 11. Qe2 Qxh4+ 12. Qf2 Qxf2+ 13. Kxf2
+Bc5+ 14. d4 Bxd4+ 15. Be3 Bxe3+ 16. Kxe3 Nc6 17. b4 b6 18. b5 Na5 19. Bg2 Bb7
+20. Bxb7 Nxb7 21. Rf1 Rf8 22. a4 Kc8 23. Rd1 Nc5 24. a5 Kb7 0-1

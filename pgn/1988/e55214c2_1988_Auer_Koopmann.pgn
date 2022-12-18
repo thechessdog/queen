@@ -1,0 +1,17 @@
+[Event "Dortmund open"]
+[Site "Dortmund open"]
+[Date "1988.03.01"]
+[Round "1"]
+[White "Auer, M."]
+[Black "Koopmann, R."]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "e55214c2"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d3 g6 3. Nf3 Bg7 4. Nbd2 d5 5. Be2 e5 6. O-O Ne7 7. c3 O-O 8.
+Qc2 Na6 9. b4 Nc7 10. Bb2 Ne6 11. g3 f5 12. c4 d4 13. c5 f4 14. Nc4 Qc7 15.
+Nd6 Bd7 16. a4 Kh8 17. Ba3 1/2-1/2
+

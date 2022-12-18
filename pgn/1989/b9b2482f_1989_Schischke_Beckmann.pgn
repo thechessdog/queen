@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Schischke, Reinhard"]
+[Black "Beckmann, Klaus"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "b9b2482f"]
+[Epoch "Queen"]
+[WhiteID "4609557"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 c5 6. a3 Ba5 7. Bd2 O-O 8. Qb1
+Na6 9. Ng3 Bb7 10. b4 cxb4 11. Na2 b3 12. Bxa5 bxa2 13. Rxa2 Qc7 14. Bd2 e5 15.
+d5 Nc5 16. Be2 Ba6 17. O-O Nb7 18. f4 Bxc4 19. Rc2 b5 20. d6 Qb6 21. Bxc4 bxc4
+22. Rb2 Qxd6 23. fxe5 Qxe5 24. Rxb7 Rab8 25. Rxb8 Rxb8 26. Qc1 Qb2 27. Bc3 1-0

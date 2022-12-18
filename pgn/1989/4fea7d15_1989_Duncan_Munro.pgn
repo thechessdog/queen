@@ -1,0 +1,18 @@
+[Event "Hammond"]
+[Site "Hammond"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Duncan"]
+[Black "Munro"]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[HashCode "4fea7d15"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Na5 12. h4 Nxb3+ 13. Nxb3 a5 14.
+Nd4 a4 15. a3 Qa5 16. h5 Nxh5 17. g4 Nf6 18. Bh6 Bxh6 19. Rxh6 Rc4 20. Rdh1
+Rfc8 21. Nde2 1/2-1/2
+

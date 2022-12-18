@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Ochsner, Thomas"]
+[Black "Reinert, Mads"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9c1fce30"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1400487"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O Be6 10. Na3 Bxb3 11. Qxb3 e6 12. Nb5 Qd7 1/2-1/2

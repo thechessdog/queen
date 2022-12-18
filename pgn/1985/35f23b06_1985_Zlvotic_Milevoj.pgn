@@ -1,0 +1,18 @@
+[Event "corr Yugoslavia"]
+[Site "corr Yugoslavia"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Zlvotic"]
+[Black "Milevoj"]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "35f23b06"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 O-O 6. Bd2 cxd4 7. exd4 Nc6
+8. Nf3 d5 9. a3 Be7 10. c5 e5 11. dxe5 Ng4 12. Bd3 h6 13. h3 Ngxe5 14. Nxe5
+Nxe5 15. b4 Bg5 16. O-O Bxd2 17. Qxd2 Bxh3 18. f4 d4 19. Nb5 Bxg2 20. Kxg2
+Ng4 21. Nxd4 Qd5+ 22. Kg3 1-0
+

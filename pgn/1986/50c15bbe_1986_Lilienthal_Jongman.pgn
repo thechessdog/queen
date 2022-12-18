@@ -1,0 +1,18 @@
+[Event "corr EUR/M"]
+[Site "corr EUR/M"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Jongman"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence, Marshall gambit"]
+[HashCode "50c15bbe"]
+[Epoch "Queen"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. e4 dxe4 6. d5 f5 7. Nh3 Bd6 8. Ng5
+Nf6 9. Bb5+ Ke7 10. a4 a6 11. Bc4 h6 12. Nh3 g5 13. Ng1 Nbd7 14. Qc2 Ne5 15. b3
+Re8 16. h4 f4 17. hxg5 hxg5 18. Bb2 Bf5 19. Kf1 Rh8 20. Rxh8 Qxh8 21. f3 Qh7
+22. Qe2 e3 23. Rd1 Nh5 0-1

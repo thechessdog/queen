@@ -1,0 +1,21 @@
+[Event "Sweden"]
+[Site "Uppsala"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lind, Jan Olov"]
+[Black "Ornstein, Axel"]
+[Result "0-1"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "67e6c862"]
+[Epoch "Queen"]
+[BlackID "1700111"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. a4 b4 11. Nd5 Bb7 12. f3 Nxd5 13. exd5 Nd7 14. c4 bxc3 15.
+bxc3 Bg5 16. c4 Bxc1 17. Qxc1 a5 18. Qe1 Qc7 19. Rb1 Rfb8 20. f4 Bc8 21. Qh4
+Ba6 22. Nd2 Rxb1 23. Rxb1 Nc5 24. fxe5 dxe5 25. Bd1 f5 26. g4 f4 27. Bc2 g6 28.
+Qf6 Re8 29. Qb6 Qc8 30. h3 e4 31. Qxa5 e3 32. Nf3 Bxc4 33. Rd1 Nb7 34. Qb4 Be2
+35. Kg2 Qxc2 36. Ne1 Bf3+ 37. Kxf3 Qf2# 0-1

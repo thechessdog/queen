@@ -1,0 +1,28 @@
+[Event "DEN-ch"]
+[Site "DEN"]
+[Date "1986.??.??"]
+[Round "4"]
+[White "Ochsner, Thomas"]
+[Black "Mortensen, Erling"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "5304f2dc"]
+[Epoch "Queen"]
+[WhiteID "1400711"]
+[BlackID "1400045"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Nxf6+ gxf6
+8. d4 Bg7 9. dxe5 O-O 10. Bxc6 bxc6 11. e6 Re8 12. O-O Rxe6 13. Qd3 c5 14. Rd1
+c6 15. c4 Qe7 16. cxd5 cxd5 17. Qxd5 Bb7 18. Qd7 Qxd7 19. Rxd7 Bxf3 20. gxf3
+Re1+ 21. Kg2 Bh6 22. Bxh6 Rxa1 23. a3 c4 24. Rg7+ Kh8 25. Rc7 Rg8+ 26. Kh3 Rb1
+27. Be3 Rg6 28. Rxc4 Rxb2 29. Rc8+ Rg8 30. Rxg8+ Kxg8 31. Bxa7 Kf7 32. Kg3 Rc2
+33. Bb6 Rc4 34. Ba5 Rc5 35. Bd2 Rd5 36. Be3 Ra5 37. Bc1 Ra8 38. Kg2 Ke6 39. Bb2
+Rg8+ 40. Kf1 Rb8 41. Bd4 Rb3 42. Be3 Rxa3 43. Kg2 Ra8 44. Bd4 Rg8+ 45. Kf1 Kf5
+46. Be3 Ke5 47. Bc1 f5 48. Be3 Kd5 49. Ke2 Rg1 50. Bf4 Rh1 51. Bg3 Ke6 52. Ke3
+Kf6 53. Kf4 Kg6 54. Ke5 Re1+ 55. Kf4 Rh1 56. Ke5 Ra1 57. Bh4 Ra4 58. Bd8 Ra2
+59. Bh4 Kh5 60. Bg3 Ra5+ 61. Kf4 Rb5 62. Ke3 Kg5 63. h4+ Kh5 64. Kf4 Ra5 65.
+Ke3 Ra4 0-1

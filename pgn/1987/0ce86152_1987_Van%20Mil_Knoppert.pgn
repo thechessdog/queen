@@ -1,0 +1,21 @@
+[Event "Nijmegen rapid"]
+[Site "Nijmegen rapid"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Van Mil, Johannes A J"]
+[Black "Knoppert, Erik"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "0ce86152"]
+[Epoch "Queen"]
+[BlackID "1000853"]
+[BlackCountry "NED"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O d3 10. Na3 Bf5 11. Nb5 Qd7 12. Bf4 e5 13. Bxe5 Nxe5 14. Nxe5 Qxb5
+15. Nxf7 Rg8 16. Re1+ Kd7 17. Qf3 Bd6 18. Qxb7+ Bc7 19. Re5 Rgb8 20. Rxb5 Rxb7
+21. Rxf5 a5 22. Rd1 a4 23. Rxd3+ Kc8 24. Be6+ Kb8 25. Nd8 Bxd8 26. Rxd8+ Ka7
+27. Ra5# 1-0

@@ -1,0 +1,20 @@
+[Event "Kecskemet op"]
+[Site "Kecskemet "]
+[Date "1985.??.??"]
+[Round "8"]
+[White "Siklosi, Zoltan"]
+[Black "Szekely, Csaba"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "e737f7dc"]
+[Epoch "Queen"]
+[WhiteID "700380"]
+[BlackID "703141"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 d6 6. Be2 Nf6 7. O-O Be7 8. f4
+Qc7 9. Kh1 b6 10. Bf3 Bb7 11. e5 dxe5 12. fxe5 Nfd7 13. Bxb7 Qxb7 14. Qh5 O-O
+15. Rf3 g6 16. Qh6 Rd8 17. Rxf7 1-0

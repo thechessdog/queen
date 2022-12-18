@@ -1,0 +1,17 @@
+[Event "Berlin Neukoelln"]
+[Site "Berlin-West"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Weber, Siegfried"]
+[Black "Zsinka, Laszlo"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "8e6d292e"]
+[Epoch "Queen"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 d5 6. exd5 h6 7. Ne4 f5 8. Nf2
+Nf6 9. Nc3 Nh5 10. d4 Bd6 11. Nd3 O-O 12. Ne2 Re8 13. Kf2 Re4 14. Nc5 Na6 15.
+Nxa6 bxa6 16. c4 Be7 0-1

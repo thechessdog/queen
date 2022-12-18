@@ -1,0 +1,19 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Mella, Luciano"]
+[Black "Muller, Leonhard"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "0b4a1817"]
+[Epoch "Queen"]
+[WhiteID "1317032"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Bg5 Nf6 7. h3 O-O 8. Qd2
+Nd4 9. Nd1 e5 10. c3 Ne6 11. h4 Rb8 12. Ne3 b5 13. Ne2 Nxg5 14. hxg5 Ne8 15. f4
+Bd7 16. O-O-O a5 17. Rh2 a4 18. Rdh1 a3 19. b3 f6 20. Rxh7 fxg5 21. f5 Nf6 22.
+R7h2 gxf5 23. Nxf5 Ng4 24. Rh7 Bxf5 25. exf5 d5 26. Bxd5+ Qxd5 27. Rxg7+ 1-0

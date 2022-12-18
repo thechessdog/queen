@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Blees, Albert"]
+[Black "Tolnai, Tibor"]
+[Result "1-0"]
+[ECO "A70"]
+[Opening "Benoni"]
+[Variation "classical with e4 and Nf3"]
+[HashCode "d63c4d79"]
+[Epoch "Queen"]
+[WhiteID "1000217"]
+[WhiteCountry "NED"]
+[BlackID "700126"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3
+O-O 9. Bd3 b5 10. Nxb5 Nxe4 11. Bxe4 Re8 12. Nd2 Ba6 13. a4 Qa5 14. Nxd6 Nd7
+15. g4 Ne5 16. Ra3 Qb4 17. Qc2 Bh6 18. Kd1 Qd4 19. Re1 Bf4 20. Nxe8 Rxe8 21.
+Bf3 Kg7 22. Qc3 Qxf2 23. Ne4 Qh2 24. Bxf4 Qxf4 25. Qd2 1-0

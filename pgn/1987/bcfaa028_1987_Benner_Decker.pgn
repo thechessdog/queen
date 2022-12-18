@@ -1,0 +1,19 @@
+[Event "Mainz op"]
+[Site "Mainz"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Benner, J."]
+[Black "Decker, A."]
+[Result "0-1"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "bcfaa028"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 c5 6. Bd2 Nc6 7. Bd3 dxc4 8. Bxc4
+cxd4 9. exd4 Nxd4 10. Bb5+ Nxb5 11. Nxb5 Bxd2+ 12. Qxd2 Qxd2+ 13. Nxd2 O-O 14.
+Nc7 Rb8 15. O-O Bd7 16. Rac1 Rbc8 17. Rfd1 Bc6 18. Nxe6 fxe6 19. h3 Bb5 20. Nf3
+Ne4 21. Rxc8 Rxc8 22. Rd4 Bc6 23. Ne5 Bd5 24. f3 Rc1+ 25. Kh2 Ng5 26. Rf4 Rc7
+27. a4 Nf7 28. Nxf7 Rxf7 29. Kg3 Rxf4 30. Kxf4 Kf7 31. Ke5 Ke7 32. b4 a6 33. a5
+Bc4 34. Kd4 Bf1 0-1

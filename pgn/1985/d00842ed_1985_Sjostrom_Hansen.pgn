@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Sjostrom, Jan"]
+[Black "Hansen, Soren Bech"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "d00842ed"]
+[Epoch "Queen"]
+[WhiteID "1455451"]
+[WhiteCountry "DEN"]
+[BlackID "1400681"]
+[BlackCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Ne7 6. Bd3 c5 7. exd5 exd5 8.
+Nf3 c4 9. Be2 Nd7 10. O-O Ng6 11. Re1 O-O 12. Bf1 h6 13. Be3 Nf6 14. Ne5 Nh4
+15. f3 Nf5 16. Bd2 b5 17. Qc1 h5 18. Bg5 Qb6 19. g4 hxg4 20. Nxg4 Nh7 21. Bf4
+Qg6 22. Kf2 Qb6 23. Bh3 a5 24. Ne3 Nxe3 25. Bxc8 Nxc2 26. Qxc2 Raxc8 27. Re5
+Rfd8 28. Rg1 b4 29. axb4 axb4 30. Rb1 b3 31. Qd2 Ra8 32. Rb2 Ra1 33. Ke3 Qg6
+34. Kf2 Qg1+ 35. Ke2 Qf1+ 36. Ke3 Re1+ 0-1

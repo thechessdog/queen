@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Klein"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, Botvinnik variation"]
+[HashCode "a72c95c1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 bxc6 7. Bc4 Nd5 8.
+O-O Bd6 9. Nc3 Be6 10. Ne4 Bc7 11. b3 O-O 12. Bb2 Nd7 13. Nd4 Ne5 14. Be2 Qh4
+15. Nf3 Nxf3+ 16. Bxf3 Rad8 17. Qe2 Qh6 18. Bd4 f5 19. Nc3 Ne3 20. Bxa7 Ng4 21.
+Bxg4 fxg4 0-1

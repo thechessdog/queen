@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Le Blancq, Simon"]
+[Black "Wood, Stephen"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "cfb258f9"]
+[Epoch "Queen"]
+[BlackID "425869"]
+[BlackCountry "ENG"]
+[WhiteCountry "ZWE"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. Nh3 a6 8. Bc4
+Nf6 9. Bb3 e5 10. dxe6 Be7 11. Qe2 c6 12. Rd1 Qa5 13. O-O O-O 14. Bd6 Kh8 15.
+Nf4 Bxd6 16. Nxg6+ hxg6 17. Rxd6 Qe5 18. Rfd1 Ng4 19. g3 Qf6 20. f4 Re8 21.
+Nxe4 1-0

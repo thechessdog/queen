@@ -1,0 +1,19 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Borrmann, F."]
+[Black "Downey, M."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "4eb2e43f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 d6 4. d4 e4 5. Ng5 Bxf5 6. Nc3 d5 7. f3 Bb4 8.
+fxe4 Bxe4 9. Nxe4 dxe4 10. Bb5+ Nd7 11. Qh5+ Kf8 12. Bc4 Bxc3+ 13. bxc3 Qe7
+14. Ba3 c5 15. Bxg8 Kxg8 16. O-O Nf6 17. Rxf6 gxf6 18. Bxc5 Qe6 19. Rf1 b6
+20. d5 Qe8 21. Qxe8+ Rxe8 22. Bd4 h5 23. Bxf6 Rh7 24. d6 Rd7 25. Be7 Rc8
+26. Rf5 Rxc3 27. Rf8+ Kg7 28. Rd8 Rxd8 29. Bxd8 Rxc2 30. Bg5 e3 31. Bxe3
+Rxa2 0-1
+

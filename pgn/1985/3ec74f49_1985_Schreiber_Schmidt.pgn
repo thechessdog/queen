@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Schreiber"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "0-1"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, O'Kelly variation"]
+[HashCode "3ec74f49"]
+[Epoch "Queen"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 b6 7. Bd3 Nc6 8. Nf3
+O-O 9. O-O Na5 10. e4 Ne8 11. Bf4 Ba6 12. Qe2 Qe7 13. e5 f5 14. d5 Bb7 15. d6
+Qd8 16. Bg5 Qc8 17. Be7 Bxf3 18. Qxf3 Rf7 19. g4 Nc6 20. Rfe1 Nxe7 21. dxe7 g6
+22. Qg3 Ng7 23. Qh4 Qe8 24. Rad1 fxg4 25. Bc2 Qxe7 26. Qxg4 Raf8 27. Rd2 Rf4
+28. Qg2 Rxc4 29. Red1 Qh4 30. Kh1 Rg4 31. Qf1 Nh5 32. Qe1 Qh3 0-1

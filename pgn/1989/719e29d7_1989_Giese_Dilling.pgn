@@ -1,0 +1,15 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Giese"]
+[Black "Dilling, R."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "719e29d7"]
+[Epoch "Queen"]
+
+1. b4 e5 2. Bb2 Bxb4 3. f4 f6 4. fxe5 fxe5 5. Bxe5 Nf6 6. Nf3 d6 7. a3 dxe5
+8. axb4 Qe7 9. c3 e4 10. Nd4 Nh5 11. g3 O-O 0-1
+

@@ -1,0 +1,17 @@
+[Event "Tampere op ch-SF"]
+[Site "Tampere op ch-SF"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Haataja, R."]
+[Black "Heinola, Kari P."]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "85b2d004"]
+[Epoch "Queen"]
+[BlackID "503495"]
+[BlackCountry "FIN"]
+
+1. c4 g5 2. d4 Bg7 3. Bxg5 c5 4. Nf3 cxd4 5. Nxd4 Qb6 6. Nb5 Bxb2 7. Be3 Qa5+
+8. Nd2 Bxa1 9. Qxa1 f6 10. g4 d5 11. Bf4 Na6 12. e3 Bxg4 13. cxd5 Rc8 14. Qd4
+Rc1# 0-1

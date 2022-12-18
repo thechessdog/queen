@@ -1,0 +1,17 @@
+[Event "Caorle"]
+[Site "Caorle"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jurkovic"]
+[Black "Cappellani, Vincenz"]
+[Result "1-0"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "d6161d89"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Bg5 Be7 9. Qf3 Qc7 10. O-O-O O-O 11. e5 Bb7 12. exf6 Bxf3 13. fxe7 Bxd1 14.
+Nxe6 1-0
+

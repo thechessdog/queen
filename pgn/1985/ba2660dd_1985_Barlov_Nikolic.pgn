@@ -1,0 +1,27 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Barlov, Dragan"]
+[Black "Nikolic, Zivoslav"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Lundin (Kevitz-Mikenas) defence"]
+[HashCode "ba2660dd"]
+[Epoch "Queen"]
+[WhiteID "900214"]
+[WhiteCountry "SRB"]
+[BlackID "900540"]
+[BlackCountry "SRB"]
+
+1. d4 Nc6 2. c4 e5 3. d5 Nce7 4. Nc3 Ng6 5. g3 Bb4 6. Qc2 a5 7. a3 Be7 8. h4 d6
+9. e4 h6 10. Bh3 Bxh3 11. Nxh3 Nf6 12. Be3 Nf8 13. O-O-O N8d7 14. f3 Nc5 15.
+Nf2 Nfd7 16. Kb1 Nb6 17. Nd3 Nxd3 18. Qxd3 Nd7 19. Nb5 Ra6 20. Rh2 a4 21. Qf1
+O-O 22. Qh3 c6 23. dxc6 Rxc6 24. Rc2 Nc5 25. Bxc5 Rxc5 26. h5 f5 27. exf5 Qc8
+28. g4 Rxc4 29. Rxc4 Qxc4 30. Qf1 Qxf1 31. Rxf1 d5 32. Rd1 Rd8 33. Nc3 d4 34.
+Ne4 Bg5 35. Kc2 Rc8+ 36. Kd3 Rc6 37. Rb1 Rb6 38. Nc5 Be7 39. Nxa4 Rb3+ 40. Ke4
+b5 41. Nb6 Re3+ 42. Kd5 Bg5 43. Nd7 Rxf3 44. Nxe5 Rb3 45. Ke4 Kf8 46. Nd3 Bf6
+47. Rc1 Ke7 48. Rc7+ Kd8 49. Rc2 Ke7 50. Rc6 Ke8 51. Rd6 Ke7 52. Ra6 Kf7 53.
+Re6 Kf8 54. Rb6 Ke7 55. Ra6 Kf7 56. Ra7+ Kg8 57. a4 bxa4 58. Rxa4 Kf7 59. Rb4
+Rxb4 60. Nxb4 d3 61. Nxd3 Ke7 62. Kd5 Bg5 63. b4 Be3 64. Nc5 1-0

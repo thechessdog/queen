@@ -1,0 +1,17 @@
+[Event "Hallsberg"]
+[Site "Hallsberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ostergaard"]
+[Black "Ericsson, Robert"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "7d486fe1"]
+[Epoch "Queen"]
+[BlackID "1703471"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. Nc3 Nc6 6. Bg5 Be7 7. Bxe7 Ngxe7 8.
+e3 Bg4 9. dxc5 Qa5 10. Qa4 Qxc5 11. Qxg4 1-0

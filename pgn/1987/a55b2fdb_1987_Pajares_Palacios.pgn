@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Pajares"]
+[Black "Palacios"]
+[Result "1-0"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "a55b2fdb"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. cxd5 Nxd5
+8. dxc5 f5 9. Nh3 Bd7 10. c4 Qh4+ 11. Nf2 Qf6 12. Bg5 Qxg5 13. cxd5 O-O 14.
+Rb1 exd5 15. Qxd5+ Kh8 16. Qxb7 Bc6 17. Qc7 Qf6 18. Qa5 Nd7 19. Rd1 Rfb8
+20. Rd6 Rb1+ 21. Nd1 Qh4+ 22. g3 Qa4 23. Qxa4 Bxa4 24. c6 Ne5 25. Bg2 Rxd1+
+26. Rxd1 Bxd1 27. Kxd1 Nxc6 28. f4 Rd8+ 29. Kc1 Nd4 30. e3 Rc8+ 31. Kd2
+Nb3+ 32. Kd3 Rd8+ 33. Kc3 Nc5 34. Kc4 Ne4 35. Bxe4 fxe4 36. Rb1 h6 37. Rb7
+Rd3 38. Rxa7 Rxe3 39. Kd4 Re2 40. h3 Rh2 41. g4 Rxh3 42. Kxe4 Rg3 43. Kf5
+Kg8 44. a4 Rc3 45. g5 Rc5+ 46. Kg4 hxg5 47. f5 Rc1 48. Kh5 Rf1 49. Kg6 Kf8
+50. Rf7+ Ke8 51. Kxg7 g4 52. f6 g3 53. Re7+ Kd8 54. Re2 Rf2 55. Re1 Rf4 56.
+f7 Rg4+ 57. Kf6 g2 58. f8=Q+ 1-0
+

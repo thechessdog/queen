@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mueller, F."]
+[Black "Baerthel, K."]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "65bf4db8"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nc6 7. Bd3 Nf6
+8. O-O Ne5 9. h3 Bc5 10. Qe2 d6 11. f4 Ng6 12. Rae1 O-O 13. Nd1 e5 14. fxe5
+dxe5 15. Nf5 Nf4 16. Qf2 Bxe3 17. Ndxe3 Be6 18. b3 Rad8 19. Rd1 Rd7 20. Qf3
+Rfd8 21. Be2 Nxe4 22. Rxd7 Rxd7 23. Qxe4 Nxe2+ 24. Kh2 Rd4 0-1
+

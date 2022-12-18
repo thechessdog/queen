@@ -1,0 +1,19 @@
+[Event "corr AUS-CA"]
+[Site "corr AUS-CA"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wemyss"]
+[Black "Barclay"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "dd2d3080"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. Qb3 Nxc3 7. bxc3 c5
+8. e3 O-O 9. Ba3 cxd4 10. Nxd4 Qc7 11. Be2 a6 12. O-O Re8 13. f4 Nc6 14.
+Bc5 Nxd4 15. exd4 Be6 16. Qb2 Rac8 17. Rab1 Bf5 18. Rbc1 Be4 19. Qd2 e5 20.
+fxe5 Bxe5 21. h3 Qd7 22. Bc4 Bf5 23. Qf2 Bb8 24. g4 Be6 25. Bb3 Qc7 26. Ba3
+Bxb3 27. axb3 Re3 28. h4 Rg3+ 29. Kh1 Qc6+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "Oakham YM"]
+[Site "Oakham"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Ludvigsen, Frode"]
+[Black "Kuznecov, Alex"]
+[Result "0-1"]
+[ECO "D84"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit accepted"]
+[HashCode "df63461e"]
+[Epoch "Queen"]
+[WhiteID "1500228"]
+[WhiteCountry "NOR"]
+[BlackID "2600331"]
+[BlackCountry "CAN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8.
+Bxc7 Na6 9. Bxa6 bxa6 10. Nf3 Qb7 11. Bg3 Qxb2 12. O-O Bf5 13. Qb3 Qxb3 14.
+axb3 Rfc8 15. Rfc1 Bd3 16. Ne5 Bb5 17. Nc4 Bf8 18. Rc2 Rc6 19. Kf1 e6 20. Ke1
+a5 21. Kd1 a4 22. Nd2 Be2+ 23. Kc1 Rxc2+ 24. Kxc2 Rc8+ 25. Nc4 0-1

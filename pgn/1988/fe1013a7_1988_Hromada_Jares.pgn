@@ -1,0 +1,17 @@
+[Event "corr CSSR"]
+[Site "corr CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Hromada"]
+[Black "Jares"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "fe1013a7"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 c5 6. Bd3 cxd4 7. exd4 dxc4
+8. Bxc4 a6 9. O-O Qc7 10. Qa4+ Nc6 11. d5 exd5 12. Nxd5 Nxd5 13. Bxd5 Be7
+14. Bf4 Qd7 15. Rad1 b5 16. Qe4 1-0
+

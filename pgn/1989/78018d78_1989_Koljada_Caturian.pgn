@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Koljada"]
+[Black "Caturian, V."]
+[Result "0-1"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Romanovsky variation"]
+[HashCode "78018d78"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5
+8. dxc5 f5 9. Nh3 Qa5 10. e4 fxe4 11. fxe4 Qxc3+ 12. Bd2 Qe5 13. Bb5+ Bd7
+14. Bxd7+ Nxd7 15. O-O N5f6 16. Rc1 O-O 17. Rc4 Qc7 18. Nf4 Qc6 19. Qc2
+Rac8 20. Nd3 Nxe4 21. Rxf8+ Rxf8 22. Be3 Nef6 23. Qb3 Qc7 24. Nb4 Qe5 25.
+c6 Ng4 0-1
+

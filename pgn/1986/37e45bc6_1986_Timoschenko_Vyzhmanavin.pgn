@@ -1,0 +1,23 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Timoshchenko, Gennadi"]
+[Black "Vyzhmanavin, Alexei"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "37e45bc6"]
+[Epoch "Queen"]
+[WhiteCountry "SVK"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 cxd4 8.
+exd4 Nxd5 9. O-O Nc6 10. Bc2 Be7 11. a3 Nxc3 12. bxc3 e5 13. d5 Na5 14. f4 exf4
+15. Bxf4 Bd6 16. Ng3 g6 17. Bxd6 Qxd6 18. Ne4 Qb6+ 19. Kh1 Bf5 20. Ng5 h6 21.
+Nf3 Bxc2 22. Qxc2 Nc4 23. Qd3 Qc5 24. Rae1 Rae8 25. h3 Ne3 26. Rg1 Nxd5 27. Ne5
+Nf4 28. Qe4 Nh5 29. Re3 Nf6 30. Qd4 Qxd4 31. cxd4 Nd5 32. Rb3 Re7 33. Rgb1 b6
+34. Rc1 Kg7 35. Rb5 Nf4 36. Rf1 Ne2 37. Nc6 Ng3+ 38. Kg1 Rc7 39. Rf3 Ne2+ 40.
+Kf2 Rxc6 41. Kxe2 Rc2+ 42. Kd3 Rfc8 43. a4 f5 44. Rb3 Rxg2 45. a5 bxa5 46. Rb7+
+Kf6 47. Rxa7 Rgc2 0-1

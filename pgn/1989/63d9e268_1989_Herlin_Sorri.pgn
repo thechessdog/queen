@@ -1,0 +1,18 @@
+[Event "corr Finland"]
+[Site "corr Finland"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Herlin"]
+[Black "Sorri"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "63d9e268"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Bg4 9. Nc3 Nxc3 10. bxc3 O-O 11. Re1 dxc4 12. Bxc4 Na5 13. Bd3 c5 14.
+Ba3 Rc8 15. h3 Be6 16. Bc2 b5 17. Qd3 g6 18. Qxb5 Nc4 19. Bxc5 Bxc5 20.
+dxc5 Rb8 21. Qa6 Bd5 22. Rad1 Rb7 23. Rxd5 1-0
+

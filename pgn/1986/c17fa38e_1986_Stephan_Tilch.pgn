@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Stephan, E."]
+[Black "Tilch"]
+[Result "1-0"]
+[ECO "E74"]
+[Opening "King's Indian"]
+[Variation "Averbakh, 6...c5"]
+[HashCode "c17fa38e"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Bf4
+e6 9. dxe6 Bxe6 10. Qd2 Qb6 11. h4 Nc6 12. O-O-O Kh7 13. Nf3 Rad8 14. Ng5+
+hxg5 15. hxg5+ Nh5 16. g4 Ne5 17. gxh5 Kg8 18. Nd5 Bxd5 19. exd5 Qc7 20.
+Bxe5 Bxe5 21. hxg6 fxg6 22. f4 Bg7 23. Bg4 1-0
+

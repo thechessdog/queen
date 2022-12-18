@@ -1,0 +1,18 @@
+[Event "Nikea op"]
+[Site "Greece"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Gazis, Efstathios"]
+[Black "Utasi, Tamas"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "8c3bc04c"]
+[Epoch "Queen"]
+[WhiteID "4200659"]
+[WhiteCountry "GRE"]
+[BlackCountry "HUN"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 Ng4 6. Bg5 h6 7. Bf4 g5 8. Bg3
+h5 9. h4 gxh4 10. Bxh4 Nc6 11. f3 Bh6 12. Bg5 Bxg5 13. Qxg5 Nf6 14. O-O-O e5
+15. Nge2 Qe7 16. Nb5 Rg8 17. Qh4 Rg6 18. dxe5 dxe5 19. Ng3 a6 20. Nf5 1-0

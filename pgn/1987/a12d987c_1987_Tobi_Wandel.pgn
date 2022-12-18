@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Tobi"]
+[Black "Wandel"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "a12d987c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6
+8. Bd3 h6 9. N5f3 c5 10. dxc5 Bxc5 11. Bd2 Qc7 12. O-O-O Nbd7 13. Nh3 g5
+14. Bc3 g4 15. Ne5 gxh3 16. Nxd7 Bxd7 17. Be5 Qb6 18. Bxf6 hxg2 19. Rhg1
+Bd4 20. Bxd4 Qxd4 21. Rxg2 O-O-O 22. Rg4 Qb6 23. Rc4+ Bc6 24. Be4 Rxd1+ 25.
+Qxd1 Rd8 26. Qf3 Qa6 27. Qc3 Rd6 1/2-1/2
+

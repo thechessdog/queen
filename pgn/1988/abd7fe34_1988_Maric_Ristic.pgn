@@ -1,0 +1,25 @@
+[Event "GMA-Open"]
+[Site "Belgrade open"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Maric, Dragan"]
+[Black "Ristic, Nenad"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.f4"]
+[HashCode "abd7fe34"]
+[Epoch "Queen"]
+[WhiteID "903400"]
+[WhiteCountry "SRB"]
+[BlackID "901318"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 10. e5 Qb6 11. b3 Nef5 12. Bf2 Nxf3+ 13. Qxf3 dxe5 14. fxe5 Bxe5
+15. Na4 Qa5 16. c3 Bd7 17. Bxc5 Bxa4 18. Bxf8 Bc6 19. Bb4 Bxf3 20. Bxa5 Bxg2
+21. Rfe1 Bf6 22. Kxg2 b6 23. Bxb6 axb6 24. d4 b5 25. a4 b4 26. cxb4 Nxd4 27.
+Rab1 Rc8 28. Rec1 Rb8 29. b5 Rb7 30. Kf2 Be7 31. Rc8+ Kg7 32. Ke3 Nf5+ 33. Kd3
+Rd7+ 34. Kc3 Nd6 35. Rc6 Ne4+ 36. Kb2 Rd2+ 37. Rc2 Ba3+ 38. Kxa3 Rxc2 39. b6
+Rc8 40. a5 Rb8 41. Rc1 Kf6 42. Rc6 Ke5 43. a6 Kd5 44. a7 Ra8 45. Rc8 Rxc8 46.
+b7 1-0

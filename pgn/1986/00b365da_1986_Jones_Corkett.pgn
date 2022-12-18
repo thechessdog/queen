@@ -1,0 +1,18 @@
+[Event "corr GB"]
+[Site "corr GB"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jones"]
+[Black "Corkett"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch, von Hennig-Schara gambit"]
+[HashCode "00b365da"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5
+Bd7 8. Qb3 Bb4 9. e3 Nf6 10. Bd2 O-O 11. Nf3 Be6 12. Qc2 Rc8 13. a3 Bd6 14.
+Be2 Qb6 15. b4 h6 16. O-O Bb8 17. Qb2 Ng4 18. g3 Nce5 19. Rfd1 Nxf3+ 20.
+Bxf3 Ne5 21. Bg2 Bg4 22. Rdc1 Nf3+ 23. Kh1 Qg6 0-1
+

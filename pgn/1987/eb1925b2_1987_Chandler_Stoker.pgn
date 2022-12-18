@@ -1,0 +1,18 @@
+[Event "corr ch-GB"]
+[Site "corr ch-GB"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Chandler"]
+[Black "Stoker"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "eb1925b2"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 dxc4 5. Qxc4 Bf5 6. Nc3 e6 7. g3 h6 8.
+Bg2 Be7 9. O-O Nbd7 10. Qb3 Qb6 11. Qxb6 axb6 12. Nd2 O-O 13. e4 Bh7 14. f4
+b5 15. Nb3 b4 16. e5 bxc3 17. exf6 Nxf6 18. bxc3 Ra7 19. Rf2 Ne4 20. Bxe4
+Bxe4 21. Nc5 Bxc5 22. dxc5 1/2-1/2
+

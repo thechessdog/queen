@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Cherek"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "302ce950"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Bg4 11. Bc2 Be7 12. h3 Bh5 13. Re1 d4 14. Ne4 d3 15.
+Nxc5 dxc2 16. Qxd8+ Rxd8 17. Nxa6 Rd1 18. Be3 Bxf3 19. gxf3 Rxa1 20. Rxa1 Kd7
+21. f4 Ra8 22. Nc5+ Bxc5 23. Bxc5 Rxa2 24. Rc1 Rxb2 25. Ba3 Rb1 0-1

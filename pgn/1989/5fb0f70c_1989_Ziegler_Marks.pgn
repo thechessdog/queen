@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Ziegler, M."]
+[Black "Marks"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "5fb0f70c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. Nxe5 Bd6 4. d4 dxe4 5. Bc4 Bxe5 6. Qh5 Qe7 7. dxe5
+Nc6 8. Bd5 Nxe5 9. Nc3 Nf6 10. Qe2 Bg4 11. Qe3 O-O-O 12. Bxe4 Nxe4 13. Qxe4
+f5 14. Qe3 f4 15. Qe4 Rd4 0-1
+

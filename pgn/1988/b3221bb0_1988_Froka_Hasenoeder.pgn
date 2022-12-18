@@ -1,0 +1,16 @@
+[Event "Nuremberg op"]
+[Site "Nuremberg"]
+[Date "1988.??.??"]
+[Round "6"]
+[White "Froka"]
+[Black "Hasenoeder, Matthias"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "b3221bb0"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 6. a3 Bxc3+ 7. bxc3 Nc6
+8. Bd3 d6 9. O-O e5 10. Bb2 e4 0-1
+

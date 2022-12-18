@@ -1,0 +1,19 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Camara, M."]
+[Black "Manresa, J."]
+[Result "0-1"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "3...Nf6"]
+[HashCode "42a9eee1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 e6 4. e3 b6 5. Bd3 Bb7 6. cxd5 exd5 7. Nge2 Nbd7
+8. O-O g6 9. Ng3 Bg7 10. e4 dxe4 11. Bxe4 Nxe4 12. Ngxe4 O-O 13. Ng3 Re8
+14. Be3 Nf6 15. Bg5 Qd7 16. Bxf6 Bxf6 17. Nce2 Rad8 18. Qc2 Qd5 19. f3
+Bxd4+ 20. Nxd4 Qxd4+ 21. Kh1 Qf4 22. Rad1 c5 23. Qc3 Rd4 24. Rxd4 cxd4 25.
+Qc1 Qxc1 26. Rxc1 d3 27. Kg1 d2 0-1
+

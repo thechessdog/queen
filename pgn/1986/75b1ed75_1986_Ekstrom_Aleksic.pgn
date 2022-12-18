@@ -1,0 +1,21 @@
+[Event "Mendrisio"]
+[Site "Mendrisio"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Ekstroem, Roland"]
+[Black "Aleksic"]
+[Result "1-0"]
+[ECO "B93"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.f4"]
+[HashCode "75b1ed75"]
+[Epoch "Queen"]
+[WhiteID "1302302"]
+[WhiteCountry "SUI"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. f4 Qc7 7. Bd3 e6 8. Qf3
+Nbd7 9. g4 Nc5 10. f5 Nfd7 11. fxe6 fxe6 12. Rf1 Ne5 13. Qh3 g6 14. Be2 Bg7 15.
+Bh6 Bxh6 16. Qxh6 Qe7 17. O-O-O Bd7 18. Nb3 Nxb3+ 19. axb3 O-O-O 20. Rd4 Bc6
+21. Rfd1 Kc7 22. Qe3 Kc8 23. Kb1 Rhf8 24. g5 Rf7 25. h4 Kb8 26. Na2 Qc7 27. Nb4
+Ka8 28. Bc4 Nf3 29. Bxe6 Nxd4 30. Bxf7 Nxc2 31. Kxc2 Qxf7 32. Nxc6 bxc6 33. Qb6
+Qe8 34. Rd4 Rd7 35. Qxc6+ Ka7 36. Rxd6 1-0

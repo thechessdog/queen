@@ -1,0 +1,16 @@
+[Event "Bad Woerishofen op"]
+[Site "Bad Woerishofen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Preissler, R."]
+[Black "Schaefer, H."]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "892c239c"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. Bd2 cxd4 6. Nce2 Bxd2+ 7. Qxd2 dxe4
+8. Bxe4 Nf6 9. Bd3 O-O 10. Nxd4 b6 11. Ngf3 Bb7 12. O-O Nbd7 13. Rad1 Qc7 14.
+c4 Rad8 15. Qc2 a6 16. b4 e5 17. Nf5 e4 18. Ne7+ Kh8 19. Be2 exf3 20. Bxf3 0-1

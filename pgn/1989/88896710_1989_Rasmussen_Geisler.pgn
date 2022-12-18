@@ -1,0 +1,18 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rasmussen, E."]
+[Black "Geisler"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "88896710"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. Nc3 Nf6 5. d4 e4 6. Ne5 Qe7 7. Bb5+ Bd7
+8. Nxd7 Nbxd7 9. Bg5 O-O-O 10. O-O h5 11. Qc1 Ne5 12. dxe5 Qxe5 13. g3 h4
+14. Qe3 Nxd5 15. Nxd5 hxg3 16. Qxa7 gxf2+ 17. Rxf2 Qxg5+ 18. Kh1 c6 19.
+Bxc6 1-0
+

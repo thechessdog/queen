@@ -1,0 +1,18 @@
+[Event "Cajas"]
+[Site "Cajas"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Cardiel, M."]
+[Black "Lirola, F."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "1e1c1528"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Bb5 Qa5+ 5. Nbd2 Qxb5 6. Nb3 e5 7. Bg5 f6
+8. Bh4 Bb4+ 9. Nfd2 Bxd2+ 10. Qxd2 d5 11. f3 dxe4 12. fxe4 Bg4 13. h3 Bh5
+14. g4 Bg6 15. Qg2 Nge7 16. O-O-O Nb4 17. a3 Nxc2 18. Qxc2 Rc8 19. Qxc8+
+Nxc8 0-1
+

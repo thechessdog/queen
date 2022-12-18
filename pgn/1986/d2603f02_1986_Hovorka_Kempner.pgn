@@ -1,0 +1,18 @@
+[Event "Wisconsin"]
+[Site "Wisconsin"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Hovorka, J."]
+[Black "Kempner, B."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "d2603f02"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bg4 4. Nc3 d4 5. Bc4 Bxf3 6. Qxf3 dxc3 7. Bxf7+
+Kxf7 8. fxe5+ Ke8 9. O-O Bc5+ 10. Kh1 Nf6 11. dxc3 Rf8 12. Bg5 Nbd7 13.
+Rad1 Qe7 14. exf6 gxf6 15. Bh6 Rg8 16. e5 Nxe5 17. Qxb7 Rd8 18. Qb5+ c6 19.
+Rxd8+ Qxd8 20. Qxc5 Rg6 21. Qf8+ 1-0
+

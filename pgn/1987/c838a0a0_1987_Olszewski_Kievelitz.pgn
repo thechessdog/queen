@@ -1,0 +1,21 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Olszewski, W."]
+[Black "Kievelitz, B."]
+[Result "1-0"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "c838a0a0"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. g5 hxg5 8.
+Bxg5 Nc6 9. Qd2 Qb6 10. Nb3 a6 11. O-O-O Qc7 12. Bg2 Bd7 13. h4 Be7 14. Rh3
+O-O-O 15. Na4 d5 16. Be3 d4 17. Nxd4 Nxd4 18. Qxd4 Bb5 19. Nb6+ Kb8 20. Nd5
+exd5 21. exd5 b6 22. Qxb6+ Qxb6 23. Bxb6 Rc8 24. d6 Bd8 25. Bxd8 Rcxd8 26.
+Rd4 Ka7 27. a4 Bd7 28. Rc3 Rb8 29. Rc7+ Kb6 30. b4 a5 31. c4 Bxa4 32. Bf1
+Rb7 33. c5+ Ka7 34. b5 Bb3 35. b6+ Kb8 36. Bg2 Rxc7 37. dxc7+ Kc8 38. c6
+Be6 39. Bf1 1-0
+

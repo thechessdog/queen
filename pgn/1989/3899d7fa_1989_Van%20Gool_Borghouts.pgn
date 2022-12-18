@@ -1,0 +1,19 @@
+[Event "Venlo"]
+[Site "Venlo"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Van Gool, R."]
+[Black "Borghouts, H."]
+[Result "0-1"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[HashCode "3899d7fa"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 h6 8.
+Be3 Be7 9. O-O O-O 10. f4 a6 11. a4 Na5 12. Nxa5 Qxa5 13. Qd2 Qb4 14. Bf3
+Re8 15. f5 Bd7 16. Qd3 Rac8 17. Ra3 Qc4 18. Qxc4 Rxc4 19. Re1 d5 20. Be2
+Rcc8 21. Rb3 d4 22. Rxb7 dxc3 23. b3 Bc6 24. Rb6 Bxe4 25. Bxa6 Rc6 26. a5
+Bd8 27. Bb5 Rxb6 28. axb6 Re7 29. Rd1 Nd5 30. Bc5 Bxb6 31. Rxd5 0-1
+

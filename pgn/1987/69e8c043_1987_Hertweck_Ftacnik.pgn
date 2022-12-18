@@ -1,0 +1,18 @@
+[Event "Baden-Baden op"]
+[Site "Baden-Baden"]
+[Date "1987.01.01"]
+[Round "2"]
+[White "Hertweck, M."]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "69e8c043"]
+[Epoch "Queen"]
+[BlackID "14900017"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Be2 c5 7. c3 Qb6 8. Qb3
+Nc6 9. Bxf6 Bxf6 10. Qxd5 Qxb2 11. O-O cxd4 12. cxd4 Be6 13. Qc5 Rac8 14. Qc1
+Nxd4 0-1

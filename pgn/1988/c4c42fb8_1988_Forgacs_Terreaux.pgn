@@ -1,0 +1,20 @@
+[Event "Bern op"]
+[Site "Bern"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Forgacs, Gyula"]
+[Black "Terreaux, Gilles"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "c4c42fb8"]
+[Epoch "Queen"]
+[WhiteID "701203"]
+[BlackID "1300423"]
+[WhiteCountry "HUN"]
+[BlackCountry "SUI"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 b6 6. Bg2 Bb7 7. O-O c5 8. Re1
+Nc6 9. Qe2 Qc7 10. Nf1 Nd4 11. Nxd4 cxd4 12. Bf4 Qc5 13. e5 Nd7 14. h4 O-O-O
+15. Nd2 Kb8 16. Nb3 Qb4 17. a4 Rc8 18. Bd2 Rxc2 19. Bxb4 Rxe2 20. Bxe7 1-0

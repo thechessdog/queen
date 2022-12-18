@@ -1,0 +1,18 @@
+[Event "corr EGWT"]
+[Site "corr EGWT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jensen, Niels"]
+[Black "Rasmussen, E."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "63e7b030"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Bb4+ 6. c3 O-O 7. dxe4 Bc5
+8. Bg5 Re8 9. Nbd2 c6 10. c4 h6 11. Bh4 g5 12. Bg3 g4 13. Nh4 cxd5 14. e5
+Nh5 15. Nb3 Be7 16. Rd1 Bxh4 17. Rxd5 Qe7 18. Qd2 Bg5 19. Qc3 Nxg3 20. hxg3
+Nc6 21. f4 gxf3 22. gxf3 Nxe5 23. Kd1 Nc6 24. Nc5 Bf6 25. Qd2 Bg7 26. Rh2
+Ne5 0-1
+

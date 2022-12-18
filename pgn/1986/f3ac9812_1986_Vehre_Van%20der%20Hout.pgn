@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Vehre, John"]
+[Black "Van der Hout, Leo"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "f3ac9812"]
+[Epoch "Queen"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4 a6
+9. Nc3 Na7 10. Be3 Nb5 11. Na4 Qd8 12. Bd3 Ne7 13. Nc5 b6 14. Bxb5 1-0

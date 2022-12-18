@@ -1,0 +1,16 @@
+[Event "FIN-ch"]
+[Site "Espoo"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Lehtivaara, Risto"]
+[Black "Korhonen, Harri"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "9b362a75"]
+[Epoch "Queen"]
+[WhiteID "500275"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. exd5 Nf6 6. Nc3 Nxd5 7. Nf3 1/2-1/2

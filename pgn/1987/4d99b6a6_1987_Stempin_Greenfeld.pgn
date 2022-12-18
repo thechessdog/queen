@@ -1,0 +1,20 @@
+[Event "Polanica Zdroj"]
+[Site "Polanica Zdroj"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Stempin, Pawel"]
+[Black "Greenfeld, Alon"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "4d99b6a6"]
+[Epoch "Queen"]
+[BlackID "2800039"]
+[BlackCountry "ISR"]
+[WhiteID "1100068"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Ba6 5. Qc2 Bb7 6. Nc3 c5 7. e4 cxd4 8. Nxd4
+Bc5 9. Nb3 Nc6 10. Bd3 O-O 11. Nxc5 bxc5 12. O-O Ng4 13. Rd1 Nge5 14. Be3 Ba6
+15. Bxc5 d6 16. Be3 Nxd3 1/2-1/2

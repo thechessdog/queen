@@ -1,0 +1,17 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Braga, Cicero Nogueira"]
+[Black "Heusdens"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[HashCode "cf166a6d"]
+[Epoch "Queen"]
+[WhiteID "2100118"]
+[WhiteCountry "BRA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. Bc4 Nf6 7. O-O Nxe4 8.
+Qd5 Ng5 9. Bxg5 Qxg5 10. Qxf7+ Kd8 11. Qc7+ Ke8 12. Bf7# 1-0

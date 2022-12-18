@@ -1,0 +1,20 @@
+[Event "corr DDR/K"]
+[Site "corr DDR/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Antoszkiewicz"]
+[Black "Hofmann"]
+[Result "0-1"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[HashCode "7aefdad3"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7
+8. Qe2 O-O 9. O-O-O Qc7 10. Bb3 a6 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14.
+Rg1 Nc5 15. e5 Nxb3+ 16. axb3 d5 17. Rh4 g6 18. f4 Bb7 19. Bd4 Bc5 20. Qe3
+Bxd4 21. Qxd4 Rfc8 22. Qd3 b4 23. Ne2 a5 24. Nd4 Qc5 25. Rd1 a4 26. bxa4
+Rxa4 27. Kd2 Ra2 28. Rb1 Ba6 29. Qe3 Qb6 30. Rg4 Qc5 31. Rg3 b3 32. c3 Qa3
+33. Ke1 Rxb2 34. Qc1 Rxb1 35. Qxb1 Rb8 36. Rg2 b2 37. Kd2 Bc4 0-1
+

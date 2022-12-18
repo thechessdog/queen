@@ -1,0 +1,21 @@
+[Event "Peer Gynt"]
+[Site "Gausdal"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Lauterbach, Ingrid"]
+[Black "Dahl, Ingrid"]
+[Result "1-0"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[HashCode "7cf4481f"]
+[Epoch "Queen"]
+[BlackID "1500830"]
+[BlackCountry "NOR"]
+[WhiteID "405221"]
+[WhiteCountry "ENG"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 f5 4. d4 Nf6 5. Ne5 e6 6. Nd2 Bd6 7. Ndf3 O-O 8. O-O
+Bd7 9. Bf4 Be8 10. Ng5 Qe7 11. Nd3 Nbd7 12. Bxd6 Qxd6 13. Nf3 Ng4 14. e3 Bh5
+15. Qd2 Ngf6 16. Nfe5 Ne4 17. Qe1 Rf6 18. f3 Ng5 19. h4 Nf7 20. Nf4 Rh6 21. g4
+fxg4 22. fxg4 Nfxe5 23. dxe5 Nxe5 24. g5 Be2 25. Nxe2 Ng4 26. Nf4 1-0

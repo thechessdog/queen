@@ -1,0 +1,16 @@
+[Event "Balatonbereny"]
+[Site "Balatonbereny"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Saltaev, Mihail"]
+[Black "Fries-Nielsen, Jens Ove"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "6a5e8e92"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Qd3 Na6 7. Bd2 Qb6
+8. O-O-O Be6 9. Qa3 Qxd4 10. Nf3 Qc5 11. Qa4 Bg7 12. Nd4 Nc7 13. Be3 b5 14.
+Nxe6 Nxe6 15. Qa6 Nc7 16. Qb7 Qe5 17. Qxc6+ Kf8 18. Qxa8+ 1-0

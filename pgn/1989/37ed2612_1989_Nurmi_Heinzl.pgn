@@ -1,0 +1,17 @@
+[Event "corr thematic"]
+[Site "corr thematic"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Nurmi, T."]
+[Black "Heinzl, G."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "37ed2612"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Qg4 g6 8. Nb5
+Bc7 9. Bg5 Ne7 10. Nf3 Nbc6 11. Qf4 a5 12. Nd6+ Kd7 13. Nxf7 Qe8 14. Nxh8
+Qxh8 15. Bf6 Qe8 16. b5 Nd8 17. Nxd4 b6 18. Qh4 Qg8 19. Bxe7 1-0
+

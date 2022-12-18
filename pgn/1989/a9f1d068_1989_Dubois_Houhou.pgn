@@ -1,0 +1,18 @@
+[Event "Belfort"]
+[Site "Belfort"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Dubois, Jean"]
+[Black "Houhou, O."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Wing gambit"]
+[HashCode "a9f1d068"]
+[Epoch "Queen"]
+[WhiteID "26052890"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 Nc6 6. axb4 Bxb4 7. c3 Ba5 8. d4
+Bd7 9. Bd3 Nge7 10. O-O Qc8 11. Ba3 h6 12. Qc1 O-O 13. Bxe7 Nxe7 14. Rxa5 Qc7
+15. Ra2 Rfc8 16. Qa3 1-0

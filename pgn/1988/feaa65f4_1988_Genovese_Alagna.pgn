@@ -1,0 +1,22 @@
+[Event "corr TS91"]
+[Site "corr TS91"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Genovese, M."]
+[Black "Alagna"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "feaa65f4"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Ne2 cxd4 7. exd4 d5 8.
+Bg5 Be7 9. O-O O-O 10. a3 dxc4 11. Bxc4 a6 12. Qd3 b5 13. Ba2 Ne5 14. Qh3
+Ng6 15. Qf3 Rb8 16. h4 Bb7 17. Qh3 Nd5 18. f4 Bxg5 19. Nxd5 Bxh4 20. Ne3
+Bf6 21. Rad1 Re8 22. g4 Bd5 23. Bb1 b4 24. g5 Bxg5 25. fxg5 Qxg5+ 26. Qg3
+Qxg3+ 27. Nxg3 bxa3 28. bxa3 Rb3 29. Rd3 Reb8 30. Nxd5 exd5 31. Rxb3 Rxb3
+32. Nf5 Rxa3 33. Rc1 h6 34. Rc8+ Kh7 35. Nd6 Ra1 36. Rb8 f6 37. Nf7 f5 38.
+Kf2 Ne7 39. Bd3 Ra2+ 40. Ke3 Kg6 41. Ne5+ Kg5 42. Rf8 g6 43. Rf7 f4+ 44.
+Kf3 1-0
+

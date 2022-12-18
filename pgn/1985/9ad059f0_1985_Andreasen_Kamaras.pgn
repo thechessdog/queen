@@ -1,0 +1,23 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "7"]
+[White "Andreasen, Per Naesby"]
+[Black "Kamaras, Peter"]
+[Result "1-0"]
+[ECO "A90"]
+[Opening "Dutch defence"]
+[Variation "Dutch-Indian (Nimzo-Dutch) variation"]
+[HashCode "9ad059f0"]
+[Epoch "Queen"]
+[WhiteID "1400886"]
+[WhiteCountry "DEN"]
+[BlackID "703265"]
+[BlackCountry "HUN"]
+
+1. c4 f5 2. d4 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. Nd2 O-O 6. Nf3 d5 7. O-O c6 8. Ne5
+Nbd7 9. Ndf3 Be7 10. c5 Ng4 11. Nd3 e5 12. dxe5 Nxc5 13. Nxc5 Bxc5 14. h3 Nh6
+15. Bxh6 gxh6 16. Qc1 Qb6 17. Qxh6 Rf7 18. Rac1 Rg7 19. Qf4 Bf8 20. Rc2 Rg6 21.
+e3 Be6 22. Nh4 Bh6 23. Qd4 Rg5 24. Kh2 Qa5 25. b4 Qd8 26. Rd1 Kh8 27. b5 cxb5
+28. Bxd5 Bxd5 29. Qxd5 Qxd5 30. Rxd5 a6 31. f4 Rh5 32. Rc7 b4 33. Rdd7 Bf8 34.
+e6 Re8 35. e7 1-0

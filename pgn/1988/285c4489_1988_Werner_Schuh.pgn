@@ -1,0 +1,23 @@
+[Event "Eppingen BM"]
+[Site "Eppingen BM"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Werner, Clemens"]
+[Black "Schuh, Hubert"]
+[Result "0-1"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "285c4489"]
+[Epoch "Queen"]
+[WhiteID "4604636"]
+[WhiteCountry "GER"]
+[BlackID "4600894"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 cxd4 8.
+cxd4 exd4 9. e5 O-O 10. Bg5 h6 11. Bh4 g5 12. Bxg5 hxg5 13. Nxg5 Nf5 14. Qh5
+Nh6 15. Nd2 d5 16. e6 Qf6 17. exf7+ Kh8 18. h3 Bf5 19. Bxc6 bxc6 20. Qh4 c5 21.
+g4 Bd7 22. Ndf3 d3 23. Rad1 c4 24. Ne5 Be6 25. Ng6+ Qxg6 26. Rxe6 Bf6 27. f4
+Rab8 28. Rd2 Rb6 29. Qe1 Nxf7 30. Nxf7+ Qxf7 31. Rxb6 axb6 32. f5 Re8 33. Qg3
+Qe7 0-1

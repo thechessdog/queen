@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Molzahn"]
+[Black "Fendselau"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "cafaeb8f"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. e3 b5 5. a4 a6 6. axb5 cxb5 7. b3 cxb3 8.
+Bxb5+ Bd7 9. Bc4 e6 10. Bd2 b2 11. Ra2 Nc6 12. Rxb2 a5 13. O-O Be7 14. Nc3
+Nf6 15. e4 O-O 16. e5 Ne8 17. d5 exd5 18. Nxd5 Bg4 19. Re1 Nc7 20. Bc3 Ne6
+21. Rd2 Qb8 22. h3 Bxf3 23. Qxf3 Bb4 24. Bxb4 axb4 25. Nf6+ gxf6 26. Qxc6
+Rc8 27. Qe4 fxe5 28. Bxe6 fxe6 29. Rd7 1-0
+

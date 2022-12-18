@@ -1,0 +1,23 @@
+[Event "Lugano open"]
+[Site "Lugano open"]
+[Date "1989.03.01"]
+[Round "5"]
+[White "Bode, Ulf"]
+[Black "Hoffmann, Hans"]
+[Result "0-1"]
+[ECO "B81"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, Keres attack"]
+[HashCode "23440824"]
+[Epoch "Queen"]
+[WhiteID "4606167"]
+[WhiteCountry "GER"]
+[BlackID "4602536"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 7. g5 Nfd7 8. Be3
+Nc6 9. h4 Qc7 10. Qe2 b5 11. a3 Nxd4 12. Bxd4 Nb6 13. O-O-O Bb7 14. h5 Nc4 15.
+Bh3 Be7 16. g6 Bg5+ 17. Kb1 e5 18. Nd5 Bxd5 19. exd5 f6 20. Be3 Bxe3 21. fxe3
+h6 22. Be6 Ke7 23. Rdf1 Qc5 24. Rh3 b4 25. Rh4 Nxb2 26. Rxb4 Rhb8 27. Kxb2
+Rxb4+ 28. axb4 Qxb4+ 29. Kc1 Qa3+ 30. Kd1 Qa1+ 31. Kd2 Qa5+ 32. c3 Qa2+ 33. Kd3
+e4+ 0-1

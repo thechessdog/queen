@@ -1,0 +1,16 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Tischbierek, Raj"]
+[Black "Goldberg"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "0489650e"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Be3 Qd7 11. Nbd2 Rd8 12. Nxe4 dxe4 13. Nd4 Nxd4 14. cxd4 Bd5
+15. Bxd5 Qxd5 16. Qc2 c6 17. Rfc1 Rc8 18. a4 b4 19. Qe2 1-0

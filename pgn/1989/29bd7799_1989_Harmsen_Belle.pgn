@@ -1,0 +1,25 @@
+[Event "Dieren"]
+[Site "Dieren"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Harmsen"]
+[Black "Belle"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "29bd7799"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 g6 4. Be3 d6 5. Qd2 Bg7 6. h4 h5 7. Nh3 Bxh3 8.
+Rxh3 Qd7 9. Be2 Nd4 10. Bd1 Nf6 11. f3 O-O-O 12. Nb1 Nc6 13. c3 e5 14. Ba4
+Kb8 15. c4 Rc8 16. Nc3 Qe6 17. Bxc6 bxc6 18. b3 Ne8 19. Na4 Ka8 20. Rh1 Rb8
+21. Ke2 Bf6 22. Rab1 Ng7 23. a3 Rb7 24. b4 Rhb8 25. Qa2 cxb4 26. axb4 Bd8
+27. Ra1 Qd7 28. Bd2 Ne6 29. Rhb1 Nd4+ 30. Kd1 Bxh4 31. Nc3 Bd8 32. Ne2 Nxe2
+33. Kxe2 Bb6 34. Bc3 f6 35. Qb2 d5 36. Qc2 Bd4 37. b5 dxe4 38. fxe4 Qg4+
+39. Ke1 Qh4+ 40. Kd1 Qh1+ 41. Kd2 Qxg2+ 42. Kc1 Qxc2+ 43. Kxc2 Bxc3 44.
+Kxc3 cxb5 45. c5 Rc8 46. Kb4 Rc6 47. Rd1 a6 48. d4 exd4 49. Rxd4 Rbc7 50.
+Rd5 Re7 51. Re1 Re5 52. Rxe5 fxe5 53. Rd1 g5 54. Rd5 Re6 55. Rd8+ Kb7 56.
+Rd7+ Kc8 57. Rh7 h4 58. Rg7 Rh6 59. c6 Rxc6 60. Rxg5 Rh6 61. Rxe5 h3 62.
+Rc5+ Kb7 63. Rc1 h2 64. Rh1 Kb6 0-1
+

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Jekov"]
+[Black "Prechtel"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[HashCode "49acc986"]
+[Epoch "Queen"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8.
+e4 Bxe4 9. fxe4 Nxe4 10. Qf3 Qxd4 11. Qxf7+ Kd8 12. Qxe6 Bxc3+ 13. bxc3
+Qf2+ 14. Kd1 Nxc3# 0-1
+

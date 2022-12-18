@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hunoldt"]
+[Black "Wilken"]
+[Result "0-1"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[HashCode "8a399f0f"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Qe2 Be7 9. Bg5 O-O 10. O-O-O Nxe4 11. Qxe4 Bxg5+ 12. f4 d5 13. Nxd5 exd5
+14. Bxd5 Bxf4+ 15. Kb1 Ra7 16. Qxf4 Qxd5 17. Qxb8 Rd7 18. Qf4 Rfd8 19. c3
+b4 20. Nf3 Qb5 21. Rxd7 Bxd7 22. c4 Bf5+ 23. Kc1 Rc8 24. b3 Qa5 25. Qd2 Rd8
+26. Re1 h6 27. Qb2 Rd3 28. Re2 Rc3+ 29. Kd1 Bg4 30. Re8+ Kh7 31. Qe2 Qf5
+32. Qe4 Rxf3 0-1
+

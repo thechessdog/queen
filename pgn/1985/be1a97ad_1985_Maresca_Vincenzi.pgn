@@ -1,0 +1,19 @@
+[Event "corr ITA Masters"]
+[Site "corr ITA Masters"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Maresca, Filippo"]
+[Black "Vincenzi, Riccardo"]
+[Result "0-1"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[HashCode "be1a97ad"]
+[Epoch "Queen"]
+[BlackID "2851399"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 O-O 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qe7 11. Ne5 Nxe5 12. dxe5 Nd7 13. f4 Nb6 14. Bb3 Bd7
+15. a4 Rad8 16. Qh5 Bc6 17. Bc2 g6 18. Qh6 f5 19. exf6 Qxf6 20. Ra3 Nc4 21. e4
+Nxa3 22. e5 Qg7 0-1

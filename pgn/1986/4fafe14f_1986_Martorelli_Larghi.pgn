@@ -1,0 +1,20 @@
+[Event "Aosta"]
+[Site "Aosta"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Martorelli, Antonio"]
+[Black "Larghi"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "4fafe14f"]
+[Epoch "Queen"]
+[WhiteID "801399"]
+[WhiteCountry "ITA"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bg4 5. h3 Bh5 6. Be2 Nf6 7. Nxf6+ gxf6
+8. O-O e6 9. d4 Bd6 10. c4 Qc7 11. d5 Nd7 12. Nd4 Bxe2 13. Qxe2 O-O-O 14. dxc6
+bxc6 15. Be3 Rhg8 16. Rfc1 Bc5 17. b4 Bxd4 18. Bxd4 e5 19. Be3 f5 20. f4 exf4
+21. Bd4 f6 22. Rf1 Ne5 23. Rxf4 Ng4 24. Qe6+ Kb8 25. Raf1 Rge8 26. Qxf5 Rxd4
+27. Qxg4 Rd2 28. Rxf6 Re7 29. c5 Rxg2+ 30. Kxg2 Rg7 31. R1f5 Qe7 32. Qxg7 1-0

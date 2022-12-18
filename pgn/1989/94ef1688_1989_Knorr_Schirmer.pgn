@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Knorr, B."]
+[Black "Schirmer, M."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Nimzovich counter-gambit"]
+[HashCode "94ef1688"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. dxc6 Nxc6 7. d4 Nge7
+8. d5 Nb4 9. Bb5+ Bd7 10. Bc4 Bf5 11. Nd4 Bc5 12. Nxf5 Nxf5 13. Bb5+ Kf8
+14. Bxf4 Qh4+ 15. g3 Qe7+ 16. Kf1 Ne3+ 17. Bxe3 Qxe3 18. Kg2 Qf2+ 19. Kh3
+Qf5+ 20. Qg4 Qxc2 21. Qd7 a6 22. a3 Nd3 23. Bxd3 Qxd3 24. Raf1 Qg6 25. Qxb7
+Re8 26. Rf4 Qh5+ 27. Kg2 Re2+ 28. Kf1 Re8 29. Qd7 g5 30. Qf5 Rg8 31. Rc4
+Re3 32. Qc8+ Kg7 33. Qg4 Rf3+ 34. Ke1 Re8+ 35. Kd2 Rf2+ 36. Kc1 Qg6 37. Nd1
+h5 38. Rxc5 hxg4 39. Nxf2 Re2 40. Nd1 Qd3 41. d6 Qxd6 42. Rc3 Qd2+ 0-1
+

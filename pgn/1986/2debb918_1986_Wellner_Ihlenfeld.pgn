@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Wellner"]
+[Black "Ihlenfeld"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "2debb918"]
+[Epoch "Queen"]
+
+1. d4 e6 2. c4 Nf6 3. g3 d5 4. Bg2 dxc4 5. Nf3 b5 6. Ne5 Nd5 7. a4 c6 8.
+axb5 cxb5 9. Nc3 f6 10. Ng4 f5 11. Ne5 Bb4 12. O-O Bxc3 13. e4 fxe4 14.
+bxc3 O-O 15. Ba3 Rf5 16. Qc2 e3 17. fxe3 g6 18. Bxd5 exd5 19. e4 Rxe5 20.
+dxe5 Qb6+ 21. Qf2 Qxf2+ 22. Rxf2 1-0
+

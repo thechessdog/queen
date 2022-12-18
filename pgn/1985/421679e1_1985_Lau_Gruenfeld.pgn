@@ -1,0 +1,19 @@
+[Event "New York Manhattan"]
+[Site "New York"]
+[Date "1985.??.??"]
+[Round "9"]
+[White "Lau, Ralf"]
+[Black "Gruenfeld, Yehuda"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "421679e1"]
+[Epoch "Queen"]
+[WhiteID "4600134"]
+[BlackID "2800020"]
+[WhiteCountry "GER"]
+[BlackCountry "ISR"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 e6 5. d4 cxd4 6. Nxd4 Nge7 7. Nb3 a6 8. Be3
+b5 9. Qf3 Bb7 10. O-O-O Qc7 11. Bxb5 Ng6 12. Ba4 O-O-O 13. Qf2 Re8 14. Bb6 1-0

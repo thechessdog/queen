@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Theel, T."]
+[Black "Wenner, Tobias"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "7be2f7da"]
+[Epoch "Queen"]
+[BlackID "4619714"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Bd3 d6 6. f3 Nc6 7. Nge2 a6 8. Qd2
+Rb8 9. h4 1/2-1/2

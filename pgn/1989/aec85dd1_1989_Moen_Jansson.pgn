@@ -1,0 +1,19 @@
+[Event "Randaberg"]
+[Site "Randaberg"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Moen, Ole Christian"]
+[Black "Jansson, Joran"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Podvebrady variation"]
+[HashCode "aec85dd1"]
+[Epoch "Queen"]
+[WhiteID "1500457"]
+[WhiteCountry "NOR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Nb3 a6 8. Bd3
+b5 9. O-O Be7 10. f4 h6 11. Bh4 Bb7 12. Qf3 O-O 13. Rae1 Nb4 14. f5 Nd7 15. Bg3
+Bf6 16. a3 Nxd3 17. cxd3 b4 18. Nd1 bxa3 19. bxa3 Qb6+ 20. Nf2 exf5 21. Qxf5
+Ne5 22. Rb1 Bc8 0-1

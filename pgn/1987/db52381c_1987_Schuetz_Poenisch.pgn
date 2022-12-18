@@ -1,0 +1,26 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schuetz, H."]
+[Black "Poenisch, E."]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "db52381c"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Ne4 f5 6. Nc3 Nc6 7. Nxd5 exd5
+8. d4 d6 9. exd6 Bxd6 10. dxc5 Bxc5 11. Be2 O-O 12. Bf4 a6 13. a4 h6 14.
+O-O g5 15. Bd2 Be6 16. c3 Qf6 17. b4 Bb6 18. Ra3 Rad8 19. Qc1 f4 20. c4
+dxc4 21. Bxc4 Nd4 22. Re1 Nxf3+ 23. Rxf3 Bxc4 24. Qxc4+ Qf7 25. Qc2 Qf5 26.
+Qb2 Rd7 27. h3 Rfd8 28. Bc3 Rd1 29. Qb3+ Qd5 30. Qc2 Rd6 31. Qe2 Rxe1+ 32.
+Bxe1 Re6 33. Qd2 Qxd2 34. Bxd2 Re2 35. Bc3 Kh7 36. Kf1 Rc2 37. Be1 Kg6 38.
+Rd3 Kf5 39. a5 Bc7 40. Rd7 h5 41. Rd5+ Be5 42. f3 Ke6 43. Rd3 Bb2 44. Bd2
+Ke5 45. Ke1 Bd4 46. Rb3 Kd5 47. b5 Kc4 48. Rb4+ Kd3 49. Rb3+ Bc3 50. Bxc3
+Rxc3 51. bxa6 bxa6 52. Rb6 Ra3 53. Rxa6 Ra1+ 54. Kf2 Ra2+ 55. Kg1 Ra1+ 56.
+Kh2 Ke2 57. Re6+ Kf2 58. Re5 g4 59. hxg4 hxg4 60. fxg4 Ra4 61. Rf5 Ke3 62.
+Kh3 Kf2 63. g5 Ke3 64. g6 Ke4 65. Rg5 Ra1 66. g7 Rh1+ 67. Kg4 Rh2 68. g8=Q
+Rxg2+ 69. Kh5 Rxg5+ 70. Kxg5 f3 71. Qc4+ Ke3 72. Qf1 1-0
+

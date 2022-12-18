@@ -1,0 +1,17 @@
+[Event "corr ch-NLD"]
+[Site "corr ch-NLD"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Goossens, Pieter"]
+[Black "Van Oirschot, Corne"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[HashCode "14cff651"]
+[Epoch "Queen"]
+[WhiteID "1029983"]
+[WhiteCountry "NED"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 c5 7. e4 cxd4 8. e5
+Ne4 9. Nxe4 Bxe4 10. Qxd4 Bb4+ 11. Bd2 Bxf3 12. Bxf3 Bxd2+ 13. Qxd2 Nc6 1/2-1/2

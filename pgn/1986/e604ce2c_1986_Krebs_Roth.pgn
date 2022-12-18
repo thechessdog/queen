@@ -1,0 +1,19 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Krebs, J."]
+[Black "Roth, G."]
+[Result "1/2-1/2"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "e604ce2c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2
+e6 8. Ng3 Bg6 9. h4 h5 10. Bf4 Bd6 11. Qd2 Qc7 12. Bxd6 Qxd6 13. O-O-O Nd7
+14. Rhe1 O-O-O 15. Ne4 Qc7 16. g3 Ne5 17. Qc3 Nxc4 18. Qxc4 Bxe4 19. Rxe4
+Rd5 20. Rf4 f5 21. Qe2 Rdd8 22. c4 Rdg8 23. Qe5 Qxe5 24. dxe5 c5 25. Rd3
+Kc7 26. Kd2 Rg6 27. Rd6 Rd8 28. Rxd8 Kxd8 29. Rf3 Kc7 30. Rd3 Rg4 1/2-1/2
+

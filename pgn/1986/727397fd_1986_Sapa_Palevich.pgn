@@ -1,0 +1,20 @@
+[Event "corr Baltic tt"]
+[Site "corr Baltic tt"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Sapa, W."]
+[Black "Palevich, M."]
+[Result "1-0"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[HashCode "727397fd"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. f4 exf4 11. Rxf4 Nc6 12. a4 Ne5 13. Nd4 g6 14. Kh1
+Re8 15. Nxe6 fxe6 16. Bd4 Nfd7 17. Rf1 Rc8 18. Qd2 Bf8 19. Be3 Rc6 20. Rf2
+Bg7 21. Raf1 Qa5 22. Bh6 Bxh6 23. Qxh6 Qb4 24. h4 Qxb2 25. h5 Qxc3 26. hxg6
+Nxg6 27. Rf7 Ndf8 28. e5 Qxe5 29. Bd3 Rcc8 30. Rxb7 Rb8 31. Rxf8+ Nxf8 32.
+Bxh7+ Kh8 33. Bg6+ Kg8 34. Bf7# 1-0
+

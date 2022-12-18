@@ -1,0 +1,16 @@
+[Event "Palo Alto"]
+[Site "Palo Alto"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "McKone"]
+[Black "Wall, Bill"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "b080047d"]
+[Epoch "Queen"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. d4 e6 3. Nf3 cxd4 4. c3 dxc3 5. Nxc3 a6 6. Bc4 b5 7. Bb3 Bb7 8. O-O
+d6 9. Qe2 Nf6 10. Rd1 Qa5 11. e5 dxe5 12. Nxe5 Be7 13. Nxf7 O-O 14. Bxe6 Rxf7
+15. Bxf7+ Kxf7 16. Bg5 b4 17. Qc4+ Kf8 18. Ne2 Qxg5 0-1

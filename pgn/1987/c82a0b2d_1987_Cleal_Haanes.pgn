@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Cleal"]
+[Black "Haanes"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "c82a0b2d"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 g6 6. Bb5+ Nbd7 7. O-O Bg7
+8. Nd5 O-O 9. Bxd7 Bxd7 10. Nxf6+ Bxf6 11. Bh6 Re8 12. Re1 Rc8 13. c3 a6
+14. a4 Qb6 15. Qd2 Rc4 16. a5 Qc7 17. h3 Rc5 18. Nb3 Rb5 19. Ra3 Rh5 20. f3
+Bh4 21. Re2 Be6 22. g4 Rb5 23. Nd4 Rxa5 24. Nxe6 fxe6 25. c4 Rxa3 26. bxa3
+Qxc4 27. Qc1 Qxe2 0-1
+

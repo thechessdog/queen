@@ -1,0 +1,24 @@
+[Event "corr Eu Mkl"]
+[Site "corr Eu Mkl"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Samuelsson"]
+[Black "Schnabel"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[HashCode "5ad95d9a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Bc4 Nxd4 13. Qxd4 Be7 14.
+e5 dxe5 15. Qxe5 Qc5 16. Bxf6 gxf6 17. Qxc5 Bxc5 18. Rf1 b5 19. Ne4 Be7 20.
+Be2 O-O 21. c4 f5 22. Nc3 b4 23. Na4 Rb8 24. c5 Bd7 25. Nb6 Bc6 26. Bc4 Rf6
+27. Rd1 Rd8 28. Rxd8+ Bxd8 29. g4 Kg7 30. gxf5 Rxf5 31. Rxf5 exf5 32. Bxa6
+Be7 33. Bc4 Bxc5 34. Bd5 Be8 35. Nc4 Ba4 36. Kf1 Kf6 37. Ke2 Bc2 38. Kf3
+Kg5 39. Nd2 Bd1+ 40. Kg3 Bd6+ 41. Kf2 Kf4 42. Nc4 Bc5+ 43. Kg2 Be2 44. h3
+Bd3 45. Nd2 Ke3 46. Nf1+ Kd4 47. Be6 Kc3 48. Bg8 Be4+ 49. Kg3 Kd3 50. h4
+Bd6+ 51. Kf2 f4 52. h5 f3 53. Ke1 Bf4 54. Kf2 h6 55. Be6 Bg5 56. Ke1 Bh4+
+57. Kd1 f2 0-1
+

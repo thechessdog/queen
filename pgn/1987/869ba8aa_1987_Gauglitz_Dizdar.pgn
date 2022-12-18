@@ -1,0 +1,22 @@
+[Event "DSV-Turnier"]
+[Site "Halle"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Gauglitz, Gernot"]
+[Black "Dizdar, Goran"]
+[Result "0-1"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[HashCode "869ba8aa"]
+[Epoch "Queen"]
+[WhiteID "4611365"]
+[WhiteCountry "GER"]
+[BlackID "14500124"]
+[BlackCountry "CRO"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 c5 7. cxd5 exd5 8. e3
+c4 9. Nd2 g5 10. Bg3 Bf5 11. Be5 Bxc3 12. bxc3 Nbd7 13. Bd6 Qb6 14. Ba3 Qa6 15.
+Bb4 Qe6 16. a4 Ne4 17. a5 g4 18. Be2 Ndf6 19. Nf1 O-O-O 20. f3 Ng5 21. h4 gxh3
+22. g4 Bd3 23. a6 b6 24. Bxd3 cxd3 25. Kf2 h5 26. gxh5 Qf5 27. Nh2 Nge4+ 28.
+Ke1 Qg5 29. fxe4 Qxe3+ 30. Kf1 Nxe4 0-1

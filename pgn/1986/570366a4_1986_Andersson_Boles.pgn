@@ -1,0 +1,16 @@
+[Event "corr ICCF"]
+[Site "corr ICCF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Boles"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "570366a4"]
+[Epoch "Queen"]
+[WhiteID "1700014"]
+[WhiteCountry "SWE"]
+
+1. b4 e5 2. Bb2 f6 3. a3 d5 4. e4 dxe4 5. Qh5+ g6 6. Qe2 Bf5 7. Qb5+ Nc6 8.
+Qxb7 Nge7 9. Bb5 Bd7 10. Ba4 a6 0-1

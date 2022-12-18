@@ -1,0 +1,23 @@
+[Event "Vejstrup"]
+[Site "Vejstrup"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Hoi, Carsten"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "5f4b6712"]
+[Epoch "Queen"]
+[WhiteID "1400100"]
+[BlackID "1400010"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. Nc3 Bf5 3. Bg5 h6 4. Bh4 c6 5. f3 Qb6 6. e4 Bg6 7. Bd3 e6 8. Nge2
+Be7 9. Bf2 Nf6 10. O-O dxe4 11. fxe4 Ng4 12. Nf4 Nxf2 13. Rxf2 Qxd4 14. Nxg6
+fxg6 15. e5 Bc5 16. Ne4 Rf8 17. Qg4 Ke7 18. Qxg6 Rxf2 19. Nxf2 Qxe5 20. Kh1
+Bxf2 21. Rf1 Nd7 22. Rxf2 Rf8 23. Rxf8 Nxf8 24. Qe4 Qxb2 25. h3 Nd7 26. Qh4+
+Kd6 27. Qf4+ Qe5 28. Qa4 a6 29. Qb4+ Kc7 30. Qe7 Qf6 31. Qe8 Qa1+ 32. Kh2 Qxa2
+0-1

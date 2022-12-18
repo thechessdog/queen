@@ -1,0 +1,23 @@
+[Event "Datormote"]
+[Site "Datormote"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Roma 68000"]
+[Black "Plymate 5 5"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "3db3947d"]
+[Epoch "Queen"]
+
+1. c4 e6 2. g3 Nf6 3. d4 Nc6 4. Bg2 d5 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 O-O
+8. Bg5 dxc4 9. Qa4 Bd7 10. Qxc4 a6 11. Rb1 h6 12. Bxf6 gxf6 13. d5 exd5 14.
+Qxd5 Qc8 15. Qb3 b5 16. Qd5 Rd8 17. Qh5 Kg7 18. Rd1 Rb8 19. Qc5 Ne5 20. Be4
+Bg4 21. Rd4 Nd7 22. Qa7 c6 23. Rd6 Ra8 24. Qd4 c5 25. Qe3 Ra7 26. Qd2 Qc7
+27. Rd5 Qa5 28. h3 Be6 29. Rh5 Rh8 30. Qc1 Ne5 31. Nf3 Qa4 32. Bc2 Qa5 33.
+Bb1 Bd5 34. Rf5 Rc7 35. O-O Be6 36. Rh5 Nc4 37. Rd1 Nxa3 38. Rd8 Rc8 39.
+Rxc8 Bxc8 40. Bd3 Bd7 41. Kg2 c4 42. Be4 Qa4 43. Qd2 Bc8 44. Nd4 Qa5 45.
+Qc1 Be6 46. Bf3 Qa4 47. Bg4 Qa5 48. Bxe6 fxe6 49. Nxe6+ Kf7 50. Nf4 Rg8 51.
+Rxh6 Re8 52. Nd5 Qd8 53. Rxf6+ Qxf6 54. Nxf6 Kxf6 55. Qxa3 Kg7 56. Qxa6 Re5
+57. e4 Kf7 58. Qb7+ Kf6 59. f4 Re7 60. Qxb5 Rh7 61. e5+ 1-0
+

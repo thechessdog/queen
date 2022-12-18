@@ -1,0 +1,22 @@
+[Event "OHRA op"]
+[Site "Brussel open"]
+[Date "1987.01.01"]
+[Round "3"]
+[White "Polgar, Sofia"]
+[Black "Iclicki, Willy"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "a44a9828"]
+[Epoch "Queen"]
+[WhiteID "700231"]
+[WhiteCountry "HUN"]
+[BlackID "200450"]
+[BlackCountry "LIE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. Be3 e6 11. O-O-O Be7 12. Rg1 g6 13. Bh6 Qc7 14. Bh3
+Nb4 15. Kb1 N4d5 16. Rc1 Qd7 17. Ne4 Qa4 18. Qxa4+ Nxa4 19. b3 Nab6 20. Nc5 Bf6
+21. Rg4 Rb8 22. Re4 Kd8 23. Bd2 Re8 24. a4 Re7 25. Bf1 Ke8 26. Bb5+ Kf8 27. a5
+a6 28. Bc4 Nd7 29. Bh6+ Ke8 30. Nxb7 Rxb7 31. Bxd5 Rb8 32. Bf4 e5 33. dxe5 1-0

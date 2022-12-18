@@ -1,0 +1,21 @@
+[Event "corr EUR/K"]
+[Site "corr EUR/K"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Linden, L."]
+[Black "Klompus, G."]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[HashCode "013e09b5"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O
+8. Ba3 b6 9. Bc4 Bb7 10. Qe2 c5 11. O-O Qc7 12. e5 e6 13. Rfd1 Nc6 14. Rac1
+Na5 15. Bb5 Rfd8 16. Ng5 a6 17. Bd3 Qc6 18. f4 Qa4 19. Bb2 Qxa2 20. Ra1 Qb3
+21. Ne4 cxd4 22. cxd4 Qd5 23. Nd6 Rxd6 24. exd6 Qxd6 25. Be4 Bxe4 26. Qxe4
+Qd5 27. Qxd5 exd5 28. Bc3 Nc4 29. Rdb1 a5 30. Rb5 Rd8 31. Re1 Bf8 32. g3
+Ba3 33. Kg2 Kf8 34. Kf3 Be7 35. Re2 Rd6 36. g4 Ke8 37. g5 Kd7 38. h4 Bd8
+39. Rb1 f6 40. Kg4 f5+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "Philadelphia open"]
+[Site "Philadelphia open"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Dehmelt, Karl"]
+[Black "Djuric, Stefan"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "5b8ec7f5"]
+[Epoch "Queen"]
+[WhiteID "2001179"]
+[WhiteCountry "USA"]
+[BlackID "900133"]
+[BlackCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Be7 6. d4 exd4 7. Qxd4 Qxd4
+8. Nxd4 Nf6 9. Re1 Bd7 10. Nd2 O-O-O 11. N2f3 Rde8 12. Bg5 h6 13. Bxf6 Bxf6 14.
+e5 Be7 15. e6 Bxe6 16. Nxe6 fxe6 17. Rxe6 Bf6 18. Rxe8+ Rxe8 19. c3 Re2 20. Rb1
+b5 21. Kf1 Rc2 22. Ne1 Rd2 23. Nf3 Rd5 24. Ke2 a5 25. Rd1 b4 26. Rd3 a4 27.
+Rxd5 cxd5 28. Kd3 a3 29. bxa3 c5 0-1

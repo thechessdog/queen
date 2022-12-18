@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heyken, Enno"]
+[Black "Rewitz, Poul"]
+[Result "0-1"]
+[ECO "A41"]
+[Opening "Robatsch defence"]
+[Variation "Rossolimo variation"]
+[HashCode "dedd3be6"]
+[Epoch "Queen"]
+[WhiteID "4600401"]
+[BlackID "1401033"]
+[WhiteCountry "GER"]
+[BlackCountry "DEN"]
+
+1. d4 g6 2. e4 Bg7 3. c4 d6 4. Nf3 Bg4 5. Be2 Nc6 6. Be3 e5 7. d5 Bxf3 8. Bxf3
+Nd4 9. Nd2 Ne7 10. g3 O-O 11. h4 f5 12. h5 fxe4 13. Bxe4 Nef5 14. Qg4 Qc8 15.
+Bxd4 Nxd4 16. Qg5 Bf6 17. Qe3 Qg4 18. Qd3 Bg5 19. f4 Bxf4 20. gxf4 Rxf4 21.
+hxg6 h5 22. g7 Kxg7 23. Qe3 Kh8 24. Bd3 Rg8 25. Qh3 Qxh3 26. Rxh3 Rg1+ 27. Nf1
+Nc2+ 28. Kd2 Nxa1 29. Rxh5+ Kg8 30. Ne3 Rf2+ 31. Kc3 Rg3 32. Nf5 Rc2+ 0-1

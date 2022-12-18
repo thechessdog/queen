@@ -1,0 +1,17 @@
+[Event "Nevesinje ch-YUG wjr"]
+[Site "Nevesinje ch-YUG wjr"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Stanic"]
+[Black "Markov, S."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "d153536f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bc5 6. Bc4 d6 7. Qb3 Qd7
+8. Nd5 Na5 9. Qc3 Nxc4 10. Qxg7 c6 11. Qxh8 cxd5 12. Qxg8+ Ke7 13. Bg5+ Ke6
+14. Qxh7 f6 15. Qf5+ Kf7 16. Qxf6+ Kg8 17. Bh6 dxe4 18. Ng5 0-1
+

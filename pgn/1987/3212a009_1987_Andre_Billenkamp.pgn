@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Andre, K."]
+[Black "Billenkamp"]
+[Result "1-0"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "3212a009"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qg5 8. Qe2 Nf6 9. Nd4+ c6 10. Nxc6 a6 11. Ne5+ axb5 12. d4 Qxg2 13. Rf1 Bh3
+14. Qxb5+ Nd7 15. Nxd7 Qxf1+ 16. Qxf1 Bxf1 17. Nxf8 Bc4 18. b3 Bf7 19. Nxh7
+Rxh7 20. Bf4 Rxa2 21. Rxa2 1-0
+

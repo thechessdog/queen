@@ -1,0 +1,20 @@
+[Event "corr CSR/K"]
+[Site "corr CSR/K"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Tesarek"]
+[Black "Tobola"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[HashCode "977eefbc"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. c3 Bc5 8.
+d4 exd4 9. cxd4 Bb6 10. e5 Ng8 11. d5 Na5 12. Re1 Nxb3 13. Bg5 Ne7 14. Qxb3
+h6 15. Bf6 Qb8 16. Bxe7 Kxe7 17. Qb4+ Kd8 18. Qh4+ Kc8 19. Nc3 Qa7 20. e6
+fxe6 21. dxe6 dxe6 22. Rxe6 Bxf3 23. gxf3 Qb7 24. Qg4 Kb8 25. b4 Ka7 26. a4
+bxa4 27. Nxa4 Rac8 28. Qc4 Rhf8 29. Nc5 Bxc5 30. Rexa6+ Kb8 31. bxc5 Qxf3
+32. Qb5+ Qb7 33. Ra8# 1-0
+

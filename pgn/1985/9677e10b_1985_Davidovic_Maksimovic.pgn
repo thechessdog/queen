@@ -1,0 +1,20 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Davidovic, Aleksandar"]
+[Black "Maksimovic, Branimir"]
+[Result "0-1"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "9677e10b"]
+[Epoch "Queen"]
+[WhiteID "3200051"]
+[WhiteCountry "AUS"]
+[BlackID "901490"]
+[BlackCountry "SRB"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. b4 Bb6 11. Na4 Re8 12. Nxb6 axb6 13. d6 Ne4 14. Bb2 b5 15.
+Qd4 Qg5 16. h4 Qh6 0-1

@@ -1,0 +1,22 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Brenninkmeijer, Joris"]
+[Black "Nieuwenhuis, Pieter"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit"]
+[HashCode "63e797b6"]
+[Epoch "Queen"]
+[WhiteID "1000047"]
+[WhiteCountry "NED"]
+[BlackID "1000748"]
+[BlackCountry "NED"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. a4 bxc4 5. Nc3 g6 6. e4 d6 7. Bxc4 Bg7 8. Nf3
+Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11. O-O O-O 12. Qe2 Rb8 13. f4 Ne8 14. Nb5 Rb7 15.
+a5 a6 16. Nc3 Nc7 17. Bxa6 Nxa6 18. Qxa6 Qa8 19. Qe2 Rfb8 20. Nd1 Rb5 21. a6
+R8b6 22. a7 Bd4+ 23. Kh1 Rb7 24. Rf3 R5b6 25. Rfa3 Rc7 26. e5 dxe5 27. Ne3 exf4
+28. Nc4 f3 29. Qxf3 Rf6 30. Bf4 Ne5 31. Nxe5 Bxe5 32. d6 Qxf3 33. a8=Q+ Qxa8
+34. Rxa8+ Kg7 35. dxc7 1-0

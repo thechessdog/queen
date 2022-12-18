@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Poenisch, E."]
+[Black "Sieber, H."]
+[Result "1-0"]
+[ECO "B77"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 9.Bc4"]
+[HashCode "e98babb6"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Nxd4 10. Bxd4 a6 11. Bb3 b5 12. O-O-O Bb7 13. h4 Rc8 14. h5
+d5 15. hxg6 hxg6 16. g4 dxe4 17. Qh2 1-0
+

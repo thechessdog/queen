@@ -1,0 +1,20 @@
+[Event "Myslenice A"]
+[Site "Myslenice A"]
+[Date "1987.01.01"]
+[Round "7"]
+[White "Pokojowczyk, Jerzy"]
+[Black "Georgiev, Krum"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "fb2b64b0"]
+[Epoch "Queen"]
+[WhiteID "1100718"]
+[WhiteCountry "POL"]
+[BlackID "2900092"]
+[BlackCountry "FID"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. d3 g6 5. Be3 Bg7 6. Qd2 e6 7. Bg2 Nge7 8. Bh6
+O-O 9. Nge2 Nd4 10. Bxg7 Kxg7 11. Nxd4 cxd4 12. Ne2 Nc6 13. c3 dxc3 14. Qxc3+
+e5 15. O-O Bg4 1/2-1/2

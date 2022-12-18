@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Heidsiek, E."]
+[Black "Weinmann_Musset, M."]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "ac3a5a9a"]
+[Epoch "Queen"]
+
+1. e4 c5 2. c3 Qa5 3. Nf3 Nc6 4. d4 Nxd4 5. Nxd4 cxd4 6. Bc4 dxc3 7. Nxc3
+Nf6 8. O-O a6 9. Re1 d6 10. Bf4 e5 11. Bg5 Be6 12. Bxe6 fxe6 13. Qb3 Kf7
+14. Bxf6 gxf6 15. Qxb7+ Be7 16. b4 Qa3 17. Nd5 Rae8 18. Nc7 Rb8 19. Qc6
+Rxb4 20. Qd7 Rd8 21. Qxe6+ Kf8 22. Nd5 Rb7 23. Nxf6 Kg7 24. Re3 1-0
+

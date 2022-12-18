@@ -1,0 +1,23 @@
+[Event "Cardinal Open,OH"]
+[Site "Cardinal Open,OH"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Van Meter, Lester"]
+[Black "Schulien, Charles"]
+[Result "0-1"]
+[ECO "E45"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Bronstein (Byrne) variation"]
+[HashCode "5e755457"]
+[Epoch "Queen"]
+[BlackID "2001527"]
+[BlackCountry "USA"]
+[WhiteID "2001691"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. cxd5
+Bxf1 9. Kxf1 exd5 10. g4 O-O 11. g5 Ne4 12. Nxe4 dxe4 13. h4 Bd6 14. Nh5 Qd7
+15. Qe2 Qf5 16. Bd2 Nd7 17. Bb4 c5 18. dxc5 Nxc5 19. Bc3 Be5 20. Bxe5 Qxe5 21.
+Kg2 Nd3 22. Qg4 Kh8 23. b4 Rad8 24. Ng3 f5 25. gxf6 Rxf6 26. Ra2 Rg6 27. Qh3
+Qd5 28. Rc2 Qf7 29. Rf1 Qf3+ 30. Kh2 Rg4 31. Nh1 Ne5 32. Qxf3 Nxf3+ 33. Kh3 h5
+34. Ng3 Rxh4+ 35. Kg2 Rh2# 0-1

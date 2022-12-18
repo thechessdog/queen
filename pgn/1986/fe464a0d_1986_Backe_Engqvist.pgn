@@ -1,0 +1,31 @@
+[Event "Orebro"]
+[Site "Orebro"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Backe, Peter"]
+[Black "Engqvist, Thomas"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "fe464a0d"]
+[Epoch "Queen"]
+[WhiteID "1701240"]
+[WhiteCountry "SWE"]
+[BlackID "1700332"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 e5 4. Nf3 Nc6 5. d4 exd4 6. Nxd4 Bb4 7. f3 O-O 8. Bg5
+h6 9. Bh4 Bxc3+ 10. bxc3 Ne5 11. c5 Ng6 12. Bf2 b6 13. cxb6 axb6 14. c4 d6 15.
+Qd2 Nd7 16. Be2 Nc5 17. O-O Bd7 18. Nb3 Ne6 19. Be3 Ne7 20. f4 f5 21. Bd3 Nc5
+22. Nxc5 dxc5 23. Qc3 Qe8 24. e5 Be6 25. Be2 Ra4 26. Rfc1 Qa8 27. a3 Rd8 28.
+Qb3 Qa6 29. Rc3 Kh7 30. Kf2 Nc6 31. Qb5 Nd4 32. Qxa6 Rxa6 33. Bd1 Nc6 34. Bf3
+Na5 35. Be2 Kg8 36. Ke1 Nc6 37. Bd1 Kf7 38. Ra2 Na5 39. Be2 Raa8 40. Rd2 Rxd2
+41. Kxd2 Rd8+ 42. Kc1 Rd7 43. Kb2 Ke8 44. Rc1 Kd8 45. Kc3 Kc8 46. h3 Nc6 47.
+Rb1 Nd4 48. Bf1 Kb7 49. g3 Rd8 50. Bg2+ c6 51. Bf1 Kc7 52. a4 Bd7 53. Bxd4
+cxd4+ 54. Kxd4 Ra8 55. Ra1 c5+ 56. Kc3 Rxa4 57. Rxa4 Bxa4 58. Bg2 Kd8 59. Bf3
+Ke7 60. Bh5 Bc6 61. Bg6 Bd7 62. Kd3 Be6 63. Bh5 Bd7 64. Bf3 Be8 65. g4 Bd7 66.
+Ke3 g5 67. gxf5 Bxf5 68. Bg4 gxf4+ 69. Kxf4 Bd3 70. h4 Bxc4 71. Bc8 Be6 72. Ba6
+Bd7 73. Ke4 Bc6+ 74. Kf5 b5 75. Kf4 Kd7 76. Ke3 Kc7 77. Kf4 c4 78. Ke3 Bd7 79.
+e6 Bc6 80. Kd4 Kd6 81. Bc8 Bd5 82. Ba6 Bc6 83. Bc8 Kc7 84. Ba6 h5 85. Kc3 Kd6
+86. Bc8 Kc5 87. Bd7 b4+ 88. Kd2 Kd6 0-1

@@ -1,0 +1,18 @@
+[Event "corr DDR/K jr"]
+[Site "corr DDR/K jr"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Thinius, Marco"]
+[Black "Hansel"]
+[Result "1-0"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[HashCode "b9d78a6e"]
+[Epoch "Queen"]
+[WhiteID "4613112"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+b5 9. Qd3 Rc8 10. Nc3 b4 11. Ne4 cxd4 12. Nxd4 Nxd4 13. Qxd4 Nxe4 14. Bxe4 Qb6
+15. Be3 Qxd4 16. Bxd4 Rc4 17. e3 e5 18. b3 Rxd4 19. exd4 exd4 20. Rac1 1-0

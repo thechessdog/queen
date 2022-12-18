@@ -1,0 +1,24 @@
+[Event "Hessen-ch"]
+[Site "Germany"]
+[Date "1989.01.01"]
+[Round "7"]
+[White "Diaz, Joaquin, Dr."]
+[Black "Schmitzer, Klaus"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "5f0c6cf1"]
+[Epoch "Queen"]
+[BlackID "4601971"]
+[BlackCountry "GER"]
+[WhiteID "4663349"]
+[WhiteCountry "GER"]
+
+1. e4 c6 2. c4 d5 3. exd5 Nf6 4. Nc3 cxd5 5. d4 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Be2 Na6 9. Bf3 Bg4 10. Bg5 Qd7 11. h3 Bxf3 12. Nxf3 b5 13. O-O Nc7 14. Bxf6
+exf6 15. a4 b4 16. Qxb4 Rfb8 17. Qc5 Bf8 18. Qc6 Qd8 19. a5 Rxb2 20. Ne4 Kg7
+21. d6 Ne6 22. d7 Rab8 23. d5 Nf4 24. d6 Ne6 25. Rfc1 R2b5 26. Ra4 R5b7 27. Nd4
+Rxd7 28. Qd5 Nf4 29. Qc4 Rb2 30. Nc6 Qa8 31. Nxf6 Ne2+ 32. Kf1 Rxd6 33. Ne4 Re6
+34. Ng5 Rf6 35. Ne4 Rf4 36. Re1 Ng3+ 37. Kg1 Nxe4 38. Rxe4 Rfxf2 39. Qc3+ Kg8
+40. Rg4 Rfc2 0-1

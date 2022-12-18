@@ -1,0 +1,19 @@
+[Event "Villa Clara"]
+[Site "Villa Clara"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Estevez Morales, Guillermo"]
+[Black "Boudy Bueno, Julio Leonardo"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Reti (Spielmann) variation"]
+[HashCode "b10f4d01"]
+[Epoch "Queen"]
+[WhiteCountry "CUB"]
+[BlackID "3510557"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. b3 d5 3. Bb2 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Bd3 Nb6 8. O-O
+Bd7 9. a3 Be7 10. Nc3 Qc7 11. Nb5 Qb8 12. Ng5 g6 13. Qg4 a6 14. Nd6+ Bxd6 15.
+exd6 Nd4 16. Bxd4 cxd4 17. f5 1-0

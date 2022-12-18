@@ -1,0 +1,21 @@
+[Event "corr ICCF EU/III"]
+[Site "corr ICCF EU/III"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Westerhuis, H."]
+[Black "Schendel, A."]
+[Result "0-1"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "aa94395d"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O c6 6. Ba4 Nf6 7. Re1 d6
+8. d3 Be7 9. Nd2 O-O 10. Nf3 Qb6 11. Bg5 Qxb2 12. Bb3 Bg4 13. e5 dxe5 14.
+Rxe5 Rfe8 15. Rb1 Qa3 16. h3 Bxf3 17. Qxf3 Qd6 18. Rbe1 Kf8 19. R1e4 Rad8
+20. Bxf6 Bxf6 21. Qh5 Qd7 22. Rxe8+ Rxe8 23. Qc5+ Re7 24. Qxa7 Rxe4 25.
+dxe4 h6 26. Qa8+ Bd8 27. Qa3+ Qe7 28. Qxe7+ Kxe7 29. f4 Bc7 30. g3 Bb6 31.
+Kf1 Kd7 32. Ke2 Kd6 33. Kd3 g5 34. a4 Bc5 35. c4 dxc3 36. Kxc3 Bf2 37. fxg5
+hxg5 0-1
+

@@ -1,0 +1,23 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Bang, Andreas"]
+[Black "Pedersen, Finn"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "bd56fe6e"]
+[Epoch "Queen"]
+[WhiteID "1400290"]
+[BlackID "1400762"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. d4 dxc4 5. a4 Bf5 6. Ne5 c5 7. dxc5 Qxd1+ 8.
+Kxd1 Nbd7 9. Nxd7 O-O-O 10. f3 Nxd7 11. e4 Nxc5+ 12. Kc2 Nb3 13. Ra2 Nxc1 14.
+Kxc1 Be6 15. a5 g6 16. g3 h5 17. h4 Bh6+ 18. f4 Rd4 19. a6 Rhd8 20. axb7+ Kxb7
+21. e5 Rd2 22. Be2 Bf5 23. b4 Rxa2 24. Nxa2 f6 25. exf6 e5 26. Rd1 Rf8 27. Kb2
+exf4 28. gxf4 Bxf4 29. Bxc4 Be5+ 30. Kb3 Bxf6 31. Bd5+ Kc7 32. Nc3 Rd8 33. Rc1
+Kb8 34. Bc6 Bxh4 35. b5 Bg5 36. Re1 Bd2 0-1

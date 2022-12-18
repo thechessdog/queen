@@ -1,0 +1,18 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Siegemund"]
+[Black "Weber"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit"]
+[HashCode "e1a089f1"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d6 6. Nf3 Bg4 7. Bxf4
+O-O-O 8. Ke3 Qh5 9. Be2 g5 10. Nxg5 Nf6 11. Rf1 Rg8 12. Nf3 Re8 13. h3 Nxe4
+14. Nxe4 Qd5 15. Bd3 Bxf3 16. gxf3 Rg2 17. Be2 f5 18. c4 Rxe4+ 19. fxe4
+Qxe4+ 20. Kd2 Nxd4 21. Be3 Rxe2+ 0-1
+

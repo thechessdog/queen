@@ -1,0 +1,21 @@
+[Event "corr ch22-CSSR"]
+[Site "corr ch22-CSSR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Slapak"]
+[Black "Stodola"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[HashCode "09854a15"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Re1 a6 13. Bf1 Nf6 14. Bc4
+Bg4 15. e5 Bxf3 16. Qxf3 Nc2 17. exf6 Nxe1 18. Qf2 Qxf6 19. Be3 Nxg2 20.
+Kxg2 Qf5 21. Rc1 b5 22. axb5 Bxc3 23. Rxc3 axb5 24. Bxb5 Qxd5+ 25. Kg3 Rab8
+26. Bf1 Rfe8 27. Bg2 Qe6 28. Qd2 h5 29. h3 Rb3 30. Bd5 Qxe3+ 31. Rxe3
+Rexe3+ 32. Kf2 Red3 33. Qc2 Rxb2 34. Bxf7+ Kxf7 35. Qxb2 Rxh3 36. Qb7+ Kf6
+37. Qd5 1-0
+

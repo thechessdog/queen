@@ -1,0 +1,21 @@
+[Event "corr GB candidates"]
+[Site "corr GB candidates"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Graham"]
+[Black "Lyne"]
+[Result "1-0"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "fe51d3ba"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8.
+c5 b6 9. b4 bxc5 10. dxc5 e5 11. f4 Nc6 12. fxe5 Nxe5 13. Nd4 O-O 14. Bd3
+a5 15. Rb1 Bg4 16. Be2 Bxe2 17. Ncxe2 Ne4 18. O-O Rb8 19. Bf4 Bf6 20. Nf3
+Re8 21. Nxe5 Bxe5 22. Bxe5 Rxe5 23. Qd4 Qg5 24. Nf4 axb4 25. axb4 Rbe8 26.
+c6 Nf6 27. Nh3 Qg6 28. Rbc1 Qe4 29. Qxe4 dxe4 30. Nf4 Rc8 31. Rfd1 Kf8 32.
+Ne2 Ke7 33. Nd4 Nd5 34. b5 Rc7 35. Rb1 Nb6 36. Ra1 Nd5 37. Rdb1 Kd6 38. b6
+Rc8 39. Nb5+ 1-0
+

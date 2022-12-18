@@ -1,0 +1,25 @@
+[Event "Plovdiv"]
+[Site "Plovdiv"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kurtenkov, Atanas"]
+[Black "Arnason, Jon L"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "d630e7c4"]
+[Epoch "Queen"]
+[BlackID "2300036"]
+[BlackCountry "ISL"]
+[WhiteID "2900459"]
+[WhiteCountry "FID"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Qc1 Nc6 6. c3 Be7 7. Nbd2 d5 8. Bd3
+cxd4 9. exd4 Bd7 10. O-O Rc8 11. Qb1 h6 12. Bh4 Nh5 13. Bg3 Nxg3 14. hxg3 h5
+15. Re1 g5 16. Nf1 g4 17. Ne5 Nxe5 18. Rxe5 Bd6 19. Re2 Qd8 20. Ne3 Kf8 21. Qc1
+h4 22. Nf1 Qf6 23. Qe3 Rh5 24. Ree1 Ke7 25. f3 hxg3 26. fxg4 Bf4 27. Qf3 Rh1+
+28. Kxh1 Qh4+ 29. Kg1 Rh8 30. Nh2 Bd6 31. g5 Bf4 32. Kf1 gxh2 33. Ke2 e5 34. g3
+Qxg3 35. Qxg3 Bxg3 36. Rh1 e4 37. Bc2 Bg4+ 38. Kd2 Bf4+ 39. Ke1 Bf3 40. Kf2 Ke6
+41. Bd1 Bxh1 42. Bg4+ f5 43. gxf6+ Kxf6 44. Rxh1 Rg8 45. Bh3 Rg1 46. Bg2 e3+
+0-1

@@ -1,0 +1,19 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Reuszner"]
+[Black "Nielebock"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "27f068ae"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 Ne8 8.
+a3 Bg4 9. Be3 e6 10. h3 Bxf3 11. Qxf3 d5 12. h4 f6 13. Qh3 f5 14. h5 Ne7
+15. O-O-O Kf7 16. Rdg1 Rh8 17. g4 c5 18. dxc5 d4 19. Nb5 dxe3 20. Nd6+ Nxd6
+21. cxd6 Nd5 22. gxf5 Nxf4 23. fxe6+ Kg8 24. Bc4 Qc8 25. Bb3 Nd3+ 26. Kb1
+Nc5 27. Bd5 Kf8 28. Qf3+ 1-0
+

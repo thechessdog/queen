@@ -1,0 +1,22 @@
+[Event "Chanac op"]
+[Site "Chanac"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Marchand, Francois"]
+[Black "Lecuyer, Christian"]
+[Result "0-1"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[HashCode "d4c47518"]
+[Epoch "Queen"]
+[WhiteID "603295"]
+[BlackID "600520"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 Nh5 7. Nh3 Qh4+ 8. Nf2
+f5 9. Bd2 O-O 10. Nb5 Bxd2+ 11. Qxd2 Na6 12. O-O-O Qe7 13. Rhg1 c6 14. Nc3 c5
+15. g4 cxd4 16. exd4 fxg4 17. fxg4 Nf4 18. Be4 Bxe4 19. Nfxe4 Nb4 20. Rg3 d5
+21. cxd5 exd5 22. Nf2 Ne2+ 23. Nxe2 Rxf2 24. Re3 Qd6 25. a3 Rc8+ 26. Rc3 Na2+
+27. Kc2 Nxc3 28. bxc3 Re8 29. Re1 Qg6+ 30. Kd1 Qb1+ 31. Qc1 Rfxe2 0-1

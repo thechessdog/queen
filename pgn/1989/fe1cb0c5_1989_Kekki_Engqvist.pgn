@@ -1,0 +1,26 @@
+[Event "Nordic-tt"]
+[Site "Aabybro"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kekki, Petri"]
+[Black "Engqvist, Thomas"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "fe1cb0c5"]
+[Epoch "Queen"]
+[BlackID "1700332"]
+[BlackCountry "SWE"]
+[WhiteID "500348"]
+[WhiteCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8. Qb3
+Nc6 9. dxe5 Bxc3+ 10. Qxc3 Ne4 11. Qd3 Qxd3 12. Bxd3 Nc5 13. Bc2 Nb4 14. Nd4
+Nxc2+ 15. Nxc2 Nd3+ 16. Ke2 Nxe5 17. e4 b6 18. Nb4 Bb7 19. Bf4 Rfe8 20. f3 f5
+21. Bxe5 Rxe5 22. Nd3 Ba6 23. Ke3 Bxd3 24. Kxd3 fxe4+ 25. fxe4 Rd8+ 26. Kc3
+Rc5+ 27. Kb3 Rd3+ 28. Ka4 Rc4+ 29. Kb5 Rxe4 30. Rhc1 c5 31. b3 Re2 32. Re1 Rxg2
+33. Re7 Rdd2 34. Rxa7 Rxh2 35. Kxb6 h5 36. Kxc5 h4 37. a4 h3 38. Re7 Rhg2 39.
+Ree1 h2 40. a5 Ra2 41. Rxa2 Rxa2 42. Kd4 Rxa5 43. Rh1 Rh5 44. Ke4 Rh3 45. Kf4
+Rxb3 46. Rxh2 Kf7 47. Ra2 Kg6 48. Rg2+ Kf6 49. Ra2 g5+ 50. Kg4 Rb4+ 51. Kg3 Kg6
+52. Ra8 1/2-1/2

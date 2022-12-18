@@ -1,0 +1,19 @@
+[Event "corr EU/M/GT"]
+[Site "corr EU/M/GT"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Mueller, F."]
+[Black "Stegemann, U."]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "33df3246"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Bd7 7. Ne5 c6 8.
+Qc2 Be8 9. Rd1 Nbd7 10. Nd2 Nxe5 11. dxe5 Ng4 12. Nf3 Qb6 13. e3 f6 14.
+exf6 Bxf6 15. c5 Qc7 16. h3 Bg6 17. Qb3 Nh6 18. Re1 Be4 19. Nd2 Bxg2 20.
+Kxg2 Rf7 21. e4 Raf8 22. f4 e5 23. exd5 cxd5 24. Qxd5 exf4 25. Ne4 f3+ 26.
+Kh1 Qc8 27. Nxf6+ Kh8 28. Bxh6 Qxh3+ 29. Kg1 Qg2# 0-1
+

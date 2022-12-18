@@ -1,0 +1,16 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Scheepe"]
+[Black "Smit"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "407406f8"]
+[Epoch "Queen"]
+
+1. f4 Nf6 2. e3 d5 3. b3 d4 4. Be2 dxe3 5. Nf3 exd2+ 6. Nbxd2 g6 7. Bb2 Bg7
+8. Ne4 O-O 9. Qxd8 Rxd8 10. Nxf6+ Bxf6 11. Bxf6 exf6 12. O-O Nc6 13. c3 Ne7
+14. Rfd1 Be6 15. Rxd8+ Rxd8 16. Rd1 Rxd1+ 17. Bxd1 Nd5 0-1
+

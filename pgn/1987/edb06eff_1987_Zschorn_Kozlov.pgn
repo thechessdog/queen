@@ -1,0 +1,16 @@
+[Event "corr Atars mem"]
+[Site "corr Atars mem"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Zschorn, E."]
+[Black "Kozlov, Vladimir N"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "edb06eff"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qg6 7. Ne3 c6 8. Be2
+Nf6 9. O-O d5 10. Ncxd5 cxd5 11. Nxd5 Bd6 12. Bf4 Bxf4 13. Nxf4 Qg5 14. g3 O-O
+15. Qd2 Nc6 16. c4 Rd8 17. d5 Ne5 18. h4 Qf5 19. Kg2 b5 20. Qa5 Rf8 21. Qxb5
+Nf3 22. Rad1 Nh5 0-1

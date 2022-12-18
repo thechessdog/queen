@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Wehmeier, Stefan, Dr."]
+[Black "Berg, Daniel"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[HashCode "8cd42b7b"]
+[Epoch "Queen"]
+[WhiteID "4602447"]
+[BlackID "4617290"]
+[BlackCountry "GER"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. h3 b6 7. Be3 Bb7 8. d5 c5
+9. Qd2 Re8 10. Bh6 Bh8 11. Ng5 Na6 12. f4 Nc7 13. f5 Nd7 14. O-O-O a6 15. h4
+Nb5 16. fxg6 hxg6 17. h5 Ne5 18. hxg6 fxg6 19. Ne6 Qd7 20. Bf8 Nf7 21. Rxh8+
+Kxh8 22. Nxb5 Rxf8 23. Qc3+ Ne5 24. Qh3+ Kg8 25. Qh6 Rf7 26. Rh1 1-0

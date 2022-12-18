@@ -1,0 +1,24 @@
+[Event "Pori SM"]
+[Site "Pori SM"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Pyhala, Antti"]
+[Black "Kekki, Petri"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "62422afc"]
+[Epoch "Queen"]
+[BlackID "500348"]
+[BlackCountry "FIN"]
+[WhiteCountry "FIN"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Be6 6. Nge2 Nc6 7. Nf4 Qd7 8.
+Be2 O-O-O 9. Bf3 Bg4 10. cxd5 Bxf3 11. Qxf3 Nxd4 12. Qd3 e5 13. dxe6 Nxe6 14.
+Qxd7+ Nxd7 15. O-O Ndc5 16. Nxe6 Nxe6 17. Ne4 f5 18. Ng5 Nxg5 19. Bxg5 Rd5 20.
+Rac1+ Kd7 21. Rfd1 Rd6 22. Bf4 Ke6 23. Re1+ Kd7 24. Bxd6 Bxd6 25. Rcd1 g6 26.
+Rd3 Rf8 27. g3 Rf6 28. Kg2 a6 29. a4 a5 30. Rc1 b6 31. Re1 Rf8 32. Red1 Rf6 33.
+Kf3 Kc6 34. h4 Kd7 35. h5 gxh5 36. Rxd6+ Rxd6 37. Rxd6+ Kxd6 38. Kf4 Ke6 39.
+Kg5 Ke5 40. f4+ Ke4 41. Kxh5 Kf3 42. Kh4 Ke3 43. Kg5 Ke4 44. b3 Kf3 45. Kxf5
+Kxg3 46. Ke5 1-0

@@ -1,0 +1,17 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Turci, Stefano"]
+[Black "Wagman, Stuart"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "4aff6c08"]
+[Epoch "Queen"]
+[WhiteID "801224"]
+[WhiteCountry "ITA"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Nbd7 4. e3 g6 5. c4 c6 6. Nc3 Bg7 7. Qb3 e6 8. Bd3
+h6 1/2-1/2

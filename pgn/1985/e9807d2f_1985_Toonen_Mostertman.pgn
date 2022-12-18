@@ -1,0 +1,19 @@
+[Event "corr NBC"]
+[Site "corr NBC"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Toonen"]
+[Black "Mostertman"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[HashCode "e9807d2f"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 Nd4 5. Nxe5 Qf6 6. Nf3 Nxb5 7. Nxb5
+fxe4 8. Qe2 Qe7 9. Nxc7+ Kd8 10. Nxa8 exf3 11. gxf3 b6 12. Nxb6 axb6 13. d3
+Bb7 14. Qxe7+ Nxe7 15. Be3 Kc7 16. Ke2 Nf5 17. Rhg1 Bd6 18. f4 g6 19. Kd2
+Rf8 20. a4 Nh4 21. Rg4 Ng2 22. f3 Nxf4 23. a5 bxa5 24. Rxa5 h5 25. Rgg5 Rf6
+26. Bd4 Re6 27. Rae5 Ba6 28. Rxe6 Nxe6 29. Rxg6 Bxh2 30. Be3 Bc8 1/2-1/2
+

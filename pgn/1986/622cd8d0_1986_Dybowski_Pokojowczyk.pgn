@@ -1,0 +1,20 @@
+[Event "POL-ch"]
+[Site "Bytom"]
+[Date "1986.01.01"]
+[Round "4"]
+[White "Dybowski, Jerzy"]
+[Black "Pokojowczyk, Jerzy"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[HashCode "622cd8d0"]
+[Epoch "Queen"]
+[WhiteID "1100610"]
+[BlackID "1100718"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Bb4+ 6. Nfd2 O-O 7. a3 Be7 8. Nc3
+d5 9. cxd5 exd5 10. Bd3 c5 11. O-O Nbd7 12. Rc1 a6 13. Re1 Re8 14. Bb1 Nf8 15.
+dxc5 bxc5 16. e4 Ne6 1/2-1/2

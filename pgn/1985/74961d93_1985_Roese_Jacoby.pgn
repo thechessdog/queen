@@ -1,0 +1,22 @@
+[Event "Bundesliga 8485"]
+[Site "Germany"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Roese, Oliver"]
+[Black "Jacoby, Gisbert"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "74961d93"]
+[Epoch "Queen"]
+[WhiteID "4600630"]
+[BlackID "4604768"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O d6 8. Re1
+Nf6 9. a3 Nbd7 10. Bg5 Be7 11. Qf3 Ne5 12. Qh3 Rc8 13. Rad1 Qb6 14. Nf3 O-O 15.
+Nxe5 dxe5 16. Re3 Bc5 17. Rf3 Ne8 18. Qh5 f6 19. Rh3 fxg5 20. Qxh7+ Kf7 21.
+Bxb5 Nf6 22. Rf3 axb5 23. Rdd3 Be7 24. Qh5+ Kg8 25. Qxg5 Nd5 26. Qxe5 Bf6 27.
+Qh5 Nxc3 28. Rh3 Nxe4 29. Qh7+ Kf7 0-1

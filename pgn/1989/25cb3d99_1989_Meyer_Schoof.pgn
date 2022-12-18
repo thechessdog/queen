@@ -1,0 +1,17 @@
+[Event "RLNN 8990"]
+[Site "RLNN 8990"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Meyer, To"]
+[Black "Schoof, Martin"]
+[Result "1-0"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[HashCode "25cb3d99"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Bc4
+b5 9. Bb3 Bb7 10. Qe2 b4 11. Na4 Bxe4 12. O-O-O Qa5 13. Rhe1 Be7 14. Bxf6 Nxf6
+15. g4 d5 16. f5 O-O 17. fxe6 Bd6 18. Kb1 fxe6 19. Nxe6 Rfe8 20. g5 Nd7 21. Qg4
+Ne5 22. Qh3 Nf7 23. Rxe4 dxe4 24. Rd5 1-0

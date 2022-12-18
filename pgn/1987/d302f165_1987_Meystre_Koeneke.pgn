@@ -1,0 +1,22 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Meystre, G."]
+[Black "Koeneke, O."]
+[Result "0-1"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[HashCode "d302f165"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 Nc6
+8. a3 b6 9. Nb5 a6 10. Bc7 Qe7 11. b4 axb5 12. bxc5 Qxc5 13. Qd1 Ne8 14.
+Bxb6 Qxb6 15. cxb5 Qa5+ 16. Qd2 Qxd2+ 17. Kxd2 Na5 18. Kc3 Nf6 19. Bd3 Bb7
+20. f3 Rfc8+ 21. Kb2 Nc4+ 22. Bxc4 Rxc4 23. Ne2 Rac8 24. Rhc1 Rxc1 25. Rxc1
+Rxc1 26. Nxc1 Nd5 27. e4 Nb6 28. Kc3 d5 29. exd5 Bxd5 30. Kd4 Kf8 31. Kc5
+Nc4 32. a4 Ke7 33. b6 Kd7 34. Nd3 Na5 35. Kb5 Bc4+ 36. Kxa5 Bxd3 37. Kb4
+Kc6 38. a5 Ba6 39. f4 h5 40. g3 f6 41. h3 e5 42. fxe5 fxe5 43. g4 hxg4 44.
+hxg4 e4 45. Kc3 Kd5 46. Kd2 Kd4 47. g5 e3+ 48. Kd1 e2+ 49. Ke1 Kd3 0-1
+

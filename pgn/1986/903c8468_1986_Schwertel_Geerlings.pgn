@@ -1,0 +1,18 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Schwertel, G."]
+[Black "Geerlings, G."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "903c8468"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. e3 h6 5. Bxf6 exf6 6. Qf3 Bd6 7. Bd3 Be6
+8. Nge2 Qd7 9. h3 Na6 10. a3 Nc7 11. O-O O-O 12. Ng3 Rfe8 13. Rfe1 Bf8 14.
+Rad1 Re7 15. Nce2 Ne8 16. e4 g6 17. Nf4 dxe4 18. Bxe4 f5 19. Bd3 Bg7 20. c3
+Bb3 21. Rxe7 Qxe7 22. Rd2 Qe1+ 23. Nf1 Nf6 24. Re2 Qc1 25. Kh2 g5 26. Nh5
+Nxh5 27. Qxh5 Bd1 0-1
+

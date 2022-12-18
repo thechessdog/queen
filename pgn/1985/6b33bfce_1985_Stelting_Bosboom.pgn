@@ -1,0 +1,24 @@
+[Event "Kopenhagen open"]
+[Site "Kopenhagen open"]
+[Date "1985.01.01"]
+[Round "3"]
+[White "Stelting, Thorsten"]
+[Black "Bosboom, Manuel"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "6b33bfce"]
+[Epoch "Queen"]
+[WhiteID "4605616"]
+[WhiteCountry "GER"]
+[BlackID "1000080"]
+[BlackCountry "NED"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Ba4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Bg4 12. Bf4 Nc5 13. Bc2 d4 14. h3 Bh5 15.
+Nb3 dxc3 16. bxc3 Na4 17. Nbd4 Nxd4 18. cxd4 Nb6 19. Be3 Nd5 20. Rc1 b4 21. Bb3
+Nc3 22. Qd3 Bg6 23. Qc4 Be4 24. Rxc3 bxc3 25. d5 Bxf3 26. gxf3 Qd7 27. Qxc3
+Qxh3 28. Bf4 h5 29. Qd3 Rab8 30. Bd2 Rb6 31. Rc1 Rg6+ 32. Qxg6 fxg6 33. d6+ Kh7
+34. dxe7 Re8 35. Rxc7 Qxf3 36. Be3 h4 37. Rc4 g5 38. Bc2+ Kg8 39. Bc5 h3 40.
+Be4 Qg4+ 41. Kh1 Qe6 42. Rc2 Qxe5 43. f3 0-1

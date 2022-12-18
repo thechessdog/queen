@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Strausz"]
+[Black "Van Rein"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "0b91a9b8"]
+[Epoch "Queen"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 f6 8. Be2
+fxe5 9. Nxe5 Nxe5 10. dxe5 Bc5 11. O-O Nh6 12. Bh5+ g6 13. Nxc4 dxc4 14.
+Bxh6 gxh5 15. Bg7 Rg8 16. Qxh5+ Kd8 17. Rad1+ Bd7 18. Qf7 1-0
+

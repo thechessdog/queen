@@ -1,0 +1,17 @@
+[Event "corr ICCF TT"]
+[Site "corr ICCF TT"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jankowski, J."]
+[Black "Jeuthe, H."]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "dabb2ec9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. h3 Nxe4 9. Nxe4 d5 10. Nb5 a6 11. Bxd5 axb5 12. O-O e6 13. Bb3 Bxb2 14.
+Qxd8 Rxd8 15. Rad1 Rxd1 16. Rxd1 Nc6 17. Nc5 Kg7 18. Ne4 Ne7 1/2-1/2
+

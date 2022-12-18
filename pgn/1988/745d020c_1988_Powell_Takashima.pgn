@@ -1,0 +1,21 @@
+[Event "Thessaloniki"]
+[Site "Thessaloniki"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Powell"]
+[Black "Takashima"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "745d020c"]
+[Epoch "Queen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. Nc3 Bf5 7. d3 h6 8.
+Nge4 Bb4 9. O-O O-O 10. a3 Ba5 11. b4 Bb6 12. Nxf6+ Qxf6 13. Ne4 Qg6 14. c3
+Bg4 15. Qa4 Bf3 16. Ng3 Ne2+ 17. Kh1 Qg4 18. Bb2 Nf4 19. Rg1 h5 20. d4 h4
+21. Bf1 Nh3 22. gxf3 Qxf3+ 23. Rg2 Nxf2+ 24. Kg1 Nh3+ 25. Kh1 hxg3 26. hxg3
+Rad8 27. Qc2 exd4 28. cxd4 Rfe8 29. Kh2 Ng5 30. Be2 Qxd5 31. Rf1 Rd6 32.
+Bg4 Rh6+ 33. Kg1 Bxd4+ 34. Bxd4 Qxd4+ 35. Qf2 Qxg4 36. Rh2 Rxh2 37. Kxh2
+Re2 0-1
+

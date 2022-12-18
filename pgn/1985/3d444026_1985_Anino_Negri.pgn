@@ -1,0 +1,17 @@
+[Event "Mar del Plata op"]
+[Site "Mar del Plata op"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Anino, S."]
+[Black "Negri"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "3d444026"]
+[Epoch "Queen"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Ne5 Nxe5 9. Bxe5 Nd7 10. Qb3 Qc8 11. Be2 a6 12. O-O Nxe5 13. dxe5 Qb8 14.
+e4 Bxe4 15. Nxe4 dxe4 16. Bb5+ 1-0
+

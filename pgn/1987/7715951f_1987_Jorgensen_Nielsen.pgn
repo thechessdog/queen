@@ -1,0 +1,15 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Jorgensen, Claus B."]
+[Black "Nielsen, Poul Erik"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "7715951f"]
+[Epoch "Queen"]
+[WhiteID "1423690"]
+
+1. d4 e6 2. Nf3 a6 3. e4 b5 4. Bd3 Bb7 5. O-O c5 6. c3 cxd4 7. cxd4 Nf6 8. Re1
+Nc6 0-1

@@ -1,0 +1,19 @@
+[Event "Belfort open"]
+[Site "Belfort open"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Thorsteins, Karl"]
+[Black "Adrian, Claude"]
+[Result "1-0"]
+[ECO "A57"]
+[Opening "Benko gambit half accepted"]
+[HashCode "7566e3c8"]
+[Epoch "Queen"]
+[WhiteID "2300060"]
+[WhiteCountry "ISL"]
+[BlackID "601071"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. Nf3 O-O 8. a4 Bb7
+9. Ra3 e6 10. dxe6 fxe6 11. Qd6 Qc8 12. Be2 Ne8 13. Qg3 d5 14. Ng5 h6 15. Nf3
+d4 16. Na2 Be4 17. exd4 cxd4 18. O-O Nd7 19. Qh4 Qc2 20. Bd1 Qb1 21. Nd2 1-0

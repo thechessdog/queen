@@ -1,0 +1,23 @@
+[Event "Szekszard"]
+[Site "Szekszard"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Csulits, Anton"]
+[Black "Hegedus, Gyorgy"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "af392d21"]
+[Epoch "Queen"]
+[WhiteID "4611705"]
+[BlackID "717720"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 e6 5. O-O Nbd7 6. b3 Bd6 7. c4 O-O 8. Ba3
+Bxa3 9. Nxa3 Qe7 10. Nc2 e5 11. cxd5 e4 12. d6 Qxd6 13. Nd2 Re8 14. Nc4 Qe7 15.
+N2e3 Nb6 16. Qc2 Nfd5 17. Rfd1 Nxe3 18. Nxe3 Nd5 19. Nxd5 cxd5 20. Qc5 Qe6 21.
+e3 Bd7 22. Rdc1 Rec8 23. Qa3 a6 24. Qb4 Rxc1+ 25. Rxc1 Bc6 26. Bf1 g5 27. Qb6
+h5 28. b4 h4 29. a4 hxg3 30. hxg3 Bxa4 31. Qxb7 Re8 32. Qxa6 Bd7 33. Qxe6 Bxe6
+34. Ba6 Rb8 35. b5 Kf8 36. Rc7 Ke8 37. Bb7 Kd8 38. b6 Bd7 39. Kf1 Bc8 40. Bxc8
+Rxb6 41. Rc5 1-0

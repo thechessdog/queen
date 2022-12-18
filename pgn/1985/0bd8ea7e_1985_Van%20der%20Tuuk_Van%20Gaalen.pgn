@@ -1,0 +1,20 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Van der Tuuk, Jaap"]
+[Black "Van Gaalen, Bas"]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "0bd8ea7e"]
+[Epoch "Queen"]
+[WhiteID "1018868"]
+[WhiteCountry "NED"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3
+Be7 9. Qf3 Nbd7 10. O-O-O Qc7 11. g4 h6 12. Bxf6 Bxf6 13. Rd3 g5 14. e5 Be7 15.
+exd6 Bxd6 16. fxg5 Ne5 17. Qe4 Nxd3+ 18. Bxd3 hxg5 19. Nd5 Qd8 20. Rf1 Bxh2 21.
+Qd4 Bf4+ 22. Kb1 Rh4 23. Nf6+ Ke7 24. Qc3 Qc7 25. Nc5 b6 26. Qe1 Qxc5 27. Rxf4
+gxf4 28. b4 Qg5 29. Nd5+ Kf8 0-1

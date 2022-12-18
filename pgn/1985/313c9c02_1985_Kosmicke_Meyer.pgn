@@ -1,0 +1,19 @@
+[Event "Iowa"]
+[Site "Iowa"]
+[Date "1985.01.01"]
+[Round "1"]
+[White "Kosmicke"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "313c9c02"]
+[Epoch "Queen"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e5 5. Nf3 Nc6 6. Bb5 d6 7. Qe2 a6 8. Bc4
+Nf6 9. O-O Bg4 10. h3 Nd4 11. Qd3 Nxf3+ 12. gxf3 Bxh3 13. Rd1 Qb6 14. Nd5 Nxd5
+15. Qxd5 Be6 16. Qd3 Be7 17. Bxe6 fxe6 18. b3 O-O 19. Be3 Rxf3 20. Bxb6 Rxd3
+21. Rxd3 Rf8 22. Bc7 Rf4 23. Bxd6 Bxd6 24. Rxd6 Rxe4 25. Rxe6 1-0

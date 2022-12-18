@@ -1,0 +1,19 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Bassi"]
+[Black "Pantaleoni, Claudio"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "9da5ff59"]
+[Epoch "Queen"]
+[BlackID "800945"]
+[BlackCountry "ITA"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nh3 e6 7. O-O Rb8 8. a4 Nd4
+9. f4 Ne7 10. Be3 O-O 11. Qd2 Qa5 12. Nd5 Nxd5 13. Qxa5 Nxe3 14. g4 b6 15. Qd2
+Ndxc2 16. Bf3 f5 17. exf5 exf5 18. Bd5+ Kh8 19. Kh1 Nxd5 20. Qxc2 Bb7 21. Kg1
+fxg4 22. Nf2 Bd4 23. Rae1 Nxf4 24. Re4 Nh3+ 25. Kg2 Nxf2 0-1

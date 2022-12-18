@@ -1,0 +1,16 @@
+[Event "NWL-II 8687"]
+[Site "NWL-II 8687"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Kojtka, W."]
+[Black "Schlenga, Klaus"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "06ae4b4c"]
+[Epoch "Queen"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb3 Bg7 9. Nge2 O-O 10. O-O Nc6 11. Be3 Na5 12. Bc2 Bg4 13. f3 Be6 14. b3 Rc8
+15. Rc1 Nd5 16. Nxd5 Bxd5 17. Qd2 Nc6 18. Be4 e6 19. Rfd1 Re8 1/2-1/2

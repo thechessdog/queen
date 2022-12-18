@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Carlsson, N."]
+[Black "Carlsson, Michael"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "fd3f0703"]
+[Epoch "Queen"]
+[BlackID "1734008"]
+[BlackCountry "SWE"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. Be3
+e5 9. dxe5 dxe5 10. h3 exf4 11. Bc5 Bxf3 12. Qxf3 Nh5 13. Bxf8 Bxf8 14. Bb5
+Bc5+ 15. Kh2 Ne5 16. Qd1 Qh4 17. Be2 f3 0-1

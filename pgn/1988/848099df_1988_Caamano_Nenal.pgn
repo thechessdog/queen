@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Caamano"]
+[Black "Nenal"]
+[Result "0-1"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[HashCode "848099df"]
+[Epoch "Queen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8.
+Bb5 Nd7 9. Ne2 e5 10. c3 Qe7 11. Ng3 exd4 12. Bxc6 bxc6 13. cxd4 c5 14. Be3
+Rfb8 15. Qd2 Nf6 16. f5 Nxe4 17. Nxe4 Qxe4 18. Ng5 Qxe3+ 19. Qxe3 Bxd4 20.
+Qxd4 cxd4 21. fxg6 fxg6 22. Rf4 Be2 23. Rxd4 Rxb2 24. Rc1 c5 25. Rxd6 Rc8
+26. Rd7 Bb5 27. Rxa7 Bc6 28. Nf3 Bxf3 29. gxf3 Rd8 30. a4 Rdd2 31. h4 c4
+32. Rc7 Rg2+ 33. Kh1 Rh2+ 34. Kg1 Rbg2+ 35. Kf1 Ra2 36. Kg1 Rxh4 37. Rd1
+Rf4 0-1
+

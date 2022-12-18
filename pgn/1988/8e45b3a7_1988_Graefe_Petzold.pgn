@@ -1,0 +1,20 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1988.01.01"]
+[Round "1"]
+[White "Graefe, E."]
+[Black "Petzold, V."]
+[Result "0-1"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[HashCode "8e45b3a7"]
+[Epoch "Queen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Nb3 Nbd7 9. Qf3 Qc7 10. Bd3 Be7 11. Bh4 b5 12. a3 Bb7 13. O-O e5 14. f5 Rc8
+15. Bf2 O-O 16. Nd5 Nxd5 17. exd5 Nf6 18. Be4 Nxe4 19. Qxe4 Qxc2 20. Qf3 e4
+21. Qd1 Bf6 22. Bd4 Bxd4+ 23. Nxd4 Qxd1 24. Raxd1 Rc5 25. Nb3 Rc2 26. Rf2
+Rfc8 27. Rxc2 Rxc2 28. Nd4 Rxb2 29. Rc1 h6 30. Nc6 Rd2 31. Re1 Bxc6 32.
+dxc6 Rc2 33. Rxe4 Rxc6 34. a4 Kf8 35. axb5 axb5 36. Kf2 Rc5 0-1
+

@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Jackson, Sheila"]
+[Black "Akin, R."]
+[Result "1-0"]
+[ECO "E83"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 6...Nc6"]
+[HashCode "9df3973e"]
+[Epoch "Queen"]
+[WhiteID "402508"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+Rb8 9. g4 e5 10. d5 Nd4 11. Qf2 c5 12. Nge2 b5 13. Ng3 bxc4 14. Bxc4 Qb6 15. h4
+Bxg4 16. Bxd4 Bh6+ 17. Kb1 Bxf3 18. Na4 Qb4 19. Qxf3 Qxc4 20. Qxf6 exd4 21. Nf5
+1-0

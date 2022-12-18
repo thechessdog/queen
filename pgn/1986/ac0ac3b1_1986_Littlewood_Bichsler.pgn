@@ -1,0 +1,24 @@
+[Event "Winterthur"]
+[Site "Winterthur"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Littlewood"]
+[Black "Bichsler"]
+[Result "1-0"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "ac0ac3b1"]
+[Epoch "Queen"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4
+8. e3 Be6 9. Be2 O-O 10. O-O h6 11. Rb1 b6 12. Nd2 c6 13. Bxc4 Bxc4 14.
+Nxc4 Nd7 15. Qf3 Rc8 16. Rfd1 Qe8 17. Rbc1 Nf6 18. e4 Qd7 19. Ne5 Qe6 20.
+Bg3 Nh5 21. d5 cxd5 22. exd5 Qf6 23. Nc6 Nxg3 24. Qxg3 Rfe8 25. c4 Qg5 26.
+Nxa7 Qxg3 27. hxg3 Ra8 28. Nc6 Rxa2 29. Rb1 Ra4 30. Rdc1 Ra6 31. Rb5 Bf8
+32. Nb4 Ra4 33. Rxb6 e6 34. c5 exd5 35. Nxd5 Rc8 36. c6 Rd4 37. Rb5 Bd6 38.
+c7 Rxd5 39. Rxd5 Rxc7 40. Rxc7 Bxc7 41. g4 Bf4 42. Kf1 Kg7 43. Ke2 Kf6 44.
+Kd3 Ke6 45. Ke4 Bb8 46. Ra5 Kf6 47. Ra8 Bc7 48. Rc8 Ba5 49. Rc6+ Ke7 50.
+Ke5 Bd8 51. f4 Ba5 52. f5 Kd7 53. Rc4 Ke7 54. Rc5 Be1 55. fxg6 fxg6 56.
+Rc7+ 1-0
+

@@ -1,0 +1,17 @@
+[Event "corr DDR"]
+[Site "corr DDR"]
+[Date "1987.01.01"]
+[Round "1"]
+[White "Schulz, Klaus-Juergen"]
+[Black "Engel"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "d3645ea9"]
+[Epoch "Queen"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O Nf6 8.
+Qe2 Be7 9. Rd1 e5 10. h3 O-O 11. Be3 Be6 12. Bxe6 fxe6 13. Rac1 Rc8 14. b4 a6
+15. a3 b5 16. Qa2 Qd7 17. Bc5 Kh8 18. a4 bxa4 19. Ng5 d5 20. Nxa4 Nxb4 21. Qd2
+Rb8 22. Nb6 Qb7 23. Qxb4 Bxc5 24. Rxc5 Qxb6 25. Qc3 h6 26. Rc6 Qxf2+ 0-1

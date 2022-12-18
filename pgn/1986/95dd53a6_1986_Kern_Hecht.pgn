@@ -1,0 +1,16 @@
+[Event "corr BdF"]
+[Site "corr BdF"]
+[Date "1986.01.01"]
+[Round "1"]
+[White "Kern, H."]
+[Black "Hecht, Hans-Joachim"]
+[Result "0-1"]
+[ECO "E20"]
+[Opening "Nimzo-Indian defence"]
+[HashCode "95dd53a6"]
+[Epoch "Queen"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. e3 d5 6. Rc1 c5 7. Nf3 Nc6 8. dxc5
+Bxc5 9. cxd5 exd5 10. Bb5 d4 11. Na4 dxe3 12. Rxc5 exd2+ 13. Qxd2 Re8+ 14. Kd1
+Ne4 15. Qxd8 Rxd8+ 16. Kc1 Nxc5 17. Bxc6 Nd3+ 0-1

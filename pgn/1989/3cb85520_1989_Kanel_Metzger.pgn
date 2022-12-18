@@ -1,0 +1,17 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Kaenel, Hansjuerg"]
+[Black "Metzger"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "3cb85520"]
+[Epoch "Queen"]
+
+1. Nf3 Nc6 2. d4 d5 3. g3 Bg4 4. Nbd2 Qd7 5. c3 f6 6. h3 Bf5 7. b4 a6 8. Nh4 e5
+9. Nxf5 Qxf5 10. e3 exd4 11. exd4 Bxb4 12. cxb4 Nxd4 13. Qg4 Nc2+ 14. Kd1 Qxg4+
+15. hxg4 Nxa1 16. Bb2 a5 17. b5 Nh6 18. f3 Nf7 19. Bd3 Nd6 20. g5 Ke7 21. gxf6+
+gxf6 22. Rh6 Raf8 23. Bxa1 Rf7 24. Nf1 Rg8 25. Ke2 f5 26. Kf2 Rg6 27. Rh5 c6
+28. bxc6 bxc6 29. Bd4 Ke6 30. Ke3 Nb7 31. Kf4 Rg8 32. Bxf5+ Ke7 33. Ne3 1-0

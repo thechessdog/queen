@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Larsen, Bent Ravn"]
+[Black "Jensen, Niels"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit"]
+[Variation "Maroczy gambit"]
+[HashCode "e2cc3611"]
+[Epoch "Queen"]
+[WhiteID "1430670"]
+[WhiteCountry "DNK"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 Bd6 4. d3 f5 5. Bg5 Nf6 6. Nbd2 O-O 7. Be2 Nbd7 8.
+O-O Nb6 9. c4 c6 10. dxc6 bxc6 11. Qc2 c5 12. b4 cxb4 13. c5 Qc7 14. Qb3+ Kh8
+15. cxb6 Qxb6 16. Nc4 Qc5 17. a3 Rb8 18. Be3 Qc7 19. Nxd6 bxa3 20. Qxa3 1-0

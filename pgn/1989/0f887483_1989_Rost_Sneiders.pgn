@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1989.01.01"]
+[Round "1"]
+[White "Rost"]
+[Black "Sneiders"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "0f887483"]
+[Epoch "Queen"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Be2 d6 6. O-O dxe5 7. Nxe5 Bc5+
+8. Kh1 Ng3+ 9. hxg3 fxg3 10. d4 Qh4+ 0-1
+
